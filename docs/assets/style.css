@@ -224,6 +224,9 @@ footer.site-footer {
   border-top: 1px solid var(--border);
 }
 footer.site-footer .updated { display: block; margin-top: 6px; font-size: 0.78rem; opacity: 0.8; }
+footer.site-footer .footer-links { display: block; margin-top: 10px; }
+footer.site-footer .footer-links a { color: var(--brand); text-decoration: none; }
+footer.site-footer .footer-links a:hover { text-decoration: underline; }
 .empty-state {
   text-align: center;
   color: var(--muted);

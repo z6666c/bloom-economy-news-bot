@@ -14,7 +14,14 @@ from site_generator import build_site, load_articles
 def main() -> None:
     cfg = load_config()
     articles = load_articles(ARTICLES_FILE)
-    build_site(cfg.site_output_dir, cfg.site_title, articles, cfg.categories)
+    build_site(
+        cfg.site_output_dir,
+        cfg.site_title,
+        articles,
+        cfg.categories,
+        enable_adsense=cfg.enable_adsense,
+        adsense_client_id=cfg.adsense_client_id,
+    )
     print(f"[+] تم إعادة بناء الموقع ({len(articles)} مقال) في: {cfg.site_output_dir}")
 
 

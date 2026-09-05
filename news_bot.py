@@ -221,7 +221,14 @@ def publish_to_static_site(cfg: Config, article: Dict) -> bool:
         return True  # غير مفعّل — لا يُعتبر فشلاً
     try:
         articles = site_generator.save_article(ARTICLES_FILE, article)
-        site_generator.build_site(cfg.site_output_dir, cfg.site_title, articles, cfg.categories)
+        site_generator.build_site(
+            cfg.site_output_dir,
+            cfg.site_title,
+            articles,
+            cfg.categories,
+            enable_adsense=cfg.enable_adsense,
+            adsense_client_id=cfg.adsense_client_id,
+        )
         log.info("أُضيف للموقع الساكن بنجاح: %s", article["title"])
         return True
     except Exception as e:

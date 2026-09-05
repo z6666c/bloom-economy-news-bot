@@ -46,6 +46,12 @@ jobs:
           SITE_TITLE: ${{ vars.SITE_TITLE || 'BloomEconomy — أخبار اقتصادية' }}
           SITE_BASE_URL: ${{ vars.SITE_BASE_URL || 'https://z6666c.github.io/bloom-economy-news-bot/' }}
 
+          # إعلانات جوجل AdSense (اختياري — معطّل حتى تُفعّله بعد قبول حسابك)
+          # فعّله بإضافة Variable باسم ENABLE_ADSENSE بقيمة true و ADSENSE_CLIENT_ID
+          # بمعرّف ناشرك (ca-pub-...) من: Settings → Secrets and variables → Actions → Variables
+          ENABLE_ADSENSE: ${{ vars.ENABLE_ADSENSE || 'false' }}
+          ADSENSE_CLIENT_ID: ${{ vars.ADSENSE_CLIENT_ID }}
+
           # ووردبريس (اختياري — معطّل افتراضياً)
           ENABLE_WORDPRESS: ${{ vars.ENABLE_WORDPRESS || 'false' }}
           WP_BASE_URL: ${{ secrets.WP_BASE_URL }}

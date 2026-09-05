@@ -96,6 +96,25 @@ https://github.com/settings/tokens إن لم يكن لديك توكن بهما).
 launchctl unload ~/Library/LaunchAgents/com.bloomeconomy.newsbot.plist
 ```
 
+## تفعيل إعلانات جوجل (AdSense)
+
+الموقع جاهز لعرض إعلانات AdSense (كود "Auto ads" + ملف `ads.txt` + صفحتا "من
+نحن" و"سياسة الخصوصية" المطلوبتان للقبول) — لكنه **معطّل افتراضياً** حتى يكون
+لديك حساب AdSense مقبول فعلياً (التسجيل خطوة يجب أن تقوم بها أنت شخصياً على
+https://www.google.com/adsense — لا يمكن لأي أداة آلية إنشاء الحساب نيابة
+عنك). بعد القبول والحصول على معرّف الناشر (يبدأ بـ `ca-pub-`):
+
+**محلياً:** عدّل `.env`:
+```
+ENABLE_ADSENSE=true
+ADSENSE_CLIENT_ID=ca-pub-xxxxxxxxxxxxxxxx
+```
+ثم `bash rebuild_and_push.sh` لتفعيله فوراً على كل الصفحات.
+
+**عبر GitHub Actions:** أضف Variable (وليس Secret، لأن المعرّف يظهر أصلاً في
+كود الصفحة) من: `Settings → Secrets and variables → Actions → Variables tab`
+باسم `ENABLE_ADSENSE` بقيمة `true`، وباسم `ADSENSE_CLIENT_ID` بمعرّف ناشرك.
+
 ## تحديث الموقع فوراً بعد تعديل التصميم
 
 إذا عدّلت تصميم `site_generator.py` وتريد رؤية النتيجة فوراً على كل الأخبار

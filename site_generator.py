@@ -273,6 +273,9 @@ footer.site-footer {
   border-top: 1px solid var(--border);
 }
 footer.site-footer .updated { display: block; margin-top: 6px; font-size: 0.78rem; opacity: 0.8; }
+footer.site-footer .footer-links { display: block; margin-top: 10px; }
+footer.site-footer .footer-links a { color: var(--brand); text-decoration: none; }
+footer.site-footer .footer-links a:hover { text-decoration: underline; }
 .empty-state {
   text-align: center;
   color: var(--muted);
@@ -300,7 +303,7 @@ PAGE_TEMPLATE = """<!doctype html>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{css_path}">
-</head>
+{adsense_tag}</head>
 <body>
 <header class="site-header">
   <div class="wrap">
@@ -316,10 +319,51 @@ PAGE_TEMPLATE = """<!doctype html>
 <footer class="site-footer">
   موقع أخبار مؤتمت — يُحدَّث تلقائياً بواسطة الذكاء الاصطناعي من مصادر اقتصادية عالمية.
   <span class="updated">آخر تحديث: {updated_at}</span>
+  <div class="footer-links">
+    <a href="{about_path}">من نحن</a> · <a href="{privacy_path}">سياسة الخصوصية</a>
+  </div>
 </footer>
 </body>
 </html>
 """
+
+# يُدرج فقط عند تفعيل ENABLE_ADSENSE — سكربت "Auto ads" الأساسي من جوجل، الذي
+# يختار أماكن الإعلانات تلقائياً دون الحاجة لتحديد كل موضع يدوياً في القالب
+ADSENSE_SCRIPT = (
+    '<script async src="https://pagead2.googlesyndication.com/pagead/js/'
+    'adsbygoogle.js?client={client_id}" crossorigin="anonymous"></script>\n'
+)
+
+ABOUT_BODY = """
+    <article class="full">
+      <h1>من نحن</h1>
+      <div class="content">
+        <p>{site_title} موقع إخباري اقتصادي مؤتمت بالكامل: يراقب خلاصات RSS
+        من مصادر اقتصادية عالمية، ثم يعيد صياغة وترجمة الأخبار إلى العربية
+        وتصنيفها عبر نماذج الذكاء الاصطناعي، قبل نشرها هنا تلقائياً دون تدخل
+        بشري في المحتوى.</p>
+        <p>هدف الموقع هو تسهيل متابعة آخر التطورات الاقتصادية والمالية
+        العالمية بالعربية في مكان واحد. المحتوى يُنشأ آلياً بالكامل ونعمل
+        باستمرار على تحسين دقته وجودته.</p>
+      </div>
+    </article>"""
+
+PRIVACY_BODY = """
+    <article class="full">
+      <h1>سياسة الخصوصية</h1>
+      <div class="content">
+        <p>لا يجمع هذا الموقع أي بيانات شخصية مباشرة منك، ولا يطلب تسجيل
+        دخول أو معلومات اتصال لتصفح محتواه.</p>
+        <p>قد تُستخدم ملفات تعريف الارتباط (Cookies) من قِبل شركاء إعلانيين
+        خارجيين (مثل Google) لعرض إعلانات مناسبة لك بناءً على زياراتك لهذا
+        الموقع أو مواقع أخرى. يمكنك التحكم بإعدادات الإعلانات المخصّصة من
+        <a href="https://adssettings.google.com" target="_blank" rel="noopener">
+        إعدادات إعلانات جوجل</a>.</p>
+        <p>هذا الموقع مؤتمت بالكامل ومحتواه يُنشأ بواسطة الذكاء الاصطناعي من
+        مصادر إخبارية عامة، ولا يتحمل مسؤولية أي قرارات مالية تُبنى على
+        محتواه — راجع دائماً مصادر رسمية قبل اتخاذ أي قرار استثماري.</p>
+      </div>
+    </article>"""
 
 
 def slugify(entry_id: str, title: str) -> str:
@@ -410,7 +454,14 @@ def save_article(path: str, article: Dict) -> List[Dict]:
     return articles
 
 
-def build_site(output_dir: str, site_title: str, articles: List[Dict], categories: List[Dict]) -> None:
+def build_site(
+    output_dir: str,
+    site_title: str,
+    articles: List[Dict],
+    categories: List[Dict],
+    enable_adsense: bool = False,
+    adsense_client_id: str = "",
+) -> None:
     os.makedirs(output_dir, exist_ok=True)
     os.makedirs(os.path.join(output_dir, "articles"), exist_ok=True)
     os.makedirs(os.path.join(output_dir, "category"), exist_ok=True)
@@ -422,8 +473,17 @@ def build_site(output_dir: str, site_title: str, articles: List[Dict], categorie
     with open(os.path.join(output_dir, "assets", "style.css"), "w", encoding="utf-8") as f:
         f.write(CSS)
 
+    # إعلانات جوجل (AdSense) — تُدرج فقط إن كانت مفعّلة ومعها معرّف ناشر صالح
+    adsense_tag = ""
+    if enable_adsense and adsense_client_id:
+        adsense_tag = ADSENSE_SCRIPT.format(client_id=_esc(adsense_client_id))
+        with open(os.path.join(output_dir, "ads.txt"), "w", encoding="utf-8") as f:
+            f.write(f"google.com, {adsense_client_id}, DIRECT, f08c47fec0942fa0\n")
+
     updated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    common = dict(favicon=FAVICON_SVG, updated_at=updated_at)
+    common = dict(favicon=FAVICON_SVG, updated_at=updated_at, adsense_tag=adsense_tag)
+    common_root = dict(common, about_path="about.html", privacy_path="privacy.html")
+    common_nested = dict(common, about_path="../about.html", privacy_path="../privacy.html")
 
     # الصفحة الرئيسية — قصة بارزة أعلى الصفحة، ثم أقسام حسب الفئة
     if articles:
@@ -454,10 +514,39 @@ def build_site(output_dir: str, site_title: str, articles: List[Dict], categorie
         site_title=_esc(site_title),
         nav_links=_nav_links(categories),
         body=body,
-        **common,
+        **common_root,
     )
     with open(os.path.join(output_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(index_html)
+
+    # صفحتا "من نحن" و"سياسة الخصوصية" — ثابتتان، مطلوبتان لقبول AdSense
+    about_html = PAGE_TEMPLATE.format(
+        title=f"من نحن — {site_title}",
+        description="نبذة عن الموقع وكيفية عمله",
+        og_type="website",
+        css_path="assets/style.css",
+        home_path="index.html",
+        site_title=_esc(site_title),
+        nav_links=_nav_links(categories),
+        body=ABOUT_BODY.format(site_title=_esc(site_title)),
+        **common_root,
+    )
+    with open(os.path.join(output_dir, "about.html"), "w", encoding="utf-8") as f:
+        f.write(about_html)
+
+    privacy_html = PAGE_TEMPLATE.format(
+        title=f"سياسة الخصوصية — {site_title}",
+        description="سياسة الخصوصية والإعلانات",
+        og_type="website",
+        css_path="assets/style.css",
+        home_path="index.html",
+        site_title=_esc(site_title),
+        nav_links=_nav_links(categories),
+        body=PRIVACY_BODY,
+        **common_root,
+    )
+    with open(os.path.join(output_dir, "privacy.html"), "w", encoding="utf-8") as f:
+        f.write(privacy_html)
 
     # صفحات المقالات
     for article in articles:
@@ -479,7 +568,7 @@ def build_site(output_dir: str, site_title: str, articles: List[Dict], categorie
             site_title=_esc(site_title),
             nav_links=_nav_links(categories, relative_prefix="../"),
             body=article_body,
-            **common,
+            **common_nested,
         )
         with open(os.path.join(output_dir, "articles", f"{article['slug']}.html"), "w", encoding="utf-8") as f:
             f.write(article_html)
@@ -502,7 +591,7 @@ def build_site(output_dir: str, site_title: str, articles: List[Dict], categorie
             site_title=_esc(site_title),
             nav_links=_nav_links(categories, relative_prefix="../"),
             body=body,
-            **common,
+            **common_nested,
         )
         with open(os.path.join(output_dir, "category", f"{cat['key']}.html"), "w", encoding="utf-8") as f:
             f.write(cat_html)

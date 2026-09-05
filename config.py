@@ -53,6 +53,10 @@ class Config:
     site_base_url: str = ""
     site_output_dir: str = DEFAULT_SITE_OUTPUT_DIR
 
+    # إعلانات جوجل AdSense (اختياري — معطّل افتراضياً حتى تحصل على حساب مقبول)
+    enable_adsense: bool = False
+    adsense_client_id: str = ""
+
     # ووردبريس (اختياري — مُعطّل افتراضياً لمن لا يملك موقع ووردبريس)
     enable_wordpress: bool = False
     wp_base_url: str = ""
@@ -116,6 +120,8 @@ def load_config() -> Config:
         site_title=os.getenv("SITE_TITLE", "BloomEconomy — أخبار اقتصادية"),
         site_base_url=os.getenv("SITE_BASE_URL", ""),
         site_output_dir=os.getenv("SITE_OUTPUT_DIR", DEFAULT_SITE_OUTPUT_DIR),
+        enable_adsense=_bool_env("ENABLE_ADSENSE", False),
+        adsense_client_id=os.getenv("ADSENSE_CLIENT_ID", ""),
         enable_wordpress=enable_wordpress,
         wp_base_url=os.getenv("WP_BASE_URL", "").rstrip("/"),
         wp_username=os.getenv("WP_USERNAME", ""),

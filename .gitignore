@@ -1,0 +1,19 @@
+# بيانات حساسة وملفات محلية لا يجب رفعها
+.env
+published_history.json
+*.log
+
+# بايثون
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.eggs/
+*.egg-info/
+
+# نظام التشغيل والمحررات
+.DS_Store
+.vscode/
+.idea/

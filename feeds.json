@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CNBC International",
+    "url": "https://search.cnbc.com/rs/search/view.html?partnerId=2000&keywords=economy&sort=date&output=rss",
+    "category_id": 1
+  },
+  {
+    "name": "OilPrice",
+    "url": "https://oilprice.com/rss/main",
+    "category_id": 2
+  },
+  {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category_id": 3
+  }
+]

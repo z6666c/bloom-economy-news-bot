@@ -4,19 +4,23 @@
 # طلب التوكن كل مرة) حتى يعمل التحديث التلقائي عبر الجدولة (install_schedule.sh)
 # دون تدخل يدوي لاحقاً.
 #
-# شغّله من Terminal الحقيقي على جهازك:
+# شغّله من Terminal الحقيقي على جهازك بإحدى طريقتين:
 #
-#   cd ~/Documents/bloom-economy-news-bot
-#   bash finish_setup.sh
+#   bash finish_setup.sh ghp_xxxxxxxxxxxx     # التوكن كجزء من الأمر مباشرة (موصى به — يتجنب مشاكل اللصق)
+#   bash finish_setup.sh                      # أو بدون توكن، وسيُطلب منك لصقه تفاعلياً
 
 set -euo pipefail
 cd "$(dirname "${BASH_SOURCE[0]}")"
 
 REPO_NAME="bloom-economy-news-bot"
 
-echo "الصق GitHub Personal Access Token (نفسه أو توكن جديد بصلاحية repo):"
-read -rsp "> " GH_TOKEN
-echo
+if [ "${1:-}" != "" ]; then
+  GH_TOKEN="$1"
+else
+  echo "الصق GitHub Personal Access Token (نفسه أو توكن جديد بصلاحية repo):"
+  read -rsp "> " GH_TOKEN
+  echo
+fi
 
 echo "[*] التحقق من التوكن..."
 USER_JSON=$(curl -sS -H "Authorization: token ${GH_TOKEN}" https://api.github.com/user)
@@ -95,4 +99,5 @@ echo "رابط الموقع    : ${SITE_URL}"
 echo "(قد يستغرق ظهور الموقع لأول مرة بضع دقائق بعد التفعيل)"
 echo "================================================================"
 echo
-echo "[!] يُنصح بإلغاء التوكن الآن من: https://github.com/settings/tokens"
+echo "[!] هذا التوكن محفوظ الآن في Keychain جهازك ويُستخدم للرفع التلقائي كل"
+echo "    30 دقيقة — لا تُلغِه إلا إذا كنت تريد إيقاف الرفع التلقائي أو انتهت صلاحيته."

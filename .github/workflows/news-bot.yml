@@ -1,10 +1,10 @@
 name: BloomEconomy News Bot
 
-# يشغّل البوت تلقائياً على خوادم GitHub كل 30 دقيقة — بدون الحاجة لإبقاء
+# يشغّل البوت تلقائياً على خوادم GitHub كل 15 دقيقة — بدون الحاجة لإبقاء
 # جهازك مُشغَّلاً. يمكن أيضاً تشغيله يدوياً من تبويب Actions (زر Run workflow).
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}
 
 # يمنع تداخل تشغيلتين في نفس الوقت (لو استغرقت إحداهما وقتاً أطول من المعتاد)
@@ -37,7 +37,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
 
-          POLL_INTERVAL_MINUTES: "30"
+          POLL_INTERVAL_MINUTES: "15"
           DUPLICATE_SIMILARITY_THRESHOLD: ${{ vars.DUPLICATE_SIMILARITY_THRESHOLD || '0.6' }}
           DUPLICATE_WINDOW_HOURS: ${{ vars.DUPLICATE_WINDOW_HOURS || '48' }}
 

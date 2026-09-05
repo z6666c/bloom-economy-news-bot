@@ -8,8 +8,17 @@ import html
 import json
 import os
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from typing import Dict, List
+
+# توقيت الرياض (UTC+3 طوال العام — لا يوجد توقيت صيفي في السعودية)
+RIYADH_TZ = timezone(timedelta(hours=3))
+
+
+def riyadh_now_str(fmt: str = "%Y-%m-%d %H:%M") -> str:
+    """الوقت الحالي بتوقيت الرياض كنص جاهز للعرض."""
+    return datetime.now(RIYADH_TZ).strftime(fmt)
+
 
 ARTICLES_PER_PAGE = 30
 MAX_STORED_ARTICLES = 500
@@ -480,7 +489,7 @@ def build_site(
         with open(os.path.join(output_dir, "ads.txt"), "w", encoding="utf-8") as f:
             f.write(f"google.com, {adsense_client_id}, DIRECT, f08c47fec0942fa0\n")
 
-    updated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    updated_at = riyadh_now_str() + " (بتوقيت الرياض)"
     common = dict(favicon=FAVICON_SVG, updated_at=updated_at, adsense_tag=adsense_tag)
     common_root = dict(common, about_path="about.html", privacy_path="privacy.html")
     common_nested = dict(common, about_path="../about.html", privacy_path="../privacy.html")

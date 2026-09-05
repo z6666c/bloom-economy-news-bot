@@ -430,7 +430,7 @@ def execute_cycle(cfg: Config, client: OpenAI) -> None:
                 "category_name": category_name,
                 "source_name": feed_info["name"],
                 "source_url": url,
-                "published_at_display": time.strftime("%Y-%m-%d %H:%M"),
+                "published_at_display": site_generator.riyadh_now_str(),
             }
 
             site_ok = publish_to_static_site(cfg, article)

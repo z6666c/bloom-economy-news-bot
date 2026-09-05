@@ -1,7 +1,11 @@
 # بيانات حساسة وملفات محلية لا يجب رفعها
 .env
-published_history.json
+.env.save
 *.log
+
+# ملاحظة: published_history.json (سجل منع التكرار) أصبح يُرفع عمداً إلى
+# GitHub — لأن GitHub Actions يشغّل البوت على خادم مؤقت جديد في كل مرة، وبدون
+# رفع هذا الملف سيفقد البوت ذاكرة الأخبار التي سبق نشرها ويكرر نشرها.
 
 # بايثون
 __pycache__/
@@ -17,5 +21,3 @@ env/
 .DS_Store
 .vscode/
 .idea/
-.env.save
-.env.save

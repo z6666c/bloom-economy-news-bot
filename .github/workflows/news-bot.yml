@@ -1,0 +1,83 @@
+name: BloomEconomy News Bot
+
+# يشغّل البوت تلقائياً على خوادم GitHub كل 30 دقيقة — بدون الحاجة لإبقاء
+# جهازك مُشغَّلاً. يمكن أيضاً تشغيله يدوياً من تبويب Actions (زر Run workflow).
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+# يمنع تداخل تشغيلتين في نفس الوقت (لو استغرقت إحداهما وقتاً أطول من المعتاد)
+concurrency:
+  group: bloomeconomy-news-bot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the news bot (one cycle)
+        env:
+          # إلزامي — أضِفه من: Settings → Secrets and variables → Actions → New repository secret
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
+
+          POLL_INTERVAL_MINUTES: "30"
+          DUPLICATE_SIMILARITY_THRESHOLD: ${{ vars.DUPLICATE_SIMILARITY_THRESHOLD || '0.6' }}
+          DUPLICATE_WINDOW_HOURS: ${{ vars.DUPLICATE_WINDOW_HOURS || '48' }}
+
+          # الموقع الإخباري الساكن (مفعّل افتراضياً)
+          ENABLE_STATIC_SITE: ${{ vars.ENABLE_STATIC_SITE || 'true' }}
+          SITE_TITLE: ${{ vars.SITE_TITLE || 'BloomEconomy — أخبار اقتصادية' }}
+          SITE_BASE_URL: ${{ vars.SITE_BASE_URL || 'https://z6666c.github.io/bloom-economy-news-bot/' }}
+
+          # ووردبريس (اختياري — معطّل افتراضياً)
+          ENABLE_WORDPRESS: ${{ vars.ENABLE_WORDPRESS || 'false' }}
+          WP_BASE_URL: ${{ secrets.WP_BASE_URL }}
+          WP_USERNAME: ${{ secrets.WP_USERNAME }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          POST_STATUS: ${{ vars.POST_STATUS || 'publish' }}
+
+          # تليجرام (اختياري — معطّل افتراضياً)
+          ENABLE_TELEGRAM: ${{ vars.ENABLE_TELEGRAM || 'false' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+          # إشعارات الفشل (اختياري)
+          ENABLE_NOTIFICATIONS: ${{ vars.ENABLE_NOTIFICATIONS || 'false' }}
+          TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
+
+          # منصة X (اختياري — معطّل افتراضياً حتى تكون جاهزاً)
+          ENABLE_X: ${{ vars.ENABLE_X || 'false' }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python3 news_bot.py --once
+
+      - name: Commit and push site updates
+        run: |
+          git config user.name "bloomeconomy-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "[*] لا توجد أخبار جديدة في هذه الدورة."
+          else
+            git commit -m "Auto-publish: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

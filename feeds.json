@@ -5,13 +5,48 @@
     "category_id": 1
   },
   {
+    "name": "MarketWatch",
+    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+    "category_id": 1
+  },
+  {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/rss/news.rss",
+    "category_id": 1
+  },
+  {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/news/rssindex",
+    "category_id": 1
+  },
+  {
+    "name": "Business Insider Markets",
+    "url": "https://markets.businessinsider.com/rss/news",
+    "category_id": 4
+  },
+  {
     "name": "OilPrice",
     "url": "https://oilprice.com/rss/main",
+    "category_id": 2
+  },
+  {
+    "name": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/rss/press_rss.xml",
     "category_id": 2
   },
   {
     "name": "CoinDesk",
     "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
     "category_id": 3
+  },
+  {
+    "name": "CoinTelegraph",
+    "url": "https://cointelegraph.com/rss",
+    "category_id": 3
+  },
+  {
+    "name": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "category_id": 5
   }
 ]

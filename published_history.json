@@ -1,149 +1,5 @@
 [
   {
-    "id": "oilprice-article-45414",
-    "title": "Will We Control AI—or Will AI Control Us?",
-    "tokens": [
-      "control"
-    ],
-    "ts": 1788604646.4936051
-  },
-  {
-    "id": "oilprice-news-45421",
-    "title": "BLM Moves to Fast-Track Oil Permits in Alaska Petroleum Reserve",
-    "tokens": [
-      "alaska",
-      "blm",
-      "fast",
-      "moves",
-      "oil",
-      "permits",
-      "petroleum",
-      "reserve",
-      "track"
-    ],
-    "ts": 1788604656.936482
-  },
-  {
-    "id": "bc221e41-f2eb-4337-86b6-1b02950889b6",
-    "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
-    "tokens": [
-      "accounts",
-      "active",
-      "bigger",
-      "fewer",
-      "last",
-      "ledger",
-      "more",
-      "trades",
-      "value",
-      "xrp",
-      "year"
-    ],
-    "ts": 1788607296.4260058
-  },
-  {
-    "id": "4d1c44ba-b132-4cc6-ab4b-86e4535e7197",
-    "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
-    "tokens": [
-      "680",
-      "asia",
-      "crypto",
-      "firms",
-      "focus",
-      "funding",
-      "investors",
-      "mature",
-      "million",
-      "rebounds",
-      "southeast"
-    ],
-    "ts": 1788607306.1622484
-  },
-  {
-    "id": "c86bd8ed-fadd-467d-b46f-6329d5bf4da2",
-    "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
-    "tokens": [
-      "amc",
-      "backing",
-      "ceo",
-      "demands",
-      "halt",
-      "isn",
-      "robinhood",
-      "stock",
-      "tokens"
-    ],
-    "ts": 1788607314.8919446
-  },
-  {
-    "id": "80b5e112-1340-41b3-a0f6-1dc80a5dd1e3",
-    "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
-    "tokens": [
-      "000",
-      "2012",
-      "bitcoin",
-      "british",
-      "investor",
-      "just",
-      "lost",
-      "million",
-      "recovered",
-      "thought"
-    ],
-    "ts": 1788610329.9840035
-  },
-  {
-    "id": "oilprice-article-45407",
-    "title": "Green Bonds Hit Record High Despite Persistent Challenges",
-    "tokens": [
-      "bonds",
-      "challenges",
-      "despite",
-      "green",
-      "high",
-      "hit",
-      "persistent",
-      "record"
-    ],
-    "ts": 1788620988.10643
-  },
-  {
-    "id": "WP-MKTW-0005211992",
-    "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-    "tokens": [
-      "000",
-      "345",
-      "403",
-      "60s",
-      "conversions",
-      "earn",
-      "late",
-      "million",
-      "our",
-      "roth",
-      "too"
-    ],
-    "ts": 1788624617.3802898
-  },
-  {
-    "id": "WP-MKTW-0005217433",
-    "title": "Why does almost nobody want to befriend older people like me — except scammers?",
-    "tokens": [
-      "almost",
-      "befriend",
-      "does",
-      "except",
-      "like",
-      "nobody",
-      "older",
-      "people",
-      "scammers",
-      "want",
-      "why"
-    ],
-    "ts": 1788624625.186044
-  },
-  {
     "id": "WP-MKTW-0005213180",
     "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
     "tokens": [
@@ -24164,5 +24020,133 @@
       "hearing"
     ],
     "ts": 1788898286.1873643
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/fcc-plans-to-expand-wireless-spectrum-for-satellite-broadband-93CH-4892406",
+    "title": "FCC plans to expand wireless spectrum for satellite broadband",
+    "tokens": [
+      "broadband",
+      "expand",
+      "fcc",
+      "plans",
+      "satellite",
+      "spectrum",
+      "wireless"
+    ],
+    "ts": 1788899251.3426535
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/smithfield-foods-lowers-q3-profit-outlook-on-pork-margins-93CH-4892405",
+    "title": "Smithfield Foods lowers Q3 profit outlook on pork margins",
+    "tokens": [
+      "foods",
+      "lowers",
+      "margins",
+      "outlook",
+      "pork",
+      "profit",
+      "smithfield"
+    ],
+    "ts": 1788899259.4367976
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/rocket-lab-releases-germaniumfree-solar-cell-for-satellites-93CH-4892404",
+    "title": "Rocket Lab releases germanium-free solar cell for satellites",
+    "tokens": [
+      "cell",
+      "free",
+      "germanium",
+      "lab",
+      "releases",
+      "rocket",
+      "satellites",
+      "solar"
+    ],
+    "ts": 1788899267.7957187
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/boston-beer-names-allison-stransky-as-chief-marketing-officer-93CH-4892403",
+    "title": "Boston Beer names Allison Stransky as chief marketing officer",
+    "tokens": [
+      "allison",
+      "beer",
+      "boston",
+      "chief",
+      "marketing",
+      "names",
+      "officer",
+      "stransky"
+    ],
+    "ts": 1788899274.7962575
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/barnes--noble-education-misses-topline-estimates-in-q1-93CH-4892399",
+    "title": "Barnes & Noble Education misses top-line estimates in Q1",
+    "tokens": [
+      "barnes",
+      "education",
+      "estimates",
+      "line",
+      "misses",
+      "noble",
+      "top"
+    ],
+    "ts": 1788899282.0862372
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/gamesquare-regains-nasdaq-minimum-bid-price-compliance-93CH-4892398",
+    "title": "GameSquare regains Nasdaq minimum bid price compliance",
+    "tokens": [
+      "bid",
+      "compliance",
+      "gamesquare",
+      "minimum",
+      "nasdaq",
+      "price",
+      "regains"
+    ],
+    "ts": 1788899290.6497622
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/universal-health-realty-income-trust-declares-075-dividend-93CH-4892397",
+    "title": "Universal Health Realty Income Trust declares $0.75 dividend",
+    "tokens": [
+      "declares",
+      "dividend",
+      "health",
+      "income",
+      "realty",
+      "trust",
+      "universal"
+    ],
+    "ts": 1788899297.9708416
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/korn-ferry-declares-quarterly-dividend-of-055-per-share-93CH-4892396",
+    "title": "Korn Ferry declares quarterly dividend of $0.55 per share",
+    "tokens": [
+      "declares",
+      "dividend",
+      "ferry",
+      "korn",
+      "per",
+      "quarterly",
+      "share"
+    ],
+    "ts": 1788899305.8994322
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/motorola-solutions-executive-to-speak-at-truist-tech-event-93CH-4892395",
+    "title": "Motorola Solutions executive to speak at Truist tech event",
+    "tokens": [
+      "event",
+      "executive",
+      "motorola",
+      "solutions",
+      "speak",
+      "tech",
+      "truist"
+    ],
+    "ts": 1788899313.467687
   }
 ]

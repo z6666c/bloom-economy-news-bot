@@ -1,386 +1,5 @@
 [
   {
-    "id": "oilprice-news-45416",
-    "title": "Rosneft CEO: China Calls The Shots in Oil Markets, Not OPEC",
-    "tokens": [
-      "calls",
-      "ceo",
-      "china",
-      "markets",
-      "oil",
-      "opec",
-      "rosneft",
-      "shots"
-    ],
-    "ts": 1788624946.1165068
-  },
-  {
-    "id": "oilprice-article-45420",
-    "title": "Record Diesel Prices Push Brent Toward $95",
-    "tokens": [
-      "brent",
-      "diesel",
-      "prices",
-      "push",
-      "record",
-      "toward"
-    ],
-    "ts": 1788624953.8959284
-  },
-  {
-    "id": "oilprice-article-45405",
-    "title": "Turkmenistan Moves to Tackle Major Methane Leaks",
-    "tokens": [
-      "leaks",
-      "major",
-      "methane",
-      "moves",
-      "tackle",
-      "turkmenistan"
-    ],
-    "ts": 1788624962.1225142
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press591.php",
-    "title": "EIA expects highest natural gas inventories in a decade heading into winter",
-    "tokens": [
-      "decade",
-      "eia",
-      "expects",
-      "gas",
-      "heading",
-      "highest",
-      "inventories",
-      "natural",
-      "winter"
-    ],
-    "ts": 1788624970.1753488
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press590.php",
-    "title": "EIA increases global oil production forecast after the opening of the Strait of Hormuz",
-    "tokens": [
-      "eia",
-      "forecast",
-      "global",
-      "hormuz",
-      "increases",
-      "oil",
-      "opening",
-      "production",
-      "strait"
-    ],
-    "ts": 1788624977.4035773
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press589.php",
-    "title": "EIA expects a drop in global oil demand will limit price increases from Hormuz disruptions",
-    "tokens": [
-      "demand",
-      "disruptions",
-      "drop",
-      "eia",
-      "expects",
-      "global",
-      "hormuz",
-      "increases",
-      "limit",
-      "oil",
-      "price"
-    ],
-    "ts": 1788624984.539112
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press588.php",
-    "title": "EIA updates forecast amid continued Mideast disruption; will publish new energy security datasets",
-    "tokens": [
-      "continued",
-      "datasets",
-      "disruption",
-      "eia",
-      "energy",
-      "forecast",
-      "mideast",
-      "publish",
-      "security",
-      "updates"
-    ],
-    "ts": 1788624991.930785
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press587.php",
-    "title": "EIA releases the Annual Energy Outlook 2026",
-    "tokens": [
-      "2026",
-      "annual",
-      "eia",
-      "energy",
-      "outlook",
-      "releases"
-    ],
-    "ts": 1788624999.3977695
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press586.php",
-    "title": "Hormuz closure and related production outages are key drivers in EIA's latest forecast",
-    "tokens": [
-      "closure",
-      "drivers",
-      "eia",
-      "forecast",
-      "hormuz",
-      "key",
-      "latest",
-      "outages",
-      "production",
-      "related"
-    ],
-    "ts": 1788625007.2026072
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press585.php",
-    "title": "EIA launches pilot survey on energy use at data centers",
-    "tokens": [
-      "centers",
-      "data",
-      "eia",
-      "energy",
-      "launches",
-      "pilot",
-      "survey",
-      "use"
-    ],
-    "ts": 1788625014.6588855
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press584.php",
-    "title": "EIA releases latest Short-Term Energy Outlook amid Middle East conflict",
-    "tokens": [
-      "conflict",
-      "east",
-      "eia",
-      "energy",
-      "latest",
-      "middle",
-      "outlook",
-      "releases",
-      "short",
-      "term"
-    ],
-    "ts": 1788625022.655728
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press583.php",
-    "title": "EIA raises natural gas price forecast following increased heating demand amid severe winter weather",
-    "tokens": [
-      "demand",
-      "eia",
-      "following",
-      "forecast",
-      "gas",
-      "heating",
-      "increased",
-      "natural",
-      "price",
-      "raises",
-      "severe",
-      "weather",
-      "winter"
-    ],
-    "ts": 1788625030.173564
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press582.php",
-    "title": "EIA forecasts strongest four-year growth in U.S. electricity demand since 2000, fueled by data centers",
-    "tokens": [
-      "2000",
-      "centers",
-      "data",
-      "demand",
-      "eia",
-      "electricity",
-      "forecasts",
-      "four",
-      "fueled",
-      "growth",
-      "since",
-      "strongest",
-      "year"
-    ],
-    "ts": 1788625037.6631594
-  },
-  {
-    "id": "0890e71d-9304-4a8f-80a1-6a64253afdb5",
-    "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
-    "tokens": [
-      "access",
-      "crypto",
-      "etns",
-      "investment",
-      "largest",
-      "listing",
-      "opens",
-      "platform",
-      "retail",
-      "warning"
-    ],
-    "ts": 1788625046.4623451
-  },
-  {
-    "id": "75d6cf83-4805-4c7d-85aa-1394cc504129",
-    "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
-    "tokens": [
-      "act",
-      "association",
-      "clarity",
-      "neutral",
-      "opposition",
-      "sheriff",
-      "shifts",
-      "stance"
-    ],
-    "ts": 1788625053.6174324
-  },
-  {
-    "id": "d5e498bd-d1c3-4c7a-8f9f-c57e979e9d00",
-    "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
-    "tokens": [
-      "000",
-      "162",
-      "added",
-      "august",
-      "back",
-      "bounced",
-      "expected",
-      "jobs",
-      "labor",
-      "market",
-      "stronger"
-    ],
-    "ts": 1788625061.1802578
-  },
-  {
-    "id": "c6aa824b-a682-498d-a503-870719b90921",
-    "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
-    "tokens": [
-      "big",
-      "bitcoin",
-      "checked",
-      "data",
-      "isn",
-      "mover",
-      "nfp",
-      "price",
-      "report",
-      "years"
-    ],
-    "ts": 1788625068.7942169
-  },
-  {
-    "id": "b633d654-bbd9-422a-b5c9-f0c25f39ec2c",
-    "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
-    "tokens": [
-      "000",
-      "jumps",
-      "landmark",
-      "level",
-      "lose",
-      "million",
-      "sellers",
-      "short",
-      "zcash"
-    ],
-    "ts": 1788625075.9542696
-  },
-  {
-    "id": "5c9b46a5-5441-4fda-b78e-7967309391c4",
-    "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
-    "tokens": [
-      "000",
-      "bitcoin",
-      "broad",
-      "clears",
-      "coins",
-      "crypto",
-      "lead",
-      "privacy",
-      "rally"
-    ],
-    "ts": 1788625083.2951896
-  },
-  {
-    "id": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "title": "Here’s what happened in crypto today",
-    "tokens": [
-      "crypto",
-      "happened",
-      "here",
-      "today",
-      "what"
-    ],
-    "ts": 1788625090.6363554
-  },
-  {
-    "id": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens",
-    "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
-    "tokens": [
-      "bill",
-      "crypto",
-      "poland",
-      "scandal",
-      "upholds",
-      "veto",
-      "widens",
-      "zondacrypto"
-    ],
-    "ts": 1788625098.702408
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026",
-    "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
-    "tokens": [
-      "2026",
-      "bitcoin",
-      "etf",
-      "hit",
-      "inflows",
-      "stretch",
-      "strongest",
-      "three",
-      "week"
-    ],
-    "ts": 1788625105.8611934
-  },
-  {
-    "id": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k",
-    "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
-    "tokens": [
-      "80k",
-      "back",
-      "below",
-      "bitcoin",
-      "nonfarm",
-      "payrolls",
-      "print",
-      "sends",
-      "surprise"
-    ],
-    "ts": 1788625112.9536705
-  },
-  {
-    "id": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective",
-    "title": "Pineapple Financial puts $1B in mortgage records on Injective",
-    "tokens": [
-      "financial",
-      "injective",
-      "mortgage",
-      "pineapple",
-      "puts",
-      "records"
-    ],
-    "ts": 1788625121.4776423
-  },
-  {
     "id": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis",
     "title": "FinCEN ties $13B in crypto scams to non-US operations",
     "tokens": [
@@ -24052,5 +23671,382 @@
       "stocks"
     ],
     "ts": 1788902764.6284745
+  },
+  {
+    "id": "WP-MKTW-0005217433",
+    "title": "Why does almost nobody want to befriend older people like me — except scammers?",
+    "tokens": [
+      "almost",
+      "befriend",
+      "does",
+      "except",
+      "like",
+      "nobody",
+      "older",
+      "people",
+      "scammers",
+      "want",
+      "why"
+    ],
+    "ts": 1788903536.5174642
+  },
+  {
+    "id": "WP-MKTW-0005220957",
+    "title": "Walmart’s advertising empire is booming. Here’s what it could target next.",
+    "tokens": [
+      "advertising",
+      "booming",
+      "could",
+      "empire",
+      "here",
+      "next",
+      "target",
+      "walmart",
+      "what"
+    ],
+    "ts": 1788903546.6311915
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/paramount-says-california-agcontradicted-bond-arguments-in-tv-interviews-4892518",
+    "title": "Paramount says California AG contradicted bond arguments in TV interviews",
+    "tokens": [
+      "arguments",
+      "bond",
+      "california",
+      "contradicted",
+      "interviews",
+      "paramount"
+    ],
+    "ts": 1788903554.4654129
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ieh-corp-director-michael-rosenfeld-sells-163221-of-iehc-stock-93CH-4892526",
+    "title": "Ieh corp director Michael Rosenfeld sells $163,221 of IEHC stock",
+    "tokens": [
+      "163",
+      "221",
+      "corp",
+      "director",
+      "ieh",
+      "iehc",
+      "michael",
+      "rosenfeld",
+      "sells",
+      "stock"
+    ],
+    "ts": 1788903562.744675
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-052-4892523",
+    "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.52%",
+    "tokens": [
+      "bmv",
+      "close",
+      "higher",
+      "ipc",
+      "mexico",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1788903566.7591414
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/constellation-brands-to-redeem-600m-senior-notes-due-2027-93CH-4892522",
+    "title": "Constellation Brands to redeem $600m senior notes due 2027",
+    "tokens": [
+      "2027",
+      "600m",
+      "brands",
+      "constellation",
+      "due",
+      "notes",
+      "redeem",
+      "senior"
+    ],
+    "ts": 1788903570.2651536
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/northrop-grumman-wins-48bn-army-countermeasure-contract-93CH-4892520",
+    "title": "Northrop Grumman wins $4.8bn Army countermeasure contract",
+    "tokens": [
+      "8bn",
+      "army",
+      "contract",
+      "countermeasure",
+      "grumman",
+      "northrop",
+      "wins"
+    ],
+    "ts": 1788903577.7885175
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-015-4892519",
+    "title": "Colombia stocks higher at close of trade; COLCAP up 0.15%",
+    "tokens": [
+      "close",
+      "colcap",
+      "colombia",
+      "higher",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1788903581.8031957
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-assembly-biosciences-stock-surging-today-93CH-4892517",
+    "title": "Why is Assembly Biosciences stock surging today?",
+    "tokens": [
+      "assembly",
+      "biosciences",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1788903585.0042202
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-ingram-micro-stock-sliding-today-93CH-4892516",
+    "title": "Why is Ingram Micro stock sliding today?",
+    "tokens": [
+      "ingram",
+      "micro",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1788903591.9961636
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-046-4892515",
+    "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.46%",
+    "tokens": [
+      "close",
+      "higher",
+      "index",
+      "moex",
+      "russia",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1788903596.010676
+  },
+  {
+    "id": "meta-underperforming-every-trillion-dollar-131439350.html",
+    "title": "Meta Is Underperforming Every Trillion-Dollar Stock but Tesla. This Trade Pays You While Wall Street Waits It Out.",
+    "tokens": [
+      "dollar",
+      "every",
+      "meta",
+      "pays",
+      "stock",
+      "street",
+      "tesla",
+      "trade",
+      "trillion",
+      "underperforming",
+      "waits",
+      "wall",
+      "while",
+      "you"
+    ],
+    "ts": 1788903599.8716311
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press591.php",
+    "title": "EIA expects highest natural gas inventories in a decade heading into winter",
+    "tokens": [
+      "decade",
+      "eia",
+      "expects",
+      "gas",
+      "heading",
+      "highest",
+      "inventories",
+      "natural",
+      "winter"
+    ],
+    "ts": 1788903608.2147448
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press590.php",
+    "title": "EIA increases global oil production forecast after the opening of the Strait of Hormuz",
+    "tokens": [
+      "eia",
+      "forecast",
+      "global",
+      "hormuz",
+      "increases",
+      "oil",
+      "opening",
+      "production",
+      "strait"
+    ],
+    "ts": 1788903616.251266
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press589.php",
+    "title": "EIA expects a drop in global oil demand will limit price increases from Hormuz disruptions",
+    "tokens": [
+      "demand",
+      "disruptions",
+      "drop",
+      "eia",
+      "expects",
+      "global",
+      "hormuz",
+      "increases",
+      "limit",
+      "oil",
+      "price"
+    ],
+    "ts": 1788903623.5492787
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press588.php",
+    "title": "EIA updates forecast amid continued Mideast disruption; will publish new energy security datasets",
+    "tokens": [
+      "continued",
+      "datasets",
+      "disruption",
+      "eia",
+      "energy",
+      "forecast",
+      "mideast",
+      "publish",
+      "security",
+      "updates"
+    ],
+    "ts": 1788903630.2432508
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press587.php",
+    "title": "EIA releases the Annual Energy Outlook 2026",
+    "tokens": [
+      "2026",
+      "annual",
+      "eia",
+      "energy",
+      "outlook",
+      "releases"
+    ],
+    "ts": 1788903637.5343475
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press586.php",
+    "title": "Hormuz closure and related production outages are key drivers in EIA's latest forecast",
+    "tokens": [
+      "closure",
+      "drivers",
+      "eia",
+      "forecast",
+      "hormuz",
+      "key",
+      "latest",
+      "outages",
+      "production",
+      "related"
+    ],
+    "ts": 1788903644.9367895
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press585.php",
+    "title": "EIA launches pilot survey on energy use at data centers",
+    "tokens": [
+      "centers",
+      "data",
+      "eia",
+      "energy",
+      "launches",
+      "pilot",
+      "survey",
+      "use"
+    ],
+    "ts": 1788903651.8489888
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press584.php",
+    "title": "EIA releases latest Short-Term Energy Outlook amid Middle East conflict",
+    "tokens": [
+      "conflict",
+      "east",
+      "eia",
+      "energy",
+      "latest",
+      "middle",
+      "outlook",
+      "releases",
+      "short",
+      "term"
+    ],
+    "ts": 1788903659.5740273
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press583.php",
+    "title": "EIA raises natural gas price forecast following increased heating demand amid severe winter weather",
+    "tokens": [
+      "demand",
+      "eia",
+      "following",
+      "forecast",
+      "gas",
+      "heating",
+      "increased",
+      "natural",
+      "price",
+      "raises",
+      "severe",
+      "weather",
+      "winter"
+    ],
+    "ts": 1788903667.087778
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press582.php",
+    "title": "EIA forecasts strongest four-year growth in U.S. electricity demand since 2000, fueled by data centers",
+    "tokens": [
+      "2000",
+      "centers",
+      "data",
+      "demand",
+      "eia",
+      "electricity",
+      "forecasts",
+      "four",
+      "fueled",
+      "growth",
+      "since",
+      "strongest",
+      "year"
+    ],
+    "ts": 1788903676.3056383
+  },
+  {
+    "id": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban",
+    "title": "New York town weighs crypto mining and AI data center ban",
+    "tokens": [
+      "ban",
+      "center",
+      "crypto",
+      "data",
+      "mining",
+      "town",
+      "weighs",
+      "york"
+    ],
+    "ts": 1788903684.6798294
+  },
+  {
+    "id": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "title": "Here’s what happened in crypto today",
+    "tokens": [
+      "crypto",
+      "happened",
+      "here",
+      "today",
+      "what"
+    ],
+    "ts": 1788903692.1058164
   }
 ]

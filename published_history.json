@@ -1,214 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/forex-news/european-bond-yields-tick-up-snapping-twoday-rally-4890484",
-    "title": "European bond yields tick up, snapping two-day rally",
-    "tokens": [
-      "bond",
-      "day",
-      "european",
-      "rally",
-      "snapping",
-      "tick",
-      "two",
-      "yields"
-    ],
-    "ts": 1788768789.3190835
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/huawei-launches-new-foldable-smartphone-as-competition-with-xiaomi-apple-heats-up-4890496",
-    "title": "Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats up",
-    "tokens": [
-      "apple",
-      "competition",
-      "foldable",
-      "heats",
-      "huawei",
-      "launches",
-      "smartphone",
-      "xiaomi"
-    ],
-    "ts": 1788768797.1351235
-  },
-  {
-    "id": "scott-galloway-issues-grim-spacex-173300856.html",
-    "title": "Scott Galloway issues grim SpaceX stock price forecast",
-    "tokens": [
-      "forecast",
-      "galloway",
-      "grim",
-      "issues",
-      "price",
-      "scott",
-      "spacex",
-      "stock"
-    ],
-    "ts": 1788768805.5404024
-  },
-  {
-    "id": "iran-war-forces-rewrite-global-230000749.html",
-    "title": "Iran War Forces a Rewrite of Global Oil Trade Routes",
-    "tokens": [
-      "forces",
-      "global",
-      "iran",
-      "oil",
-      "rewrite",
-      "routes",
-      "trade",
-      "war"
-    ],
-    "ts": 1788768809.5483866
-  },
-  {
-    "id": "ea94f6db-7cc1-470b-be97-b578b5dbf342",
-    "title": "U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead",
-    "tokens": [
-      "ahead",
-      "coinbase",
-      "crypto",
-      "deribit",
-      "inflation",
-      "switch",
-      "week"
-    ],
-    "ts": 1788768814.8152277
-  },
-  {
-    "id": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana",
-    "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
-    "tokens": [
-      "daily",
-      "fomo",
-      "fun",
-      "overtakes",
-      "pump",
-      "revenue",
-      "solana"
-    ],
-    "ts": 1788768822.1436403
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-initiates-internet-initiative-japan-stock-at-neutral-on-timing-concerns-93CH-4890543",
-    "title": "UBS initiates Internet Initiative Japan stock at neutral on timing concerns",
-    "tokens": [
-      "concerns",
-      "initiates",
-      "initiative",
-      "internet",
-      "japan",
-      "neutral",
-      "stock",
-      "timing",
-      "ubs"
-    ],
-    "ts": 1788769915.299996
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/iqe-reports-sharp-h1-revenue-growth-on-ai-data-centre-demand-4890402",
-    "title": "IQE shares rise 4% as AI, data center demand lifts first-half revenue",
-    "tokens": [
-      "center",
-      "data",
-      "demand",
-      "first",
-      "half",
-      "iqe",
-      "lifts",
-      "revenue",
-      "rise",
-      "shares"
-    ],
-    "ts": 1788769922.9022956
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/chinas-forex-reserves-rise-more-than-expected-in-august-4890542",
-    "title": "China’s forex reserves rise more than expected in August",
-    "tokens": [
-      "august",
-      "china",
-      "expected",
-      "forex",
-      "more",
-      "reserves",
-      "rise"
-    ],
-    "ts": 1788769930.8861756
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dax-tests-200sma-after-hs-breakdown-live-levels-93CH-4890541",
-    "title": "DAX tests 200-SMA after H&S breakdown: Live levels",
-    "tokens": [
-      "200",
-      "breakdown",
-      "dax",
-      "levels",
-      "live",
-      "sma",
-      "tests"
-    ],
-    "ts": 1788769938.5295293
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/imperial-brands-director-takes-role-at-hill--smith-93CH-4890540",
-    "title": "Imperial Brands director takes role at Hill & Smith",
-    "tokens": [
-      "brands",
-      "director",
-      "hill",
-      "imperial",
-      "role",
-      "smith",
-      "takes"
-    ],
-    "ts": 1788769945.7491574
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/ashmore-profit-rises-27-as-emergingmarkets-assets-under-management-reach-54-bln-4890406",
-    "title": "Ashmore shares fall 1.6% despite profit jump as underlying earnings weaken",
-    "tokens": [
-      "ashmore",
-      "despite",
-      "earnings",
-      "fall",
-      "jump",
-      "profit",
-      "shares",
-      "underlying",
-      "weaken"
-    ],
-    "ts": 1788769953.066164
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/south-korea-us-agree-on-more-than-20-billion-gas-plant-investment-in-texas-media-reports-4890526",
-    "title": "South Korea, US agree on more than $20 billion gas plant investment in Texas, media reports",
-    "tokens": [
-      "agree",
-      "billion",
-      "gas",
-      "investment",
-      "korea",
-      "media",
-      "more",
-      "plant",
-      "reports",
-      "south",
-      "texas"
-    ],
-    "ts": 1788769959.7840836
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/take-five-good-evening-mr-bond-4890525",
-    "title": "Take Five: Good evening, Mr Bond",
-    "tokens": [
-      "bond",
-      "evening",
-      "five",
-      "good",
-      "take"
-    ],
-    "ts": 1788769966.7930982
-  },
-  {
     "id": "elon-musk-says-cybercab-gold-213015412.html",
     "title": "Elon Musk Says Cybercab Is Gold to Reflect 'Golden Era' of Mobility as Tesla Launches Robotaxi With Starlink",
     "tokens": [
@@ -23451,5 +23242,217 @@
       "top"
     ],
     "ts": 1788976339.8481667
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/five-below-at-barclays-conference-turnaround-gains-breadth-and-speed-93CH-4894299",
+    "title": "Five Below at Barclays conference: turnaround gains breadth and speed",
+    "tokens": [
+      "barclays",
+      "below",
+      "breadth",
+      "conference",
+      "five",
+      "gains",
+      "speed",
+      "turnaround"
+    ],
+    "ts": 1788977612.7528346
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/choice-hotels-at-bank-of-america-gaming-and-lodging-conference-growth-reset-93CH-4894298",
+    "title": "Choice Hotels at Bank of America gaming and lodging conference: growth reset",
+    "tokens": [
+      "america",
+      "bank",
+      "choice",
+      "conference",
+      "gaming",
+      "growth",
+      "hotels",
+      "lodging",
+      "reset"
+    ],
+    "ts": 1788977620.0188935
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/mp-materials-at-jefferies-global-industrials-conference-2026-supply-chain-push-93CH-4894295",
+    "title": "MP Materials at Jefferies Global Industrials Conference 2026: supply chain push",
+    "tokens": [
+      "2026",
+      "chain",
+      "conference",
+      "global",
+      "industrials",
+      "jefferies",
+      "materials",
+      "push",
+      "supply"
+    ],
+    "ts": 1788977628.2866416
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/national-bank-of-canada-at-scotiabank-summit-growth-with-discipline-93CH-4894292",
+    "title": "National Bank of Canada at Scotiabank summit: growth with discipline",
+    "tokens": [
+      "bank",
+      "canada",
+      "discipline",
+      "growth",
+      "national",
+      "scotiabank",
+      "summit"
+    ],
+    "ts": 1788977637.2545469
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/us-eia-hikes-oil-price-forecasts-as-iran-war-drains-global-stockpile-4894291",
+    "title": "US EIA hikes oil price forecasts as Iran war drains global stockpile",
+    "tokens": [
+      "drains",
+      "eia",
+      "forecasts",
+      "global",
+      "hikes",
+      "iran",
+      "oil",
+      "price",
+      "stockpile",
+      "war"
+    ],
+    "ts": 1788977644.9100919
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nuveen-california-div-advantag-muni-stock-hits-52week-low-at-1120-93CH-4894290",
+    "title": "Nuveen California Div Advantag Muni stock hits 52-week low at $11.20",
+    "tokens": [
+      "advantag",
+      "california",
+      "div",
+      "hits",
+      "low",
+      "muni",
+      "nuveen",
+      "stock",
+      "week"
+    ],
+    "ts": 1788977652.1950436
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/cormedix-at-wells-fargo-21st-annual-healthcare-conference-growth-risk-93CH-4894289",
+    "title": "CorMedix at Wells Fargo 21st annual healthcare conference: growth, risk",
+    "tokens": [
+      "21st",
+      "annual",
+      "conference",
+      "cormedix",
+      "fargo",
+      "growth",
+      "healthcare",
+      "risk",
+      "wells"
+    ],
+    "ts": 1788977659.9131243
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-natural-gas-supply-and-demand-to-hit-record-highs-in-2026-93CH-4894288",
+    "title": "US natural gas supply and demand to hit record highs in 2026",
+    "tokens": [
+      "2026",
+      "demand",
+      "gas",
+      "highs",
+      "hit",
+      "natural",
+      "record",
+      "supply"
+    ],
+    "ts": 1788977670.263476
+  },
+  {
+    "id": "netflix-good-buy-10-years-175000193.html",
+    "title": "Is Netflix a Good Buy? After 10 Years of Covering NFLX, Here's My Honest Answer.",
+    "tokens": [
+      "answer",
+      "buy",
+      "covering",
+      "good",
+      "here",
+      "honest",
+      "netflix",
+      "nflx",
+      "years"
+    ],
+    "ts": 1788977679.258382
+  },
+  {
+    "id": "inditex-breaks-records-still-gets-173958249.html",
+    "title": "Inditex Breaks Records and Still Gets Marked Down",
+    "tokens": [
+      "breaks",
+      "gets",
+      "inditex",
+      "marked",
+      "records",
+      "still"
+    ],
+    "ts": 1788977687.430233
+  },
+  {
+    "id": "core-main-inc-q2-2027-173606411.html",
+    "title": "Core & Main, Inc. Q2 2027 Earnings Call Summary",
+    "tokens": [
+      "2027",
+      "call",
+      "core",
+      "earnings",
+      "inc",
+      "main",
+      "summary"
+    ],
+    "ts": 1788977694.7174678
+  },
+  {
+    "id": "red-rock-resorts-chief-legal-175001236.html",
+    "title": "Red Rock Resorts Chief Legal Officer Sells 9,000 Shares",
+    "tokens": [
+      "000",
+      "chief",
+      "legal",
+      "officer",
+      "red",
+      "resorts",
+      "rock",
+      "sells",
+      "shares"
+    ],
+    "ts": 1788977701.686356
+  },
+  {
+    "id": "oilprice-article-45451",
+    "title": "U.S. Moves to Isolate Iran’s Aviation Sector From the Global Economy",
+    "tokens": [
+      "aviation",
+      "economy",
+      "global",
+      "iran",
+      "isolate",
+      "moves",
+      "sector"
+    ],
+    "ts": 1788977710.9518313
+  },
+  {
+    "id": "oilprice-news-45451",
+    "title": "Sinopec Sees China Oil Demand Falling 8.9% in 2026",
+    "tokens": [
+      "2026",
+      "china",
+      "demand",
+      "falling",
+      "oil",
+      "sees",
+      "sinopec"
+    ],
+    "ts": 1788977714.9702432
   }
 ]

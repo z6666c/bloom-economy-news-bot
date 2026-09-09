@@ -1,120 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4890240",
-    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-    "tokens": [
-      "close",
-      "index",
-      "lower",
-      "moex",
-      "russia",
-      "stocks",
-      "trade",
-      "unchanged"
-    ],
-    "ts": 1788645021.8143163
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/is-ttf-gas-fairly-priced-as-hormuz-winter-risks-keep-prices-elevated-4890238",
-    "title": "Is TTF gas fairly priced as Hormuz, winter risks keep prices elevated?",
-    "tokens": [
-      "elevated",
-      "fairly",
-      "gas",
-      "hormuz",
-      "keep",
-      "priced",
-      "prices",
-      "risks",
-      "ttf",
-      "winter"
-    ],
-    "ts": 1788645029.638697
-  },
-  {
-    "id": "over-55-california-sell-house-213626525.html",
-    "title": "Over 55 in California, You Can Sell the House and Take Your 1985 Property-Tax Bill With You to the New One, Anywhere in the State, Up to Three Times",
-    "tokens": [
-      "1985",
-      "anywhere",
-      "bill",
-      "california",
-      "can",
-      "house",
-      "one",
-      "property",
-      "sell",
-      "state",
-      "take",
-      "tax",
-      "three",
-      "times",
-      "you",
-      "your"
-    ],
-    "ts": 1788645036.6716893
-  },
-  {
-    "id": "coca-cola-stock-88-heres-212617123.html",
-    "title": "Coca-Cola Stock at $88: Here's Why Investors Should Pause",
-    "tokens": [
-      "coca",
-      "cola",
-      "here",
-      "investors",
-      "pause",
-      "should",
-      "stock",
-      "why"
-    ],
-    "ts": 1788645043.9866054
-  },
-  {
-    "id": "quantumscape-stock-worth-closer-look-215000672.html",
-    "title": "QuantumScape Stock Is Worth a Closer Look Right Now",
-    "tokens": [
-      "closer",
-      "look",
-      "now",
-      "quantumscape",
-      "right",
-      "stock",
-      "worth"
-    ],
-    "ts": 1788646170.2838979
-  },
-  {
-    "id": "vanguards-122-billion-fund-warning-214700489.html",
-    "title": "Vanguard's $122 billion fund has warning most holders miss",
-    "tokens": [
-      "122",
-      "billion",
-      "fund",
-      "holders",
-      "miss",
-      "most",
-      "vanguard",
-      "warning"
-    ],
-    "ts": 1788646177.9906611
-  },
-  {
-    "id": "amd-committed-5-billion-anthropic-220301412.html",
-    "title": "AMD Committed Up to $5 Billion to Anthropic, and Anthropic's IPO Prospectus Is Reportedly Days Away",
-    "tokens": [
-      "amd",
-      "anthropic",
-      "away",
-      "billion",
-      "committed",
-      "days",
-      "ipo",
-      "prospectus",
-      "reportedly"
-    ],
-    "ts": 1788647033.4076984
-  },
-  {
     "id": "da-davidson-assigns-buy-rating-215811439.html",
     "title": "DA Davidson Assigns Buy Rating to Everus Construction (ECG) Based on Accretive M&A and Bookings Strength",
     "tokens": [
@@ -23928,5 +23813,109 @@
       "wednesday"
     ],
     "ts": 1788931608.6736584
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/explainerwhat-is-the-yen-carry-trade-4892709",
+    "title": "Explainer-What is the yen carry trade?",
+    "tokens": [
+      "carry",
+      "explainer",
+      "trade",
+      "what",
+      "yen"
+    ],
+    "ts": 1788932515.9108837
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/sunstone-metals-at-resources-rising-stars-gold-coast-conference-ecuador-assets-in-focus-93CH-4892708",
+    "title": "Sunstone Metals at Resources Rising Stars Gold Coast Conference: Ecuador assets in focus",
+    "tokens": [
+      "assets",
+      "coast",
+      "conference",
+      "ecuador",
+      "focus",
+      "gold",
+      "metals",
+      "resources",
+      "rising",
+      "stars",
+      "sunstone"
+    ],
+    "ts": 1788932524.1626086
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/medacta-reports-97-revenue-growth-in-first-half-of-2026-93CH-4892707",
+    "title": "Medacta reports 9.7% revenue growth in first half of 2026",
+    "tokens": [
+      "2026",
+      "first",
+      "growth",
+      "half",
+      "medacta",
+      "reports",
+      "revenue"
+    ],
+    "ts": 1788932533.2253585
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/antin-reports-firsthalf-revenue-decline-on-lower-fees-93CH-4892706",
+    "title": "Antin reports first-half revenue decline on lower fees",
+    "tokens": [
+      "antin",
+      "decline",
+      "fees",
+      "first",
+      "half",
+      "lower",
+      "reports",
+      "revenue"
+    ],
+    "ts": 1788932540.5515192
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/iran-targets-us-base-in-jordan-attacks-ships-after-tanker-strikes-4892705",
+    "title": "Iran targets U.S. base in Jordan, attacks ships after tanker strikes",
+    "tokens": [
+      "attacks",
+      "base",
+      "iran",
+      "jordan",
+      "ships",
+      "strikes",
+      "tanker",
+      "targets"
+    ],
+    "ts": 1788932548.5669568
+  },
+  {
+    "id": "ceco-environmental-ceco-raises-guidance-185137151.html",
+    "title": "CECO Environmental (CECO) Raises Guidance After Thermon Deal — Can the Momentum Last?",
+    "tokens": [
+      "can",
+      "ceco",
+      "deal",
+      "environmental",
+      "guidance",
+      "last",
+      "momentum",
+      "raises",
+      "thermon"
+    ],
+    "ts": 1788932555.963568
+  },
+  {
+    "id": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services",
+    "title": "Gemini receives Singapore payment license for crypto services",
+    "tokens": [
+      "crypto",
+      "gemini",
+      "license",
+      "payment",
+      "receives",
+      "services",
+      "singapore"
+    ],
+    "ts": 1788932565.5872266
   }
 ]

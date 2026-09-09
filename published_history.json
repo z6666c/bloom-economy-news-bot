@@ -1,141 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/short-vs-long-nonfiction-books-on-amazon-book-ecosystem-report-released-1036524756",
-    "title": "Short vs. Long Nonfiction Books on Amazon: Book Ecosystem Report Released",
-    "tokens": [
-      "amazon",
-      "book",
-      "books",
-      "ecosystem",
-      "long",
-      "nonfiction",
-      "released",
-      "report",
-      "short"
-    ],
-    "ts": 1788633824.9836686
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/xcanbot-mate-x-wins-ifa-innovation-award-2026-for-tech-for-good-accessibility-1036524749",
-    "title": "Xcanbot Mate X Wins IFA Innovation Award 2026 for Tech for Good & Accessibility",
-    "tokens": [
-      "2026",
-      "accessibility",
-      "award",
-      "good",
-      "ifa",
-      "innovation",
-      "mate",
-      "tech",
-      "wins",
-      "xcanbot"
-    ],
-    "ts": 1788633832.797801
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/winseed-debuts-at-ifa-2026-with-one-question-at-ifa-positioning-itself-at-the-center-of-ai-driven-brand-discovery-1036524746",
-    "title": "Winseed Debuts at IFA 2026 with “ONE QUESTION AT IFA,” Positioning Itself at the Center of AI-Driven Brand Discovery",
-    "tokens": [
-      "2026",
-      "brand",
-      "center",
-      "debuts",
-      "discovery",
-      "driven",
-      "ifa",
-      "itself",
-      "one",
-      "positioning",
-      "question",
-      "winseed"
-    ],
-    "ts": 1788633840.9867067
-  },
-  {
-    "id": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
-    "title": "OpenAI says it will change how it informs the public when its AI agents go off the rails",
-    "tokens": [
-      "agents",
-      "change",
-      "how",
-      "informs",
-      "off",
-      "openai",
-      "public",
-      "rails",
-      "when"
-    ],
-    "ts": 1788633848.1881201
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/allianz-life-calls-on-malaysians-to-rethink-critical-illness-as-a-financial-challenge-too-1036524741",
-    "title": "Allianz Life calls on Malaysians to rethink critical illness as a financial challenge too",
-    "tokens": [
-      "allianz",
-      "calls",
-      "challenge",
-      "critical",
-      "financial",
-      "illness",
-      "life",
-      "malaysians",
-      "rethink",
-      "too"
-    ],
-    "ts": 1788633855.8120427
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/hilltop-painting-brings-trusted-interior-and-exterior-painting-to-whatcom-and-skagit-county-homes-1036524737",
-    "title": "Hilltop Painting Brings Trusted Interior and Exterior Painting to Whatcom and Skagit County Homes",
-    "tokens": [
-      "brings",
-      "county",
-      "exterior",
-      "hilltop",
-      "homes",
-      "interior",
-      "painting",
-      "skagit",
-      "trusted",
-      "whatcom"
-    ],
-    "ts": 1788633863.431395
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/event-recap-delta-future-industry-summit-2026-advances-thailand-s-ai-electrification-infrastructure-1036524742",
-    "title": "Event Recap: Delta Future Industry Summit 2026 Advances Thailand's AI & Electrification Infrastructure",
-    "tokens": [
-      "2026",
-      "advances",
-      "delta",
-      "electrification",
-      "event",
-      "future",
-      "industry",
-      "infrastructure",
-      "recap",
-      "summit",
-      "thailand"
-    ],
-    "ts": 1788633871.1425378
-  },
-  {
-    "id": "WP-MKTW-0005214938",
-    "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
-    "tokens": [
-      "center",
-      "data",
-      "disagree",
-      "home",
-      "hurt",
-      "research",
-      "sellers",
-      "value",
-      "your"
-    ],
-    "ts": 1788634432.3065486
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/milei-finds-unity-in-pushback-against-falkland-islands-oil-project-4890233",
     "title": "Milei finds unity in pushback against Falkland Islands oil project",
     "tokens": [
@@ -23946,5 +23810,132 @@
       "trust"
     ],
     "ts": 1788919058.8881266
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-jumps-1-in-early-trade-after-iran-launches-missiles-at-jordan-4892628",
+    "title": "Oil jumps $1 in early trade after Iran launches missiles at Jordan",
+    "tokens": [
+      "early",
+      "iran",
+      "jordan",
+      "jumps",
+      "launches",
+      "missiles",
+      "oil",
+      "trade"
+    ],
+    "ts": 1788920984.8686883
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/silver-lake-affiliates-sell-351764-in-dell-technologies-stock-93CH-4892672",
+    "title": "Silver Lake affiliates sell $351,764 in Dell Technologies stock",
+    "tokens": [
+      "351",
+      "764",
+      "affiliates",
+      "dell",
+      "lake",
+      "sell",
+      "silver",
+      "stock",
+      "technologies"
+    ],
+    "ts": 1788920992.4553347
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/mercury-systems-evp-chro-steven-ratner-sells-338030-in-stock-93CH-4892671",
+    "title": "Mercury Systems EVP, CHRO Steven Ratner sells $338,030 in stock",
+    "tokens": [
+      "030",
+      "338",
+      "chro",
+      "evp",
+      "mercury",
+      "ratner",
+      "sells",
+      "steven",
+      "stock",
+      "systems"
+    ],
+    "ts": 1788920999.8633873
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/mexico-sees-up-to-25-economic-growth-in-2027-narrower-deficit-in-2027-budget-draft-4892668",
+    "title": "Mexico sees up to 2.5% economic growth in 2027, narrower deficit in 2027 budget draft",
+    "tokens": [
+      "2027",
+      "budget",
+      "deficit",
+      "draft",
+      "economic",
+      "growth",
+      "mexico",
+      "narrower",
+      "sees"
+    ],
+    "ts": 1788921007.4460661
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/the-yens-sudden-surge-is-upsetting-the-carry-trade-faithful-4890790",
+    "title": "The yen’s sudden surge upsets the carry trade faithful",
+    "tokens": [
+      "carry",
+      "faithful",
+      "sudden",
+      "surge",
+      "trade",
+      "upsets",
+      "yen"
+    ],
+    "ts": 1788921011.4620676
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
+    "title": "Yen stands tall as dollar wobbles, oil’s run towards $100 chills sentiment",
+    "tokens": [
+      "100",
+      "chills",
+      "dollar",
+      "oil",
+      "run",
+      "sentiment",
+      "stands",
+      "tall",
+      "towards",
+      "wobbles",
+      "yen"
+    ],
+    "ts": 1788921015.0306783
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/alpha-metallurgical-resources-director-kenneth-courtis-buys-226m-in-shares-93CH-4892666",
+    "title": "Alpha Metallurgical Resources director Kenneth Courtis buys $2.26m in shares",
+    "tokens": [
+      "26m",
+      "alpha",
+      "buys",
+      "courtis",
+      "director",
+      "kenneth",
+      "metallurgical",
+      "resources",
+      "shares"
+    ],
+    "ts": 1788921021.734419
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/flexsteel-vp-kammes-sells-227k-in-common-stock-after-option-exercises-93CH-4892664",
+    "title": "Flexsteel VP Kammes sells $227k in common stock after option exercises",
+    "tokens": [
+      "227k",
+      "common",
+      "exercises",
+      "flexsteel",
+      "kammes",
+      "option",
+      "sells",
+      "stock"
+    ],
+    "ts": 1788921029.0009375
   }
 ]

@@ -1,300 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/galantas-gold-reports-warrant-exercise-for-250000-shares-93CH-4890691",
-    "title": "Galantas Gold reports warrant exercise for 250,000 shares",
-    "tokens": [
-      "000",
-      "250",
-      "exercise",
-      "galantas",
-      "gold",
-      "reports",
-      "shares",
-      "warrant"
-    ],
-    "ts": 1788795758.0125482
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cqs-new-city-high-yield-fund-issues-35m-shares-at-505p-93CH-4890690",
-    "title": "CQS New City High Yield Fund issues 3.5m shares at 50.5p",
-    "tokens": [
-      "city",
-      "cqs",
-      "fund",
-      "high",
-      "issues",
-      "shares",
-      "yield"
-    ],
-    "ts": 1788795765.4685733
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-099-4890689",
-    "title": "Turkey stocks higher at close of trade; BIST 100 up 0.99%",
-    "tokens": [
-      "100",
-      "bist",
-      "close",
-      "higher",
-      "stocks",
-      "trade",
-      "turkey"
-    ],
-    "ts": 1788795773.1319046
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-001-4890687",
-    "title": "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 0.01%",
-    "tokens": [
-      "close",
-      "copenhagen",
-      "denmark",
-      "lower",
-      "omx",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1788795780.1449494
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/iss-advises-conagra-shareholders-to-reject-proposed-executive-pay-programme-4890686",
-    "title": "ISS advises Conagra shareholders to reject proposed executive pay programme",
-    "tokens": [
-      "advises",
-      "conagra",
-      "executive",
-      "iss",
-      "pay",
-      "programme",
-      "proposed",
-      "reject",
-      "shareholders"
-    ],
-    "ts": 1788795787.7899454
-  },
-  {
-    "id": "american-african-crudes-soar-chinas-143000950.html",
-    "title": "American and African Crudes Soar as China's Oil Imports Rebound",
-    "tokens": [
-      "african",
-      "american",
-      "china",
-      "crudes",
-      "imports",
-      "oil",
-      "rebound",
-      "soar"
-    ],
-    "ts": 1788795791.881307
-  },
-  {
-    "id": "d2825833-733d-4f4f-8e6f-feed4a6386dc",
-    "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
-    "tokens": [
-      "charge",
-      "crypto",
-      "fifth",
-      "massive",
-      "polish",
-      "probe",
-      "prosecutors",
-      "suspect"
-    ],
-    "ts": 1788795796.8443463
-  },
-  {
-    "id": "32cf4dc4-96d1-4d36-81af-98369eb32ff8",
-    "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
-    "tokens": [
-      "biden",
-      "debuts",
-      "holders",
-      "hunter",
-      "laptop",
-      "memecoin",
-      "targeting",
-      "trump"
-    ],
-    "ts": 1788796482.6349251
-  },
-  {
-    "id": "WP-MKTW-0005219537",
-    "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
-    "tokens": [
-      "ahead",
-      "beware",
-      "charts",
-      "chip",
-      "could",
-      "further",
-      "investors",
-      "stock",
-      "these",
-      "warn",
-      "weakness"
-    ],
-    "ts": 1788797448.7929008
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/faron-pharmaceuticals-receives-major-holding-notification-93CH-4890693",
-    "title": "Faron Pharmaceuticals receives major holding notification",
-    "tokens": [
-      "faron",
-      "holding",
-      "major",
-      "notification",
-      "pharmaceuticals",
-      "receives"
-    ],
-    "ts": 1788797456.196733
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-047-4890692",
-    "title": "Poland stocks higher at close of trade; WIG30 up 0.47%",
-    "tokens": [
-      "close",
-      "higher",
-      "poland",
-      "stocks",
-      "trade",
-      "wig30"
-    ],
-    "ts": 1788797463.1057575
-  },
-  {
-    "id": "entegris-entg-positions-benefit-rebounding-153817721.html",
-    "title": "Entegris (ENTG) Positions to Benefit From Rebounding Wafer Starts and Memory Capex",
-    "tokens": [
-      "benefit",
-      "capex",
-      "entegris",
-      "entg",
-      "memory",
-      "positions",
-      "rebounding",
-      "starts",
-      "wafer"
-    ],
-    "ts": 1788797470.5054686
-  },
-  {
-    "id": "iraq-really-replace-saudi-arabia-150000955.html",
-    "title": "Can Iraq Really Replace Saudi Arabia As The Middle East’s Top Oil Producer?",
-    "tokens": [
-      "arabia",
-      "can",
-      "east",
-      "iraq",
-      "middle",
-      "oil",
-      "producer",
-      "really",
-      "replace",
-      "saudi",
-      "top"
-    ],
-    "ts": 1788797474.5161886
-  },
-  {
-    "id": "oilprice-article-45427",
-    "title": "Uzbekistan Scales Back Nuclear Cooperation With Russia",
-    "tokens": [
-      "back",
-      "cooperation",
-      "nuclear",
-      "russia",
-      "scales",
-      "uzbekistan"
-    ],
-    "ts": 1788797479.0943582
-  },
-  {
-    "id": "oilprice-news-45427",
-    "title": "High Crude and LNG Prices Weigh on India’s Oil and Gas Sector",
-    "tokens": [
-      "crude",
-      "gas",
-      "high",
-      "india",
-      "lng",
-      "oil",
-      "prices",
-      "sector",
-      "weigh"
-    ],
-    "ts": 1788797483.1052253
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance",
-    "title": "Bitcoin chips away at weekend upside as $80K hangs in the balance",
-    "tokens": [
-      "80k",
-      "away",
-      "balance",
-      "bitcoin",
-      "chips",
-      "hangs",
-      "upside",
-      "weekend"
-    ],
-    "ts": 1788797486.5314953
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-011-4890705",
-    "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.11%",
-    "tokens": [
-      "100",
-      "close",
-      "com",
-      "investing",
-      "kingdom",
-      "lower",
-      "stocks",
-      "trade",
-      "united"
-    ],
-    "ts": 1788798469.813799
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-014-4890704",
-    "title": "Spain stocks lower at close of trade; IBEX 35 down 0.14%",
-    "tokens": [
-      "close",
-      "ibex",
-      "lower",
-      "spain",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1788798477.220206
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-032-4890703",
-    "title": "Portugal stocks higher at close of trade; PSI up 0.32%",
-    "tokens": [
-      "close",
-      "higher",
-      "portugal",
-      "psi",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1788798483.9387507
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-017-4890702",
-    "title": "Netherlands stocks higher at close of trade; AEX up 0.17%",
-    "tokens": [
-      "aex",
-      "close",
-      "higher",
-      "netherlands",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1788798491.1029115
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-027-4890701",
     "title": "Italy stocks higher at close of trade; Investing.com Italy 40 up 0.27%",
     "tokens": [
@@ -23292,5 +22997,299 @@
       "your"
     ],
     "ts": 1788994337.596765
+  },
+  {
+    "id": "WP-MKTW-0005223886",
+    "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
+    "tokens": [
+      "another",
+      "bill",
+      "diesel",
+      "grocery",
+      "high",
+      "hit",
+      "prices",
+      "record",
+      "see",
+      "shocked",
+      "until",
+      "wait",
+      "you",
+      "your"
+    ],
+    "ts": 1788995387.5378635
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/factboxfoldable-iphone-pricier-18-pro-unveiled-in-apples-first-event-under-ternus-4894517",
+    "title": "Factbox-Foldable iPhone, pricier 18 Pro unveiled in Apple’s first event under Ternus",
+    "tokens": [
+      "apple",
+      "event",
+      "factbox",
+      "first",
+      "foldable",
+      "iphone",
+      "pricier",
+      "pro",
+      "ternus",
+      "under",
+      "unveiled"
+    ],
+    "ts": 1788995396.292873
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/microchip-at-citi-2026-global-tmt-conference-recovery-broadens-93CH-4894731",
+    "title": "Microchip at Citi 2026 Global TMT Conference: recovery broadens",
+    "tokens": [
+      "2026",
+      "broadens",
+      "citi",
+      "conference",
+      "global",
+      "microchip",
+      "recovery",
+      "tmt"
+    ],
+    "ts": 1788995400.308803
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pacs-group-ceo-jason-hulse-murray-sells-22m-in-stock-93CH-4894730",
+    "title": "PACS Group CEO Jason Hulse Murray sells $2.2m in stock",
+    "tokens": [
+      "ceo",
+      "group",
+      "hulse",
+      "jason",
+      "murray",
+      "pacs",
+      "sells",
+      "stock"
+    ],
+    "ts": 1788995403.1656687
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/united-therapeutics-at-cantor-healthcare-conference-fibrosis-push-widens-93CH-4894729",
+    "title": "United Therapeutics at Cantor healthcare conference: fibrosis push widens",
+    "tokens": [
+      "cantor",
+      "conference",
+      "fibrosis",
+      "healthcare",
+      "push",
+      "therapeutics",
+      "united",
+      "widens"
+    ],
+    "ts": 1788995410.9231737
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/box-at-citis-2026-global-tmt-conference-ai-drives-growth-93CH-4894727",
+    "title": "Box at Citi’s 2026 Global TMT Conference: AI drives growth",
+    "tokens": [
+      "2026",
+      "box",
+      "citi",
+      "conference",
+      "drives",
+      "global",
+      "growth",
+      "tmt"
+    ],
+    "ts": 1788995414.9385278
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/community-health-systems-at-wells-fargo-conference-guidance-trimmed-93CH-4894726",
+    "title": "Community Health Systems at Wells Fargo conference: guidance trimmed",
+    "tokens": [
+      "community",
+      "conference",
+      "fargo",
+      "guidance",
+      "health",
+      "systems",
+      "trimmed",
+      "wells"
+    ],
+    "ts": 1788995418.506364
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/blackline-at-citis-2026-global-tmt-conference-ai-push-lifts-outlook-93CH-4894725",
+    "title": "BlackLine at Citi’s 2026 Global TMT Conference: ai push lifts outlook",
+    "tokens": [
+      "2026",
+      "blackline",
+      "citi",
+      "conference",
+      "global",
+      "lifts",
+      "outlook",
+      "push",
+      "tmt"
+    ],
+    "ts": 1788995422.5217075
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/salesforce-at-goldman-sachs-communacopia-ai-agents-reshape-work-93CH-4894724",
+    "title": "Salesforce at Goldman Sachs Communacopia: ai agents reshape work",
+    "tokens": [
+      "agents",
+      "communacopia",
+      "goldman",
+      "reshape",
+      "sachs",
+      "salesforce",
+      "work"
+    ],
+    "ts": 1788995426.4822245
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/yelp-at-goldman-sachs-communacopia--technology-conference-2026-ai-push-93CH-4894723",
+    "title": "Yelp at Goldman Sachs Communacopia + Technology Conference 2026: ai push",
+    "tokens": [
+      "2026",
+      "communacopia",
+      "conference",
+      "goldman",
+      "push",
+      "sachs",
+      "technology",
+      "yelp"
+    ],
+    "ts": 1788995430.4977272
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/mediaalpha-cto-amy-yeh-sells-36000-in-max-shares-93CH-4894722",
+    "title": "MediaAlpha CTO Amy Yeh sells $36,000 in MAX shares",
+    "tokens": [
+      "000",
+      "amy",
+      "cto",
+      "max",
+      "mediaalpha",
+      "sells",
+      "shares",
+      "yeh"
+    ],
+    "ts": 1788995434.3164816
+  },
+  {
+    "id": "qdoba-franchisee-defaults-20-million-151826300.html",
+    "title": "Qdoba franchisee defaults on $20 million loan",
+    "tokens": [
+      "defaults",
+      "franchisee",
+      "loan",
+      "million",
+      "qdoba"
+    ],
+    "ts": 1788995441.1555476
+  },
+  {
+    "id": "newmont-stock-outperforming-nasdaq-151356607.html",
+    "title": "Is Newmont Stock Outperforming the Nasdaq?",
+    "tokens": [
+      "nasdaq",
+      "newmont",
+      "outperforming",
+      "stock"
+    ],
+    "ts": 1788995445.1713567
+  },
+  {
+    "id": "dip-intel-20-billion-raise-151920658.html",
+    "title": "After the Dip, Intel’s $20 Billion Raise Is Not the Red Flag It Originally Looked Like",
+    "tokens": [
+      "billion",
+      "dip",
+      "flag",
+      "intel",
+      "like",
+      "looked",
+      "originally",
+      "raise",
+      "red"
+    ],
+    "ts": 1788995448.4949327
+  },
+  {
+    "id": "nuscale-power-spikes-13-oklo-151349633.html",
+    "title": "NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted?",
+    "tokens": [
+      "climbs",
+      "exhausted",
+      "finally",
+      "nuclear",
+      "nuscale",
+      "oklo",
+      "power",
+      "selloff",
+      "spikes"
+    ],
+    "ts": 1788995455.3879824
+  },
+  {
+    "id": "oil-prices-once-again-brink-151318211.html",
+    "title": "Oil Prices Are Once Again on the Brink of $100",
+    "tokens": [
+      "100",
+      "again",
+      "brink",
+      "oil",
+      "once",
+      "prices"
+    ],
+    "ts": 1788995459.4037397
+  },
+  {
+    "id": "inflation-concerns-weigh-stocks-151229208.html",
+    "title": "Inflation Concerns Weigh on Stocks",
+    "tokens": [
+      "concerns",
+      "inflation",
+      "stocks",
+      "weigh"
+    ],
+    "ts": 1788995462.7367237
+  },
+  {
+    "id": "rubis-turns-expensive-oil-guidance-150910219.html",
+    "title": "Rubis Turns Expensive Oil Into a Guidance Upgrade",
+    "tokens": [
+      "expensive",
+      "guidance",
+      "oil",
+      "rubis",
+      "turns",
+      "upgrade"
+    ],
+    "ts": 1788995469.3670516
+  },
+  {
+    "id": "oilprice-article-45460",
+    "title": "Canadian Oil Pushes Deeper Into U.S. Gulf Coast Market",
+    "tokens": [
+      "canadian",
+      "coast",
+      "deeper",
+      "gulf",
+      "market",
+      "oil",
+      "pushes"
+    ],
+    "ts": 1788995478.0285099
+  },
+  {
+    "id": "oilprice-news-45460",
+    "title": "U.S. Crude Stocks Edge Lower as Oil Tops $100",
+    "tokens": [
+      "100",
+      "crude",
+      "edge",
+      "lower",
+      "oil",
+      "stocks",
+      "tops"
+    ],
+    "ts": 1788995482.0456438
   }
 ]

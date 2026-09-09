@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/novo-nordisk-trial-shows-semaglutide-helped-40-of-children-93CH-4890597",
-    "title": "Novo Nordisk trial shows semaglutide helped 40% of children",
-    "tokens": [
-      "children",
-      "helped",
-      "nordisk",
-      "novo",
-      "semaglutide",
-      "shows",
-      "trial"
-    ],
-    "ts": 1788777887.6716394
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-sun-international-posts-strong-h1-2026-growth-93CH-4890596",
-    "title": "Earnings call transcript: Sun International posts strong H1 2026 growth",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "growth",
-      "international",
-      "posts",
-      "strong",
-      "sun",
-      "transcript"
-    ],
-    "ts": 1788777891.6806164
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ishares-european-property-yield-etf-index-criteria-tightens-93CH-4890595",
-    "title": "iShares European Property Yield ETF index criteria tightens",
-    "tokens": [
-      "criteria",
-      "etf",
-      "european",
-      "index",
-      "ishares",
-      "property",
-      "tightens",
-      "yield"
-    ],
-    "ts": 1788777894.9621089
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-standard-life-posts-strong-h1-2026-growth-shares-slip-93CH-4890594",
     "title": "Earnings call transcript: Standard Life posts strong H1 2026 growth, shares slip",
     "tokens": [
@@ -23392,5 +23347,50 @@
       "settle"
     ],
     "ts": 1788982759.2098405
+  },
+  {
+    "id": "WP-MKTW-0005223991",
+    "title": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump’s new ban.",
+    "tokens": [
+      "avoid",
+      "ban",
+      "canadian",
+      "crown",
+      "rocks",
+      "royal",
+      "set",
+      "trump",
+      "whisky"
+    ],
+    "ts": 1788983455.6602244
+  },
+  {
+    "id": "arizona-inks-deal-bring-italian-104400572.html",
+    "title": "Arizona Beverages inks deal to bring Italian sparkling water to US",
+    "tokens": [
+      "arizona",
+      "beverages",
+      "bring",
+      "deal",
+      "inks",
+      "italian",
+      "sparkling",
+      "water"
+    ],
+    "ts": 1788983464.1585603
+  },
+  {
+    "id": "bloom-energy-shares-rise-p-104838920.html",
+    "title": "Bloom Energy Shares Rise After S&P 500 Inclusion Confirmed",
+    "tokens": [
+      "500",
+      "bloom",
+      "confirmed",
+      "energy",
+      "inclusion",
+      "rise",
+      "shares"
+    ],
+    "ts": 1788983471.6618493
   }
 ]

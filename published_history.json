@@ -1,117 +1,5 @@
 [
   {
-    "id": "oilprice-news-45430",
-    "title": "American and African Crudes Soar as China's Oil Imports Rebound",
-    "tokens": [
-      "african",
-      "american",
-      "china",
-      "crudes",
-      "imports",
-      "oil",
-      "rebound",
-      "soar"
-    ],
-    "ts": 1788793891.9465842
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-046-4890685",
-    "title": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.46%",
-    "tokens": [
-      "all",
-      "close",
-      "lower",
-      "moroccan",
-      "morocco",
-      "shares",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1788794824.183527
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-039-4890682",
-    "title": "Norway stocks lower at close of trade; Oslo OBX down 0.39%",
-    "tokens": [
-      "close",
-      "lower",
-      "norway",
-      "obx",
-      "oslo",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1788794831.8138783
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-112-4890681",
-    "title": "Israel stocks higher at close of trade; TA 35 up 1.12%",
-    "tokens": [
-      "close",
-      "higher",
-      "israel",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1788794839.090043
-  },
-  {
-    "id": "2-ai-power-stocks-jumped-150120214.html",
-    "title": "These 2 AI Power Stocks Jumped While the S&P 500 Fell",
-    "tokens": [
-      "500",
-      "fell",
-      "jumped",
-      "power",
-      "stocks",
-      "these",
-      "while"
-    ],
-    "ts": 1788794849.6710033
-  },
-  {
-    "id": "innovation-engine-drives-sharkninja-sn-150041521.html",
-    "title": "Innovation Engine Drives SharkNinja’s (SN) Sustainable Advantage",
-    "tokens": [
-      "advantage",
-      "drives",
-      "engine",
-      "innovation",
-      "sharkninja",
-      "sustainable"
-    ],
-    "ts": 1788794859.231429
-  },
-  {
-    "id": "bernie-sanders-wants-ban-superintelligence-145733495.html",
-    "title": "Bernie Sanders Wants to Ban Superintelligence. What It Means for Microsoft and Amazon",
-    "tokens": [
-      "amazon",
-      "ban",
-      "bernie",
-      "means",
-      "microsoft",
-      "sanders",
-      "superintelligence",
-      "wants",
-      "what"
-    ],
-    "ts": 1788794868.0629694
-  },
-  {
-    "id": "why-active-owners-betting-jack-145520823.html",
-    "title": "Why Active Owners Are Betting on Jack in the Box (JACK)",
-    "tokens": [
-      "active",
-      "betting",
-      "box",
-      "jack",
-      "owners",
-      "why"
-    ],
-    "ts": 1788794875.4755747
-  },
-  {
     "id": "https://www.investing.com/news/company-news/galantas-gold-reports-warrant-exercise-for-250000-shares-93CH-4890691",
     "title": "Galantas Gold reports warrant exercise for 250,000 shares",
     "tokens": [
@@ -23295,5 +23183,114 @@
       "yen"
     ],
     "ts": 1788993613.056018
+  },
+  {
+    "id": "why-analysts-downgraded-matador-resources-145613030.html",
+    "title": "Here’s Why Analysts Downgraded Matador Resources Company (MTDR)",
+    "tokens": [
+      "analysts",
+      "company",
+      "downgraded",
+      "here",
+      "matador",
+      "mtdr",
+      "resources",
+      "why"
+    ],
+    "ts": 1788994288.0106208
+  },
+  {
+    "id": "deloitte-romania-expands-management-team-145610820.html",
+    "title": "Deloitte Romania expands management team with three new directors",
+    "tokens": [
+      "deloitte",
+      "directors",
+      "expands",
+      "management",
+      "romania",
+      "team",
+      "three"
+    ],
+    "ts": 1788994295.8194818
+  },
+  {
+    "id": "simon-property-stock-underperforming-nasdaq-145319701.html",
+    "title": "Is Simon Property Stock Underperforming the Nasdaq?",
+    "tokens": [
+      "nasdaq",
+      "property",
+      "simon",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1788994303.7488425
+  },
+  {
+    "id": "ford-motor-stock-outperforming-p-144729393.html",
+    "title": "Is Ford Motor Stock Outperforming the S&P 500?",
+    "tokens": [
+      "500",
+      "ford",
+      "motor",
+      "outperforming",
+      "stock"
+    ],
+    "ts": 1788994310.959808
+  },
+  {
+    "id": "williams-companies-stock-outperforming-dow-145649893.html",
+    "title": "Is Williams Companies Stock Outperforming the Dow?",
+    "tokens": [
+      "companies",
+      "dow",
+      "outperforming",
+      "stock",
+      "williams"
+    ],
+    "ts": 1788994319.3079655
+  },
+  {
+    "id": "travelers-companies-stock-outperforming-p-144914934.html",
+    "title": "Is Travelers Companies Stock Outperforming the S&P 500?",
+    "tokens": [
+      "500",
+      "companies",
+      "outperforming",
+      "stock",
+      "travelers"
+    ],
+    "ts": 1788994326.6950262
+  },
+  {
+    "id": "hilton-worldwides-stock-performance-compared-144546914.html",
+    "title": "How Is Hilton Worldwide's Stock Performance Compared to Other Leisure and Entertainment Stocks?",
+    "tokens": [
+      "compared",
+      "entertainment",
+      "hilton",
+      "how",
+      "leisure",
+      "other",
+      "performance",
+      "stock",
+      "stocks",
+      "worldwide"
+    ],
+    "ts": 1788994333.580185
+  },
+  {
+    "id": "dear-draftkings-stock-fans-mark-144631053.html",
+    "title": "Dear DraftKings Stock Fans, Mark Your Calendars for September 9",
+    "tokens": [
+      "calendars",
+      "dear",
+      "draftkings",
+      "fans",
+      "mark",
+      "september",
+      "stock",
+      "your"
+    ],
+    "ts": 1788994337.596765
   }
 ]

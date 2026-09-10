@@ -1,47 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/msc-industrial-names-rob-kuhns-as-cfo-93CH-4891657",
-    "title": "MSC Industrial names Rob Kuhns as CFO",
-    "tokens": [
-      "cfo",
-      "industrial",
-      "kuhns",
-      "msc",
-      "names",
-      "rob"
-    ],
-    "ts": 1788871132.3767705
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/gorilla-technology-begins-equipment-delivery-for-india-ai-project-93CH-4891655",
-    "title": "Gorilla Technology begins equipment delivery for India AI project",
-    "tokens": [
-      "begins",
-      "delivery",
-      "equipment",
-      "gorilla",
-      "india",
-      "project",
-      "technology"
-    ],
-    "ts": 1788871142.3659806
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-nvidia-stock-rating-on-ai-demand-outlook-93CH-4891641",
-    "title": "Cantor Fitzgerald reiterates Nvidia stock rating on AI demand outlook",
-    "tokens": [
-      "cantor",
-      "demand",
-      "fitzgerald",
-      "nvidia",
-      "outlook",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1788871153.469184
-  },
-  {
     "id": "https://www.investing.com/news/company-news/tenet-healthcare-offers-15b-notes-to-refinance-2027-debt-93CH-4891640",
     "title": "Tenet Healthcare offers $1.5B notes to refinance 2027 debt",
     "tokens": [
@@ -23146,5 +23104,55 @@
       "talk"
     ],
     "ts": 1789032591.0784152
+  },
+  {
+    "id": "stock-market-today-sept-8-213626957.html",
+    "title": "Stock Market Today, Sept. 8: Stocks Slide Amid Surging Oil Prices, Persistent Geopolotical Tenisons",
+    "tokens": [
+      "geopolotical",
+      "market",
+      "oil",
+      "persistent",
+      "prices",
+      "sept",
+      "slide",
+      "stock",
+      "stocks",
+      "surging",
+      "tenisons",
+      "today"
+    ],
+    "ts": 1789033537.2475967
+  },
+  {
+    "id": "a104dfa1-f156-4f77-8f92-d05791570086",
+    "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
+    "tokens": [
+      "agri",
+      "backed",
+      "billion",
+      "giant",
+      "grain",
+      "indian",
+      "loans",
+      "onchain",
+      "putting",
+      "warehouse"
+    ],
+    "ts": 1789033546.3398488
+  },
+  {
+    "id": "https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche",
+    "title": "India’s Arya.ag to put grain ownership records on Avalanche",
+    "tokens": [
+      "arya",
+      "avalanche",
+      "grain",
+      "india",
+      "ownership",
+      "put",
+      "records"
+    ],
+    "ts": 1789033553.4218678
   }
 ]

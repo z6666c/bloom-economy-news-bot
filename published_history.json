@@ -1,198 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/oppenheimer-initiates-aktis-oncology-stock-rating-at-outperform-93CH-4893208",
-    "title": "Oppenheimer initiates Aktis Oncology stock rating at Outperform",
-    "tokens": [
-      "aktis",
-      "initiates",
-      "oncology",
-      "oppenheimer",
-      "outperform",
-      "rating",
-      "stock"
-    ],
-    "ts": 1788952256.3548717
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/william-blair-initiates-obsidian-therapeutics-stock-with-outperform-rating-93CH-4893207",
-    "title": "William Blair initiates Obsidian Therapeutics stock with outperform rating",
-    "tokens": [
-      "blair",
-      "initiates",
-      "obsidian",
-      "outperform",
-      "rating",
-      "stock",
-      "therapeutics",
-      "william"
-    ],
-    "ts": 1788952265.3437023
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/jersey-mikes-reports-23-samestore-sales-growth-in-q2-93CH-4893206",
-    "title": "Jersey Mike’s reports 2.3% same-store sales growth in Q2",
-    "tokens": [
-      "growth",
-      "jersey",
-      "mike",
-      "reports",
-      "sales",
-      "same",
-      "store"
-    ],
-    "ts": 1788952274.1430366
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/niq-launches-optiq-ai-platform-within-discover-system-93CH-4893205",
-    "title": "NIQ launches Optiq AI platform within Discover system",
-    "tokens": [
-      "discover",
-      "launches",
-      "niq",
-      "optiq",
-      "platform",
-      "system",
-      "within"
-    ],
-    "ts": 1788952282.512903
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/korn-ferry-earnings-beat-by-007-revenue-topped-estimates-4893204",
-    "title": "Korn Ferry earnings beat by $0.07, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "earnings",
-      "estimates",
-      "ferry",
-      "korn",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1788952291.428622
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-lithium-americas-stock-rallying-3-today-93CH-4893203",
-    "title": "Why is Lithium Americas stock rallying 3% today?",
-    "tokens": [
-      "americas",
-      "lithium",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1788952299.3919332
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-figure-technology-solutions-stock-gaining-today-93CH-4893200",
-    "title": "Why is Figure Technology Solutions stock gaining today?",
-    "tokens": [
-      "figure",
-      "gaining",
-      "solutions",
-      "stock",
-      "technology",
-      "today",
-      "why"
-    ],
-    "ts": 1788952307.6991184
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/analysisge-aerospace-bets-on-black-art-of-casting-to-secure-jet-engine-supply-4893198",
-    "title": "Analysis-GE Aerospace bets on ’black art’ of casting to secure jet engine supply",
-    "tokens": [
-      "aerospace",
-      "analysis",
-      "art",
-      "bets",
-      "black",
-      "casting",
-      "engine",
-      "jet",
-      "secure",
-      "supply"
-    ],
-    "ts": 1788952317.0354338
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bofa-upgrades-sasol-stock-rating-to-buy-on-cash-flow-outlook-93CH-4893192",
-    "title": "BofA upgrades Sasol stock rating to buy on cash flow outlook",
-    "tokens": [
-      "bofa",
-      "buy",
-      "cash",
-      "flow",
-      "outlook",
-      "rating",
-      "sasol",
-      "stock",
-      "upgrades"
-    ],
-    "ts": 1788952325.7159865
-  },
-  {
-    "id": "silver-price-today-wednesday-september-9-2026-silver-prices-hold-in-the-66-range-as-us-iranian-attacks-continue-105942902.html",
-    "title": "Silver price today, Wednesday, September 9, 2026:  Silver prices hold in the $66 range as U.S.-Iranian attacks continue",
-    "tokens": [
-      "2026",
-      "attacks",
-      "continue",
-      "hold",
-      "iranian",
-      "price",
-      "prices",
-      "range",
-      "september",
-      "silver",
-      "today",
-      "wednesday"
-    ],
-    "ts": 1788952334.221117
-  },
-  {
-    "id": "humanity-dying-elon-musk-warns-104500835.html",
-    "title": "‘Humanity is dying out’: Elon Musk warns America needs more babies — and a major Social Security risk emerges beneath it",
-    "tokens": [
-      "america",
-      "babies",
-      "beneath",
-      "dying",
-      "elon",
-      "emerges",
-      "humanity",
-      "major",
-      "more",
-      "musk",
-      "needs",
-      "risk",
-      "security",
-      "social",
-      "warns"
-    ],
-    "ts": 1788952341.8127341
-  },
-  {
-    "id": "gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html",
-    "title": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
-    "tokens": [
-      "2026",
-      "drop",
-      "five",
-      "following",
-      "gold",
-      "iranian",
-      "oil",
-      "price",
-      "prices",
-      "september",
-      "strikes",
-      "tankers",
-      "today",
-      "wednesday"
-    ],
-    "ts": 1788952350.8427186
-  },
-  {
     "id": "WP-MKTW-0005222973",
     "title": "Strategists say S&P 500 could top 8,000 — but risks of a pullback are mounting",
     "tokens": [
@@ -23160,5 +22967,197 @@
       "firm"
     ],
     "ts": 1789076356.6213722
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/texas-stock-exchange-captures-first-primary-equity-market-listings-from-nyse-4897004",
+    "title": "Texas Stock Exchange captures first primary equity market listings from NYSE",
+    "tokens": [
+      "captures",
+      "equity",
+      "exchange",
+      "first",
+      "listings",
+      "market",
+      "nyse",
+      "primary",
+      "stock",
+      "texas"
+    ],
+    "ts": 1789077104.7690294
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-alliance-entertainment-rallies-on-q4-2026-growth-93CH-4897003",
+    "title": "Earnings call transcript: Alliance Entertainment rallies on Q4 2026 growth",
+    "tokens": [
+      "2026",
+      "alliance",
+      "call",
+      "earnings",
+      "entertainment",
+      "growth",
+      "rallies",
+      "transcript"
+    ],
+    "ts": 1789077115.2862093
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/nexstar-at-goldman-sachs-conference-growth-bets-meet-regulatory-lift-93CH-4897002",
+    "title": "Nexstar at Goldman Sachs conference: growth bets meet regulatory lift",
+    "tokens": [
+      "bets",
+      "conference",
+      "goldman",
+      "growth",
+      "lift",
+      "meet",
+      "nexstar",
+      "regulatory",
+      "sachs"
+    ],
+    "ts": 1789077122.4397993
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/lyft-at-goldman-sachs-communacopia--technology-conference-2026-growth-shifts-93CH-4897001",
+    "title": "Lyft at Goldman Sachs Communacopia + Technology Conference 2026: growth shifts",
+    "tokens": [
+      "2026",
+      "communacopia",
+      "conference",
+      "goldman",
+      "growth",
+      "lyft",
+      "sachs",
+      "shifts",
+      "technology"
+    ],
+    "ts": 1789077126.455126
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/par-technology-at-goldman-sachs-communacopia--technology-conference-2026-ai-push-93CH-4896999",
+    "title": "PAR Technology at Goldman Sachs Communacopia + Technology Conference 2026: AI push",
+    "tokens": [
+      "2026",
+      "communacopia",
+      "conference",
+      "goldman",
+      "par",
+      "push",
+      "sachs",
+      "technology"
+    ],
+    "ts": 1789077126.4698079
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-zumiez-posts-q2-2026-miss-as-stock-sinks-after-hours-93CH-4896998",
+    "title": "Earnings call transcript: Zumiez posts Q2 2026 miss as stock sinks after hours",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "hours",
+      "miss",
+      "posts",
+      "sinks",
+      "stock",
+      "transcript",
+      "zumiez"
+    ],
+    "ts": 1789077131.6629233
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ibex-q4-fy26-slides-ai-push-drives-growth-margins-face-pressure-93CH-4896997",
+    "title": "ibex Q4 FY26 slides: AI push drives growth, margins face pressure",
+    "tokens": [
+      "drives",
+      "face",
+      "fy26",
+      "growth",
+      "ibex",
+      "margins",
+      "pressure",
+      "push",
+      "slides"
+    ],
+    "ts": 1789077139.8020785
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/compass-pathways-at-cantor-healthcare-conference-launch-path-sharpens-93CH-4896996",
+    "title": "COMPASS Pathways at cantor healthcare conference: launch path sharpens",
+    "tokens": [
+      "cantor",
+      "compass",
+      "conference",
+      "healthcare",
+      "launch",
+      "path",
+      "pathways",
+      "sharpens"
+    ],
+    "ts": 1789077147.6966035
+  },
+  {
+    "id": "look-very-hard-microsoft-alphabet-133150416.html",
+    "title": "Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets",
+    "tokens": [
+      "alphabet",
+      "fears",
+      "hard",
+      "hike",
+      "look",
+      "markets",
+      "microsoft",
+      "rate",
+      "roil",
+      "very"
+    ],
+    "ts": 1789077155.293127
+  },
+  {
+    "id": "est-e-lauders-stock-performance-134152719.html",
+    "title": "How Is Estée Lauder's Stock Performance Compared to Other Consumer Staples Stocks?",
+    "tokens": [
+      "compared",
+      "consumer",
+      "est",
+      "how",
+      "lauder",
+      "other",
+      "performance",
+      "staples",
+      "stock",
+      "stocks"
+    ],
+    "ts": 1789077162.0306168
+  },
+  {
+    "id": "premium-flattening-hits-kinsale-capital-134443876.html",
+    "title": "Premium Flattening Hits Kinsale Capital Group (KNSL) Stock Performance",
+    "tokens": [
+      "capital",
+      "flattening",
+      "group",
+      "hits",
+      "kinsale",
+      "knsl",
+      "performance",
+      "premium",
+      "stock"
+    ],
+    "ts": 1789077169.8685675
+  },
+  {
+    "id": "dear-sailpoint-stock-fans-mark-134944930.html",
+    "title": "Dear SailPoint Stock Fans, Mark Your Calendars for September 9",
+    "tokens": [
+      "calendars",
+      "dear",
+      "fans",
+      "mark",
+      "sailpoint",
+      "september",
+      "stock",
+      "your"
+    ],
+    "ts": 1789077173.8844388
   }
 ]

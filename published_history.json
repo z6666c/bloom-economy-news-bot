@@ -1,272 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-initiates-astrazeneca-stock-at-outperform-sets-target-at-145-93CH-4892882",
-    "title": "RBC Capital initiates AstraZeneca stock at Outperform, sets target at £145",
-    "tokens": [
-      "145",
-      "astrazeneca",
-      "capital",
-      "initiates",
-      "outperform",
-      "rbc",
-      "sets",
-      "stock",
-      "target"
-    ],
-    "ts": 1788943624.02473
-  },
-  {
-    "id": "WP-MKTW-0005219652",
-    "title": "How fashion designer Marc Jacobs renovated a $9 million Frank Lloyd Wright house",
-    "tokens": [
-      "designer",
-      "fashion",
-      "frank",
-      "house",
-      "how",
-      "jacobs",
-      "lloyd",
-      "marc",
-      "million",
-      "renovated",
-      "wright"
-    ],
-    "ts": 1788945058.2422657
-  },
-  {
-    "id": "WP-MKTW-0005219636",
-    "title": "‘The View’ host Joy Behar finally sells Hamptons house for about half the original asking price",
-    "tokens": [
-      "about",
-      "asking",
-      "behar",
-      "finally",
-      "half",
-      "hamptons",
-      "host",
-      "house",
-      "joy",
-      "original",
-      "price",
-      "sells",
-      "view"
-    ],
-    "ts": 1788945070.8487763
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-thermo-fisher-scientific-stock-rating-on-growth-outlook-93CH-4892913",
-    "title": "UBS upgrades Thermo Fisher Scientific stock rating on growth outlook",
-    "tokens": [
-      "fisher",
-      "growth",
-      "outlook",
-      "rating",
-      "scientific",
-      "stock",
-      "thermo",
-      "ubs",
-      "upgrades"
-    ],
-    "ts": 1788945079.211147
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-assumes-coverage-on-danaher-stock-with-buy-rating-250-target-93CH-4892912",
-    "title": "UBS assumes coverage on Danaher stock with buy rating, $250 target",
-    "tokens": [
-      "250",
-      "assumes",
-      "buy",
-      "coverage",
-      "danaher",
-      "rating",
-      "stock",
-      "target",
-      "ubs"
-    ],
-    "ts": 1788945087.9699278
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-energean-h1-2026-cash-flow-jumps-as-katlan-advances-93CH-4892911",
-    "title": "Earnings call transcript: Energean H1 2026 cash flow jumps as Katlan advances",
-    "tokens": [
-      "2026",
-      "advances",
-      "call",
-      "cash",
-      "earnings",
-      "energean",
-      "flow",
-      "jumps",
-      "katlan",
-      "transcript"
-    ],
-    "ts": 1788945099.397773
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-nn-stock-falling-today-93CH-4892906",
-    "title": "Why is NN stock falling today?",
-    "tokens": [
-      "falling",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1788945107.5809186
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/braze-stock-tumbles-10-on-weak-third-quarter-eps-guidance-4892391",
-    "title": "Braze stock tumbles 11% on weak third quarter earnings guidance",
-    "tokens": [
-      "braze",
-      "earnings",
-      "guidance",
-      "quarter",
-      "stock",
-      "third",
-      "tumbles",
-      "weak"
-    ],
-    "ts": 1788945116.1286418
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/european-gas-spikes-to-2023-highs-as-expanding-iran-war-threatens-lng-supply-4892866",
-    "title": "European gas spikes to 2023 highs as expanding Iran war threatens LNG supply",
-    "tokens": [
-      "2023",
-      "european",
-      "expanding",
-      "gas",
-      "highs",
-      "iran",
-      "lng",
-      "spikes",
-      "supply",
-      "threatens",
-      "war"
-    ],
-    "ts": 1788945126.665103
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/santana-minerals-at-resources-rising-stars-gold-coast-conference-permit-path-93CH-4892905",
-    "title": "Santana Minerals at Resources Rising Stars Gold Coast Conference: permit path",
-    "tokens": [
-      "coast",
-      "conference",
-      "gold",
-      "minerals",
-      "path",
-      "permit",
-      "resources",
-      "rising",
-      "santana",
-      "stars"
-    ],
-    "ts": 1788945134.8604078
-  },
-  {
-    "id": "eli-lilly-vs-novo-nordisk-230002000.html",
-    "title": "Eli Lilly vs. Novo Nordisk: One Has 39% Upside. I'm Picking the Other.",
-    "tokens": [
-      "eli",
-      "lilly",
-      "nordisk",
-      "novo",
-      "one",
-      "other",
-      "picking",
-      "upside"
-    ],
-    "ts": 1788945144.3591137
-  },
-  {
-    "id": "geopark-venezuela-deal-massive-opportunity-231758960.html",
-    "title": "GeoPark’s Venezuela Deal: Massive Opportunity or Risky Bet?",
-    "tokens": [
-      "bet",
-      "deal",
-      "geopark",
-      "massive",
-      "opportunity",
-      "risky",
-      "venezuela"
-    ],
-    "ts": 1788945152.8655
-  },
-  {
-    "id": "chevron-cvx-doubles-down-venezuela-231939575.html",
-    "title": "Chevron (CVX) Doubles Down on Venezuela with a $7 Billion Oil Bet",
-    "tokens": [
-      "bet",
-      "billion",
-      "chevron",
-      "cvx",
-      "doubles",
-      "oil",
-      "venezuela"
-    ],
-    "ts": 1788945163.4593916
-  },
-  {
-    "id": "jefferies-sees-cameco-ccj-bwxt-222909210.html",
-    "title": "Jefferies Sees Cameco (CCJ) and BWXT as Winners in the Nuclear Boom",
-    "tokens": [
-      "boom",
-      "bwxt",
-      "cameco",
-      "ccj",
-      "jefferies",
-      "nuclear",
-      "sees",
-      "winners"
-    ],
-    "ts": 1788945172.5026386
-  },
-  {
-    "id": "wells-fargo-just-raised-bets-222636997.html",
-    "title": "Wells Fargo Just Raised its Bets on These 2 Refining Giants",
-    "tokens": [
-      "bets",
-      "fargo",
-      "giants",
-      "just",
-      "raised",
-      "refining",
-      "these",
-      "wells"
-    ],
-    "ts": 1788945180.6924353
-  },
-  {
-    "id": "eni-e-betting-billions-venzuela-222155266.html",
-    "title": "Eni (E) is Betting Billions on Venzuela’s Massive Oil Reserves",
-    "tokens": [
-      "betting",
-      "billions",
-      "eni",
-      "massive",
-      "oil",
-      "reserves",
-      "venzuela"
-    ],
-    "ts": 1788945189.6253433
-  },
-  {
-    "id": "baker-hughes-bkr-lands-multi-232500809.html",
-    "title": "Baker Hughes (BKR) Lands Multi-Year Contract with Pakistan’s OGDC",
-    "tokens": [
-      "baker",
-      "bkr",
-      "contract",
-      "hughes",
-      "lands",
-      "multi",
-      "ogdc",
-      "pakistan",
-      "year"
-    ],
-    "ts": 1788945206.4055808
-  },
-  {
     "id": "WP-MKTW-0005222455",
     "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
     "tokens": [
@@ -23264,5 +22997,283 @@
       "regulatory"
     ],
     "ts": 1789071165.9985504
+  },
+  {
+    "id": "WP-MKTW-0005218716",
+    "title": "How to create a ‘forever paycheck’ without paying for an annuity",
+    "tokens": [
+      "annuity",
+      "create",
+      "forever",
+      "how",
+      "paycheck",
+      "paying",
+      "without"
+    ],
+    "ts": 1789071930.815754
+  },
+  {
+    "id": "WP-MKTW-0005223780",
+    "title": "Stocks are sliding as this ‘negative risk trinity’ spooks investors",
+    "tokens": [
+      "investors",
+      "negative",
+      "risk",
+      "sliding",
+      "spooks",
+      "stocks",
+      "trinity"
+    ],
+    "ts": 1789071938.7719872
+  },
+  {
+    "id": "inherited-400-000-ira-not-120000887.html",
+    "title": "I Inherited a $400,000 IRA. Not Following the 10-Year Rule Could Cost Me Over $120,000 in Taxes.",
+    "tokens": [
+      "000",
+      "120",
+      "400",
+      "cost",
+      "could",
+      "following",
+      "inherited",
+      "ira",
+      "rule",
+      "taxes",
+      "year"
+    ],
+    "ts": 1789071946.9399433
+  },
+  {
+    "id": "ross-gerber-recommends-tesla-owners-120023047.html",
+    "title": "Ross Gerber Recommends Tesla Owners Let TSLA ‘Take The Risk’ In Elon Musk’s Airbnb-Like Robotaxi Program",
+    "tokens": [
+      "airbnb",
+      "elon",
+      "gerber",
+      "let",
+      "like",
+      "musk",
+      "owners",
+      "program",
+      "recommends",
+      "risk",
+      "robotaxi",
+      "ross",
+      "take",
+      "tesla",
+      "tsla"
+    ],
+    "ts": 1789071954.9546661
+  },
+  {
+    "id": "soybeans-slipping-wednesday-morning-conditions-121450834.html",
+    "title": "Soybeans Slipping on Wednesday Morning as Conditions Hold Steady",
+    "tokens": [
+      "conditions",
+      "hold",
+      "morning",
+      "slipping",
+      "soybeans",
+      "steady",
+      "wednesday"
+    ],
+    "ts": 1789071962.8513467
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/artisan-partners-asset-management-inc-reports-august-2026-assets-under-management-1036537688",
+    "title": "Artisan Partners Asset Management Inc. Reports August 2026 Assets Under Management",
+    "tokens": [
+      "2026",
+      "artisan",
+      "asset",
+      "assets",
+      "august",
+      "inc",
+      "management",
+      "partners",
+      "reports",
+      "under"
+    ],
+    "ts": 1789071970.9277153
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/surgepays-sells-clearline-apps-engagement-platform-for-27-5-million-in-consideration-1036537684",
+    "title": "SurgePays Sells ClearLine Apps Engagement Platform for $27.5 Million in Consideration",
+    "tokens": [
+      "apps",
+      "clearline",
+      "consideration",
+      "engagement",
+      "million",
+      "platform",
+      "sells",
+      "surgepays"
+    ],
+    "ts": 1789071978.011936
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/iron-rose-launches-the-rose-garden-an-online-community-for-women-in-firearms-1036537682",
+    "title": "Iron Rose Launches the Rose Garden, an Online Community for Women in Firearms",
+    "tokens": [
+      "community",
+      "firearms",
+      "garden",
+      "iron",
+      "launches",
+      "online",
+      "rose",
+      "women"
+    ],
+    "ts": 1789071985.1954396
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/global-ship-lease-declares-quarterly-dividend-on-its-8-75-series-b-cumulative-redeemable-perpetual-preferred-shares-1036537677",
+    "title": "Global Ship Lease Declares Quarterly Dividend on its 8.75% Series B Cumulative Redeemable Perpetual Preferred Shares",
+    "tokens": [
+      "cumulative",
+      "declares",
+      "dividend",
+      "global",
+      "lease",
+      "perpetual",
+      "preferred",
+      "quarterly",
+      "redeemable",
+      "series",
+      "shares",
+      "ship"
+    ],
+    "ts": 1789071994.882104
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/saga-communications-inc-declares-a-quarterly-cash-dividend-of-0-25-per-share-1036537675",
+    "title": "Saga Communications, Inc. Declares a Quarterly Cash Dividend of $0.25 per Share",
+    "tokens": [
+      "cash",
+      "communications",
+      "declares",
+      "dividend",
+      "inc",
+      "per",
+      "quarterly",
+      "saga",
+      "share"
+    ],
+    "ts": 1789072002.7317126
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eversource-energy-declares-common-dividend-1036537678",
+    "title": "Eversource Energy Declares Common Dividend",
+    "tokens": [
+      "common",
+      "declares",
+      "dividend",
+      "energy",
+      "eversource"
+    ],
+    "ts": 1789072010.6273406
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/cosciens-acquires-nualtis-corp-1036537685",
+    "title": "COSCIENS ACQUIRES NUALTIS CORP.",
+    "tokens": [
+      "acquires",
+      "corp",
+      "cosciens",
+      "nualtis"
+    ],
+    "ts": 1789072019.4989066
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/ocean-power-technologies-announces-reverse-stock-split-1036537680",
+    "title": "Ocean Power Technologies Announces Reverse Stock Split",
+    "tokens": [
+      "announces",
+      "ocean",
+      "power",
+      "reverse",
+      "split",
+      "stock",
+      "technologies"
+    ],
+    "ts": 1789072027.192726
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/wutc-issues-decision-in-washington-water-s-application-to-recover-costs-for-investments-to-provide-safe-reliable-service-1036537681",
+    "title": "WUTC Issues Decision in Washington Water’s Application to Recover Costs for Investments to Provide Safe, Reliable Service",
+    "tokens": [
+      "application",
+      "costs",
+      "decision",
+      "investments",
+      "issues",
+      "provide",
+      "recover",
+      "reliable",
+      "safe",
+      "service",
+      "washington",
+      "water",
+      "wutc"
+    ],
+    "ts": 1789072035.1631188
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/flyte-partners-with-christian-cowan-for-new-york-fashion-week-expanding-its-presence-across-global-luxury-brands-1036537673",
+    "title": "Flyte Partners With Christian Cowan for New York Fashion Week, Expanding Its Presence Across Global Luxury Brands",
+    "tokens": [
+      "across",
+      "brands",
+      "christian",
+      "cowan",
+      "expanding",
+      "fashion",
+      "flyte",
+      "global",
+      "luxury",
+      "partners",
+      "presence",
+      "week",
+      "york"
+    ],
+    "ts": 1789072042.196303
+  },
+  {
+    "id": "ed4e247c-74df-40f2-b243-0e8ae8ac71d2",
+    "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+    "tokens": [
+      "act",
+      "ahead",
+      "bill",
+      "clarity",
+      "credit",
+      "defi",
+      "murky",
+      "provisions",
+      "remains",
+      "road",
+      "text",
+      "tweaks",
+      "union"
+    ],
+    "ts": 1789072051.6517677
+  },
+  {
+    "id": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance",
+    "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+    "tokens": [
+      "amplify",
+      "could",
+      "crypto",
+      "esma",
+      "finance",
+      "growing",
+      "risks",
+      "ties",
+      "traditional",
+      "warns"
+    ],
+    "ts": 1789072060.5202932
   }
 ]

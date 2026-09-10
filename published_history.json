@@ -1,251 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/us-consumers-inflation-outlook-steady-as-job-worries-rise-93CH-4892028",
-    "title": "US consumers’ inflation outlook steady as job worries rise",
-    "tokens": [
-      "consumers",
-      "inflation",
-      "job",
-      "outlook",
-      "rise",
-      "steady",
-      "worries"
-    ],
-    "ts": 1788880625.202412
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-consumers-inflation-outlook-steady-in-august-fed-report-shows-4892027",
-    "title": "US consumers’ inflation outlook steady in August, Fed report shows",
-    "tokens": [
-      "august",
-      "consumers",
-      "fed",
-      "inflation",
-      "outlook",
-      "report",
-      "shows",
-      "steady"
-    ],
-    "ts": 1788880634.9684656
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/vishay-launches-inductive-position-sensor-for-industrial-use-93CH-4892026",
-    "title": "Vishay launches inductive position sensor for industrial use",
-    "tokens": [
-      "inductive",
-      "industrial",
-      "launches",
-      "position",
-      "sensor",
-      "use",
-      "vishay"
-    ],
-    "ts": 1788880643.5110009
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/accenture-names-emma-chalwin-as-chief-marketing-officer-93CH-4892025",
-    "title": "Accenture names Emma Chalwin as chief marketing officer",
-    "tokens": [
-      "accenture",
-      "chalwin",
-      "chief",
-      "emma",
-      "marketing",
-      "names",
-      "officer"
-    ],
-    "ts": 1788880654.3071206
-  },
-  {
-    "id": "td-synnex-snx-shares-jump-145255769.html",
-    "title": "TD Synnex (SNX) Shares Jump Over 50% on Cloud Growth and AI Infrastructure Demand",
-    "tokens": [
-      "cloud",
-      "demand",
-      "growth",
-      "infrastructure",
-      "jump",
-      "shares",
-      "snx",
-      "synnex"
-    ],
-    "ts": 1788880663.573649
-  },
-  {
-    "id": "zoetis-zts-shares-drop-earnings-145103070.html",
-    "title": "Zoetis (ZTS) Shares Drop After Earnings Revision",
-    "tokens": [
-      "drop",
-      "earnings",
-      "revision",
-      "shares",
-      "zoetis",
-      "zts"
-    ],
-    "ts": 1788880672.5328193
-  },
-  {
-    "id": "shift-away-defensive-plays-hits-144449755.html",
-    "title": "Shift Away from Defensive Plays Hits Verizon Communications (VZ)",
-    "tokens": [
-      "away",
-      "communications",
-      "defensive",
-      "hits",
-      "plays",
-      "shift",
-      "verizon"
-    ],
-    "ts": 1788880681.308636
-  },
-  {
-    "id": "adobe-adbe-declines-elevated-investor-144047481.html",
-    "title": "Adobe (ADBE) Declines on Elevated Investor Hopes",
-    "tokens": [
-      "adbe",
-      "adobe",
-      "declines",
-      "elevated",
-      "hopes",
-      "investor"
-    ],
-    "ts": 1788880691.2030003
-  },
-  {
-    "id": "capex-rebound-powers-applied-materials-143910451.html",
-    "title": "Capex Rebound Powers Applied Materials’ (AMAT) Performance",
-    "tokens": [
-      "amat",
-      "applied",
-      "capex",
-      "materials",
-      "performance",
-      "powers",
-      "rebound"
-    ],
-    "ts": 1788880699.6944256
-  },
-  {
-    "id": "oilprice-article-45443",
-    "title": "Oil Prices Are Once Again on the Brink of $100",
-    "tokens": [
-      "100",
-      "again",
-      "brink",
-      "oil",
-      "once",
-      "prices"
-    ],
-    "ts": 1788880709.5997186
-  },
-  {
-    "id": "oilprice-news-45443",
-    "title": "Dutch TTF Gas Jumps 2% as Winter Storage Race Heats Up",
-    "tokens": [
-      "dutch",
-      "gas",
-      "heats",
-      "jumps",
-      "race",
-      "storage",
-      "ttf",
-      "winter"
-    ],
-    "ts": 1788880719.1409307
-  },
-  {
-    "id": "WP-MKTW-0005220414",
-    "title": "Intel’s stock is rising as the company looks primed to boost prices even more",
-    "tokens": [
-      "boost",
-      "company",
-      "even",
-      "intel",
-      "looks",
-      "more",
-      "prices",
-      "primed",
-      "rising",
-      "stock"
-    ],
-    "ts": 1788882147.7772648
-  },
-  {
-    "id": "robinhood-partners-crypto-com-expand-151600729.html",
-    "title": "Robinhood Partners with Crypto.com to Expand Prediction Markets",
-    "tokens": [
-      "com",
-      "crypto",
-      "expand",
-      "markets",
-      "partners",
-      "prediction",
-      "robinhood"
-    ],
-    "ts": 1788882167.801322
-  },
-  {
-    "id": "diesel-prices-just-smashed-2022-151500785.html",
-    "title": "Diesel prices just smashed a 2022 record, but it's not only trucks that are taking a hit. What it means for your wallet",
-    "tokens": [
-      "2022",
-      "diesel",
-      "hit",
-      "just",
-      "means",
-      "only",
-      "prices",
-      "record",
-      "smashed",
-      "taking",
-      "trucks",
-      "wallet",
-      "what",
-      "your"
-    ],
-    "ts": 1788882177.567665
-  },
-  {
-    "id": "consumers-more-worried-personal-finances-150544015.html",
-    "title": "Consumers more worried about personal finances and jobs, New York Fed report shows",
-    "tokens": [
-      "about",
-      "consumers",
-      "fed",
-      "finances",
-      "jobs",
-      "more",
-      "personal",
-      "report",
-      "shows",
-      "worried",
-      "york"
-    ],
-    "ts": 1788882181.5830784
-  },
-  {
-    "id": "going-money-back-american-people-150500819.html",
-    "title": "‘Are you going to get money back to the American people?’ asks Senator Warren on tariff refund checks. Here’s the answer",
-    "tokens": [
-      "american",
-      "answer",
-      "asks",
-      "back",
-      "checks",
-      "get",
-      "going",
-      "here",
-      "money",
-      "people",
-      "refund",
-      "senator",
-      "tariff",
-      "warren",
-      "you"
-    ],
-    "ts": 1788882188.2665582
-  },
-  {
     "id": "hewlett-packard-enterprise-company-hpe-150418396.html",
     "title": "Hewlett Packard Enterprise Company (HPE) Jumps on Surging AI Infrastructure Demand",
     "tokens": [
@@ -23196,5 +22950,259 @@
       "valuation"
     ],
     "ts": 1789041299.3139336
+  },
+  {
+    "id": "WP-MKTW-0005224952",
+    "title": "Apple’s stock rises after iPhone reveal. The company is walking a ‘tightrope’ on pricing, say analysts.",
+    "tokens": [
+      "analysts",
+      "apple",
+      "company",
+      "iphone",
+      "pricing",
+      "reveal",
+      "rises",
+      "say",
+      "stock",
+      "tightrope",
+      "walking"
+    ],
+    "ts": 1789042465.5475304
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/fusion-fuel-subsidiary-adds-lpg-tanker-to-uae-fleet-93CH-4895732",
+    "title": "Fusion Fuel subsidiary adds LPG tanker to UAE fleet",
+    "tokens": [
+      "adds",
+      "fleet",
+      "fuel",
+      "fusion",
+      "lpg",
+      "subsidiary",
+      "tanker",
+      "uae"
+    ],
+    "ts": 1789042474.527693
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/johnson--johnson-receives-ce-mark-for-new-2week-contact-lens-93CH-4895731",
+    "title": "Johnson & Johnson receives CE mark for new 2-week contact lens",
+    "tokens": [
+      "contact",
+      "johnson",
+      "lens",
+      "mark",
+      "receives",
+      "week"
+    ],
+    "ts": 1789042482.6167653
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/mastercraft-stock-rises-6-on-beating-estimates-as-merger-boosts-revenue-93CH-4895730",
+    "title": "MasterCraft stock rises 6% on beating estimates as merger boosts revenue",
+    "tokens": [
+      "beating",
+      "boosts",
+      "estimates",
+      "mastercraft",
+      "merger",
+      "revenue",
+      "rises",
+      "stock"
+    ],
+    "ts": 1789042490.1555126
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-215a-posts-stronger-q1-2026-sales-as-new-plan-gains-traction-93CH-4895729",
+    "title": "Earnings call transcript: 215A posts stronger Q1 2026 sales as new plan gains traction",
+    "tokens": [
+      "2026",
+      "215a",
+      "call",
+      "earnings",
+      "gains",
+      "plan",
+      "posts",
+      "sales",
+      "stronger",
+      "traction",
+      "transcript"
+    ],
+    "ts": 1789042498.0692878
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-axogen-stock-sliding-today-93CH-4895727",
+    "title": "Why is Axogen stock sliding today?",
+    "tokens": [
+      "axogen",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789042502.0836263
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ttm-technologies-plans-500m-senior-notes-offering-93CH-4895726",
+    "title": "TTM Technologies plans $500M senior notes offering",
+    "tokens": [
+      "500m",
+      "notes",
+      "offering",
+      "plans",
+      "senior",
+      "technologies",
+      "ttm"
+    ],
+    "ts": 1789042505.891791
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/matthew-friedrich-galaxy-digital-clo-sells-134960-in-stock-93CH-4895720",
+    "title": "Matthew Friedrich, Galaxy Digital CLO, sells $134,960 in stock",
+    "tokens": [
+      "134",
+      "960",
+      "clo",
+      "digital",
+      "friedrich",
+      "galaxy",
+      "matthew",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789042513.6177235
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/reddit-stock-rises-on-piper-data-showing-8-user-growth-93CH-4895719",
+    "title": "Reddit stock rises on Piper data showing 8% user growth",
+    "tokens": [
+      "data",
+      "growth",
+      "piper",
+      "reddit",
+      "rises",
+      "showing",
+      "stock",
+      "user"
+    ],
+    "ts": 1789042520.4946253
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ubs-upgrades-snam-on-unjustified-discount-to-peers-resilient-growth-outlook-4895718",
+    "title": "UBS upgrades Snam on unjustified discount to peers, resilient growth outlook",
+    "tokens": [
+      "discount",
+      "growth",
+      "outlook",
+      "peers",
+      "resilient",
+      "snam",
+      "ubs",
+      "unjustified",
+      "upgrades"
+    ],
+    "ts": 1789042528.5024288
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/mastercraft-boat-earnings-beat-by-003-revenue-topped-estimates-4895717",
+    "title": "Mastercraft Boat earnings beat by $0.03, revenue topped estimates",
+    "tokens": [
+      "beat",
+      "boat",
+      "earnings",
+      "estimates",
+      "mastercraft",
+      "revenue",
+      "topped"
+    ],
+    "ts": 1789042532.5177598
+  },
+  {
+    "id": "stx-stock-math-hidden-price-235742795.html",
+    "title": "STX Stock: The Math Hidden In Its Price",
+    "tokens": [
+      "hidden",
+      "math",
+      "price",
+      "stock",
+      "stx"
+    ],
+    "ts": 1789042536.2441807
+  },
+  {
+    "id": "constellation-energys-biggest-ai-power-235801730.html",
+    "title": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
+    "tokens": [
+      "2027",
+      "biggest",
+      "constellation",
+      "deal",
+      "doesn",
+      "energy",
+      "june",
+      "paying",
+      "power",
+      "start",
+      "until"
+    ],
+    "ts": 1789042544.4613028
+  },
+  {
+    "id": "yatsen-ysg-reported-40-4-020159270.html",
+    "title": "Yatsen (YSG) Reported 40.4% Skincare Growth but a Larger GAAP Operating Loss. Can Portfolio Mix Outrun Marketing Intensity?",
+    "tokens": [
+      "can",
+      "gaap",
+      "growth",
+      "intensity",
+      "larger",
+      "loss",
+      "marketing",
+      "mix",
+      "operating",
+      "outrun",
+      "portfolio",
+      "reported",
+      "skincare",
+      "yatsen",
+      "ysg"
+    ],
+    "ts": 1789042552.2683067
+  },
+  {
+    "id": "3d18b377-57a6-453a-87c7-0b3c0e93e5e0",
+    "title": "BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks",
+    "tokens": [
+      "arms",
+      "bis",
+      "capex",
+      "chief",
+      "debt",
+      "opaque",
+      "posing",
+      "race",
+      "relies",
+      "risks",
+      "systemic",
+      "warns"
+    ],
+    "ts": 1789042561.5626454
+  },
+  {
+    "id": "https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality",
+    "title": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
+    "tokens": [
+      "bankers",
+      "boe",
+      "central",
+      "deputy",
+      "fnality",
+      "former",
+      "governor",
+      "headlines",
+      "joining",
+      "trio"
+    ],
+    "ts": 1789042569.3895967
   }
 ]

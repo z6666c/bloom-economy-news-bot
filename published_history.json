@@ -1,282 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/prana-therapies-announces-positive-phase-1-results-for-pra-216-a-novel-il-4r-tslp-bispecific-antibody-supporting-its-potential-best-in-disease-profile-and-providing-the-first-clinical-validation-1036527926",
-    "title": "Prana Therapies Announces Positive Phase 1 Results for PRA-216, a Novel IL-4Rα/TSLP Bispecific Antibody, Supporting Its Potential Best-in-Disease Profile and Providing the First Clinical Validation...",
-    "tokens": [
-      "216",
-      "announces",
-      "antibody",
-      "best",
-      "bispecific",
-      "clinical",
-      "disease",
-      "first",
-      "novel",
-      "phase",
-      "positive",
-      "potential",
-      "pra",
-      "prana",
-      "profile",
-      "providing",
-      "results",
-      "supporting",
-      "therapies",
-      "tslp",
-      "validation"
-    ],
-    "ts": 1788864401.4517915
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/uk-s-mhra-accepts-biosplice-s-application-for-lorecivivint-lor-in-knee-osteoarthritis-and-begins-assessment-1036527927",
-    "title": "UK’s MHRA Accepts Biosplice’s Application for Lorecivivint (LOR) in Knee Osteoarthritis and Begins Assessment",
-    "tokens": [
-      "accepts",
-      "application",
-      "assessment",
-      "begins",
-      "biosplice",
-      "knee",
-      "lor",
-      "lorecivivint",
-      "mhra",
-      "osteoarthritis"
-    ],
-    "ts": 1788864409.8406558
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/nova-minerals-marches-towards-antimony-production-with-arrival-of-processing-refining-equipment-in-alaska-1036527928",
-    "title": "Nova Minerals’ Marches towards Antimony Production with Arrival of Processing & Refining Equipment in Alaska",
-    "tokens": [
-      "alaska",
-      "antimony",
-      "arrival",
-      "equipment",
-      "marches",
-      "minerals",
-      "nova",
-      "processing",
-      "production",
-      "refining",
-      "towards"
-    ],
-    "ts": 1788864417.0896664
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/la-mancha-investments-s-r-l-to-file-early-warning-report-1036527929",
-    "title": "La Mancha Investments S. à r. l. to File Early Warning Report",
-    "tokens": [
-      "early",
-      "file",
-      "investments",
-      "mancha",
-      "report",
-      "warning"
-    ],
-    "ts": 1788864424.3052309
-  },
-  {
-    "id": "c89ab44d-1584-482d-9762-70e3be6f8803",
-    "title": "Cronos executes controversial blockchain rollback to recover crypto worth $111 million",
-    "tokens": [
-      "111",
-      "blockchain",
-      "controversial",
-      "cronos",
-      "crypto",
-      "executes",
-      "million",
-      "recover",
-      "rollback",
-      "worth"
-    ],
-    "ts": 1788864432.6170402
-  },
-  {
-    "id": "f8d73cec-75e4-4215-afb8-b9da0a794629",
-    "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
-    "tokens": [
-      "800",
-      "bitcoin",
-      "bnb",
-      "buck",
-      "defi",
-      "selloff",
-      "slips",
-      "tokens"
-    ],
-    "ts": 1788864439.6635242
-  },
-  {
-    "id": "WP-MKTW-0005218748",
-    "title": "Plastic surgery is booming with boomers. Here’s how to cash in on the antiaging craze.",
-    "tokens": [
-      "antiaging",
-      "boomers",
-      "booming",
-      "cash",
-      "craze",
-      "here",
-      "how",
-      "plastic",
-      "surgery"
-    ],
-    "ts": 1788865824.9407341
-  },
-  {
-    "id": "WP-MKTW-0005220188",
-    "title": "Beneath the surface, the next market leaders are getting ready to break out, says Morgan Stanley",
-    "tokens": [
-      "beneath",
-      "break",
-      "getting",
-      "leaders",
-      "market",
-      "morgan",
-      "next",
-      "ready",
-      "stanley",
-      "surface"
-    ],
-    "ts": 1788865833.1072245
-  },
-  {
-    "id": "WP-MKTW-0005220186",
-    "title": "U.S. oil prices reach highest level in over three months after Saudi Arabia says civilian and energy sites struck",
-    "tokens": [
-      "arabia",
-      "civilian",
-      "energy",
-      "highest",
-      "level",
-      "months",
-      "oil",
-      "prices",
-      "reach",
-      "saudi",
-      "sites",
-      "struck",
-      "three"
-    ],
-    "ts": 1788865841.5883162
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/beamr-joins-vast-cosmos-partner-program-for-ai-video-workflows-93CH-4891339",
-    "title": "Beamr joins VAST Cosmos Partner Program for AI video workflows",
-    "tokens": [
-      "beamr",
-      "cosmos",
-      "joins",
-      "partner",
-      "program",
-      "vast",
-      "video",
-      "workflows"
-    ],
-    "ts": 1788865850.5049708
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/editas-medicine-names-dan-ory-as-chief-medical-officer-93CH-4891340",
-    "title": "Editas Medicine names Dan Ory as chief medical officer",
-    "tokens": [
-      "chief",
-      "dan",
-      "editas",
-      "medical",
-      "medicine",
-      "names",
-      "officer",
-      "ory"
-    ],
-    "ts": 1788865859.7140822
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/phoenix-metals-receives-permit-awards-51500meter-drill-contract-93CH-4891341",
-    "title": "Phoenix Metals receives permit, awards 51,500-meter drill contract",
-    "tokens": [
-      "500",
-      "awards",
-      "contract",
-      "drill",
-      "metals",
-      "meter",
-      "permit",
-      "phoenix",
-      "receives"
-    ],
-    "ts": 1788865868.1656718
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/netramark-appoints-kevin-felix-as-strategic-advisor-93CH-4891338",
-    "title": "NetraMark appoints Kevin Felix as strategic advisor",
-    "tokens": [
-      "advisor",
-      "appoints",
-      "felix",
-      "kevin",
-      "netramark",
-      "strategic"
-    ],
-    "ts": 1788865878.4317207
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/novartis-initiates-phase-2-study-of-mrt6160-for-sjogrens-disease-93CH-4891337",
-    "title": "Novartis initiates phase 2 study of MRT-6160 for Sjögren’s disease",
-    "tokens": [
-      "6160",
-      "disease",
-      "gren",
-      "initiates",
-      "mrt",
-      "novartis",
-      "phase",
-      "study"
-    ],
-    "ts": 1788865887.8826838
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sernova-and-seraxis-agree-to-merge-form-betanova-biotherapeutics-93CH-4891335",
-    "title": "Sernova and Seraxis agree to merge, form BetaNova Biotherapeutics",
-    "tokens": [
-      "agree",
-      "betanova",
-      "biotherapeutics",
-      "form",
-      "merge",
-      "seraxis",
-      "sernova"
-    ],
-    "ts": 1788865896.0057383
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/draftkings-partners-with-ic360-for-integrity-monitoring-tools-93CH-4891336",
-    "title": "draftkings partners with ic360 for integrity monitoring tools",
-    "tokens": [
-      "draftkings",
-      "ic360",
-      "integrity",
-      "monitoring",
-      "partners",
-      "tools"
-    ],
-    "ts": 1788865904.536545
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/solstice-gold-closes-650000-private-placement-financing-93CH-4891334",
-    "title": "Solstice Gold closes $650,000 private placement financing",
-    "tokens": [
-      "000",
-      "650",
-      "closes",
-      "financing",
-      "gold",
-      "placement",
-      "private",
-      "solstice"
-    ],
-    "ts": 1788865914.2990913
-  },
-  {
     "id": "https://www.investing.com/news/company-news/adlai-nortye-doses-first-patient-in-an4035-cancer-trial-93CH-4891333",
     "title": "Adlai Nortye doses first patient in AN4035 cancer trial",
     "tokens": [
@@ -23177,5 +22900,265 @@
       "your"
     ],
     "ts": 1789028008.5528753
+  },
+  {
+    "id": "WP-MKTW-0005220208",
+    "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+    "tokens": [
+      "california",
+      "can",
+      "million",
+      "old",
+      "pension",
+      "retire",
+      "single",
+      "veteran",
+      "year"
+    ],
+    "ts": 1789029043.7216775
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/fevertree-h1-shares-fall-as-us-margin-pressure-offsets-profit-beat-4895113",
+    "title": "Fever-Tree H1 shares fall as U.S. margin pressure offsets profit beat",
+    "tokens": [
+      "beat",
+      "fall",
+      "fever",
+      "margin",
+      "offsets",
+      "pressure",
+      "profit",
+      "shares",
+      "tree"
+    ],
+    "ts": 1789029052.8247507
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/european-natural-gas-holds-near-multiyear-peaks-on-supply-risks-ecb-decision-due-4895112",
+    "title": "European natural gas holds near multi-year peaks on supply risks; ECB decision due",
+    "tokens": [
+      "decision",
+      "due",
+      "ecb",
+      "european",
+      "gas",
+      "holds",
+      "multi",
+      "natural",
+      "near",
+      "peaks",
+      "risks",
+      "supply",
+      "year"
+    ],
+    "ts": 1789029060.9494154
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/biolife-solutions-merger-with-repligen-advances-as-antitrust-waiting-period-ends-93CH-4895110",
+    "title": "BioLife Solutions merger with Repligen advances as antitrust waiting period ends",
+    "tokens": [
+      "advances",
+      "antitrust",
+      "biolife",
+      "ends",
+      "merger",
+      "period",
+      "repligen",
+      "solutions",
+      "waiting"
+    ],
+    "ts": 1789029069.239654
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-kongsberg-stock-climbing-today-93CH-4895109",
+    "title": "Why is Kongsberg stock climbing today?",
+    "tokens": [
+      "climbing",
+      "kongsberg",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789029073.2549582
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-thg-posts-stronger-h1-2026-results-as-shares-fall-93CH-4895108",
+    "title": "Earnings call transcript: THG posts stronger H1 2026 results as shares fall",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "fall",
+      "posts",
+      "results",
+      "shares",
+      "stronger",
+      "thg",
+      "transcript"
+    ],
+    "ts": 1789029076.8658946
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/hsbc-downgrades-amgen-stock-rating-to-hold-on-valuation-93CH-4895107",
+    "title": "HSBC downgrades Amgen stock rating to Hold on valuation",
+    "tokens": [
+      "amgen",
+      "downgrades",
+      "hold",
+      "hsbc",
+      "rating",
+      "stock",
+      "valuation"
+    ],
+    "ts": 1789029084.4616802
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/anavex-life-sciences-to-discuss-pediatric-inclusion-in-rett-syndrome-trial-93CH-4895106",
+    "title": "Anavex Life Sciences to discuss pediatric inclusion in Rett syndrome trial",
+    "tokens": [
+      "anavex",
+      "discuss",
+      "inclusion",
+      "life",
+      "pediatric",
+      "rett",
+      "sciences",
+      "syndrome",
+      "trial"
+    ],
+    "ts": 1789029092.0096571
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/puuilo-h1-2026-slides-margins-expand-as-private-label-sales-surge-93CH-4895094",
+    "title": "Puuilo H1 2026 slides: margins expand as private label sales surge",
+    "tokens": [
+      "2026",
+      "expand",
+      "label",
+      "margins",
+      "private",
+      "puuilo",
+      "sales",
+      "slides",
+      "surge"
+    ],
+    "ts": 1789029100.1065917
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/dax-tests-200sma-after-hs-breakdown-live-levels-93CH-4890541",
+    "title": "DAX tests 25,550 Fib support below 200 SMA: Live levels",
+    "tokens": [
+      "200",
+      "550",
+      "below",
+      "dax",
+      "fib",
+      "levels",
+      "live",
+      "sma",
+      "support",
+      "tests"
+    ],
+    "ts": 1789029107.234797
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/hsbc-upgrades-novartis-stock-rating-to-hold-on-pipeline-clarity-93CH-4895093",
+    "title": "HSBC upgrades Novartis stock rating to hold on pipeline clarity",
+    "tokens": [
+      "clarity",
+      "hold",
+      "hsbc",
+      "novartis",
+      "pipeline",
+      "rating",
+      "stock",
+      "upgrades"
+    ],
+    "ts": 1789029115.042661
+  },
+  {
+    "id": "google-blackstone-venture-faces-delays-202510079.html",
+    "title": "Google, Blackstone Venture Faces Delays at Data-Center Sites",
+    "tokens": [
+      "blackstone",
+      "center",
+      "data",
+      "delays",
+      "faces",
+      "google",
+      "sites",
+      "venture"
+    ],
+    "ts": 1789029122.8787649
+  },
+  {
+    "id": "stocks-settle-lower-middle-east-203222129.html",
+    "title": "Stocks Settle Lower on Middle East Jitters",
+    "tokens": [
+      "east",
+      "jitters",
+      "lower",
+      "middle",
+      "settle",
+      "stocks"
+    ],
+    "ts": 1789029130.2735205
+  },
+  {
+    "id": "novartis-stock-price-drug-trial-failures-914e1bd1?siteid=yhoof2&yptr=yahoo",
+    "title": "Novartis Stock Tanks Following Third Major Pipeline Setback",
+    "tokens": [
+      "following",
+      "major",
+      "novartis",
+      "pipeline",
+      "setback",
+      "stock",
+      "tanks",
+      "third"
+    ],
+    "ts": 1789029138.1912167
+  },
+  {
+    "id": "meta-unleashes-ai-weapon-wall-202953629.html",
+    "title": "Meta Unleashes a New AI Weapon. Wall Street Sees Huge Upside for META Stock",
+    "tokens": [
+      "huge",
+      "meta",
+      "sees",
+      "stock",
+      "street",
+      "unleashes",
+      "upside",
+      "wall",
+      "weapon"
+    ],
+    "ts": 1789029146.4389331
+  },
+  {
+    "id": "thoma-bravo-hires-asia-head-202333228.html",
+    "title": "Thoma Bravo hires new Asia head",
+    "tokens": [
+      "asia",
+      "bravo",
+      "head",
+      "hires",
+      "thoma"
+    ],
+    "ts": 1789029154.0162146
+  },
+  {
+    "id": "xrp-price-prediction-bullish-flag-203330290.html",
+    "title": "XRP Price Prediction: Bullish Flag Puts $2.10 in Focus",
+    "tokens": [
+      "bullish",
+      "flag",
+      "focus",
+      "prediction",
+      "price",
+      "puts",
+      "xrp"
+    ],
+    "ts": 1789029161.6296017
   }
 ]

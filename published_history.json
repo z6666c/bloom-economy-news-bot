@@ -1,245 +1,5 @@
 [
   {
-    "id": "3m-stock-underperforming-dow-153400965.html",
-    "title": "Is 3M Stock Underperforming the Dow?",
-    "tokens": [
-      "dow",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1788909907.3181758
-  },
-  {
-    "id": "oilprice-article-45448",
-    "title": "Iran’s Oil Exports Collapse as Hormuz Standoff Drags On",
-    "tokens": [
-      "collapse",
-      "drags",
-      "exports",
-      "hormuz",
-      "iran",
-      "oil",
-      "standoff"
-    ],
-    "ts": 1788913043.3068006
-  },
-  {
-    "id": "oilprice-news-45448",
-    "title": "D.C. Gas Ban Gets Favorable Hearing in Federal Appeals Court",
-    "tokens": [
-      "appeals",
-      "ban",
-      "court",
-      "favorable",
-      "federal",
-      "gas",
-      "gets",
-      "hearing"
-    ],
-    "ts": 1788913047.3235214
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/china-cpi-rebounds-in-august-factorygate-inflation-strengthens-4892659",
-    "title": "China CPI rebounds in August, factory-gate inflation strengthens",
-    "tokens": [
-      "august",
-      "china",
-      "cpi",
-      "factory",
-      "gate",
-      "inflation",
-      "rebounds",
-      "strengthens"
-    ],
-    "ts": 1788918991.6526062
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/chinas-producer-inflation-regains-momentum-in-august-4892658",
-    "title": "China’s producer inflation regains momentum in August",
-    "tokens": [
-      "august",
-      "china",
-      "inflation",
-      "momentum",
-      "producer",
-      "regains"
-    ],
-    "ts": 1788918999.485433
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/evidence-suggests-pilots-considered-aborting-landing-in-miami-cargo-plane-crash-4892657",
-    "title": "Evidence suggests pilots considered aborting landing in Miami cargo plane crash",
-    "tokens": [
-      "aborting",
-      "cargo",
-      "considered",
-      "crash",
-      "evidence",
-      "landing",
-      "miami",
-      "pilots",
-      "plane",
-      "suggests"
-    ],
-    "ts": 1788919006.5023873
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/gorilla-gold-mines-at-resources-rising-stars-growth-grade-and-upside-93CH-4892656",
-    "title": "Gorilla Gold Mines at Resources Rising Stars: growth, grade and upside",
-    "tokens": [
-      "gold",
-      "gorilla",
-      "grade",
-      "growth",
-      "mines",
-      "resources",
-      "rising",
-      "stars",
-      "upside"
-    ],
-    "ts": 1788919013.7650733
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/pamt-director-moroun-sells-312m-shares-moves-to-trust-93CH-4892655",
-    "title": "Pamt director Moroun sells $31.2m shares, moves to trust",
-    "tokens": [
-      "director",
-      "moroun",
-      "moves",
-      "pamt",
-      "sells",
-      "shares",
-      "trust"
-    ],
-    "ts": 1788919021.424621
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/california-resources-evp-buys-sells-642978-in-shares-93CH-4892654",
-    "title": "California Resources EVP buys sells $642,978 in shares",
-    "tokens": [
-      "642",
-      "978",
-      "buys",
-      "california",
-      "evp",
-      "resources",
-      "sells",
-      "shares"
-    ],
-    "ts": 1788919028.3107529
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/gold-rebounds-as-dollar-eases-but-fed-hike-risks-cap-gains-4892653",
-    "title": "Gold rebounds as dollar eases, but Fed hike risks cap gains",
-    "tokens": [
-      "cap",
-      "dollar",
-      "eases",
-      "fed",
-      "gains",
-      "gold",
-      "hike",
-      "rebounds",
-      "risks"
-    ],
-    "ts": 1788919035.833819
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-extends-rally-brent-nears-100bbl-as-usiran-tensions-escalate-4892652",
-    "title": "Oil extends rally, Brent nears $100/bbl as U.S.-Iran tensions escalate",
-    "tokens": [
-      "100",
-      "bbl",
-      "brent",
-      "escalate",
-      "extends",
-      "iran",
-      "nears",
-      "oil",
-      "rally",
-      "tensions"
-    ],
-    "ts": 1788919044.06637
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-17edtech-swings-to-profit-in-q2-2026-as-shares-jump-93CH-4892651",
-    "title": "Earnings call transcript: 17EdTech swings to profit in Q2 2026 as shares jump",
-    "tokens": [
-      "17edtech",
-      "2026",
-      "call",
-      "earnings",
-      "jump",
-      "profit",
-      "shares",
-      "swings",
-      "transcript"
-    ],
-    "ts": 1788919051.3389564
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/agnt-director-gratitude-trust-sells-32m-in-shares-93CH-4892650",
-    "title": "Agnt director Gratitude Trust sells $32m in shares",
-    "tokens": [
-      "32m",
-      "agnt",
-      "director",
-      "gratitude",
-      "sells",
-      "shares",
-      "trust"
-    ],
-    "ts": 1788919058.8881266
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-jumps-1-in-early-trade-after-iran-launches-missiles-at-jordan-4892628",
-    "title": "Oil jumps $1 in early trade after Iran launches missiles at Jordan",
-    "tokens": [
-      "early",
-      "iran",
-      "jordan",
-      "jumps",
-      "launches",
-      "missiles",
-      "oil",
-      "trade"
-    ],
-    "ts": 1788920984.8686883
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/silver-lake-affiliates-sell-351764-in-dell-technologies-stock-93CH-4892672",
-    "title": "Silver Lake affiliates sell $351,764 in Dell Technologies stock",
-    "tokens": [
-      "351",
-      "764",
-      "affiliates",
-      "dell",
-      "lake",
-      "sell",
-      "silver",
-      "stock",
-      "technologies"
-    ],
-    "ts": 1788920992.4553347
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/mercury-systems-evp-chro-steven-ratner-sells-338030-in-stock-93CH-4892671",
-    "title": "Mercury Systems EVP, CHRO Steven Ratner sells $338,030 in stock",
-    "tokens": [
-      "030",
-      "338",
-      "chro",
-      "evp",
-      "mercury",
-      "ratner",
-      "sells",
-      "steven",
-      "stock",
-      "systems"
-    ],
-    "ts": 1788920999.8633873
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/mexico-sees-up-to-25-economic-growth-in-2027-narrower-deficit-in-2027-budget-draft-4892668",
     "title": "Mexico sees up to 2.5% economic growth in 2027, narrower deficit in 2027 budget draft",
     "tokens": [
@@ -23280,5 +23040,259 @@
       "summary"
     ],
     "ts": 1789061212.1721385
+  },
+  {
+    "id": "WP-MKTW-0005225741",
+    "title": "Investors should be eating up these 9 restaurant stocks, analysts say",
+    "tokens": [
+      "analysts",
+      "eating",
+      "investors",
+      "restaurant",
+      "say",
+      "should",
+      "stocks",
+      "these"
+    ],
+    "ts": 1789061989.1010559
+  },
+  {
+    "id": "WP-MKTW-0005226108",
+    "title": "Why $500 checks won’t help Americans facing 15% increases in Obamacare premiums next year",
+    "tokens": [
+      "500",
+      "americans",
+      "checks",
+      "facing",
+      "help",
+      "increases",
+      "next",
+      "obamacare",
+      "premiums",
+      "why",
+      "won",
+      "year"
+    ],
+    "ts": 1789061996.9096508
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/eso-ceo-renaldas-radvila-resigns-following-lithuania-storm-93CH-4896612",
+    "title": "ESO CEO Renaldas Radvila resigns following Lithuania storm",
+    "tokens": [
+      "ceo",
+      "eso",
+      "following",
+      "lithuania",
+      "radvila",
+      "renaldas",
+      "resigns",
+      "storm"
+    ],
+    "ts": 1789062006.2605321
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/snowflake-at-citis-2026-global-tmt-conference-ai-drives-growth-93CH-4896611",
+    "title": "Snowflake at Citi’s 2026 Global TMT Conference: AI drives growth",
+    "tokens": [
+      "2026",
+      "citi",
+      "conference",
+      "drives",
+      "global",
+      "growth",
+      "snowflake",
+      "tmt"
+    ],
+    "ts": 1789062010.2783744
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/datadog-at-goldman-sachs-communacopia--technology-conference-2026-ai-moat-93CH-4896610",
+    "title": "Datadog at Goldman Sachs Communacopia + Technology Conference 2026: AI moat",
+    "tokens": [
+      "2026",
+      "communacopia",
+      "conference",
+      "datadog",
+      "goldman",
+      "moat",
+      "sachs",
+      "technology"
+    ],
+    "ts": 1789062010.2939723
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/lam-research-at-goldman-sachs-conference-demand-stays-red-hot-93CH-4896609",
+    "title": "Lam Research at Goldman Sachs conference: demand stays red hot",
+    "tokens": [
+      "conference",
+      "demand",
+      "goldman",
+      "hot",
+      "lam",
+      "red",
+      "research",
+      "sachs",
+      "stays"
+    ],
+    "ts": 1789062014.0295868
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-hive-digital-technologies-stock-slipping-today-93CH-4896607",
+    "title": "Why is HIVE Digital Technologies stock slipping today?",
+    "tokens": [
+      "digital",
+      "hive",
+      "slipping",
+      "stock",
+      "technologies",
+      "today",
+      "why"
+    ],
+    "ts": 1789062022.0896232
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-canadian-copper-stocks-are-plunging-after-copper-hit-a-record-high-4896605",
+    "title": "Why Canadian copper stocks are plunging after copper hit a record high?",
+    "tokens": [
+      "canadian",
+      "copper",
+      "high",
+      "hit",
+      "plunging",
+      "record",
+      "stocks",
+      "why"
+    ],
+    "ts": 1789062030.2327955
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/canada-10year-yield-jumps-as-oil-surge-inflation-fears-drive-bond-selloff-4896606",
+    "title": "Canada 10-year yield jumps as oil surge, inflation fears drive bond selloff",
+    "tokens": [
+      "bond",
+      "canada",
+      "drive",
+      "fears",
+      "inflation",
+      "jumps",
+      "oil",
+      "selloff",
+      "surge",
+      "year",
+      "yield"
+    ],
+    "ts": 1789062039.9139123
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/canadian-dollar-edges-lower-as-oil-stays-above-100-us-inflation-data-in-focus-4896604",
+    "title": "Canadian dollar edges lower as oil stays above $100, US inflation data in focus",
+    "tokens": [
+      "100",
+      "above",
+      "canadian",
+      "data",
+      "dollar",
+      "edges",
+      "focus",
+      "inflation",
+      "lower",
+      "oil",
+      "stays"
+    ],
+    "ts": 1789062048.033055
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nvidias-huang-says-cybersecurity-will-be-next-major-ai-use-case-4896602",
+    "title": "Nvidia’s Huang says cybersecurity will be next major AI use case",
+    "tokens": [
+      "case",
+      "cybersecurity",
+      "huang",
+      "major",
+      "next",
+      "nvidia",
+      "use"
+    ],
+    "ts": 1789062057.0142944
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tsx-movers-talon-metals-jumps-275-north-west-and-hive-surge-4896601",
+    "title": "TSX movers: Talon Metals jumps 27.5%, North West and HIVE surge",
+    "tokens": [
+      "hive",
+      "jumps",
+      "metals",
+      "movers",
+      "north",
+      "surge",
+      "talon",
+      "tsx",
+      "west"
+    ],
+    "ts": 1789062065.6798127
+  },
+  {
+    "id": "dell-dell-reports-60-9b-172135958.html",
+    "title": "Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?",
+    "tokens": [
+      "95b",
+      "backlog",
+      "can",
+      "cash",
+      "dell",
+      "demand",
+      "durable",
+      "flow",
+      "orders",
+      "produce",
+      "reports",
+      "server",
+      "surge"
+    ],
+    "ts": 1789062078.325237
+  },
+  {
+    "id": "roblox-chief-legal-officer-sells-172002674.html",
+    "title": "Roblox Chief Legal Officer Sells 5,773 Shares in Planned Equity Liquidity",
+    "tokens": [
+      "773",
+      "chief",
+      "equity",
+      "legal",
+      "liquidity",
+      "officer",
+      "planned",
+      "roblox",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789062086.853128
+  },
+  {
+    "id": "lyft-stock-pullback-could-short-171316715.html",
+    "title": "Lyft Stock Pullback Could Be Short-Lived Says Signal",
+    "tokens": [
+      "could",
+      "lived",
+      "lyft",
+      "pullback",
+      "short",
+      "signal",
+      "stock"
+    ],
+    "ts": 1789062093.9859955
+  },
+  {
+    "id": "macys-inc-q2-2026-earnings-170816602.html",
+    "title": "Macy's, Inc. Q2 2026 Earnings Call Summary",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "inc",
+      "macy",
+      "summary"
+    ],
+    "ts": 1789062098.0017781
   }
 ]

@@ -1,276 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005222455",
-    "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
-    "tokens": [
-      "become",
-      "exploitation",
-      "fear",
-      "finances",
-      "financial",
-      "incapacitated",
-      "manage",
-      "our",
-      "who",
-      "wife"
-    ],
-    "ts": 1788946156.7816465
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bmo-downgrades-westlake-chemical-stock-rating-on-commodity-housing-concerns-93CH-4892956",
-    "title": "BMO downgrades Westlake Chemical stock rating on commodity, housing concerns",
-    "tokens": [
-      "bmo",
-      "chemical",
-      "commodity",
-      "concerns",
-      "downgrades",
-      "housing",
-      "rating",
-      "stock",
-      "westlake"
-    ],
-    "ts": 1788946164.9009185
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/monarch-casino-stock-gets-buy-rating-from-texas-capital-on-growth-potential-93CH-4892954",
-    "title": "Monarch Casino stock gets buy rating from Texas Capital on growth potential",
-    "tokens": [
-      "buy",
-      "capital",
-      "casino",
-      "gets",
-      "growth",
-      "monarch",
-      "potential",
-      "rating",
-      "stock",
-      "texas"
-    ],
-    "ts": 1788946174.2706149
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-initiates-mobility-global-stock-at-in-line-on-execution-concerns-93CH-4892955",
-    "title": "Evercore ISI initiates Mobility Global stock at In Line on execution concerns",
-    "tokens": [
-      "concerns",
-      "evercore",
-      "execution",
-      "global",
-      "initiates",
-      "isi",
-      "line",
-      "mobility",
-      "stock"
-    ],
-    "ts": 1788946182.6394217
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/texas-capital-securities-initiates-red-rock-resorts-stock-with-buy-rating-93CH-4892953",
-    "title": "Texas Capital Securities initiates Red Rock Resorts stock with buy rating",
-    "tokens": [
-      "buy",
-      "capital",
-      "initiates",
-      "rating",
-      "red",
-      "resorts",
-      "rock",
-      "securities",
-      "stock",
-      "texas"
-    ],
-    "ts": 1788946190.734265
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-structure-therapeutics-stock-rating-on-trial-data-93CH-4892952",
-    "title": "Citizens reiterates Structure Therapeutics stock rating on trial data",
-    "tokens": [
-      "citizens",
-      "data",
-      "rating",
-      "reiterates",
-      "stock",
-      "structure",
-      "therapeutics",
-      "trial"
-    ],
-    "ts": 1788946199.9936988
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/energean-h1-2026-slides-cash-flow-jumps-despite-israel-shutdown-93CH-4892948",
-    "title": "Energean H1 2026 slides: cash flow jumps despite Israel shutdown",
-    "tokens": [
-      "2026",
-      "cash",
-      "despite",
-      "energean",
-      "flow",
-      "israel",
-      "jumps",
-      "shutdown",
-      "slides"
-    ],
-    "ts": 1788946208.1377835
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/silicon-valleybacked-covenant-unveils-lowcost-massproducible-cruise-missile-4892947",
-    "title": "Silicon Valley-backed Covenant unveils low-cost, mass-producible cruise missile",
-    "tokens": [
-      "backed",
-      "cost",
-      "covenant",
-      "cruise",
-      "low",
-      "mass",
-      "missile",
-      "producible",
-      "silicon",
-      "unveils",
-      "valley"
-    ],
-    "ts": 1788946216.6887565
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/citi-sees-limited-euro-gains-despite-hawkish-ecb-rate-hike-outlook-93CH-4892946",
-    "title": "Citi sees limited euro gains despite hawkish ECB rate hike outlook",
-    "tokens": [
-      "citi",
-      "despite",
-      "ecb",
-      "euro",
-      "gains",
-      "hawkish",
-      "hike",
-      "limited",
-      "outlook",
-      "rate",
-      "sees"
-    ],
-    "ts": 1788946224.953642
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/engene-holdings-stock-rating-maintained-at-market-perform-by-citizens-93CH-4892929",
-    "title": "Engene Holdings stock rating maintained at Market Perform by Citizens",
-    "tokens": [
-      "citizens",
-      "engene",
-      "holdings",
-      "maintained",
-      "market",
-      "perform",
-      "rating",
-      "stock"
-    ],
-    "ts": 1788946232.84654
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-braze-stock-rating-on-strong-earnings-beat-93CH-4892928",
-    "title": "Citizens reiterates Braze stock rating on strong earnings beat",
-    "tokens": [
-      "beat",
-      "braze",
-      "citizens",
-      "earnings",
-      "rating",
-      "reiterates",
-      "stock",
-      "strong"
-    ],
-    "ts": 1788946241.500385
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-harworth-h1-2026-results-show-progress-valuation-drag-93CH-4892984",
-    "title": "Earnings call transcript: Harworth H1 2026 results show progress, valuation drag",
-    "tokens": [
-      "2026",
-      "call",
-      "drag",
-      "earnings",
-      "harworth",
-      "progress",
-      "results",
-      "show",
-      "transcript",
-      "valuation"
-    ],
-    "ts": 1788947153.7921631
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/eurowag-h1-2026-slides-platform-users-surge-to-65-revenue-up-11-93CH-4892979",
-    "title": "Eurowag H1 2026 slides: platform users surge to 65%, revenue up 11%",
-    "tokens": [
-      "2026",
-      "eurowag",
-      "platform",
-      "revenue",
-      "slides",
-      "surge",
-      "users"
-    ],
-    "ts": 1788947162.0827506
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-frontier-developments-jumps-on-record-profit-in-h2-2026-93CH-4892978",
-    "title": "Earnings call transcript: Frontier Developments jumps on record profit in H2 2026",
-    "tokens": [
-      "2026",
-      "call",
-      "developments",
-      "earnings",
-      "frontier",
-      "jumps",
-      "profit",
-      "record",
-      "transcript"
-    ],
-    "ts": 1788947171.3812747
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/blackstone-explores-sale-of-zo-skin-health-sources-say-4892512",
-    "title": "Blackstone explores sale of ZO Skin Health, sources say",
-    "tokens": [
-      "blackstone",
-      "explores",
-      "health",
-      "sale",
-      "say",
-      "skin",
-      "sources"
-    ],
-    "ts": 1788947179.112711
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-chime-financial-stock-surging-today-93CH-4892977",
-    "title": "Why is Chime Financial stock surging today?",
-    "tokens": [
-      "chime",
-      "financial",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1788947186.9130135
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-antin-h1-2026-profit-slips-as-exits-and-fundraising-build-93CH-4892976",
-    "title": "Earnings call transcript: Antin H1 2026 profit slips as exits and fundraising build",
-    "tokens": [
-      "2026",
-      "antin",
-      "build",
-      "call",
-      "earnings",
-      "exits",
-      "fundraising",
-      "profit",
-      "slips",
-      "transcript"
-    ],
-    "ts": 1788947196.4185793
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-intellia-stock-rating-on-fda-priority-review-93CH-4892975",
     "title": "Citizens reiterates Intellia stock rating on FDA priority review",
     "tokens": [
@@ -23275,5 +23004,248 @@
       "warns"
     ],
     "ts": 1789072060.5202932
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/parallel49-equity-launches-secondary-offering-of-cpi-card-group-shares-93CH-4896899",
+    "title": "Parallel49 Equity launches secondary offering of CPI Card Group shares",
+    "tokens": [
+      "card",
+      "cpi",
+      "equity",
+      "group",
+      "launches",
+      "offering",
+      "parallel49",
+      "secondary",
+      "shares"
+    ],
+    "ts": 1789072829.6378314
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/lyell-completes-lyl273-manufacturing-transfer-eyes-2027-fda-meeting-93CH-4896898",
+    "title": "Lyell completes LYL273 manufacturing transfer, eyes 2027 FDA meeting",
+    "tokens": [
+      "2027",
+      "completes",
+      "eyes",
+      "fda",
+      "lyell",
+      "lyl273",
+      "manufacturing",
+      "meeting",
+      "transfer"
+    ],
+    "ts": 1789072836.8589025
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/trinity-industries-declares-31cent-quarterly-dividend-93CH-4896897",
+    "title": "Trinity Industries declares 31-cent quarterly dividend",
+    "tokens": [
+      "cent",
+      "declares",
+      "dividend",
+      "industries",
+      "quarterly",
+      "trinity"
+    ],
+    "ts": 1789072844.2384887
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/national-healthcare-properties-completes-first-tranche-of-omf-sale-93CH-4896896",
+    "title": "National Healthcare Properties completes first tranche of OMF sale",
+    "tokens": [
+      "completes",
+      "first",
+      "healthcare",
+      "national",
+      "omf",
+      "properties",
+      "sale",
+      "tranche"
+    ],
+    "ts": 1789072851.1727004
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/whitehawk-therapeutics-appoints-vijay-iyengar-to-board-93CH-4896895",
+    "title": "Whitehawk Therapeutics appoints Vijay Iyengar to board",
+    "tokens": [
+      "appoints",
+      "board",
+      "iyengar",
+      "therapeutics",
+      "vijay",
+      "whitehawk"
+    ],
+    "ts": 1789072860.3714461
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/viking-holdings-stock-rises-on-1-billion-buyback-program-93CH-4896894",
+    "title": "Viking Holdings stock rises on $1 billion buyback program",
+    "tokens": [
+      "billion",
+      "buyback",
+      "holdings",
+      "program",
+      "rises",
+      "stock",
+      "viking"
+    ],
+    "ts": 1789072869.2190354
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/oracle-raises-full-year-profit-guidance-stock-rises-after-hours-4896781",
+    "title": "Oracle raises full year profit guidance, stock rises after hours",
+    "tokens": [
+      "full",
+      "guidance",
+      "hours",
+      "oracle",
+      "profit",
+      "raises",
+      "rises",
+      "stock",
+      "year"
+    ],
+    "ts": 1789072876.5448873
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/lightpath-technologies-posts-mixed-q4-results-shares-edge-higher-93CH-4896893",
+    "title": "LightPath Technologies posts mixed Q4 results, shares edge higher",
+    "tokens": [
+      "edge",
+      "higher",
+      "lightpath",
+      "mixed",
+      "posts",
+      "results",
+      "shares",
+      "technologies"
+    ],
+    "ts": 1789072883.8357384
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trumps-5000-dividend-plan-draws-some-republican-skepticism-4896744",
+    "title": "Trump’s $5,000 dividend plan draws some Republican skepticism",
+    "tokens": [
+      "000",
+      "dividend",
+      "draws",
+      "plan",
+      "republican",
+      "skepticism",
+      "some",
+      "trump"
+    ],
+    "ts": 1789072891.539
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/ibex-earnings-beat-by-006-revenue-topped-estimates-4896892",
+    "title": "IBEX earnings beat by $0.06, revenue topped estimates",
+    "tokens": [
+      "beat",
+      "earnings",
+      "estimates",
+      "ibex",
+      "revenue",
+      "topped"
+    ],
+    "ts": 1789072895.554731
+  },
+  {
+    "id": "forget-oklo-nuclear-stock-could-122000495.html",
+    "title": "Forget Oklo: This Nuclear Stock Could Be the Better Buy",
+    "tokens": [
+      "better",
+      "buy",
+      "could",
+      "forget",
+      "nuclear",
+      "oklo",
+      "stock"
+    ],
+    "ts": 1789072898.9558911
+  },
+  {
+    "id": "cencora-stock-underperforming-dow-121908179.html",
+    "title": "Is Cencora Stock Underperforming the Dow?",
+    "tokens": [
+      "cencora",
+      "dow",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1789072902.9727066
+  },
+  {
+    "id": "realty-income-underperforming-nasdaq-121728607.html",
+    "title": "Is Realty Income Underperforming the Nasdaq?",
+    "tokens": [
+      "income",
+      "nasdaq",
+      "realty",
+      "underperforming"
+    ],
+    "ts": 1789072906.6488352
+  },
+  {
+    "id": "bitcoin-price-swung-40-while-121715755.html",
+    "title": "Bitcoin Price Swung 40% While Exchange Supply Rose 45,000 BTC: Is a Popular Onchain Signal Broken?",
+    "tokens": [
+      "000",
+      "bitcoin",
+      "broken",
+      "btc",
+      "exchange",
+      "onchain",
+      "popular",
+      "price",
+      "rose",
+      "signal",
+      "supply",
+      "swung",
+      "while"
+    ],
+    "ts": 1789072915.303709
+  },
+  {
+    "id": "cerebras-stock-under-pressure-cathie-122421346.html",
+    "title": "Cerebras Stock Is Under Pressure, But Cathie Wood Bets $17.2 Million On It",
+    "tokens": [
+      "bets",
+      "cathie",
+      "cerebras",
+      "million",
+      "pressure",
+      "stock",
+      "under",
+      "wood"
+    ],
+    "ts": 1789072923.2958195
+  },
+  {
+    "id": "te-connectivity-stock-underperforming-dow-122936808.html",
+    "title": "Is TE Connectivity Stock Underperforming the Dow?",
+    "tokens": [
+      "connectivity",
+      "dow",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1789072927.3121464
+  },
+  {
+    "id": "caseys-general-stores-inc-q1-123000889.html",
+    "title": "Casey's General Stores, Inc. Q1 2027 Earnings Call Summary",
+    "tokens": [
+      "2027",
+      "call",
+      "casey",
+      "earnings",
+      "general",
+      "inc",
+      "stores",
+      "summary"
+    ],
+    "ts": 1789072930.7984025
   }
 ]

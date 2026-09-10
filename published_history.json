@@ -1,425 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/canada-seeks-to-sell-nuclear-technology-to-poland-amid-trade-tensions-93CH-4892190",
-    "title": "Canada seeks to sell nuclear technology to Poland amid trade tensions",
-    "tokens": [
-      "canada",
-      "nuclear",
-      "poland",
-      "seeks",
-      "sell",
-      "technology",
-      "tensions",
-      "trade"
-    ],
-    "ts": 1788891200.990083
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/james-fisher-1h-2026-slides-defence-surge-offsets-energy-drag-93CH-4892189",
-    "title": "James Fisher 1H 2026 slides: defence surge offsets energy drag",
-    "tokens": [
-      "2026",
-      "defence",
-      "drag",
-      "energy",
-      "fisher",
-      "james",
-      "offsets",
-      "slides",
-      "surge"
-    ],
-    "ts": 1788891209.2317426
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hyliion-puts-fuel-supply-on-customers-as-karno-targets-data-centers-4892188",
-    "title": "Hyliion puts fuel supply on customers as KARNO targets data centers",
-    "tokens": [
-      "centers",
-      "customers",
-      "data",
-      "fuel",
-      "hyliion",
-      "karno",
-      "puts",
-      "supply",
-      "targets"
-    ],
-    "ts": 1788891217.6642435
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hims--hers-stock-growth-momentum-versus-margin-pressure-and-a-206-fair-value-discount-93CH-4892187",
-    "title": "Hims & Hers stock: growth momentum versus margin pressure and a 20.6% fair value discount",
-    "tokens": [
-      "discount",
-      "fair",
-      "growth",
-      "hers",
-      "hims",
-      "margin",
-      "momentum",
-      "pressure",
-      "stock",
-      "value",
-      "versus"
-    ],
-    "ts": 1788891225.6762574
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/alamo-group-evp-rizzuti-sells-443163-in-common-stock-93CH-4892186",
-    "title": "Alamo Group EVP Rizzuti sells $443,163 in common stock",
-    "tokens": [
-      "163",
-      "443",
-      "alamo",
-      "common",
-      "evp",
-      "group",
-      "rizzuti",
-      "sells",
-      "stock"
-    ],
-    "ts": 1788891233.6060555
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/spacex-vs-tesla-valuation-economics-and-pairstrade-viability-compared-93CH-4892185",
-    "title": "SpaceX vs Tesla: valuation, economics, and pairs-trade viability compared",
-    "tokens": [
-      "compared",
-      "economics",
-      "pairs",
-      "spacex",
-      "tesla",
-      "trade",
-      "valuation",
-      "viability"
-    ],
-    "ts": 1788891241.5447285
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/oppenheimer-holdings-stock-hits-alltime-high-at-12565-usd-93CH-4892184",
-    "title": "Oppenheimer Holdings stock hits all-time high at 125.65 USD",
-    "tokens": [
-      "125",
-      "all",
-      "high",
-      "hits",
-      "holdings",
-      "oppenheimer",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1788891249.089411
-  },
-  {
-    "id": "https://seekingalpha.com/news/4640896-saudis-pif-expected-to-meet-wall-street-firms-for-capital-raising---semafor?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Saudi's PIF expected to meet Wall Street firms for capital raising - Semafor",
-    "tokens": [
-      "capital",
-      "expected",
-      "firms",
-      "meet",
-      "pif",
-      "raising",
-      "saudi",
-      "semafor",
-      "street",
-      "wall"
-    ],
-    "ts": 1788891258.2150252
-  },
-  {
-    "id": "https://www.businessinsider.com/openai-cfo-chatgpts-ads-google-and-meta-had-a-baby-2026-9",
-    "title": "OpenAI CFO Sarah Friar says ChatGPT's ads should be like 'if Google and Meta had a baby'",
-    "tokens": [
-      "ads",
-      "baby",
-      "cfo",
-      "chatgpt",
-      "friar",
-      "google",
-      "like",
-      "meta",
-      "openai",
-      "sarah",
-      "should"
-    ],
-    "ts": 1788891266.839724
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-sma-solar-technology-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036529707",
-    "title": "EQS-PVR: SMA Solar Technology AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
-    "tokens": [
-      "according",
-      "act",
-      "article",
-      "distribution",
-      "eqs",
-      "europe",
-      "german",
-      "objective",
-      "pvr",
-      "release",
-      "section",
-      "securities",
-      "sma",
-      "solar",
-      "technology",
-      "trading",
-      "wide",
-      "wphg"
-    ],
-    "ts": 1788891274.1112792
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/clearwave-and-visionary-broadband-sign-agreement-to-combine-expanding-fiber-platform-to-17-states-1036529696",
-    "title": "Clearwave and Visionary Broadband Sign Agreement to Combine, Expanding Fiber Platform to 17 States",
-    "tokens": [
-      "agreement",
-      "broadband",
-      "clearwave",
-      "combine",
-      "expanding",
-      "fiber",
-      "platform",
-      "sign",
-      "states",
-      "visionary"
-    ],
-    "ts": 1788891282.0275671
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/regn-deadline-alert-faruqi-faruqi-llp-reminds-regeneron-regn-investors-of-securities-class-action-lawsuit-deadline-on-september-14-2026-1036484220",
-    "title": "REGN DEADLINE ALERT: Faruqi & Faruqi, LLP Reminds Regeneron (REGN) Investors of Securities Class Action Lawsuit Deadline on September 14, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "alert",
-      "class",
-      "deadline",
-      "faruqi",
-      "investors",
-      "lawsuit",
-      "llp",
-      "regeneron",
-      "regn",
-      "reminds",
-      "securities",
-      "september"
-    ],
-    "ts": 1788891286.0428655
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/currencies/allstate-sprinkler-releases-analysis-linking-iso-class-l-fire-rating-to-nyc-1-kwh-storage-threshold-1036529742",
-    "title": "Allstate Sprinkler Releases Analysis Linking ISO Class L Fire Rating to NYC 1 kWh Storage Threshold",
-    "tokens": [
-      "allstate",
-      "analysis",
-      "class",
-      "fire",
-      "iso",
-      "kwh",
-      "linking",
-      "nyc",
-      "rating",
-      "releases",
-      "sprinkler",
-      "storage",
-      "threshold"
-    ],
-    "ts": 1788891291.2306688
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/opko-health-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference-1036529659",
-    "title": "OPKO Health to Participate in the Wells Fargo 21st Annual Healthcare Conference",
-    "tokens": [
-      "21st",
-      "annual",
-      "conference",
-      "fargo",
-      "health",
-      "healthcare",
-      "opko",
-      "participate",
-      "wells"
-    ],
-    "ts": 1788891298.24306
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/currencies/valeria-gimeno-fern%c3%a1ndez-introduces-a-new-framework-to-restaurant-storytelling-for-luxury-hospitality-1036529743",
-    "title": "Valeria Gimeno Fernández Introduces a New Framework to Restaurant Storytelling for Luxury Hospitality",
-    "tokens": [
-      "fern",
-      "framework",
-      "gimeno",
-      "hospitality",
-      "introduces",
-      "luxury",
-      "ndez",
-      "restaurant",
-      "storytelling",
-      "valeria"
-    ],
-    "ts": 1788891306.0051906
-  },
-  {
-    "id": "https://seekingalpha.com/news/4640897-beam-updates-phase-12-trial-data-gene-editing-drug?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Beam drops after updating Phase 1/2 trial data for gene-editing drug",
-    "tokens": [
-      "beam",
-      "data",
-      "drops",
-      "drug",
-      "editing",
-      "gene",
-      "phase",
-      "trial",
-      "updating"
-    ],
-    "ts": 1788891313.762607
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/my-green-lab-expands-act-ecolabel-channel-partner-network-ahead-of-new-eu-environmental-claims-rules-1036529660",
-    "title": "My Green Lab Expands ACT Ecolabel Channel Partner Network Ahead of New EU Environmental Claims Rules",
-    "tokens": [
-      "act",
-      "ahead",
-      "channel",
-      "claims",
-      "ecolabel",
-      "environmental",
-      "expands",
-      "green",
-      "lab",
-      "network",
-      "partner",
-      "rules"
-    ],
-    "ts": 1788891322.2641196
-  },
-  {
-    "id": "oilprice-article-45438",
-    "title": "How the U.S. Is Targeting Iran's Oil Money",
-    "tokens": [
-      "how",
-      "iran",
-      "money",
-      "oil",
-      "targeting"
-    ],
-    "ts": 1788891331.0058658
-  },
-  {
-    "id": "oilprice-article-45437",
-    "title": "A Forgotten Soviet Waterway Could Give China a New Arctic Trade Route",
-    "tokens": [
-      "arctic",
-      "china",
-      "could",
-      "forgotten",
-      "give",
-      "route",
-      "soviet",
-      "trade",
-      "waterway"
-    ],
-    "ts": 1788891339.085762
-  },
-  {
-    "id": "oilprice-news-45438",
-    "title": "Oil Tankers Flood Back Into Suez Canal As Red Sea Risk Grows",
-    "tokens": [
-      "back",
-      "canal",
-      "flood",
-      "grows",
-      "oil",
-      "red",
-      "risk",
-      "sea",
-      "suez",
-      "tankers"
-    ],
-    "ts": 1788891347.4806411
-  },
-  {
-    "id": "WP-MKTW-0005221326",
-    "title": "Why you shouldn’t stake your entire retirement plan on getting an inheritance",
-    "tokens": [
-      "entire",
-      "getting",
-      "inheritance",
-      "plan",
-      "retirement",
-      "shouldn",
-      "stake",
-      "why",
-      "you",
-      "your"
-    ],
-    "ts": 1788892400.6960535
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-sarepta-therapeutics-stock-rating-on-trial-data-outlook-93CH-4892207",
-    "title": "Jefferies reiterates Sarepta Therapeutics stock rating on trial data outlook",
-    "tokens": [
-      "data",
-      "jefferies",
-      "outlook",
-      "rating",
-      "reiterates",
-      "sarepta",
-      "stock",
-      "therapeutics",
-      "trial"
-    ],
-    "ts": 1788892408.7613306
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/buyout-firm-cvc-explores-2-billion-sale-of-dr-teals-parent-company-sources-say-4892196",
-    "title": "Buyout firm CVC explores $2 billion sale of Dr Teal’s parent company, sources say",
-    "tokens": [
-      "billion",
-      "buyout",
-      "company",
-      "cvc",
-      "explores",
-      "firm",
-      "parent",
-      "sale",
-      "say",
-      "sources",
-      "teal"
-    ],
-    "ts": 1788892416.968486
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-tenable-stock-slipping-today-93CH-4892205",
-    "title": "Why is Tenable stock slipping today?",
-    "tokens": [
-      "slipping",
-      "stock",
-      "tenable",
-      "today",
-      "why"
-    ],
-    "ts": 1788892420.9843671
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/patrick-industries-stock-hits-52week-low-at-8055-usd-93CH-4892204",
-    "title": "Patrick Industries stock hits 52-week low at 80.55 USD",
-    "tokens": [
-      "hits",
-      "industries",
-      "low",
-      "patrick",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1788892420.99985
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/qualcomm-stock-surges-95-on-amazon-ai-deal--25m-share-warrant-4891773",
     "title": "Qualcomm stock surges on Amazon AI deal & 25M share warrant",
     "tokens": [
@@ -23207,5 +22787,399 @@
       "trial"
     ],
     "ts": 1789048694.2971487
+  },
+  {
+    "id": "WP-MKTW-0005218493",
+    "title": "Here’s how to avoid a six-figure error that many retirees make with their company stock",
+    "tokens": [
+      "avoid",
+      "company",
+      "error",
+      "figure",
+      "here",
+      "how",
+      "make",
+      "many",
+      "retirees",
+      "six",
+      "stock",
+      "their"
+    ],
+    "ts": 1789049712.6518738
+  },
+  {
+    "id": "WP-MKTW-0005222491",
+    "title": "This simple mistake can cost your loved ones their share of your estate. Here’s how to protect your money.",
+    "tokens": [
+      "can",
+      "cost",
+      "estate",
+      "here",
+      "how",
+      "loved",
+      "mistake",
+      "money",
+      "ones",
+      "protect",
+      "share",
+      "simple",
+      "their",
+      "your"
+    ],
+    "ts": 1789049720.8928154
+  },
+  {
+    "id": "WP-MKTW-0005225603",
+    "title": "Markets see a near 50-50 chance the European Central Bank will hike again in October",
+    "tokens": [
+      "again",
+      "bank",
+      "central",
+      "chance",
+      "european",
+      "hike",
+      "markets",
+      "near",
+      "october",
+      "see"
+    ],
+    "ts": 1789049732.3592455
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/roper-technologies-at-citis-2026-global-tmt-conference-ai-and-ma-93CH-4896215",
+    "title": "Roper Technologies at Citi’s 2026 Global TMT Conference: ai and m&a",
+    "tokens": [
+      "2026",
+      "citi",
+      "conference",
+      "global",
+      "roper",
+      "technologies",
+      "tmt"
+    ],
+    "ts": 1789049741.1728642
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-shoe-station-group-misses-on-q2-2026-sales-shares-fall-93CH-4896214",
+    "title": "Earnings call transcript: Shoe Station Group misses on Q2 2026 sales, shares fall",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "fall",
+      "group",
+      "misses",
+      "sales",
+      "shares",
+      "shoe",
+      "station",
+      "transcript"
+    ],
+    "ts": 1789049749.1668885
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bernstein-raises-jersey-mikes-subs-stock-price-target-on-sales-momentum-93CH-4896213",
+    "title": "Bernstein raises Jersey Mike’s Subs stock price target on sales momentum",
+    "tokens": [
+      "bernstein",
+      "jersey",
+      "mike",
+      "momentum",
+      "price",
+      "raises",
+      "sales",
+      "stock",
+      "subs",
+      "target"
+    ],
+    "ts": 1789049756.9713273
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-cintas-stock-rating-ahead-of-earnings-93CH-4896211",
+    "title": "Bernstein reiterates Cintas stock rating ahead of earnings",
+    "tokens": [
+      "ahead",
+      "bernstein",
+      "cintas",
+      "earnings",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1789049765.089604
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-raises-kornferry-stock-price-target-to-82-on-revenue-beat-93CH-4896212",
+    "title": "UBS raises Korn/Ferry stock price target to $82 on revenue beat",
+    "tokens": [
+      "beat",
+      "ferry",
+      "korn",
+      "price",
+      "raises",
+      "revenue",
+      "stock",
+      "target",
+      "ubs"
+    ],
+    "ts": 1789049772.8857815
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-maintains-chewy-stock-rating-on-margin-subscriber-concerns-93CH-4896210",
+    "title": "UBS maintains Chewy stock rating on margin, subscriber concerns",
+    "tokens": [
+      "chewy",
+      "concerns",
+      "maintains",
+      "margin",
+      "rating",
+      "stock",
+      "subscriber",
+      "ubs"
+    ],
+    "ts": 1789049780.6845617
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/yeti-stock-holds-at-neutral-as-ubs-keeps-51-target-ahead-of-meeting-93CH-4896208",
+    "title": "Yeti stock holds at Neutral as UBS keeps $51 target ahead of meeting",
+    "tokens": [
+      "ahead",
+      "holds",
+      "keeps",
+      "meeting",
+      "neutral",
+      "stock",
+      "target",
+      "ubs",
+      "yeti"
+    ],
+    "ts": 1789049790.619892
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-lowers-baker-hughes-stock-price-target-to-70-on-gtls-margins-93CH-4896209",
+    "title": "UBS lowers Baker Hughes stock price target to $70 on GTLS margins",
+    "tokens": [
+      "baker",
+      "gtls",
+      "hughes",
+      "lowers",
+      "margins",
+      "price",
+      "stock",
+      "target",
+      "ubs"
+    ],
+    "ts": 1789049798.772388
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hayward-holdings-stock-hits-52week-low-at-1292-usd-93CH-4896207",
+    "title": "Hayward Holdings stock hits 52-week low at 12.92 USD",
+    "tokens": [
+      "hayward",
+      "hits",
+      "holdings",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1789049802.7882864
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-ttm-technologies-stock-sliding-today-93CH-4896206",
+    "title": "Why is TTM Technologies stock sliding today?",
+    "tokens": [
+      "sliding",
+      "stock",
+      "technologies",
+      "today",
+      "ttm",
+      "why"
+    ],
+    "ts": 1789049807.5662746
+  },
+  {
+    "id": "spanish-free-baker-airos-merges-140417828.html",
+    "title": "Spanish free-from baker Airos merges with Esgir cereal maker",
+    "tokens": [
+      "airos",
+      "baker",
+      "cereal",
+      "esgir",
+      "free",
+      "maker",
+      "merges",
+      "spanish"
+    ],
+    "ts": 1789049816.280704
+  },
+  {
+    "id": "us-home-sales-weaken-slowest-140151373.html",
+    "title": "US home sales weaken to slowest pace in more than a year as mortgage rates, home prices climb",
+    "tokens": [
+      "climb",
+      "home",
+      "more",
+      "mortgage",
+      "pace",
+      "prices",
+      "rates",
+      "sales",
+      "slowest",
+      "weaken",
+      "year"
+    ],
+    "ts": 1789049830.180699
+  },
+  {
+    "id": "tether-expands-private-credit-135800398.html",
+    "title": "Tether Expands Into Private Credit",
+    "tokens": [
+      "credit",
+      "expands",
+      "private",
+      "tether"
+    ],
+    "ts": 1789049838.5629215
+  },
+  {
+    "id": "tech-stocks-today-apple-debuts-foldable-iphone-duo-ai-researchers-issue-fresh-warnings-125343211.html",
+    "title": "Tech stocks today: Apple debuts foldable iPhone Duo, AI researchers issue fresh warnings",
+    "tokens": [
+      "apple",
+      "debuts",
+      "duo",
+      "foldable",
+      "fresh",
+      "iphone",
+      "issue",
+      "researchers",
+      "stocks",
+      "tech",
+      "today",
+      "warnings"
+    ],
+    "ts": 1789049846.3779972
+  },
+  {
+    "id": "treasury-yields-rise-as-investors-raise-bets-on-fed-rate-hike-alphacheck-135652896.html",
+    "title": "Treasury yields rise as investors raise bets on Fed rate hike: AlphaCheck",
+    "tokens": [
+      "alphacheck",
+      "bets",
+      "fed",
+      "hike",
+      "investors",
+      "raise",
+      "rate",
+      "rise",
+      "treasury",
+      "yields"
+    ],
+    "ts": 1789049854.40324
+  },
+  {
+    "id": "intel-sinks-6-profit-taking-140135850.html",
+    "title": "Intel Sinks 6% as Profit Taking Hits a Parabolic Run; NVIDIA and AMD Retreat 3%",
+    "tokens": [
+      "amd",
+      "hits",
+      "intel",
+      "nvidia",
+      "parabolic",
+      "profit",
+      "retreat",
+      "run",
+      "sinks",
+      "taking"
+    ],
+    "ts": 1789049862.4012089
+  },
+  {
+    "id": "fuels-park-aerospace-pke-earnings-135528510.html",
+    "title": "Here’s What Fuels Park Aerospace (PKE) Earnings Power",
+    "tokens": [
+      "aerospace",
+      "earnings",
+      "fuels",
+      "here",
+      "park",
+      "pke",
+      "power",
+      "what"
+    ],
+    "ts": 1789049870.6998112
+  },
+  {
+    "id": "coinbase-ceo-says-bitcoin-bottomed-135500049.html",
+    "title": "Coinbase CEO Says Bitcoin Has Bottomed",
+    "tokens": [
+      "bitcoin",
+      "bottomed",
+      "ceo",
+      "coinbase"
+    ],
+    "ts": 1789049878.2217586
+  },
+  {
+    "id": "nasdaq-invests-100-million-kraken-135200836.html",
+    "title": "Nasdaq Invests $100 Million In Kraken Parent Company",
+    "tokens": [
+      "100",
+      "company",
+      "invests",
+      "kraken",
+      "million",
+      "nasdaq",
+      "parent"
+    ],
+    "ts": 1789049882.2384896
+  },
+  {
+    "id": "acquisition-mistakes-ai-disruption-why-135109422.html",
+    "title": "From Acquisition Mistakes to AI Disruption: Why TechTarget (TTGT) Became a Short Target",
+    "tokens": [
+      "acquisition",
+      "became",
+      "disruption",
+      "mistakes",
+      "short",
+      "target",
+      "techtarget",
+      "ttgt",
+      "why"
+    ],
+    "ts": 1789049885.9264917
+  },
+  {
+    "id": "oilprice-article-45463",
+    "title": "Russia Strikes Moldova Border as Ukraine Hits Black Sea Port",
+    "tokens": [
+      "black",
+      "border",
+      "hits",
+      "moldova",
+      "port",
+      "russia",
+      "sea",
+      "strikes",
+      "ukraine"
+    ],
+    "ts": 1789049897.4621332
+  },
+  {
+    "id": "oilprice-news-45463",
+    "title": "HSBC Raises 2026 Brent Forecast to $90 as Hormuz Crisis Drags On",
+    "tokens": [
+      "2026",
+      "brent",
+      "crisis",
+      "drags",
+      "forecast",
+      "hormuz",
+      "hsbc",
+      "raises"
+    ],
+    "ts": 1789049905.573727
   }
 ]

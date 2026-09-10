@@ -1,67 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/stephens-raises-braze-stock-price-target-to-34-on-strong-quarter-93CH-4893362",
-    "title": "Stephens raises Braze stock price target to $34 on strong quarter",
-    "tokens": [
-      "braze",
-      "price",
-      "quarter",
-      "raises",
-      "stephens",
-      "stock",
-      "strong",
-      "target"
-    ],
-    "ts": 1788954904.0472994
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/evommune-stock-maintains-buy-rating-despite-trial-setback-93CH-4893363",
-    "title": "Evommune stock maintains Buy rating despite trial setback",
-    "tokens": [
-      "buy",
-      "despite",
-      "evommune",
-      "maintains",
-      "rating",
-      "setback",
-      "stock",
-      "trial"
-    ],
-    "ts": 1788954912.0568128
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/mizuho-raises-belite-bio-stock-price-target-on-japan-drug-filing-93CH-4893361",
-    "title": "Mizuho raises Belite Bio stock price target on Japan drug filing",
-    "tokens": [
-      "belite",
-      "bio",
-      "drug",
-      "filing",
-      "japan",
-      "mizuho",
-      "price",
-      "raises",
-      "stock",
-      "target"
-    ],
-    "ts": 1788954919.9127378
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dow-considers-exit-from-20-billion-aramco-chemicals-venture--bloomberg-93CH-4893360",
-    "title": "Dow considers exit from $20 billion Aramco chemicals venture - Bloomberg",
-    "tokens": [
-      "aramco",
-      "billion",
-      "bloomberg",
-      "chemicals",
-      "considers",
-      "dow",
-      "exit",
-      "venture"
-    ],
-    "ts": 1788954927.894794
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/german-government-says-eu-budget-figures-need-reduction-93CH-4893358",
     "title": "German government says EU budget figures need reduction",
     "tokens": [
@@ -23149,5 +23087,74 @@
       "raises"
     ],
     "ts": 1789081790.4996283
+  },
+  {
+    "id": "purepoint-uranium-ceo-says-utility-154840211.html",
+    "title": "Purepoint Uranium CEO says utility contracting set to drive next Uranium market surge",
+    "tokens": [
+      "ceo",
+      "contracting",
+      "drive",
+      "market",
+      "next",
+      "purepoint",
+      "set",
+      "surge",
+      "uranium",
+      "utility"
+    ],
+    "ts": 1789082613.8661246
+  },
+  {
+    "id": "dear-trade-desk-stock-fans-154907443.html",
+    "title": "Dear Trade Desk Stock Fans, Mark Your Calendars for September 21",
+    "tokens": [
+      "calendars",
+      "dear",
+      "desk",
+      "fans",
+      "mark",
+      "september",
+      "stock",
+      "trade",
+      "your"
+    ],
+    "ts": 1789082617.8815057
+  },
+  {
+    "id": "im-25-no-degree-32-154529440.html",
+    "title": "I'm 25, Have No Degree and Make $32 an Hour Cutting Meat at Costco. Should I Give Up a Good Job to Go to College?",
+    "tokens": [
+      "college",
+      "costco",
+      "cutting",
+      "degree",
+      "give",
+      "good",
+      "hour",
+      "job",
+      "make",
+      "meat",
+      "should"
+    ],
+    "ts": 1789082622.906584
+  },
+  {
+    "id": "apple-ceo-heads-launch-event-155304239.html",
+    "title": "Apple’s New CEO Heads Into Its Launch Event With a China Problem Tim Cook Never Faced",
+    "tokens": [
+      "apple",
+      "ceo",
+      "china",
+      "cook",
+      "event",
+      "faced",
+      "heads",
+      "launch",
+      "never",
+      "problem",
+      "tim"
+    ],
+    "ts": 1789082630.9024584
   }
 ]

@@ -1,228 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/screen-holdings-q1-fy2027-slides-soft-quarter-record-guidance-93CH-4890760",
-    "title": "SCREEN Holdings Q1 FY2027 slides: soft quarter, record guidance",
-    "tokens": [
-      "fy2027",
-      "guidance",
-      "holdings",
-      "quarter",
-      "record",
-      "screen",
-      "slides",
-      "soft"
-    ],
-    "ts": 1788831718.4566994
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/australia-consumer-sentiment-slumps-52-in-september-westpac-4890759",
-    "title": "Australia consumer sentiment slumps 5.2% in September - Westpac",
-    "tokens": [
-      "australia",
-      "consumer",
-      "sentiment",
-      "september",
-      "slumps",
-      "westpac"
-    ],
-    "ts": 1788831726.1742342
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-screen-holdings-lifts-outlook-after-soft-q1-in-2026-93CH-4890758",
-    "title": "Earnings call transcript: SCREEN Holdings lifts outlook after soft Q1 in 2026",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "holdings",
-      "lifts",
-      "outlook",
-      "screen",
-      "soft",
-      "transcript"
-    ],
-    "ts": 1788831734.424374
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dow-futures-slip-amid-fed-hike-bets-surging-oil-4890757",
-    "title": "Dow futures slip amid Fed hike bets, surging oil",
-    "tokens": [
-      "bets",
-      "dow",
-      "fed",
-      "futures",
-      "hike",
-      "oil",
-      "slip",
-      "surging"
-    ],
-    "ts": 1788831741.486745
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
-    "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
-    "tokens": [
-      "ahead",
-      "cpi",
-      "dollar",
-      "extends",
-      "high",
-      "month",
-      "rally",
-      "seven",
-      "subdued",
-      "yen"
-    ],
-    "ts": 1788831749.4690208
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/south-korea-nominal-gdp-jumps-at-fastest-pace-in-47-years-in-q2-4890755",
-    "title": "South Korea nominal GDP jumps at fastest pace in 47 years in Q2",
-    "tokens": [
-      "fastest",
-      "gdp",
-      "jumps",
-      "korea",
-      "nominal",
-      "pace",
-      "south",
-      "years"
-    ],
-    "ts": 1788831756.094342
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nvidiabacked-firmus-signs-deal-with-openai-for-malaysia-data-centre-capacity-4890762",
-    "title": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity",
-    "tokens": [
-      "backed",
-      "capacity",
-      "centre",
-      "data",
-      "deal",
-      "firmus",
-      "malaysia",
-      "nvidia",
-      "openai",
-      "signs"
-    ],
-    "ts": 1788832506.8619227
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anthropic-drops-plan-to-acquire-ai-startup-decart-bloomberg-reports-4890765",
-    "title": "Anthropic drops plan to acquire AI startup Decart, Bloomberg reports",
-    "tokens": [
-      "acquire",
-      "anthropic",
-      "bloomberg",
-      "decart",
-      "drops",
-      "plan",
-      "reports",
-      "startup"
-    ],
-    "ts": 1788833441.8626845
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/asia-stocks-waver-as-yen-surges-iran-warns-of-retaliation-4890764",
-    "title": "Asia stocks waver as yen surges, Iran warns of retaliation",
-    "tokens": [
-      "asia",
-      "iran",
-      "retaliation",
-      "stocks",
-      "surges",
-      "warns",
-      "waver",
-      "yen"
-    ],
-    "ts": 1788833449.1223888
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/explainerwhy-isnt-oil-above-100-despite-supply-disruptions-4890766",
-    "title": "Explainer-Why isn’t oil above $100 despite supply disruptions?",
-    "tokens": [
-      "100",
-      "above",
-      "despite",
-      "disruptions",
-      "explainer",
-      "isn",
-      "oil",
-      "supply",
-      "why"
-    ],
-    "ts": 1788834483.744111
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-emyria-posts-208-revenue-jump-in-h2-2026-93CH-4890767",
-    "title": "Earnings call transcript: Emyria posts 208% revenue jump in H2 2026",
-    "tokens": [
-      "2026",
-      "208",
-      "call",
-      "earnings",
-      "emyria",
-      "jump",
-      "posts",
-      "revenue",
-      "transcript"
-    ],
-    "ts": 1788834495.117821
-  },
-  {
-    "id": "robinhood-ceo-says-states-fighting-170003929.html",
-    "title": "Robinhood’s CEO Says States Are Fighting Prediction Markets to Protect Their Own Gambling Tax Money, ‘There’s a Huge Financial Incentive’",
-    "tokens": [
-      "ceo",
-      "fighting",
-      "financial",
-      "gambling",
-      "huge",
-      "incentive",
-      "markets",
-      "money",
-      "own",
-      "prediction",
-      "protect",
-      "robinhood",
-      "states",
-      "tax",
-      "their",
-      "there"
-    ],
-    "ts": 1788835462.6383102
-  },
-  {
-    "id": "short-trading-week-cpi-other-170003351.html",
-    "title": "Short Trading Week, CPI and Other Key Things to Watch this Week",
-    "tokens": [
-      "cpi",
-      "key",
-      "other",
-      "short",
-      "things",
-      "trading",
-      "watch",
-      "week"
-    ],
-    "ts": 1788835470.3545887
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/japan-us-remain-aligned-on-fx-policy-to-foster-stable-markets-katayama-says-4890771",
-    "title": "Japan, US remain aligned on FX policy to foster stable markets, Katayama says",
-    "tokens": [
-      "aligned",
-      "foster",
-      "japan",
-      "katayama",
-      "markets",
-      "policy",
-      "remain",
-      "stable"
-    ],
-    "ts": 1788836208.33425
-  },
-  {
     "id": "https://www.investing.com/news/commodities-news/gold-rises-as-yen-surge-weakens-dollar-oil-and-fed-bets-cap-gains-4890770",
     "title": "Gold rises as yen surge weakens dollar; oil and Fed bets cap gains",
     "tokens": [
@@ -23223,5 +23000,224 @@
       "then"
     ],
     "ts": 1789007450.1872852
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/del-monte-pacific-q1-fy2027-slides-profit-triples-on-international-growth-93CH-4894885",
+    "title": "Del Monte Pacific Q1 FY2027 slides: profit triples on international growth",
+    "tokens": [
+      "del",
+      "fy2027",
+      "growth",
+      "international",
+      "monte",
+      "pacific",
+      "profit",
+      "slides",
+      "triples"
+    ],
+    "ts": 1789008340.8003995
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/del-monte-pacific-q1-fy2027-slides-profit-triples-despite-debt-woes-93CH-4894884",
+    "title": "Del Monte Pacific Q1 FY2027 slides: profit triples despite debt woes",
+    "tokens": [
+      "debt",
+      "del",
+      "despite",
+      "fy2027",
+      "monte",
+      "pacific",
+      "profit",
+      "slides",
+      "triples",
+      "woes"
+    ],
+    "ts": 1789008347.680364
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/bkv-prices-upsized-500m-convertible-notes-offering-93CH-4894883",
+    "title": "BKV prices upsized $500M convertible notes offering",
+    "tokens": [
+      "500m",
+      "bkv",
+      "convertible",
+      "notes",
+      "offering",
+      "prices",
+      "upsized"
+    ],
+    "ts": 1789008354.4037092
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/mastercard-launches-wallet-pay-for-digital-payment-interoperability-93CH-4894882",
+    "title": "Mastercard launches Wallet Pay for digital payment interoperability",
+    "tokens": [
+      "digital",
+      "interoperability",
+      "launches",
+      "mastercard",
+      "pay",
+      "payment",
+      "wallet"
+    ],
+    "ts": 1789008361.5084476
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/centrus-energy-prices-500-million-stock-and-warrant-offering-93CH-4894881",
+    "title": "Centrus Energy prices $500 million stock and warrant offering",
+    "tokens": [
+      "500",
+      "centrus",
+      "energy",
+      "million",
+      "offering",
+      "prices",
+      "stock",
+      "warrant"
+    ],
+    "ts": 1789008368.4609623
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hagerty-prices-upsized-secondary-offering-at-1195-per-share-93CH-4894879",
+    "title": "Hagerty prices upsized secondary offering at $11.95 per share",
+    "tokens": [
+      "hagerty",
+      "offering",
+      "per",
+      "prices",
+      "secondary",
+      "share",
+      "upsized"
+    ],
+    "ts": 1789008375.6322787
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/trump-promises5000-payout-to-us-adults-if-republicans-win-election-4894880",
+    "title": "Trump promises $5,000 payout to U.S. adults if Republicans win election",
+    "tokens": [
+      "000",
+      "adults",
+      "election",
+      "payout",
+      "promises",
+      "republicans",
+      "trump",
+      "win"
+    ],
+    "ts": 1789008382.4906337
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/california-bancorp-director-muller-buys-9958-in-shares-93CH-4894872",
+    "title": "California Bancorp director Muller buys $9,958 in shares",
+    "tokens": [
+      "958",
+      "bancorp",
+      "buys",
+      "california",
+      "director",
+      "muller",
+      "shares"
+    ],
+    "ts": 1789008389.5150745
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/lazboy-director-janet-kerr-sells-115999-in-company-stock-93CH-4894871",
+    "title": "La-Z-Boy director Janet Kerr sells $115,999 in company stock",
+    "tokens": [
+      "115",
+      "999",
+      "boy",
+      "company",
+      "director",
+      "janet",
+      "kerr",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789008396.735297
+  },
+  {
+    "id": "amd-something-nvidia-doesn-t-150032197.html",
+    "title": "AMD Has Something Nvidia Doesn’t. Is the Stock Finally Ready to Break Out?",
+    "tokens": [
+      "amd",
+      "break",
+      "doesn",
+      "finally",
+      "nvidia",
+      "ready",
+      "something",
+      "stock"
+    ],
+    "ts": 1789008403.3364975
+  },
+  {
+    "id": "truist-financial-stock-tfc-outperforming-150054524.html",
+    "title": "Truist Financial Stock: Is TFC Outperforming the Financial Sector?",
+    "tokens": [
+      "financial",
+      "outperforming",
+      "sector",
+      "stock",
+      "tfc",
+      "truist"
+    ],
+    "ts": 1789008410.996946
+  },
+  {
+    "id": "harbor-mid-cap-value-fund-145808947.html",
+    "title": "Harbor Mid Cap Value Fund Trimmed State Street (STT) Following Appreciation",
+    "tokens": [
+      "appreciation",
+      "cap",
+      "following",
+      "fund",
+      "harbor",
+      "mid",
+      "state",
+      "street",
+      "stt",
+      "trimmed",
+      "value"
+    ],
+    "ts": 1789008417.9876199
+  },
+  {
+    "id": "rocket-lab-keeps-landing-defense-150203675.html",
+    "title": "Rocket Lab Keeps Landing Defense Deals. Here’s Why Analysts Aren’t Getting More Bullish.",
+    "tokens": [
+      "analysts",
+      "aren",
+      "bullish",
+      "deals",
+      "defense",
+      "getting",
+      "here",
+      "keeps",
+      "lab",
+      "landing",
+      "more",
+      "rocket",
+      "why"
+    ],
+    "ts": 1789008424.8019261
+  },
+  {
+    "id": "closing-traceability-gaps-origin-verification-150000865.html",
+    "title": "Closing Traceability Gaps with Origin Verification: Why Provenance Supports Stronger Risk Management",
+    "tokens": [
+      "closing",
+      "gaps",
+      "management",
+      "origin",
+      "provenance",
+      "risk",
+      "stronger",
+      "supports",
+      "traceability",
+      "verification",
+      "why"
+    ],
+    "ts": 1789008432.441923
   }
 ]

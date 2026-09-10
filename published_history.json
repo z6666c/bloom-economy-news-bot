@@ -1,266 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/analysisstarbucks-ceo-niccol-brought-back-customers-investors-want-margins-next-4893061",
-    "title": "Analysis-Starbucks CEO Niccol brought back customers, investors want margins next",
-    "tokens": [
-      "analysis",
-      "back",
-      "brought",
-      "ceo",
-      "customers",
-      "investors",
-      "margins",
-      "next",
-      "niccol",
-      "starbucks",
-      "want"
-    ],
-    "ts": 1788949814.6631444
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hsbc-downgrades-lvmh-and-burberry-on-challenging-h2-outlook-shares-fall-4893057",
-    "title": "HSBC downgrades LVMH and Burberry on challenging H2 outlook; shares fall",
-    "tokens": [
-      "burberry",
-      "challenging",
-      "downgrades",
-      "fall",
-      "hsbc",
-      "lvmh",
-      "outlook",
-      "shares"
-    ],
-    "ts": 1788949823.833522
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/sterling-today-pound-eases-dollar-steadies-after-weak-run-4893054",
-    "title": "Sterling today: Pound eases, dollar steadies after weak run",
-    "tokens": [
-      "dollar",
-      "eases",
-      "pound",
-      "run",
-      "steadies",
-      "sterling",
-      "today",
-      "weak"
-    ],
-    "ts": 1788949831.4339964
-  },
-  {
-    "id": "apple-aapl-surprise-shine-event-101521233.html",
-    "title": "Apple’s (AAPL) “Surprise and Shine” Event Tests Its Foldable iPhone Against Huawei and Xiaomi",
-    "tokens": [
-      "aapl",
-      "against",
-      "apple",
-      "event",
-      "foldable",
-      "huawei",
-      "iphone",
-      "shine",
-      "surprise",
-      "tests",
-      "xiaomi"
-    ],
-    "ts": 1788949840.61368
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market",
-    "title": "Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market",
-    "tokens": [
-      "2026",
-      "analysis",
-      "bear",
-      "bitcoin",
-      "challenges",
-      "longest",
-      "market",
-      "metric",
-      "profit",
-      "run",
-      "sees",
-      "sopr"
-    ],
-    "ts": 1788949852.686628
-  },
-  {
-    "id": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down",
-    "title": "Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down",
-    "tokens": [
-      "2023",
-      "bank",
-      "biden",
-      "blames",
-      "ceo",
-      "pressure",
-      "silvergate",
-      "wind"
-    ],
-    "ts": 1788949861.3317647
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-raises-fedex-stock-price-target-to-350-on-transformation-progress-93CH-4893152",
-    "title": "Evercore ISI raises FedEx stock price target to $350 on transformation progress",
-    "tokens": [
-      "350",
-      "evercore",
-      "fedex",
-      "isi",
-      "price",
-      "progress",
-      "raises",
-      "stock",
-      "target",
-      "transformation"
-    ],
-    "ts": 1788950748.3439004
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-geopark-stock-rating-on-venezuela-project-93CH-4893151",
-    "title": "Jefferies reiterates GeoPark stock rating on Venezuela project",
-    "tokens": [
-      "geopark",
-      "jefferies",
-      "project",
-      "rating",
-      "reiterates",
-      "stock",
-      "venezuela"
-    ],
-    "ts": 1788950757.1774478
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/investec-acquires-shares-for-employee-incentive-plans-93CH-4893150",
-    "title": "Investec acquires shares for employee incentive plans",
-    "tokens": [
-      "acquires",
-      "employee",
-      "incentive",
-      "investec",
-      "plans",
-      "shares"
-    ],
-    "ts": 1788950765.1166716
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/how-hawkish-will-the-boe-sound-as-energy-prices-rise-4893149",
-    "title": "How hawkish will the BoE sound as energy prices rise?",
-    "tokens": [
-      "boe",
-      "energy",
-      "hawkish",
-      "how",
-      "prices",
-      "rise",
-      "sound"
-    ],
-    "ts": 1788950773.6317334
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/russia-says-it-hopes-ukraine-peace-talks-will-resume-soon-93CH-4893148",
-    "title": "Russia says it hopes Ukraine peace talks will resume soon",
-    "tokens": [
-      "hopes",
-      "peace",
-      "resume",
-      "russia",
-      "soon",
-      "talks",
-      "ukraine"
-    ],
-    "ts": 1788950780.6940894
-  },
-  {
-    "id": "https://www.investing.com/news/press-releases/mexc-launches-opportunity-compass-as-537-of-crypto-users-move-into-stocks-but-knowledge-gaps-remain-4893144",
-    "title": "MEXC launches Opportunity Compass as 53.7% of crypto users move into stocks but knowledge gaps remain",
-    "tokens": [
-      "compass",
-      "crypto",
-      "gaps",
-      "knowledge",
-      "launches",
-      "mexc",
-      "move",
-      "opportunity",
-      "remain",
-      "stocks",
-      "users"
-    ],
-    "ts": 1788950788.2625287
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-as-oil-nears-100-fed-hike-bets-rise-4892640",
-    "title": "U.S. stock futures subdued as oil exceeds $100",
-    "tokens": [
-      "100",
-      "exceeds",
-      "futures",
-      "oil",
-      "stock",
-      "subdued"
-    ],
-    "ts": 1788950796.73436
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/how-big-a-risk-are-rates-to-the-ai-boom-4893142",
-    "title": "How big a risk are rates to the AI boom?",
-    "tokens": [
-      "big",
-      "boom",
-      "how",
-      "rates",
-      "risk"
-    ],
-    "ts": 1788950804.489376
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-086-4893139",
-    "title": "India stocks lower at close of trade; Nifty 50 down 0.86%",
-    "tokens": [
-      "close",
-      "india",
-      "lower",
-      "nifty",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1788950812.3645487
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/central-command-denies-iranian-claims-of-hitting-us-navy-ships-93CH-4893138",
-    "title": "Central Command denies Iranian claims of hitting U.S. Navy ships",
-    "tokens": [
-      "central",
-      "claims",
-      "command",
-      "denies",
-      "hitting",
-      "iranian",
-      "navy",
-      "ships"
-    ],
-    "ts": 1788950820.4244697
-  },
-  {
-    "id": "tsmc-high-na-plan-gives-101831920.html",
-    "title": "TSMC’s High-NA Plan Gives ASML a Catalyst, but Investors Face Two Different Timelines",
-    "tokens": [
-      "asml",
-      "catalyst",
-      "different",
-      "face",
-      "gives",
-      "high",
-      "investors",
-      "plan",
-      "timelines",
-      "tsmc",
-      "two"
-    ],
-    "ts": 1788950828.643053
-  },
-  {
     "id": "argentinas-corn-exports-set-record-101814752.html",
     "title": "Argentina's corn exports set for record, as war in Ukraine, European heat wave reshape trade",
     "tokens": [
@@ -23180,5 +22919,264 @@
       "world"
     ],
     "ts": 1789074686.2472978
+  },
+  {
+    "id": "WP-MKTW-0005226154",
+    "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
+    "tokens": [
+      "bet",
+      "cloud",
+      "drive",
+      "forecast",
+      "helps",
+      "momentum",
+      "off",
+      "oracle",
+      "pays",
+      "rosier"
+    ],
+    "ts": 1789075453.8207846
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/wedbush-initiates-datadog-stock-coverage-with-outperform-rating-93CH-4896975",
+    "title": "Wedbush initiates Datadog stock coverage with Outperform rating",
+    "tokens": [
+      "coverage",
+      "datadog",
+      "initiates",
+      "outperform",
+      "rating",
+      "stock",
+      "wedbush"
+    ],
+    "ts": 1789075462.4119008
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/goldcana-resources-announces-private-placement-terms-93CH-4896974",
+    "title": "Goldcana Resources announces private placement terms",
+    "tokens": [
+      "announces",
+      "goldcana",
+      "placement",
+      "private",
+      "resources",
+      "terms"
+    ],
+    "ts": 1789075471.6926208
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/franklin-bsp-realty-trust-declares-q3-dividend-reauthorizes-buyback-93CH-4896970",
+    "title": "Franklin BSP Realty Trust declares Q3 dividend, reauthorizes buyback",
+    "tokens": [
+      "bsp",
+      "buyback",
+      "declares",
+      "dividend",
+      "franklin",
+      "realty",
+      "reauthorizes",
+      "trust"
+    ],
+    "ts": 1789075478.7781131
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-4896930",
+    "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
+    "tokens": [
+      "anthropic",
+      "campaigns",
+      "chinese",
+      "claude",
+      "disrupts",
+      "models",
+      "russian",
+      "targeting"
+    ],
+    "ts": 1789075485.9370806
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bath--body-works-gains-in-extended-trading-as-barington-pushes-for-a-sale-4896969",
+    "title": "Bath & Body Works gains in extended trading as Barington pushes for a sale",
+    "tokens": [
+      "barington",
+      "bath",
+      "body",
+      "extended",
+      "gains",
+      "pushes",
+      "sale",
+      "trading",
+      "works"
+    ],
+    "ts": 1789075492.965532
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nvidia-stock-edges-higher-on-microsoft-data-center-expansion-report-4896967",
+    "title": "Nvidia stock edges higher on Microsoft data center expansion report",
+    "tokens": [
+      "center",
+      "data",
+      "edges",
+      "expansion",
+      "higher",
+      "microsoft",
+      "nvidia",
+      "report",
+      "stock"
+    ],
+    "ts": 1789075501.724278
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trading-day-inflation-palpitations-4896968",
+    "title": "Trading Day: Inflation palpitations",
+    "tokens": [
+      "day",
+      "inflation",
+      "palpitations",
+      "trading"
+    ],
+    "ts": 1789075509.70855
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/us-diesel-prices-top-6-per-gallon-for-first-time-93CH-4896966",
+    "title": "US diesel prices top $6 per gallon for first time",
+    "tokens": [
+      "diesel",
+      "first",
+      "gallon",
+      "per",
+      "prices",
+      "time",
+      "top"
+    ],
+    "ts": 1789075517.996832
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cardiol-therapeutics-files-150-million-shelf-prospectus-93CH-4896965",
+    "title": "Cardiol Therapeutics files $150 million shelf prospectus",
+    "tokens": [
+      "150",
+      "cardiol",
+      "files",
+      "million",
+      "prospectus",
+      "shelf",
+      "therapeutics"
+    ],
+    "ts": 1789075525.727481
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/thor-industries-restructures-north-american-rv-leadership-93CH-4896964",
+    "title": "THOR Industries restructures North American RV leadership",
+    "tokens": [
+      "american",
+      "industries",
+      "leadership",
+      "north",
+      "restructures",
+      "thor"
+    ],
+    "ts": 1789075533.7843232
+  },
+  {
+    "id": "average-millennial-retire-millionaire-vanguard-130847118.html",
+    "title": "Can the Average Millennial Retire a Millionaire? What Vanguard’s Data Shows",
+    "tokens": [
+      "average",
+      "can",
+      "data",
+      "millennial",
+      "millionaire",
+      "retire",
+      "shows",
+      "vanguard",
+      "what"
+    ],
+    "ts": 1789075541.878408
+  },
+  {
+    "id": "?src=A00220&yptr=yahoo",
+    "title": "Cathie Wood Grows Robinhood Stake; Sheds More AMD, Palantir",
+    "tokens": [
+      "amd",
+      "cathie",
+      "grows",
+      "more",
+      "palantir",
+      "robinhood",
+      "sheds",
+      "stake",
+      "wood"
+    ],
+    "ts": 1789075548.4345667
+  },
+  {
+    "id": "following-activist-investor-elliott-large-130002930.html",
+    "title": "Following Activist Investor Elliott’s Large Stake Purchase, Here’s What It Will Take for Deutsche Telekom to Stage a Recovery",
+    "tokens": [
+      "activist",
+      "deutsche",
+      "elliott",
+      "following",
+      "here",
+      "investor",
+      "large",
+      "purchase",
+      "recovery",
+      "stage",
+      "stake",
+      "take",
+      "telekom",
+      "what"
+    ],
+    "ts": 1789075556.1656203
+  },
+  {
+    "id": "ebay-sees-collectibles-live-commerce-130203650.html",
+    "title": "eBay Sees Collectibles, Live Commerce and AI Powering Its Next Growth Phase",
+    "tokens": [
+      "collectibles",
+      "commerce",
+      "ebay",
+      "growth",
+      "live",
+      "next",
+      "phase",
+      "powering",
+      "sees"
+    ],
+    "ts": 1789075563.8741553
+  },
+  {
+    "id": "xle-xlf-xlv-forecast-energy-130943948.html",
+    "title": "XLE, XLF & XLV Forecast: Energy Eyes Breakout as XLV Slips",
+    "tokens": [
+      "breakout",
+      "energy",
+      "eyes",
+      "forecast",
+      "slips",
+      "xle",
+      "xlf",
+      "xlv"
+    ],
+    "ts": 1789075572.5799046
+  },
+  {
+    "id": "beyond-visibility-building-supply-chain-130000331.html",
+    "title": "Beyond visibility: Building a supply chain that can act when conditions change",
+    "tokens": [
+      "act",
+      "beyond",
+      "building",
+      "can",
+      "chain",
+      "change",
+      "conditions",
+      "supply",
+      "visibility",
+      "when"
+    ],
+    "ts": 1789075579.556346
   }
 ]

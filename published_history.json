@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-upgrades-auto-trader-stock-rating-on-product-growth-outlook-93CH-4890932",
-    "title": "Jefferies upgrades Auto Trader stock rating on product growth outlook",
-    "tokens": [
-      "auto",
-      "growth",
-      "jefferies",
-      "outlook",
-      "product",
-      "rating",
-      "stock",
-      "trader",
-      "upgrades"
-    ],
-    "ts": 1788855213.6195502
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ferrexpo-shares-jump-on-15-million-loan-facility-news-93CH-4890931",
-    "title": "Ferrexpo shares jump on $15 million loan facility news",
-    "tokens": [
-      "facility",
-      "ferrexpo",
-      "jump",
-      "loan",
-      "million",
-      "news",
-      "shares"
-    ],
-    "ts": 1788855221.4363873
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-the-pebble-group-lifts-h1-2026-growth-shares-slip-93CH-4890930",
     "title": "Earnings call transcript: The Pebble Group lifts H1 2026 growth, shares slip",
     "tokens": [
@@ -23225,5 +23195,37 @@
       "wins"
     ],
     "ts": 1789017128.5042562
+  },
+  {
+    "id": "federlegnoarredo-italian-federation-woodworking-furniture-172553220.html",
+    "title": "FederlegnoArredo, the Italian Federation of Woodworking and Furniture, Nominates New President",
+    "tokens": [
+      "federation",
+      "federlegnoarredo",
+      "furniture",
+      "italian",
+      "nominates",
+      "president",
+      "woodworking"
+    ],
+    "ts": 1789017967.2567992
+  },
+  {
+    "id": "apple-scraps-plans-2-macbook-181756571.html",
+    "title": "Apple Scraps Plans for 2 MacBook Models. What This Actually Means for AAPL Stock Investors.",
+    "tokens": [
+      "aapl",
+      "actually",
+      "apple",
+      "investors",
+      "macbook",
+      "means",
+      "models",
+      "plans",
+      "scraps",
+      "stock",
+      "what"
+    ],
+    "ts": 1789017975.6809716
   }
 ]

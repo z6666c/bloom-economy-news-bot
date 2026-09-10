@@ -1,52 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/analysiswhy-the-boj-will-bet-small-on-rate-hikes-now-to-avoid-a-bigger-shock-later-4890795",
-    "title": "Analysis-Why the BOJ will bet small on rate hikes now to avoid a bigger shock later",
-    "tokens": [
-      "analysis",
-      "avoid",
-      "bet",
-      "bigger",
-      "boj",
-      "hikes",
-      "later",
-      "now",
-      "rate",
-      "shock",
-      "small",
-      "why"
-    ],
-    "ts": 1788848299.0621
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/checkit-explores-sale-with-30-pence-minimum-share-price-threshold-93CH-4890818",
-    "title": "Checkit explores sale with 30 pence minimum share price threshold",
-    "tokens": [
-      "checkit",
-      "explores",
-      "minimum",
-      "pence",
-      "price",
-      "sale",
-      "share",
-      "threshold"
-    ],
-    "ts": 1788848307.744921
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-046-4890812",
-    "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.46%",
-    "tokens": [
-      "close",
-      "lower",
-      "stocks",
-      "taiwan",
-      "trade",
-      "weighted"
-    ],
-    "ts": 1788848311.75629
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/novartis-dm1-drug-fails-latestage-trial-clouding-development-outlook-4890810",
     "title": "Novartis DM1 drug fails late-stage trial, clouding development outlook",
     "tokens": [
@@ -23217,5 +23170,57 @@
       "why"
     ],
     "ts": 1789011897.8731675
+  },
+  {
+    "id": "fedex-conference-ai-data-network-160201449.html",
+    "title": "FedEx Conference: AI, Data and Network 2.0 Drive Cost Cuts and Supply-Chain Growth",
+    "tokens": [
+      "chain",
+      "conference",
+      "cost",
+      "cuts",
+      "data",
+      "drive",
+      "fedex",
+      "growth",
+      "network",
+      "supply"
+    ],
+    "ts": 1789012608.6408749
+  },
+  {
+    "id": "software-stocks-prime-spot-benefit-160400817.html",
+    "title": "These software stocks are in a prime spot to benefit from a rapidly shifting AI landscape",
+    "tokens": [
+      "benefit",
+      "landscape",
+      "prime",
+      "rapidly",
+      "shifting",
+      "software",
+      "spot",
+      "stocks",
+      "these"
+    ],
+    "ts": 1789012612.655344
+  },
+  {
+    "id": "michael-burry-calls-palantir-ai-161615284.html",
+    "title": "Michael Burry Calls Palantir an ‘AI FOMO Consultant.’ Here’s Why He’s So Bearish on PLTR — And Why I’m Not Fully Convinced.",
+    "tokens": [
+      "bearish",
+      "burry",
+      "calls",
+      "consultant",
+      "convinced",
+      "fomo",
+      "fully",
+      "here",
+      "michael",
+      "palantir",
+      "pltr",
+      "why"
+    ],
+    "ts": 1789012616.6286995
   }
 ]

@@ -1,255 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/cathay-cargo-flies-cavalluna-s-equine-cast-to-its-first-stage-outside-europe-1036525320",
-    "title": "Cathay Cargo flies CAVALLUNA’s equine cast to its first stage outside Europe",
-    "tokens": [
-      "cargo",
-      "cast",
-      "cathay",
-      "cavalluna",
-      "equine",
-      "europe",
-      "first",
-      "flies",
-      "outside",
-      "stage"
-    ],
-    "ts": 1788807284.8094893
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/airasia-flights-impacted-by-the-mount-anak-krakatau-volcanic-eruption-1036525396",
-    "title": "AirAsia flights impacted by the Mount Anak Krakatau volcanic eruption",
-    "tokens": [
-      "airasia",
-      "anak",
-      "eruption",
-      "flights",
-      "impacted",
-      "krakatau",
-      "mount",
-      "volcanic"
-    ],
-    "ts": 1788807295.922407
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/jetstar-touches-down-at-western-sydney-international-for-trial-flight-1036525355",
-    "title": "Jetstar touches down at Western Sydney International for trial flight",
-    "tokens": [
-      "flight",
-      "international",
-      "jetstar",
-      "sydney",
-      "touches",
-      "trial",
-      "western"
-    ],
-    "ts": 1788807303.742655
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/bozzino-capital-launches-to-counter-situational-awareness-and-capitalize-on-the-post-ai-imagination-economy-1036526810",
-    "title": "Bozzino Capital Launches to Counter “Situational Awareness” and Capitalize on the Post-AI Imagination Economy",
-    "tokens": [
-      "awareness",
-      "bozzino",
-      "capital",
-      "capitalize",
-      "counter",
-      "economy",
-      "imagination",
-      "launches",
-      "post",
-      "situational"
-    ],
-    "ts": 1788807311.547317
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-highly-recognized-law-firm-encourages-the-simply-good-foods-company-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-smpl-1036526808",
-    "title": "ROSEN, A HIGHLY RECOGNIZED LAW FIRM, Encourages The Simply Good Foods Company Investors to Secure Counsel Before Important Deadline in Securities Class Action - SMPL",
-    "tokens": [
-      "action",
-      "before",
-      "class",
-      "company",
-      "counsel",
-      "deadline",
-      "encourages",
-      "firm",
-      "foods",
-      "good",
-      "highly",
-      "important",
-      "investors",
-      "law",
-      "recognized",
-      "rosen",
-      "secure",
-      "securities",
-      "simply",
-      "smpl"
-    ],
-    "ts": 1788807315.5554702
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/mvst-shareholder-action-reminder-faruqi-faruqi-llp-reminds-microvast-mvst-investors-of-securities-class-action-lawsuit-deadline-on-september-21-2026-1036526809",
-    "title": "MVST SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Microvast (MVST) Investors of Securities Class Action Lawsuit Deadline on September 21, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "class",
-      "deadline",
-      "faruqi",
-      "investors",
-      "lawsuit",
-      "llp",
-      "microvast",
-      "mvst",
-      "reminder",
-      "reminds",
-      "securities",
-      "september",
-      "shareholder"
-    ],
-    "ts": 1788807319.0626433
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-leading-national-firm-encourages-blaize-holdings-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-bzai-1036526789",
-    "title": "ROSEN, A LEADING NATIONAL FIRM, Encourages Blaize Holdings, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - BZAI",
-    "tokens": [
-      "action",
-      "before",
-      "blaize",
-      "bzai",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "filed",
-      "firm",
-      "first",
-      "holdings",
-      "important",
-      "inc",
-      "investors",
-      "leading",
-      "national",
-      "rosen",
-      "secure",
-      "securities"
-    ],
-    "ts": 1788807323.070818
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/intu-shareholder-action-reminder-faruqi-faruqi-llp-reminds-intuit-intu-investors-of-securities-class-action-lawsuit-deadline-on-september-8-2026-1036338488",
-    "title": "INTU SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Intuit (INTU) Investors of Securities Class Action Lawsuit Deadline on September 8, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "class",
-      "deadline",
-      "faruqi",
-      "intu",
-      "intuit",
-      "investors",
-      "lawsuit",
-      "llp",
-      "reminder",
-      "reminds",
-      "securities",
-      "september",
-      "shareholder"
-    ],
-    "ts": 1788807323.0791988
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/wse-shareholder-action-reminder-faruqi-faruqi-llp-reminds-wise-group-plc-wse-investors-of-securities-class-action-lawsuit-deadline-on-september-29-2026-1036440809",
-    "title": "WSE SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Wise Group plc (WSE) Investors of Securities Class Action Lawsuit Deadline on September 29, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "class",
-      "deadline",
-      "faruqi",
-      "group",
-      "investors",
-      "lawsuit",
-      "llp",
-      "plc",
-      "reminder",
-      "reminds",
-      "securities",
-      "september",
-      "shareholder",
-      "wise",
-      "wse"
-    ],
-    "ts": 1788807323.0873063
-  },
-  {
-    "id": "90-2026-cybersecurity-growth-stock-104939003.html",
-    "title": "Up 90% in 2026, This Cybersecurity Growth Stock Under $300 Is the Best One to Buy Now",
-    "tokens": [
-      "2026",
-      "300",
-      "best",
-      "buy",
-      "cybersecurity",
-      "growth",
-      "now",
-      "one",
-      "stock",
-      "under"
-    ],
-    "ts": 1788808186.544603
-  },
-  {
-    "id": "oilprice-article-45432",
-    "title": "Sudan Could Become the Red Sea’s Next Energy Security Flashpoint",
-    "tokens": [
-      "become",
-      "could",
-      "energy",
-      "flashpoint",
-      "next",
-      "red",
-      "sea",
-      "security",
-      "sudan"
-    ],
-    "ts": 1788808195.181774
-  },
-  {
-    "id": "oilprice-news-45432",
-    "title": "Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat",
-    "tokens": [
-      "despite",
-      "india",
-      "keep",
-      "oil",
-      "russia",
-      "selling",
-      "tariff",
-      "threat",
-      "vows"
-    ],
-    "ts": 1788808202.234663
-  },
-  {
-    "id": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders",
-    "title": "Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ",
-    "tokens": [
-      "biden",
-      "holders",
-      "joe",
-      "launch",
-      "memecoin",
-      "send",
-      "son",
-      "trump",
-      "wsj"
-    ],
-    "ts": 1788808210.0668142
-  },
-  {
     "id": "nvidia-hugging-face-deal-hedge-105111039.html",
     "title": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
     "tokens": [
@@ -23273,5 +23023,210 @@
       "rally"
     ],
     "ts": 1788999297.2048225
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/research-solutions-earnings-missed-by-002-revenue-fell-short-of-estimates-4894801",
+    "title": "Research Solutions earnings missed by $0.02, revenue fell short of estimates",
+    "tokens": [
+      "earnings",
+      "estimates",
+      "fell",
+      "missed",
+      "research",
+      "revenue",
+      "short",
+      "solutions"
+    ],
+    "ts": 1789000650.601888
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/mirum-pharmaceuticals-at-cantor-healthcare-conference-raredisease-push-93CH-4894800",
+    "title": "Mirum Pharmaceuticals at Cantor healthcare conference: rare-disease push",
+    "tokens": [
+      "cantor",
+      "conference",
+      "disease",
+      "healthcare",
+      "mirum",
+      "pharmaceuticals",
+      "push",
+      "rare"
+    ],
+    "ts": 1789000650.6132703
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/culp-earnings-beat-by-003-revenue-topped-estimates-4894799",
+    "title": "Culp earnings beat by $0.03, revenue topped estimates",
+    "tokens": [
+      "beat",
+      "culp",
+      "earnings",
+      "estimates",
+      "revenue",
+      "topped"
+    ],
+    "ts": 1789000650.6238098
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/lakeland-industries-earnings-missed-by-035-revenue-fell-short-of-estimates-4894798",
+    "title": "Lakeland Industries earnings missed by $0.35, revenue fell short of estimates",
+    "tokens": [
+      "earnings",
+      "estimates",
+      "fell",
+      "industries",
+      "lakeland",
+      "missed",
+      "revenue",
+      "short"
+    ],
+    "ts": 1789000650.6346107
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/people-inc-at-goldman-sachs-communacopia--technology-conference-2026-brand-shift-93CH-4894797",
+    "title": "People Inc. at Goldman Sachs Communacopia + Technology Conference 2026: brand shift",
+    "tokens": [
+      "2026",
+      "brand",
+      "communacopia",
+      "conference",
+      "goldman",
+      "inc",
+      "people",
+      "sachs",
+      "shift",
+      "technology"
+    ],
+    "ts": 1789000657.4884956
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/limoneira-earnings-missed-by-015-revenue-fell-short-of-estimates-4894796",
+    "title": "Limoneira earnings missed by $0.15, revenue fell short of estimates",
+    "tokens": [
+      "earnings",
+      "estimates",
+      "fell",
+      "limoneira",
+      "missed",
+      "revenue",
+      "short"
+    ],
+    "ts": 1789000661.5040178
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/zoom-at-goldman-sachs-communacopia--technology-conference-2026-ai-push-93CH-4894795",
+    "title": "Zoom at Goldman Sachs Communacopia + Technology Conference 2026: ai push",
+    "tokens": [
+      "2026",
+      "communacopia",
+      "conference",
+      "goldman",
+      "push",
+      "sachs",
+      "technology",
+      "zoom"
+    ],
+    "ts": 1789000661.5145867
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/dorian-lpg-cfo-theodore-young-sells-753576-in-shares-93CH-4894794",
+    "title": "Dorian LPG CFO Theodore Young sells $753,576 in shares",
+    "tokens": [
+      "576",
+      "753",
+      "cfo",
+      "dorian",
+      "lpg",
+      "sells",
+      "shares",
+      "theodore",
+      "young"
+    ],
+    "ts": 1789000665.047417
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/tesla-cfo-vaibhav-taneja-sells-938419-in-shares-93CH-4894793",
+    "title": "Tesla CFO Vaibhav Taneja sells $938,419 in shares",
+    "tokens": [
+      "419",
+      "938",
+      "cfo",
+      "sells",
+      "shares",
+      "taneja",
+      "tesla",
+      "vaibhav"
+    ],
+    "ts": 1789000673.164239
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/fidelity--guaranty-life-sells-27m-of-crescent-capital-bdc-stock-93CH-4894792",
+    "title": "Fidelity & Guaranty Life sells $2.7m of Crescent Capital BDC stock",
+    "tokens": [
+      "bdc",
+      "capital",
+      "crescent",
+      "fidelity",
+      "guaranty",
+      "life",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789000680.8629975
+  },
+  {
+    "id": "tnr-gold-board-urges-rejection-130700736.html",
+    "title": "TNR Gold board urges rejection of Eucalyptus proxy bid ahead of shareholder vote",
+    "tokens": [
+      "ahead",
+      "bid",
+      "board",
+      "eucalyptus",
+      "gold",
+      "proxy",
+      "rejection",
+      "shareholder",
+      "tnr",
+      "urges",
+      "vote"
+    ],
+    "ts": 1789000688.8905654
+  },
+  {
+    "id": "zcash-price-eyes-2-292-130715999.html",
+    "title": "Zcash Price Eyes $2,292 as Biggest ZEC Short Doubles Down Despite $24M Loss",
+    "tokens": [
+      "24m",
+      "292",
+      "biggest",
+      "despite",
+      "doubles",
+      "eyes",
+      "loss",
+      "price",
+      "short",
+      "zcash",
+      "zec"
+    ],
+    "ts": 1789000696.5351872
+  },
+  {
+    "id": "grain-traders-closely-eyeballing-black-130002713.html",
+    "title": "Grain Traders Are Closely Eyeballing Black Sea Region Grain Shipping as Wheat, Corn Prices Fall",
+    "tokens": [
+      "black",
+      "closely",
+      "corn",
+      "eyeballing",
+      "fall",
+      "grain",
+      "prices",
+      "region",
+      "sea",
+      "shipping",
+      "traders",
+      "wheat"
+    ],
+    "ts": 1789000703.9191601
   }
 ]

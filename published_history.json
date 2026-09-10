@@ -1,77 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/novartis-dm1-drug-fails-latestage-trial-clouding-development-outlook-4890810",
-    "title": "Novartis DM1 drug fails late-stage trial, clouding development outlook",
-    "tokens": [
-      "clouding",
-      "development",
-      "dm1",
-      "drug",
-      "fails",
-      "late",
-      "novartis",
-      "outlook",
-      "stage",
-      "trial"
-    ],
-    "ts": 1788848315.6174924
-  },
-  {
-    "id": "eed9b572-f50d-4a77-9ceb-4a3a88acde68",
-    "title": "Bitcoin’s golden cross is here",
-    "tokens": [
-      "bitcoin",
-      "cross",
-      "golden",
-      "here"
-    ],
-    "ts": 1788848324.77174
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fulcrum-metals-starts-trading-on-otcqb-under-ticker-fulmf-93CH-4890857",
-    "title": "Fulcrum Metals starts trading on OTCQB under ticker FULMF",
-    "tokens": [
-      "fulcrum",
-      "fulmf",
-      "metals",
-      "otcqb",
-      "starts",
-      "ticker",
-      "trading",
-      "under"
-    ],
-    "ts": 1788849885.371046
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-100-4890854",
-    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 1.00%",
-    "tokens": [
-      "200",
-      "asx",
-      "australia",
-      "close",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1788849893.0983975
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/quilter-launches-final-30m-tranche-of-share-buyback-program-93CH-4890853",
-    "title": "Quilter launches final £30m tranche of share buyback program",
-    "tokens": [
-      "30m",
-      "buyback",
-      "final",
-      "launches",
-      "program",
-      "quilter",
-      "share",
-      "tranche"
-    ],
-    "ts": 1788849900.6337557
-  },
-  {
     "id": "https://www.investing.com/news/economic-indicators/german-exports-decline-08-in-july-missing-forecasts-93CH-4890851",
     "title": "German exports decline 0.8% in July, missing forecasts",
     "tokens": [
@@ -23222,5 +23150,85 @@
       "why"
     ],
     "ts": 1789012616.6286995
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/boyu-capital-agrees-to-acquire-xiamen-aircraft-leasing--bloomberg-4894924",
+    "title": "Boyu Capital agrees to acquire Xiamen Aircraft Leasing - Bloomberg",
+    "tokens": [
+      "acquire",
+      "agrees",
+      "aircraft",
+      "bloomberg",
+      "boyu",
+      "capital",
+      "leasing",
+      "xiamen"
+    ],
+    "ts": 1789013663.1923184
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/asian-currencies-steady-as-riskoff-tone-weighs-yen-holds-near-highs-4894923",
+    "title": "Asian currencies steady as risk-off tone weighs, yen holds near highs",
+    "tokens": [
+      "asian",
+      "currencies",
+      "highs",
+      "holds",
+      "near",
+      "off",
+      "risk",
+      "steady",
+      "tone",
+      "weighs",
+      "yen"
+    ],
+    "ts": 1789013671.286817
+  },
+  {
+    "id": "jaguar-land-rover-suppliers-seek-161435104.html",
+    "title": "Jaguar Land Rover suppliers seek defence work to prevent job losses",
+    "tokens": [
+      "defence",
+      "jaguar",
+      "job",
+      "land",
+      "losses",
+      "prevent",
+      "rover",
+      "seek",
+      "suppliers",
+      "work"
+    ],
+    "ts": 1789013679.79391
+  },
+  {
+    "id": "vanguard-voos-hidden-40b-trade-161834067.html",
+    "title": "Vanguard VOO's hidden $40B trade affects your retirement fund",
+    "tokens": [
+      "40b",
+      "affects",
+      "fund",
+      "hidden",
+      "retirement",
+      "trade",
+      "vanguard",
+      "voo",
+      "your"
+    ],
+    "ts": 1789013688.6419852
+  },
+  {
+    "id": "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto",
+    "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
+    "tokens": [
+      "52m",
+      "crypto",
+      "marketplace",
+      "restrains",
+      "sanctions",
+      "scam",
+      "xinbi"
+    ],
+    "ts": 1789013698.5110638
   }
 ]

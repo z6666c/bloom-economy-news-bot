@@ -1,134 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/tinone-resources-announces-private-placement-for-c750000-93CH-4893345",
-    "title": "TinOne Resources announces private placement for C$750,000",
-    "tokens": [
-      "000",
-      "750",
-      "announces",
-      "placement",
-      "private",
-      "resources",
-      "tinone"
-    ],
-    "ts": 1788954242.543477
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fti-consulting-hires-luis-roman-as-senior-managing-director-93CH-4893346",
-    "title": "FTI Consulting hires Luis Roman as senior managing director",
-    "tokens": [
-      "consulting",
-      "director",
-      "fti",
-      "hires",
-      "luis",
-      "managing",
-      "roman",
-      "senior"
-    ],
-    "ts": 1788954249.6408331
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/xchg-regains-nasdaq-compliance-with-minimum-bid-price-rule-93CH-4893343",
-    "title": "XCHG regains Nasdaq compliance with minimum bid price rule",
-    "tokens": [
-      "bid",
-      "compliance",
-      "minimum",
-      "nasdaq",
-      "price",
-      "regains",
-      "rule",
-      "xchg"
-    ],
-    "ts": 1788954253.6570287
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/mizuho-reiterates-braze-stock-rating-on-strong-q2-results-93CH-4893331",
-    "title": "Mizuho reiterates Braze stock rating on strong Q2 results",
-    "tokens": [
-      "braze",
-      "mizuho",
-      "rating",
-      "reiterates",
-      "results",
-      "stock",
-      "strong"
-    ],
-    "ts": 1788954258.0801563
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-upgrades-summit-therapeutics-stock-rating-on-trial-outlook-93CH-4893330",
-    "title": "Jefferies upgrades Summit Therapeutics stock rating on trial outlook",
-    "tokens": [
-      "jefferies",
-      "outlook",
-      "rating",
-      "stock",
-      "summit",
-      "therapeutics",
-      "trial",
-      "upgrades"
-    ],
-    "ts": 1788954266.768886
-  },
-  {
-    "id": "bitcoin-and-ethereum-prices-today-wednesday-september-9-2026-ongoing-escalations-in-the-middle-east-are-keeping-a-lid-on-crypto-112541573.html",
-    "title": "Bitcoin and ethereum prices today, Wednesday, September 9, 2026: Ongoing escalations in the Middle East are keeping a lid on crypto",
-    "tokens": [
-      "2026",
-      "bitcoin",
-      "crypto",
-      "east",
-      "escalations",
-      "ethereum",
-      "keeping",
-      "lid",
-      "middle",
-      "ongoing",
-      "prices",
-      "september",
-      "today",
-      "wednesday"
-    ],
-    "ts": 1788954275.3507361
-  },
-  {
-    "id": "brent-crude-rises-above-100-073722479.html",
-    "title": "Brent crude rises above $100 a barrel as Middle East conflict intensifies",
-    "tokens": [
-      "100",
-      "above",
-      "barrel",
-      "brent",
-      "conflict",
-      "crude",
-      "east",
-      "intensifies",
-      "middle",
-      "rises"
-    ],
-    "ts": 1788954279.367652
-  },
-  {
-    "id": "d8e7ec02-f509-42d9-8300-aaed6bfecefe",
-    "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
-    "tokens": [
-      "bank",
-      "border",
-      "cross",
-      "launching",
-      "next",
-      "payment",
-      "stablecoin",
-      "step",
-      "takes",
-      "test",
-      "towards"
-    ],
-    "ts": 1788954284.3305695
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/stephens-raises-braze-stock-price-target-to-34-on-strong-quarter-93CH-4893362",
     "title": "Stephens raises Braze stock price target to $34 on strong quarter",
     "tokens": [
@@ -23155,5 +23026,128 @@
       "vertiv"
     ],
     "ts": 1789079962.045038
+  },
+  {
+    "id": "amazon-oracle-extremely-anxious-upcoming-153726832.html",
+    "title": "Amazon and Oracle Are Extremely Anxious About The Upcoming Fed Meeting",
+    "tokens": [
+      "about",
+      "amazon",
+      "anxious",
+      "extremely",
+      "fed",
+      "meeting",
+      "oracle",
+      "upcoming"
+    ],
+    "ts": 1789081744.6747775
+  },
+  {
+    "id": "united-rentals-stock-outperforming-dow-153533136.html",
+    "title": "Is United Rentals Stock Outperforming the Dow?",
+    "tokens": [
+      "dow",
+      "outperforming",
+      "rentals",
+      "stock",
+      "united"
+    ],
+    "ts": 1789081753.2368891
+  },
+  {
+    "id": "crude-oil-prices-soar-escalation-153409293.html",
+    "title": "Crude Oil Prices Soar on Escalation of Middle East Hostilities",
+    "tokens": [
+      "crude",
+      "east",
+      "escalation",
+      "hostilities",
+      "middle",
+      "oil",
+      "prices",
+      "soar"
+    ],
+    "ts": 1789081757.248936
+  },
+  {
+    "id": "no-medicare-appeal-medigap-insurer-153537177.html",
+    "title": "There Is No Medicare Appeal When a Medigap Insurer Says No at 72. No Federal Form, No Hearing, Just the Next Company’s Application.",
+    "tokens": [
+      "appeal",
+      "application",
+      "company",
+      "federal",
+      "form",
+      "hearing",
+      "insurer",
+      "just",
+      "medicare",
+      "medigap",
+      "next",
+      "there",
+      "when"
+    ],
+    "ts": 1789081760.7432985
+  },
+  {
+    "id": "exxonmobil-anpg-notch-20th-discovery-153000621.html",
+    "title": "ExxonMobil, ANPG Notch 20th Discovery in Angola's Block 15",
+    "tokens": [
+      "20th",
+      "angola",
+      "anpg",
+      "block",
+      "discovery",
+      "exxonmobil",
+      "notch"
+    ],
+    "ts": 1789081768.4373186
+  },
+  {
+    "id": "why-broadcom-providing-2028-guidance-152952096.html",
+    "title": "Why Broadcom Providing 2028 Guidance Is a Big Deal for AVGO Stock Bulls",
+    "tokens": [
+      "2028",
+      "avgo",
+      "big",
+      "broadcom",
+      "bulls",
+      "deal",
+      "guidance",
+      "providing",
+      "stock",
+      "why"
+    ],
+    "ts": 1789081776.74712
+  },
+  {
+    "id": "oilprice-article-45469",
+    "title": "Why The United States’ Belated Critical Minerals Gambit Won’t Stop China",
+    "tokens": [
+      "belated",
+      "china",
+      "critical",
+      "gambit",
+      "minerals",
+      "states",
+      "stop",
+      "united",
+      "why",
+      "won"
+    ],
+    "ts": 1789081786.4860592
+  },
+  {
+    "id": "oilprice-news-45469",
+    "title": "EIA Raises 2027 U.S. Oil Output Forecast",
+    "tokens": [
+      "2027",
+      "eia",
+      "forecast",
+      "oil",
+      "output",
+      "raises"
+    ],
+    "ts": 1789081790.4996283
   }
 ]

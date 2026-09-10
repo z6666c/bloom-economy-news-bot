@@ -1,69 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/korn-ferry-declares-quarterly-dividend-of-055-per-share-93CH-4892396",
-    "title": "Korn Ferry declares quarterly dividend of $0.55 per share",
-    "tokens": [
-      "declares",
-      "dividend",
-      "ferry",
-      "korn",
-      "per",
-      "quarterly",
-      "share"
-    ],
-    "ts": 1788899305.8994322
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/motorola-solutions-executive-to-speak-at-truist-tech-event-93CH-4892395",
-    "title": "Motorola Solutions executive to speak at Truist tech event",
-    "tokens": [
-      "event",
-      "executive",
-      "motorola",
-      "solutions",
-      "speak",
-      "tech",
-      "truist"
-    ],
-    "ts": 1788899313.467687
-  },
-  {
-    "id": "WP-MKTW-0005220885",
-    "title": "Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up",
-    "tokens": [
-      "big",
-      "bottlenecks",
-      "east",
-      "emerging",
-      "flare",
-      "middle",
-      "next",
-      "oil",
-      "problem",
-      "refining",
-      "skirmishes"
-    ],
-    "ts": 1788900176.695664
-  },
-  {
-    "id": "american-international-group-stock-performance-120802780.html",
-    "title": "How Is American International Group’s Stock Performance Compared to Other Diversified Insurance Stocks",
-    "tokens": [
-      "american",
-      "compared",
-      "diversified",
-      "group",
-      "how",
-      "insurance",
-      "international",
-      "other",
-      "performance",
-      "stock",
-      "stocks"
-    ],
-    "ts": 1788900184.988132
-  },
-  {
     "id": "microchip-technology-stock-underperforming-p-121608341.html",
     "title": "Is Microchip Technology Stock Underperforming the S&P 500?",
     "tokens": [
@@ -23196,5 +23132,75 @@
       "thousands"
     ],
     "ts": 1789054232.9280803
+  },
+  {
+    "id": "WP-MKTW-0005224195",
+    "title": "Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.",
+    "tokens": [
+      "actually",
+      "bad",
+      "consumers",
+      "either",
+      "energy",
+      "great",
+      "mandates",
+      "renewable",
+      "solar",
+      "stocks",
+      "they"
+    ],
+    "ts": 1789055090.0651608
+  },
+  {
+    "id": "coinbase-ceo-says-bitcoin-could-153306835.html",
+    "title": "Coinbase CEO Says Bitcoin Could Hit $400,000 by 2030 — Here’s Why",
+    "tokens": [
+      "000",
+      "2030",
+      "400",
+      "bitcoin",
+      "ceo",
+      "coinbase",
+      "could",
+      "here",
+      "hit",
+      "why"
+    ],
+    "ts": 1789055101.7476742
+  },
+  {
+    "id": "18-wtw-agents-quit-44-152500609.html",
+    "title": "18 WTW agents quit in 44 minutes, walked next door to competitor Lockton — and allegedly took $5 million in clients",
+    "tokens": [
+      "agents",
+      "allegedly",
+      "clients",
+      "competitor",
+      "door",
+      "lockton",
+      "million",
+      "minutes",
+      "next",
+      "quit",
+      "took",
+      "walked",
+      "wtw"
+    ],
+    "ts": 1789055110.9469335
+  },
+  {
+    "id": "veteran-analyst-says-buy-vertiv-153300535.html",
+    "title": "Veteran analyst says buy Vertiv despite huge gains already",
+    "tokens": [
+      "already",
+      "analyst",
+      "buy",
+      "despite",
+      "gains",
+      "huge",
+      "vertiv",
+      "veteran"
+    ],
+    "ts": 1789055118.234472
   }
 ]

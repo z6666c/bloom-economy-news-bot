@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/german-government-says-eu-budget-figures-need-reduction-93CH-4893358",
-    "title": "German government says EU budget figures need reduction",
-    "tokens": [
-      "budget",
-      "figures",
-      "german",
-      "government",
-      "need",
-      "reduction"
-    ],
-    "ts": 1788954940.1730752
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/mizuho-reiterates-circle-internet-stock-underperform-on-acquisition-93CH-4893356",
-    "title": "Mizuho reiterates Circle Internet stock Underperform on acquisition",
-    "tokens": [
-      "acquisition",
-      "circle",
-      "internet",
-      "mizuho",
-      "reiterates",
-      "stock",
-      "underperform"
-    ],
-    "ts": 1788954947.7329834
-  },
-  {
     "id": "https://www.investing.com/news/earnings/cognyte-shares-surge-9-on-second-quarter-earnings-beat-93CH-4893355",
     "title": "Cognyte shares surge 9% on second quarter earnings beat",
     "tokens": [
@@ -23156,5 +23129,36 @@
       "tim"
     ],
     "ts": 1789082630.9024584
+  },
+  {
+    "id": "cathie-wood-goes-bargain-hunting-155300681.html",
+    "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+    "tokens": [
+      "bargain",
+      "bought",
+      "cathie",
+      "goes",
+      "hunting",
+      "just",
+      "she",
+      "stocks",
+      "wood"
+    ],
+    "ts": 1789083435.9780104
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express",
+    "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
+    "tokens": [
+      "asia",
+      "backlash",
+      "crypto",
+      "doubles",
+      "equity",
+      "express",
+      "funding",
+      "metaplanet"
+    ],
+    "ts": 1789083446.421703
   }
 ]

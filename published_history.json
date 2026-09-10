@@ -1,79 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/earnings/cognyte-shares-surge-9-on-second-quarter-earnings-beat-93CH-4893355",
-    "title": "Cognyte shares surge 9% on second quarter earnings beat",
-    "tokens": [
-      "beat",
-      "cognyte",
-      "earnings",
-      "quarter",
-      "second",
-      "shares",
-      "surge"
-    ],
-    "ts": 1788954956.3192887
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/core--main-beats-earnings-expectations-in-second-quarter-93CH-4893354",
-    "title": "Core & Main beats earnings expectations in second quarter",
-    "tokens": [
-      "beats",
-      "core",
-      "earnings",
-      "expectations",
-      "main",
-      "quarter",
-      "second"
-    ],
-    "ts": 1788954968.3811789
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/atlas-lithium-secures-71-of-neves-project-capex-at-16-discount-93CH-4893353",
-    "title": "Atlas Lithium secures 71% of Neves project capex at 16% discount",
-    "tokens": [
-      "atlas",
-      "capex",
-      "discount",
-      "lithium",
-      "neves",
-      "project",
-      "secures"
-    ],
-    "ts": 1788954977.858861
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/cognyte-software-earnings-beat-by-004-revenue-topped-estimates-4893351",
-    "title": "Cognyte Software earnings beat by $0.04, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "cognyte",
-      "earnings",
-      "estimates",
-      "revenue",
-      "software",
-      "topped"
-    ],
-    "ts": 1788954987.4886534
-  },
-  {
-    "id": "virginia-womans-inbox-exploded-600-113000058.html",
-    "title": "A Virginia woman's inbox exploded with 600+ emails — scammers were hiding a $1,200 fraudulent purchase",
-    "tokens": [
-      "200",
-      "600",
-      "emails",
-      "exploded",
-      "fraudulent",
-      "hiding",
-      "inbox",
-      "purchase",
-      "scammers",
-      "virginia",
-      "woman"
-    ],
-    "ts": 1788954995.624392
-  },
-  {
     "id": "https://www.investing.com/news/company-news/us-new-home-listings-reach-highest-level-since-2022-93CH-4893451",
     "title": "U.S. new home listings reach highest level since 2022",
     "tokens": [
@@ -23160,5 +23086,76 @@
       "metaplanet"
     ],
     "ts": 1789083446.421703
+  },
+  {
+    "id": "fidelity-says-401-k-rollover-161700882.html",
+    "title": "Fidelity says your 401(k) rollover check may come up short",
+    "tokens": [
+      "401",
+      "check",
+      "come",
+      "fidelity",
+      "may",
+      "rollover",
+      "short",
+      "your"
+    ],
+    "ts": 1789084243.1739335
+  },
+  {
+    "id": "bulls-working-forge-bottoms-cattle-160844046.html",
+    "title": "Bulls Are Working to Forge Bottoms in Cattle and Hog Prices",
+    "tokens": [
+      "bottoms",
+      "bulls",
+      "cattle",
+      "forge",
+      "hog",
+      "prices",
+      "working"
+    ],
+    "ts": 1789084251.1603959
+  },
+  {
+    "id": "why-does-t-stock-still-161610709.html",
+    "title": "Why Does AT&T Stock Still Trade Like It Is Shrinking?",
+    "tokens": [
+      "does",
+      "like",
+      "shrinking",
+      "still",
+      "stock",
+      "trade",
+      "why"
+    ],
+    "ts": 1789084258.9347956
+  },
+  {
+    "id": "morgan-stanley-just-upgraded-synopsys-163344161.html",
+    "title": "Morgan Stanley Just Upgraded Synopsys Stock. Here's Why.",
+    "tokens": [
+      "here",
+      "just",
+      "morgan",
+      "stanley",
+      "stock",
+      "synopsys",
+      "upgraded",
+      "why"
+    ],
+    "ts": 1789084262.9507325
+  },
+  {
+    "id": "future-looks-bright-oscar-health-163502475.html",
+    "title": "The Future Looks Bright for Oscar Health Stock",
+    "tokens": [
+      "bright",
+      "future",
+      "health",
+      "looks",
+      "oscar",
+      "stock"
+    ],
+    "ts": 1789084267.0994432
   }
 ]

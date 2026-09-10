@@ -1,163 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/gold-rises-as-yen-surge-weakens-dollar-oil-and-fed-bets-cap-gains-4890770",
-    "title": "Gold rises as yen surge weakens dollar; oil and Fed bets cap gains",
-    "tokens": [
-      "bets",
-      "cap",
-      "dollar",
-      "fed",
-      "gains",
-      "gold",
-      "oil",
-      "rises",
-      "surge",
-      "weakens",
-      "yen"
-    ],
-    "ts": 1788836215.5768723
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/emyria-fy-2026-slides-revenue-triples-as-clinic-network-expands-93CH-4890769",
-    "title": "Emyria FY 2026 slides: revenue triples as clinic network expands",
-    "tokens": [
-      "2026",
-      "clinic",
-      "emyria",
-      "expands",
-      "network",
-      "revenue",
-      "slides",
-      "triples"
-    ],
-    "ts": 1788836223.2432795
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-extends-climb-after-iran-threat-to-gulf-energy-infrastructure-4890768",
-    "title": "Oil extends climb after Iran threat to Gulf energy infrastructure",
-    "tokens": [
-      "climb",
-      "energy",
-      "extends",
-      "gulf",
-      "infrastructure",
-      "iran",
-      "oil",
-      "threat"
-    ],
-    "ts": 1788836231.0216672
-  },
-  {
-    "id": "dell-stock-exploded-over-300-173002921.html",
-    "title": "Dell Stock Exploded Over 300% — Its 150% EPS Growth Could Send It Even Higher",
-    "tokens": [
-      "150",
-      "300",
-      "could",
-      "dell",
-      "eps",
-      "even",
-      "exploded",
-      "growth",
-      "higher",
-      "send",
-      "stock"
-    ],
-    "ts": 1788836238.1205537
-  },
-  {
-    "id": "equinix-doubling-down-ai-data-183002468.html",
-    "title": "Equinix Is Doubling Down on AI Data Centers. How to Play EQIX Stock Here",
-    "tokens": [
-      "centers",
-      "data",
-      "doubling",
-      "eqix",
-      "equinix",
-      "here",
-      "how",
-      "play",
-      "stock"
-    ],
-    "ts": 1788837235.79225
-  },
-  {
-    "id": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart",
-    "title": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
-    "tokens": [
-      "270m",
-      "bitcoin",
-      "hats",
-      "liquid",
-      "network",
-      "prepares",
-      "restart",
-      "return",
-      "white"
-    ],
-    "ts": 1788840661.3303614
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australia-targets-social-media-algorithms-with-new-userchoice-rules-4890784",
-    "title": "Australia targets social media algorithms with new user-choice rules",
-    "tokens": [
-      "algorithms",
-      "australia",
-      "choice",
-      "media",
-      "rules",
-      "social",
-      "targets",
-      "user"
-    ],
-    "ts": 1788842680.7075822
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/chinas-exports-up-25-yy-in-august-imports-surge-282-4890773",
-    "title": "China’s exports surge as demand for high-tech, AI help prop up economic growth",
-    "tokens": [
-      "china",
-      "demand",
-      "economic",
-      "exports",
-      "growth",
-      "help",
-      "high",
-      "prop",
-      "surge",
-      "tech"
-    ],
-    "ts": 1788842688.6866546
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/discovery-mining-appoints-shaver-to-board-promotes-executives-93CH-4890781",
-    "title": "Discovery Mining appoints Shaver to board, promotes executives",
-    "tokens": [
-      "appoints",
-      "board",
-      "discovery",
-      "executives",
-      "mining",
-      "promotes",
-      "shaver"
-    ],
-    "ts": 1788842696.012214
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/china-exports-surge-25-in-august-trade-surplus-widens-4890779",
-    "title": "China exports surge 25% in August, trade surplus widens",
-    "tokens": [
-      "august",
-      "china",
-      "exports",
-      "surge",
-      "surplus",
-      "trade",
-      "widens"
-    ],
-    "ts": 1788842703.444788
-  },
-  {
     "id": "https://www.investing.com/news/commodities-news/hormuz-traffic-slows-after-iran-threatens-retaliation-for-us-attacks-4890774",
     "title": "Hormuz traffic slows after Iran threatens retaliation for US attacks",
     "tokens": [
@@ -23219,5 +23061,172 @@
       "why"
     ],
     "ts": 1789008432.441923
+  },
+  {
+    "id": "WP-MKTW-0005224384",
+    "title": "Trump promises $5,000 checks if Republicans win the midterms. But he also promised tariff dividends last year that never came.",
+    "tokens": [
+      "000",
+      "also",
+      "came",
+      "checks",
+      "dividends",
+      "last",
+      "midterms",
+      "never",
+      "promised",
+      "promises",
+      "republicans",
+      "tariff",
+      "trump",
+      "win",
+      "year"
+    ],
+    "ts": 1789009839.8176708
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bank-of-japan-may-need-to-raise-rates-quickly-if-inflation-rises-board-member-masu-says-93CH-4894894",
+    "title": "Bank of Japan may need to raise rates quickly if inflation rises, board member Masu says",
+    "tokens": [
+      "bank",
+      "board",
+      "inflation",
+      "japan",
+      "masu",
+      "may",
+      "member",
+      "need",
+      "quickly",
+      "raise",
+      "rates",
+      "rises"
+    ],
+    "ts": 1789009848.3034625
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trump-promises-5000-dividend-to-every-us-adult-if-gop-wins-midterms-4894892",
+    "title": "Trump promises $5,000 dividend to every U.S. adult if GOP wins midterms",
+    "tokens": [
+      "000",
+      "adult",
+      "dividend",
+      "every",
+      "gop",
+      "midterms",
+      "promises",
+      "trump",
+      "wins"
+    ],
+    "ts": 1789009856.2108452
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/payment-firms-visa-mastercard-and-ant-international-team-up-on-ai-agent-trust-framework-4894891",
+    "title": "Payment firms Visa, Mastercard and Ant International team up on AI agent trust framework",
+    "tokens": [
+      "agent",
+      "ant",
+      "firms",
+      "framework",
+      "international",
+      "mastercard",
+      "payment",
+      "team",
+      "trust",
+      "visa"
+    ],
+    "ts": 1789009863.8625417
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cgi-prices-c500m-senior-unsecured-notes-offering-93CH-4894890",
+    "title": "CGI prices C$500M senior unsecured notes offering",
+    "tokens": [
+      "500m",
+      "cgi",
+      "notes",
+      "offering",
+      "prices",
+      "senior",
+      "unsecured"
+    ],
+    "ts": 1789009871.4243834
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/delek-us-holdings-director-vicky-sutil-sells-457385-in-stock-93CH-4894888",
+    "title": "Delek US Holdings director Vicky Sutil sells $457,385 in stock",
+    "tokens": [
+      "385",
+      "457",
+      "delek",
+      "director",
+      "holdings",
+      "sells",
+      "stock",
+      "sutil",
+      "vicky"
+    ],
+    "ts": 1789009878.2221289
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sprouts-farmers-market-chief-stores-officer-sells-23466-in-shares-93CH-4894889",
+    "title": "Sprouts Farmers Market chief stores officer sells $23,466 in shares",
+    "tokens": [
+      "466",
+      "chief",
+      "farmers",
+      "market",
+      "officer",
+      "sells",
+      "shares",
+      "sprouts",
+      "stores"
+    ],
+    "ts": 1789009885.5999815
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/boj-may-be-forced-to-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-says-4894887",
+    "title": "BOJ may be forced to hike rates rapidly if inflation accelerates, board member Masu says",
+    "tokens": [
+      "accelerates",
+      "board",
+      "boj",
+      "forced",
+      "hike",
+      "inflation",
+      "masu",
+      "may",
+      "member",
+      "rapidly",
+      "rates"
+    ],
+    "ts": 1789009892.8644228
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/trump-says-activity-seen-at-irans-pickaxe-mountain-urges-tehran-not-to-get-cute-4894886",
+    "title": "Trump says activity seen at Iran’s Pickaxe Mountain, urges Tehran ’not to get cute’",
+    "tokens": [
+      "activity",
+      "cute",
+      "get",
+      "iran",
+      "mountain",
+      "pickaxe",
+      "seen",
+      "tehran",
+      "trump",
+      "urges"
+    ],
+    "ts": 1789009900.020169
+  },
+  {
+    "id": "where-crispr-therapeutics-stock-5-152000426.html",
+    "title": "Where Will CRISPR Therapeutics Stock Be in 5 Years?",
+    "tokens": [
+      "crispr",
+      "stock",
+      "therapeutics",
+      "where",
+      "years"
+    ],
+    "ts": 1789009908.1427708
   }
 ]

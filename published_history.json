@@ -1,248 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/tenet-healthcare-offers-15b-notes-to-refinance-2027-debt-93CH-4891640",
-    "title": "Tenet Healthcare offers $1.5B notes to refinance 2027 debt",
-    "tokens": [
-      "2027",
-      "debt",
-      "healthcare",
-      "notes",
-      "offers",
-      "refinance",
-      "tenet"
-    ],
-    "ts": 1788871161.25577
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/frameless-gallery-launches-ethereum-nft-display-platform-for-tokenframe-and-browsercapable-screen-4891630",
-    "title": "Frameless Gallery Launches Ethereum NFT Display Platform for TokenFrame and Browser-Capable Screen",
-    "tokens": [
-      "browser",
-      "capable",
-      "display",
-      "ethereum",
-      "frameless",
-      "gallery",
-      "launches",
-      "nft",
-      "platform",
-      "screen",
-      "tokenframe"
-    ],
-    "ts": 1788871171.0881405
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-robinhood-stock-climbing-today-93CH-4891622",
-    "title": "Why is Robinhood stock climbing today?",
-    "tokens": [
-      "climbing",
-      "robinhood",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1788871175.1011016
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-climb-bio-stock-price-target-on-drug-data-93CH-4891621",
-    "title": "H.C. Wainwright raises Climb Bio stock price target on drug data",
-    "tokens": [
-      "bio",
-      "climb",
-      "data",
-      "drug",
-      "price",
-      "raises",
-      "stock",
-      "target",
-      "wainwright"
-    ],
-    "ts": 1788871179.6096518
-  },
-  {
-    "id": "oil-prices-approach-100-as-middle-east-conflict-flares-goldman-sees-potential-upside-to-120-122234220.html",
-    "title": "Oil prices approach $100 as Middle East conflict flares, Goldman sees potential upside to $120",
-    "tokens": [
-      "100",
-      "120",
-      "approach",
-      "conflict",
-      "east",
-      "flares",
-      "goldman",
-      "middle",
-      "oil",
-      "potential",
-      "prices",
-      "sees",
-      "upside"
-    ],
-    "ts": 1788871192.20884
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/vor-bio-at-wells-fargo-conference-mg-drug-aims-for-broad-edge-93CH-4891717",
-    "title": "Vor Bio at Wells Fargo conference: mg drug aims for broad edge",
-    "tokens": [
-      "aims",
-      "bio",
-      "broad",
-      "conference",
-      "drug",
-      "edge",
-      "fargo",
-      "vor",
-      "wells"
-    ],
-    "ts": 1788872268.4807482
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/neuropace-at-wells-fargo-conference-ige-push-faces-fda-test-93CH-4891710",
-    "title": "NeuroPace at Wells Fargo conference: IGE push faces FDA test",
-    "tokens": [
-      "conference",
-      "faces",
-      "fargo",
-      "fda",
-      "ige",
-      "neuropace",
-      "push",
-      "test",
-      "wells"
-    ],
-    "ts": 1788872278.305709
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/top-european-utilities-stocks-ubs-favors-these-3-names-right-now-93CH-4891707",
-    "title": "Top European Utilities Stocks: UBS Favors These 3 Names Right Now",
-    "tokens": [
-      "european",
-      "favors",
-      "names",
-      "now",
-      "right",
-      "stocks",
-      "these",
-      "top",
-      "ubs",
-      "utilities"
-    ],
-    "ts": 1788872287.1279345
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/baltic-dry-bulk-freight-index-edges-up-on-capesize-strength-93CH-4891706",
-    "title": "Baltic dry bulk freight index edges up on capesize strength",
-    "tokens": [
-      "baltic",
-      "bulk",
-      "capesize",
-      "dry",
-      "edges",
-      "freight",
-      "index",
-      "strength"
-    ],
-    "ts": 1788872295.5574827
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/vivos-exchanges-29m-debt-for-common-stock-with-streeterville-93CH-4891705",
-    "title": "Vivos exchanges $2.9m debt for common stock with Streeterville",
-    "tokens": [
-      "common",
-      "debt",
-      "exchanges",
-      "stock",
-      "streeterville",
-      "vivos"
-    ],
-    "ts": 1788872303.0381148
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/defi-development-closes-11m-preferred-stock-offering-for-sol-93CH-4891704",
-    "title": "DeFi Development closes $11M preferred stock offering for SOL",
-    "tokens": [
-      "11m",
-      "closes",
-      "defi",
-      "development",
-      "offering",
-      "preferred",
-      "sol",
-      "stock"
-    ],
-    "ts": 1788872310.5318897
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/wearable-devices-to-showcase-ai-technology-at-physical-ai-conference-93CH-4891702",
-    "title": "Wearable Devices to showcase AI technology at Physical AI conference",
-    "tokens": [
-      "conference",
-      "devices",
-      "physical",
-      "showcase",
-      "technology",
-      "wearable"
-    ],
-    "ts": 1788872319.5294607
-  },
-  {
-    "id": "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery",
-    "title": "Mexico quadruple homicide tied to alleged Bitcoin robbery attempt",
-    "tokens": [
-      "alleged",
-      "attempt",
-      "bitcoin",
-      "homicide",
-      "mexico",
-      "quadruple",
-      "robbery",
-      "tied"
-    ],
-    "ts": 1788872331.225601
-  },
-  {
-    "id": "WP-MKTW-0005220460",
-    "title": "Amazon and AT&T team up to challenge SpaceX’s satellite dominance",
-    "tokens": [
-      "amazon",
-      "challenge",
-      "dominance",
-      "satellite",
-      "spacex",
-      "team"
-    ],
-    "ts": 1788873482.2571127
-  },
-  {
-    "id": "hormuz-disruptions-hitting-small-businesses-130106569.html",
-    "title": "Hormuz disruptions hitting small businesses hardest, UN trade agency warns",
-    "tokens": [
-      "agency",
-      "businesses",
-      "disruptions",
-      "hardest",
-      "hitting",
-      "hormuz",
-      "small",
-      "trade",
-      "warns"
-    ],
-    "ts": 1788873491.3940444
-  },
-  {
-    "id": "artisan-sold-insulet-podd-due-130010972.html",
-    "title": "Artisan Sold Insulet (PODD) Due to Competition Concerns",
-    "tokens": [
-      "artisan",
-      "competition",
-      "concerns",
-      "due",
-      "insulet",
-      "podd",
-      "sold"
-    ],
-    "ts": 1788873500.8536003
-  },
-  {
     "id": "artisan-added-comfort-systems-usa-125646541.html",
     "title": "Artisan Added Comfort Systems USA (FIX) as Data Center Demand Accelerates",
     "tokens": [
@@ -23154,5 +22911,245 @@
       "records"
     ],
     "ts": 1789033553.4218678
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-prices-rise-further-as-usiran-conflict-worsens-4894781",
+    "title": "Brent sits above $102 as Mideast strikes dent hopes for renewed Hormuz shipping",
+    "tokens": [
+      "102",
+      "above",
+      "brent",
+      "dent",
+      "hopes",
+      "hormuz",
+      "mideast",
+      "renewed",
+      "shipping",
+      "sits",
+      "strikes"
+    ],
+    "ts": 1789035067.7761438
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/swarmer-to-acquire-ukraines-ratel-robotics-for-up-to-224m-93CH-4895331",
+    "title": "Swarmer to acquire Ukraine’s Ratel Robotics for up to $224m",
+    "tokens": [
+      "224m",
+      "acquire",
+      "ratel",
+      "robotics",
+      "swarmer",
+      "ukraine"
+    ],
+    "ts": 1789035075.958153
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/axogen-prices-2087-million-stock-offering-at-4250-per-share-93CH-4895330",
+    "title": "Axogen prices $208.7 million stock offering at $42.50 per share",
+    "tokens": [
+      "208",
+      "axogen",
+      "million",
+      "offering",
+      "per",
+      "prices",
+      "share",
+      "stock"
+    ],
+    "ts": 1789035083.181927
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/jacobs-wins-oklahoma-city-wastewater-operations-contract-93CH-4895327",
+    "title": "Jacobs wins Oklahoma City wastewater operations contract",
+    "tokens": [
+      "city",
+      "contract",
+      "jacobs",
+      "oklahoma",
+      "operations",
+      "wastewater",
+      "wins"
+    ],
+    "ts": 1789035091.4215872
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/kestra-medical-names-daniel-finney-vp-of-research--development-93CH-4895328",
+    "title": "Kestra Medical names Daniel Finney VP of research & development",
+    "tokens": [
+      "daniel",
+      "development",
+      "finney",
+      "kestra",
+      "medical",
+      "names",
+      "research"
+    ],
+    "ts": 1789035099.3299637
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/axogen-to-acquire-biocircuit-for-200m-adds-nerve-repair-device-93CH-4895329",
+    "title": "Axogen to acquire BioCircuit for $200M, adds nerve repair device",
+    "tokens": [
+      "200m",
+      "acquire",
+      "adds",
+      "axogen",
+      "biocircuit",
+      "device",
+      "nerve",
+      "repair"
+    ],
+    "ts": 1789035107.3781784
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/marti-technologies-expands-share-buyback-program-to-5-million-93CH-4895326",
+    "title": "Marti Technologies expands share buyback program to $5 million",
+    "tokens": [
+      "buyback",
+      "expands",
+      "marti",
+      "million",
+      "program",
+      "share",
+      "technologies"
+    ],
+    "ts": 1789035114.7397125
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-academy-sports-stock-price-target-on-diversified-product-mix-93CH-4895323",
+    "title": "Wells Fargo raises Academy Sports stock price target on diversified product mix",
+    "tokens": [
+      "academy",
+      "diversified",
+      "fargo",
+      "mix",
+      "price",
+      "product",
+      "raises",
+      "sports",
+      "stock",
+      "target",
+      "wells"
+    ],
+    "ts": 1789035122.4364343
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/volkswagen-braces-for-16-billion-in-costs-for-cutbacks-possible-factory-closures-source-says-4895255",
+    "title": "Volkswagen earmarks €16 billion for job cuts, plant closures, source says",
+    "tokens": [
+      "billion",
+      "closures",
+      "cuts",
+      "earmarks",
+      "job",
+      "plant",
+      "source",
+      "volkswagen"
+    ],
+    "ts": 1789035129.7182062
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/melius-sees-apple-stock-iphone-duo-driving-revenue-upside-93CH-4895308",
+    "title": "Melius sees Apple stock iPhone Duo driving revenue upside",
+    "tokens": [
+      "apple",
+      "driving",
+      "duo",
+      "iphone",
+      "melius",
+      "revenue",
+      "sees",
+      "stock",
+      "upside"
+    ],
+    "ts": 1789035137.376134
+  },
+  {
+    "id": "sofi-technologies-highlights-40-growth-220201590.html",
+    "title": "SoFi Technologies Highlights 40% Growth, 70 Rule of 40 Score at Investor Conference",
+    "tokens": [
+      "conference",
+      "growth",
+      "highlights",
+      "investor",
+      "rule",
+      "score",
+      "sofi",
+      "technologies"
+    ],
+    "ts": 1789035144.494341
+  },
+  {
+    "id": "sap-ceo-our-ai-breakthrough-moment-is-coming-221642192.html",
+    "title": "SAP CEO: Our AI breakthrough moment is coming",
+    "tokens": [
+      "breakthrough",
+      "ceo",
+      "coming",
+      "moment",
+      "our",
+      "sap"
+    ],
+    "ts": 1789035151.95299
+  },
+  {
+    "id": "palantir-stock-continues-grow-back-223139549.html",
+    "title": "Palantir Stock Continues to Grow on the Back of Enterprise Partnerships",
+    "tokens": [
+      "back",
+      "continues",
+      "enterprise",
+      "grow",
+      "palantir",
+      "partnerships",
+      "stock"
+    ],
+    "ts": 1789035159.6805098
+  },
+  {
+    "id": "bernstein-message-robinhood-investors-220451851.html",
+    "title": "Bernstein has a new message for Robinhood investors",
+    "tokens": [
+      "bernstein",
+      "investors",
+      "message",
+      "robinhood"
+    ],
+    "ts": 1789035167.5566862
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026",
+    "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
+    "tokens": [
+      "167m",
+      "2026",
+      "bitcoin",
+      "etfs",
+      "inflow",
+      "run",
+      "shed",
+      "strongest",
+      "three",
+      "week"
+    ],
+    "ts": 1789035177.282161
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade",
+    "title": "Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view",
+    "tokens": [
+      "80k",
+      "bitcoin",
+      "fade",
+      "lows",
+      "rare",
+      "returns",
+      "risk",
+      "sell",
+      "sellers",
+      "side",
+      "view"
+    ],
+    "ts": 1789035184.077544
   }
 ]

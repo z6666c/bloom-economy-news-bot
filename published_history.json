@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/hormuz-traffic-slows-after-iran-threatens-retaliation-for-us-attacks-4890774",
-    "title": "Hormuz traffic slows after Iran threatens retaliation for US attacks",
-    "tokens": [
-      "attacks",
-      "hormuz",
-      "iran",
-      "retaliation",
-      "slows",
-      "threatens",
-      "traffic"
-    ],
-    "ts": 1788842711.524166
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/shenzhen-longsys-electronics-flat-in-hong-kong-debut-after-903-million-ipo-4890778",
     "title": "Shenzhen Longsys Electronics flat in Hong Kong debut after $903 million IPO",
     "tokens": [
@@ -23228,5 +23214,19 @@
       "years"
     ],
     "ts": 1789009908.1427708
+  },
+  {
+    "id": "palantir-names-nebius-preferred-sovereign-153807747.html",
+    "title": "Palantir names Nebius preferred sovereign AI infrastructure partner",
+    "tokens": [
+      "infrastructure",
+      "names",
+      "nebius",
+      "palantir",
+      "partner",
+      "preferred",
+      "sovereign"
+    ],
+    "ts": 1789010883.022654
   }
 ]

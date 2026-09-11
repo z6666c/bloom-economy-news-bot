@@ -1,182 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/nikkei-225-hits-200-sma-resistance-live-levels-93CH-4890337",
-    "title": "Nikkei 225 tests 64,000 support as bearish trend holds: Live",
-    "tokens": [
-      "000",
-      "225",
-      "bearish",
-      "holds",
-      "live",
-      "nikkei",
-      "support",
-      "tests",
-      "trend"
-    ],
-    "ts": 1789017029.230381
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sk-hynix-tests-krw-1750000-resistance-live-levels-93CH-4890335",
-    "title": "SK Hynix tests ₩1,889,000 resistance: Live hourly levels",
-    "tokens": [
-      "000",
-      "889",
-      "hourly",
-      "hynix",
-      "levels",
-      "live",
-      "resistance",
-      "tests"
-    ],
-    "ts": 1789017036.3239217
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/wisekey-shareholders-approve-redomiciliation-to-british-virgin-islands-93CH-4894943",
-    "title": "WISeKey shareholders approve redomiciliation to British Virgin Islands",
-    "tokens": [
-      "approve",
-      "british",
-      "islands",
-      "redomiciliation",
-      "shareholders",
-      "virgin",
-      "wisekey"
-    ],
-    "ts": 1789017043.8107398
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hd-hyundai-heavy-to-invest-834-bln-won-in-new-powerengine-facility-4894940",
-    "title": "HD Hyundai Heavy to invest 834 bln won in new power-engine facility",
-    "tokens": [
-      "834",
-      "bln",
-      "engine",
-      "facility",
-      "heavy",
-      "hyundai",
-      "invest",
-      "power",
-      "won"
-    ],
-    "ts": 1789017051.6000307
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-bhp-stock-sliding-today-93CH-4894938",
-    "title": "Why is BHP stock sliding today?",
-    "tokens": [
-      "bhp",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789017055.615063
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-rio-tinto-stock-sliding-today-93CH-4894937",
-    "title": "Why is Rio Tinto stock sliding today?",
-    "tokens": [
-      "rio",
-      "sliding",
-      "stock",
-      "tinto",
-      "today",
-      "why"
-    ],
-    "ts": 1789017060.652746
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trumpxi-summit-in-washington-watch-these-stocks-and-sectors-93CH-4894935",
-    "title": "Trump-Xi summit in Washington: Watch these stocks and sectors",
-    "tokens": [
-      "sectors",
-      "stocks",
-      "summit",
-      "these",
-      "trump",
-      "washington",
-      "watch"
-    ],
-    "ts": 1789017068.1258504
-  },
-  {
-    "id": "abbvie-stock-too-reliant-skyrizi-170851105.html",
-    "title": "Is AbbVie Stock Too Reliant On Skyrizi?",
-    "tokens": [
-      "abbvie",
-      "reliant",
-      "skyrizi",
-      "stock",
-      "too"
-    ],
-    "ts": 1789017076.9063125
-  },
-  {
-    "id": "fico-monopoly-cracks-dip-could-172538934.html",
-    "title": "FICO’s Monopoly Cracks, But the Dip Could Be a Gift for Patient Investors",
-    "tokens": [
-      "could",
-      "cracks",
-      "dip",
-      "fico",
-      "gift",
-      "investors",
-      "monopoly",
-      "patient"
-    ],
-    "ts": 1789017085.16418
-  },
-  {
-    "id": "amgen-falls-10-novartis-trial-170807874.html",
-    "title": "Amgen Falls 10% as Novartis Trial Failure Clouds a Cholesterol Drug Class; NVS Stock Drops 14%",
-    "tokens": [
-      "amgen",
-      "cholesterol",
-      "class",
-      "clouds",
-      "drops",
-      "drug",
-      "failure",
-      "falls",
-      "novartis",
-      "nvs",
-      "stock",
-      "trial"
-    ],
-    "ts": 1789017092.9290233
-  },
-  {
-    "id": "unusual-call-options-activity-takeover-173002544.html",
-    "title": "Unusual Call Options Activity in Takeover Target GFL Environmental Stock",
-    "tokens": [
-      "activity",
-      "call",
-      "environmental",
-      "gfl",
-      "options",
-      "stock",
-      "takeover",
-      "target",
-      "unusual"
-    ],
-    "ts": 1789017101.0928514
-  },
-  {
-    "id": "why-stifel-just-revamped-price-173055797.html",
-    "title": "Why Stifel Just Revamped Its Price Target for Microsoft Stock",
-    "tokens": [
-      "just",
-      "microsoft",
-      "price",
-      "revamped",
-      "stifel",
-      "stock",
-      "target",
-      "why"
-    ],
-    "ts": 1789017110.1555035
-  },
-  {
     "id": "citi-just-upgraded-uipath-stock-173409755.html",
     "title": "Citi Just Upgraded UiPath Stock. Here's Why.",
     "tokens": [
@@ -23110,5 +22933,200 @@
       "under"
     ],
     "ts": 1789158557.420392
+  },
+  {
+    "id": "WP-MKTW-0005228525",
+    "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
+    "tokens": [
+      "500",
+      "dell",
+      "hpe",
+      "performing",
+      "stocks",
+      "today",
+      "top",
+      "why"
+    ],
+    "ts": 1789159314.1810374
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/kalshi-stock-futures-plan-targets-tesla-and-apple-shares--bloomberg-93CH-4898406",
+    "title": "Kalshi stock futures plan targets Tesla and Apple shares - Bloomberg",
+    "tokens": [
+      "apple",
+      "bloomberg",
+      "futures",
+      "kalshi",
+      "plan",
+      "shares",
+      "stock",
+      "targets",
+      "tesla"
+    ],
+    "ts": 1789159322.318045
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/apollo-shuts-some-eliant-invoicefinancing-products-after-tough-year-93CH-4898405",
+    "title": "Apollo shuts some Eliant invoice-financing products after tough year",
+    "tokens": [
+      "apollo",
+      "eliant",
+      "financing",
+      "invoice",
+      "products",
+      "shuts",
+      "some",
+      "tough",
+      "year"
+    ],
+    "ts": 1789159331.6280594
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/amrize-appoints-mario-gross-as-building-envelope-president-93CH-4898404",
+    "title": "Amrize appoints Mario Gross as building envelope president",
+    "tokens": [
+      "amrize",
+      "appoints",
+      "building",
+      "envelope",
+      "gross",
+      "mario",
+      "president"
+    ],
+    "ts": 1789159335.6451526
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/compass-pathways-awards-training-grant-to-strata-mental-health-93CH-4898401",
+    "title": "Compass Pathways awards training grant to Strata Mental Health",
+    "tokens": [
+      "awards",
+      "compass",
+      "grant",
+      "health",
+      "mental",
+      "pathways",
+      "strata",
+      "training"
+    ],
+    "ts": 1789159339.3495536
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/central-securities-corp-stock-hits-alltime-high-at-560-usd-93CH-4898400",
+    "title": "Central Securities Corp stock hits all-time high at 56.0 USD",
+    "tokens": [
+      "all",
+      "central",
+      "corp",
+      "high",
+      "hits",
+      "securities",
+      "stock",
+      "time",
+      "usd"
+    ],
+    "ts": 1789159347.0824268
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/brazils-eduardo-bolsonaro-to-push-for-us-sanctions-against-supreme-court-justice-during-washington-visit-4898398",
+    "title": "Brazil’s Eduardo Bolsonaro to push for U.S. sanctions against Supreme Court Justice during Washington visit",
+    "tokens": [
+      "against",
+      "bolsonaro",
+      "brazil",
+      "court",
+      "during",
+      "eduardo",
+      "justice",
+      "push",
+      "sanctions",
+      "supreme",
+      "visit",
+      "washington"
+    ],
+    "ts": 1789159354.3991416
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/impact-biomedical-approves-1for1262-reverse-stock-split-93CH-4898396",
+    "title": "Impact BioMedical approves 1-for-12.62 reverse stock split",
+    "tokens": [
+      "approves",
+      "biomedical",
+      "impact",
+      "reverse",
+      "split",
+      "stock"
+    ],
+    "ts": 1789159361.278629
+  },
+  {
+    "id": "crowdstrike-crwd-becoming-vendor-choice-105930670.html",
+    "title": "CrowdStrike (CRWD) Is Becoming a Vendor of Choice for Agentic AI Security. Can It Sustain the Momentum?",
+    "tokens": [
+      "agentic",
+      "becoming",
+      "can",
+      "choice",
+      "crowdstrike",
+      "crwd",
+      "momentum",
+      "security",
+      "sustain",
+      "vendor"
+    ],
+    "ts": 1789159369.5896976
+  },
+  {
+    "id": "long-straddle-trade-iseas-september-110003122.html",
+    "title": "Long Straddle Trade Ideas September 10th",
+    "tokens": [
+      "10th",
+      "ideas",
+      "long",
+      "september",
+      "straddle",
+      "trade"
+    ],
+    "ts": 1789159376.922352
+  },
+  {
+    "id": "taxing-him-minnesota-man-goes-110000218.html",
+    "title": "‘They’re taxing him out’: Minnesota man is suing after his modest 1-bedroom home build spiked his property value 300%",
+    "tokens": [
+      "300",
+      "bedroom",
+      "build",
+      "him",
+      "his",
+      "home",
+      "man",
+      "minnesota",
+      "modest",
+      "property",
+      "spiked",
+      "suing",
+      "taxing",
+      "they",
+      "value"
+    ],
+    "ts": 1789159384.8262174
+  },
+  {
+    "id": "silver-price-today-thursday-september-10-2026-silver-prices-back-off-ahead-of-inflation-data-110719718.html",
+    "title": "Silver price today, Thursday, September 10, 2026: Silver prices back off ahead of inflation data",
+    "tokens": [
+      "2026",
+      "ahead",
+      "back",
+      "data",
+      "inflation",
+      "off",
+      "price",
+      "prices",
+      "september",
+      "silver",
+      "thursday",
+      "today"
+    ],
+    "ts": 1789159388.8434832
   }
 ]

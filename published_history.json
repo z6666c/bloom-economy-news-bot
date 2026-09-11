@@ -1,103 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/teradata-at-citis-2026-global-tmt-conference-cloud-ai-and-hybrid-push-93CH-4894270",
-    "title": "Teradata at Citi’s 2026 Global TMT Conference: cloud, AI and hybrid push",
-    "tokens": [
-      "2026",
-      "citi",
-      "cloud",
-      "conference",
-      "global",
-      "hybrid",
-      "push",
-      "teradata",
-      "tmt"
-    ],
-    "ts": 1788975688.5428486
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/kinaxis-at-citis-2026-global-tmt-conference-ai-push-widens-93CH-4894269",
-    "title": "Kinaxis at Citi’s 2026 Global TMT Conference: AI push widens",
-    "tokens": [
-      "2026",
-      "citi",
-      "conference",
-      "global",
-      "kinaxis",
-      "push",
-      "tmt",
-      "widens"
-    ],
-    "ts": 1788975692.5585086
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/tg-therapeutics-at-cantor-conference-briumvi-gains-momentum-93CH-4894267",
-    "title": "TG Therapeutics at Cantor conference: briumvi gains momentum",
-    "tokens": [
-      "briumvi",
-      "cantor",
-      "conference",
-      "gains",
-      "momentum",
-      "therapeutics"
-    ],
-    "ts": 1788975697.295656
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-treasury-chief-bessent-backs-using-us-financial-power-as-foreign-policy-tool-4892639",
-    "title": "US Treasury chief Bessent backs using US financial power as foreign policy tool",
-    "tokens": [
-      "backs",
-      "bessent",
-      "chief",
-      "financial",
-      "foreign",
-      "policy",
-      "power",
-      "tool",
-      "treasury",
-      "using"
-    ],
-    "ts": 1788975705.2919705
-  },
-  {
-    "id": "bought-200-000-annuity-savings-173114780.html",
-    "title": "He Bought a $200,000 Annuity With Savings. His Brother Bought the Same One Inside His IRA, but Only One of Them Pays Tax on the Whole Check",
-    "tokens": [
-      "000",
-      "200",
-      "annuity",
-      "bought",
-      "brother",
-      "check",
-      "his",
-      "inside",
-      "ira",
-      "one",
-      "only",
-      "pays",
-      "same",
-      "savings",
-      "tax",
-      "them",
-      "whole"
-    ],
-    "ts": 1788975714.1634088
-  },
-  {
-    "id": "jim-cramer-prefers-coreweave-crwv-172351539.html",
-    "title": "Jim Cramer Prefers CoreWeave (CRWV) Over IREN (IREN)",
-    "tokens": [
-      "coreweave",
-      "cramer",
-      "crwv",
-      "iren",
-      "jim",
-      "prefers"
-    ],
-    "ts": 1788975723.1001284
-  },
-  {
     "id": "gasoline-prices-are-highest-ever-for-this-time-of-year-chart-of-the-day-172249427.html",
     "title": "Gasoline prices are 'highest ever for this time of year': Chart of the Day",
     "tokens": [
@@ -23180,5 +23082,92 @@
       "you"
     ],
     "ts": 1789118912.5244846
+  },
+  {
+    "id": "WP-MKTW-0005227669",
+    "title": "Bridgewater investment chief says AI could wipe out humanity",
+    "tokens": [
+      "bridgewater",
+      "chief",
+      "could",
+      "humanity",
+      "investment",
+      "wipe"
+    ],
+    "ts": 1789119793.835687
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-grupa-azoty-posts-q2-2026-ebitda-swing-shares-fall-93CH-4897431",
+    "title": "Earnings call transcript: Grupa Azoty posts Q2 2026 EBITDA swing, shares fall",
+    "tokens": [
+      "2026",
+      "azoty",
+      "call",
+      "earnings",
+      "ebitda",
+      "fall",
+      "grupa",
+      "posts",
+      "shares",
+      "swing",
+      "transcript"
+    ],
+    "ts": 1789119802.6119444
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-bread-financial-stock-with-115-target-93CH-4897425",
+    "title": "Wells Fargo initiates Bread Financial stock with $115 target",
+    "tokens": [
+      "115",
+      "bread",
+      "fargo",
+      "financial",
+      "initiates",
+      "stock",
+      "target",
+      "wells"
+    ],
+    "ts": 1789119811.1939716
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/britains-gdp-grows-04-as-services-offset-declines-in-production-construction-4897244",
+    "title": "UK economy extends growth streak as July GDP beats forecasts",
+    "tokens": [
+      "beats",
+      "economy",
+      "extends",
+      "forecasts",
+      "gdp",
+      "growth",
+      "july",
+      "streak"
+    ],
+    "ts": 1789119819.0465558
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/homebuilder-survey-shows-august-demand-weakened-across-us-93CH-4897422",
+    "title": "Homebuilder survey shows August demand weakened across US",
+    "tokens": [
+      "across",
+      "august",
+      "demand",
+      "homebuilder",
+      "shows",
+      "survey",
+      "weakened"
+    ],
+    "ts": 1789119827.6774037
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/take-five-rates-risks-and-rivalries-4897421",
+    "title": "Take Five: Rates, risks and rivalries",
+    "tokens": [
+      "five",
+      "rates",
+      "risks",
+      "rivalries",
+      "take"
+    ],
+    "ts": 1789119835.72381
   }
 ]

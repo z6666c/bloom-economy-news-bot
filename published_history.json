@@ -1,207 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/kelso-group-launches-retail-share-offer-at-57-discount-93CH-4894970",
-    "title": "Kelso Group launches retail share offer at 5.7% discount",
-    "tokens": [
-      "discount",
-      "group",
-      "kelso",
-      "launches",
-      "offer",
-      "retail",
-      "share"
-    ],
-    "ts": 1789022305.9718935
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jefferies-names-top-power-and-utility-stocks-for-fall-93CH-4894969",
-    "title": "Jefferies Names Top Power and Utility Stocks for Fall",
-    "tokens": [
-      "fall",
-      "jefferies",
-      "names",
-      "power",
-      "stocks",
-      "top",
-      "utility"
-    ],
-    "ts": 1789022313.7390711
-  },
-  {
-    "id": "everbank-wafd-merger-address-firms-181818960.html",
-    "title": "EverBank, WaFd say merger would address each firm's issues",
-    "tokens": [
-      "address",
-      "each",
-      "everbank",
-      "firm",
-      "issues",
-      "merger",
-      "say",
-      "wafd",
-      "would"
-    ],
-    "ts": 1789022321.5467994
-  },
-  {
-    "id": "ceo-thefork-dumps-8-000-181815044.html",
-    "title": "CEO of TheFork Dumps 8,000 Company Shares as Tripadvisor Sells This Subsidiary",
-    "tokens": [
-      "000",
-      "ceo",
-      "company",
-      "dumps",
-      "sells",
-      "shares",
-      "subsidiary",
-      "thefork",
-      "tripadvisor"
-    ],
-    "ts": 1789022328.3189168
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/south32-schedules-shareholder-vote-on-alcoa-asset-sale-93CH-4894992",
-    "title": "South32 schedules shareholder vote on Alcoa asset sale",
-    "tokens": [
-      "alcoa",
-      "asset",
-      "sale",
-      "schedules",
-      "shareholder",
-      "south32",
-      "vote"
-    ],
-    "ts": 1789023420.5703087
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-falls-on-higher-yields-ppi-cpi-awaited-4894822",
-    "title": "U.S. stock futures tick up after Wall St falls on higher yields; PPI, CPI awaited",
-    "tokens": [
-      "awaited",
-      "cpi",
-      "falls",
-      "futures",
-      "higher",
-      "ppi",
-      "stock",
-      "tick",
-      "wall",
-      "yields"
-    ],
-    "ts": 1789023428.9623868
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/gsk-wins-japan-approval-for-shingrix-prefilled-syringe-93CH-4894990",
-    "title": "GSK wins Japan approval for Shingrix prefilled syringe",
-    "tokens": [
-      "approval",
-      "gsk",
-      "japan",
-      "prefilled",
-      "shingrix",
-      "syringe",
-      "wins"
-    ],
-    "ts": 1789023436.1203861
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/primark-to-launch-uk-home-delivery-after-years-of-resistance-93CH-4894989",
-    "title": "Primark to launch UK home delivery after years of resistance",
-    "tokens": [
-      "delivery",
-      "home",
-      "launch",
-      "primark",
-      "resistance",
-      "years"
-    ],
-    "ts": 1789023444.6825852
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/mission-group-appoints-stifel-as-adviser-and-broker-93CH-4894987",
-    "title": "Mission Group appoints Stifel as adviser and broker",
-    "tokens": [
-      "adviser",
-      "appoints",
-      "broker",
-      "group",
-      "mission",
-      "stifel"
-    ],
-    "ts": 1789023451.7794254
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/welsh-hospitals-extend-routine-genetic-testing-for-newborns-93CH-4894985",
-    "title": "Welsh hospitals extend routine genetic testing for newborns",
-    "tokens": [
-      "extend",
-      "genetic",
-      "hospitals",
-      "newborns",
-      "routine",
-      "testing",
-      "welsh"
-    ],
-    "ts": 1789023459.0186932
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/netherlands-signs-intent-letter-for-saab-globaleye-aircraft-93CH-4894984",
-    "title": "Netherlands signs intent letter for Saab GlobalEye aircraft",
-    "tokens": [
-      "aircraft",
-      "globaleye",
-      "intent",
-      "letter",
-      "netherlands",
-      "saab",
-      "signs"
-    ],
-    "ts": 1789023467.5991588
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-103-4894982",
-    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 1.03%",
-    "tokens": [
-      "200",
-      "asx",
-      "australia",
-      "close",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789023475.3437977
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ondine-biomedical-reports-phase-3-trial-meets-primary-endpoint-93CH-4894981",
-    "title": "Ondine Biomedical reports phase 3 trial meets primary endpoint",
-    "tokens": [
-      "biomedical",
-      "endpoint",
-      "meets",
-      "ondine",
-      "phase",
-      "primary",
-      "reports",
-      "trial"
-    ],
-    "ts": 1789023482.2404506
-  },
-  {
-    "id": "market-marked-amzn-stock-down-184639226.html",
-    "title": "The Market Marked AMZN Stock Down. The Numbers Push Back",
-    "tokens": [
-      "amzn",
-      "back",
-      "marked",
-      "market",
-      "numbers",
-      "push",
-      "stock"
-    ],
-    "ts": 1789023491.3330975
-  },
-  {
     "id": "ink-business-premier-credit-card-review-223741901.html",
     "title": "Ink Business Premier Credit Card review: Generous welcome bonus and free employee cards",
     "tokens": [
@@ -23153,5 +22951,229 @@
       "warehouse"
     ],
     "ts": 1789163549.577597
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/flye-group-appoints-qiang-chen-as-ceo-following-lisa-fans-resignation-93CH-4898516",
+    "title": "Fly-E Group appoints Qiang Chen as CEO following Lisa Fan’s resignation",
+    "tokens": [
+      "appoints",
+      "ceo",
+      "chen",
+      "fan",
+      "fly",
+      "following",
+      "group",
+      "lisa",
+      "qiang",
+      "resignation"
+    ],
+    "ts": 1789164624.8776329
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/amalgamated-financial-cfo-jason-darby-sells-961827-in-stock-93CH-4898515",
+    "title": "Amalgamated Financial CFO Jason Darby sells $961,827 in stock",
+    "tokens": [
+      "827",
+      "961",
+      "amalgamated",
+      "cfo",
+      "darby",
+      "financial",
+      "jason",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789164632.7602262
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/corecivic-evp-daren-swenson-sells-697000-in-shares-93CH-4898514",
+    "title": "CoreCivic EVP Daren Swenson sells $697,000 in shares",
+    "tokens": [
+      "000",
+      "697",
+      "corecivic",
+      "daren",
+      "evp",
+      "sells",
+      "shares",
+      "swenson"
+    ],
+    "ts": 1789164639.7731578
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/amalgamated-financial-chief-strategy-officer-sells-284364-in-stock-93CH-4898513",
+    "title": "Amalgamated financial chief strategy officer sells $284,364 in stock",
+    "tokens": [
+      "284",
+      "364",
+      "amalgamated",
+      "chief",
+      "financial",
+      "officer",
+      "sells",
+      "stock",
+      "strategy"
+    ],
+    "ts": 1789164647.1504166
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/five-below-chro-sells-400793-in-company-stock-93CH-4898512",
+    "title": "Five below CHRO sells $400,793 in company stock",
+    "tokens": [
+      "400",
+      "793",
+      "below",
+      "chro",
+      "company",
+      "five",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789164654.5488389
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/kulr-technology-group-sells-bitcoin-holdings-and-grants-rsus-to-cfo-93CH-4898510",
+    "title": "Kulr Technology Group sells bitcoin holdings and grants RSUs to CFO",
+    "tokens": [
+      "bitcoin",
+      "cfo",
+      "grants",
+      "group",
+      "holdings",
+      "kulr",
+      "rsus",
+      "sells",
+      "technology"
+    ],
+    "ts": 1789164661.2533875
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/greenwave-technology-solutions-raises-375-million-in-private-placement-of-preferred-stock-93CH-4898509",
+    "title": "Greenwave Technology Solutions raises $3.75 million in private placement of preferred stock",
+    "tokens": [
+      "greenwave",
+      "million",
+      "placement",
+      "preferred",
+      "private",
+      "raises",
+      "solutions",
+      "stock",
+      "technology"
+    ],
+    "ts": 1789164668.34813
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/immunic-announces-resignation-of-director-duane-nash-and-board-size-reduction-93CH-4898508",
+    "title": "Immunic announces resignation of director Duane Nash and board size reduction",
+    "tokens": [
+      "announces",
+      "board",
+      "director",
+      "duane",
+      "immunic",
+      "nash",
+      "reduction",
+      "resignation",
+      "size"
+    ],
+    "ts": 1789164675.2056026
+  },
+  {
+    "id": "ahead-likely-fed-rate-hike-144709910.html",
+    "title": "Ahead of a Likely Fed Rate Hike, Make This 1 Trade Now",
+    "tokens": [
+      "ahead",
+      "fed",
+      "hike",
+      "likely",
+      "make",
+      "now",
+      "rate",
+      "trade"
+    ],
+    "ts": 1789164682.6243515
+  },
+  {
+    "id": "ethereum-price-prediction-eth-bull-144649142.html",
+    "title": "Ethereum Price Prediction: ETH Bull Flag Faces Rate Hike Risk",
+    "tokens": [
+      "bull",
+      "eth",
+      "ethereum",
+      "faces",
+      "flag",
+      "hike",
+      "prediction",
+      "price",
+      "rate",
+      "risk"
+    ],
+    "ts": 1789164689.8376393
+  },
+  {
+    "id": "2-reasons-buy-super-micro-144600998.html",
+    "title": "2 Reasons to Buy Super Micro Stock — And 1 Reason to Be Cautious",
+    "tokens": [
+      "buy",
+      "cautious",
+      "micro",
+      "reason",
+      "reasons",
+      "stock",
+      "super"
+    ],
+    "ts": 1789164696.556586
+  },
+  {
+    "id": "scott-bessent-thinks-norway-may-144434204.html",
+    "title": "Scott Bessent Thinks Norway May Trade Treasuries for Assets Like Fannie Mae. What That Actually Means for FNMA Stock.",
+    "tokens": [
+      "actually",
+      "assets",
+      "bessent",
+      "fannie",
+      "fnma",
+      "like",
+      "mae",
+      "may",
+      "means",
+      "norway",
+      "scott",
+      "stock",
+      "thinks",
+      "trade",
+      "treasuries",
+      "what"
+    ],
+    "ts": 1789164703.9326956
+  },
+  {
+    "id": "dollar-supported-rising-crude-prices-144027481.html",
+    "title": "Dollar Supported by Rising Crude Prices and T-Note Yields",
+    "tokens": [
+      "crude",
+      "dollar",
+      "note",
+      "prices",
+      "rising",
+      "supported",
+      "yields"
+    ],
+    "ts": 1789164710.7764215
+  },
+  {
+    "id": "oilprice-article-45482",
+    "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
+    "tokens": [
+      "anyone",
+      "credit",
+      "doing",
+      "europe",
+      "gives",
+      "less",
+      "more"
+    ],
+    "ts": 1789164719.2319057
   }
 ]

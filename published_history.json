@@ -1,191 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/burlington-stores-stock-hits-52week-low-at-24048-usd-93CH-4894408",
-    "title": "Burlington Stores stock hits 52-week low at 240.48 USD",
-    "tokens": [
-      "240",
-      "burlington",
-      "hits",
-      "low",
-      "stock",
-      "stores",
-      "usd",
-      "week"
-    ],
-    "ts": 1788984675.3591418
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/vaxcyte-at-cantor-conference-broad-vaccine-bet-nears-key-test-93CH-4894406",
-    "title": "Vaxcyte at Cantor conference: broad vaccine bet nears key test",
-    "tokens": [
-      "bet",
-      "broad",
-      "cantor",
-      "conference",
-      "key",
-      "nears",
-      "test",
-      "vaccine",
-      "vaxcyte"
-    ],
-    "ts": 1788984683.0663517
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/aon-stock-hits-52week-low-at-30455-usd-93CH-4894405",
-    "title": "Aon stock hits 52-week low at 304.55 USD",
-    "tokens": [
-      "304",
-      "aon",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1788984687.0819438
-  },
-  {
-    "id": "discount-hyperscaler-oracle-direct-threat-113554836.html",
-    "title": "Discount Hyperscaler: Oracle’s Direct Threat to AWS",
-    "tokens": [
-      "aws",
-      "direct",
-      "discount",
-      "hyperscaler",
-      "oracle",
-      "threat"
-    ],
-    "ts": 1788984691.4191532
-  },
-  {
-    "id": "norfolk-southern-stock-underperforming-nasdaq-114658327.html",
-    "title": "Is Norfolk Southern Stock Underperforming the Nasdaq?",
-    "tokens": [
-      "nasdaq",
-      "norfolk",
-      "southern",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1788984698.8966503
-  },
-  {
-    "id": "china-bought-20-tons-gold-114524723.html",
-    "title": "China Bought 20 Tons of Gold in August, Its Biggest Haul in Nearly Three Years",
-    "tokens": [
-      "august",
-      "biggest",
-      "bought",
-      "china",
-      "gold",
-      "haul",
-      "nearly",
-      "three",
-      "tons",
-      "years"
-    ],
-    "ts": 1788984706.174163
-  },
-  {
-    "id": "copart-stock-underperforming-p-500-115215710.html",
-    "title": "Is Copart Stock Underperforming the S&P 500?",
-    "tokens": [
-      "500",
-      "copart",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1788984713.4692
-  },
-  {
-    "id": "aflac-stock-performance-compared-other-115607145.html",
-    "title": "How Is Aflac’s Stock Performance Compared to Other Insurance Stocks",
-    "tokens": [
-      "aflac",
-      "compared",
-      "how",
-      "insurance",
-      "other",
-      "performance",
-      "stock",
-      "stocks"
-    ],
-    "ts": 1788984717.4865105
-  },
-  {
-    "id": "general-motors-stock-gm-outperforming-115948399.html",
-    "title": "General Motors’ Stock: Is GM Outperforming the Consumer Discretionary Sector?",
-    "tokens": [
-      "consumer",
-      "discretionary",
-      "general",
-      "motors",
-      "outperforming",
-      "sector",
-      "stock"
-    ],
-    "ts": 1788984721.4173663
-  },
-  {
-    "id": "oilprice-article-45457",
-    "title": "U.S. Administration Eyes Venezuela’s Critical Minerals",
-    "tokens": [
-      "administration",
-      "critical",
-      "eyes",
-      "minerals",
-      "venezuela"
-    ],
-    "ts": 1788984729.4148219
-  },
-  {
-    "id": "oilprice-news-45457",
-    "title": "Belarus Refineries Post Decade-High Profits Amid Russia's Fuel Crisis",
-    "tokens": [
-      "belarus",
-      "crisis",
-      "decade",
-      "fuel",
-      "high",
-      "post",
-      "profits",
-      "refineries",
-      "russia"
-    ],
-    "ts": 1788984733.431908
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/dine-brands-at-barclays-consumer-conference-dualbrand-push-gains-pace-93CH-4894494",
-    "title": "Dine Brands at Barclays consumer conference: dual-brand push gains pace",
-    "tokens": [
-      "barclays",
-      "brand",
-      "brands",
-      "conference",
-      "consumer",
-      "dine",
-      "dual",
-      "gains",
-      "pace",
-      "push"
-    ],
-    "ts": 1788985693.0904825
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/american-eagle-stock-plunges-11-on-outlook-despite-q2-beat-93CH-4894493",
-    "title": "American Eagle stock plunges 11% on outlook despite Q2 beat",
-    "tokens": [
-      "american",
-      "beat",
-      "despite",
-      "eagle",
-      "outlook",
-      "plunges",
-      "stock"
-    ],
-    "ts": 1788985701.5101736
-  },
-  {
     "id": "https://www.investing.com/news/company-news/coopercompanies-retains-coopersurgical-expands-buyback-to-3b-93CH-4894486",
     "title": "CooperCompanies retains CooperSurgical, expands buyback to $3B",
     "tokens": [
@@ -23128,5 +22942,201 @@
       "unicredit"
     ],
     "ts": 1789127656.5566773
+  },
+  {
+    "id": "WP-MKTW-0005222455",
+    "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
+    "tokens": [
+      "become",
+      "exploitation",
+      "fear",
+      "finances",
+      "financial",
+      "incapacitated",
+      "manage",
+      "our",
+      "who",
+      "wife"
+    ],
+    "ts": 1789128878.8001966
+  },
+  {
+    "id": "WP-MKTW-0005224776",
+    "title": "Anthropic’s safety-first image takes a hit ahead of its massive IPO: ‘AI could kill all humans.’",
+    "tokens": [
+      "ahead",
+      "all",
+      "anthropic",
+      "could",
+      "first",
+      "hit",
+      "humans",
+      "image",
+      "ipo",
+      "kill",
+      "massive",
+      "safety",
+      "takes"
+    ],
+    "ts": 1789128887.5432138
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pldt-deploys-uipath-automation-cuts-manual-work-by-up-to-99-93CH-4897806",
+    "title": "PLDT deploys UiPath automation, cuts manual work by up to 99%",
+    "tokens": [
+      "automation",
+      "cuts",
+      "deploys",
+      "manual",
+      "pldt",
+      "uipath",
+      "work"
+    ],
+    "ts": 1789128895.7105155
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/blackberry-radar-helps-dcli-cut-inspection-lead-time-by-33-93CH-4897805",
+    "title": "BlackBerry Radar helps DCLI cut inspection lead time by 33%",
+    "tokens": [
+      "blackberry",
+      "cut",
+      "dcli",
+      "helps",
+      "inspection",
+      "lead",
+      "radar",
+      "time"
+    ],
+    "ts": 1789128905.0213358
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ecbs-makhlouf-says-further-rate-hikes-could-hurt-economic-growth-4897804",
+    "title": "ECB’s Makhlouf says further rate hikes could hurt economic growth",
+    "tokens": [
+      "could",
+      "ecb",
+      "economic",
+      "further",
+      "growth",
+      "hikes",
+      "hurt",
+      "makhlouf",
+      "rate"
+    ],
+    "ts": 1789128914.3423305
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
+    "title": "Brazilian top court unseals probe into multibillion-dollar bank fraud",
+    "tokens": [
+      "bank",
+      "brazilian",
+      "court",
+      "dollar",
+      "fraud",
+      "multibillion",
+      "probe",
+      "top",
+      "unseals"
+    ],
+    "ts": 1789128922.4027221
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/shuttle-pharmaceuticals-shareholders-approve-merger-proposals-and-company-name-change-93CH-4897802",
+    "title": "Shuttle Pharmaceuticals shareholders approve merger proposals and company name change",
+    "tokens": [
+      "approve",
+      "change",
+      "company",
+      "merger",
+      "name",
+      "pharmaceuticals",
+      "proposals",
+      "shareholders",
+      "shuttle"
+    ],
+    "ts": 1789128930.440666
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/allarity-therapeutics-files-for-100-million-spac-offering-93CH-4897800",
+    "title": "Allarity Therapeutics files for $100 million SPAC offering",
+    "tokens": [
+      "100",
+      "allarity",
+      "files",
+      "million",
+      "offering",
+      "spac",
+      "therapeutics"
+    ],
+    "ts": 1789128937.7575934
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tempest-therapeutics-raises-25m-in-private-placement-93CH-4897799",
+    "title": "Tempest Therapeutics raises $2.5M in private placement",
+    "tokens": [
+      "placement",
+      "private",
+      "raises",
+      "tempest",
+      "therapeutics"
+    ],
+    "ts": 1789128945.1051998
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/gossamer-bio-completes-1for80-reverse-stock-split-93CH-4897797",
+    "title": "Gossamer Bio completes 1-for-80 reverse stock split",
+    "tokens": [
+      "bio",
+      "completes",
+      "gossamer",
+      "reverse",
+      "split",
+      "stock"
+    ],
+    "ts": 1789128953.0340984
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/starlab-opens-microgravity-research-proposals-for-iss-flights-93CH-4897798",
+    "title": "Starlab opens microgravity research proposals for ISS flights",
+    "tokens": [
+      "flights",
+      "iss",
+      "microgravity",
+      "opens",
+      "proposals",
+      "research",
+      "starlab"
+    ],
+    "ts": 1789128960.8203478
+  },
+  {
+    "id": "cloudflare-net-soars-10-5-020021013.html",
+    "title": "Cloudflare (NET) Soars 10.5% on Upbeat Outlook, Says Opportunities ‘Larger’ Than Business",
+    "tokens": [
+      "business",
+      "cloudflare",
+      "larger",
+      "net",
+      "opportunities",
+      "outlook",
+      "soars",
+      "upbeat"
+    ],
+    "ts": 1789128968.5795815
+  },
+  {
+    "id": "https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august",
+    "title": "Robinhood’s crypto volume increases 61% in August, still down 38% YoY",
+    "tokens": [
+      "august",
+      "crypto",
+      "increases",
+      "robinhood",
+      "still",
+      "volume",
+      "yoy"
+    ],
+    "ts": 1789128977.8021739
   }
 ]

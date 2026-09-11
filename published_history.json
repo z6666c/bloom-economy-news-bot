@@ -1,110 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/sagimet-biosciences-at-cantor-conference-acne-drug-push-gains-traction-93CH-4894380",
-    "title": "Sagimet Biosciences at Cantor conference: acne drug push gains traction",
-    "tokens": [
-      "acne",
-      "biosciences",
-      "cantor",
-      "conference",
-      "drug",
-      "gains",
-      "push",
-      "sagimet",
-      "traction"
-    ],
-    "ts": 1788981932.7635698
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/ideaya-biosciences-at-cantor-fitzgerald-conference-launch-and-pipeline-push-93CH-4894379",
-    "title": "IDEAYA Biosciences at Cantor Fitzgerald conference: launch and pipeline push",
-    "tokens": [
-      "biosciences",
-      "cantor",
-      "conference",
-      "fitzgerald",
-      "ideaya",
-      "launch",
-      "pipeline",
-      "push"
-    ],
-    "ts": 1788981940.5747592
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anthropic-discloses-fourth-security-incident-with-claude-ai-model-93CH-4894378",
-    "title": "Anthropic discloses fourth security incident with Claude AI model",
-    "tokens": [
-      "anthropic",
-      "claude",
-      "discloses",
-      "fourth",
-      "incident",
-      "model",
-      "security"
-    ],
-    "ts": 1788981947.763191
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/integra-lifesciences-at-wells-fargo-healthcare-conference-recovery-gains-pace-93CH-4894377",
-    "title": "Integra LifeSciences at Wells Fargo healthcare conference: recovery gains pace",
-    "tokens": [
-      "conference",
-      "fargo",
-      "gains",
-      "healthcare",
-      "integra",
-      "lifesciences",
-      "pace",
-      "recovery",
-      "wells"
-    ],
-    "ts": 1788981955.5508745
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/newamsterdam-pharma-stock-hits-52week-low-at-2302-usd-93CH-4894376",
-    "title": "Newamsterdam Pharma stock hits 52-week low at 23.02 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "newamsterdam",
-      "pharma",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1788981959.5663593
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/crown-castle-at-goldman-sachs-conference-focus-shifts-to-tower-growth-93CH-4894375",
-    "title": "Crown Castle at Goldman Sachs conference: focus shifts to tower growth",
-    "tokens": [
-      "castle",
-      "conference",
-      "crown",
-      "focus",
-      "goldman",
-      "growth",
-      "sachs",
-      "shifts",
-      "tower"
-    ],
-    "ts": 1788981963.5389817
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/mike-kelly-divests-from-government-securities-in-mississippi-and-new-jersey-93CH-4894374",
-    "title": "Mike Kelly divests from government securities in Mississippi and New Jersey",
-    "tokens": [
-      "divests",
-      "government",
-      "jersey",
-      "kelly",
-      "mike",
-      "mississippi",
-      "securities"
-    ],
-    "ts": 1788981970.9587402
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/roper-technologies-at-goldman-sachs-conference-ai-and-deal-discipline-93CH-4894373",
     "title": "Roper Technologies at Goldman Sachs conference: ai and deal discipline",
     "tokens": [
@@ -23140,5 +23035,114 @@
       "wary"
     ],
     "ts": 1789125182.0557752
+  },
+  {
+    "id": "WP-MKTW-0005227799",
+    "title": "On my late husband’s birthday, I want to pay for every customer at his favorite restaurant. Is this a good idea?",
+    "tokens": [
+      "birthday",
+      "customer",
+      "every",
+      "favorite",
+      "good",
+      "his",
+      "husband",
+      "idea",
+      "late",
+      "pay",
+      "restaurant",
+      "want"
+    ],
+    "ts": 1789126028.5509253
+  },
+  {
+    "id": "unitedhealth-removing-more-prior-authorizations-232426073.html",
+    "title": "UnitedHealth is Removing More Prior Authorizations, Can Simpler Care Pay Off?",
+    "tokens": [
+      "authorizations",
+      "can",
+      "care",
+      "more",
+      "off",
+      "pay",
+      "prior",
+      "removing",
+      "simpler",
+      "unitedhealth"
+    ],
+    "ts": 1789126037.6426327
+  },
+  {
+    "id": "high-yield-reit-just-raised-233002986.html",
+    "title": "This High-Yield REIT Just Raised Its Dividend by More Than 6%.",
+    "tokens": [
+      "dividend",
+      "high",
+      "just",
+      "more",
+      "raised",
+      "reit",
+      "yield"
+    ],
+    "ts": 1789126046.1491323
+  },
+  {
+    "id": "oil-breaks-100-rally-legs-000000548.html",
+    "title": "WTI Breaks $100—and This Rally Has Legs",
+    "tokens": [
+      "100",
+      "breaks",
+      "legs",
+      "rally",
+      "wti"
+    ],
+    "ts": 1789126050.164865
+  },
+  {
+    "id": "ford-caught-escalating-washington-clash-002747788.html",
+    "title": "Ford caught in escalating Washington clash over China deals",
+    "tokens": [
+      "caught",
+      "china",
+      "clash",
+      "deals",
+      "escalating",
+      "ford",
+      "washington"
+    ],
+    "ts": 1789126054.91655
+  },
+  {
+    "id": "perma-pipe-international-holdings-inc-003115455.html",
+    "title": "Perma-Pipe International Holdings, Inc. Q2 2027 Earnings Call Summary",
+    "tokens": [
+      "2027",
+      "call",
+      "earnings",
+      "holdings",
+      "inc",
+      "international",
+      "perma",
+      "pipe",
+      "summary"
+    ],
+    "ts": 1789126064.1605742
+  },
+  {
+    "id": "5001a2d2-a1d0-41b4-8488-bdc2fc16a995",
+    "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
+    "tokens": [
+      "ahead",
+      "bitcoin",
+      "inflation",
+      "leave",
+      "oil",
+      "prices",
+      "report",
+      "rising",
+      "vulnerable",
+      "yields"
+    ],
+    "ts": 1789126073.0035002
   }
 ]

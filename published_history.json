@@ -1,107 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/bridgepoint-to-issue-10-million-shares-following-op-unit-exchange-93CH-4893676",
-    "title": "Bridgepoint to issue 10 million shares following OP unit exchange",
-    "tokens": [
-      "bridgepoint",
-      "exchange",
-      "following",
-      "issue",
-      "million",
-      "shares",
-      "unit"
-    ],
-    "ts": 1788959816.432968
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tuesdays-insider-buys-and-sells-major-moves-at-dell-and-group-1-93CH-4893671",
-    "title": "Tuesday’s insider buys and sells: Major moves at Dell and Group 1",
-    "tokens": [
-      "buys",
-      "dell",
-      "group",
-      "insider",
-      "major",
-      "moves",
-      "sells",
-      "tuesday"
-    ],
-    "ts": 1788959825.2715242
-  },
-  {
-    "id": "https://www.investing.com/news/press-releases/zoomex-stock-brings-teslas-6-surge-and-nvidias-choppy-session-within-reach-through-fair-rulebased-derivatives-trading-4893670",
-    "title": "Zoomex Stock Brings Tesla’s 6% Surge and Nvidia’s Choppy Session Within Reach Through Fair, Rule-Based Derivatives Trading",
-    "tokens": [
-      "based",
-      "brings",
-      "choppy",
-      "derivatives",
-      "fair",
-      "nvidia",
-      "reach",
-      "rule",
-      "session",
-      "stock",
-      "surge",
-      "tesla",
-      "through",
-      "trading",
-      "within",
-      "zoomex"
-    ],
-    "ts": 1788959835.1644256
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/jjill-q2-2026-slides-tariff-refunds-boost-margins-turnaround-gains-traction-93CH-4893669",
-    "title": "J.Jill Q2 2026 slides: tariff refunds boost margins, turnaround gains traction",
-    "tokens": [
-      "2026",
-      "boost",
-      "gains",
-      "jill",
-      "margins",
-      "refunds",
-      "slides",
-      "tariff",
-      "traction",
-      "turnaround"
-    ],
-    "ts": 1788959844.3575363
-  },
-  {
-    "id": "circle-buys-payments-firm-tazapay-130100622.html",
-    "title": "Circle Buys Payments Firm Tazapay For $400 Million",
-    "tokens": [
-      "400",
-      "buys",
-      "circle",
-      "firm",
-      "million",
-      "payments",
-      "tazapay"
-    ],
-    "ts": 1788959854.3190916
-  },
-  {
-    "id": "strong-free-cash-flow-margin-130023979.html",
-    "title": "Strong Free Cash Flow and Margin Expansion Make Fortune Brands Innovations (FBIN) Attractive",
-    "tokens": [
-      "attractive",
-      "brands",
-      "cash",
-      "expansion",
-      "fbin",
-      "flow",
-      "fortune",
-      "free",
-      "innovations",
-      "make",
-      "margin",
-      "strong"
-    ],
-    "ts": 1788959864.2865837
-  },
-  {
     "id": "western-digital-wdc-priced-too-125811420.html",
     "title": "Is Western Digital (WDC) Priced Too High?",
     "tokens": [
@@ -23186,5 +23084,93 @@
       "take"
     ],
     "ts": 1789091626.9744976
+  },
+  {
+    "id": "qualcomms-amazon-deal-sent-stock-140700972.html",
+    "title": "Qualcomm's new Amazon deal sent the stock soaring 9%",
+    "tokens": [
+      "amazon",
+      "deal",
+      "qualcomm",
+      "sent",
+      "soaring",
+      "stock"
+    ],
+    "ts": 1789092655.1466935
+  },
+  {
+    "id": "dear-everpure-stock-fans-mark-141043397.html",
+    "title": "Dear Everpure Stock Fans, Mark Your Calendars for September 21",
+    "tokens": [
+      "calendars",
+      "dear",
+      "everpure",
+      "fans",
+      "mark",
+      "september",
+      "stock",
+      "your"
+    ],
+    "ts": 1789092659.161863
+  },
+  {
+    "id": "volatility-insurance-applied-optoelectronics-aaoi-141223127.html",
+    "title": "Volatility Insurance for Applied Optoelectronics (AAOI) Stock Potentially Inspires a Contrarian Outlook",
+    "tokens": [
+      "aaoi",
+      "applied",
+      "contrarian",
+      "inspires",
+      "insurance",
+      "optoelectronics",
+      "outlook",
+      "potentially",
+      "stock",
+      "volatility"
+    ],
+    "ts": 1789092663.9826984
+  },
+  {
+    "id": "chipotle-opens-first-asia-restaurant-140657314.html",
+    "title": "Chipotle opens first Asia restaurant in Seoul joint venture",
+    "tokens": [
+      "asia",
+      "chipotle",
+      "first",
+      "joint",
+      "opens",
+      "restaurant",
+      "seoul",
+      "venture"
+    ],
+    "ts": 1789092672.1399703
+  },
+  {
+    "id": "stocks-pressured-inflation-fears-boost-142039912.html",
+    "title": "Stocks Pressured as Inflation Fears Boost Bond Yields",
+    "tokens": [
+      "bond",
+      "boost",
+      "fears",
+      "inflation",
+      "pressured",
+      "stocks",
+      "yields"
+    ],
+    "ts": 1789092680.092595
+  },
+  {
+    "id": "aurora-curaleaf-continue-sniping-hostile-142239803.html",
+    "title": "Aurora and Curaleaf Continue Sniping As Hostile Bid Heats Up",
+    "tokens": [
+      "aurora",
+      "bid",
+      "continue",
+      "curaleaf",
+      "heats",
+      "hostile",
+      "sniping"
+    ],
+    "ts": 1789092689.117582
   }
 ]

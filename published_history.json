@@ -1,45 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/ipo-datvietvac-hon-1700-nha-dau-tu-dang-ky-mua-vuot-luong-co-phieu-chao-ban-4894963",
-    "title": "IPO DatVietVAC: Hơn 1.700 nhà đầu tư đăng ký mua, vượt lượng cổ phiếu chào bán",
-    "tokens": [
-      "700",
-      "datvietvac",
-      "ipo",
-      "mua",
-      "phi"
-    ],
-    "ts": 1789020894.5678325
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ai-boom-poses-new-financial-stability-risks-bis-head-says-4894960",
-    "title": "AI boom poses new financial stability risks, BIS head says",
-    "tokens": [
-      "bis",
-      "boom",
-      "financial",
-      "head",
-      "poses",
-      "risks",
-      "stability"
-    ],
-    "ts": 1789020902.607494
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tsmc-august-revenue-jumps-53-as-strong-ai-demand-persists-4894961",
-    "title": "TSMC August revenue jumps 53% as strong AI demand persists",
-    "tokens": [
-      "august",
-      "demand",
-      "jumps",
-      "persists",
-      "revenue",
-      "strong",
-      "tsmc"
-    ],
-    "ts": 1789020911.721647
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
     "title": "ECB to hike rates as Iran war fuels fresh inflation fears",
     "tokens": [
@@ -23137,5 +23097,54 @@
       "stock"
     ],
     "ts": 1789161882.4595087
+  },
+  {
+    "id": "nebius-just-became-palantir-preferred-140644561.html",
+    "title": "Nebius Just Became Palantir’s Preferred AI Infrastructure Partner. What This Means for NBIS Stock.",
+    "tokens": [
+      "became",
+      "infrastructure",
+      "just",
+      "means",
+      "nbis",
+      "nebius",
+      "palantir",
+      "partner",
+      "preferred",
+      "stock",
+      "what"
+    ],
+    "ts": 1789162644.0125008
+  },
+  {
+    "id": "secret-ratio-options-traders-check-140702151.html",
+    "title": "The ‘Secret Ratio’ Options Traders Should Check Before Every Trade",
+    "tokens": [
+      "before",
+      "check",
+      "every",
+      "options",
+      "ratio",
+      "secret",
+      "should",
+      "trade",
+      "traders"
+    ],
+    "ts": 1789162651.4419127
+  },
+  {
+    "id": "stocks-slump-crude-prices-soar-140334825.html",
+    "title": "Stocks Slump as Crude Prices Soar and Bond Yields Surge",
+    "tokens": [
+      "bond",
+      "crude",
+      "prices",
+      "slump",
+      "soar",
+      "stocks",
+      "surge",
+      "yields"
+    ],
+    "ts": 1789162655.458688
   }
 ]

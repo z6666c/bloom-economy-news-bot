@@ -1,158 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/charter-at-goldman-sachs-conference-growth-push-after-cox-deal-93CH-4894818",
-    "title": "Charter at Goldman Sachs conference: growth push after Cox deal",
-    "tokens": [
-      "charter",
-      "conference",
-      "cox",
-      "deal",
-      "goldman",
-      "growth",
-      "push",
-      "sachs"
-    ],
-    "ts": 1789001788.7829566
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/vertex-at-wells-fargo-healthcare-conference-renal-pipeline-takes-center-stage-93CH-4894817",
-    "title": "Vertex at Wells Fargo healthcare conference: renal pipeline takes center stage",
-    "tokens": [
-      "center",
-      "conference",
-      "fargo",
-      "healthcare",
-      "pipeline",
-      "renal",
-      "stage",
-      "takes",
-      "vertex",
-      "wells"
-    ],
-    "ts": 1789001796.035985
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/chime-at-goldman-sachs-communacopia--technology-conference-2026-growth-quickens-93CH-4894815",
-    "title": "Chime at Goldman Sachs Communacopia + Technology Conference 2026: growth quickens",
-    "tokens": [
-      "2026",
-      "chime",
-      "communacopia",
-      "conference",
-      "goldman",
-      "growth",
-      "quickens",
-      "sachs",
-      "technology"
-    ],
-    "ts": 1789001800.0495694
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nvidia-enters-partnerships-to-build-out-more-australian-data-center-capacity-4894814",
-    "title": "Nvidia enters partnerships to build out more Australian data center capacity",
-    "tokens": [
-      "australian",
-      "build",
-      "capacity",
-      "center",
-      "data",
-      "enters",
-      "more",
-      "nvidia",
-      "partnerships"
-    ],
-    "ts": 1789001803.4232018
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/openai-pushes-for-mandatory-national-ai-safety-requirements-4894770",
-    "title": "OpenAI pushes for mandatory national AI safety requirements",
-    "tokens": [
-      "mandatory",
-      "national",
-      "openai",
-      "pushes",
-      "requirements",
-      "safety"
-    ],
-    "ts": 1789001811.993844
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dynatrace-evp-ctos-spouse-sells-5138-in-company-shares-93CH-4894813",
-    "title": "Dynatrace EVP, CTO’s spouse sells $5,138 in company shares",
-    "tokens": [
-      "138",
-      "company",
-      "cto",
-      "dynatrace",
-      "evp",
-      "sells",
-      "shares",
-      "spouse"
-    ],
-    "ts": 1789001819.3578603
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/gen-digital-coo-bryan-ko-sells-866450-in-company-stock-93CH-4894811",
-    "title": "Gen digital COO Bryan Ko sells $866,450 in company stock",
-    "tokens": [
-      "450",
-      "866",
-      "bryan",
-      "company",
-      "coo",
-      "digital",
-      "gen",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789001827.3014908
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/oric-pharmaceuticals-at-wells-fargo-conference-latestage-pipeline-in-focus-93CH-4894833",
-    "title": "ORIC Pharmaceuticals at Wells Fargo conference: late-stage pipeline in focus",
-    "tokens": [
-      "conference",
-      "fargo",
-      "focus",
-      "late",
-      "oric",
-      "pharmaceuticals",
-      "pipeline",
-      "stage",
-      "wells"
-    ],
-    "ts": 1789002703.979994
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/snowflake-director-mark-garrett-sells-175-million-in-shares-93CH-4894831",
-    "title": "Snowflake director Mark Garrett sells $17.5 million in shares",
-    "tokens": [
-      "director",
-      "garrett",
-      "mark",
-      "million",
-      "sells",
-      "shares",
-      "snowflake"
-    ],
-    "ts": 1789002711.5069594
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/sabra-health-care-ceo-matros-sells-417m-in-stock-93CH-4894832",
-    "title": "Sabra Health Care CEO Matros sells $4.17m in stock",
-    "tokens": [
-      "17m",
-      "care",
-      "ceo",
-      "health",
-      "matros",
-      "sabra",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789002719.2047195
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/medalist-diversified-cfo-buys-588-in-stock-93CH-4894830",
     "title": "Medalist Diversified CFO buys $588 in stock",
     "tokens": [
@@ -23092,5 +22939,160 @@
       "summary"
     ],
     "ts": 1789146607.7834969
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/why-is-silver-spot-stock-climbing-today-93CH-4898269",
+    "title": "Why is Silver Spot stock climbing today?",
+    "tokens": [
+      "climbing",
+      "silver",
+      "spot",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789147539.6216161
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusivewhite-house-weighs-how-to-use-defense-production-act-to-expand-us-oil-refining-capacity-sources-say-4898258",
+    "title": "Exclusive-White House weighs how to use Defense Production Act to expand US oil refining capacity, sources say",
+    "tokens": [
+      "act",
+      "capacity",
+      "defense",
+      "exclusive",
+      "expand",
+      "house",
+      "how",
+      "oil",
+      "production",
+      "refining",
+      "say",
+      "sources",
+      "use",
+      "weighs",
+      "white"
+    ],
+    "ts": 1789147547.1462812
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/rh-earnings-analysis-questions-answered-and-next-catalysts-93CH-4898268",
+    "title": "RH earnings analysis: questions answered and next catalysts",
+    "tokens": [
+      "analysis",
+      "answered",
+      "catalysts",
+      "earnings",
+      "next",
+      "questions"
+    ],
+    "ts": 1789147551.1619742
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/copart-earnings-analysis-questions-answered-and-next-catalysts-93CH-4898265",
+    "title": "Copart earnings analysis: questions answered and next catalysts",
+    "tokens": [
+      "analysis",
+      "answered",
+      "catalysts",
+      "copart",
+      "earnings",
+      "next",
+      "questions"
+    ],
+    "ts": 1789147551.1772387
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tribal-group-agrees-1893m-sale-to-main-capital-partners-93CH-4898264",
+    "title": "Tribal Group agrees £189.3m sale to Main Capital Partners",
+    "tokens": [
+      "189",
+      "agrees",
+      "capital",
+      "group",
+      "main",
+      "partners",
+      "sale",
+      "tribal"
+    ],
+    "ts": 1789147555.0650535
+  },
+  {
+    "id": "moneyhero-limited-class-ordinary-shares-170537009.html",
+    "title": "MoneyHero Limited Class A Ordinary Shares Q3 2026 Earnings Call Summary",
+    "tokens": [
+      "2026",
+      "call",
+      "class",
+      "earnings",
+      "limited",
+      "moneyhero",
+      "ordinary",
+      "shares",
+      "summary"
+    ],
+    "ts": 1789147749.0543182
+  },
+  {
+    "id": "spacex-just-revealed-an-important-timeline-for-launching-data-centers-in-space-170346515.html",
+    "title": "SpaceX just revealed an important timeline for launching data centers in space",
+    "tokens": [
+      "centers",
+      "data",
+      "important",
+      "just",
+      "launching",
+      "revealed",
+      "space",
+      "spacex",
+      "timeline"
+    ],
+    "ts": 1789147756.9900746
+  },
+  {
+    "id": "oilprice-article-45489",
+    "title": "U.S. Oil Rig Count Rises as Oil Tops $100",
+    "tokens": [
+      "100",
+      "count",
+      "oil",
+      "rig",
+      "rises",
+      "tops"
+    ],
+    "ts": 1789147765.9448266
+  },
+  {
+    "id": "oilprice-news-45489",
+    "title": "Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline",
+    "tokens": [
+      "arabia",
+      "drone",
+      "east",
+      "hit",
+      "oil",
+      "pipeline",
+      "saudi",
+      "strikes",
+      "vital",
+      "west"
+    ],
+    "ts": 1789147773.983687
+  },
+  {
+    "id": "6d16117c-9167-4cde-ac88-1b425b454cf8",
+    "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+    "tokens": [
+      "act",
+      "bankman",
+      "drama",
+      "fried",
+      "imprisoned",
+      "last",
+      "legal",
+      "sam",
+      "waiting"
+    ],
+    "ts": 1789147781.5041058
   }
 ]

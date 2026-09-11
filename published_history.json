@@ -1,71 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/us-startup-covenant-to-launch-cruise-missile-production-in-germany-next-year-4893851",
-    "title": "US startup Covenant to launch cruise missile production in Germany next year",
-    "tokens": [
-      "covenant",
-      "cruise",
-      "germany",
-      "launch",
-      "missile",
-      "next",
-      "production",
-      "startup",
-      "year"
-    ],
-    "ts": 1788962181.4687123
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/western-digital-at-citis-2026-global-tmt-conference-cloud-demand-drives-shift-93CH-4893849",
-    "title": "Western Digital at Citi’s 2026 Global TMT Conference: cloud demand drives shift",
-    "tokens": [
-      "2026",
-      "citi",
-      "cloud",
-      "conference",
-      "demand",
-      "digital",
-      "drives",
-      "global",
-      "shift",
-      "tmt",
-      "western"
-    ],
-    "ts": 1788962190.964917
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/wall-st-indexes-open-lower-as-oil-crosses-100-4893848",
-    "title": "Wall St indexes open lower as oil crosses $100",
-    "tokens": [
-      "100",
-      "crosses",
-      "indexes",
-      "lower",
-      "oil",
-      "open",
-      "wall"
-    ],
-    "ts": 1788962202.304619
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-core--main-tops-q2-2026-eps-forecast-shares-fall-93CH-4893846",
-    "title": "Earnings call transcript: Core & Main tops Q2 2026 EPS forecast, shares fall",
-    "tokens": [
-      "2026",
-      "call",
-      "core",
-      "earnings",
-      "eps",
-      "fall",
-      "forecast",
-      "main",
-      "shares",
-      "tops",
-      "transcript"
-    ],
-    "ts": 1788962212.6897018
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/chime-shares-jump-10-as-stride-deal-puts-fintech-on-path-to-bank-charter-4893295",
     "title": "Chime shares jump as Stride deal puts fintech on path to bank charter",
     "tokens": [
@@ -23164,5 +23098,66 @@
       "wells"
     ],
     "ts": 1789099997.0537424
+  },
+  {
+    "id": "comcast-sinks-8-charter-drops-163156334.html",
+    "title": "Comcast Sinks 8%, Charter Drops 6%, T-Mobile Slips 3%: Is a Broadband Repricing Underway?",
+    "tokens": [
+      "broadband",
+      "charter",
+      "comcast",
+      "drops",
+      "mobile",
+      "repricing",
+      "sinks",
+      "slips",
+      "underway"
+    ],
+    "ts": 1789101011.5667574
+  },
+  {
+    "id": "chewy-inc-q2-2026-earnings-165158054.html",
+    "title": "Chewy, Inc. Q2 2026 Earnings Call Summary",
+    "tokens": [
+      "2026",
+      "call",
+      "chewy",
+      "earnings",
+      "inc",
+      "summary"
+    ],
+    "ts": 1789101015.5789816
+  },
+  {
+    "id": "22987006-2aa7-4820-9ee2-9a4b30e47a42",
+    "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
+    "tokens": [
+      "agents",
+      "bet",
+      "billion",
+      "corporate",
+      "inside",
+      "puts",
+      "ripple",
+      "treasury"
+    ],
+    "ts": 1789101022.03734
+  },
+  {
+    "id": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing",
+    "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
+    "tokens": [
+      "347k",
+      "brevo",
+      "email",
+      "enabled",
+      "flaw",
+      "login",
+      "phishing",
+      "subscribers",
+      "targeting",
+      "trezor"
+    ],
+    "ts": 1789101030.3917336
   }
 ]

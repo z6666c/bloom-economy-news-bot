@@ -1,88 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/us-new-home-listings-reach-highest-level-since-2022-93CH-4893451",
-    "title": "U.S. new home listings reach highest level since 2022",
-    "tokens": [
-      "2022",
-      "highest",
-      "home",
-      "level",
-      "listings",
-      "reach",
-      "since"
-    ],
-    "ts": 1788956049.1965563
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/gamesquare-to-acquire-fanengine-assets-for-159-million-93CH-4893449",
-    "title": "GameSquare to acquire FanEngine assets for $15.9 million",
-    "tokens": [
-      "acquire",
-      "assets",
-      "fanengine",
-      "gamesquare",
-      "million"
-    ],
-    "ts": 1788956058.3512304
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lincoln-financial-completes-4618m-tender-offer-for-depositary-shares-93CH-4893443",
-    "title": "Lincoln Financial completes $461.8M tender offer for depositary shares",
-    "tokens": [
-      "461",
-      "completes",
-      "depositary",
-      "financial",
-      "lincoln",
-      "offer",
-      "shares",
-      "tender"
-    ],
-    "ts": 1788956066.6138883
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/unusual-machines-invests-additional-20m-in-xtend-ai-robotics-93CH-4893444",
-    "title": "Unusual Machines invests additional $20M in XTEND AI Robotics",
-    "tokens": [
-      "20m",
-      "additional",
-      "invests",
-      "machines",
-      "robotics",
-      "unusual",
-      "xtend"
-    ],
-    "ts": 1788956074.81988
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/jefferies-credit-partners-raises-4bn-for-european-lending-93CH-4893445",
-    "title": "Jefferies Credit Partners raises $4bn for European lending",
-    "tokens": [
-      "4bn",
-      "credit",
-      "european",
-      "jefferies",
-      "lending",
-      "partners",
-      "raises"
-    ],
-    "ts": 1788956083.0616667
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/proqr-doses-first-participant-in-ax0811-phase-1-trial-93CH-4893439",
-    "title": "ProQR doses first participant in AX-0811 phase 1 trial",
-    "tokens": [
-      "0811",
-      "doses",
-      "first",
-      "participant",
-      "phase",
-      "proqr",
-      "trial"
-    ],
-    "ts": 1788956091.8657827
-  },
-  {
     "id": "https://www.investing.com/news/company-news/genius-sports-partners-with-televisaunivision-for-liga-mx-93CH-4893441",
     "title": "Genius Sports partners with TelevisaUnivision for Liga MX",
     "tokens": [
@@ -23157,5 +23074,109 @@
       "stock"
     ],
     "ts": 1789084267.0994432
+  },
+  {
+    "id": "gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html",
+    "title": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
+    "tokens": [
+      "2026",
+      "drop",
+      "five",
+      "following",
+      "gold",
+      "iranian",
+      "oil",
+      "price",
+      "prices",
+      "september",
+      "strikes",
+      "tankers",
+      "today",
+      "wednesday"
+    ],
+    "ts": 1789085737.0507016
+  },
+  {
+    "id": "mortgage--refinance-rates-today-wednesday-september-9-2026-fixed-rates-inch-upward-51-arm-breaks-past-7-as-oil-prices-rise-100000700.html",
+    "title": "Mortgage & refinance rates today, Wednesday, September 9, 2026: Fixed rates inch upward, 5/1 ARM breaks past 7% as oil prices rise",
+    "tokens": [
+      "2026",
+      "arm",
+      "breaks",
+      "fixed",
+      "inch",
+      "mortgage",
+      "oil",
+      "past",
+      "prices",
+      "rates",
+      "refinance",
+      "rise",
+      "september",
+      "today",
+      "upward",
+      "wednesday"
+    ],
+    "ts": 1789085745.7216394
+  },
+  {
+    "id": "vanguard-russell-1000-growth-etf-121201194.html",
+    "title": "Vanguard Russell 1000 Growth ETF vs. iShares Small-Cap 600 Growth ETF",
+    "tokens": [
+      "1000",
+      "600",
+      "cap",
+      "etf",
+      "growth",
+      "ishares",
+      "russell",
+      "small",
+      "vanguard"
+    ],
+    "ts": 1789085753.9043465
+  },
+  {
+    "id": "60-old-collects-2-700-121229933.html",
+    "title": "How a 60-Year-Old Collects $2,700 a Month From a Single Fund: SCHD",
+    "tokens": [
+      "700",
+      "collects",
+      "fund",
+      "how",
+      "month",
+      "old",
+      "schd",
+      "single",
+      "year"
+    ],
+    "ts": 1789085762.1893153
+  },
+  {
+    "id": "oilprice-article-45471",
+    "title": "AI Boom to Boost Southeast Asia’s LNG Demand",
+    "tokens": [
+      "asia",
+      "boom",
+      "boost",
+      "demand",
+      "lng",
+      "southeast"
+    ],
+    "ts": 1789085771.3984656
+  },
+  {
+    "id": "oilprice-news-45471",
+    "title": "OPEC Sees Oil Demand Growth Explode Sixfold in 2027",
+    "tokens": [
+      "2027",
+      "demand",
+      "explode",
+      "growth",
+      "oil",
+      "opec",
+      "sees",
+      "sixfold"
+    ],
+    "ts": 1789085775.4174347
   }
 ]

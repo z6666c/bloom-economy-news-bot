@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser",
-    "title": "BitMart misses roadmap deadline, appoints financial adviser",
-    "tokens": [
-      "adviser",
-      "appoints",
-      "bitmart",
-      "deadline",
-      "financial",
-      "misses",
-      "roadmap"
-    ],
-    "ts": 1788959922.8551183
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/baker-hughes-raises-annual-forecasts-after-chart-acquisition-4893762",
     "title": "Baker Hughes raises annual forecasts after Chart acquisition",
     "tokens": [
@@ -23169,5 +23155,16 @@
       "without"
     ],
     "ts": 1789094634.2647913
+  },
+  {
+    "id": "signet-jewelers-stock-jumps-20-144942586.html",
+    "title": "Signet Jewelers Stock Jumps 20%",
+    "tokens": [
+      "jewelers",
+      "jumps",
+      "signet",
+      "stock"
+    ],
+    "ts": 1789095331.379539
   }
 ]

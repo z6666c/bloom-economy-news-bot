@@ -1,115 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/coopercompanies-retains-coopersurgical-expands-buyback-to-3b-93CH-4894486",
-    "title": "CooperCompanies retains CooperSurgical, expands buyback to $3B",
-    "tokens": [
-      "buyback",
-      "coopercompanies",
-      "coopersurgical",
-      "expands",
-      "retains"
-    ],
-    "ts": 1788985708.4745908
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/brookdale-senior-living-reports-august-occupancy-gains-93CH-4894485",
-    "title": "Brookdale Senior Living reports August occupancy gains",
-    "tokens": [
-      "august",
-      "brookdale",
-      "gains",
-      "living",
-      "occupancy",
-      "reports",
-      "senior"
-    ],
-    "ts": 1788985715.7845542
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/motorola-solutions-cto-to-speak-at-piper-sandler-conference-93CH-4894484",
-    "title": "Motorola Solutions CTO to speak at Piper Sandler conference",
-    "tokens": [
-      "conference",
-      "cto",
-      "motorola",
-      "piper",
-      "sandler",
-      "solutions",
-      "speak"
-    ],
-    "ts": 1788985723.2247593
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/american-eagle-outfitters-beats-quarterly-revenue-estimates-4894483",
-    "title": "American Eagle Outfitters beats quarterly revenue estimates",
-    "tokens": [
-      "american",
-      "beats",
-      "eagle",
-      "estimates",
-      "outfitters",
-      "quarterly",
-      "revenue"
-    ],
-    "ts": 1788985730.8779485
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/busiest-us-seaport-set-new-threemonth-volume-record-after-early-holiday-import-rush-toavoid-new-tariffs-higher-fuel-costs-4894459",
-    "title": "Busiest US seaport set new three-month volume record after early holiday import rush to avoid new tariffs, higher fuel costs",
-    "tokens": [
-      "avoid",
-      "busiest",
-      "costs",
-      "early",
-      "fuel",
-      "higher",
-      "holiday",
-      "import",
-      "month",
-      "record",
-      "rush",
-      "seaport",
-      "set",
-      "tariffs",
-      "three",
-      "volume"
-    ],
-    "ts": 1788985738.334549
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/ambarella-at-citis-2026-global-tmt-conference-edge-ai-push-93CH-4894482",
-    "title": "Ambarella at Citi’s 2026 Global TMT Conference: edge AI push",
-    "tokens": [
-      "2026",
-      "ambarella",
-      "citi",
-      "conference",
-      "edge",
-      "global",
-      "push",
-      "tmt"
-    ],
-    "ts": 1788985742.3502064
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/navan-raises-fiscal-2027-forecast-on-strong-corporate-travel-demand-customer-growth-4894480",
-    "title": "Navan raises fiscal 2027 forecast on strong corporate travel demand, customer growth",
-    "tokens": [
-      "2027",
-      "corporate",
-      "customer",
-      "demand",
-      "fiscal",
-      "forecast",
-      "growth",
-      "navan",
-      "raises",
-      "strong",
-      "travel"
-    ],
-    "ts": 1788985745.2498856
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/dell-at-goldman-sachs-communacopia--technology-conference-ai-push-93CH-4894479",
     "title": "Dell at Goldman Sachs Communacopia + Technology Conference: ai push",
     "tokens": [
@@ -23138,5 +23028,113 @@
       "yoy"
     ],
     "ts": 1789128977.8021739
+  },
+  {
+    "id": "oilprice-article-45481",
+    "title": "Houthis Advance on Bab al-Mandeb as Saudi Oil Route Comes Under Threat",
+    "tokens": [
+      "advance",
+      "bab",
+      "comes",
+      "houthis",
+      "mandeb",
+      "oil",
+      "route",
+      "saudi",
+      "threat",
+      "under"
+    ],
+    "ts": 1789130204.0120595
+  },
+  {
+    "id": "oilprice-article-45480",
+    "title": "Vostok Oil: One Tanker, Four Trillion Rubles",
+    "tokens": [
+      "four",
+      "oil",
+      "one",
+      "rubles",
+      "tanker",
+      "trillion",
+      "vostok"
+    ],
+    "ts": 1789130213.5933313
+  },
+  {
+    "id": "oilprice-article-45478",
+    "title": "WTI Breaks $100 as Middle East Supply Crisis Deepens",
+    "tokens": [
+      "100",
+      "breaks",
+      "crisis",
+      "deepens",
+      "east",
+      "middle",
+      "supply",
+      "wti"
+    ],
+    "ts": 1789130221.8474197
+  },
+  {
+    "id": "oilprice-news-45481",
+    "title": "Energy Aspects: Oil Market Has Reached an \"Inflection Point\"",
+    "tokens": [
+      "aspects",
+      "energy",
+      "inflection",
+      "market",
+      "oil",
+      "point",
+      "reached"
+    ],
+    "ts": 1789130229.7579052
+  },
+  {
+    "id": "oilprice-news-45480",
+    "title": "China's Crude Imports Set to Hold at 7.2 Million Bpd in September",
+    "tokens": [
+      "bpd",
+      "china",
+      "crude",
+      "hold",
+      "imports",
+      "million",
+      "september",
+      "set"
+    ],
+    "ts": 1789130237.9785943
+  },
+  {
+    "id": "oilprice-news-45478",
+    "title": "Hormuz Shipping Traffic Plunges as Middle East War Escalates",
+    "tokens": [
+      "east",
+      "escalates",
+      "hormuz",
+      "middle",
+      "plunges",
+      "shipping",
+      "traffic",
+      "war"
+    ],
+    "ts": 1789130246.3709013
+  },
+  {
+    "id": "1c1e88d1-3a35-4529-972e-baa4a2d1d377",
+    "title": "Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike",
+    "tokens": [
+      "august",
+      "core",
+      "cpi",
+      "faster",
+      "fed",
+      "forecast",
+      "hike",
+      "possible",
+      "rate",
+      "rose",
+      "setting"
+    ],
+    "ts": 1789130254.9459844
   }
 ]

@@ -1,128 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/neuropace-at-cantor-healthcare-conference-growth-data-and-fda-path-93CH-4894249",
-    "title": "NeuroPace at Cantor healthcare conference: growth, data and FDA path",
-    "tokens": [
-      "cantor",
-      "conference",
-      "data",
-      "fda",
-      "growth",
-      "healthcare",
-      "neuropace",
-      "path"
-    ],
-    "ts": 1788974867.9889092
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/nuvation-bio-at-citigroup-biopharma-summit-growth-rests-on-three-pillars-93CH-4894248",
-    "title": "Nuvation Bio at citigroup biopharma summit: growth rests on three pillars",
-    "tokens": [
-      "bio",
-      "biopharma",
-      "citigroup",
-      "growth",
-      "nuvation",
-      "pillars",
-      "rests",
-      "summit",
-      "three"
-    ],
-    "ts": 1788974877.3759844
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-korn-ferry-beats-q1-2026-estimates-shares-slip-93CH-4894246",
-    "title": "Earnings call transcript: Korn Ferry beats Q1 2026 estimates, shares slip",
-    "tokens": [
-      "2026",
-      "beats",
-      "call",
-      "earnings",
-      "estimates",
-      "ferry",
-      "korn",
-      "shares",
-      "slip",
-      "transcript"
-    ],
-    "ts": 1788974886.0364087
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/api-group-at-jefferies-conference-data-centers-drive-growth-plan-93CH-4894276",
-    "title": "APi Group at Jefferies conference: data centers drive growth plan",
-    "tokens": [
-      "api",
-      "centers",
-      "conference",
-      "data",
-      "drive",
-      "group",
-      "growth",
-      "jefferies",
-      "plan"
-    ],
-    "ts": 1788975657.4951684
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/leidos-at-jefferies-global-industrials-conference-2026-growth-broadens-93CH-4894275",
-    "title": "Leidos at Jefferies Global Industrials Conference 2026: growth broadens",
-    "tokens": [
-      "2026",
-      "broadens",
-      "conference",
-      "global",
-      "growth",
-      "industrials",
-      "jefferies",
-      "leidos"
-    ],
-    "ts": 1788975661.511809
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/sysco-at-barclays-consumer-conference-growth-plan-gains-pace-93CH-4894274",
-    "title": "Sysco at Barclays consumer conference: growth plan gains pace",
-    "tokens": [
-      "barclays",
-      "conference",
-      "consumer",
-      "gains",
-      "growth",
-      "pace",
-      "plan",
-      "sysco"
-    ],
-    "ts": 1788975665.199215
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/peel-pepper-responds-to-harworths-rejection-of-takeover-offer-93CH-4894272",
-    "title": "Peel Pepper responds to Harworth’s rejection of takeover offer",
-    "tokens": [
-      "harworth",
-      "offer",
-      "peel",
-      "pepper",
-      "rejection",
-      "responds",
-      "takeover"
-    ],
-    "ts": 1788975673.199548
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/saba-capital-10-owner-sells-256m-blackrock-ecat-shares-93CH-4894271",
-    "title": "Saba Capital, 10% owner, sells $2.56m BlackRock ECAT shares",
-    "tokens": [
-      "56m",
-      "blackrock",
-      "capital",
-      "ecat",
-      "owner",
-      "saba",
-      "sells",
-      "shares"
-    ],
-    "ts": 1788975680.5921822
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/teradata-at-citis-2026-global-tmt-conference-cloud-ai-and-hybrid-push-93CH-4894270",
     "title": "Teradata at Citi’s 2026 Global TMT Conference: cloud, AI and hybrid push",
     "tokens": [
@@ -23184,5 +23061,124 @@
       "rejects"
     ],
     "ts": 1789117903.713962
+  },
+  {
+    "id": "man-declares-bankruptcy-34-cents-234136167.html",
+    "title": "Man declares bankruptcy with 34 cents while hiding millions",
+    "tokens": [
+      "bankruptcy",
+      "cents",
+      "declares",
+      "hiding",
+      "man",
+      "millions",
+      "while"
+    ],
+    "ts": 1789118855.9472682
+  },
+  {
+    "id": "when-will-gas-prices-go-down-prices-hit-records-as-iran-war-fuels-uncertainty-154506731.html",
+    "title": "When will gas prices go down? Prices hit records as Iran war fuels uncertainty.",
+    "tokens": [
+      "fuels",
+      "gas",
+      "hit",
+      "iran",
+      "prices",
+      "records",
+      "uncertainty",
+      "war",
+      "when"
+    ],
+    "ts": 1789118863.940003
+  },
+  {
+    "id": "adjustable-rate-mortgage-155738644.html",
+    "title": "What is an adjustable-rate mortgage (ARM), and what are the risks?",
+    "tokens": [
+      "adjustable",
+      "arm",
+      "mortgage",
+      "rate",
+      "risks",
+      "what"
+    ],
+    "ts": 1789118872.762225
+  },
+  {
+    "id": "will-the-housing-market-crash-in-2026-probably-not-170038540.html",
+    "title": "Will the housing market crash in 2026? Probably not",
+    "tokens": [
+      "2026",
+      "crash",
+      "housing",
+      "market",
+      "probably"
+    ],
+    "ts": 1789118879.9815824
+  },
+  {
+    "id": "how-long-should-you-wait-between-credit-card-applications-152057924.html",
+    "title": "How long should you wait between credit card applications?",
+    "tokens": [
+      "applications",
+      "between",
+      "card",
+      "credit",
+      "how",
+      "long",
+      "should",
+      "wait",
+      "you"
+    ],
+    "ts": 1789118888.9048064
+  },
+  {
+    "id": "hive-brings-enterprise-veteran-scale-233612805.html",
+    "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
+    "tokens": [
+      "brings",
+      "business",
+      "buzz",
+      "cloud",
+      "enterprise",
+      "hive",
+      "hpc",
+      "scale",
+      "veteran"
+    ],
+    "ts": 1789118896.7034478
+  },
+  {
+    "id": "do-you-need-to-be-a-millionaire-to-retire-experts-weigh-in-on-the-15-rule-150323141.html",
+    "title": "Do you need to be a millionaire to retire? Experts weigh in on the 15% rule.",
+    "tokens": [
+      "experts",
+      "millionaire",
+      "need",
+      "retire",
+      "rule",
+      "weigh",
+      "you"
+    ],
+    "ts": 1789118903.939512
+  },
+  {
+    "id": "what-is-the-lean-fire-movement-143401919.html",
+    "title": "What is the 'Lean FIRE' movement, and how can it help you reach financial independence?",
+    "tokens": [
+      "can",
+      "financial",
+      "fire",
+      "help",
+      "how",
+      "independence",
+      "lean",
+      "movement",
+      "reach",
+      "what",
+      "you"
+    ],
+    "ts": 1789118912.5244846
   }
 ]

@@ -1,188 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/roper-technologies-at-goldman-sachs-conference-ai-and-deal-discipline-93CH-4894373",
-    "title": "Roper Technologies at Goldman Sachs conference: ai and deal discipline",
-    "tokens": [
-      "conference",
-      "deal",
-      "discipline",
-      "goldman",
-      "roper",
-      "sachs",
-      "technologies"
-    ],
-    "ts": 1788981978.1047368
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/concentra-at-wells-fargo-21st-annual-healthcare-conference-succession-and-growth-93CH-4894371",
-    "title": "Concentra at Wells Fargo 21st Annual Healthcare Conference: succession and growth",
-    "tokens": [
-      "21st",
-      "annual",
-      "concentra",
-      "conference",
-      "fargo",
-      "growth",
-      "healthcare",
-      "succession",
-      "wells"
-    ],
-    "ts": 1788981982.1213102
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lloyd-doggett-from-texass-37th-district-purchases-procter--gamble-stocks-93CH-4894370",
-    "title": "Lloyd Doggett from Texas’s 37th district purchases Procter & Gamble stocks",
-    "tokens": [
-      "37th",
-      "district",
-      "doggett",
-      "gamble",
-      "lloyd",
-      "procter",
-      "purchases",
-      "stocks",
-      "texas"
-    ],
-    "ts": 1788981986.0583525
-  },
-  {
-    "id": "svrn-shares-rise-14-7-101720403.html",
-    "title": "SVRN Shares Rise 14.7% Premarket With No New Catalyst Identified",
-    "tokens": [
-      "catalyst",
-      "identified",
-      "premarket",
-      "rise",
-      "shares",
-      "svrn"
-    ],
-    "ts": 1788981993.3198545
-  },
-  {
-    "id": "amazon-meta-among-hyper-5-102400831.html",
-    "title": "Amazon, Meta among ‘Hyper 5’ facing AI cash-flow test",
-    "tokens": [
-      "amazon",
-      "among",
-      "cash",
-      "facing",
-      "flow",
-      "hyper",
-      "meta",
-      "test"
-    ],
-    "ts": 1788982000.8681102
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jefferies-winds-down-outsourced-fixedincome-trading-unit--bloomberg-93CH-4894396",
-    "title": "Jefferies winds down outsourced fixed-income trading unit - Bloomberg",
-    "tokens": [
-      "bloomberg",
-      "fixed",
-      "income",
-      "jefferies",
-      "outsourced",
-      "trading",
-      "unit",
-      "winds"
-    ],
-    "ts": 1788982686.1836982
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/workiva-at-citis-2026-global-tmt-conference-ai-and-growth-93CH-4894395",
-    "title": "Workiva at Citi’s 2026 Global TMT Conference: AI and growth",
-    "tokens": [
-      "2026",
-      "citi",
-      "conference",
-      "global",
-      "growth",
-      "tmt",
-      "workiva"
-    ],
-    "ts": 1788982690.1991487
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/maxlinear-at-citis-2026-global-tmt-conference-data-center-growth-builds-93CH-4894394",
-    "title": "MaxLinear at Citi’s 2026 Global TMT Conference: data center growth builds",
-    "tokens": [
-      "2026",
-      "builds",
-      "center",
-      "citi",
-      "conference",
-      "data",
-      "global",
-      "growth",
-      "maxlinear",
-      "tmt"
-    ],
-    "ts": 1788982699.2474477
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/enbridge-in-talks-to-buy-pony-express-pipeline-for-2-billion--bloomberg-93CH-4894392",
-    "title": "Enbridge in talks to buy Pony Express Pipeline for $2 billion - Bloomberg",
-    "tokens": [
-      "billion",
-      "bloomberg",
-      "buy",
-      "enbridge",
-      "express",
-      "pipeline",
-      "pony",
-      "talks"
-    ],
-    "ts": 1788982706.5548043
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/camp4-therapeutics-at-cantor-conference-pushing-first-syngap1-trial-93CH-4894391",
-    "title": "Camp4 Therapeutics at Cantor conference: pushing first SYNGAP1 trial",
-    "tokens": [
-      "camp4",
-      "cantor",
-      "conference",
-      "first",
-      "pushing",
-      "syngap1",
-      "therapeutics",
-      "trial"
-    ],
-    "ts": 1788982714.3865957
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/dte-energy-co-pref-series-e-stock-hits-52week-low-at-1911-usd-93CH-4894390",
-    "title": "DTE Energy Co Pref Series E stock hits 52-week low at 19.11 USD",
-    "tokens": [
-      "dte",
-      "energy",
-      "hits",
-      "low",
-      "pref",
-      "series",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1788982721.6275194
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/harrow-at-cantor-healthcare-conference-long-view-bigger-eyecare-bet-93CH-4894389",
-    "title": "Harrow at Cantor healthcare conference: long view, bigger eye-care bet",
-    "tokens": [
-      "bet",
-      "bigger",
-      "cantor",
-      "care",
-      "conference",
-      "eye",
-      "harrow",
-      "healthcare",
-      "long",
-      "view"
-    ],
-    "ts": 1788982728.7850666
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/servicenow-at-goldman-sachs-conference-ai-and-security-push-deepens-93CH-4894386",
     "title": "ServiceNow at Goldman Sachs conference: AI and security push deepens",
     "tokens": [
@@ -23144,5 +22961,184 @@
       "yields"
     ],
     "ts": 1789126073.0035002
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/micron-offers-taiwan-workers-up-to-68month-bonuses-as-strike-threat-looms-4897688",
+    "title": "Micron offers Taiwan workers up to 68-month bonuses as strike threat looms",
+    "tokens": [
+      "bonuses",
+      "looms",
+      "micron",
+      "month",
+      "offers",
+      "strike",
+      "taiwan",
+      "threat",
+      "workers"
+    ],
+    "ts": 1789126880.8074243
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/fiinu-shareholders-reject-ceo-removal-governance-review-proposals-93CH-4897689",
+    "title": "Fiinu shareholders reject CEO removal, governance review proposals",
+    "tokens": [
+      "ceo",
+      "fiinu",
+      "governance",
+      "proposals",
+      "reject",
+      "removal",
+      "review",
+      "shareholders"
+    ],
+    "ts": 1789126888.721446
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-equity-funds-record-ninemonth-high-outflows-as-oil-stokes-inflation-fears-4897684",
+    "title": "US equity funds record nine-month high outflows as oil stokes inflation fears",
+    "tokens": [
+      "equity",
+      "fears",
+      "funds",
+      "high",
+      "inflation",
+      "month",
+      "nine",
+      "oil",
+      "outflows",
+      "record",
+      "stokes"
+    ],
+    "ts": 1789126898.640119
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/premarket-movers-oracle-surges-on-ai-growth-acv-auctions-jumps-on-19b-deal-4897616",
+    "title": "Premarket movers: Oracle surges on AI growth, ACV auctions jumps on $1.9B deal",
+    "tokens": [
+      "acv",
+      "auctions",
+      "deal",
+      "growth",
+      "jumps",
+      "movers",
+      "oracle",
+      "premarket",
+      "surges"
+    ],
+    "ts": 1789126908.7768571
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-hooker-furniture-stock-surging-today-93CH-4897671",
+    "title": "Why is Hooker Furniture stock surging today?",
+    "tokens": [
+      "furniture",
+      "hooker",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789126918.1159909
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
+    "title": "Investors brace for possible rate hike at uncertain Fed meeting",
+    "tokens": [
+      "brace",
+      "fed",
+      "hike",
+      "investors",
+      "meeting",
+      "possible",
+      "rate",
+      "uncertain"
+    ],
+    "ts": 1789126926.4789793
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/needham-raises-servicenow-stock-price-target-on-ai-positioning-93CH-4897665",
+    "title": "Needham raises ServiceNow stock price target on AI positioning",
+    "tokens": [
+      "needham",
+      "positioning",
+      "price",
+      "raises",
+      "servicenow",
+      "stock",
+      "target"
+    ],
+    "ts": 1789126935.2947724
+  },
+  {
+    "id": "https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-spotted-civistas-66-gain-in-2024-93CH-4897663",
+    "title": "How InvestingPro’s Fair Value spotted Civista’s 66% gain in 2024",
+    "tokens": [
+      "2024",
+      "civista",
+      "fair",
+      "gain",
+      "how",
+      "investingpro",
+      "spotted",
+      "value"
+    ],
+    "ts": 1789126944.9221385
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-kroger-stock-sliding-today-93CH-4897662",
+    "title": "Why is Kroger stock sliding today?",
+    "tokens": [
+      "kroger",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789126948.9371083
+  },
+  {
+    "id": "academy-sports-aso-rockets-14-004715929.html",
+    "title": "Academy Sports (ASO) Rockets 14% on Solid Q2 Despite Consumer Spending Tests",
+    "tokens": [
+      "academy",
+      "aso",
+      "consumer",
+      "despite",
+      "rockets",
+      "solid",
+      "spending",
+      "sports",
+      "tests"
+    ],
+    "ts": 1789126954.5681026
+  },
+  {
+    "id": "enbridge-buy-tallgrass-crude-pipeline-013000983.html",
+    "title": "Enbridge to Buy Tallgrass Crude Pipeline Business for $2.55 Billion",
+    "tokens": [
+      "billion",
+      "business",
+      "buy",
+      "crude",
+      "enbridge",
+      "pipeline",
+      "tallgrass"
+    ],
+    "ts": 1789126958.5830643
+  },
+  {
+    "id": "oilprice-news-45465",
+    "title": "OPEC Sees Oil Demand Growth Explode Sixfold in 2027",
+    "tokens": [
+      "2027",
+      "demand",
+      "explode",
+      "growth",
+      "oil",
+      "opec",
+      "sees",
+      "sixfold"
+    ],
+    "ts": 1789126959.2833138
   }
 ]

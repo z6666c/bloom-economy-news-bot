@@ -1,86 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-raises-united-community-banks-stock-price-target-on-earnings-outlook-93CH-4894008",
-    "title": "DA Davidson raises United Community Banks stock price target on earnings outlook",
-    "tokens": [
-      "banks",
-      "community",
-      "davidson",
-      "earnings",
-      "outlook",
-      "price",
-      "raises",
-      "stock",
-      "target",
-      "united"
-    ],
-    "ts": 1788965253.168843
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-franklin-electric-stock-rating-after-acquisition-93CH-4894007",
-    "title": "D.A. Davidson reiterates Franklin Electric stock rating after acquisition",
-    "tokens": [
-      "acquisition",
-      "davidson",
-      "electric",
-      "franklin",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1788965266.8187916
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-raises-eagle-financial-services-stock-price-target-on-sale-agreement-93CH-4894006",
-    "title": "DA Davidson raises Eagle Financial Services stock price target on sale agreement",
-    "tokens": [
-      "agreement",
-      "davidson",
-      "eagle",
-      "financial",
-      "price",
-      "raises",
-      "sale",
-      "services",
-      "stock",
-      "target"
-    ],
-    "ts": 1788965275.2434518
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-washington-federal-stock-price-target-on-merger-execution-risks-93CH-4894005",
-    "title": "DA Davidson cuts Washington Federal stock price target on merger execution risks",
-    "tokens": [
-      "cuts",
-      "davidson",
-      "execution",
-      "federal",
-      "merger",
-      "price",
-      "risks",
-      "stock",
-      "target",
-      "washington"
-    ],
-    "ts": 1788965283.6543522
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-crane-nxt-stock-rating-on-fed-print-order-93CH-4894004",
-    "title": "D.A. Davidson reiterates Crane NXT stock rating on Fed print order",
-    "tokens": [
-      "crane",
-      "davidson",
-      "fed",
-      "nxt",
-      "order",
-      "print",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1788965292.777391
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/janus-international-at-jefferies-global-industrials-conference-2026-growth-bets-93CH-4894003",
     "title": "Janus International at Jefferies Global Industrials Conference 2026: growth bets",
     "tokens": [
@@ -23191,5 +23110,84 @@
       "won"
     ],
     "ts": 1789105266.155899
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/saudi-crown-prince-urged-trump-to-strike-houthis-but-trump-declined-axios-4897223",
+    "title": "Saudi Crown Prince urged Trump to strike Houthis, but Trump declined: Axios",
+    "tokens": [
+      "axios",
+      "crown",
+      "declined",
+      "houthis",
+      "prince",
+      "saudi",
+      "strike",
+      "trump",
+      "urged"
+    ],
+    "ts": 1789105966.8274086
+  },
+  {
+    "id": "credo-selloff-could-huge-buying-180005171.html",
+    "title": "The Credo Selloff Could Be a Huge Buying Opportunity: Analysts Still See $300+.",
+    "tokens": [
+      "300",
+      "analysts",
+      "buying",
+      "could",
+      "credo",
+      "huge",
+      "opportunity",
+      "see",
+      "selloff",
+      "still"
+    ],
+    "ts": 1789105975.285272
+  },
+  {
+    "id": "voo-vs-qqq-popular-etf-181139875.html",
+    "title": "VOO vs. QQQ: Which Popular ETF Is Right for Your Portfolio in 2026?",
+    "tokens": [
+      "2026",
+      "etf",
+      "popular",
+      "portfolio",
+      "qqq",
+      "right",
+      "voo",
+      "which",
+      "your"
+    ],
+    "ts": 1789105983.8430967
+  },
+  {
+    "id": "built-locomotives-30-years-railroad-180310048.html",
+    "title": "He Built Locomotives for 30 Years. The Railroad Retirement Board Said He Never Worked for a Railroad.",
+    "tokens": [
+      "board",
+      "built",
+      "locomotives",
+      "never",
+      "railroad",
+      "retirement",
+      "worked",
+      "years"
+    ],
+    "ts": 1789105992.827602
+  },
+  {
+    "id": "crypto-etfs-2026-bitcoin-ethereum-181003287.html",
+    "title": "Crypto ETFs in 2026: Bitcoin, Ethereum and the Altcoin Wave Explained",
+    "tokens": [
+      "2026",
+      "altcoin",
+      "bitcoin",
+      "crypto",
+      "etfs",
+      "ethereum",
+      "explained",
+      "wave"
+    ],
+    "ts": 1789106000.993815
   }
 ]

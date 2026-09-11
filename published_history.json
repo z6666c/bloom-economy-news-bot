@@ -1,122 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/bkv-prices-upsized-500m-convertible-notes-offering-93CH-4894883",
-    "title": "BKV prices upsized $500M convertible notes offering",
-    "tokens": [
-      "500m",
-      "bkv",
-      "convertible",
-      "notes",
-      "offering",
-      "prices",
-      "upsized"
-    ],
-    "ts": 1789008354.4037092
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/mastercard-launches-wallet-pay-for-digital-payment-interoperability-93CH-4894882",
-    "title": "Mastercard launches Wallet Pay for digital payment interoperability",
-    "tokens": [
-      "digital",
-      "interoperability",
-      "launches",
-      "mastercard",
-      "pay",
-      "payment",
-      "wallet"
-    ],
-    "ts": 1789008361.5084476
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/centrus-energy-prices-500-million-stock-and-warrant-offering-93CH-4894881",
-    "title": "Centrus Energy prices $500 million stock and warrant offering",
-    "tokens": [
-      "500",
-      "centrus",
-      "energy",
-      "million",
-      "offering",
-      "prices",
-      "stock",
-      "warrant"
-    ],
-    "ts": 1789008368.4609623
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hagerty-prices-upsized-secondary-offering-at-1195-per-share-93CH-4894879",
-    "title": "Hagerty prices upsized secondary offering at $11.95 per share",
-    "tokens": [
-      "hagerty",
-      "offering",
-      "per",
-      "prices",
-      "secondary",
-      "share",
-      "upsized"
-    ],
-    "ts": 1789008375.6322787
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trump-promises5000-payout-to-us-adults-if-republicans-win-election-4894880",
-    "title": "Trump promises $5,000 payout to U.S. adults if Republicans win election",
-    "tokens": [
-      "000",
-      "adults",
-      "election",
-      "payout",
-      "promises",
-      "republicans",
-      "trump",
-      "win"
-    ],
-    "ts": 1789008382.4906337
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/california-bancorp-director-muller-buys-9958-in-shares-93CH-4894872",
-    "title": "California Bancorp director Muller buys $9,958 in shares",
-    "tokens": [
-      "958",
-      "bancorp",
-      "buys",
-      "california",
-      "director",
-      "muller",
-      "shares"
-    ],
-    "ts": 1789008389.5150745
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/lazboy-director-janet-kerr-sells-115999-in-company-stock-93CH-4894871",
-    "title": "La-Z-Boy director Janet Kerr sells $115,999 in company stock",
-    "tokens": [
-      "115",
-      "999",
-      "boy",
-      "company",
-      "director",
-      "janet",
-      "kerr",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789008396.735297
-  },
-  {
-    "id": "amd-something-nvidia-doesn-t-150032197.html",
-    "title": "AMD Has Something Nvidia Doesn’t. Is the Stock Finally Ready to Break Out?",
-    "tokens": [
-      "amd",
-      "break",
-      "doesn",
-      "finally",
-      "nvidia",
-      "ready",
-      "something",
-      "stock"
-    ],
-    "ts": 1789008403.3364975
-  },
-  {
     "id": "truist-financial-stock-tfc-outperforming-150054524.html",
     "title": "Truist Financial Stock: Is TFC Outperforming the Financial Sector?",
     "tokens": [
@@ -23078,5 +22961,124 @@
       "treasuries"
     ],
     "ts": 1789151544.4368806
+  },
+  {
+    "id": "WP-MKTW-0005228812",
+    "title": "Are AI-written resumes more likely to get you a job? The answer may surprise you.",
+    "tokens": [
+      "answer",
+      "get",
+      "job",
+      "likely",
+      "may",
+      "more",
+      "resumes",
+      "surprise",
+      "written",
+      "you"
+    ],
+    "ts": 1789152740.7224028
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-alphatec-holdings-stock-surging-today-93CH-4898329",
+    "title": "Why is Alphatec Holdings stock surging today?",
+    "tokens": [
+      "alphatec",
+      "holdings",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789152744.9047737
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-tenable-stock-sliding-today-93CH-4898328",
+    "title": "Why is Tenable stock sliding today?",
+    "tokens": [
+      "sliding",
+      "stock",
+      "tenable",
+      "today",
+      "why"
+    ],
+    "ts": 1789152744.9162796
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/saudi-arabia-shuts-eastwest-pipeline-after-attacks-93CH-4898327",
+    "title": "Saudi Arabia shuts East-West Pipeline after attacks",
+    "tokens": [
+      "arabia",
+      "attacks",
+      "east",
+      "pipeline",
+      "saudi",
+      "shuts",
+      "west"
+    ],
+    "ts": 1789152749.9694188
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-butler-national-posts-strong-q1-2027-growth-as-stock-jumps-93CH-4898326",
+    "title": "Earnings call transcript: Butler National posts strong Q1 2027 growth as stock jumps",
+    "tokens": [
+      "2027",
+      "butler",
+      "call",
+      "earnings",
+      "growth",
+      "jumps",
+      "national",
+      "posts",
+      "stock",
+      "strong",
+      "transcript"
+    ],
+    "ts": 1789152760.1438663
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/brazils-marcelo-kayath-would-be-strong-pick-for-finance-ministry-eduardo-bolsonaro-says-4898324",
+    "title": "Brazil’s Marcelo Kayath would be strong pick for Finance Ministry, Eduardo Bolsonaro says",
+    "tokens": [
+      "bolsonaro",
+      "brazil",
+      "eduardo",
+      "finance",
+      "kayath",
+      "marcelo",
+      "ministry",
+      "pick",
+      "strong",
+      "would"
+    ],
+    "ts": 1789152768.730574
+  },
+  {
+    "id": "india-calls-bigger-biofuel-push-093000849.html",
+    "title": "India Calls for Bigger Biofuel Push as Oil Prices Soar",
+    "tokens": [
+      "bigger",
+      "biofuel",
+      "calls",
+      "india",
+      "oil",
+      "prices",
+      "push",
+      "soar"
+    ],
+    "ts": 1789152777.8928018
+  },
+  {
+    "id": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner",
+    "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+    "tokens": [
+      "biggest",
+      "hyperliquid",
+      "neuner",
+      "ran",
+      "regulation",
+      "risk"
+    ],
+    "ts": 1789152786.3846786
   }
 ]

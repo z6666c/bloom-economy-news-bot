@@ -1,216 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/mp-materials-at-jefferies-global-industrials-conference-2026-supply-chain-push-93CH-4894295",
-    "title": "MP Materials at Jefferies Global Industrials Conference 2026: supply chain push",
-    "tokens": [
-      "2026",
-      "chain",
-      "conference",
-      "global",
-      "industrials",
-      "jefferies",
-      "materials",
-      "push",
-      "supply"
-    ],
-    "ts": 1788977628.2866416
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/national-bank-of-canada-at-scotiabank-summit-growth-with-discipline-93CH-4894292",
-    "title": "National Bank of Canada at Scotiabank summit: growth with discipline",
-    "tokens": [
-      "bank",
-      "canada",
-      "discipline",
-      "growth",
-      "national",
-      "scotiabank",
-      "summit"
-    ],
-    "ts": 1788977637.2545469
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/us-eia-hikes-oil-price-forecasts-as-iran-war-drains-global-stockpile-4894291",
-    "title": "US EIA hikes oil price forecasts as Iran war drains global stockpile",
-    "tokens": [
-      "drains",
-      "eia",
-      "forecasts",
-      "global",
-      "hikes",
-      "iran",
-      "oil",
-      "price",
-      "stockpile",
-      "war"
-    ],
-    "ts": 1788977644.9100919
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/nuveen-california-div-advantag-muni-stock-hits-52week-low-at-1120-93CH-4894290",
-    "title": "Nuveen California Div Advantag Muni stock hits 52-week low at $11.20",
-    "tokens": [
-      "advantag",
-      "california",
-      "div",
-      "hits",
-      "low",
-      "muni",
-      "nuveen",
-      "stock",
-      "week"
-    ],
-    "ts": 1788977652.1950436
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/cormedix-at-wells-fargo-21st-annual-healthcare-conference-growth-risk-93CH-4894289",
-    "title": "CorMedix at Wells Fargo 21st annual healthcare conference: growth, risk",
-    "tokens": [
-      "21st",
-      "annual",
-      "conference",
-      "cormedix",
-      "fargo",
-      "growth",
-      "healthcare",
-      "risk",
-      "wells"
-    ],
-    "ts": 1788977659.9131243
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-natural-gas-supply-and-demand-to-hit-record-highs-in-2026-93CH-4894288",
-    "title": "US natural gas supply and demand to hit record highs in 2026",
-    "tokens": [
-      "2026",
-      "demand",
-      "gas",
-      "highs",
-      "hit",
-      "natural",
-      "record",
-      "supply"
-    ],
-    "ts": 1788977670.263476
-  },
-  {
-    "id": "netflix-good-buy-10-years-175000193.html",
-    "title": "Is Netflix a Good Buy? After 10 Years of Covering NFLX, Here's My Honest Answer.",
-    "tokens": [
-      "answer",
-      "buy",
-      "covering",
-      "good",
-      "here",
-      "honest",
-      "netflix",
-      "nflx",
-      "years"
-    ],
-    "ts": 1788977679.258382
-  },
-  {
-    "id": "inditex-breaks-records-still-gets-173958249.html",
-    "title": "Inditex Breaks Records and Still Gets Marked Down",
-    "tokens": [
-      "breaks",
-      "gets",
-      "inditex",
-      "marked",
-      "records",
-      "still"
-    ],
-    "ts": 1788977687.430233
-  },
-  {
-    "id": "core-main-inc-q2-2027-173606411.html",
-    "title": "Core & Main, Inc. Q2 2027 Earnings Call Summary",
-    "tokens": [
-      "2027",
-      "call",
-      "core",
-      "earnings",
-      "inc",
-      "main",
-      "summary"
-    ],
-    "ts": 1788977694.7174678
-  },
-  {
-    "id": "red-rock-resorts-chief-legal-175001236.html",
-    "title": "Red Rock Resorts Chief Legal Officer Sells 9,000 Shares",
-    "tokens": [
-      "000",
-      "chief",
-      "legal",
-      "officer",
-      "red",
-      "resorts",
-      "rock",
-      "sells",
-      "shares"
-    ],
-    "ts": 1788977701.686356
-  },
-  {
-    "id": "oilprice-article-45451",
-    "title": "U.S. Moves to Isolate Iran’s Aviation Sector From the Global Economy",
-    "tokens": [
-      "aviation",
-      "economy",
-      "global",
-      "iran",
-      "isolate",
-      "moves",
-      "sector"
-    ],
-    "ts": 1788977710.9518313
-  },
-  {
-    "id": "oilprice-news-45451",
-    "title": "Sinopec Sees China Oil Demand Falling 8.9% in 2026",
-    "tokens": [
-      "2026",
-      "china",
-      "demand",
-      "falling",
-      "oil",
-      "sees",
-      "sinopec"
-    ],
-    "ts": 1788977714.9702432
-  },
-  {
-    "id": "prediction-markets-putting-price-pharma-093229909.html",
-    "title": "Prediction markets are putting a price on pharma’s secrets. Here’s what companies need to know.",
-    "tokens": [
-      "companies",
-      "here",
-      "know",
-      "markets",
-      "need",
-      "pharma",
-      "prediction",
-      "price",
-      "putting",
-      "secrets",
-      "what"
-    ],
-    "ts": 1788978836.5841408
-  },
-  {
-    "id": "edwards-lifesciences-stock-underperforming-dow-092007959.html",
-    "title": "Is Edwards Lifesciences Stock Underperforming the Dow?",
-    "tokens": [
-      "dow",
-      "edwards",
-      "lifesciences",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1788978840.5967617
-  },
-  {
     "id": "ai-is-disrupting-software-companiesbut-not-as-fast-as-many-feared-a380443a?siteid=yhoof2&yptr=yahoo",
     "title": "AI Is Disrupting Software Companies—but Not as Fast as Many Feared",
     "tokens": [
@@ -23164,5 +22953,223 @@
       "wednesday"
     ],
     "ts": 1789121512.8980024
+  },
+  {
+    "id": "WP-MKTW-0005227699",
+    "title": "U.S. oil price dips below $100 while diesel passes $6, marking fresh record",
+    "tokens": [
+      "100",
+      "below",
+      "diesel",
+      "dips",
+      "fresh",
+      "marking",
+      "oil",
+      "passes",
+      "price",
+      "record",
+      "while"
+    ],
+    "ts": 1789122483.3634074
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-diagnostyka-posts-strong-h1-2026-growth-keeps-guidance-93CH-4897541",
+    "title": "Earnings call transcript: Diagnostyka posts strong H1 2026 growth, keeps guidance",
+    "tokens": [
+      "2026",
+      "call",
+      "diagnostyka",
+      "earnings",
+      "growth",
+      "guidance",
+      "keeps",
+      "posts",
+      "strong",
+      "transcript"
+    ],
+    "ts": 1789122492.366817
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-tsk-posts-stronger-h1-2026-profit-shares-fall-67-93CH-4897540",
+    "title": "Earnings call transcript: TSK posts stronger H1 2026 profit, shares fall 6.7%",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "fall",
+      "posts",
+      "profit",
+      "shares",
+      "stronger",
+      "transcript",
+      "tsk"
+    ],
+    "ts": 1789122496.3824472
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/trump-and-musk-super-pacs-unleash-millions-to-boost-republicans-in-battleground-races-4897512",
+    "title": "Trump and Musk super PACs unleash millions to boost Republicans in battleground races",
+    "tokens": [
+      "battleground",
+      "boost",
+      "millions",
+      "musk",
+      "pacs",
+      "races",
+      "republicans",
+      "super",
+      "trump",
+      "unleash"
+    ],
+    "ts": 1789122500.830522
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bayer-faces-pivotal-test-of-725-billion-roundup-settlement-in-missouri-court-4897509",
+    "title": "Bayer faces pivotal test of $7.25 billion Roundup settlement in Missouri court",
+    "tokens": [
+      "bayer",
+      "billion",
+      "court",
+      "faces",
+      "missouri",
+      "pivotal",
+      "roundup",
+      "settlement",
+      "test"
+    ],
+    "ts": 1789122509.4821215
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/joby-aviation-files-prospectus-supplement-for-resale-of-24-million-shares-93CH-4897537",
+    "title": "Joby Aviation files prospectus supplement for resale of 2.4 million shares",
+    "tokens": [
+      "aviation",
+      "files",
+      "joby",
+      "million",
+      "prospectus",
+      "resale",
+      "shares",
+      "supplement"
+    ],
+    "ts": 1789122517.5339417
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
+    "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
+    "tokens": [
+      "before",
+      "bilateral",
+      "deal",
+      "elections",
+      "mexico",
+      "sprint",
+      "toward",
+      "trade",
+      "washington"
+    ],
+    "ts": 1789122525.6959662
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-copart-stock-surging-today-93CH-4897535",
+    "title": "Why is Copart stock surging today?",
+    "tokens": [
+      "copart",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789122529.7123475
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/investors-pull-money-from-equity-funds-as-rising-oil-prices-fuel-inflation-fears-4897534",
+    "title": "Investors pull money from equity funds as rising oil prices fuel inflation fears",
+    "tokens": [
+      "equity",
+      "fears",
+      "fuel",
+      "funds",
+      "inflation",
+      "investors",
+      "money",
+      "oil",
+      "prices",
+      "pull",
+      "rising"
+    ],
+    "ts": 1789122534.8827069
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jmp-securities-maintains-oracle-stock-rating-on-strong-q1-results-93CH-4897526",
+    "title": "JMP Securities maintains Oracle stock rating on strong Q1 results",
+    "tokens": [
+      "jmp",
+      "maintains",
+      "oracle",
+      "rating",
+      "results",
+      "securities",
+      "stock",
+      "strong"
+    ],
+    "ts": 1789122542.9179046
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/liberty-global-invests-in-positron-ais-875m-funding-round-93CH-4897513",
+    "title": "Liberty Global invests in Positron AI’s $875m funding round",
+    "tokens": [
+      "875m",
+      "funding",
+      "global",
+      "invests",
+      "liberty",
+      "positron",
+      "round"
+    ],
+    "ts": 1789122551.1464102
+  },
+  {
+    "id": "servicetitan-ttan-bets-max-despite-223544402.html",
+    "title": "ServiceTitan (TTAN) Bets on Max Despite Near-Term Headwinds",
+    "tokens": [
+      "bets",
+      "despite",
+      "headwinds",
+      "max",
+      "near",
+      "servicetitan",
+      "term",
+      "ttan"
+    ],
+    "ts": 1789122558.900308
+  },
+  {
+    "id": "investors-brush-off-bessent-surge-223728624.html",
+    "title": "Investors Brush Off Bessent’s Surge in Buybacks",
+    "tokens": [
+      "bessent",
+      "brush",
+      "buybacks",
+      "investors",
+      "off",
+      "surge"
+    ],
+    "ts": 1789122566.9908373
+  },
+  {
+    "id": "dd1c1751-0c87-4025-832e-3a1830ba3081",
+    "title": "Bitcoin pulls back as another golden cross fails to deliver",
+    "tokens": [
+      "another",
+      "back",
+      "bitcoin",
+      "cross",
+      "deliver",
+      "fails",
+      "golden",
+      "pulls"
+    ],
+    "ts": 1789122577.0044339
   }
 ]

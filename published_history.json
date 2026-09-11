@@ -1,227 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/baker-hughes-raises-annual-forecasts-after-chart-acquisition-4893762",
-    "title": "Baker Hughes raises annual forecasts after Chart acquisition",
-    "tokens": [
-      "acquisition",
-      "annual",
-      "baker",
-      "chart",
-      "forecasts",
-      "hughes",
-      "raises"
-    ],
-    "ts": 1788961356.9835677
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/microvision-unit-wins-government-contractor-semiconductor-deal-93CH-4893761",
-    "title": "MicroVision unit wins government contractor semiconductor deal",
-    "tokens": [
-      "contractor",
-      "deal",
-      "government",
-      "microvision",
-      "semiconductor",
-      "unit",
-      "wins"
-    ],
-    "ts": 1788961366.5386539
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/tractor-supply-at-barclays-conference-growth-bets-amid-pressure-93CH-4893760",
-    "title": "Tractor Supply at Barclays conference: growth bets amid pressure",
-    "tokens": [
-      "barclays",
-      "bets",
-      "conference",
-      "growth",
-      "pressure",
-      "supply",
-      "tractor"
-    ],
-    "ts": 1788961377.8240862
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/corn-futures-decline-ahead-of-usda-supply-report-on-friday-93CH-4893759",
-    "title": "Corn futures decline ahead of USDA supply report on Friday",
-    "tokens": [
-      "ahead",
-      "corn",
-      "decline",
-      "friday",
-      "futures",
-      "report",
-      "supply",
-      "usda"
-    ],
-    "ts": 1788961387.3387434
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-nanox-imaging-q2-2026-revenue-miss-sparks-sharp-premarket-drop-93CH-4893758",
-    "title": "Earnings call transcript: Nano-X Imaging Q2 2026 revenue miss sparks sharp premarket drop",
-    "tokens": [
-      "2026",
-      "call",
-      "drop",
-      "earnings",
-      "imaging",
-      "miss",
-      "nano",
-      "premarket",
-      "revenue",
-      "sharp",
-      "sparks",
-      "transcript"
-    ],
-    "ts": 1788961399.6551623
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/oddity-q2-2026-slides-revenue-plunges-25-amid-ad-disruption-93CH-4893757",
-    "title": "Oddity Q2 2026 slides: revenue plunges 25% amid ad disruption",
-    "tokens": [
-      "2026",
-      "disruption",
-      "oddity",
-      "plunges",
-      "revenue",
-      "slides"
-    ],
-    "ts": 1788961408.0591078
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/fastly-at-citis-2026-global-tmt-conference-edge-push-gains-traction-93CH-4893753",
-    "title": "Fastly at Citi’s 2026 Global TMT Conference: edge push gains traction",
-    "tokens": [
-      "2026",
-      "citi",
-      "conference",
-      "edge",
-      "fastly",
-      "gains",
-      "global",
-      "push",
-      "tmt",
-      "traction"
-    ],
-    "ts": 1788961418.0739439
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/figure-technology-stock-jumps-after-bofa-upgrade-to-neutral-93CH-4893751",
-    "title": "Figure Technology stock jumps after BofA upgrade to neutral",
-    "tokens": [
-      "bofa",
-      "figure",
-      "jumps",
-      "neutral",
-      "stock",
-      "technology",
-      "upgrade"
-    ],
-    "ts": 1788961427.782158
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bernstein-cuts-lowes-stock-price-target-on-delayed-home-improvement-recovery-93CH-4893752",
-    "title": "Bernstein cuts Lowe’s stock price target on delayed home improvement recovery",
-    "tokens": [
-      "bernstein",
-      "cuts",
-      "delayed",
-      "home",
-      "improvement",
-      "lowe",
-      "price",
-      "recovery",
-      "stock",
-      "target"
-    ],
-    "ts": 1788961437.2941637
-  },
-  {
-    "id": "realizing-gains-mongodb-mdb-competitive-132014627.html",
-    "title": "Realizing Gains as MongoDB’s (MDB) Competitive Landscape Shifts",
-    "tokens": [
-      "competitive",
-      "gains",
-      "landscape",
-      "mdb",
-      "mongodb",
-      "realizing",
-      "shifts"
-    ],
-    "ts": 1788961445.8186438
-  },
-  {
-    "id": "why-artisan-reduced-stake-everpure-131322082.html",
-    "title": "Here’s Why Artisan Reduced Its Stake in Everpure (P)",
-    "tokens": [
-      "artisan",
-      "everpure",
-      "here",
-      "reduced",
-      "stake",
-      "why"
-    ],
-    "ts": 1788961456.8934517
-  },
-  {
-    "id": "leveraged-loan-issuer-earnings-growth-130937469.html",
-    "title": "Leveraged loan issuer earnings growth persists, despite AI spending fears",
-    "tokens": [
-      "despite",
-      "earnings",
-      "fears",
-      "growth",
-      "issuer",
-      "leveraged",
-      "loan",
-      "persists",
-      "spending"
-    ],
-    "ts": 1788961466.4264185
-  },
-  {
-    "id": "executive-waves-goodbye-more-6-132501500.html",
-    "title": "Executive Waves Goodbye to More Than 6,000 Shares of Legendary Insurance Stock",
-    "tokens": [
-      "000",
-      "executive",
-      "goodbye",
-      "insurance",
-      "legendary",
-      "more",
-      "shares",
-      "stock",
-      "waves"
-    ],
-    "ts": 1788961474.4748592
-  },
-  {
-    "id": "trimming-cummins-cmi-taking-profits-130701556.html",
-    "title": "Trimming Cummins (CMI): Taking Profits in a Top Industrials Performer",
-    "tokens": [
-      "cmi",
-      "cummins",
-      "industrials",
-      "performer",
-      "profits",
-      "taking",
-      "top",
-      "trimming"
-    ],
-    "ts": 1788961482.6730464
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries",
-    "title": "10 of the greatest unsolved crypto mysteries",
-    "tokens": [
-      "crypto",
-      "greatest",
-      "mysteries",
-      "unsolved"
-    ],
-    "ts": 1788961492.7605531
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-signet-jewelers-q2-2026-beats-on-profit-raises-outlook-93CH-4893873",
     "title": "Earnings call transcript: Signet Jewelers Q2 2026 beats on profit, raises outlook",
     "tokens": [
@@ -23166,5 +22944,230 @@
       "stock"
     ],
     "ts": 1789095331.379539
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/boj-set-to-lift-rates-next-week-but-offer-few-clues-on-terminal-sources-say-4897189",
+    "title": "BOJ set to lift rates next week but offer few clues on terminal, sources say",
+    "tokens": [
+      "boj",
+      "clues",
+      "few",
+      "lift",
+      "next",
+      "offer",
+      "rates",
+      "say",
+      "set",
+      "sources",
+      "terminal",
+      "week"
+    ],
+    "ts": 1789096281.2818983
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/samsung-qualcomm-delay-2nm-chip-deal-as-price-talks-drag-the-bell-4897170",
+    "title": "Samsung, Qualcomm delay 2nm chip deal as price talks drag- The Bell",
+    "tokens": [
+      "2nm",
+      "bell",
+      "chip",
+      "deal",
+      "delay",
+      "drag",
+      "price",
+      "qualcomm",
+      "samsung",
+      "talks"
+    ],
+    "ts": 1789096289.48234
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-sliding-today-93CH-4897186",
+    "title": "Why is Samsung Electronics stock sliding today?",
+    "tokens": [
+      "electronics",
+      "samsung",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789096297.5119545
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4897185",
+    "title": "Why is SK Hynix stock sliding today?",
+    "tokens": [
+      "hynix",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789096301.5272627
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/japan-to-maintain-close-communication-with-us-on-currency-markets-katayama-says-4897184",
+    "title": "Japan to maintain close communication with US on currency markets, Katayama says",
+    "tokens": [
+      "close",
+      "communication",
+      "currency",
+      "japan",
+      "katayama",
+      "maintain",
+      "markets"
+    ],
+    "ts": 1789096304.9355938
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/altman-tells-staff-openai-is-open-to-slowing-ai-development-bloomberg-news-reports-4897183",
+    "title": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports",
+    "tokens": [
+      "altman",
+      "bloomberg",
+      "development",
+      "news",
+      "open",
+      "openai",
+      "reports",
+      "slowing",
+      "staff",
+      "tells"
+    ],
+    "ts": 1789096314.5953808
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/japan-core-inflation-seen-steady-at-18-in-august-reuters-poll-4897182",
+    "title": "Japan core inflation seen steady at 1.8% in August: Reuters poll",
+    "tokens": [
+      "august",
+      "core",
+      "inflation",
+      "japan",
+      "poll",
+      "reuters",
+      "seen",
+      "steady"
+    ],
+    "ts": 1789096322.415565
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/california-enacts-new-curbs-on-social-media-for-children-4897174",
+    "title": "California enacts new curbs on social media for children",
+    "tokens": [
+      "california",
+      "children",
+      "curbs",
+      "enacts",
+      "media",
+      "social"
+    ],
+    "ts": 1789096330.6108148
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/texas-judge-rules-tiktok-misled-users-on-child-safety-feature-4897180",
+    "title": "Texas judge rules TikTok misled users on child safety feature",
+    "tokens": [
+      "child",
+      "feature",
+      "judge",
+      "misled",
+      "rules",
+      "safety",
+      "texas",
+      "tiktok",
+      "users"
+    ],
+    "ts": 1789096338.382538
+  },
+  {
+    "id": "pho-extends-uk-delivery-partnership-150149747.html",
+    "title": "Pho extends UK delivery partnership with Deliveroo",
+    "tokens": [
+      "deliveroo",
+      "delivery",
+      "extends",
+      "partnership",
+      "pho"
+    ],
+    "ts": 1789096346.411689
+  },
+  {
+    "id": "greg-abel-says-berkshire-bullish-151308100.html",
+    "title": "Greg Abel Says Berkshire Is Bullish on Hyperscaler Stocks as It Doubles Down on Google",
+    "tokens": [
+      "abel",
+      "berkshire",
+      "bullish",
+      "doubles",
+      "google",
+      "greg",
+      "hyperscaler",
+      "stocks"
+    ],
+    "ts": 1789096354.7734575
+  },
+  {
+    "id": "stocks-bonds-fall-crude-oil-151630911.html",
+    "title": "Stocks and Bonds Fall as Crude Oil Surges",
+    "tokens": [
+      "bonds",
+      "crude",
+      "fall",
+      "oil",
+      "stocks",
+      "surges"
+    ],
+    "ts": 1789096362.9543421
+  },
+  {
+    "id": "caseys-shares-slide-despite-earnings-150200709.html",
+    "title": "Casey's shares slide despite earnings beat as inside sales growth disappoints",
+    "tokens": [
+      "beat",
+      "casey",
+      "despite",
+      "disappoints",
+      "earnings",
+      "growth",
+      "inside",
+      "sales",
+      "shares",
+      "slide"
+    ],
+    "ts": 1789096370.2564898
+  },
+  {
+    "id": "live-cattle-prices-moving-just-152026043.html",
+    "title": "Live Cattle Prices Are Moving Up and Just Hit a 2-Week High",
+    "tokens": [
+      "cattle",
+      "high",
+      "hit",
+      "just",
+      "live",
+      "moving",
+      "prices",
+      "week"
+    ],
+    "ts": 1789096378.4109037
+  },
+  {
+    "id": "jersey-mike-profit-falls-third-152150828.html",
+    "title": "Jersey Mike’s Profit Falls a Third in First Public Quarter, But It’s Not All Bad",
+    "tokens": [
+      "all",
+      "bad",
+      "falls",
+      "first",
+      "jersey",
+      "mike",
+      "profit",
+      "public",
+      "quarter",
+      "third"
+    ],
+    "ts": 1789096386.2339952
   }
 ]

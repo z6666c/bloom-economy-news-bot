@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/piper-sandler-initiates-qualcomm-stock-coverage-citing-ai-growth-93CH-4895387",
-    "title": "Piper Sandler initiates Qualcomm stock coverage citing AI growth",
-    "tokens": [
-      "citing",
-      "coverage",
-      "growth",
-      "initiates",
-      "piper",
-      "qualcomm",
-      "sandler",
-      "stock"
-    ],
-    "ts": 1789036135.8275068
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/piper-sandler-initiates-marvell-stock-with-overweight-rating-on-datacenter-growth-93CH-4895386",
     "title": "Piper Sandler initiates Marvell stock with overweight rating on datacenter growth",
     "tokens": [
@@ -23228,5 +23213,22 @@
       "stock"
     ],
     "ts": 1789188103.111169
+  },
+  {
+    "id": "higher-oil-prices-let-mexico-220000091.html",
+    "title": "Higher Oil Prices Let Mexico Pull Back Billions in Pemex Support",
+    "tokens": [
+      "back",
+      "billions",
+      "higher",
+      "let",
+      "mexico",
+      "oil",
+      "pemex",
+      "prices",
+      "pull",
+      "support"
+    ],
+    "ts": 1789188739.0332599
   }
 ]

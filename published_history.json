@@ -1,33 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/hub-cyber-security-executes-1for25-reverse-stock-split-93CH-4895896",
-    "title": "Hub Cyber Security executes 1-for-25 reverse stock split",
-    "tokens": [
-      "cyber",
-      "executes",
-      "hub",
-      "reverse",
-      "security",
-      "split",
-      "stock"
-    ],
-    "ts": 1789045055.9524207
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/atlasclear-signs-sixth-correspondent-brokerdealer-agreement-93CH-4895897",
-    "title": "AtlasClear signs sixth correspondent broker-dealer agreement",
-    "tokens": [
-      "agreement",
-      "atlasclear",
-      "broker",
-      "correspondent",
-      "dealer",
-      "signs",
-      "sixth"
-    ],
-    "ts": 1789045063.5483177
-  },
-  {
     "id": "https://www.investing.com/news/company-news/smith-micro-secures-multiyear-deal-with-major-us-carrier-93CH-4895895",
     "title": "Smith Micro secures multi-year deal with major U.S. carrier",
     "tokens": [
@@ -23263,5 +23235,33 @@
       "why"
     ],
     "ts": 1789225862.0476274
+  },
+  {
+    "id": "prediction-synopsys-could-next-ai-150016496.html",
+    "title": "Prediction: Synopsys Could Be The Next AI Winner",
+    "tokens": [
+      "could",
+      "next",
+      "prediction",
+      "synopsys",
+      "winner"
+    ],
+    "ts": 1789226690.3992872
+  },
+  {
+    "id": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters",
+    "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
+    "tokens": [
+      "10b",
+      "anthropic",
+      "considers",
+      "investment",
+      "ipo",
+      "nvidia",
+      "potential",
+      "record",
+      "reuters"
+    ],
+    "ts": 1789226700.312377
   }
 ]

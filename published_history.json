@@ -1,93 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/bernstein-initiates-xpo-stock-coverage-with-outperform-rating-93CH-4895238",
-    "title": "Bernstein initiates XPO stock coverage with outperform rating",
-    "tokens": [
-      "bernstein",
-      "coverage",
-      "initiates",
-      "outperform",
-      "rating",
-      "stock",
-      "xpo"
-    ],
-    "ts": 1789032580.9364862
-  },
-  {
-    "id": "basic-materials-roundup-market-talk-f5a5d4be?siteid=yhoof2&yptr=yahoo",
-    "title": "Basic Materials Roundup: Market Talk",
-    "tokens": [
-      "basic",
-      "market",
-      "materials",
-      "roundup",
-      "talk"
-    ],
-    "ts": 1789032584.3268144
-  },
-  {
-    "id": "financial-services-roundup-market-talk-2d369bf1?siteid=yhoof2&yptr=yahoo",
-    "title": "Financial Services Roundup: Market Talk",
-    "tokens": [
-      "financial",
-      "market",
-      "roundup",
-      "services",
-      "talk"
-    ],
-    "ts": 1789032591.0784152
-  },
-  {
-    "id": "stock-market-today-sept-8-213626957.html",
-    "title": "Stock Market Today, Sept. 8: Stocks Slide Amid Surging Oil Prices, Persistent Geopolotical Tenisons",
-    "tokens": [
-      "geopolotical",
-      "market",
-      "oil",
-      "persistent",
-      "prices",
-      "sept",
-      "slide",
-      "stock",
-      "stocks",
-      "surging",
-      "tenisons",
-      "today"
-    ],
-    "ts": 1789033537.2475967
-  },
-  {
-    "id": "a104dfa1-f156-4f77-8f92-d05791570086",
-    "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
-    "tokens": [
-      "agri",
-      "backed",
-      "billion",
-      "giant",
-      "grain",
-      "indian",
-      "loans",
-      "onchain",
-      "putting",
-      "warehouse"
-    ],
-    "ts": 1789033546.3398488
-  },
-  {
-    "id": "https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche",
-    "title": "India’s Arya.ag to put grain ownership records on Avalanche",
-    "tokens": [
-      "arya",
-      "avalanche",
-      "grain",
-      "india",
-      "ownership",
-      "put",
-      "records"
-    ],
-    "ts": 1789033553.4218678
-  },
-  {
     "id": "https://www.investing.com/news/commodities-news/oil-prices-rise-further-as-usiran-conflict-worsens-4894781",
     "title": "Brent sits above $102 as Mideast strikes dent hopes for renewed Hormuz shipping",
     "tokens": [
@@ -23219,5 +23131,101 @@
       "wider"
     ],
     "ts": 1789180921.6514223
+  },
+  {
+    "id": "tsakos-energy-navigation-limited-q2-205611004.html",
+    "title": "Tsakos Energy Navigation Limited Q2 2026 Earnings Call Summary",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "energy",
+      "limited",
+      "navigation",
+      "summary",
+      "tsakos"
+    ],
+    "ts": 1789181612.1997504
+  },
+  {
+    "id": "digital-realty-opens-6-4-205810055.html",
+    "title": "Digital Realty Opens 6.4-MW Nairobi Data Center. Can Network Density Deliver Attractive Returns?",
+    "tokens": [
+      "attractive",
+      "can",
+      "center",
+      "data",
+      "deliver",
+      "density",
+      "digital",
+      "nairobi",
+      "network",
+      "opens",
+      "realty",
+      "returns"
+    ],
+    "ts": 1789181622.6157315
+  },
+  {
+    "id": "etf-league-tables-43m-exits-210004678.html",
+    "title": "ETF League Tables: $43M Exits Simplify ETFs",
+    "tokens": [
+      "43m",
+      "etf",
+      "etfs",
+      "exits",
+      "league",
+      "simplify",
+      "tables"
+    ],
+    "ts": 1789181630.4036965
+  },
+  {
+    "id": "daily-etf-flows-gdx-registers-210004511.html",
+    "title": "Daily ETF Flows: GDX Registers Outflows",
+    "tokens": [
+      "daily",
+      "etf",
+      "flows",
+      "gdx",
+      "outflows",
+      "registers"
+    ],
+    "ts": 1789181638.7413201
+  },
+  {
+    "id": "ahead-kroger-earnings-heres-barchart-210028328.html",
+    "title": "Ahead of Kroger Earnings, Here's What Barchart Data Says Comes Next for KR Stock",
+    "tokens": [
+      "ahead",
+      "barchart",
+      "comes",
+      "data",
+      "earnings",
+      "here",
+      "kroger",
+      "next",
+      "stock",
+      "what"
+    ],
+    "ts": 1789181642.754127
+  },
+  {
+    "id": "conagra-cag-faces-iss-pay-205055593.html",
+    "title": "Conagra (CAG) Faces ISS Pay Opposition. Can Turnaround Incentives Preserve Accountability?",
+    "tokens": [
+      "accountability",
+      "cag",
+      "can",
+      "conagra",
+      "faces",
+      "incentives",
+      "iss",
+      "opposition",
+      "pay",
+      "preserve",
+      "turnaround"
+    ],
+    "ts": 1789181646.4653466
   }
 ]

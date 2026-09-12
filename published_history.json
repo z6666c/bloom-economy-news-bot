@@ -1,87 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-kimberlyclark-stock-price-target-on-earnings-concerns-93CH-4895437",
-    "title": "Wells Fargo cuts Kimberly-Clark stock price target on earnings concerns",
-    "tokens": [
-      "clark",
-      "concerns",
-      "cuts",
-      "earnings",
-      "fargo",
-      "kimberly",
-      "price",
-      "stock",
-      "target",
-      "wells"
-    ],
-    "ts": 1789037830.765937
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-raises-american-water-stock-price-target-on-valuation-update-93CH-4895433",
-    "title": "UBS raises American Water stock price target on valuation update",
-    "tokens": [
-      "american",
-      "price",
-      "raises",
-      "stock",
-      "target",
-      "ubs",
-      "update",
-      "valuation",
-      "water"
-    ],
-    "ts": 1789037837.7814577
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bofa-raises-jersey-mikes-subs-stock-price-target-on-traffic-gains-93CH-4895434",
-    "title": "BofA raises Jersey Mike’s Subs stock price target on traffic gains",
-    "tokens": [
-      "bofa",
-      "gains",
-      "jersey",
-      "mike",
-      "price",
-      "raises",
-      "stock",
-      "subs",
-      "target",
-      "traffic"
-    ],
-    "ts": 1789037845.2210522
-  },
-  {
-    "id": "jim-cramer-says-amazon-alphabet-231012551.html",
-    "title": "Jim Cramer Says Amazon and Alphabet Are Cheap. Their Cash Flows Complicate the Case",
-    "tokens": [
-      "alphabet",
-      "amazon",
-      "case",
-      "cash",
-      "cheap",
-      "complicate",
-      "cramer",
-      "flows",
-      "jim",
-      "their"
-    ],
-    "ts": 1789037853.0765374
-  },
-  {
-    "id": "WP-MKTW-0005224984",
-    "title": "History shows the bar to disrupt AI is surprisingly high, says Bank of America",
-    "tokens": [
-      "america",
-      "bank",
-      "bar",
-      "disrupt",
-      "high",
-      "history",
-      "shows",
-      "surprisingly"
-    ],
-    "ts": 1789038734.09456
-  },
-  {
     "id": "WP-MKTW-0005225041",
     "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. Is that fair?",
     "tokens": [
@@ -23231,5 +23149,83 @@
       "zone"
     ],
     "ts": 1789199465.679464
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/lagarde-enters-french-election-debate-as-ecb-exit-speculation-grows-4898633",
+    "title": "Lagarde enters French election debate as ECB exit speculation grows",
+    "tokens": [
+      "debate",
+      "ecb",
+      "election",
+      "enters",
+      "exit",
+      "french",
+      "grows",
+      "lagarde",
+      "speculation"
+    ],
+    "ts": 1789200643.3323793
+  },
+  {
+    "id": "us-home-sales-hit-14-040100426.html",
+    "title": "US Home Sales Hit 14-Month Low as Borrowing Costs Bite",
+    "tokens": [
+      "bite",
+      "borrowing",
+      "costs",
+      "hit",
+      "home",
+      "low",
+      "month",
+      "sales"
+    ],
+    "ts": 1789200652.9662316
+  },
+  {
+    "id": "musk-boring-company-scores-23-040100907.html",
+    "title": "Musk’s Boring Company Scores $23 Billion Valuation Despite Slow Progress",
+    "tokens": [
+      "billion",
+      "boring",
+      "company",
+      "despite",
+      "musk",
+      "progress",
+      "scores",
+      "slow",
+      "valuation"
+    ],
+    "ts": 1789200661.723065
+  },
+  {
+    "id": "brian-niccol-two-turnaround-serves-040100588.html",
+    "title": "Brian Niccol’s Two-Year Turnaround Serves Up Sales Growth for Starbucks",
+    "tokens": [
+      "brian",
+      "growth",
+      "niccol",
+      "sales",
+      "serves",
+      "starbucks",
+      "turnaround",
+      "two",
+      "year"
+    ],
+    "ts": 1789200669.4141657
+  },
+  {
+    "id": "makes-good-401-k-website-040200549.html",
+    "title": "What Makes a Good 401(k) Website and App (And Why It matters)",
+    "tokens": [
+      "401",
+      "app",
+      "good",
+      "makes",
+      "matters",
+      "website",
+      "what",
+      "why"
+    ],
+    "ts": 1789200677.3878372
   }
 ]

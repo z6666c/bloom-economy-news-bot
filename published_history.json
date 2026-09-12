@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-maintains-chewy-stock-rating-on-margin-subscriber-concerns-93CH-4896210",
-    "title": "UBS maintains Chewy stock rating on margin, subscriber concerns",
-    "tokens": [
-      "chewy",
-      "concerns",
-      "maintains",
-      "margin",
-      "rating",
-      "stock",
-      "subscriber",
-      "ubs"
-    ],
-    "ts": 1789049780.6845617
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/yeti-stock-holds-at-neutral-as-ubs-keeps-51-target-ahead-of-meeting-93CH-4896208",
     "title": "Yeti stock holds at Neutral as UBS keeps $51 target ahead of meeting",
     "tokens": [
@@ -23251,5 +23236,18 @@
       "xrp"
     ],
     "ts": 1789249111.6334314
+  },
+  {
+    "id": "apartment-construction-times-ease-stay-214134340.html",
+    "title": "Apartment Construction Times Ease but Stay Elevated",
+    "tokens": [
+      "apartment",
+      "construction",
+      "ease",
+      "elevated",
+      "stay",
+      "times"
+    ],
+    "ts": 1789249831.3002236
   }
 ]

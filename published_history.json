@@ -1,33 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/swarmer-to-acquire-ukraines-ratel-robotics-for-up-to-224m-93CH-4895331",
-    "title": "Swarmer to acquire Ukraine’s Ratel Robotics for up to $224m",
-    "tokens": [
-      "224m",
-      "acquire",
-      "ratel",
-      "robotics",
-      "swarmer",
-      "ukraine"
-    ],
-    "ts": 1789035075.958153
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/axogen-prices-2087-million-stock-offering-at-4250-per-share-93CH-4895330",
-    "title": "Axogen prices $208.7 million stock offering at $42.50 per share",
-    "tokens": [
-      "208",
-      "axogen",
-      "million",
-      "offering",
-      "per",
-      "prices",
-      "share",
-      "stock"
-    ],
-    "ts": 1789035083.181927
-  },
-  {
     "id": "https://www.investing.com/news/company-news/jacobs-wins-oklahoma-city-wastewater-operations-contract-93CH-4895327",
     "title": "Jacobs wins Oklahoma City wastewater operations contract",
     "tokens": [
@@ -23225,5 +23197,38 @@
       "they"
     ],
     "ts": 1789182679.2108688
+  },
+  {
+    "id": "nyxoah-nyxh-begins-breathe-study-211832079.html",
+    "title": "Nyxoah (NYXH) Begins BREATHE Study. Can Real-World Evidence Drive Genio Adoption?",
+    "tokens": [
+      "adoption",
+      "begins",
+      "breathe",
+      "can",
+      "drive",
+      "evidence",
+      "genio",
+      "nyxh",
+      "nyxoah",
+      "real",
+      "study",
+      "world"
+    ],
+    "ts": 1789183591.9929836
+  },
+  {
+    "id": "when-will-mortgage-rates-go-down-the-bond-market-isnt-helping-190610094.html",
+    "title": "When will mortgage rates go down? The bond market isn't helping.",
+    "tokens": [
+      "bond",
+      "helping",
+      "isn",
+      "market",
+      "mortgage",
+      "rates",
+      "when"
+    ],
+    "ts": 1789183600.478938
   }
 ]

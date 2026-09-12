@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/deutsche-bank-starts-bullish-kongsberg-coverage-on-missile-growth-4895452",
-    "title": "Deutsche Bank starts bullish Kongsberg coverage on missile growth",
-    "tokens": [
-      "bank",
-      "bullish",
-      "coverage",
-      "deutsche",
-      "growth",
-      "kongsberg",
-      "missile",
-      "starts"
-    ],
-    "ts": 1789037776.0190654
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/instacart-cart-stock-analysis-fundamentals-solid-technicals-mixed-93CH-4895449",
     "title": "Instacart (CART) stock analysis: fundamentals solid, technicals mixed",
     "tokens": [
@@ -23228,5 +23213,22 @@
       "shell"
     ],
     "ts": 1789197022.085487
+  },
+  {
+    "id": "standard-lithium-sli-clears-two-023918536.html",
+    "title": "Standard Lithium (SLI) Clears Two Big Hurdles Toward A Final Decision",
+    "tokens": [
+      "big",
+      "clears",
+      "decision",
+      "final",
+      "hurdles",
+      "lithium",
+      "sli",
+      "standard",
+      "toward",
+      "two"
+    ],
+    "ts": 1789197854.2483013
   }
 ]

@@ -1,22 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005225537",
-    "title": "Home sales are the lowest they’ve been all year even though inventory is at a 7-year high",
-    "tokens": [
-      "all",
-      "even",
-      "high",
-      "home",
-      "inventory",
-      "lowest",
-      "sales",
-      "they",
-      "though",
-      "year"
-    ],
-    "ts": 1789050731.6625884
-  },
-  {
     "id": "https://www.investing.com/news/earnings/lovesac-earnings-beat-by-087-revenue-fell-short-of-estimates-4896262",
     "title": "Lovesac earnings beat by $0.87, revenue fell short of estimates",
     "tokens": [
@@ -23255,5 +23238,18 @@
       "trough"
     ],
     "ts": 1789255476.8323221
+  },
+  {
+    "id": "china-just-launched-19-170-231700387.html",
+    "title": "China just launched a $19,170 electric vehicle",
+    "tokens": [
+      "170",
+      "china",
+      "electric",
+      "just",
+      "launched",
+      "vehicle"
+    ],
+    "ts": 1789256244.2534287
   }
 ]

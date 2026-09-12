@@ -1,62 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/jacobs-wins-oklahoma-city-wastewater-operations-contract-93CH-4895327",
-    "title": "Jacobs wins Oklahoma City wastewater operations contract",
-    "tokens": [
-      "city",
-      "contract",
-      "jacobs",
-      "oklahoma",
-      "operations",
-      "wastewater",
-      "wins"
-    ],
-    "ts": 1789035091.4215872
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/kestra-medical-names-daniel-finney-vp-of-research--development-93CH-4895328",
-    "title": "Kestra Medical names Daniel Finney VP of research & development",
-    "tokens": [
-      "daniel",
-      "development",
-      "finney",
-      "kestra",
-      "medical",
-      "names",
-      "research"
-    ],
-    "ts": 1789035099.3299637
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/axogen-to-acquire-biocircuit-for-200m-adds-nerve-repair-device-93CH-4895329",
-    "title": "Axogen to acquire BioCircuit for $200M, adds nerve repair device",
-    "tokens": [
-      "200m",
-      "acquire",
-      "adds",
-      "axogen",
-      "biocircuit",
-      "device",
-      "nerve",
-      "repair"
-    ],
-    "ts": 1789035107.3781784
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/marti-technologies-expands-share-buyback-program-to-5-million-93CH-4895326",
-    "title": "Marti Technologies expands share buyback program to $5 million",
-    "tokens": [
-      "buyback",
-      "expands",
-      "marti",
-      "million",
-      "program",
-      "share",
-      "technologies"
-    ],
-    "ts": 1789035114.7397125
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-academy-sports-stock-price-target-on-diversified-product-mix-93CH-4895323",
     "title": "Wells Fargo raises Academy Sports stock price target on diversified product mix",
     "tokens": [
@@ -23230,5 +23173,65 @@
       "when"
     ],
     "ts": 1789183600.478938
+  },
+  {
+    "id": "private-credit-loses-edge-battle-213250231.html",
+    "title": "Private credit loses its edge in the battle for PE borrowers",
+    "tokens": [
+      "battle",
+      "borrowers",
+      "credit",
+      "edge",
+      "loses",
+      "private"
+    ],
+    "ts": 1789184475.9103227
+  },
+  {
+    "id": "patterson-uti-pten-averaged-101-213510010.html",
+    "title": "Patterson-UTI (PTEN) Averaged 101 August Rigs. Can Activity Deliver Better Margins?",
+    "tokens": [
+      "101",
+      "activity",
+      "august",
+      "averaged",
+      "better",
+      "can",
+      "deliver",
+      "margins",
+      "patterson",
+      "pten",
+      "rigs",
+      "uti"
+    ],
+    "ts": 1789184483.5231013
+  },
+  {
+    "id": "what-drives-gold-price-171825145.html",
+    "title": "What drives the price of gold?",
+    "tokens": [
+      "drives",
+      "gold",
+      "price",
+      "what"
+    ],
+    "ts": 1789184491.656002
+  },
+  {
+    "id": "northern-trust-ntrs-won-3-213701812.html",
+    "title": "Northern Trust (NTRS) Won a £3.6B Pension Mandate. Can it Move Fee Growth?",
+    "tokens": [
+      "can",
+      "fee",
+      "growth",
+      "mandate",
+      "move",
+      "northern",
+      "ntrs",
+      "pension",
+      "trust",
+      "won"
+    ],
+    "ts": 1789184499.8578455
   }
 ]

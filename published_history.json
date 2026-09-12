@@ -1,22 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/earnings/thg-h1-profit-jumps-as-margin-gains-offset-nearterm-revenue-headwinds-4894997",
-    "title": "THG shares crash 15% after EU parcel duty warning offsets strong H1 profit beat",
-    "tokens": [
-      "beat",
-      "crash",
-      "duty",
-      "offsets",
-      "parcel",
-      "profit",
-      "shares",
-      "strong",
-      "thg",
-      "warning"
-    ],
-    "ts": 1789047986.915803
-  },
-  {
     "id": "dan-ives-says-apple-1-133056487.html",
     "title": "Dan Ives Says Apple’s $1,999 Foldable Could Drive 20% of iPhone Revenue: 300 Million iPhones Have Gone 4 Years Without an Upgrade",
     "tokens": [
@@ -23268,5 +23251,19 @@
       "voo"
     ],
     "ts": 1789241885.105622
+  },
+  {
+    "id": "ringcentral-chief-accounting-officer-sells-192501820.html",
+    "title": "RingCentral Chief Accounting Officer Sells 4,568 Shares",
+    "tokens": [
+      "568",
+      "accounting",
+      "chief",
+      "officer",
+      "ringcentral",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789242632.641883
   }
 ]

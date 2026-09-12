@@ -1,49 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/morgan-stanley-cautious-on-coinbase-but-target-implies-over-40-upside-4895967",
-    "title": "Morgan Stanley cautious on Coinbase, but target implies over 40% upside",
-    "tokens": [
-      "cautious",
-      "coinbase",
-      "implies",
-      "morgan",
-      "stanley",
-      "target",
-      "upside"
-    ],
-    "ts": 1789046066.9629624
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/acorn-energy-subsidiary-acquires-gentracker-assets-for-35-million-93CH-4895960",
-    "title": "Acorn Energy subsidiary acquires Gen-Tracker assets for $3.5 million",
-    "tokens": [
-      "acorn",
-      "acquires",
-      "assets",
-      "energy",
-      "gen",
-      "million",
-      "subsidiary",
-      "tracker"
-    ],
-    "ts": 1789046075.6301382
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/washington-tariff-plans-for-copper-imports-stall-premiums-drop-93CH-4895959",
-    "title": "Washington tariff plans for copper imports stall, premiums drop",
-    "tokens": [
-      "copper",
-      "drop",
-      "imports",
-      "plans",
-      "premiums",
-      "stall",
-      "tariff",
-      "washington"
-    ],
-    "ts": 1789046084.298413
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/packaging-corporation-of-america-at-jefferies-global-industrials-conference-tight-supply-93CH-4895957",
     "title": "Packaging Corporation of America at Jefferies Global Industrials Conference: tight supply",
     "tokens": [
@@ -23253,5 +23209,49 @@
       "using"
     ],
     "ts": 1789230362.8436365
+  },
+  {
+    "id": "lululemon-lulu-brand-problems-force-161627412.html",
+    "title": "Lululemon’s (LULU) Brand Problems Force Another Steep Guidance Downgrade",
+    "tokens": [
+      "another",
+      "brand",
+      "downgrade",
+      "force",
+      "guidance",
+      "lulu",
+      "lululemon",
+      "problems",
+      "steep"
+    ],
+    "ts": 1789231164.2085724
+  },
+  {
+    "id": "samsara-iot-crosses-2b-growth-160016151.html",
+    "title": "Samsara (IOT) Crosses $2B, But Growth Comes With A Hardware Tax",
+    "tokens": [
+      "comes",
+      "crosses",
+      "growth",
+      "hardware",
+      "iot",
+      "samsara",
+      "tax"
+    ],
+    "ts": 1789231171.7643301
+  },
+  {
+    "id": "5-withdrawal-rule-safe-stacks-161931116.html",
+    "title": "Is the 5% Withdrawal Rule Safe? Here’s How It Stacks Up Against 4%",
+    "tokens": [
+      "against",
+      "here",
+      "how",
+      "rule",
+      "safe",
+      "stacks",
+      "withdrawal"
+    ],
+    "ts": 1789231179.7592764
   }
 ]

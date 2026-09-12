@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/european-equities-stabilize-from-selloff-as-traders-brace-for-ecb-decision-4894936",
-    "title": "European equities stabilize from sell-off as traders brace for ECB decision",
-    "tokens": [
-      "brace",
-      "decision",
-      "ecb",
-      "equities",
-      "european",
-      "off",
-      "sell",
-      "stabilize",
-      "traders"
-    ],
-    "ts": 1789036183.5361247
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4895338",
     "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
     "tokens": [
@@ -23222,5 +23206,21 @@
       "turn"
     ],
     "ts": 1789192285.1234024
+  },
+  {
+    "id": "mastercard-ma-partners-flowcart-chat-231841366.html",
+    "title": "Mastercard (MA) Partners With Flowcart. Can In-Chat Payments Deliver Profitable Growth?",
+    "tokens": [
+      "can",
+      "chat",
+      "deliver",
+      "flowcart",
+      "growth",
+      "mastercard",
+      "partners",
+      "payments",
+      "profitable"
+    ],
+    "ts": 1789193590.4426389
   }
 ]

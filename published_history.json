@@ -1,90 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/lake-victoria-completes-land-disclosure-for-imwelo-project-93CH-4895547",
-    "title": "Lake Victoria completes land disclosure for Imwelo project",
-    "tokens": [
-      "completes",
-      "disclosure",
-      "imwelo",
-      "lake",
-      "land",
-      "project",
-      "victoria"
-    ],
-    "ts": 1789038769.5508184
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/invenergy-hasi-close-equity-partnership-for-27-gw-renewables-93CH-4895548",
-    "title": "Invenergy, HASI close equity partnership for 2.7 GW renewables",
-    "tokens": [
-      "close",
-      "equity",
-      "hasi",
-      "invenergy",
-      "partnership",
-      "renewables"
-    ],
-    "ts": 1789038777.443316
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/nasdaq-ventures-to-invest-100m-in-kraken-parent-company-payward-93CH-4895543",
-    "title": "Nasdaq Ventures to invest $100m in Kraken parent company Payward",
-    "tokens": [
-      "100m",
-      "company",
-      "invest",
-      "kraken",
-      "nasdaq",
-      "parent",
-      "payward",
-      "ventures"
-    ],
-    "ts": 1789038784.3892803
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tenable-plans-650-million-convertible-notes-offering-93CH-4895544",
-    "title": "Tenable plans $650 million convertible notes offering",
-    "tokens": [
-      "650",
-      "convertible",
-      "million",
-      "notes",
-      "offering",
-      "plans",
-      "tenable"
-    ],
-    "ts": 1789038791.2545397
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lahontan-gold-appoints-billy-choi-as-chief-financial-officer-93CH-4895545",
-    "title": "Lahontan Gold appoints Billy Choi as chief financial officer",
-    "tokens": [
-      "appoints",
-      "billy",
-      "chief",
-      "choi",
-      "financial",
-      "gold",
-      "lahontan",
-      "officer"
-    ],
-    "ts": 1789038798.4162576
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/biolinerx-hemispherian-to-present-glix1-data-at-eano-meeting-93CH-4895546",
-    "title": "BioLineRx, Hemispherian to present GLIX1 data at EANO meeting",
-    "tokens": [
-      "biolinerx",
-      "data",
-      "eano",
-      "glix1",
-      "hemispherian",
-      "meeting",
-      "present"
-    ],
-    "ts": 1789038806.0735128
-  },
-  {
     "id": "https://www.investing.com/news/company-news/redwood-trust-plans-150m-convertible-notes-offering-93CH-4895542",
     "title": "Redwood Trust plans $150M convertible notes offering",
     "tokens": [
@@ -23222,5 +23137,104 @@
       "turns"
     ],
     "ts": 1789202503.3595598
+  },
+  {
+    "id": "solid-power-sldp-widening-losses-060054096.html",
+    "title": "Solid Power’s (SLDP) Widening Losses Come With A Liquidity Cushion",
+    "tokens": [
+      "come",
+      "cushion",
+      "liquidity",
+      "losses",
+      "power",
+      "sldp",
+      "solid",
+      "widening"
+    ],
+    "ts": 1789204217.8176234
+  },
+  {
+    "id": "forward-air-fwrd-record-revenue-060806134.html",
+    "title": "Forward Air’s (FWRD) Record Revenue Comes With a Massive Asterisk",
+    "tokens": [
+      "air",
+      "asterisk",
+      "comes",
+      "forward",
+      "fwrd",
+      "massive",
+      "record",
+      "revenue"
+    ],
+    "ts": 1789204225.2910013
+  },
+  {
+    "id": "netgear-ntgr-enterprise-boom-cannot-054858933.html",
+    "title": "Netgear’s (NTGR) Enterprise Boom Cannot Erase Consumer Weakness",
+    "tokens": [
+      "boom",
+      "cannot",
+      "consumer",
+      "enterprise",
+      "erase",
+      "netgear",
+      "ntgr",
+      "weakness"
+    ],
+    "ts": 1789204234.3501477
+  },
+  {
+    "id": "us-dollar-price-forecast-fed-054013689.html",
+    "title": "US Dollar Price Forecast: Fed Hike Bets Rise as CPI Takes Center Stage; EUR/USD and GBP/USD Key Levels to Watch",
+    "tokens": [
+      "bets",
+      "center",
+      "cpi",
+      "dollar",
+      "eur",
+      "fed",
+      "forecast",
+      "gbp",
+      "hike",
+      "key",
+      "levels",
+      "price",
+      "rise",
+      "stage",
+      "takes",
+      "usd",
+      "watch"
+    ],
+    "ts": 1789204243.1881745
+  },
+  {
+    "id": "delcath-dcth-liver-cancer-device-062417595.html",
+    "title": "Delcath’s (DCTH) Liver Cancer Device Keeps Growing, But At A Cost",
+    "tokens": [
+      "cancer",
+      "cost",
+      "dcth",
+      "delcath",
+      "device",
+      "growing",
+      "keeps",
+      "liver"
+    ],
+    "ts": 1789204251.6967216
+  },
+  {
+    "id": "zura-bio-zura-hits-enrollment-053502709.html",
+    "title": "Zura Bio (ZURA) Hits Enrollment Milestones As Losses Widen Sharply",
+    "tokens": [
+      "bio",
+      "enrollment",
+      "hits",
+      "losses",
+      "milestones",
+      "sharply",
+      "widen",
+      "zura"
+    ],
+    "ts": 1789204260.175137
   }
 ]

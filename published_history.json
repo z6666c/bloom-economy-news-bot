@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/oracle-reports-earnings-today-ai-spending-bet-faces-its-toughest-test-yet-4895661",
-    "title": "Oracle reports earnings today: AI spending bet faces its toughest test yet",
-    "tokens": [
-      "bet",
-      "earnings",
-      "faces",
-      "oracle",
-      "reports",
-      "spending",
-      "test",
-      "today",
-      "toughest",
-      "yet"
-    ],
-    "ts": 1789040621.1427178
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-rackspace-technology-stock-surging-today-93CH-4895662",
-    "title": "Why is Rackspace Technology stock surging today?",
-    "tokens": [
-      "rackspace",
-      "stock",
-      "surging",
-      "technology",
-      "today",
-      "why"
-    ],
-    "ts": 1789040629.3587701
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/analysts-split-on-apple-after-foldable-iphone-duo-debut-4895660",
     "title": "Analysts split on Apple after foldable iPhone Duo debut",
     "tokens": [
@@ -23226,5 +23196,41 @@
       "rising"
     ],
     "ts": 1789213067.2485216
+  },
+  {
+    "id": "lost-hundreds-thousands-stocks-spacex-101500008.html",
+    "title": "He’s lost hundreds of thousands in stocks like SpaceX and Beyond Meat — and he’s not stopping. Is the ‘high’ worth it?",
+    "tokens": [
+      "beyond",
+      "high",
+      "hundreds",
+      "like",
+      "lost",
+      "meat",
+      "spacex",
+      "stocks",
+      "stopping",
+      "thousands",
+      "worth"
+    ],
+    "ts": 1789213849.5088737
+  },
+  {
+    "id": "p-futures-climb-oil-retreats-102337042.html",
+    "title": "S&P Futures Climb as Oil Retreats Ahead of Key U.S. Inflation Data; Oracle Jumps After Earnings",
+    "tokens": [
+      "ahead",
+      "climb",
+      "data",
+      "earnings",
+      "futures",
+      "inflation",
+      "jumps",
+      "key",
+      "oil",
+      "oracle",
+      "retreats"
+    ],
+    "ts": 1789213858.089545
   }
 ]

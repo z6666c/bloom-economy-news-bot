@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/btig-upgrades-orchestra-biomed-stock-rating-on-trial-progress-93CH-4895384",
-    "title": "BTIG upgrades Orchestra BioMed stock rating on trial progress",
-    "tokens": [
-      "biomed",
-      "btig",
-      "orchestra",
-      "progress",
-      "rating",
-      "stock",
-      "trial",
-      "upgrades"
-    ],
-    "ts": 1789036152.5965784
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/piper-sandler-initiates-arm-stock-with-overweight-on-chip-growth-93CH-4895383",
     "title": "Piper Sandler initiates Arm stock with overweight on chip growth",
     "tokens": [
@@ -23224,5 +23209,22 @@
       "thursday"
     ],
     "ts": 1789189799.7019408
+  },
+  {
+    "id": "why-united-states-belated-critical-230000986.html",
+    "title": "Why The United States’ Belated Critical Minerals Gambit Won’t Stop China",
+    "tokens": [
+      "belated",
+      "china",
+      "critical",
+      "gambit",
+      "minerals",
+      "states",
+      "stop",
+      "united",
+      "why",
+      "won"
+    ],
+    "ts": 1789191525.8113482
   }
 ]

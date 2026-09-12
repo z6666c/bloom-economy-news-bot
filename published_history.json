@@ -1,83 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-playtech-posts-strong-h1-2026-profit-and-cash-growth-93CH-4895245",
-    "title": "Earnings call transcript: Playtech posts strong H1 2026 profit and cash growth",
-    "tokens": [
-      "2026",
-      "call",
-      "cash",
-      "earnings",
-      "growth",
-      "playtech",
-      "posts",
-      "profit",
-      "strong",
-      "transcript"
-    ],
-    "ts": 1789032532.5505795
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/amer-sports-stock-coverage-resumed-at-equalweight-by-morgan-stanley-93CH-4895244",
-    "title": "Amer Sports stock coverage resumed at Equalweight by Morgan Stanley",
-    "tokens": [
-      "amer",
-      "coverage",
-      "equalweight",
-      "morgan",
-      "resumed",
-      "sports",
-      "stanley",
-      "stock"
-    ],
-    "ts": 1789032539.759038
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bernstein-initiates-old-dominion-freight-line-stock-at-market-perform-93CH-4895243",
-    "title": "Bernstein initiates Old Dominion Freight Line stock at Market Perform",
-    "tokens": [
-      "bernstein",
-      "dominion",
-      "freight",
-      "initiates",
-      "line",
-      "market",
-      "old",
-      "perform",
-      "stock"
-    ],
-    "ts": 1789032547.186096
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/morgan-stanley-resumes-on-holding-stock-coverage-with-overweight-rating-93CH-4895242",
-    "title": "Morgan Stanley resumes On Holding stock coverage with overweight rating",
-    "tokens": [
-      "coverage",
-      "holding",
-      "morgan",
-      "overweight",
-      "rating",
-      "resumes",
-      "stanley",
-      "stock"
-    ],
-    "ts": 1789032554.392258
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/oddity-tech-stock-holds-at-market-perform-on-ad-efficiency-woes-93CH-4895241",
-    "title": "Oddity Tech stock holds at Market Perform on ad efficiency woes",
-    "tokens": [
-      "efficiency",
-      "holds",
-      "market",
-      "oddity",
-      "perform",
-      "stock",
-      "tech",
-      "woes"
-    ],
-    "ts": 1789032561.7891812
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/bernstein-initiates-saia-stock-coverage-with-outperform-rating-93CH-4895239",
     "title": "Bernstein initiates Saia stock coverage with outperform rating",
     "tokens": [
@@ -23206,5 +23128,92 @@
       "test"
     ],
     "ts": 1789179132.5671587
+  },
+  {
+    "id": "nvda-stock-alert-know-nvidia-202422218.html",
+    "title": "NVDA Stock Alert: What to Know as Nvidia Faces DOJ Probe",
+    "tokens": [
+      "alert",
+      "doj",
+      "faces",
+      "know",
+      "nvda",
+      "nvidia",
+      "probe",
+      "stock",
+      "what"
+    ],
+    "ts": 1789180021.7691123
+  },
+  {
+    "id": "stocks-settle-lower-surging-crude-203432721.html",
+    "title": "Stocks Settle Lower as Surging Crude Prices Boost Fed Rate Hike Chances",
+    "tokens": [
+      "boost",
+      "chances",
+      "crude",
+      "fed",
+      "hike",
+      "lower",
+      "prices",
+      "rate",
+      "settle",
+      "stocks",
+      "surging"
+    ],
+    "ts": 1789180030.1097827
+  },
+  {
+    "id": "tamboran-tbn-sells-first-beetaloo-201936612.html",
+    "title": "Tamboran (TBN) Sells First Beetaloo Gas. Can Take-or-Pay Demand Support Scale?",
+    "tokens": [
+      "beetaloo",
+      "can",
+      "demand",
+      "first",
+      "gas",
+      "pay",
+      "scale",
+      "sells",
+      "support",
+      "take",
+      "tamboran",
+      "tbn"
+    ],
+    "ts": 1789180037.4544249
+  },
+  {
+    "id": "pampa-energ-pam-weighs-500-203623855.html",
+    "title": "Pampa Energía (PAM) Weighs a 500-MW Data Center. Can It Justify Nearly $900M in Power Infrastructure?",
+    "tokens": [
+      "500",
+      "900m",
+      "can",
+      "center",
+      "data",
+      "energ",
+      "infrastructure",
+      "justify",
+      "nearly",
+      "pam",
+      "pampa",
+      "power",
+      "weighs"
+    ],
+    "ts": 1789180045.3400476
+  },
+  {
+    "id": "paypal-keeping-options-open-amid-buyout-rumors-ceo-says-203725063.html",
+    "title": "PayPal keeping options open amid buyout rumors, CEO says",
+    "tokens": [
+      "buyout",
+      "ceo",
+      "keeping",
+      "open",
+      "options",
+      "paypal",
+      "rumors"
+    ],
+    "ts": 1789180052.824053
   }
 ]

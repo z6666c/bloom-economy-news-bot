@@ -1,68 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/smith-micro-secures-multiyear-deal-with-major-us-carrier-93CH-4895895",
-    "title": "Smith Micro secures multi-year deal with major U.S. carrier",
-    "tokens": [
-      "carrier",
-      "deal",
-      "major",
-      "micro",
-      "multi",
-      "secures",
-      "smith",
-      "year"
-    ],
-    "ts": 1789045071.2935715
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/eaton-launches-workbench-360-with-autodesk-integration-93CH-4895893",
-    "title": "Eaton launches Workbench 360 with Autodesk integration",
-    "tokens": [
-      "360",
-      "autodesk",
-      "eaton",
-      "integration",
-      "launches",
-      "workbench"
-    ],
-    "ts": 1789045078.8241546
-  },
-  {
-    "id": "coinbase-moov-partner-bring-stablecoins-124838544.html",
-    "title": "Coinbase and Moov partner to bring stablecoins to community banks",
-    "tokens": [
-      "banks",
-      "bring",
-      "coinbase",
-      "community",
-      "moov",
-      "partner",
-      "stablecoins"
-    ],
-    "ts": 1789045086.8449743
-  },
-  {
-    "id": "billionaire-stanley-druckenmiller-sold-micron-124600689.html",
-    "title": "Billionaire Stanley Druckenmiller Has Sold Micron, Broadcom, and Intel. Here's the Biggest AI Chip Designer Left in His Portfolio.",
-    "tokens": [
-      "biggest",
-      "billionaire",
-      "broadcom",
-      "chip",
-      "designer",
-      "druckenmiller",
-      "here",
-      "his",
-      "intel",
-      "left",
-      "micron",
-      "portfolio",
-      "sold",
-      "stanley"
-    ],
-    "ts": 1789045094.2773721
-  },
-  {
     "id": "the-ai-investment-boom-wont-last-forever-goldman-sachs-chief-economist-jan-hatzius-warns-122546159.html",
     "title": "The AI investment boom won't last forever, Goldman Sachs chief economist Jan Hatzius warns",
     "tokens": [
@@ -23263,5 +23200,69 @@
       "reuters"
     ],
     "ts": 1789226700.312377
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-judge-rules-that-trump-plan-to-halvefema-workforce-violated-law-4898666",
+    "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
+    "tokens": [
+      "fema",
+      "halve",
+      "judge",
+      "law",
+      "plan",
+      "rules",
+      "trump",
+      "violated",
+      "workforce"
+    ],
+    "ts": 1789227492.4927151
+  },
+  {
+    "id": "heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
+    "title": "Here's who stands to make money from the Anthropic IPO",
+    "tokens": [
+      "anthropic",
+      "here",
+      "ipo",
+      "make",
+      "money",
+      "stands",
+      "who"
+    ],
+    "ts": 1789227500.8946264
+  },
+  {
+    "id": "genesco-gco-proves-smaller-sales-150521690.html",
+    "title": "Genesco (GCO) Proves Smaller Sales Can Still Mean Bigger Profits",
+    "tokens": [
+      "bigger",
+      "can",
+      "gco",
+      "genesco",
+      "mean",
+      "profits",
+      "proves",
+      "sales",
+      "smaller",
+      "still"
+    ],
+    "ts": 1789227509.2929492
+  },
+  {
+    "id": "rivian-sacrificed-2027-profit-target-152500464.html",
+    "title": "Rivian Sacrificed Its 2027 Profit Target. Here's Why Investors Should Applaud.",
+    "tokens": [
+      "2027",
+      "applaud",
+      "here",
+      "investors",
+      "profit",
+      "rivian",
+      "sacrificed",
+      "should",
+      "target",
+      "why"
+    ],
+    "ts": 1789227517.7533128
   }
 ]

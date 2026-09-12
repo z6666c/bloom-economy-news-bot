@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/bofa-cuts-apple-stock-price-target-to-370-on-margin-pressure-93CH-4895440",
-    "title": "BofA cuts Apple stock price target to $370 on margin pressure",
-    "tokens": [
-      "370",
-      "apple",
-      "bofa",
-      "cuts",
-      "margin",
-      "pressure",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1789037822.1927707
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-kimberlyclark-stock-price-target-on-earnings-concerns-93CH-4895437",
     "title": "Wells Fargo cuts Kimberly-Clark stock price target on earnings concerns",
     "tokens": [
@@ -23232,5 +23216,20 @@
       "volumes"
     ],
     "ts": 1789198715.7246497
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/meloni-sees-italy-2026-growth-at-1-matching-euro-zone-4898632",
+    "title": "Meloni sees Italy 2026 growth at 1%, matching euro zone",
+    "tokens": [
+      "2026",
+      "euro",
+      "growth",
+      "italy",
+      "matching",
+      "meloni",
+      "sees",
+      "zone"
+    ],
+    "ts": 1789199465.679464
   }
 ]

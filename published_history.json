@@ -1,82 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/instacart-cart-stock-analysis-fundamentals-solid-technicals-mixed-93CH-4895449",
-    "title": "Instacart (CART) stock analysis: fundamentals solid, technicals mixed",
-    "tokens": [
-      "analysis",
-      "cart",
-      "fundamentals",
-      "instacart",
-      "mixed",
-      "solid",
-      "stock",
-      "technicals"
-    ],
-    "ts": 1789037784.8133032
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/uber-stock-analysis-strong-fundamentals-but-technical-signals-point-to-caution-93CH-4895444",
-    "title": "Uber stock analysis: strong fundamentals but technical signals point to caution",
-    "tokens": [
-      "analysis",
-      "caution",
-      "fundamentals",
-      "point",
-      "signals",
-      "stock",
-      "strong",
-      "technical",
-      "uber"
-    ],
-    "ts": 1789037792.4951463
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-centrus-energy-stock-sliding-today-93CH-4895441",
-    "title": "Why is Centrus Energy stock sliding today?",
-    "tokens": [
-      "centrus",
-      "energy",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789037800.3336399
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bofa-raises-signet-jewelers-stock-price-target-on-strong-results-93CH-4895438",
-    "title": "BofA raises Signet Jewelers stock price target on strong results",
-    "tokens": [
-      "bofa",
-      "jewelers",
-      "price",
-      "raises",
-      "results",
-      "signet",
-      "stock",
-      "strong",
-      "target"
-    ],
-    "ts": 1789037807.3954313
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-cuts-bunge-stock-price-target-on-valuation-keeps-buy-rating-93CH-4895439",
-    "title": "UBS cuts Bunge stock price target on valuation, keeps buy rating",
-    "tokens": [
-      "bunge",
-      "buy",
-      "cuts",
-      "keeps",
-      "price",
-      "rating",
-      "stock",
-      "target",
-      "ubs",
-      "valuation"
-    ],
-    "ts": 1789037814.5549228
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/bofa-cuts-apple-stock-price-target-to-370-on-margin-pressure-93CH-4895440",
     "title": "BofA cuts Apple stock price target to $370 on margin pressure",
     "tokens": [
@@ -23230,5 +23153,84 @@
       "two"
     ],
     "ts": 1789197854.2483013
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ford-to-recall-about-223500-us-vehicles-over-fuel-tank-issues-4898631",
+    "title": "Ford to recall about 223,500 U.S. vehicles over fuel tank issues",
+    "tokens": [
+      "223",
+      "500",
+      "about",
+      "ford",
+      "fuel",
+      "issues",
+      "recall",
+      "tank",
+      "vehicles"
+    ],
+    "ts": 1789198682.052756
+  },
+  {
+    "id": "costamare-bulkers-cmdb-banks-cash-024830627.html",
+    "title": "Costamare Bulkers (CMDB) Banks Cash While Betting On A Bulk Rebound",
+    "tokens": [
+      "banks",
+      "betting",
+      "bulk",
+      "bulkers",
+      "cash",
+      "cmdb",
+      "costamare",
+      "rebound",
+      "while"
+    ],
+    "ts": 1789198690.1935525
+  },
+  {
+    "id": "brainsway-bway-growth-streak-just-025612619.html",
+    "title": "BrainsWay’s (BWAY) Growth Streak Just Got Harder To Ignore",
+    "tokens": [
+      "brainsway",
+      "bway",
+      "got",
+      "growth",
+      "harder",
+      "ignore",
+      "just",
+      "streak"
+    ],
+    "ts": 1789198697.853846
+  },
+  {
+    "id": "integra-resources-itrg-hits-record-030529906.html",
+    "title": "Integra Resources (ITRG) Hits Record Output, But At A Cost",
+    "tokens": [
+      "cost",
+      "hits",
+      "integra",
+      "itrg",
+      "output",
+      "record",
+      "resources"
+    ],
+    "ts": 1789198706.3879797
+  },
+  {
+    "id": "rayonier-advanced-materials-ryam-pricing-031352186.html",
+    "title": "Rayonier Advanced Materials’ (RYAM) Pricing Power Is Surging, But Volumes Tell Another Story",
+    "tokens": [
+      "advanced",
+      "another",
+      "materials",
+      "power",
+      "pricing",
+      "rayonier",
+      "ryam",
+      "story",
+      "surging",
+      "tell",
+      "volumes"
+    ],
+    "ts": 1789198715.7246497
   }
 ]

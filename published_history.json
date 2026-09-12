@@ -1,51 +1,5 @@
 [
   {
-    "id": "nasdaq-invests-100-million-kraken-132047317.html",
-    "title": "Nasdaq invests $100 million in Kraken parent Payward for tokenized stocks",
-    "tokens": [
-      "100",
-      "invests",
-      "kraken",
-      "million",
-      "nasdaq",
-      "parent",
-      "payward",
-      "stocks",
-      "tokenized"
-    ],
-    "ts": 1789046983.7390256
-  },
-  {
-    "id": "sitime-sitm-silicon-timing-devices-131204604.html",
-    "title": "How SiTime’s (SITM) Silicon Timing Devices Power AI Data Centers",
-    "tokens": [
-      "centers",
-      "data",
-      "devices",
-      "how",
-      "power",
-      "silicon",
-      "sitime",
-      "sitm",
-      "timing"
-    ],
-    "ts": 1789046993.495127
-  },
-  {
-    "id": "jim-cramer-names-medline-mdln-131012266.html",
-    "title": "Jim Cramer Names Medline (MDLN) a Sleeper Compounder",
-    "tokens": [
-      "compounder",
-      "cramer",
-      "jim",
-      "mdln",
-      "medline",
-      "names",
-      "sleeper"
-    ],
-    "ts": 1789047001.2527978
-  },
-  {
     "id": "jim-cramer-calls-medtronic-mdt-130704495.html",
     "title": "Jim Cramer Calls Medtronic (MDT) a “Quandary” as Growth Surges and Diabetes Exit Nears",
     "tokens": [
@@ -23266,5 +23220,52 @@
       "warren"
     ],
     "ts": 1789234657.266128
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/ukraine-braces-for-harsh-winter-as-russian-attacks-hit-economy-4898677",
+    "title": "Ukraine braces for harsh winter as Russian attacks hit economy",
+    "tokens": [
+      "attacks",
+      "braces",
+      "economy",
+      "harsh",
+      "hit",
+      "russian",
+      "ukraine",
+      "winter"
+    ],
+    "ts": 1789235421.3327584
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/indias-modi-and-chinas-xi-push-business-links-border-peace-as-ties-revive-4898675",
+    "title": "India’s Modi and China’s Xi push business links, border peace as ties revive",
+    "tokens": [
+      "border",
+      "business",
+      "china",
+      "india",
+      "links",
+      "modi",
+      "peace",
+      "push",
+      "revive",
+      "ties"
+    ],
+    "ts": 1789235428.1438265
+  },
+  {
+    "id": "chewy-vs-mercadolibre-e-commerce-173946743.html",
+    "title": "Chewy vs. MercadoLibre: Which E-Commerce Stock Is a Better Buy in 2026?",
+    "tokens": [
+      "2026",
+      "better",
+      "buy",
+      "chewy",
+      "commerce",
+      "mercadolibre",
+      "stock",
+      "which"
+    ],
+    "ts": 1789235435.7199488
   }
 ]

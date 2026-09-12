@@ -1,119 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/analysts-split-on-apple-after-foldable-iphone-duo-debut-4895660",
-    "title": "Analysts split on Apple after foldable iPhone Duo debut",
-    "tokens": [
-      "analysts",
-      "apple",
-      "debut",
-      "duo",
-      "foldable",
-      "iphone",
-      "split"
-    ],
-    "ts": 1789040636.2007256
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-biohaven-pharmaceutical-stock-sliding-today-93CH-4895656",
-    "title": "Why is Biohaven Pharmaceutical stock sliding today?",
-    "tokens": [
-      "biohaven",
-      "pharmaceutical",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789040643.3321836
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/needham-cuts-cooper-companies-stock-price-target-to-73-on-guidance-93CH-4895653",
-    "title": "Needham cuts Cooper Companies stock price target to $73 on guidance",
-    "tokens": [
-      "companies",
-      "cooper",
-      "cuts",
-      "guidance",
-      "needham",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1789040650.4483137
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/mizuho-raises-sailpoint-stock-price-target-to-19-on-strong-arr-growth-93CH-4895639",
-    "title": "Mizuho raises SailPoint stock price target to $19 on strong ARR growth",
-    "tokens": [
-      "arr",
-      "growth",
-      "mizuho",
-      "price",
-      "raises",
-      "sailpoint",
-      "stock",
-      "strong",
-      "target"
-    ],
-    "ts": 1789040659.142381
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/needham-reiterates-navan-stock-rating-citing-solid-q2-results-93CH-4895638",
-    "title": "Needham reiterates Navan stock rating citing solid Q2 results",
-    "tokens": [
-      "citing",
-      "navan",
-      "needham",
-      "rating",
-      "reiterates",
-      "results",
-      "solid",
-      "stock"
-    ],
-    "ts": 1789040666.8788347
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/copa-holdings-reports-168-traffic-growth-in-august-93CH-4895636",
-    "title": "Copa Holdings reports 16.8% traffic growth in August",
-    "tokens": [
-      "august",
-      "copa",
-      "growth",
-      "holdings",
-      "reports",
-      "traffic"
-    ],
-    "ts": 1789040674.4784055
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-jetblue-airways-stock-climbing-today-93CH-4895635",
-    "title": "Why is JetBlue Airways stock climbing today?",
-    "tokens": [
-      "airways",
-      "climbing",
-      "jetblue",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789040681.870144
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/esprinet-h1-2026-slides-strong-growth-drives-guidance-raise-93CH-4895627",
-    "title": "Esprinet H1 2026 slides: strong growth drives guidance raise",
-    "tokens": [
-      "2026",
-      "drives",
-      "esprinet",
-      "growth",
-      "guidance",
-      "raise",
-      "slides",
-      "strong"
-    ],
-    "ts": 1789040689.3795772
-  },
-  {
     "id": "florida-caps-property-tax-hikes-234509178.html",
     "title": "Florida Caps Property Tax Hikes at 3% a Year for Longtime Homeowners. Buyers Moving In From New Jersey Get Reassessed at Full Market Value the Next January 1",
     "tokens": [
@@ -23232,5 +23118,138 @@
       "retreats"
     ],
     "ts": 1789213858.089545
+  },
+  {
+    "id": "WP-MKTW-0005229606",
+    "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+    "tokens": [
+      "canceled",
+      "don",
+      "health",
+      "insurer",
+      "legal",
+      "mri",
+      "plan",
+      "still",
+      "warning",
+      "without"
+    ],
+    "ts": 1789215163.4034119
+  },
+  {
+    "id": "trumps-proposal-tie-trade-policy-104000172.html",
+    "title": "Trump's proposal to tie trade policy to Federal Reserve rate cuts could face long-term economic challenges",
+    "tokens": [
+      "challenges",
+      "could",
+      "cuts",
+      "economic",
+      "face",
+      "federal",
+      "long",
+      "policy",
+      "proposal",
+      "rate",
+      "reserve",
+      "term",
+      "tie",
+      "trade",
+      "trump"
+    ],
+    "ts": 1789215173.750451
+  },
+  {
+    "id": "verisk-analytics-stock-vrsk-underperforming-102938166.html",
+    "title": "Verisk Analytics Stock: Is VRSK Underperforming the Industrials Sector?",
+    "tokens": [
+      "analytics",
+      "industrials",
+      "sector",
+      "stock",
+      "underperforming",
+      "verisk",
+      "vrsk"
+    ],
+    "ts": 1789215182.178277
+  },
+  {
+    "id": "caleres-cal-stock-lags-behind-115147339.html",
+    "title": "Caleres (CAL) Stock Lags Behind Its Brand Portfolio’s Surge",
+    "tokens": [
+      "behind",
+      "brand",
+      "cal",
+      "caleres",
+      "lags",
+      "portfolio",
+      "stock",
+      "surge"
+    ],
+    "ts": 1789215190.4465976
+  },
+  {
+    "id": "york-man-wants-87k-pay-103000000.html",
+    "title": "A New York man wants to take an $87K pay cut to fix boats in the Bahamas — one detail flipped the Ramsey hosts' verdict",
+    "tokens": [
+      "87k",
+      "bahamas",
+      "boats",
+      "cut",
+      "detail",
+      "fix",
+      "flipped",
+      "hosts",
+      "man",
+      "one",
+      "pay",
+      "ramsey",
+      "take",
+      "verdict",
+      "wants",
+      "york"
+    ],
+    "ts": 1789215198.5584831
+  },
+  {
+    "id": "prediction-owning-100-shares-amazon-115200934.html",
+    "title": "Prediction: Owning 100 Shares of Amazon Stock Will Turn $25,000 Into $50,000 by 2030",
+    "tokens": [
+      "000",
+      "100",
+      "2030",
+      "amazon",
+      "owning",
+      "prediction",
+      "shares",
+      "stock",
+      "turn"
+    ],
+    "ts": 1789215207.8417492
+  },
+  {
+    "id": "uae-retakes-mena-vc-funding-102722987.html",
+    "title": "UAE retakes regional VC funding crown on mega-round strength",
+    "tokens": [
+      "crown",
+      "funding",
+      "mega",
+      "regional",
+      "retakes",
+      "round",
+      "strength",
+      "uae"
+    ],
+    "ts": 1789215215.7917168
+  },
+  {
+    "id": "morning-bid-hike-104500949.html",
+    "title": "Morning Bid: Take a hike",
+    "tokens": [
+      "bid",
+      "hike",
+      "morning",
+      "take"
+    ],
+    "ts": 1789215219.8079748
   }
 ]

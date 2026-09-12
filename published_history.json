@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/bernstein-initiates-saia-stock-coverage-with-outperform-rating-93CH-4895239",
-    "title": "Bernstein initiates Saia stock coverage with outperform rating",
-    "tokens": [
-      "bernstein",
-      "coverage",
-      "initiates",
-      "outperform",
-      "rating",
-      "saia",
-      "stock"
-    ],
-    "ts": 1789032569.4437478
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/navan-stock-falls-despite-citizens-reiterating-market-outperform-rating-93CH-4895240",
-    "title": "Navan stock falls despite Citizens reiterating Market Outperform rating",
-    "tokens": [
-      "citizens",
-      "despite",
-      "falls",
-      "market",
-      "navan",
-      "outperform",
-      "rating",
-      "reiterating",
-      "stock"
-    ],
-    "ts": 1789032576.9200816
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/bernstein-initiates-xpo-stock-coverage-with-outperform-rating-93CH-4895238",
     "title": "Bernstein initiates XPO stock coverage with outperform rating",
     "tokens": [
@@ -23215,5 +23185,39 @@
       "rumors"
     ],
     "ts": 1789180052.824053
+  },
+  {
+    "id": "exxonmobil-holdings-corporation-xom-14b-203914029.html",
+    "title": "ExxonMobil Holdings Corporation (XOM): Can a $14B Budget Unlock Papua LNG?",
+    "tokens": [
+      "14b",
+      "budget",
+      "can",
+      "corporation",
+      "exxonmobil",
+      "holdings",
+      "lng",
+      "papua",
+      "unlock",
+      "xom"
+    ],
+    "ts": 1789180912.1880517
+  },
+  {
+    "id": "deutsche-bank-settles-152m-ex-204648404.html",
+    "title": "Deutsche Bank Settles €152M Ex-Banker Claim. Is its Wider Compensation Exposure Contained?",
+    "tokens": [
+      "152m",
+      "bank",
+      "banker",
+      "claim",
+      "compensation",
+      "contained",
+      "deutsche",
+      "exposure",
+      "settles",
+      "wider"
+    ],
+    "ts": 1789180921.6514223
   }
 ]

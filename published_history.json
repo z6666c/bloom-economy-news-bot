@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/oil-prices-rise-further-as-usiran-conflict-worsens-4894781",
-    "title": "Brent sits above $102 as Mideast strikes dent hopes for renewed Hormuz shipping",
-    "tokens": [
-      "102",
-      "above",
-      "brent",
-      "dent",
-      "hopes",
-      "hormuz",
-      "mideast",
-      "renewed",
-      "shipping",
-      "sits",
-      "strikes"
-    ],
-    "ts": 1789035067.7761438
-  },
-  {
     "id": "https://www.investing.com/news/company-news/swarmer-to-acquire-ukraines-ratel-robotics-for-up-to-224m-93CH-4895331",
     "title": "Swarmer to acquire Ukraine’s Ratel Robotics for up to $224m",
     "tokens": [
@@ -23227,5 +23209,21 @@
       "turnaround"
     ],
     "ts": 1789181646.4653466
+  },
+  {
+    "id": "people-inc-ceo-on-ai-hungry-google-they-dont-share-anything-with-us-210526796.html",
+    "title": "People Inc. CEO on AI-hungry Google: 'They don't share anything with us'",
+    "tokens": [
+      "anything",
+      "ceo",
+      "don",
+      "google",
+      "hungry",
+      "inc",
+      "people",
+      "share",
+      "they"
+    ],
+    "ts": 1789182679.2108688
   }
 ]

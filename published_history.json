@@ -1,71 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005225603",
-    "title": "Markets see a near 50-50 chance the European Central Bank will hike again in October",
-    "tokens": [
-      "again",
-      "bank",
-      "central",
-      "chance",
-      "european",
-      "hike",
-      "markets",
-      "near",
-      "october",
-      "see"
-    ],
-    "ts": 1789049732.3592455
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/roper-technologies-at-citis-2026-global-tmt-conference-ai-and-ma-93CH-4896215",
-    "title": "Roper Technologies at Citi’s 2026 Global TMT Conference: ai and m&a",
-    "tokens": [
-      "2026",
-      "citi",
-      "conference",
-      "global",
-      "roper",
-      "technologies",
-      "tmt"
-    ],
-    "ts": 1789049741.1728642
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-shoe-station-group-misses-on-q2-2026-sales-shares-fall-93CH-4896214",
-    "title": "Earnings call transcript: Shoe Station Group misses on Q2 2026 sales, shares fall",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "fall",
-      "group",
-      "misses",
-      "sales",
-      "shares",
-      "shoe",
-      "station",
-      "transcript"
-    ],
-    "ts": 1789049749.1668885
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bernstein-raises-jersey-mikes-subs-stock-price-target-on-sales-momentum-93CH-4896213",
-    "title": "Bernstein raises Jersey Mike’s Subs stock price target on sales momentum",
-    "tokens": [
-      "bernstein",
-      "jersey",
-      "mike",
-      "momentum",
-      "price",
-      "raises",
-      "sales",
-      "stock",
-      "subs",
-      "target"
-    ],
-    "ts": 1789049756.9713273
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-cintas-stock-rating-ahead-of-earnings-93CH-4896211",
     "title": "Bernstein reiterates Cintas stock rating ahead of earnings",
     "tokens": [
@@ -23258,5 +23192,70 @@
       "wood"
     ],
     "ts": 1789245799.1133852
+  },
+  {
+    "id": "berkshire-hathaway-paid-exactly-1-205000365.html",
+    "title": "Berkshire Hathaway Has Paid Exactly 1 Dividend Since 1965. Here's Where the Cash Goes Instead.",
+    "tokens": [
+      "1965",
+      "berkshire",
+      "cash",
+      "dividend",
+      "exactly",
+      "goes",
+      "hathaway",
+      "here",
+      "instead",
+      "paid",
+      "since",
+      "where"
+    ],
+    "ts": 1789247429.4039717
+  },
+  {
+    "id": "oilprice-article-45486",
+    "title": "Stolen Electricity is Powering Illegal Crypto Farms Across the Globe",
+    "tokens": [
+      "across",
+      "crypto",
+      "electricity",
+      "farms",
+      "globe",
+      "illegal",
+      "powering",
+      "stolen"
+    ],
+    "ts": 1789247437.4759898
+  },
+  {
+    "id": "51fdbab3-9d77-42c3-986f-415a220a1561",
+    "title": "OpenAI IPO won't happen this year, says Sam Altman",
+    "tokens": [
+      "altman",
+      "happen",
+      "ipo",
+      "openai",
+      "sam",
+      "won",
+      "year"
+    ],
+    "ts": 1789247446.018091
+  },
+  {
+    "id": "748ffaae-cf8c-4aa7-92d1-b7f3abf520be",
+    "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+    "tokens": [
+      "abroad",
+      "bitcoin",
+      "cut",
+      "half",
+      "jobs",
+      "plans",
+      "shifts",
+      "suisse",
+      "swiss",
+      "work"
+    ],
+    "ts": 1789247452.9403088
   }
 ]

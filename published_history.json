@@ -1,126 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-downgrades-bowhead-specialty-stock-rating-on-acquisition-93CH-4895078",
-    "title": "Citizens downgrades Bowhead Specialty stock rating on acquisition",
-    "tokens": [
-      "acquisition",
-      "bowhead",
-      "citizens",
-      "downgrades",
-      "rating",
-      "specialty",
-      "stock"
-    ],
-    "ts": 1789027914.4264443
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-upgrades-paccar-stock-rating-on-north-america-recovery-outlook-93CH-4895077",
-    "title": "RBC Capital upgrades Paccar stock rating on North America recovery outlook",
-    "tokens": [
-      "america",
-      "capital",
-      "north",
-      "outlook",
-      "paccar",
-      "rating",
-      "rbc",
-      "recovery",
-      "stock",
-      "upgrades"
-    ],
-    "ts": 1789027923.728214
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/coinbase-ceo-calls-the-bottom-in-bitcoin-4895075",
-    "title": "Coinbase CEO calls the bottom in Bitcoin",
-    "tokens": [
-      "bitcoin",
-      "bottom",
-      "calls",
-      "ceo",
-      "coinbase"
-    ],
-    "ts": 1789027931.1418977
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/griffin-mining-reports-record-firsthalf-operating-profit-93CH-4895074",
-    "title": "Griffin Mining reports record first-half operating profit",
-    "tokens": [
-      "first",
-      "griffin",
-      "half",
-      "mining",
-      "operating",
-      "profit",
-      "record",
-      "reports"
-    ],
-    "ts": 1789027939.1408508
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/dieteren-h1-profit-rises-as-belron-gains-offset-automotive-weakness-stock-up-5-4895073",
-    "title": "D’Ieteren H1 profit rises as Belron gains offset automotive weakness; stock up 5%",
-    "tokens": [
-      "automotive",
-      "belron",
-      "gains",
-      "ieteren",
-      "offset",
-      "profit",
-      "rises",
-      "stock",
-      "weakness"
-    ],
-    "ts": 1789027946.6356273
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-disc-medicine-stock-rating-on-polycythemia-data-93CH-4895071",
-    "title": "Jefferies reiterates Disc Medicine stock rating on polycythemia data",
-    "tokens": [
-      "data",
-      "disc",
-      "jefferies",
-      "medicine",
-      "polycythemia",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1789027954.060639
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/disc-medicine-stock-rating-held-at-outperform-by-bmo-on-trial-data-93CH-4895069",
-    "title": "Disc Medicine stock rating held at Outperform by BMO on trial data",
-    "tokens": [
-      "bmo",
-      "data",
-      "disc",
-      "held",
-      "medicine",
-      "outperform",
-      "rating",
-      "stock",
-      "trial"
-    ],
-    "ts": 1789027961.5977635
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-cooper-companies-stock-rating-on-weak-results-93CH-4895070",
-    "title": "Piper Sandler cuts Cooper Companies stock rating on weak results",
-    "tokens": [
-      "companies",
-      "cooper",
-      "cuts",
-      "piper",
-      "rating",
-      "results",
-      "sandler",
-      "stock",
-      "weak"
-    ],
-    "ts": 1789027969.5440495
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/bmo-downgrades-anglogold-ashanti-stock-rating-on-valuation-93CH-4895068",
     "title": "BMO downgrades AngloGold Ashanti stock rating on valuation",
     "tokens": [
@@ -23174,5 +23053,133 @@
       "veto"
     ],
     "ts": 1789170651.1093426
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/betterlife-pharma-files-prospectus-for-100m-public-offering-93CH-4898567",
+    "title": "BetterLife Pharma files prospectus for $100M public offering",
+    "tokens": [
+      "100m",
+      "betterlife",
+      "files",
+      "offering",
+      "pharma",
+      "prospectus",
+      "public"
+    ],
+    "ts": 1789172048.9144568
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-daniel-lippis-sells-54168-in-stock-93CH-4898565",
+    "title": "Edwards Lifesciences CVP Daniel Lippis sells $54,168 in stock",
+    "tokens": [
+      "168",
+      "cvp",
+      "daniel",
+      "edwards",
+      "lifesciences",
+      "lippis",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789172056.8745637
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/intuitive-surgical-evp-mark-brosius-sells-17140-in-stock-93CH-4898564",
+    "title": "Intuitive surgical EVP Mark Brosius sells $17,140 in stock",
+    "tokens": [
+      "140",
+      "brosius",
+      "evp",
+      "intuitive",
+      "mark",
+      "sells",
+      "stock",
+      "surgical"
+    ],
+    "ts": 1789172064.9964273
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/qualcomm-evp-cfo--coo-palkhiwala-sells-457129-in-qcom-stock-93CH-4898563",
+    "title": "Qualcomm EVP, CFO & COO Palkhiwala sells $457,129 in QCOM stock",
+    "tokens": [
+      "129",
+      "457",
+      "cfo",
+      "coo",
+      "evp",
+      "palkhiwala",
+      "qcom",
+      "qualcomm",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789172072.9427133
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/1844-resources-closes-private-placement-raising-c947650-93CH-4898562",
+    "title": "1844 Resources closes private placement raising C$947,650",
+    "tokens": [
+      "1844",
+      "650",
+      "947",
+      "closes",
+      "placement",
+      "private",
+      "raising",
+      "resources"
+    ],
+    "ts": 1789172080.415404
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/silver-lake-director-egon-durban-sells-149m-dell-technologies-stock-93CH-4898560",
+    "title": "Silver Lake director Egon Durban sells $14.9m Dell Technologies stock",
+    "tokens": [
+      "dell",
+      "director",
+      "durban",
+      "egon",
+      "lake",
+      "sells",
+      "silver",
+      "stock",
+      "technologies"
+    ],
+    "ts": 1789172084.4292395
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/silver-lake-technology-investors-iv-sells-580907-of-dell-stock-93CH-4898559",
+    "title": "Silver Lake technology investors IV sells $580,907 of Dell stock",
+    "tokens": [
+      "580",
+      "907",
+      "dell",
+      "investors",
+      "lake",
+      "sells",
+      "silver",
+      "stock",
+      "technology"
+    ],
+    "ts": 1789172087.69815
+  },
+  {
+    "id": "sam-altman-doesn-t-trust-164724094.html",
+    "title": "Sam Altman Doesn’t Trust Elon Musk’s Cursor, Musk Says He Couldn’t Care Less. Here’s Why He Is Right.",
+    "tokens": [
+      "altman",
+      "care",
+      "couldn",
+      "cursor",
+      "doesn",
+      "elon",
+      "here",
+      "less",
+      "musk",
+      "right",
+      "sam",
+      "trust",
+      "why"
+    ],
+    "ts": 1789172095.4499772
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/jbtmarel-stock-hits-52week-low-at-11261-usd-93CH-4896138",
-    "title": "Jbtmarel stock hits 52-week low at 112.61 USD",
-    "tokens": [
-      "112",
-      "hits",
-      "jbtmarel",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789047967.7618535
-  },
-  {
     "id": "https://www.investing.com/news/company-news/vistra-launches-junior-subordinated-notes-offering-93CH-4896137",
     "title": "Vistra launches junior subordinated notes offering",
     "tokens": [
@@ -23265,5 +23251,18 @@
       "slow"
     ],
     "ts": 1789239181.3791325
+  },
+  {
+    "id": "oilprice-article-45475",
+    "title": "The Race to Solve Nuclear Energy’s Biggest Problem",
+    "tokens": [
+      "biggest",
+      "energy",
+      "nuclear",
+      "problem",
+      "race",
+      "solve"
+    ],
+    "ts": 1789240119.323841
   }
 ]

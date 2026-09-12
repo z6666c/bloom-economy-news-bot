@@ -1,55 +1,5 @@
 [
   {
-    "id": "us-justice-department-widens-probe-231012363.html",
-    "title": "US DOJ widens probe into Fox's Roku deal, Semafor reports",
-    "tokens": [
-      "deal",
-      "doj",
-      "fox",
-      "probe",
-      "reports",
-      "roku",
-      "semafor",
-      "widens"
-    ],
-    "ts": 1789038855.2672806
-  },
-  {
-    "id": "dividend-stock-facing-perfect-storm-233002371.html",
-    "title": "This Dividend Stock Is Facing a Perfect Storm. It Could Be the Time to Press that “Sell” Button",
-    "tokens": [
-      "button",
-      "could",
-      "dividend",
-      "facing",
-      "perfect",
-      "press",
-      "sell",
-      "stock",
-      "storm",
-      "time"
-    ],
-    "ts": 1789038862.252114
-  },
-  {
-    "id": "WP-MKTW-0005224985",
-    "title": "Investors are missing the good news right in front of them, this Wall Street strategist argues",
-    "tokens": [
-      "argues",
-      "front",
-      "good",
-      "investors",
-      "missing",
-      "news",
-      "right",
-      "strategist",
-      "street",
-      "them",
-      "wall"
-    ],
-    "ts": 1789039699.2021365
-  },
-  {
     "id": "WP-MKTW-0005220284",
     "title": "I have two sons. Should I allow one son to build a $400,000 house on my land?",
     "tokens": [
@@ -23232,5 +23182,52 @@
       "verdict"
     ],
     "ts": 1789205987.1948636
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-203613-in-fsly-stock-93CH-4898642",
+    "title": "Fastly CTO Artur Bergman sells $203,613 in FSLY stock",
+    "tokens": [
+      "203",
+      "613",
+      "artur",
+      "bergman",
+      "cto",
+      "fastly",
+      "fsly",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789206652.5893922
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/toro-18-holdings-llc-sells-602k-in-universal-electronics-shares-93CH-4898641",
+    "title": "Toro 18 Holdings LLC sells $602k in Universal Electronics shares",
+    "tokens": [
+      "602k",
+      "electronics",
+      "holdings",
+      "llc",
+      "sells",
+      "shares",
+      "toro",
+      "universal"
+    ],
+    "ts": 1789206660.9910862
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/global-industrial-svp-claudia-hughes-acquires-3966-in-company-stock-93CH-4898640",
+    "title": "Global industrial SVP Claudia Hughes acquires $3,966 in company stock",
+    "tokens": [
+      "966",
+      "acquires",
+      "claudia",
+      "company",
+      "global",
+      "hughes",
+      "industrial",
+      "stock",
+      "svp"
+    ],
+    "ts": 1789206670.6793437
   }
 ]

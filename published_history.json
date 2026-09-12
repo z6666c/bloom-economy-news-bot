@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-cintas-stock-rating-ahead-of-earnings-93CH-4896211",
-    "title": "Bernstein reiterates Cintas stock rating ahead of earnings",
-    "tokens": [
-      "ahead",
-      "bernstein",
-      "cintas",
-      "earnings",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1789049765.089604
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/ubs-raises-kornferry-stock-price-target-to-82-on-revenue-beat-93CH-4896212",
     "title": "UBS raises Korn/Ferry stock price target to $82 on revenue beat",
     "tokens": [
@@ -23257,5 +23243,18 @@
       "work"
     ],
     "ts": 1789247452.9403088
+  },
+  {
+    "id": "predicting-value-10-000-bet-210700813.html",
+    "title": "Predicting the Value of a $10,000 Bet on SpaceX by 2030",
+    "tokens": [
+      "000",
+      "2030",
+      "bet",
+      "predicting",
+      "spacex",
+      "value"
+    ],
+    "ts": 1789248346.6887586
   }
 ]

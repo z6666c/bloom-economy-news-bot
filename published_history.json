@@ -1,18 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/vistra-launches-junior-subordinated-notes-offering-93CH-4896137",
-    "title": "Vistra launches junior subordinated notes offering",
-    "tokens": [
-      "junior",
-      "launches",
-      "notes",
-      "offering",
-      "subordinated",
-      "vistra"
-    ],
-    "ts": 1789047971.2914996
-  },
-  {
     "id": "https://www.investing.com/news/company-news/sl-science-holding-ltd-stock-hits-52week-low-at-245-usd-93CH-4896135",
     "title": "Sl Science Holding Ltd stock hits 52-week low at 2.45 USD",
     "tokens": [
@@ -23264,5 +23251,22 @@
       "solve"
     ],
     "ts": 1789240119.323841
+  },
+  {
+    "id": "zscaler-ceo-highlights-ai-security-190159120.html",
+    "title": "Zscaler CEO Highlights AI Security Surge, Zero-Trust Momentum at Citi Conference",
+    "tokens": [
+      "ceo",
+      "citi",
+      "conference",
+      "highlights",
+      "momentum",
+      "security",
+      "surge",
+      "trust",
+      "zero",
+      "zscaler"
+    ],
+    "ts": 1789241001.0972714
   }
 ]

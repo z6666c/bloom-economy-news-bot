@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/sl-science-holding-ltd-stock-hits-52week-low-at-245-usd-93CH-4896135",
-    "title": "Sl Science Holding Ltd stock hits 52-week low at 2.45 USD",
-    "tokens": [
-      "hits",
-      "holding",
-      "low",
-      "ltd",
-      "science",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789047979.0548172
-  },
-  {
     "id": "https://www.investing.com/news/earnings/thg-h1-profit-jumps-as-margin-gains-offset-nearterm-revenue-headwinds-4894997",
     "title": "THG shares crash 15% after EU parcel duty warning offsets strong H1 profit beat",
     "tokens": [
@@ -23268,5 +23253,20 @@
       "zscaler"
     ],
     "ts": 1789241001.0972714
+  },
+  {
+    "id": "investing-vanguard-p-500-etf-192000849.html",
+    "title": "Investing in the Vanguard S&P 500 ETF (VOO)? Beware of This 1 Sneaky Risk.",
+    "tokens": [
+      "500",
+      "beware",
+      "etf",
+      "investing",
+      "risk",
+      "sneaky",
+      "vanguard",
+      "voo"
+    ],
+    "ts": 1789241885.105622
   }
 ]

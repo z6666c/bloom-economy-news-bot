@@ -1,123 +1,5 @@
 [
   {
-    "id": "nasdaq-ndaq-completed-dasseti-acquisition-020922677.html",
-    "title": "Nasdaq (NDAQ) Completed the Dasseti Acquisition to Deepen eVestment’s Private-Market Capabilities",
-    "tokens": [
-      "acquisition",
-      "capabilities",
-      "completed",
-      "dasseti",
-      "deepen",
-      "evestment",
-      "market",
-      "nasdaq",
-      "ndaq",
-      "private"
-    ],
-    "ts": 1789044157.0856528
-  },
-  {
-    "id": "holtec-nuclear-targets-10-2-020830785.html",
-    "title": "Holtec Nuclear Targets $10.2 Billion Valuation in Nasdaq IPO",
-    "tokens": [
-      "billion",
-      "holtec",
-      "ipo",
-      "nasdaq",
-      "nuclear",
-      "targets",
-      "valuation"
-    ],
-    "ts": 1789044164.9433818
-  },
-  {
-    "id": "WP-MKTW-0005223578",
-    "title": "Building U.S. data centers is getting so expensive that AI companies are moving overseas",
-    "tokens": [
-      "building",
-      "centers",
-      "companies",
-      "data",
-      "expensive",
-      "getting",
-      "moving",
-      "overseas"
-    ],
-    "ts": 1789045008.6555426
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/ecb-hikes-rates-as-iran-war-adds-to-inflation-angst-4895902",
-    "title": "ECB hikes rates as Iran war adds to inflation angst",
-    "tokens": [
-      "adds",
-      "angst",
-      "ecb",
-      "hikes",
-      "inflation",
-      "iran",
-      "rates",
-      "war"
-    ],
-    "ts": 1789045016.2742476
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/opec-further-lowers-2026-global-oil-demand-growth-forecast-4895797",
-    "title": "OPEC further lowers 2026 global oil demand growth forecast",
-    "tokens": [
-      "2026",
-      "demand",
-      "forecast",
-      "further",
-      "global",
-      "growth",
-      "lowers",
-      "oil",
-      "opec"
-    ],
-    "ts": 1789045024.1470973
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/energy-vault-secures-275-mw-generation-capacity-for-ai-projects-93CH-4895900",
-    "title": "Energy Vault secures 275 MW generation capacity for AI projects",
-    "tokens": [
-      "275",
-      "capacity",
-      "energy",
-      "generation",
-      "projects",
-      "secures",
-      "vault"
-    ],
-    "ts": 1789045032.3498554
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/zenatechs-drone-unit-receives-irish-aviation-approval-93CH-4895898",
-    "title": "ZenaTech’s drone unit receives Irish aviation approval",
-    "tokens": [
-      "approval",
-      "aviation",
-      "drone",
-      "irish",
-      "receives",
-      "unit",
-      "zenatech"
-    ],
-    "ts": 1789045040.1681175
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/mint-subsidiary-signs-cooperation-framework-with-vengine-93CH-4895899",
-    "title": "Mint subsidiary signs cooperation framework with Vengine",
-    "tokens": [
-      "cooperation",
-      "framework",
-      "mint",
-      "signs",
-      "subsidiary",
-      "vengine"
-    ],
-    "ts": 1789045047.608593
-  },
-  {
     "id": "https://www.investing.com/news/company-news/hub-cyber-security-executes-1for25-reverse-stock-split-93CH-4895896",
     "title": "Hub Cyber Security executes 1-for-25 reverse stock split",
     "tokens": [
@@ -23257,5 +23139,129 @@
       "why"
     ],
     "ts": 1789224664.7740934
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-ceo-calls-for-slower-ai-development-after-security-incidents-4898664",
+    "title": "Anthropic CEO calls for slower AI development after security incidents",
+    "tokens": [
+      "anthropic",
+      "calls",
+      "ceo",
+      "development",
+      "incidents",
+      "security",
+      "slower"
+    ],
+    "ts": 1789225809.6146548
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/anthropic-ceo-urges-ai-companies-to-slow-model-development-4898663",
+    "title": "Anthropic CEO urges AI companies to slow model development",
+    "tokens": [
+      "anthropic",
+      "ceo",
+      "companies",
+      "development",
+      "model",
+      "slow",
+      "urges"
+    ],
+    "ts": 1789225819.2395325
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/seastar-medical-at-hc-wainwright-adult-trial-looms-over-small-cap-93CH-4898662",
+    "title": "SeaStar Medical at H.C. Wainwright: adult trial looms over small cap",
+    "tokens": [
+      "adult",
+      "cap",
+      "looms",
+      "medical",
+      "seastar",
+      "small",
+      "trial",
+      "wainwright"
+    ],
+    "ts": 1789225826.7125459
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/outlook-therapeutics-at-hc-wainwright-launch-hinges-on-access-93CH-4898661",
+    "title": "Outlook Therapeutics at H.C. Wainwright: launch hinges on access",
+    "tokens": [
+      "access",
+      "hinges",
+      "launch",
+      "outlook",
+      "therapeutics",
+      "wainwright"
+    ],
+    "ts": 1789225835.013414
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/sailpoint-at-goldman-sachs-communacopia--technology-conference-agentic-push-93CH-4898660",
+    "title": "SailPoint at Goldman Sachs Communacopia + Technology Conference: agentic push",
+    "tokens": [
+      "agentic",
+      "communacopia",
+      "conference",
+      "goldman",
+      "push",
+      "sachs",
+      "sailpoint",
+      "technology"
+    ],
+    "ts": 1789225839.0284953
+  },
+  {
+    "id": "victoria-secret-vsxy-bra-boom-144101942.html",
+    "title": "Victoria’s Secret’s (VSXY) Bra Boom Just Rewrote Its Growth Story",
+    "tokens": [
+      "boom",
+      "bra",
+      "growth",
+      "just",
+      "rewrote",
+      "secret",
+      "story",
+      "victoria",
+      "vsxy"
+    ],
+    "ts": 1789225844.9638884
+  },
+  {
+    "id": "cramer-asked-buying-gigantic-bloom-145041797.html",
+    "title": "Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the Same Stocks Weeks Earlier.",
+    "tokens": [
+      "asked",
+      "bloom",
+      "buying",
+      "calls",
+      "cramer",
+      "earlier",
+      "energy",
+      "filing",
+      "gigantic",
+      "named",
+      "pelosi",
+      "same",
+      "stocks",
+      "two",
+      "weeks",
+      "who"
+    ],
+    "ts": 1789225853.621452
+  },
+  {
+    "id": "oilprice-article-45474",
+    "title": "Why More Homes Are Switching From Gas to Heat Pumps",
+    "tokens": [
+      "gas",
+      "heat",
+      "homes",
+      "more",
+      "pumps",
+      "switching",
+      "why"
+    ],
+    "ts": 1789225862.0476274
   }
 ]

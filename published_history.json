@@ -1,23 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005225041",
-    "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. Is that fair?",
-    "tokens": [
-      "brother",
-      "children",
-      "don",
-      "education",
-      "fair",
-      "kids",
-      "mother",
-      "old",
-      "pay",
-      "wants",
-      "year"
-    ],
-    "ts": 1789038741.5223372
-  },
-  {
     "id": "https://www.investing.com/news/company-news/coppernico-signs-drilling-contract-for-sombrero-coppergold-project-93CH-4895551",
     "title": "Coppernico signs drilling contract for Sombrero copper-gold project",
     "tokens": [
@@ -23227,5 +23209,18 @@
       "why"
     ],
     "ts": 1789200677.3878372
+  },
+  {
+    "id": "gasoline-likely-boost-us-consumer-040505350.html",
+    "title": "Gasoline likely to boost US consumer prices in August",
+    "tokens": [
+      "august",
+      "boost",
+      "consumer",
+      "gasoline",
+      "likely",
+      "prices"
+    ],
+    "ts": 1789201602.1146002
   }
 ]

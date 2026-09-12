@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-raises-kornferry-stock-price-target-to-82-on-revenue-beat-93CH-4896212",
-    "title": "UBS raises Korn/Ferry stock price target to $82 on revenue beat",
-    "tokens": [
-      "beat",
-      "ferry",
-      "korn",
-      "price",
-      "raises",
-      "revenue",
-      "stock",
-      "target",
-      "ubs"
-    ],
-    "ts": 1789049772.8857815
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/ubs-maintains-chewy-stock-rating-on-margin-subscriber-concerns-93CH-4896210",
     "title": "UBS maintains Chewy stock rating on margin, subscriber concerns",
     "tokens": [
@@ -23256,5 +23240,16 @@
       "value"
     ],
     "ts": 1789248346.6887586
+  },
+  {
+    "id": "xrp-flip-bitcoin-212432380.html",
+    "title": "Can XRP Flip Bitcoin?",
+    "tokens": [
+      "bitcoin",
+      "can",
+      "flip",
+      "xrp"
+    ],
+    "ts": 1789249111.6334314
   }
 ]

@@ -1,33 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/dream-finders-homes-stock-hits-52week-low-at-1217-93CH-4896396",
-    "title": "Dream Finders Homes stock hits 52-week low at $12.17",
-    "tokens": [
-      "dream",
-      "finders",
-      "hits",
-      "homes",
-      "low",
-      "stock",
-      "week"
-    ],
-    "ts": 1789053054.1311154
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/vishay-introduces-transient-voltage-suppressors-for-automotive-use-93CH-4896395",
-    "title": "Vishay introduces transient voltage suppressors for automotive use",
-    "tokens": [
-      "automotive",
-      "introduces",
-      "suppressors",
-      "transient",
-      "use",
-      "vishay",
-      "voltage"
-    ],
-    "ts": 1789053061.9934912
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-bc-speakers-h1-2026-sales-fall-as-margins-hold-up-93CH-4896394",
     "title": "Earnings call transcript: B&C Speakers H1 2026 sales fall as margins hold up",
     "tokens": [
@@ -23244,5 +23216,34 @@
       "put"
     ],
     "ts": 1789265460.9076772
+  },
+  {
+    "id": "intuitive-surgical-sees-procedure-growth-200202124.html",
+    "title": "Intuitive Surgical Sees Procedure Growth Despite U.S. Slowdown and China Pressure",
+    "tokens": [
+      "china",
+      "despite",
+      "growth",
+      "intuitive",
+      "pressure",
+      "procedure",
+      "sees",
+      "slowdown",
+      "surgical"
+    ],
+    "ts": 1789266409.7223036
+  },
+  {
+    "id": "lululemon-guidance-cut-sent-shares-201133412.html",
+    "title": "Lululemon’s Guidance Cut Sent Shares Down 18%, Was It An Overreaction?",
+    "tokens": [
+      "cut",
+      "guidance",
+      "lululemon",
+      "overreaction",
+      "sent",
+      "shares"
+    ],
+    "ts": 1789266417.171285
   }
 ]

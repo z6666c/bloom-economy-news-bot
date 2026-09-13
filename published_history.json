@@ -1,101 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/baird-reiterates-biohaven-stock-rating-after-regulatory-update-93CH-4896390",
-    "title": "Baird reiterates Biohaven stock rating after regulatory update",
-    "tokens": [
-      "baird",
-      "biohaven",
-      "rating",
-      "regulatory",
-      "reiterates",
-      "stock",
-      "update"
-    ],
-    "ts": 1789053086.6271193
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/gold-x2-drilling-intersects-1730m-of-089-gt-au-100m-beneath-the-rpeee-pit-at-qes-4896387",
-    "title": "Gold X2 Drilling Intersects 173.0m of 0.89 g/t Au 100m Beneath the RPEEE Pit at QES",
-    "tokens": [
-      "100m",
-      "173",
-      "beneath",
-      "drilling",
-      "gold",
-      "intersects",
-      "pit",
-      "qes",
-      "rpeee"
-    ],
-    "ts": 1789053094.7954812
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/evolution-metals-projects-400-million-to-460-million-in-2027-revenue-as-magnet-output-scales-nasdaq-emat-4896388",
-    "title": "Evolution Metals Projects $400 Million to $460 Million in 2027 Revenue as Magnet Output Scales (NASDAQ: EMAT)",
-    "tokens": [
-      "2027",
-      "400",
-      "460",
-      "emat",
-      "evolution",
-      "magnet",
-      "metals",
-      "million",
-      "nasdaq",
-      "output",
-      "projects",
-      "revenue",
-      "scales"
-    ],
-    "ts": 1789053102.951956
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/dell-at-citis-2026-global-tmt-conference-demand-broadens-93CH-4896386",
-    "title": "Dell at Citi’s 2026 Global TMT Conference: demand broadens",
-    "tokens": [
-      "2026",
-      "broadens",
-      "citi",
-      "conference",
-      "dell",
-      "demand",
-      "global",
-      "tmt"
-    ],
-    "ts": 1789053106.9678504
-  },
-  {
-    "id": "rich-dad-robert-kiyosaki-is-12-billion-in-debt--on-purpose-heres-why-150004284.html",
-    "title": "'Rich Dad' Robert Kiyosaki is $1.2 billion in debt — on purpose. Here's why.",
-    "tokens": [
-      "billion",
-      "dad",
-      "debt",
-      "here",
-      "kiyosaki",
-      "purpose",
-      "rich",
-      "robert",
-      "why"
-    ],
-    "ts": 1789053115.0332568
-  },
-  {
-    "id": "u-debt-doubles-under-trump-145552736.html",
-    "title": "U.S. Debt Doubles Under Trump and Biden — Now Exceeds $40 Trillion",
-    "tokens": [
-      "biden",
-      "debt",
-      "doubles",
-      "exceeds",
-      "now",
-      "trillion",
-      "trump",
-      "under"
-    ],
-    "ts": 1789053123.0648706
-  },
-  {
     "id": "primark-goes-online-while-abf-145055921.html",
     "title": "Primark Goes Online While ABF Goes Down",
     "tokens": [
@@ -23254,5 +23158,101 @@
       "what"
     ],
     "ts": 1789267940.399904
+  },
+  {
+    "id": "what-are-bank-fees-and-how-do-i-avoid-them-143247755.html",
+    "title": "6 common bank fees, and how to avoid them",
+    "tokens": [
+      "avoid",
+      "bank",
+      "common",
+      "fees",
+      "how",
+      "them"
+    ],
+    "ts": 1789269061.9037046
+  },
+  {
+    "id": "can-you-lose-money-in-a-high-yield-savings-account-194525226.html",
+    "title": "Can you lose money in a high-yield savings account?",
+    "tokens": [
+      "account",
+      "can",
+      "high",
+      "lose",
+      "money",
+      "savings",
+      "yield",
+      "you"
+    ],
+    "ts": 1789269070.0072422
+  },
+  {
+    "id": "coca-cola-loses-30-u-203500461.html",
+    "title": "Coca-Cola Loses to 30-year U.S. Treasury Bonds on Yield. Here's Why It Wins on Everything Else.",
+    "tokens": [
+      "bonds",
+      "coca",
+      "cola",
+      "else",
+      "everything",
+      "here",
+      "loses",
+      "treasury",
+      "why",
+      "wins",
+      "year",
+      "yield"
+    ],
+    "ts": 1789269078.3553894
+  },
+  {
+    "id": "jim-cramer-sees-enterprise-products-202320899.html",
+    "title": "Jim Cramer Sees Enterprise Products Partners (EPD) as a Pipeline Winner",
+    "tokens": [
+      "cramer",
+      "enterprise",
+      "epd",
+      "jim",
+      "partners",
+      "pipeline",
+      "products",
+      "sees",
+      "winner"
+    ],
+    "ts": 1789269086.0284243
+  },
+  {
+    "id": "peak-back-future-proof-citywide-202158735.html",
+    "title": "A Peak Back at Future Proof Citywide with Tom Lee",
+    "tokens": [
+      "back",
+      "citywide",
+      "future",
+      "lee",
+      "peak",
+      "proof",
+      "tom"
+    ],
+    "ts": 1789269093.3592591
+  },
+  {
+    "id": "jim-cramer-explains-why-enbridge-202059687.html",
+    "title": "Jim Cramer Explains Why Enbridge (ENB) Offers a Secure Play During Market Volatility",
+    "tokens": [
+      "cramer",
+      "during",
+      "enb",
+      "enbridge",
+      "explains",
+      "jim",
+      "market",
+      "offers",
+      "play",
+      "secure",
+      "volatility",
+      "why"
+    ],
+    "ts": 1789269100.9744802
   }
 ]

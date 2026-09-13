@@ -1,52 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/wall-st-set-for-lower-open-after-hotterthanexpected-producer-inflation-data-4896053",
-    "title": "Wall St slips after hotter-than-expected producer inflation data",
-    "tokens": [
-      "data",
-      "expected",
-      "hotter",
-      "inflation",
-      "producer",
-      "slips",
-      "wall"
-    ],
-    "ts": 1789052104.3097448
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/tevogen-regains-nasdaq-compliance-with-minimum-market-value-requirement-93CH-4896349",
-    "title": "Tevogen regains Nasdaq compliance with minimum market value requirement",
-    "tokens": [
-      "compliance",
-      "market",
-      "minimum",
-      "nasdaq",
-      "regains",
-      "requirement",
-      "tevogen",
-      "value"
-    ],
-    "ts": 1789052112.097019
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/boeing-technical-analysis-strong-sell-signal-across-daily-weekly-and-hourly-charts-93CH-4896348",
-    "title": "Boeing technical analysis: Strong Sell signal across daily, weekly and hourly charts",
-    "tokens": [
-      "across",
-      "analysis",
-      "boeing",
-      "charts",
-      "daily",
-      "hourly",
-      "sell",
-      "signal",
-      "strong",
-      "technical",
-      "weekly"
-    ],
-    "ts": 1789052120.427224
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/faeth-therapeutics-at-cantor-fitzgerald-conference-oral-pi3k-push-93CH-4896337",
     "title": "Faeth Therapeutics at Cantor Fitzgerald conference: oral PI3K push",
     "tokens": [
@@ -23250,5 +23203,48 @@
       "only"
     ],
     "ts": 1789261766.4913635
+  },
+  {
+    "id": "bsx-stock-pullback-worth-patience-185032380.html",
+    "title": "Is This BSX Stock Pullback Worth The Patience?",
+    "tokens": [
+      "bsx",
+      "patience",
+      "pullback",
+      "stock",
+      "worth"
+    ],
+    "ts": 1789262770.7868724
+  },
+  {
+    "id": "navan-navn-growth-accelerates-execution-190157019.html",
+    "title": "Navan (NAVN) Growth Accelerates, but Execution Risks Remain",
+    "tokens": [
+      "accelerates",
+      "execution",
+      "growth",
+      "navan",
+      "navn",
+      "remain",
+      "risks"
+    ],
+    "ts": 1789262778.2365813
+  },
+  {
+    "id": "crude-prices-fall-back-iea-190838598.html",
+    "title": "Crude Prices Fall Back After IEA Forecasts Sharp Drop in Oil Demand",
+    "tokens": [
+      "back",
+      "crude",
+      "demand",
+      "drop",
+      "fall",
+      "forecasts",
+      "iea",
+      "oil",
+      "prices",
+      "sharp"
+    ],
+    "ts": 1789262786.1860714
   }
 ]

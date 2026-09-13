@@ -1,34 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-guru-organic-energy-tops-q3-2026-estimates-93CH-4896350",
-    "title": "Earnings call transcript: GURU Organic Energy tops Q3 2026 estimates",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "energy",
-      "estimates",
-      "guru",
-      "organic",
-      "tops",
-      "transcript"
-    ],
-    "ts": 1789052086.987316
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-digital-brands-stock-surging-today-93CH-4896351",
-    "title": "Why is Digital Brands stock surging today?",
-    "tokens": [
-      "brands",
-      "digital",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789052094.9339442
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/wall-st-set-for-lower-open-after-hotterthanexpected-producer-inflation-data-4896053",
     "title": "Wall St slips after hotter-than-expected producer inflation data",
     "tokens": [
@@ -23249,5 +23220,35 @@
       "trn"
     ],
     "ts": 1789260940.3209956
+  },
+  {
+    "id": "did-repeat-buyers-tell-crowdstrike-184347748.html",
+    "title": "Did Repeat Buyers Tell You CrowdStrike Stock Would Run?",
+    "tokens": [
+      "buyers",
+      "crowdstrike",
+      "did",
+      "repeat",
+      "run",
+      "stock",
+      "tell",
+      "would",
+      "you"
+    ],
+    "ts": 1789261759.4279466
+  },
+  {
+    "id": "fed-chair-only-knows-high-185601157.html",
+    "title": "The New Fed Chair Only Knows High Inflation and That Matters",
+    "tokens": [
+      "chair",
+      "fed",
+      "high",
+      "inflation",
+      "knows",
+      "matters",
+      "only"
+    ],
+    "ts": 1789261766.4913635
   }
 ]

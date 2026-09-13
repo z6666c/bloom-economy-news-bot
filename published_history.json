@@ -1,36 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/faeth-therapeutics-at-cantor-fitzgerald-conference-oral-pi3k-push-93CH-4896337",
-    "title": "Faeth Therapeutics at Cantor Fitzgerald conference: oral PI3K push",
-    "tokens": [
-      "cantor",
-      "conference",
-      "faeth",
-      "fitzgerald",
-      "oral",
-      "pi3k",
-      "push",
-      "therapeutics"
-    ],
-    "ts": 1789052128.9738584
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/oracle-earnings-readthroughs-cloud-rivals-ai-suppliers-and-hyperscalers-to-watch-93CH-4896336",
-    "title": "Oracle earnings read-throughs: cloud rivals, AI suppliers, and hyperscalers to watch",
-    "tokens": [
-      "cloud",
-      "earnings",
-      "hyperscalers",
-      "oracle",
-      "read",
-      "rivals",
-      "suppliers",
-      "throughs",
-      "watch"
-    ],
-    "ts": 1789052138.0356832
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/iff-at-barclays-consumer-conference-turnaround-gains-traction-93CH-4896335",
     "title": "IFF at Barclays consumer conference: turnaround gains traction",
     "tokens": [
@@ -23246,5 +23215,38 @@
       "sharp"
     ],
     "ts": 1789262786.1860714
+  },
+  {
+    "id": "stock-futures-nudge-up-yields-slip-but-markets-remain-on-edge-035097c4?siteid=yhoof2&yptr=yahoo",
+    "title": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike",
+    "tokens": [
+      "boosts",
+      "figure",
+      "gain",
+      "hike",
+      "inflation",
+      "odds",
+      "rate",
+      "stocks"
+    ],
+    "ts": 1789263644.1742256
+  },
+  {
+    "id": "gme-stock-jumps-gamestop-ceo-191403876.html",
+    "title": "GME Stock Jumps as GameStop CEO Ryan Cohen Buys $20 Million Worth of Shares",
+    "tokens": [
+      "buys",
+      "ceo",
+      "cohen",
+      "gamestop",
+      "gme",
+      "jumps",
+      "million",
+      "ryan",
+      "shares",
+      "stock",
+      "worth"
+    ],
+    "ts": 1789263651.3222911
   }
 ]

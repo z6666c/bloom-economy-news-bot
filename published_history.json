@@ -1,142 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
-    "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
-    "tokens": [
-      "before",
-      "bilateral",
-      "deal",
-      "elections",
-      "mexico",
-      "sprint",
-      "toward",
-      "trade",
-      "washington"
-    ],
-    "ts": 1789122525.6959662
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-copart-stock-surging-today-93CH-4897535",
-    "title": "Why is Copart stock surging today?",
-    "tokens": [
-      "copart",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789122529.7123475
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/investors-pull-money-from-equity-funds-as-rising-oil-prices-fuel-inflation-fears-4897534",
-    "title": "Investors pull money from equity funds as rising oil prices fuel inflation fears",
-    "tokens": [
-      "equity",
-      "fears",
-      "fuel",
-      "funds",
-      "inflation",
-      "investors",
-      "money",
-      "oil",
-      "prices",
-      "pull",
-      "rising"
-    ],
-    "ts": 1789122534.8827069
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jmp-securities-maintains-oracle-stock-rating-on-strong-q1-results-93CH-4897526",
-    "title": "JMP Securities maintains Oracle stock rating on strong Q1 results",
-    "tokens": [
-      "jmp",
-      "maintains",
-      "oracle",
-      "rating",
-      "results",
-      "securities",
-      "stock",
-      "strong"
-    ],
-    "ts": 1789122542.9179046
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/liberty-global-invests-in-positron-ais-875m-funding-round-93CH-4897513",
-    "title": "Liberty Global invests in Positron AI’s $875m funding round",
-    "tokens": [
-      "875m",
-      "funding",
-      "global",
-      "invests",
-      "liberty",
-      "positron",
-      "round"
-    ],
-    "ts": 1789122551.1464102
-  },
-  {
-    "id": "servicetitan-ttan-bets-max-despite-223544402.html",
-    "title": "ServiceTitan (TTAN) Bets on Max Despite Near-Term Headwinds",
-    "tokens": [
-      "bets",
-      "despite",
-      "headwinds",
-      "max",
-      "near",
-      "servicetitan",
-      "term",
-      "ttan"
-    ],
-    "ts": 1789122558.900308
-  },
-  {
-    "id": "investors-brush-off-bessent-surge-223728624.html",
-    "title": "Investors Brush Off Bessent’s Surge in Buybacks",
-    "tokens": [
-      "bessent",
-      "brush",
-      "buybacks",
-      "investors",
-      "off",
-      "surge"
-    ],
-    "ts": 1789122566.9908373
-  },
-  {
-    "id": "dd1c1751-0c87-4025-832e-3a1830ba3081",
-    "title": "Bitcoin pulls back as another golden cross fails to deliver",
-    "tokens": [
-      "another",
-      "back",
-      "bitcoin",
-      "cross",
-      "deliver",
-      "fails",
-      "golden",
-      "pulls"
-    ],
-    "ts": 1789122577.0044339
-  },
-  {
-    "id": "WP-MKTW-0005227745",
-    "title": "Never mind the bond yields, Bank of America shows where the real threat to the economy lies",
-    "tokens": [
-      "america",
-      "bank",
-      "bond",
-      "economy",
-      "lies",
-      "mind",
-      "never",
-      "real",
-      "shows",
-      "threat",
-      "where",
-      "yields"
-    ],
-    "ts": 1789123444.2651565
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/russias-central-bank-holds-key-rate-at-14-93CH-4897568",
     "title": "Russia’s central bank holds key rate at 14%",
     "tokens": [
@@ -23139,5 +23002,146 @@
       "prices"
     ],
     "ts": 1789424001.5719905
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-dave--busters-q2-2026-miss-sends-shares-lower-93CH-4900648",
+    "title": "Earnings call transcript: Dave & Buster’s Q2 2026 miss sends shares lower",
+    "tokens": [
+      "2026",
+      "buster",
+      "call",
+      "dave",
+      "earnings",
+      "lower",
+      "miss",
+      "sends",
+      "shares",
+      "transcript"
+    ],
+    "ts": 1789424913.122138
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/actuate-therapeutics-at-hc-wainwright-conference-oral-pivot-gains-focus-93CH-4900647",
+    "title": "Actuate Therapeutics at H.C. Wainwright conference: oral pivot gains focus",
+    "tokens": [
+      "actuate",
+      "conference",
+      "focus",
+      "gains",
+      "oral",
+      "pivot",
+      "therapeutics",
+      "wainwright"
+    ],
+    "ts": 1789424919.9211721
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-ntsb-says-onethird-of-faa-answers-to-safety-recommendations-are-unacceptable-4900646",
+    "title": "US NTSB says one-third of FAA answers to safety recommendations are ’unacceptable’",
+    "tokens": [
+      "answers",
+      "faa",
+      "ntsb",
+      "one",
+      "recommendations",
+      "safety",
+      "third",
+      "unacceptable"
+    ],
+    "ts": 1789424927.2893877
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
+    "title": "US 10-year yields reach 5%, highest since 2023",
+    "tokens": [
+      "2023",
+      "highest",
+      "reach",
+      "since",
+      "year",
+      "yields"
+    ],
+    "ts": 1789424934.869583
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/inspiremd-at-hc-wainwright-conference-eyeing-carotid-market-share-93CH-4900645",
+    "title": "InspireMD at H.C. Wainwright conference: eyeing carotid market share",
+    "tokens": [
+      "carotid",
+      "conference",
+      "eyeing",
+      "inspiremd",
+      "market",
+      "share",
+      "wainwright"
+    ],
+    "ts": 1789424941.9208217
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/atricure-director-regina-groves-sells-288070-of-stock-93CH-4900644",
+    "title": "AtriCure director Regina Groves sells $288,070 of stock",
+    "tokens": [
+      "070",
+      "288",
+      "atricure",
+      "director",
+      "groves",
+      "regina",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789424948.8431282
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/zevra-at-morgan-stanley-conference-raredisease-market-looks-bigger-93CH-4900643",
+    "title": "Zevra at Morgan Stanley conference: rare-disease market looks bigger",
+    "tokens": [
+      "bigger",
+      "conference",
+      "disease",
+      "looks",
+      "market",
+      "morgan",
+      "rare",
+      "stanley",
+      "zevra"
+    ],
+    "ts": 1789424955.8816323
+  },
+  {
+    "id": "willis-lease-finance-wlfc-grows-134921293.html",
+    "title": "Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks",
+    "tokens": [
+      "bottom",
+      "fast",
+      "finance",
+      "grows",
+      "lease",
+      "line",
+      "shrinks",
+      "while",
+      "willis",
+      "wlfc"
+    ],
+    "ts": 1789424963.7781858
+  },
+  {
+    "id": "conocophillips-stock-worth-buying-shorting-140002756.html",
+    "title": "Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays",
+    "tokens": [
+      "better",
+      "buying",
+      "conocophillips",
+      "cop",
+      "credit",
+      "here",
+      "plays",
+      "puts",
+      "shorting",
+      "spreads",
+      "stock",
+      "worth"
+    ],
+    "ts": 1789424971.02702
   }
 ]

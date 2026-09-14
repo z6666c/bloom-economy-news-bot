@@ -1,234 +1,5 @@
 [
   {
-    "id": "jim-cramer-picks-j-j-191240795.html",
-    "title": "Jim Cramer Picks J&J (JNJ) Over Eli Lilly (LLY) and Pfizer (PFE) Among These Healthcare Stocks",
-    "tokens": [
-      "among",
-      "cramer",
-      "eli",
-      "healthcare",
-      "jim",
-      "jnj",
-      "lilly",
-      "lly",
-      "pfe",
-      "pfizer",
-      "picks",
-      "stocks",
-      "these"
-    ],
-    "ts": 1789109950.8164015
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-novo-nordisk-stock-rating-on-growth-concerns-93CH-4897292",
-    "title": "Morgan Stanley downgrades Novo Nordisk stock rating on growth concerns",
-    "tokens": [
-      "concerns",
-      "downgrades",
-      "growth",
-      "morgan",
-      "nordisk",
-      "novo",
-      "rating",
-      "stanley",
-      "stock"
-    ],
-    "ts": 1789110818.3594036
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/european-stocks-heading-for-worst-week-since-april-as-ecb-hike-batters-risk-4897227",
-    "title": "European stocks heading for worst week since April as ECB hike batters risk",
-    "tokens": [
-      "april",
-      "batters",
-      "ecb",
-      "european",
-      "heading",
-      "hike",
-      "risk",
-      "since",
-      "stocks",
-      "week",
-      "worst"
-    ],
-    "ts": 1789110826.3257327
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trainline-h1-revenue-slips-as-uk-refund-changes-offset-b2b-growth-4897279",
-    "title": "Trainline H1 revenue beats consensus despite slowing segment growth",
-    "tokens": [
-      "beats",
-      "consensus",
-      "despite",
-      "growth",
-      "revenue",
-      "segment",
-      "slowing",
-      "trainline"
-    ],
-    "ts": 1789110835.162988
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/wellnex-life-completes-sale-of-pain-away-business-93CH-4897289",
-    "title": "Wellnex Life completes sale of Pain Away business",
-    "tokens": [
-      "away",
-      "business",
-      "completes",
-      "life",
-      "pain",
-      "sale",
-      "wellnex"
-    ],
-    "ts": 1789110845.9944181
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/these-five-stocks-are-citis-top-picks-in-the-chinese-internet-sector-93CH-4897288",
-    "title": "These Five Stocks are Citi’s Top Picks in the Chinese Internet Sector",
-    "tokens": [
-      "chinese",
-      "citi",
-      "five",
-      "internet",
-      "picks",
-      "sector",
-      "stocks",
-      "these",
-      "top"
-    ],
-    "ts": 1789110853.6838994
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-prices-set-to-end-week-over-100-for-first-time-in-nearly-4-months-4897153",
-    "title": "Oil prices set to end week above $100 for first time in nearly 4 months",
-    "tokens": [
-      "100",
-      "above",
-      "end",
-      "first",
-      "months",
-      "nearly",
-      "oil",
-      "prices",
-      "set",
-      "time",
-      "week"
-    ],
-    "ts": 1789110862.535864
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-187-4897281",
-    "title": "Japan stocks lower at close of trade; Nikkei 225 down 1.87%",
-    "tokens": [
-      "225",
-      "close",
-      "japan",
-      "lower",
-      "nikkei",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789110870.0511467
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tatton-asset-management-executives-exercise-stock-options-93CH-4897278",
-    "title": "Tatton Asset Management executives exercise stock options",
-    "tokens": [
-      "asset",
-      "executives",
-      "exercise",
-      "management",
-      "options",
-      "stock",
-      "tatton"
-    ],
-    "ts": 1789110877.5491612
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/berkeley-warns-of-weak-housing-demand-ahead-of-uk-budget-urges-urgent-tax-reform-4897277",
-    "title": "Berkeley warns of weak housing demand ahead of UK budget, urges urgent tax reform",
-    "tokens": [
-      "ahead",
-      "berkeley",
-      "budget",
-      "demand",
-      "housing",
-      "reform",
-      "tax",
-      "urgent",
-      "urges",
-      "warns",
-      "weak"
-    ],
-    "ts": 1789110885.6091962
-  },
-  {
-    "id": "verizon-says-turnaround-gaining-speed-190223202.html",
-    "title": "Verizon Says Turnaround Is Gaining Speed as Broadband, AI Opportunities Expand",
-    "tokens": [
-      "broadband",
-      "expand",
-      "gaining",
-      "opportunities",
-      "speed",
-      "turnaround",
-      "verizon"
-    ],
-    "ts": 1789110894.0435212
-  },
-  {
-    "id": "pinterest-tumbles-8-reddit-snap-190118968.html",
-    "title": "Pinterest Tumbles 8%, Reddit and Snap Pull Back: Is the Premium Multiple Unwinding?",
-    "tokens": [
-      "back",
-      "multiple",
-      "pinterest",
-      "premium",
-      "pull",
-      "reddit",
-      "snap",
-      "tumbles",
-      "unwinding"
-    ],
-    "ts": 1789110902.7937257
-  },
-  {
-    "id": "apple-unveils-first-foldable-iphone-191530683.html",
-    "title": "Apple Unveils Its First Foldable iPhone Today: The ETFs That Will Feel It Most",
-    "tokens": [
-      "apple",
-      "etfs",
-      "feel",
-      "first",
-      "foldable",
-      "iphone",
-      "most",
-      "today",
-      "unveils"
-    ],
-    "ts": 1789110911.2155247
-  },
-  {
-    "id": "WP-MKTW-0005225995",
-    "title": "Traditional portfolio diversification isn’t cutting it anymore. Here’s where to pivot, says this $624 billion fund manager.",
-    "tokens": [
-      "624",
-      "anymore",
-      "billion",
-      "cutting",
-      "diversification",
-      "fund",
-      "here",
-      "isn",
-      "manager",
-      "pivot",
-      "portfolio",
-      "traditional",
-      "where"
-    ],
-    "ts": 1789111835.280504
-  },
-  {
     "id": "comcast-stock-charter-communications-s-p-500-48ede73b?siteid=yhoof2&yptr=yahoo",
     "title": "Why Comcast Stock Is One of the Worst Performers in the S&P 500 Today",
     "tokens": [
@@ -23136,5 +22907,226 @@
       "war"
     ],
     "ts": 1789413383.14423
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-roblox-stock-surging-today-93CH-4900261",
+    "title": "Why is Roblox stock surging today?",
+    "tokens": [
+      "roblox",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789414227.0722272
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4900260",
+    "title": "Ahead of Fed meeting, Trump says US should have world’s lowest interest rate",
+    "tokens": [
+      "ahead",
+      "fed",
+      "interest",
+      "lowest",
+      "meeting",
+      "rate",
+      "should",
+      "trump",
+      "world"
+    ],
+    "ts": 1789414231.6890924
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-pinterest-stock-rising-today-93CH-4900259",
+    "title": "Why is Pinterest stock rising today?",
+    "tokens": [
+      "pinterest",
+      "rising",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789414239.5825753
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/takeda-at-morgan-stanley-global-healthcare-conference-pipeline-turns-to-launches-93CH-4900257",
+    "title": "Takeda at Morgan Stanley global healthcare conference: pipeline turns to launches",
+    "tokens": [
+      "conference",
+      "global",
+      "healthcare",
+      "launches",
+      "morgan",
+      "pipeline",
+      "stanley",
+      "takeda",
+      "turns"
+    ],
+    "ts": 1789414246.6289423
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/zentalis-at-morgan-stanley-conference-azenosertib-push-gains-shape-93CH-4900256",
+    "title": "Zentalis at Morgan Stanley conference: azenosertib push gains shape",
+    "tokens": [
+      "azenosertib",
+      "conference",
+      "gains",
+      "morgan",
+      "push",
+      "shape",
+      "stanley",
+      "zentalis"
+    ],
+    "ts": 1789414254.1010997
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/avgo-orcl-and-mu-comparing-three-ai-infrastructure-stocks-after-a-sector-selloff-93CH-4900255",
+    "title": "AVGO, ORCL and MU: comparing three AI infrastructure stocks after a sector selloff",
+    "tokens": [
+      "avgo",
+      "comparing",
+      "infrastructure",
+      "orcl",
+      "sector",
+      "selloff",
+      "stocks",
+      "three"
+    ],
+    "ts": 1789414261.71256
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/alphabet-c-stuck-in-chop-zone-at-341-hourly-levels-93CH-4899897",
+    "title": "Alphabet C breaks Ichimoku cloud near Fibonacci resistance: Live",
+    "tokens": [
+      "alphabet",
+      "breaks",
+      "cloud",
+      "fibonacci",
+      "ichimoku",
+      "live",
+      "near",
+      "resistance"
+    ],
+    "ts": 1789414269.010821
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+    "title": "Bitcoin nears $80K bull trap zone with weak ADX: Live levels",
+    "tokens": [
+      "80k",
+      "adx",
+      "bitcoin",
+      "bull",
+      "levels",
+      "live",
+      "nears",
+      "trap",
+      "weak",
+      "zone"
+    ],
+    "ts": 1789414276.5692654
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tesla-trapped-in-350370-range-bull-flag-70-done-live-levels-93CH-4899895",
+    "title": "Tesla wedged at $359 as bull flag nears resolution: Live levels",
+    "tokens": [
+      "359",
+      "bull",
+      "flag",
+      "levels",
+      "live",
+      "nears",
+      "resolution",
+      "tesla",
+      "wedged"
+    ],
+    "ts": 1789414284.0755236
+  },
+  {
+    "id": "snowflake-snow-growing-faster-now-102813308.html",
+    "title": "Snowflake (SNOW) Is Growing Faster Now Than It Was A Year Ago",
+    "tokens": [
+      "ago",
+      "faster",
+      "growing",
+      "now",
+      "snow",
+      "snowflake",
+      "year"
+    ],
+    "ts": 1789414291.239563
+  },
+  {
+    "id": "nvidia-may-put-10-billion-103618397.html",
+    "title": "Nvidia May Put $10 Billion Into Anthropic’s $2 Trillion IPO. Amazon Already Has Much More Riding on It",
+    "tokens": [
+      "already",
+      "amazon",
+      "anthropic",
+      "billion",
+      "ipo",
+      "may",
+      "more",
+      "much",
+      "nvidia",
+      "put",
+      "riding",
+      "trillion"
+    ],
+    "ts": 1789414298.6313791
+  },
+  {
+    "id": "rex-american-resources-rex-notches-103748951.html",
+    "title": "REX American Resources (REX) Notches A Record Quarter, Then Doubts Creep In",
+    "tokens": [
+      "american",
+      "creep",
+      "doubts",
+      "notches",
+      "quarter",
+      "record",
+      "resources",
+      "rex",
+      "then"
+    ],
+    "ts": 1789414305.8286233
+  },
+  {
+    "id": "spacex-says-mystery-ai-customer-104230984.html",
+    "title": "SpaceX Says a Mystery AI Customer Adds $1.11 Billion a Month. Google Shows How Fast Compute Is Growing",
+    "tokens": [
+      "adds",
+      "billion",
+      "compute",
+      "customer",
+      "fast",
+      "google",
+      "growing",
+      "how",
+      "month",
+      "mystery",
+      "shows",
+      "spacex"
+    ],
+    "ts": 1789414313.0686607
+  },
+  {
+    "id": "7f634901-d797-4a76-96ca-aa8100fd6569",
+    "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
+    "tokens": [
+      "800",
+      "becoming",
+      "financial",
+      "liberty",
+      "million",
+      "now",
+      "sellable",
+      "stake",
+      "timeline",
+      "token",
+      "trump",
+      "world"
+    ],
+    "ts": 1789414321.0800793
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/td-cowen-raises-oneok-stock-price-target-to-93-on-ma-outlook-93CH-4897614",
-    "title": "TD Cowen raises Oneok stock price target to $93 on M&A outlook",
-    "tokens": [
-      "cowen",
-      "oneok",
-      "outlook",
-      "price",
-      "raises",
-      "stock",
-      "target"
-    ],
-    "ts": 1789125107.6156874
-  },
-  {
     "id": "https://www.investing.com/news/company-news/citi-trends-cfo-heather-plutino-to-step-down-93CH-4897613",
     "title": "Citi Trends CFO Heather Plutino to step down",
     "tokens": [
@@ -23168,5 +23154,21 @@
       "uranium"
     ],
     "ts": 1789427606.574856
+  },
+  {
+    "id": "pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
+    "title": "Pay is back on the rise for job switchers, even in low-hire job market",
+    "tokens": [
+      "back",
+      "even",
+      "hire",
+      "job",
+      "low",
+      "market",
+      "pay",
+      "rise",
+      "switchers"
+    ],
+    "ts": 1789428338.3392806
   }
 ]

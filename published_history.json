@@ -1,96 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback",
-    "title": "EU finance groups push to remove tokenized securities cap",
-    "tokens": [
-      "cap",
-      "finance",
-      "groups",
-      "push",
-      "remove",
-      "securities",
-      "tokenized"
-    ],
-    "ts": 1789056938.1220582
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/navan-at-goldman-sachs-communacopia--technology-conference-2026-ai-push-93CH-4896513",
-    "title": "Navan at Goldman Sachs Communacopia + Technology Conference 2026: ai push",
-    "tokens": [
-      "2026",
-      "communacopia",
-      "conference",
-      "goldman",
-      "navan",
-      "push",
-      "sachs",
-      "technology"
-    ],
-    "ts": 1789057696.2371554
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/uae-plans-to-invest-46-billion-in-germany-93CH-4896512",
-    "title": "UAE plans to invest $46 billion in Germany",
-    "tokens": [
-      "billion",
-      "germany",
-      "invest",
-      "plans",
-      "uae"
-    ],
-    "ts": 1789057700.7531066
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/ecb-governors-see-more-tightening-ahead-with-october-in-play-4896511",
-    "title": "ECB governors see more tightening ahead with October in play",
-    "tokens": [
-      "ahead",
-      "ecb",
-      "governors",
-      "more",
-      "october",
-      "play",
-      "see",
-      "tightening"
-    ],
-    "ts": 1789057712.0663323
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiveuk-deepens-reliance-on-musks-spacex-spending-nearly-40-million-on-satellite-services-4895622",
-    "title": "Exclusive-UK deepens reliance on Musk’s SpaceX, spending nearly $40 million on satellite services",
-    "tokens": [
-      "deepens",
-      "exclusive",
-      "million",
-      "musk",
-      "nearly",
-      "reliance",
-      "satellite",
-      "services",
-      "spacex",
-      "spending"
-    ],
-    "ts": 1789057719.8175905
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/pattern-group-at-goldman-sachs-communacopia--technology-conference-2026-broadening-beyond-amazon-93CH-4896510",
-    "title": "Pattern Group at Goldman Sachs Communacopia + Technology Conference 2026: broadening beyond Amazon",
-    "tokens": [
-      "2026",
-      "amazon",
-      "beyond",
-      "broadening",
-      "communacopia",
-      "conference",
-      "goldman",
-      "group",
-      "pattern",
-      "sachs",
-      "technology"
-    ],
-    "ts": 1789057728.0384073
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/td-cowen-cuts-american-eagle-stock-price-target-on-denim-weakness-93CH-4896509",
     "title": "TD Cowen cuts American Eagle stock price target on denim weakness",
     "tokens": [
@@ -23220,5 +23129,87 @@
       "underperforming"
     ],
     "ts": 1789361224.0081844
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
+    "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
+    "tokens": [
+      "000",
+      "budget",
+      "calls",
+      "easy",
+      "federal",
+      "fit",
+      "payouts",
+      "trump"
+    ],
+    "ts": 1789362627.8069673
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-henan-hanwei-electronics-stock-climbing-today-93CH-4898819",
+    "title": "Why is Henan Hanwei Electronics stock climbing today?",
+    "tokens": [
+      "climbing",
+      "electronics",
+      "hanwei",
+      "henan",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789362635.412712
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trump-says-he-would-be-ok-with-china-building-cars-in-us-4898818",
+    "title": "Trump says he would be OK with China building cars in US",
+    "tokens": [
+      "building",
+      "cars",
+      "china",
+      "trump",
+      "would"
+    ],
+    "ts": 1789362641.4407358
+  },
+  {
+    "id": "better-ai-chip-stock-broadcom-174600948.html",
+    "title": "Better AI Chip Stock: Broadcom vs. Nvidia",
+    "tokens": [
+      "better",
+      "broadcom",
+      "chip",
+      "nvidia",
+      "stock"
+    ],
+    "ts": 1789362648.41237
+  },
+  {
+    "id": "dear-unitedhealth-stock-fans-mark-183002378.html",
+    "title": "Dear UnitedHealth Stock Fans, Mark Your Calendars for October 1",
+    "tokens": [
+      "calendars",
+      "dear",
+      "fans",
+      "mark",
+      "october",
+      "stock",
+      "unitedhealth",
+      "your"
+    ],
+    "ts": 1789362654.6707401
+  },
+  {
+    "id": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks",
+    "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
+    "tokens": [
+      "ceo",
+      "issuers",
+      "robinhood",
+      "should",
+      "stocks",
+      "tokenized",
+      "veto"
+    ],
+    "ts": 1789362662.5496027
   }
 ]

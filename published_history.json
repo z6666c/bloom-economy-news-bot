@@ -1,109 +1,5 @@
 [
   {
-    "id": "trump-administration-proposes-waiving-grace-152322715.html",
-    "title": "Trump administration proposes waiving grace period for H-1B holders after job loss",
-    "tokens": [
-      "administration",
-      "grace",
-      "holders",
-      "job",
-      "loss",
-      "period",
-      "proposes",
-      "trump",
-      "waiving"
-    ],
-    "ts": 1789056883.0386934
-  },
-  {
-    "id": "oilprice-article-45467",
-    "title": "U.S. Crude Inventories Fall As Brent Prices Soar",
-    "tokens": [
-      "brent",
-      "crude",
-      "fall",
-      "inventories",
-      "prices",
-      "soar"
-    ],
-    "ts": 1789056887.7151406
-  },
-  {
-    "id": "oilprice-article-45461",
-    "title": "The Race to Cut Methane Emissions Is Exposing a Global Divide",
-    "tokens": [
-      "cut",
-      "divide",
-      "emissions",
-      "exposing",
-      "global",
-      "methane",
-      "race"
-    ],
-    "ts": 1789056896.4777822
-  },
-  {
-    "id": "oilprice-news-45467",
-    "title": "Senegal to Offer 109 Oil and Gas Blocks to Investors",
-    "tokens": [
-      "109",
-      "blocks",
-      "gas",
-      "investors",
-      "offer",
-      "oil",
-      "senegal"
-    ],
-    "ts": 1789056905.0402386
-  },
-  {
-    "id": "oilprice-news-45461",
-    "title": "TotalEnergies to Bring New Angola Discovery Online in Just Three Months",
-    "tokens": [
-      "angola",
-      "bring",
-      "discovery",
-      "just",
-      "months",
-      "online",
-      "three",
-      "totalenergies"
-    ],
-    "ts": 1789056912.6449673
-  },
-  {
-    "id": "3d3e96bd-8fdd-42f1-9d45-c08f7e5e4dde",
-    "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
-    "tokens": [
-      "amazon",
-      "cfo",
-      "chief",
-      "finance",
-      "first",
-      "former",
-      "jenson",
-      "names",
-      "polymarket",
-      "warren"
-    ],
-    "ts": 1789056920.824961
-  },
-  {
-    "id": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand",
-    "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
-    "tokens": [
-      "card",
-      "expand",
-      "launches",
-      "moneygram",
-      "remittance",
-      "rivals",
-      "stablecoin",
-      "visa"
-    ],
-    "ts": 1789056930.1714346
-  },
-  {
     "id": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback",
     "title": "EU finance groups push to remove tokenized securities cap",
     "tokens": [
@@ -23231,5 +23127,98 @@
       "utilities"
     ],
     "ts": 1789360203.1476057
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/morning-bid-shipping-oil-gets-ever-harder-costlier-4898817",
+    "title": "Morning Bid: Shipping oil gets ever harder, costlier",
+    "tokens": [
+      "bid",
+      "costlier",
+      "ever",
+      "gets",
+      "harder",
+      "morning",
+      "oil",
+      "shipping"
+    ],
+    "ts": 1789361190.2290013
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-lenovo-stock-surging-today-93CH-4898816",
+    "title": "Why is Lenovo stock surging today?",
+    "tokens": [
+      "lenovo",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789361194.2417605
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-akeso-stock-rallying-today-93CH-4898815",
+    "title": "Why is Akeso stock rallying today?",
+    "tokens": [
+      "akeso",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789361197.0783098
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/hormuz-shipping-traffic-remains-below-10day-average-at-weekend-data-shows-4898814",
+    "title": "Hormuz shipping traffic remains below 10-day average at weekend, data shows",
+    "tokens": [
+      "average",
+      "below",
+      "data",
+      "day",
+      "hormuz",
+      "remains",
+      "shipping",
+      "shows",
+      "traffic",
+      "weekend"
+    ],
+    "ts": 1789361203.70155
+  },
+  {
+    "id": "sysco-stock-underperforming-dow-174851000.html",
+    "title": "Is Sysco Stock Underperforming the Dow?",
+    "tokens": [
+      "dow",
+      "stock",
+      "sysco",
+      "underperforming"
+    ],
+    "ts": 1789361211.0836837
+  },
+  {
+    "id": "ignore-mp-materials-buy-rare-173300735.html",
+    "title": "Should You Ignore MP Materials and Buy This Rare-Earth Stock Instead?",
+    "tokens": [
+      "buy",
+      "earth",
+      "ignore",
+      "instead",
+      "materials",
+      "rare",
+      "should",
+      "stock",
+      "you"
+    ],
+    "ts": 1789361217.6845384
+  },
+  {
+    "id": "kenvue-underperforming-nasdaq-175724434.html",
+    "title": "Is Kenvue Underperforming the Nasdaq?",
+    "tokens": [
+      "kenvue",
+      "nasdaq",
+      "underperforming"
+    ],
+    "ts": 1789361224.0081844
   }
 ]

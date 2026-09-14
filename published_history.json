@@ -1,275 +1,5 @@
 [
   {
-    "id": "https://www.eia.gov/pressroom/releases/press591.php",
-    "title": "EIA expects highest natural gas inventories in a decade heading into winter",
-    "tokens": [
-      "decade",
-      "eia",
-      "expects",
-      "gas",
-      "heading",
-      "highest",
-      "inventories",
-      "natural",
-      "winter"
-    ],
-    "ts": 1789058689.1309848
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press590.php",
-    "title": "EIA increases global oil production forecast after the opening of the Strait of Hormuz",
-    "tokens": [
-      "eia",
-      "forecast",
-      "global",
-      "hormuz",
-      "increases",
-      "oil",
-      "opening",
-      "production",
-      "strait"
-    ],
-    "ts": 1789058698.4184036
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press589.php",
-    "title": "EIA expects a drop in global oil demand will limit price increases from Hormuz disruptions",
-    "tokens": [
-      "demand",
-      "disruptions",
-      "drop",
-      "eia",
-      "expects",
-      "global",
-      "hormuz",
-      "increases",
-      "limit",
-      "oil",
-      "price"
-    ],
-    "ts": 1789058708.442674
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press588.php",
-    "title": "EIA updates forecast amid continued Mideast disruption; will publish new energy security datasets",
-    "tokens": [
-      "continued",
-      "datasets",
-      "disruption",
-      "eia",
-      "energy",
-      "forecast",
-      "mideast",
-      "publish",
-      "security",
-      "updates"
-    ],
-    "ts": 1789058715.7747443
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press587.php",
-    "title": "EIA releases the Annual Energy Outlook 2026",
-    "tokens": [
-      "2026",
-      "annual",
-      "eia",
-      "energy",
-      "outlook",
-      "releases"
-    ],
-    "ts": 1789058724.4375947
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press586.php",
-    "title": "Hormuz closure and related production outages are key drivers in EIA's latest forecast",
-    "tokens": [
-      "closure",
-      "drivers",
-      "eia",
-      "forecast",
-      "hormuz",
-      "key",
-      "latest",
-      "outages",
-      "production",
-      "related"
-    ],
-    "ts": 1789058732.7756894
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press585.php",
-    "title": "EIA launches pilot survey on energy use at data centers",
-    "tokens": [
-      "centers",
-      "data",
-      "eia",
-      "energy",
-      "launches",
-      "pilot",
-      "survey",
-      "use"
-    ],
-    "ts": 1789058742.062617
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press584.php",
-    "title": "EIA releases latest Short-Term Energy Outlook amid Middle East conflict",
-    "tokens": [
-      "conflict",
-      "east",
-      "eia",
-      "energy",
-      "latest",
-      "middle",
-      "outlook",
-      "releases",
-      "short",
-      "term"
-    ],
-    "ts": 1789058749.1835723
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press583.php",
-    "title": "EIA raises natural gas price forecast following increased heating demand amid severe winter weather",
-    "tokens": [
-      "demand",
-      "eia",
-      "following",
-      "forecast",
-      "gas",
-      "heating",
-      "increased",
-      "natural",
-      "price",
-      "raises",
-      "severe",
-      "weather",
-      "winter"
-    ],
-    "ts": 1789058757.0975666
-  },
-  {
-    "id": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "title": "Here’s what happened in crypto today",
-    "tokens": [
-      "crypto",
-      "happened",
-      "here",
-      "today",
-      "what"
-    ],
-    "ts": 1789058764.592559
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/crowdstrike-at-citis-2026-global-tmt-conference-ai-fuels-growth-93CH-4896548",
-    "title": "CrowdStrike at Citi’s 2026 Global TMT Conference: AI fuels growth",
-    "tokens": [
-      "2026",
-      "citi",
-      "conference",
-      "crowdstrike",
-      "fuels",
-      "global",
-      "growth",
-      "tmt"
-    ],
-    "ts": 1789059320.7018728
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/skyward-at-kbw-insurance-conference-2026-niche-strategy-in-a-softening-market-93CH-4896546",
-    "title": "Skyward at KBW Insurance Conference 2026: niche strategy in a softening market",
-    "tokens": [
-      "2026",
-      "conference",
-      "insurance",
-      "kbw",
-      "market",
-      "niche",
-      "skyward",
-      "softening",
-      "strategy"
-    ],
-    "ts": 1789059324.7233467
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/cooper-companies-earnings-analysis-questions-answered-and-next-catalysts-93CH-4896544",
-    "title": "Cooper Companies earnings analysis: questions answered and next catalysts",
-    "tokens": [
-      "analysis",
-      "answered",
-      "catalysts",
-      "companies",
-      "cooper",
-      "earnings",
-      "next",
-      "questions"
-    ],
-    "ts": 1789059328.7392619
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/washington-nonprofit-better-markets-sues-federal-reserve-over-capital-rule-overhaul-4896543",
-    "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul",
-    "tokens": [
-      "better",
-      "capital",
-      "federal",
-      "markets",
-      "nonprofit",
-      "overhaul",
-      "reserve",
-      "rule",
-      "sues",
-      "washington"
-    ],
-    "ts": 1789059332.5600712
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/rigel-pharmaceuticals-at-cantor-conference-veppanu-launch-leads-growth-push-93CH-4896542",
-    "title": "Rigel Pharmaceuticals at Cantor conference: veppanu launch leads growth push",
-    "tokens": [
-      "cantor",
-      "conference",
-      "growth",
-      "launch",
-      "leads",
-      "pharmaceuticals",
-      "push",
-      "rigel",
-      "veppanu"
-    ],
-    "ts": 1789059340.7255237
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/dauch-at-jefferies-global-industrials-conference-2026-synergy-gains-build-93CH-4896541",
-    "title": "Dauch at Jefferies Global Industrials Conference 2026: synergy gains build",
-    "tokens": [
-      "2026",
-      "build",
-      "conference",
-      "dauch",
-      "gains",
-      "global",
-      "industrials",
-      "jefferies",
-      "synergy"
-    ],
-    "ts": 1789059348.4186783
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/macys-earnings-analysis-questions-answered-and-next-catalysts-93CH-4896540",
-    "title": "Macy’s earnings analysis: questions answered and next catalysts",
-    "tokens": [
-      "analysis",
-      "answered",
-      "catalysts",
-      "earnings",
-      "macy",
-      "next",
-      "questions"
-    ],
-    "ts": 1789059352.4341373
-  },
-  {
     "id": "https://www.investing.com/news/company-news/polestar-stock-hits-52week-low-at-753-93CH-4896539",
     "title": "Polestar stock hits 52-week low at $7.53",
     "tokens": [
@@ -23180,5 +22910,268 @@
       "year"
     ],
     "ts": 1789365269.136184
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/brookfield-in-advanced-talks-to-buy-pgp-glass-from-blackstone-for-up-to-15b-et-4898832",
+    "title": "Brookfield in advanced talks to buy PGP Glass from Blackstone for up to $1.5B- ET",
+    "tokens": [
+      "advanced",
+      "blackstone",
+      "brookfield",
+      "buy",
+      "glass",
+      "pgp",
+      "talks"
+    ],
+    "ts": 1789366591.323881
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-066-4898830",
+    "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.66%",
+    "tokens": [
+      "close",
+      "lower",
+      "stocks",
+      "taiwan",
+      "trade",
+      "weighted"
+    ],
+    "ts": 1789366598.4490542
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/jyske-bank-buys-back-shares-worth-567m-kroner-in-week-37-93CH-4898829",
+    "title": "Jyske Bank buys back shares worth 56.7m kroner in week 37",
+    "tokens": [
+      "back",
+      "bank",
+      "buys",
+      "jyske",
+      "kroner",
+      "shares",
+      "week",
+      "worth"
+    ],
+    "ts": 1789366606.5435605
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/samsung-and-sk-hynix-reject-kepco-power-19-bln-prepayment-plan-reports-93CH-4898828",
+    "title": "Samsung and SK Hynix reject KEPCO power $19 bln prepayment plan- reports",
+    "tokens": [
+      "bln",
+      "hynix",
+      "kepco",
+      "plan",
+      "power",
+      "prepayment",
+      "reject",
+      "reports",
+      "samsung"
+    ],
+    "ts": 1789366613.5703988
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/fleetpartners-shares-surge-12-to-record-as-takeover-bidding-war-heats-up-4898827",
+    "title": "FleetPartners shares surge 12% to record as takeover bidding war heats up",
+    "tokens": [
+      "bidding",
+      "fleetpartners",
+      "heats",
+      "record",
+      "shares",
+      "surge",
+      "takeover",
+      "war"
+    ],
+    "ts": 1789366620.559425
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/softbank-group-how-vulnerable-is-the-stock-to-a-frontier-ai-slowdown-93CH-4898825",
+    "title": "SoftBank Group: How vulnerable is the stock to a frontier AI slowdown?",
+    "tokens": [
+      "frontier",
+      "group",
+      "how",
+      "slowdown",
+      "softbank",
+      "stock",
+      "vulnerable"
+    ],
+    "ts": 1789366627.5179374
+  },
+  {
+    "id": "wisdomtree-coo-lilien-jarrett-sells-185501162.html",
+    "title": "WisdomTree COO Lilien Jarrett Sells 30,000 Shares for $737,000",
+    "tokens": [
+      "000",
+      "737",
+      "coo",
+      "jarrett",
+      "lilien",
+      "sells",
+      "shares",
+      "wisdomtree"
+    ],
+    "ts": 1789366634.0999007
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press591.php",
+    "title": "EIA expects highest natural gas inventories in a decade heading into winter",
+    "tokens": [
+      "decade",
+      "eia",
+      "expects",
+      "gas",
+      "heading",
+      "highest",
+      "inventories",
+      "natural",
+      "winter"
+    ],
+    "ts": 1789366641.9380667
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press590.php",
+    "title": "EIA increases global oil production forecast after the opening of the Strait of Hormuz",
+    "tokens": [
+      "eia",
+      "forecast",
+      "global",
+      "hormuz",
+      "increases",
+      "oil",
+      "opening",
+      "production",
+      "strait"
+    ],
+    "ts": 1789366648.2416754
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press589.php",
+    "title": "EIA expects a drop in global oil demand will limit price increases from Hormuz disruptions",
+    "tokens": [
+      "demand",
+      "disruptions",
+      "drop",
+      "eia",
+      "expects",
+      "global",
+      "hormuz",
+      "increases",
+      "limit",
+      "oil",
+      "price"
+    ],
+    "ts": 1789366654.9785912
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press588.php",
+    "title": "EIA updates forecast amid continued Mideast disruption; will publish new energy security datasets",
+    "tokens": [
+      "continued",
+      "datasets",
+      "disruption",
+      "eia",
+      "energy",
+      "forecast",
+      "mideast",
+      "publish",
+      "security",
+      "updates"
+    ],
+    "ts": 1789366661.143862
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press587.php",
+    "title": "EIA releases the Annual Energy Outlook 2026",
+    "tokens": [
+      "2026",
+      "annual",
+      "eia",
+      "energy",
+      "outlook",
+      "releases"
+    ],
+    "ts": 1789366668.1616735
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press586.php",
+    "title": "Hormuz closure and related production outages are key drivers in EIA's latest forecast",
+    "tokens": [
+      "closure",
+      "drivers",
+      "eia",
+      "forecast",
+      "hormuz",
+      "key",
+      "latest",
+      "outages",
+      "production",
+      "related"
+    ],
+    "ts": 1789366675.3394685
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press585.php",
+    "title": "EIA launches pilot survey on energy use at data centers",
+    "tokens": [
+      "centers",
+      "data",
+      "eia",
+      "energy",
+      "launches",
+      "pilot",
+      "survey",
+      "use"
+    ],
+    "ts": 1789366682.9153543
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press584.php",
+    "title": "EIA releases latest Short-Term Energy Outlook amid Middle East conflict",
+    "tokens": [
+      "conflict",
+      "east",
+      "eia",
+      "energy",
+      "latest",
+      "middle",
+      "outlook",
+      "releases",
+      "short",
+      "term"
+    ],
+    "ts": 1789366690.0556483
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press583.php",
+    "title": "EIA raises natural gas price forecast following increased heating demand amid severe winter weather",
+    "tokens": [
+      "demand",
+      "eia",
+      "following",
+      "forecast",
+      "gas",
+      "heating",
+      "increased",
+      "natural",
+      "price",
+      "raises",
+      "severe",
+      "weather",
+      "winter"
+    ],
+    "ts": 1789366696.8847218
+  },
+  {
+    "id": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "title": "Here’s what happened in crypto today",
+    "tokens": [
+      "crypto",
+      "happened",
+      "here",
+      "today",
+      "what"
+    ],
+    "ts": 1789366703.991224
   }
 ]

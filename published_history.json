@@ -1,208 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-copart-stock-surging-today-93CH-4896945",
-    "title": "Why is Copart stock surging today?",
-    "tokens": [
-      "copart",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789074657.0872538
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-champions-oncology-tops-q1-2027-estimates-shares-slip-93CH-4896944",
-    "title": "Earnings call transcript: Champions Oncology tops Q1 2027 estimates, shares slip",
-    "tokens": [
-      "2027",
-      "call",
-      "champions",
-      "earnings",
-      "estimates",
-      "oncology",
-      "shares",
-      "slip",
-      "tops",
-      "transcript"
-    ],
-    "ts": 1789074661.1427724
-  },
-  {
-    "id": "happens-bitcoin-price-fed-raises-123715290.html",
-    "title": "What Happens to Bitcoin Price If the Fed Raises Interest Rates on Sept. 16?",
-    "tokens": [
-      "bitcoin",
-      "fed",
-      "happens",
-      "interest",
-      "price",
-      "raises",
-      "rates",
-      "sept",
-      "what"
-    ],
-    "ts": 1789074668.1945865
-  },
-  {
-    "id": "dominion-energy-stock-d-outperforming-123104935.html",
-    "title": "Dominion Energy Stock: Is D Outperforming the Utility Sector?",
-    "tokens": [
-      "dominion",
-      "energy",
-      "outperforming",
-      "sector",
-      "stock",
-      "utility"
-    ],
-    "ts": 1789074677.2082114
-  },
-  {
-    "id": "dear-macy-stock-fans-mark-124744066.html",
-    "title": "Dear Macy’s Stock Fans, Mark Your Calendars for September 10",
-    "tokens": [
-      "calendars",
-      "dear",
-      "fans",
-      "macy",
-      "mark",
-      "september",
-      "stock",
-      "your"
-    ],
-    "ts": 1789074681.2243342
-  },
-  {
-    "id": "oilprice-article-45465",
-    "title": "How China Became the World's First Electrostate",
-    "tokens": [
-      "became",
-      "china",
-      "electrostate",
-      "first",
-      "how",
-      "world"
-    ],
-    "ts": 1789074686.2472978
-  },
-  {
-    "id": "WP-MKTW-0005226154",
-    "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
-    "tokens": [
-      "bet",
-      "cloud",
-      "drive",
-      "forecast",
-      "helps",
-      "momentum",
-      "off",
-      "oracle",
-      "pays",
-      "rosier"
-    ],
-    "ts": 1789075453.8207846
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/wedbush-initiates-datadog-stock-coverage-with-outperform-rating-93CH-4896975",
-    "title": "Wedbush initiates Datadog stock coverage with Outperform rating",
-    "tokens": [
-      "coverage",
-      "datadog",
-      "initiates",
-      "outperform",
-      "rating",
-      "stock",
-      "wedbush"
-    ],
-    "ts": 1789075462.4119008
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/goldcana-resources-announces-private-placement-terms-93CH-4896974",
-    "title": "Goldcana Resources announces private placement terms",
-    "tokens": [
-      "announces",
-      "goldcana",
-      "placement",
-      "private",
-      "resources",
-      "terms"
-    ],
-    "ts": 1789075471.6926208
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/franklin-bsp-realty-trust-declares-q3-dividend-reauthorizes-buyback-93CH-4896970",
-    "title": "Franklin BSP Realty Trust declares Q3 dividend, reauthorizes buyback",
-    "tokens": [
-      "bsp",
-      "buyback",
-      "declares",
-      "dividend",
-      "franklin",
-      "realty",
-      "reauthorizes",
-      "trust"
-    ],
-    "ts": 1789075478.7781131
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-4896930",
-    "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
-    "tokens": [
-      "anthropic",
-      "campaigns",
-      "chinese",
-      "claude",
-      "disrupts",
-      "models",
-      "russian",
-      "targeting"
-    ],
-    "ts": 1789075485.9370806
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bath--body-works-gains-in-extended-trading-as-barington-pushes-for-a-sale-4896969",
-    "title": "Bath & Body Works gains in extended trading as Barington pushes for a sale",
-    "tokens": [
-      "barington",
-      "bath",
-      "body",
-      "extended",
-      "gains",
-      "pushes",
-      "sale",
-      "trading",
-      "works"
-    ],
-    "ts": 1789075492.965532
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nvidia-stock-edges-higher-on-microsoft-data-center-expansion-report-4896967",
-    "title": "Nvidia stock edges higher on Microsoft data center expansion report",
-    "tokens": [
-      "center",
-      "data",
-      "edges",
-      "expansion",
-      "higher",
-      "microsoft",
-      "nvidia",
-      "report",
-      "stock"
-    ],
-    "ts": 1789075501.724278
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/trading-day-inflation-palpitations-4896968",
-    "title": "Trading Day: Inflation palpitations",
-    "tokens": [
-      "day",
-      "inflation",
-      "palpitations",
-      "trading"
-    ],
-    "ts": 1789075509.70855
-  },
-  {
     "id": "https://www.investing.com/news/commodities-news/us-diesel-prices-top-6-per-gallon-for-first-time-93CH-4896966",
     "title": "US diesel prices top $6 per gallon for first time",
     "tokens": [
@@ -23188,5 +22985,206 @@
       "wrong"
     ],
     "ts": 1789392053.774937
+  },
+  {
+    "id": "WP-MKTW-0005230708",
+    "title": "Novo drops ‘Nordisk’ in corporate refresh to take on Lilly in the weight-loss wars",
+    "tokens": [
+      "corporate",
+      "drops",
+      "lilly",
+      "loss",
+      "nordisk",
+      "novo",
+      "refresh",
+      "take",
+      "wars",
+      "weight"
+    ],
+    "ts": 1789393372.916463
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/aquestive-at-hc-wainwright-conference-anaphylm-launch-in-focus-93CH-4899803",
+    "title": "Aquestive at H.C. Wainwright conference: anaphylm launch in focus",
+    "tokens": [
+      "anaphylm",
+      "aquestive",
+      "conference",
+      "focus",
+      "launch",
+      "wainwright"
+    ],
+    "ts": 1789393380.0965128
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/all-eyes-on-kestra-medical-earnings-amid-defibrillator-market-push-93CH-4899802",
+    "title": "All eyes on Kestra Medical earnings amid defibrillator market push",
+    "tokens": [
+      "all",
+      "defibrillator",
+      "earnings",
+      "eyes",
+      "kestra",
+      "market",
+      "medical",
+      "push"
+    ],
+    "ts": 1789393387.7279642
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-slide-on-calls-to-slow-ai-development-meast-escalation-4898779",
+    "title": "Nasdaq leads U.S. stocks lower at the open on AI development slowdown calls",
+    "tokens": [
+      "calls",
+      "development",
+      "leads",
+      "lower",
+      "nasdaq",
+      "open",
+      "slowdown",
+      "stocks"
+    ],
+    "ts": 1789393395.0350735
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/dropbox-stock-hits-52week-high-at-3642-usd-93CH-4899801",
+    "title": "Dropbox stock hits 52-week high at 36.42 USD",
+    "tokens": [
+      "dropbox",
+      "high",
+      "hits",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1789393402.013528
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-crown-castle-stock-sliding-today-93CH-4899800",
+    "title": "Why is Crown Castle stock sliding today?",
+    "tokens": [
+      "castle",
+      "crown",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789393409.1856968
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/a10-networks-appoints-mary-c-henry-to-board-of-directors-expands-board-size-93CH-4899799",
+    "title": "A10 Networks appoints Mary C. Henry to board of directors, expands board size",
+    "tokens": [
+      "a10",
+      "appoints",
+      "board",
+      "directors",
+      "expands",
+      "henry",
+      "mary",
+      "networks",
+      "size"
+    ],
+    "ts": 1789393416.187667
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/gxo-stock-hits-52week-low-at-4499-usd-93CH-4899793",
+    "title": "GXO stock hits 52-week low at 44.99 USD",
+    "tokens": [
+      "gxo",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1789393423.1700273
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/doubleverify-stock-hits-52week-high-at-1365-usd-93CH-4899792",
+    "title": "DoubleVerify stock hits 52-week high at 13.65 USD",
+    "tokens": [
+      "doubleverify",
+      "high",
+      "hits",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1789393427.1872392
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ondas-acquires-gate-technologies-for-up-to-390-million-93CH-4899791",
+    "title": "Ondas acquires GATE Technologies for up to $390 million",
+    "tokens": [
+      "390",
+      "acquires",
+      "gate",
+      "million",
+      "ondas",
+      "technologies"
+    ],
+    "ts": 1789393430.378737
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ntrs-stock-hits-52week-low-at-1821-usd-93CH-4899790",
+    "title": "ntrs stock hits 52-week low at 18.21 USD",
+    "tokens": [
+      "hits",
+      "low",
+      "ntrs",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1789393434.3962524
+  },
+  {
+    "id": "oracle-664-billion-backlog-sends-133300188.html",
+    "title": "Oracle’s $664 billion backlog sends a signal to Dell, HPE",
+    "tokens": [
+      "664",
+      "backlog",
+      "billion",
+      "dell",
+      "hpe",
+      "oracle",
+      "sends",
+      "signal"
+    ],
+    "ts": 1789393437.386236
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu",
+    "title": "HYPE price could suffer as Binance takes its revenue: Alice Liu",
+    "tokens": [
+      "alice",
+      "binance",
+      "could",
+      "hype",
+      "liu",
+      "price",
+      "revenue",
+      "suffer",
+      "takes"
+    ],
+    "ts": 1789393446.324575
+  },
+  {
+    "id": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director",
+    "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
+    "tokens": [
+      "adoption",
+      "finance",
+      "fragmented",
+      "head",
+      "international",
+      "limit",
+      "regulations",
+      "stablecoin",
+      "wto"
+    ],
+    "ts": 1789393453.8713584
   }
 ]

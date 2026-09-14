@@ -1,181 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/boj-set-to-lift-rates-next-week-but-offer-few-clues-on-terminal-sources-say-4897189",
-    "title": "BOJ set to lift rates next week but offer few clues on terminal, sources say",
-    "tokens": [
-      "boj",
-      "clues",
-      "few",
-      "lift",
-      "next",
-      "offer",
-      "rates",
-      "say",
-      "set",
-      "sources",
-      "terminal",
-      "week"
-    ],
-    "ts": 1789096281.2818983
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/samsung-qualcomm-delay-2nm-chip-deal-as-price-talks-drag-the-bell-4897170",
-    "title": "Samsung, Qualcomm delay 2nm chip deal as price talks drag- The Bell",
-    "tokens": [
-      "2nm",
-      "bell",
-      "chip",
-      "deal",
-      "delay",
-      "drag",
-      "price",
-      "qualcomm",
-      "samsung",
-      "talks"
-    ],
-    "ts": 1789096289.48234
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-sliding-today-93CH-4897186",
-    "title": "Why is Samsung Electronics stock sliding today?",
-    "tokens": [
-      "electronics",
-      "samsung",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789096297.5119545
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4897185",
-    "title": "Why is SK Hynix stock sliding today?",
-    "tokens": [
-      "hynix",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789096301.5272627
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/japan-to-maintain-close-communication-with-us-on-currency-markets-katayama-says-4897184",
-    "title": "Japan to maintain close communication with US on currency markets, Katayama says",
-    "tokens": [
-      "close",
-      "communication",
-      "currency",
-      "japan",
-      "katayama",
-      "maintain",
-      "markets"
-    ],
-    "ts": 1789096304.9355938
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/altman-tells-staff-openai-is-open-to-slowing-ai-development-bloomberg-news-reports-4897183",
-    "title": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports",
-    "tokens": [
-      "altman",
-      "bloomberg",
-      "development",
-      "news",
-      "open",
-      "openai",
-      "reports",
-      "slowing",
-      "staff",
-      "tells"
-    ],
-    "ts": 1789096314.5953808
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/japan-core-inflation-seen-steady-at-18-in-august-reuters-poll-4897182",
-    "title": "Japan core inflation seen steady at 1.8% in August: Reuters poll",
-    "tokens": [
-      "august",
-      "core",
-      "inflation",
-      "japan",
-      "poll",
-      "reuters",
-      "seen",
-      "steady"
-    ],
-    "ts": 1789096322.415565
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/california-enacts-new-curbs-on-social-media-for-children-4897174",
-    "title": "California enacts new curbs on social media for children",
-    "tokens": [
-      "california",
-      "children",
-      "curbs",
-      "enacts",
-      "media",
-      "social"
-    ],
-    "ts": 1789096330.6108148
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/texas-judge-rules-tiktok-misled-users-on-child-safety-feature-4897180",
-    "title": "Texas judge rules TikTok misled users on child safety feature",
-    "tokens": [
-      "child",
-      "feature",
-      "judge",
-      "misled",
-      "rules",
-      "safety",
-      "texas",
-      "tiktok",
-      "users"
-    ],
-    "ts": 1789096338.382538
-  },
-  {
-    "id": "pho-extends-uk-delivery-partnership-150149747.html",
-    "title": "Pho extends UK delivery partnership with Deliveroo",
-    "tokens": [
-      "deliveroo",
-      "delivery",
-      "extends",
-      "partnership",
-      "pho"
-    ],
-    "ts": 1789096346.411689
-  },
-  {
-    "id": "greg-abel-says-berkshire-bullish-151308100.html",
-    "title": "Greg Abel Says Berkshire Is Bullish on Hyperscaler Stocks as It Doubles Down on Google",
-    "tokens": [
-      "abel",
-      "berkshire",
-      "bullish",
-      "doubles",
-      "google",
-      "greg",
-      "hyperscaler",
-      "stocks"
-    ],
-    "ts": 1789096354.7734575
-  },
-  {
-    "id": "stocks-bonds-fall-crude-oil-151630911.html",
-    "title": "Stocks and Bonds Fall as Crude Oil Surges",
-    "tokens": [
-      "bonds",
-      "crude",
-      "fall",
-      "oil",
-      "stocks",
-      "surges"
-    ],
-    "ts": 1789096362.9543421
-  },
-  {
     "id": "caseys-shares-slide-despite-earnings-150200709.html",
     "title": "Casey's shares slide despite earnings beat as inside sales growth disappoints",
     "tokens": [
@@ -23184,5 +23008,186 @@
       "targets"
     ],
     "ts": 1789405837.2772985
+  },
+  {
+    "id": "WP-MKTW-0005231256",
+    "title": "There’s every reason to slow AI development. But here’s why it probably won’t happen.",
+    "tokens": [
+      "development",
+      "every",
+      "happen",
+      "here",
+      "probably",
+      "reason",
+      "slow",
+      "there",
+      "why",
+      "won"
+    ],
+    "ts": 1789406748.4242964
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/scholar-rock-shares-td-cowen-keeps-buy-on-fda-approval-broad-label-93CH-4900137",
+    "title": "Scholar Rock shares: TD Cowen keeps buy on FDA approval, broad label",
+    "tokens": [
+      "approval",
+      "broad",
+      "buy",
+      "cowen",
+      "fda",
+      "keeps",
+      "label",
+      "rock",
+      "scholar",
+      "shares"
+    ],
+    "ts": 1789406756.37287
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/wizz-air-sees-limited-opportunity-from-airbaltic-bankruptcy-4900136",
+    "title": "Wizz Air sees limited opportunity from airBaltic bankruptcy",
+    "tokens": [
+      "air",
+      "airbaltic",
+      "bankruptcy",
+      "limited",
+      "opportunity",
+      "sees",
+      "wizz"
+    ],
+    "ts": 1789406765.7692056
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/knightscope-unveils-patriotic-k7-robot-at-security-expo-93CH-4900135",
+    "title": "Knightscope unveils patriotic K7 robot at security expo",
+    "tokens": [
+      "expo",
+      "knightscope",
+      "patriotic",
+      "robot",
+      "security",
+      "unveils"
+    ],
+    "ts": 1789406773.4414413
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pembroke-vct-launches-share-offer-of-up-to-60-million-93CH-4900134",
+    "title": "Pembroke VCT launches share offer of up to £60 million",
+    "tokens": [
+      "launches",
+      "million",
+      "offer",
+      "pembroke",
+      "share",
+      "vct"
+    ],
+    "ts": 1789406781.4664521
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sesa-q1-2027-slides-organic-growth-strategy-drives-solid-start-93CH-4900133",
+    "title": "Sesa Q1 2027 slides: organic growth strategy drives solid start",
+    "tokens": [
+      "2027",
+      "drives",
+      "growth",
+      "organic",
+      "sesa",
+      "slides",
+      "solid",
+      "start",
+      "strategy"
+    ],
+    "ts": 1789406789.34883
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/concentra-group-holdings-parent-inc-stock-hits-alltime-high-at-3594-usd-93CH-4900132",
+    "title": "Concentra Group Holdings Parent Inc stock hits all-time high at 35.94 USD",
+    "tokens": [
+      "all",
+      "concentra",
+      "group",
+      "high",
+      "hits",
+      "holdings",
+      "inc",
+      "parent",
+      "stock",
+      "time",
+      "usd"
+    ],
+    "ts": 1789406796.3937063
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/pnc-at-barclays-conference-growth-ai-and-branch-push-93CH-4900127",
+    "title": "PNC at Barclays conference: growth, AI and branch push",
+    "tokens": [
+      "barclays",
+      "branch",
+      "conference",
+      "growth",
+      "pnc",
+      "push"
+    ],
+    "ts": 1789406803.9806762
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-frequency-electronics-stock-rating-to-hold-raises-price-target-to-91-93CH-4900126",
+    "title": "Freedom Broker downgrades Frequency Electronics stock rating to hold, raises price target to $91",
+    "tokens": [
+      "broker",
+      "downgrades",
+      "electronics",
+      "freedom",
+      "frequency",
+      "hold",
+      "price",
+      "raises",
+      "rating",
+      "stock",
+      "target"
+    ],
+    "ts": 1789406811.2706873
+  },
+  {
+    "id": "spot-bitcoin-etfs-lose-463m-170500167.html",
+    "title": "Spot Bitcoin ETFs Lose $463M Amid ‘Difficult’ Time for Markets",
+    "tokens": [
+      "463m",
+      "bitcoin",
+      "difficult",
+      "etfs",
+      "lose",
+      "markets",
+      "spot",
+      "time"
+    ],
+    "ts": 1789406819.3794565
+  },
+  {
+    "id": "rf-industries-ltd-q3-2026-170334050.html",
+    "title": "RF Industries, Ltd. Q3 2026 Earnings Call Summary",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "industries",
+      "ltd",
+      "summary"
+    ],
+    "ts": 1789406826.5232623
+  },
+  {
+    "id": "defi-development-expands-solana-treasury-170300303.html",
+    "title": "DeFi Development Expands Solana Treasury to 2.39M SOL",
+    "tokens": [
+      "39m",
+      "defi",
+      "development",
+      "expands",
+      "sol",
+      "solana",
+      "treasury"
+    ],
+    "ts": 1789406833.9534934
   }
 ]

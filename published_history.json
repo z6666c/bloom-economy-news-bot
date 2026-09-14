@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/needham-reiterates-buy-on-transmedics-stock-names-new-cfo-93CH-4897599",
-    "title": "Needham reiterates Buy on TransMedics stock, names new CFO",
-    "tokens": [
-      "buy",
-      "cfo",
-      "names",
-      "needham",
-      "reiterates",
-      "stock",
-      "transmedics"
-    ],
-    "ts": 1789125146.7775795
-  },
-  {
-    "id": "jim-cramer-compares-palantir-pltr-230017699.html",
-    "title": "Jim Cramer Compares Palantir (PLTR) to an NFL Wide Receiver",
-    "tokens": [
-      "compares",
-      "cramer",
-      "jim",
-      "nfl",
-      "palantir",
-      "pltr",
-      "receiver",
-      "wide"
-    ],
-    "ts": 1789125155.2539377
-  },
-  {
-    "id": "medtronic-raised-outlook-heart-devices-231801427.html",
-    "title": "Medtronic Raised its Outlook as Heart Devices Accelerate, But Can the Momentum Last?",
-    "tokens": [
-      "accelerate",
-      "can",
-      "devices",
-      "heart",
-      "last",
-      "medtronic",
-      "momentum",
-      "outlook",
-      "raised"
-    ],
-    "ts": 1789125163.3287628
-  },
-  {
     "id": "8311aa6c-2aee-4e26-a163-74bbf6f2ffd0",
     "title": "Live updates: Bitcoin sinks to $77,000 as CPI lands with hike odds near 70%",
     "tokens": [
@@ -23187,5 +23142,49 @@
       "without"
     ],
     "ts": 1789429122.8696678
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/questor-technology-cfo-aly-sumar-resigns-from-position-93CH-4900668",
+    "title": "Questor Technology CFO Aly Sumar resigns from position",
+    "tokens": [
+      "aly",
+      "cfo",
+      "position",
+      "questor",
+      "resigns",
+      "sumar",
+      "technology"
+    ],
+    "ts": 1789429885.9993756
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cascade-investment-buys-1293m-in-republic-services-stock-93CH-4900667",
+    "title": "Cascade investment buys $129.3m in Republic Services stock",
+    "tokens": [
+      "129",
+      "buys",
+      "cascade",
+      "investment",
+      "republic",
+      "services",
+      "stock"
+    ],
+    "ts": 1789429893.4850852
+  },
+  {
+    "id": "9ce678d1-0577-4847-b046-89efc6291b92",
+    "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
+    "tokens": [
+      "clarity",
+      "crypto",
+      "even",
+      "fails",
+      "push",
+      "stop",
+      "street",
+      "unlikely",
+      "wall"
+    ],
+    "ts": 1789429902.4869912
   }
 ]

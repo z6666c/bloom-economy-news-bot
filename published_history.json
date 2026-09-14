@@ -1,210 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/crude-oil-wti-doubletop-at-9364-resistance-live-levels-93CH-4890479",
-    "title": "Crude Oil WTI hits RSI 81 after parabolic surge: Live levels",
-    "tokens": [
-      "crude",
-      "hits",
-      "levels",
-      "live",
-      "oil",
-      "parabolic",
-      "rsi",
-      "surge",
-      "wti"
-    ],
-    "ts": 1789069048.1888154
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/london-gas-oil-stretched-10-above-50ma-live-levels-93CH-4890480",
-    "title": "London Gas Oil tests $1,491.5 with RSI divergence: Live levels",
-    "tokens": [
-      "491",
-      "divergence",
-      "gas",
-      "levels",
-      "live",
-      "london",
-      "oil",
-      "rsi",
-      "tests"
-    ],
-    "ts": 1789069059.4176013
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/alphabet-c-tests-329-support-in-descending-triangle-live-levels-93CH-4891938",
-    "title": "Alphabet C stalls at $330 amid bear flag tension: Live levels",
-    "tokens": [
-      "330",
-      "alphabet",
-      "bear",
-      "flag",
-      "levels",
-      "live",
-      "stalls",
-      "tension"
-    ],
-    "ts": 1789069068.2197192
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tesla-trapped-in-notrade-zone-near-361-hourly-levels-93CH-4891939",
-    "title": "Tesla stalls below $381 resistance as momentum fades: Live levels",
-    "tokens": [
-      "381",
-      "below",
-      "fades",
-      "levels",
-      "live",
-      "momentum",
-      "resistance",
-      "stalls",
-      "tesla"
-    ],
-    "ts": 1789069075.858112
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dow-jones-clings-to-200sma-at-53148-live-levels-93CH-4890671",
-    "title": "Dow Jones hits extreme oversold at 52,021: Live levels",
-    "tokens": [
-      "021",
-      "dow",
-      "extreme",
-      "hits",
-      "jones",
-      "levels",
-      "live",
-      "oversold"
-    ],
-    "ts": 1789069083.4799204
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-    "title": "Bitcoin dips to $77K with bearish Marubozu signal: Live levels",
-    "tokens": [
-      "77k",
-      "bearish",
-      "bitcoin",
-      "dips",
-      "levels",
-      "live",
-      "marubozu",
-      "signal"
-    ],
-    "ts": 1789069091.7307136
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/natural-gas-stuck-between-287303-live-levels-93CH-4890483",
-    "title": "Natural Gas locked below $2.89-$2.92 resistance: Live levels",
-    "tokens": [
-      "below",
-      "gas",
-      "levels",
-      "live",
-      "locked",
-      "natural",
-      "resistance"
-    ],
-    "ts": 1789069100.1720037
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nasdaq-100-doji-stall-near-29800-resistance-live-levels-93CH-4890670",
-    "title": "Nasdaq 100 tests 29,150 support for 4th time: Live levels",
-    "tokens": [
-      "100",
-      "150",
-      "4th",
-      "levels",
-      "live",
-      "nasdaq",
-      "support",
-      "tests",
-      "time"
-    ],
-    "ts": 1789069107.2255535
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/brent-oil-overbought-at-97-rsi-74-hourly-levels-93CH-4890477",
-    "title": "Brent Oil RSI hits 84 in parabolic run: Live levels",
-    "tokens": [
-      "brent",
-      "hits",
-      "levels",
-      "live",
-      "oil",
-      "parabolic",
-      "rsi",
-      "run"
-    ],
-    "ts": 1789069116.3949578
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sp-500-stalls-midrange-eyes-7780-break-live-levels-93CH-4890669",
-    "title": "S&P 500 breaks 200 SMA with H&S pattern: Live levels",
-    "tokens": [
-      "200",
-      "500",
-      "breaks",
-      "levels",
-      "live",
-      "pattern",
-      "sma"
-    ],
-    "ts": 1789069123.6644313
-  },
-  {
-    "id": "oil-reaches-100-markets-assess-092602684.html",
-    "title": "Oil reaches $100 as markets assess Middle East conflict, rates and US-Canada trade tensions: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-    "tokens": [
-      "100",
-      "assess",
-      "canada",
-      "conflict",
-      "dow",
-      "east",
-      "futures",
-      "jones",
-      "markets",
-      "middle",
-      "nasdaq",
-      "oil",
-      "rates",
-      "reaches",
-      "street",
-      "tensions",
-      "trade",
-      "wall"
-    ],
-    "ts": 1789069132.8832011
-  },
-  {
-    "id": "prudential-financial-stock-underperforming-nasdaq-110004400.html",
-    "title": "Is Prudential Financial Stock Underperforming the Nasdaq?",
-    "tokens": [
-      "financial",
-      "nasdaq",
-      "prudential",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1789069141.1604152
-  },
-  {
-    "id": "gold-returns-above-4-400-092817089.html",
-    "title": "Gold returns above $4,400 as dollar weakens ahead of US inflation data",
-    "tokens": [
-      "400",
-      "above",
-      "ahead",
-      "data",
-      "dollar",
-      "gold",
-      "inflation",
-      "returns",
-      "weakens"
-    ],
-    "ts": 1789069150.7720635
-  },
-  {
     "id": "chevron-stock-just-got-street-110002106.html",
     "title": "Chevron Stock Just Got a New Street-High Price Target. How to Play CVX Here.",
     "tokens": [
@@ -23166,5 +22961,228 @@
       "rapidly"
     ],
     "ts": 1789381779.5678568
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/european-stocks-slip-on-ai-safety-pause-fed-rate-bets-weigh-on-sentiment-4898834",
+    "title": "European stocks slip on AI safety pause, Fed rate bets weigh on sentiment",
+    "tokens": [
+      "bets",
+      "european",
+      "fed",
+      "pause",
+      "rate",
+      "safety",
+      "sentiment",
+      "slip",
+      "stocks",
+      "weigh"
+    ],
+    "ts": 1789382742.5251682
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/chip-stocks-fall-premarket-on-ai-slowdown-calls-best-buythedip-setups-93CH-4899136",
+    "title": "Chip stocks fall premarket on AI slowdown calls: Best buy-the-dip setups",
+    "tokens": [
+      "best",
+      "buy",
+      "calls",
+      "chip",
+      "dip",
+      "fall",
+      "premarket",
+      "setups",
+      "slowdown",
+      "stocks"
+    ],
+    "ts": 1789382750.0457447
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bofa-raises-kymera-therapeutics-price-target-on-trial-progress-93CH-4899128",
+    "title": "BofA raises Kymera Therapeutics price target on trial progress",
+    "tokens": [
+      "bofa",
+      "kymera",
+      "price",
+      "progress",
+      "raises",
+      "target",
+      "therapeutics",
+      "trial"
+    ],
+    "ts": 1789382757.0195801
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-mara-holdings-stock-rating-on-data-center-strategy-93CH-4899127",
+    "title": "JPMorgan downgrades MARA Holdings stock rating on data center strategy",
+    "tokens": [
+      "center",
+      "data",
+      "downgrades",
+      "holdings",
+      "jpmorgan",
+      "mara",
+      "rating",
+      "stock",
+      "strategy"
+    ],
+    "ts": 1789382763.5173502
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bofa-cuts-lennar-stock-price-target-on-book-value-concerns-93CH-4899125",
+    "title": "BofA cuts Lennar stock price target on book value concerns",
+    "tokens": [
+      "bofa",
+      "book",
+      "concerns",
+      "cuts",
+      "lennar",
+      "price",
+      "stock",
+      "target",
+      "value"
+    ],
+    "ts": 1789382773.4387822
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/btig-reiterates-iren-stock-rating-on-power-capacity-expansion-93CH-4899126",
+    "title": "BTIG reiterates Iren stock rating on power capacity expansion",
+    "tokens": [
+      "btig",
+      "capacity",
+      "expansion",
+      "iren",
+      "power",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1789382780.0414095
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bofa-raises-roblox-stock-price-target-on-viral-hit-potential-93CH-4899124",
+    "title": "BofA raises Roblox stock price target on viral hit potential",
+    "tokens": [
+      "bofa",
+      "hit",
+      "potential",
+      "price",
+      "raises",
+      "roblox",
+      "stock",
+      "target",
+      "viral"
+    ],
+    "ts": 1789382786.8401074
+  },
+  {
+    "id": "husband-insisted-split-bills-50-103000362.html",
+    "title": "My husband insisted we split our bills 50/50, even though he made more money. Now I do, and he's refusing the same deal",
+    "tokens": [
+      "bills",
+      "deal",
+      "even",
+      "husband",
+      "insisted",
+      "made",
+      "money",
+      "more",
+      "now",
+      "our",
+      "refusing",
+      "same",
+      "split",
+      "though"
+    ],
+    "ts": 1789382793.5648239
+  },
+  {
+    "id": "hewlett-packard-enterprise-hpe-surges-102301377.html",
+    "title": "Hewlett Packard Enterprise (HPE) Surges 19% in a Week — What to Watch For Next?",
+    "tokens": [
+      "enterprise",
+      "hewlett",
+      "hpe",
+      "next",
+      "packard",
+      "surges",
+      "watch",
+      "week",
+      "what"
+    ],
+    "ts": 1789382799.9849267
+  },
+  {
+    "id": "ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html",
+    "title": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
+    "tokens": [
+      "altman",
+      "amodei",
+      "anthropic",
+      "ceo",
+      "could",
+      "dario",
+      "hammer",
+      "momentum",
+      "openai",
+      "sam",
+      "stock",
+      "warnings"
+    ],
+    "ts": 1789382806.9644456
+  },
+  {
+    "id": "canada-clears-tokenized-bank-deposits-102221740.html",
+    "title": "Canada Clears Tokenized Bank Deposits Without Creating a New Crypto Rulebook",
+    "tokens": [
+      "bank",
+      "canada",
+      "clears",
+      "creating",
+      "crypto",
+      "deposits",
+      "rulebook",
+      "tokenized",
+      "without"
+    ],
+    "ts": 1789382813.5550528
+  },
+  {
+    "id": "black-swan-investor-backs-michael-101500434.html",
+    "title": "‘Black Swan’ investor backs Michael Burry’s AI warning: ‘Euphoric rally’ comes before historic crash. Protect your money",
+    "tokens": [
+      "backs",
+      "before",
+      "black",
+      "burry",
+      "comes",
+      "crash",
+      "euphoric",
+      "historic",
+      "investor",
+      "michael",
+      "money",
+      "protect",
+      "rally",
+      "swan",
+      "warning",
+      "your"
+    ],
+    "ts": 1789382820.3762026
+  },
+  {
+    "id": "analysis-defense-space-firms-turn-100910914.html",
+    "title": "Analysis-Defense, space firms turn to SPACs as investor appetite soars",
+    "tokens": [
+      "analysis",
+      "appetite",
+      "defense",
+      "firms",
+      "investor",
+      "soars",
+      "space",
+      "spacs",
+      "turn"
+    ],
+    "ts": 1789382824.3917382
   }
 ]

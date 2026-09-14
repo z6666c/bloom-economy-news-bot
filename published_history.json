@@ -1,304 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/polestar-stock-hits-52week-low-at-753-93CH-4896539",
-    "title": "Polestar stock hits 52-week low at $7.53",
-    "tokens": [
-      "hits",
-      "low",
-      "polestar",
-      "stock",
-      "week"
-    ],
-    "ts": 1789059356.509225
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/standardaero-stock-hits-52week-low-at-2381-usd-93CH-4896538",
-    "title": "StandardAero stock hits 52-week low at 23.81 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "standardaero",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789059360.5251276
-  },
-  {
-    "id": "skyworks-solutions-surges-10-qorvo-164726893.html",
-    "title": "Skyworks Solutions Surges 10%, Qorvo Climbs 6% While Chip Stocks Fall: Is the Merger Finally Clearing?",
-    "tokens": [
-      "chip",
-      "clearing",
-      "climbs",
-      "fall",
-      "finally",
-      "merger",
-      "qorvo",
-      "skyworks",
-      "solutions",
-      "stocks",
-      "surges",
-      "while"
-    ],
-    "ts": 1789059364.7048018
-  },
-  {
-    "id": "mongodb-mdb-reports-30-revenue-163617298.html",
-    "title": "MongoDB (MDB) Reports 30% Revenue Growth and 91% RPO Growth. Is Atlas Demand Durable Enough to Sustain Operating Leverage?",
-    "tokens": [
-      "atlas",
-      "demand",
-      "durable",
-      "enough",
-      "growth",
-      "leverage",
-      "mdb",
-      "mongodb",
-      "operating",
-      "reports",
-      "revenue",
-      "rpo",
-      "sustain"
-    ],
-    "ts": 1789059372.7281182
-  },
-  {
-    "id": "gitlab-gtlb-reports-net-arr-163339757.html",
-    "title": "GitLab (GTLB) Reports Net ARR Growth Above 40% as Operating Cash Flow Turns Negative. Will AI Demand Convert Into Durable Revenue and Cash?",
-    "tokens": [
-      "above",
-      "arr",
-      "cash",
-      "convert",
-      "demand",
-      "durable",
-      "flow",
-      "gitlab",
-      "growth",
-      "gtlb",
-      "negative",
-      "net",
-      "operating",
-      "reports",
-      "revenue",
-      "turns"
-    ],
-    "ts": 1789059382.1978924
-  },
-  {
-    "id": "rare-earth-stocks-tumble-u-164104081.html",
-    "title": "Rare Earth Stocks Tumble on U.S.-China Thaw Hopes: USA Rare Earth Sinks 4%, MP Materials Drops 5%, Critical Metals Slips",
-    "tokens": [
-      "china",
-      "critical",
-      "drops",
-      "earth",
-      "hopes",
-      "materials",
-      "metals",
-      "rare",
-      "sinks",
-      "slips",
-      "stocks",
-      "thaw",
-      "tumble",
-      "usa"
-    ],
-    "ts": 1789059390.046572
-  },
-  {
-    "id": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit",
-    "title": "Liquid Network resumes block production after $320M exploit",
-    "tokens": [
-      "320m",
-      "block",
-      "exploit",
-      "liquid",
-      "network",
-      "production",
-      "resumes"
-    ],
-    "ts": 1789059397.8245533
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
-    "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-    "tokens": [
-      "acquisition",
-      "actions",
-      "announces",
-      "bank",
-      "board",
-      "corp",
-      "enforcement",
-      "federal",
-      "holdings",
-      "quontic",
-      "reserve",
-      "termination",
-      "texas",
-      "united"
-    ],
-    "ts": 1789059405.4206192
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
-    "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
-    "tokens": [
-      "action",
-      "banco",
-      "board",
-      "employee",
-      "enforcement",
-      "federal",
-      "former",
-      "issues",
-      "popular",
-      "puerto",
-      "reserve",
-      "rico"
-    ],
-    "ts": 1789059412.9711375
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-    "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-    "tokens": [
-      "2026",
-      "board",
-      "discount",
-      "july",
-      "meetings",
-      "minutes",
-      "rate"
-    ],
-    "ts": 1789059419.7470505
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-    "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-    "tokens": [
-      "announces",
-      "application",
-      "approval",
-      "bank",
-      "board",
-      "federal",
-      "national",
-      "plc",
-      "reserve",
-      "westminster"
-    ],
-    "ts": 1789059427.1119254
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
-    "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-    "tokens": [
-      "action",
-      "announces",
-      "bancshares",
-      "bank",
-      "board",
-      "branch",
-      "corporation",
-      "deutsche",
-      "enforcement",
-      "federal",
-      "inc",
-      "issues",
-      "reserve",
-      "southpoint",
-      "termination",
-      "usa",
-      "york"
-    ],
-    "ts": 1789059436.1181087
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
-    "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-    "tokens": [
-      "actions",
-      "bank",
-      "board",
-      "community",
-      "employee",
-      "enforcement",
-      "federal",
-      "former",
-      "issues",
-      "regions",
-      "reserve",
-      "united"
-    ],
-    "ts": 1789059442.9111507
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
-    "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-    "tokens": [
-      "2026",
-      "committee",
-      "federal",
-      "july",
-      "market",
-      "minutes",
-      "open"
-    ],
-    "ts": 1789059450.7170174
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
-    "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-    "tokens": [
-      "action",
-      "bank",
-      "board",
-      "employee",
-      "enforcement",
-      "federal",
-      "former",
-      "issues",
-      "regions",
-      "reserve"
-    ],
-    "ts": 1789059454.733907
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
-    "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
-    "tokens": [
-      "announces",
-      "application",
-      "approval",
-      "bancshares",
-      "bend",
-      "board",
-      "coastal",
-      "federal",
-      "inc",
-      "reserve"
-    ],
-    "ts": 1789059457.921117
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
-    "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
-    "tokens": [
-      "announces",
-      "application",
-      "approval",
-      "bancorp",
-      "board",
-      "federal",
-      "inc",
-      "reserve"
-    ],
-    "ts": 1789059461.9381533
-  },
-  {
     "id": "https://www.investing.com/news/company-news/t-rowe-price-expands-use-of-anthropics-claude-ai-tools-93CH-4896579",
     "title": "T. Rowe Price expands use of Anthropic’s Claude AI tools",
     "tokens": [
@@ -23173,5 +22874,278 @@
       "what"
     ],
     "ts": 1789366703.991224
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/asia-strategic-holdings-appoints-onestop-assurance-as-auditor-93CH-4898841",
+    "title": "Asia Strategic Holdings appoints OneStop Assurance as auditor",
+    "tokens": [
+      "appoints",
+      "asia",
+      "assurance",
+      "auditor",
+      "holdings",
+      "onestop",
+      "strategic"
+    ],
+    "ts": 1789368375.9985528
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/oracle-power-clears-objections-for-australia-gold-project-93CH-4898840",
+    "title": "Oracle Power clears objections for Australia gold project",
+    "tokens": [
+      "australia",
+      "clears",
+      "gold",
+      "objections",
+      "oracle",
+      "power",
+      "project"
+    ],
+    "ts": 1789368382.615113
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tesla-sets-up-vietnam-unit-registration-filing-shows-4898839",
+    "title": "Tesla sets up Vietnam unit, registration filing shows",
+    "tokens": [
+      "filing",
+      "registration",
+      "sets",
+      "shows",
+      "tesla",
+      "unit",
+      "vietnam"
+    ],
+    "ts": 1789368390.1915774
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/astrazenecas-etcamah-trial-misses-primary-endpoint-93CH-4898838",
+    "title": "AstraZeneca’s Etcamah trial misses primary endpoint",
+    "tokens": [
+      "astrazeneca",
+      "endpoint",
+      "etcamah",
+      "misses",
+      "primary",
+      "trial"
+    ],
+    "ts": 1789368396.4901416
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/legal--general-begins-second-600m-share-buyback-tranche-93CH-4898837",
+    "title": "Legal & General begins second £600m share buyback tranche",
+    "tokens": [
+      "600m",
+      "begins",
+      "buyback",
+      "general",
+      "legal",
+      "second",
+      "share",
+      "tranche"
+    ],
+    "ts": 1789368403.1871676
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/quantum-data-energys-hindlip-power-plant-goes-live-93CH-4898836",
+    "title": "Quantum Data Energy’s Hindlip power plant goes live",
+    "tokens": [
+      "data",
+      "energy",
+      "goes",
+      "hindlip",
+      "live",
+      "plant",
+      "power",
+      "quantum"
+    ],
+    "ts": 1789368409.7274895
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/diplomacy-stumbles-with-postponement-of-meeting-on-strait-of-hormuz-proposal-4898762",
+    "title": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal",
+    "tokens": [
+      "diplomacy",
+      "hormuz",
+      "meeting",
+      "postponement",
+      "proposal",
+      "strait",
+      "stumbles"
+    ],
+    "ts": 1789368415.966334
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ecbs-kazaks-sees-growing-case-for-more-tightening-4898835",
+    "title": "ECB’s Kazaks sees growing case for more tightening",
+    "tokens": [
+      "case",
+      "ecb",
+      "growing",
+      "kazaks",
+      "more",
+      "sees",
+      "tightening"
+    ],
+    "ts": 1789368422.2626836
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/rtw-biotech-opportunities-reports-august-nav-of-292-per-share-93CH-4898833",
+    "title": "RTW Biotech Opportunities reports August NAV of $2.92 per share",
+    "tokens": [
+      "august",
+      "biotech",
+      "nav",
+      "opportunities",
+      "per",
+      "reports",
+      "rtw",
+      "share"
+    ],
+    "ts": 1789368429.2750928
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+    "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+    "tokens": [
+      "acquisition",
+      "actions",
+      "announces",
+      "bank",
+      "board",
+      "corp",
+      "enforcement",
+      "federal",
+      "holdings",
+      "quontic",
+      "reserve",
+      "termination",
+      "texas",
+      "united"
+    ],
+    "ts": 1789368437.6410549
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+    "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+    "tokens": [
+      "action",
+      "banco",
+      "board",
+      "employee",
+      "enforcement",
+      "federal",
+      "former",
+      "issues",
+      "popular",
+      "puerto",
+      "reserve",
+      "rico"
+    ],
+    "ts": 1789368444.2828422
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+    "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+    "tokens": [
+      "2026",
+      "board",
+      "discount",
+      "july",
+      "meetings",
+      "minutes",
+      "rate"
+    ],
+    "ts": 1789368450.4736326
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+    "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+    "tokens": [
+      "announces",
+      "application",
+      "approval",
+      "bank",
+      "board",
+      "federal",
+      "national",
+      "plc",
+      "reserve",
+      "westminster"
+    ],
+    "ts": 1789368456.4035087
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+    "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+    "tokens": [
+      "action",
+      "announces",
+      "bancshares",
+      "bank",
+      "board",
+      "branch",
+      "corporation",
+      "deutsche",
+      "enforcement",
+      "federal",
+      "inc",
+      "issues",
+      "reserve",
+      "southpoint",
+      "termination",
+      "usa",
+      "york"
+    ],
+    "ts": 1789368463.076814
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+    "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+    "tokens": [
+      "actions",
+      "bank",
+      "board",
+      "community",
+      "employee",
+      "enforcement",
+      "federal",
+      "former",
+      "issues",
+      "regions",
+      "reserve",
+      "united"
+    ],
+    "ts": 1789368469.3199995
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+    "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+    "tokens": [
+      "2026",
+      "committee",
+      "federal",
+      "july",
+      "market",
+      "minutes",
+      "open"
+    ],
+    "ts": 1789368475.773762
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
+    "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+    "tokens": [
+      "action",
+      "bank",
+      "board",
+      "employee",
+      "enforcement",
+      "federal",
+      "former",
+      "issues",
+      "regions",
+      "reserve"
+    ],
+    "ts": 1789368479.7869432
   }
 ]

@@ -1,206 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/lyell-completes-lyl273-manufacturing-transfer-eyes-2027-fda-meeting-93CH-4896898",
-    "title": "Lyell completes LYL273 manufacturing transfer, eyes 2027 FDA meeting",
-    "tokens": [
-      "2027",
-      "completes",
-      "eyes",
-      "fda",
-      "lyell",
-      "lyl273",
-      "manufacturing",
-      "meeting",
-      "transfer"
-    ],
-    "ts": 1789072836.8589025
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/trinity-industries-declares-31cent-quarterly-dividend-93CH-4896897",
-    "title": "Trinity Industries declares 31-cent quarterly dividend",
-    "tokens": [
-      "cent",
-      "declares",
-      "dividend",
-      "industries",
-      "quarterly",
-      "trinity"
-    ],
-    "ts": 1789072844.2384887
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/national-healthcare-properties-completes-first-tranche-of-omf-sale-93CH-4896896",
-    "title": "National Healthcare Properties completes first tranche of OMF sale",
-    "tokens": [
-      "completes",
-      "first",
-      "healthcare",
-      "national",
-      "omf",
-      "properties",
-      "sale",
-      "tranche"
-    ],
-    "ts": 1789072851.1727004
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/whitehawk-therapeutics-appoints-vijay-iyengar-to-board-93CH-4896895",
-    "title": "Whitehawk Therapeutics appoints Vijay Iyengar to board",
-    "tokens": [
-      "appoints",
-      "board",
-      "iyengar",
-      "therapeutics",
-      "vijay",
-      "whitehawk"
-    ],
-    "ts": 1789072860.3714461
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/viking-holdings-stock-rises-on-1-billion-buyback-program-93CH-4896894",
-    "title": "Viking Holdings stock rises on $1 billion buyback program",
-    "tokens": [
-      "billion",
-      "buyback",
-      "holdings",
-      "program",
-      "rises",
-      "stock",
-      "viking"
-    ],
-    "ts": 1789072869.2190354
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/oracle-raises-full-year-profit-guidance-stock-rises-after-hours-4896781",
-    "title": "Oracle raises full year profit guidance, stock rises after hours",
-    "tokens": [
-      "full",
-      "guidance",
-      "hours",
-      "oracle",
-      "profit",
-      "raises",
-      "rises",
-      "stock",
-      "year"
-    ],
-    "ts": 1789072876.5448873
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/lightpath-technologies-posts-mixed-q4-results-shares-edge-higher-93CH-4896893",
-    "title": "LightPath Technologies posts mixed Q4 results, shares edge higher",
-    "tokens": [
-      "edge",
-      "higher",
-      "lightpath",
-      "mixed",
-      "posts",
-      "results",
-      "shares",
-      "technologies"
-    ],
-    "ts": 1789072883.8357384
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/trumps-5000-dividend-plan-draws-some-republican-skepticism-4896744",
-    "title": "Trump’s $5,000 dividend plan draws some Republican skepticism",
-    "tokens": [
-      "000",
-      "dividend",
-      "draws",
-      "plan",
-      "republican",
-      "skepticism",
-      "some",
-      "trump"
-    ],
-    "ts": 1789072891.539
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/ibex-earnings-beat-by-006-revenue-topped-estimates-4896892",
-    "title": "IBEX earnings beat by $0.06, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "earnings",
-      "estimates",
-      "ibex",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1789072895.554731
-  },
-  {
-    "id": "forget-oklo-nuclear-stock-could-122000495.html",
-    "title": "Forget Oklo: This Nuclear Stock Could Be the Better Buy",
-    "tokens": [
-      "better",
-      "buy",
-      "could",
-      "forget",
-      "nuclear",
-      "oklo",
-      "stock"
-    ],
-    "ts": 1789072898.9558911
-  },
-  {
-    "id": "cencora-stock-underperforming-dow-121908179.html",
-    "title": "Is Cencora Stock Underperforming the Dow?",
-    "tokens": [
-      "cencora",
-      "dow",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1789072902.9727066
-  },
-  {
-    "id": "realty-income-underperforming-nasdaq-121728607.html",
-    "title": "Is Realty Income Underperforming the Nasdaq?",
-    "tokens": [
-      "income",
-      "nasdaq",
-      "realty",
-      "underperforming"
-    ],
-    "ts": 1789072906.6488352
-  },
-  {
-    "id": "bitcoin-price-swung-40-while-121715755.html",
-    "title": "Bitcoin Price Swung 40% While Exchange Supply Rose 45,000 BTC: Is a Popular Onchain Signal Broken?",
-    "tokens": [
-      "000",
-      "bitcoin",
-      "broken",
-      "btc",
-      "exchange",
-      "onchain",
-      "popular",
-      "price",
-      "rose",
-      "signal",
-      "supply",
-      "swung",
-      "while"
-    ],
-    "ts": 1789072915.303709
-  },
-  {
-    "id": "cerebras-stock-under-pressure-cathie-122421346.html",
-    "title": "Cerebras Stock Is Under Pressure, But Cathie Wood Bets $17.2 Million On It",
-    "tokens": [
-      "bets",
-      "cathie",
-      "cerebras",
-      "million",
-      "pressure",
-      "stock",
-      "under",
-      "wood"
-    ],
-    "ts": 1789072923.2958195
-  },
-  {
     "id": "te-connectivity-stock-underperforming-dow-122936808.html",
     "title": "Is TE Connectivity Stock Underperforming the Dow?",
     "tokens": [
@@ -23157,5 +22956,223 @@
       "wallet"
     ],
     "ts": 1789388187.955894
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/pennymac-financial-services-releases-investor-update-for-barclays-conference-93CH-4899573",
+    "title": "PennyMac Financial Services releases investor update for Barclays conference",
+    "tokens": [
+      "barclays",
+      "conference",
+      "financial",
+      "investor",
+      "pennymac",
+      "releases",
+      "services",
+      "update"
+    ],
+    "ts": 1789389500.076718
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/psg-equity-raises-44-billion-for-european-software-fund--bloomberg-93CH-4899568",
+    "title": "PSG Equity raises €4.4 billion for European software fund - Bloomberg",
+    "tokens": [
+      "billion",
+      "bloomberg",
+      "equity",
+      "european",
+      "fund",
+      "psg",
+      "raises",
+      "software"
+    ],
+    "ts": 1789389506.8466394
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/gap-inc-at-goldman-sachs-conference-gap-gains-old-navy-resets-93CH-4899563",
+    "title": "Gap Inc. at Goldman Sachs conference: gap gains, old navy resets",
+    "tokens": [
+      "conference",
+      "gains",
+      "gap",
+      "goldman",
+      "inc",
+      "navy",
+      "old",
+      "resets",
+      "sachs"
+    ],
+    "ts": 1789389513.8276446
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/enbridge-closes-c3-billion-equity-offering-93CH-4899556",
+    "title": "Enbridge closes C$3 billion equity offering",
+    "tokens": [
+      "billion",
+      "closes",
+      "enbridge",
+      "equity",
+      "offering"
+    ],
+    "ts": 1789389520.7344425
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/mobilicom-receives-followon-order-from-asia-robotics-maker-93CH-4899555",
+    "title": "Mobilicom receives follow-on order from Asia robotics maker",
+    "tokens": [
+      "asia",
+      "follow",
+      "maker",
+      "mobilicom",
+      "order",
+      "receives",
+      "robotics"
+    ],
+    "ts": 1789389527.3783538
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/mckesson-at-morgan-stanley-conference-outlook-rises-on-oncology-push-93CH-4899551",
+    "title": "McKesson at Morgan Stanley conference: outlook rises on oncology push",
+    "tokens": [
+      "conference",
+      "mckesson",
+      "morgan",
+      "oncology",
+      "outlook",
+      "push",
+      "rises",
+      "stanley"
+    ],
+    "ts": 1789389534.3280659
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/belite-bio-at-morgan-stanley-conference-tinlarebant-nears-key-fda-test-93CH-4899546",
+    "title": "Belite Bio at Morgan Stanley conference: tinlarebant nears key FDA test",
+    "tokens": [
+      "belite",
+      "bio",
+      "conference",
+      "fda",
+      "key",
+      "morgan",
+      "nears",
+      "stanley",
+      "test",
+      "tinlarebant"
+    ],
+    "ts": 1789389541.0607698
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/dominari-holdings-president-kyle-wool-buys-209190-in-stock-93CH-4899542",
+    "title": "Dominari Holdings president Kyle Wool buys $209,190 in stock",
+    "tokens": [
+      "190",
+      "209",
+      "buys",
+      "dominari",
+      "holdings",
+      "kyle",
+      "president",
+      "stock",
+      "wool"
+    ],
+    "ts": 1789389547.6614153
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/dominari-holdings-ceo-anthony-hayes-buys-209k-in-company-stock-93CH-4899541",
+    "title": "Dominari Holdings CEO Anthony Hayes buys $209k in company stock",
+    "tokens": [
+      "209k",
+      "anthony",
+      "buys",
+      "ceo",
+      "company",
+      "dominari",
+      "hayes",
+      "holdings",
+      "stock"
+    ],
+    "ts": 1789389554.3584642
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/seaport-downgrades-energy-recovery-stock-rating-on-middle-east-risks-93CH-4899540",
+    "title": "Seaport downgrades Energy Recovery stock rating on Middle East risks",
+    "tokens": [
+      "downgrades",
+      "east",
+      "energy",
+      "middle",
+      "rating",
+      "recovery",
+      "risks",
+      "seaport",
+      "stock"
+    ],
+    "ts": 1789389560.7337785
+  },
+  {
+    "id": "europe-gas-prices-jump-6-113000754.html",
+    "title": "Europe Gas Prices Jump 6% as Saudi Pipeline Shutdown Rattles Markets",
+    "tokens": [
+      "europe",
+      "gas",
+      "jump",
+      "markets",
+      "pipeline",
+      "prices",
+      "rattles",
+      "saudi",
+      "shutdown"
+    ],
+    "ts": 1789389567.355039
+  },
+  {
+    "id": "why-2-ceos-just-bought-121551864.html",
+    "title": "Why These 2 CEOs Just Bought Millions in Their Own Stocks",
+    "tokens": [
+      "bought",
+      "ceos",
+      "just",
+      "millions",
+      "own",
+      "stocks",
+      "their",
+      "these",
+      "why"
+    ],
+    "ts": 1789389574.0557737
+  },
+  {
+    "id": "oilprice-news-45487",
+    "title": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears",
+    "tokens": [
+      "108",
+      "brent",
+      "deepens",
+      "fears",
+      "hits",
+      "pipeline",
+      "saudi",
+      "shutdown",
+      "supply"
+    ],
+    "ts": 1789389578.9608154
+  },
+  {
+    "id": "4e86bdee-de20-42e5-a50d-d11c552c5d71",
+    "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+    "tokens": [
+      "billion",
+      "buyers",
+      "dogecoin",
+      "etfs",
+      "funds",
+      "pulled",
+      "rival",
+      "solana",
+      "struggled",
+      "while",
+      "xrp"
+    ],
+    "ts": 1789389582.289842
   }
 ]

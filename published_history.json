@@ -1,160 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005226474",
-    "title": "Would you buy stock in a company whose own scientists think the product might kill you?",
-    "tokens": [
-      "buy",
-      "company",
-      "kill",
-      "might",
-      "own",
-      "product",
-      "scientists",
-      "stock",
-      "think",
-      "whose",
-      "would",
-      "you"
-    ],
-    "ts": 1789067330.633131
-  },
-  {
-    "id": "WP-MKTW-0005217329",
-    "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
-    "tokens": [
-      "doesn",
-      "how",
-      "invest",
-      "myself",
-      "poverty",
-      "reality",
-      "rely",
-      "security",
-      "social",
-      "taught",
-      "then",
-      "thought"
-    ],
-    "ts": 1789067337.7821305
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/alector-at-cantor-healthcare-conference-brainshuttle-pipeline-in-focus-93CH-4896723",
-    "title": "Alector at Cantor healthcare conference: brain-shuttle pipeline in focus",
-    "tokens": [
-      "alector",
-      "brain",
-      "cantor",
-      "conference",
-      "focus",
-      "healthcare",
-      "pipeline",
-      "shuttle"
-    ],
-    "ts": 1789067346.3097003
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/crane-nxt-at-jefferies-global-industrials-conference-2026-growth-stays-in-focus-93CH-4896722",
-    "title": "Crane NXT at Jefferies Global Industrials Conference 2026: growth stays in focus",
-    "tokens": [
-      "2026",
-      "conference",
-      "crane",
-      "focus",
-      "global",
-      "growth",
-      "industrials",
-      "jefferies",
-      "nxt",
-      "stays"
-    ],
-    "ts": 1789067355.4756238
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/credo-at-goldman-sachs-conference-optical-ramp-drives-bigger-vision-93CH-4896721",
-    "title": "Credo at Goldman Sachs conference: optical ramp drives bigger vision",
-    "tokens": [
-      "bigger",
-      "conference",
-      "credo",
-      "drives",
-      "goldman",
-      "optical",
-      "ramp",
-      "sachs",
-      "vision"
-    ],
-    "ts": 1789067363.4671228
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-amgen-stock-sliding-today-93CH-4896720",
-    "title": "Why is Amgen stock sliding today?",
-    "tokens": [
-      "amgen",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789067367.4824696
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-faa-head-meets-with-airline-ceos-on-plan-to-cut-flight-delays-4896719",
-    "title": "US FAA head meets with airline CEOS on plan to cut flight delays",
-    "tokens": [
-      "airline",
-      "ceos",
-      "cut",
-      "delays",
-      "faa",
-      "flight",
-      "head",
-      "meets",
-      "plan"
-    ],
-    "ts": 1789067370.8829293
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/carney-says-he-spoke-recently-to-trump-about-iran-ukraine-4896718",
-    "title": "Carney says he spoke recently to Trump about Iran, Ukraine",
-    "tokens": [
-      "about",
-      "carney",
-      "iran",
-      "recently",
-      "spoke",
-      "trump",
-      "ukraine"
-    ],
-    "ts": 1789067383.0175488
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/zillow-at-goldman-sachs-communacopia--technology-conference-growth-broadens-93CH-4896717",
-    "title": "Zillow at Goldman Sachs Communacopia + Technology Conference: growth broadens",
-    "tokens": [
-      "broadens",
-      "communacopia",
-      "conference",
-      "goldman",
-      "growth",
-      "sachs",
-      "technology",
-      "zillow"
-    ],
-    "ts": 1789067387.0329473
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-labcorp-stock-sliding-today-93CH-4896716",
-    "title": "Why is Labcorp stock sliding today?",
-    "tokens": [
-      "labcorp",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789067387.0474846
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-united-rentals-stock-sliding-today-93CH-4896715",
     "title": "Why is United Rentals stock sliding today?",
     "tokens": [
@@ -23140,5 +22985,175 @@
       "tiktok"
     ],
     "ts": 1789380064.5885534
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
+    "title": "AI warnings knock Nasdaq futures, pressure tech stocks",
+    "tokens": [
+      "futures",
+      "knock",
+      "nasdaq",
+      "pressure",
+      "stocks",
+      "tech",
+      "warnings"
+    ],
+    "ts": 1789380671.733922
+  },
+  {
+    "id": "best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html",
+    "title": "Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY",
+    "tokens": [
+      "2026",
+      "apy",
+      "best",
+      "lock",
+      "monday",
+      "rates",
+      "september",
+      "today"
+    ],
+    "ts": 1789380678.3980582
+  },
+  {
+    "id": "mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
+    "title": "Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed",
+    "tokens": [
+      "2026",
+      "interest",
+      "mixed",
+      "monday",
+      "mortgage",
+      "purchase",
+      "rates",
+      "refinance",
+      "september",
+      "today"
+    ],
+    "ts": 1789380685.198096
+  },
+  {
+    "id": "heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-differential-100000523.html",
+    "title": "HELOC and home equity loan rates today, Monday, September 14, 2026: A 33-basis-point differential",
+    "tokens": [
+      "2026",
+      "basis",
+      "differential",
+      "equity",
+      "heloc",
+      "home",
+      "loan",
+      "monday",
+      "point",
+      "rates",
+      "september",
+      "today"
+    ],
+    "ts": 1789380691.8757353
+  },
+  {
+    "id": "the-market-says-a-fed-rate-hike-is-a-done-deal-heres-why-it-might-hold-steady-100000374.html",
+    "title": "The market says a Fed rate hike is a done deal. Here's why it might hold steady.",
+    "tokens": [
+      "deal",
+      "done",
+      "fed",
+      "here",
+      "hike",
+      "hold",
+      "market",
+      "might",
+      "rate",
+      "steady",
+      "why"
+    ],
+    "ts": 1789380698.6524506
+  },
+  {
+    "id": "best-high-yield-savings-interest-rates-today-monday-september-14-2026-earn-up-to-410-apy-100000167.html",
+    "title": "Best high-yield savings interest rates today, Monday, September 14, 2026: Earn up to 4.10% APY",
+    "tokens": [
+      "2026",
+      "apy",
+      "best",
+      "earn",
+      "high",
+      "interest",
+      "monday",
+      "rates",
+      "savings",
+      "september",
+      "today",
+      "yield"
+    ],
+    "ts": 1789380702.667838
+  },
+  {
+    "id": "jim-cramer-tries-predict-nvidia-095728531.html",
+    "title": "Jim Cramer Tries To Predict NVIDIA Corporation (NASDAQ:NVDA) Share Price Movement Following Anthropic CEO’s Remarks",
+    "tokens": [
+      "anthropic",
+      "ceo",
+      "corporation",
+      "cramer",
+      "following",
+      "jim",
+      "movement",
+      "nasdaq",
+      "nvda",
+      "nvidia",
+      "predict",
+      "price",
+      "remarks",
+      "share",
+      "tries"
+    ],
+    "ts": 1789380705.229252
+  },
+  {
+    "id": "c5c05f71-0f58-480d-9241-0faee5b26e9a",
+    "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+    "tokens": [
+      "000",
+      "bitcoin",
+      "climbs",
+      "crypto",
+      "selloff",
+      "sits"
+    ],
+    "ts": 1789380712.557302
+  },
+  {
+    "id": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week",
+    "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
+    "tokens": [
+      "act",
+      "bitcoin",
+      "clarity",
+      "fed",
+      "five",
+      "hike",
+      "know",
+      "meets",
+      "rate",
+      "things",
+      "vote",
+      "week"
+    ],
+    "ts": 1789380719.2453208
+  },
+  {
+    "id": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty",
+    "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
+    "tokens": [
+      "bounty",
+      "bridge",
+      "btc",
+      "hack",
+      "offers",
+      "recovered",
+      "symbiosis"
+    ],
+    "ts": 1789380725.763769
   }
 ]

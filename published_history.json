@@ -1,45 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/russias-central-bank-holds-key-rate-at-14-93CH-4897568",
-    "title": "Russia’s central bank holds key rate at 14%",
-    "tokens": [
-      "bank",
-      "central",
-      "holds",
-      "key",
-      "rate",
-      "russia"
-    ],
-    "ts": 1789123451.8374665
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/vail-resorts-receives-director-nominations-from-shareholders-93CH-4897567",
-    "title": "Vail Resorts receives director nominations from shareholders",
-    "tokens": [
-      "director",
-      "nominations",
-      "receives",
-      "resorts",
-      "shareholders",
-      "vail"
-    ],
-    "ts": 1789123459.2111325
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/needham-reiterates-buy-on-nu-holdings-stock-cites-us-expansion-93CH-4897565",
-    "title": "Needham reiterates Buy on Nu Holdings stock, cites U.S. expansion",
-    "tokens": [
-      "buy",
-      "cites",
-      "expansion",
-      "holdings",
-      "needham",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1789123467.858825
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/three-aipowered-strategies-pull-ahead-of-the-sp-500-in-september-4897564",
     "title": "Three AI-powered strategies pull ahead of the S&P 500 in September",
     "tokens": [
@@ -23143,5 +23103,59 @@
       "worth"
     ],
     "ts": 1789424971.02702
+  },
+  {
+    "id": "nvidia-older-gpus-still-earn-140210350.html",
+    "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
+    "tokens": [
+      "coreweave",
+      "does",
+      "doesn",
+      "earn",
+      "gpus",
+      "nvidia",
+      "older",
+      "prove",
+      "rent",
+      "still",
+      "what"
+    ],
+    "ts": 1789425871.01549
+  },
+  {
+    "id": "alibaba-amazon-face-same-ai-140837189.html",
+    "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
+    "tokens": [
+      "alibaba",
+      "amazon",
+      "become",
+      "capacity",
+      "cash",
+      "does",
+      "face",
+      "how",
+      "question",
+      "quickly",
+      "same",
+      "spending"
+    ],
+    "ts": 1789425879.1750526
+  },
+  {
+    "id": "78ca3b91-c983-4ab2-a0b7-7a9959e99e28",
+    "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+    "tokens": [
+      "act",
+      "asking",
+      "clarity",
+      "crypto",
+      "democrats",
+      "lummis",
+      "more",
+      "quit",
+      "senator",
+      "won"
+    ],
+    "ts": 1789425887.6854386
   }
 ]

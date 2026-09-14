@@ -1,195 +1,5 @@
 [
   {
-    "id": "braze-brze-posts-strong-q2-202810073.html",
-    "title": "Braze (BRZE) Posts Strong Q2, But Why Is the Stock Falling?",
-    "tokens": [
-      "braze",
-      "brze",
-      "falling",
-      "posts",
-      "stock",
-      "strong",
-      "why"
-    ],
-    "ts": 1789114436.5313668
-  },
-  {
-    "id": "jim-cramer-discusses-manufacturing-recovery-201735256.html",
-    "title": "Jim Cramer Discusses the Manufacturing Recovery at GE Aerospace (GE) and Boeing (BA)",
-    "tokens": [
-      "aerospace",
-      "boeing",
-      "cramer",
-      "discusses",
-      "jim",
-      "manufacturing",
-      "recovery"
-    ],
-    "ts": 1789114444.0653555
-  },
-  {
-    "id": "time-buy-wall-street-says-204446870.html",
-    "title": "Time to Buy: Wall Street Says Dell Stock Could Climb 38% in a Year",
-    "tokens": [
-      "buy",
-      "climb",
-      "could",
-      "dell",
-      "stock",
-      "street",
-      "time",
-      "wall",
-      "year"
-    ],
-    "ts": 1789114451.4310546
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press592.php",
-    "title": "EIA expects record electricity generation in 2026 and 2027",
-    "tokens": [
-      "2026",
-      "2027",
-      "eia",
-      "electricity",
-      "expects",
-      "generation",
-      "record"
-    ],
-    "ts": 1789114459.6132972
-  },
-  {
-    "id": "https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch",
-    "title": "Bitwise to put down Dogecoin ETF less than a year after launch",
-    "tokens": [
-      "bitwise",
-      "dogecoin",
-      "etf",
-      "launch",
-      "less",
-      "put",
-      "year"
-    ],
-    "ts": 1789114470.5716355
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/totalenergies-acquires-full-ownership-of-grandpuits-recycling-plant-93CH-4897366",
-    "title": "TotalEnergies acquires full ownership of Grandpuits recycling plant",
-    "tokens": [
-      "acquires",
-      "full",
-      "grandpuits",
-      "ownership",
-      "plant",
-      "recycling",
-      "totalenergies"
-    ],
-    "ts": 1789115412.7839231
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bank-of-england-expected-to-hold-rates-at-375-next-week-says-bofa-93CH-4897364",
-    "title": "Bank of England expected to hold rates at 3.75% next week says BofA",
-    "tokens": [
-      "bank",
-      "bofa",
-      "england",
-      "expected",
-      "hold",
-      "next",
-      "rates",
-      "week"
-    ],
-    "ts": 1789115421.0111232
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-old-national-bancorp-stock-at-overweight-93CH-4897360",
-    "title": "JPMorgan initiates Old National Bancorp stock at Overweight",
-    "tokens": [
-      "bancorp",
-      "initiates",
-      "jpmorgan",
-      "national",
-      "old",
-      "overweight",
-      "stock"
-    ],
-    "ts": 1789115428.9391396
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/eco-animal-health-grants-share-awards-to-executive-directors-93CH-4897359",
-    "title": "Eco Animal Health grants share awards to executive directors",
-    "tokens": [
-      "animal",
-      "awards",
-      "directors",
-      "eco",
-      "executive",
-      "grants",
-      "health",
-      "share"
-    ],
-    "ts": 1789115438.253012
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/tsk-affirms-2026-guidance-rules-out-dividend-for-3-years-shares-tumble-4897358",
-    "title": "TSK affirms 2026 guidance, rules out dividend for 3 years; shares tumble",
-    "tokens": [
-      "2026",
-      "affirms",
-      "dividend",
-      "guidance",
-      "rules",
-      "shares",
-      "tsk",
-      "tumble",
-      "years"
-    ],
-    "ts": 1789115446.0349555
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/stifel-sees-cms-tavr-coverage-update-as-positive-for-edwards-93CH-4897357",
-    "title": "Stifel sees CMS TAVR coverage update as positive for Edwards",
-    "tokens": [
-      "cms",
-      "coverage",
-      "edwards",
-      "positive",
-      "sees",
-      "stifel",
-      "tavr",
-      "update"
-    ],
-    "ts": 1789115453.379597
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-cuts-adobe-stock-price-target-on-monetization-concerns-93CH-4897356",
-    "title": "JPMorgan cuts Adobe stock price target on monetization concerns",
-    "tokens": [
-      "adobe",
-      "concerns",
-      "cuts",
-      "jpmorgan",
-      "monetization",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1789115460.4461007
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-dianthus-stock-at-overweight-135-target-93CH-4897355",
-    "title": "JPMorgan initiates Dianthus stock at Overweight, $135 target",
-    "tokens": [
-      "135",
-      "dianthus",
-      "initiates",
-      "jpmorgan",
-      "overweight",
-      "stock",
-      "target"
-    ],
-    "ts": 1789115468.0704916
-  },
-  {
     "id": "optical-cable-corporation-q3-2026-205928880.html",
     "title": "Optical Cable Corporation Q3 2026 Earnings Call Summary",
     "tokens": [
@@ -23113,5 +22923,189 @@
       "teams"
     ],
     "ts": 1789418620.9710596
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-childrens-place-stock-down-over-8-today-93CH-4900486",
+    "title": "Why is Children’s Place stock down over 8% today?",
+    "tokens": [
+      "children",
+      "place",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789419322.76393
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/u-s-physical-therapy-director-peter-minan-acquires-474-in-stock-93CH-4900485",
+    "title": "U S physical therapy director Peter Minan acquires $474 in stock",
+    "tokens": [
+      "474",
+      "acquires",
+      "director",
+      "minan",
+      "peter",
+      "physical",
+      "stock",
+      "therapy"
+    ],
+    "ts": 1789419329.0511587
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-enova-international-stock-tumbling-today-93CH-4900484",
+    "title": "Why is Enova International stock tumbling today?",
+    "tokens": [
+      "enova",
+      "international",
+      "stock",
+      "today",
+      "tumbling",
+      "why"
+    ],
+    "ts": 1789419337.1096592
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/merck-at-morgan-stanley-healthcare-conference-pipeline-gains-build-93CH-4900483",
+    "title": "Merck at Morgan Stanley healthcare conference: pipeline gains build",
+    "tokens": [
+      "build",
+      "conference",
+      "gains",
+      "healthcare",
+      "merck",
+      "morgan",
+      "pipeline",
+      "stanley"
+    ],
+    "ts": 1789419344.0069919
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/xcf-global-amends-merger-agreement-adjusts-ownership-and-funding-terms-93CH-4900481",
+    "title": "XCF Global amends merger agreement, adjusts ownership and funding terms",
+    "tokens": [
+      "adjusts",
+      "agreement",
+      "amends",
+      "funding",
+      "global",
+      "merger",
+      "ownership",
+      "terms",
+      "xcf"
+    ],
+    "ts": 1789419350.9882457
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/dlocal-selects-oscilar-for-compliance-operations-platform-93CH-4900479",
+    "title": "dLocal selects Oscilar for compliance operations platform",
+    "tokens": [
+      "compliance",
+      "dlocal",
+      "operations",
+      "oscilar",
+      "platform",
+      "selects"
+    ],
+    "ts": 1789419358.4152734
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/yesway-at-hc-wainwright-conference-diesel-burritos-and-growth-93CH-4900477",
+    "title": "Yesway at H.C. Wainwright conference: diesel, burritos and growth",
+    "tokens": [
+      "burritos",
+      "conference",
+      "diesel",
+      "growth",
+      "wainwright",
+      "yesway"
+    ],
+    "ts": 1789419365.3136396
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/lilly-says-foundayo-has-captured-over-30-of-new-uspatients-on-oral-weightloss-drugs-4900476",
+    "title": "Lilly says Foundayo has captured over 30% of new US patients on oral weight-loss drugs",
+    "tokens": [
+      "captured",
+      "drugs",
+      "foundayo",
+      "lilly",
+      "loss",
+      "oral",
+      "patients",
+      "weight"
+    ],
+    "ts": 1789419372.316813
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/apollo-at-barclays-conference-ai-financing-and-private-credit-push-93CH-4900475",
+    "title": "Apollo at Barclays conference: ai financing and private credit push",
+    "tokens": [
+      "apollo",
+      "barclays",
+      "conference",
+      "credit",
+      "financing",
+      "private",
+      "push"
+    ],
+    "ts": 1789419379.1966758
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/novocure-at-morgan-stanley-conference-growth-discipline-and-expansion-93CH-4900474",
+    "title": "Novocure at Morgan Stanley conference: growth, discipline and expansion",
+    "tokens": [
+      "conference",
+      "discipline",
+      "expansion",
+      "growth",
+      "morgan",
+      "novocure",
+      "stanley"
+    ],
+    "ts": 1789419386.1219049
+  },
+  {
+    "id": "shoe-station-group-shoe-bets-114759320.html",
+    "title": "Shoe Station Group (SHOE) Bets On Localized Stores To Reverse A Slide",
+    "tokens": [
+      "bets",
+      "group",
+      "localized",
+      "reverse",
+      "shoe",
+      "slide",
+      "station",
+      "stores"
+    ],
+    "ts": 1789419394.3148549
+  },
+  {
+    "id": "mastercraft-mcft-margins-soared-while-115519325.html",
+    "title": "MasterCraft’s (MCFT) Margins Soared While Its Pontoon Brand Stumbled",
+    "tokens": [
+      "brand",
+      "margins",
+      "mastercraft",
+      "mcft",
+      "pontoon",
+      "soared",
+      "stumbled",
+      "while"
+    ],
+    "ts": 1789419401.8629613
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press592.php",
+    "title": "EIA expects record electricity generation in 2026 and 2027",
+    "tokens": [
+      "2026",
+      "2027",
+      "eia",
+      "electricity",
+      "expects",
+      "generation",
+      "record"
+    ],
+    "ts": 1789419411.3757176
   }
 ]

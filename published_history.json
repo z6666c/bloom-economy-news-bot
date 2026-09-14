@@ -1,220 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/google-eases-password-manager-switching-on-android-93CH-4896772",
-    "title": "Google eases password manager switching on Android",
-    "tokens": [
-      "android",
-      "eases",
-      "google",
-      "manager",
-      "password",
-      "switching"
-    ],
-    "ts": 1789069913.6886706
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/immuneering-at-cantor-healthcare-conference-pancreatic-cancer-bet-gains-focus-93CH-4896771",
-    "title": "Immuneering at cantor healthcare conference: pancreatic cancer bet gains focus",
-    "tokens": [
-      "bet",
-      "cancer",
-      "cantor",
-      "conference",
-      "focus",
-      "gains",
-      "healthcare",
-      "immuneering",
-      "pancreatic"
-    ],
-    "ts": 1789069921.9472675
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/box-integrates-content-management-with-chatgpt-93CH-4896769",
-    "title": "Box integrates content management with ChatGPT",
-    "tokens": [
-      "box",
-      "chatgpt",
-      "content",
-      "integrates",
-      "management"
-    ],
-    "ts": 1789069930.1989534
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/southern-missouri-bancorp-director-todd-hensley-sells-11-million-in-stock-93CH-4896768",
-    "title": "Southern Missouri Bancorp director Todd Hensley sells $1.1 million in stock",
-    "tokens": [
-      "bancorp",
-      "director",
-      "hensley",
-      "million",
-      "missouri",
-      "sells",
-      "southern",
-      "stock",
-      "todd"
-    ],
-    "ts": 1789069937.8899968
-  },
-  {
-    "id": "WP-MKTW-0005204666",
-    "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-    "tokens": [
-      "000",
-      "already",
-      "can",
-      "contractor",
-      "feel",
-      "handed",
-      "pool",
-      "rejected",
-      "subcontractor",
-      "tricked",
-      "upgrade",
-      "what"
-    ],
-    "ts": 1789071002.1126134
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/prudential-financial-stock-hits-52week-low-at-2011-usd-93CH-4896812",
-    "title": "Prudential Financial stock hits 52-week low at 20.11 USD",
-    "tokens": [
-      "financial",
-      "hits",
-      "low",
-      "prudential",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789071006.312801
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/braveheart-bio-at-cantor-healthcare-conference-a-dual-hcm-push-93CH-4896811",
-    "title": "Braveheart Bio at Cantor healthcare conference: a dual HCM push",
-    "tokens": [
-      "bio",
-      "braveheart",
-      "cantor",
-      "conference",
-      "dual",
-      "hcm",
-      "healthcare",
-      "push"
-    ],
-    "ts": 1789071010.0579417
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/carmine-broccole-clo-disposes-of-206k-standard-motor-products-stock-93CH-4896809",
-    "title": "Carmine Broccole, CLO, disposes of $206k Standard Motor Products stock",
-    "tokens": [
-      "206k",
-      "broccole",
-      "carmine",
-      "clo",
-      "disposes",
-      "motor",
-      "products",
-      "standard",
-      "stock"
-    ],
-    "ts": 1789071019.0457747
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/metagenomi-cfo-pamela-wapnick-sells-2213-in-taxrelated-stock-93CH-4896808",
-    "title": "Metagenomi CFO Pamela Wapnick sells $2,213 in tax-related stock",
-    "tokens": [
-      "213",
-      "cfo",
-      "metagenomi",
-      "pamela",
-      "related",
-      "sells",
-      "stock",
-      "tax",
-      "wapnick"
-    ],
-    "ts": 1789071027.457307
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/marc-stefanski-tfs-financial-ceo-sells-172800-in-company-stock-93CH-4896807",
-    "title": "Marc Stefanski, TFS Financial CEO, sells $172,800 in company stock",
-    "tokens": [
-      "172",
-      "800",
-      "ceo",
-      "company",
-      "financial",
-      "marc",
-      "sells",
-      "stefanski",
-      "stock",
-      "tfs"
-    ],
-    "ts": 1789071040.3592427
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/tfs-financial-director-ashley-williams-sells-172800-in-stock-93CH-4896806",
-    "title": "TFS Financial director Ashley Williams sells $172,800 in stock",
-    "tokens": [
-      "172",
-      "800",
-      "ashley",
-      "director",
-      "financial",
-      "sells",
-      "stock",
-      "tfs",
-      "williams"
-    ],
-    "ts": 1789071048.0696316
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/candel-therapeutics-at-cantor-global-healthcare-conference-prostate-cancer-push-93CH-4896805",
-    "title": "Candel Therapeutics at Cantor global healthcare conference: prostate cancer push",
-    "tokens": [
-      "cancer",
-      "candel",
-      "cantor",
-      "conference",
-      "global",
-      "healthcare",
-      "prostate",
-      "push",
-      "therapeutics"
-    ],
-    "ts": 1789071057.4379706
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/lexicon-pharmaceuticals-at-cantorfitzgerald-healthcare-conference-focus-sharpens-93CH-4896801",
-    "title": "Lexicon Pharmaceuticals at cantorfitzgerald healthcare conference: focus sharpens",
-    "tokens": [
-      "cantorfitzgerald",
-      "conference",
-      "focus",
-      "healthcare",
-      "lexicon",
-      "pharmaceuticals",
-      "sharpens"
-    ],
-    "ts": 1789071065.318281
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/veradermics-at-cantor-healthcare-conference-hairloss-market-in-focus-93CH-4896799",
-    "title": "Veradermics at Cantor healthcare conference: hair-loss market in focus",
-    "tokens": [
-      "cantor",
-      "conference",
-      "focus",
-      "hair",
-      "healthcare",
-      "loss",
-      "market",
-      "veradermics"
-    ],
-    "ts": 1789071072.6096373
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/fg-at-kbw-insurance-conference-2026-fee-shift-growth-push-93CH-4896796",
     "title": "F&G at KBW Insurance Conference 2026: fee shift, growth push",
     "tokens": [
@@ -23181,5 +22966,209 @@
       "twelve"
     ],
     "ts": 1789384316.1491165
+  },
+  {
+    "id": "WP-MKTW-0005230207",
+    "title": "AI has carried the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
+    "tokens": [
+      "carried",
+      "could",
+      "giant",
+      "industry",
+      "market",
+      "pause",
+      "pull",
+      "rug",
+      "stock",
+      "street",
+      "wall",
+      "warns"
+    ],
+    "ts": 1789385329.0588417
+  },
+  {
+    "id": "https://www.investing.com/news/investment-ideas/kelly-services-delivers-67-return-after-fair-value-signal-93CH-4899242",
+    "title": "Kelly Services delivers 67% return after Fair Value signal",
+    "tokens": [
+      "delivers",
+      "fair",
+      "kelly",
+      "return",
+      "services",
+      "signal",
+      "value"
+    ],
+    "ts": 1789385336.8677673
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/waldencast-to-delist-from-nasdaq-rebrand-as-milk-makeup-93CH-4899240",
+    "title": "Waldencast to delist from Nasdaq, rebrand as Milk Makeup",
+    "tokens": [
+      "delist",
+      "makeup",
+      "milk",
+      "nasdaq",
+      "rebrand",
+      "waldencast"
+    ],
+    "ts": 1789385343.3401062
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/corbus-reports-phase-1b-obesity-drug-trial-results-93CH-4899239",
+    "title": "Corbus reports phase 1b obesity drug trial results",
+    "tokens": [
+      "corbus",
+      "drug",
+      "obesity",
+      "phase",
+      "reports",
+      "results",
+      "trial"
+    ],
+    "ts": 1789385350.6716123
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/airjoule-acquires-bitsink-for-up-to-67m-to-expand-into-ai-data-centers-93CH-4899238",
+    "title": "AirJoule acquires BitSink for up to $67M to expand into AI data centers",
+    "tokens": [
+      "67m",
+      "acquires",
+      "airjoule",
+      "bitsink",
+      "centers",
+      "data",
+      "expand"
+    ],
+    "ts": 1789385357.7219481
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pbf-energy-subsidiary-plans-500-million-exchangeable-note-offer-93CH-4899234",
+    "title": "PBF Energy subsidiary plans $500 million exchangeable note offer",
+    "tokens": [
+      "500",
+      "energy",
+      "exchangeable",
+      "million",
+      "note",
+      "offer",
+      "pbf",
+      "plans",
+      "subsidiary"
+    ],
+    "ts": 1789385364.0890253
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/phio-pharmaceuticals-submits-fda-briefing-for-ph762-study-93CH-4899235",
+    "title": "Phio Pharmaceuticals submits FDA briefing for PH-762 study",
+    "tokens": [
+      "762",
+      "briefing",
+      "fda",
+      "pharmaceuticals",
+      "phio",
+      "study",
+      "submits"
+    ],
+    "ts": 1789385370.5090797
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/realty-income-kkr-form-528m-european-joint-venture-93CH-4899236",
+    "title": "Realty Income, KKR form €528M European joint venture",
+    "tokens": [
+      "528m",
+      "european",
+      "form",
+      "income",
+      "joint",
+      "kkr",
+      "realty",
+      "venture"
+    ],
+    "ts": 1789385378.3549638
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tesoro-minerals-increases-private-placement-to-750000-93CH-4899237",
+    "title": "Tesoro Minerals increases private placement to $750,000",
+    "tokens": [
+      "000",
+      "750",
+      "increases",
+      "minerals",
+      "placement",
+      "private",
+      "tesoro"
+    ],
+    "ts": 1789385385.3579743
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/elemental-royalty-added-to-vaneck-junior-gold-miners-index-93CH-4899233",
+    "title": "Elemental Royalty added to VanEck junior gold miners index",
+    "tokens": [
+      "added",
+      "elemental",
+      "gold",
+      "index",
+      "junior",
+      "miners",
+      "royalty",
+      "vaneck"
+    ],
+    "ts": 1789385391.6840706
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/data-communications-amends-credit-facility-adds-lenders-93CH-4899232",
+    "title": "DATA Communications amends credit facility, adds lenders",
+    "tokens": [
+      "adds",
+      "amends",
+      "communications",
+      "credit",
+      "data",
+      "facility",
+      "lenders"
+    ],
+    "ts": 1789385398.38315
+  },
+  {
+    "id": "electra-therapeutics-targets-977-6-110028846.html",
+    "title": "Electra Therapeutics targets $977.6 million valuation in US IPO",
+    "tokens": [
+      "977",
+      "electra",
+      "ipo",
+      "million",
+      "targets",
+      "therapeutics",
+      "valuation"
+    ],
+    "ts": 1789385405.4901242
+  },
+  {
+    "id": "southern-glazer-settles-us-bribery-111507252.html",
+    "title": "Southern Glazer’s settles US bribery probe",
+    "tokens": [
+      "bribery",
+      "glazer",
+      "probe",
+      "settles",
+      "southern"
+    ],
+    "ts": 1789385413.0752244
+  },
+  {
+    "id": "02b5cb72-8444-4f00-a602-5a811926b5f0",
+    "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
+    "tokens": [
+      "call",
+      "crypto",
+      "development",
+      "market",
+      "outperforms",
+      "slower",
+      "stocks",
+      "tech",
+      "weighs"
+    ],
+    "ts": 1789385421.4317982
   }
 ]

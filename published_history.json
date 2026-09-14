@@ -1,170 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/nubank-launches-highyield-savings-account-credit-cards-remittances-in-the-us-4896505",
-    "title": "Nubank launches US high-yield savings account, credit cards, remittances",
-    "tokens": [
-      "account",
-      "cards",
-      "credit",
-      "high",
-      "launches",
-      "nubank",
-      "remittances",
-      "savings",
-      "yield"
-    ],
-    "ts": 1789063985.9912791
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/intapp-launches-dealcloud-plugin-for-chatgpt-for-finance-firms-93CH-4896654",
-    "title": "Intapp launches DealCloud plug-in for ChatGPT for finance firms",
-    "tokens": [
-      "chatgpt",
-      "dealcloud",
-      "finance",
-      "firms",
-      "intapp",
-      "launches",
-      "plug"
-    ],
-    "ts": 1789063995.8851779
-  },
-  {
-    "id": "larger-deals-drive-q2-cre-081158440.html",
-    "title": "Larger Deals Drive Q2 CRE Transaction Volume Higher",
-    "tokens": [
-      "cre",
-      "deals",
-      "drive",
-      "higher",
-      "larger",
-      "transaction",
-      "volume"
-    ],
-    "ts": 1789064004.2156076
-  },
-  {
-    "id": "rising-oil-prices-threaten-china-070500918.html",
-    "title": "Rising Oil Prices Threaten China’s Independent Refiners",
-    "tokens": [
-      "china",
-      "independent",
-      "oil",
-      "prices",
-      "refiners",
-      "rising",
-      "threaten"
-    ],
-    "ts": 1789064012.1366174
-  },
-  {
-    "id": "google-invest-15-billion-ai-070119247.html",
-    "title": "Google to invest $15 billion AI infrastructure in Finland",
-    "tokens": [
-      "billion",
-      "finland",
-      "google",
-      "infrastructure",
-      "invest"
-    ],
-    "ts": 1789064021.0230994
-  },
-  {
-    "id": "over-300-000-combined-backdoor-120000651.html",
-    "title": "We'll Earn More Than $300,000 This Year. Can a Backdoor Roth Help Reduce Our Taxes?",
-    "tokens": [
-      "000",
-      "300",
-      "backdoor",
-      "can",
-      "earn",
-      "help",
-      "more",
-      "our",
-      "reduce",
-      "roth",
-      "taxes",
-      "year"
-    ],
-    "ts": 1789064030.2562687
-  },
-  {
-    "id": "ask-advisor-im-67-218k-103000740.html",
-    "title": "Ask an Advisor: I'm 67 With $218k in an IRA. Should I Withdraw Money Now to Reduce Future RMD Taxes?",
-    "tokens": [
-      "218k",
-      "advisor",
-      "ask",
-      "future",
-      "ira",
-      "money",
-      "now",
-      "reduce",
-      "rmd",
-      "should",
-      "taxes",
-      "withdraw"
-    ],
-    "ts": 1789064040.0424016
-  },
-  {
-    "id": "fortinet-stock-outperforming-p-500-090336137.html",
-    "title": "Is Fortinet Stock Outperforming the S&P 500?",
-    "tokens": [
-      "500",
-      "fortinet",
-      "outperforming",
-      "stock"
-    ],
-    "ts": 1789064049.8827412
-  },
-  {
-    "id": "kraft-heinz-stock-khc-underperforming-065059691.html",
-    "title": "Kraft Heinz Stock: Is KHC Underperforming the Consumer Defensive Sector?",
-    "tokens": [
-      "consumer",
-      "defensive",
-      "heinz",
-      "khc",
-      "kraft",
-      "sector",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1789064057.513878
-  },
-  {
-    "id": "how-apple-stock-usually-reacts-to-big-iphone-reveal-events-152915777.html",
-    "title": "How Apple stock usually reacts to big iPhone reveal events",
-    "tokens": [
-      "apple",
-      "big",
-      "events",
-      "how",
-      "iphone",
-      "reacts",
-      "reveal",
-      "stock",
-      "usually"
-    ],
-    "ts": 1789064070.3661547
-  },
-  {
-    "id": "cytek-ctkb-instruments-keep-selling-063729836.html",
-    "title": "Cytek’s (CTKB) Instruments Keep Selling While Losses Keep Growing",
-    "tokens": [
-      "ctkb",
-      "cytek",
-      "growing",
-      "instruments",
-      "keep",
-      "losses",
-      "selling",
-      "while"
-    ],
-    "ts": 1789064078.3849316
-  },
-  {
     "id": "elon-musk-grok-ai-predicts-081218278.html",
     "title": "Elon Musk Grok AI Predicts $250K Bitcoin Price by 2027",
     "tokens": [
@@ -23107,5 +22942,185 @@
       "year"
     ],
     "ts": 1789376247.6686707
+  },
+  {
+    "id": "WP-MKTW-0005230247",
+    "title": "The very big caveat to the report that Anthropic is profitable for a second straight quarter",
+    "tokens": [
+      "anthropic",
+      "big",
+      "caveat",
+      "profitable",
+      "quarter",
+      "report",
+      "second",
+      "straight",
+      "very"
+    ],
+    "ts": 1789377162.4118013
+  },
+  {
+    "id": "WP-MKTW-0005230125",
+    "title": "Massive sinkhole still threatens Nicolas Cage’s $10.5 million Malibu mansion",
+    "tokens": [
+      "cage",
+      "malibu",
+      "mansion",
+      "massive",
+      "million",
+      "nicolas",
+      "sinkhole",
+      "still",
+      "threatens"
+    ],
+    "ts": 1789377169.3063831
+  },
+  {
+    "id": "stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
+    "tokens": [
+      "500",
+      "anthropic",
+      "dow",
+      "fall",
+      "futures",
+      "jump",
+      "market",
+      "nasdaq",
+      "oil",
+      "prices",
+      "spooks",
+      "stock",
+      "tech",
+      "today",
+      "traders",
+      "warning"
+    ],
+    "ts": 1789377176.4881043
+  },
+  {
+    "id": "africas-biggest-oil-refinery-opens-085534787.html",
+    "title": "Africa's biggest oil refinery opens to public ownership, sparking excitement among retail investors",
+    "tokens": [
+      "africa",
+      "among",
+      "biggest",
+      "excitement",
+      "investors",
+      "oil",
+      "opens",
+      "ownership",
+      "public",
+      "refinery",
+      "retail",
+      "sparking"
+    ],
+    "ts": 1789377183.1065214
+  },
+  {
+    "id": "math-behind-databricks-190b-price-084100123.html",
+    "title": "The math behind Databricks' $190B price doesn't add up—yet",
+    "tokens": [
+      "190b",
+      "add",
+      "behind",
+      "databricks",
+      "doesn",
+      "math",
+      "price",
+      "yet"
+    ],
+    "ts": 1789377189.7931914
+  },
+  {
+    "id": "companies-left-china-dodge-tariffs-075131494.html",
+    "title": "Companies left China to dodge tariffs. Now some are heading back",
+    "tokens": [
+      "back",
+      "china",
+      "companies",
+      "dodge",
+      "heading",
+      "left",
+      "now",
+      "some",
+      "tariffs"
+    ],
+    "ts": 1789377193.808649
+  },
+  {
+    "id": "volvo-cars-become-lynk-co-085830789.html",
+    "title": "Volvo Cars to become Lynk & Co’s exclusive distributor in Europe",
+    "tokens": [
+      "become",
+      "cars",
+      "distributor",
+      "europe",
+      "exclusive",
+      "lynk",
+      "volvo"
+    ],
+    "ts": 1789377196.9301786
+  },
+  {
+    "id": "soaring-oil-prices-put-fed-080000535.html",
+    "title": "Soaring Oil Prices Put Fed on Track for September Rate Hike",
+    "tokens": [
+      "fed",
+      "hike",
+      "oil",
+      "prices",
+      "put",
+      "rate",
+      "september",
+      "soaring",
+      "track"
+    ],
+    "ts": 1789377203.1920416
+  },
+  {
+    "id": "brent-hits-108-saudi-pipeline-053704663.html",
+    "title": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears",
+    "tokens": [
+      "108",
+      "brent",
+      "deepens",
+      "fears",
+      "hits",
+      "pipeline",
+      "saudi",
+      "shutdown",
+      "supply"
+    ],
+    "ts": 1789377207.207283
+  },
+  {
+    "id": "jim-cramer-believes-ai-stock-052334263.html",
+    "title": "Jim Cramer Believes This AI Stock Is The Way To Go Over DRAM Memory",
+    "tokens": [
+      "believes",
+      "cramer",
+      "dram",
+      "jim",
+      "memory",
+      "stock",
+      "way"
+    ],
+    "ts": 1789377209.961792
+  },
+  {
+    "id": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft",
+    "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
+    "tokens": [
+      "bespoke",
+      "considers",
+      "exemptions",
+      "fca",
+      "fund",
+      "gold",
+      "rules",
+      "tokenized"
+    ],
+    "ts": 1789377217.939507
   }
 ]

@@ -1,681 +1,5 @@
 [
   {
-    "id": "574827ae-dd07-456e-8b3c-63683933e142",
-    "title": "Crypto for Advisors: Hyperliquid and the future of finance",
-    "tokens": [
-      "advisors",
-      "crypto",
-      "finance",
-      "future",
-      "hyperliquid"
-    ],
-    "ts": 1789053166.420627
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high",
-    "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
-    "tokens": [
-      "bitcoin",
-      "bond",
-      "falls",
-      "high",
-      "hits",
-      "overshoot",
-      "ppi",
-      "year",
-      "yield"
-    ],
-    "ts": 1789053175.0040944
-  },
-  {
-    "id": "WP-MKTW-0005223036",
-    "title": "Now’s your chance to make money during the best bond market for yields in decades — if you get over Treasury jitters",
-    "tokens": [
-      "best",
-      "bond",
-      "chance",
-      "decades",
-      "during",
-      "get",
-      "jitters",
-      "make",
-      "market",
-      "money",
-      "now",
-      "treasury",
-      "yields",
-      "you",
-      "your"
-    ],
-    "ts": 1789054102.2925339
-  },
-  {
-    "id": "WP-MKTW-0005225295",
-    "title": "Meta is winning over Wall Street with its new Muse AI agent",
-    "tokens": [
-      "agent",
-      "meta",
-      "muse",
-      "street",
-      "wall",
-      "winning"
-    ],
-    "ts": 1789054110.458998
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/freeportmcmoran-at-jefferies-industrials-conference-growth-bets-take-shape-93CH-4896429",
-    "title": "Freeport-McMoRan at jefferies industrials conference: growth bets take shape",
-    "tokens": [
-      "bets",
-      "conference",
-      "freeport",
-      "growth",
-      "industrials",
-      "jefferies",
-      "mcmoran",
-      "shape",
-      "take"
-    ],
-    "ts": 1789054118.4919412
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/4d-molecular-therapeutics-at-cantor-healthcare-conference-bold-amd-push-93CH-4896428",
-    "title": "4D Molecular Therapeutics at cantor healthcare conference: bold AMD push",
-    "tokens": [
-      "amd",
-      "bold",
-      "cantor",
-      "conference",
-      "healthcare",
-      "molecular",
-      "push",
-      "therapeutics"
-    ],
-    "ts": 1789054126.6891341
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trump-administration-proposes-waiving-grace-period-for-h1b-holders-after-job-loss-4896427",
-    "title": "Trump administration proposes waiving grace period for H-1B holders after job loss",
-    "tokens": [
-      "administration",
-      "grace",
-      "holders",
-      "job",
-      "loss",
-      "period",
-      "proposes",
-      "trump",
-      "waiving"
-    ],
-    "ts": 1789054136.013225
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/american-tower-at-citis-2026-global-tmt-conference-growth-seen-ahead-93CH-4896425",
-    "title": "American Tower at Citi’s 2026 Global TMT Conference: growth seen ahead",
-    "tokens": [
-      "2026",
-      "ahead",
-      "american",
-      "citi",
-      "conference",
-      "global",
-      "growth",
-      "seen",
-      "tmt",
-      "tower"
-    ],
-    "ts": 1789054143.8138628
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/cogent-at-bank-of-america-conference-ai-demand-offsets-a-hard-reset-93CH-4896424",
-    "title": "Cogent at Bank of America conference: ai demand offsets a hard reset",
-    "tokens": [
-      "america",
-      "bank",
-      "cogent",
-      "conference",
-      "demand",
-      "hard",
-      "offsets",
-      "reset"
-    ],
-    "ts": 1789054151.2956517
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-raises-diamondrock-hospitality-stock-price-target-on-strong-q3-trends-93CH-4896423",
-    "title": "Stifel raises Diamondrock Hospitality stock price target on strong Q3 trends",
-    "tokens": [
-      "diamondrock",
-      "hospitality",
-      "price",
-      "raises",
-      "stifel",
-      "stock",
-      "strong",
-      "target",
-      "trends"
-    ],
-    "ts": 1789054159.1569877
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tsakos-energy-q2-2026-slides-eps-surges-557-on-strong-tanker-rates-93CH-4896421",
-    "title": "Tsakos Energy Q2 2026 slides: EPS surges 557% on strong tanker rates",
-    "tokens": [
-      "2026",
-      "557",
-      "energy",
-      "eps",
-      "rates",
-      "slides",
-      "strong",
-      "surges",
-      "tanker",
-      "tsakos"
-    ],
-    "ts": 1789054166.8150253
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/harmony-biosciences-at-cantor-conference-growth-plan-widens-93CH-4896419",
-    "title": "Harmony Biosciences at cantor conference: growth plan widens",
-    "tokens": [
-      "biosciences",
-      "cantor",
-      "conference",
-      "growth",
-      "harmony",
-      "plan",
-      "widens"
-    ],
-    "ts": 1789054174.1271474
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/biomarin-at-cantor-conference-growth-plan-widens-beyond-voxzogo-93CH-4896418",
-    "title": "BioMarin at Cantor conference: growth plan widens beyond Voxzogo",
-    "tokens": [
-      "beyond",
-      "biomarin",
-      "cantor",
-      "conference",
-      "growth",
-      "plan",
-      "voxzogo",
-      "widens"
-    ],
-    "ts": 1789054181.0880647
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/air-transat-q3-2026-slides-fuel-costs-push-ebitda-negative-93CH-4896416",
-    "title": "Air Transat Q3 2026 slides: fuel costs push EBITDA negative",
-    "tokens": [
-      "2026",
-      "air",
-      "costs",
-      "ebitda",
-      "fuel",
-      "negative",
-      "push",
-      "slides",
-      "transat"
-    ],
-    "ts": 1789054190.1021466
-  },
-  {
-    "id": "cummins-sells-power-solutions-keep-152000902.html",
-    "title": "Cummins Sells the Power Solutions That Keep Data Centers Running. Does That Make the Stock a Buy?",
-    "tokens": [
-      "buy",
-      "centers",
-      "cummins",
-      "data",
-      "does",
-      "keep",
-      "make",
-      "power",
-      "running",
-      "sells",
-      "solutions",
-      "stock"
-    ],
-    "ts": 1789054198.5113986
-  },
-  {
-    "id": "we-intend-to-be-disruptive-robinhood-ceo-details-big-investment-bank-ambitions-after-oura-ipo-win-151806118.html",
-    "title": "'We intend to be disruptive': Robinhood CEO details big investment bank ambitions after Oura IPO win",
-    "tokens": [
-      "ambitions",
-      "bank",
-      "big",
-      "ceo",
-      "details",
-      "disruptive",
-      "intend",
-      "investment",
-      "ipo",
-      "oura",
-      "robinhood",
-      "win"
-    ],
-    "ts": 1789054206.7389603
-  },
-  {
-    "id": "apples-iphone-leasing-program-how-it-works-what-to-consider-as-prices-increase-143105471.html",
-    "title": "Apple's iPhone leasing program: How it works, what to consider as prices increase",
-    "tokens": [
-      "apple",
-      "consider",
-      "how",
-      "increase",
-      "iphone",
-      "leasing",
-      "prices",
-      "program",
-      "what",
-      "works"
-    ],
-    "ts": 1789054215.0409899
-  },
-  {
-    "id": "fed-rate-hike-odds-rise-151827585.html",
-    "title": "Fed Rate Hike Odds Rise to 61% After PPI Comes in Hotter than Expected",
-    "tokens": [
-      "comes",
-      "expected",
-      "fed",
-      "hike",
-      "hotter",
-      "odds",
-      "ppi",
-      "rate",
-      "rise"
-    ],
-    "ts": 1789054223.6186137
-  },
-  {
-    "id": "ded8c3d2-8d47-4619-9da2-27d5a0549aa7",
-    "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
-    "tokens": [
-      "000",
-      "620",
-      "atms",
-      "bancorp",
-      "bitcoin",
-      "defunct",
-      "depot",
-      "snaps",
-      "thousands"
-    ],
-    "ts": 1789054232.9280803
-  },
-  {
-    "id": "WP-MKTW-0005224195",
-    "title": "Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.",
-    "tokens": [
-      "actually",
-      "bad",
-      "consumers",
-      "either",
-      "energy",
-      "great",
-      "mandates",
-      "renewable",
-      "solar",
-      "stocks",
-      "they"
-    ],
-    "ts": 1789055090.0651608
-  },
-  {
-    "id": "coinbase-ceo-says-bitcoin-could-153306835.html",
-    "title": "Coinbase CEO Says Bitcoin Could Hit $400,000 by 2030 — Here’s Why",
-    "tokens": [
-      "000",
-      "2030",
-      "400",
-      "bitcoin",
-      "ceo",
-      "coinbase",
-      "could",
-      "here",
-      "hit",
-      "why"
-    ],
-    "ts": 1789055101.7476742
-  },
-  {
-    "id": "18-wtw-agents-quit-44-152500609.html",
-    "title": "18 WTW agents quit in 44 minutes, walked next door to competitor Lockton — and allegedly took $5 million in clients",
-    "tokens": [
-      "agents",
-      "allegedly",
-      "clients",
-      "competitor",
-      "door",
-      "lockton",
-      "million",
-      "minutes",
-      "next",
-      "quit",
-      "took",
-      "walked",
-      "wtw"
-    ],
-    "ts": 1789055110.9469335
-  },
-  {
-    "id": "veteran-analyst-says-buy-vertiv-153300535.html",
-    "title": "Veteran analyst says buy Vertiv despite huge gains already",
-    "tokens": [
-      "already",
-      "analyst",
-      "buy",
-      "despite",
-      "gains",
-      "huge",
-      "vertiv",
-      "veteran"
-    ],
-    "ts": 1789055118.234472
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/us-wholesale-inventories-surge-in-july-4896456",
-    "title": "US wholesale inventories surge in July",
-    "tokens": [
-      "inventories",
-      "july",
-      "surge",
-      "wholesale"
-    ],
-    "ts": 1789055762.1498437
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/charter-at-citis-2026-global-tmt-conference-integration-ai-and-scale-93CH-4896455",
-    "title": "Charter at Citi’s 2026 Global TMT Conference: integration, AI and scale",
-    "tokens": [
-      "2026",
-      "charter",
-      "citi",
-      "conference",
-      "global",
-      "integration",
-      "scale",
-      "tmt"
-    ],
-    "ts": 1789055770.4799147
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sun-hung-kai-fy2026-slides-profit-rises-46-gearing-halved-93CH-4896454",
-    "title": "Sun Hung Kai FY2026 slides: profit rises 4.6%, gearing halved",
-    "tokens": [
-      "fy2026",
-      "gearing",
-      "halved",
-      "hung",
-      "kai",
-      "profit",
-      "rises",
-      "slides",
-      "sun"
-    ],
-    "ts": 1789055778.9654338
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/palomar-at-kbw-insurance-conference-2026-growth-broadens-93CH-4896452",
-    "title": "Palomar at KBW Insurance Conference 2026: growth broadens",
-    "tokens": [
-      "2026",
-      "broadens",
-      "conference",
-      "growth",
-      "insurance",
-      "kbw",
-      "palomar"
-    ],
-    "ts": 1789055787.6314337
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/speedy-hire-approves-resolutions-at-annual-meeting-93CH-4896451",
-    "title": "Speedy Hire approves resolutions at annual meeting",
-    "tokens": [
-      "annual",
-      "approves",
-      "hire",
-      "meeting",
-      "resolutions",
-      "speedy"
-    ],
-    "ts": 1789055795.1096668
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-077-4896449",
-    "title": "Turkey stocks lower at close of trade; BIST 100 down 0.77%",
-    "tokens": [
-      "100",
-      "bist",
-      "close",
-      "lower",
-      "stocks",
-      "trade",
-      "turkey"
-    ],
-    "ts": 1789055802.7360213
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/generate-biomedicines-at-cantor-healthcare-conference-pipeline-gains-traction-93CH-4896448",
-    "title": "Generate Biomedicines at Cantor healthcare conference: pipeline gains traction",
-    "tokens": [
-      "biomedicines",
-      "cantor",
-      "conference",
-      "gains",
-      "generate",
-      "healthcare",
-      "pipeline",
-      "traction"
-    ],
-    "ts": 1789055810.307641
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-081-4896447",
-    "title": "Poland stocks lower at close of trade; WIG30 down 0.81%",
-    "tokens": [
-      "close",
-      "lower",
-      "poland",
-      "stocks",
-      "trade",
-      "wig30"
-    ],
-    "ts": 1789055818.1147742
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dycom-industries-stock-rises-after-ceo-insider-purchase-93CH-4896446",
-    "title": "Dycom Industries stock rises after CEO insider purchase",
-    "tokens": [
-      "ceo",
-      "dycom",
-      "industries",
-      "insider",
-      "purchase",
-      "rises",
-      "stock"
-    ],
-    "ts": 1789055825.4673111
-  },
-  {
-    "id": "paypal-stock-buy-sell-hold-154000614.html",
-    "title": "Is PayPal Stock a Buy, Sell, or Hold at 80% Below Its Record High?",
-    "tokens": [
-      "below",
-      "buy",
-      "high",
-      "hold",
-      "paypal",
-      "record",
-      "sell",
-      "stock"
-    ],
-    "ts": 1789055833.2871907
-  },
-  {
-    "id": "24b20253-8e5e-4314-b739-cf198b0d7887",
-    "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
-    "tokens": [
-      "bank",
-      "cites",
-      "delays",
-      "deposits",
-      "issues",
-      "monument",
-      "regulatory",
-      "retail",
-      "tokenized"
-    ],
-    "ts": 1789055842.3365848
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-decline-less-than-expected-signaling-demand-shift-93CH-4896486",
-    "title": "Crude oil inventories decline less than expected, signaling demand shift",
-    "tokens": [
-      "crude",
-      "decline",
-      "demand",
-      "expected",
-      "inventories",
-      "less",
-      "oil",
-      "shift",
-      "signaling"
-    ],
-    "ts": 1789056737.624861
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/arcturus-therapeutics-at-cantoral-global-healthcare-conference-data-catalysts-ahead-93CH-4896485",
-    "title": "Arcturus Therapeutics at cantoral global healthcare conference: data catalysts ahead",
-    "tokens": [
-      "ahead",
-      "arcturus",
-      "cantoral",
-      "catalysts",
-      "conference",
-      "data",
-      "global",
-      "healthcare",
-      "therapeutics"
-    ],
-    "ts": 1789056745.6931598
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-378-in-texas-pacific-land-corp-stock-93CH-4896483",
-    "title": "Horizon Kinetics buys $378 in Texas Pacific Land Corp stock",
-    "tokens": [
-      "378",
-      "buys",
-      "corp",
-      "horizon",
-      "kinetics",
-      "land",
-      "pacific",
-      "stock",
-      "texas"
-    ],
-    "ts": 1789056754.1684434
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/first-us-bancshares-director-robert-field-buys-19121-in-stock-93CH-4896482",
-    "title": "First US Bancshares director Robert Field buys $19,121 in stock",
-    "tokens": [
-      "121",
-      "bancshares",
-      "buys",
-      "director",
-      "field",
-      "first",
-      "robert",
-      "stock"
-    ],
-    "ts": 1789056761.3855429
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bond-yields-hit-multiyear-highs-as-traders-brace-for-new-ecb-ratehike-cycle-4896480",
-    "title": "Bond yields hit multi-year highs as traders brace for new ECB rate-hike cycle",
-    "tokens": [
-      "bond",
-      "brace",
-      "cycle",
-      "ecb",
-      "highs",
-      "hike",
-      "hit",
-      "multi",
-      "rate",
-      "traders",
-      "year",
-      "yields"
-    ],
-    "ts": 1789056770.1550653
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/west-red-lake-gold-intersects-1616-gt-au-over-15-metres-and-1094-gt-au-over-15-metres-at-starrattolsen-advancing-multiasset-strategy-at-madsen-4896481",
-    "title": "West Red Lake Gold Intersects 16.16 g/t Au over 1.5 Metres and 10.94 g/t Au over 1.5 Metres at Starratt-Olsen, Advancing Multi-Asset Strategy at Madsen",
-    "tokens": [
-      "advancing",
-      "asset",
-      "gold",
-      "intersects",
-      "lake",
-      "madsen",
-      "metres",
-      "multi",
-      "olsen",
-      "red",
-      "starratt",
-      "strategy",
-      "west"
-    ],
-    "ts": 1789056778.245981
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fingermotion-to-acquire-99-mw-power-site-in-alberta-canada-93CH-4896479",
-    "title": "FingerMotion to acquire 9.9 MW power site in Alberta, Canada",
-    "tokens": [
-      "acquire",
-      "alberta",
-      "canada",
-      "fingermotion",
-      "power",
-      "site"
-    ],
-    "ts": 1789056786.349406
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-041-4896478",
-    "title": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.41%",
-    "tokens": [
-      "close",
-      "lower",
-      "omx",
-      "stockholm",
-      "stocks",
-      "sweden",
-      "trade"
-    ],
-    "ts": 1789056794.8278444
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/finland-stocks-lower-at-close-of-trade-omx-helsinki-25-down-108-4896476",
-    "title": "Finland stocks lower at close of trade; OMX Helsinki 25 down 1.08%",
-    "tokens": [
-      "close",
-      "finland",
-      "helsinki",
-      "lower",
-      "omx",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789056802.7349937
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-groupe-dynamite-tops-q2-2026-eps-forecast-93CH-4896475",
     "title": "Earnings call transcript: Groupe Dynamite tops Q2 2026 EPS forecast",
     "tokens": [
@@ -23249,5 +22573,679 @@
       "stocks"
     ],
     "ts": 1789271632.384115
+  },
+  {
+    "id": "WP-MKTW-0005222705",
+    "title": "These are the 10 biggest retirement fears — and what you can do about them",
+    "tokens": [
+      "about",
+      "biggest",
+      "can",
+      "fears",
+      "retirement",
+      "them",
+      "these",
+      "what",
+      "you"
+    ],
+    "ts": 1789359077.4245903
+  },
+  {
+    "id": "WP-MKTW-0005222491",
+    "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
+    "tokens": [
+      "can",
+      "die",
+      "estate",
+      "give",
+      "here",
+      "how",
+      "mistake",
+      "money",
+      "person",
+      "protect",
+      "simple",
+      "when",
+      "wrong",
+      "you",
+      "your"
+    ],
+    "ts": 1789359084.2022169
+  },
+  {
+    "id": "WP-MKTW-0005205495",
+    "title": "How to trade a well-paying job for more work-life balance — without going broke",
+    "tokens": [
+      "balance",
+      "broke",
+      "going",
+      "how",
+      "job",
+      "life",
+      "more",
+      "paying",
+      "trade",
+      "well",
+      "without",
+      "work"
+    ],
+    "ts": 1789359091.0916157
+  },
+  {
+    "id": "WP-MKTW-0005228084",
+    "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
+    "tokens": [
+      "anyway",
+      "bond",
+      "bring",
+      "fed",
+      "gas",
+      "hikes",
+      "market",
+      "prices",
+      "pushing",
+      "rate",
+      "them",
+      "why",
+      "won"
+    ],
+    "ts": 1789359097.921179
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/samsung-heavy-wins-122-billion-ship-order-shares-rise-93CH-4898806",
+    "title": "Samsung Heavy wins $1.22 billion ship order, shares rise",
+    "tokens": [
+      "billion",
+      "heavy",
+      "order",
+      "rise",
+      "samsung",
+      "shares",
+      "ship",
+      "wins"
+    ],
+    "ts": 1789359104.763643
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/goldman-sachs-now-expects-fed-to-hike-rates-in-september-4898799",
+    "title": "Goldman Sachs flips forecast, now sees September Fed rate hike",
+    "tokens": [
+      "fed",
+      "flips",
+      "forecast",
+      "goldman",
+      "hike",
+      "now",
+      "rate",
+      "sachs",
+      "sees",
+      "september"
+    ],
+    "ts": 1789359111.355005
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/zai-shares-fall-to-512month-low-after-5-billion-share-bond-sale-4898803",
+    "title": "Z.AI shares fall to 5-1/2-month low after $5 billion share, bond sale",
+    "tokens": [
+      "billion",
+      "bond",
+      "fall",
+      "low",
+      "month",
+      "sale",
+      "share",
+      "shares"
+    ],
+    "ts": 1789359118.25278
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-sliding-today-93CH-4898802",
+    "title": "Why is Samsung Electronics stock sliding today?",
+    "tokens": [
+      "electronics",
+      "samsung",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789359124.8936243
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4898801",
+    "title": "Why is SK Hynix stock sliding today?",
+    "tokens": [
+      "hynix",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789359131.8508153
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-cleanaway-waste-management-stock-rallying-today-93CH-4898800",
+    "title": "Why is Cleanaway Waste Management stock rallying today?",
+    "tokens": [
+      "cleanaway",
+      "management",
+      "rallying",
+      "stock",
+      "today",
+      "waste",
+      "why"
+    ],
+    "ts": 1789359138.3816526
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/samsung-sk-hynix-reject-kepcos-19-billionpower-prepayment-proposal-document-shows-4898798",
+    "title": "Samsung, SK Hynix reject KEPCO’s $19 billion power prepayment proposal, document shows",
+    "tokens": [
+      "billion",
+      "document",
+      "hynix",
+      "kepco",
+      "power",
+      "prepayment",
+      "proposal",
+      "reject",
+      "samsung",
+      "shows"
+    ],
+    "ts": 1789359144.693991
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply-4898730",
+    "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
+    "tokens": [
+      "global",
+      "loss",
+      "oil",
+      "outage",
+      "pipeline",
+      "saudi",
+      "supply",
+      "threatens"
+    ],
+    "ts": 1789359151.7338817
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-tech-stocks-tumble-as-ai-trade-doubts-deepen-before-fed-boj-decisions-4898797",
+    "title": "Asia tech, chip stocks tumble as AI trade doubts deepen before Fed, BOJ decisions",
+    "tokens": [
+      "asia",
+      "before",
+      "boj",
+      "chip",
+      "decisions",
+      "deepen",
+      "doubts",
+      "fed",
+      "stocks",
+      "tech",
+      "trade",
+      "tumble"
+    ],
+    "ts": 1789359158.549612
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-telix-pharmaceuticals-stock-surging-today-93CH-4898796",
+    "title": "Why is Telix Pharmaceuticals stock surging today?",
+    "tokens": [
+      "pharmaceuticals",
+      "stock",
+      "surging",
+      "telix",
+      "today",
+      "why"
+    ],
+    "ts": 1789359165.3850594
+  },
+  {
+    "id": "musk-sent-governments-message-robot-174700228.html",
+    "title": "Musk sent governments a message about the robot economy",
+    "tokens": [
+      "about",
+      "economy",
+      "governments",
+      "message",
+      "musk",
+      "robot",
+      "sent"
+    ],
+    "ts": 1789359172.0263424
+  },
+  {
+    "id": "jewelry-chain-closes-53-stores-213700154.html",
+    "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
+    "tokens": [
+      "brands",
+      "chain",
+      "closes",
+      "jewelry",
+      "shutting",
+      "stores"
+    ],
+    "ts": 1789359178.3167439
+  },
+  {
+    "id": "gen-z-burnout-could-stall-170028733.html",
+    "title": "Gen Z Burnout Could Stall Earning Power — 5 Moves To Get Your Career Back on Track",
+    "tokens": [
+      "back",
+      "burnout",
+      "career",
+      "could",
+      "earning",
+      "gen",
+      "get",
+      "moves",
+      "power",
+      "stall",
+      "track",
+      "your"
+    ],
+    "ts": 1789359185.0941312
+  },
+  {
+    "id": "https://seekingalpha.com/news/4642307-global-markets-slide-this-week-as-oil-surges-rate-hike-fears-intensify?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Global markets slide this week as oil surges, rate-hike fears intensify",
+    "tokens": [
+      "fears",
+      "global",
+      "hike",
+      "intensify",
+      "markets",
+      "oil",
+      "rate",
+      "slide",
+      "surges",
+      "week"
+    ],
+    "ts": 1789359191.6428165
+  },
+  {
+    "id": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+    "title": "Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
+    "tokens": [
+      "cofounder",
+      "palantir",
+      "really",
+      "threat",
+      "top"
+    ],
+    "ts": 1789359198.4201052
+  },
+  {
+    "id": "https://seekingalpha.com/news/4642296-trump-is-said-to-weigh-ethics-compromise-ahead-of-crucial-crypto-bill-vote?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Trump is said to weigh ethics compromise ahead of crucial crypto bill vote",
+    "tokens": [
+      "ahead",
+      "bill",
+      "compromise",
+      "crucial",
+      "crypto",
+      "ethics",
+      "trump",
+      "vote",
+      "weigh"
+    ],
+    "ts": 1789359205.0807948
+  },
+  {
+    "id": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+    "title": "Anthropic has chosen the Nasdaq for its IPO listing",
+    "tokens": [
+      "anthropic",
+      "chosen",
+      "ipo",
+      "listing",
+      "nasdaq"
+    ],
+    "ts": 1789359211.4789956
+  },
+  {
+    "id": "https://seekingalpha.com/news/4642293-hunter-biden-blames-liquidity-failure-for-laptop-token-collapse?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Hunter Biden blames liquidity failure for $LAPTOP token collapse",
+    "tokens": [
+      "biden",
+      "blames",
+      "collapse",
+      "failure",
+      "hunter",
+      "laptop",
+      "liquidity",
+      "token"
+    ],
+    "ts": 1789359217.673224
+  },
+  {
+    "id": "https://seekingalpha.com/news/4642292-trump-urges-ukraine-to-halt-strikes-on-russian-diesel-facilities?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Trump urges Ukraine to halt strikes on Russian diesel facilities",
+    "tokens": [
+      "diesel",
+      "facilities",
+      "halt",
+      "russian",
+      "strikes",
+      "trump",
+      "ukraine",
+      "urges"
+    ],
+    "ts": 1789359224.1554234
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/le-comble-reports-mova-residences-by-b-b-italia-reaches-75-sold-in-panama-city-1036541378",
+    "title": "Le Comble Reports MOVA Residences by B&B Italia Reaches 75% Sold in Panama City",
+    "tokens": [
+      "city",
+      "comble",
+      "italia",
+      "mova",
+      "panama",
+      "reaches",
+      "reports",
+      "residences",
+      "sold"
+    ],
+    "ts": 1789359231.0730743
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/amd-vs-orcl-top-stifel-analysts-bullish-on-both-ai-stocks-but-see-more-upside-in-one-1036541415",
+    "title": "AMD vs. ORCL: Top Stifel Analysts Bullish on Both AI Stocks, But See More Upside in One",
+    "tokens": [
+      "amd",
+      "analysts",
+      "both",
+      "bullish",
+      "more",
+      "one",
+      "orcl",
+      "see",
+      "stifel",
+      "stocks",
+      "top",
+      "upside"
+    ],
+    "ts": 1789359237.603656
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/movies-series-launches-expanded-arabic-first-entertainment-discovery-platform-for-egypt-and-mena-1036541371",
+    "title": "Movies & Series Launches Expanded Arabic-First Entertainment Discovery Platform for Egypt and MENA",
+    "tokens": [
+      "arabic",
+      "discovery",
+      "egypt",
+      "entertainment",
+      "expanded",
+      "first",
+      "launches",
+      "mena",
+      "movies",
+      "platform",
+      "series"
+    ],
+    "ts": 1789359243.885758
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/bassel-haddad-assumes-leadership-of-asmpt-as-group-chief-executive-officer-1036541372",
+    "title": "Bassel Haddad Assumes Leadership of ASMPT as Group Chief Executive Officer",
+    "tokens": [
+      "asmpt",
+      "assumes",
+      "bassel",
+      "chief",
+      "executive",
+      "group",
+      "haddad",
+      "leadership",
+      "officer"
+    ],
+    "ts": 1789359250.2184727
+  },
+  {
+    "id": "oilprice-article-45493",
+    "title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles",
+    "tokens": [
+      "attacks",
+      "continue",
+      "diplomacy",
+      "east",
+      "middle",
+      "oil",
+      "prices",
+      "stumbles",
+      "surge"
+    ],
+    "ts": 1789359257.3169448
+  },
+  {
+    "id": "oilprice-article-45491",
+    "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
+    "tokens": [
+      "built",
+      "frequent",
+      "more",
+      "now",
+      "oil",
+      "sharper",
+      "spikes",
+      "stanchart",
+      "warns"
+    ],
+    "ts": 1789359264.1927876
+  },
+  {
+    "id": "oilprice-article-45492",
+    "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
+    "tokens": [
+      "could",
+      "fears",
+      "further",
+      "oil",
+      "price",
+      "recession",
+      "rekindle",
+      "spikes"
+    ],
+    "ts": 1789359270.8515167
+  },
+  {
+    "id": "oilprice-article-45487",
+    "title": "U.S. Dams Could Unlock 15.2 Terawatt-Hours of Untapped Hydropower",
+    "tokens": [
+      "could",
+      "dams",
+      "hours",
+      "hydropower",
+      "terawatt",
+      "unlock",
+      "untapped"
+    ],
+    "ts": 1789359277.913116
+  },
+  {
+    "id": "oilprice-article-45477",
+    "title": "Trump’s Caucasus Trade Corridor Delayed Until 2027",
+    "tokens": [
+      "2027",
+      "caucasus",
+      "corridor",
+      "delayed",
+      "trade",
+      "trump",
+      "until"
+    ],
+    "ts": 1789359284.4689438
+  },
+  {
+    "id": "oilprice-article-45476",
+    "title": "UK Wind Power Hits Record High as Energy Security Risks Mount",
+    "tokens": [
+      "energy",
+      "high",
+      "hits",
+      "mount",
+      "power",
+      "record",
+      "risks",
+      "security",
+      "wind"
+    ],
+    "ts": 1789359290.8548057
+  },
+  {
+    "id": "a952a82c-4cbf-4654-8daf-d5219c9df9bf",
+    "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+    "tokens": [
+      "analysis",
+      "based",
+      "clarity",
+      "crypto",
+      "dead",
+      "state",
+      "vibes"
+    ],
+    "ts": 1789359297.886196
+  },
+  {
+    "id": "c2cbbe38-b60c-4697-b964-68e506ecbdf9",
+    "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+    "tokens": [
+      "blockchain",
+      "holds",
+      "key",
+      "machines",
+      "math",
+      "proof",
+      "quantum",
+      "why"
+    ],
+    "ts": 1789359304.6282094
+  },
+  {
+    "id": "951959cb-4827-49b5-8765-751446beeca8",
+    "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+    "tokens": [
+      "about",
+      "economist",
+      "fed",
+      "hike",
+      "inflation",
+      "rate",
+      "street",
+      "wall"
+    ],
+    "ts": 1789359311.3683615
+  },
+  {
+    "id": "9fc5e963-9276-4991-bf7d-08cae1bbe707",
+    "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+    "tokens": [
+      "400m",
+      "build",
+      "buys",
+      "circle",
+      "deal",
+      "emerging",
+      "links",
+      "market",
+      "take",
+      "tazapay",
+      "years"
+    ],
+    "ts": 1789359317.8078802
+  },
+  {
+    "id": "50f0df6c-53ba-48d6-af46-e77b1de189fc",
+    "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+    "tokens": [
+      "act",
+      "cat",
+      "clarity",
+      "crypto",
+      "death",
+      "dinger",
+      "life",
+      "limbo",
+      "returns",
+      "schr",
+      "senate"
+    ],
+    "ts": 1789359324.222624
+  },
+  {
+    "id": "https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats",
+    "title": "US Republicans send ‘final’ CLARITY Act offer to Democrats",
+    "tokens": [
+      "act",
+      "clarity",
+      "democrats",
+      "final",
+      "offer",
+      "republicans",
+      "send"
+    ],
+    "ts": 1789359330.696195
+  },
+  {
+    "id": "https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks",
+    "title": "Revolut attackers threaten daily customer data leaks",
+    "tokens": [
+      "attackers",
+      "customer",
+      "daily",
+      "data",
+      "leaks",
+      "revolut",
+      "threaten"
+    ],
+    "ts": 1789359337.1829174
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest",
+    "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
+    "tokens": [
+      "biggest",
+      "crypto",
+      "digest",
+      "ever",
+      "fears",
+      "hodler",
+      "prompt",
+      "slowdown",
+      "swarm",
+      "week"
+    ],
+    "ts": 1789359343.6001103
+  },
+  {
+    "id": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace",
+    "title": "Anthropic chief urges slowdown in AI development to safer pace",
+    "tokens": [
+      "anthropic",
+      "chief",
+      "development",
+      "pace",
+      "safer",
+      "slowdown",
+      "urges"
+    ],
+    "ts": 1789359349.9808679
+  },
+  {
+    "id": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email",
+    "title": "Revolut says customer data exposed through fake government email",
+    "tokens": [
+      "customer",
+      "data",
+      "email",
+      "exposed",
+      "fake",
+      "government",
+      "revolut",
+      "through"
+    ],
+    "ts": 1789359356.5064347
   }
 ]

@@ -1,267 +1,5 @@
 [
   {
-    "id": "us-home-sales-hit-14-040100426.html",
-    "title": "US Home Sales Hit 14-Month Low as Borrowing Costs Bite",
-    "tokens": [
-      "bite",
-      "borrowing",
-      "costs",
-      "hit",
-      "home",
-      "low",
-      "month",
-      "sales"
-    ],
-    "ts": 1789200652.9662316
-  },
-  {
-    "id": "musk-boring-company-scores-23-040100907.html",
-    "title": "Musk’s Boring Company Scores $23 Billion Valuation Despite Slow Progress",
-    "tokens": [
-      "billion",
-      "boring",
-      "company",
-      "despite",
-      "musk",
-      "progress",
-      "scores",
-      "slow",
-      "valuation"
-    ],
-    "ts": 1789200661.723065
-  },
-  {
-    "id": "brian-niccol-two-turnaround-serves-040100588.html",
-    "title": "Brian Niccol’s Two-Year Turnaround Serves Up Sales Growth for Starbucks",
-    "tokens": [
-      "brian",
-      "growth",
-      "niccol",
-      "sales",
-      "serves",
-      "starbucks",
-      "turnaround",
-      "two",
-      "year"
-    ],
-    "ts": 1789200669.4141657
-  },
-  {
-    "id": "makes-good-401-k-website-040200549.html",
-    "title": "What Makes a Good 401(k) Website and App (And Why It matters)",
-    "tokens": [
-      "401",
-      "app",
-      "good",
-      "makes",
-      "matters",
-      "website",
-      "what",
-      "why"
-    ],
-    "ts": 1789200677.3878372
-  },
-  {
-    "id": "gasoline-likely-boost-us-consumer-040505350.html",
-    "title": "Gasoline likely to boost US consumer prices in August",
-    "tokens": [
-      "august",
-      "boost",
-      "consumer",
-      "gasoline",
-      "likely",
-      "prices"
-    ],
-    "ts": 1789201602.1146002
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/sharon-binnun-sells-221995-in-heritage-insurance-stock-93CH-4898636",
-    "title": "Sharon Binnun sells $221,995 in Heritage Insurance stock",
-    "tokens": [
-      "221",
-      "995",
-      "binnun",
-      "heritage",
-      "insurance",
-      "sells",
-      "sharon",
-      "stock"
-    ],
-    "ts": 1789202485.6577134
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ptc-therapeutics-director-schmertzler-sells-135m-in-stock-93CH-4898635",
-    "title": "PTC Therapeutics director Schmertzler sells $1.35m in stock",
-    "tokens": [
-      "35m",
-      "director",
-      "ptc",
-      "schmertzler",
-      "sells",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1789202495.4176455
-  },
-  {
-    "id": "meta-meta-muse-launch-turns-044504103.html",
-    "title": "Meta’s (META) Muse Launch Turns the AI Debate toward Subscription Economics",
-    "tokens": [
-      "debate",
-      "economics",
-      "launch",
-      "meta",
-      "muse",
-      "subscription",
-      "toward",
-      "turns"
-    ],
-    "ts": 1789202503.3595598
-  },
-  {
-    "id": "solid-power-sldp-widening-losses-060054096.html",
-    "title": "Solid Power’s (SLDP) Widening Losses Come With A Liquidity Cushion",
-    "tokens": [
-      "come",
-      "cushion",
-      "liquidity",
-      "losses",
-      "power",
-      "sldp",
-      "solid",
-      "widening"
-    ],
-    "ts": 1789204217.8176234
-  },
-  {
-    "id": "forward-air-fwrd-record-revenue-060806134.html",
-    "title": "Forward Air’s (FWRD) Record Revenue Comes With a Massive Asterisk",
-    "tokens": [
-      "air",
-      "asterisk",
-      "comes",
-      "forward",
-      "fwrd",
-      "massive",
-      "record",
-      "revenue"
-    ],
-    "ts": 1789204225.2910013
-  },
-  {
-    "id": "netgear-ntgr-enterprise-boom-cannot-054858933.html",
-    "title": "Netgear’s (NTGR) Enterprise Boom Cannot Erase Consumer Weakness",
-    "tokens": [
-      "boom",
-      "cannot",
-      "consumer",
-      "enterprise",
-      "erase",
-      "netgear",
-      "ntgr",
-      "weakness"
-    ],
-    "ts": 1789204234.3501477
-  },
-  {
-    "id": "us-dollar-price-forecast-fed-054013689.html",
-    "title": "US Dollar Price Forecast: Fed Hike Bets Rise as CPI Takes Center Stage; EUR/USD and GBP/USD Key Levels to Watch",
-    "tokens": [
-      "bets",
-      "center",
-      "cpi",
-      "dollar",
-      "eur",
-      "fed",
-      "forecast",
-      "gbp",
-      "hike",
-      "key",
-      "levels",
-      "price",
-      "rise",
-      "stage",
-      "takes",
-      "usd",
-      "watch"
-    ],
-    "ts": 1789204243.1881745
-  },
-  {
-    "id": "delcath-dcth-liver-cancer-device-062417595.html",
-    "title": "Delcath’s (DCTH) Liver Cancer Device Keeps Growing, But At A Cost",
-    "tokens": [
-      "cancer",
-      "cost",
-      "dcth",
-      "delcath",
-      "device",
-      "growing",
-      "keeps",
-      "liver"
-    ],
-    "ts": 1789204251.6967216
-  },
-  {
-    "id": "zura-bio-zura-hits-enrollment-053502709.html",
-    "title": "Zura Bio (ZURA) Hits Enrollment Milestones As Losses Widen Sharply",
-    "tokens": [
-      "bio",
-      "enrollment",
-      "hits",
-      "losses",
-      "milestones",
-      "sharply",
-      "widen",
-      "zura"
-    ],
-    "ts": 1789204260.175137
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/marzetti-co-strategic-advisor-sells-100512-in-common-stock-93CH-4898639",
-    "title": "Marzetti Co strategic advisor sells $100,512 in common stock",
-    "tokens": [
-      "100",
-      "512",
-      "advisor",
-      "common",
-      "marzetti",
-      "sells",
-      "stock",
-      "strategic"
-    ],
-    "ts": 1789205952.5929968
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/brics-agrees-on-joint-declaration-before-new-delhi-summit-sources-say-4898638",
-    "title": "BRICS agrees on joint declaration before New Delhi summit, sources say",
-    "tokens": [
-      "agrees",
-      "before",
-      "brics",
-      "declaration",
-      "delhi",
-      "joint",
-      "say",
-      "sources",
-      "summit"
-    ],
-    "ts": 1789205961.011061
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/how-europeans-save-matters-for-the-broader-economy-4898637",
-    "title": "How Europeans save — and why it matters for the economy",
-    "tokens": [
-      "economy",
-      "europeans",
-      "how",
-      "matters",
-      "save",
-      "why"
-    ],
-    "ts": 1789205971.3935664
-  },
-  {
     "id": "nursing-home-savings-350-000-145528883.html",
     "title": "Can a Nursing Home Take Our $350,000 in IRA Savings?",
     "tokens": [
@@ -23174,5 +22912,255 @@
       "threatens"
     ],
     "ts": 1789492581.5845857
+  },
+  {
+    "id": "WP-MKTW-0005233828",
+    "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+    "tokens": [
+      "analyst",
+      "one",
+      "rebounding",
+      "sight",
+      "slowdown",
+      "spending",
+      "stocks",
+      "there"
+    ],
+    "ts": 1789493230.1894703
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/revolut-wins-colombia-bank-license-targeting-2027-launch-4902334",
+    "title": "Revolut wins Colombia bank license, targeting 2027 launch",
+    "tokens": [
+      "2027",
+      "bank",
+      "colombia",
+      "launch",
+      "license",
+      "revolut",
+      "targeting",
+      "wins"
+    ],
+    "ts": 1789493241.6411946
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/datavault-ai-receives-100-million-tokenization-purchase-order-93CH-4902333",
+    "title": "Datavault AI receives $100 million tokenization purchase order",
+    "tokens": [
+      "100",
+      "datavault",
+      "million",
+      "order",
+      "purchase",
+      "receives",
+      "tokenization"
+    ],
+    "ts": 1789493250.8133845
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/teledyne-tech-launches-on-esa-climate-satellites-93CH-4902331",
+    "title": "Teledyne tech launches on ESA climate satellites",
+    "tokens": [
+      "climate",
+      "esa",
+      "launches",
+      "satellites",
+      "tech",
+      "teledyne"
+    ],
+    "ts": 1789493261.4096012
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/star-bulk-completes-athens-listing-raises-1078-million-93CH-4902332",
+    "title": "Star Bulk completes Athens listing, raises €107.8 million",
+    "tokens": [
+      "107",
+      "athens",
+      "bulk",
+      "completes",
+      "listing",
+      "million",
+      "raises",
+      "star"
+    ],
+    "ts": 1789493272.0403786
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/amazon-unable-to-restore-access-to-some-data-at-damaged-gulf-facilities-4902330",
+    "title": "Amazon unable to restore access to some data at damaged Gulf facilities",
+    "tokens": [
+      "access",
+      "amazon",
+      "damaged",
+      "data",
+      "facilities",
+      "gulf",
+      "restore",
+      "some",
+      "unable"
+    ],
+    "ts": 1789493282.437874
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/synopsys-stock-hits-52week-low-at-36587-usd-93CH-4902329",
+    "title": "Synopsys stock hits 52-week low at 365.87 USD",
+    "tokens": [
+      "365",
+      "hits",
+      "low",
+      "stock",
+      "synopsys",
+      "usd",
+      "week"
+    ],
+    "ts": 1789493286.4499645
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/citi-reiterates-waystar-stock-buy-rating-amid-sale-exploration-93CH-4902327",
+    "title": "Citi reiterates Waystar stock Buy rating amid sale exploration",
+    "tokens": [
+      "buy",
+      "citi",
+      "exploration",
+      "rating",
+      "reiterates",
+      "sale",
+      "stock",
+      "waystar"
+    ],
+    "ts": 1789493293.92652
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/amazon-launches-fiveservice-streaming-bundle-on-prime-video-93CH-4902326",
+    "title": "Amazon launches five-service streaming bundle on Prime Video",
+    "tokens": [
+      "amazon",
+      "bundle",
+      "five",
+      "launches",
+      "prime",
+      "service",
+      "streaming",
+      "video"
+    ],
+    "ts": 1789493304.76328
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/estee-lauder-outlook-revised-to-stable-by-sp-on-deleveraging-93CH-4902325",
+    "title": "Estee Lauder outlook revised to stable by S&P on deleveraging",
+    "tokens": [
+      "deleveraging",
+      "estee",
+      "lauder",
+      "outlook",
+      "revised",
+      "stable"
+    ],
+    "ts": 1789493317.8925395
+  },
+  {
+    "id": "united-natural-foods-unfi-path-170958370.html",
+    "title": "United Natural Foods’ (UNFI) Path to Profitability–What Lies Ahead",
+    "tokens": [
+      "ahead",
+      "foods",
+      "lies",
+      "natural",
+      "path",
+      "profitability",
+      "unfi",
+      "united",
+      "what"
+    ],
+    "ts": 1789493327.9931607
+  },
+  {
+    "id": "what-time-is-this-weeks-fed-meeting-120032072.html",
+    "title": "What time is this week's Fed meeting?",
+    "tokens": [
+      "fed",
+      "meeting",
+      "time",
+      "week",
+      "what"
+    ],
+    "ts": 1789493337.7650297
+  },
+  {
+    "id": "imperial-petroleum-impp-posts-robust-170438574.html",
+    "title": "Imperial Petroleum (IMPP) Posts Robust Q2 Topline Growth Despite Soft Fleet Utilization",
+    "tokens": [
+      "despite",
+      "fleet",
+      "growth",
+      "imperial",
+      "impp",
+      "petroleum",
+      "posts",
+      "robust",
+      "soft",
+      "topline",
+      "utilization"
+    ],
+    "ts": 1789493349.0159729
+  },
+  {
+    "id": "dell-technologies-dell-rallies-bullish-165722821.html",
+    "title": "Dell Technologies (DELL) Rallies on Bullish RBC Outlook: Is the Stock a Buy?",
+    "tokens": [
+      "bullish",
+      "buy",
+      "dell",
+      "outlook",
+      "rallies",
+      "rbc",
+      "stock",
+      "technologies"
+    ],
+    "ts": 1789493361.1253572
+  },
+  {
+    "id": "vera-bradley-inc-q2-2027-165537210.html",
+    "title": "Vera Bradley, Inc. Q2 2027 Earnings Call Summary",
+    "tokens": [
+      "2027",
+      "bradley",
+      "call",
+      "earnings",
+      "inc",
+      "summary",
+      "vera"
+    ],
+    "ts": 1789493370.8227868
+  },
+  {
+    "id": "econergy-expands-european-acquires-french-165519899.html",
+    "title": "Econergy Expands European Base, Acquires French Wind Energy Platform",
+    "tokens": [
+      "acquires",
+      "base",
+      "econergy",
+      "energy",
+      "european",
+      "expands",
+      "french",
+      "platform",
+      "wind"
+    ],
+    "ts": 1789493379.3472443
+  },
+  {
+    "id": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering",
+    "title": "Binance adds 11 US-listed ETFs to wealth management offering",
+    "tokens": [
+      "adds",
+      "binance",
+      "etfs",
+      "listed",
+      "management",
+      "offering",
+      "wealth"
+    ],
+    "ts": 1789493392.1489282
   }
 ]

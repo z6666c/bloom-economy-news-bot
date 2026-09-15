@@ -1,17 +1,5 @@
 [
   {
-    "id": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-    "title": "Anthropic has chosen the Nasdaq for its IPO listing",
-    "tokens": [
-      "anthropic",
-      "chosen",
-      "ipo",
-      "listing",
-      "nasdaq"
-    ],
-    "ts": 1789359211.4789956
-  },
-  {
     "id": "https://seekingalpha.com/news/4642293-hunter-biden-blames-liquidity-failure-for-laptop-token-collapse?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
     "title": "Hunter Biden blames liquidity failure for $LAPTOP token collapse",
     "tokens": [
@@ -22968,5 +22956,21 @@
       "stocks"
     ],
     "ts": 1789513894.4202855
+  },
+  {
+    "id": "stocks-slump-ai-slowdown-fears-151337488.html",
+    "title": "Stocks Slump on AI Slowdown Fears and Rising Bond Yields and Crude Prices",
+    "tokens": [
+      "bond",
+      "crude",
+      "fears",
+      "prices",
+      "rising",
+      "slowdown",
+      "slump",
+      "stocks",
+      "yields"
+    ],
+    "ts": 1789514681.9576683
   }
 ]

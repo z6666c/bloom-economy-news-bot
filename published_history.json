@@ -1,231 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/oportun-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4-1036540728",
-    "title": "Oportun Reports Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
-    "tokens": [
-      "5635",
-      "grants",
-      "inducement",
-      "listing",
-      "nasdaq",
-      "oportun",
-      "reports",
-      "rule",
-      "under"
-    ],
-    "ts": 1789158526.3257835
-  },
-  {
-    "id": "https://seekingalpha.com/news/4642227-cea-industries-gaap-eps-of-0_22?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "CEA Industries GAAP EPS of -$0.22",
-    "tokens": [
-      "cea",
-      "eps",
-      "gaap",
-      "industries"
-    ],
-    "ts": 1789158532.7333333
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/shareholder-notice-brodsky-smith-announces-an-investigation-of-acv-auctions-inc.-acva-1036540725",
-    "title": "SHAREHOLDER NOTICE: Brodsky & Smith Announces an Investigation of ACV Auctions Inc. (ACVA)",
-    "tokens": [
-      "acv",
-      "acva",
-      "announces",
-      "auctions",
-      "brodsky",
-      "inc",
-      "investigation",
-      "notice",
-      "shareholder",
-      "smith"
-    ],
-    "ts": 1789158540.2826316
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/impact-biomedical-inc-nyse-american-ibo-announces-1-for-12-62-reverse-stock-split-to-pursue-completion-of-merger-with-zoar-ltd-previously-dr-ashley-s-ltd-1036540722",
-    "title": "Impact BioMedical Inc (NYSE American: IBO) Announces 1 for 12.62 Reverse Stock Split to Pursue Completion of Merger with Zoar Ltd. (previously Dr. Ashley’s Ltd.)",
-    "tokens": [
-      "american",
-      "announces",
-      "ashley",
-      "biomedical",
-      "completion",
-      "ibo",
-      "impact",
-      "inc",
-      "ltd",
-      "merger",
-      "nyse",
-      "previously",
-      "pursue",
-      "reverse",
-      "split",
-      "stock",
-      "zoar"
-    ],
-    "ts": 1789158549.9642136
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/korro-bio-reports-inducement-grant-under-nasdaq-listing-rule-5635-c-4-1036540720",
-    "title": "Korro Bio Reports Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
-    "tokens": [
-      "5635",
-      "bio",
-      "grant",
-      "inducement",
-      "korro",
-      "listing",
-      "nasdaq",
-      "reports",
-      "rule",
-      "under"
-    ],
-    "ts": 1789158557.420392
-  },
-  {
-    "id": "WP-MKTW-0005228525",
-    "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
-    "tokens": [
-      "500",
-      "dell",
-      "hpe",
-      "performing",
-      "stocks",
-      "today",
-      "top",
-      "why"
-    ],
-    "ts": 1789159314.1810374
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/kalshi-stock-futures-plan-targets-tesla-and-apple-shares--bloomberg-93CH-4898406",
-    "title": "Kalshi stock futures plan targets Tesla and Apple shares - Bloomberg",
-    "tokens": [
-      "apple",
-      "bloomberg",
-      "futures",
-      "kalshi",
-      "plan",
-      "shares",
-      "stock",
-      "targets",
-      "tesla"
-    ],
-    "ts": 1789159322.318045
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/apollo-shuts-some-eliant-invoicefinancing-products-after-tough-year-93CH-4898405",
-    "title": "Apollo shuts some Eliant invoice-financing products after tough year",
-    "tokens": [
-      "apollo",
-      "eliant",
-      "financing",
-      "invoice",
-      "products",
-      "shuts",
-      "some",
-      "tough",
-      "year"
-    ],
-    "ts": 1789159331.6280594
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/amrize-appoints-mario-gross-as-building-envelope-president-93CH-4898404",
-    "title": "Amrize appoints Mario Gross as building envelope president",
-    "tokens": [
-      "amrize",
-      "appoints",
-      "building",
-      "envelope",
-      "gross",
-      "mario",
-      "president"
-    ],
-    "ts": 1789159335.6451526
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/compass-pathways-awards-training-grant-to-strata-mental-health-93CH-4898401",
-    "title": "Compass Pathways awards training grant to Strata Mental Health",
-    "tokens": [
-      "awards",
-      "compass",
-      "grant",
-      "health",
-      "mental",
-      "pathways",
-      "strata",
-      "training"
-    ],
-    "ts": 1789159339.3495536
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/central-securities-corp-stock-hits-alltime-high-at-560-usd-93CH-4898400",
-    "title": "Central Securities Corp stock hits all-time high at 56.0 USD",
-    "tokens": [
-      "all",
-      "central",
-      "corp",
-      "high",
-      "hits",
-      "securities",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1789159347.0824268
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/brazils-eduardo-bolsonaro-to-push-for-us-sanctions-against-supreme-court-justice-during-washington-visit-4898398",
-    "title": "Brazil’s Eduardo Bolsonaro to push for U.S. sanctions against Supreme Court Justice during Washington visit",
-    "tokens": [
-      "against",
-      "bolsonaro",
-      "brazil",
-      "court",
-      "during",
-      "eduardo",
-      "justice",
-      "push",
-      "sanctions",
-      "supreme",
-      "visit",
-      "washington"
-    ],
-    "ts": 1789159354.3991416
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/impact-biomedical-approves-1for1262-reverse-stock-split-93CH-4898396",
-    "title": "Impact BioMedical approves 1-for-12.62 reverse stock split",
-    "tokens": [
-      "approves",
-      "biomedical",
-      "impact",
-      "reverse",
-      "split",
-      "stock"
-    ],
-    "ts": 1789159361.278629
-  },
-  {
-    "id": "crowdstrike-crwd-becoming-vendor-choice-105930670.html",
-    "title": "CrowdStrike (CRWD) Is Becoming a Vendor of Choice for Agentic AI Security. Can It Sustain the Momentum?",
-    "tokens": [
-      "agentic",
-      "becoming",
-      "can",
-      "choice",
-      "crowdstrike",
-      "crwd",
-      "momentum",
-      "security",
-      "sustain",
-      "vendor"
-    ],
-    "ts": 1789159369.5896976
-  },
-  {
     "id": "long-straddle-trade-iseas-september-110003122.html",
     "title": "Long Straddle Trade Ideas September 10th",
     "tokens": [
@@ -23284,5 +23058,223 @@
       "tuesday"
     ],
     "ts": 1789473269.1035323
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-clearpoint-neuro-stock-rating-citing-cgt-focus-93CH-4901552",
+    "title": "Stifel reiterates Clearpoint Neuro stock rating citing CGT focus",
+    "tokens": [
+      "cgt",
+      "citing",
+      "clearpoint",
+      "focus",
+      "neuro",
+      "rating",
+      "reiterates",
+      "stifel",
+      "stock"
+    ],
+    "ts": 1789474424.722494
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-scholar-rock-stock-price-target-on-fda-approval-93CH-4901551",
+    "title": "H.C. Wainwright raises Scholar Rock stock price target on FDA approval",
+    "tokens": [
+      "approval",
+      "fda",
+      "price",
+      "raises",
+      "rock",
+      "scholar",
+      "stock",
+      "target",
+      "wainwright"
+    ],
+    "ts": 1789474432.5600858
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-definium-stock-rating-on-positive-trial-data-93CH-4901550",
+    "title": "H.C. Wainwright reiterates Definium stock rating on positive trial data",
+    "tokens": [
+      "data",
+      "definium",
+      "positive",
+      "rating",
+      "reiterates",
+      "stock",
+      "trial",
+      "wainwright"
+    ],
+    "ts": 1789474439.6696696
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-hold-rating-on-lowes-stock-amid-ma-outlook-93CH-4901549",
+    "title": "Stifel reiterates Hold rating on Lowe’s stock amid M&A outlook",
+    "tokens": [
+      "hold",
+      "lowe",
+      "outlook",
+      "rating",
+      "reiterates",
+      "stifel",
+      "stock"
+    ],
+    "ts": 1789474446.763422
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-corbus-stock-rating-on-phase-1b-data-93CH-4901548",
+    "title": "H.C. Wainwright reiterates Corbus stock rating on phase 1b data",
+    "tokens": [
+      "corbus",
+      "data",
+      "phase",
+      "rating",
+      "reiterates",
+      "stock",
+      "wainwright"
+    ],
+    "ts": 1789474453.8133152
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-rating-on-hillman-solutions-stock-93CH-4901547",
+    "title": "Stifel reiterates buy rating on Hillman Solutions stock",
+    "tokens": [
+      "buy",
+      "hillman",
+      "rating",
+      "reiterates",
+      "solutions",
+      "stifel",
+      "stock"
+    ],
+    "ts": 1789474461.5937219
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-hold-stock-rating-on-siteone-landscape-supply-93CH-4901546",
+    "title": "Stifel reiterates Hold stock rating on SiteOne Landscape Supply",
+    "tokens": [
+      "hold",
+      "landscape",
+      "rating",
+      "reiterates",
+      "siteone",
+      "stifel",
+      "stock",
+      "supply"
+    ],
+    "ts": 1789474471.8248272
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bernstein-flags-five-stocks-to-benefit-as-europe-faces-tighter-gas-market-93CH-4901545",
+    "title": "Bernstein Flags Five Stocks to Benefit as Europe Faces Tighter Gas Market",
+    "tokens": [
+      "benefit",
+      "bernstein",
+      "europe",
+      "faces",
+      "five",
+      "flags",
+      "gas",
+      "market",
+      "stocks",
+      "tighter"
+    ],
+    "ts": 1789474479.5194302
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/mp-evans-h1-2026-slides-record-profit-on-extraction-gains-93CH-4901544",
+    "title": "M.P. Evans H1 2026 slides: record profit on extraction gains",
+    "tokens": [
+      "2026",
+      "evans",
+      "extraction",
+      "gains",
+      "profit",
+      "record",
+      "slides"
+    ],
+    "ts": 1789474486.8619335
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ooma-launches-home-phone-service-for-starlink-users-93CH-4901534",
+    "title": "Ooma launches home phone service for Starlink users",
+    "tokens": [
+      "home",
+      "launches",
+      "ooma",
+      "phone",
+      "service",
+      "starlink",
+      "users"
+    ],
+    "ts": 1789474494.49957
+  },
+  {
+    "id": "ray-dalio-says-us-faces-114500355.html",
+    "title": "Ray Dalio says the US faces a debt crisis ‘in three years, give or take two.’ 5 things Americans can do now",
+    "tokens": [
+      "americans",
+      "can",
+      "crisis",
+      "dalio",
+      "debt",
+      "faces",
+      "give",
+      "now",
+      "ray",
+      "take",
+      "things",
+      "three",
+      "two",
+      "years"
+    ],
+    "ts": 1789474502.448587
+  },
+  {
+    "id": "ramit-sethis-first-scholarship-2k-114500607.html",
+    "title": "Ramit Sethi's first scholarship was $2K and he put it in the stock market. Here's the simple lesson he learned",
+    "tokens": [
+      "first",
+      "here",
+      "learned",
+      "lesson",
+      "market",
+      "put",
+      "ramit",
+      "scholarship",
+      "sethi",
+      "simple",
+      "stock"
+    ],
+    "ts": 1789474510.1586685
+  },
+  {
+    "id": "qualcomm-datacenter-pivot-real-market-114340853.html",
+    "title": "Qualcomm’s Datacenter Pivot Is Real, but The Market Already Knows This",
+    "tokens": [
+      "already",
+      "datacenter",
+      "knows",
+      "market",
+      "pivot",
+      "qualcomm",
+      "real"
+    ],
+    "ts": 1789474517.4916816
+  },
+  {
+    "id": "da026753-05f1-4839-aafd-0b9900a0ad4e",
+    "title": "To ensure permanent economic innovation, we must pass the Clarity Act now",
+    "tokens": [
+      "act",
+      "clarity",
+      "economic",
+      "ensure",
+      "innovation",
+      "must",
+      "now",
+      "pass",
+      "permanent"
+    ],
+    "ts": 1789474525.9207711
   }
 ]

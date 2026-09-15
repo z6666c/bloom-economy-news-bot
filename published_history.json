@@ -1,145 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/nordic-american-tankers-stock-hits-52week-high-at-734-usd-93CH-4898054",
-    "title": "Nordic American Tankers stock hits 52-week high at 7.34 USD",
-    "tokens": [
-      "american",
-      "high",
-      "hits",
-      "nordic",
-      "stock",
-      "tankers",
-      "usd",
-      "week"
-    ],
-    "ts": 1789134340.925347
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-hooker-furnishings-posts-q2-2026-profit-beat-93CH-4898053",
-    "title": "Earnings call transcript: Hooker Furnishings posts Q2 2026 profit beat",
-    "tokens": [
-      "2026",
-      "beat",
-      "call",
-      "earnings",
-      "furnishings",
-      "hooker",
-      "posts",
-      "profit",
-      "transcript"
-    ],
-    "ts": 1789134350.861143
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/jackson-financial-stock-hits-alltime-high-at-1409-usd-93CH-4898052",
-    "title": "Jackson Financial stock hits all-time high at 140.9 USD",
-    "tokens": [
-      "140",
-      "all",
-      "financial",
-      "high",
-      "hits",
-      "jackson",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1789134359.0090404
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/aon-files-usi-advantage-merger-financials-and-pro-forma-data-with-sec-93CH-4898051",
-    "title": "Aon files USI Advantage merger financials and pro forma data with SEC",
-    "tokens": [
-      "advantage",
-      "aon",
-      "data",
-      "files",
-      "financials",
-      "forma",
-      "merger",
-      "pro",
-      "sec",
-      "usi"
-    ],
-    "ts": 1789134368.1769202
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/idt-corp-stock-hits-52week-high-at-7091-usd-93CH-4898050",
-    "title": "IDT Corp stock hits 52-week high at 70.91 USD",
-    "tokens": [
-      "corp",
-      "high",
-      "hits",
-      "idt",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789134376.3166816
-  },
-  {
-    "id": "nvidia-plans-major-expansion-data-032949319.html",
-    "title": "Nvidia plans major expansion of data centre capacity in Australia to meet AI demand",
-    "tokens": [
-      "australia",
-      "capacity",
-      "centre",
-      "data",
-      "demand",
-      "expansion",
-      "major",
-      "meet",
-      "nvidia",
-      "plans"
-    ],
-    "ts": 1789134384.7263138
-  },
-  {
-    "id": "2044eb31-d861-4b75-ba31-e9c8213bb746",
-    "title": "Zodia Custody CEO Julian Sawyer steps down, becomes adviser",
-    "tokens": [
-      "adviser",
-      "becomes",
-      "ceo",
-      "custody",
-      "julian",
-      "sawyer",
-      "steps",
-      "zodia"
-    ],
-    "ts": 1789134396.438831
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens",
-    "title": "Trading stocks against BONER is the latest trend for DeFi degens",
-    "tokens": [
-      "against",
-      "boner",
-      "defi",
-      "degens",
-      "latest",
-      "stocks",
-      "trading",
-      "trend"
-    ],
-    "ts": 1789134405.353917
-  },
-  {
-    "id": "bit-digital-btbt-turns-ethereum-030631658.html",
-    "title": "Bit Digital (BTBT) Turns Its Ethereum Stash Into a Lending Machine",
-    "tokens": [
-      "bit",
-      "btbt",
-      "digital",
-      "ethereum",
-      "lending",
-      "machine",
-      "stash",
-      "turns"
-    ],
-    "ts": 1789135029.4995081
-  },
-  {
     "id": "26719a24-0467-43d9-a51f-7ec134d29bad",
     "title": "Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value",
     "tokens": [
@@ -23246,5 +23106,160 @@
       "wonder"
     ],
     "ts": 1789449089.1785226
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/analysisinvestors-nervous-about-ai-spending-slowdown-after-industry-warnings-4900777",
+    "title": "Analysis-Investors nervous about AI spending slowdown after industry warnings",
+    "tokens": [
+      "about",
+      "analysis",
+      "industry",
+      "investors",
+      "nervous",
+      "slowdown",
+      "spending",
+      "warnings"
+    ],
+    "ts": 1789450098.9175782
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/stockpicking-multimanager-hedge-funds-attract-more-capital-from-investors-in-2026-bofa-says-4900776",
+    "title": "Stock-picking, multi-manager hedge funds attract more capital from investors in 2026, BofA says",
+    "tokens": [
+      "2026",
+      "attract",
+      "bofa",
+      "capital",
+      "funds",
+      "hedge",
+      "investors",
+      "manager",
+      "more",
+      "multi",
+      "picking",
+      "stock"
+    ],
+    "ts": 1789450106.4643464
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/softbank-group-shares-rebound-as-data-center-unit-sb-energy-pushes-ahead-with-ipo-4900775",
+    "title": "Softbank Group shares rebound as data center unit SB Energy pushes ahead with IPO",
+    "tokens": [
+      "ahead",
+      "center",
+      "data",
+      "energy",
+      "group",
+      "ipo",
+      "pushes",
+      "rebound",
+      "shares",
+      "softbank",
+      "unit"
+    ],
+    "ts": 1789450113.530969
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/arks-wood-says-global-ai-leaders-pledge-is-positive-for-technology-development-4900774",
+    "title": "Ark’s Wood says global AI leaders’ pledge is positive for technology development",
+    "tokens": [
+      "ark",
+      "development",
+      "global",
+      "leaders",
+      "pledge",
+      "positive",
+      "technology",
+      "wood"
+    ],
+    "ts": 1789450121.3843274
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asian-banks-fall-after-bofa-warns-of-weaker-trading-dealmaking-revenue-4900773",
+    "title": "Asian banks fall after BofA warns of weaker trading, dealmaking revenue",
+    "tokens": [
+      "asian",
+      "banks",
+      "bofa",
+      "dealmaking",
+      "fall",
+      "revenue",
+      "trading",
+      "warns",
+      "weaker"
+    ],
+    "ts": 1789450129.1516893
+  },
+  {
+    "id": "starbucks-1-billion-bet-cozy-190035733.html",
+    "title": "Starbucks’ $1 Billion Bet on Cozy Stores Faces a Margin Test",
+    "tokens": [
+      "bet",
+      "billion",
+      "cozy",
+      "faces",
+      "margin",
+      "starbucks",
+      "stores",
+      "test"
+    ],
+    "ts": 1789450137.9233308
+  },
+  {
+    "id": "intel-intc-winning-cpu-shortage-191052125.html",
+    "title": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
+    "tokens": [
+      "cpu",
+      "foundry",
+      "intc",
+      "intel",
+      "more",
+      "needs",
+      "proof",
+      "shortage",
+      "valuation",
+      "winning"
+    ],
+    "ts": 1789450145.1394186
+  },
+  {
+    "id": "sonera-acquisition-bodes-well-apple-191233662.html",
+    "title": "Sonera Acquisition Bodes Well for Apple Stock in the Long Term, But Negative Catalysts Appear to Be Weighing on the Firm’s Performance",
+    "tokens": [
+      "acquisition",
+      "appear",
+      "apple",
+      "bodes",
+      "catalysts",
+      "firm",
+      "long",
+      "negative",
+      "performance",
+      "sonera",
+      "stock",
+      "term",
+      "weighing",
+      "well"
+    ],
+    "ts": 1789450152.3965893
+  },
+  {
+    "id": "d6162874-8e51-43cf-8fe5-80cbde1beedb",
+    "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+    "tokens": [
+      "black",
+      "calls",
+      "crypto",
+      "doj",
+      "iran",
+      "laundered",
+      "market",
+      "million",
+      "oil",
+      "sales",
+      "seeks",
+      "what"
+    ],
+    "ts": 1789450160.2516716
   }
 ]

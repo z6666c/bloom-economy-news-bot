@@ -1,241 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-077-4898235",
-    "title": "Germany stocks higher at close of trade; DAX up 0.77%",
-    "tokens": [
-      "close",
-      "dax",
-      "germany",
-      "higher",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789144185.912415
-  },
-  {
-    "id": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin",
-    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-    "tokens": [
-      "access",
-      "adds",
-      "anchorage",
-      "digital",
-      "frgmnt",
-      "fusd",
-      "institutional",
-      "stablecoin"
-    ],
-    "ts": 1789144194.4825506
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields",
-    "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
-    "tokens": [
-      "80k",
-      "bitcoin",
-      "bond",
-      "cpi",
-      "data",
-      "delivers",
-      "high",
-      "spikes",
-      "toward",
-      "year",
-      "yields"
-    ],
-    "ts": 1789144203.0154004
-  },
-  {
-    "id": "WP-MKTW-0005228327",
-    "title": "Your Social Security check could go up another $71 next year. That’s not necessarily good news.",
-    "tokens": [
-      "another",
-      "check",
-      "could",
-      "good",
-      "necessarily",
-      "news",
-      "next",
-      "security",
-      "social",
-      "year",
-      "your"
-    ],
-    "ts": 1789145078.6824665
-  },
-  {
-    "id": "high-grade-monthly-summer-sprint-160721899.html",
-    "title": "High-Grade Monthly: Summer sprint continues post-Labor Day as rates soar",
-    "tokens": [
-      "continues",
-      "day",
-      "grade",
-      "high",
-      "labor",
-      "monthly",
-      "post",
-      "rates",
-      "soar",
-      "sprint",
-      "summer"
-    ],
-    "ts": 1789145088.0988486
-  },
-  {
-    "id": "WP-MKTW-0005228314",
-    "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
-    "tokens": [
-      "both",
-      "democrats",
-      "investment",
-      "pays",
-      "safe",
-      "trump"
-    ],
-    "ts": 1789145731.1219752
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/dare-bioscience-at-hc-wainwright-conference-turning-to-sales-93CH-4898256",
-    "title": "Daré Bioscience at H.C. Wainwright conference: turning to sales",
-    "tokens": [
-      "bioscience",
-      "conference",
-      "dar",
-      "sales",
-      "turning",
-      "wainwright"
-    ],
-    "ts": 1789145738.755449
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/amd-at-goldman-sachs-communacopia--technology-conference-ai-strategy-widens-93CH-4898254",
-    "title": "AMD at Goldman Sachs Communacopia + Technology Conference: ai strategy widens",
-    "tokens": [
-      "amd",
-      "communacopia",
-      "conference",
-      "goldman",
-      "sachs",
-      "strategy",
-      "technology",
-      "widens"
-    ],
-    "ts": 1789145742.7719
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/oracle-earnings-analysis-questions-answered-and-next-catalysts-93CH-4898253",
-    "title": "Oracle earnings analysis: questions answered and next catalysts",
-    "tokens": [
-      "analysis",
-      "answered",
-      "catalysts",
-      "earnings",
-      "next",
-      "oracle",
-      "questions"
-    ],
-    "ts": 1789145742.7892275
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/oshkosh-at-jefferies-conference-growth-outlook-brightens-93CH-4898247",
-    "title": "Oshkosh at Jefferies conference: growth outlook brightens",
-    "tokens": [
-      "brightens",
-      "conference",
-      "growth",
-      "jefferies",
-      "oshkosh",
-      "outlook"
-    ],
-    "ts": 1789145745.6667418
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/five9-at-goldman-sachs-communacopia--technology-conference-2026-ai-gains-pace-93CH-4898246",
-    "title": "Five9 at Goldman Sachs Communacopia + Technology Conference 2026: AI gains pace",
-    "tokens": [
-      "2026",
-      "communacopia",
-      "conference",
-      "five9",
-      "gains",
-      "goldman",
-      "pace",
-      "sachs",
-      "technology"
-    ],
-    "ts": 1789145753.181849
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/stellantis-plans-1bn-france-van-investment--bloomberg-93CH-4898245",
-    "title": "Stellantis plans €1bn France van investment - Bloomberg",
-    "tokens": [
-      "1bn",
-      "bloomberg",
-      "france",
-      "investment",
-      "plans",
-      "stellantis",
-      "van"
-    ],
-    "ts": 1789145760.9102805
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/mercuria-and-glencore-vie-for-venezuela-aluminum-smelter-deal--bloomberg-93CH-4898244",
-    "title": "Mercuria and Glencore vie for Venezuela aluminum smelter deal - Bloomberg",
-    "tokens": [
-      "aluminum",
-      "bloomberg",
-      "deal",
-      "glencore",
-      "mercuria",
-      "smelter",
-      "venezuela",
-      "vie"
-    ],
-    "ts": 1789145770.0814495
-  },
-  {
-    "id": "best-airline-credit-cards-193236919.html",
-    "title": "Best airline credit cards (2026)",
-    "tokens": [
-      "2026",
-      "airline",
-      "best",
-      "cards",
-      "credit"
-    ],
-    "ts": 1789146587.2806666
-  },
-  {
-    "id": "credit-card-perks-calendar-year-214541060.html",
-    "title": "The complete list of credit card perks that reset each calendar year (2026)",
-    "tokens": [
-      "2026",
-      "calendar",
-      "card",
-      "complete",
-      "credit",
-      "each",
-      "list",
-      "perks",
-      "reset",
-      "year"
-    ],
-    "ts": 1789146596.2636604
-  },
-  {
-    "id": "kroger-co-q2-2026-earnings-164626941.html",
-    "title": "The Kroger Co. Q2 2026 Earnings Call Summary",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "kroger",
-      "summary"
-    ],
-    "ts": 1789146607.7834969
-  },
-  {
     "id": "https://www.investing.com/news/commodities-news/why-is-silver-spot-stock-climbing-today-93CH-4898269",
     "title": "Why is Silver Spot stock climbing today?",
     "tokens": [
@@ -23231,5 +22995,264 @@
       "usdt"
     ],
     "ts": 1789462797.4742355
+  },
+  {
+    "id": "WP-MKTW-0005232002",
+    "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+    "tokens": [
+      "can",
+      "career",
+      "claim",
+      "died",
+      "earning",
+      "friend",
+      "her",
+      "high",
+      "lining",
+      "might",
+      "security",
+      "silver",
+      "social",
+      "there",
+      "wife"
+    ],
+    "ts": 1789464033.4497187
+  },
+  {
+    "id": "WP-MKTW-0005233450",
+    "title": "Morgan Stanley joins Goldman Sachs in 11th-hour switch to forecasting a Fed hike",
+    "tokens": [
+      "11th",
+      "fed",
+      "forecasting",
+      "goldman",
+      "hike",
+      "hour",
+      "joins",
+      "morgan",
+      "sachs",
+      "stanley",
+      "switch"
+    ],
+    "ts": 1789464040.7358391
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/citi-warns-tokyo-electron-stock-faces-risk-from-kioxia-listing-93CH-4901009",
+    "title": "Citi warns Tokyo Electron stock faces risk from Kioxia listing",
+    "tokens": [
+      "citi",
+      "electron",
+      "faces",
+      "kioxia",
+      "listing",
+      "risk",
+      "stock",
+      "tokyo",
+      "warns"
+    ],
+    "ts": 1789464048.5647886
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/keybanc-raises-price-targets-on-oil-producers-amid-market-shifts-93CH-4901007",
+    "title": "Keybanc raises price targets on oil producers amid market shifts",
+    "tokens": [
+      "keybanc",
+      "market",
+      "oil",
+      "price",
+      "producers",
+      "raises",
+      "shifts",
+      "targets"
+    ],
+    "ts": 1789464055.5922337
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sharp-starts-taking-orders-for-ai-servers-with-hon-hai-93CH-4901006",
+    "title": "Sharp starts taking orders for AI servers with Hon Hai",
+    "tokens": [
+      "hai",
+      "hon",
+      "orders",
+      "servers",
+      "sharp",
+      "starts",
+      "taking"
+    ],
+    "ts": 1789464062.674729
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/canadian-home-sales-fall-in-august-as-economic-uncertainty-grows-4901004",
+    "title": "Canadian home sales fall in August as economic uncertainty grows",
+    "tokens": [
+      "august",
+      "canadian",
+      "economic",
+      "fall",
+      "grows",
+      "home",
+      "sales",
+      "uncertainty"
+    ],
+    "ts": 1789464073.069419
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/vodafone-stock-analysis-momentum-strong-but-german-recovery-still-unproven-93CH-4901003",
+    "title": "Vodafone stock analysis: momentum strong but German recovery still unproven",
+    "tokens": [
+      "analysis",
+      "german",
+      "momentum",
+      "recovery",
+      "still",
+      "stock",
+      "strong",
+      "unproven",
+      "vodafone"
+    ],
+    "ts": 1789464080.025272
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/german-investor-morale-rises-less-than-expected-in-september-zew-finds-4901002",
+    "title": "German investor morale rises less than expected in September, ZEW finds",
+    "tokens": [
+      "expected",
+      "finds",
+      "german",
+      "investor",
+      "less",
+      "morale",
+      "rises",
+      "september",
+      "zew"
+    ],
+    "ts": 1789464087.3313622
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/fevertree-shares-jump-4-after-kepler-upgrades-stock-to-buy-4901001",
+    "title": "Fever-Tree shares jump 4% after Kepler upgrades stock to Buy",
+    "tokens": [
+      "buy",
+      "fever",
+      "jump",
+      "kepler",
+      "shares",
+      "stock",
+      "tree",
+      "upgrades"
+    ],
+    "ts": 1789464095.1419728
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-h-lundbeck-stock-falling-today-93CH-4901000",
+    "title": "Why is H Lundbeck stock falling today?",
+    "tokens": [
+      "falling",
+      "lundbeck",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789464103.7261798
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/wall-st-futures-slip-as-rising-oil-treasury-yields-compound-ai-anxiety-4900995",
+    "title": "Wall St futures slip as rising oil, Treasury yields compound AI anxiety",
+    "tokens": [
+      "anxiety",
+      "compound",
+      "futures",
+      "oil",
+      "rising",
+      "slip",
+      "treasury",
+      "wall",
+      "yields"
+    ],
+    "ts": 1789464117.486963
+  },
+  {
+    "id": "stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures retreat ahead of Fed meeting amid AI safety fears",
+    "tokens": [
+      "500",
+      "ahead",
+      "dow",
+      "fears",
+      "fed",
+      "futures",
+      "market",
+      "meeting",
+      "nasdaq",
+      "retreat",
+      "safety",
+      "stock",
+      "today"
+    ],
+    "ts": 1789464126.3676646
+  },
+  {
+    "id": "saudi-oil-pipeline-repairs-could-071500280.html",
+    "title": "Saudi Oil Pipeline Repairs Could Take Weeks After Drone Attack",
+    "tokens": [
+      "attack",
+      "could",
+      "drone",
+      "oil",
+      "pipeline",
+      "repairs",
+      "saudi",
+      "take",
+      "weeks"
+    ],
+    "ts": 1789464134.1057272
+  },
+  {
+    "id": "oil-prices-rise-saudi-pipeline-003617502.html",
+    "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns",
+    "tokens": [
+      "attacks",
+      "climbs",
+      "concerns",
+      "fresh",
+      "heighten",
+      "oil",
+      "outage",
+      "pipeline",
+      "saudi",
+      "supply"
+    ],
+    "ts": 1789464141.5870066
+  },
+  {
+    "id": "bristow-vtol-profit-nearly-doubles-063305925.html",
+    "title": "Bristow’s (VTOL) Profit Nearly Doubles While A Government Problem Lingers",
+    "tokens": [
+      "bristow",
+      "doubles",
+      "government",
+      "lingers",
+      "nearly",
+      "problem",
+      "profit",
+      "vtol",
+      "while"
+    ],
+    "ts": 1789464149.1571558
+  },
+  {
+    "id": "fubotv-fubo-revenue-explosion-meets-062944401.html",
+    "title": "FuboTV’s (FUBO) Revenue Explosion Meets A Skeptical Stock Market",
+    "tokens": [
+      "explosion",
+      "fubo",
+      "fubotv",
+      "market",
+      "meets",
+      "revenue",
+      "skeptical",
+      "stock"
+    ],
+    "ts": 1789464156.189498
   }
 ]

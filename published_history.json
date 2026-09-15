@@ -1,118 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/draganfly-wins-c2425m-canadian-defense-drone-contract-93CH-4897891",
-    "title": "Draganfly wins C$24.25M Canadian defense drone contract",
-    "tokens": [
-      "25m",
-      "canadian",
-      "contract",
-      "defense",
-      "draganfly",
-      "drone",
-      "wins"
-    ],
-    "ts": 1789131354.5084338
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tempus-ai-plans-100000-whole-genome-sequencing-dataset-93CH-4897892",
-    "title": "Tempus AI plans 100,000 whole genome sequencing dataset",
-    "tokens": [
-      "000",
-      "100",
-      "dataset",
-      "genome",
-      "plans",
-      "sequencing",
-      "tempus",
-      "whole"
-    ],
-    "ts": 1789131362.2293534
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fuel-tech-secures-28m-in-air-pollution-control-contracts-93CH-4897893",
-    "title": "Fuel Tech secures $2.8M in air pollution control contracts",
-    "tokens": [
-      "air",
-      "contracts",
-      "control",
-      "fuel",
-      "pollution",
-      "secures",
-      "tech"
-    ],
-    "ts": 1789131369.8418381
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/vulcan-infrastructure-adds-three-directors-after-funding-close-93CH-4897889",
-    "title": "Vulcan Infrastructure adds three directors after funding close",
-    "tokens": [
-      "adds",
-      "close",
-      "directors",
-      "funding",
-      "infrastructure",
-      "three",
-      "vulcan"
-    ],
-    "ts": 1789131377.819999
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/aevex-partners-with-washington-commanders-for-multiyear-deal-93CH-4897890",
-    "title": "AEVEX partners with Washington Commanders for multi-year deal",
-    "tokens": [
-      "aevex",
-      "commanders",
-      "deal",
-      "multi",
-      "partners",
-      "washington",
-      "year"
-    ],
-    "ts": 1789131385.891466
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/reborn-coffee-appoints-two-directors-to-board-93CH-4897888",
-    "title": "Reborn Coffee appoints two directors to board",
-    "tokens": [
-      "appoints",
-      "board",
-      "coffee",
-      "directors",
-      "reborn",
-      "two"
-    ],
-    "ts": 1789131393.2760825
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/us-consumer-prices-rise-by-04-monthonmonth-in-august-matching-estimates-4897887",
-    "title": "U.S. consumer prices rise by 0.4% month-on-month in August, matching estimates",
-    "tokens": [
-      "august",
-      "consumer",
-      "estimates",
-      "matching",
-      "month",
-      "prices",
-      "rise"
-    ],
-    "ts": 1789131401.3348563
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stonex-reiterates-buy-on-ebay-stock-after-fee-changes-in-europe-93CH-4897884",
-    "title": "StoneX reiterates Buy on eBay stock after fee changes in Europe",
-    "tokens": [
-      "buy",
-      "changes",
-      "ebay",
-      "europe",
-      "fee",
-      "reiterates",
-      "stock",
-      "stonex"
-    ],
-    "ts": 1789131409.9368985
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/stonex-reiterates-shopify-stock-buy-rating-on-ai-commerce-data-93CH-4897883",
     "title": "StoneX reiterates Shopify stock Buy rating on AI commerce data",
     "tokens": [
@@ -23219,5 +23106,128 @@
       "strengthen"
     ],
     "ts": 1789439529.3182883
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/santos-signs-deals-with-posco-steel-and-western-lng-93CH-4900749",
+    "title": "Santos signs deals with POSCO Steel and Western LNG",
+    "tokens": [
+      "deals",
+      "lng",
+      "posco",
+      "santos",
+      "signs",
+      "steel",
+      "western"
+    ],
+    "ts": 1789440895.0464282
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/japan-to-sidestep-funding-in-tax-cut-outline-keep-fiscal-concern-alive-4900748",
+    "title": "Japan to sidestep funding in tax cut outline, keep fiscal concern alive",
+    "tokens": [
+      "alive",
+      "concern",
+      "cut",
+      "fiscal",
+      "funding",
+      "japan",
+      "keep",
+      "outline",
+      "sidestep",
+      "tax"
+    ],
+    "ts": 1789440902.4698522
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/parallel49-equity-cpi-card-group-10-owner-sells-549m-stock-93CH-4900747",
+    "title": "Parallel49 equity, CPI Card Group 10% owner, sells $54.9m stock",
+    "tokens": [
+      "card",
+      "cpi",
+      "equity",
+      "group",
+      "owner",
+      "parallel49",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789440909.297813
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ani-pharmaceuticals-meredith-cook-sells-35395-in-common-stock-93CH-4900746",
+    "title": "Ani Pharmaceuticals’ Meredith Cook sells $35,395 in common stock",
+    "tokens": [
+      "395",
+      "ani",
+      "common",
+      "cook",
+      "meredith",
+      "pharmaceuticals",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789440916.5877843
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/clover-health-vp-of-finance-and-controller-sells-103200-in-stock-93CH-4900745",
+    "title": "Clover Health VP of finance and controller sells $103,200 in stock",
+    "tokens": [
+      "103",
+      "200",
+      "clover",
+      "controller",
+      "finance",
+      "health",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789440923.6365135
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/tricor-pmt25-holdings-10-owner-buys-113m-of-cpi-card-group-shares-93CH-4900744",
+    "title": "Tricor PMT25 holdings, 10% owner, buys $11.3m of CPI Card Group shares",
+    "tokens": [
+      "buys",
+      "card",
+      "cpi",
+      "group",
+      "holdings",
+      "owner",
+      "pmt25",
+      "shares",
+      "tricor"
+    ],
+    "ts": 1789440933.0431778
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/onemednet-chief-medical-officer-yu-buys-90000-in-company-stock-93CH-4900743",
+    "title": "OneMedNet chief medical officer Yu buys $90,000 in company stock",
+    "tokens": [
+      "000",
+      "buys",
+      "chief",
+      "company",
+      "medical",
+      "officer",
+      "onemednet",
+      "stock"
+    ],
+    "ts": 1789440941.8087447
+  },
+  {
+    "id": "fed-decision-retail-sales-other-170002358.html",
+    "title": "Fed Decision, Retail Sales and Other Can't Miss Items This Week",
+    "tokens": [
+      "can",
+      "decision",
+      "fed",
+      "items",
+      "miss",
+      "other",
+      "retail",
+      "sales",
+      "week"
+    ],
+    "ts": 1789440949.993314
   }
 ]

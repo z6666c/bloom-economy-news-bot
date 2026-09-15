@@ -1,132 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/needham-raises-servicenow-stock-price-target-on-ai-positioning-93CH-4897665",
-    "title": "Needham raises ServiceNow stock price target on AI positioning",
-    "tokens": [
-      "needham",
-      "positioning",
-      "price",
-      "raises",
-      "servicenow",
-      "stock",
-      "target"
-    ],
-    "ts": 1789126935.2947724
-  },
-  {
-    "id": "https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-spotted-civistas-66-gain-in-2024-93CH-4897663",
-    "title": "How InvestingPro’s Fair Value spotted Civista’s 66% gain in 2024",
-    "tokens": [
-      "2024",
-      "civista",
-      "fair",
-      "gain",
-      "how",
-      "investingpro",
-      "spotted",
-      "value"
-    ],
-    "ts": 1789126944.9221385
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-kroger-stock-sliding-today-93CH-4897662",
-    "title": "Why is Kroger stock sliding today?",
-    "tokens": [
-      "kroger",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789126948.9371083
-  },
-  {
-    "id": "academy-sports-aso-rockets-14-004715929.html",
-    "title": "Academy Sports (ASO) Rockets 14% on Solid Q2 Despite Consumer Spending Tests",
-    "tokens": [
-      "academy",
-      "aso",
-      "consumer",
-      "despite",
-      "rockets",
-      "solid",
-      "spending",
-      "sports",
-      "tests"
-    ],
-    "ts": 1789126954.5681026
-  },
-  {
-    "id": "enbridge-buy-tallgrass-crude-pipeline-013000983.html",
-    "title": "Enbridge to Buy Tallgrass Crude Pipeline Business for $2.55 Billion",
-    "tokens": [
-      "billion",
-      "business",
-      "buy",
-      "crude",
-      "enbridge",
-      "pipeline",
-      "tallgrass"
-    ],
-    "ts": 1789126958.5830643
-  },
-  {
-    "id": "oilprice-news-45465",
-    "title": "OPEC Sees Oil Demand Growth Explode Sixfold in 2027",
-    "tokens": [
-      "2027",
-      "demand",
-      "explode",
-      "growth",
-      "oil",
-      "opec",
-      "sees",
-      "sixfold"
-    ],
-    "ts": 1789126959.2833138
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sthree-rejects-takeover-approach-from-circle8-group-93CH-4897739",
-    "title": "SThree rejects takeover approach from Circle8 Group",
-    "tokens": [
-      "approach",
-      "circle8",
-      "group",
-      "rejects",
-      "sthree",
-      "takeover"
-    ],
-    "ts": 1789127578.5011437
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/medicinova-at-hc-wainwright-conference-data-not-financing-drives-case-93CH-4897738",
-    "title": "Medicinova at H.C. Wainwright conference: data, not financing, drives case",
-    "tokens": [
-      "case",
-      "conference",
-      "data",
-      "drives",
-      "financing",
-      "medicinova",
-      "wainwright"
-    ],
-    "ts": 1789127587.4159248
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/growgeneration-at-hc-wainwright-conference-pivot-to-highermargin-growth-93CH-4897736",
-    "title": "GrowGeneration at H.C. Wainwright conference: pivot to higher-margin growth",
-    "tokens": [
-      "conference",
-      "growgeneration",
-      "growth",
-      "higher",
-      "margin",
-      "pivot",
-      "wainwright"
-    ],
-    "ts": 1789127596.1278539
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-ovid-therapeutics-price-target-to-5-on-pipeline-progress-93CH-4897735",
     "title": "H.C. Wainwright raises Ovid Therapeutics price target to $5 on pipeline progress",
     "tokens": [
@@ -23182,5 +23055,147 @@
       "stock"
     ],
     "ts": 1789433157.14908
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/devon-energy-ceo-clay-gaspar-buys-199876-in-company-stock-93CH-4900707",
+    "title": "Devon Energy CEO Clay Gaspar buys $199,876 in company stock",
+    "tokens": [
+      "199",
+      "876",
+      "buys",
+      "ceo",
+      "clay",
+      "company",
+      "devon",
+      "energy",
+      "gaspar",
+      "stock"
+    ],
+    "ts": 1789434682.866122
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/rhythm-pharmaceuticals-president--ceo-meeker-sells-513m-stock-93CH-4900708",
+    "title": "Rhythm Pharmaceuticals president & CEO Meeker sells $5.13m stock",
+    "tokens": [
+      "13m",
+      "ceo",
+      "meeker",
+      "pharmaceuticals",
+      "president",
+      "rhythm",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789434690.513304
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/devon-energy-evp-lowe-sells-344218-in-company-stock-on-sept-14-93CH-4900705",
+    "title": "Devon Energy EVP Lowe sells $344,218 in company stock on Sept. 14",
+    "tokens": [
+      "218",
+      "344",
+      "company",
+      "devon",
+      "energy",
+      "evp",
+      "lowe",
+      "sells",
+      "sept",
+      "stock"
+    ],
+    "ts": 1789434698.0436313
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cpi-card-group-director-marc-sheinbaum-buys-99996-in-shares-93CH-4900706",
+    "title": "CPI Card Group director Marc Sheinbaum buys $99,996 in shares",
+    "tokens": [
+      "996",
+      "buys",
+      "card",
+      "cpi",
+      "director",
+      "group",
+      "marc",
+      "shares",
+      "sheinbaum"
+    ],
+    "ts": 1789434704.4817638
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/accenture-to-pay-25-million-to-settle-us-government-allegations-over-dei-4900700",
+    "title": "Accenture to pay $25 million to settle US government allegations over DEI",
+    "tokens": [
+      "accenture",
+      "allegations",
+      "dei",
+      "government",
+      "million",
+      "pay",
+      "settle"
+    ],
+    "ts": 1789434711.6112256
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/jean-smart-makes-emmy-history-with-fifth-win-for-hacks-4900688",
+    "title": "Jean Smart makes Emmy history with fifth win for ’Hacks’",
+    "tokens": [
+      "emmy",
+      "fifth",
+      "hacks",
+      "history",
+      "jean",
+      "makes",
+      "smart",
+      "win"
+    ],
+    "ts": 1789434718.283305
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-houthis-attack-saudi-arabia-hormuz-talks-delayed-4900704",
+    "title": "Oil prices rise as Houthis attack Saudi Arabia, Hormuz talks delayed",
+    "tokens": [
+      "arabia",
+      "attack",
+      "delayed",
+      "hormuz",
+      "houthis",
+      "oil",
+      "prices",
+      "rise",
+      "saudi",
+      "talks"
+    ],
+    "ts": 1789434724.8643436
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/australias-new-hope-shares-hit-312year-high-on-hefty-dividend-4900703",
+    "title": "Australia’s New Hope shares hit 3-1/2-year high on hefty dividend",
+    "tokens": [
+      "australia",
+      "dividend",
+      "hefty",
+      "high",
+      "hit",
+      "hope",
+      "shares",
+      "year"
+    ],
+    "ts": 1789434732.8499577
+  },
+  {
+    "id": "https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal",
+    "title": "Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico",
+    "tokens": [
+      "back",
+      "clarity",
+      "counterproposal",
+      "democrats",
+      "final",
+      "gop",
+      "offer",
+      "politico",
+      "push"
+    ],
+    "ts": 1789434741.002962
   }
 ]

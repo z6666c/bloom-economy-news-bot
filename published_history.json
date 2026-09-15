@@ -1,161 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/enersys-at-jefferies-renewables-conference-growth-bets-and-defense-push-93CH-4898193",
-    "title": "EnerSys at Jefferies renewables conference: growth bets and defense push",
-    "tokens": [
-      "bets",
-      "conference",
-      "defense",
-      "enersys",
-      "growth",
-      "jefferies",
-      "push",
-      "renewables"
-    ],
-    "ts": 1789141399.671292
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/bristow-group-director-brian-truelove-sells-shares-worth-160546-93CH-4898192",
-    "title": "Bristow group director Brian Truelove sells shares worth $160,546",
-    "tokens": [
-      "160",
-      "546",
-      "brian",
-      "bristow",
-      "director",
-      "group",
-      "sells",
-      "shares",
-      "truelove",
-      "worth"
-    ],
-    "ts": 1789141407.1979284
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/servicetitan-stock-hits-52week-low-at-5416-usd-93CH-4898191",
-    "title": "ServiceTitan stock hits 52-week low at 54.16 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "servicetitan",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789141411.213283
-  },
-  {
-    "id": "elon-musk-dismisses-bernie-sanderss-153000728.html",
-    "title": "Elon Musk dismisses Bernie Sanders's 5% wealth tax, says 99% of his trillion-dollar fortune is in stock — not cash",
-    "tokens": [
-      "bernie",
-      "cash",
-      "dismisses",
-      "dollar",
-      "elon",
-      "fortune",
-      "his",
-      "musk",
-      "sanders",
-      "stock",
-      "tax",
-      "trillion",
-      "wealth"
-    ],
-    "ts": 1789141415.7802198
-  },
-  {
-    "id": "spacex-signs-another-ai-computing-deal-with-100-billion-in-arr-on-track-cfo-says-152933886.html",
-    "title": "SpaceX signs another AI computing deal, with $100 billion in ARR 'on track,' CFO says",
-    "tokens": [
-      "100",
-      "another",
-      "arr",
-      "billion",
-      "cfo",
-      "computing",
-      "deal",
-      "signs",
-      "spacex",
-      "track"
-    ],
-    "ts": 1789141428.1894073
-  },
-  {
-    "id": "goldman-sachs-gs-deepens-ai-152645980.html",
-    "title": "The Goldman Sachs (GS) Deepens AI Push as Competition for Tech Talent Intensifies",
-    "tokens": [
-      "competition",
-      "deepens",
-      "goldman",
-      "intensifies",
-      "push",
-      "sachs",
-      "talent",
-      "tech"
-    ],
-    "ts": 1789141438.4727838
-  },
-  {
-    "id": "metaplanet-slashes-series-10-share-152600328.html",
-    "title": "Metaplanet Slashes Series 10 Share Pool by 41% Amid Dilution Concerns",
-    "tokens": [
-      "concerns",
-      "dilution",
-      "metaplanet",
-      "pool",
-      "series",
-      "share",
-      "slashes"
-    ],
-    "ts": 1789141446.8274167
-  },
-  {
-    "id": "visa-positions-itself-next-wave-152127340.html",
-    "title": "Visa Positions Itself for the Next Wave of Stablecoin Payments",
-    "tokens": [
-      "itself",
-      "next",
-      "payments",
-      "positions",
-      "stablecoin",
-      "visa",
-      "wave"
-    ],
-    "ts": 1789141454.8740873
-  },
-  {
-    "id": "positive-lung-cancer-data-lifts-151923653.html",
-    "title": "Positive Lung Cancer Data Lifts the Case for Amgen and AstraZeneca",
-    "tokens": [
-      "amgen",
-      "astrazeneca",
-      "cancer",
-      "case",
-      "data",
-      "lifts",
-      "lung",
-      "positive"
-    ],
-    "ts": 1789141462.791529
-  },
-  {
-    "id": "qualcomm-aws-deal-takes-aim-154005241.html",
-    "title": "Qualcomm’s AWS Deal Takes Aim at Nvidia, But Comes With Fine Print",
-    "tokens": [
-      "aim",
-      "aws",
-      "comes",
-      "deal",
-      "fine",
-      "nvidia",
-      "print",
-      "qualcomm",
-      "takes"
-    ],
-    "ts": 1789142117.8864694
-  },
-  {
     "id": "ric-flair-wants-bury-talent-154000343.html",
     "title": "Ric Flair ‘wants to bury’ talent agency with $10M lawsuit over alleged ‘digital fraud’ tied to his image and likeness",
     "tokens": [
@@ -23260,5 +23104,145 @@
       "warns"
     ],
     "ts": 1789458198.602036
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-4900913",
+    "title": "Bond selloff drives US benchmark beyond 5%; stocks rattled",
+    "tokens": [
+      "benchmark",
+      "beyond",
+      "bond",
+      "drives",
+      "rattled",
+      "selloff",
+      "stocks"
+    ],
+    "ts": 1789459010.0375319
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/morgan-stanley-turns-more-hawkish-forecasts-two-fed-hikes-and-ecb-move-4900912",
+    "title": "Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move",
+    "tokens": [
+      "ecb",
+      "fed",
+      "forecasts",
+      "hawkish",
+      "hikes",
+      "more",
+      "morgan",
+      "move",
+      "stanley",
+      "turns",
+      "two"
+    ],
+    "ts": 1789459017.5942914
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/uk-unemployment-holds-below-forecast-as-vacancies-continue-to-fall-4900838",
+    "title": "UK payrolls fall 26,000 in August as jobs market weakens ahead of BOE",
+    "tokens": [
+      "000",
+      "ahead",
+      "august",
+      "boe",
+      "fall",
+      "jobs",
+      "market",
+      "payrolls",
+      "weakens"
+    ],
+    "ts": 1789459024.8934274
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/lsl-property-services-reports-3-revenue-growth-in-first-half-93CH-4900911",
+    "title": "LSL Property Services reports 3% revenue growth in first half",
+    "tokens": [
+      "first",
+      "growth",
+      "half",
+      "lsl",
+      "property",
+      "reports",
+      "revenue",
+      "services"
+    ],
+    "ts": 1789459032.0299048
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-trustpilot-stock-tumbling-today-93CH-4900910",
+    "title": "Why is Trustpilot stock tumbling today?",
+    "tokens": [
+      "stock",
+      "today",
+      "trustpilot",
+      "tumbling",
+      "why"
+    ],
+    "ts": 1789459036.044744
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology-4900909",
+    "title": "MediaTek launches new mobile chip using TSMC’s most advanced technology",
+    "tokens": [
+      "advanced",
+      "chip",
+      "launches",
+      "mediatek",
+      "mobile",
+      "most",
+      "technology",
+      "tsmc",
+      "using"
+    ],
+    "ts": 1789459038.9589195
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-everplay-stock-rallying-today-93CH-4900908",
+    "title": "Why is Everplay stock rallying today?",
+    "tokens": [
+      "everplay",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789459042.9738562
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-kier-stock-rallying-today-93CH-4900907",
+    "title": "Why is Kier stock rallying today?",
+    "tokens": [
+      "kier",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789459042.9883773
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-wickes-stock-surging-today-93CH-4900906",
+    "title": "Why is Wickes stock surging today?",
+    "tokens": [
+      "stock",
+      "surging",
+      "today",
+      "why",
+      "wickes"
+    ],
+    "ts": 1789459043.0022743
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/lake-energy-secures-80-million-for-us-renewable-energy-expansion-4900905",
+    "title": "Lake Energy Secures $80 Million for U.S. Renewable Energy Expansion",
+    "tokens": [
+      "energy",
+      "expansion",
+      "lake",
+      "million",
+      "renewable",
+      "secures"
+    ],
+    "ts": 1789459045.8729079
   }
 ]

@@ -1,38 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/ars-pharma-at-cantor-global-healthcare-provider-push-lifts-neffy-93CH-4898007",
-    "title": "ARS Pharma at Cantor Global Healthcare: provider push lifts neffy",
-    "tokens": [
-      "ars",
-      "cantor",
-      "global",
-      "healthcare",
-      "lifts",
-      "neffy",
-      "pharma",
-      "provider",
-      "push"
-    ],
-    "ts": 1789133398.903231
-  },
-  {
-    "id": "nuveen-churchill-ncdl-payout-cushion-031425342.html",
-    "title": "Nuveen Churchill’s (NCDL) Payout Cushion Widens Even As Risk Flags Rise",
-    "tokens": [
-      "churchill",
-      "cushion",
-      "even",
-      "flags",
-      "ncdl",
-      "nuveen",
-      "payout",
-      "rise",
-      "risk",
-      "widens"
-    ],
-    "ts": 1789133407.1761105
-  },
-  {
     "id": "oilprice-news-45483",
     "title": "UK Business Calls For Scrapping Taxes on Electricity Bills",
     "tokens": [
@@ -23237,5 +23204,37 @@
       "through"
     ],
     "ts": 1789446616.188569
+  },
+  {
+    "id": "8cbe20a6-56ef-484f-adbd-ff88f2fa2168",
+    "title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
+    "tokens": [
+      "bigger",
+      "edge",
+      "ethereum",
+      "giving",
+      "got",
+      "just",
+      "more",
+      "solana",
+      "times",
+      "transactions"
+    ],
+    "ts": 1789447659.9551973
+  },
+  {
+    "id": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction",
+    "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
+    "tokens": [
+      "cease",
+      "citing",
+      "coinex",
+      "contraction",
+      "crypto",
+      "operation",
+      "significant",
+      "years"
+    ],
+    "ts": 1789447666.9763908
   }
 ]

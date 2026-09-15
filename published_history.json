@@ -1,214 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/zai-shares-fall-to-512month-low-after-5-billion-share-bond-sale-4898803",
-    "title": "Z.AI shares fall to 5-1/2-month low after $5 billion share, bond sale",
-    "tokens": [
-      "billion",
-      "bond",
-      "fall",
-      "low",
-      "month",
-      "sale",
-      "share",
-      "shares"
-    ],
-    "ts": 1789359118.25278
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-sliding-today-93CH-4898802",
-    "title": "Why is Samsung Electronics stock sliding today?",
-    "tokens": [
-      "electronics",
-      "samsung",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789359124.8936243
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4898801",
-    "title": "Why is SK Hynix stock sliding today?",
-    "tokens": [
-      "hynix",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789359131.8508153
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-cleanaway-waste-management-stock-rallying-today-93CH-4898800",
-    "title": "Why is Cleanaway Waste Management stock rallying today?",
-    "tokens": [
-      "cleanaway",
-      "management",
-      "rallying",
-      "stock",
-      "today",
-      "waste",
-      "why"
-    ],
-    "ts": 1789359138.3816526
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/samsung-sk-hynix-reject-kepcos-19-billionpower-prepayment-proposal-document-shows-4898798",
-    "title": "Samsung, SK Hynix reject KEPCO’s $19 billion power prepayment proposal, document shows",
-    "tokens": [
-      "billion",
-      "document",
-      "hynix",
-      "kepco",
-      "power",
-      "prepayment",
-      "proposal",
-      "reject",
-      "samsung",
-      "shows"
-    ],
-    "ts": 1789359144.693991
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply-4898730",
-    "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
-    "tokens": [
-      "global",
-      "loss",
-      "oil",
-      "outage",
-      "pipeline",
-      "saudi",
-      "supply",
-      "threatens"
-    ],
-    "ts": 1789359151.7338817
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asia-tech-stocks-tumble-as-ai-trade-doubts-deepen-before-fed-boj-decisions-4898797",
-    "title": "Asia tech, chip stocks tumble as AI trade doubts deepen before Fed, BOJ decisions",
-    "tokens": [
-      "asia",
-      "before",
-      "boj",
-      "chip",
-      "decisions",
-      "deepen",
-      "doubts",
-      "fed",
-      "stocks",
-      "tech",
-      "trade",
-      "tumble"
-    ],
-    "ts": 1789359158.549612
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-telix-pharmaceuticals-stock-surging-today-93CH-4898796",
-    "title": "Why is Telix Pharmaceuticals stock surging today?",
-    "tokens": [
-      "pharmaceuticals",
-      "stock",
-      "surging",
-      "telix",
-      "today",
-      "why"
-    ],
-    "ts": 1789359165.3850594
-  },
-  {
-    "id": "musk-sent-governments-message-robot-174700228.html",
-    "title": "Musk sent governments a message about the robot economy",
-    "tokens": [
-      "about",
-      "economy",
-      "governments",
-      "message",
-      "musk",
-      "robot",
-      "sent"
-    ],
-    "ts": 1789359172.0263424
-  },
-  {
-    "id": "jewelry-chain-closes-53-stores-213700154.html",
-    "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
-    "tokens": [
-      "brands",
-      "chain",
-      "closes",
-      "jewelry",
-      "shutting",
-      "stores"
-    ],
-    "ts": 1789359178.3167439
-  },
-  {
-    "id": "gen-z-burnout-could-stall-170028733.html",
-    "title": "Gen Z Burnout Could Stall Earning Power — 5 Moves To Get Your Career Back on Track",
-    "tokens": [
-      "back",
-      "burnout",
-      "career",
-      "could",
-      "earning",
-      "gen",
-      "get",
-      "moves",
-      "power",
-      "stall",
-      "track",
-      "your"
-    ],
-    "ts": 1789359185.0941312
-  },
-  {
-    "id": "https://seekingalpha.com/news/4642307-global-markets-slide-this-week-as-oil-surges-rate-hike-fears-intensify?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Global markets slide this week as oil surges, rate-hike fears intensify",
-    "tokens": [
-      "fears",
-      "global",
-      "hike",
-      "intensify",
-      "markets",
-      "oil",
-      "rate",
-      "slide",
-      "surges",
-      "week"
-    ],
-    "ts": 1789359191.6428165
-  },
-  {
-    "id": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-    "title": "Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
-    "tokens": [
-      "cofounder",
-      "palantir",
-      "really",
-      "threat",
-      "top"
-    ],
-    "ts": 1789359198.4201052
-  },
-  {
-    "id": "https://seekingalpha.com/news/4642296-trump-is-said-to-weigh-ethics-compromise-ahead-of-crucial-crypto-bill-vote?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Trump is said to weigh ethics compromise ahead of crucial crypto bill vote",
-    "tokens": [
-      "ahead",
-      "bill",
-      "compromise",
-      "crucial",
-      "crypto",
-      "ethics",
-      "trump",
-      "vote",
-      "weigh"
-    ],
-    "ts": 1789359205.0807948
-  },
-  {
     "id": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
     "title": "Anthropic has chosen the Nasdaq for its IPO listing",
     "tokens": [
@@ -22967,5 +22758,215 @@
       "stock"
     ],
     "ts": 1789512657.8364286
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cloudflare-director-carl-ledbetter-sold-156m-in-stock-93CH-4902750",
+    "title": "Cloudflare director Carl Ledbetter sold $1.56m in stock",
+    "tokens": [
+      "56m",
+      "carl",
+      "cloudflare",
+      "director",
+      "ledbetter",
+      "sold",
+      "stock"
+    ],
+    "ts": 1789513798.7961073
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/carlsmed-files-patent-lawsuit-against-degen-medical-93CH-4902749",
+    "title": "Carlsmed files patent lawsuit against DeGen Medical",
+    "tokens": [
+      "against",
+      "carlsmed",
+      "degen",
+      "files",
+      "lawsuit",
+      "medical",
+      "patent"
+    ],
+    "ts": 1789513806.4860258
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-doj-backs-bond-demand-in-paramountwarner-bros-antitrust-fight-4902742",
+    "title": "US DoJ backs bond demand in Paramount-Warner Bros antitrust fight",
+    "tokens": [
+      "antitrust",
+      "backs",
+      "bond",
+      "bros",
+      "demand",
+      "doj",
+      "fight",
+      "paramount",
+      "warner"
+    ],
+    "ts": 1789513813.9949222
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/dropbox-coceo-ashraf-alkarmi-sells-102m-in-stock-93CH-4902748",
+    "title": "Dropbox co-CEO Ashraf Alkarmi sells $1.02m in stock",
+    "tokens": [
+      "02m",
+      "alkarmi",
+      "ashraf",
+      "ceo",
+      "dropbox",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789513822.208004
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ibex-ltd-coo-david-afdahl-sells-433482-in-company-shares-93CH-4902746",
+    "title": "Ibex Ltd COO David Afdahl sells $433,482 in company shares",
+    "tokens": [
+      "433",
+      "482",
+      "afdahl",
+      "company",
+      "coo",
+      "david",
+      "ibex",
+      "ltd",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789513829.545918
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cogent-communications-vp-kilmer-sells-22104-in-common-stock-93CH-4902744",
+    "title": "Cogent Communications VP Kilmer sells $22,104 in common stock",
+    "tokens": [
+      "104",
+      "cogent",
+      "common",
+      "communications",
+      "kilmer",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789513836.1320043
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/inhibrx-director-kimberly-manhard-sells-163542-in-company-stock-93CH-4902745",
+    "title": "Inhibrx director Kimberly Manhard sells $163,542 in company stock",
+    "tokens": [
+      "163",
+      "542",
+      "company",
+      "director",
+      "inhibrx",
+      "kimberly",
+      "manhard",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789513843.486805
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/analysistoyota-revamp-hints-of-wider-industry-shakeup-in-china-4901155",
+    "title": "Toyota revamp hints of wider industry shake-up in China",
+    "tokens": [
+      "china",
+      "hints",
+      "industry",
+      "revamp",
+      "shake",
+      "toyota",
+      "wider"
+    ],
+    "ts": 1789513850.131091
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/provident-financial-evp-cro-james-christy-sells-70080-in-stock-93CH-4902741",
+    "title": "Provident Financial EVP, CRO James Christy sells $70,080 in stock",
+    "tokens": [
+      "080",
+      "christy",
+      "cro",
+      "evp",
+      "financial",
+      "james",
+      "provident",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789513857.6540709
+  },
+  {
+    "id": "coffee-prices-fall-production-spikes-145910581.html",
+    "title": "Coffee Prices Fall as Production Spikes and Consumption Chills",
+    "tokens": [
+      "chills",
+      "coffee",
+      "consumption",
+      "fall",
+      "prices",
+      "production",
+      "spikes"
+    ],
+    "ts": 1789513866.247627
+  },
+  {
+    "id": "enbridge-enb-expands-u-oil-145324207.html",
+    "title": "Enbridge (ENB) Expands its U.S. Oil Footprint with Tallgrass Acquisition",
+    "tokens": [
+      "acquisition",
+      "enb",
+      "enbridge",
+      "expands",
+      "footprint",
+      "oil",
+      "tallgrass"
+    ],
+    "ts": 1789513874.460499
+  },
+  {
+    "id": "totalenergies-tte-sees-long-term-145201682.html",
+    "title": "TotalEnergies (TTE) Sees Long-Term Potential in Angola’s Offshore Oil",
+    "tokens": [
+      "angola",
+      "long",
+      "offshore",
+      "oil",
+      "potential",
+      "sees",
+      "term",
+      "totalenergies",
+      "tte"
+    ],
+    "ts": 1789513881.8672006
+  },
+  {
+    "id": "oilprice-article-45515",
+    "title": "Chinese Solar Panels Drop to 12 Cents a Watt, Rooftop Installs Surge Worldwide",
+    "tokens": [
+      "cents",
+      "chinese",
+      "drop",
+      "installs",
+      "panels",
+      "rooftop",
+      "solar",
+      "surge",
+      "watt",
+      "worldwide"
+    ],
+    "ts": 1789513890.4061742
+  },
+  {
+    "id": "oilprice-news-45515",
+    "title": "U.S. Oil Inventories Jump as Cushing Stocks Keep Falling",
+    "tokens": [
+      "cushing",
+      "falling",
+      "inventories",
+      "jump",
+      "keep",
+      "oil",
+      "stocks"
+    ],
+    "ts": 1789513894.4202855
   }
 ]

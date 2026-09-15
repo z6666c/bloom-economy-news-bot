@@ -1,234 +1,5 @@
 [
   {
-    "id": "oilprice-article-45479",
-    "title": "UK Interest Rates Could Rise Four Times Over the Next Year",
-    "tokens": [
-      "could",
-      "four",
-      "interest",
-      "next",
-      "rates",
-      "rise",
-      "times",
-      "year"
-    ],
-    "ts": 1789150462.8094492
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/arizona-accuses-loreal-of-concealing-cancer-risks-linked-to-hair-relaxers-4898317",
-    "title": "Arizona accuses L’Oreal of concealing cancer risks linked to hair relaxers",
-    "tokens": [
-      "accuses",
-      "arizona",
-      "cancer",
-      "concealing",
-      "hair",
-      "linked",
-      "oreal",
-      "relaxers",
-      "risks"
-    ],
-    "ts": 1789151486.6268275
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/arizona-sues-loreal-over-alleged-cancer-risks-in-hair-relaxers-93CH-4898319",
-    "title": "Arizona sues L’Oreal over alleged cancer risks in hair relaxers",
-    "tokens": [
-      "alleged",
-      "arizona",
-      "cancer",
-      "hair",
-      "oreal",
-      "relaxers",
-      "risks",
-      "sues"
-    ],
-    "ts": 1789151495.1424274
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ge-vernova-and-ibm-among-market-cap-stock-movers-on-friday-93CH-4898316",
-    "title": "GE Vernova and IBM among market cap stock movers on Friday",
-    "tokens": [
-      "among",
-      "cap",
-      "friday",
-      "ibm",
-      "market",
-      "movers",
-      "stock",
-      "vernova"
-    ],
-    "ts": 1789151503.0939367
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-budget-deficit-shrinks-in-august-yeartodate-flat-at-197-trillion-4898315",
-    "title": "US budget deficit shrinks in August, year-to-date flat at $1.97 trillion",
-    "tokens": [
-      "august",
-      "budget",
-      "date",
-      "deficit",
-      "flat",
-      "shrinks",
-      "trillion",
-      "year"
-    ],
-    "ts": 1789151512.02039
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-budget-deficit-falls-to-167-billion-in-august-93CH-4898314",
-    "title": "US budget deficit falls to $167 billion in August",
-    "tokens": [
-      "167",
-      "august",
-      "billion",
-      "budget",
-      "deficit",
-      "falls"
-    ],
-    "ts": 1789151520.3267221
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tenon-medical-raises-29m-through-warrant-exercise-deal-93CH-4898313",
-    "title": "Tenon Medical raises $2.9m through warrant exercise deal",
-    "tokens": [
-      "deal",
-      "exercise",
-      "medical",
-      "raises",
-      "tenon",
-      "through",
-      "warrant"
-    ],
-    "ts": 1789151527.5499713
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/generali-options-flow-20000contract-dec-2027-put-dominates-trading-93CH-4898312",
-    "title": "Generali options flow: 20,000-contract Dec 2027 put dominates trading",
-    "tokens": [
-      "000",
-      "2027",
-      "contract",
-      "dec",
-      "dominates",
-      "flow",
-      "generali",
-      "options",
-      "put",
-      "trading"
-    ],
-    "ts": 1789151535.4757376
-  },
-  {
-    "id": "peter-schiff-says-7-76-093000403.html",
-    "title": "Peter Schiff says the 7.76 cents of metal inside every nickel makes it a better bet than U.S. Treasuries",
-    "tokens": [
-      "bet",
-      "better",
-      "cents",
-      "every",
-      "inside",
-      "makes",
-      "metal",
-      "nickel",
-      "peter",
-      "schiff",
-      "treasuries"
-    ],
-    "ts": 1789151544.4368806
-  },
-  {
-    "id": "WP-MKTW-0005228812",
-    "title": "Are AI-written resumes more likely to get you a job? The answer may surprise you.",
-    "tokens": [
-      "answer",
-      "get",
-      "job",
-      "likely",
-      "may",
-      "more",
-      "resumes",
-      "surprise",
-      "written",
-      "you"
-    ],
-    "ts": 1789152740.7224028
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-alphatec-holdings-stock-surging-today-93CH-4898329",
-    "title": "Why is Alphatec Holdings stock surging today?",
-    "tokens": [
-      "alphatec",
-      "holdings",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789152744.9047737
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-tenable-stock-sliding-today-93CH-4898328",
-    "title": "Why is Tenable stock sliding today?",
-    "tokens": [
-      "sliding",
-      "stock",
-      "tenable",
-      "today",
-      "why"
-    ],
-    "ts": 1789152744.9162796
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/saudi-arabia-shuts-eastwest-pipeline-after-attacks-93CH-4898327",
-    "title": "Saudi Arabia shuts East-West Pipeline after attacks",
-    "tokens": [
-      "arabia",
-      "attacks",
-      "east",
-      "pipeline",
-      "saudi",
-      "shuts",
-      "west"
-    ],
-    "ts": 1789152749.9694188
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-butler-national-posts-strong-q1-2027-growth-as-stock-jumps-93CH-4898326",
-    "title": "Earnings call transcript: Butler National posts strong Q1 2027 growth as stock jumps",
-    "tokens": [
-      "2027",
-      "butler",
-      "call",
-      "earnings",
-      "growth",
-      "jumps",
-      "national",
-      "posts",
-      "stock",
-      "strong",
-      "transcript"
-    ],
-    "ts": 1789152760.1438663
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/brazils-marcelo-kayath-would-be-strong-pick-for-finance-ministry-eduardo-bolsonaro-says-4898324",
-    "title": "Brazil’s Marcelo Kayath would be strong pick for Finance Ministry, Eduardo Bolsonaro says",
-    "tokens": [
-      "bolsonaro",
-      "brazil",
-      "eduardo",
-      "finance",
-      "kayath",
-      "marcelo",
-      "ministry",
-      "pick",
-      "strong",
-      "would"
-    ],
-    "ts": 1789152768.730574
-  },
-  {
     "id": "india-calls-bigger-biofuel-push-093000849.html",
     "title": "India Calls for Bigger Biofuel Push as Oil Prices Soar",
     "tokens": [
@@ -23273,5 +23044,243 @@
       "tax"
     ],
     "ts": 1789467603.2513163
+  },
+  {
+    "id": "WP-MKTW-0005230441",
+    "title": "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
+    "tokens": [
+      "according",
+      "best",
+      "bonds",
+      "five",
+      "here",
+      "invest",
+      "long",
+      "managers",
+      "portfolio",
+      "star",
+      "term",
+      "these",
+      "way"
+    ],
+    "ts": 1789468878.1760583
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cgis-trade-finance-platform-wins-three-industry-awards-93CH-4901232",
+    "title": "CGI’s trade finance platform wins three industry awards",
+    "tokens": [
+      "awards",
+      "cgi",
+      "finance",
+      "industry",
+      "platform",
+      "three",
+      "trade",
+      "wins"
+    ],
+    "ts": 1789468885.3302443
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/caretrust-reit-acquires-400m-skilled-nursing-portfolio-93CH-4901233",
+    "title": "CareTrust REIT acquires $400M skilled nursing portfolio",
+    "tokens": [
+      "400m",
+      "acquires",
+      "caretrust",
+      "nursing",
+      "portfolio",
+      "reit",
+      "skilled"
+    ],
+    "ts": 1789468892.997389
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/telo-genomics-reports-blood-test-detected-myeloma-cells-more-often-93CH-4901230",
+    "title": "Telo Genomics reports blood test detected myeloma cells more often",
+    "tokens": [
+      "blood",
+      "cells",
+      "detected",
+      "genomics",
+      "more",
+      "myeloma",
+      "often",
+      "reports",
+      "telo",
+      "test"
+    ],
+    "ts": 1789468900.3810368
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/morning-bid-the-house-visits-the-house-4901231",
+    "title": "Morning Bid: \"The house\" visits the House",
+    "tokens": [
+      "bid",
+      "house",
+      "morning",
+      "visits"
+    ],
+    "ts": 1789468906.8755798
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/surf-air-mobility-attends-faa-evtol-integration-program-launch-93CH-4901228",
+    "title": "Surf Air Mobility attends FAA eVTOL integration program launch",
+    "tokens": [
+      "air",
+      "attends",
+      "evtol",
+      "faa",
+      "integration",
+      "launch",
+      "mobility",
+      "program",
+      "surf"
+    ],
+    "ts": 1789468913.9392018
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ducommun-wins-35m-contract-for-pac3-missile-assemblies-93CH-4901229",
+    "title": "Ducommun wins $35M contract for PAC-3 missile assemblies",
+    "tokens": [
+      "35m",
+      "assemblies",
+      "contract",
+      "ducommun",
+      "missile",
+      "pac",
+      "wins"
+    ],
+    "ts": 1789468921.241781
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/william-blair-upgrades-sei-investments-stock-rating-on-growth-outlook-93CH-4901227",
+    "title": "William Blair upgrades SEI Investments stock rating on growth outlook",
+    "tokens": [
+      "blair",
+      "growth",
+      "investments",
+      "outlook",
+      "rating",
+      "sei",
+      "stock",
+      "upgrades",
+      "william"
+    ],
+    "ts": 1789468928.0954642
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ip-group-h1-2026-slides-nav-rises-3-as-cash-exits-surge-93CH-4901226",
+    "title": "IP Group H1 2026 slides: NAV rises 3% as cash exits surge",
+    "tokens": [
+      "2026",
+      "cash",
+      "exits",
+      "group",
+      "nav",
+      "rises",
+      "slides",
+      "surge"
+    ],
+    "ts": 1789468935.5833695
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-accesso-lifts-h1-2026-ebitda-50-as-revenue-stalls-93CH-4901225",
+    "title": "Earnings call transcript: accesso lifts H1 2026 EBITDA 50% as revenue stalls",
+    "tokens": [
+      "2026",
+      "accesso",
+      "call",
+      "earnings",
+      "ebitda",
+      "lifts",
+      "revenue",
+      "stalls",
+      "transcript"
+    ],
+    "ts": 1789468942.6833553
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/gsr-iv-acquisition-corp-director-resigns-to-maintain-board-independence-93CH-4901224",
+    "title": "GSR IV Acquisition Corp. director resigns to maintain board independence",
+    "tokens": [
+      "acquisition",
+      "board",
+      "corp",
+      "director",
+      "gsr",
+      "independence",
+      "maintain",
+      "resigns"
+    ],
+    "ts": 1789468949.61461
+  },
+  {
+    "id": "morgan-stanley-direct-lending-msdl-100821111.html",
+    "title": "Morgan Stanley Direct Lending (MSDL) Holds Its Dividend As Profits Slip",
+    "tokens": [
+      "direct",
+      "dividend",
+      "holds",
+      "lending",
+      "morgan",
+      "msdl",
+      "profits",
+      "slip",
+      "stanley"
+    ],
+    "ts": 1789468957.2556498
+  },
+  {
+    "id": "fed-may-hike-again-why-100523628.html",
+    "title": "The Fed May Hike Again. Here’s Why CoreWeave and IREN Face Different Rate Risks",
+    "tokens": [
+      "again",
+      "coreweave",
+      "different",
+      "face",
+      "fed",
+      "here",
+      "hike",
+      "iren",
+      "may",
+      "rate",
+      "risks",
+      "why"
+    ],
+    "ts": 1789468964.413399
+  },
+  {
+    "id": "1472cc9a-239b-4bd4-9044-a6f30837ed41",
+    "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
+    "tokens": [
+      "act",
+      "back",
+      "bitcoin",
+      "clarity",
+      "fade",
+      "gain",
+      "gives",
+      "monday",
+      "odds",
+      "polymarket"
+    ],
+    "ts": 1789468972.7662768
+  },
+  {
+    "id": "80712b0b-5930-44bb-8a29-0044bd1207d2",
+    "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+    "tokens": [
+      "coding",
+      "crypto",
+      "drain",
+      "hacker",
+      "how",
+      "let",
+      "million",
+      "mistake",
+      "simple",
+      "wallet"
+    ],
+    "ts": 1789468980.1176462
   }
 ]

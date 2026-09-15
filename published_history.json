@@ -1,128 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/vicor-stock-surges-on-plans-to-build-two-new-chip-fabs-93CH-4898222",
-    "title": "Vicor stock surges on plans to build two new chip fabs",
-    "tokens": [
-      "build",
-      "chip",
-      "fabs",
-      "plans",
-      "stock",
-      "surges",
-      "two",
-      "vicor"
-    ],
-    "ts": 1789143111.3543837
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/rsted-options-tape-shows-large-call-block-bet-on-nearterm-rally-93CH-4898221",
-    "title": "Ørsted options tape shows large call block bet on near-term rally",
-    "tokens": [
-      "bet",
-      "block",
-      "call",
-      "large",
-      "near",
-      "options",
-      "rally",
-      "rsted",
-      "shows",
-      "tape",
-      "term"
-    ],
-    "ts": 1789143119.6374626
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cindrigo-secures-17m-bridge-loan-amid-funding-delays-93CH-4898220",
-    "title": "Cindrigo secures £1.7m bridge loan amid funding delays",
-    "tokens": [
-      "bridge",
-      "cindrigo",
-      "delays",
-      "funding",
-      "loan",
-      "secures"
-    ],
-    "ts": 1789143127.2577567
-  },
-  {
-    "id": "cognizant-says-ai-creates-jobs-154755236.html",
-    "title": "Cognizant Says AI Creates Jobs, Its Own Restructuring Says Otherwise",
-    "tokens": [
-      "cognizant",
-      "creates",
-      "jobs",
-      "otherwise",
-      "own",
-      "restructuring"
-    ],
-    "ts": 1789143135.869969
-  },
-  {
-    "id": "oilprice-article-45488",
-    "title": "Saudi Arabia’s Critical Oil Bypass Comes Under Threat",
-    "tokens": [
-      "arabia",
-      "bypass",
-      "comes",
-      "critical",
-      "oil",
-      "saudi",
-      "threat",
-      "under"
-    ],
-    "ts": 1789143144.7223678
-  },
-  {
-    "id": "oilprice-article-45484",
-    "title": "Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate",
-    "tokens": [
-      "000",
-      "800",
-      "day",
-      "escalate",
-      "gulf",
-      "hit",
-      "rates",
-      "supertanker",
-      "tensions"
-    ],
-    "ts": 1789143153.9544768
-  },
-  {
-    "id": "oilprice-news-45488",
-    "title": "IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027",
-    "tokens": [
-      "2027",
-      "bpd",
-      "gulf",
-      "iea",
-      "million",
-      "oil",
-      "plunge",
-      "recovery",
-      "sees",
-      "slips",
-      "supply"
-    ],
-    "ts": 1789143162.123028
-  },
-  {
-    "id": "oilprice-news-45484",
-    "title": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf",
-    "tokens": [
-      "assets",
-      "campus",
-      "gigawatt",
-      "gulf",
-      "iran",
-      "rethinks",
-      "targets",
-      "uae"
-    ],
-    "ts": 1789143169.9516191
-  },
-  {
     "id": "WP-MKTW-0005227832",
     "title": "How rising bond yields can wreck some portfolios while pumping up others with cash",
     "tokens": [
@@ -23234,5 +23111,119 @@
       "yield"
     ],
     "ts": 1789460225.6970603
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-cewe-color-stock-rallying-today-93CH-4900966",
+    "title": "Why is Cewe Color stock rallying today?",
+    "tokens": [
+      "cewe",
+      "color",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789461798.0426939
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/patria-private-equity-trust-declares-46p-third-interim-dividend-93CH-4900965",
+    "title": "Patria Private Equity Trust declares 4.6p third interim dividend",
+    "tokens": [
+      "declares",
+      "dividend",
+      "equity",
+      "interim",
+      "patria",
+      "private",
+      "third",
+      "trust"
+    ],
+    "ts": 1789461804.954262
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/citizens-upgrades-radiant-logistics-stock-rating-on-growth-outlook-93CH-4900963",
+    "title": "Citizens upgrades Radiant Logistics stock rating on growth outlook",
+    "tokens": [
+      "citizens",
+      "growth",
+      "logistics",
+      "outlook",
+      "radiant",
+      "rating",
+      "stock",
+      "upgrades"
+    ],
+    "ts": 1789461814.5916646
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/peabody-reports-109bn-turnover-maintains-a3-credit-rating-93CH-4900950",
+    "title": "Peabody reports £1.09bn turnover, maintains A3 credit rating",
+    "tokens": [
+      "09bn",
+      "credit",
+      "maintains",
+      "peabody",
+      "rating",
+      "reports",
+      "turnover"
+    ],
+    "ts": 1789461822.5299158
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/japanese-land-prices-rise-for-a-fifth-year-4900941",
+    "title": "Japanese land prices rise for a fifth year",
+    "tokens": [
+      "fifth",
+      "japanese",
+      "land",
+      "prices",
+      "rise",
+      "year"
+    ],
+    "ts": 1789461829.5039887
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jefferies-initiates-janus-living-stock-with-buy-rating-on-growth-outlook-93CH-4900949",
+    "title": "Jefferies initiates Janus Living stock with buy rating on growth outlook",
+    "tokens": [
+      "buy",
+      "growth",
+      "initiates",
+      "janus",
+      "jefferies",
+      "living",
+      "outlook",
+      "rating",
+      "stock"
+    ],
+    "ts": 1789461836.3693705
+  },
+  {
+    "id": "80-billion-treasury-shift-could-020002705.html",
+    "title": "An $80 Billion Treasury Shift Could Be a Warning for U.S. Bonds",
+    "tokens": [
+      "billion",
+      "bonds",
+      "could",
+      "shift",
+      "treasury",
+      "warning"
+    ],
+    "ts": 1789461843.4051795
+  },
+  {
+    "id": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade",
+    "title": "Solana more than triples transaction size limit with mainnet upgrade",
+    "tokens": [
+      "limit",
+      "mainnet",
+      "more",
+      "size",
+      "solana",
+      "transaction",
+      "triples",
+      "upgrade"
+    ],
+    "ts": 1789461852.8540857
   }
 ]

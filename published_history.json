@@ -1,30 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
-    "title": "US consumer inflation picks up in August",
-    "tokens": [
-      "august",
-      "consumer",
-      "inflation",
-      "picks"
-    ],
-    "ts": 1789132325.0231175
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exelixis-stock-falls-as-fda-extends-zanzalintinib-review-93CH-4897925",
-    "title": "Exelixis stock falls as FDA extends zanzalintinib review",
-    "tokens": [
-      "exelixis",
-      "extends",
-      "falls",
-      "fda",
-      "review",
-      "stock",
-      "zanzalintinib"
-    ],
-    "ts": 1789132333.8015006
-  },
-  {
     "id": "https://www.investing.com/news/company-news/eutelsat-extends-partnership-with-startv-for-mexico-services-93CH-4897916",
     "title": "Eutelsat extends partnership with StarTV for Mexico services",
     "tokens": [
@@ -23224,5 +23199,40 @@
       "toronto"
     ],
     "ts": 1789441934.2848465
+  },
+  {
+    "id": "b646c87b-9678-45ec-b4c8-5cc21b27e848",
+    "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
+    "tokens": [
+      "ahead",
+      "bill",
+      "crypto",
+      "hearing",
+      "house",
+      "later",
+      "panel",
+      "shares",
+      "tax",
+      "week"
+    ],
+    "ts": 1789443036.3931806
+  },
+  {
+    "id": "a93d0f83-f233-4cb1-a697-857b80483621",
+    "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
+    "tokens": [
+      "800",
+      "act",
+      "bitcoin",
+      "clarity",
+      "climb",
+      "nears",
+      "oil",
+      "prices",
+      "senate",
+      "slips",
+      "vote"
+    ],
+    "ts": 1789443044.0831108
   }
 ]

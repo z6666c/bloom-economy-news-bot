@@ -1,67 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/us-equity-funds-record-ninemonth-high-outflows-as-oil-stokes-inflation-fears-4897684",
-    "title": "US equity funds record nine-month high outflows as oil stokes inflation fears",
-    "tokens": [
-      "equity",
-      "fears",
-      "funds",
-      "high",
-      "inflation",
-      "month",
-      "nine",
-      "oil",
-      "outflows",
-      "record",
-      "stokes"
-    ],
-    "ts": 1789126898.640119
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/premarket-movers-oracle-surges-on-ai-growth-acv-auctions-jumps-on-19b-deal-4897616",
-    "title": "Premarket movers: Oracle surges on AI growth, ACV auctions jumps on $1.9B deal",
-    "tokens": [
-      "acv",
-      "auctions",
-      "deal",
-      "growth",
-      "jumps",
-      "movers",
-      "oracle",
-      "premarket",
-      "surges"
-    ],
-    "ts": 1789126908.7768571
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-hooker-furniture-stock-surging-today-93CH-4897671",
-    "title": "Why is Hooker Furniture stock surging today?",
-    "tokens": [
-      "furniture",
-      "hooker",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789126918.1159909
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
-    "title": "Investors brace for possible rate hike at uncertain Fed meeting",
-    "tokens": [
-      "brace",
-      "fed",
-      "hike",
-      "investors",
-      "meeting",
-      "possible",
-      "rate",
-      "uncertain"
-    ],
-    "ts": 1789126926.4789793
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/needham-raises-servicenow-stock-price-target-on-ai-positioning-93CH-4897665",
     "title": "Needham raises ServiceNow stock price target on AI positioning",
     "tokens": [
@@ -23180,5 +23118,69 @@
       "uranium"
     ],
     "ts": 1789431406.8835852
+  },
+  {
+    "id": "WP-MKTW-0005227799",
+    "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?",
+    "tokens": [
+      "birthday",
+      "crazy",
+      "customer",
+      "every",
+      "favorite",
+      "his",
+      "husband",
+      "late",
+      "pay",
+      "restaurant",
+      "want"
+    ],
+    "ts": 1789433133.1318102
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/dolphin-entertainment-ceo-odowd-buys-4816-in-stock-93CH-4900686",
+    "title": "Dolphin entertainment CEO O’Dowd buys $4,816 in stock",
+    "tokens": [
+      "816",
+      "buys",
+      "ceo",
+      "dolphin",
+      "dowd",
+      "entertainment",
+      "stock"
+    ],
+    "ts": 1789433140.7950678
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-alphabet-stock-buys-meta-platforms-93CH-4900685",
+    "title": "Cathie Wood’s ARK sells Alphabet stock, buys Meta Platforms",
+    "tokens": [
+      "alphabet",
+      "ark",
+      "buys",
+      "cathie",
+      "meta",
+      "platforms",
+      "sells",
+      "stock",
+      "wood"
+    ],
+    "ts": 1789433149.2432947
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-slowing-ai-development-fed-anticipation-4900683",
+    "title": "U.S. stock futures flat as markets parse slowing AI development, Fed anticipation",
+    "tokens": [
+      "anticipation",
+      "development",
+      "fed",
+      "flat",
+      "futures",
+      "markets",
+      "parse",
+      "slowing",
+      "stock"
+    ],
+    "ts": 1789433157.14908
   }
 ]

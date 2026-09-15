@@ -1,104 +1,5 @@
 [
   {
-    "id": "https://seekingalpha.com/news/4642293-hunter-biden-blames-liquidity-failure-for-laptop-token-collapse?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Hunter Biden blames liquidity failure for $LAPTOP token collapse",
-    "tokens": [
-      "biden",
-      "blames",
-      "collapse",
-      "failure",
-      "hunter",
-      "laptop",
-      "liquidity",
-      "token"
-    ],
-    "ts": 1789359217.673224
-  },
-  {
-    "id": "https://seekingalpha.com/news/4642292-trump-urges-ukraine-to-halt-strikes-on-russian-diesel-facilities?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Trump urges Ukraine to halt strikes on Russian diesel facilities",
-    "tokens": [
-      "diesel",
-      "facilities",
-      "halt",
-      "russian",
-      "strikes",
-      "trump",
-      "ukraine",
-      "urges"
-    ],
-    "ts": 1789359224.1554234
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/le-comble-reports-mova-residences-by-b-b-italia-reaches-75-sold-in-panama-city-1036541378",
-    "title": "Le Comble Reports MOVA Residences by B&B Italia Reaches 75% Sold in Panama City",
-    "tokens": [
-      "city",
-      "comble",
-      "italia",
-      "mova",
-      "panama",
-      "reaches",
-      "reports",
-      "residences",
-      "sold"
-    ],
-    "ts": 1789359231.0730743
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/amd-vs-orcl-top-stifel-analysts-bullish-on-both-ai-stocks-but-see-more-upside-in-one-1036541415",
-    "title": "AMD vs. ORCL: Top Stifel Analysts Bullish on Both AI Stocks, But See More Upside in One",
-    "tokens": [
-      "amd",
-      "analysts",
-      "both",
-      "bullish",
-      "more",
-      "one",
-      "orcl",
-      "see",
-      "stifel",
-      "stocks",
-      "top",
-      "upside"
-    ],
-    "ts": 1789359237.603656
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/movies-series-launches-expanded-arabic-first-entertainment-discovery-platform-for-egypt-and-mena-1036541371",
-    "title": "Movies & Series Launches Expanded Arabic-First Entertainment Discovery Platform for Egypt and MENA",
-    "tokens": [
-      "arabic",
-      "discovery",
-      "egypt",
-      "entertainment",
-      "expanded",
-      "first",
-      "launches",
-      "mena",
-      "movies",
-      "platform",
-      "series"
-    ],
-    "ts": 1789359243.885758
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/bassel-haddad-assumes-leadership-of-asmpt-as-group-chief-executive-officer-1036541372",
-    "title": "Bassel Haddad Assumes Leadership of ASMPT as Group Chief Executive Officer",
-    "tokens": [
-      "asmpt",
-      "assumes",
-      "bassel",
-      "chief",
-      "executive",
-      "group",
-      "haddad",
-      "leadership",
-      "officer"
-    ],
-    "ts": 1789359250.2184727
-  },
-  {
     "id": "oilprice-article-45493",
     "title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles",
     "tokens": [
@@ -22972,5 +22873,101 @@
       "yields"
     ],
     "ts": 1789514681.9576683
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tmx-group-prices-c11-billion-debt-offering-in-three-series-93CH-4902753",
+    "title": "TMX Group prices C$1.1 billion debt offering in three series",
+    "tokens": [
+      "billion",
+      "debt",
+      "group",
+      "offering",
+      "prices",
+      "series",
+      "three",
+      "tmx"
+    ],
+    "ts": 1789515515.0083125
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pagaya-cfo-jonathan-dobres-sells-18000-of-pgy-shares-93CH-4902752",
+    "title": "Pagaya CFO Jonathan Dobres sells $18,000 of PGY shares",
+    "tokens": [
+      "000",
+      "cfo",
+      "dobres",
+      "jonathan",
+      "pagaya",
+      "pgy",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789515522.2186856
+  },
+  {
+    "id": "cloud-infrastructure-strategy-keep-taking-152133820.html",
+    "title": "How Cloud Infrastructure Strategy Can Keep Taking Oracle Stock Even Higher",
+    "tokens": [
+      "can",
+      "cloud",
+      "even",
+      "higher",
+      "how",
+      "infrastructure",
+      "keep",
+      "oracle",
+      "stock",
+      "strategy",
+      "taking"
+    ],
+    "ts": 1789515529.1765628
+  },
+  {
+    "id": "tractor-supplys-stock-performance-compared-152555841.html",
+    "title": "How Is Tractor Supply's Stock Performance Compared to Other Specialty Retail Stocks?",
+    "tokens": [
+      "compared",
+      "how",
+      "other",
+      "performance",
+      "retail",
+      "specialty",
+      "stock",
+      "stocks",
+      "supply",
+      "tractor"
+    ],
+    "ts": 1789515536.3102899
+  },
+  {
+    "id": "crude-prices-surge-saudi-arabia-153150265.html",
+    "title": "Crude Prices Surge as Saudi Arabia Closes its East-West Pipeline",
+    "tokens": [
+      "arabia",
+      "closes",
+      "crude",
+      "east",
+      "pipeline",
+      "prices",
+      "saudi",
+      "surge",
+      "west"
+    ],
+    "ts": 1789515543.723244
+  },
+  {
+    "id": "flood-ai-debt-poised-crush-153142223.html",
+    "title": "The Flood of AI Debt Is Poised to Crush Small-Caps. Here’s Why.",
+    "tokens": [
+      "caps",
+      "crush",
+      "debt",
+      "flood",
+      "here",
+      "poised",
+      "small",
+      "why"
+    ],
+    "ts": 1789515551.1953502
   }
 ]

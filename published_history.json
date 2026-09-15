@@ -1,186 +1,5 @@
 [
   {
-    "id": "oilprice-article-45475",
-    "title": "The Race to Solve Nuclear Energy’s Biggest Problem",
-    "tokens": [
-      "biggest",
-      "energy",
-      "nuclear",
-      "problem",
-      "race",
-      "solve"
-    ],
-    "ts": 1789240119.323841
-  },
-  {
-    "id": "zscaler-ceo-highlights-ai-security-190159120.html",
-    "title": "Zscaler CEO Highlights AI Security Surge, Zero-Trust Momentum at Citi Conference",
-    "tokens": [
-      "ceo",
-      "citi",
-      "conference",
-      "highlights",
-      "momentum",
-      "security",
-      "surge",
-      "trust",
-      "zero",
-      "zscaler"
-    ],
-    "ts": 1789241001.0972714
-  },
-  {
-    "id": "investing-vanguard-p-500-etf-192000849.html",
-    "title": "Investing in the Vanguard S&P 500 ETF (VOO)? Beware of This 1 Sneaky Risk.",
-    "tokens": [
-      "500",
-      "beware",
-      "etf",
-      "investing",
-      "risk",
-      "sneaky",
-      "vanguard",
-      "voo"
-    ],
-    "ts": 1789241885.105622
-  },
-  {
-    "id": "ringcentral-chief-accounting-officer-sells-192501820.html",
-    "title": "RingCentral Chief Accounting Officer Sells 4,568 Shares",
-    "tokens": [
-      "568",
-      "accounting",
-      "chief",
-      "officer",
-      "ringcentral",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789242632.641883
-  },
-  {
-    "id": "why-xrp-dropping-today-194553834.html",
-    "title": "Why Is XRP Dropping Today?",
-    "tokens": [
-      "dropping",
-      "today",
-      "why",
-      "xrp"
-    ],
-    "ts": 1789243810.6184294
-  },
-  {
-    "id": "toast-stock-buy-record-9-195000742.html",
-    "title": "Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?",
-    "tokens": [
-      "500",
-      "buy",
-      "quarter",
-      "record",
-      "restaurant",
-      "stock",
-      "toast"
-    ],
-    "ts": 1789244817.4775434
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/48hour-regn-investor-deadline-regeneron-pharmaceuticals-inc.-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-1036541207",
-    "title": "48-HOUR REGN INVESTOR DEADLINE: Regeneron Pharmaceuticals, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
-    "tokens": [
-      "action",
-      "class",
-      "deadline",
-      "hour",
-      "inc",
-      "investor",
-      "investors",
-      "lawsuit",
-      "lead",
-      "losses",
-      "opportunity",
-      "pharmaceuticals",
-      "regeneron",
-      "regn",
-      "substantial"
-    ],
-    "ts": 1789244825.1794102
-  },
-  {
-    "id": "https://seekingalpha.com/news/4642267-key-deals-this-week-meta-adi-bsp-aapl-and-more?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Key deals this week: META, ADI, BSP, AAPL, and more",
-    "tokens": [
-      "aapl",
-      "adi",
-      "bsp",
-      "deals",
-      "key",
-      "meta",
-      "more",
-      "week"
-    ],
-    "ts": 1789244832.088539
-  },
-  {
-    "id": "https://www.businessinsider.com/flock-backlash-license-plate-readers-home-depot-lowes-influencers-campaign-2026-9",
-    "title": "Influencers are urging Home Depot and Lowe's to drop Flock",
-    "tokens": [
-      "depot",
-      "drop",
-      "flock",
-      "home",
-      "influencers",
-      "lowe",
-      "urging"
-    ],
-    "ts": 1789244839.2827723
-  },
-  {
-    "id": "https://www.businessinsider.com/ai-slow-down-dario-amodei-sam-altman-elon-musk-2026-9",
-    "title": "AI leaders rally around calls to slow things down",
-    "tokens": [
-      "around",
-      "calls",
-      "leaders",
-      "rally",
-      "slow",
-      "things"
-    ],
-    "ts": 1789244846.1734939
-  },
-  {
-    "id": "https://seekingalpha.com/news/4642197-cbre-bxp-among-real-estate-losers-host-hotels-resorts-fermi-in-gainers?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "CBRE, BXP among real estate losers; Host Hotels & Resorts, Fermi in gainers",
-    "tokens": [
-      "among",
-      "bxp",
-      "cbre",
-      "estate",
-      "fermi",
-      "gainers",
-      "host",
-      "hotels",
-      "losers",
-      "real",
-      "resorts"
-    ],
-    "ts": 1789244853.4635592
-  },
-  {
-    "id": "https://seekingalpha.com/news/4642241-insider-trades-nvidia-tesla-uber-among-notable-names?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Insider trades: Nvidia, Tesla, Uber among notable names",
-    "tokens": [
-      "among",
-      "insider",
-      "names",
-      "notable",
-      "nvidia",
-      "tesla",
-      "trades",
-      "uber"
-    ],
-    "ts": 1789244860.4944293
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/newsout-the-place-for-pubcos-tm-expands-its-1-2-million-subscriber-youtube-channel-with-new-tv-commercials-and-varticles-tm-columns-1036541188",
     "title": "NewsOut, the \"Place for Pubcos(TM)\" Expands Its 1.2 Million-Subscriber YouTube Channel With New TV Commercials and Varticles(TM) Columns",
     "tokens": [
@@ -23035,5 +22854,204 @@
       "property"
     ],
     "ts": 1789504961.8606746
+  },
+  {
+    "id": "WP-MKTW-0005235676",
+    "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
+    "tokens": [
+      "could",
+      "federal",
+      "hike",
+      "money",
+      "rare",
+      "rate",
+      "reserve",
+      "retirement",
+      "why",
+      "win",
+      "your"
+    ],
+    "ts": 1789505591.4937463
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/fg-nexus-reports-continued-progress-under-common-and-preferred-stock-repurchase-programs-1036548397",
+    "title": "FG Nexus Reports Continued Progress Under Common and Preferred Stock Repurchase Programs",
+    "tokens": [
+      "common",
+      "continued",
+      "nexus",
+      "preferred",
+      "programs",
+      "progress",
+      "reports",
+      "repurchase",
+      "stock",
+      "under"
+    ],
+    "ts": 1789505600.5210528
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/canon-u-s-a-inc-expands-large-format-printing-portfolio-with-advancements-to-imageprograf-tx-and-tm-series-1036548399",
+    "title": "Canon U.S.A., Inc. Expands Large Format Printing Portfolio with Advancements to imagePROGRAF TX and TM Series",
+    "tokens": [
+      "advancements",
+      "canon",
+      "expands",
+      "format",
+      "imageprograf",
+      "inc",
+      "large",
+      "portfolio",
+      "printing",
+      "series"
+    ],
+    "ts": 1789505607.9142234
+  },
+  {
+    "id": "https://seekingalpha.com/news/4643178-expand-energy-prices-500m-of-5650-senior-notes-due-2031?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Expand Energy prices $500M of 5.650% senior notes due 2031",
+    "tokens": [
+      "2031",
+      "500m",
+      "650",
+      "due",
+      "energy",
+      "expand",
+      "notes",
+      "prices",
+      "senior"
+    ],
+    "ts": 1789505615.194897
+  },
+  {
+    "id": "https://seekingalpha.com/news/4643185-evolution-petroleum-corporation-non-gaap-eps-of-0_02-misses-by-0_03-revenue-of-24_21m-beats?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Evolution Petroleum Corporation Non-GAAP EPS of -$0.02 misses by $0.03, revenue of $24.21M beats by $0.97M",
+    "tokens": [
+      "21m",
+      "97m",
+      "beats",
+      "corporation",
+      "eps",
+      "evolution",
+      "gaap",
+      "misses",
+      "non",
+      "petroleum",
+      "revenue"
+    ],
+    "ts": 1789505622.3977885
+  },
+  {
+    "id": "https://seekingalpha.com/news/4643184-baosheng-media-receives-nasdaq-bid-price-deficiency-notice-shares-down?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Baosheng Media receives Nasdaq bid-price deficiency notice; shares down",
+    "tokens": [
+      "baosheng",
+      "bid",
+      "deficiency",
+      "media",
+      "nasdaq",
+      "notice",
+      "price",
+      "receives",
+      "shares"
+    ],
+    "ts": 1789505629.0145264
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/evolution-petroleum-reports-fiscal-fourth-quarter-and-full-year-fiscal-2026-results-1036548398",
+    "title": "Evolution Petroleum Reports Fiscal Fourth Quarter and Full Year Fiscal 2026 Results",
+    "tokens": [
+      "2026",
+      "evolution",
+      "fiscal",
+      "fourth",
+      "full",
+      "petroleum",
+      "quarter",
+      "reports",
+      "results",
+      "year"
+    ],
+    "ts": 1789505636.6604958
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/royalty-pharma-announces-7-5-million-gift-to-blood-cancer-united-to-expand-therapy-acceleration-program-1036548390",
+    "title": "Royalty Pharma announces $7.5 million gift to Blood Cancer United to expand Therapy Acceleration Program",
+    "tokens": [
+      "acceleration",
+      "announces",
+      "blood",
+      "cancer",
+      "expand",
+      "gift",
+      "million",
+      "pharma",
+      "program",
+      "royalty",
+      "therapy",
+      "united"
+    ],
+    "ts": 1789505643.6513004
+  },
+  {
+    "id": "https://seekingalpha.com/news/4643183-top-ships-gaap-eps-of-0_61-revenue-of-25_48m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "TOP Ships GAAP EPS of $0.61, revenue of $25.48M",
+    "tokens": [
+      "48m",
+      "eps",
+      "gaap",
+      "revenue",
+      "ships",
+      "top"
+    ],
+    "ts": 1789505651.2829914
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/flag-ship-acquisition-corporation-announces-definitive-business-combination-agreement-with-bluechip-co-holdings-1036548374",
+    "title": "Flag Ship Acquisition Corporation Announces Definitive Business Combination Agreement with Bluechip & Co. Holdings",
+    "tokens": [
+      "acquisition",
+      "agreement",
+      "announces",
+      "bluechip",
+      "business",
+      "combination",
+      "corporation",
+      "definitive",
+      "flag",
+      "holdings",
+      "ship"
+    ],
+    "ts": 1789505658.404895
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/ryman-hospitality-properties-inc-declares-third-quarter-dividend-1036548376",
+    "title": "Ryman Hospitality Properties, Inc. Declares Third Quarter Dividend",
+    "tokens": [
+      "declares",
+      "dividend",
+      "hospitality",
+      "inc",
+      "properties",
+      "quarter",
+      "ryman",
+      "third"
+    ],
+    "ts": 1789505665.62976
+  },
+  {
+    "id": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate",
+    "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
+    "tokens": [
+      "act",
+      "advance",
+      "clarity",
+      "crypto",
+      "fails",
+      "senate",
+      "slide",
+      "stocks"
+    ],
+    "ts": 1789505670.3943536
   }
 ]

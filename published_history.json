@@ -1,156 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/starlab-opens-microgravity-research-proposals-for-iss-flights-93CH-4897798",
-    "title": "Starlab opens microgravity research proposals for ISS flights",
-    "tokens": [
-      "flights",
-      "iss",
-      "microgravity",
-      "opens",
-      "proposals",
-      "research",
-      "starlab"
-    ],
-    "ts": 1789128960.8203478
-  },
-  {
-    "id": "cloudflare-net-soars-10-5-020021013.html",
-    "title": "Cloudflare (NET) Soars 10.5% on Upbeat Outlook, Says Opportunities ‘Larger’ Than Business",
-    "tokens": [
-      "business",
-      "cloudflare",
-      "larger",
-      "net",
-      "opportunities",
-      "outlook",
-      "soars",
-      "upbeat"
-    ],
-    "ts": 1789128968.5795815
-  },
-  {
-    "id": "https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august",
-    "title": "Robinhood’s crypto volume increases 61% in August, still down 38% YoY",
-    "tokens": [
-      "august",
-      "crypto",
-      "increases",
-      "robinhood",
-      "still",
-      "volume",
-      "yoy"
-    ],
-    "ts": 1789128977.8021739
-  },
-  {
-    "id": "oilprice-article-45481",
-    "title": "Houthis Advance on Bab al-Mandeb as Saudi Oil Route Comes Under Threat",
-    "tokens": [
-      "advance",
-      "bab",
-      "comes",
-      "houthis",
-      "mandeb",
-      "oil",
-      "route",
-      "saudi",
-      "threat",
-      "under"
-    ],
-    "ts": 1789130204.0120595
-  },
-  {
-    "id": "oilprice-article-45480",
-    "title": "Vostok Oil: One Tanker, Four Trillion Rubles",
-    "tokens": [
-      "four",
-      "oil",
-      "one",
-      "rubles",
-      "tanker",
-      "trillion",
-      "vostok"
-    ],
-    "ts": 1789130213.5933313
-  },
-  {
-    "id": "oilprice-article-45478",
-    "title": "WTI Breaks $100 as Middle East Supply Crisis Deepens",
-    "tokens": [
-      "100",
-      "breaks",
-      "crisis",
-      "deepens",
-      "east",
-      "middle",
-      "supply",
-      "wti"
-    ],
-    "ts": 1789130221.8474197
-  },
-  {
-    "id": "oilprice-news-45481",
-    "title": "Energy Aspects: Oil Market Has Reached an \"Inflection Point\"",
-    "tokens": [
-      "aspects",
-      "energy",
-      "inflection",
-      "market",
-      "oil",
-      "point",
-      "reached"
-    ],
-    "ts": 1789130229.7579052
-  },
-  {
-    "id": "oilprice-news-45480",
-    "title": "China's Crude Imports Set to Hold at 7.2 Million Bpd in September",
-    "tokens": [
-      "bpd",
-      "china",
-      "crude",
-      "hold",
-      "imports",
-      "million",
-      "september",
-      "set"
-    ],
-    "ts": 1789130237.9785943
-  },
-  {
-    "id": "oilprice-news-45478",
-    "title": "Hormuz Shipping Traffic Plunges as Middle East War Escalates",
-    "tokens": [
-      "east",
-      "escalates",
-      "hormuz",
-      "middle",
-      "plunges",
-      "shipping",
-      "traffic",
-      "war"
-    ],
-    "ts": 1789130246.3709013
-  },
-  {
-    "id": "1c1e88d1-3a35-4529-972e-baa4a2d1d377",
-    "title": "Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike",
-    "tokens": [
-      "august",
-      "core",
-      "cpi",
-      "faster",
-      "fed",
-      "forecast",
-      "hike",
-      "possible",
-      "rate",
-      "rose",
-      "setting"
-    ],
-    "ts": 1789130254.9459844
-  },
-  {
     "id": "https://www.investing.com/news/company-news/draganfly-wins-c2425m-canadian-defense-drone-contract-93CH-4897891",
     "title": "Draganfly wins C$24.25M Canadian defense drone contract",
     "tokens": [
@@ -23220,5 +23069,155 @@
       "worth"
     ],
     "ts": 1789438421.628652
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/chinese-industrial-production-up-more-than-expected-in-august-4900740",
+    "title": "Chinese industrial production up more than expected in August",
+    "tokens": [
+      "august",
+      "chinese",
+      "expected",
+      "industrial",
+      "more",
+      "production"
+    ],
+    "ts": 1789439462.1429374
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/venezuelas-interim-president-rodriguez-plans-un-visit-bloomberg-news-reports-4900739",
+    "title": "Venezuela’s interim president Rodriguez plans UN visit, Bloomberg News reports",
+    "tokens": [
+      "bloomberg",
+      "interim",
+      "news",
+      "plans",
+      "president",
+      "reports",
+      "rodriguez",
+      "venezuela",
+      "visit"
+    ],
+    "ts": 1789439469.4878783
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/chime-financial-director-shawn-carolan-sells-192m-in-shares-93CH-4900738",
+    "title": "Chime financial director Shawn Carolan sells $19.2m in shares",
+    "tokens": [
+      "carolan",
+      "chime",
+      "director",
+      "financial",
+      "sells",
+      "shares",
+      "shawn"
+    ],
+    "ts": 1789439477.154822
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/virnetx-ceo-kendall-larsen-sells-232292-in-common-stock-93CH-4900737",
+    "title": "VirnetX CEO Kendall Larsen sells $232,292 in common stock",
+    "tokens": [
+      "232",
+      "292",
+      "ceo",
+      "common",
+      "kendall",
+      "larsen",
+      "sells",
+      "stock",
+      "virnetx"
+    ],
+    "ts": 1789439484.0946417
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ani-pharmaceuticals-director-thoma-sells-71530-in-shares-93CH-4900735",
+    "title": "Ani Pharmaceuticals director Thoma sells $71,530 in shares",
+    "tokens": [
+      "530",
+      "ani",
+      "director",
+      "pharmaceuticals",
+      "sells",
+      "shares",
+      "thoma"
+    ],
+    "ts": 1789439491.3521817
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/procore-chairman-craig-f-courtemanche-jr-sells-3m-in-shares-93CH-4900736",
+    "title": "Procore chairman Craig F. Courtemanche Jr. sells $3m in shares",
+    "tokens": [
+      "chairman",
+      "courtemanche",
+      "craig",
+      "procore",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789439498.518456
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
+    "title": "China’s factory output growth quickens in August, retail sales slow",
+    "tokens": [
+      "august",
+      "china",
+      "factory",
+      "growth",
+      "output",
+      "quickens",
+      "retail",
+      "sales",
+      "slow"
+    ],
+    "ts": 1789439506.0524561
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/storm-exploration-closes-c32m-private-placement-financing-93CH-4900733",
+    "title": "Storm Exploration closes C$3.2M private placement financing",
+    "tokens": [
+      "closes",
+      "exploration",
+      "financing",
+      "placement",
+      "private",
+      "storm"
+    ],
+    "ts": 1789439513.2047777
+  },
+  {
+    "id": "jim-cramer-suggests-waiting-lower-165503524.html",
+    "title": "Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM)",
+    "tokens": [
+      "aerospace",
+      "cramer",
+      "entry",
+      "howmet",
+      "hwm",
+      "jim",
+      "lower",
+      "suggests",
+      "waiting"
+    ],
+    "ts": 1789439521.0765927
+  },
+  {
+    "id": "amd-intel-shared-ai-instructions-165917161.html",
+    "title": "AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
+    "tokens": [
+      "amd",
+      "both",
+      "can",
+      "cooperation",
+      "gcc",
+      "instructions",
+      "intel",
+      "reach",
+      "shared",
+      "software",
+      "stocks",
+      "strengthen"
+    ],
+    "ts": 1789439529.3182883
   }
 ]

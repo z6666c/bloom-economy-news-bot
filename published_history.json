@@ -1,62 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-ovid-therapeutics-price-target-to-5-on-pipeline-progress-93CH-4897735",
-    "title": "H.C. Wainwright raises Ovid Therapeutics price target to $5 on pipeline progress",
-    "tokens": [
-      "ovid",
-      "pipeline",
-      "price",
-      "progress",
-      "raises",
-      "target",
-      "therapeutics",
-      "wainwright"
-    ],
-    "ts": 1789127604.3973014
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-tempus-ai-stock-price-target-to-66-93CH-4897734",
-    "title": "H.C. Wainwright raises Tempus AI stock price target to $66",
-    "tokens": [
-      "price",
-      "raises",
-      "stock",
-      "target",
-      "tempus",
-      "wainwright"
-    ],
-    "ts": 1789127612.3743072
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-nears-100-as-fresh-middle-east-strikes-raise-supply-risks-4897733",
-    "title": "Oil nears $100 as fresh Middle East strikes raise supply risks",
-    "tokens": [
-      "100",
-      "east",
-      "fresh",
-      "middle",
-      "nears",
-      "oil",
-      "raise",
-      "risks",
-      "strikes",
-      "supply"
-    ],
-    "ts": 1789127622.0929158
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-gamestop-stock-rallying-today-93CH-4897732",
-    "title": "Why is GameStop stock rallying today?",
-    "tokens": [
-      "gamestop",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789127626.1080842
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/serina-therapeutics-at-hc-wainwright-conference-parkinsons-push-advances-93CH-4897731",
     "title": "Serina Therapeutics at H.C. Wainwright conference: Parkinson’s push advances",
     "tokens": [
@@ -23197,5 +23140,71 @@
       "push"
     ],
     "ts": 1789434741.002962
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/waymo-plans-tokyo-robotaxi-service-in-2027-with-go-nihon-kotsu-4900713",
+    "title": "Waymo plans Tokyo robotaxi service in 2027 with GO, Nihon Kotsu",
+    "tokens": [
+      "2027",
+      "kotsu",
+      "nihon",
+      "plans",
+      "robotaxi",
+      "service",
+      "tokyo",
+      "waymo"
+    ],
+    "ts": 1789435818.9874914
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cpi-card-group-chairman-riley-sanford-buys-299989-in-shares-93CH-4900711",
+    "title": "CPI Card Group chairman Riley Sanford buys $299,989 in shares",
+    "tokens": [
+      "299",
+      "989",
+      "buys",
+      "card",
+      "chairman",
+      "cpi",
+      "group",
+      "riley",
+      "sanford",
+      "shares"
+    ],
+    "ts": 1789435826.2986286
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cpi-card-group-director-mallela-ravi-buys-21500-in-common-stock-93CH-4900710",
+    "title": "CPI Card Group director Mallela Ravi buys $21,500 in common stock",
+    "tokens": [
+      "500",
+      "buys",
+      "card",
+      "common",
+      "cpi",
+      "director",
+      "group",
+      "mallela",
+      "ravi",
+      "stock"
+    ],
+    "ts": 1789435833.822141
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cpi-card-group-director-nicholas-peters-buys-250002-in-stock-93CH-4900709",
+    "title": "CPI Card Group director Nicholas Peters buys $250,002 in stock",
+    "tokens": [
+      "002",
+      "250",
+      "buys",
+      "card",
+      "cpi",
+      "director",
+      "group",
+      "nicholas",
+      "peters",
+      "stock"
+    ],
+    "ts": 1789435840.7082362
   }
 ]

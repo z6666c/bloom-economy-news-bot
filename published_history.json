@@ -1,160 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-oracle-stock-rating-on-solid-execution-93CH-4898129",
-    "title": "Bernstein reiterates Oracle stock rating on solid execution",
-    "tokens": [
-      "bernstein",
-      "execution",
-      "oracle",
-      "rating",
-      "reiterates",
-      "solid",
-      "stock"
-    ],
-    "ts": 1789137158.7606964
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-hewlett-packard-enterprise-stock-surging-today-93CH-4898128",
-    "title": "Why is Hewlett Packard Enterprise stock surging today?",
-    "tokens": [
-      "enterprise",
-      "hewlett",
-      "packard",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789137167.074823
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/dell-stock-reaches-alltime-high-at-56319-usd-93CH-4898126",
-    "title": "Dell stock reaches all-time high at 563.19 USD",
-    "tokens": [
-      "563",
-      "all",
-      "dell",
-      "high",
-      "reaches",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1789137175.7873547
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
-    "title": "Bitcoin rebounds to near $79k after in-line inflation report",
-    "tokens": [
-      "79k",
-      "bitcoin",
-      "inflation",
-      "line",
-      "near",
-      "rebounds",
-      "report"
-    ],
-    "ts": 1789137184.3222668
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-hp-stock-surging-today-93CH-4898125",
-    "title": "Why is HP stock surging today?",
-    "tokens": [
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789137188.3366013
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak-4898115",
-    "title": "US declares end of largest recorded cyclosporiasis outbreak",
-    "tokens": [
-      "cyclosporiasis",
-      "declares",
-      "end",
-      "largest",
-      "outbreak",
-      "recorded"
-    ],
-    "ts": 1789137192.3935661
-  },
-  {
-    "id": "wall-st-futures-recover-oil-095547409.html",
-    "title": "Wall St climbs after August inflation report, oil price slide",
-    "tokens": [
-      "august",
-      "climbs",
-      "inflation",
-      "oil",
-      "price",
-      "report",
-      "slide",
-      "wall"
-    ],
-    "ts": 1789137200.6756585
-  },
-  {
-    "id": "bitwise-closes-dogecoin-etf-10-135600346.html",
-    "title": "Bitwise Closes Dogecoin ETF After 10 Months",
-    "tokens": [
-      "bitwise",
-      "closes",
-      "dogecoin",
-      "etf",
-      "months"
-    ],
-    "ts": 1789137208.881908
-  },
-  {
-    "id": "WP-MKTW-0005219950",
-    "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
-    "tokens": [
-      "can",
-      "cash",
-      "executor",
-      "inherited",
-      "ira",
-      "just",
-      "siblings",
-      "two"
-    ],
-    "ts": 1789138462.0569057
-  },
-  {
-    "id": "tech-stocks-today-oracle-stock-wavers-after-earnings-beat-ai-in-focus-125343211.html",
-    "title": "Tech stocks today: Oracle stock wavers after earnings beat; AI in focus",
-    "tokens": [
-      "beat",
-      "earnings",
-      "focus",
-      "oracle",
-      "stock",
-      "stocks",
-      "tech",
-      "today",
-      "wavers"
-    ],
-    "ts": 1789138466.4770873
-  },
-  {
-    "id": "fed-rate-hike-odds-surge-to-90-on-monthly-jump-in-core-prices-131206510.html",
-    "title": "Fed rate hike odds surge to 90% on monthly jump in core prices",
-    "tokens": [
-      "core",
-      "fed",
-      "hike",
-      "jump",
-      "monthly",
-      "odds",
-      "prices",
-      "rate",
-      "surge"
-    ],
-    "ts": 1789138472.6468322
-  },
-  {
     "id": "elon-musks-tunnel-company-just-143000144.html",
     "title": "Elon Musk's tunnel company just got a fresh $3 billion injection, thanks to the United Arab Emirates",
     "tokens": [
@@ -23250,5 +23095,167 @@
       "third"
     ],
     "ts": 1789454376.9727132
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/imaging-biometrics-secures-us-healthcare-system-contract-93CH-4900857",
+    "title": "Imaging Biometrics secures U.S. healthcare system contract",
+    "tokens": [
+      "biometrics",
+      "contract",
+      "healthcare",
+      "imaging",
+      "secures",
+      "system"
+    ],
+    "ts": 1789455458.2747548
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/uk-wages-grow-by-35-in-three-months-to-july-4900812",
+    "title": "UK jobs market stays soft before BoE rate call",
+    "tokens": [
+      "before",
+      "boe",
+      "call",
+      "jobs",
+      "market",
+      "rate",
+      "soft",
+      "stays"
+    ],
+    "ts": 1789455465.5198865
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sylvania-platinum-launches-15m-share-buyback-program-93CH-4900856",
+    "title": "Sylvania Platinum launches $1.5m share buyback program",
+    "tokens": [
+      "buyback",
+      "launches",
+      "platinum",
+      "program",
+      "share",
+      "sylvania"
+    ],
+    "ts": 1789455473.811766
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/thalia-therapeutics-advances-rna-therapy-programs-93CH-4900854",
+    "title": "Thalia Therapeutics advances RNA therapy programs",
+    "tokens": [
+      "advances",
+      "programs",
+      "rna",
+      "thalia",
+      "therapeutics",
+      "therapy"
+    ],
+    "ts": 1789455480.716257
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/skysail-strategies-outperforms-wall-streets-30year-risk-standard-with-proprietary-ai-inference-model-4900852",
+    "title": "SkySail Strategies Outperforms Wall Street’s 30-Year Risk Standard With Proprietary AI Inference Model",
+    "tokens": [
+      "inference",
+      "model",
+      "outperforms",
+      "proprietary",
+      "risk",
+      "skysail",
+      "standard",
+      "strategies",
+      "street",
+      "wall",
+      "year"
+    ],
+    "ts": 1789455487.8183901
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-088-4900851",
+    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.88%",
+    "tokens": [
+      "200",
+      "asx",
+      "australia",
+      "close",
+      "lower",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1789455491.8303485
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bmo-upgrades-enbridge-stock-rating-on-quality-growth-visibility-93CH-4900850",
+    "title": "BMO upgrades Enbridge stock rating on quality, growth visibility",
+    "tokens": [
+      "bmo",
+      "enbridge",
+      "growth",
+      "quality",
+      "rating",
+      "stock",
+      "upgrades",
+      "visibility"
+    ],
+    "ts": 1789455494.8609
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/guggenheim-initiates-mercury-systems-stock-with-buy-on-defense-trends-93CH-4900849",
+    "title": "Guggenheim initiates Mercury Systems stock with buy on defense trends",
+    "tokens": [
+      "buy",
+      "defense",
+      "guggenheim",
+      "initiates",
+      "mercury",
+      "stock",
+      "systems",
+      "trends"
+    ],
+    "ts": 1789455501.8336117
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/guggenheim-initiates-howmet-aerospace-stock-with-buy-rating-93CH-4900848",
+    "title": "Guggenheim initiates Howmet Aerospace stock with buy rating",
+    "tokens": [
+      "aerospace",
+      "buy",
+      "guggenheim",
+      "howmet",
+      "initiates",
+      "rating",
+      "stock"
+    ],
+    "ts": 1789455508.7521555
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stephens-initiates-netskope-stock-coverage-with-overweight-rating-93CH-4900847",
+    "title": "Stephens initiates Netskope stock coverage with overweight rating",
+    "tokens": [
+      "coverage",
+      "initiates",
+      "netskope",
+      "overweight",
+      "rating",
+      "stephens",
+      "stock"
+    ],
+    "ts": 1789455515.782892
+  },
+  {
+    "id": "boston-scientific-bsx-didn-t-193111827.html",
+    "title": "Boston Scientific (BSX) Didn’t Miss on Demand or Devices. A Cyberattack Just Broke Its Guidance.",
+    "tokens": [
+      "boston",
+      "broke",
+      "bsx",
+      "cyberattack",
+      "demand",
+      "devices",
+      "didn",
+      "guidance",
+      "just",
+      "miss",
+      "scientific"
+    ],
+    "ts": 1789455523.7968838
   }
 ]

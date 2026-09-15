@@ -1,93 +1,5 @@
 [
   {
-    "id": "oilprice-news-45483",
-    "title": "UK Business Calls For Scrapping Taxes on Electricity Bills",
-    "tokens": [
-      "bills",
-      "business",
-      "calls",
-      "electricity",
-      "scrapping",
-      "taxes"
-    ],
-    "ts": 1789133416.0149755
-  },
-  {
-    "id": "oilprice-article-45483",
-    "title": "Jeff Currie Sees $5 Gasoline Before Midterms",
-    "tokens": [
-      "before",
-      "currie",
-      "gasoline",
-      "jeff",
-      "midterms",
-      "sees"
-    ],
-    "ts": 1789133424.6929286
-  },
-  {
-    "id": "WP-MKTW-0005227287",
-    "title": "I went to a dinner party, brought an appetizer and wine — and the host charged me $60. Should I cut ties with her?",
-    "tokens": [
-      "appetizer",
-      "brought",
-      "charged",
-      "cut",
-      "dinner",
-      "her",
-      "host",
-      "party",
-      "should",
-      "ties",
-      "went",
-      "wine"
-    ],
-    "ts": 1789134306.427317
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/matson-stock-hits-alltime-high-at-23089-usd-93CH-4898059",
-    "title": "Matson stock hits all-time high at 230.89 USD",
-    "tokens": [
-      "230",
-      "all",
-      "high",
-      "hits",
-      "matson",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1789134315.4789221
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tpfg-h1-2026-slides-record-results-amid-subdued-uk-property-market-93CH-4898058",
-    "title": "TPFG H1 2026 slides: record results amid subdued UK property market",
-    "tokens": [
-      "2026",
-      "market",
-      "property",
-      "record",
-      "results",
-      "slides",
-      "subdued",
-      "tpfg"
-    ],
-    "ts": 1789134324.4234073
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/flexsteel-appoints-anand-kangala-to-board-of-directors-93CH-4898055",
-    "title": "Flexsteel appoints Anand Kangala to board of directors",
-    "tokens": [
-      "anand",
-      "appoints",
-      "board",
-      "directors",
-      "flexsteel",
-      "kangala"
-    ],
-    "ts": 1789134333.3119035
-  },
-  {
     "id": "https://www.investing.com/news/company-news/nordic-american-tankers-stock-hits-52week-high-at-734-usd-93CH-4898054",
     "title": "Nordic American Tankers stock hits 52-week high at 7.34 USD",
     "tokens": [
@@ -23236,5 +23148,103 @@
       "years"
     ],
     "ts": 1789447666.9763908
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/syngenta-files-for-hong-kong-ipo-that-could-raise-5-billion-bloomberg-news-reports-4900772",
+    "title": "Syngenta files for Hong Kong IPO that could raise $5 billion, Bloomberg News reports",
+    "tokens": [
+      "billion",
+      "bloomberg",
+      "could",
+      "files",
+      "hong",
+      "ipo",
+      "kong",
+      "news",
+      "raise",
+      "reports",
+      "syngenta"
+    ],
+    "ts": 1789449053.3657587
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/morning-bid-trump-says-hit-that-brake-no-not-that-one-4900771",
+    "title": "Morning Bid: Trump says hit that brake; no, not that one",
+    "tokens": [
+      "bid",
+      "brake",
+      "hit",
+      "morning",
+      "one",
+      "trump"
+    ],
+    "ts": 1789449060.2612312
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bofa-flags-weak-q3-investment-banking-fees-oneoff-warning-or-sectoral-alarm-93CH-4900770",
+    "title": "BofA flags weak Q3 investment banking fees: one-off warning or sectoral alarm?",
+    "tokens": [
+      "alarm",
+      "banking",
+      "bofa",
+      "fees",
+      "flags",
+      "investment",
+      "off",
+      "one",
+      "sectoral",
+      "warning",
+      "weak"
+    ],
+    "ts": 1789449067.4365673
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-hdfc-bank-stock-rising-today-93CH-4900769",
+    "title": "Why is HDFC Bank stock rising today?",
+    "tokens": [
+      "bank",
+      "hdfc",
+      "rising",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789449074.5026116
+  },
+  {
+    "id": "nvidia-jensen-huang-just-delivered-183002396.html",
+    "title": "Nvidia’s Jensen Huang Just Delivered a Huge Vote of Confidence to CoreWeave and Nebius",
+    "tokens": [
+      "confidence",
+      "coreweave",
+      "delivered",
+      "huang",
+      "huge",
+      "jensen",
+      "just",
+      "nebius",
+      "nvidia",
+      "vote"
+    ],
+    "ts": 1789449081.7295568
+  },
+  {
+    "id": "wonder-deal-240m-cash-31-183225342.html",
+    "title": "Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock.",
+    "tokens": [
+      "240m",
+      "brewing",
+      "cash",
+      "could",
+      "deal",
+      "interest",
+      "robotics",
+      "serve",
+      "short",
+      "squeeze",
+      "stock",
+      "wonder"
+    ],
+    "ts": 1789449089.1785226
   }
 ]

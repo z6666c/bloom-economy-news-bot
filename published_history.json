@@ -1,194 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/generation-essentials-group-receives-nyse-delisting-warning-93CH-4898424",
-    "title": "Generation Essentials Group receives NYSE delisting warning",
-    "tokens": [
-      "delisting",
-      "essentials",
-      "generation",
-      "group",
-      "nyse",
-      "receives",
-      "warning"
-    ],
-    "ts": 1789160077.0756736
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-grades-decline-as-us-drilling-rises-and-hormuz-talks-advance-93CH-4898422",
-    "title": "Oil grades decline as US drilling rises and Hormuz talks advance",
-    "tokens": [
-      "advance",
-      "decline",
-      "drilling",
-      "grades",
-      "hormuz",
-      "oil",
-      "rises",
-      "talks"
-    ],
-    "ts": 1789160087.8866735
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tredegar-general-counsel-kevin-donnelly-to-resign-oct-1-93CH-4898421",
-    "title": "Tredegar general counsel Kevin Donnelly to resign Oct. 1",
-    "tokens": [
-      "counsel",
-      "donnelly",
-      "general",
-      "kevin",
-      "oct",
-      "resign",
-      "tredegar"
-    ],
-    "ts": 1789160094.8002017
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/stellantis-signs-deal-to-sell-idled-toronto-factory-to-roshel-93CH-4898420",
-    "title": "Stellantis signs deal to sell idled Toronto factory to Roshel",
-    "tokens": [
-      "deal",
-      "factory",
-      "idled",
-      "roshel",
-      "sell",
-      "signs",
-      "stellantis",
-      "toronto"
-    ],
-    "ts": 1789160102.5551596
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/tiffany-inglis-sera-prognostics-cmo-sells-972-in-shares-93CH-4898418",
-    "title": "Tiffany Inglis, Sera Prognostics CMO, sells $972 in shares",
-    "tokens": [
-      "972",
-      "cmo",
-      "inglis",
-      "prognostics",
-      "sells",
-      "sera",
-      "shares",
-      "tiffany"
-    ],
-    "ts": 1789160109.9548554
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/sera-prognostics-cco-lee-jr-sells-3600-in-stock-93CH-4898415",
-    "title": "Sera prognostics CCO Lee Jr. sells $3,600 in stock",
-    "tokens": [
-      "600",
-      "cco",
-      "lee",
-      "prognostics",
-      "sells",
-      "sera",
-      "stock"
-    ],
-    "ts": 1789160117.169551
-  },
-  {
-    "id": "nvidia-ceo-jensen-huang-just-113002573.html",
-    "title": "Nvidia CEO Jensen Huang Just Called CrowdStrike Its Top Security Partner. How to Play CRWD Stock Here.",
-    "tokens": [
-      "called",
-      "ceo",
-      "crowdstrike",
-      "crwd",
-      "here",
-      "how",
-      "huang",
-      "jensen",
-      "just",
-      "nvidia",
-      "partner",
-      "play",
-      "security",
-      "stock",
-      "top"
-    ],
-    "ts": 1789160125.410796
-  },
-  {
-    "id": "bitcoin-and-ethereum-prices-today-thursday-september-10-2026-crypto-prices-slide-back-with-inflation-data-on-tap-113018195.html",
-    "title": "Bitcoin and ethereum prices today, Thursday, September 10, 2026: Crypto prices slide back with inflation data on tap",
-    "tokens": [
-      "2026",
-      "back",
-      "bitcoin",
-      "crypto",
-      "data",
-      "ethereum",
-      "inflation",
-      "prices",
-      "september",
-      "slide",
-      "tap",
-      "thursday",
-      "today"
-    ],
-    "ts": 1789160133.7666876
-  },
-  {
-    "id": "republicans-want-raise-taxes-save-113500944.html",
-    "title": "Some Republicans want to raise taxes — to save Social Security. Here’s why",
-    "tokens": [
-      "here",
-      "raise",
-      "republicans",
-      "save",
-      "security",
-      "social",
-      "some",
-      "taxes",
-      "want",
-      "why"
-    ],
-    "ts": 1789160140.6295497
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/silver-bow-mining-completes-initial-closing-on-montana-tunnels-asset-acquisition-93CH-4898458",
-    "title": "Silver Bow Mining completes initial closing on Montana Tunnels asset acquisition",
-    "tokens": [
-      "acquisition",
-      "asset",
-      "bow",
-      "closing",
-      "completes",
-      "initial",
-      "mining",
-      "montana",
-      "silver",
-      "tunnels"
-    ],
-    "ts": 1789161001.1786568
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/eastern-international-receives-nasdaq-delisting-warning-93CH-4898457",
-    "title": "Eastern International receives Nasdaq delisting warning",
-    "tokens": [
-      "delisting",
-      "eastern",
-      "international",
-      "nasdaq",
-      "receives",
-      "warning"
-    ],
-    "ts": 1789161009.592239
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/fitch-upgrades-citizens-financial-rating-on-profitability-93CH-4898455",
-    "title": "Fitch upgrades Citizens Financial rating on profitability",
-    "tokens": [
-      "citizens",
-      "financial",
-      "fitch",
-      "profitability",
-      "rating",
-      "upgrades"
-    ],
-    "ts": 1789161018.5048513
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/home-depot-svp-scardino-sells-206k-in-shares-93CH-4898453",
     "title": "Home Depot SVP Scardino sells $206k in shares",
     "tokens": [
@@ -23270,5 +23081,178 @@
       "your"
     ],
     "ts": 1789475761.2072964
+  },
+  {
+    "id": "WP-MKTW-0005233487",
+    "title": "An AI bubble is no longer Wall Street’s biggest fear. This market risk just took its place.",
+    "tokens": [
+      "biggest",
+      "bubble",
+      "fear",
+      "just",
+      "longer",
+      "market",
+      "place",
+      "risk",
+      "street",
+      "took",
+      "wall"
+    ],
+    "ts": 1789477008.403102
+  },
+  {
+    "id": "WP-MKTW-0005233518",
+    "title": "The ‘Magnificent Seven’ has its mojo back. It’s on track to reach new highs.",
+    "tokens": [
+      "back",
+      "highs",
+      "magnificent",
+      "mojo",
+      "reach",
+      "seven",
+      "track"
+    ],
+    "ts": 1789477015.688685
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/etsy-stock-rises-after-oppenheimer-upgrade-to-outperform-93CH-4901748",
+    "title": "Etsy stock rises after Oppenheimer upgrade to Outperform",
+    "tokens": [
+      "etsy",
+      "oppenheimer",
+      "outperform",
+      "rises",
+      "stock",
+      "upgrade"
+    ],
+    "ts": 1789477022.803281
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/biomarin-to-discontinue-development-of-voxzogo-for-noonan-syndrome-in-children-93CH-4901747",
+    "title": "BioMarin to discontinue development of Voxzogo for Noonan syndrome in children",
+    "tokens": [
+      "biomarin",
+      "children",
+      "development",
+      "discontinue",
+      "noonan",
+      "syndrome",
+      "voxzogo"
+    ],
+    "ts": 1789477030.583445
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/bank-of-montreal-admits-400m-senior-notes-to-lse-trading-93CH-4901746",
+    "title": "Bank of Montreal admits £400m senior notes to LSE trading",
+    "tokens": [
+      "400m",
+      "admits",
+      "bank",
+      "lse",
+      "montreal",
+      "notes",
+      "senior",
+      "trading"
+    ],
+    "ts": 1789477038.0413165
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/charles-schwab-reports-record-august-net-new-assets-of-648b-93CH-4901745",
+    "title": "Charles Schwab reports record August net new assets of $64.8B",
+    "tokens": [
+      "assets",
+      "august",
+      "charles",
+      "net",
+      "record",
+      "reports",
+      "schwab"
+    ],
+    "ts": 1789477045.2502334
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/keystone-law-h1-2027-slides-profit-jumps-31-ai-rollout-expands-93CH-4901744",
+    "title": "Keystone Law H1 2027 slides: profit jumps 31%, AI rollout expands",
+    "tokens": [
+      "2027",
+      "expands",
+      "jumps",
+      "keystone",
+      "law",
+      "profit",
+      "rollout",
+      "slides"
+    ],
+    "ts": 1789477054.3052504
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nextnrgs-ezfill-unit-to-license-fleet-management-platform-93CH-4901743",
+    "title": "NextNRG’s EzFill unit to license fleet management platform",
+    "tokens": [
+      "ezfill",
+      "fleet",
+      "license",
+      "management",
+      "nextnrg",
+      "platform",
+      "unit"
+    ],
+    "ts": 1789477061.7486305
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/qumulusai-completes-b200-gpu-deployment-under-719m-contract-93CH-4901742",
+    "title": "QumulusAI completes B200 GPU deployment under $71.9M contract",
+    "tokens": [
+      "b200",
+      "completes",
+      "contract",
+      "deployment",
+      "gpu",
+      "qumulusai",
+      "under"
+    ],
+    "ts": 1789477069.6304686
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-aeluma-stock-surging-today-93CH-4901733",
+    "title": "Why is Aeluma stock surging today?",
+    "tokens": [
+      "aeluma",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789477073.6451735
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/keystone-law-h1-2027-slides-profit-surges-31-on-platform-model-93CH-4901732",
+    "title": "Keystone Law H1 2027 slides: profit surges 31% on platform model",
+    "tokens": [
+      "2027",
+      "keystone",
+      "law",
+      "model",
+      "platform",
+      "profit",
+      "slides",
+      "surges"
+    ],
+    "ts": 1789477076.984644
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ernexa-reports-preclinical-data-for-erna201-refocuses-on-oncology-93CH-4901731",
+    "title": "Ernexa reports preclinical data for ERNA-201, refocuses on oncology",
+    "tokens": [
+      "201",
+      "data",
+      "erna",
+      "ernexa",
+      "oncology",
+      "preclinical",
+      "refocuses",
+      "reports"
+    ],
+    "ts": 1789477085.0059264
   }
 ]

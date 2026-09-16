@@ -1,99 +1,5 @@
 [
   {
-    "id": "dear-nike-stock-fans-mark-193002692.html",
-    "title": "Dear Nike Stock Fans, Mark Your Calendars for September 21",
-    "tokens": [
-      "calendars",
-      "dear",
-      "fans",
-      "mark",
-      "nike",
-      "september",
-      "stock",
-      "your"
-    ],
-    "ts": 1789363601.0794113
-  },
-  {
-    "id": "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development",
-    "title": "King Charles to host AI chiefs amid industry call to slow development",
-    "tokens": [
-      "call",
-      "charles",
-      "chiefs",
-      "development",
-      "host",
-      "industry",
-      "king",
-      "slow"
-    ],
-    "ts": 1789363604.7493675
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-    "title": "Asian currencies weaken as dollar rises, yen holds near seven-month high",
-    "tokens": [
-      "asian",
-      "currencies",
-      "dollar",
-      "high",
-      "holds",
-      "month",
-      "near",
-      "rises",
-      "seven",
-      "weaken",
-      "yen"
-    ],
-    "ts": 1789364499.0662878
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/boj-executive-saw-need-for-vigilance-to-nonlinear-inflation-spikes-4898820",
-    "title": "BOJ executive saw need for vigilance to ’non-linear’ inflation spikes",
-    "tokens": [
-      "boj",
-      "executive",
-      "inflation",
-      "linear",
-      "need",
-      "non",
-      "saw",
-      "spikes",
-      "vigilance"
-    ],
-    "ts": 1789364506.2856522
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nikkei-225-nears-62500-breakdown-in-bearish-trend-live-levels-93CH-4898786",
-    "title": "Nikkei 225 clings to 62,500 support amid bearish momentum: Live",
-    "tokens": [
-      "225",
-      "500",
-      "bearish",
-      "clings",
-      "live",
-      "momentum",
-      "nikkei",
-      "support"
-    ],
-    "ts": 1789364512.9050987
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-ichimoku-cloud-near-vwap-live-levels-93CH-4898785",
-    "title": "SK Hynix trapped in KRW 1,685K-1,750K range: Live levels",
-    "tokens": [
-      "685k",
-      "750k",
-      "hynix",
-      "krw",
-      "levels",
-      "live",
-      "range",
-      "trapped"
-    ],
-    "ts": 1789364519.623526
-  },
-  {
     "id": "oilprice-news-45493",
     "title": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears",
     "tokens": [
@@ -22975,5 +22881,98 @@
       "xel"
     ],
     "ts": 1789522028.6843472
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/american-savings-bank-prices-ipo-at-16-per-share-on-nyse-432SI-4902820",
+    "title": "American Savings Bank prices IPO at $16 per share on NYSE",
+    "tokens": [
+      "american",
+      "bank",
+      "ipo",
+      "nyse",
+      "per",
+      "prices",
+      "savings",
+      "share"
+    ],
+    "ts": 1789522829.0511348
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/solidion-technology-ceo-jaymes-winters-buys-6996-in-company-stock-93CH-4902826",
+    "title": "Solidion Technology CEO Jaymes Winters buys $6,996 in company stock",
+    "tokens": [
+      "996",
+      "buys",
+      "ceo",
+      "company",
+      "jaymes",
+      "solidion",
+      "stock",
+      "technology",
+      "winters"
+    ],
+    "ts": 1789522835.6813593
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/clover-health-ceo-medicare-advantage-jamie-reynoso-sells-44324-in-clov-shares-93CH-4902825",
+    "title": "Clover Health CEO, Medicare advantage, Jamie Reynoso sells $44,324 in CLOV shares",
+    "tokens": [
+      "324",
+      "advantage",
+      "ceo",
+      "clov",
+      "clover",
+      "health",
+      "jamie",
+      "medicare",
+      "reynoso",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789522842.720052
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
+    "title": "Asian markets make nervous start ahead of Fed decision",
+    "tokens": [
+      "ahead",
+      "asian",
+      "decision",
+      "fed",
+      "make",
+      "markets",
+      "nervous",
+      "start"
+    ],
+    "ts": 1789522850.9837751
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/american-savings-bank-prices-ipo-at-16-per-share-93CH-4902823",
+    "title": "American Savings Bank prices IPO at $16 per share",
+    "tokens": [
+      "american",
+      "bank",
+      "ipo",
+      "per",
+      "prices",
+      "savings",
+      "share"
+    ],
+    "ts": 1789522855.0004835
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australias-reliance-worldwide-agrees-to-brookfields-29-billion-buyout-bid-4902822",
+    "title": "Australia’s Reliance Worldwide agrees to Brookfield’s $2.9 billion buyout bid",
+    "tokens": [
+      "agrees",
+      "australia",
+      "bid",
+      "billion",
+      "brookfield",
+      "buyout",
+      "reliance",
+      "worldwide"
+    ],
+    "ts": 1789522858.7500563
   }
 ]

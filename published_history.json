@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-slowing-ai-development-fed-anticipation-4900683",
-    "title": "U.S. stock futures flat as markets parse slowing AI development, Fed anticipation",
-    "tokens": [
-      "anticipation",
-      "development",
-      "fed",
-      "flat",
-      "futures",
-      "markets",
-      "parse",
-      "slowing",
-      "stock"
-    ],
-    "ts": 1789433157.14908
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/devon-energy-ceo-clay-gaspar-buys-199876-in-company-stock-93CH-4900707",
     "title": "Devon Energy CEO Clay Gaspar buys $199,876 in company stock",
     "tokens": [
@@ -23101,5 +23085,19 @@
       "through"
     ],
     "ts": 1789589583.1950397
+  },
+  {
+    "id": "fiserv-targets-turnaround-project-elevate-120207694.html",
+    "title": "Fiserv Targets Turnaround With Project Elevate, AI and Clover Growth",
+    "tokens": [
+      "clover",
+      "elevate",
+      "fiserv",
+      "growth",
+      "project",
+      "targets",
+      "turnaround"
+    ],
+    "ts": 1789590495.4358563
   }
 ]

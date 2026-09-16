@@ -1,198 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/hundreds-march-in-toronto-against-carneys-investment-summit-4900750",
-    "title": "Hundreds march in Toronto against Carney’s investment summit",
-    "tokens": [
-      "against",
-      "carney",
-      "hundreds",
-      "investment",
-      "march",
-      "summit",
-      "toronto"
-    ],
-    "ts": 1789441934.2848465
-  },
-  {
-    "id": "b646c87b-9678-45ec-b4c8-5cc21b27e848",
-    "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
-    "tokens": [
-      "ahead",
-      "bill",
-      "crypto",
-      "hearing",
-      "house",
-      "later",
-      "panel",
-      "shares",
-      "tax",
-      "week"
-    ],
-    "ts": 1789443036.3931806
-  },
-  {
-    "id": "a93d0f83-f233-4cb1-a697-857b80483621",
-    "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
-    "tokens": [
-      "800",
-      "act",
-      "bitcoin",
-      "clarity",
-      "climb",
-      "nears",
-      "oil",
-      "prices",
-      "senate",
-      "slips",
-      "vote"
-    ],
-    "ts": 1789443044.0831108
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/pictets-global-multiasset-fund-triples-to-5-billion-on-china-inflows-4900756",
-    "title": "Pictet’s global multi-asset fund triples to $5 billion on China inflows",
-    "tokens": [
-      "asset",
-      "billion",
-      "china",
-      "fund",
-      "global",
-      "inflows",
-      "multi",
-      "pictet",
-      "triples"
-    ],
-    "ts": 1789444504.7991712
-  },
-  {
-    "id": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue",
-    "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
-    "tokens": [
-      "balancer",
-      "eyes",
-      "fails",
-      "restructuring",
-      "revenue",
-      "revive",
-      "wind"
-    ],
-    "ts": 1789444513.8301878
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/gift-nifty-50-consolidates-bearishly-near-23595-resistance-live-93CH-4900761",
-    "title": "Gift Nifty 50 consolidates bearishly near 23,595 resistance: Live",
-    "tokens": [
-      "595",
-      "bearishly",
-      "consolidates",
-      "gift",
-      "live",
-      "near",
-      "nifty",
-      "resistance"
-    ],
-    "ts": 1789445498.668892
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-kadoya-sesame-mills-stock-surging-today-93CH-4900759",
-    "title": "Why is Kadoya Sesame Mills stock surging today?",
-    "tokens": [
-      "kadoya",
-      "mills",
-      "sesame",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789445505.7515635
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-white-cliff-minerals-stock-surging-today-93CH-4900758",
-    "title": "Why is White Cliff Minerals stock surging today?",
-    "tokens": [
-      "cliff",
-      "minerals",
-      "stock",
-      "surging",
-      "today",
-      "white",
-      "why"
-    ],
-    "ts": 1789445512.6650088
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/google-deepmind-researcher-warns-ai-may-kill-us-all-in-exit-note-4900757",
-    "title": "Google DeepMind researcher warns AI may ‘kill us all’ in exit note",
-    "tokens": [
-      "all",
-      "deepmind",
-      "exit",
-      "google",
-      "kill",
-      "may",
-      "note",
-      "researcher",
-      "warns"
-    ],
-    "ts": 1789445519.7038076
-  },
-  {
-    "id": "korn-ferry-kfy-expands-global-170618310.html",
-    "title": "Korn Ferry (KFY) Expands Global Standing With AMS Acquisition",
-    "tokens": [
-      "acquisition",
-      "ams",
-      "expands",
-      "ferry",
-      "global",
-      "kfy",
-      "korn",
-      "standing"
-    ],
-    "ts": 1789445527.1517391
-  },
-  {
-    "id": "aaeedda9-7a5a-4bcd-a756-ea22cb333df2",
-    "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
-    "tokens": [
-      "act",
-      "clarity",
-      "counteroffer",
-      "democrats",
-      "provisions",
-      "republicans",
-      "send"
-    ],
-    "ts": 1789445535.5391397
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sysco-prices-1-billion-stock-offering-at-81-per-share-93CH-4900768",
-    "title": "Sysco prices $1 billion stock offering at $81 per share",
-    "tokens": [
-      "billion",
-      "offering",
-      "per",
-      "prices",
-      "share",
-      "stock",
-      "sysco"
-    ],
-    "ts": 1789446586.3302119
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-rallying-today-93CH-4900766",
-    "title": "Why is Kioxia stock rallying today?",
-    "tokens": [
-      "kioxia",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789446590.345335
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/asian-stocks-steady-as-ai-rebound-offsets-oil-rate-and-bondmarket-pressure-4900765",
     "title": "Asian stocks steady as AI rebound offsets oil, rate and bond-market pressure",
     "tokens": [
@@ -23051,5 +22858,183 @@
       "shot"
     ],
     "ts": 1789593232.3207626
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/illinois-american-water-completes-venice-wastewater-acquisition-93CH-4904589",
+    "title": "Illinois American Water completes Venice wastewater acquisition",
+    "tokens": [
+      "acquisition",
+      "american",
+      "completes",
+      "illinois",
+      "venice",
+      "wastewater",
+      "water"
+    ],
+    "ts": 1789594092.0806777
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/preferred-bank-declares-080-quarterly-dividend-93CH-4904588",
+    "title": "Preferred Bank declares $0.80 quarterly dividend",
+    "tokens": [
+      "bank",
+      "declares",
+      "dividend",
+      "preferred",
+      "quarterly"
+    ],
+    "ts": 1789594100.2197707
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-193-4904587",
+    "title": "Russia stocks lower at close of trade; MOEX Russia Index down 1.93%",
+    "tokens": [
+      "close",
+      "index",
+      "lower",
+      "moex",
+      "russia",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1789594106.7739778
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/feds-warsh-lays-out-forces-driving-up-bond-yields-4904580",
+    "title": "Fed’s Warsh lays out forces driving up bond yields",
+    "tokens": [
+      "bond",
+      "driving",
+      "fed",
+      "forces",
+      "lays",
+      "warsh",
+      "yields"
+    ],
+    "ts": 1789594118.7924075
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/major-us-banks-raise-prime-lending-rate-after-fed-hike-93CH-4904586",
+    "title": "Major US banks raise prime lending rate after Fed hike",
+    "tokens": [
+      "banks",
+      "fed",
+      "hike",
+      "lending",
+      "major",
+      "prime",
+      "raise",
+      "rate"
+    ],
+    "ts": 1789594126.080134
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cvb-financial-declares-020-quarterly-dividend-93CH-4904584",
+    "title": "CVB Financial declares $0.20 quarterly dividend",
+    "tokens": [
+      "cvb",
+      "declares",
+      "dividend",
+      "financial",
+      "quarterly"
+    ],
+    "ts": 1789594133.599079
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/clipper-realty-director-sam-levinson-buys-29879-in-common-stock-93CH-4904582",
+    "title": "Clipper Realty director Sam Levinson buys $29,879 in common stock",
+    "tokens": [
+      "879",
+      "buys",
+      "clipper",
+      "common",
+      "director",
+      "levinson",
+      "realty",
+      "sam",
+      "stock"
+    ],
+    "ts": 1789594140.8269784
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/fitch-cuts-flowers-foods-rating-to-bb-on-volume-pressures-93CH-4904579",
+    "title": "Fitch cuts Flowers Foods rating to ’BB+’ on volume pressures",
+    "tokens": [
+      "cuts",
+      "fitch",
+      "flowers",
+      "foods",
+      "pressures",
+      "rating",
+      "volume"
+    ],
+    "ts": 1789594147.898697
+  },
+  {
+    "id": "willis-towers-watson-stock-wtw-131710264.html",
+    "title": "Willis Towers Watson Stock: Is WTW Underperforming the Financial Service Sector?",
+    "tokens": [
+      "financial",
+      "sector",
+      "service",
+      "stock",
+      "towers",
+      "underperforming",
+      "watson",
+      "willis",
+      "wtw"
+    ],
+    "ts": 1789594156.0923476
+  },
+  {
+    "id": "dover-stock-underperforming-dow-131747663.html",
+    "title": "Is Dover Stock Underperforming the Dow?",
+    "tokens": [
+      "dover",
+      "dow",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1789594162.8527913
+  },
+  {
+    "id": "china-yuan-crude-oil-futures-133000430.html",
+    "title": "China’s Yuan Crude Oil Futures Jump to Record High",
+    "tokens": [
+      "china",
+      "crude",
+      "futures",
+      "high",
+      "jump",
+      "oil",
+      "record",
+      "yuan"
+    ],
+    "ts": 1789594166.8685822
+  },
+  {
+    "id": "carters-rebrands-logo-watch-them-132131573.html",
+    "title": "Carter's rebrands with new logo and Watch Them Glow campaign",
+    "tokens": [
+      "campaign",
+      "carter",
+      "glow",
+      "logo",
+      "rebrands",
+      "them",
+      "watch"
+    ],
+    "ts": 1789594169.7671452
+  },
+  {
+    "id": "fortive-stock-underperforming-nasdaq-131520272.html",
+    "title": "Is Fortive Stock Underperforming the Nasdaq?",
+    "tokens": [
+      "fortive",
+      "nasdaq",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1789594176.732217
   }
 ]

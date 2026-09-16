@@ -1,67 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiveipo-for-humanoid-robot-maker-boston-dynamics-unlikely-in-2027-executive-says-4898876",
-    "title": "Exclusive-IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says",
-    "tokens": [
-      "2027",
-      "boston",
-      "dynamics",
-      "exclusive",
-      "executive",
-      "humanoid",
-      "ipo",
-      "maker",
-      "robot",
-      "unlikely"
-    ],
-    "ts": 1789372486.2668526
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/straumann-stock-gains-after-goldman-sachs-upgrade-to-buy-93CH-4898879",
-    "title": "Straumann stock gains after Goldman Sachs upgrade to buy",
-    "tokens": [
-      "buy",
-      "gains",
-      "goldman",
-      "sachs",
-      "stock",
-      "straumann",
-      "upgrade"
-    ],
-    "ts": 1789372492.336802
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/chip-memory-stocks-fall-amid-calls-for-ai-development-slowdown-4898878",
-    "title": "Chip, memory stocks fall amid calls for AI development slowdown",
-    "tokens": [
-      "calls",
-      "chip",
-      "development",
-      "fall",
-      "memory",
-      "slowdown",
-      "stocks"
-    ],
-    "ts": 1789372498.9663398
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-gain-as-mideast-supply-fears-lift-oil-4898877",
-    "title": "FTSE 100 today: Stocks gain as Mideast supply fears lift oil",
-    "tokens": [
-      "100",
-      "fears",
-      "ftse",
-      "gain",
-      "lift",
-      "mideast",
-      "oil",
-      "stocks",
-      "supply",
-      "today"
-    ],
-    "ts": 1789372505.8878946
-  },
-  {
     "id": "artificial-intelligence-stock-down-71-202000751.html",
     "title": "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy",
     "tokens": [
@@ -23015,5 +22953,66 @@
       "reach"
     ],
     "ts": 1789528378.8609889
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/tenax-therapeutics-ceo-christopher-giordano-acquires-20087-in-shares-93CH-4902856",
+    "title": "Tenax Therapeutics CEO Christopher Giordano acquires $20,087 in shares",
+    "tokens": [
+      "087",
+      "acquires",
+      "ceo",
+      "christopher",
+      "giordano",
+      "shares",
+      "tenax",
+      "therapeutics"
+    ],
+    "ts": 1789529324.3206112
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/stonex-group-cro-mark-maurer-sells-7m-in-shares-93CH-4902855",
+    "title": "StoneX Group CRO Mark Maurer sells $7m in shares",
+    "tokens": [
+      "cro",
+      "group",
+      "mark",
+      "maurer",
+      "sells",
+      "shares",
+      "stonex"
+    ],
+    "ts": 1789529331.0441687
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/marvell-technology-ceo-murphy-sells-168m-in-stock-93CH-4902854",
+    "title": "Marvell technology CEO Murphy sells $1.68m in stock",
+    "tokens": [
+      "68m",
+      "ceo",
+      "marvell",
+      "murphy",
+      "sells",
+      "stock",
+      "technology"
+    ],
+    "ts": 1789529338.0735254
+  },
+  {
+    "id": "caterpillar-falls-4-while-deere-154049131.html",
+    "title": "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
+    "tokens": [
+      "caterpillar",
+      "center",
+      "data",
+      "deere",
+      "edges",
+      "falls",
+      "higher",
+      "power",
+      "trade",
+      "unwinding",
+      "while"
+    ],
+    "ts": 1789529345.797347
   }
 ]

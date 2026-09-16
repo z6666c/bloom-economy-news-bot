@@ -1,32 +1,5 @@
 [
   {
-    "id": "europe-ai-trade-hits-reverse-151219286.html",
-    "title": "Europe’s AI Trade Hits Reverse",
-    "tokens": [
-      "europe",
-      "hits",
-      "reverse",
-      "trade"
-    ],
-    "ts": 1789400628.177587
-  },
-  {
-    "id": "walmart-wmt-delivery-push-gains-150509817.html",
-    "title": "Walmart (WMT) Delivery Push Gains Momentum with Papa John’s Partnership",
-    "tokens": [
-      "delivery",
-      "gains",
-      "john",
-      "momentum",
-      "papa",
-      "partnership",
-      "push",
-      "walmart",
-      "wmt"
-    ],
-    "ts": 1789400635.9102607
-  },
-  {
     "id": "vale-vale-deepens-china-ties-150347789.html",
     "title": "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
     "tokens": [
@@ -23038,5 +23011,37 @@
       "warren"
     ],
     "ts": 1789559168.314057
+  },
+  {
+    "id": "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings",
+    "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
+    "tokens": [
+      "back",
+      "blocks",
+      "halving",
+      "holders",
+      "keep",
+      "schedule",
+      "second",
+      "vote",
+      "zcash",
+      "zec"
+    ],
+    "ts": 1789559738.9589372
+  },
+  {
+    "id": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas",
+    "title": "Circle launches Arc mainnet with USDC as native gas token",
+    "tokens": [
+      "arc",
+      "circle",
+      "gas",
+      "launches",
+      "mainnet",
+      "native",
+      "token",
+      "usdc"
+    ],
+    "ts": 1789559746.2496343
   }
 ]

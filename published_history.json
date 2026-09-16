@@ -1,115 +1,5 @@
 [
   {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
-    "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-    "tokens": [
-      "agencies",
-      "bank",
-      "comment",
-      "community",
-      "core",
-      "engagement",
-      "guidance",
-      "issue",
-      "management",
-      "party",
-      "proposed",
-      "providers",
-      "risk",
-      "seek",
-      "service",
-      "statement",
-      "third"
-    ],
-    "ts": 1789454376.9727132
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/imaging-biometrics-secures-us-healthcare-system-contract-93CH-4900857",
-    "title": "Imaging Biometrics secures U.S. healthcare system contract",
-    "tokens": [
-      "biometrics",
-      "contract",
-      "healthcare",
-      "imaging",
-      "secures",
-      "system"
-    ],
-    "ts": 1789455458.2747548
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/uk-wages-grow-by-35-in-three-months-to-july-4900812",
-    "title": "UK jobs market stays soft before BoE rate call",
-    "tokens": [
-      "before",
-      "boe",
-      "call",
-      "jobs",
-      "market",
-      "rate",
-      "soft",
-      "stays"
-    ],
-    "ts": 1789455465.5198865
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sylvania-platinum-launches-15m-share-buyback-program-93CH-4900856",
-    "title": "Sylvania Platinum launches $1.5m share buyback program",
-    "tokens": [
-      "buyback",
-      "launches",
-      "platinum",
-      "program",
-      "share",
-      "sylvania"
-    ],
-    "ts": 1789455473.811766
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/thalia-therapeutics-advances-rna-therapy-programs-93CH-4900854",
-    "title": "Thalia Therapeutics advances RNA therapy programs",
-    "tokens": [
-      "advances",
-      "programs",
-      "rna",
-      "thalia",
-      "therapeutics",
-      "therapy"
-    ],
-    "ts": 1789455480.716257
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/skysail-strategies-outperforms-wall-streets-30year-risk-standard-with-proprietary-ai-inference-model-4900852",
-    "title": "SkySail Strategies Outperforms Wall Street’s 30-Year Risk Standard With Proprietary AI Inference Model",
-    "tokens": [
-      "inference",
-      "model",
-      "outperforms",
-      "proprietary",
-      "risk",
-      "skysail",
-      "standard",
-      "strategies",
-      "street",
-      "wall",
-      "year"
-    ],
-    "ts": 1789455487.8183901
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-088-4900851",
-    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.88%",
-    "tokens": [
-      "200",
-      "asx",
-      "australia",
-      "close",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789455491.8303485
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/bmo-upgrades-enbridge-stock-rating-on-quality-growth-visibility-93CH-4900850",
     "title": "BMO upgrades Enbridge stock rating on quality, growth visibility",
     "tokens": [
@@ -23037,5 +22927,121 @@
       "which"
     ],
     "ts": 1789598408.6110098
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/google-should-appoint-antitrust-compliance-officer-us-judge-says-in-ad-tech-case-4904639",
+    "title": "Google should relax ad tech rules, appoint antitrust monitor, US judge finds",
+    "tokens": [
+      "antitrust",
+      "appoint",
+      "finds",
+      "google",
+      "judge",
+      "monitor",
+      "relax",
+      "rules",
+      "should",
+      "tech"
+    ],
+    "ts": 1789599104.1617796
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/openai-plans-regular-reports-on-unexpected-ai-behavior-4904658",
+    "title": "OpenAI plans regular reports on unexpected AI behavior",
+    "tokens": [
+      "behavior",
+      "openai",
+      "plans",
+      "regular",
+      "reports",
+      "unexpected"
+    ],
+    "ts": 1789599111.839226
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/brazil-central-bank-cuts-rates-for-fifth-straight-meeting-4904608",
+    "title": "Brazil central bank delivers fifth straight rate cut, leaves next move open",
+    "tokens": [
+      "bank",
+      "brazil",
+      "central",
+      "cut",
+      "delivers",
+      "fifth",
+      "leaves",
+      "move",
+      "next",
+      "open",
+      "rate",
+      "straight"
+    ],
+    "ts": 1789599118.75861
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/holtec-nuclear-suspends-planned-us-ipo-bloomberg-news-reports-4904657",
+    "title": "Holtec Nuclear suspends planned US IPO, Bloomberg News reports",
+    "tokens": [
+      "bloomberg",
+      "holtec",
+      "ipo",
+      "news",
+      "nuclear",
+      "planned",
+      "reports",
+      "suspends"
+    ],
+    "ts": 1789599125.7829874
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/agereh-technologies-announces-board-and-management-departures-93CH-4904656",
+    "title": "Agereh Technologies announces board and management departures",
+    "tokens": [
+      "agereh",
+      "announces",
+      "board",
+      "departures",
+      "management",
+      "technologies"
+    ],
+    "ts": 1789599132.0737665
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/mechanics-bank-sells-417m-auto-loan-portfolio-to-bofa-93CH-4904655",
+    "title": "Mechanics Bank sells $417M auto loan portfolio to BofA",
+    "tokens": [
+      "417m",
+      "auto",
+      "bank",
+      "bofa",
+      "loan",
+      "mechanics",
+      "portfolio",
+      "sells"
+    ],
+    "ts": 1789599139.3255532
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+    "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+    "tokens": [
+      "agencies",
+      "bank",
+      "comment",
+      "community",
+      "core",
+      "engagement",
+      "guidance",
+      "issue",
+      "management",
+      "party",
+      "proposed",
+      "providers",
+      "risk",
+      "seek",
+      "service",
+      "statement",
+      "third"
+    ],
+    "ts": 1789599147.6272454
   }
 ]

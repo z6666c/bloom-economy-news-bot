@@ -1,136 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/maersk-stock-rises-as-suez-canal-services-expand-with-hapag-93CH-4898954",
-    "title": "Maersk stock rises as Suez Canal services expand with Hapag",
-    "tokens": [
-      "canal",
-      "expand",
-      "hapag",
-      "maersk",
-      "rises",
-      "services",
-      "stock",
-      "suez"
-    ],
-    "ts": 1789376227.2501335
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/galantas-gold-warrants-exercised-for-25000-shares-at-c012-93CH-4898952",
-    "title": "Galantas Gold warrants exercised for 25,000 shares at C$0.12",
-    "tokens": [
-      "000",
-      "exercised",
-      "galantas",
-      "gold",
-      "shares",
-      "warrants"
-    ],
-    "ts": 1789376233.5574818
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-downgrades-hp-enterprise-stock-rating-on-valuation-93CH-4898951",
-    "title": "Evercore ISI downgrades HP Enterprise stock rating on valuation",
-    "tokens": [
-      "downgrades",
-      "enterprise",
-      "evercore",
-      "isi",
-      "rating",
-      "stock",
-      "valuation"
-    ],
-    "ts": 1789376240.3824253
-  },
-  {
-    "id": "office-expenses-outgrew-revenue-since-215731804.html",
-    "title": "Office Expenses Outgrew Revenue Each Year Since 2021",
-    "tokens": [
-      "2021",
-      "each",
-      "expenses",
-      "office",
-      "outgrew",
-      "revenue",
-      "since",
-      "year"
-    ],
-    "ts": 1789376247.6686707
-  },
-  {
-    "id": "WP-MKTW-0005230247",
-    "title": "The very big caveat to the report that Anthropic is profitable for a second straight quarter",
-    "tokens": [
-      "anthropic",
-      "big",
-      "caveat",
-      "profitable",
-      "quarter",
-      "report",
-      "second",
-      "straight",
-      "very"
-    ],
-    "ts": 1789377162.4118013
-  },
-  {
-    "id": "WP-MKTW-0005230125",
-    "title": "Massive sinkhole still threatens Nicolas Cage’s $10.5 million Malibu mansion",
-    "tokens": [
-      "cage",
-      "malibu",
-      "mansion",
-      "massive",
-      "million",
-      "nicolas",
-      "sinkhole",
-      "still",
-      "threatens"
-    ],
-    "ts": 1789377169.3063831
-  },
-  {
-    "id": "stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
-    "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
-    "tokens": [
-      "500",
-      "anthropic",
-      "dow",
-      "fall",
-      "futures",
-      "jump",
-      "market",
-      "nasdaq",
-      "oil",
-      "prices",
-      "spooks",
-      "stock",
-      "tech",
-      "today",
-      "traders",
-      "warning"
-    ],
-    "ts": 1789377176.4881043
-  },
-  {
-    "id": "africas-biggest-oil-refinery-opens-085534787.html",
-    "title": "Africa's biggest oil refinery opens to public ownership, sparking excitement among retail investors",
-    "tokens": [
-      "africa",
-      "among",
-      "biggest",
-      "excitement",
-      "investors",
-      "oil",
-      "opens",
-      "ownership",
-      "public",
-      "refinery",
-      "retail",
-      "sparking"
-    ],
-    "ts": 1789377183.1065214
-  },
-  {
     "id": "math-behind-databricks-190b-price-084100123.html",
     "title": "The math behind Databricks' $190B price doesn't add up—yet",
     "tokens": [
@@ -23026,5 +22895,112 @@
       "trades"
     ],
     "ts": 1789534442.3930688
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/axon-prices-1-billion-convertible-notes-offering-due-2031-93CH-4902877",
+    "title": "Axon prices $1 billion convertible notes offering due 2031",
+    "tokens": [
+      "2031",
+      "axon",
+      "billion",
+      "convertible",
+      "due",
+      "notes",
+      "offering",
+      "prices"
+    ],
+    "ts": 1789535431.0946946
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-mercari-stock-sliding-today-93CH-4902876",
+    "title": "Why is Mercari stock sliding today?",
+    "tokens": [
+      "mercari",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789535435.1094167
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/morning-bid-warsh-on-collision-course-with-trump-administration-4902874",
+    "title": "Morning Bid: Warsh on collision course with Trump administration",
+    "tokens": [
+      "administration",
+      "bid",
+      "collision",
+      "course",
+      "morning",
+      "trump",
+      "warsh"
+    ],
+    "ts": 1789535439.042915
+  },
+  {
+    "id": "cotton-falling-back-monday-172312417.html",
+    "title": "Cotton Falling Back on Monday",
+    "tokens": [
+      "back",
+      "cotton",
+      "falling",
+      "monday"
+    ],
+    "ts": 1789535446.4208298
+  },
+  {
+    "id": "corn-trading-midday-gains-172312312.html",
+    "title": "Corn Trading with Midday Gains",
+    "tokens": [
+      "corn",
+      "gains",
+      "midday",
+      "trading"
+    ],
+    "ts": 1789535453.4191103
+  },
+  {
+    "id": "soybean-bulls-pushing-back-midday-172312242.html",
+    "title": "Soybean Bulls Pushing Back at Midday",
+    "tokens": [
+      "back",
+      "bulls",
+      "midday",
+      "pushing",
+      "soybean"
+    ],
+    "ts": 1789535462.4445887
+  },
+  {
+    "id": "spacex-stock-positioned-robust-arr-172347013.html",
+    "title": "SpaceX Stock Is Positioned for Robust ARR Growth and EBITDA Margin Expansion",
+    "tokens": [
+      "arr",
+      "ebitda",
+      "expansion",
+      "growth",
+      "margin",
+      "positioned",
+      "robust",
+      "spacex",
+      "stock"
+    ],
+    "ts": 1789535470.2965574
+  },
+  {
+    "id": "market-indexes-drop-chip-stocks-171742181.html",
+    "title": "Market Indexes Drop as Chip Stocks Take the Weekend's News Badly",
+    "tokens": [
+      "badly",
+      "chip",
+      "drop",
+      "indexes",
+      "market",
+      "news",
+      "stocks",
+      "take",
+      "weekend"
+    ],
+    "ts": 1789535477.8284283
   }
 ]

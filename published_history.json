@@ -1,236 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
-    "title": "Loonie holds near 12-day low as oil support fails to offset dollar strength",
-    "tokens": [
-      "day",
-      "dollar",
-      "fails",
-      "holds",
-      "loonie",
-      "low",
-      "near",
-      "offset",
-      "oil",
-      "strength",
-      "support"
-    ],
-    "ts": 1789423933.7130637
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/canada-10year-yield-rises-as-inflation-oil-prices-keep-bond-markets-on-edge-4900631",
-    "title": "Canada 10-year yield rises as inflation, oil prices keep bond markets on edge",
-    "tokens": [
-      "bond",
-      "canada",
-      "edge",
-      "inflation",
-      "keep",
-      "markets",
-      "oil",
-      "prices",
-      "rises",
-      "year",
-      "yield"
-    ],
-    "ts": 1789423941.016196
-  },
-  {
-    "id": "purecycle-pct-turns-lab-promises-133324594.html",
-    "title": "PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality",
-    "tokens": [
-      "cap",
-      "detergent",
-      "lab",
-      "pct",
-      "promises",
-      "purecycle",
-      "reality",
-      "turns"
-    ],
-    "ts": 1789423949.5429082
-  },
-  {
-    "id": "clear-channel-outdoor-cco-grows-132626831.html",
-    "title": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
-    "tokens": [
-      "before",
-      "cco",
-      "channel",
-      "clear",
-      "fastest",
-      "going",
-      "grows",
-      "outdoor",
-      "private",
-      "right"
-    ],
-    "ts": 1789423956.8182309
-  },
-  {
-    "id": "red-violet-rdvt-turns-record-133658483.html",
-    "title": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
-    "tokens": [
-      "gains",
-      "growth",
-      "profit",
-      "rdvt",
-      "real",
-      "record",
-      "red",
-      "turns",
-      "violet"
-    ],
-    "ts": 1789423964.109306
-  },
-  {
-    "id": "38-old-beloved-steakhouse-chain-020300119.html",
-    "title": "38-year-old beloved steakhouse chain closing over 40 locations",
-    "tokens": [
-      "beloved",
-      "chain",
-      "closing",
-      "locations",
-      "old",
-      "steakhouse",
-      "year"
-    ],
-    "ts": 1789423970.4361475
-  },
-  {
-    "id": "snowflake-blowout-quarter-adds-software-133832576.html",
-    "title": "Snowflake’s Blowout Quarter Adds to a Software Sector Already Rallying on AI",
-    "tokens": [
-      "adds",
-      "already",
-      "blowout",
-      "quarter",
-      "rallying",
-      "sector",
-      "snowflake",
-      "software"
-    ],
-    "ts": 1789423977.4528804
-  },
-  {
-    "id": "realreal-real-posts-record-sales-134612583.html",
-    "title": "The RealReal (REAL) Posts Record Sales, But The Losses Keep Growing",
-    "tokens": [
-      "growing",
-      "keep",
-      "losses",
-      "posts",
-      "real",
-      "realreal",
-      "record",
-      "sales"
-    ],
-    "ts": 1789423985.1616373
-  },
-  {
-    "id": "oilprice-article-45502",
-    "title": "Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally",
-    "tokens": [
-      "fuel",
-      "global",
-      "rally",
-      "refiners",
-      "squeeze",
-      "stocks",
-      "triggers"
-    ],
-    "ts": 1789423994.0110521
-  },
-  {
-    "id": "oilprice-news-45502",
-    "title": "Saudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore",
-    "tokens": [
-      "110",
-      "arabia",
-      "bearing",
-      "discovers",
-      "million",
-      "ore",
-      "saudi",
-      "tonnes",
-      "uranium"
-    ],
-    "ts": 1789423998.0239217
-  },
-  {
-    "id": "oilprice-news-45500",
-    "title": "Dangote Prices Africa's Biggest IPO at $47 Billion",
-    "tokens": [
-      "africa",
-      "biggest",
-      "billion",
-      "dangote",
-      "ipo",
-      "prices"
-    ],
-    "ts": 1789424001.5719905
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-dave--busters-q2-2026-miss-sends-shares-lower-93CH-4900648",
-    "title": "Earnings call transcript: Dave & Buster’s Q2 2026 miss sends shares lower",
-    "tokens": [
-      "2026",
-      "buster",
-      "call",
-      "dave",
-      "earnings",
-      "lower",
-      "miss",
-      "sends",
-      "shares",
-      "transcript"
-    ],
-    "ts": 1789424913.122138
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/actuate-therapeutics-at-hc-wainwright-conference-oral-pivot-gains-focus-93CH-4900647",
-    "title": "Actuate Therapeutics at H.C. Wainwright conference: oral pivot gains focus",
-    "tokens": [
-      "actuate",
-      "conference",
-      "focus",
-      "gains",
-      "oral",
-      "pivot",
-      "therapeutics",
-      "wainwright"
-    ],
-    "ts": 1789424919.9211721
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-ntsb-says-onethird-of-faa-answers-to-safety-recommendations-are-unacceptable-4900646",
-    "title": "US NTSB says one-third of FAA answers to safety recommendations are ’unacceptable’",
-    "tokens": [
-      "answers",
-      "faa",
-      "ntsb",
-      "one",
-      "recommendations",
-      "safety",
-      "third",
-      "unacceptable"
-    ],
-    "ts": 1789424927.2893877
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
-    "title": "US 10-year yields reach 5%, highest since 2023",
-    "tokens": [
-      "2023",
-      "highest",
-      "reach",
-      "since",
-      "year",
-      "yields"
-    ],
-    "ts": 1789424934.869583
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/inspiremd-at-hc-wainwright-conference-eyeing-carotid-market-share-93CH-4900645",
     "title": "InspireMD at H.C. Wainwright conference: eyeing carotid market share",
     "tokens": [
@@ -23137,5 +22906,236 @@
       "venezuela"
     ],
     "ts": 1789583605.6997862
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/prelude-therapeutics-at-hc-wainwright-conference-pipeline-gains-momentum-93CH-4904303",
+    "title": "Prelude Therapeutics at H.C. Wainwright conference: pipeline gains momentum",
+    "tokens": [
+      "conference",
+      "gains",
+      "momentum",
+      "pipeline",
+      "prelude",
+      "therapeutics",
+      "wainwright"
+    ],
+    "ts": 1789584860.7861092
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/jazz-pharmaceuticals-at-morgan-stanley-conference-oncology-drives-growth-93CH-4904299",
+    "title": "Jazz Pharmaceuticals at Morgan Stanley conference: oncology drives growth",
+    "tokens": [
+      "conference",
+      "drives",
+      "growth",
+      "jazz",
+      "morgan",
+      "oncology",
+      "pharmaceuticals",
+      "stanley"
+    ],
+    "ts": 1789584868.295889
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/arcutis-at-morgan-stanley-conference-zoryve-drives-growth-push-93CH-4904298",
+    "title": "Arcutis at Morgan Stanley conference: zoryve drives growth push",
+    "tokens": [
+      "arcutis",
+      "conference",
+      "drives",
+      "growth",
+      "morgan",
+      "push",
+      "stanley",
+      "zoryve"
+    ],
+    "ts": 1789584875.8042881
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/onsemi-targets-213-billion-market-with-power-density-solutions-93CH-4904297",
+    "title": "onsemi targets $213 billion market with power density solutions",
+    "tokens": [
+      "213",
+      "billion",
+      "density",
+      "market",
+      "onsemi",
+      "power",
+      "solutions",
+      "targets"
+    ],
+    "ts": 1789584883.2831707
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/onsemi-unveils-embedded-power-platform-for-ai-and-ev-markets-93CH-4904295",
+    "title": "onsemi unveils embedded power platform for AI and EV markets",
+    "tokens": [
+      "embedded",
+      "markets",
+      "onsemi",
+      "platform",
+      "power",
+      "unveils"
+    ],
+    "ts": 1789584890.7281616
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/subaru-to-evaluate-onsemi-power-tech-for-electric-vehicles-93CH-4904296",
+    "title": "Subaru to evaluate onsemi power tech for electric vehicles",
+    "tokens": [
+      "electric",
+      "evaluate",
+      "onsemi",
+      "power",
+      "subaru",
+      "tech",
+      "vehicles"
+    ],
+    "ts": 1789584898.7835228
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/valvoline-stock-hits-52week-low-at-2769-93CH-4904294",
+    "title": "Valvoline stock hits 52-week low at $27.69",
+    "tokens": [
+      "hits",
+      "low",
+      "stock",
+      "valvoline",
+      "week"
+    ],
+    "ts": 1789584902.7989814
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/vulcan-materials-stock-hits-52week-low-at-2461-usd-93CH-4904293",
+    "title": "Vulcan Materials stock hits 52-week low at 246.1 USD",
+    "tokens": [
+      "246",
+      "hits",
+      "low",
+      "materials",
+      "stock",
+      "usd",
+      "vulcan",
+      "week"
+    ],
+    "ts": 1789584906.6832535
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/gubra-at-morgan-stanley-healthcare-conference-deeper-pipeline-longer-hold-93CH-4904292",
+    "title": "Gubra at Morgan Stanley healthcare conference: deeper pipeline, longer hold",
+    "tokens": [
+      "conference",
+      "deeper",
+      "gubra",
+      "healthcare",
+      "hold",
+      "longer",
+      "morgan",
+      "pipeline",
+      "stanley"
+    ],
+    "ts": 1789584914.5224113
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/egetis-therapeutics-at-morgan-stanley-conference-us-launch-nears-93CH-4904291",
+    "title": "Egetis Therapeutics at Morgan Stanley conference: U.S. launch nears",
+    "tokens": [
+      "conference",
+      "egetis",
+      "launch",
+      "morgan",
+      "nears",
+      "stanley",
+      "therapeutics"
+    ],
+    "ts": 1789584923.219723
+  },
+  {
+    "id": "texas-cape-town-tightening-data-095248616.html",
+    "title": "Texas and Cape Town Are Tightening the Data-Center Gate. Digital Realty and Equinix Could Still Benefit",
+    "tokens": [
+      "benefit",
+      "cape",
+      "center",
+      "could",
+      "data",
+      "digital",
+      "equinix",
+      "gate",
+      "realty",
+      "still",
+      "texas",
+      "tightening",
+      "town"
+    ],
+    "ts": 1789584931.75959
+  },
+  {
+    "id": "ai-stocks-fell-workday-adobe-095614361.html",
+    "title": "AI Stocks Fell, but Workday and Adobe Jumped. A Favorite AI Disruption Trade Just Flinched",
+    "tokens": [
+      "adobe",
+      "disruption",
+      "favorite",
+      "fell",
+      "flinched",
+      "jumped",
+      "just",
+      "stocks",
+      "trade",
+      "workday"
+    ],
+    "ts": 1789584939.5117755
+  },
+  {
+    "id": "herbalife-hlf-bets-250m-own-095141003.html",
+    "title": "Herbalife (HLF) Bets $250M On Its Own Battered Stock",
+    "tokens": [
+      "250m",
+      "battered",
+      "bets",
+      "herbalife",
+      "hlf",
+      "own",
+      "stock"
+    ],
+    "ts": 1789584947.5455472
+  },
+  {
+    "id": "truist-exit-near-prime-auto-095648063.html",
+    "title": "Truist to exit near-prime auto lending, sell $5.5B in loans",
+    "tokens": [
+      "auto",
+      "exit",
+      "lending",
+      "loans",
+      "near",
+      "prime",
+      "sell",
+      "truist"
+    ],
+    "ts": 1789584954.6912894
+  },
+  {
+    "id": "anthropic-expects-second-straight-quarter-094740403.html",
+    "title": "Anthropic Expects a Second Straight Quarter of Adjusted Operating Profit. Amazon and Alphabet Investors Should Read the Fine Print",
+    "tokens": [
+      "adjusted",
+      "alphabet",
+      "amazon",
+      "anthropic",
+      "expects",
+      "fine",
+      "investors",
+      "operating",
+      "print",
+      "profit",
+      "quarter",
+      "read",
+      "second",
+      "should",
+      "straight"
+    ],
+    "ts": 1789584962.113567
   }
 ]

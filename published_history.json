@@ -1,211 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/eli-lilly-at-morgan-stanley-conference-broad-obesity-push-gains-steam-93CH-4900220",
-    "title": "Eli Lilly at Morgan Stanley conference: broad obesity push gains steam",
-    "tokens": [
-      "broad",
-      "conference",
-      "eli",
-      "gains",
-      "lilly",
-      "morgan",
-      "obesity",
-      "push",
-      "stanley",
-      "steam"
-    ],
-    "ts": 1789412236.9948583
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-targets-russias-vtb-bank-with-iranrelated-sanctions-93CH-4900219",
-    "title": "US targets Russia’s VTB Bank with Iran-related sanctions",
-    "tokens": [
-      "bank",
-      "iran",
-      "related",
-      "russia",
-      "sanctions",
-      "targets",
-      "vtb"
-    ],
-    "ts": 1789412243.8067675
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bayers-monsanto-unit-urges-missouri-judge-to-approve-725-billion-roundup-settlement-4900218",
-    "title": "Bayer’s Monsanto unit urges Missouri judge to approve $7.25 billion Roundup settlement",
-    "tokens": [
-      "approve",
-      "bayer",
-      "billion",
-      "judge",
-      "missouri",
-      "monsanto",
-      "roundup",
-      "settlement",
-      "unit",
-      "urges"
-    ],
-    "ts": 1789412252.7956629
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/estee-lauder-options-activity-points-to-layered-bullish-bets-on-18month-horizon-93CH-4900217",
-    "title": "Estee Lauder options activity points to layered bullish bets on 18-month horizon",
-    "tokens": [
-      "activity",
-      "bets",
-      "bullish",
-      "estee",
-      "horizon",
-      "lauder",
-      "layered",
-      "month",
-      "options",
-      "points"
-    ],
-    "ts": 1789412260.8665154
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/openai-acquires-smartphone-camera-startup-glass-imaging--wsj-93CH-4900215",
-    "title": "OpenAI acquires smartphone camera startup Glass Imaging - WSJ",
-    "tokens": [
-      "acquires",
-      "camera",
-      "glass",
-      "imaging",
-      "openai",
-      "smartphone",
-      "startup",
-      "wsj"
-    ],
-    "ts": 1789412270.4492278
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/centene-corp-stock-hits-52week-high-at-6936-usd-93CH-4900214",
-    "title": "Centene Corp stock hits 52-week high at 69.36 USD",
-    "tokens": [
-      "centene",
-      "corp",
-      "high",
-      "hits",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789412274.4646378
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/petco-at-goldman-sachs-conference-growth-phase-takes-focus-93CH-4900213",
-    "title": "Petco at Goldman Sachs conference: growth phase takes focus",
-    "tokens": [
-      "conference",
-      "focus",
-      "goldman",
-      "growth",
-      "petco",
-      "phase",
-      "sachs",
-      "takes"
-    ],
-    "ts": 1789412277.9767687
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/schrodinger-at-morgan-stanley-healthcare-conference-cloud-push-gains-speed-93CH-4900212",
-    "title": "Schrödinger at Morgan Stanley healthcare conference: cloud push gains speed",
-    "tokens": [
-      "cloud",
-      "conference",
-      "dinger",
-      "gains",
-      "healthcare",
-      "morgan",
-      "push",
-      "schr",
-      "speed",
-      "stanley"
-    ],
-    "ts": 1789412284.9893785
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/state-street-options-flow-signals-bearish-pressure-ahead-of-sept-18-expiry-93CH-4900210",
-    "title": "State Street options flow signals bearish pressure ahead of Sept 18 expiry",
-    "tokens": [
-      "ahead",
-      "bearish",
-      "expiry",
-      "flow",
-      "options",
-      "pressure",
-      "sept",
-      "signals",
-      "state",
-      "street"
-    ],
-    "ts": 1789412292.3639436
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/howard-hughes-holdings-stock-hits-52week-low-at-6099-usd-93CH-4900208",
-    "title": "Howard Hughes Holdings stock hits 52-week low at 60.99 USD",
-    "tokens": [
-      "hits",
-      "holdings",
-      "howard",
-      "hughes",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789412299.3515654
-  },
-  {
-    "id": "a-highly-anticipated-fed-meeting-war-worries-and-an-unblinking-stock-market-what-to-watch-this-week-100000843.html",
-    "title": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week",
-    "tokens": [
-      "anticipated",
-      "fed",
-      "highly",
-      "market",
-      "meeting",
-      "stock",
-      "unblinking",
-      "war",
-      "watch",
-      "week",
-      "what",
-      "worries"
-    ],
-    "ts": 1789412308.3293145
-  },
-  {
-    "id": "best-cd-rates-today-sunday-september-13-2026-lock-in-up-to-435-apy-100000271.html",
-    "title": "Best CD rates today, Sunday, September 13, 2026: Lock in up to 4.35% APY",
-    "tokens": [
-      "2026",
-      "apy",
-      "best",
-      "lock",
-      "rates",
-      "september",
-      "sunday",
-      "today"
-    ],
-    "ts": 1789412312.3446825
-  },
-  {
-    "id": "argan-agx-power-boom-comes-100043772.html",
-    "title": "Argan’s (AGX) Power Boom Comes With A Margin Catch",
-    "tokens": [
-      "agx",
-      "argan",
-      "boom",
-      "catch",
-      "comes",
-      "margin",
-      "power"
-    ],
-    "ts": 1789412315.2639434
-  },
-  {
     "id": "7d379521-f09b-4d4a-8052-63a80d784a03",
     "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
     "tokens": [
@@ -23064,5 +22858,198 @@
       "winter"
     ],
     "ts": 1789571542.131888
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-brinker-international-stock-gaining-today-93CH-4904085",
+    "title": "Why is Brinker International stock gaining today?",
+    "tokens": [
+      "brinker",
+      "gaining",
+      "international",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789572453.988015
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-arcus-biosciences-stock-rallying-today-93CH-4904084",
+    "title": "Why is Arcus Biosciences stock rallying today?",
+    "tokens": [
+      "arcus",
+      "biosciences",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789572461.4293394
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-dollarama-tops-q2-2026-estimates-as-stock-rises-35-93CH-4904083",
+    "title": "Earnings call transcript: Dollarama tops Q2 2026 estimates as stock rises 3.5%",
+    "tokens": [
+      "2026",
+      "call",
+      "dollarama",
+      "earnings",
+      "estimates",
+      "rises",
+      "stock",
+      "tops",
+      "transcript"
+    ],
+    "ts": 1789572469.639298
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/essex-property-trust-at-bofa-real-estate-conference-west-coast-edge-93CH-4904082",
+    "title": "Essex Property Trust at BofA real estate conference: west coast edge",
+    "tokens": [
+      "bofa",
+      "coast",
+      "conference",
+      "edge",
+      "essex",
+      "estate",
+      "property",
+      "real",
+      "trust",
+      "west"
+    ],
+    "ts": 1789572478.061565
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/myomo-at-hc-wainwright-conference-referral-shift-drives-growth-93CH-4904081",
+    "title": "Myomo at H.C. Wainwright conference: referral shift drives growth",
+    "tokens": [
+      "conference",
+      "drives",
+      "growth",
+      "myomo",
+      "referral",
+      "shift",
+      "wainwright"
+    ],
+    "ts": 1789572485.2393928
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/bioage-labs-at-morgan-stanley-conference-bge102-gains-focus-93CH-4904080",
+    "title": "BioAge Labs at Morgan Stanley conference: BGE-102 gains focus",
+    "tokens": [
+      "102",
+      "bge",
+      "bioage",
+      "conference",
+      "focus",
+      "gains",
+      "labs",
+      "morgan",
+      "stanley"
+    ],
+    "ts": 1789572492.9958162
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/one-liberty-properties-declares-045-quarterly-dividend-93CH-4904079",
+    "title": "One Liberty Properties declares $0.45 quarterly dividend",
+    "tokens": [
+      "declares",
+      "dividend",
+      "liberty",
+      "one",
+      "properties",
+      "quarterly"
+    ],
+    "ts": 1789572501.6080441
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/alumasc-fy26-slides-profit-falls-but-order-book-signals-recovery-93CH-4904078",
+    "title": "Alumasc FY26 slides: profit falls but order book signals recovery",
+    "tokens": [
+      "alumasc",
+      "book",
+      "falls",
+      "fy26",
+      "order",
+      "profit",
+      "recovery",
+      "signals",
+      "slides"
+    ],
+    "ts": 1789572508.5487618
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ecbs-pereira-inflation-not-yet-broadening-as-in-the-past-4904077",
+    "title": "ECB’s Pereira: Inflation not yet broadening as in the past",
+    "tokens": [
+      "broadening",
+      "ecb",
+      "inflation",
+      "past",
+      "pereira",
+      "yet"
+    ],
+    "ts": 1789572515.7185175
+  },
+  {
+    "id": "impulse-spaces-series-d-round-150705626.html",
+    "title": "Impulse Space's Series D round grows to $808 million as backlog expands",
+    "tokens": [
+      "808",
+      "backlog",
+      "expands",
+      "grows",
+      "impulse",
+      "million",
+      "round",
+      "series",
+      "space"
+    ],
+    "ts": 1789572522.813169
+  },
+  {
+    "id": "alluvium-raised-mckesson-mck-stake-150454748.html",
+    "title": "Alluvium Raised Its McKesson (MCK) Stake as Long-Term Growth Expectations Remain Strong",
+    "tokens": [
+      "alluvium",
+      "expectations",
+      "growth",
+      "long",
+      "mck",
+      "mckesson",
+      "raised",
+      "remain",
+      "stake",
+      "strong",
+      "term"
+    ],
+    "ts": 1789572529.7162588
+  },
+  {
+    "id": "why-fund-sold-brown-brown-145828796.html",
+    "title": "Here’s Why This Fund Sold Brown & Brown (BRO)",
+    "tokens": [
+      "bro",
+      "brown",
+      "fund",
+      "here",
+      "sold",
+      "why"
+    ],
+    "ts": 1789572536.5936449
+  },
+  {
+    "id": "sandiskcorp-sndk-ai-boom-fuels-145612588.html",
+    "title": "SandiskCorp. (SNDK): AI Boom Fuels Attractive Storage Market Opportunity",
+    "tokens": [
+      "attractive",
+      "boom",
+      "fuels",
+      "market",
+      "opportunity",
+      "sandiskcorp",
+      "sndk",
+      "storage"
+    ],
+    "ts": 1789572544.3590727
   }
 ]

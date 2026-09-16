@@ -1,318 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/temporal-raises-550m-valuation-more-than-doubles-to-1255b-93CH-4899906",
-    "title": "Temporal raises $550m, valuation more than doubles to $12.55b",
-    "tokens": [
-      "550m",
-      "55b",
-      "doubles",
-      "more",
-      "raises",
-      "temporal",
-      "valuation"
-    ],
-    "ts": 1789396486.821163
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/lula-and-bolsonaro-tied-in-brazil-election-polls-ahead-of-october-vote-93CH-4899905",
-    "title": "Lula and Bolsonaro tied in Brazil election polls ahead of October vote",
-    "tokens": [
-      "ahead",
-      "bolsonaro",
-      "brazil",
-      "election",
-      "lula",
-      "october",
-      "polls",
-      "tied",
-      "vote"
-    ],
-    "ts": 1789396495.113166
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/schneider-electric-options-activity-surges-after-64-singlesession-drop-93CH-4899904",
-    "title": "Schneider Electric options activity surges after -6.4% single-session drop",
-    "tokens": [
-      "activity",
-      "drop",
-      "electric",
-      "options",
-      "schneider",
-      "session",
-      "single",
-      "surges"
-    ],
-    "ts": 1789396502.1297705
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/gac-signs-deal-with-faw-group-for-stake-in-joint-venture-93CH-4899903",
-    "title": "GAC signs deal with FAW Group for stake in joint venture",
-    "tokens": [
-      "deal",
-      "faw",
-      "gac",
-      "group",
-      "joint",
-      "signs",
-      "stake",
-      "venture"
-    ],
-    "ts": 1789396508.661255
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/guggenheim-cuts-kroger-stock-price-target-to-66-on-volume-weakness-93CH-4899902",
-    "title": "Guggenheim cuts Kroger stock price target to $66 on volume weakness",
-    "tokens": [
-      "cuts",
-      "guggenheim",
-      "kroger",
-      "price",
-      "stock",
-      "target",
-      "volume",
-      "weakness"
-    ],
-    "ts": 1789396515.4682117
-  },
-  {
-    "id": "stock-market-today-sept-14-133832281.html",
-    "title": "Stock Market Today (Sept. 14, 2026): S&P 500 falls on rising oil prices, sagging AI stocks",
-    "tokens": [
-      "2026",
-      "500",
-      "falls",
-      "market",
-      "oil",
-      "prices",
-      "rising",
-      "sagging",
-      "sept",
-      "stock",
-      "stocks",
-      "today"
-    ],
-    "ts": 1789396522.7591412
-  },
-  {
-    "id": "bitmine-purchases-another-68-million-140500872.html",
-    "title": "Bitmine Purchases Another $68 Million Of Ethereum",
-    "tokens": [
-      "another",
-      "bitmine",
-      "ethereum",
-      "million",
-      "purchases"
-    ],
-    "ts": 1789396530.9078517
-  },
-  {
-    "id": "kalshi-offer-u-stock-commodities-140300562.html",
-    "title": "Kalshi To Offer U.S. Stock And Commodities Trading",
-    "tokens": [
-      "commodities",
-      "kalshi",
-      "offer",
-      "stock",
-      "trading"
-    ],
-    "ts": 1789396537.3964543
-  },
-  {
-    "id": "strategy-again-leaves-bitcoin-holdings-140100959.html",
-    "title": "Strategy Again Leaves Bitcoin Holdings Unchanged",
-    "tokens": [
-      "again",
-      "bitcoin",
-      "holdings",
-      "leaves",
-      "strategy",
-      "unchanged"
-    ],
-    "ts": 1789396546.3903966
-  },
-  {
-    "id": "291bbc52-ba9f-4f7d-b8c9-8c199315e0ad",
-    "title": "Don’t let perfect be the enemy of Clarity",
-    "tokens": [
-      "clarity",
-      "don",
-      "enemy",
-      "let",
-      "perfect"
-    ],
-    "ts": 1789396554.1286085
-  },
-  {
-    "id": "b13472b9-ac88-442b-9b98-5dfed88bf649",
-    "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
-    "tokens": [
-      "act",
-      "agreed",
-      "clarity",
-      "donald",
-      "ethics",
-      "here",
-      "provision",
-      "revised",
-      "trump"
-    ],
-    "ts": 1789396566.447421
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-lacks-funding-to-complete-first-phase-of-air-traffic-control-reforms-4899956",
-    "title": "US lacks funding to complete first phase of air traffic control reforms",
-    "tokens": [
-      "air",
-      "complete",
-      "control",
-      "first",
-      "funding",
-      "lacks",
-      "phase",
-      "reforms",
-      "traffic"
-    ],
-    "ts": 1789397905.985059
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/biomarin-at-morgan-stanley-conference-growth-deals-and-pipeline-bets-93CH-4899954",
-    "title": "BioMarin at Morgan Stanley conference: growth, deals and pipeline bets",
-    "tokens": [
-      "bets",
-      "biomarin",
-      "conference",
-      "deals",
-      "growth",
-      "morgan",
-      "pipeline",
-      "stanley"
-    ],
-    "ts": 1789397913.2416844
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/quest-diagnostics-at-morgan-stanley-conference-growth-broadens-93CH-4899953",
-    "title": "Quest Diagnostics at Morgan Stanley conference: growth broadens",
-    "tokens": [
-      "broadens",
-      "conference",
-      "diagnostics",
-      "growth",
-      "morgan",
-      "quest",
-      "stanley"
-    ],
-    "ts": 1789397920.6663814
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/charles-river-laboratories-at-morgan-stanley-conference-growth-inflection-seen-93CH-4899952",
-    "title": "Charles River Laboratories at Morgan Stanley conference: growth inflection seen",
-    "tokens": [
-      "charles",
-      "conference",
-      "growth",
-      "inflection",
-      "laboratories",
-      "morgan",
-      "river",
-      "seen",
-      "stanley"
-    ],
-    "ts": 1789397928.0671296
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-pharvaris-stock-rating-after-trial-data-93CH-4899951",
-    "title": "Cantor Fitzgerald reiterates Pharvaris stock rating after trial data",
-    "tokens": [
-      "cantor",
-      "data",
-      "fitzgerald",
-      "pharvaris",
-      "rating",
-      "reiterates",
-      "stock",
-      "trial"
-    ],
-    "ts": 1789397934.9606879
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/alnylam-at-morgan-stanley-conference-ttr-growth-offsets-guidance-trim-93CH-4899950",
-    "title": "Alnylam at Morgan Stanley conference: ttr growth offsets guidance trim",
-    "tokens": [
-      "alnylam",
-      "conference",
-      "growth",
-      "guidance",
-      "morgan",
-      "offsets",
-      "stanley",
-      "trim",
-      "ttr"
-    ],
-    "ts": 1789397941.3665147
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/faa-needs-more-funds-to-finish-air-traffic-control-overhaul-93CH-4899949",
-    "title": "FAA needs more funds to finish air traffic control overhaul",
-    "tokens": [
-      "air",
-      "control",
-      "faa",
-      "finish",
-      "funds",
-      "more",
-      "needs",
-      "overhaul",
-      "traffic"
-    ],
-    "ts": 1789397949.1904128
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/epa-to-undo-carbon-emission-limits-for-power-plants-at-g20-meeting-4899948",
-    "title": "EPA to undo carbon emission limits for power plants at G20 meeting",
-    "tokens": [
-      "carbon",
-      "emission",
-      "epa",
-      "g20",
-      "limits",
-      "meeting",
-      "plants",
-      "power",
-      "undo"
-    ],
-    "ts": 1789397956.2400641
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-data-centers-to-use-more-natural-gas-than-most-countries--report-4899947",
-    "title": "US data centers to use more natural gas than most countries - report",
-    "tokens": [
-      "centers",
-      "countries",
-      "data",
-      "gas",
-      "more",
-      "most",
-      "natural",
-      "report",
-      "use"
-    ],
-    "ts": 1789397962.6296594
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-tyra-biosciences-stock-rating-93CH-4899946",
-    "title": "Cantor Fitzgerald reiterates Tyra Biosciences stock rating",
-    "tokens": [
-      "biosciences",
-      "cantor",
-      "fitzgerald",
-      "rating",
-      "reiterates",
-      "stock",
-      "tyra"
-    ],
-    "ts": 1789397969.2081232
-  },
-  {
     "id": "10-year-treasury-yield-climbs-to-5-for-the-first-time-since-2023-123457398.html",
     "title": "10-year Treasury yield climbs to 5% for the first time since 2023",
     "tokens": [
@@ -23024,5 +22711,345 @@
       "shortage"
     ],
     "ts": 1789554738.1914635
+  },
+  {
+    "id": "WP-MKTW-0005233996",
+    "title": "5% Treasury yields mean America’s debt bill just got a lot bigger",
+    "tokens": [
+      "america",
+      "bigger",
+      "bill",
+      "debt",
+      "got",
+      "just",
+      "lot",
+      "mean",
+      "treasury",
+      "yields"
+    ],
+    "ts": 1789556016.3349068
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/the-italian-sea-group-stock-surges-on-11-nonbinding-takeover-offers-93CH-4903338",
+    "title": "The Italian Sea Group stock surges on 11 non-binding takeover offers",
+    "tokens": [
+      "binding",
+      "group",
+      "italian",
+      "non",
+      "offers",
+      "sea",
+      "stock",
+      "surges",
+      "takeover"
+    ],
+    "ts": 1789556022.6914756
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-luxexperience-stock-surging-today-93CH-4903336",
+    "title": "Why is LuxExperience stock surging today?",
+    "tokens": [
+      "luxexperience",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789556026.7066498
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/beneficient-reports-insider-share-purchases-by-executives-and-directors-93CH-4903335",
+    "title": "Beneficient reports insider share purchases by executives and directors",
+    "tokens": [
+      "beneficient",
+      "directors",
+      "executives",
+      "insider",
+      "purchases",
+      "reports",
+      "share"
+    ],
+    "ts": 1789556029.455611
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/luxexperience-shares-climb-8-on-revenue-beat-despite-earnings-miss-93CH-4903322",
+    "title": "LuxExperience shares leap 16% on revenue beat despite earnings miss",
+    "tokens": [
+      "beat",
+      "despite",
+      "earnings",
+      "leap",
+      "luxexperience",
+      "miss",
+      "revenue",
+      "shares"
+    ],
+    "ts": 1789556036.073351
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/kepler-downgrades-abf-as-delayed-split-removes-potential-catalyst-4903324",
+    "title": "Kepler downgrades ABF as delayed split removes potential catalyst",
+    "tokens": [
+      "abf",
+      "catalyst",
+      "delayed",
+      "downgrades",
+      "kepler",
+      "potential",
+      "removes",
+      "split"
+    ],
+    "ts": 1789556043.3283033
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/european-stocks-rise-from-3month-lows-as-traders-await-highstakes-fed-decision-4902888",
+    "title": "European stocks rise from 3-month lows as traders await high-stakes Fed decision",
+    "tokens": [
+      "await",
+      "decision",
+      "european",
+      "fed",
+      "high",
+      "lows",
+      "month",
+      "rise",
+      "stakes",
+      "stocks",
+      "traders"
+    ],
+    "ts": 1789556050.1582139
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-beta-bionics-stock-sliding-today-93CH-4903323",
+    "title": "Why is Beta Bionics stock sliding today?",
+    "tokens": [
+      "beta",
+      "bionics",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789556054.1735299
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/circle-launches-arc-blockchain-with-institutional-validators-93CH-4903321",
+    "title": "Circle launches Arc blockchain with institutional validators",
+    "tokens": [
+      "arc",
+      "blockchain",
+      "circle",
+      "institutional",
+      "launches",
+      "validators"
+    ],
+    "ts": 1789556056.4941761
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/medtronic-receives-fda-clearance-for-ligasure-robotic-instrument-93CH-4903320",
+    "title": "Medtronic receives FDA clearance for LigaSure robotic instrument",
+    "tokens": [
+      "clearance",
+      "fda",
+      "instrument",
+      "ligasure",
+      "medtronic",
+      "receives",
+      "robotic"
+    ],
+    "ts": 1789556063.720489
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/workers-at-german-auto-supplier-bosch-call-for-eu-action-to-stem-job-losses-4903269",
+    "title": "Workers at German auto supplier Bosch call for EU action to stem job losses",
+    "tokens": [
+      "action",
+      "auto",
+      "bosch",
+      "call",
+      "german",
+      "job",
+      "losses",
+      "stem",
+      "supplier",
+      "workers"
+    ],
+    "ts": 1789556067.7371953
+  },
+  {
+    "id": "?src=A00220&yptr=yahoo",
+    "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; Will Market Bid Bond Voyage After Fed Rate Hike?",
+    "tokens": [
+      "bid",
+      "bond",
+      "buys",
+      "dow",
+      "fed",
+      "futures",
+      "hike",
+      "jones",
+      "lead",
+      "market",
+      "rate",
+      "rise",
+      "servicenow",
+      "twilio",
+      "voyage"
+    ],
+    "ts": 1789556070.704045
+  },
+  {
+    "id": "morning-bid-time-hike-104329450.html",
+    "title": "Morning Bid: A time to hike?",
+    "tokens": [
+      "bid",
+      "hike",
+      "morning",
+      "time"
+    ],
+    "ts": 1789556077.029164
+  },
+  {
+    "id": "gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html",
+    "title": "Gold price today, Wednesday, September 16, 2026: Gold holds in the $4,300 range, awaiting the Fed's decision",
+    "tokens": [
+      "2026",
+      "300",
+      "awaiting",
+      "decision",
+      "fed",
+      "gold",
+      "holds",
+      "price",
+      "range",
+      "september",
+      "today",
+      "wednesday"
+    ],
+    "ts": 1789556083.3878164
+  },
+  {
+    "id": "kevin-o-leary-barbara-corcoran-103500907.html",
+    "title": "Kevin O’Leary, Barbara Corcoran and Robert Herjavec all avoid mixing money and family. Why retirees should do the same",
+    "tokens": [
+      "all",
+      "avoid",
+      "barbara",
+      "corcoran",
+      "family",
+      "herjavec",
+      "kevin",
+      "leary",
+      "mixing",
+      "money",
+      "retirees",
+      "robert",
+      "same",
+      "should",
+      "why"
+    ],
+    "ts": 1789556090.5356958
+  },
+  {
+    "id": "zscaler-inc-zs-growth-engine-102049877.html",
+    "title": "Zscaler, Inc. (ZS)’s Growth Engine Is Strong, But Slowing ARR Could Pressure the Stock",
+    "tokens": [
+      "arr",
+      "could",
+      "engine",
+      "growth",
+      "inc",
+      "pressure",
+      "slowing",
+      "stock",
+      "strong",
+      "zscaler"
+    ],
+    "ts": 1789556098.9427893
+  },
+  {
+    "id": "dead-money-savings-account-losing-101500222.html",
+    "title": "‘Dead money’: Your savings account is losing a fight with inflation. Here’s where 3 financial advisors put cash instead",
+    "tokens": [
+      "account",
+      "advisors",
+      "cash",
+      "dead",
+      "fight",
+      "financial",
+      "here",
+      "inflation",
+      "instead",
+      "losing",
+      "money",
+      "put",
+      "savings",
+      "where",
+      "your"
+    ],
+    "ts": 1789556105.7245772
+  },
+  {
+    "id": "1122daa8-cd36-4130-bb63-0a1a9a317a13",
+    "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+    "tokens": [
+      "450",
+      "act",
+      "bitcoin",
+      "clarity",
+      "etfs",
+      "fails",
+      "million",
+      "shed"
+    ],
+    "ts": 1789556113.845121
+  },
+  {
+    "id": "fb69482c-6d62-4c44-9506-e38da0884bde",
+    "title": "Deutsche Bank close to debuting crypto custody for institutions",
+    "tokens": [
+      "bank",
+      "close",
+      "crypto",
+      "custody",
+      "debuting",
+      "deutsche",
+      "institutions"
+    ],
+    "ts": 1789556120.300867
+  },
+  {
+    "id": "fb511d30-3ff9-4f84-bbec-8ab071419ae9",
+    "title": "Live updates: Zcash climbs 6% as majors slide ahead of Fed rate decision",
+    "tokens": [
+      "ahead",
+      "climbs",
+      "decision",
+      "fed",
+      "live",
+      "majors",
+      "rate",
+      "slide",
+      "updates",
+      "zcash"
+    ],
+    "ts": 1789556126.9336557
+  },
+  {
+    "id": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody",
+    "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
+    "tokens": [
+      "awaits",
+      "bank",
+      "crypto",
+      "custody",
+      "deutsche",
+      "institutional",
+      "launch",
+      "nod",
+      "regulatory",
+      "solutions"
+    ],
+    "ts": 1789556134.4615262
   }
 ]

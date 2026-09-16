@@ -1,117 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology-4900909",
-    "title": "MediaTek launches new mobile chip using TSMC’s most advanced technology",
-    "tokens": [
-      "advanced",
-      "chip",
-      "launches",
-      "mediatek",
-      "mobile",
-      "most",
-      "technology",
-      "tsmc",
-      "using"
-    ],
-    "ts": 1789459038.9589195
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-everplay-stock-rallying-today-93CH-4900908",
-    "title": "Why is Everplay stock rallying today?",
-    "tokens": [
-      "everplay",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789459042.9738562
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-kier-stock-rallying-today-93CH-4900907",
-    "title": "Why is Kier stock rallying today?",
-    "tokens": [
-      "kier",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789459042.9883773
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-wickes-stock-surging-today-93CH-4900906",
-    "title": "Why is Wickes stock surging today?",
-    "tokens": [
-      "stock",
-      "surging",
-      "today",
-      "why",
-      "wickes"
-    ],
-    "ts": 1789459043.0022743
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lake-energy-secures-80-million-for-us-renewable-energy-expansion-4900905",
-    "title": "Lake Energy Secures $80 Million for U.S. Renewable Energy Expansion",
-    "tokens": [
-      "energy",
-      "expansion",
-      "lake",
-      "million",
-      "renewable",
-      "secures"
-    ],
-    "ts": 1789459045.8729079
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/gsk-shares-rise-as-berenberg-upgrades-to-buy-on-stronger-drug-pipeline-4900938",
-    "title": "GSK shares rise as Berenberg upgrades to Buy on stronger drug pipeline",
-    "tokens": [
-      "berenberg",
-      "buy",
-      "drug",
-      "gsk",
-      "pipeline",
-      "rise",
-      "shares",
-      "stronger",
-      "upgrades"
-    ],
-    "ts": 1789460173.0599327
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/deutsche-bank-upgrades-astrazeneca-stock-rating-to-hold-on-trial-results-93CH-4900936",
-    "title": "Deutsche Bank upgrades AstraZeneca stock rating to hold on trial results",
-    "tokens": [
-      "astrazeneca",
-      "bank",
-      "deutsche",
-      "hold",
-      "rating",
-      "results",
-      "stock",
-      "trial",
-      "upgrades"
-    ],
-    "ts": 1789460180.4062192
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/rio-tinto-sets-currency-exchange-rates-for-interim-dividend-93CH-4900935",
-    "title": "Rio Tinto sets currency exchange rates for interim dividend",
-    "tokens": [
-      "currency",
-      "dividend",
-      "exchange",
-      "interim",
-      "rates",
-      "rio",
-      "sets",
-      "tinto"
-    ],
-    "ts": 1789460188.4353833
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-puig-brands-stock-sliding-today-93CH-4900934",
     "title": "Why is Puig Brands stock sliding today?",
     "tokens": [
@@ -23043,5 +22931,121 @@
       "uber"
     ],
     "ts": 1789602035.924717
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exxon-advances-talks-to-return-to-venezuelas-orinoco-belt-sources-say-4904694",
+    "title": "Exxon advances talks to return to Venezuela’s Orinoco Belt, sources say",
+    "tokens": [
+      "advances",
+      "belt",
+      "exxon",
+      "orinoco",
+      "return",
+      "say",
+      "sources",
+      "talks",
+      "venezuela"
+    ],
+    "ts": 1789602629.2829256
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/fox-executive-chair-lachlan-murdoch-sells-102m-shares-93CH-4904693",
+    "title": "Fox executive chair Lachlan Murdoch sells $10.2m shares",
+    "tokens": [
+      "chair",
+      "executive",
+      "fox",
+      "lachlan",
+      "murdoch",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789602637.771436
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/planet-fitness-coo-william-bode-sells-358540-in-shares-93CH-4904692",
+    "title": "Planet Fitness COO William Bode sells $358,540 in shares",
+    "tokens": [
+      "358",
+      "540",
+      "bode",
+      "coo",
+      "fitness",
+      "planet",
+      "sells",
+      "shares",
+      "william"
+    ],
+    "ts": 1789602645.3779538
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/new-zealand-q2-gdp-up-more-than-expected-but-growth-remains-sluggish-93CH-4904691",
+    "title": "New Zealand Q2 GDP up more than expected, but growth remains sluggish",
+    "tokens": [
+      "expected",
+      "gdp",
+      "growth",
+      "more",
+      "remains",
+      "sluggish",
+      "zealand"
+    ],
+    "ts": 1789602653.5111642
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/academy-sports-president-samuel-johnson-sells-5-million-in-stock-93CH-4904690",
+    "title": "Academy sports president Samuel Johnson sells $5 million in stock",
+    "tokens": [
+      "academy",
+      "johnson",
+      "million",
+      "president",
+      "samuel",
+      "sells",
+      "sports",
+      "stock"
+    ],
+    "ts": 1789602660.0869663
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/planet-fitness-director-tanco-buys-119259-in-stock-93CH-4904689",
+    "title": "Planet Fitness director Tanco buys $119,259 in stock",
+    "tokens": [
+      "119",
+      "259",
+      "buys",
+      "director",
+      "fitness",
+      "planet",
+      "stock",
+      "tanco"
+    ],
+    "ts": 1789602666.4797165
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/stonexs-diego-rotsztain-sells-345m-in-stock-93CH-4904688",
+    "title": "StoneX’s Diego Rotsztain sells $3.45m in stock",
+    "tokens": [
+      "45m",
+      "diego",
+      "rotsztain",
+      "sells",
+      "stock",
+      "stonex"
+    ],
+    "ts": 1789602673.533634
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/roku-cfo--coo-jedda-sells-11m-in-stock-93CH-4904687",
+    "title": "Roku CFO & COO Jedda sells $1.1m in stock",
+    "tokens": [
+      "cfo",
+      "coo",
+      "jedda",
+      "roku",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789602680.3720288
   }
 ]

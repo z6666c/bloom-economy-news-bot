@@ -1,104 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/inspiremd-at-hc-wainwright-conference-eyeing-carotid-market-share-93CH-4900645",
-    "title": "InspireMD at H.C. Wainwright conference: eyeing carotid market share",
-    "tokens": [
-      "carotid",
-      "conference",
-      "eyeing",
-      "inspiremd",
-      "market",
-      "share",
-      "wainwright"
-    ],
-    "ts": 1789424941.9208217
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/atricure-director-regina-groves-sells-288070-of-stock-93CH-4900644",
-    "title": "AtriCure director Regina Groves sells $288,070 of stock",
-    "tokens": [
-      "070",
-      "288",
-      "atricure",
-      "director",
-      "groves",
-      "regina",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789424948.8431282
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/zevra-at-morgan-stanley-conference-raredisease-market-looks-bigger-93CH-4900643",
-    "title": "Zevra at Morgan Stanley conference: rare-disease market looks bigger",
-    "tokens": [
-      "bigger",
-      "conference",
-      "disease",
-      "looks",
-      "market",
-      "morgan",
-      "rare",
-      "stanley",
-      "zevra"
-    ],
-    "ts": 1789424955.8816323
-  },
-  {
-    "id": "willis-lease-finance-wlfc-grows-134921293.html",
-    "title": "Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks",
-    "tokens": [
-      "bottom",
-      "fast",
-      "finance",
-      "grows",
-      "lease",
-      "line",
-      "shrinks",
-      "while",
-      "willis",
-      "wlfc"
-    ],
-    "ts": 1789424963.7781858
-  },
-  {
-    "id": "conocophillips-stock-worth-buying-shorting-140002756.html",
-    "title": "Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays",
-    "tokens": [
-      "better",
-      "buying",
-      "conocophillips",
-      "cop",
-      "credit",
-      "here",
-      "plays",
-      "puts",
-      "shorting",
-      "spreads",
-      "stock",
-      "worth"
-    ],
-    "ts": 1789424971.02702
-  },
-  {
-    "id": "nvidia-older-gpus-still-earn-140210350.html",
-    "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
-    "tokens": [
-      "coreweave",
-      "does",
-      "doesn",
-      "earn",
-      "gpus",
-      "nvidia",
-      "older",
-      "prove",
-      "rent",
-      "still",
-      "what"
-    ],
-    "ts": 1789425871.01549
-  },
-  {
     "id": "alibaba-amazon-face-same-ai-140837189.html",
     "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
     "tokens": [
@@ -23137,5 +23038,109 @@
       "straight"
     ],
     "ts": 1789584962.113567
+  },
+  {
+    "id": "WP-MKTW-0005237157",
+    "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+    "tokens": [
+      "000",
+      "bad",
+      "cash",
+      "heloc",
+      "need",
+      "off",
+      "paid",
+      "property",
+      "rental",
+      "take",
+      "time"
+    ],
+    "ts": 1789585809.381074
+  },
+  {
+    "id": "WP-MKTW-0005237026",
+    "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
+    "tokens": [
+      "different",
+      "else",
+      "everyone",
+      "game",
+      "google",
+      "may",
+      "missing",
+      "playing",
+      "point",
+      "street",
+      "wall"
+    ],
+    "ts": 1789585816.7136924
+  },
+  {
+    "id": "trump-offers-500-aca-rebate-100000294.html",
+    "title": "Trump offers $500 ACA rebate to 1 million Americans — critics pounce on how he ‘gutted’ healthcare in the first place",
+    "tokens": [
+      "500",
+      "aca",
+      "americans",
+      "critics",
+      "first",
+      "gutted",
+      "healthcare",
+      "how",
+      "million",
+      "offers",
+      "place",
+      "pounce",
+      "rebate",
+      "trump"
+    ],
+    "ts": 1789585824.853048
+  },
+  {
+    "id": "wall-street-pushes-back-on-anthropics-warning-as-ai-spending-expected-to-roll-on-chart-of-the-day-100000270.html",
+    "title": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
+    "tokens": [
+      "anthropic",
+      "back",
+      "chart",
+      "day",
+      "expected",
+      "pushes",
+      "roll",
+      "spending",
+      "street",
+      "wall",
+      "warning"
+    ],
+    "ts": 1789585833.1134741
+  },
+  {
+    "id": "doordash-buys-grubhub-campus-unit-100227290.html",
+    "title": "DoorDash buys Grubhub campus unit for $300M",
+    "tokens": [
+      "300m",
+      "buys",
+      "campus",
+      "doordash",
+      "grubhub",
+      "unit"
+    ],
+    "ts": 1789585840.4963803
+  },
+  {
+    "id": "f99e5165-9ac5-4bb2-8926-b38d01180aac",
+    "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+    "tokens": [
+      "customer",
+      "data",
+      "demand",
+      "hackers",
+      "million",
+      "monero",
+      "revolut",
+      "sell",
+      "threaten"
+    ],
+    "ts": 1789585849.4273899
   }
 ]

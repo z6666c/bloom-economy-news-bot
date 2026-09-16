@@ -1,35 +1,5 @@
 [
   {
-    "id": "9ce678d1-0577-4847-b046-89efc6291b92",
-    "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
-    "tokens": [
-      "clarity",
-      "crypto",
-      "even",
-      "fails",
-      "push",
-      "stop",
-      "street",
-      "unlikely",
-      "wall"
-    ],
-    "ts": 1789429902.4869912
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/moodys-to-acquire-minority-stake-in-philippine-rating-agency-93CH-4900682",
-    "title": "Moody’s to acquire minority stake in Philippine rating agency",
-    "tokens": [
-      "acquire",
-      "agency",
-      "minority",
-      "moody",
-      "philippine",
-      "rating",
-      "stake"
-    ],
-    "ts": 1789431334.6027417
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/pro-dex-ceo-richard-van-kirk-sells-45412-in-pdex-stock-93CH-4900679",
     "title": "Pro Dex CEO Richard Van Kirk sells $45,412 in PDEX stock",
     "tokens": [
@@ -23102,5 +23072,34 @@
       "uranium"
     ],
     "ts": 1789587616.9363928
+  },
+  {
+    "id": "target-stock-option-trade-targets-110002304.html",
+    "title": "Target Stock Option Trade Targets a Price of $170 by Nov 20th",
+    "tokens": [
+      "170",
+      "20th",
+      "nov",
+      "option",
+      "price",
+      "stock",
+      "target",
+      "targets",
+      "trade"
+    ],
+    "ts": 1789588245.666811
+  },
+  {
+    "id": "raymond-james-financial-stock-underperforming-110215072.html",
+    "title": "Is Raymond James Financial Stock Underperforming the S&P 500?",
+    "tokens": [
+      "500",
+      "financial",
+      "james",
+      "raymond",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1789588253.6998367
   }
 ]

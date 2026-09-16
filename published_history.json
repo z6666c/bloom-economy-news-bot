@@ -1,213 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/sec-filings/toyota-motor-credit-renews-60-billion-euro-medium-term-note-program-93CH-4899181",
-    "title": "Toyota Motor Credit renews €60 billion Euro Medium Term Note program",
-    "tokens": [
-      "billion",
-      "credit",
-      "euro",
-      "medium",
-      "motor",
-      "note",
-      "program",
-      "renews",
-      "term",
-      "toyota"
-    ],
-    "ts": 1789384281.929222
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-medpace-stock-rating-at-hold-with-560-target-93CH-4899175",
-    "title": "Jefferies reiterates Medpace stock rating at Hold with $560 target",
-    "tokens": [
-      "560",
-      "hold",
-      "jefferies",
-      "medpace",
-      "rating",
-      "reiterates",
-      "stock",
-      "target"
-    ],
-    "ts": 1789384288.5433295
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tyra-biosciences-prices-400-million-stock-offering-93CH-4899174",
-    "title": "Tyra Biosciences prices $400 million stock offering",
-    "tokens": [
-      "400",
-      "biosciences",
-      "million",
-      "offering",
-      "prices",
-      "stock",
-      "tyra"
-    ],
-    "ts": 1789384295.951059
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/morning-bid-go-slow-ai-4899169",
-    "title": "Morning Bid: Go slow AI",
-    "tokens": [
-      "bid",
-      "morning",
-      "slow"
-    ],
-    "ts": 1789384302.4869418
-  },
-  {
-    "id": "owe-13-000-car-suddenly-104500487.html",
-    "title": "I owe $13,000 on my car, but it suddenly needs a new $9,000 engine — I can’t afford that. What am I supposed to do now?",
-    "tokens": [
-      "000",
-      "afford",
-      "can",
-      "car",
-      "engine",
-      "needs",
-      "now",
-      "owe",
-      "suddenly",
-      "supposed",
-      "what"
-    ],
-    "ts": 1789384309.6991534
-  },
-  {
-    "id": "morning-bid-slow-ai-103901753.html",
-    "title": "Morning Bid: Go slow AI",
-    "tokens": [
-      "bid",
-      "morning",
-      "slow"
-    ],
-    "ts": 1789384313.7146745
-  },
-  {
-    "id": "eli-lilly-fell-rock-over-110157227.html",
-    "title": "Eli Lilly Fell Like a Rock Over the Last Month: This Big Bank Expects 45% Returns Over The Next Twelve",
-    "tokens": [
-      "bank",
-      "big",
-      "eli",
-      "expects",
-      "fell",
-      "last",
-      "like",
-      "lilly",
-      "month",
-      "next",
-      "returns",
-      "rock",
-      "twelve"
-    ],
-    "ts": 1789384316.1491165
-  },
-  {
-    "id": "WP-MKTW-0005230207",
-    "title": "AI has carried the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
-    "tokens": [
-      "carried",
-      "could",
-      "giant",
-      "industry",
-      "market",
-      "pause",
-      "pull",
-      "rug",
-      "stock",
-      "street",
-      "wall",
-      "warns"
-    ],
-    "ts": 1789385329.0588417
-  },
-  {
-    "id": "https://www.investing.com/news/investment-ideas/kelly-services-delivers-67-return-after-fair-value-signal-93CH-4899242",
-    "title": "Kelly Services delivers 67% return after Fair Value signal",
-    "tokens": [
-      "delivers",
-      "fair",
-      "kelly",
-      "return",
-      "services",
-      "signal",
-      "value"
-    ],
-    "ts": 1789385336.8677673
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/waldencast-to-delist-from-nasdaq-rebrand-as-milk-makeup-93CH-4899240",
-    "title": "Waldencast to delist from Nasdaq, rebrand as Milk Makeup",
-    "tokens": [
-      "delist",
-      "makeup",
-      "milk",
-      "nasdaq",
-      "rebrand",
-      "waldencast"
-    ],
-    "ts": 1789385343.3401062
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/corbus-reports-phase-1b-obesity-drug-trial-results-93CH-4899239",
-    "title": "Corbus reports phase 1b obesity drug trial results",
-    "tokens": [
-      "corbus",
-      "drug",
-      "obesity",
-      "phase",
-      "reports",
-      "results",
-      "trial"
-    ],
-    "ts": 1789385350.6716123
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/airjoule-acquires-bitsink-for-up-to-67m-to-expand-into-ai-data-centers-93CH-4899238",
-    "title": "AirJoule acquires BitSink for up to $67M to expand into AI data centers",
-    "tokens": [
-      "67m",
-      "acquires",
-      "airjoule",
-      "bitsink",
-      "centers",
-      "data",
-      "expand"
-    ],
-    "ts": 1789385357.7219481
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pbf-energy-subsidiary-plans-500-million-exchangeable-note-offer-93CH-4899234",
-    "title": "PBF Energy subsidiary plans $500 million exchangeable note offer",
-    "tokens": [
-      "500",
-      "energy",
-      "exchangeable",
-      "million",
-      "note",
-      "offer",
-      "pbf",
-      "plans",
-      "subsidiary"
-    ],
-    "ts": 1789385364.0890253
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/phio-pharmaceuticals-submits-fda-briefing-for-ph762-study-93CH-4899235",
-    "title": "Phio Pharmaceuticals submits FDA briefing for PH-762 study",
-    "tokens": [
-      "762",
-      "briefing",
-      "fda",
-      "pharmaceuticals",
-      "phio",
-      "study",
-      "submits"
-    ],
-    "ts": 1789385370.5090797
-  },
-  {
     "id": "https://www.investing.com/news/company-news/realty-income-kkr-form-528m-european-joint-venture-93CH-4899236",
     "title": "Realty Income, KKR form €528M European joint venture",
     "tokens": [
@@ -22946,5 +22738,240 @@
       "without"
     ],
     "ts": 1789542979.8423488
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
+    "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
+    "tokens": [
+      "brace",
+      "decision",
+      "euro",
+      "fed",
+      "linger",
+      "multi",
+      "peaks",
+      "rate",
+      "traders",
+      "year",
+      "yields",
+      "zone"
+    ],
+    "ts": 1789544472.9475067
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/soitec-surges-as-jpmorgan-upgrades-stock-doubles-price-target-on-photonics-boom-4903006",
+    "title": "Soitec surges as JPMorgan upgrades stock, doubles price target on photonics boom",
+    "tokens": [
+      "boom",
+      "doubles",
+      "jpmorgan",
+      "photonics",
+      "price",
+      "soitec",
+      "stock",
+      "surges",
+      "target",
+      "upgrades"
+    ],
+    "ts": 1789544480.289068
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
+    "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
+    "tokens": [
+      "auto",
+      "basis",
+      "chain",
+      "dao",
+      "earn",
+      "expands",
+      "goes",
+      "infrastructure",
+      "live",
+      "network",
+      "partnership",
+      "pro",
+      "xdc",
+      "zypher"
+    ],
+    "ts": 1789544487.3679006
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/eu-will-use-all-tools-to-cut-china-trade-deficitvon-der-leyen-says-4903003",
+    "title": "EU will use all tools to cut China trade deficit, von der Leyen says",
+    "tokens": [
+      "all",
+      "china",
+      "cut",
+      "deficit",
+      "der",
+      "leyen",
+      "tools",
+      "trade",
+      "use",
+      "von"
+    ],
+    "ts": 1789544494.9121213
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-miners-rally-beijing-presses-usiran-talk-4903000",
+    "title": "FTSE 100 today: Stocks edge higher as miners rally; Beijing presses U.S.-Iran talk",
+    "tokens": [
+      "100",
+      "beijing",
+      "edge",
+      "ftse",
+      "higher",
+      "iran",
+      "miners",
+      "presses",
+      "rally",
+      "stocks",
+      "talk",
+      "today"
+    ],
+    "ts": 1789544502.6292903
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/berenberg-raises-neste-stock-price-target-on-renewable-fuel-demand-93CH-4902999",
+    "title": "Berenberg raises Neste stock price target on renewable fuel demand",
+    "tokens": [
+      "berenberg",
+      "demand",
+      "fuel",
+      "neste",
+      "price",
+      "raises",
+      "renewable",
+      "stock",
+      "target"
+    ],
+    "ts": 1789544510.3173912
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/honeywell-at-morgan-stanleys-14th-annual-laguna-conference-growth-reset-93CH-4902995",
+    "title": "Honeywell at Morgan Stanley’s 14th annual Laguna Conference: growth reset",
+    "tokens": [
+      "14th",
+      "annual",
+      "conference",
+      "growth",
+      "honeywell",
+      "laguna",
+      "morgan",
+      "reset",
+      "stanley"
+    ],
+    "ts": 1789544517.3971596
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/european-shares-rise-as-oil-rally-pauses-all-eyes-on-fed-4902994",
+    "title": "European shares rise as oil rally pauses; all eyes on Fed",
+    "tokens": [
+      "all",
+      "european",
+      "eyes",
+      "fed",
+      "oil",
+      "pauses",
+      "rally",
+      "rise",
+      "shares"
+    ],
+    "ts": 1789544524.1620936
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-babcock-international-stock-climbing-today-93CH-4902993",
+    "title": "Why is Babcock International stock climbing today?",
+    "tokens": [
+      "babcock",
+      "climbing",
+      "international",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789544531.833898
+  },
+  {
+    "id": "accuray-aray-8-million-raysearch-200349571.html",
+    "title": "What Accuray’s (ARAY) $8 Million RaySearch Deal Means for Its Adaptive Therapy Push",
+    "tokens": [
+      "accuray",
+      "adaptive",
+      "aray",
+      "deal",
+      "means",
+      "million",
+      "push",
+      "raysearch",
+      "therapy",
+      "what"
+    ],
+    "ts": 1789544539.4199169
+  },
+  {
+    "id": "why-object-hitting-number-retirement-200047893.html",
+    "title": "Why I object to 'hitting a number' for retirement",
+    "tokens": [
+      "hitting",
+      "number",
+      "object",
+      "retirement",
+      "why"
+    ],
+    "ts": 1789544547.9320047
+  },
+  {
+    "id": "10-year-treasury-yield-briefly-tops-5-for-the-first-time-since-2023-123457398.html",
+    "title": "10-year Treasury yield briefly tops 5% for the first time since 2023",
+    "tokens": [
+      "2023",
+      "briefly",
+      "first",
+      "since",
+      "time",
+      "tops",
+      "treasury",
+      "year",
+      "yield"
+    ],
+    "ts": 1789544551.947346
+  },
+  {
+    "id": "going-pay-more-health-insurance-200554070.html",
+    "title": "You’re going to pay more for health insurance in 2027 as employers see costs jumping for the fifth straight year",
+    "tokens": [
+      "2027",
+      "costs",
+      "employers",
+      "fifth",
+      "going",
+      "health",
+      "insurance",
+      "jumping",
+      "more",
+      "pay",
+      "see",
+      "straight",
+      "year",
+      "you"
+    ],
+    "ts": 1789544555.1293411
+  },
+  {
+    "id": "acquisition-momentum-offset-profitability-headwinds-201205075.html",
+    "title": "Acquisition Momentum Offset by Profitability Headwinds for Mission Produce (AVO)",
+    "tokens": [
+      "acquisition",
+      "avo",
+      "headwinds",
+      "mission",
+      "momentum",
+      "offset",
+      "produce",
+      "profitability"
+    ],
+    "ts": 1789544717.0442512
   }
 ]

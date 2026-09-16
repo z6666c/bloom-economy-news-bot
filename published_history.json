@@ -1,204 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/enbridge-closes-c3-billion-equity-offering-93CH-4899556",
-    "title": "Enbridge closes C$3 billion equity offering",
-    "tokens": [
-      "billion",
-      "closes",
-      "enbridge",
-      "equity",
-      "offering"
-    ],
-    "ts": 1789389520.7344425
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/mobilicom-receives-followon-order-from-asia-robotics-maker-93CH-4899555",
-    "title": "Mobilicom receives follow-on order from Asia robotics maker",
-    "tokens": [
-      "asia",
-      "follow",
-      "maker",
-      "mobilicom",
-      "order",
-      "receives",
-      "robotics"
-    ],
-    "ts": 1789389527.3783538
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/mckesson-at-morgan-stanley-conference-outlook-rises-on-oncology-push-93CH-4899551",
-    "title": "McKesson at Morgan Stanley conference: outlook rises on oncology push",
-    "tokens": [
-      "conference",
-      "mckesson",
-      "morgan",
-      "oncology",
-      "outlook",
-      "push",
-      "rises",
-      "stanley"
-    ],
-    "ts": 1789389534.3280659
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/belite-bio-at-morgan-stanley-conference-tinlarebant-nears-key-fda-test-93CH-4899546",
-    "title": "Belite Bio at Morgan Stanley conference: tinlarebant nears key FDA test",
-    "tokens": [
-      "belite",
-      "bio",
-      "conference",
-      "fda",
-      "key",
-      "morgan",
-      "nears",
-      "stanley",
-      "test",
-      "tinlarebant"
-    ],
-    "ts": 1789389541.0607698
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dominari-holdings-president-kyle-wool-buys-209190-in-stock-93CH-4899542",
-    "title": "Dominari Holdings president Kyle Wool buys $209,190 in stock",
-    "tokens": [
-      "190",
-      "209",
-      "buys",
-      "dominari",
-      "holdings",
-      "kyle",
-      "president",
-      "stock",
-      "wool"
-    ],
-    "ts": 1789389547.6614153
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dominari-holdings-ceo-anthony-hayes-buys-209k-in-company-stock-93CH-4899541",
-    "title": "Dominari Holdings CEO Anthony Hayes buys $209k in company stock",
-    "tokens": [
-      "209k",
-      "anthony",
-      "buys",
-      "ceo",
-      "company",
-      "dominari",
-      "hayes",
-      "holdings",
-      "stock"
-    ],
-    "ts": 1789389554.3584642
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/seaport-downgrades-energy-recovery-stock-rating-on-middle-east-risks-93CH-4899540",
-    "title": "Seaport downgrades Energy Recovery stock rating on Middle East risks",
-    "tokens": [
-      "downgrades",
-      "east",
-      "energy",
-      "middle",
-      "rating",
-      "recovery",
-      "risks",
-      "seaport",
-      "stock"
-    ],
-    "ts": 1789389560.7337785
-  },
-  {
-    "id": "europe-gas-prices-jump-6-113000754.html",
-    "title": "Europe Gas Prices Jump 6% as Saudi Pipeline Shutdown Rattles Markets",
-    "tokens": [
-      "europe",
-      "gas",
-      "jump",
-      "markets",
-      "pipeline",
-      "prices",
-      "rattles",
-      "saudi",
-      "shutdown"
-    ],
-    "ts": 1789389567.355039
-  },
-  {
-    "id": "why-2-ceos-just-bought-121551864.html",
-    "title": "Why These 2 CEOs Just Bought Millions in Their Own Stocks",
-    "tokens": [
-      "bought",
-      "ceos",
-      "just",
-      "millions",
-      "own",
-      "stocks",
-      "their",
-      "these",
-      "why"
-    ],
-    "ts": 1789389574.0557737
-  },
-  {
-    "id": "oilprice-news-45487",
-    "title": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears",
-    "tokens": [
-      "108",
-      "brent",
-      "deepens",
-      "fears",
-      "hits",
-      "pipeline",
-      "saudi",
-      "shutdown",
-      "supply"
-    ],
-    "ts": 1789389578.9608154
-  },
-  {
-    "id": "4e86bdee-de20-42e5-a50d-d11c552c5d71",
-    "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
-    "tokens": [
-      "billion",
-      "buyers",
-      "dogecoin",
-      "etfs",
-      "funds",
-      "pulled",
-      "rival",
-      "solana",
-      "struggled",
-      "while",
-      "xrp"
-    ],
-    "ts": 1789389582.289842
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/mindwalk-secures-30m-credit-facility-at-7-interest-rate-93CH-4899648",
-    "title": "MindWalk secures $30M credit facility at 7% interest rate",
-    "tokens": [
-      "30m",
-      "credit",
-      "facility",
-      "interest",
-      "mindwalk",
-      "rate",
-      "secures"
-    ],
-    "ts": 1789390706.2596226
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/conduent-names-narayanan-sundaresan-as-technology-chief-93CH-4899647",
-    "title": "Conduent names Narayanan Sundaresan as technology chief",
-    "tokens": [
-      "chief",
-      "conduent",
-      "names",
-      "narayanan",
-      "sundaresan",
-      "technology"
-    ],
-    "ts": 1789390713.5486023
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/ideaya-biosciences-at-morgan-stanley-conference-darovasertib-leads-push-93CH-4899641",
     "title": "IDEAYA Biosciences at Morgan Stanley conference: darovasertib leads push",
     "tokens": [
@@ -22981,5 +22782,200 @@
       "while"
     ],
     "ts": 1789548489.9704428
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/eu-invites-canada-to-become-blocs-first-associate-member-4903163",
+    "title": "EU invites Canada to become bloc’s first ’associate member’",
+    "tokens": [
+      "associate",
+      "become",
+      "bloc",
+      "canada",
+      "first",
+      "invites",
+      "member"
+    ],
+    "ts": 1789549871.1274529
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ross-stores-ceo-james-conroy-sells-113m-in-company-stock-93CH-4903162",
+    "title": "Ross Stores CEO James Conroy sells $11.3m in company stock",
+    "tokens": [
+      "ceo",
+      "company",
+      "conroy",
+      "james",
+      "ross",
+      "sells",
+      "stock",
+      "stores"
+    ],
+    "ts": 1789549881.1896074
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sentinelone-ceo-tomer-weingarten-reports-229-million-class-a-stock-sale-93CH-4903161",
+    "title": "SentinelOne CEO Tomer Weingarten reports $2.29 million class a stock sale.",
+    "tokens": [
+      "ceo",
+      "class",
+      "million",
+      "reports",
+      "sale",
+      "sentinelone",
+      "stock",
+      "tomer",
+      "weingarten"
+    ],
+    "ts": 1789549888.8136356
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/geo-group-senior-vp-albence-sells-371074-in-common-stock-93CH-4903160",
+    "title": "Geo Group senior VP Albence sells $371,074 in common stock",
+    "tokens": [
+      "074",
+      "371",
+      "albence",
+      "common",
+      "geo",
+      "group",
+      "sells",
+      "senior",
+      "stock"
+    ],
+    "ts": 1789549896.8968303
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cytokinetics-director-robert-landry-sells-72130-in-shares-93CH-4903159",
+    "title": "Cytokinetics director Robert Landry sells $72,130 in shares",
+    "tokens": [
+      "130",
+      "cytokinetics",
+      "director",
+      "landry",
+      "robert",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789549904.4095
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-union-pacific-stock-rating-on-volume-growth-outlook-93CH-4903158",
+    "title": "UBS upgrades Union Pacific stock rating on volume growth outlook",
+    "tokens": [
+      "growth",
+      "outlook",
+      "pacific",
+      "rating",
+      "stock",
+      "ubs",
+      "union",
+      "upgrades",
+      "volume"
+    ],
+    "ts": 1789549911.6329348
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/springfield-properties-launches-share-buyback-programme-93CH-4903157",
+    "title": "Springfield Properties launches share buyback programme",
+    "tokens": [
+      "buyback",
+      "launches",
+      "programme",
+      "properties",
+      "share",
+      "springfield"
+    ],
+    "ts": 1789549918.5674503
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/wh-smith-expects-fy26-profit-at-bottom-of-forecast-range-as-margins-tighten-4903155",
+    "title": "WH Smith expects FY26 profit at bottom of forecast range as margins tighten",
+    "tokens": [
+      "bottom",
+      "expects",
+      "forecast",
+      "fy26",
+      "margins",
+      "profit",
+      "range",
+      "smith",
+      "tighten"
+    ],
+    "ts": 1789549926.7924848
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/warshs-fed-expected-to-hike-rates-25bp-as-dot-plot-takes-center-stage-4903119",
+    "title": "Warsh’s Fed expected to hike rates 25bp as dot plot takes center stage",
+    "tokens": [
+      "25bp",
+      "center",
+      "dot",
+      "expected",
+      "fed",
+      "hike",
+      "plot",
+      "rates",
+      "stage",
+      "takes",
+      "warsh"
+    ],
+    "ts": 1789549933.685116
+  },
+  {
+    "id": "10-yield-top-5-trading-225933063.html",
+    "title": "10-Year Yield Top 5% in Trading",
+    "tokens": [
+      "top",
+      "trading",
+      "year",
+      "yield"
+    ],
+    "ts": 1789549940.8887212
+  },
+  {
+    "id": "fedex-freight-expands-cto-role-221832965.html",
+    "title": "FedEx Freight expands CTO’s role to cover commercial strategy following CCO ouster",
+    "tokens": [
+      "cco",
+      "commercial",
+      "cover",
+      "cto",
+      "expands",
+      "fedex",
+      "following",
+      "freight",
+      "ouster",
+      "role",
+      "strategy"
+    ],
+    "ts": 1789549947.673576
+  },
+  {
+    "id": "corn-firms-higher-start-week-221300661.html",
+    "title": "Corn Firms Higher to Start new Week of Trade",
+    "tokens": [
+      "corn",
+      "firms",
+      "higher",
+      "start",
+      "trade",
+      "week"
+    ],
+    "ts": 1789549954.741827
+  },
+  {
+    "id": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot",
+    "title": "ECB seeks online merchants for 2027 digital euro pilot",
+    "tokens": [
+      "2027",
+      "digital",
+      "ecb",
+      "euro",
+      "merchants",
+      "online",
+      "pilot",
+      "seeks"
+    ],
+    "ts": 1789549963.768962
   }
 ]

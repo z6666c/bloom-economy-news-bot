@@ -1,285 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-frequency-electronics-stock-rating-to-hold-raises-price-target-to-91-93CH-4900126",
-    "title": "Freedom Broker downgrades Frequency Electronics stock rating to hold, raises price target to $91",
-    "tokens": [
-      "broker",
-      "downgrades",
-      "electronics",
-      "freedom",
-      "frequency",
-      "hold",
-      "price",
-      "raises",
-      "rating",
-      "stock",
-      "target"
-    ],
-    "ts": 1789406811.2706873
-  },
-  {
-    "id": "spot-bitcoin-etfs-lose-463m-170500167.html",
-    "title": "Spot Bitcoin ETFs Lose $463M Amid ‘Difficult’ Time for Markets",
-    "tokens": [
-      "463m",
-      "bitcoin",
-      "difficult",
-      "etfs",
-      "lose",
-      "markets",
-      "spot",
-      "time"
-    ],
-    "ts": 1789406819.3794565
-  },
-  {
-    "id": "rf-industries-ltd-q3-2026-170334050.html",
-    "title": "RF Industries, Ltd. Q3 2026 Earnings Call Summary",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "industries",
-      "ltd",
-      "summary"
-    ],
-    "ts": 1789406826.5232623
-  },
-  {
-    "id": "defi-development-expands-solana-treasury-170300303.html",
-    "title": "DeFi Development Expands Solana Treasury to 2.39M SOL",
-    "tokens": [
-      "39m",
-      "defi",
-      "development",
-      "expands",
-      "sol",
-      "solana",
-      "treasury"
-    ],
-    "ts": 1789406833.9534934
-  },
-  {
-    "id": "WP-MKTW-0005231622",
-    "title": "Why the Social Security COLA is much ado about nothing",
-    "tokens": [
-      "about",
-      "ado",
-      "cola",
-      "much",
-      "nothing",
-      "security",
-      "social",
-      "why"
-    ],
-    "ts": 1789407681.5450597
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/comcast-paramount-skydance-mull-shutting-european-streaming-venture-skyshowtime-4900146",
-    "title": "Comcast, Paramount Skydance mull shutting European streaming venture SkyShowtime",
-    "tokens": [
-      "comcast",
-      "european",
-      "mull",
-      "paramount",
-      "shutting",
-      "skydance",
-      "skyshowtime",
-      "streaming",
-      "venture"
-    ],
-    "ts": 1789407689.1662376
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/southwest-airlines-launches-sale-with-up-to-40-off-fares-93CH-4900154",
-    "title": "Southwest Airlines launches sale with up to 40% off fares",
-    "tokens": [
-      "airlines",
-      "fares",
-      "launches",
-      "off",
-      "sale",
-      "southwest"
-    ],
-    "ts": 1789407696.8473737
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/senate-republicans-new-crypto-bill-text-adds-new-ethics-language-4899651",
-    "title": "US Senate Republicans release new crypto bill text ahead of critical vote",
-    "tokens": [
-      "ahead",
-      "bill",
-      "critical",
-      "crypto",
-      "release",
-      "republicans",
-      "senate",
-      "text",
-      "vote"
-    ],
-    "ts": 1789407704.2338834
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/brightspring-health-services-at-jefferies-conference-growth-broadens-93CH-4900153",
-    "title": "BrightSpring Health Services at Jefferies conference: growth broadens",
-    "tokens": [
-      "brightspring",
-      "broadens",
-      "conference",
-      "growth",
-      "health",
-      "jefferies",
-      "services"
-    ],
-    "ts": 1789407711.530115
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-pantheon-resources-lifts-on-h2-2026-seismic-gains-93CH-4900152",
-    "title": "Earnings call transcript: Pantheon Resources lifts on H2 2026 seismic gains",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "gains",
-      "lifts",
-      "pantheon",
-      "resources",
-      "seismic",
-      "transcript"
-    ],
-    "ts": 1789407718.675052
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/freedom-broker-cuts-copart-stock-price-target-on-margin-pressure-93CH-4900151",
-    "title": "Freedom Broker cuts Copart stock price target on margin pressure",
-    "tokens": [
-      "broker",
-      "copart",
-      "cuts",
-      "freedom",
-      "margin",
-      "pressure",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1789407727.3778226
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/iovance-biotherapeutics-stock-hits-52week-high-at-936-usd-93CH-4900150",
-    "title": "Iovance Biotherapeutics stock hits 52-week high at 9.36 USD",
-    "tokens": [
-      "biotherapeutics",
-      "high",
-      "hits",
-      "iovance",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789407731.3932817
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anthropic-targets-financial-advisers-with-new-claude-tool-4900147",
-    "title": "Anthropic targets financial advisers with new Claude tool",
-    "tokens": [
-      "advisers",
-      "anthropic",
-      "claude",
-      "financial",
-      "targets",
-      "tool"
-    ],
-    "ts": 1789407734.180078
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/northwest-european-gasoline-margins-climb-3-to-52-per-barrel-93CH-4900144",
-    "title": "Northwest European gasoline margins climb $3 to $52 per barrel",
-    "tokens": [
-      "barrel",
-      "climb",
-      "european",
-      "gasoline",
-      "margins",
-      "northwest",
-      "per"
-    ],
-    "ts": 1789407741.6584418
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-interfor-stock-surging-today-93CH-4900143",
-    "title": "Why is Interfor stock surging today?",
-    "tokens": [
-      "interfor",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789407745.6733937
-  },
-  {
-    "id": "cass-tl-rates-jump-11-171712955.html",
-    "title": "Cass: TL rates jump 11% in August, freight shipments turn positive",
-    "tokens": [
-      "august",
-      "cass",
-      "freight",
-      "jump",
-      "positive",
-      "rates",
-      "shipments",
-      "turn"
-    ],
-    "ts": 1789407748.7206538
-  },
-  {
-    "id": "northern-air-cargo-names-permanent-171653326.html",
-    "title": "Northern Air Cargo names permanent CEO",
-    "tokens": [
-      "air",
-      "cargo",
-      "ceo",
-      "names",
-      "northern",
-      "permanent"
-    ],
-    "ts": 1789407756.423525
-  },
-  {
-    "id": "WP-MKTW-0005229713",
-    "title": "Inflation is sinking your high-yield savings account’s returns. Here’s one way to fight it.",
-    "tokens": [
-      "account",
-      "fight",
-      "here",
-      "high",
-      "inflation",
-      "one",
-      "returns",
-      "savings",
-      "sinking",
-      "way",
-      "yield",
-      "your"
-    ],
-    "ts": 1789408455.3861027
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/verizon-and-tmobile-settle-lawsuits-over-carrier-switching-ads-93CH-4900164",
-    "title": "Verizon and T-Mobile settle lawsuits over carrier switching ads",
-    "tokens": [
-      "ads",
-      "carrier",
-      "lawsuits",
-      "mobile",
-      "settle",
-      "switching",
-      "verizon"
-    ],
-    "ts": 1789408462.692602
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/cowen-reiterates-macys-stock-rating-citing-product-improvements-93CH-4900163",
     "title": "Cowen reiterates Macy’s stock rating citing product improvements",
     "tokens": [
@@ -23080,5 +22800,290 @@
       "wow"
     ],
     "ts": 1789566978.0082643
+  },
+  {
+    "id": "WP-MKTW-0005236867",
+    "title": "More home builders cut prices as buyers get spooked",
+    "tokens": [
+      "builders",
+      "buyers",
+      "cut",
+      "get",
+      "home",
+      "more",
+      "prices",
+      "spooked"
+    ],
+    "ts": 1789568030.8203776
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/air-products-wins-semiconductor-supply-contract-in-arizona-93CH-4903970",
+    "title": "Air Products wins semiconductor supply contract in Arizona",
+    "tokens": [
+      "air",
+      "arizona",
+      "contract",
+      "products",
+      "semiconductor",
+      "supply",
+      "wins"
+    ],
+    "ts": 1789568038.5734348
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/fedex-launches-qr-code-delivery-authentication-service-93CH-4903969",
+    "title": "FedEx launches QR code delivery authentication service",
+    "tokens": [
+      "authentication",
+      "code",
+      "delivery",
+      "fedex",
+      "launches",
+      "service"
+    ],
+    "ts": 1789568047.4177659
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/gek-terna-h1-2026-slides-concessions-drive-12-ebitda-growth-93CH-4903968",
+    "title": "GEK Terna H1 2026 slides: concessions drive 12% EBITDA growth",
+    "tokens": [
+      "2026",
+      "concessions",
+      "drive",
+      "ebitda",
+      "gek",
+      "growth",
+      "slides",
+      "terna"
+    ],
+    "ts": 1789568054.4097807
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-circle-internet-stock-sliding-today-93CH-4903967",
+    "title": "Why is Circle Internet stock sliding today?",
+    "tokens": [
+      "circle",
+      "internet",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789568058.425556
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/faeth-therapeutics-at-morgan-stanley-conference-oral-cancer-strategy-93CH-4903966",
+    "title": "Faeth Therapeutics at Morgan Stanley conference: oral cancer strategy",
+    "tokens": [
+      "cancer",
+      "conference",
+      "faeth",
+      "morgan",
+      "oral",
+      "stanley",
+      "strategy",
+      "therapeutics"
+    ],
+    "ts": 1789568062.2411928
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/cytek-at-morgan-stanley-global-healthcare-conference-growth-broadens-93CH-4903965",
+    "title": "Cytek at Morgan Stanley global healthcare conference: growth broadens",
+    "tokens": [
+      "broadens",
+      "conference",
+      "cytek",
+      "global",
+      "growth",
+      "healthcare",
+      "morgan",
+      "stanley"
+    ],
+    "ts": 1789568069.2285097
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/arvinas-at-morgan-stanley-conference-pipeline-focus-capital-discipline-93CH-4903964",
+    "title": "Arvinas at Morgan Stanley conference: pipeline focus, capital discipline",
+    "tokens": [
+      "arvinas",
+      "capital",
+      "conference",
+      "discipline",
+      "focus",
+      "morgan",
+      "pipeline",
+      "stanley"
+    ],
+    "ts": 1789568076.8688312
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/business-inventories-rise-exceeding-expectations-93CH-4903963",
+    "title": "Business inventories rise, exceeding expectations",
+    "tokens": [
+      "business",
+      "exceeding",
+      "expectations",
+      "inventories",
+      "rise"
+    ],
+    "ts": 1789568085.3290741
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ionq-uses-ai-to-speed-quantum-circuit-generation-for-optimization-93CH-4903957",
+    "title": "IonQ uses AI to speed quantum circuit generation for optimization",
+    "tokens": [
+      "circuit",
+      "generation",
+      "ionq",
+      "optimization",
+      "quantum",
+      "speed",
+      "uses"
+    ],
+    "ts": 1789568093.7047656
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/gek-terna-1h-2026-slides-concessions-drive-22-profit-surge-93CH-4903954",
+    "title": "GEK Terna 1H 2026 slides: concessions drive 22% profit surge",
+    "tokens": [
+      "2026",
+      "concessions",
+      "drive",
+      "gek",
+      "profit",
+      "slides",
+      "surge",
+      "terna"
+    ],
+    "ts": 1789568097.7215016
+  },
+  {
+    "id": "bitcoin-etfs-see-450-million-135000092.html",
+    "title": "Bitcoin ETFs See $450 Million In Outflows After Clarity Act Vote",
+    "tokens": [
+      "450",
+      "act",
+      "bitcoin",
+      "clarity",
+      "etfs",
+      "million",
+      "outflows",
+      "see",
+      "vote"
+    ],
+    "ts": 1789568100.7047234
+  },
+  {
+    "id": "charter-communications-chtr-cox-merger-134918958.html",
+    "title": "Charter Communications (CHTR): Cox Merger and Wireless Growth Signal Stronger Future Ahead",
+    "tokens": [
+      "ahead",
+      "charter",
+      "chtr",
+      "communications",
+      "cox",
+      "future",
+      "growth",
+      "merger",
+      "signal",
+      "stronger",
+      "wireless"
+    ],
+    "ts": 1789568108.2500181
+  },
+  {
+    "id": "investor-fears-ai-disintermediation-weigh-134808888.html",
+    "title": "Investor Fears of AI Disintermediation Weigh on Accenture (ACN) Stock",
+    "tokens": [
+      "accenture",
+      "acn",
+      "disintermediation",
+      "fears",
+      "investor",
+      "stock",
+      "weigh"
+    ],
+    "ts": 1789568115.9795117
+  },
+  {
+    "id": "costar-csgp-residential-strategy-unchanged-133542445.html",
+    "title": "CoStar (CSGP): Residential Strategy Unchanged Despite Persistent Market Skepticism",
+    "tokens": [
+      "costar",
+      "csgp",
+      "despite",
+      "market",
+      "persistent",
+      "residential",
+      "skepticism",
+      "strategy",
+      "unchanged"
+    ],
+    "ts": 1789568122.9370558
+  },
+  {
+    "id": "oilprice-article-45516",
+    "title": "Sweeping Russia-Iran Sanctions Bill Advances Toward House Vote",
+    "tokens": [
+      "advances",
+      "bill",
+      "house",
+      "iran",
+      "russia",
+      "sanctions",
+      "sweeping",
+      "toward",
+      "vote"
+    ],
+    "ts": 1789568130.8468835
+  },
+  {
+    "id": "oilprice-news-45516",
+    "title": "Germany Weighs Market Incentives to Boost Record Low Gas Storage Level",
+    "tokens": [
+      "boost",
+      "gas",
+      "germany",
+      "incentives",
+      "level",
+      "low",
+      "market",
+      "record",
+      "storage",
+      "weighs"
+    ],
+    "ts": 1789568138.898312
+  },
+  {
+    "id": "2a26fb98-9e5f-4792-bb0a-50080e0aec49",
+    "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
+    "tokens": [
+      "active",
+      "backed",
+      "blockchain",
+      "finance",
+      "launches",
+      "leases",
+      "million",
+      "platform",
+      "silver",
+      "theo",
+      "tokenized"
+    ],
+    "ts": 1789568148.8874242
+  },
+  {
+    "id": "2a9dba72-fa94-45aa-b17c-5d1e198121ad",
+    "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
+    "tokens": [
+      "avalanche",
+      "finances",
+      "latam",
+      "operator",
+      "part",
+      "putting",
+      "telecom"
+    ],
+    "ts": 1789568155.868349
   }
 ]

@@ -1,123 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-4899282",
-    "title": "Why is Bloom Energy stock sliding today?",
-    "tokens": [
-      "bloom",
-      "energy",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789386347.5147314
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/indias-august-retail-inflation-at-482-onyear-4899140",
-    "title": "India inflation jumps to 4.82% in August as price pressures broaden",
-    "tokens": [
-      "august",
-      "broaden",
-      "india",
-      "inflation",
-      "jumps",
-      "pressures",
-      "price"
-    ],
-    "ts": 1789386358.6261296
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stellantis-stock-downgraded-by-morgan-stanley-on-margin-concerns-93CH-4899280",
-    "title": "Stellantis stock downgraded by Morgan Stanley on margin concerns",
-    "tokens": [
-      "concerns",
-      "downgraded",
-      "margin",
-      "morgan",
-      "stanley",
-      "stellantis",
-      "stock"
-    ],
-    "ts": 1789386365.3530014
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-stellantis-stock-rating-on-margin-concerns-93CH-4899281",
-    "title": "Morgan Stanley downgrades Stellantis stock rating on margin concerns",
-    "tokens": [
-      "concerns",
-      "downgrades",
-      "margin",
-      "morgan",
-      "rating",
-      "stanley",
-      "stellantis",
-      "stock"
-    ],
-    "ts": 1789386369.3633175
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/lucid-capital-markets-initiates-faeth-therapeutics-stock-with-buy-93CH-4899279",
-    "title": "Lucid Capital Markets initiates Faeth Therapeutics stock with buy",
-    "tokens": [
-      "buy",
-      "capital",
-      "faeth",
-      "initiates",
-      "lucid",
-      "markets",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1789386371.7357845
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bofa-securities-initiates-lyntris-stock-with-buy-rating-on-defense-growth-93CH-4899278",
-    "title": "BofA Securities initiates Lyntris stock with buy rating on defense growth",
-    "tokens": [
-      "bofa",
-      "buy",
-      "defense",
-      "growth",
-      "initiates",
-      "lyntris",
-      "rating",
-      "securities",
-      "stock"
-    ],
-    "ts": 1789386378.678542
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bofa-downgrades-addus-homecare-stock-rating-on-slowing-growth-93CH-4899277",
-    "title": "BofA downgrades Addus HomeCare stock rating on slowing growth",
-    "tokens": [
-      "addus",
-      "bofa",
-      "downgrades",
-      "growth",
-      "homecare",
-      "rating",
-      "slowing",
-      "stock"
-    ],
-    "ts": 1789386385.428132
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/frontview-reit-releases-investor-update-slides-ahead-of-upcoming-conferences-93CH-4899276",
-    "title": "FrontView REIT releases investor update slides ahead of upcoming conferences",
-    "tokens": [
-      "ahead",
-      "conferences",
-      "frontview",
-      "investor",
-      "reit",
-      "releases",
-      "slides",
-      "upcoming",
-      "update"
-    ],
-    "ts": 1789386391.9557343
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-lam-research-stock-plummeting-today-93CH-4899266",
     "title": "Why is Lam Research stock plummeting today?",
     "tokens": [
@@ -22998,5 +22880,122 @@
       "warning"
     ],
     "ts": 1789545306.632377
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/eus-von-der-leyen-to-invite-frontier-labs-for-talks-on-tackling-ai-risks-4903012",
+    "title": "EU’s von der Leyen to invite frontier labs for talks on tackling AI risks",
+    "tokens": [
+      "der",
+      "frontier",
+      "invite",
+      "labs",
+      "leyen",
+      "risks",
+      "tackling",
+      "talks",
+      "von"
+    ],
+    "ts": 1789546310.9264066
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-soitec-stock-surging-today-93CH-4903018",
+    "title": "Why is Soitec stock surging today?",
+    "tokens": [
+      "soitec",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789546314.941573
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/games-workshop-shares-rise-on-dividend-announcement-93CH-4903017",
+    "title": "Games Workshop shares rise on dividend announcement",
+    "tokens": [
+      "announcement",
+      "dividend",
+      "games",
+      "rise",
+      "shares",
+      "workshop"
+    ],
+    "ts": 1789546319.3929346
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/vodafone-shares-fall-as-drahi-stake-sale-may-cost-11-billion-93CH-4903014",
+    "title": "Vodafone shares fall as Drahi stake sale may cost €1.1 billion",
+    "tokens": [
+      "billion",
+      "cost",
+      "drahi",
+      "fall",
+      "may",
+      "sale",
+      "shares",
+      "stake",
+      "vodafone"
+    ],
+    "ts": 1789546327.4909525
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/fed-decision-looms-large-zuckerberg-on-ai-safety-fears--whats-moving-markets-4903013",
+    "title": "Fed decision looms large; Zuckerberg on AI safety fears - what’s moving markets",
+    "tokens": [
+      "decision",
+      "fears",
+      "fed",
+      "large",
+      "looms",
+      "markets",
+      "moving",
+      "safety",
+      "what",
+      "zuckerberg"
+    ],
+    "ts": 1789546335.613402
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/tonnellerie-francois-freres-shares-fall-7-on-q1-revenue-drop-us-destocking-4903011",
+    "title": "Tonnellerie Francois Freres shares fall 7% on Q1 revenue drop, U.S. destocking",
+    "tokens": [
+      "destocking",
+      "drop",
+      "fall",
+      "francois",
+      "freres",
+      "revenue",
+      "shares",
+      "tonnellerie"
+    ],
+    "ts": 1789546342.679354
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/moonpig-says-fy27-trading-in-line-with-expectations-outlook-unchanged-4902914",
+    "title": "Moonpig shares fall 5% as FY27 outlook unchanged, Experiences revenue falls",
+    "tokens": [
+      "experiences",
+      "fall",
+      "falls",
+      "fy27",
+      "moonpig",
+      "outlook",
+      "revenue",
+      "shares",
+      "unchanged"
+    ],
+    "ts": 1789546349.954055
+  },
+  {
+    "id": "treasury-yield-5-shock-perspective-71a7360c?siteid=yhoof2&yptr=yahoo",
+    "title": "Making Sense of the Shock from a 5% Treasury Yield",
+    "tokens": [
+      "making",
+      "sense",
+      "shock",
+      "treasury",
+      "yield"
+    ],
+    "ts": 1789546357.2577121
   }
 ]

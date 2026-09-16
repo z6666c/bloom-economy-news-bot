@@ -1,122 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/morgan-stanley-raises-target-hospitality-pt-on-accretive-contract-win-4898844",
-    "title": "Morgan Stanley raises Target Hospitality PT on accretive contract win",
-    "tokens": [
-      "accretive",
-      "contract",
-      "hospitality",
-      "morgan",
-      "raises",
-      "stanley",
-      "target",
-      "win"
-    ],
-    "ts": 1789369959.4219108
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/meridian-mining-added-to-vaneck-junior-gold-miners-etf-93CH-4898843",
-    "title": "Meridian Mining added to VanEck junior gold miners ETF",
-    "tokens": [
-      "added",
-      "etf",
-      "gold",
-      "junior",
-      "meridian",
-      "miners",
-      "mining",
-      "vaneck"
-    ],
-    "ts": 1789369965.903781
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/gsk-presents-positive-trial-data-for-lung-cancer-drug-jideytro-93CH-4898842",
-    "title": "GSK presents positive trial data for lung cancer drug Jideytro",
-    "tokens": [
-      "cancer",
-      "data",
-      "drug",
-      "gsk",
-      "jideytro",
-      "lung",
-      "positive",
-      "presents",
-      "trial"
-    ],
-    "ts": 1789369972.5769079
-  },
-  {
-    "id": "oilprice-news-45492",
-    "title": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears",
-    "tokens": [
-      "108",
-      "brent",
-      "deepens",
-      "fears",
-      "hits",
-      "pipeline",
-      "saudi",
-      "shutdown",
-      "supply"
-    ],
-    "ts": 1789369977.3190832
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m",
-    "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
-    "tokens": [
-      "197m",
-      "463m",
-      "bitcoin",
-      "etfs",
-      "ether",
-      "gain",
-      "reversal",
-      "shed",
-      "weekly"
-    ],
-    "ts": 1789371024.2631884
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/airbaltic-files-for-chapter-11-bankruptcy-in-new-york-4898855",
-    "title": "AirBaltic files for Chapter 11 bankruptcy in New York",
-    "tokens": [
-      "airbaltic",
-      "bankruptcy",
-      "chapter",
-      "files",
-      "york"
-    ],
-    "ts": 1789372473.3600898
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/european-shares-muted-as-tech-slides-oil-surge-weighs-4898881",
-    "title": "European shares muted as tech slides, oil surge weighs",
-    "tokens": [
-      "european",
-      "muted",
-      "oil",
-      "shares",
-      "slides",
-      "surge",
-      "tech",
-      "weighs"
-    ],
-    "ts": 1789372479.8088965
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-sliding-today-93CH-4898880",
-    "title": "Why is Kioxia stock sliding today?",
-    "tokens": [
-      "kioxia",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789372483.8242517
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/exclusiveipo-for-humanoid-robot-maker-boston-dynamics-unlikely-in-2027-executive-says-4898876",
     "title": "Exclusive-IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says",
     "tokens": [
@@ -23006,5 +22889,131 @@
       "time"
     ],
     "ts": 1789527354.490529
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/apollo-global-management-provides-585-millionfinancing-to-office-provider-tec-4902853",
+    "title": "Apollo Global Management provides $585 million financing to office provider TEC",
+    "tokens": [
+      "585",
+      "apollo",
+      "financing",
+      "global",
+      "management",
+      "million",
+      "office",
+      "provider",
+      "provides",
+      "tec"
+    ],
+    "ts": 1789528327.6075943
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/factboxprivate-equity-foreign-investors-fuel-aussie-ma-activity-in-2026-4902852",
+    "title": "Factbox-Private equity, foreign investors fuel Aussie M&A activity in 2026",
+    "tokens": [
+      "2026",
+      "activity",
+      "aussie",
+      "equity",
+      "factbox",
+      "foreign",
+      "fuel",
+      "investors",
+      "private"
+    ],
+    "ts": 1789528334.9208689
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-reliance-worldwide-stock-rallying-today-93CH-4902851",
+    "title": "Why is Reliance Worldwide stock rallying today?",
+    "tokens": [
+      "rallying",
+      "reliance",
+      "stock",
+      "today",
+      "why",
+      "worldwide"
+    ],
+    "ts": 1789528342.1494937
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/boj-set-to-raise-interest-rates-to-31year-high-as-inflation-risks-loom-4902847",
+    "title": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
+    "tokens": [
+      "boj",
+      "high",
+      "inflation",
+      "interest",
+      "loom",
+      "raise",
+      "rates",
+      "risks",
+      "set",
+      "year"
+    ],
+    "ts": 1789528349.5466247
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/rocket-pharmaceuticals-general-counsel-sells-256463-in-rckt-shares-93CH-4902850",
+    "title": "Rocket Pharmaceuticals general counsel sells $256,463 in RCKT shares",
+    "tokens": [
+      "256",
+      "463",
+      "counsel",
+      "general",
+      "pharmaceuticals",
+      "rckt",
+      "rocket",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789528356.1507268
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/qualys-ceo-sumedh-thakar-sells-544152-of-company-stock-93CH-4902849",
+    "title": "Qualys CEO Sumedh Thakar sells $544,152 of company stock",
+    "tokens": [
+      "152",
+      "544",
+      "ceo",
+      "company",
+      "qualys",
+      "sells",
+      "stock",
+      "sumedh",
+      "thakar"
+    ],
+    "ts": 1789528363.4885468
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/tripcom-swings-to-q2-loss-after-763-million-antitrust-penalty-4902848",
+    "title": "Trip.com swings to Q2 loss after $763 million antitrust penalty",
+    "tokens": [
+      "763",
+      "antitrust",
+      "com",
+      "loss",
+      "million",
+      "penalty",
+      "swings",
+      "trip"
+    ],
+    "ts": 1789528370.614334
+  },
+  {
+    "id": "august-cpi-puts-fed-policy-152007261.html",
+    "title": "August CPI Puts Fed Policy in Focus as Hike Odds Reach 90%",
+    "tokens": [
+      "august",
+      "cpi",
+      "fed",
+      "focus",
+      "hike",
+      "odds",
+      "policy",
+      "puts",
+      "reach"
+    ],
+    "ts": 1789528378.8609889
   }
 ]

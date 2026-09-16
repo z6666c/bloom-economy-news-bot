@@ -1,22 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/asian-stocks-steady-as-ai-rebound-offsets-oil-rate-and-bondmarket-pressure-4900765",
-    "title": "Asian stocks steady as AI rebound offsets oil, rate and bond-market pressure",
-    "tokens": [
-      "asian",
-      "bond",
-      "market",
-      "offsets",
-      "oil",
-      "pressure",
-      "rate",
-      "rebound",
-      "steady",
-      "stocks"
-    ],
-    "ts": 1789446593.2991872
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/governments-worldwide-are-way-behind-on-ai-says-bill-gates-4900762",
     "title": "Governments worldwide are way behind on AI, says Bill Gates",
     "tokens": [
@@ -23036,5 +23019,29 @@
       "underperforming"
     ],
     "ts": 1789594176.732217
+  },
+  {
+    "id": "WP-MKTW-0005237448",
+    "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+    "tokens": [
+      "600",
+      "bonds",
+      "calm",
+      "dow",
+      "expect",
+      "fails",
+      "falls",
+      "fed",
+      "hike",
+      "markets",
+      "more",
+      "points",
+      "rate",
+      "sharp",
+      "stocks",
+      "swings",
+      "troubled"
+    ],
+    "ts": 1789594991.8111944
   }
 ]

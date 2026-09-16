@@ -1,218 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/niki-biosolutions-engages-fios-genomics-for-alzheimers-analysis-93CH-4899622",
-    "title": "Niki BioSolutions engages Fios Genomics for Alzheimer’s analysis",
-    "tokens": [
-      "alzheimer",
-      "analysis",
-      "biosolutions",
-      "engages",
-      "fios",
-      "genomics",
-      "niki"
-    ],
-    "ts": 1789390755.1779983
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fda-grants-rmat-designation-to-tenayas-tn401-gene-therapy-93CH-4899620",
-    "title": "FDA grants RMAT designation to Tenaya’s TN-401 gene therapy",
-    "tokens": [
-      "401",
-      "designation",
-      "fda",
-      "gene",
-      "grants",
-      "rmat",
-      "tenaya",
-      "therapy"
-    ],
-    "ts": 1789390762.4733784
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/exascale-labs-compal-plan-joint-gpu-power-platform-in-us-93CH-4899621",
-    "title": "Exascale Labs, Compal plan joint GPU power platform in U.S.",
-    "tokens": [
-      "compal",
-      "exascale",
-      "gpu",
-      "joint",
-      "labs",
-      "plan",
-      "platform",
-      "power"
-    ],
-    "ts": 1789390769.283672
-  },
-  {
-    "id": "10-year-treasury-yield-rises-as-oil-prices-jump-123457398.html",
-    "title": "10-year treasury yield rises as oil prices jump",
-    "tokens": [
-      "jump",
-      "oil",
-      "prices",
-      "rises",
-      "treasury",
-      "year",
-      "yield"
-    ],
-    "ts": 1789390775.9445808
-  },
-  {
-    "id": "etihad-airways-sees-strong-demand-121621387.html",
-    "title": "Etihad Airways sees strong demand, higher passenger capacity despite Iran war, CEO says",
-    "tokens": [
-      "airways",
-      "capacity",
-      "ceo",
-      "demand",
-      "despite",
-      "etihad",
-      "higher",
-      "iran",
-      "passenger",
-      "sees",
-      "strong",
-      "war"
-    ],
-    "ts": 1789390782.8658469
-  },
-  {
-    "id": "royal-road-minerals-begins-drilling-124200750.html",
-    "title": "Royal Road Minerals begins drilling at Güíntar gold-copper-silver target",
-    "tokens": [
-      "begins",
-      "copper",
-      "drilling",
-      "gold",
-      "minerals",
-      "ntar",
-      "road",
-      "royal",
-      "silver",
-      "target"
-    ],
-    "ts": 1789390789.8494322
-  },
-  {
-    "id": "oilprice-news-45486",
-    "title": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears",
-    "tokens": [
-      "108",
-      "brent",
-      "deepens",
-      "fears",
-      "hits",
-      "pipeline",
-      "saudi",
-      "shutdown",
-      "supply"
-    ],
-    "ts": 1789390794.6642022
-  },
-  {
-    "id": "1f9fd944-86a3-49d6-80be-87f42daaaad8",
-    "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
-    "tokens": [
-      "adds",
-      "ahead",
-      "bitmine",
-      "catalysts",
-      "ether",
-      "lee",
-      "million",
-      "more",
-      "sees",
-      "tom",
-      "upside"
-    ],
-    "ts": 1789390798.227547
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-rf-industries-posts-record-q3-2026-revenue-as-shares-fall-93CH-4899723",
-    "title": "Earnings call transcript: RF Industries posts record q3 2026 revenue as shares fall",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "fall",
-      "industries",
-      "posts",
-      "record",
-      "revenue",
-      "shares",
-      "transcript"
-    ],
-    "ts": 1789391970.2438953
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/revvity-at-morgan-stanley-conference-ai-margins-and-growth-93CH-4899722",
-    "title": "Revvity at Morgan Stanley conference: AI, margins and growth",
-    "tokens": [
-      "conference",
-      "growth",
-      "margins",
-      "morgan",
-      "revvity",
-      "stanley"
-    ],
-    "ts": 1789391979.9942348
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/infleqtion-integrates-qldpc-library-with-nvidia-cudaq-logical-93CH-4899721",
-    "title": "Infleqtion integrates qLDPC library with NVIDIA CUDA-Q Logical",
-    "tokens": [
-      "cuda",
-      "infleqtion",
-      "integrates",
-      "library",
-      "logical",
-      "nvidia",
-      "qldpc"
-    ],
-    "ts": 1789391987.7300165
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sanofi-partners-with-cheplapharm-on-mature-medicines-portfolio-93CH-4899720",
-    "title": "Sanofi partners with Cheplapharm on mature medicines portfolio",
-    "tokens": [
-      "cheplapharm",
-      "mature",
-      "medicines",
-      "partners",
-      "portfolio",
-      "sanofi"
-    ],
-    "ts": 1789391995.6376202
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/chatham-lodging-trust-appoints-liam-brown-to-board-93CH-4899718",
-    "title": "Chatham Lodging Trust appoints Liam Brown to board",
-    "tokens": [
-      "appoints",
-      "board",
-      "brown",
-      "chatham",
-      "liam",
-      "lodging",
-      "trust"
-    ],
-    "ts": 1789392002.737876
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/nvidia-expands-quantum-platform-with-faulttolerant-layer-93CH-4899719",
-    "title": "Nvidia expands quantum platform with fault-tolerant layer",
-    "tokens": [
-      "expands",
-      "fault",
-      "layer",
-      "nvidia",
-      "platform",
-      "quantum",
-      "tolerant"
-    ],
-    "ts": 1789392009.5077555
-  },
-  {
     "id": "https://www.investing.com/news/company-news/nextnrg-ceo-addresses-shareholders-on-company-direction-93CH-4899716",
     "title": "NextNRG CEO addresses shareholders on company direction",
     "tokens": [
@@ -22987,5 +22774,219 @@
       "war"
     ],
     "ts": 1789550928.2163658
+  },
+  {
+    "id": "WP-MKTW-0005236281",
+    "title": "This BlackRock strategist opposes a Fed hike. Here are the funds she recommends.",
+    "tokens": [
+      "blackrock",
+      "fed",
+      "funds",
+      "here",
+      "hike",
+      "opposes",
+      "recommends",
+      "she",
+      "strategist"
+    ],
+    "ts": 1789551859.2883923
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/goldman-cuts-regional-casino-revenue-outlook-on-august-slowdown-93CH-4903213",
+    "title": "Goldman cuts regional casino revenue outlook on August slowdown",
+    "tokens": [
+      "august",
+      "casino",
+      "cuts",
+      "goldman",
+      "outlook",
+      "regional",
+      "revenue",
+      "slowdown"
+    ],
+    "ts": 1789551867.2222397
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/goldman-sachs-raises-euro-stoxx-50-dividend-forecasts-93CH-4903211",
+    "title": "Goldman Sachs raises Euro Stoxx 50 dividend forecasts",
+    "tokens": [
+      "dividend",
+      "euro",
+      "forecasts",
+      "goldman",
+      "raises",
+      "sachs",
+      "stoxx"
+    ],
+    "ts": 1789551874.2998424
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/itau-bba-downgrades-nu-holdings-stock-rating-on-brazil-outlook-93CH-4903210",
+    "title": "Itau BBA downgrades Nu Holdings stock rating on Brazil outlook",
+    "tokens": [
+      "bba",
+      "brazil",
+      "downgrades",
+      "holdings",
+      "itau",
+      "outlook",
+      "rating",
+      "stock"
+    ],
+    "ts": 1789551881.606302
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/starbucks-considers-selling-majority-stake-in-its-japan-business-sources-say-4903209",
+    "title": "Starbucks considers selling majority stake in its Japan business, sources say",
+    "tokens": [
+      "business",
+      "considers",
+      "japan",
+      "majority",
+      "say",
+      "selling",
+      "sources",
+      "stake",
+      "starbucks"
+    ],
+    "ts": 1789551888.953747
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
+    "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
+    "tokens": [
+      "chf",
+      "eur",
+      "franc",
+      "lags",
+      "low",
+      "retest",
+      "sees",
+      "swiss",
+      "ubs",
+      "yield"
+    ],
+    "ts": 1789551896.4151769
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/citi-cuts-rv-sector-estimates-as-industry-faces-ongoing-weakness-93CH-4903205",
+    "title": "Citi cuts RV sector estimates as industry faces ongoing weakness",
+    "tokens": [
+      "citi",
+      "cuts",
+      "estimates",
+      "faces",
+      "industry",
+      "ongoing",
+      "sector",
+      "weakness"
+    ],
+    "ts": 1789551904.1526413
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/citi-sees-oil-prices-supported-by-geopolitical-risks-and-demand-93CH-4903204",
+    "title": "Citi sees oil prices supported by geopolitical risks and demand",
+    "tokens": [
+      "citi",
+      "demand",
+      "geopolitical",
+      "oil",
+      "prices",
+      "risks",
+      "sees",
+      "supported"
+    ],
+    "ts": 1789551910.7771604
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/smithnephew-completes-250m-bond-tender-offer-93CH-4903203",
+    "title": "Smith+Nephew completes $250m bond tender offer",
+    "tokens": [
+      "250m",
+      "bond",
+      "completes",
+      "nephew",
+      "offer",
+      "smith",
+      "tender"
+    ],
+    "ts": 1789551917.3408456
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/seaport-global-initiates-dominos-pizza-stock-with-neutral-rating-93CH-4903190",
+    "title": "Seaport Global initiates Domino’s Pizza stock with Neutral rating",
+    "tokens": [
+      "domino",
+      "global",
+      "initiates",
+      "neutral",
+      "pizza",
+      "rating",
+      "seaport",
+      "stock"
+    ],
+    "ts": 1789551923.8276608
+  },
+  {
+    "id": "1-strong-buy-dividend-stock-233002620.html",
+    "title": "1 ‘Strong Buy’ Dividend Stock Offering a 6.3% Yield Right Now",
+    "tokens": [
+      "buy",
+      "dividend",
+      "now",
+      "offering",
+      "right",
+      "stock",
+      "strong",
+      "yield"
+    ],
+    "ts": 1789551930.620772
+  },
+  {
+    "id": "corporate-tax-payments-plunge-25-234056105.html",
+    "title": "Corporate Tax Payments Plunge 25% Even as Profits Boom",
+    "tokens": [
+      "boom",
+      "corporate",
+      "even",
+      "payments",
+      "plunge",
+      "profits",
+      "tax"
+    ],
+    "ts": 1789551937.4859846
+  },
+  {
+    "id": "stocks-pop-when-the-trump-administration-invests-but-the-gains-often-fade-fast-214120157.html",
+    "title": "Stocks pop when the Trump administration invests, but the gains often fade fast",
+    "tokens": [
+      "administration",
+      "fade",
+      "fast",
+      "gains",
+      "invests",
+      "often",
+      "pop",
+      "stocks",
+      "trump",
+      "when"
+    ],
+    "ts": 1789551944.6213872
+  },
+  {
+    "id": "6f405b05-2304-46de-8f4c-97dcf13bd1b2",
+    "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+    "tokens": [
+      "charged",
+      "engineers",
+      "hyperliquid",
+      "insider",
+      "perpetuals",
+      "robinhood",
+      "trading",
+      "two",
+      "using"
+    ],
+    "ts": 1789551953.4225106
   }
 ]

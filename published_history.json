@@ -1,82 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/ideaya-biosciences-at-morgan-stanley-conference-darovasertib-leads-push-93CH-4899641",
-    "title": "IDEAYA Biosciences at Morgan Stanley conference: darovasertib leads push",
-    "tokens": [
-      "biosciences",
-      "conference",
-      "darovasertib",
-      "ideaya",
-      "leads",
-      "morgan",
-      "push",
-      "stanley"
-    ],
-    "ts": 1789390720.952244
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/dogwood-completes-enrollment-in-phase-2b-neuropathic-pain-trial-93CH-4899640",
-    "title": "Dogwood completes enrollment in phase 2b neuropathic pain trial",
-    "tokens": [
-      "completes",
-      "dogwood",
-      "enrollment",
-      "neuropathic",
-      "pain",
-      "phase",
-      "trial"
-    ],
-    "ts": 1789390727.641803
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-hain-celestial-posts-cash-flow-gains-in-q4-2026-93CH-4899626",
-    "title": "Earnings call transcript: Hain Celestial posts cash flow gains in Q4 2026",
-    "tokens": [
-      "2026",
-      "call",
-      "cash",
-      "celestial",
-      "earnings",
-      "flow",
-      "gains",
-      "hain",
-      "posts",
-      "transcript"
-    ],
-    "ts": 1789390734.7630792
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-013-4899625",
-    "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.13%",
-    "tokens": [
-      "all",
-      "arabia",
-      "close",
-      "higher",
-      "saudi",
-      "share",
-      "stocks",
-      "tadawul",
-      "trade"
-    ],
-    "ts": 1789390741.80475
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/cambium-networks-subsidiary-enters-administration-company-cuts-536-of-workforce-93CH-4899623",
-    "title": "Cambium Networks subsidiary enters administration, company cuts 53.6% of workforce",
-    "tokens": [
-      "administration",
-      "cambium",
-      "company",
-      "cuts",
-      "enters",
-      "networks",
-      "subsidiary",
-      "workforce"
-    ],
-    "ts": 1789390748.363086
-  },
-  {
     "id": "https://www.investing.com/news/company-news/niki-biosolutions-engages-fios-genomics-for-alzheimers-analysis-93CH-4899622",
     "title": "Niki BioSolutions engages Fios Genomics for Alzheimer’s analysis",
     "tokens": [
@@ -22977,5 +22900,92 @@
       "seeks"
     ],
     "ts": 1789549963.768962
+  },
+  {
+    "id": "WP-MKTW-0005236158",
+    "title": "‘I am drowning in debt’: I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?",
+    "tokens": [
+      "000",
+      "125",
+      "affect",
+      "bankruptcy",
+      "card",
+      "credit",
+      "debt",
+      "disability",
+      "drowning",
+      "income"
+    ],
+    "ts": 1789550902.1071384
+  },
+  {
+    "id": "WP-MKTW-0005236326",
+    "title": "What history says about longer-term bond yields after the first Fed hike",
+    "tokens": [
+      "about",
+      "bond",
+      "fed",
+      "first",
+      "hike",
+      "history",
+      "longer",
+      "term",
+      "what",
+      "yields"
+    ],
+    "ts": 1789550909.4526455
+  },
+  {
+    "id": "goldman-sachs-expects-fed-chair-211711296.html",
+    "title": "Goldman Sachs Expects Fed Chair Kevin Warsh to Raise Rates This Week — But Not Because of Oil Prices.",
+    "tokens": [
+      "because",
+      "chair",
+      "expects",
+      "fed",
+      "goldman",
+      "kevin",
+      "oil",
+      "prices",
+      "raise",
+      "rates",
+      "sachs",
+      "warsh",
+      "week"
+    ],
+    "ts": 1789550916.727383
+  },
+  {
+    "id": "amazon-microsoft-buy-gpus-u-212115814.html",
+    "title": "Amazon and Microsoft Can Buy GPUs. But U.S. Construction Is Short 439,000 Workers",
+    "tokens": [
+      "000",
+      "439",
+      "amazon",
+      "buy",
+      "can",
+      "construction",
+      "gpus",
+      "microsoft",
+      "short",
+      "workers"
+    ],
+    "ts": 1789550924.201268
+  },
+  {
+    "id": "carney-locked-us-trade-war-100319218.html",
+    "title": "Carney, locked in US trade war, pitches Canada to global investment titans",
+    "tokens": [
+      "canada",
+      "carney",
+      "global",
+      "investment",
+      "locked",
+      "pitches",
+      "titans",
+      "trade",
+      "war"
+    ],
+    "ts": 1789550928.2163658
   }
 ]

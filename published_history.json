@@ -1,91 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-infineon-technologies-stock-tumbling-today-93CH-4898911",
-    "title": "Why is Infineon Technologies stock tumbling today?",
-    "tokens": [
-      "infineon",
-      "stock",
-      "technologies",
-      "today",
-      "tumbling",
-      "why"
-    ],
-    "ts": 1789374804.153271
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/companies-left-china-to-dodge-tariffs-now-some-are-heading-back-4898910",
-    "title": "Companies left China to dodge tariffs. Now some are heading back",
-    "tokens": [
-      "back",
-      "china",
-      "companies",
-      "dodge",
-      "heading",
-      "left",
-      "now",
-      "some",
-      "tariffs"
-    ],
-    "ts": 1789374810.7447395
-  },
-  {
-    "id": "j-p-morgan-closes-1-213149032.html",
-    "title": "J.P. Morgan Closes $1.1B US Industrial Net Lease Fund",
-    "tokens": [
-      "closes",
-      "fund",
-      "industrial",
-      "lease",
-      "morgan",
-      "net"
-    ],
-    "ts": 1789374817.4776897
-  },
-  {
-    "id": "WP-MKTW-0005226126",
-    "title": "The future of retirement? Work until you die.",
-    "tokens": [
-      "die",
-      "future",
-      "retirement",
-      "until",
-      "work",
-      "you"
-    ],
-    "ts": 1789376185.3545368
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jefferies-cuts-carlsberg-to-hold-lowers-target-on-growth-concerns-93CH-4898961",
-    "title": "Jefferies cuts Carlsberg to hold, lowers target on growth concerns",
-    "tokens": [
-      "carlsberg",
-      "concerns",
-      "cuts",
-      "growth",
-      "hold",
-      "jefferies",
-      "lowers",
-      "target"
-    ],
-    "ts": 1789376193.0511413
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/gsk-shares-rise-25-on-positive-lung-cancer-drug-trial-data-93CH-4898960",
-    "title": "GSK shares rise 2.5% on positive lung cancer drug trial data",
-    "tokens": [
-      "cancer",
-      "data",
-      "drug",
-      "gsk",
-      "lung",
-      "positive",
-      "rise",
-      "shares",
-      "trial"
-    ],
-    "ts": 1789376197.0661712
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-arabian-drilling-shares-are-rallying-today-93CH-4898959",
     "title": "Why Arabian Drilling shares are rallying today",
     "tokens": [
@@ -23011,5 +22925,98 @@
       "worth"
     ],
     "ts": 1789532082.0564384
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/poll-shows-rising-trust-in-global-institutions-less-comfort-with-us-as-global-leader-4902871",
+    "title": "Poll shows rising trust in global institutions, less comfort with US as global leader",
+    "tokens": [
+      "comfort",
+      "global",
+      "institutions",
+      "leader",
+      "less",
+      "poll",
+      "rising",
+      "shows",
+      "trust"
+    ],
+    "ts": 1789533058.5154274
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-metaplanet-stock-sliding-today-93CH-4902869",
+    "title": "Why is Metaplanet stock sliding today?",
+    "tokens": [
+      "metaplanet",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789533062.5241508
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/beta-bionics-prices-150m-public-offering-at-1725share-93CH-4902868",
+    "title": "Beta Bionics prices $150M public offering at $17.25/share",
+    "tokens": [
+      "150m",
+      "beta",
+      "bionics",
+      "offering",
+      "prices",
+      "public",
+      "share"
+    ],
+    "ts": 1789533065.0867364
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/crypto-clarity-act-fails-in-senate-leaving-these-stocks-in-regulatory-limbo-93CH-4902865",
+    "title": "Crypto Clarity Act fails in Senate, leaving these stocks in regulatory limbo",
+    "tokens": [
+      "act",
+      "clarity",
+      "crypto",
+      "fails",
+      "leaving",
+      "limbo",
+      "regulatory",
+      "senate",
+      "stocks",
+      "these"
+    ],
+    "ts": 1789533072.1294153
+  },
+  {
+    "id": "marvell-falls-7-ai-pacing-164330714.html",
+    "title": "Marvell Falls 7% as AI Pacing Debate Collides With Fed Week; Broadcom Drops 4%, NVIDIA Pulls Back",
+    "tokens": [
+      "back",
+      "broadcom",
+      "collides",
+      "debate",
+      "drops",
+      "falls",
+      "fed",
+      "marvell",
+      "nvidia",
+      "pacing",
+      "pulls",
+      "week"
+    ],
+    "ts": 1789533079.4933395
+  },
+  {
+    "id": "https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june",
+    "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
+    "tokens": [
+      "450m",
+      "biggest",
+      "bitcoin",
+      "etfs",
+      "june",
+      "outflow",
+      "shed",
+      "since"
+    ],
+    "ts": 1789533088.8029282
   }
 ]

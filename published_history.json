@@ -1,200 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
-    "title": "Asian currencies slip as yen pulls back, Fed and BOJ decisions loom",
-    "tokens": [
-      "asian",
-      "back",
-      "boj",
-      "currencies",
-      "decisions",
-      "fed",
-      "loom",
-      "pulls",
-      "slip",
-      "yen"
-    ],
-    "ts": 1789452871.5587854
-  },
-  {
-    "id": "5d4601ef-1a27-478d-8302-3f81cec281f3",
-    "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
-    "tokens": [
-      "away",
-      "big",
-      "ledger",
-      "next",
-      "one",
-      "payments",
-      "starting",
-      "upgrade",
-      "vote",
-      "xrp"
-    ],
-    "ts": 1789452880.4507208
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-middleby-stock-rating-on-portfolio-focus-93CH-4900833",
-    "title": "JPMorgan upgrades Middleby stock rating on portfolio focus",
-    "tokens": [
-      "focus",
-      "jpmorgan",
-      "middleby",
-      "portfolio",
-      "rating",
-      "stock",
-      "upgrades"
-    ],
-    "ts": 1789454281.583338
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-dave-stock-coverage-with-overweight-rating-93CH-4900832",
-    "title": "JPMorgan initiates Dave stock coverage with Overweight rating",
-    "tokens": [
-      "coverage",
-      "dave",
-      "initiates",
-      "jpmorgan",
-      "overweight",
-      "rating",
-      "stock"
-    ],
-    "ts": 1789454288.4444106
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/oppenheimer-upgrades-etsy-stock-rating-on-ai-search-benefits-93CH-4900831",
-    "title": "Oppenheimer upgrades Etsy stock rating on AI search benefits",
-    "tokens": [
-      "benefits",
-      "etsy",
-      "oppenheimer",
-      "rating",
-      "search",
-      "stock",
-      "upgrades"
-    ],
-    "ts": 1789454295.517389
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-initiates-ppl-stock-with-sector-perform-rating-93CH-4900830",
-    "title": "RBC Capital initiates PPL stock with Sector Perform rating",
-    "tokens": [
-      "capital",
-      "initiates",
-      "perform",
-      "ppl",
-      "rating",
-      "rbc",
-      "sector",
-      "stock"
-    ],
-    "ts": 1789454302.1963973
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hvivo-reports-h1-revenue-decline-orderbook-more-than-doubles-93CH-4900828",
-    "title": "hVIVO reports H1 revenue decline, orderbook more than doubles",
-    "tokens": [
-      "decline",
-      "doubles",
-      "hvivo",
-      "more",
-      "orderbook",
-      "reports",
-      "revenue"
-    ],
-    "ts": 1789454309.8057284
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/german-wholesale-prices-rise-68-in-august-4900825",
-    "title": "German wholesale prices rise 6.8% in August",
-    "tokens": [
-      "august",
-      "german",
-      "prices",
-      "rise",
-      "wholesale"
-    ],
-    "ts": 1789454316.4688256
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/analysisyen-rally-faces-moment-of-truth-as-boj-risks-disappointing-markets-4900814",
-    "title": "Analysis-Yen rally faces moment of truth as BOJ risks disappointing markets",
-    "tokens": [
-      "analysis",
-      "boj",
-      "disappointing",
-      "faces",
-      "markets",
-      "moment",
-      "rally",
-      "risks",
-      "truth",
-      "yen"
-    ],
-    "ts": 1789454324.0595446
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/pmv-pharma-at-hc-wainwright-rezafapt-nears-pivotal-test-93CH-4900824",
-    "title": "PMV Pharma at H.C. Wainwright: rezafapt nears pivotal test",
-    "tokens": [
-      "nears",
-      "pharma",
-      "pivotal",
-      "pmv",
-      "rezafapt",
-      "test",
-      "wainwright"
-    ],
-    "ts": 1789454330.903264
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-initiates-samsara-stock-with-overweight-rating-93CH-4900823",
-    "title": "Cantor Fitzgerald initiates Samsara stock with overweight rating",
-    "tokens": [
-      "cantor",
-      "fitzgerald",
-      "initiates",
-      "overweight",
-      "rating",
-      "samsara",
-      "stock"
-    ],
-    "ts": 1789454338.2989643
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/berenberg-upgrades-eli-lilly-stock-rating-on-obesity-drug-strength-93CH-4900822",
-    "title": "Berenberg upgrades Eli Lilly stock rating on obesity drug strength",
-    "tokens": [
-      "berenberg",
-      "drug",
-      "eli",
-      "lilly",
-      "obesity",
-      "rating",
-      "stock",
-      "strength",
-      "upgrades"
-    ],
-    "ts": 1789454345.1656644
-  },
-  {
-    "id": "nvidia-nvda-looks-cheap-piper-191328167.html",
-    "title": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test",
-    "tokens": [
-      "assumptions",
-      "cheap",
-      "earnings",
-      "forecasts",
-      "looks",
-      "nvda",
-      "nvidia",
-      "piper",
-      "real",
-      "test"
-    ],
-    "ts": 1789454352.6369693
-  },
-  {
     "id": "why-jpmorgan-betting-lithium-americas-193002632.html",
     "title": "Why JPMorgan Is Betting That Lithium Americas Stock Will Double.",
     "tokens": [
@@ -23030,5 +22835,207 @@
       "venezuela"
     ],
     "ts": 1789596729.038285
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/sunbelt-rentals-at-morgan-stanley-conference-record-quarter-lifts-outlook-93CH-4904653",
+    "title": "Sunbelt Rentals at Morgan Stanley conference: record quarter lifts outlook",
+    "tokens": [
+      "conference",
+      "lifts",
+      "morgan",
+      "outlook",
+      "quarter",
+      "record",
+      "rentals",
+      "stanley",
+      "sunbelt"
+    ],
+    "ts": 1789597545.3281984
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ibex-director-daniella-ballouaares-sells-60436-in-shares-93CH-4904652",
+    "title": "Ibex director Daniella Ballou-Aares sells $60,436 in shares",
+    "tokens": [
+      "436",
+      "aares",
+      "ballou",
+      "daniella",
+      "director",
+      "ibex",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789597553.368968
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/xometry-ceo-sanjeev-sahni-disposes-of-127838-in-company-stock-93CH-4904649",
+    "title": "Xometry CEO Sanjeev Sahni disposes of $127,838 in company stock",
+    "tokens": [
+      "127",
+      "838",
+      "ceo",
+      "company",
+      "disposes",
+      "sahni",
+      "sanjeev",
+      "stock",
+      "xometry"
+    ],
+    "ts": 1789597560.0517735
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/hyatt-hotels-executive-lalvani-sells-222413-in-stock-93CH-4904648",
+    "title": "Hyatt Hotels executive Lalvani sells $222,413 in stock",
+    "tokens": [
+      "222",
+      "413",
+      "executive",
+      "hotels",
+      "hyatt",
+      "lalvani",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789597567.395758
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/belden-evp-brian-lieser-sells-217341-in-bdc-stock-93CH-4904646",
+    "title": "Belden EVP Brian Lieser sells $217,341 in BDC stock",
+    "tokens": [
+      "217",
+      "341",
+      "bdc",
+      "belden",
+      "brian",
+      "evp",
+      "lieser",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789597575.0226312
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ibex-chief-salesmarketing-officer-casteel-sells-706k-in-shares-93CH-4904645",
+    "title": "Ibex chief sales/marketing officer Casteel sells $706k in shares",
+    "tokens": [
+      "706k",
+      "casteel",
+      "chief",
+      "ibex",
+      "marketing",
+      "officer",
+      "sales",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789597581.8879778
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/natera-at-2026-global-healthcare-conference-growth-broadens-93CH-4904644",
+    "title": "Natera at 2026 Global Healthcare Conference: growth broadens",
+    "tokens": [
+      "2026",
+      "broadens",
+      "conference",
+      "global",
+      "growth",
+      "healthcare",
+      "natera"
+    ],
+    "ts": 1789597589.8214672
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trump-administration-can-proceed-with-homelessness-program-overhaul-us-court-rules-4904643",
+    "title": "Trump administration can proceed with homelessness program overhaul, US court rules",
+    "tokens": [
+      "administration",
+      "can",
+      "court",
+      "homelessness",
+      "overhaul",
+      "proceed",
+      "program",
+      "rules",
+      "trump"
+    ],
+    "ts": 1789597596.3762105
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/lennar-profit-halves-as-higher-mortgage-rates-pressure-homebuyers-4904642",
+    "title": "Lennar profit halves as higher mortgage rates pressure homebuyers",
+    "tokens": [
+      "halves",
+      "higher",
+      "homebuyers",
+      "lennar",
+      "mortgage",
+      "pressure",
+      "profit",
+      "rates"
+    ],
+    "ts": 1789597605.4345813
+  },
+  {
+    "id": "american-water-works-stock-performance-141858668.html",
+    "title": "How Is American Water Works' Stock Performance Compared to Other Utility Stocks",
+    "tokens": [
+      "american",
+      "compared",
+      "how",
+      "other",
+      "performance",
+      "stock",
+      "stocks",
+      "utility",
+      "water",
+      "works"
+    ],
+    "ts": 1789597613.1870177
+  },
+  {
+    "id": "1-trade-now-10-yield-141440168.html",
+    "title": "Make This 1 Trade Now as the 10-Year Yield Surges and a Fed Rate Hike Looms",
+    "tokens": [
+      "fed",
+      "hike",
+      "looms",
+      "make",
+      "now",
+      "rate",
+      "surges",
+      "trade",
+      "year",
+      "yield"
+    ],
+    "ts": 1789597620.3846374
+  },
+  {
+    "id": "founder-collapsed-shadow-bank-gambled-141947210.html",
+    "title": "Founder of collapsed shadow bank ‘gambled millions at Mayfair casinos’",
+    "tokens": [
+      "bank",
+      "casinos",
+      "collapsed",
+      "founder",
+      "gambled",
+      "mayfair",
+      "millions",
+      "shadow"
+    ],
+    "ts": 1789597627.937086
+  },
+  {
+    "id": "stocks-pressured-10-t-note-141307255.html",
+    "title": "Stocks Pressured as the 10-Year T-Note Yield Climbs to a 19-Year High",
+    "tokens": [
+      "climbs",
+      "high",
+      "note",
+      "pressured",
+      "stocks",
+      "year",
+      "yield"
+    ],
+    "ts": 1789597635.803134
   }
 ]

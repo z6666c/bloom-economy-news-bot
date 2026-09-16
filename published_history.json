@@ -1,219 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/bmo-upgrades-enbridge-stock-rating-on-quality-growth-visibility-93CH-4900850",
-    "title": "BMO upgrades Enbridge stock rating on quality, growth visibility",
-    "tokens": [
-      "bmo",
-      "enbridge",
-      "growth",
-      "quality",
-      "rating",
-      "stock",
-      "upgrades",
-      "visibility"
-    ],
-    "ts": 1789455494.8609
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/guggenheim-initiates-mercury-systems-stock-with-buy-on-defense-trends-93CH-4900849",
-    "title": "Guggenheim initiates Mercury Systems stock with buy on defense trends",
-    "tokens": [
-      "buy",
-      "defense",
-      "guggenheim",
-      "initiates",
-      "mercury",
-      "stock",
-      "systems",
-      "trends"
-    ],
-    "ts": 1789455501.8336117
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/guggenheim-initiates-howmet-aerospace-stock-with-buy-rating-93CH-4900848",
-    "title": "Guggenheim initiates Howmet Aerospace stock with buy rating",
-    "tokens": [
-      "aerospace",
-      "buy",
-      "guggenheim",
-      "howmet",
-      "initiates",
-      "rating",
-      "stock"
-    ],
-    "ts": 1789455508.7521555
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stephens-initiates-netskope-stock-coverage-with-overweight-rating-93CH-4900847",
-    "title": "Stephens initiates Netskope stock coverage with overweight rating",
-    "tokens": [
-      "coverage",
-      "initiates",
-      "netskope",
-      "overweight",
-      "rating",
-      "stephens",
-      "stock"
-    ],
-    "ts": 1789455515.782892
-  },
-  {
-    "id": "boston-scientific-bsx-didn-t-193111827.html",
-    "title": "Boston Scientific (BSX) Didn’t Miss on Demand or Devices. A Cyberattack Just Broke Its Guidance.",
-    "tokens": [
-      "boston",
-      "broke",
-      "bsx",
-      "cyberattack",
-      "demand",
-      "devices",
-      "didn",
-      "guidance",
-      "just",
-      "miss",
-      "scientific"
-    ],
-    "ts": 1789455523.7968838
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pollen-street-group-declares-285-pence-interim-dividend-93CH-4900874",
-    "title": "Pollen Street Group declares 28.5 pence interim dividend",
-    "tokens": [
-      "declares",
-      "dividend",
-      "group",
-      "interim",
-      "pence",
-      "pollen",
-      "street"
-    ],
-    "ts": 1789456671.2890623
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/trustpilot-revenue-jumps-23-on-us-and-enterprise-momentum-4900873",
-    "title": "Trustpilot revenue jumps 23% on U.S. and Enterprise momentum",
-    "tokens": [
-      "enterprise",
-      "jumps",
-      "momentum",
-      "revenue",
-      "trustpilot"
-    ],
-    "ts": 1789456678.4004612
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-000-4900871",
-    "title": "Japan stocks lower at close of trade; Nikkei 225 down 0.00%",
-    "tokens": [
-      "225",
-      "close",
-      "japan",
-      "lower",
-      "nikkei",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789456685.8354356
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-rapid7-stock-rating-on-transition-concerns-93CH-4900870",
-    "title": "JPMorgan downgrades Rapid7 stock rating on transition concerns",
-    "tokens": [
-      "concerns",
-      "downgrades",
-      "jpmorgan",
-      "rapid7",
-      "rating",
-      "stock",
-      "transition"
-    ],
-    "ts": 1789456693.3793366
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/enbridge-stock-resumes-at-outperform-by-national-bank-financial-93CH-4900869",
-    "title": "Enbridge stock resumes at Outperform by National Bank Financial",
-    "tokens": [
-      "bank",
-      "enbridge",
-      "financial",
-      "national",
-      "outperform",
-      "resumes",
-      "stock"
-    ],
-    "ts": 1789456700.3655188
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/arctic-minerals-at-aktiedagen-2026-swedish-copper-push-gains-pace-93CH-4900868",
-    "title": "Arctic Minerals at Aktiedagen 2026: swedish copper push gains pace",
-    "tokens": [
-      "2026",
-      "aktiedagen",
-      "arctic",
-      "copper",
-      "gains",
-      "minerals",
-      "pace",
-      "push",
-      "swedish"
-    ],
-    "ts": 1789456706.963584
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/zenith-energy-to-appeal-arbitration-case-to-european-court-93CH-4900867",
-    "title": "Zenith Energy to appeal arbitration case to European court",
-    "tokens": [
-      "appeal",
-      "arbitration",
-      "case",
-      "court",
-      "energy",
-      "european",
-      "zenith"
-    ],
-    "ts": 1789456714.2657735
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-    "title": "Bitcoin steadies at $77.4k with focus on Clarity vote, Fed meeting",
-    "tokens": [
-      "bitcoin",
-      "clarity",
-      "fed",
-      "focus",
-      "meeting",
-      "steadies",
-      "vote"
-    ],
-    "ts": 1789456721.7534776
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/french-inflation-rises-to-26-in-august-4900862",
-    "title": "French inflation rises to 2.6% in August",
-    "tokens": [
-      "august",
-      "french",
-      "inflation",
-      "rises"
-    ],
-    "ts": 1789456728.4094012
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/wickes-sees-improved-q3-trading-after-firsthalf-revenue-growth-4900865",
-    "title": "Wickes sees improved Q3 trading after first-half revenue growth",
-    "tokens": [
-      "first",
-      "growth",
-      "half",
-      "improved",
-      "revenue",
-      "sees",
-      "trading",
-      "wickes"
-    ],
-    "ts": 1789456735.768948
-  },
-  {
     "id": "chewy-chwy-margin-story-losing-195717174.html",
     "title": "Is Chewy’s (CHWY) Margin Story Losing Steam, or Is a 48% Drop the Opportunity?",
     "tokens": [
@@ -23043,5 +22829,218 @@
       "third"
     ],
     "ts": 1789599147.6272454
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/veradace-partners-buys-222250-of-butler-national-shares-93CH-4904676",
+    "title": "Veradace Partners buys $222,250 of Butler National shares",
+    "tokens": [
+      "222",
+      "250",
+      "butler",
+      "buys",
+      "national",
+      "partners",
+      "shares",
+      "veradace"
+    ],
+    "ts": 1789600212.5091507
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cytosorbents-ceo-phillip-chan-buys-22644-in-common-stock-93CH-4904674",
+    "title": "Cytosorbents CEO Phillip Chan buys $22,644 in common stock",
+    "tokens": [
+      "644",
+      "buys",
+      "ceo",
+      "chan",
+      "common",
+      "cytosorbents",
+      "phillip",
+      "stock"
+    ],
+    "ts": 1789600219.286142
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/porch-group-coo-matthew-neagle-sells-822905-in-shares-93CH-4904675",
+    "title": "Porch group COO Matthew Neagle sells $822,905 in shares",
+    "tokens": [
+      "822",
+      "905",
+      "coo",
+      "group",
+      "matthew",
+      "neagle",
+      "porch",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789600225.9786913
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/transunion-evp-mohamed-abdelsadek-sells-98837-in-shares-93CH-4904673",
+    "title": "TransUnion EVP Mohamed Abdelsadek sells $98,837 in shares",
+    "tokens": [
+      "837",
+      "abdelsadek",
+      "evp",
+      "mohamed",
+      "sells",
+      "shares",
+      "transunion"
+    ],
+    "ts": 1789600232.649287
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/willdan-director-thomas-d-brisbin-sells-389k-in-company-stock-93CH-4904672",
+    "title": "Willdan director Thomas D. Brisbin sells $389k in company stock",
+    "tokens": [
+      "389k",
+      "brisbin",
+      "company",
+      "director",
+      "sells",
+      "stock",
+      "thomas",
+      "willdan"
+    ],
+    "ts": 1789600239.3126261
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/new-zealands-economy-grows-02-in-q2-4904671",
+    "title": "New Zealand’s economy grows 0.2% in Q2",
+    "tokens": [
+      "economy",
+      "grows",
+      "zealand"
+    ],
+    "ts": 1789600246.0056286
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/scientists-challenge-us-nih-grant-screening-as-unconstitutional-4904669",
+    "title": "Scientists challenge US NIH grant screening as unconstitutional",
+    "tokens": [
+      "challenge",
+      "grant",
+      "nih",
+      "scientists",
+      "screening",
+      "unconstitutional"
+    ],
+    "ts": 1789600252.9981823
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/wilton-resources-plans-second-tranche-of-private-placement-93CH-4904668",
+    "title": "Wilton Resources plans second tranche of private placement",
+    "tokens": [
+      "placement",
+      "plans",
+      "private",
+      "resources",
+      "second",
+      "tranche",
+      "wilton"
+    ],
+    "ts": 1789600259.4248176
+  },
+  {
+    "id": "reddit-finally-gets-breakout-catalyst-150539618.html",
+    "title": "Reddit Finally Gets a Breakout Catalyst. This Could Be Turning Point for the Beaten-Down Stock.",
+    "tokens": [
+      "beaten",
+      "breakout",
+      "catalyst",
+      "could",
+      "finally",
+      "gets",
+      "point",
+      "reddit",
+      "stock",
+      "turning"
+    ],
+    "ts": 1789600267.9125297
+  },
+  {
+    "id": "cbre-group-stock-cbre-underperforming-145107113.html",
+    "title": "CBRE Group Stock: Is CBRE Underperforming the Real Estate Sector?",
+    "tokens": [
+      "cbre",
+      "estate",
+      "group",
+      "real",
+      "sector",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1789600274.567688
+  },
+  {
+    "id": "europeans-sitting-10-trillion-cash-150211478.html",
+    "title": "Europeans are Sitting on €10 Trillion Cash, But Refuse To Invest It",
+    "tokens": [
+      "cash",
+      "europeans",
+      "invest",
+      "refuse",
+      "sitting",
+      "trillion"
+    ],
+    "ts": 1789600281.3392608
+  },
+  {
+    "id": "uniswap-price-prediction-surging-fees-145031668.html",
+    "title": "Uniswap Price Prediction: Surging Fees Put $9 in Focus",
+    "tokens": [
+      "fees",
+      "focus",
+      "prediction",
+      "price",
+      "put",
+      "surging",
+      "uniswap"
+    ],
+    "ts": 1789600287.975688
+  },
+  {
+    "id": "stocks-fall-crude-prices-bond-150959710.html",
+    "title": "Stocks Fall as Crude Prices and Bond Yields Jump",
+    "tokens": [
+      "bond",
+      "crude",
+      "fall",
+      "jump",
+      "prices",
+      "stocks",
+      "yields"
+    ],
+    "ts": 1789600294.9103918
+  },
+  {
+    "id": "oilprice-article-45526",
+    "title": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
+    "tokens": [
+      "crisis",
+      "day",
+      "deepens",
+      "million",
+      "oil",
+      "rates",
+      "shipping",
+      "smash",
+      "tanker"
+    ],
+    "ts": 1789600304.069716
+  },
+  {
+    "id": "oilprice-news-45526",
+    "title": "Continental Strikes Venezuela Oil Deal with PDVSA",
+    "tokens": [
+      "continental",
+      "deal",
+      "oil",
+      "pdvsa",
+      "strikes",
+      "venezuela"
+    ],
+    "ts": 1789600308.0869544
   }
 ]

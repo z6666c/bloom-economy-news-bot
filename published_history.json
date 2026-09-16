@@ -1,190 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-oil-surges-ai-safety-rift-adds-to-unease-4900889",
-    "title": "FTSE 100 today: Stocks slip as oil surges, AI safety rift adds to unease",
-    "tokens": [
-      "100",
-      "adds",
-      "ftse",
-      "oil",
-      "rift",
-      "safety",
-      "slip",
-      "stocks",
-      "surges",
-      "today",
-      "unease"
-    ],
-    "ts": 1789458166.0973232
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bank-of-korea-minutes-show-possible-policy-rift-on-backtoback-rate-hikes-4900885",
-    "title": "Bank of Korea minutes show possible policy rift on back-to-back rate hikes",
-    "tokens": [
-      "back",
-      "bank",
-      "hikes",
-      "korea",
-      "minutes",
-      "policy",
-      "possible",
-      "rate",
-      "rift",
-      "show"
-    ],
-    "ts": 1789458173.6832514
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/everplay-says-2026-results-to-be-materially-ahead-of-expectations-shares-jump-4900884",
-    "title": "Everplay says 2026 results to be materially ahead of expectations; shares jump",
-    "tokens": [
-      "2026",
-      "ahead",
-      "everplay",
-      "expectations",
-      "jump",
-      "materially",
-      "results",
-      "shares"
-    ],
-    "ts": 1789458180.476276
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/silver-tests-200-sma-at-6408-amid-double-top-risk-live-levels-93CH-4898870",
-    "title": "Silver tests $63.08 Fibonacci support in bearish slide: Live",
-    "tokens": [
-      "bearish",
-      "fibonacci",
-      "live",
-      "silver",
-      "slide",
-      "support",
-      "tests"
-    ],
-    "ts": 1789458187.3424857
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/gold-clings-to-4355-confluence-support-live-levels-93CH-4898868",
-    "title": "Gold clings to $4,320 support amid bearish momentum: Live levels",
-    "tokens": [
-      "320",
-      "bearish",
-      "clings",
-      "gold",
-      "levels",
-      "live",
-      "momentum",
-      "support"
-    ],
-    "ts": 1789458194.5143468
-  },
-  {
-    "id": "further-oil-price-spikes-could-210000970.html",
-    "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
-    "tokens": [
-      "could",
-      "fears",
-      "further",
-      "oil",
-      "price",
-      "recession",
-      "rekindle",
-      "spikes"
-    ],
-    "ts": 1789458198.5869172
-  },
-  {
-    "id": "stanchart-warns-oil-now-built-230000074.html",
-    "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
-    "tokens": [
-      "built",
-      "frequent",
-      "more",
-      "now",
-      "oil",
-      "sharper",
-      "spikes",
-      "stanchart",
-      "warns"
-    ],
-    "ts": 1789458198.602036
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-4900913",
-    "title": "Bond selloff drives US benchmark beyond 5%; stocks rattled",
-    "tokens": [
-      "benchmark",
-      "beyond",
-      "bond",
-      "drives",
-      "rattled",
-      "selloff",
-      "stocks"
-    ],
-    "ts": 1789459010.0375319
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/morgan-stanley-turns-more-hawkish-forecasts-two-fed-hikes-and-ecb-move-4900912",
-    "title": "Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move",
-    "tokens": [
-      "ecb",
-      "fed",
-      "forecasts",
-      "hawkish",
-      "hikes",
-      "more",
-      "morgan",
-      "move",
-      "stanley",
-      "turns",
-      "two"
-    ],
-    "ts": 1789459017.5942914
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/uk-unemployment-holds-below-forecast-as-vacancies-continue-to-fall-4900838",
-    "title": "UK payrolls fall 26,000 in August as jobs market weakens ahead of BOE",
-    "tokens": [
-      "000",
-      "ahead",
-      "august",
-      "boe",
-      "fall",
-      "jobs",
-      "market",
-      "payrolls",
-      "weakens"
-    ],
-    "ts": 1789459024.8934274
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/lsl-property-services-reports-3-revenue-growth-in-first-half-93CH-4900911",
-    "title": "LSL Property Services reports 3% revenue growth in first half",
-    "tokens": [
-      "first",
-      "growth",
-      "half",
-      "lsl",
-      "property",
-      "reports",
-      "revenue",
-      "services"
-    ],
-    "ts": 1789459032.0299048
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-trustpilot-stock-tumbling-today-93CH-4900910",
-    "title": "Why is Trustpilot stock tumbling today?",
-    "tokens": [
-      "stock",
-      "today",
-      "trustpilot",
-      "tumbling",
-      "why"
-    ],
-    "ts": 1789459036.044744
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology-4900909",
     "title": "MediaTek launches new mobile chip using TSMC’s most advanced technology",
     "tokens": [
@@ -23042,5 +22857,191 @@
       "year"
     ],
     "ts": 1789601167.0027828
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cno-financial-group-chief-actuary-sells-487321-in-shares-93CH-4904684",
+    "title": "CNO Financial Group chief actuary sells $487,321 in shares",
+    "tokens": [
+      "321",
+      "487",
+      "actuary",
+      "chief",
+      "cno",
+      "financial",
+      "group",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789601956.8096783
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/crocs-director-beth-kaplan-buys-99227-in-company-stock-93CH-4904682",
+    "title": "Crocs director Beth Kaplan buys $99,227 in company stock",
+    "tokens": [
+      "227",
+      "beth",
+      "buys",
+      "company",
+      "crocs",
+      "director",
+      "kaplan",
+      "stock"
+    ],
+    "ts": 1789601964.7418928
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/crocs-director-thomas-smach-buys-75813-in-common-stock-93CH-4904683",
+    "title": "Crocs director Thomas Smach buys $75,813 in common stock",
+    "tokens": [
+      "813",
+      "buys",
+      "common",
+      "crocs",
+      "director",
+      "smach",
+      "stock",
+      "thomas"
+    ],
+    "ts": 1789601971.4652069
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/alignment-healthcare-ceo-john-kao-sells-356200-in-alhc-stock-93CH-4904681",
+    "title": "Alignment healthcare CEO John Kao sells $356,200 in ALHC stock",
+    "tokens": [
+      "200",
+      "356",
+      "alhc",
+      "alignment",
+      "ceo",
+      "healthcare",
+      "john",
+      "kao",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789601978.3845215
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bank-of-england-to-hold-rates-but-energy-shock-stirs-talk-of-a-hike-4904677",
+    "title": "Bank of England to hold rates but energy shock stirs talk of a hike",
+    "tokens": [
+      "bank",
+      "energy",
+      "england",
+      "hike",
+      "hold",
+      "rates",
+      "shock",
+      "stirs",
+      "talk"
+    ],
+    "ts": 1789601985.3643785
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/l3harris-at-morgan-stanley-conference-execution-over-restructuring-93CH-4904680",
+    "title": "L3Harris at Morgan Stanley conference: execution over restructuring",
+    "tokens": [
+      "conference",
+      "execution",
+      "l3harris",
+      "morgan",
+      "restructuring",
+      "stanley"
+    ],
+    "ts": 1789601992.437851
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-house-advances-first-bill-addressing-economic-impacts-of-data-center-boom-4904679",
+    "title": "US House advances first bill addressing economic impacts of data center boom",
+    "tokens": [
+      "addressing",
+      "advances",
+      "bill",
+      "boom",
+      "center",
+      "data",
+      "economic",
+      "first",
+      "house",
+      "impacts"
+    ],
+    "ts": 1789601999.8673418
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/gxo-logistics-at-morgan-stanley-laguna-conference-organic-growth-push-93CH-4904678",
+    "title": "GXO Logistics at Morgan Stanley laguna conference: organic growth push",
+    "tokens": [
+      "conference",
+      "growth",
+      "gxo",
+      "laguna",
+      "logistics",
+      "morgan",
+      "organic",
+      "push",
+      "stanley"
+    ],
+    "ts": 1789602006.78673
+  },
+  {
+    "id": "nvidia-ceo-jensen-huang-just-155646174.html",
+    "title": "Nvidia CEO Jensen Huang Just Dropped Huge News for This Cybersecurity Stock",
+    "tokens": [
+      "ceo",
+      "cybersecurity",
+      "dropped",
+      "huang",
+      "huge",
+      "jensen",
+      "just",
+      "news",
+      "nvidia",
+      "stock"
+    ],
+    "ts": 1789602013.7928712
+  },
+  {
+    "id": "meta-stock-still-self-funding-155357003.html",
+    "title": "Is Meta Stock Still The Self-Funding Ad Business You Bought?",
+    "tokens": [
+      "bought",
+      "business",
+      "funding",
+      "meta",
+      "self",
+      "still",
+      "stock",
+      "you"
+    ],
+    "ts": 1789602021.2141302
+  },
+  {
+    "id": "fifth-third-bancorp-stock-outperforming-155954803.html",
+    "title": "Is Fifth Third Bancorp Stock Outperforming the Nasdaq?",
+    "tokens": [
+      "bancorp",
+      "fifth",
+      "nasdaq",
+      "outperforming",
+      "stock",
+      "third"
+    ],
+    "ts": 1789602027.9707868
+  },
+  {
+    "id": "oxea-taps-uber-freight-manage-160000087.html",
+    "title": "OXEA taps Uber Freight to manage North American, European logistics",
+    "tokens": [
+      "american",
+      "european",
+      "freight",
+      "logistics",
+      "manage",
+      "north",
+      "oxea",
+      "taps",
+      "uber"
+    ],
+    "ts": 1789602035.924717
   }
 ]

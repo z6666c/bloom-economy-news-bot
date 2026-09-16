@@ -1,176 +1,5 @@
 [
   {
-    "id": "oilprice-article-45493",
-    "title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles",
-    "tokens": [
-      "attacks",
-      "continue",
-      "diplomacy",
-      "east",
-      "middle",
-      "oil",
-      "prices",
-      "stumbles",
-      "surge"
-    ],
-    "ts": 1789359257.3169448
-  },
-  {
-    "id": "oilprice-article-45491",
-    "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
-    "tokens": [
-      "built",
-      "frequent",
-      "more",
-      "now",
-      "oil",
-      "sharper",
-      "spikes",
-      "stanchart",
-      "warns"
-    ],
-    "ts": 1789359264.1927876
-  },
-  {
-    "id": "oilprice-article-45492",
-    "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
-    "tokens": [
-      "could",
-      "fears",
-      "further",
-      "oil",
-      "price",
-      "recession",
-      "rekindle",
-      "spikes"
-    ],
-    "ts": 1789359270.8515167
-  },
-  {
-    "id": "oilprice-article-45487",
-    "title": "U.S. Dams Could Unlock 15.2 Terawatt-Hours of Untapped Hydropower",
-    "tokens": [
-      "could",
-      "dams",
-      "hours",
-      "hydropower",
-      "terawatt",
-      "unlock",
-      "untapped"
-    ],
-    "ts": 1789359277.913116
-  },
-  {
-    "id": "oilprice-article-45477",
-    "title": "Trump’s Caucasus Trade Corridor Delayed Until 2027",
-    "tokens": [
-      "2027",
-      "caucasus",
-      "corridor",
-      "delayed",
-      "trade",
-      "trump",
-      "until"
-    ],
-    "ts": 1789359284.4689438
-  },
-  {
-    "id": "oilprice-article-45476",
-    "title": "UK Wind Power Hits Record High as Energy Security Risks Mount",
-    "tokens": [
-      "energy",
-      "high",
-      "hits",
-      "mount",
-      "power",
-      "record",
-      "risks",
-      "security",
-      "wind"
-    ],
-    "ts": 1789359290.8548057
-  },
-  {
-    "id": "a952a82c-4cbf-4654-8daf-d5219c9df9bf",
-    "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
-    "tokens": [
-      "analysis",
-      "based",
-      "clarity",
-      "crypto",
-      "dead",
-      "state",
-      "vibes"
-    ],
-    "ts": 1789359297.886196
-  },
-  {
-    "id": "c2cbbe38-b60c-4697-b964-68e506ecbdf9",
-    "title": "Quantum-proof blockchain: why math, not machines, holds the key",
-    "tokens": [
-      "blockchain",
-      "holds",
-      "key",
-      "machines",
-      "math",
-      "proof",
-      "quantum",
-      "why"
-    ],
-    "ts": 1789359304.6282094
-  },
-  {
-    "id": "951959cb-4827-49b5-8765-751446beeca8",
-    "title": "Fed rate hike is about Wall Street, not inflation, says economist",
-    "tokens": [
-      "about",
-      "economist",
-      "fed",
-      "hike",
-      "inflation",
-      "rate",
-      "street",
-      "wall"
-    ],
-    "ts": 1789359311.3683615
-  },
-  {
-    "id": "9fc5e963-9276-4991-bf7d-08cae1bbe707",
-    "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-    "tokens": [
-      "400m",
-      "build",
-      "buys",
-      "circle",
-      "deal",
-      "emerging",
-      "links",
-      "market",
-      "take",
-      "tazapay",
-      "years"
-    ],
-    "ts": 1789359317.8078802
-  },
-  {
-    "id": "50f0df6c-53ba-48d6-af46-e77b1de189fc",
-    "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
-    "tokens": [
-      "act",
-      "cat",
-      "clarity",
-      "crypto",
-      "death",
-      "dinger",
-      "life",
-      "limbo",
-      "returns",
-      "schr",
-      "senate"
-    ],
-    "ts": 1789359324.222624
-  },
-  {
     "id": "https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats",
     "title": "US Republicans send ‘final’ CLARITY Act offer to Democrats",
     "tokens": [
@@ -22969,5 +22798,170 @@
       "why"
     ],
     "ts": 1789515551.1953502
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/century-therapeutics-cto-gregory-russotti-sells-4992-in-stock-93CH-4902770",
+    "title": "Century Therapeutics CTO Gregory Russotti sells $4,992 in stock",
+    "tokens": [
+      "992",
+      "century",
+      "cto",
+      "gregory",
+      "russotti",
+      "sells",
+      "stock",
+      "therapeutics"
+    ],
+    "ts": 1789517665.5797262
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/century-therapeutics-svp-douglas-carr-sells-3199-in-shares-93CH-4902769",
+    "title": "Century Therapeutics SVP Douglas Carr sells $3,199 in shares",
+    "tokens": [
+      "199",
+      "carr",
+      "century",
+      "douglas",
+      "sells",
+      "shares",
+      "svp",
+      "therapeutics"
+    ],
+    "ts": 1789517672.9087486
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pagaya-director-tami-rosen-sells-143915-of-pgy-shares-93CH-4902767",
+    "title": "Pagaya director Tami Rosen sells $143,915 of PGY shares",
+    "tokens": [
+      "143",
+      "915",
+      "director",
+      "pagaya",
+      "pgy",
+      "rosen",
+      "sells",
+      "shares",
+      "tami"
+    ],
+    "ts": 1789517679.7044222
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ai-is-not-a-monopoly-of-great-powers-chinas-top-newspaper-says-4902766",
+    "title": "AI is not a ’monopoly of great powers’, China’s top newspaper says",
+    "tokens": [
+      "china",
+      "great",
+      "monopoly",
+      "newspaper",
+      "powers",
+      "top"
+    ],
+    "ts": 1789517686.7682004
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/hewlett-packard-enterprise-ceo-antonio-f-neri-sells-151m-shares-93CH-4902765",
+    "title": "Hewlett Packard Enterprise CEO Antonio F. Neri sells $15.1m shares",
+    "tokens": [
+      "antonio",
+      "ceo",
+      "enterprise",
+      "hewlett",
+      "neri",
+      "packard",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789517693.363375
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/radian-group-sr-evp-meghan-bartholomew-sells-280763-in-stock-93CH-4902764",
+    "title": "Radian Group Sr EVP Meghan Bartholomew sells $280,763 in stock",
+    "tokens": [
+      "280",
+      "763",
+      "bartholomew",
+      "evp",
+      "group",
+      "meghan",
+      "radian",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789517701.2628942
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/uber-president-jill-hazelbaker-sells-201m-in-stock-93CH-4902763",
+    "title": "Uber president Jill Hazelbaker sells $2.01m in stock",
+    "tokens": [
+      "01m",
+      "hazelbaker",
+      "jill",
+      "president",
+      "sells",
+      "stock",
+      "uber"
+    ],
+    "ts": 1789517709.2853668
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pagaya-technologies-president-sanjiv-das-sells-268813-in-stock-93CH-4902762",
+    "title": "Pagaya Technologies president Sanjiv Das sells $268,813 in stock.",
+    "tokens": [
+      "268",
+      "813",
+      "das",
+      "pagaya",
+      "president",
+      "sanjiv",
+      "sells",
+      "stock",
+      "technologies"
+    ],
+    "ts": 1789517716.348753
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/new-york-proposes-1-million-per-megawatt-community-investment-for-data-centers-4902760",
+    "title": "New York proposes $1 million per megawatt community investment for data centers",
+    "tokens": [
+      "centers",
+      "community",
+      "data",
+      "investment",
+      "megawatt",
+      "million",
+      "per",
+      "proposes",
+      "york"
+    ],
+    "ts": 1789517723.9780102
+  },
+  {
+    "id": "oilprice-article-45514",
+    "title": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
+    "tokens": [
+      "buffers",
+      "hits",
+      "market",
+      "oil",
+      "outage",
+      "pipeline",
+      "running",
+      "saudi"
+    ],
+    "ts": 1789517732.731749
+  },
+  {
+    "id": "oilprice-news-45514",
+    "title": "ADNOC Scoops Up Iraqi Crude at $25 Per Barrel Discount",
+    "tokens": [
+      "adnoc",
+      "barrel",
+      "crude",
+      "discount",
+      "iraqi",
+      "per",
+      "scoops"
+    ],
+    "ts": 1789517740.0425022
   }
 ]

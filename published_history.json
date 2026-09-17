@@ -1,90 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/openai-explores-canada-investment-opportunities-under-carney-4902348",
-    "title": "OpenAI explores Canada investment opportunities under Carney",
-    "tokens": [
-      "canada",
-      "carney",
-      "explores",
-      "investment",
-      "openai",
-      "opportunities",
-      "under"
-    ],
-    "ts": 1789494072.4452038
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/enbridge-seeks-interest-for-west-texas-gas-pipeline-project-93CH-4902347",
-    "title": "Enbridge seeks interest for West Texas gas pipeline project",
-    "tokens": [
-      "enbridge",
-      "gas",
-      "interest",
-      "pipeline",
-      "project",
-      "seeks",
-      "texas",
-      "west"
-    ],
-    "ts": 1789494081.696447
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/marinemax-stock-hits-52week-high-at-5246-93CH-4902346",
-    "title": "Marinemax stock hits 52-week high at $52.46",
-    "tokens": [
-      "high",
-      "hits",
-      "marinemax",
-      "stock",
-      "week"
-    ],
-    "ts": 1789494093.0814917
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/explainerfrom-hallucinating-ai-chatbots-to-wiping-out-humanity-how-did-we-get-here-4901154",
-    "title": "Explainer-From hallucinating AI chatbots to wiping out humanity: How did we get here?",
-    "tokens": [
-      "chatbots",
-      "did",
-      "explainer",
-      "get",
-      "hallucinating",
-      "here",
-      "how",
-      "humanity",
-      "wiping"
-    ],
-    "ts": 1789494103.4706485
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pennpetro-energy-shifts-reverse-takeover-target-to-canadian-firm-93CH-4902345",
-    "title": "Pennpetro Energy shifts reverse takeover target to Canadian firm",
-    "tokens": [
-      "canadian",
-      "energy",
-      "firm",
-      "pennpetro",
-      "reverse",
-      "shifts",
-      "takeover",
-      "target"
-    ],
-    "ts": 1789494112.9363132
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ul-solutions-stock-hits-52week-low-at-6616-usd-93CH-4902344",
-    "title": "UL Solutions stock hits 52-week low at 66.16 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "solutions",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789494116.9518352
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/bessent-calls-us-yen-intervention-nominal-defends-trade-4902343",
     "title": "Bessent calls US yen intervention \"nominal,\" defends trade",
     "tokens": [
@@ -23038,5 +22953,103 @@
       "surge"
     ],
     "ts": 1789647359.2271147
+  },
+  {
+    "id": "stock-market-today-thursday-september-17-dow-sp-500-nasdaq-081248626.html",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate hike pacifies markets' inflation worries",
+    "tokens": [
+      "500",
+      "dow",
+      "fed",
+      "hike",
+      "inflation",
+      "market",
+      "markets",
+      "nasdaq",
+      "pacifies",
+      "rate",
+      "rise",
+      "stock",
+      "today",
+      "worries"
+    ],
+    "ts": 1789648578.2136166
+  },
+  {
+    "id": "top-strategist-thinks-the-federal-reserve-interest-rate-hike-wont-fix-this-huge-earnings-risk-121619669.html",
+    "title": "Top strategist thinks the Federal Reserve interest rate hike won't fix this huge earnings risk",
+    "tokens": [
+      "earnings",
+      "federal",
+      "fix",
+      "hike",
+      "huge",
+      "interest",
+      "rate",
+      "reserve",
+      "risk",
+      "strategist",
+      "thinks",
+      "top",
+      "won"
+    ],
+    "ts": 1789648585.1720626
+  },
+  {
+    "id": "amundi-picks-9-9-stake-122049498.html",
+    "title": "Amundi picks 9.9% stake in asset manager ICG",
+    "tokens": [
+      "amundi",
+      "asset",
+      "icg",
+      "manager",
+      "picks",
+      "stake"
+    ],
+    "ts": 1789648592.6145508
+  },
+  {
+    "id": "fund-capitalizes-axon-enterprise-axon-121322313.html",
+    "title": "Fund Capitalizes on Axon Enterprise (AXON) in AI-Related Selloff",
+    "tokens": [
+      "axon",
+      "capitalizes",
+      "enterprise",
+      "fund",
+      "related",
+      "selloff"
+    ],
+    "ts": 1789648600.5957284
+  },
+  {
+    "id": "coherent-corp-cohr-critical-player-121138964.html",
+    "title": "Coherent Corp. (COHR): A Critical Player in AI Data Center Buildouts",
+    "tokens": [
+      "buildouts",
+      "center",
+      "coherent",
+      "cohr",
+      "corp",
+      "critical",
+      "data",
+      "player"
+    ],
+    "ts": 1789648607.8930316
+  },
+  {
+    "id": "oilprice-news-45521",
+    "title": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman",
+    "tokens": [
+      "arabia",
+      "crude",
+      "oil",
+      "oman",
+      "prices",
+      "reroutes",
+      "saudi",
+      "slide",
+      "via"
+    ],
+    "ts": 1789648616.1643996
   }
 ]

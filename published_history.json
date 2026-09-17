@@ -1,47 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/sec-filings/natural-grocers-by-vitamin-cottage-stockholders-approve-move-to-texas-incorporation-93CH-4902689",
-    "title": "Natural Grocers by Vitamin Cottage stockholders approve move to Texas incorporation",
-    "tokens": [
-      "approve",
-      "cottage",
-      "grocers",
-      "incorporation",
-      "move",
-      "natural",
-      "stockholders",
-      "texas",
-      "vitamin"
-    ],
-    "ts": 1789508353.5598133
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/usa-rare-earth-updates-risk-factors-in-sec-filing-93CH-4902678",
-    "title": "USA Rare Earth updates risk factors in SEC filing",
-    "tokens": [
-      "earth",
-      "factors",
-      "filing",
-      "rare",
-      "risk",
-      "sec",
-      "updates",
-      "usa"
-    ],
-    "ts": 1789508360.5682187
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/trading-day-no-hiding-place-4902677",
-    "title": "Trading Day: No hiding place",
-    "tokens": [
-      "day",
-      "hiding",
-      "place",
-      "trading"
-    ],
-    "ts": 1789508367.7741423
-  },
-  {
     "id": "tesla-microsoft-amazon-forecast-tech-131133844.html",
     "title": "Tesla, Microsoft and Amazon Forecast: Tech Stocks Diverge",
     "tokens": [
@@ -23140,5 +23098,59 @@
       "worse"
     ],
     "ts": 1789659894.1225114
+  },
+  {
+    "id": "WP-MKTW-0005235012",
+    "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
+    "tokens": [
+      "book",
+      "christmas",
+      "flying",
+      "getting",
+      "holidays",
+      "home",
+      "now",
+      "priced",
+      "risk",
+      "thanksgiving",
+      "travel",
+      "your"
+    ],
+    "ts": 1789660523.3795772
+  },
+  {
+    "id": "etsy-gets-bullish-upgrade-investors-153936911.html",
+    "title": "ETSY Gets a Bullish Upgrade: What Investors Should Know",
+    "tokens": [
+      "bullish",
+      "etsy",
+      "gets",
+      "investors",
+      "know",
+      "should",
+      "upgrade",
+      "what"
+    ],
+    "ts": 1789660532.0598116
+  },
+  {
+    "id": "north-american-gold-etf-buying-153725893.html",
+    "title": "North American Gold ETF Buying Jumped From $71 Million to $7.7 Billion in One Month. Can GLDM Hold Up?",
+    "tokens": [
+      "american",
+      "billion",
+      "buying",
+      "can",
+      "etf",
+      "gldm",
+      "gold",
+      "hold",
+      "jumped",
+      "million",
+      "month",
+      "north",
+      "one"
+    ],
+    "ts": 1789660542.293854
   }
 ]

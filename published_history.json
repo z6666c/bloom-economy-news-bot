@@ -1,201 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/cloudflare-director-carl-ledbetter-sold-156m-in-stock-93CH-4902750",
-    "title": "Cloudflare director Carl Ledbetter sold $1.56m in stock",
-    "tokens": [
-      "56m",
-      "carl",
-      "cloudflare",
-      "director",
-      "ledbetter",
-      "sold",
-      "stock"
-    ],
-    "ts": 1789513798.7961073
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/carlsmed-files-patent-lawsuit-against-degen-medical-93CH-4902749",
-    "title": "Carlsmed files patent lawsuit against DeGen Medical",
-    "tokens": [
-      "against",
-      "carlsmed",
-      "degen",
-      "files",
-      "lawsuit",
-      "medical",
-      "patent"
-    ],
-    "ts": 1789513806.4860258
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-doj-backs-bond-demand-in-paramountwarner-bros-antitrust-fight-4902742",
-    "title": "US DoJ backs bond demand in Paramount-Warner Bros antitrust fight",
-    "tokens": [
-      "antitrust",
-      "backs",
-      "bond",
-      "bros",
-      "demand",
-      "doj",
-      "fight",
-      "paramount",
-      "warner"
-    ],
-    "ts": 1789513813.9949222
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dropbox-coceo-ashraf-alkarmi-sells-102m-in-stock-93CH-4902748",
-    "title": "Dropbox co-CEO Ashraf Alkarmi sells $1.02m in stock",
-    "tokens": [
-      "02m",
-      "alkarmi",
-      "ashraf",
-      "ceo",
-      "dropbox",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789513822.208004
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ibex-ltd-coo-david-afdahl-sells-433482-in-company-shares-93CH-4902746",
-    "title": "Ibex Ltd COO David Afdahl sells $433,482 in company shares",
-    "tokens": [
-      "433",
-      "482",
-      "afdahl",
-      "company",
-      "coo",
-      "david",
-      "ibex",
-      "ltd",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789513829.545918
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/cogent-communications-vp-kilmer-sells-22104-in-common-stock-93CH-4902744",
-    "title": "Cogent Communications VP Kilmer sells $22,104 in common stock",
-    "tokens": [
-      "104",
-      "cogent",
-      "common",
-      "communications",
-      "kilmer",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789513836.1320043
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/inhibrx-director-kimberly-manhard-sells-163542-in-company-stock-93CH-4902745",
-    "title": "Inhibrx director Kimberly Manhard sells $163,542 in company stock",
-    "tokens": [
-      "163",
-      "542",
-      "company",
-      "director",
-      "inhibrx",
-      "kimberly",
-      "manhard",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789513843.486805
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/analysistoyota-revamp-hints-of-wider-industry-shakeup-in-china-4901155",
-    "title": "Toyota revamp hints of wider industry shake-up in China",
-    "tokens": [
-      "china",
-      "hints",
-      "industry",
-      "revamp",
-      "shake",
-      "toyota",
-      "wider"
-    ],
-    "ts": 1789513850.131091
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/provident-financial-evp-cro-james-christy-sells-70080-in-stock-93CH-4902741",
-    "title": "Provident Financial EVP, CRO James Christy sells $70,080 in stock",
-    "tokens": [
-      "080",
-      "christy",
-      "cro",
-      "evp",
-      "financial",
-      "james",
-      "provident",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789513857.6540709
-  },
-  {
-    "id": "coffee-prices-fall-production-spikes-145910581.html",
-    "title": "Coffee Prices Fall as Production Spikes and Consumption Chills",
-    "tokens": [
-      "chills",
-      "coffee",
-      "consumption",
-      "fall",
-      "prices",
-      "production",
-      "spikes"
-    ],
-    "ts": 1789513866.247627
-  },
-  {
-    "id": "enbridge-enb-expands-u-oil-145324207.html",
-    "title": "Enbridge (ENB) Expands its U.S. Oil Footprint with Tallgrass Acquisition",
-    "tokens": [
-      "acquisition",
-      "enb",
-      "enbridge",
-      "expands",
-      "footprint",
-      "oil",
-      "tallgrass"
-    ],
-    "ts": 1789513874.460499
-  },
-  {
-    "id": "totalenergies-tte-sees-long-term-145201682.html",
-    "title": "TotalEnergies (TTE) Sees Long-Term Potential in Angola’s Offshore Oil",
-    "tokens": [
-      "angola",
-      "long",
-      "offshore",
-      "oil",
-      "potential",
-      "sees",
-      "term",
-      "totalenergies",
-      "tte"
-    ],
-    "ts": 1789513881.8672006
-  },
-  {
-    "id": "oilprice-article-45515",
-    "title": "Chinese Solar Panels Drop to 12 Cents a Watt, Rooftop Installs Surge Worldwide",
-    "tokens": [
-      "cents",
-      "chinese",
-      "drop",
-      "installs",
-      "panels",
-      "rooftop",
-      "solar",
-      "surge",
-      "watt",
-      "worldwide"
-    ],
-    "ts": 1789513890.4061742
-  },
-  {
     "id": "oilprice-news-45515",
     "title": "U.S. Oil Inventories Jump as Cushing Stocks Keep Falling",
     "tokens": [
@@ -23222,5 +23026,205 @@
       "stla"
     ],
     "ts": 1789662616.9096212
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/gm-doubles-down-on-diesel-pickups-as-rivals-tap-hybrids-4906141",
+    "title": "GM doubles down on diesel pickups as rivals tap hybrids",
+    "tokens": [
+      "diesel",
+      "doubles",
+      "hybrids",
+      "pickups",
+      "rivals",
+      "tap"
+    ],
+    "ts": 1789663470.0545213
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/goldman-sees-agency-mbs-as-attractive-buy-after-spread-widening-93CH-4906140",
+    "title": "Goldman sees agency MBS as attractive buy after spread widening",
+    "tokens": [
+      "agency",
+      "attractive",
+      "buy",
+      "goldman",
+      "mbs",
+      "sees",
+      "spread",
+      "widening"
+    ],
+    "ts": 1789663477.7311385
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ge-aerospace-says-ge9x-midseal-issue-wont-delay-boeing-777x-entry-into-service-4906139",
+    "title": "GE Aerospace says GE9X mid-seal issue won’t delay Boeing 777X entry into service",
+    "tokens": [
+      "777x",
+      "aerospace",
+      "boeing",
+      "delay",
+      "entry",
+      "ge9x",
+      "issue",
+      "mid",
+      "seal",
+      "service",
+      "won"
+    ],
+    "ts": 1789663484.4106224
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/jpmorgan-names-top-us-auto-suppliers-amid-industry-shifts-93CH-4906138",
+    "title": "JPMorgan Names Top U.S. Auto Suppliers Amid Industry Shifts",
+    "tokens": [
+      "auto",
+      "industry",
+      "jpmorgan",
+      "names",
+      "shifts",
+      "suppliers",
+      "top"
+    ],
+    "ts": 1789663491.6990783
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/qqq-crosses-50day-average-for-13th-time-since-early-august-93CH-4906137",
+    "title": "QQQ crosses 50-day average for 13th time since early August",
+    "tokens": [
+      "13th",
+      "august",
+      "average",
+      "crosses",
+      "day",
+      "early",
+      "qqq",
+      "since",
+      "time"
+    ],
+    "ts": 1789663498.5499372
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/needham-announces-drone-dominance-gauntlet-ii-winners-93CH-4906136",
+    "title": "Needham announces Drone Dominance Gauntlet II winners",
+    "tokens": [
+      "announces",
+      "dominance",
+      "drone",
+      "gauntlet",
+      "needham",
+      "winners"
+    ],
+    "ts": 1789663507.1379163
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/aim-immunotech-ceo--president-buys-2310-in-company-stock-93CH-4906135",
+    "title": "Aim ImmunoTech CEO & president buys $2,310 in company stock",
+    "tokens": [
+      "310",
+      "aim",
+      "buys",
+      "ceo",
+      "company",
+      "immunotech",
+      "president",
+      "stock"
+    ],
+    "ts": 1789663514.6583257
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/kalshi-leads-prediction-market-with-76-share-in-nfl-week-1-93CH-4906132",
+    "title": "Kalshi leads prediction market with 76% share in NFL week 1",
+    "tokens": [
+      "kalshi",
+      "leads",
+      "market",
+      "nfl",
+      "prediction",
+      "share",
+      "week"
+    ],
+    "ts": 1789663522.2307742
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/global-ship-lease-stock-hits-52week-high-at-4652-usd-93CH-4906131",
+    "title": "Global Ship Lease stock hits 52-week high at 46.52 USD",
+    "tokens": [
+      "global",
+      "high",
+      "hits",
+      "lease",
+      "ship",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1789663530.0705261
+  },
+  {
+    "id": "assemblin-caverion-prints-1-5b-162749040.html",
+    "title": "Assemblin Caverion prints €1.5B floating-rate note in bumper day for European high yield",
+    "tokens": [
+      "assemblin",
+      "bumper",
+      "caverion",
+      "day",
+      "european",
+      "floating",
+      "high",
+      "note",
+      "prints",
+      "rate",
+      "yield"
+    ],
+    "ts": 1789663538.9083884
+  },
+  {
+    "id": "spacex-spcx-space-data-center-160856877.html",
+    "title": "SpaceX (SPCX)’s Space Data Center Dream Runs into Four Very Earthly Problems",
+    "tokens": [
+      "center",
+      "data",
+      "dream",
+      "earthly",
+      "four",
+      "problems",
+      "runs",
+      "space",
+      "spacex",
+      "spcx",
+      "very"
+    ],
+    "ts": 1789663547.2016256
+  },
+  {
+    "id": "sofi-could-building-something-wall-163015781.html",
+    "title": "SoFi Could Be Building Something Wall Street Hasn’t Fully Priced In",
+    "tokens": [
+      "building",
+      "could",
+      "fully",
+      "hasn",
+      "priced",
+      "sofi",
+      "something",
+      "street",
+      "wall"
+    ],
+    "ts": 1789663554.5135024
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike",
+    "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
+    "tokens": [
+      "bitcoin",
+      "coils",
+      "fed",
+      "hike",
+      "near",
+      "rate",
+      "rebound",
+      "stocks"
+    ],
+    "ts": 1789663563.8739963
   }
 ]

@@ -1,51 +1,5 @@
 [
   {
-    "id": "oilprice-news-45509",
-    "title": "Libya Threatens Force Majeure as Oil Guards Shut Fields",
-    "tokens": [
-      "fields",
-      "force",
-      "guards",
-      "libya",
-      "majeure",
-      "oil",
-      "shut",
-      "threatens"
-    ],
-    "ts": 1789503185.8891912
-  },
-  {
-    "id": "95455b43-2c52-4afa-9957-b5b65f66f481",
-    "title": "Crypto stocks sink after Senate rejects Clarity Act",
-    "tokens": [
-      "act",
-      "clarity",
-      "crypto",
-      "rejects",
-      "senate",
-      "sink",
-      "stocks"
-    ],
-    "ts": 1789503190.3384387
-  },
-  {
-    "id": "WP-MKTW-0005234658",
-    "title": "Dow clinches its worst September start since 2008 as history repeats itself",
-    "tokens": [
-      "2008",
-      "clinches",
-      "dow",
-      "history",
-      "itself",
-      "repeats",
-      "september",
-      "since",
-      "start",
-      "worst"
-    ],
-    "ts": 1789504022.6806097
-  },
-  {
     "id": "WP-MKTW-0005234948",
     "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
     "tokens": [
@@ -23058,5 +23012,58 @@
       "soar"
     ],
     "ts": 1789654453.3214803
+  },
+  {
+    "id": "energy-markets-grapple-with-iran-war-uncertainty-we-simply-dont-know-how-to-model-the-endgame-140723902.html",
+    "title": "Energy markets grapple with Iran war uncertainty: 'We simply don't know how to model the endgame'",
+    "tokens": [
+      "don",
+      "endgame",
+      "energy",
+      "grapple",
+      "how",
+      "iran",
+      "know",
+      "markets",
+      "model",
+      "simply",
+      "uncertainty",
+      "war"
+    ],
+    "ts": 1789655402.5371535
+  },
+  {
+    "id": "strong-operational-momentum-drives-quanta-135944646.html",
+    "title": "Strong Operational Momentum Drives Quanta Services’ (PWR) Full-Year Outlook Upgrade",
+    "tokens": [
+      "drives",
+      "full",
+      "momentum",
+      "operational",
+      "outlook",
+      "pwr",
+      "quanta",
+      "services",
+      "strong",
+      "upgrade",
+      "year"
+    ],
+    "ts": 1789655412.4223135
+  },
+  {
+    "id": "jim-cramer-delivers-unmistakable-2026-140700657.html",
+    "title": "Jim Cramer delivers unmistakable 2026 must-buy call on AI stock",
+    "tokens": [
+      "2026",
+      "buy",
+      "call",
+      "cramer",
+      "delivers",
+      "jim",
+      "must",
+      "stock",
+      "unmistakable"
+    ],
+    "ts": 1789655423.2316725
   }
 ]

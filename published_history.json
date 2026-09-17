@@ -1,66 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/berenberg-raises-neste-stock-price-target-on-renewable-fuel-demand-93CH-4902999",
-    "title": "Berenberg raises Neste stock price target on renewable fuel demand",
-    "tokens": [
-      "berenberg",
-      "demand",
-      "fuel",
-      "neste",
-      "price",
-      "raises",
-      "renewable",
-      "stock",
-      "target"
-    ],
-    "ts": 1789544510.3173912
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/honeywell-at-morgan-stanleys-14th-annual-laguna-conference-growth-reset-93CH-4902995",
-    "title": "Honeywell at Morgan Stanley’s 14th annual Laguna Conference: growth reset",
-    "tokens": [
-      "14th",
-      "annual",
-      "conference",
-      "growth",
-      "honeywell",
-      "laguna",
-      "morgan",
-      "reset",
-      "stanley"
-    ],
-    "ts": 1789544517.3971596
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/european-shares-rise-as-oil-rally-pauses-all-eyes-on-fed-4902994",
-    "title": "European shares rise as oil rally pauses; all eyes on Fed",
-    "tokens": [
-      "all",
-      "european",
-      "eyes",
-      "fed",
-      "oil",
-      "pauses",
-      "rally",
-      "rise",
-      "shares"
-    ],
-    "ts": 1789544524.1620936
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-babcock-international-stock-climbing-today-93CH-4902993",
-    "title": "Why is Babcock International stock climbing today?",
-    "tokens": [
-      "babcock",
-      "climbing",
-      "international",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789544531.833898
-  },
-  {
     "id": "accuray-aray-8-million-raysearch-200349571.html",
     "title": "What Accuray’s (ARAY) $8 Million RaySearch Deal Means for Its Adaptive Therapy Push",
     "tokens": [
@@ -23235,5 +23174,68 @@
       "sees"
     ],
     "ts": 1789683125.461729
+  },
+  {
+    "id": "dollar-posts-modest-gains-ahead-143354252.html",
+    "title": "Dollar Posts Modest Gains Ahead of Expected Fed Rate Hike",
+    "tokens": [
+      "ahead",
+      "dollar",
+      "expected",
+      "fed",
+      "gains",
+      "hike",
+      "modest",
+      "posts",
+      "rate"
+    ],
+    "ts": 1789683882.1654027
+  },
+  {
+    "id": "1-trade-now-weakness-cotton-142626135.html",
+    "title": "1 Trade to Make Now as the Weakness in Cotton Prices Continues",
+    "tokens": [
+      "continues",
+      "cotton",
+      "make",
+      "now",
+      "prices",
+      "trade",
+      "weakness"
+    ],
+    "ts": 1789683890.5611758
+  },
+  {
+    "id": "pultegroup-stock-underperforming-p-500-142502646.html",
+    "title": "Is PulteGroup Stock Underperforming the S&P 500?",
+    "tokens": [
+      "500",
+      "pultegroup",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1789683898.4265265
+  },
+  {
+    "id": "spacex-rises-5-starship-first-143618850.html",
+    "title": "SpaceX Rises 5% as Starship’s First Orbital Attempt Gets Launch Date; Rocket Lab and AST SpaceMobile Hold Steady",
+    "tokens": [
+      "ast",
+      "attempt",
+      "date",
+      "first",
+      "gets",
+      "hold",
+      "lab",
+      "launch",
+      "orbital",
+      "rises",
+      "rocket",
+      "spacemobile",
+      "spacex",
+      "starship",
+      "steady"
+    ],
+    "ts": 1789683905.3297484
   }
 ]

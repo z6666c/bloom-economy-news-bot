@@ -1,48 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/cytokinetics-director-robert-landry-sells-72130-in-shares-93CH-4903159",
-    "title": "Cytokinetics director Robert Landry sells $72,130 in shares",
-    "tokens": [
-      "130",
-      "cytokinetics",
-      "director",
-      "landry",
-      "robert",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789549904.4095
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-union-pacific-stock-rating-on-volume-growth-outlook-93CH-4903158",
-    "title": "UBS upgrades Union Pacific stock rating on volume growth outlook",
-    "tokens": [
-      "growth",
-      "outlook",
-      "pacific",
-      "rating",
-      "stock",
-      "ubs",
-      "union",
-      "upgrades",
-      "volume"
-    ],
-    "ts": 1789549911.6329348
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/springfield-properties-launches-share-buyback-programme-93CH-4903157",
-    "title": "Springfield Properties launches share buyback programme",
-    "tokens": [
-      "buyback",
-      "launches",
-      "programme",
-      "properties",
-      "share",
-      "springfield"
-    ],
-    "ts": 1789549918.5674503
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/wh-smith-expects-fy26-profit-at-bottom-of-forecast-range-as-margins-tighten-4903155",
     "title": "WH Smith expects FY26 profit at bottom of forecast range as margins tighten",
     "tokens": [
@@ -23228,5 +23185,49 @@
       "top"
     ],
     "ts": 1789688240.2799745
+  },
+  {
+    "id": "orcl-stock-layoffs-know-latest-163322999.html",
+    "title": "ORCL Stock Layoffs: What to Know About the Latest Oracle Job Cuts",
+    "tokens": [
+      "about",
+      "cuts",
+      "job",
+      "know",
+      "latest",
+      "layoffs",
+      "oracle",
+      "orcl",
+      "stock",
+      "what"
+    ],
+    "ts": 1789689053.8281963
+  },
+  {
+    "id": "420m-cmbs-loan-51-west-162120078.html",
+    "title": "$420M CMBS Loan at 51 West 52nd Exits Special Servicing",
+    "tokens": [
+      "420m",
+      "52nd",
+      "cmbs",
+      "exits",
+      "loan",
+      "servicing",
+      "special",
+      "west"
+    ],
+    "ts": 1789689061.1091378
+  },
+  {
+    "id": "zimmer-biomet-stock-underperforming-nasdaq-163755218.html",
+    "title": "Is Zimmer Biomet Stock Underperforming the Nasdaq?",
+    "tokens": [
+      "biomet",
+      "nasdaq",
+      "stock",
+      "underperforming",
+      "zimmer"
+    ],
+    "ts": 1789689067.9169538
   }
 ]

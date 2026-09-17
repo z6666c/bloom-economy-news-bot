@@ -1,227 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/oracle-releases-java-27-with-postquantum-cryptography-support-93CH-4902093",
-    "title": "Oracle releases Java 27 with post-quantum cryptography support",
-    "tokens": [
-      "cryptography",
-      "java",
-      "oracle",
-      "post",
-      "quantum",
-      "releases",
-      "support"
-    ],
-    "ts": 1789483574.5713615
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cosmos-health-subsidiary-secures-52m-unit-manufacturing-deal-93CH-4902092",
-    "title": "Cosmos Health subsidiary secures 5.2M unit manufacturing deal",
-    "tokens": [
-      "cosmos",
-      "deal",
-      "health",
-      "manufacturing",
-      "secures",
-      "subsidiary",
-      "unit"
-    ],
-    "ts": 1789483581.8280468
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/wells-fargo-cfo-sees-stronger-2026-loan-growth-healthy-us-economy-4902091",
-    "title": "Wells Fargo CFO sees stronger 2026 loan growth, healthy US economy",
-    "tokens": [
-      "2026",
-      "cfo",
-      "economy",
-      "fargo",
-      "growth",
-      "healthy",
-      "loan",
-      "sees",
-      "stronger",
-      "wells"
-    ],
-    "ts": 1789483589.1875548
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/intuitive-machines-completes-handover-of-sxm11-satellite-93CH-4902090",
-    "title": "Intuitive Machines completes handover of SXM-11 satellite",
-    "tokens": [
-      "completes",
-      "handover",
-      "intuitive",
-      "machines",
-      "satellite",
-      "sxm"
-    ],
-    "ts": 1789483597.4645264
-  },
-  {
-    "id": "federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
-    "title": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years",
-    "tokens": [
-      "anticipation",
-      "builds",
-      "expected",
-      "fed",
-      "first",
-      "hike",
-      "interest",
-      "live",
-      "meeting",
-      "rates",
-      "time",
-      "updates",
-      "years"
-    ],
-    "ts": 1789483606.886886
-  },
-  {
-    "id": "apollo-j-j-face-high-142856052.html",
-    "title": "Apollo and J&J Face a High-Stakes Orthopedics Deal",
-    "tokens": [
-      "apollo",
-      "deal",
-      "face",
-      "high",
-      "orthopedics",
-      "stakes"
-    ],
-    "ts": 1789483616.017917
-  },
-  {
-    "id": "nvidia-anthropic-investment-securing-ai-142836122.html",
-    "title": "Nvidia’s Anthropic Investment: Securing AI Demand Amid Rising Competition",
-    "tokens": [
-      "anthropic",
-      "competition",
-      "demand",
-      "investment",
-      "nvidia",
-      "rising",
-      "securing"
-    ],
-    "ts": 1789483624.6296437
-  },
-  {
-    "id": "gsk-cuts-641-jobs-vaccine-142359501.html",
-    "title": "GSK Cuts 641 Jobs in Vaccine Manufacturing Restructuring",
-    "tokens": [
-      "641",
-      "cuts",
-      "gsk",
-      "jobs",
-      "manufacturing",
-      "restructuring",
-      "vaccine"
-    ],
-    "ts": 1789483631.9244838
-  },
-  {
-    "id": "kroger-under-pressure-shoppers-become-142231708.html",
-    "title": "Kroger Under Pressure as Shoppers Become More Price-Sensitive",
-    "tokens": [
-      "become",
-      "kroger",
-      "more",
-      "pressure",
-      "price",
-      "sensitive",
-      "shoppers",
-      "under"
-    ],
-    "ts": 1789483640.426723
-  },
-  {
-    "id": "colgate-palmolive-seeks-value-portfolio-142118276.html",
-    "title": "Colgate-Palmolive Seeks Value Through Portfolio Reshaping",
-    "tokens": [
-      "colgate",
-      "palmolive",
-      "portfolio",
-      "reshaping",
-      "seeks",
-      "through",
-      "value"
-    ],
-    "ts": 1789483648.4347868
-  },
-  {
-    "id": "WP-MKTW-0005230537",
-    "title": "Is the shingles vaccine the secret to living longer and delaying dementia? Here’s what the science says.",
-    "tokens": [
-      "delaying",
-      "dementia",
-      "here",
-      "living",
-      "longer",
-      "science",
-      "secret",
-      "shingles",
-      "vaccine",
-      "what"
-    ],
-    "ts": 1789485075.6295063
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/capri-holdings-at-goldman-sachs-conference-turnaround-gains-pace-93CH-4902144",
-    "title": "Capri Holdings at Goldman Sachs conference: turnaround gains pace",
-    "tokens": [
-      "capri",
-      "conference",
-      "gains",
-      "goldman",
-      "holdings",
-      "pace",
-      "sachs",
-      "turnaround"
-    ],
-    "ts": 1789485086.1931465
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/crusoe-and-perplexity-announce-multiyear-ai-infrastructure-deal-93CH-4902142",
-    "title": "Crusoe and Perplexity announce multi-year AI infrastructure deal",
-    "tokens": [
-      "announce",
-      "crusoe",
-      "deal",
-      "infrastructure",
-      "multi",
-      "perplexity",
-      "year"
-    ],
-    "ts": 1789485093.9417162
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/syndax-at-hc-wainwright-conference-recurring-revenue-takes-center-stage-93CH-4902141",
-    "title": "Syndax at H.C. Wainwright conference: recurring revenue takes center stage",
-    "tokens": [
-      "center",
-      "conference",
-      "recurring",
-      "revenue",
-      "stage",
-      "syndax",
-      "takes",
-      "wainwright"
-    ],
-    "ts": 1789485101.5170217
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/weibo-stock-hits-52week-low-at-659-usd-93CH-4902140",
-    "title": "Weibo stock hits 52-week low at 6.59 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week",
-      "weibo"
-    ],
-    "ts": 1789485105.5326054
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/5e-advanced-materials-stock-falls-despite-96m-acquisition-93CH-4902139",
     "title": "5E Advanced Materials stock falls despite $9.6M acquisition",
     "tokens": [
@@ -22957,5 +22735,237 @@
       "year"
     ],
     "ts": 1789633879.877272
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/santander-repurchases-71-million-shares-in-buyback-program-93CH-4904997",
+    "title": "Santander repurchases 7.1 million shares in buyback program",
+    "tokens": [
+      "buyback",
+      "million",
+      "program",
+      "repurchases",
+      "santander",
+      "shares"
+    ],
+    "ts": 1789635158.2727554
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/rakovina-appoints-dr-ranjit-bindra-to-scientific-board-93CH-4904996",
+    "title": "Rakovina appoints Dr. Ranjit Bindra to scientific board",
+    "tokens": [
+      "appoints",
+      "bindra",
+      "board",
+      "rakovina",
+      "ranjit",
+      "scientific"
+    ],
+    "ts": 1789635164.621322
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-pegasystems-stock-rating-on-execution-risks-93CH-4904994",
+    "title": "JPMorgan downgrades Pegasystems stock rating on execution risks",
+    "tokens": [
+      "downgrades",
+      "execution",
+      "jpmorgan",
+      "pegasystems",
+      "rating",
+      "risks",
+      "stock"
+    ],
+    "ts": 1789635172.3957083
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-035-4904992",
+    "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.35%",
+    "tokens": [
+      "close",
+      "composite",
+      "higher",
+      "idx",
+      "index",
+      "indonesia",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1789635176.4111683
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/111-inc-receives-goingprivate-proposal-at-452-per-ads-93CH-4904991",
+    "title": "111 Inc. receives going-private proposal at $4.52 per ADS",
+    "tokens": [
+      "111",
+      "ads",
+      "going",
+      "inc",
+      "per",
+      "private",
+      "proposal",
+      "receives"
+    ],
+    "ts": 1789635179.066377
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/applied-materials-plans-5-billion-india-investment-over-decade-93CH-4904990",
+    "title": "Applied Materials plans $5 billion India investment over decade",
+    "tokens": [
+      "applied",
+      "billion",
+      "decade",
+      "india",
+      "investment",
+      "materials",
+      "plans"
+    ],
+    "ts": 1789635185.6825337
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/european-gas-slides-to-over-oneweek-low-as-french-strike-ends-4904872",
+    "title": "European gas slides to over one-week low as French strike ends",
+    "tokens": [
+      "ends",
+      "european",
+      "french",
+      "gas",
+      "low",
+      "one",
+      "slides",
+      "strike",
+      "week"
+    ],
+    "ts": 1789635192.889746
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/applied-materials-to-invest-5-billion-in-india-as-modis-flagship-chip-event-kicks-off-4904988",
+    "title": "Applied Materials to invest $5 billion in India as Modi’s flagship chip event kicks off",
+    "tokens": [
+      "applied",
+      "billion",
+      "chip",
+      "event",
+      "flagship",
+      "india",
+      "invest",
+      "kicks",
+      "materials",
+      "modi",
+      "off"
+    ],
+    "ts": 1789635199.9140334
+  },
+  {
+    "id": "palantir-nvidia-emerge-key-players-204205272.html",
+    "title": "Palantir and Nvidia Emerge as Key Players in Government AI Modernization",
+    "tokens": [
+      "emerge",
+      "government",
+      "key",
+      "modernization",
+      "nvidia",
+      "palantir",
+      "players"
+    ],
+    "ts": 1789635206.9409027
+  },
+  {
+    "id": "gold-us-dollar-relationship-204112404.html",
+    "title": "Gold and the U.S. dollar: Why they often move in opposite directions",
+    "tokens": [
+      "directions",
+      "dollar",
+      "gold",
+      "move",
+      "often",
+      "opposite",
+      "they",
+      "why"
+    ],
+    "ts": 1789635214.302072
+  },
+  {
+    "id": "microsoft-pays-more-dividends-spends-204301245.html",
+    "title": "Microsoft Pays Out More in Dividends Than It Spends Buying Back Stock. Here's What That Does for Investors.",
+    "tokens": [
+      "back",
+      "buying",
+      "dividends",
+      "does",
+      "here",
+      "investors",
+      "microsoft",
+      "more",
+      "pays",
+      "spends",
+      "stock",
+      "what"
+    ],
+    "ts": 1789635221.9992225
+  },
+  {
+    "id": "sealsq-corp-q2-2026-earnings-205537987.html",
+    "title": "SEALSQ Corp Q2 2026 Earnings Call Summary",
+    "tokens": [
+      "2026",
+      "call",
+      "corp",
+      "earnings",
+      "sealsq",
+      "summary"
+    ],
+    "ts": 1789635229.1464903
+  },
+  {
+    "id": "jpmorgans-petno-sees-bank-fees-surging-while-warning-the-cycle-feels-too-good-205314641.html",
+    "title": "JPMorgan's Petno sees bank fees surging while warning the cycle feels 'too good'",
+    "tokens": [
+      "bank",
+      "cycle",
+      "feels",
+      "fees",
+      "good",
+      "jpmorgan",
+      "petno",
+      "sees",
+      "surging",
+      "too",
+      "warning",
+      "while"
+    ],
+    "ts": 1789635236.652285
+  },
+  {
+    "id": "rklb-stock-alert-know-rocket-205134590.html",
+    "title": "RKLB Stock Alert: What to Know as Rocket Lab Inches Closer to Iridium Acquisition",
+    "tokens": [
+      "acquisition",
+      "alert",
+      "closer",
+      "inches",
+      "iridium",
+      "know",
+      "lab",
+      "rklb",
+      "rocket",
+      "stock",
+      "what"
+    ],
+    "ts": 1789635244.1734388
+  },
+  {
+    "id": "611bcb04-49f2-4703-af94-6136aff114cb",
+    "title": "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
+    "tokens": [
+      "2022",
+      "bitcoin",
+      "faces",
+      "federal",
+      "hikes",
+      "parallels",
+      "rate",
+      "reserve",
+      "resumes"
+    ],
+    "ts": 1789635252.7494273
   }
 ]

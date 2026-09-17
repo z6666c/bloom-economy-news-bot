@@ -1,189 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/5e-advanced-materials-stock-falls-despite-96m-acquisition-93CH-4902139",
-    "title": "5E Advanced Materials stock falls despite $9.6M acquisition",
-    "tokens": [
-      "acquisition",
-      "advanced",
-      "despite",
-      "falls",
-      "materials",
-      "stock"
-    ],
-    "ts": 1789485109.546075
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-008-4902137",
-    "title": "Norway stocks higher at close of trade; Oslo OBX up 0.08%",
-    "tokens": [
-      "close",
-      "higher",
-      "norway",
-      "obx",
-      "oslo",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789485118.856531
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-085-4902134",
-    "title": "Israel stocks lower at close of trade; TA 35 down 0.85%",
-    "tokens": [
-      "close",
-      "israel",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789485127.4897926
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-001-4902133",
-    "title": "Greece stocks higher at close of trade; Athens General Composite up 0.01%",
-    "tokens": [
-      "athens",
-      "close",
-      "composite",
-      "general",
-      "greece",
-      "higher",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789485136.2740588
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/openai-is-working-with-anthropic-google-on-ai-safety-bloomberg-news-reports-4902132",
-    "title": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
-    "tokens": [
-      "anthropic",
-      "bloomberg",
-      "google",
-      "news",
-      "openai",
-      "reports",
-      "safety",
-      "working"
-    ],
-    "ts": 1789485143.9313037
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/vanda-pharmaceuticals-at-hc-wainwright-conference-pipeline-broadens-93CH-4902131",
-    "title": "Vanda Pharmaceuticals at H.C. Wainwright conference: pipeline broadens",
-    "tokens": [
-      "broadens",
-      "conference",
-      "pharmaceuticals",
-      "pipeline",
-      "vanda",
-      "wainwright"
-    ],
-    "ts": 1789485151.5018013
-  },
-  {
-    "id": "bank-america-warns-10-drop-143911257.html",
-    "title": "Bank of America Warns of 10%+ Drop in Q3 Investment Banking Fees",
-    "tokens": [
-      "america",
-      "bank",
-      "banking",
-      "drop",
-      "fees",
-      "investment",
-      "warns"
-    ],
-    "ts": 1789485155.5920181
-  },
-  {
-    "id": "biontech-lung-cancer-drug-shows-143753280.html",
-    "title": "BioNTech’s Lung Cancer Drug Shows Signs of a Major Breakthrough",
-    "tokens": [
-      "biontech",
-      "breakthrough",
-      "cancer",
-      "drug",
-      "lung",
-      "major",
-      "shows",
-      "signs"
-    ],
-    "ts": 1789485158.6987393
-  },
-  {
-    "id": "novo-nordisk-novo-strategic-reset-143625079.html",
-    "title": "From Novo Nordisk to ‘Novo’: A Strategic Reset Amid Rising Lilly Pressure",
-    "tokens": [
-      "lilly",
-      "nordisk",
-      "novo",
-      "pressure",
-      "reset",
-      "rising",
-      "strategic"
-    ],
-    "ts": 1789485166.2326198
-  },
-  {
-    "id": "planted-raises-31-8-million-143619127.html",
-    "title": "Planted Raises $31.8 Million to Accelerate Autonomous Solar Deployment",
-    "tokens": [
-      "accelerate",
-      "autonomous",
-      "deployment",
-      "million",
-      "planted",
-      "raises",
-      "solar"
-    ],
-    "ts": 1789485174.3031414
-  },
-  {
-    "id": "asml-eyes-110-euv-tools-143406050.html",
-    "title": "ASML Eyes 110+ EUV Tools in 2028 as AI Chip Demand Accelerates",
-    "tokens": [
-      "110",
-      "2028",
-      "accelerates",
-      "asml",
-      "chip",
-      "demand",
-      "euv",
-      "eyes",
-      "tools"
-    ],
-    "ts": 1789485182.6476333
-  },
-  {
-    "id": "oilprice-article-45508",
-    "title": "Can The Power Grid Handle AI And Wildfires At The Same Time?",
-    "tokens": [
-      "can",
-      "grid",
-      "handle",
-      "power",
-      "same",
-      "time",
-      "wildfires"
-    ],
-    "ts": 1789485191.148122
-  },
-  {
-    "id": "oilprice-news-45508",
-    "title": "China’s Yuan Crude Oil Futures Jump to Record High",
-    "tokens": [
-      "china",
-      "crude",
-      "futures",
-      "high",
-      "jump",
-      "oil",
-      "record",
-      "yuan"
-    ],
-    "ts": 1789485195.1649215
-  },
-  {
     "id": "WP-MKTW-0005234029",
     "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s dots.",
     "tokens": [
@@ -22967,5 +22783,203 @@
       "resumes"
     ],
     "ts": 1789635252.7494273
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-billington-stock-surging-today-93CH-4905064",
+    "title": "Why is Billington stock surging today?",
+    "tokens": [
+      "billington",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789636266.097875
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-jefferson-capital-stock-rating-on-distressed-debt-93CH-4905063",
+    "title": "Citizens reiterates Jefferson Capital stock rating on distressed debt",
+    "tokens": [
+      "capital",
+      "citizens",
+      "debt",
+      "distressed",
+      "jefferson",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1789636269.457317
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/warby-parker-stock-price-target-maintained-at-29-by-citizens-93CH-4905062",
+    "title": "Warby Parker stock price target maintained at $29 by Citizens",
+    "tokens": [
+      "citizens",
+      "maintained",
+      "parker",
+      "price",
+      "stock",
+      "target",
+      "warby"
+    ],
+    "ts": 1789636276.6704712
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-tpg-re-finance-trust-stock-rating-on-q2-results-93CH-4905056",
+    "title": "Citizens reiterates TPG RE Finance Trust stock rating on Q2 results",
+    "tokens": [
+      "citizens",
+      "finance",
+      "rating",
+      "reiterates",
+      "results",
+      "stock",
+      "tpg",
+      "trust"
+    ],
+    "ts": 1789636284.0200772
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/uk-regulator-probes-euro-exchange-securities-over-aml-failures-93CH-4905055",
+    "title": "UK regulator probes Euro Exchange Securities over AML failures",
+    "tokens": [
+      "aml",
+      "euro",
+      "exchange",
+      "failures",
+      "probes",
+      "regulator",
+      "securities"
+    ],
+    "ts": 1789636292.4623585
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/bytes-shares-jump-10-as-company-upgrades-fullyear-profit-guidance-4905053",
+    "title": "Bytes shares jump 10% as company upgrades full-year profit guidance",
+    "tokens": [
+      "bytes",
+      "company",
+      "full",
+      "guidance",
+      "jump",
+      "profit",
+      "shares",
+      "upgrades",
+      "year"
+    ],
+    "ts": 1789636299.6669092
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/britains-productivity-growth-revised-higher-under-new-ons-method-93CH-4905054",
+    "title": "Britain’s productivity growth revised higher under new ONS method",
+    "tokens": [
+      "britain",
+      "growth",
+      "higher",
+      "method",
+      "ons",
+      "productivity",
+      "revised",
+      "under"
+    ],
+    "ts": 1789636306.8508189
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/pakistan-eyes-bigger-china-swap-line-expects-us-financing-decision-soon-4905048",
+    "title": "Pakistan eyes bigger China swap line, expects US financing decision soon",
+    "tokens": [
+      "bigger",
+      "china",
+      "decision",
+      "expects",
+      "eyes",
+      "financing",
+      "line",
+      "pakistan",
+      "soon",
+      "swap"
+    ],
+    "ts": 1789636313.611916
+  },
+  {
+    "id": "roblox-rblx-gets-higher-price-210444594.html",
+    "title": "Roblox (RBLX) Gets Higher Price Targets, But Analysts Stay Mixed",
+    "tokens": [
+      "analysts",
+      "gets",
+      "higher",
+      "mixed",
+      "price",
+      "rblx",
+      "roblox",
+      "stay",
+      "targets"
+    ],
+    "ts": 1789636321.2267306
+  },
+  {
+    "id": "health-care-roundup-market-talk-2906f60d?siteid=yhoof2&yptr=yahoo",
+    "title": "Health Care Roundup: Market Talk",
+    "tokens": [
+      "care",
+      "health",
+      "market",
+      "roundup",
+      "talk"
+    ],
+    "ts": 1789636328.1076365
+  },
+  {
+    "id": "meta-platforms-inc-meta-stock-211027169.html",
+    "title": "Meta Platforms Inc. (META) Stock Could Surge as AI Monetization Gains Momentum, Says JPMorgan",
+    "tokens": [
+      "could",
+      "gains",
+      "inc",
+      "jpmorgan",
+      "meta",
+      "momentum",
+      "monetization",
+      "platforms",
+      "stock",
+      "surge"
+    ],
+    "ts": 1789636335.8482397
+  },
+  {
+    "id": "meta-stock-alert-know-meta-211054033.html",
+    "title": "META Stock Alert: What to Know as Meta Platforms Plans Expanded Use of Proprietary Chips",
+    "tokens": [
+      "alert",
+      "chips",
+      "expanded",
+      "know",
+      "meta",
+      "plans",
+      "platforms",
+      "proprietary",
+      "stock",
+      "use",
+      "what"
+    ],
+    "ts": 1789636342.8919451
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger",
+    "title": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger",
+    "tokens": [
+      "bitcoin",
+      "btc",
+      "buy",
+      "just",
+      "linger",
+      "losses",
+      "months",
+      "paper",
+      "three",
+      "treasuries"
+    ],
+    "ts": 1789636351.2058716
   }
 ]

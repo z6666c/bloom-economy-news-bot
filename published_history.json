@@ -1,141 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/earnings/tripcom-adr-earnings-beat-by-115-revenue-topped-estimates-4902787",
-    "title": "Trip.com ADR earnings beat by ¥1.15, revenue topped estimates",
-    "tokens": [
-      "adr",
-      "beat",
-      "com",
-      "earnings",
-      "estimates",
-      "revenue",
-      "topped",
-      "trip"
-    ],
-    "ts": 1789519057.0369873
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/evolution-petroleum-earnings-beat-by-012-revenue-topped-estimates-4902786",
-    "title": "Evolution Petroleum earnings beat by $0.12, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "earnings",
-      "estimates",
-      "evolution",
-      "petroleum",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1789519064.3387313
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/new-fortress-energy-ceo-edens-buys-167m-in-shares-93CH-4902808",
-    "title": "New Fortress Energy CEO Edens buys $1.67m in shares",
-    "tokens": [
-      "67m",
-      "buys",
-      "ceo",
-      "edens",
-      "energy",
-      "fortress",
-      "shares"
-    ],
-    "ts": 1789521052.3432121
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dst-global-advisors-sells-686-million-in-chime-financial-stock-93CH-4902807",
-    "title": "DST Global Advisors sells $6.86 million in Chime Financial stock",
-    "tokens": [
-      "advisors",
-      "chime",
-      "dst",
-      "financial",
-      "global",
-      "million",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789521060.085272
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/tko-group-holdings-director-nick-khan-sells-187-million-in-shares-93CH-4902806",
-    "title": "TKO Group Holdings director Nick Khan sells $1.87 million in shares",
-    "tokens": [
-      "director",
-      "group",
-      "holdings",
-      "khan",
-      "million",
-      "nick",
-      "sells",
-      "shares",
-      "tko"
-    ],
-    "ts": 1789521066.9662714
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-falls-as-us-crude-inventories-rise-despite-saudi-supply-concerns-4902799",
-    "title": "Oil falls as US crude inventories rise despite Saudi supply concerns",
-    "tokens": [
-      "concerns",
-      "crude",
-      "despite",
-      "falls",
-      "inventories",
-      "oil",
-      "rise",
-      "saudi",
-      "supply"
-    ],
-    "ts": 1789521073.9943075
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/hilton-evp-laura-fuentes-sells-226m-in-company-stock-93CH-4902805",
-    "title": "Hilton EVP Laura Fuentes sells $2.26m in company stock",
-    "tokens": [
-      "26m",
-      "company",
-      "evp",
-      "fuentes",
-      "hilton",
-      "laura",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789521081.2262921
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/thrivent-financial-sells-189964-in-gloo-holdings-gloo-shares-93CH-4902804",
-    "title": "Thrivent Financial sells $189,964 in Gloo Holdings (GLOO) shares",
-    "tokens": [
-      "189",
-      "964",
-      "financial",
-      "gloo",
-      "holdings",
-      "sells",
-      "shares",
-      "thrivent"
-    ],
-    "ts": 1789521088.2843916
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-general-counsel-paul-quinlan-sells-99442-in-stock-93CH-4902803",
-    "title": "Oruka Therapeutics general counsel Paul Quinlan sells $99,442 in stock",
-    "tokens": [
-      "442",
-      "counsel",
-      "general",
-      "oruka",
-      "paul",
-      "quinlan",
-      "sells",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1789521094.8984523
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-ceo-lawrence-klein-sells-234680-in-orka-stock-93CH-4902802",
     "title": "Oruka Therapeutics CEO Lawrence Klein sells $234,680 in ORKA stock",
     "tokens": [
@@ -23239,5 +23103,144 @@
       "what"
     ],
     "ts": 1789666047.058587
+  },
+  {
+    "id": "WP-MKTW-0005238563",
+    "title": "AI was supposed to kill Google search. These numbers show the opposite, analyst says.",
+    "tokens": [
+      "analyst",
+      "google",
+      "kill",
+      "numbers",
+      "opposite",
+      "search",
+      "show",
+      "supposed",
+      "these"
+    ],
+    "ts": 1789666786.1688952
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-state-department-oks-possible-243-billion-military-aircraft-sale-to-saudi-arabia-4906175",
+    "title": "US State Department OKs possible $24.3 billion military aircraft sale to Saudi Arabia",
+    "tokens": [
+      "aircraft",
+      "arabia",
+      "billion",
+      "department",
+      "military",
+      "oks",
+      "possible",
+      "sale",
+      "saudi",
+      "state"
+    ],
+    "ts": 1789666795.6040885
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/lpp-q2-2026-slides-profit-surges-48-on-margin-expansion-93CH-4906174",
+    "title": "LPP Q2 2026 slides: profit surges 48% on margin expansion",
+    "tokens": [
+      "2026",
+      "expansion",
+      "lpp",
+      "margin",
+      "profit",
+      "slides",
+      "surges"
+    ],
+    "ts": 1789666802.8605824
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bmo-reiterates-hanover-insurance-stock-rating-on-roe-outlook-93CH-4906172",
+    "title": "BMO reiterates Hanover Insurance stock rating on ROE outlook",
+    "tokens": [
+      "bmo",
+      "hanover",
+      "insurance",
+      "outlook",
+      "rating",
+      "reiterates",
+      "roe",
+      "stock"
+    ],
+    "ts": 1789666810.3638809
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/autonation-stock-hits-52week-low-at-17644-93CH-4906170",
+    "title": "Autonation stock hits 52-week low at $176.44",
+    "tokens": [
+      "176",
+      "autonation",
+      "hits",
+      "low",
+      "stock",
+      "week"
+    ],
+    "ts": 1789666817.462753
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/polish-airports-in-lublin-and-rzeszow-suspend-operations-again-93CH-4906166",
+    "title": "Polish airports in Lublin and Rzeszow suspend operations again",
+    "tokens": [
+      "again",
+      "airports",
+      "lublin",
+      "operations",
+      "polish",
+      "rzeszow",
+      "suspend"
+    ],
+    "ts": 1789666825.6362553
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/experts-urge-fda-to-set-clear-safety-and-access-standards-for-psychedelic-drugs-september-14-4906165",
+    "title": "Experts urge FDA to set clear safety and access standards for psychedelic drugs (September 14)",
+    "tokens": [
+      "access",
+      "clear",
+      "drugs",
+      "experts",
+      "fda",
+      "psychedelic",
+      "safety",
+      "september",
+      "set",
+      "standards",
+      "urge"
+    ],
+    "ts": 1789666832.8856466
+  },
+  {
+    "id": "fed-affects-auto-loan-rates-190622401.html",
+    "title": "How does the Fed interest rate affect car loans?",
+    "tokens": [
+      "affect",
+      "car",
+      "does",
+      "fed",
+      "how",
+      "interest",
+      "loans",
+      "rate"
+    ],
+    "ts": 1789666840.2726424
+  },
+  {
+    "id": "boxs-2026-outlook-ai-driven-172501129.html",
+    "title": "Box's 2026 Outlook: AI-Driven Workflow Adoption Solidifies Enterprise Competitive Moat",
+    "tokens": [
+      "2026",
+      "adoption",
+      "box",
+      "competitive",
+      "driven",
+      "enterprise",
+      "moat",
+      "outlook",
+      "solidifies",
+      "workflow"
+    ],
+    "ts": 1789666848.30622
   }
 ]

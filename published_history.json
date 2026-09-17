@@ -1,67 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-ceo-lawrence-klein-sells-234680-in-orka-stock-93CH-4902802",
-    "title": "Oruka Therapeutics CEO Lawrence Klein sells $234,680 in ORKA stock",
-    "tokens": [
-      "234",
-      "680",
-      "ceo",
-      "klein",
-      "lawrence",
-      "orka",
-      "oruka",
-      "sells",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1789521102.1531184
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/reliance-worldwide-shares-hit-1year-high-on-brookfields-29-bln-deal-4902800",
-    "title": "Reliance Worldwide shares hit 1-year high on Brookfield’s $2.9 bln takeover",
-    "tokens": [
-      "bln",
-      "brookfield",
-      "high",
-      "hit",
-      "reliance",
-      "shares",
-      "takeover",
-      "worldwide",
-      "year"
-    ],
-    "ts": 1789521109.1839237
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/neonc-cfo-keithly-garnett-buys-1000-in-company-stock-93CH-4902819",
-    "title": "Neonc CFO Keithly Garnett buys $1,000 in company stock",
-    "tokens": [
-      "000",
-      "buys",
-      "cfo",
-      "company",
-      "garnett",
-      "keithly",
-      "neonc",
-      "stock"
-    ],
-    "ts": 1789521979.9335864
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/landmark-bancorp-director-alexander-sells-7345-in-shares-93CH-4902817",
-    "title": "Landmark Bancorp director Alexander sells $7,345 in shares",
-    "tokens": [
-      "345",
-      "alexander",
-      "bancorp",
-      "director",
-      "landmark",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789521986.504748
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/ultragenyx-svp-sells-17410-in-common-stock-93CH-4902818",
     "title": "Ultragenyx SVP sells $17,410 in common stock",
     "tokens": [
@@ -23242,5 +23180,77 @@
       "workflow"
     ],
     "ts": 1789666848.30622
+  },
+  {
+    "id": "WP-MKTW-0005238784",
+    "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
+    "tokens": [
+      "against",
+      "amazon",
+      "blitz",
+      "could",
+      "day",
+      "delivery",
+      "massive",
+      "same",
+      "secret",
+      "walmart",
+      "weapon"
+    ],
+    "ts": 1789667566.554129
+  },
+  {
+    "id": "mortgage-rates-fell-slightly-after-the-fed-hiked-rates-mortgage-and-refinance-interest-rates-today-thursday-september-17-2026-100000901.html",
+    "title": "Mortgage rates fell slightly after the Fed hiked rates: Mortgage and refinance interest rates today, Thursday, September 17, 2026",
+    "tokens": [
+      "2026",
+      "fed",
+      "fell",
+      "hiked",
+      "interest",
+      "mortgage",
+      "rates",
+      "refinance",
+      "september",
+      "slightly",
+      "thursday",
+      "today"
+    ],
+    "ts": 1789667574.5662947
+  },
+  {
+    "id": "vanguard-russell-1000-growth-vs-174501563.html",
+    "title": "Vanguard Russell 1000 Growth vs. Invesco SmallCap 600 Revenue: Which Is Better for a Diversified Portfolio?",
+    "tokens": [
+      "1000",
+      "600",
+      "better",
+      "diversified",
+      "growth",
+      "invesco",
+      "portfolio",
+      "revenue",
+      "russell",
+      "smallcap",
+      "vanguard",
+      "which"
+    ],
+    "ts": 1789667581.8770232
+  },
+  {
+    "id": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund",
+    "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
+    "tokens": [
+      "access",
+      "expand",
+      "fund",
+      "market",
+      "money",
+      "moonpay",
+      "team",
+      "tokenized",
+      "wisdomtree"
+    ],
+    "ts": 1789667590.5725038
   }
 ]

@@ -1,79 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/iqvia-holdings-stock-hits-52week-high-at-27182-usd-93CH-4902228",
-    "title": "IQVIA Holdings stock hits 52-week high at 271.82 USD",
-    "tokens": [
-      "271",
-      "high",
-      "hits",
-      "holdings",
-      "iqvia",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789487734.3366344
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/universal-health-services-at-2026-global-healthcare-conference-growth-meets-policy-pressure-93CH-4902227",
-    "title": "Universal Health Services at 2026 Global Healthcare Conference: growth meets policy pressure",
-    "tokens": [
-      "2026",
-      "conference",
-      "global",
-      "growth",
-      "health",
-      "healthcare",
-      "meets",
-      "policy",
-      "pressure",
-      "services",
-      "universal"
-    ],
-    "ts": 1789487742.3453166
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/loreal-steals-french-stock-market-crown-from-lvmh-4902226",
-    "title": "L’Oreal steals French stock market crown from LVMH",
-    "tokens": [
-      "crown",
-      "french",
-      "lvmh",
-      "market",
-      "oreal",
-      "steals",
-      "stock"
-    ],
-    "ts": 1789487751.1265934
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/big-us-bank-shares-fall-after-bank-of-america-outlook-93CH-4902225",
-    "title": "Big U.S. bank shares fall after Bank of America outlook",
-    "tokens": [
-      "america",
-      "bank",
-      "big",
-      "fall",
-      "outlook",
-      "shares"
-    ],
-    "ts": 1789487758.9916604
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/loreal-overtakes-lvmh-as-frances-most-valuable-company-93CH-4902224",
-    "title": "L’Oreal overtakes LVMH as France’s most valuable company",
-    "tokens": [
-      "company",
-      "france",
-      "lvmh",
-      "most",
-      "oreal",
-      "overtakes",
-      "valuable"
-    ],
-    "ts": 1789487766.0786712
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/marqeta-at-ft-partners-fintech-conference-growth-broadens-as-block-fades-93CH-4902223",
     "title": "Marqeta at FT Partners FinTech Conference: growth broadens as block fades",
     "tokens": [
@@ -22994,5 +22920,81 @@
       "why"
     ],
     "ts": 1789639042.2928925
+  },
+  {
+    "id": "jim-cramer-defends-intuit-intu-220945960.html",
+    "title": "Jim Cramer Defends Intuit (INTU) Against AI Skeptics Ahead of Investor Day",
+    "tokens": [
+      "against",
+      "ahead",
+      "cramer",
+      "day",
+      "defends",
+      "intu",
+      "intuit",
+      "investor",
+      "jim",
+      "skeptics"
+    ],
+    "ts": 1789640000.3122804
+  },
+  {
+    "id": "realty-income-taps-private-capital-220218428.html",
+    "title": "Realty Income Taps Private Capital, Europe and Data Centers for Growth",
+    "tokens": [
+      "capital",
+      "centers",
+      "data",
+      "europe",
+      "growth",
+      "income",
+      "private",
+      "realty",
+      "taps"
+    ],
+    "ts": 1789640008.3529296
+  },
+  {
+    "id": "americans-median-household-income-hit-224629115.html",
+    "title": "Americans’ Median Household Income Hit a Record High in 2025",
+    "tokens": [
+      "2025",
+      "americans",
+      "high",
+      "hit",
+      "household",
+      "income",
+      "median",
+      "record"
+    ],
+    "ts": 1789640016.121861
+  },
+  {
+    "id": "grid-wasted-power-problem-sector-230208698.html",
+    "title": "The Grid’s Wasted-Power Problem Has a Sector-Coupling Fix",
+    "tokens": [
+      "coupling",
+      "fix",
+      "grid",
+      "power",
+      "problem",
+      "sector",
+      "wasted"
+    ],
+    "ts": 1789640023.3742738
+  },
+  {
+    "id": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact",
+    "title": "Revolut says no direct contact after $3 million public ransom demand",
+    "tokens": [
+      "contact",
+      "demand",
+      "direct",
+      "million",
+      "public",
+      "ransom",
+      "revolut"
+    ],
+    "ts": 1789640032.0097618
   }
 ]

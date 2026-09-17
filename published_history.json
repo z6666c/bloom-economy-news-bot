@@ -1,246 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/ai-is-not-a-monopoly-of-great-powers-chinas-top-newspaper-says-4902766",
-    "title": "AI is not a ’monopoly of great powers’, China’s top newspaper says",
-    "tokens": [
-      "china",
-      "great",
-      "monopoly",
-      "newspaper",
-      "powers",
-      "top"
-    ],
-    "ts": 1789517686.7682004
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/hewlett-packard-enterprise-ceo-antonio-f-neri-sells-151m-shares-93CH-4902765",
-    "title": "Hewlett Packard Enterprise CEO Antonio F. Neri sells $15.1m shares",
-    "tokens": [
-      "antonio",
-      "ceo",
-      "enterprise",
-      "hewlett",
-      "neri",
-      "packard",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789517693.363375
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/radian-group-sr-evp-meghan-bartholomew-sells-280763-in-stock-93CH-4902764",
-    "title": "Radian Group Sr EVP Meghan Bartholomew sells $280,763 in stock",
-    "tokens": [
-      "280",
-      "763",
-      "bartholomew",
-      "evp",
-      "group",
-      "meghan",
-      "radian",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789517701.2628942
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/uber-president-jill-hazelbaker-sells-201m-in-stock-93CH-4902763",
-    "title": "Uber president Jill Hazelbaker sells $2.01m in stock",
-    "tokens": [
-      "01m",
-      "hazelbaker",
-      "jill",
-      "president",
-      "sells",
-      "stock",
-      "uber"
-    ],
-    "ts": 1789517709.2853668
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/pagaya-technologies-president-sanjiv-das-sells-268813-in-stock-93CH-4902762",
-    "title": "Pagaya Technologies president Sanjiv Das sells $268,813 in stock.",
-    "tokens": [
-      "268",
-      "813",
-      "das",
-      "pagaya",
-      "president",
-      "sanjiv",
-      "sells",
-      "stock",
-      "technologies"
-    ],
-    "ts": 1789517716.348753
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/new-york-proposes-1-million-per-megawatt-community-investment-for-data-centers-4902760",
-    "title": "New York proposes $1 million per megawatt community investment for data centers",
-    "tokens": [
-      "centers",
-      "community",
-      "data",
-      "investment",
-      "megawatt",
-      "million",
-      "per",
-      "proposes",
-      "york"
-    ],
-    "ts": 1789517723.9780102
-  },
-  {
-    "id": "oilprice-article-45514",
-    "title": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
-    "tokens": [
-      "buffers",
-      "hits",
-      "market",
-      "oil",
-      "outage",
-      "pipeline",
-      "running",
-      "saudi"
-    ],
-    "ts": 1789517732.731749
-  },
-  {
-    "id": "oilprice-news-45514",
-    "title": "ADNOC Scoops Up Iraqi Crude at $25 Per Barrel Discount",
-    "tokens": [
-      "adnoc",
-      "barrel",
-      "crude",
-      "discount",
-      "iraqi",
-      "per",
-      "scoops"
-    ],
-    "ts": 1789517740.0425022
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-with-fed-rate-hike-in-focus-4902797",
-    "title": "U.S. stock futures drift higher with Fed rate hike in focus",
-    "tokens": [
-      "drift",
-      "fed",
-      "focus",
-      "futures",
-      "higher",
-      "hike",
-      "rate",
-      "stock"
-    ],
-    "ts": 1789518999.1907794
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-director-roxanne-austin-sells-1188m-in-shares-93CH-4902796",
-    "title": "Crowdstrike director Roxanne Austin sells $11.88m in shares",
-    "tokens": [
-      "88m",
-      "austin",
-      "crowdstrike",
-      "director",
-      "roxanne",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789519007.0382993
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ambiq-micro-coo-chen-sells-902130-in-shares-93CH-4902795",
-    "title": "Ambiq Micro COO Chen sells $902,130 in shares",
-    "tokens": [
-      "130",
-      "902",
-      "ambiq",
-      "chen",
-      "coo",
-      "micro",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789519013.838222
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ambiq-micro-director-ker-zhang-sells-634360-of-common-stock-93CH-4902794",
-    "title": "Ambiq Micro director Ker Zhang sells $634,360 of common stock",
-    "tokens": [
-      "360",
-      "634",
-      "ambiq",
-      "common",
-      "director",
-      "ker",
-      "micro",
-      "sells",
-      "stock",
-      "zhang"
-    ],
-    "ts": 1789519020.5335922
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/coherent-corp-director-enrico-digirolomo-sells-16-million-in-shares-93CH-4902793",
-    "title": "Coherent Corp. director Enrico Digirolomo sells $1.6 million in shares",
-    "tokens": [
-      "coherent",
-      "corp",
-      "digirolomo",
-      "director",
-      "enrico",
-      "million",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789519027.7871385
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/new-zealand-parliament-passes-india-trade-deal-cutting-tariffs-on-most-exports-4902792",
-    "title": "New Zealand parliament passes India trade deal, cutting tariffs on most exports",
-    "tokens": [
-      "cutting",
-      "deal",
-      "exports",
-      "india",
-      "most",
-      "parliament",
-      "passes",
-      "tariffs",
-      "trade",
-      "zealand"
-    ],
-    "ts": 1789519034.9720933
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/lumentum-president-yuen-sells-132m-in-company-stock-93CH-4902789",
-    "title": "Lumentum president Yuen sells $1.32m in company stock",
-    "tokens": [
-      "32m",
-      "company",
-      "lumentum",
-      "president",
-      "sells",
-      "stock",
-      "yuen"
-    ],
-    "ts": 1789519041.9351468
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-coo-sandler-sells-86713-in-common-stock-93CH-4902788",
-    "title": "Oruka Therapeutics COO Sandler sells $86,713 in common stock",
-    "tokens": [
-      "713",
-      "common",
-      "coo",
-      "oruka",
-      "sandler",
-      "sells",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1789519049.9392335
-  },
-  {
     "id": "https://www.investing.com/news/earnings/tripcom-adr-earnings-beat-by-115-revenue-topped-estimates-4902787",
     "title": "Trip.com ADR earnings beat by ¥1.15, revenue topped estimates",
     "tokens": [
@@ -23235,5 +22994,250 @@
       "there"
     ],
     "ts": 1789665154.1412234
+  },
+  {
+    "id": "WP-MKTW-0005239013",
+    "title": "Why growth stocks’ surprising strength may be warning of a market bubble",
+    "tokens": [
+      "bubble",
+      "growth",
+      "market",
+      "may",
+      "stocks",
+      "strength",
+      "surprising",
+      "warning",
+      "why"
+    ],
+    "ts": 1789665948.7057104
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-lpp-group-posts-strong-q2-2026-profit-growth-93CH-4906163",
+    "title": "Earnings call transcript: LPP Group posts strong Q2 2026 profit growth",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "group",
+      "growth",
+      "lpp",
+      "posts",
+      "profit",
+      "strong",
+      "transcript"
+    ],
+    "ts": 1789665956.869434
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/artesian-resources-director-dian-taylor-sells-140680-in-stock-93CH-4906161",
+    "title": "Artesian Resources director Dian Taylor sells $140,680 in stock",
+    "tokens": [
+      "140",
+      "680",
+      "artesian",
+      "dian",
+      "director",
+      "resources",
+      "sells",
+      "stock",
+      "taylor"
+    ],
+    "ts": 1789665964.1220164
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ecopetrol-names-carlos-augusto-suarez-as-board-chairman-93CH-4906158",
+    "title": "Ecopetrol names Carlos Augusto Suarez as board chairman",
+    "tokens": [
+      "augusto",
+      "board",
+      "carlos",
+      "chairman",
+      "ecopetrol",
+      "names",
+      "suarez"
+    ],
+    "ts": 1789665971.5108736
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/entergy-texas-declares-quarterly-dividend-on-preferred-stock-93CH-4906156",
+    "title": "Entergy Texas declares quarterly dividend on preferred stock",
+    "tokens": [
+      "declares",
+      "dividend",
+      "entergy",
+      "preferred",
+      "quarterly",
+      "stock",
+      "texas"
+    ],
+    "ts": 1789665978.5758617
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/oregon-bancorp-declares-020-quarterly-dividend-93CH-4906157",
+    "title": "Oregon Bancorp declares $0.20 quarterly dividend",
+    "tokens": [
+      "bancorp",
+      "declares",
+      "dividend",
+      "oregon",
+      "quarterly"
+    ],
+    "ts": 1789665986.052476
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/northrop-grumman-at-morgan-stanley-conference-backlog-and-growth-93CH-4906154",
+    "title": "Northrop Grumman at Morgan Stanley conference: backlog and growth",
+    "tokens": [
+      "backlog",
+      "conference",
+      "growth",
+      "grumman",
+      "morgan",
+      "northrop",
+      "stanley"
+    ],
+    "ts": 1789665993.6718469
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/lincoln-electric-at-morgan-stanley-conference-margin-plan-in-focus-93CH-4906153",
+    "title": "Lincoln Electric at Morgan Stanley conference: margin plan in focus",
+    "tokens": [
+      "conference",
+      "electric",
+      "focus",
+      "lincoln",
+      "margin",
+      "morgan",
+      "plan",
+      "stanley"
+    ],
+    "ts": 1789665997.6885264
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/johnson--johnson-at-deutsche-bank-healthcare-summit-growth-outlook-lifts-93CH-4906149",
+    "title": "Johnson & Johnson at deutsche bank healthcare summit: growth outlook lifts",
+    "tokens": [
+      "bank",
+      "deutsche",
+      "growth",
+      "healthcare",
+      "johnson",
+      "lifts",
+      "outlook",
+      "summit"
+    ],
+    "ts": 1789666000.9982142
+  },
+  {
+    "id": "access-credit-tightening-means-next-150515547.html",
+    "title": "Access to credit is tightening — here’s what it means for your next auto loan",
+    "tokens": [
+      "access",
+      "auto",
+      "credit",
+      "here",
+      "loan",
+      "means",
+      "next",
+      "tightening",
+      "what",
+      "your"
+    ],
+    "ts": 1789666008.626252
+  },
+  {
+    "id": "takeda-pharmaceutical-tak-gets-priority-170819495.html",
+    "title": "Takeda Pharmaceutical (TAK) Gets Priority Review. Can Zasocitinib Win in Psoriasis?",
+    "tokens": [
+      "can",
+      "gets",
+      "pharmaceutical",
+      "priority",
+      "psoriasis",
+      "review",
+      "tak",
+      "takeda",
+      "win",
+      "zasocitinib"
+    ],
+    "ts": 1789666017.112772
+  },
+  {
+    "id": "secured-auto-loans-why-usually-212442450.html",
+    "title": "How secured auto loans work",
+    "tokens": [
+      "auto",
+      "how",
+      "loans",
+      "secured",
+      "work"
+    ],
+    "ts": 1789666024.5294318
+  },
+  {
+    "id": "why-oracle-stock-jumped-6-171651571.html",
+    "title": "Why Oracle Stock Jumped 6% Today on OpenAI Funding Buzz",
+    "tokens": [
+      "buzz",
+      "funding",
+      "jumped",
+      "openai",
+      "oracle",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789666032.3668418
+  },
+  {
+    "id": "stock-market-today-thursday-september-17-dow-sp-500-nasdaq-oil-fed-081248626.html",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+    "tokens": [
+      "500",
+      "dow",
+      "fed",
+      "hike",
+      "inflation",
+      "market",
+      "markets",
+      "nasdaq",
+      "oil",
+      "pacifies",
+      "rate",
+      "rise",
+      "slips",
+      "stock",
+      "today",
+      "worries"
+    ],
+    "ts": 1789666036.3844607
+  },
+  {
+    "id": "airbaltic-shrinking-ryanair-moving-165823095.html",
+    "title": "airBaltic Is Shrinking. Ryanair Is Moving In.",
+    "tokens": [
+      "airbaltic",
+      "moving",
+      "ryanair",
+      "shrinking"
+    ],
+    "ts": 1789666039.585466
+  },
+  {
+    "id": "aon-17-billion-usi-deal-165811093.html",
+    "title": "Aon’s $17 Billion USI Deal: What Hedge Fund Sentiment Says About AON and KKR",
+    "tokens": [
+      "about",
+      "aon",
+      "billion",
+      "deal",
+      "fund",
+      "hedge",
+      "kkr",
+      "sentiment",
+      "usi",
+      "what"
+    ],
+    "ts": 1789666047.058587
   }
 ]

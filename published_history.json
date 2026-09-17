@@ -1,230 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/belgium-stocks-lower-at-close-of-trade-bel-20-down-009-4902264",
-    "title": "Belgium stocks lower at close of trade; BEL 20 down 0.09%",
-    "tokens": [
-      "bel",
-      "belgium",
-      "close",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789488703.539608
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/mattel-partners-with-bbc-studios-to-launch-bluey-products-93CH-4902263",
-    "title": "Mattel partners with BBC Studios to launch Bluey products",
-    "tokens": [
-      "bbc",
-      "bluey",
-      "launch",
-      "mattel",
-      "partners",
-      "products",
-      "studios"
-    ],
-    "ts": 1789488711.1718864
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/blossomhill-therapeutics-at-hc-wainwright-lead-drug-data-lift-outlook-93CH-4902262",
-    "title": "BlossomHill Therapeutics at H.C. Wainwright: lead drug data lift outlook",
-    "tokens": [
-      "blossomhill",
-      "data",
-      "drug",
-      "lead",
-      "lift",
-      "outlook",
-      "therapeutics",
-      "wainwright"
-    ],
-    "ts": 1789488718.8531697
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-rapport-therapeutics-stock-ahead-of-data-93CH-4902261",
-    "title": "Truist reiterates Buy on Rapport Therapeutics stock ahead of data",
-    "tokens": [
-      "ahead",
-      "buy",
-      "data",
-      "rapport",
-      "reiterates",
-      "stock",
-      "therapeutics",
-      "truist"
-    ],
-    "ts": 1789488726.256514
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/south-korean-workers-challenging-trump-administration-over-georgia-raid-cnn-reports-4902236",
-    "title": "South Korean workers challenging Trump administration over Georgia raid, CNN reports",
-    "tokens": [
-      "administration",
-      "challenging",
-      "cnn",
-      "georgia",
-      "korean",
-      "raid",
-      "reports",
-      "south",
-      "trump",
-      "workers"
-    ],
-    "ts": 1789488734.2642791
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sabanci-renewables-advances-us-growth-with-alina-solar-project-4902259",
-    "title": "Sabanci Renewables Advances US Growth with Alina Solar Project",
-    "tokens": [
-      "advances",
-      "alina",
-      "growth",
-      "project",
-      "renewables",
-      "sabanci",
-      "solar"
-    ],
-    "ts": 1789488742.2629666
-  },
-  {
-    "id": "caterpillar-cat-drives-sector-leading-155623250.html",
-    "title": "How Caterpillar (CAT) Drives Sector-Leading Performance Beyond AI Models",
-    "tokens": [
-      "beyond",
-      "cat",
-      "caterpillar",
-      "drives",
-      "how",
-      "leading",
-      "models",
-      "performance",
-      "sector"
-    ],
-    "ts": 1789488751.6843271
-  },
-  {
-    "id": "gates-industrial-gtes-benefits-ai-154615331.html",
-    "title": "Gates Industrial (GTES) Benefits From AI Growth Without Being an AI Stock",
-    "tokens": [
-      "being",
-      "benefits",
-      "gates",
-      "growth",
-      "gtes",
-      "industrial",
-      "stock",
-      "without"
-    ],
-    "ts": 1789488759.3565977
-  },
-  {
-    "id": "oilprice-article-45505",
-    "title": "U.S. Diesel Prices on Track for Record Year",
-    "tokens": [
-      "diesel",
-      "prices",
-      "record",
-      "track",
-      "year"
-    ],
-    "ts": 1789488768.4467738
-  },
-  {
-    "id": "oilprice-news-45505",
-    "title": "Drone Strikes Cripple Half of Russia's Top Diesel Refineries",
-    "tokens": [
-      "cripple",
-      "diesel",
-      "drone",
-      "half",
-      "refineries",
-      "russia",
-      "strikes",
-      "top"
-    ],
-    "ts": 1789488776.0291345
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs",
-    "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-    "tokens": [
-      "bitcoin",
-      "bonds",
-      "falls",
-      "global",
-      "highs",
-      "hit",
-      "low",
-      "multidecade",
-      "price",
-      "september"
-    ],
-    "ts": 1789488785.21854
-  },
-  {
-    "id": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030",
-    "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
-    "tokens": [
-      "2030",
-      "arbitrum",
-      "bitcoin",
-      "chartered",
-      "could",
-      "ether",
-      "outperform",
-      "standard",
-      "through"
-    ],
-    "ts": 1789488793.5046396
-  },
-  {
-    "id": "WP-MKTW-0005233064",
-    "title": "Tech stocks haven’t been this cheap since the launch of ChatGPT. Should you buy in?",
-    "tokens": [
-      "buy",
-      "chatgpt",
-      "cheap",
-      "haven",
-      "launch",
-      "should",
-      "since",
-      "stocks",
-      "tech",
-      "you"
-    ],
-    "ts": 1789489692.6723657
-  },
-  {
-    "id": "WP-MKTW-0005232671",
-    "title": "Gold is starting to move on something a lot bigger than inflation",
-    "tokens": [
-      "bigger",
-      "gold",
-      "inflation",
-      "lot",
-      "move",
-      "something",
-      "starting"
-    ],
-    "ts": 1789489701.8705132
-  },
-  {
-    "id": "WP-MKTW-0005234417",
-    "title": "Wall Street may have gotten the ‘slower AI’ story all wrong",
-    "tokens": [
-      "all",
-      "gotten",
-      "may",
-      "slower",
-      "story",
-      "street",
-      "wall",
-      "wrong"
-    ],
-    "ts": 1789489709.9650042
-  },
-  {
     "id": "WP-MKTW-0005233915",
     "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
     "tokens": [
@@ -22990,5 +22765,239 @@
       "yield"
     ],
     "ts": 1789641021.406324
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/the-fed-is-hiking-why-isnt-ubs-worried-about-stocks-4905218",
+    "title": "The Fed is hiking. Why isn’t UBS worried about stocks?",
+    "tokens": [
+      "about",
+      "fed",
+      "hiking",
+      "isn",
+      "stocks",
+      "ubs",
+      "why",
+      "worried"
+    ],
+    "ts": 1789641938.845731
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hargreave-hale-aim-vct-allots-885927-shares-at-3264p-each-93CH-4905216",
+    "title": "Hargreave Hale AIM VCT allots 885,927 shares at 32.64p each",
+    "tokens": [
+      "64p",
+      "885",
+      "927",
+      "aim",
+      "allots",
+      "each",
+      "hale",
+      "hargreave",
+      "shares",
+      "vct"
+    ],
+    "ts": 1789641946.4073966
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/helvetia-baloise-h1-2026-slides-integration-ahead-of-plan-187-roae-93CH-4905215",
+    "title": "Helvetia Baloise H1 2026 slides: integration ahead of plan, 18.7% RoaE",
+    "tokens": [
+      "2026",
+      "ahead",
+      "baloise",
+      "helvetia",
+      "integration",
+      "plan",
+      "roae",
+      "slides"
+    ],
+    "ts": 1789641954.2763846
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/huaweis-xu-says-chinese-ai-not-powerful-enough-yet-to-see-frontier-risks-4905193",
+    "title": "Huawei’s Xu says Chinese AI not powerful enough yet to see frontier risks",
+    "tokens": [
+      "chinese",
+      "enough",
+      "frontier",
+      "huawei",
+      "powerful",
+      "risks",
+      "see",
+      "yet"
+    ],
+    "ts": 1789641961.5103052
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-momentum-group-posts-record-h2-2026-earnings-93CH-4905208",
+    "title": "Earnings call transcript: Momentum Group posts record H2 2026 earnings",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "group",
+      "momentum",
+      "posts",
+      "record",
+      "transcript"
+    ],
+    "ts": 1789641969.5634995
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/beyond-investment-returns-families-are-measuring-wealth-by-freedom-continuity-and-legacy-according-to-nour-private-wealth-4905207",
+    "title": "Beyond Investment Returns: Families Are Measuring Wealth by Freedom, Continuity, and Legacy, According to Nour Private Wealth",
+    "tokens": [
+      "according",
+      "beyond",
+      "continuity",
+      "families",
+      "freedom",
+      "investment",
+      "legacy",
+      "measuring",
+      "nour",
+      "private",
+      "returns",
+      "wealth"
+    ],
+    "ts": 1789641977.476327
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/german-court-rules-meta-liable-for-fake-ads-on-instagram-facebook-4905194",
+    "title": "German court rules Meta liable for fake ads on Instagram, Facebook",
+    "tokens": [
+      "ads",
+      "court",
+      "facebook",
+      "fake",
+      "german",
+      "instagram",
+      "liable",
+      "meta",
+      "rules"
+    ],
+    "ts": 1789641985.1039784
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/european-stocks-catch-a-postfed-bid-as-traders-weigh-middle-east-peace-chatter-4904808",
+    "title": "European stocks catch a post-Fed bid as traders weigh Middle East peace chatter",
+    "tokens": [
+      "bid",
+      "catch",
+      "chatter",
+      "east",
+      "european",
+      "fed",
+      "middle",
+      "peace",
+      "post",
+      "stocks",
+      "traders",
+      "weigh"
+    ],
+    "ts": 1789641991.6426003
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/india-stocks-mixed-at-close-of-trade-nifty-50-up-023-4905205",
+    "title": "India stocks mixed at close of trade; Nifty 50 up 0.23%",
+    "tokens": [
+      "close",
+      "india",
+      "mixed",
+      "nifty",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1789641998.7366643
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/lula-and-bolsonaro-remain-tied-in-brazil-election-poll-93CH-4905201",
+    "title": "Lula and Bolsonaro remain tied in Brazil election poll",
+    "tokens": [
+      "bolsonaro",
+      "brazil",
+      "election",
+      "lula",
+      "poll",
+      "remain",
+      "tied"
+    ],
+    "ts": 1789642006.6710365
+  },
+  {
+    "id": "much-larger-pullback-justified-prepare-223920947.html",
+    "title": "A ‘much larger pullback’ is justified: How to prepare",
+    "tokens": [
+      "how",
+      "justified",
+      "larger",
+      "much",
+      "prepare",
+      "pullback"
+    ],
+    "ts": 1789642013.0696778
+  },
+  {
+    "id": "ai-gold-rush-dress-code-233725771.html",
+    "title": "The AI gold rush has a dress code: steel-toe boots",
+    "tokens": [
+      "boots",
+      "code",
+      "dress",
+      "gold",
+      "rush",
+      "steel",
+      "toe"
+    ],
+    "ts": 1789642019.8532183
+  },
+  {
+    "id": "45ef0227-bd5d-4005-a58c-1f6360c2e6b1",
+    "title": "Live updates: Zcash jumps 17% as $345 million of liquidations hit crypto traders",
+    "tokens": [
+      "345",
+      "crypto",
+      "hit",
+      "jumps",
+      "liquidations",
+      "live",
+      "million",
+      "traders",
+      "updates",
+      "zcash"
+    ],
+    "ts": 1789642029.408282
+  },
+  {
+    "id": "6d127f8f-5993-4ac6-b2e5-8f5dd72a3bf4",
+    "title": "Crypto rallies through the Fed's first rate increase since 2023",
+    "tokens": [
+      "2023",
+      "crypto",
+      "fed",
+      "first",
+      "increase",
+      "rallies",
+      "rate",
+      "since",
+      "through"
+    ],
+    "ts": 1789642036.1036735
+  },
+  {
+    "id": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins",
+    "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
+    "tokens": [
+      "firm",
+      "founder",
+      "gains",
+      "investment",
+      "made",
+      "paradigm",
+      "reveals",
+      "zcash",
+      "zec"
+    ],
+    "ts": 1789642043.6492443
   }
 ]

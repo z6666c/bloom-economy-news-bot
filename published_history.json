@@ -1,185 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/patterson-veterinary-launches-atlas-an-ai-assistant-for-veterinary-software-1036547362",
-    "title": "Patterson Veterinary Launches Atlas: an AI Assistant for Veterinary Software",
-    "tokens": [
-      "assistant",
-      "atlas",
-      "launches",
-      "patterson",
-      "software",
-      "veterinary"
-    ],
-    "ts": 1789487029.7900069
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-pva-tepla-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036547370",
-    "title": "EQS-PVR: PVA TePla AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
-    "tokens": [
-      "according",
-      "act",
-      "article",
-      "distribution",
-      "eqs",
-      "europe",
-      "german",
-      "objective",
-      "pva",
-      "pvr",
-      "release",
-      "section",
-      "securities",
-      "tepla",
-      "trading",
-      "wide",
-      "wphg"
-    ],
-    "ts": 1789487033.8059092
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-nagarro-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036547361",
-    "title": "EQS-PVR: Nagarro SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
-    "tokens": [
-      "according",
-      "act",
-      "article",
-      "distribution",
-      "eqs",
-      "europe",
-      "german",
-      "nagarro",
-      "objective",
-      "pvr",
-      "release",
-      "section",
-      "securities",
-      "trading",
-      "wide",
-      "wphg"
-    ],
-    "ts": 1789487033.8215275
-  },
-  {
-    "id": "https://seekingalpha.com/news/4643061-gfl-environmental-forms-special-committee-to-consider-take-private---ctfn?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "GFL Environmental forms special committee to consider take-private - CTFN",
-    "tokens": [
-      "committee",
-      "consider",
-      "ctfn",
-      "environmental",
-      "forms",
-      "gfl",
-      "private",
-      "special",
-      "take"
-    ],
-    "ts": 1789487037.560903
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/gias-foods-inc-recalls-bettergoods-authentic-italian-lemon-alfredo-fettuccine-because-of-possible-health-risk-1036547310",
-    "title": "Gias Foods, Inc. Recalls bettergoods Authentic Italian Lemon Alfredo Fettuccine Because of Possible Health Risk",
-    "tokens": [
-      "alfredo",
-      "authentic",
-      "because",
-      "bettergoods",
-      "fettuccine",
-      "foods",
-      "gias",
-      "health",
-      "inc",
-      "italian",
-      "lemon",
-      "possible",
-      "recalls",
-      "risk"
-    ],
-    "ts": 1789487046.500415
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/wawanesa-life-launches-bereavement-support-to-provide-compassionate-guidance-after-loss-1036547308",
-    "title": "Wawanesa Life launches Bereavement Support to provide compassionate guidance after loss",
-    "tokens": [
-      "bereavement",
-      "compassionate",
-      "guidance",
-      "launches",
-      "life",
-      "loss",
-      "provide",
-      "support",
-      "wawanesa"
-    ],
-    "ts": 1789487054.4206383
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/azuria-water-solutions-announces-the-acquisition-of-cured-in-place-pipe-cipp-division-of-nor-cal-pipeline-services-1036547301",
-    "title": "Azuria Water Solutions Announces the Acquisition of Cured-in-Place Pipe (CIPP) Division of Nor-Cal Pipeline Services",
-    "tokens": [
-      "acquisition",
-      "announces",
-      "azuria",
-      "cal",
-      "cipp",
-      "cured",
-      "division",
-      "nor",
-      "pipe",
-      "pipeline",
-      "place",
-      "services",
-      "solutions",
-      "water"
-    ],
-    "ts": 1789487063.855275
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/matthews-international-director-buys-19990-in-shares-93CH-4902232",
-    "title": "Matthews International director buys $19,990 in shares",
-    "tokens": [
-      "990",
-      "buys",
-      "director",
-      "international",
-      "matthews",
-      "shares"
-    ],
-    "ts": 1789487712.708142
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/keybanc-reiterates-broadstone-net-lease-stock-rating-on-data-center-order-93CH-4902230",
-    "title": "KeyBanc reiterates Broadstone Net Lease stock rating on data center order",
-    "tokens": [
-      "broadstone",
-      "center",
-      "data",
-      "keybanc",
-      "lease",
-      "net",
-      "order",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1789487719.948657
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/silicon-motion-at-piper-sandler-growth-frontiers-conference-shift-broadens-93CH-4902229",
-    "title": "Silicon Motion at Piper Sandler growth frontiers conference: shift broadens",
-    "tokens": [
-      "broadens",
-      "conference",
-      "frontiers",
-      "growth",
-      "motion",
-      "piper",
-      "sandler",
-      "shift",
-      "silicon"
-    ],
-    "ts": 1789487727.2298608
-  },
-  {
     "id": "https://www.investing.com/news/company-news/iqvia-holdings-stock-hits-52week-high-at-27182-usd-93CH-4902228",
     "title": "IQVIA Holdings stock hits 52-week high at 271.82 USD",
     "tokens": [
@@ -23013,5 +22833,166 @@
       "users"
     ],
     "ts": 1789638374.951152
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bofa-hires-goldmans-srijith-nair-to-lead-asia-exchina-financial-institutions-banking-memo-says-4905111",
+    "title": "BofA hires Goldman’s Srijith Nair to lead Asia ex-China financial institutions banking, memo says",
+    "tokens": [
+      "asia",
+      "banking",
+      "bofa",
+      "china",
+      "financial",
+      "goldman",
+      "hires",
+      "institutions",
+      "lead",
+      "memo",
+      "nair",
+      "srijith"
+    ],
+    "ts": 1789638986.4216616
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-galliford-try-h2-2026-profit-cash-and-buyback-lift-shares-93CH-4905110",
+    "title": "Earnings call transcript: Galliford Try H2 2026 profit, cash and buyback lift shares",
+    "tokens": [
+      "2026",
+      "buyback",
+      "call",
+      "cash",
+      "earnings",
+      "galliford",
+      "lift",
+      "profit",
+      "shares",
+      "transcript",
+      "try"
+    ],
+    "ts": 1789638994.5286877
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-inter-cars-posts-strong-h1-2026-growth-stock-slips-93CH-4905109",
+    "title": "Earnings call transcript: Inter Cars posts strong H1 2026 growth, stock slips",
+    "tokens": [
+      "2026",
+      "call",
+      "cars",
+      "earnings",
+      "growth",
+      "inter",
+      "posts",
+      "slips",
+      "stock",
+      "strong",
+      "transcript"
+    ],
+    "ts": 1789639001.35744
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/centuria-unit-weighs-sale-of-bathla-debt-at-discount--report-93CH-4905104",
+    "title": "Centuria unit weighs sale of Bathla debt at discount - report",
+    "tokens": [
+      "bathla",
+      "centuria",
+      "debt",
+      "discount",
+      "report",
+      "sale",
+      "unit",
+      "weighs"
+    ],
+    "ts": 1789639008.2327166
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/final-hour-get-investingpro-for-less-than-2-per-week-before-our-sale-ends-today-4905103",
+    "title": "FINAL HOUR: Get InvestingPro for less than $2 per week before our sale ends TODAY",
+    "tokens": [
+      "before",
+      "ends",
+      "final",
+      "get",
+      "hour",
+      "investingpro",
+      "less",
+      "our",
+      "per",
+      "sale",
+      "today",
+      "week"
+    ],
+    "ts": 1789639015.023994
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/eurozone-inflation-rises-by-32-in-twelve-months-to-august--eurostat-4905102",
+    "title": "Eurozone inflation rises by 3.2% in twelve months to August - Eurostat",
+    "tokens": [
+      "august",
+      "eurostat",
+      "eurozone",
+      "inflation",
+      "months",
+      "rises",
+      "twelve"
+    ],
+    "ts": 1789639021.6003506
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/allegro-q2-2026-slides-record-ebitda-international-surge-93CH-4905101",
+    "title": "Allegro Q2 2026 slides: record EBITDA, international surge",
+    "tokens": [
+      "2026",
+      "allegro",
+      "ebitda",
+      "international",
+      "record",
+      "slides",
+      "surge"
+    ],
+    "ts": 1789639028.4216874
+  },
+  {
+    "id": "hormuz-risk-opens-40-plus-220000152.html",
+    "title": "Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades",
+    "tokens": [
+      "between",
+      "crude",
+      "gap",
+      "grades",
+      "hormuz",
+      "opens",
+      "plus",
+      "price",
+      "risk"
+    ],
+    "ts": 1789639032.5162113
+  },
+  {
+    "id": "frozen-bank-account-185128708.html",
+    "title": "Frozen bank account? How it happens and what to do next.",
+    "tokens": [
+      "account",
+      "bank",
+      "frozen",
+      "happens",
+      "how",
+      "next",
+      "what"
+    ],
+    "ts": 1789639035.6754303
+  },
+  {
+    "id": "why-rule-breakers-dig-stocks-215401824.html",
+    "title": "Why Rule Breakers Dig Stocks With Multiple Futures",
+    "tokens": [
+      "breakers",
+      "dig",
+      "futures",
+      "multiple",
+      "rule",
+      "stocks",
+      "why"
+    ],
+    "ts": 1789639042.2928925
   }
 ]

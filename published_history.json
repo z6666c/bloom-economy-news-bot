@@ -1,302 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005235012",
-    "title": "The best time to book your flight home for the holidays? Yesterday.",
-    "tokens": [
-      "best",
-      "book",
-      "flight",
-      "holidays",
-      "home",
-      "time",
-      "yesterday",
-      "your"
-    ],
-    "ts": 1789497999.6574059
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-war-with-iran-has-cost-38b-and-is-running-at-3b-per-month-cbo-says-4902399",
-    "title": "U.S. war with Iran has cost $38B and is running at $3B per month, CBO says",
-    "tokens": [
-      "38b",
-      "cbo",
-      "cost",
-      "iran",
-      "month",
-      "per",
-      "running",
-      "war"
-    ],
-    "ts": 1789498006.8158567
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/assurant-inc-stock-hits-52week-low-at-1761-usd-93CH-4902398",
-    "title": "Assurant Inc stock hits 52-week low at 17.61 USD",
-    "tokens": [
-      "assurant",
-      "hits",
-      "inc",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789498010.8252337
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-agency-orders-tesla-to-answer-questions-on-cybercab-certification-4902397",
-    "title": "US agency orders Tesla to answer questions on Cybercab certification",
-    "tokens": [
-      "agency",
-      "answer",
-      "certification",
-      "cybercab",
-      "orders",
-      "questions",
-      "tesla"
-    ],
-    "ts": 1789498015.503631
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-1-texas-pacific-land-share-for-371-93CH-4902396",
-    "title": "Horizon Kinetics buys 1 Texas Pacific Land share for $371",
-    "tokens": [
-      "371",
-      "buys",
-      "horizon",
-      "kinetics",
-      "land",
-      "pacific",
-      "share",
-      "texas"
-    ],
-    "ts": 1789498022.6940184
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/factory-raises-200-million-valuation-triples-to-5-billion-93CH-4902393",
-    "title": "Factory raises $200 million, valuation triples to $5 billion",
-    "tokens": [
-      "200",
-      "billion",
-      "factory",
-      "million",
-      "raises",
-      "triples",
-      "valuation"
-    ],
-    "ts": 1789498029.487377
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ai-coding-agent-startup-factory-triples-valuation-to-5-billion-in-latest-funding-round-4902392",
-    "title": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round",
-    "tokens": [
-      "agent",
-      "billion",
-      "coding",
-      "factory",
-      "funding",
-      "latest",
-      "round",
-      "startup",
-      "triples",
-      "valuation"
-    ],
-    "ts": 1789498036.7269258
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/greene-county-bancorp-redeems-10-million-of-subordinated-notes-93CH-4902391",
-    "title": "Greene County Bancorp redeems $10 million of subordinated notes",
-    "tokens": [
-      "bancorp",
-      "county",
-      "greene",
-      "million",
-      "notes",
-      "redeems",
-      "subordinated"
-    ],
-    "ts": 1789498044.303732
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cvr-energy-stock-hits-52week-high-at-5241-usd-93CH-4902387",
-    "title": "CVR Energy stock hits 52-week high at 52.41 USD",
-    "tokens": [
-      "cvr",
-      "energy",
-      "high",
-      "hits",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789498048.312699
-  },
-  {
-    "id": "bitcoin-price-analysis-btc-risks-095428942.html",
-    "title": "Bitcoin Price Analysis: BTC Risks Drop to $71K if This Rounded Top Confirms",
-    "tokens": [
-      "71k",
-      "analysis",
-      "bitcoin",
-      "btc",
-      "confirms",
-      "drop",
-      "price",
-      "risks",
-      "rounded",
-      "top"
-    ],
-    "ts": 1789498051.9510193
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/software-value-analysis-data-analytics-infrastructure-and-saas-compared-93CH-4902415",
-    "title": "Software value analysis: data analytics, infrastructure, and SaaS compared",
-    "tokens": [
-      "analysis",
-      "analytics",
-      "compared",
-      "data",
-      "infrastructure",
-      "saas",
-      "software",
-      "value"
-    ],
-    "ts": 1789499370.4335523
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/adaptive-biotechnologies-stock-hits-52week-high-at-2689-usd-93CH-4902413",
-    "title": "Adaptive Biotechnologies stock hits 52-week high at 26.89 USD",
-    "tokens": [
-      "adaptive",
-      "biotechnologies",
-      "high",
-      "hits",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789499374.4487598
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/truist-financial-to-sell-55-billion-of-auto-loans-amid-overhaul-4902411",
-    "title": "Truist Financial to sell $5.5 billion of auto loans amid overhaul",
-    "tokens": [
-      "auto",
-      "billion",
-      "financial",
-      "loans",
-      "overhaul",
-      "sell",
-      "truist"
-    ],
-    "ts": 1789499378.4073215
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/pc-insurance-sector-outlook-five-pureplay-giants-compared-93CH-4902410",
-    "title": "P&C insurance sector outlook: five pure-play giants compared",
-    "tokens": [
-      "compared",
-      "five",
-      "giants",
-      "insurance",
-      "outlook",
-      "play",
-      "pure",
-      "sector"
-    ],
-    "ts": 1789499386.6707358
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/redwood-trust-director-greg-kubicek-buys-192560-in-shares-93CH-4902409",
-    "title": "Redwood Trust director Greg Kubicek buys $192,560 in shares",
-    "tokens": [
-      "192",
-      "560",
-      "buys",
-      "director",
-      "greg",
-      "kubicek",
-      "redwood",
-      "shares",
-      "trust"
-    ],
-    "ts": 1789499393.6301932
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/heritage-financial-director-rivera-sells-37134-in-stock-93CH-4902408",
-    "title": "Heritage Financial director Rivera sells $37,134 in stock",
-    "tokens": [
-      "134",
-      "director",
-      "financial",
-      "heritage",
-      "rivera",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789499401.2361803
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rosenblatt-reiterates-buy-on-ambarella-stock-on-x7-ai-accelerator-launch-93CH-4902407",
-    "title": "Rosenblatt reiterates Buy on Ambarella stock on X7 AI accelerator launch",
-    "tokens": [
-      "accelerator",
-      "ambarella",
-      "buy",
-      "launch",
-      "reiterates",
-      "rosenblatt",
-      "stock"
-    ],
-    "ts": 1789499408.7017016
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-rout-4902406",
-    "title": "XRP Falls 11% In Rout",
-    "tokens": [
-      "falls",
-      "rout",
-      "xrp"
-    ],
-    "ts": 1789499415.9222379
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/kestra-medical-earnings-analysis-questions-answered-and-next-catalysts-93CH-4902404",
-    "title": "Kestra Medical earnings analysis: questions answered and next catalysts",
-    "tokens": [
-      "analysis",
-      "answered",
-      "catalysts",
-      "earnings",
-      "kestra",
-      "medical",
-      "next",
-      "questions"
-    ],
-    "ts": 1789499423.29472
-  },
-  {
-    "id": "walt-disney-borrowed-60-000-100000051.html",
-    "title": "Walt Disney borrowed $60,000 against his life insurance to build Disneyland — how policy loans work",
-    "tokens": [
-      "000",
-      "against",
-      "borrowed",
-      "build",
-      "disney",
-      "disneyland",
-      "his",
-      "how",
-      "insurance",
-      "life",
-      "loans",
-      "policy",
-      "walt",
-      "work"
-    ],
-    "ts": 1789499431.4730215
-  },
-  {
     "id": "3378990a-2319-4c5b-bc63-d55776a91937",
     "title": "Clarity Act fails in Senate: Here is how the crypto industry is reacting",
     "tokens": [
@@ -23057,5 +22760,316 @@
       "security"
     ],
     "ts": 1789650978.4994211
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/lexaria-bioscience-raises-79m-extends-cash-runway-to-2027-93CH-4905812",
+    "title": "Lexaria Bioscience raises $7.9M, extends cash runway to 2027",
+    "tokens": [
+      "2027",
+      "bioscience",
+      "cash",
+      "extends",
+      "lexaria",
+      "raises",
+      "runway"
+    ],
+    "ts": 1789651910.6086667
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/datasea-signs-ai-agent-service-deals-with-five-customers-93CH-4905811",
+    "title": "Datasea signs AI agent service deals with five customers",
+    "tokens": [
+      "agent",
+      "customers",
+      "datasea",
+      "deals",
+      "five",
+      "service",
+      "signs"
+    ],
+    "ts": 1789651919.7111676
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/orbis-medicines-partners-with-novo-nordisk-on-14bn-drug-deal-93CH-4905807",
+    "title": "Orbis Medicines partners with Novo Nordisk on $1.4bn drug deal",
+    "tokens": [
+      "4bn",
+      "deal",
+      "drug",
+      "medicines",
+      "nordisk",
+      "novo",
+      "orbis",
+      "partners"
+    ],
+    "ts": 1789651927.7830174
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/globalfoundries-and-marvell-expand-chip-production-deal-93CH-4905805",
+    "title": "GlobalFoundries and Marvell expand chip production deal",
+    "tokens": [
+      "chip",
+      "deal",
+      "expand",
+      "globalfoundries",
+      "marvell",
+      "production"
+    ],
+    "ts": 1789651935.9385817
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/copper-prices-rise-as-chinese-buyers-return-after-selloff-93CH-4905804",
+    "title": "Copper prices rise as Chinese buyers return after selloff",
+    "tokens": [
+      "buyers",
+      "chinese",
+      "copper",
+      "prices",
+      "return",
+      "rise",
+      "selloff"
+    ],
+    "ts": 1789651944.2233603
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-costco-stock-buy-rating-ahead-of-quarterly-results-93CH-4905803",
+    "title": "UBS reiterates Costco stock Buy rating ahead of quarterly results",
+    "tokens": [
+      "ahead",
+      "buy",
+      "costco",
+      "quarterly",
+      "rating",
+      "reiterates",
+      "results",
+      "stock",
+      "ubs"
+    ],
+    "ts": 1789651951.8043864
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-buy-on-home-depot-stock-420-target-maintained-93CH-4905801",
+    "title": "UBS reiterates Buy on Home Depot stock, $420 target maintained",
+    "tokens": [
+      "420",
+      "buy",
+      "depot",
+      "home",
+      "maintained",
+      "reiterates",
+      "stock",
+      "target",
+      "ubs"
+    ],
+    "ts": 1789651959.1850839
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-lowers-amgen-stock-price-target-to-430-on-drug-trial-concerns-93CH-4905802",
+    "title": "UBS lowers Amgen stock price target to $430 on drug trial concerns",
+    "tokens": [
+      "430",
+      "amgen",
+      "concerns",
+      "drug",
+      "lowers",
+      "price",
+      "stock",
+      "target",
+      "trial",
+      "ubs"
+    ],
+    "ts": 1789651967.5001154
+  },
+  {
+    "id": "us-single-family-housing-starts-131652276.html",
+    "title": "US single-family housing starts rebound in August; building permits fall",
+    "tokens": [
+      "august",
+      "building",
+      "fall",
+      "family",
+      "housing",
+      "permits",
+      "rebound",
+      "single",
+      "starts"
+    ],
+    "ts": 1789651977.089542
+  },
+  {
+    "id": "bristow-group-director-truelove-sells-131501665.html",
+    "title": "Bristow Group Director Truelove Sells 3,500 Shares for $161,000",
+    "tokens": [
+      "000",
+      "161",
+      "500",
+      "bristow",
+      "director",
+      "group",
+      "sells",
+      "shares",
+      "truelove"
+    ],
+    "ts": 1789651984.2299502
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/honest-skincare-publishes-2026-retinol-serum-guide-covering-19-formulas-priced-from-9-to-580-1036553475",
+    "title": "Honest Skincare Publishes 2026 Retinol Serum Guide Covering 19 Formulas Priced From $9 to $580",
+    "tokens": [
+      "2026",
+      "580",
+      "covering",
+      "formulas",
+      "guide",
+      "honest",
+      "priced",
+      "publishes",
+      "retinol",
+      "serum",
+      "skincare"
+    ],
+    "ts": 1789651991.9933639
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/surgepays-and-lowweeklypayments-sign-joint-venture-loi-as-smartphone-rent-to-own-program-scales-past-100-dealers-1036553470",
+    "title": "SurgePays and LowWeeklyPayments Sign Joint Venture LOI as Smartphone Rent-to-Own Program Scales Past 100 Dealers",
+    "tokens": [
+      "100",
+      "dealers",
+      "joint",
+      "loi",
+      "lowweeklypayments",
+      "own",
+      "past",
+      "program",
+      "rent",
+      "scales",
+      "sign",
+      "smartphone",
+      "surgepays",
+      "venture"
+    ],
+    "ts": 1789651999.7490299
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/tokyo-lifestyle-co-ltd-s-hong-kong-subsidiary-terminates-revolving-financing-facility-ahead-of-schedule-1036553474",
+    "title": "Tokyo Lifestyle Co., Ltd.’s Hong Kong Subsidiary Terminates Revolving Financing Facility Ahead of Schedule",
+    "tokens": [
+      "ahead",
+      "facility",
+      "financing",
+      "hong",
+      "kong",
+      "lifestyle",
+      "ltd",
+      "revolving",
+      "schedule",
+      "subsidiary",
+      "terminates",
+      "tokyo"
+    ],
+    "ts": 1789652008.2647777
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/tessera-inc-subsidiary-zorronet-ltd-selected-in-northern-israel-ai-tender-for-up-to-1-3-million-1036553473",
+    "title": "Tessera Inc. Subsidiary Zorronet Ltd. Selected in Northern Israel AI Tender for up to $1.3 Million",
+    "tokens": [
+      "inc",
+      "israel",
+      "ltd",
+      "million",
+      "northern",
+      "selected",
+      "subsidiary",
+      "tender",
+      "tessera",
+      "zorronet"
+    ],
+    "ts": 1789652017.1558483
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/fabric-ai-appoints-haynes-boone-as-counsel-to-support-joint-intellectual-property-with-kopin-1036553472",
+    "title": "Fabric.AI Appoints Haynes Boone as Counsel to Support Joint  Intellectual Property with Kopin",
+    "tokens": [
+      "appoints",
+      "boone",
+      "counsel",
+      "fabric",
+      "haynes",
+      "intellectual",
+      "joint",
+      "kopin",
+      "property",
+      "support"
+    ],
+    "ts": 1789652025.2852662
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/amaze-launches-new-subscription-model-significantly-boosting-revenue-potential-1036553471",
+    "title": "Amaze Launches New Subscription Model, Significantly Boosting Revenue Potential",
+    "tokens": [
+      "amaze",
+      "boosting",
+      "launches",
+      "model",
+      "potential",
+      "revenue",
+      "significantly",
+      "subscription"
+    ],
+    "ts": 1789652033.0049458
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/fusemachines-unveils-ai-twin-technology-showcasing-a-new-vision-for-the-future-of-work-1036553476",
+    "title": "Fusemachines Unveils AI Twin Technology, Showcasing a New Vision for the Future of Work",
+    "tokens": [
+      "fusemachines",
+      "future",
+      "showcasing",
+      "technology",
+      "twin",
+      "unveils",
+      "vision",
+      "work"
+    ],
+    "ts": 1789652040.8139684
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/canada-s-endangered-places-list-for-2026-1036553469",
+    "title": "Canada’s Endangered Places List for 2026",
+    "tokens": [
+      "2026",
+      "canada",
+      "endangered",
+      "list",
+      "places"
+    ],
+    "ts": 1789652047.741612
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/calidi-biotherapeutics-announces-1-2-million-registered-direct-offering-1036553461",
+    "title": "Calidi Biotherapeutics Announces $1.2 Million Registered Direct Offering",
+    "tokens": [
+      "announces",
+      "biotherapeutics",
+      "calidi",
+      "direct",
+      "million",
+      "offering",
+      "registered"
+    ],
+    "ts": 1789652055.0657322
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/form-8-3-the-vanguard-group-inc-prologis-inc-1036553444",
+    "title": "Form 8.3 - The Vanguard Group, Inc.: Prologis, Inc.",
+    "tokens": [
+      "form",
+      "group",
+      "inc",
+      "prologis",
+      "vanguard"
+    ],
+    "ts": 1789652063.289134
   }
 ]

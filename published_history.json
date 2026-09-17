@@ -1,214 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/4-oil--gas-stocks-stifel-is-constructive-on-as-energy-prices-stay-high-93CH-4901938",
-    "title": "4 Oil & Gas Stocks Stifel Is Constructive On as Energy Prices Stay High",
-    "tokens": [
-      "constructive",
-      "energy",
-      "gas",
-      "high",
-      "oil",
-      "prices",
-      "stay",
-      "stifel",
-      "stocks"
-    ],
-    "ts": 1789480455.8132296
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/mirum-pharmaceuticals-at-hc-wainwright-conference-growth-catalysts-93CH-4901937",
-    "title": "Mirum Pharmaceuticals at H.C. Wainwright conference: growth, catalysts",
-    "tokens": [
-      "catalysts",
-      "conference",
-      "growth",
-      "mirum",
-      "pharmaceuticals",
-      "wainwright"
-    ],
-    "ts": 1789480464.5561826
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/international-seaways-stock-hits-alltime-high-at-10694-usd-93CH-4901935",
-    "title": "International Seaways stock hits all-time high at 106.94 USD",
-    "tokens": [
-      "106",
-      "all",
-      "high",
-      "hits",
-      "international",
-      "seaways",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1789480473.6826918
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/exelon-stock-hits-52week-low-at-4256-93CH-4901931",
-    "title": "Exelon stock hits 52-week low at $42.56",
-    "tokens": [
-      "exelon",
-      "hits",
-      "low",
-      "stock",
-      "week"
-    ],
-    "ts": 1789480480.7476468
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/belite-bio-at-hc-wainwright-conference-tinlarebant-nears-fda-review-93CH-4901930",
-    "title": "Belite Bio at H.C. Wainwright conference: tinlarebant nears FDA review",
-    "tokens": [
-      "belite",
-      "bio",
-      "conference",
-      "fda",
-      "nears",
-      "review",
-      "tinlarebant",
-      "wainwright"
-    ],
-    "ts": 1789480488.2240884
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asml-options-flow-shows-bullish-longdated-call-positioning-despite-nearterm-weakness-93CH-4901905",
-    "title": "ASML options flow shows bullish long-dated call positioning despite near-term weakness",
-    "tokens": [
-      "asml",
-      "bullish",
-      "call",
-      "dated",
-      "despite",
-      "flow",
-      "long",
-      "near",
-      "options",
-      "positioning",
-      "shows",
-      "term",
-      "weakness"
-    ],
-    "ts": 1789480495.3095243
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/dht-holdings-stock-hits-52week-high-at-2238-93CH-4901926",
-    "title": "DHT Holdings stock hits 52-week high at $22.38",
-    "tokens": [
-      "dht",
-      "high",
-      "hits",
-      "holdings",
-      "stock",
-      "week"
-    ],
-    "ts": 1789480502.9739003
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/muc-stock-hits-52week-low-at-1016-usd-93CH-4901925",
-    "title": "MUC stock hits 52-week low at 10.16 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "muc",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789480506.9891858
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/japan-post-holdings-sells-161m-aflac-nyseafl-shares-93CH-4901924",
-    "title": "Japan Post Holdings sells $1.61m Aflac (NYSE:AFL) shares",
-    "tokens": [
-      "61m",
-      "afl",
-      "aflac",
-      "holdings",
-      "japan",
-      "nyse",
-      "post",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789480509.883685
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/gold-holds-near-4300-as-oil-disruption-lifts-fed-hike-bets-4900741",
-    "title": "Gold weakens amid pressure from growing Fed rate hike bets",
-    "tokens": [
-      "bets",
-      "fed",
-      "gold",
-      "growing",
-      "hike",
-      "pressure",
-      "rate",
-      "weakens"
-    ],
-    "ts": 1789480518.0202308
-  },
-  {
-    "id": "tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html",
-    "title": "Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up",
-    "tokens": [
-      "call",
-      "ceo",
-      "ceos",
-      "extinction",
-      "fears",
-      "made",
-      "nvidia",
-      "pacing",
-      "stocks",
-      "tech",
-      "today"
-    ],
-    "ts": 1789480525.1475186
-  },
-  {
-    "id": "musk-hints-again-at-possible-spacex-tesla-merger-135029754.html",
-    "title": "Musk hints (again) at possible SpaceX, Tesla merger",
-    "tokens": [
-      "again",
-      "hints",
-      "merger",
-      "musk",
-      "possible",
-      "spacex",
-      "tesla"
-    ],
-    "ts": 1789480532.7520454
-  },
-  {
-    "id": "commercial-foodservice-recovery-drives-middleby-134022144.html",
-    "title": "Commercial Foodservice Recovery Drives The Middleby Corporation (MIDD) Higher",
-    "tokens": [
-      "commercial",
-      "corporation",
-      "drives",
-      "foodservice",
-      "higher",
-      "midd",
-      "middleby",
-      "recovery"
-    ],
-    "ts": 1789480540.8628132
-  },
-  {
-    "id": "hong-kong-crypto-exchange-coinex-132900721.html",
-    "title": "Hong Kong Crypto Exchange CoinEx To Shutdown",
-    "tokens": [
-      "coinex",
-      "crypto",
-      "exchange",
-      "hong",
-      "kong",
-      "shutdown"
-    ],
-    "ts": 1789480548.4347146
-  },
-  {
     "id": "robinhood-offer-share-redemptions-voting-132500081.html",
     "title": "Robinhood To Offer Share Redemptions And Voting Rights On Tokenized Stocks",
     "tokens": [
@@ -22953,5 +22744,215 @@
       "why"
     ],
     "ts": 1789629456.2333663
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/debenhams-owner-says-turnaround-accelerates-as-h1-ebitda-rises-14-4904913",
+    "title": "Debenhams owner says turnaround accelerates as H1 EBITDA rises 14%",
+    "tokens": [
+      "accelerates",
+      "debenhams",
+      "ebitda",
+      "owner",
+      "rises",
+      "turnaround"
+    ],
+    "ts": 1789630873.6717446
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/111-84-the-fed-raised-rates-see-why-these-aipicked-stocks-keep-climbing-4904908",
+    "title": "+111%, +84%: The Fed raised rates; see why these AI-picked stocks keep climbing",
+    "tokens": [
+      "111",
+      "climbing",
+      "fed",
+      "keep",
+      "picked",
+      "raised",
+      "rates",
+      "see",
+      "stocks",
+      "these",
+      "why"
+    ],
+    "ts": 1789630881.5975106
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/copper-trapped-below-200-sma-as-oversold-signals-clash-live-levels-93CH-4898869",
+    "title": "Copper rebounds at $6.54 but faces dense resistance: Live levels",
+    "tokens": [
+      "copper",
+      "dense",
+      "faces",
+      "levels",
+      "live",
+      "rebounds",
+      "resistance"
+    ],
+    "ts": 1789630888.5723245
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/gold-clings-to-4355-confluence-support-live-levels-93CH-4898868",
+    "title": "Gold at $4,357 faces resistance wall in bearish regime: Live levels",
+    "tokens": [
+      "357",
+      "bearish",
+      "faces",
+      "gold",
+      "levels",
+      "live",
+      "regime",
+      "resistance",
+      "wall"
+    ],
+    "ts": 1789630894.8495293
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-exosens-stock-surging-today-93CH-4904907",
+    "title": "Why is Exosens stock surging today?",
+    "tokens": [
+      "exosens",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789630898.8650308
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/brent-oil-consolidates-near-10764-amid-bull-fatigue-live-levels-93CH-4898867",
+    "title": "Brent Oil drops below key support at $103.66: Live levels",
+    "tokens": [
+      "103",
+      "below",
+      "brent",
+      "drops",
+      "key",
+      "levels",
+      "live",
+      "oil",
+      "support"
+    ],
+    "ts": 1789630901.0944352
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-wizz-air-stock-climbing-today-93CH-4904906",
+    "title": "Why is Wizz Air stock climbing today?",
+    "tokens": [
+      "air",
+      "climbing",
+      "stock",
+      "today",
+      "why",
+      "wizz"
+    ],
+    "ts": 1789630908.253405
+  },
+  {
+    "id": "boeing-ba-rtx-rtx-gain-193701338.html",
+    "title": "Boeing (BA) and RTX (RTX) Gain From Pentagon Missile Buildup, But Is the Upside Priced In?",
+    "tokens": [
+      "boeing",
+      "buildup",
+      "gain",
+      "missile",
+      "pentagon",
+      "priced",
+      "rtx",
+      "upside"
+    ],
+    "ts": 1789630915.9093401
+  },
+  {
+    "id": "columbia-threadneedle-hamilton-lane-partner-193258019.html",
+    "title": "Columbia Threadneedle, Hamilton Lane Partner on Public/Private Products",
+    "tokens": [
+      "columbia",
+      "hamilton",
+      "lane",
+      "partner",
+      "private",
+      "products",
+      "public",
+      "threadneedle"
+    ],
+    "ts": 1789630922.750988
+  },
+  {
+    "id": "clarity-act-cloture-vote-fails-what-it-means-for-your-crypto-holdings-153849029.html",
+    "title": "Clarity Act cloture vote fails: What it means for your crypto holdings",
+    "tokens": [
+      "act",
+      "clarity",
+      "cloture",
+      "crypto",
+      "fails",
+      "holdings",
+      "means",
+      "vote",
+      "what",
+      "your"
+    ],
+    "ts": 1789630926.7661674
+  },
+  {
+    "id": "credit-card-application-denied-194416584.html",
+    "title": "Credit card application denied? Here’s what to do next",
+    "tokens": [
+      "application",
+      "card",
+      "credit",
+      "denied",
+      "here",
+      "next",
+      "what"
+    ],
+    "ts": 1789630929.7357411
+  },
+  {
+    "id": "inflation-fears-oil-surge-rattle-194510113.html",
+    "title": "Inflation Fears and Oil Surge Rattle Markets",
+    "tokens": [
+      "fears",
+      "inflation",
+      "markets",
+      "oil",
+      "rattle",
+      "surge"
+    ],
+    "ts": 1789630936.7542372
+  },
+  {
+    "id": "biogen-biib-abbvie-abbv-wolfe-194730680.html",
+    "title": "Biogen (BIIB) and AbbVie (ABBV) Get Wolfe Upgrades—Which Pharma Stock Has More Upside?",
+    "tokens": [
+      "abbv",
+      "abbvie",
+      "biib",
+      "biogen",
+      "get",
+      "more",
+      "pharma",
+      "stock",
+      "upgrades",
+      "upside",
+      "which",
+      "wolfe"
+    ],
+    "ts": 1789630943.710141
+  },
+  {
+    "id": "6aafa13d-e731-4c23-9fce-5a2fc36c8b00",
+    "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+    "tokens": [
+      "bitcoin",
+      "diesel",
+      "gold",
+      "high",
+      "hit",
+      "prices",
+      "record",
+      "struggle"
+    ],
+    "ts": 1789630951.654671
   }
 ]

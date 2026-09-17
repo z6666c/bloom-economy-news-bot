@@ -1,290 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/ultragenyx-svp-sells-17410-in-common-stock-93CH-4902818",
-    "title": "Ultragenyx SVP sells $17,410 in common stock",
-    "tokens": [
-      "410",
-      "common",
-      "sells",
-      "stock",
-      "svp",
-      "ultragenyx"
-    ],
-    "ts": 1789521993.628353
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
-    "title": "Dollar girded by bets on a US hiking cycle",
-    "tokens": [
-      "bets",
-      "cycle",
-      "dollar",
-      "girded",
-      "hiking"
-    ],
-    "ts": 1789522000.667341
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sk-hynix-union-agrees-to-revised-payment-deal-4902816",
-    "title": "SK Hynix union agrees to revised payment deal",
-    "tokens": [
-      "agrees",
-      "deal",
-      "hynix",
-      "payment",
-      "revised",
-      "union"
-    ],
-    "ts": 1789522007.8438897
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/limbach-holdings-director-joshua-horowitz-buys-391k-in-stock-93CH-4902815",
-    "title": "Limbach Holdings director Joshua Horowitz buys $391k in stock",
-    "tokens": [
-      "391k",
-      "buys",
-      "director",
-      "holdings",
-      "horowitz",
-      "joshua",
-      "limbach",
-      "stock"
-    ],
-    "ts": 1789522014.3365633
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-set-to-attend-trump-state-dinner-for-xi-cnbc-reuters-4902814",
-    "title": "Nvidia CEO Huang set to attend Trump state dinner for Xi: CNBC, Reuters",
-    "tokens": [
-      "attend",
-      "ceo",
-      "cnbc",
-      "dinner",
-      "huang",
-      "nvidia",
-      "reuters",
-      "set",
-      "state",
-      "trump"
-    ],
-    "ts": 1789522021.114211
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dst-global-advisors-sells-686m-in-chime-financial-stock-93CH-4902813",
-    "title": "DST Global Advisors sells $6.86m in Chime Financial stock",
-    "tokens": [
-      "86m",
-      "advisors",
-      "chime",
-      "dst",
-      "financial",
-      "global",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789522025.1310523
-  },
-  {
-    "id": "xcel-energy-stock-xel-outperforming-133754654.html",
-    "title": "Xcel Energy Stock: Is XEL Outperforming the Utility Sector?",
-    "tokens": [
-      "energy",
-      "outperforming",
-      "sector",
-      "stock",
-      "utility",
-      "xcel",
-      "xel"
-    ],
-    "ts": 1789522028.6843472
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/american-savings-bank-prices-ipo-at-16-per-share-on-nyse-432SI-4902820",
-    "title": "American Savings Bank prices IPO at $16 per share on NYSE",
-    "tokens": [
-      "american",
-      "bank",
-      "ipo",
-      "nyse",
-      "per",
-      "prices",
-      "savings",
-      "share"
-    ],
-    "ts": 1789522829.0511348
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/solidion-technology-ceo-jaymes-winters-buys-6996-in-company-stock-93CH-4902826",
-    "title": "Solidion Technology CEO Jaymes Winters buys $6,996 in company stock",
-    "tokens": [
-      "996",
-      "buys",
-      "ceo",
-      "company",
-      "jaymes",
-      "solidion",
-      "stock",
-      "technology",
-      "winters"
-    ],
-    "ts": 1789522835.6813593
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/clover-health-ceo-medicare-advantage-jamie-reynoso-sells-44324-in-clov-shares-93CH-4902825",
-    "title": "Clover Health CEO, Medicare advantage, Jamie Reynoso sells $44,324 in CLOV shares",
-    "tokens": [
-      "324",
-      "advantage",
-      "ceo",
-      "clov",
-      "clover",
-      "health",
-      "jamie",
-      "medicare",
-      "reynoso",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789522842.720052
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
-    "title": "Asian markets make nervous start ahead of Fed decision",
-    "tokens": [
-      "ahead",
-      "asian",
-      "decision",
-      "fed",
-      "make",
-      "markets",
-      "nervous",
-      "start"
-    ],
-    "ts": 1789522850.9837751
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/american-savings-bank-prices-ipo-at-16-per-share-93CH-4902823",
-    "title": "American Savings Bank prices IPO at $16 per share",
-    "tokens": [
-      "american",
-      "bank",
-      "ipo",
-      "per",
-      "prices",
-      "savings",
-      "share"
-    ],
-    "ts": 1789522855.0004835
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australias-reliance-worldwide-agrees-to-brookfields-29-billion-buyout-bid-4902822",
-    "title": "Australia’s Reliance Worldwide agrees to Brookfield’s $2.9 billion buyout bid",
-    "tokens": [
-      "agrees",
-      "australia",
-      "bid",
-      "billion",
-      "brookfield",
-      "buyout",
-      "reliance",
-      "worldwide"
-    ],
-    "ts": 1789522858.7500563
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/neonc-technologies-ceo-amir-heshmatpour-acquires-174795-in-stock-93CH-4902833",
-    "title": "Neonc technologies CEO Amir Heshmatpour acquires $174,795 in stock",
-    "tokens": [
-      "174",
-      "795",
-      "acquires",
-      "amir",
-      "ceo",
-      "heshmatpour",
-      "neonc",
-      "stock",
-      "technologies"
-    ],
-    "ts": 1789524654.0350351
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/solidion-technology-director-karinjoyce-tjon-buys-36000-in-shares-93CH-4902832",
-    "title": "Solidion technology director Karin-Joyce Tjon buys $36,000 in shares",
-    "tokens": [
-      "000",
-      "buys",
-      "director",
-      "joyce",
-      "karin",
-      "shares",
-      "solidion",
-      "technology",
-      "tjon"
-    ],
-    "ts": 1789524661.226307
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/neonc-technologies-ceo-thomas-chen-buys-39999-in-stock-93CH-4902831",
-    "title": "Neonc technologies CEO Thomas Chen buys $39,999 in stock",
-    "tokens": [
-      "999",
-      "buys",
-      "ceo",
-      "chen",
-      "neonc",
-      "stock",
-      "technologies",
-      "thomas"
-    ],
-    "ts": 1789524669.309523
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/delek-us-holdings-director-finnerty-sells-227113-in-shares-93CH-4902830",
-    "title": "Delek US Holdings director Finnerty sells $227,113 in shares",
-    "tokens": [
-      "113",
-      "227",
-      "delek",
-      "director",
-      "finnerty",
-      "holdings",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789524677.5135477
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/palvella-therapeutics-director-george-m-jenkins-sells-417-million-in-shares-93CH-4902827",
-    "title": "Palvella Therapeutics director George M Jenkins sells $4.17 million in shares",
-    "tokens": [
-      "director",
-      "george",
-      "jenkins",
-      "million",
-      "palvella",
-      "sells",
-      "shares",
-      "therapeutics"
-    ],
-    "ts": 1789524684.3396573
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/delek-us-holdings-evp-refining-russell-sells-407096-in-stock-93CH-4902828",
-    "title": "Delek US Holdings EVP, refining Russell sells $407,096 in stock",
-    "tokens": [
-      "096",
-      "407",
-      "delek",
-      "evp",
-      "holdings",
-      "refining",
-      "russell",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789524690.9259598
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/heartflow-cfo-vikram-verghese-sells-175m-in-stock-93CH-4902829",
     "title": "Heartflow CFO Vikram Verghese sells $1.75M in stock",
     "tokens": [
@@ -23252,5 +22967,296 @@
       "wisdomtree"
     ],
     "ts": 1789667590.5725038
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/cftc-expands-crypto-trading-with-new-software-provider-rules-93CH-4906187",
+    "title": "CFTC expands crypto trading with new software provider rules",
+    "tokens": [
+      "cftc",
+      "crypto",
+      "expands",
+      "provider",
+      "rules",
+      "software",
+      "trading"
+    ],
+    "ts": 1789668804.3547297
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/faa-sees-100-million-impact-from-tariffs-on-air-traffic-control-modernization-plan-4906186",
+    "title": "FAA sees $100 million impact from tariffs on air traffic control modernization plan",
+    "tokens": [
+      "100",
+      "air",
+      "control",
+      "faa",
+      "impact",
+      "million",
+      "modernization",
+      "plan",
+      "sees",
+      "tariffs",
+      "traffic"
+    ],
+    "ts": 1789668812.928756
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/nakamoto-chief-investment-officer-evans-sells-7492-in-shares-93CH-4906184",
+    "title": "Nakamoto chief investment officer Evans sells $7,492 in shares",
+    "tokens": [
+      "492",
+      "chief",
+      "evans",
+      "investment",
+      "nakamoto",
+      "officer",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789668820.4944813
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/russia-projects-2-budget-deficit-for-2027-says-putin-93CH-4906183",
+    "title": "Russia projects 2% budget deficit for 2027, says Putin",
+    "tokens": [
+      "2027",
+      "budget",
+      "deficit",
+      "projects",
+      "putin",
+      "russia"
+    ],
+    "ts": 1789668828.7108052
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/lyntris-to-supply-antenna-systems-for-intuitive-machines-network-93CH-4906182",
+    "title": "Lyntris to supply antenna systems for Intuitive Machines network",
+    "tokens": [
+      "antenna",
+      "intuitive",
+      "lyntris",
+      "machines",
+      "network",
+      "supply",
+      "systems"
+    ],
+    "ts": 1789668836.431816
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-approves-243-billion-f35-fighter-jet-sale-to-saudi-arabia-93CH-4906181",
+    "title": "US approves $24.3 billion F-35 fighter jet sale to Saudi Arabia",
+    "tokens": [
+      "approves",
+      "arabia",
+      "billion",
+      "fighter",
+      "jet",
+      "sale",
+      "saudi"
+    ],
+    "ts": 1789668844.1753829
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trump-says-progress-made-on-us-army-base-in-poland-93CH-4906180",
+    "title": "Trump says progress made on US Army base in Poland",
+    "tokens": [
+      "army",
+      "base",
+      "made",
+      "poland",
+      "progress",
+      "trump"
+    ],
+    "ts": 1789668851.0316596
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/f5-positioned-as-market-shaper-in-gartner-ai-security-report-93CH-4906178",
+    "title": "F5 positioned as market shaper in Gartner AI security report",
+    "tokens": [
+      "gartner",
+      "market",
+      "positioned",
+      "report",
+      "security",
+      "shaper"
+    ],
+    "ts": 1789668858.3286412
+  },
+  {
+    "id": "us-dollar-price-forecast-fed-083232199.html",
+    "title": "US Dollar Price Forecast: Fed Rate Path in Focus as EUR and GBP Stay Under Pressure",
+    "tokens": [
+      "dollar",
+      "eur",
+      "fed",
+      "focus",
+      "forecast",
+      "gbp",
+      "path",
+      "pressure",
+      "price",
+      "rate",
+      "stay",
+      "under"
+    ],
+    "ts": 1789668866.6726565
+  },
+  {
+    "id": "western-digital-stock-underperforming-nasdaq-070959373.html",
+    "title": "Is Western Digital Stock Underperforming the Nasdaq?",
+    "tokens": [
+      "digital",
+      "nasdaq",
+      "stock",
+      "underperforming",
+      "western"
+    ],
+    "ts": 1789668874.0598888
+  },
+  {
+    "id": "ask-advisor-im-70-1-120000815.html",
+    "title": "Ask an Advisor: I'm 70 With $1.4 Million in IRAs. Should I Convert $160k a Year to a Roth to Reduce Future RMDs?",
+    "tokens": [
+      "160k",
+      "advisor",
+      "ask",
+      "convert",
+      "future",
+      "iras",
+      "million",
+      "reduce",
+      "rmds",
+      "roth",
+      "should",
+      "year"
+    ],
+    "ts": 1789668882.6900346
+  },
+  {
+    "id": "im-62-1-5-million-120000270.html",
+    "title": "I'm 62 With $1.5 Million in an IRA. Should I Convert $150,000 a Year to a Roth to Reduce Future RMDs?",
+    "tokens": [
+      "000",
+      "150",
+      "convert",
+      "future",
+      "ira",
+      "million",
+      "reduce",
+      "rmds",
+      "roth",
+      "should",
+      "year"
+    ],
+    "ts": 1789668890.8951092
+  },
+  {
+    "id": "self-storage-data-shows-independents-080322328.html",
+    "title": "Self Storage Data Shows Independents Leading Recovery",
+    "tokens": [
+      "data",
+      "independents",
+      "leading",
+      "recovery",
+      "self",
+      "shows",
+      "storage"
+    ],
+    "ts": 1789668898.8248801
+  },
+  {
+    "id": "husband-3-years-away-retirement-090000553.html",
+    "title": "My husband is 3 years away from retirement but I’m worried he’ll get fired before then — how do I protect my finances?",
+    "tokens": [
+      "away",
+      "before",
+      "finances",
+      "fired",
+      "get",
+      "how",
+      "husband",
+      "protect",
+      "retirement",
+      "then",
+      "worried",
+      "years"
+    ],
+    "ts": 1789668906.8750129
+  },
+  {
+    "id": "suze-orman-one-crucial-piece-092500811.html",
+    "title": "Suze Orman has 'one crucial piece of advice' when a partner dies: Do nothing",
+    "tokens": [
+      "advice",
+      "crucial",
+      "dies",
+      "nothing",
+      "one",
+      "orman",
+      "partner",
+      "piece",
+      "suze",
+      "when"
+    ],
+    "ts": 1789668913.6405792
+  },
+  {
+    "id": "us-court-accepts-airbaltic-chapter-062931382.html",
+    "title": "US court accepts airBaltic Chapter 11 filing, Latvian prime minister says",
+    "tokens": [
+      "accepts",
+      "airbaltic",
+      "chapter",
+      "court",
+      "filing",
+      "latvian",
+      "minister",
+      "prime"
+    ],
+    "ts": 1789668917.651974
+  },
+  {
+    "id": "japanese-refiners-rush-oman-crude-093000428.html",
+    "title": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown",
+    "tokens": [
+      "crude",
+      "japanese",
+      "oman",
+      "pipeline",
+      "refiners",
+      "rush",
+      "saudi",
+      "shutdown"
+    ],
+    "ts": 1789668921.092877
+  },
+  {
+    "id": "oilprice-article-45533",
+    "title": "Cooking Oil-Powered Plane to Fly Tourists to Antarctica",
+    "tokens": [
+      "antarctica",
+      "cooking",
+      "fly",
+      "oil",
+      "plane",
+      "powered",
+      "tourists"
+    ],
+    "ts": 1789668929.431372
+  },
+  {
+    "id": "oilprice-news-45533",
+    "title": "Kpler Sees Oil Grinding Higher as Diesel Crunch Deepens",
+    "tokens": [
+      "crunch",
+      "deepens",
+      "diesel",
+      "grinding",
+      "higher",
+      "kpler",
+      "oil",
+      "sees"
+    ],
+    "ts": 1789668936.8095696
   }
 ]

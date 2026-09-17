@@ -1,194 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/nvent-subsidiary-prices-800m-senior-notes-offering-93CH-4902649",
-    "title": "nVent subsidiary prices $800M senior notes offering",
-    "tokens": [
-      "800m",
-      "notes",
-      "nvent",
-      "offering",
-      "prices",
-      "senior",
-      "subsidiary"
-    ],
-    "ts": 1789507573.5108943
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/heartland-express-declares-002-quarterly-dividend-93CH-4902648",
-    "title": "Heartland Express declares $0.02 quarterly dividend",
-    "tokens": [
-      "declares",
-      "dividend",
-      "express",
-      "heartland",
-      "quarterly"
-    ],
-    "ts": 1789507580.9056363
-  },
-  {
-    "id": "lx-pantos-sets-sights-global-130000075.html",
-    "title": "LX Pantos Sets Its Sights on Global Logistics Leadership",
-    "tokens": [
-      "global",
-      "leadership",
-      "logistics",
-      "pantos",
-      "sets",
-      "sights"
-    ],
-    "ts": 1789507587.7671368
-  },
-  {
-    "id": "amazons-operating-cash-flow-could-130002375.html",
-    "title": "Amazon's Operating Cash Flow Could Push AMZN Over $314 - What's the Best AMZN Play?",
-    "tokens": [
-      "314",
-      "amazon",
-      "amzn",
-      "best",
-      "cash",
-      "could",
-      "flow",
-      "operating",
-      "play",
-      "push",
-      "what"
-    ],
-    "ts": 1789507594.4572873
-  },
-  {
-    "id": "chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
-    "title": "Chase Home Lendings' mortgage rate sale returns for a 3-week run",
-    "tokens": [
-      "chase",
-      "home",
-      "lendings",
-      "mortgage",
-      "rate",
-      "returns",
-      "run",
-      "sale",
-      "week"
-    ],
-    "ts": 1789507598.4708338
-  },
-  {
-    "id": "garmin-stock-grmn-underperforming-technology-124945758.html",
-    "title": "Garmin Stock: Is GRMN Underperforming the Technology Sector?",
-    "tokens": [
-      "garmin",
-      "grmn",
-      "sector",
-      "stock",
-      "technology",
-      "underperforming"
-    ],
-    "ts": 1789507601.4814782
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/talon-capital-appoints-dr-victoria-ivashina-as-independent-director-93CH-4902697",
-    "title": "Talon Capital appoints Dr. Victoria Ivashina as independent director",
-    "tokens": [
-      "appoints",
-      "capital",
-      "director",
-      "independent",
-      "ivashina",
-      "talon",
-      "victoria"
-    ],
-    "ts": 1789508305.2830994
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/neurocrine-cfo-matt-abernethy-sells-363284-in-nbix-shares-93CH-4902696",
-    "title": "Neurocrine CFO Matt Abernethy sells $363,284 in NBIX shares",
-    "tokens": [
-      "284",
-      "363",
-      "abernethy",
-      "cfo",
-      "matt",
-      "nbix",
-      "neurocrine",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789508312.1634262
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/rgc-resources-director-john-b-williamson-iii-buys-10660-in-stock-93CH-4902695",
-    "title": "RGC Resources director John B Williamson III buys $10,660 in stock",
-    "tokens": [
-      "660",
-      "buys",
-      "director",
-      "iii",
-      "john",
-      "resources",
-      "rgc",
-      "stock",
-      "williamson"
-    ],
-    "ts": 1789508319.0537372
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/accel-entertainment-chief-compliance-officer-sells-458k-in-stock-93CH-4902694",
-    "title": "Accel Entertainment chief compliance officer sells $458k in stock",
-    "tokens": [
-      "458k",
-      "accel",
-      "chief",
-      "compliance",
-      "entertainment",
-      "officer",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789508325.9334323
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-111-4902692",
-    "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.11%",
-    "tokens": [
-      "bmv",
-      "close",
-      "ipc",
-      "lower",
-      "mexico",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789508332.6858459
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/dr-horton-board-authorizes-5-billion-increase-in-stock-repurchase-program-93CH-4902691",
-    "title": "D.R. Horton board authorizes $5 billion increase in stock repurchase program",
-    "tokens": [
-      "authorizes",
-      "billion",
-      "board",
-      "horton",
-      "increase",
-      "program",
-      "repurchase",
-      "stock"
-    ],
-    "ts": 1789508339.815721
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-081-4902690",
-    "title": "Colombia stocks lower at close of trade; COLCAP down 0.81%",
-    "tokens": [
-      "close",
-      "colcap",
-      "colombia",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789508346.3700354
-  },
-  {
     "id": "https://www.investing.com/news/sec-filings/natural-grocers-by-vitamin-cottage-stockholders-approve-move-to-texas-incorporation-93CH-4902689",
     "title": "Natural Grocers by Vitamin Cottage stockholders approve move to Texas incorporation",
     "tokens": [
@@ -23134,5 +22945,200 @@
       "takeover"
     ],
     "ts": 1789658989.0487301
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/scotiabank-reiterates-pan-american-silver-stock-rating-on-reserve-growth-93CH-4906071",
+    "title": "Scotiabank reiterates Pan American Silver stock rating on reserve growth",
+    "tokens": [
+      "american",
+      "growth",
+      "pan",
+      "rating",
+      "reiterates",
+      "reserve",
+      "scotiabank",
+      "silver",
+      "stock"
+    ],
+    "ts": 1789659808.2316947
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-295-4906070",
+    "title": "Turkey stocks higher at close of trade; BIST 100 up 2.95%",
+    "tokens": [
+      "100",
+      "bist",
+      "close",
+      "higher",
+      "stocks",
+      "trade",
+      "turkey"
+    ],
+    "ts": 1789659815.94149
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-innio-stock-surging-today-93CH-4906069",
+    "title": "Why is INNIO stock surging today?",
+    "tokens": [
+      "innio",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789659819.9571013
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-191-4906068",
+    "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 1.91%",
+    "tokens": [
+      "close",
+      "copenhagen",
+      "denmark",
+      "higher",
+      "omx",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1789659823.5095122
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-nuvation-bio-stock-surging-today-93CH-4906067",
+    "title": "Why is Nuvation Bio stock surging today?",
+    "tokens": [
+      "bio",
+      "nuvation",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789659831.575319
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cvc-income--growth-resells-15m-shares-from-treasury-93CH-4906066",
+    "title": "CVC Income & Growth resells 1.5m shares from treasury",
+    "tokens": [
+      "cvc",
+      "growth",
+      "income",
+      "resells",
+      "shares",
+      "treasury"
+    ],
+    "ts": 1789659840.2698958
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-hvivo-posts-h1-2026-loss-as-revenue-shifts-to-h2-93CH-4906065",
+    "title": "Earnings call transcript: hVIVO posts H1 2026 loss as revenue shifts to H2",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "hvivo",
+      "loss",
+      "posts",
+      "revenue",
+      "shifts",
+      "transcript"
+    ],
+    "ts": 1789659848.2296655
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sturm-ruger-options-flow-points-to-ma-arbitrage-hedging-after-beretta-stake-bid-93CH-4906064",
+    "title": "Sturm Ruger options flow points to M&A arbitrage hedging after Beretta stake bid",
+    "tokens": [
+      "arbitrage",
+      "beretta",
+      "bid",
+      "flow",
+      "hedging",
+      "options",
+      "points",
+      "ruger",
+      "stake",
+      "sturm"
+    ],
+    "ts": 1789659856.1847155
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates-4905336",
+    "title": "Bank of England shifts tone toward rate hikes as inflation set to top 4%",
+    "tokens": [
+      "bank",
+      "england",
+      "hikes",
+      "inflation",
+      "rate",
+      "set",
+      "shifts",
+      "tone",
+      "top",
+      "toward"
+    ],
+    "ts": 1789659863.9189887
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/scotiabank-reiterates-gfl-environmental-stock-rating-on-lbo-analysis-93CH-4906063",
+    "title": "Scotiabank reiterates GFL Environmental stock rating on LBO analysis",
+    "tokens": [
+      "analysis",
+      "environmental",
+      "gfl",
+      "lbo",
+      "rating",
+      "reiterates",
+      "scotiabank",
+      "stock"
+    ],
+    "ts": 1789659871.072331
+  },
+  {
+    "id": "nike-nke-down-40-ytd-153250563.html",
+    "title": "Nike (NKE) Is Down 40% YTD: Will the Turnaround Strategy Work?",
+    "tokens": [
+      "nike",
+      "nke",
+      "strategy",
+      "turnaround",
+      "work",
+      "ytd"
+    ],
+    "ts": 1789659878.7248414
+  },
+  {
+    "id": "average-car-loan-interest-rates-212521067.html",
+    "title": "Average auto loan interest rates by credit score in 2026",
+    "tokens": [
+      "2026",
+      "auto",
+      "average",
+      "credit",
+      "interest",
+      "loan",
+      "rates",
+      "score"
+    ],
+    "ts": 1789659886.811413
+  },
+  {
+    "id": "strategist-wanted-8-400-p-152036941.html",
+    "title": "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+    "tokens": [
+      "400",
+      "500",
+      "because",
+      "cut",
+      "earnings",
+      "got",
+      "his",
+      "just",
+      "number",
+      "strategist",
+      "wanted",
+      "who",
+      "worse"
+    ],
+    "ts": 1789659894.1225114
   }
 ]

@@ -1,231 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005233915",
-    "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
-    "tokens": [
-      "alarmingly",
-      "approve",
-      "claims",
-      "denial",
-      "high",
-      "medicare",
-      "rates",
-      "result",
-      "using"
-    ],
-    "ts": 1789489718.1430764
-  },
-  {
-    "id": "oil-prices-tick-up-as-conflict-widens-disruptions-grow-in-middle-east-161121550.html",
-    "title": "Oil prices tick up as conflict widens, disruptions grow in Middle East",
-    "tokens": [
-      "conflict",
-      "disruptions",
-      "east",
-      "grow",
-      "middle",
-      "oil",
-      "prices",
-      "tick",
-      "widens"
-    ],
-    "ts": 1789489727.5447829
-  },
-  {
-    "id": "why-kroger-co-kr-could-160335573.html",
-    "title": "Why Kroger Co. (KR) Could Be a Consumer Staples Comeback Story",
-    "tokens": [
-      "comeback",
-      "consumer",
-      "could",
-      "kroger",
-      "staples",
-      "story",
-      "why"
-    ],
-    "ts": 1789489735.6209302
-  },
-  {
-    "id": "oil-crisis-reached-costco-motor-155626578.html",
-    "title": "The Oil Crisis Has Reached Costco’s Motor Oil Aisle",
-    "tokens": [
-      "aisle",
-      "costco",
-      "crisis",
-      "motor",
-      "oil",
-      "reached"
-    ],
-    "ts": 1789489744.134662
-  },
-  {
-    "id": "WP-MKTW-0005233524",
-    "title": "What investors need to do — and mistakes not to make — in today’s uncertain world",
-    "tokens": [
-      "investors",
-      "make",
-      "mistakes",
-      "need",
-      "today",
-      "uncertain",
-      "what",
-      "world"
-    ],
-    "ts": 1789490676.8600237
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
-    "title": "US Treasury chief says rising bond yields due to ’global issues’",
-    "tokens": [
-      "bond",
-      "chief",
-      "due",
-      "global",
-      "issues",
-      "rising",
-      "treasury",
-      "yields"
-    ],
-    "ts": 1789490684.0986469
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/uk-to-auction-475-billion-in-treasury-gilts-next-week-93CH-4902281",
-    "title": "UK to auction £4.75 billion in treasury gilts next week",
-    "tokens": [
-      "auction",
-      "billion",
-      "gilts",
-      "next",
-      "treasury",
-      "week"
-    ],
-    "ts": 1789490691.2574234
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/needham-names-next-wave-of-ai-infrastructure-software-beneficiaries-93CH-4902280",
-    "title": "Needham Names Next Wave of AI Infrastructure Software Beneficiaries",
-    "tokens": [
-      "beneficiaries",
-      "infrastructure",
-      "names",
-      "needham",
-      "next",
-      "software",
-      "wave"
-    ],
-    "ts": 1789490699.2153826
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/saba-capital-sells-388735-of-blackrock-ecat-shares-93CH-4902279",
-    "title": "Saba Capital sells $388,735 of BlackRock ECAT shares",
-    "tokens": [
-      "388",
-      "735",
-      "blackrock",
-      "capital",
-      "ecat",
-      "saba",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789490706.4799004
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/marzetti-co-stock-hits-52week-low-at-10013-usd-93CH-4902278",
-    "title": "Marzetti Co stock hits 52-week low at 100.13 USD",
-    "tokens": [
-      "100",
-      "hits",
-      "low",
-      "marzetti",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789490710.49533
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/canaccord-reiterates-high-tide-stock-buy-rating-on-q3-results-93CH-4902276",
-    "title": "Canaccord reiterates High Tide stock Buy rating on Q3 results",
-    "tokens": [
-      "buy",
-      "canaccord",
-      "high",
-      "rating",
-      "reiterates",
-      "results",
-      "stock",
-      "tide"
-    ],
-    "ts": 1789490714.4704645
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-046-4902275",
-    "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.46%",
-    "tokens": [
-      "100",
-      "close",
-      "com",
-      "investing",
-      "kingdom",
-      "lower",
-      "stocks",
-      "trade",
-      "united"
-    ],
-    "ts": 1789490718.48708
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/red-cat-at-piper-sandler-conference-battletested-drones-usv-growth-93CH-4902274",
-    "title": "Red Cat at Piper Sandler conference: battle-tested drones, USV growth",
-    "tokens": [
-      "battle",
-      "cat",
-      "conference",
-      "drones",
-      "growth",
-      "piper",
-      "red",
-      "sandler",
-      "tested",
-      "usv"
-    ],
-    "ts": 1789490721.6442873
-  },
-  {
-    "id": "generate-capital-closes-117-million-162655532.html",
-    "title": "Generate Capital Closes $117-Million in Financing for Community Solar",
-    "tokens": [
-      "117",
-      "capital",
-      "closes",
-      "community",
-      "financing",
-      "generate",
-      "million",
-      "solar"
-    ],
-    "ts": 1789490729.546714
-  },
-  {
-    "id": "why-alluvium-bought-copart-cprt-162642815.html",
-    "title": "Why Alluvium Bought Copart (CPRT) Despite the Long-Term Autonomous Driving Risk",
-    "tokens": [
-      "alluvium",
-      "autonomous",
-      "bought",
-      "copart",
-      "cprt",
-      "despite",
-      "driving",
-      "long",
-      "risk",
-      "term",
-      "why"
-    ],
-    "ts": 1789490737.41354
-  },
-  {
     "id": "pfizer-pfe-valneva-valn-lyme-162100405.html",
     "title": "Pfizer (PFE), Valneva (VALN) Lyme Vaccine Moves to EMA Review Despite Phase 3 Caveat",
     "tokens": [
@@ -22999,5 +22773,236 @@
       "zec"
     ],
     "ts": 1789642043.6492443
+  },
+  {
+    "id": "WP-MKTW-0005234213",
+    "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+    "tokens": [
+      "all",
+      "favors",
+      "fund",
+      "hedge",
+      "manager",
+      "market",
+      "stock",
+      "take",
+      "three",
+      "underdogs",
+      "winner"
+    ],
+    "ts": 1789643451.378318
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ecbs-rehn-says-middle-east-energy-shock-hasnt-spread-yet-93CH-4905265",
+    "title": "ECB’s Rehn says Middle East energy shock hasn’t spread yet",
+    "tokens": [
+      "east",
+      "ecb",
+      "energy",
+      "hasn",
+      "middle",
+      "rehn",
+      "shock",
+      "spread",
+      "yet"
+    ],
+    "ts": 1789643458.617521
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-initiates-red-violet-stock-coverage-with-outperform-rating-93CH-4905263",
+    "title": "Raymond James initiates Red Violet stock coverage with outperform rating",
+    "tokens": [
+      "coverage",
+      "initiates",
+      "james",
+      "outperform",
+      "rating",
+      "raymond",
+      "red",
+      "stock",
+      "violet"
+    ],
+    "ts": 1789643466.0726192
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/td-cowen-cuts-constellation-brands-stock-price-target-on-soft-demand-93CH-4905262",
+    "title": "TD Cowen cuts Constellation Brands stock price target on soft demand",
+    "tokens": [
+      "brands",
+      "constellation",
+      "cowen",
+      "cuts",
+      "demand",
+      "price",
+      "soft",
+      "stock",
+      "target"
+    ],
+    "ts": 1789643472.5238743
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/highway-holdings-gets-180day-nasdaq-compliance-extension-93CH-4905261",
+    "title": "Highway Holdings gets 180-day Nasdaq compliance extension",
+    "tokens": [
+      "180",
+      "compliance",
+      "day",
+      "extension",
+      "gets",
+      "highway",
+      "holdings",
+      "nasdaq"
+    ],
+    "ts": 1789643479.9959874
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-huuuge-stock-surging-today-93CH-4905260",
+    "title": "Why is Huuuge stock surging today?",
+    "tokens": [
+      "huuuge",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789643484.0051236
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/on-leads-btigs-consumer-and-lifestyle-stock-picks-93CH-4905259",
+    "title": "On Leads BTIG’s Consumer and Lifestyle Stock Picks",
+    "tokens": [
+      "btig",
+      "consumer",
+      "leads",
+      "lifestyle",
+      "picks",
+      "stock"
+    ],
+    "ts": 1789643487.0067344
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-abionyx-pharma-stock-climbing-today-93CH-4905258",
+    "title": "Why is Abionyx Pharma stock climbing today?",
+    "tokens": [
+      "abionyx",
+      "climbing",
+      "pharma",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789643493.95456
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ubs-upgrades-man-group-on-strong-ahl-returns-buyback-potential-4905257",
+    "title": "UBS upgrades Man Group on strong AHL returns, buyback potential",
+    "tokens": [
+      "ahl",
+      "buyback",
+      "group",
+      "man",
+      "potential",
+      "returns",
+      "strong",
+      "ubs",
+      "upgrades"
+    ],
+    "ts": 1789643501.764246
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-huntington-bancshares-price-target-on-loan-competition-93CH-4905256",
+    "title": "Wells Fargo cuts Huntington Bancshares price target on loan competition",
+    "tokens": [
+      "bancshares",
+      "competition",
+      "cuts",
+      "fargo",
+      "huntington",
+      "loan",
+      "price",
+      "target",
+      "wells"
+    ],
+    "ts": 1789643509.4495184
+  },
+  {
+    "id": "saudi-pipeline-outage-hits-oil-000000565.html",
+    "title": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
+    "tokens": [
+      "buffers",
+      "hits",
+      "market",
+      "oil",
+      "outage",
+      "pipeline",
+      "running",
+      "saudi"
+    ],
+    "ts": 1789643513.6334183
+  },
+  {
+    "id": "walmart-conference-e-commerce-ai-230225951.html",
+    "title": "Walmart Conference: E-Commerce, AI and Fast Delivery Fuel Market Share Push",
+    "tokens": [
+      "commerce",
+      "conference",
+      "delivery",
+      "fast",
+      "fuel",
+      "market",
+      "push",
+      "share",
+      "walmart"
+    ],
+    "ts": 1789643517.0017283
+  },
+  {
+    "id": "caturus-plans-major-expansion-louisiana-015747836.html",
+    "title": "Caturus Plans Major Expansion of Louisiana LNG Export Project",
+    "tokens": [
+      "caturus",
+      "expansion",
+      "export",
+      "lng",
+      "louisiana",
+      "major",
+      "plans",
+      "project"
+    ],
+    "ts": 1789643524.446449
+  },
+  {
+    "id": "exclusive-malaysia-talks-rival-airlines-015835356.html",
+    "title": "Exclusive-Malaysia talks to rival airlines as it monitors AirAsia's financial health, sources say",
+    "tokens": [
+      "airasia",
+      "airlines",
+      "exclusive",
+      "financial",
+      "health",
+      "malaysia",
+      "monitors",
+      "rival",
+      "say",
+      "sources",
+      "talks"
+    ],
+    "ts": 1789643528.45551
+  },
+  {
+    "id": "artivion-aort-growth-story-hides-024959979.html",
+    "title": "Artivion’s (AORT) Growth Story Hides A Widening Bottom-Line Problem",
+    "tokens": [
+      "aort",
+      "artivion",
+      "bottom",
+      "growth",
+      "hides",
+      "line",
+      "problem",
+      "story",
+      "widening"
+    ],
+    "ts": 1789643531.8884575
   }
 ]

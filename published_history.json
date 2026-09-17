@@ -1,236 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/focaltherics-at-hc-wainwright-conference-growth-new-uses-93CH-4902184",
-    "title": "FocalTherics at H.C. Wainwright conference: growth, new uses",
-    "tokens": [
-      "conference",
-      "focaltherics",
-      "growth",
-      "uses",
-      "wainwright"
-    ],
-    "ts": 1789486072.624576
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/resmed-at-morgan-stanley-healthcare-conference-growth-margins-glp1-tailwind-93CH-4902183",
-    "title": "ResMed at Morgan Stanley healthcare conference: growth, margins, GLP-1 tailwind",
-    "tokens": [
-      "conference",
-      "glp",
-      "growth",
-      "healthcare",
-      "margins",
-      "morgan",
-      "resmed",
-      "stanley",
-      "tailwind"
-    ],
-    "ts": 1789486081.1507828
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/bridgebio-pharma-at-morgan-stanley-conference-attruby-drives-growth-93CH-4902182",
-    "title": "BridgeBio Pharma at Morgan Stanley conference: attruby drives growth",
-    "tokens": [
-      "attruby",
-      "bridgebio",
-      "conference",
-      "drives",
-      "growth",
-      "morgan",
-      "pharma",
-      "stanley"
-    ],
-    "ts": 1789486089.8995697
-  },
-  {
-    "id": "meta-launches-meta-one-subscriptions-as-it-seeks-to-better-monetize-ai-spending-151014668.html",
-    "title": "Meta launches Meta One subscriptions as it seeks to better monetize AI spending",
-    "tokens": [
-      "better",
-      "launches",
-      "meta",
-      "monetize",
-      "one",
-      "seeks",
-      "spending",
-      "subscriptions"
-    ],
-    "ts": 1789486097.4545023
-  },
-  {
-    "id": "better-pricing-ride-hailing-worldwide-150428338.html",
-    "title": "Better Pricing for Ride-Hailing Worldwide: inDrive CEO & Founder Arsen Tomsky, Live at Nasdaq",
-    "tokens": [
-      "arsen",
-      "better",
-      "ceo",
-      "founder",
-      "hailing",
-      "indrive",
-      "live",
-      "nasdaq",
-      "pricing",
-      "ride",
-      "tomsky",
-      "worldwide"
-    ],
-    "ts": 1789486105.087751
-  },
-  {
-    "id": "jim-cramer-questions-tjx-marmaxx-150053438.html",
-    "title": "Jim Cramer Questions TJX After Marmaxx Stumbles",
-    "tokens": [
-      "cramer",
-      "jim",
-      "marmaxx",
-      "questions",
-      "stumbles",
-      "tjx"
-    ],
-    "ts": 1789486112.6453466
-  },
-  {
-    "id": "citi-11-rotce-target-signals-144415162.html",
-    "title": "Citi’s 11%+ RoTCE Target Signals Stronger Capital Efficiency",
-    "tokens": [
-      "capital",
-      "citi",
-      "efficiency",
-      "rotce",
-      "signals",
-      "stronger",
-      "target"
-    ],
-    "ts": 1789486120.7369301
-  },
-  {
-    "id": "lilly-foundayo-quickly-gains-ground-144208132.html",
-    "title": "Lilly’s Foundayo Quickly Gains Ground in the Oral Weight-Loss Market",
-    "tokens": [
-      "foundayo",
-      "gains",
-      "ground",
-      "lilly",
-      "loss",
-      "market",
-      "oral",
-      "quickly",
-      "weight"
-    ],
-    "ts": 1789486128.4307787
-  },
-  {
-    "id": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit",
-    "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
-    "tokens": [
-      "address",
-      "backfires",
-      "bot",
-      "captures",
-      "eth",
-      "exploit",
-      "freezes",
-      "kelp",
-      "mev",
-      "wallet"
-    ],
-    "ts": 1789486139.1624672
-  },
-  {
-    "id": "seagate-technology-stx-primary-beneficiary-152345430.html",
-    "title": "Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand",
-    "tokens": [
-      "beneficiary",
-      "demand",
-      "driven",
-      "hdd",
-      "primary",
-      "seagate",
-      "stx",
-      "technology"
-    ],
-    "ts": 1789486982.447083
-  },
-  {
-    "id": "western-digital-wdc-fund-top-151936638.html",
-    "title": "Western Digital (WDC): The Fund’s Top Relative Contributor",
-    "tokens": [
-      "contributor",
-      "digital",
-      "fund",
-      "relative",
-      "top",
-      "wdc",
-      "western"
-    ],
-    "ts": 1789486990.465048
-  },
-  {
-    "id": "first-citizens-bancshares-fcnca-undervalued-151353136.html",
-    "title": "Is First Citizens BancShares (FCNCA) an Undervalued Opportunity?",
-    "tokens": [
-      "bancshares",
-      "citizens",
-      "fcnca",
-      "first",
-      "opportunity",
-      "undervalued"
-    ],
-    "ts": 1789486998.2660246
-  },
-  {
-    "id": "https://www.businessinsider.com/google-deepmind-researcher-resigns-ai-kill-humans-2026-9",
-    "title": "Former Google DeepMind researcher says he resigned because 'I earnestly believe that AI has the potential to kill us all'",
-    "tokens": [
-      "all",
-      "because",
-      "believe",
-      "deepmind",
-      "earnestly",
-      "former",
-      "google",
-      "kill",
-      "potential",
-      "researcher",
-      "resigned"
-    ],
-    "ts": 1789487006.0565407
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/usahs-brings-healthcare-professionals-together-to-spark-action-on-workplace-mental-health-1036547365",
-    "title": "USAHS Brings Healthcare Professionals Together to Spark Action on Workplace Mental Health",
-    "tokens": [
-      "action",
-      "brings",
-      "health",
-      "healthcare",
-      "mental",
-      "professionals",
-      "spark",
-      "together",
-      "usahs",
-      "workplace"
-    ],
-    "ts": 1789487014.274923
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/bdc-allocates-1-billion-under-its-defence-platform-to-strengthen-canada-s-defence-investment-ecosystem-1036547364",
-    "title": "BDC allocates $1 billion under its Defence Platform to strengthen Canada’s defence investment ecosystem",
-    "tokens": [
-      "allocates",
-      "bdc",
-      "billion",
-      "canada",
-      "defence",
-      "ecosystem",
-      "investment",
-      "platform",
-      "strengthen",
-      "under"
-    ],
-    "ts": 1789487021.361735
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/patterson-veterinary-launches-atlas-an-ai-assistant-for-veterinary-software-1036547362",
     "title": "Patterson Veterinary Launches Atlas: an AI Assistant for Veterinary Software",
     "tokens": [
@@ -22996,5 +22765,253 @@
       "what"
     ],
     "ts": 1789637343.4910545
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bofa-securities-maintains-apple-stock-rating-on-carrier-incentives-93CH-4905092",
+    "title": "BofA Securities maintains Apple stock rating on carrier incentives",
+    "tokens": [
+      "apple",
+      "bofa",
+      "carrier",
+      "incentives",
+      "maintains",
+      "rating",
+      "securities",
+      "stock"
+    ],
+    "ts": 1789638267.0498211
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-raiffeisen-bank-international-stock-tumbling-today-93CH-4905091",
+    "title": "Why is Raiffeisen Bank International stock tumbling today?",
+    "tokens": [
+      "bank",
+      "international",
+      "raiffeisen",
+      "stock",
+      "today",
+      "tumbling",
+      "why"
+    ],
+    "ts": 1789638273.8564296
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-allegro-groups-q2-2026-growth-surge-lifts-shares-93CH-4905090",
+    "title": "Earnings call transcript: Allegro Group’s Q2 2026 growth surge lifts shares",
+    "tokens": [
+      "2026",
+      "allegro",
+      "call",
+      "earnings",
+      "group",
+      "growth",
+      "lifts",
+      "shares",
+      "surge",
+      "transcript"
+    ],
+    "ts": 1789638281.4564147
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/exosens-raises-2026-guidance-again-on-faster-production-rampup-4904871",
+    "title": "Exosens raises 2026 guidance again on faster production ramp-up; shares jump",
+    "tokens": [
+      "2026",
+      "again",
+      "exosens",
+      "faster",
+      "guidance",
+      "jump",
+      "production",
+      "raises",
+      "ramp",
+      "shares"
+    ],
+    "ts": 1789638288.6664026
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-echo-investment-posts-stronger-h1-2026-results-93CH-4905089",
+    "title": "Earnings call transcript: Echo Investment posts stronger H1 2026 results",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "echo",
+      "investment",
+      "posts",
+      "results",
+      "stronger",
+      "transcript"
+    ],
+    "ts": 1789638296.317276
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
+    "title": "Wall St futures rise as Fed rate hike lifts long-standing overhang",
+    "tokens": [
+      "fed",
+      "futures",
+      "hike",
+      "lifts",
+      "long",
+      "overhang",
+      "rate",
+      "rise",
+      "standing",
+      "wall"
+    ],
+    "ts": 1789638303.8943367
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/berenberg-starts-bullish-coverage-as-uk-software-valuations-face-ai-fears-4905087",
+    "title": "Berenberg sees UK software rebound despite AI-driven valuation de-rating",
+    "tokens": [
+      "berenberg",
+      "despite",
+      "driven",
+      "rating",
+      "rebound",
+      "sees",
+      "software",
+      "valuation"
+    ],
+    "ts": 1789638310.6834786
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/prudential-sets-scrip-reference-price-for-interim-dividend-93CH-4905086",
+    "title": "Prudential sets scrip reference price for interim dividend",
+    "tokens": [
+      "dividend",
+      "interim",
+      "price",
+      "prudential",
+      "reference",
+      "scrip",
+      "sets"
+    ],
+    "ts": 1789638318.4548082
+  },
+  {
+    "id": "jim-cramer-likes-mcdonald-mcd-214316046.html",
+    "title": "Jim Cramer Likes McDonald’s (MCD) but Sees Jersey Mike’s (JMKE) as the Lower-Risk Bet",
+    "tokens": [
+      "bet",
+      "cramer",
+      "jersey",
+      "jim",
+      "jmke",
+      "likes",
+      "lower",
+      "mcd",
+      "mcdonald",
+      "mike",
+      "risk",
+      "sees"
+    ],
+    "ts": 1789638326.0549643
+  },
+  {
+    "id": "infleqtion-teams-cisco-play-infq-214331803.html",
+    "title": "As Infleqtion Teams Up With Cisco, Here’s How You Should Play INFQ Stock Now",
+    "tokens": [
+      "cisco",
+      "here",
+      "how",
+      "infleqtion",
+      "infq",
+      "now",
+      "play",
+      "should",
+      "stock",
+      "teams",
+      "you"
+    ],
+    "ts": 1789638333.6505363
+  },
+  {
+    "id": "tsmc-2nm-era-accelerating-mediatek-214827953.html",
+    "title": "TSMC’s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table",
+    "tokens": [
+      "2nm",
+      "accelerating",
+      "alphabet",
+      "already",
+      "era",
+      "mediatek",
+      "money",
+      "nvidia",
+      "table",
+      "tsmc"
+    ],
+    "ts": 1789638343.022987
+  },
+  {
+    "id": "palantir-nvidia-restricting-anthropic-ai-215533551.html",
+    "title": "Palantir and Nvidia Are Restricting Anthropic’s AI. Microsoft Could Win the Enterprise Trust War",
+    "tokens": [
+      "anthropic",
+      "could",
+      "enterprise",
+      "microsoft",
+      "nvidia",
+      "palantir",
+      "restricting",
+      "trust",
+      "war",
+      "win"
+    ],
+    "ts": 1789638350.718352
+  },
+  {
+    "id": "anthropic-just-put-claude-inside-215957194.html",
+    "title": "Anthropic Just Put Claude Inside Schwab and BlackRock. The AI Agent War Has Reached Wealth Management",
+    "tokens": [
+      "agent",
+      "anthropic",
+      "blackrock",
+      "claude",
+      "inside",
+      "just",
+      "management",
+      "put",
+      "reached",
+      "schwab",
+      "war",
+      "wealth"
+    ],
+    "ts": 1789638358.227529
+  },
+  {
+    "id": "crypto-market-today-sept-15-214527897.html",
+    "title": "Crypto Market Today, Sept. 15: Crypto Prices Plummet as Clarity Act Fails, Here's What it Means for Crypto",
+    "tokens": [
+      "act",
+      "clarity",
+      "crypto",
+      "fails",
+      "here",
+      "market",
+      "means",
+      "plummet",
+      "prices",
+      "sept",
+      "today",
+      "what"
+    ],
+    "ts": 1789638366.130383
+  },
+  {
+    "id": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe",
+    "title": "Polymarket users referred to prosecutors in South Korea: Report",
+    "tokens": [
+      "korea",
+      "polymarket",
+      "prosecutors",
+      "referred",
+      "report",
+      "south",
+      "users"
+    ],
+    "ts": 1789638374.951152
   }
 ]

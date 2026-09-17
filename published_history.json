@@ -1,106 +1,5 @@
 [
   {
-    "id": "4d5c83db-1ac0-4d54-afda-f230f3fc121d",
-    "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
-    "tokens": [
-      "act",
-      "clarity",
-      "counter",
-      "democrats",
-      "odds",
-      "passing",
-      "plunge",
-      "proposal",
-      "reject",
-      "republicans"
-    ],
-    "ts": 1789482631.0078442
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/columbia-banking-system-at-barclays-conference-discipline-drives-gains-93CH-4902099",
-    "title": "Columbia Banking System at Barclays conference: discipline drives gains",
-    "tokens": [
-      "banking",
-      "barclays",
-      "columbia",
-      "conference",
-      "discipline",
-      "drives",
-      "gains",
-      "system"
-    ],
-    "ts": 1789483528.3029895
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cellebrite-stock-price-target-maintained-at-15-by-da-davidson-93CH-4902097",
-    "title": "Cellebrite stock price target maintained at $15 by DA Davidson",
-    "tokens": [
-      "cellebrite",
-      "davidson",
-      "maintained",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1789483536.3147762
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/cocacola-to-invest-10-billion-in-us-infrastructure-by-2030-4902076",
-    "title": "Coca-Cola to invest $10 billion in US infrastructure by 2030",
-    "tokens": [
-      "2030",
-      "billion",
-      "coca",
-      "cola",
-      "infrastructure",
-      "invest"
-    ],
-    "ts": 1789483544.6453881
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-buy-on-guardian-metal-resources-stock-93CH-4902096",
-    "title": "DA Davidson reiterates Buy on Guardian Metal Resources stock",
-    "tokens": [
-      "buy",
-      "davidson",
-      "guardian",
-      "metal",
-      "reiterates",
-      "resources",
-      "stock"
-    ],
-    "ts": 1789483551.8848307
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/freedom-broker-cuts-amrep-stock-price-target-to-22-on-weak-results-93CH-4902095",
-    "title": "Freedom Broker cuts AMREP stock price target to $22 on weak results",
-    "tokens": [
-      "amrep",
-      "broker",
-      "cuts",
-      "freedom",
-      "price",
-      "results",
-      "stock",
-      "target",
-      "weak"
-    ],
-    "ts": 1789483559.149227
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cisco-brings-ai-capabilities-to-onpremises-splunk-customers-93CH-4902094",
-    "title": "Cisco brings AI capabilities to on-premises Splunk customers",
-    "tokens": [
-      "brings",
-      "capabilities",
-      "cisco",
-      "customers",
-      "premises",
-      "splunk"
-    ],
-    "ts": 1789483566.7523794
-  },
-  {
     "id": "https://www.investing.com/news/company-news/oracle-releases-java-27-with-postquantum-cryptography-support-93CH-4902093",
     "title": "Oracle releases Java 27 with post-quantum cryptography support",
     "tokens": [
@@ -22956,5 +22855,107 @@
       "valuation"
     ],
     "ts": 1789632812.704538
+  },
+  {
+    "id": "jim-cramer-turns-more-bullish-202241135.html",
+    "title": "Jim Cramer Turns “More Bullish” on Oracle (ORCL)",
+    "tokens": [
+      "bullish",
+      "cramer",
+      "jim",
+      "more",
+      "oracle",
+      "orcl",
+      "turns"
+    ],
+    "ts": 1789633836.4186335
+  },
+  {
+    "id": "analyst-just-upgraded-etsy-stock-202534078.html",
+    "title": "This Analyst Just Upgraded Etsy Stock. Here's Why.",
+    "tokens": [
+      "analyst",
+      "etsy",
+      "here",
+      "just",
+      "stock",
+      "upgraded",
+      "why"
+    ],
+    "ts": 1789633844.1814964
+  },
+  {
+    "id": "jim-cramer-says-adobe-adbe-202744226.html",
+    "title": "Jim Cramer Says Adobe (ADBE) Could Be a Short-Squeeze Candidate",
+    "tokens": [
+      "adbe",
+      "adobe",
+      "candidate",
+      "could",
+      "cramer",
+      "jim",
+      "short",
+      "squeeze"
+    ],
+    "ts": 1789633851.3894632
+  },
+  {
+    "id": "u-global-investors-pay-monthly-202200997.html",
+    "title": "U.S. Global Investors to pay monthly dividends as travel spending outpaces volume",
+    "tokens": [
+      "dividends",
+      "global",
+      "investors",
+      "monthly",
+      "outpaces",
+      "pay",
+      "spending",
+      "travel",
+      "volume"
+    ],
+    "ts": 1789633858.5875802
+  },
+  {
+    "id": "jim-cramer-salesforce-crm-very-202539714.html",
+    "title": "Jim Cramer on Salesforce (CRM): “It’s Been Very Strong of Late”",
+    "tokens": [
+      "cramer",
+      "crm",
+      "jim",
+      "late",
+      "salesforce",
+      "strong",
+      "very"
+    ],
+    "ts": 1789633865.6585438
+  },
+  {
+    "id": "jim-cramer-believes-apple-aapl-203105978.html",
+    "title": "Jim Cramer Believes Apple (AAPL) Could See “Off The Charts” Demand For Its New Foldable",
+    "tokens": [
+      "aapl",
+      "apple",
+      "believes",
+      "charts",
+      "could",
+      "cramer",
+      "demand",
+      "foldable",
+      "jim",
+      "off",
+      "see"
+    ],
+    "ts": 1789633873.2020757
+  },
+  {
+    "id": "will-the-housing-market-crash-this-year-170038540.html",
+    "title": "Will the housing market crash this year?",
+    "tokens": [
+      "crash",
+      "housing",
+      "market",
+      "year"
+    ],
+    "ts": 1789633879.877272
   }
 ]

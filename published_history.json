@@ -1,253 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/getinge-at-morgan-stanley-24th-annual-global-healthcare-conference-turnaround-gains-93CH-4901455",
-    "title": "Getinge at Morgan Stanley 24th annual global healthcare conference: turnaround gains",
-    "tokens": [
-      "24th",
-      "annual",
-      "conference",
-      "gains",
-      "getinge",
-      "global",
-      "healthcare",
-      "morgan",
-      "stanley",
-      "turnaround"
-    ],
-    "ts": 1789473221.9637494
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/veracyte-at-morgan-stanley-conference-growth-deals-and-new-tests-93CH-4901456",
-    "title": "Veracyte at Morgan Stanley conference: growth, deals and new tests",
-    "tokens": [
-      "conference",
-      "deals",
-      "growth",
-      "morgan",
-      "stanley",
-      "tests",
-      "veracyte"
-    ],
-    "ts": 1789473228.9782162
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/five-below-cmoo-jacob-hawkins-sells-203583-in-company-stock-93CH-4901452",
-    "title": "Five below CMOO Jacob Hawkins sells $203,583 in company stock",
-    "tokens": [
-      "203",
-      "583",
-      "below",
-      "cmoo",
-      "company",
-      "five",
-      "hawkins",
-      "jacob",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789473236.2374837
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/icu-medical-at-morgan-stanley-conference-pump-cycle-margins-in-focus-93CH-4901451",
-    "title": "ICU Medical at Morgan Stanley conference: pump cycle, margins in focus",
-    "tokens": [
-      "conference",
-      "cycle",
-      "focus",
-      "icu",
-      "margins",
-      "medical",
-      "morgan",
-      "pump",
-      "stanley"
-    ],
-    "ts": 1789473243.6320138
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ishares-delists-currency-trading-lines-for-10-etf-share-classes-93CH-4901450",
-    "title": "iShares delists currency trading lines for 10 ETF share classes",
-    "tokens": [
-      "classes",
-      "currency",
-      "delists",
-      "etf",
-      "ishares",
-      "lines",
-      "share",
-      "trading"
-    ],
-    "ts": 1789473251.9513495
-  },
-  {
-    "id": "what-is-debt-settlement-185327526.html",
-    "title": "What is debt settlement? How it works and what it costs you.",
-    "tokens": [
-      "costs",
-      "debt",
-      "how",
-      "settlement",
-      "what",
-      "works",
-      "you"
-    ],
-    "ts": 1789473261.5323563
-  },
-  {
-    "id": "bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html",
-    "title": "Bitcoin and ethereum prices today, Tuesday, September 15, 2026: Crypto prices sliding this morning ahead of Fed meeting",
-    "tokens": [
-      "2026",
-      "ahead",
-      "bitcoin",
-      "crypto",
-      "ethereum",
-      "fed",
-      "meeting",
-      "morning",
-      "prices",
-      "september",
-      "sliding",
-      "today",
-      "tuesday"
-    ],
-    "ts": 1789473269.1035323
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-clearpoint-neuro-stock-rating-citing-cgt-focus-93CH-4901552",
-    "title": "Stifel reiterates Clearpoint Neuro stock rating citing CGT focus",
-    "tokens": [
-      "cgt",
-      "citing",
-      "clearpoint",
-      "focus",
-      "neuro",
-      "rating",
-      "reiterates",
-      "stifel",
-      "stock"
-    ],
-    "ts": 1789474424.722494
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-scholar-rock-stock-price-target-on-fda-approval-93CH-4901551",
-    "title": "H.C. Wainwright raises Scholar Rock stock price target on FDA approval",
-    "tokens": [
-      "approval",
-      "fda",
-      "price",
-      "raises",
-      "rock",
-      "scholar",
-      "stock",
-      "target",
-      "wainwright"
-    ],
-    "ts": 1789474432.5600858
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-definium-stock-rating-on-positive-trial-data-93CH-4901550",
-    "title": "H.C. Wainwright reiterates Definium stock rating on positive trial data",
-    "tokens": [
-      "data",
-      "definium",
-      "positive",
-      "rating",
-      "reiterates",
-      "stock",
-      "trial",
-      "wainwright"
-    ],
-    "ts": 1789474439.6696696
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-hold-rating-on-lowes-stock-amid-ma-outlook-93CH-4901549",
-    "title": "Stifel reiterates Hold rating on Lowe’s stock amid M&A outlook",
-    "tokens": [
-      "hold",
-      "lowe",
-      "outlook",
-      "rating",
-      "reiterates",
-      "stifel",
-      "stock"
-    ],
-    "ts": 1789474446.763422
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-corbus-stock-rating-on-phase-1b-data-93CH-4901548",
-    "title": "H.C. Wainwright reiterates Corbus stock rating on phase 1b data",
-    "tokens": [
-      "corbus",
-      "data",
-      "phase",
-      "rating",
-      "reiterates",
-      "stock",
-      "wainwright"
-    ],
-    "ts": 1789474453.8133152
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-rating-on-hillman-solutions-stock-93CH-4901547",
-    "title": "Stifel reiterates buy rating on Hillman Solutions stock",
-    "tokens": [
-      "buy",
-      "hillman",
-      "rating",
-      "reiterates",
-      "solutions",
-      "stifel",
-      "stock"
-    ],
-    "ts": 1789474461.5937219
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-hold-stock-rating-on-siteone-landscape-supply-93CH-4901546",
-    "title": "Stifel reiterates Hold stock rating on SiteOne Landscape Supply",
-    "tokens": [
-      "hold",
-      "landscape",
-      "rating",
-      "reiterates",
-      "siteone",
-      "stifel",
-      "stock",
-      "supply"
-    ],
-    "ts": 1789474471.8248272
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bernstein-flags-five-stocks-to-benefit-as-europe-faces-tighter-gas-market-93CH-4901545",
-    "title": "Bernstein Flags Five Stocks to Benefit as Europe Faces Tighter Gas Market",
-    "tokens": [
-      "benefit",
-      "bernstein",
-      "europe",
-      "faces",
-      "five",
-      "flags",
-      "gas",
-      "market",
-      "stocks",
-      "tighter"
-    ],
-    "ts": 1789474479.5194302
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/mp-evans-h1-2026-slides-record-profit-on-extraction-gains-93CH-4901544",
-    "title": "M.P. Evans H1 2026 slides: record profit on extraction gains",
-    "tokens": [
-      "2026",
-      "evans",
-      "extraction",
-      "gains",
-      "profit",
-      "record",
-      "slides"
-    ],
-    "ts": 1789474486.8619335
-  },
-  {
     "id": "https://www.investing.com/news/company-news/ooma-launches-home-phone-service-for-starlink-users-93CH-4901534",
     "title": "Ooma launches home phone service for Starlink users",
     "tokens": [
@@ -22974,5 +22726,245 @@
       "trustpilot"
     ],
     "ts": 1789624480.2819886
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/beretta-to-bid-for-larger-stake-in-sturm-ruger--report-93CH-4904828",
+    "title": "Beretta to bid for larger stake in Sturm Ruger - report",
+    "tokens": [
+      "beretta",
+      "bid",
+      "larger",
+      "report",
+      "ruger",
+      "stake",
+      "sturm"
+    ],
+    "ts": 1789625680.231062
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/together-financial-services-announces-board-changes-93CH-4904827",
+    "title": "Together Financial Services announces board changes",
+    "tokens": [
+      "announces",
+      "board",
+      "changes",
+      "financial",
+      "services",
+      "together"
+    ],
+    "ts": 1789625687.0211515
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/india-warns-us-oil-sanctions-bill-could-damage-bilateral-ties-93CH-4904826",
+    "title": "India warns U.S. oil sanctions bill could damage bilateral ties",
+    "tokens": [
+      "bilateral",
+      "bill",
+      "could",
+      "damage",
+      "india",
+      "oil",
+      "sanctions",
+      "ties",
+      "warns"
+    ],
+    "ts": 1789625695.2230904
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/japan-vows-effort-to-maintain-orderly-yen-moves-4904825",
+    "title": "Japan vows effort to maintain orderly yen moves",
+    "tokens": [
+      "effort",
+      "japan",
+      "maintain",
+      "moves",
+      "orderly",
+      "vows",
+      "yen"
+    ],
+    "ts": 1789625702.7774777
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trump-warns-eu-of-tariffs-over-canadas-potential-associate-membership-calls-it-laughable-4904824",
+    "title": "Trump warns EU of tariffs over Canada’s potential associate membership, calls it ’laughable’",
+    "tokens": [
+      "associate",
+      "calls",
+      "canada",
+      "laughable",
+      "membership",
+      "potential",
+      "tariffs",
+      "trump",
+      "warns"
+    ],
+    "ts": 1789625710.1072006
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ferrari-signs-partnership-agreement-with-rakuten-group-93CH-4904823",
+    "title": "Ferrari signs partnership agreement with Rakuten Group",
+    "tokens": [
+      "agreement",
+      "ferrari",
+      "group",
+      "partnership",
+      "rakuten",
+      "signs"
+    ],
+    "ts": 1789625718.0268278
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-101-4904822",
+    "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.01%",
+    "tokens": [
+      "close",
+      "higher",
+      "stocks",
+      "taiwan",
+      "trade",
+      "weighted"
+    ],
+    "ts": 1789625725.7118976
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/italian-gunmaker-beretta-to-raise-stake-in-sturm-ruger-to-25-paper-says-4904818",
+    "title": "Italian gunmaker Beretta to raise stake in Sturm Ruger to 25%, paper says",
+    "tokens": [
+      "beretta",
+      "gunmaker",
+      "italian",
+      "paper",
+      "raise",
+      "ruger",
+      "stake",
+      "sturm"
+    ],
+    "ts": 1789625734.0654886
+  },
+  {
+    "id": "why-ubs-just-turned-bearish-184337599.html",
+    "title": "Why UBS Just Turned Bearish on NuScale Power Stock",
+    "tokens": [
+      "bearish",
+      "just",
+      "nuscale",
+      "power",
+      "stock",
+      "turned",
+      "ubs",
+      "why"
+    ],
+    "ts": 1789625741.5700455
+  },
+  {
+    "id": "chipmaker-pulls-back-key-supportive-183731911.html",
+    "title": "Chipmaker Pulls Back to Key Supportive Trendline",
+    "tokens": [
+      "back",
+      "chipmaker",
+      "key",
+      "pulls",
+      "supportive",
+      "trendline"
+    ],
+    "ts": 1789625749.4255068
+  },
+  {
+    "id": "warren-buffett-famous-rule-says-180644136.html",
+    "title": "Warren Buffett’s Famous Rule Says Interest Rates Are ‘Gravity’ for Stock Prices. Here’s What That Means as Treasury Yields Hit 5%",
+    "tokens": [
+      "buffett",
+      "famous",
+      "gravity",
+      "here",
+      "hit",
+      "interest",
+      "means",
+      "prices",
+      "rates",
+      "rule",
+      "stock",
+      "treasury",
+      "warren",
+      "what",
+      "yields"
+    ],
+    "ts": 1789625757.278025
+  },
+  {
+    "id": "intel-4-major-tailwinds-according-182657781.html",
+    "title": "Intel Has 4 Major Tailwinds According to This Wall Street Analyst, Yet 1 Red Flag Caused a Price Target Cut",
+    "tokens": [
+      "according",
+      "analyst",
+      "caused",
+      "cut",
+      "flag",
+      "intel",
+      "major",
+      "price",
+      "red",
+      "street",
+      "tailwinds",
+      "target",
+      "wall",
+      "yet"
+    ],
+    "ts": 1789625765.2954924
+  },
+  {
+    "id": "dollar-index-heading-lows-2026-190002894.html",
+    "title": "Is the Dollar Index Heading for New Lows in 2026?",
+    "tokens": [
+      "2026",
+      "dollar",
+      "heading",
+      "index",
+      "lows"
+    ],
+    "ts": 1789625773.074385
+  },
+  {
+    "id": "retail-stock-post-earnings-pop-190111681.html",
+    "title": "This Retail Stock’s Post-Earnings Pop Is a Good Speculative Bet on a 2027-28 Payoff",
+    "tokens": [
+      "2027",
+      "bet",
+      "earnings",
+      "good",
+      "payoff",
+      "pop",
+      "post",
+      "retail",
+      "speculative",
+      "stock"
+    ],
+    "ts": 1789625781.1448522
+  },
+  {
+    "id": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit",
+    "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
+    "tokens": [
+      "ahead",
+      "bitmex",
+      "celsius",
+      "closure",
+      "exchange",
+      "faces",
+      "lawsuit"
+    ],
+    "ts": 1789625790.3976076
+  },
+  {
+    "id": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior",
+    "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+    "tokens": [
+      "behavior",
+      "cases",
+      "discloses",
+      "misaligned",
+      "openai"
+    ],
+    "ts": 1789625797.3967936
   }
 ]

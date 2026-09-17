@@ -1,65 +1,5 @@
 [
   {
-    "id": "oilprice-news-45515",
-    "title": "U.S. Oil Inventories Jump as Cushing Stocks Keep Falling",
-    "tokens": [
-      "cushing",
-      "falling",
-      "inventories",
-      "jump",
-      "keep",
-      "oil",
-      "stocks"
-    ],
-    "ts": 1789513894.4202855
-  },
-  {
-    "id": "stocks-slump-ai-slowdown-fears-151337488.html",
-    "title": "Stocks Slump on AI Slowdown Fears and Rising Bond Yields and Crude Prices",
-    "tokens": [
-      "bond",
-      "crude",
-      "fears",
-      "prices",
-      "rising",
-      "slowdown",
-      "slump",
-      "stocks",
-      "yields"
-    ],
-    "ts": 1789514681.9576683
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tmx-group-prices-c11-billion-debt-offering-in-three-series-93CH-4902753",
-    "title": "TMX Group prices C$1.1 billion debt offering in three series",
-    "tokens": [
-      "billion",
-      "debt",
-      "group",
-      "offering",
-      "prices",
-      "series",
-      "three",
-      "tmx"
-    ],
-    "ts": 1789515515.0083125
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/pagaya-cfo-jonathan-dobres-sells-18000-of-pgy-shares-93CH-4902752",
-    "title": "Pagaya CFO Jonathan Dobres sells $18,000 of PGY shares",
-    "tokens": [
-      "000",
-      "cfo",
-      "dobres",
-      "jonathan",
-      "pagaya",
-      "pgy",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789515522.2186856
-  },
-  {
     "id": "cloud-infrastructure-strategy-keep-taking-152133820.html",
     "title": "How Cloud Infrastructure Strategy Can Keep Taking Oracle Stock Even Higher",
     "tokens": [
@@ -23226,5 +23166,78 @@
       "stocks"
     ],
     "ts": 1789663563.8739963
+  },
+  {
+    "id": "rackspace-nvidia-partnership-sparks-early-163851620.html",
+    "title": "Rackspace’s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
+    "tokens": [
+      "billion",
+      "debt",
+      "early",
+      "load",
+      "nvidia",
+      "partnership",
+      "rackspace",
+      "rally",
+      "remains",
+      "sparks"
+    ],
+    "ts": 1789664209.9466083
+  },
+  {
+    "id": "meta-meta-overhauls-instagram-facebook-163514422.html",
+    "title": "Meta (META) Overhauls Instagram and Facebook for Teens after its $17 Billion Settlement",
+    "tokens": [
+      "billion",
+      "facebook",
+      "instagram",
+      "meta",
+      "overhauls",
+      "settlement",
+      "teens"
+    ],
+    "ts": 1789664217.7922637
+  },
+  {
+    "id": "deadly-amazon-amzn-cargo-plane-163256704.html",
+    "title": "A Deadly Amazon (AMZN) Cargo Plane Crash in Miami Puts its Air Network Under Scrutiny",
+    "tokens": [
+      "air",
+      "amazon",
+      "amzn",
+      "cargo",
+      "crash",
+      "deadly",
+      "miami",
+      "network",
+      "plane",
+      "puts",
+      "scrutiny",
+      "under"
+    ],
+    "ts": 1789664225.164275
+  },
+  {
+    "id": "sec-cftc-write-crypto-rules-164042293.html",
+    "title": "The SEC and CFTC Say They Will Write Crypto Rules Without Congress. What Atkins and Selig Can Actually Do for XRP and Bitcoin.",
+    "tokens": [
+      "actually",
+      "atkins",
+      "bitcoin",
+      "can",
+      "cftc",
+      "congress",
+      "crypto",
+      "rules",
+      "say",
+      "sec",
+      "selig",
+      "they",
+      "what",
+      "without",
+      "write",
+      "xrp"
+    ],
+    "ts": 1789664233.1338325
   }
 ]

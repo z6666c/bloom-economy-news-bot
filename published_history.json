@@ -1,116 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks",
-    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
-    "tokens": [
-      "base",
-      "ethereum",
-      "ethlabs",
-      "fail",
-      "researcher",
-      "standards",
-      "talks",
-      "wallet"
-    ],
-    "ts": 1789466467.770553
-  },
-  {
-    "id": "WP-MKTW-0005231814",
-    "title": "When people with student debt try to save for retirement, they fall behind early and never catch up",
-    "tokens": [
-      "behind",
-      "catch",
-      "debt",
-      "early",
-      "fall",
-      "never",
-      "people",
-      "retirement",
-      "save",
-      "student",
-      "they",
-      "try",
-      "when"
-    ],
-    "ts": 1789467495.4440012
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-kier-group-posts-strong-h2-2026-growth-and-cash-gains-93CH-4901172",
-    "title": "Earnings call transcript: Kier Group posts strong H2 2026 growth and cash gains",
-    "tokens": [
-      "2026",
-      "call",
-      "cash",
-      "earnings",
-      "gains",
-      "group",
-      "growth",
-      "kier",
-      "posts",
-      "strong",
-      "transcript"
-    ],
-    "ts": 1789467503.2362964
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-mj-gleeson-posts-higher-revenue-in-h2-2026-as-margins-slip-93CH-4901171",
-    "title": "Earnings call transcript: MJ Gleeson posts higher revenue in H2 2026 as margins slip",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "gleeson",
-      "higher",
-      "margins",
-      "posts",
-      "revenue",
-      "slip",
-      "transcript"
-    ],
-    "ts": 1789467511.7456415
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-energous-stock-gaining-today-93CH-4901169",
-    "title": "Why is Energous stock gaining today?",
-    "tokens": [
-      "energous",
-      "gaining",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789467519.3753917
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/newprinces-h1-2026-slides-margins-improve-as-integration-advances-93CH-4901168",
-    "title": "NewPrinces H1 2026 slides: margins improve as integration advances",
-    "tokens": [
-      "2026",
-      "advances",
-      "improve",
-      "integration",
-      "margins",
-      "newprinces",
-      "slides"
-    ],
-    "ts": 1789467526.6804068
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/flex-names-spinoff-axiom-solutions-files-form-10-with-sec-93CH-4901166",
-    "title": "Flex names spinoff Axiom Solutions, files Form 10 with SEC",
-    "tokens": [
-      "axiom",
-      "files",
-      "flex",
-      "form",
-      "names",
-      "sec",
-      "solutions",
-      "spinoff"
-    ],
-    "ts": 1789467534.947789
-  },
-  {
     "id": "https://www.investing.com/news/company-news/flex-names-amy-schwetz-cfo-ahead-of-planned-business-split-93CH-4901165",
     "title": "Flex names Amy Schwetz CFO ahead of planned business split",
     "tokens": [
@@ -23028,5 +22917,115 @@
       "yields"
     ],
     "ts": 1789611305.6387525
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/davita-jumps-10-as-ai-strategys-healthcare-pick-rides-stronger-guidance-4904761",
+    "title": "DaVita jumps 10% as AI strategy’s healthcare pick rides stronger guidance",
+    "tokens": [
+      "davita",
+      "guidance",
+      "healthcare",
+      "jumps",
+      "pick",
+      "rides",
+      "strategy",
+      "stronger"
+    ],
+    "ts": 1789612236.8873813
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/tenet-healthcare-director-j-robert-kerrey-sells-317m-in-stock-93CH-4904760",
+    "title": "Tenet Healthcare director J. Robert Kerrey sells $3.17m in stock",
+    "tokens": [
+      "17m",
+      "director",
+      "healthcare",
+      "kerrey",
+      "robert",
+      "sells",
+      "stock",
+      "tenet"
+    ],
+    "ts": 1789612244.1937108
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/dst-global-advisors-10-owner-sells-1093m-chime-stock-93CH-4904758",
+    "title": "DST Global Advisors, 10% owner, sells $109.3m Chime stock",
+    "tokens": [
+      "109",
+      "advisors",
+      "chime",
+      "dst",
+      "global",
+      "owner",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789612248.2063162
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/nextnav-general-counsel-james-black-sells-28814-in-common-stock-93CH-4904759",
+    "title": "NextNav general counsel James Black sells $28,814 in common stock",
+    "tokens": [
+      "814",
+      "black",
+      "common",
+      "counsel",
+      "general",
+      "james",
+      "nextnav",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789612252.1419215
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
+    "title": "Hawkish Fed lifts dollar to seven-week high as focus turn to BOJ",
+    "tokens": [
+      "boj",
+      "dollar",
+      "fed",
+      "focus",
+      "hawkish",
+      "high",
+      "lifts",
+      "seven",
+      "turn",
+      "week"
+    ],
+    "ts": 1789612259.1885746
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-prices-steady-amid-cooling-meast-supply-jitters-4904755",
+    "title": "Oil prices steady amid cooling M.East supply jitters",
+    "tokens": [
+      "cooling",
+      "east",
+      "jitters",
+      "oil",
+      "prices",
+      "steady",
+      "supply"
+    ],
+    "ts": 1789612266.57703
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
+    "title": "Shares tick higher as Fed hikes rates, dollar jumps with short-term yields",
+    "tokens": [
+      "dollar",
+      "fed",
+      "higher",
+      "hikes",
+      "jumps",
+      "rates",
+      "shares",
+      "short",
+      "term",
+      "tick",
+      "yields"
+    ],
+    "ts": 1789612275.7991176
   }
 ]

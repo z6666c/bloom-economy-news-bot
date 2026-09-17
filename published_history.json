@@ -1,49 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-dave--busters-stock-rating-after-q2-miss-93CH-4901060",
-    "title": "Citizens reiterates Dave & Buster’s stock rating after Q2 miss",
-    "tokens": [
-      "buster",
-      "citizens",
-      "dave",
-      "miss",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1789465518.6698513
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-ehang-stock-rating-on-regulatory-uncertainty-93CH-4901061",
-    "title": "Morgan Stanley downgrades EHang stock rating on regulatory uncertainty",
-    "tokens": [
-      "downgrades",
-      "ehang",
-      "morgan",
-      "rating",
-      "regulatory",
-      "stanley",
-      "stock",
-      "uncertainty"
-    ],
-    "ts": 1789465527.2676508
-  },
-  {
-    "id": "dole-dole-revenue-climbs-while-092810806.html",
-    "title": "Dole’s (DOLE) Revenue Climbs While Fruit Costs Squeeze Profits",
-    "tokens": [
-      "climbs",
-      "costs",
-      "dole",
-      "fruit",
-      "profits",
-      "revenue",
-      "squeeze",
-      "while"
-    ],
-    "ts": 1789465534.8747668
-  },
-  {
     "id": "exclusive-indian-consumer-regulator-escalates-091004769.html",
     "title": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
     "tokens": [
@@ -23040,5 +22996,56 @@
       "strong"
     ],
     "ts": 1789608559.2039592
+  },
+  {
+    "id": "malone-lam-22-pleads-guilty-140000273.html",
+    "title": "Malone Lam, 22, pleads guilty to stealing $245 million in crypto through a Google impersonation scheme",
+    "tokens": [
+      "245",
+      "crypto",
+      "google",
+      "guilty",
+      "impersonation",
+      "lam",
+      "malone",
+      "million",
+      "pleads",
+      "scheme",
+      "stealing",
+      "through"
+    ],
+    "ts": 1789609447.8473687
+  },
+  {
+    "id": "why-1-analyst-betting-dell-140003788.html",
+    "title": "Why 1 Analyst Is Betting That DELL Stock Can Gain At Least Another 20% From Here",
+    "tokens": [
+      "analyst",
+      "another",
+      "betting",
+      "can",
+      "dell",
+      "gain",
+      "here",
+      "least",
+      "stock",
+      "why"
+    ],
+    "ts": 1789609454.7816737
+  },
+  {
+    "id": "dear-lennar-stock-fans-mark-135746041.html",
+    "title": "Dear Lennar Stock Fans, Mark Your Calendars for September 16",
+    "tokens": [
+      "calendars",
+      "dear",
+      "fans",
+      "lennar",
+      "mark",
+      "september",
+      "stock",
+      "your"
+    ],
+    "ts": 1789609461.7020998
   }
 ]

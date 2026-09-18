@@ -1,73 +1,5 @@
 [
   {
-    "id": "fortive-stock-underperforming-nasdaq-131520272.html",
-    "title": "Is Fortive Stock Underperforming the Nasdaq?",
-    "tokens": [
-      "fortive",
-      "nasdaq",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1789594176.732217
-  },
-  {
-    "id": "WP-MKTW-0005237448",
-    "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
-    "tokens": [
-      "600",
-      "bonds",
-      "calm",
-      "dow",
-      "expect",
-      "fails",
-      "falls",
-      "fed",
-      "hike",
-      "markets",
-      "more",
-      "points",
-      "rate",
-      "sharp",
-      "stocks",
-      "swings",
-      "troubled"
-    ],
-    "ts": 1789594991.8111944
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/simon-property-group-at-bofa-ny-global-real-estate-conference-2026-growth-holds-93CH-4904606",
-    "title": "Simon Property Group at BofA NY Global Real Estate Conference 2026: growth holds",
-    "tokens": [
-      "2026",
-      "bofa",
-      "conference",
-      "estate",
-      "global",
-      "group",
-      "growth",
-      "holds",
-      "property",
-      "real",
-      "simon"
-    ],
-    "ts": 1789595667.0747445
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/teknova-launches-filltek-dispensing-system-for-custom-reagents-93CH-4904604",
-    "title": "Teknova launches Fill-Tek dispensing system for custom reagents",
-    "tokens": [
-      "custom",
-      "dispensing",
-      "fill",
-      "launches",
-      "reagents",
-      "system",
-      "tek",
-      "teknova"
-    ],
-    "ts": 1789595674.0004866
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/goldman-ceo-says-fixed-income-currencies-commodities-business-slightly-softer-in-q3-4904385",
     "title": "Goldman Sachs sees slightly softer fixed income, currencies, commodities business, higher costs",
     "tokens": [
@@ -23170,5 +23102,76 @@
       "types"
     ],
     "ts": 1789741792.5478375
+  },
+  {
+    "id": "insurtech-company-luzern-risk-raises-143348982.html",
+    "title": "Insurtech company Luzern Risk raises $45m in Series B round",
+    "tokens": [
+      "45m",
+      "company",
+      "insurtech",
+      "luzern",
+      "raises",
+      "risk",
+      "round",
+      "series"
+    ],
+    "ts": 1789742549.9745762
+  },
+  {
+    "id": "spacex-stock-falls-as-starships-test-flight-slips-to-sept-28-retail-investors-sell-shares-143200705.html",
+    "title": "SpaceX stock falls as Starship's test flight slips to Sept. 28, retail investors sell shares",
+    "tokens": [
+      "falls",
+      "flight",
+      "investors",
+      "retail",
+      "sell",
+      "sept",
+      "shares",
+      "slips",
+      "spacex",
+      "starship",
+      "stock",
+      "test"
+    ],
+    "ts": 1789742564.863936
+  },
+  {
+    "id": "bullish-tyler-technologies-tyl-142303614.html",
+    "title": "Should You Be Bullish on Tyler Technologies (TYL)?",
+    "tokens": [
+      "bullish",
+      "should",
+      "technologies",
+      "tyl",
+      "tyler",
+      "you"
+    ],
+    "ts": 1789742577.4453306
+  },
+  {
+    "id": "claim-social-security-early-leave-142403493.html",
+    "title": "Claim Social Security Early, Leave the IRA Until 73. That’s the Order Most Retirees Use. Reversing It Is Worth Real Money Over a 20-Year Retirement",
+    "tokens": [
+      "claim",
+      "early",
+      "ira",
+      "leave",
+      "money",
+      "most",
+      "order",
+      "real",
+      "retirees",
+      "retirement",
+      "reversing",
+      "security",
+      "social",
+      "until",
+      "use",
+      "worth",
+      "year"
+    ],
+    "ts": 1789742589.6596098
   }
 ]

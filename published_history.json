@@ -1,238 +1,5 @@
 [
   {
-    "id": "oilprice-article-45524",
-    "title": "Inside Putin’s $135 Billion Arctic Gamble That Could Save His Ukraine War",
-    "tokens": [
-      "135",
-      "arctic",
-      "billion",
-      "could",
-      "gamble",
-      "his",
-      "inside",
-      "putin",
-      "save",
-      "ukraine",
-      "war"
-    ],
-    "ts": 1789593216.9138272
-  },
-  {
-    "id": "oilprice-article-45521",
-    "title": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows",
-    "tokens": [
-      "argentina",
-      "crude",
-      "data",
-      "makes",
-      "now",
-      "oil",
-      "output",
-      "shale",
-      "shows"
-    ],
-    "ts": 1789593224.072955
-  },
-  {
-    "id": "oilprice-news-45524",
-    "title": "Continental Strikes Venezuela Oil Deal with PDVSA",
-    "tokens": [
-      "continental",
-      "deal",
-      "oil",
-      "pdvsa",
-      "strikes",
-      "venezuela"
-    ],
-    "ts": 1789593228.0897796
-  },
-  {
-    "id": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says",
-    "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
-    "tokens": [
-      "act",
-      "advocate",
-      "another",
-      "clarity",
-      "could",
-      "duck",
-      "during",
-      "get",
-      "lame",
-      "policy",
-      "session",
-      "shot"
-    ],
-    "ts": 1789593232.3207626
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/illinois-american-water-completes-venice-wastewater-acquisition-93CH-4904589",
-    "title": "Illinois American Water completes Venice wastewater acquisition",
-    "tokens": [
-      "acquisition",
-      "american",
-      "completes",
-      "illinois",
-      "venice",
-      "wastewater",
-      "water"
-    ],
-    "ts": 1789594092.0806777
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/preferred-bank-declares-080-quarterly-dividend-93CH-4904588",
-    "title": "Preferred Bank declares $0.80 quarterly dividend",
-    "tokens": [
-      "bank",
-      "declares",
-      "dividend",
-      "preferred",
-      "quarterly"
-    ],
-    "ts": 1789594100.2197707
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-193-4904587",
-    "title": "Russia stocks lower at close of trade; MOEX Russia Index down 1.93%",
-    "tokens": [
-      "close",
-      "index",
-      "lower",
-      "moex",
-      "russia",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789594106.7739778
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/feds-warsh-lays-out-forces-driving-up-bond-yields-4904580",
-    "title": "Fed’s Warsh lays out forces driving up bond yields",
-    "tokens": [
-      "bond",
-      "driving",
-      "fed",
-      "forces",
-      "lays",
-      "warsh",
-      "yields"
-    ],
-    "ts": 1789594118.7924075
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/major-us-banks-raise-prime-lending-rate-after-fed-hike-93CH-4904586",
-    "title": "Major US banks raise prime lending rate after Fed hike",
-    "tokens": [
-      "banks",
-      "fed",
-      "hike",
-      "lending",
-      "major",
-      "prime",
-      "raise",
-      "rate"
-    ],
-    "ts": 1789594126.080134
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cvb-financial-declares-020-quarterly-dividend-93CH-4904584",
-    "title": "CVB Financial declares $0.20 quarterly dividend",
-    "tokens": [
-      "cvb",
-      "declares",
-      "dividend",
-      "financial",
-      "quarterly"
-    ],
-    "ts": 1789594133.599079
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/clipper-realty-director-sam-levinson-buys-29879-in-common-stock-93CH-4904582",
-    "title": "Clipper Realty director Sam Levinson buys $29,879 in common stock",
-    "tokens": [
-      "879",
-      "buys",
-      "clipper",
-      "common",
-      "director",
-      "levinson",
-      "realty",
-      "sam",
-      "stock"
-    ],
-    "ts": 1789594140.8269784
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/fitch-cuts-flowers-foods-rating-to-bb-on-volume-pressures-93CH-4904579",
-    "title": "Fitch cuts Flowers Foods rating to ’BB+’ on volume pressures",
-    "tokens": [
-      "cuts",
-      "fitch",
-      "flowers",
-      "foods",
-      "pressures",
-      "rating",
-      "volume"
-    ],
-    "ts": 1789594147.898697
-  },
-  {
-    "id": "willis-towers-watson-stock-wtw-131710264.html",
-    "title": "Willis Towers Watson Stock: Is WTW Underperforming the Financial Service Sector?",
-    "tokens": [
-      "financial",
-      "sector",
-      "service",
-      "stock",
-      "towers",
-      "underperforming",
-      "watson",
-      "willis",
-      "wtw"
-    ],
-    "ts": 1789594156.0923476
-  },
-  {
-    "id": "dover-stock-underperforming-dow-131747663.html",
-    "title": "Is Dover Stock Underperforming the Dow?",
-    "tokens": [
-      "dover",
-      "dow",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1789594162.8527913
-  },
-  {
-    "id": "china-yuan-crude-oil-futures-133000430.html",
-    "title": "China’s Yuan Crude Oil Futures Jump to Record High",
-    "tokens": [
-      "china",
-      "crude",
-      "futures",
-      "high",
-      "jump",
-      "oil",
-      "record",
-      "yuan"
-    ],
-    "ts": 1789594166.8685822
-  },
-  {
-    "id": "carters-rebrands-logo-watch-them-132131573.html",
-    "title": "Carter's rebrands with new logo and Watch Them Glow campaign",
-    "tokens": [
-      "campaign",
-      "carter",
-      "glow",
-      "logo",
-      "rebrands",
-      "them",
-      "watch"
-    ],
-    "ts": 1789594169.7671452
-  },
-  {
     "id": "fortive-stock-underperforming-nasdaq-131520272.html",
     "title": "Is Fortive Stock Underperforming the Nasdaq?",
     "tokens": [
@@ -23173,5 +22940,235 @@
       "share"
     ],
     "ts": 1789740843.2221313
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-almonty-industries-stock-buy-rating-93CH-4907561",
+    "title": "D.A. Davidson reiterates Almonty Industries stock buy rating",
+    "tokens": [
+      "almonty",
+      "buy",
+      "davidson",
+      "industries",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1789741635.7336843
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-buy-on-evi-industries-stock-32-target-93CH-4907560",
+    "title": "DA Davidson reiterates Buy on EVI Industries stock, $32 target",
+    "tokens": [
+      "buy",
+      "davidson",
+      "evi",
+      "industries",
+      "reiterates",
+      "stock",
+      "target"
+    ],
+    "ts": 1789741645.199009
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-crane-nxt-stock-rating-on-currency-tech-strength-93CH-4907559",
+    "title": "DA Davidson reiterates Crane NXT stock rating on currency tech strength",
+    "tokens": [
+      "crane",
+      "currency",
+      "davidson",
+      "nxt",
+      "rating",
+      "reiterates",
+      "stock",
+      "strength",
+      "tech"
+    ],
+    "ts": 1789741655.2677512
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hsbc-expands-premier-banking-services-in-the-us-93CH-4907558",
+    "title": "HSBC expands Premier banking services in the US",
+    "tokens": [
+      "banking",
+      "expands",
+      "hsbc",
+      "premier",
+      "services"
+    ],
+    "ts": 1789741666.3307
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/goldcom-director-jeffrey-d-benjamin-sells-108m-in-shares-93CH-4907557",
+    "title": "Gold.com director Jeffrey D. Benjamin sells $1.08m in shares",
+    "tokens": [
+      "08m",
+      "benjamin",
+      "com",
+      "director",
+      "gold",
+      "jeffrey",
+      "sells",
+      "shares"
+    ],
+    "ts": 1789741676.681179
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/alphabet-c-stuck-in-chop-zone-at-341-hourly-levels-93CH-4899897",
+    "title": "Alphabet C stalls at $355 resistance after surge: Live levels",
+    "tokens": [
+      "355",
+      "alphabet",
+      "levels",
+      "live",
+      "resistance",
+      "stalls",
+      "surge"
+    ],
+    "ts": 1789741687.0920572
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/dow-jones-tests-50sma-resistance-at-52931-live-levels-93CH-4899894",
+    "title": "Dow Jones oversold near 51,614 support: Live levels",
+    "tokens": [
+      "614",
+      "dow",
+      "jones",
+      "levels",
+      "live",
+      "near",
+      "oversold",
+      "support"
+    ],
+    "ts": 1789741696.8726518
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tesla-trapped-in-350370-range-bull-flag-70-done-live-levels-93CH-4899895",
+    "title": "Tesla trapped between $357-$378 in tight range: Live levels",
+    "tokens": [
+      "357",
+      "378",
+      "between",
+      "levels",
+      "live",
+      "range",
+      "tesla",
+      "tight",
+      "trapped"
+    ],
+    "ts": 1789741705.3684075
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nasdaq-100-coils-in-tight-range-near-doji-live-levels-93CH-4899896",
+    "title": "Nasdaq 100 stalls at 61.8% Fibonacci resistance: Live levels",
+    "tokens": [
+      "100",
+      "fibonacci",
+      "levels",
+      "live",
+      "nasdaq",
+      "resistance",
+      "stalls"
+    ],
+    "ts": 1789741715.2354753
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sp-500-tests-7710-resistance-in-bullbear-trap-zone-live-93CH-4899890",
+    "title": "S&P 500 stuck in 7,600-7,760 consolidation: Live levels",
+    "tokens": [
+      "500",
+      "600",
+      "760",
+      "consolidation",
+      "levels",
+      "live",
+      "stuck"
+    ],
+    "ts": 1789741725.953851
+  },
+  {
+    "id": "xeinadin-appoints-john-dwyer-chairman-141529085.html",
+    "title": "Xeinadin appoints John Dwyer as new chairman",
+    "tokens": [
+      "appoints",
+      "chairman",
+      "dwyer",
+      "john",
+      "xeinadin"
+    ],
+    "ts": 1789741735.3909853
+  },
+  {
+    "id": "sp-500-wavers-after-best-one-day-rally-in-six-weeks-alphacheck-141322068.html",
+    "title": "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+    "tokens": [
+      "500",
+      "alphacheck",
+      "best",
+      "day",
+      "one",
+      "rally",
+      "six",
+      "wavers",
+      "weeks"
+    ],
+    "ts": 1789741746.524389
+  },
+  {
+    "id": "makes-ryan-specialty-holdings-ryan-140405924.html",
+    "title": "What Makes Ryan Specialty Holdings (RYAN) an Attractive Opportunity?",
+    "tokens": [
+      "attractive",
+      "holdings",
+      "makes",
+      "opportunity",
+      "ryan",
+      "specialty",
+      "what"
+    ],
+    "ts": 1789741758.504515
+  },
+  {
+    "id": "accenture-acn-positioned-sustain-long-135755570.html",
+    "title": "Accenture (ACN) Positioned to Sustain Its Long-Term Competitive Position",
+    "tokens": [
+      "accenture",
+      "acn",
+      "competitive",
+      "long",
+      "position",
+      "positioned",
+      "sustain",
+      "term"
+    ],
+    "ts": 1789741768.934746
+  },
+  {
+    "id": "betting-against-banks-faz-actually-140538372.html",
+    "title": "Betting Against Banks With FAZ? You’re Actually Shorting Insurers and Brokers",
+    "tokens": [
+      "actually",
+      "against",
+      "banks",
+      "betting",
+      "brokers",
+      "faz",
+      "insurers",
+      "shorting",
+      "you"
+    ],
+    "ts": 1789741781.0117028
+  },
+  {
+    "id": "types-student-loans-203055156.html",
+    "title": "Types of student loans and how to choose one",
+    "tokens": [
+      "choose",
+      "how",
+      "loans",
+      "one",
+      "student",
+      "types"
+    ],
+    "ts": 1789741792.5478375
   }
 ]

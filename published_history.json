@@ -1,258 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/new-zealand-q2-gdp-up-more-than-expected-but-growth-remains-sluggish-93CH-4904691",
-    "title": "New Zealand Q2 GDP up more than expected, but growth remains sluggish",
-    "tokens": [
-      "expected",
-      "gdp",
-      "growth",
-      "more",
-      "remains",
-      "sluggish",
-      "zealand"
-    ],
-    "ts": 1789602653.5111642
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/academy-sports-president-samuel-johnson-sells-5-million-in-stock-93CH-4904690",
-    "title": "Academy sports president Samuel Johnson sells $5 million in stock",
-    "tokens": [
-      "academy",
-      "johnson",
-      "million",
-      "president",
-      "samuel",
-      "sells",
-      "sports",
-      "stock"
-    ],
-    "ts": 1789602660.0869663
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/planet-fitness-director-tanco-buys-119259-in-stock-93CH-4904689",
-    "title": "Planet Fitness director Tanco buys $119,259 in stock",
-    "tokens": [
-      "119",
-      "259",
-      "buys",
-      "director",
-      "fitness",
-      "planet",
-      "stock",
-      "tanco"
-    ],
-    "ts": 1789602666.4797165
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/stonexs-diego-rotsztain-sells-345m-in-stock-93CH-4904688",
-    "title": "StoneX’s Diego Rotsztain sells $3.45m in stock",
-    "tokens": [
-      "45m",
-      "diego",
-      "rotsztain",
-      "sells",
-      "stock",
-      "stonex"
-    ],
-    "ts": 1789602673.533634
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/roku-cfo--coo-jedda-sells-11m-in-stock-93CH-4904687",
-    "title": "Roku CFO & COO Jedda sells $1.1m in stock",
-    "tokens": [
-      "cfo",
-      "coo",
-      "jedda",
-      "roku",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789602680.3720288
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/tela-bio-director-capper-acquires-78442-in-company-stock-93CH-4904709",
-    "title": "Tela Bio director Capper acquires $78,442 in company stock",
-    "tokens": [
-      "442",
-      "acquires",
-      "bio",
-      "capper",
-      "company",
-      "director",
-      "stock",
-      "tela"
-    ],
-    "ts": 1789604049.5192354
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/billiontoone-ceo-oguzhan-atay-sells-25m-in-company-stock-93CH-4904708",
-    "title": "BillionToOne CEO Oguzhan Atay sells $2.5m in company stock",
-    "tokens": [
-      "atay",
-      "billiontoone",
-      "ceo",
-      "company",
-      "oguzhan",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789604057.292751
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/kingsway-corp-cfo-hansen-acquires-1561-in-kwy-stock-93CH-4904707",
-    "title": "Kingsway Corp CFO Hansen acquires $1,561 in KWY stock",
-    "tokens": [
-      "561",
-      "acquires",
-      "cfo",
-      "corp",
-      "hansen",
-      "kingsway",
-      "kwy",
-      "stock"
-    ],
-    "ts": 1789604064.2556543
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/axos-financial-director-nick-mosich-sells-124950-in-shares-93CH-4904706",
-    "title": "Axos Financial director Nick Mosich sells $124,950 in shares",
-    "tokens": [
-      "124",
-      "950",
-      "axos",
-      "director",
-      "financial",
-      "mosich",
-      "nick",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789604071.535431
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/kingsway-corp-president--ceo-fitzgerald-buys-2494-in-stock-93CH-4904705",
-    "title": "Kingsway Corp president & CEO Fitzgerald buys $2,494 in stock",
-    "tokens": [
-      "494",
-      "buys",
-      "ceo",
-      "corp",
-      "fitzgerald",
-      "kingsway",
-      "president",
-      "stock"
-    ],
-    "ts": 1789604078.269275
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/snap-targets-enterprises-with-salesforce-nvidia-ai-tools-for-augmentedreality-glasses-4904699",
-    "title": "Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses",
-    "tokens": [
-      "augmented",
-      "enterprises",
-      "glasses",
-      "nvidia",
-      "reality",
-      "salesforce",
-      "snap",
-      "targets",
-      "tools"
-    ],
-    "ts": 1789604086.4005487
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/rxo-at-morgan-stanley-laguna-conference-share-gains-lift-outlook-93CH-4904701",
-    "title": "RXO at Morgan Stanley laguna conference: share gains lift outlook",
-    "tokens": [
-      "conference",
-      "gains",
-      "laguna",
-      "lift",
-      "morgan",
-      "outlook",
-      "rxo",
-      "share",
-      "stanley"
-    ],
-    "ts": 1789604093.37672
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/snap-launches-specs-intelligence-ai-service-across-devices-93CH-4904700",
-    "title": "Snap launches SPECS Intelligence AI service across devices",
-    "tokens": [
-      "across",
-      "devices",
-      "intelligence",
-      "launches",
-      "service",
-      "snap",
-      "specs"
-    ],
-    "ts": 1789604099.9690382
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/watsco-at-morgan-stanleys-14th-annual-laguna-conference-scale-and-tech-93CH-4904698",
-    "title": "Watsco at Morgan Stanley’s 14th Annual Laguna Conference: scale and tech",
-    "tokens": [
-      "14th",
-      "annual",
-      "conference",
-      "laguna",
-      "morgan",
-      "scale",
-      "stanley",
-      "tech",
-      "watsco"
-    ],
-    "ts": 1789604107.103754
-  },
-  {
-    "id": "kestra-medical-technologies-ltd-q1-123000305.html",
-    "title": "KESTRA MEDICAL TECHNOLOGIES, LTD. Q1 2027 Earnings Call Summary",
-    "tokens": [
-      "2027",
-      "call",
-      "earnings",
-      "kestra",
-      "ltd",
-      "medical",
-      "summary",
-      "technologies"
-    ],
-    "ts": 1789604114.5665212
-  },
-  {
-    "id": "oilprice-article-45527",
-    "title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
-    "tokens": [
-      "crisis",
-      "export",
-      "floor",
-      "higher",
-      "hormuz",
-      "oil",
-      "routes",
-      "saudi",
-      "sees",
-      "spreads",
-      "stanchart"
-    ],
-    "ts": 1789604123.8723545
-  },
-  {
-    "id": "oilprice-news-45527",
-    "title": "Continental Strikes Venezuela Oil Deal with PDVSA",
-    "tokens": [
-      "continental",
-      "deal",
-      "oil",
-      "pdvsa",
-      "strikes",
-      "venezuela"
-    ],
-    "ts": 1789604127.8894386
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/ouster-president-and-ceo-angus-pacala-sells-103m-in-stock-93CH-4904716",
     "title": "Ouster president and CEO Angus Pacala sells $1.03m in stock",
     "tokens": [
@@ -23183,5 +22930,260 @@
       "warn"
     ],
     "ts": 1789750304.7632697
+  },
+  {
+    "id": "WP-MKTW-0005241143",
+    "title": "What’s really driving inflation and rising interest rates",
+    "tokens": [
+      "driving",
+      "inflation",
+      "interest",
+      "rates",
+      "really",
+      "rising",
+      "what"
+    ],
+    "ts": 1789751397.330377
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/mbappe-leaves-nike-signs-with-on-as-swiss-sportswear-maker-forays-into-soccer-4907702",
+    "title": "Mbappe leaves Nike, signs with On as Swiss sportswear maker forays into soccer",
+    "tokens": [
+      "forays",
+      "leaves",
+      "maker",
+      "mbappe",
+      "nike",
+      "signs",
+      "soccer",
+      "sportswear",
+      "swiss"
+    ],
+    "ts": 1789751407.9174519
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/auto-industry-urges-trump-to-keep-chinese-automakers-out-ahead-of-xi-meeting-4907712",
+    "title": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting",
+    "tokens": [
+      "ahead",
+      "auto",
+      "automakers",
+      "chinese",
+      "industry",
+      "keep",
+      "meeting",
+      "trump",
+      "urges"
+    ],
+    "ts": 1789751419.0962563
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tempus-ai-outlook-revenue-growth-and-risks-in-focus-93CH-4907711",
+    "title": "Tempus AI outlook: revenue growth and risks in focus",
+    "tokens": [
+      "focus",
+      "growth",
+      "outlook",
+      "revenue",
+      "risks",
+      "tempus"
+    ],
+    "ts": 1789751428.9932358
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/adobe-vs-intuit-valuation-growth-and-analyst-conviction-compared-93CH-4907708",
+    "title": "Adobe vs Intuit: valuation, growth, and analyst conviction compared",
+    "tokens": [
+      "adobe",
+      "analyst",
+      "compared",
+      "conviction",
+      "growth",
+      "intuit",
+      "valuation"
+    ],
+    "ts": 1789751441.2811823
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sl-science-holding-ltd-stock-hits-52week-low-at-174-usd-93CH-4907707",
+    "title": "Sl Science Holding Ltd stock hits 52-week low at 1.74 USD",
+    "tokens": [
+      "hits",
+      "holding",
+      "low",
+      "ltd",
+      "science",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1789751452.7512124
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-10-owner-buys-2298-renn-fund-stock-93CH-4907706",
+    "title": "Horizon Kinetics Asset Management, 10% owner, buys $2,298 RENN fund stock",
+    "tokens": [
+      "298",
+      "asset",
+      "buys",
+      "fund",
+      "horizon",
+      "kinetics",
+      "management",
+      "owner",
+      "renn",
+      "stock"
+    ],
+    "ts": 1789751463.1169748
+  },
+  {
+    "id": "why-sandisk-stock-rallied-today-165646280.html",
+    "title": "Why Sandisk Stock Rallied Today",
+    "tokens": [
+      "rallied",
+      "sandisk",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789751474.3458998
+  },
+  {
+    "id": "gilead-strengthens-hiv-growth-platform-165122348.html",
+    "title": "Gilead Strengthens HIV Growth Platform with Expanded Latin America Access",
+    "tokens": [
+      "access",
+      "america",
+      "expanded",
+      "gilead",
+      "growth",
+      "hiv",
+      "latin",
+      "platform",
+      "strengthens"
+    ],
+    "ts": 1789751484.597619
+  },
+  {
+    "id": "auto-industry-urges-trump-keep-164913146.html",
+    "title": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting",
+    "tokens": [
+      "ahead",
+      "auto",
+      "automakers",
+      "chinese",
+      "industry",
+      "keep",
+      "meeting",
+      "trump",
+      "urges"
+    ],
+    "ts": 1789751488.6147847
+  },
+  {
+    "id": "truist-reshapes-lending-strategy-5-164856583.html",
+    "title": "Truist Reshapes Lending Strategy with $5.5B Auto-Loan Sale",
+    "tokens": [
+      "auto",
+      "lending",
+      "loan",
+      "reshapes",
+      "sale",
+      "strategy",
+      "truist"
+    ],
+    "ts": 1789751495.4879086
+  },
+  {
+    "id": "jpmorgan-sees-investment-banking-trading-164740809.html",
+    "title": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
+    "tokens": [
+      "banking",
+      "growth",
+      "investment",
+      "jpmorgan",
+      "powering",
+      "sees",
+      "trading"
+    ],
+    "ts": 1789751506.7596915
+  },
+  {
+    "id": "vista-energys-2026-outlook-shale-165601160.html",
+    "title": "Vista Energy's 2026 Outlook: Shale Expansion Drives 70% Adjusted EBITDA Margins",
+    "tokens": [
+      "2026",
+      "adjusted",
+      "drives",
+      "ebitda",
+      "energy",
+      "expansion",
+      "margins",
+      "outlook",
+      "shale",
+      "vista"
+    ],
+    "ts": 1789751517.25103
+  },
+  {
+    "id": "abbvie-dividend-growth-remains-solid-164620099.html",
+    "title": "AbbVie’s Dividend Growth Remains Solid Despite a Moderate Yield",
+    "tokens": [
+      "abbvie",
+      "despite",
+      "dividend",
+      "growth",
+      "moderate",
+      "remains",
+      "solid",
+      "yield"
+    ],
+    "ts": 1789751530.8838794
+  },
+  {
+    "id": "verizon-dividend-story-reliable-income-164507682.html",
+    "title": "Verizon’s Dividend Story: Reliable Income with Gradual Growth",
+    "tokens": [
+      "dividend",
+      "gradual",
+      "growth",
+      "income",
+      "reliable",
+      "story",
+      "verizon"
+    ],
+    "ts": 1789751541.5932443
+  },
+  {
+    "id": "u-bancorp-delivers-another-dividend-164337595.html",
+    "title": "U.S. Bancorp Delivers Another Dividend Increase: Assessing the Payout",
+    "tokens": [
+      "another",
+      "assessing",
+      "bancorp",
+      "delivers",
+      "dividend",
+      "increase",
+      "payout"
+    ],
+    "ts": 1789751553.7350035
+  },
+  {
+    "id": "montly-dividend-stock-136th-dividend-164227349.html",
+    "title": "This Montly Dividend Stock’s 136th Dividend Hike Highlights its Long-Term Income Track Record",
+    "tokens": [
+      "136th",
+      "dividend",
+      "highlights",
+      "hike",
+      "income",
+      "long",
+      "montly",
+      "record",
+      "stock",
+      "term",
+      "track"
+    ],
+    "ts": 1789751563.2511027
   }
 ]

@@ -1,64 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/jasper-therapeutics-at-hc-wainwright-cash-and-catalysts-93CH-4903687",
-    "title": "Jasper Therapeutics at H.C. Wainwright: cash and catalysts",
-    "tokens": [
-      "cash",
-      "catalysts",
-      "jasper",
-      "therapeutics",
-      "wainwright"
-    ],
-    "ts": 1789562278.8453887
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-abbvie-stock-rating-on-drug-data-93CH-4903680",
-    "title": "Cantor Fitzgerald reiterates Abbvie stock rating on drug data",
-    "tokens": [
-      "abbvie",
-      "cantor",
-      "data",
-      "drug",
-      "fitzgerald",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1789562285.568102
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/nobel-laureate-michael-kremer-named-world-bank-chief-economist-93CH-4903679",
-    "title": "Nobel laureate Michael Kremer named World Bank chief economist",
-    "tokens": [
-      "bank",
-      "chief",
-      "economist",
-      "kremer",
-      "laureate",
-      "michael",
-      "named",
-      "nobel",
-      "world"
-    ],
-    "ts": 1789562293.387378
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tsx-futures-rise-ahead-of-federal-reserve-interest-rate-decision-4903677",
-    "title": "TSX futures rise ahead of Federal Reserve interest rate decision",
-    "tokens": [
-      "ahead",
-      "decision",
-      "federal",
-      "futures",
-      "interest",
-      "rate",
-      "reserve",
-      "rise",
-      "tsx"
-    ],
-    "ts": 1789562300.2910607
-  },
-  {
     "id": "https://www.investing.com/news/economic-indicators/retail-sales-surge-surpassing-expectations-and-previous-figures-93CH-4903673",
     "title": "Retail sales surge, surpassing expectations and previous figures",
     "tokens": [
@@ -23129,5 +23070,69 @@
       "zcash"
     ],
     "ts": 1789708287.9029236
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/apple-pay-eyes-india-rollout-with-axis-bank-sources-say-4906675",
+    "title": "Apple Pay eyes India rollout with Axis Bank, sources say",
+    "tokens": [
+      "apple",
+      "axis",
+      "bank",
+      "eyes",
+      "india",
+      "pay",
+      "rollout",
+      "say",
+      "sources"
+    ],
+    "ts": 1789709118.235873
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
+    "title": "Asia FX mixed as yen slides despite BOJ rate hike",
+    "tokens": [
+      "asia",
+      "boj",
+      "despite",
+      "hike",
+      "mixed",
+      "rate",
+      "slides",
+      "yen"
+    ],
+    "ts": 1789709125.455796
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/airline-oil-exposure-winners-and-losers-as-jet-fuel-costs-surge-93CH-4906676",
+    "title": "Airline oil exposure: winners and losers as jet fuel costs surge",
+    "tokens": [
+      "airline",
+      "costs",
+      "exposure",
+      "fuel",
+      "jet",
+      "losers",
+      "oil",
+      "surge",
+      "winners"
+    ],
+    "ts": 1789709132.6161866
+  },
+  {
+    "id": "ba81709f-07b3-49bd-a997-a9484c8280c5",
+    "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
+    "tokens": [
+      "builders",
+      "chain",
+      "confirms",
+      "could",
+      "dates",
+      "ethereum",
+      "fake",
+      "glamsterdam",
+      "stall",
+      "warns"
+    ],
+    "ts": 1789709141.6317482
   }
 ]

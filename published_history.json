@@ -1,84 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/us-dfc-approves-500-million-in-guarantees-to-boost-us-exports-to-emerging-markets-4904227",
-    "title": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
-    "tokens": [
-      "500",
-      "approves",
-      "boost",
-      "dfc",
-      "emerging",
-      "exports",
-      "guarantees",
-      "markets",
-      "million"
-    ],
-    "ts": 1789581217.7252693
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/dow-at-morgan-stanley-laguna-conference-cost-cuts-and-portfolio-shift-93CH-4904230",
-    "title": "Dow at Morgan Stanley laguna conference: cost cuts and portfolio shift",
-    "tokens": [
-      "conference",
-      "cost",
-      "cuts",
-      "dow",
-      "laguna",
-      "morgan",
-      "portfolio",
-      "shift",
-      "stanley"
-    ],
-    "ts": 1789581225.9786603
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/protalix-at-morgan-stanley-conference-raredisease-growth-in-focus-93CH-4904229",
-    "title": "Protalix at Morgan Stanley conference: rare-disease growth in focus",
-    "tokens": [
-      "conference",
-      "disease",
-      "focus",
-      "growth",
-      "morgan",
-      "protalix",
-      "rare",
-      "stanley"
-    ],
-    "ts": 1789581233.0368438
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/impulse-space-raises-308m-in-series-d-extension-on-space-mobility-demand-93CH-4904228",
-    "title": "Impulse Space raises $308M in Series D extension on space mobility demand",
-    "tokens": [
-      "308m",
-      "demand",
-      "extension",
-      "impulse",
-      "mobility",
-      "raises",
-      "series",
-      "space"
-    ],
-    "ts": 1789581240.1688132
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bank-of-canada-saw-elevated-inflation-risks-at-september-meeting-minutes-show-4904226",
-    "title": "Bank of Canada saw elevated inflation risks at September meeting, minutes show",
-    "tokens": [
-      "bank",
-      "canada",
-      "elevated",
-      "inflation",
-      "meeting",
-      "minutes",
-      "risks",
-      "saw",
-      "september",
-      "show"
-    ],
-    "ts": 1789581247.0905416
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/macerich-at-bofa-ny-global-real-estate-conference-2026-path-forward-gains-93CH-4904225",
     "title": "Macerich at bofa ny global real estate conference 2026: path forward gains",
     "tokens": [
@@ -23131,5 +23052,92 @@
       "turned"
     ],
     "ts": 1789727298.087261
+  },
+  {
+    "id": "WP-MKTW-0005241027",
+    "title": "Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman",
+    "tokens": [
+      "becomes",
+      "berkshire",
+      "buffett",
+      "chairman",
+      "exits",
+      "hathaway",
+      "his",
+      "howard",
+      "son",
+      "warren"
+    ],
+    "ts": 1789728118.0595438
+  },
+  {
+    "id": "WP-MKTW-0005224914",
+    "title": "A sideways market and rising earnings are presenting opportunities not seen since ChatGPT first launched",
+    "tokens": [
+      "chatgpt",
+      "earnings",
+      "first",
+      "launched",
+      "market",
+      "opportunities",
+      "presenting",
+      "rising",
+      "seen",
+      "sideways",
+      "since"
+    ],
+    "ts": 1789728125.525477
+  },
+  {
+    "id": "reps-lawler-gottheimer-speak-fed-223051843.html",
+    "title": "Reps. Lawler and Gottheimer Speak on Fed Rate Decision, AI Bill",
+    "tokens": [
+      "bill",
+      "decision",
+      "fed",
+      "gottheimer",
+      "lawler",
+      "rate",
+      "reps",
+      "speak"
+    ],
+    "ts": 1789728135.7736967
+  },
+  {
+    "id": "alcoa-aa-priced-2-6-223109134.html",
+    "title": "Alcoa (AA) Priced $2.6 Billion of Acquisition Notes. Can the Assets Cover $175 Million in Interest?",
+    "tokens": [
+      "175",
+      "acquisition",
+      "alcoa",
+      "assets",
+      "billion",
+      "can",
+      "cover",
+      "interest",
+      "million",
+      "notes",
+      "priced"
+    ],
+    "ts": 1789728144.258544
+  },
+  {
+    "id": "5efa9c31-eb8f-4f26-8e65-70e0a42859a7",
+    "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+    "tokens": [
+      "advance",
+      "broad",
+      "crypto",
+      "defi",
+      "fade",
+      "fed",
+      "hike",
+      "layer",
+      "lead",
+      "nerves",
+      "post",
+      "tokens"
+    ],
+    "ts": 1789728152.886473
   }
 ]

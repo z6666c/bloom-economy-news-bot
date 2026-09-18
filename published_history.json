@@ -1,214 +1,5 @@
 [
   {
-    "id": "879185aa-9211-4a4d-bd5c-d6c331e35c36",
-    "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
-    "tokens": [
-      "adds",
-      "developer",
-      "kit",
-      "payments",
-      "ripple",
-      "standard",
-      "stripe",
-      "tempo",
-      "xrp"
-    ],
-    "ts": 1789631754.5745816
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/germanys-imk-institute-more-than-doubles-economic-growth-forecast-for-2026-4904962",
-    "title": "Germany’s IMK institute more than doubles economic growth forecast for 2026",
-    "tokens": [
-      "2026",
-      "doubles",
-      "economic",
-      "forecast",
-      "germany",
-      "growth",
-      "imk",
-      "institute",
-      "more"
-    ],
-    "ts": 1789632724.3432324
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-peloton-stock-rating-on-growth-concerns-93CH-4904961",
-    "title": "Morgan Stanley cuts Peloton stock rating on growth concerns",
-    "tokens": [
-      "concerns",
-      "cuts",
-      "growth",
-      "morgan",
-      "peloton",
-      "rating",
-      "stanley",
-      "stock"
-    ],
-    "ts": 1789632731.2271702
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/thungela-share-plan-sells-4042-forfeited-shares-onmarket-93CH-4904960",
-    "title": "Thungela share plan sells 4,042 forfeited shares on-market",
-    "tokens": [
-      "042",
-      "forfeited",
-      "market",
-      "plan",
-      "sells",
-      "share",
-      "shares",
-      "thungela"
-    ],
-    "ts": 1789632738.5681276
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tempsens-q1-fy27-slides-show-strong-growth-investmentled-margin-dip-93CH-4904959",
-    "title": "Tempsens Q1 FY27 slides show strong growth, investment-led margin dip",
-    "tokens": [
-      "dip",
-      "fy27",
-      "growth",
-      "investment",
-      "led",
-      "margin",
-      "show",
-      "slides",
-      "strong",
-      "tempsens"
-    ],
-    "ts": 1789632746.2682612
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/beauty-tech-group-h1-2026-slides-ebitda-guidance-raised-on-margin-gains-93CH-4904957",
-    "title": "Beauty Tech Group H1 2026 slides: EBITDA guidance raised on margin gains",
-    "tokens": [
-      "2026",
-      "beauty",
-      "ebitda",
-      "gains",
-      "group",
-      "guidance",
-      "margin",
-      "raised",
-      "slides",
-      "tech"
-    ],
-    "ts": 1789632754.2616627
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/berenberg-initiates-ocado-stock-with-buy-on-automation-demand-93CH-4904955",
-    "title": "Berenberg initiates Ocado stock with buy on automation demand",
-    "tokens": [
-      "automation",
-      "berenberg",
-      "buy",
-      "demand",
-      "initiates",
-      "ocado",
-      "stock"
-    ],
-    "ts": 1789632761.72507
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/beauty-tech-group-h1-2026-slides-revenue-up-44-ebitda-guidance-raised-93CH-4904954",
-    "title": "Beauty Tech Group H1 2026 slides: revenue up 44%, EBITDA guidance raised",
-    "tokens": [
-      "2026",
-      "beauty",
-      "ebitda",
-      "group",
-      "guidance",
-      "raised",
-      "revenue",
-      "slides",
-      "tech"
-    ],
-    "ts": 1789632765.741793
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/precision-biosciences-at-hc-wainwright-conference-two-shots-on-goal-93CH-4904953",
-    "title": "Precision BioSciences at H.C. Wainwright conference: two shots on goal",
-    "tokens": [
-      "biosciences",
-      "conference",
-      "goal",
-      "precision",
-      "shots",
-      "two",
-      "wainwright"
-    ],
-    "ts": 1789632768.616456
-  },
-  {
-    "id": "fuel-crisis-hits-home-even-200703202.html",
-    "title": "Fuel Crisis Hits Home — Even Costco Hikes Prices, Limits Purchases on Kirkland Motor Oil",
-    "tokens": [
-      "costco",
-      "crisis",
-      "even",
-      "fuel",
-      "hikes",
-      "hits",
-      "home",
-      "kirkland",
-      "limits",
-      "motor",
-      "oil",
-      "prices",
-      "purchases"
-    ],
-    "ts": 1789632775.4034684
-  },
-  {
-    "id": "tesla-cybercab-launch-fizzles-leaving-201402004.html",
-    "title": "Tesla’s Cybercab Launch Fizzles, Leaving Waymo as the Robotaxi Leader",
-    "tokens": [
-      "cybercab",
-      "fizzles",
-      "launch",
-      "leader",
-      "leaving",
-      "robotaxi",
-      "tesla",
-      "waymo"
-    ],
-    "ts": 1789632782.7011719
-  },
-  {
-    "id": "bitcoin-price-clarity-act-crypto-cathie-wood-c2471654?siteid=yhoof2&yptr=yahoo",
-    "title": "Bitcoin Falls as Clarity Act Fails to Advance. Why Cathie Wood’s Dumping Crypto Stocks.",
-    "tokens": [
-      "act",
-      "advance",
-      "bitcoin",
-      "cathie",
-      "clarity",
-      "crypto",
-      "dumping",
-      "fails",
-      "falls",
-      "stocks",
-      "why",
-      "wood"
-    ],
-    "ts": 1789632790.4310079
-  },
-  {
-    "id": "fed-rate-predictions-2026-154647304.html",
-    "title": "Fed predictions for 2026: Will a rate hike happen by the end of the year?",
-    "tokens": [
-      "2026",
-      "end",
-      "fed",
-      "happen",
-      "hike",
-      "predictions",
-      "rate",
-      "year"
-    ],
-    "ts": 1789632797.5393994
-  },
-  {
     "id": "jim-cramer-procter-gamble-pg-201618562.html",
     "title": "Jim Cramer on Procter & Gamble (PG): “They Don’t Have the Growth That I Want”",
     "tokens": [
@@ -23211,5 +23002,214 @@
       "why"
     ],
     "ts": 1789766862.2208135
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/moleculin-biotech-receives-nasdaq-delisting-notice-after-minimum-bid-price-violation-93CH-4907937",
+    "title": "Moleculin Biotech receives Nasdaq delisting notice after minimum bid price violation",
+    "tokens": [
+      "bid",
+      "biotech",
+      "delisting",
+      "minimum",
+      "moleculin",
+      "nasdaq",
+      "notice",
+      "price",
+      "receives",
+      "violation"
+    ],
+    "ts": 1789767512.996384
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-078-4907933",
+    "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.78%",
+    "tokens": [
+      "bmv",
+      "close",
+      "ipc",
+      "lower",
+      "mexico",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1789767517.012608
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/honeywell-wins-539m-navy-contract-for-navigation-parts-93CH-4907932",
+    "title": "Honeywell wins $53.9M Navy contract for navigation parts",
+    "tokens": [
+      "contract",
+      "honeywell",
+      "navigation",
+      "navy",
+      "parts",
+      "wins"
+    ],
+    "ts": 1789767522.1068976
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/leidos-wins-85m-air-force-contract-for-aerospace-design-93CH-4907931",
+    "title": "Leidos wins $85m Air Force contract for aerospace design",
+    "tokens": [
+      "85m",
+      "aerospace",
+      "air",
+      "contract",
+      "design",
+      "force",
+      "leidos",
+      "wins"
+    ],
+    "ts": 1789767526.1228254
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/lockheed-martin-wins-871-million-f35-contract-modification-93CH-4907930",
+    "title": "Lockheed Martin wins $871 million F-35 contract modification",
+    "tokens": [
+      "871",
+      "contract",
+      "lockheed",
+      "martin",
+      "million",
+      "modification",
+      "wins"
+    ],
+    "ts": 1789767531.4644778
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/paradiumai-enters-tenyear-platform-agreement-with-rtb-digital-and-minority-stake-sale-is-planned-93CH-4907929",
+    "title": "Paradium.AI enters ten-year platform agreement with RTB Digital and minority stake sale is planned",
+    "tokens": [
+      "agreement",
+      "digital",
+      "enters",
+      "minority",
+      "paradium",
+      "planned",
+      "platform",
+      "rtb",
+      "sale",
+      "stake",
+      "ten",
+      "year"
+    ],
+    "ts": 1789767541.03191
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-105-4907927",
+    "title": "Colombia stocks higher at close of trade; COLCAP up 1.05%",
+    "tokens": [
+      "close",
+      "colcap",
+      "colombia",
+      "higher",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1789767545.047731
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cleanspark-prices-228-billion-senior-secured-notes-offering-93CH-4907926",
+    "title": "CleanSpark prices $2.28 billion senior secured notes offering",
+    "tokens": [
+      "billion",
+      "cleanspark",
+      "notes",
+      "offering",
+      "prices",
+      "secured",
+      "senior"
+    ],
+    "ts": 1789767549.9074373
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/trump-is-talking-with-senatesthune-about-bill-to-cut-datacenter-electricity-costs-4907925",
+    "title": "Trump is talking with Senate’s Thune about bill to cut data-center electricity costs",
+    "tokens": [
+      "about",
+      "bill",
+      "center",
+      "costs",
+      "cut",
+      "data",
+      "electricity",
+      "senate",
+      "talking",
+      "thune",
+      "trump"
+    ],
+    "ts": 1789767558.1366124
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/fusemachines-receives-nasdaq-notice-for-minimum-bid-price-noncompliance-93CH-4907923",
+    "title": "Fusemachines receives Nasdaq notice for minimum bid price non-compliance",
+    "tokens": [
+      "bid",
+      "compliance",
+      "fusemachines",
+      "minimum",
+      "nasdaq",
+      "non",
+      "notice",
+      "price",
+      "receives"
+    ],
+    "ts": 1789767566.7280192
+  },
+  {
+    "id": "conocophillips-sold-43-000-south-140542574.html",
+    "title": "ConocoPhillips Sold 43,000 South Texas Acres for $1.2 Billion. At 63, a Landowner Can Keep Getting Oil Royalties Without Social Security Calling Them Work.",
+    "tokens": [
+      "000",
+      "acres",
+      "billion",
+      "calling",
+      "can",
+      "conocophillips",
+      "getting",
+      "keep",
+      "landowner",
+      "oil",
+      "royalties",
+      "security",
+      "social",
+      "sold",
+      "south",
+      "texas",
+      "them",
+      "without",
+      "work"
+    ],
+    "ts": 1789767576.7515824
+  },
+  {
+    "id": "barrels-of-sake-and-rooftop-galas-energy-traders-toast-the-war-boom-5b4bdb1c?siteid=yhoof2&yptr=yahoo",
+    "title": "Barrels of Sake and Rooftop Galas: Energy Traders Toast the War Boom",
+    "tokens": [
+      "barrels",
+      "boom",
+      "energy",
+      "galas",
+      "rooftop",
+      "sake",
+      "toast",
+      "traders",
+      "war"
+    ],
+    "ts": 1789767584.471081
+  },
+  {
+    "id": "stocks-rally-crude-prices-bond-140517540.html",
+    "title": "Stocks Rally as Crude Prices and Bond Yields Fall",
+    "tokens": [
+      "bond",
+      "crude",
+      "fall",
+      "prices",
+      "rally",
+      "stocks",
+      "yields"
+    ],
+    "ts": 1789767593.3547704
   }
 ]

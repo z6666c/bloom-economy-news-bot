@@ -1,242 +1,5 @@
 [
   {
-    "id": "oilprice-news-45517",
-    "title": "Germany Weighs Market Incentives to Boost Record Low Gas Storage Level",
-    "tokens": [
-      "boost",
-      "gas",
-      "germany",
-      "incentives",
-      "level",
-      "low",
-      "market",
-      "record",
-      "storage",
-      "weighs"
-    ],
-    "ts": 1789582544.992175
-  },
-  {
-    "id": "d90d5b56-5dea-4b96-b4f4-46a3e945fb24",
-    "title": "Fed raises rates by 25 basis points in first hike since July 2023",
-    "tokens": [
-      "2023",
-      "basis",
-      "fed",
-      "first",
-      "hike",
-      "july",
-      "points",
-      "raises",
-      "rates",
-      "since"
-    ],
-    "ts": 1789582549.7422247
-  },
-  {
-    "id": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote",
-    "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
-    "tokens": [
-      "advances",
-      "committee",
-      "crypto",
-      "house",
-      "overhaul",
-      "tax",
-      "vote"
-    ],
-    "ts": 1789582557.3450475
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-    "title": "Federal Reserve issues FOMC statement",
-    "tokens": [
-      "federal",
-      "fomc",
-      "issues",
-      "reserve",
-      "statement"
-    ],
-    "ts": 1789582565.0785975
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-    "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-    "tokens": [
-      "board",
-      "committee",
-      "economic",
-      "federal",
-      "fomc",
-      "market",
-      "meeting",
-      "open",
-      "projections",
-      "release",
-      "reserve",
-      "september"
-    ],
-    "ts": 1789582573.671536
-  },
-  {
-    "id": "WP-MKTW-0005236993",
-    "title": "Warsh’s Fed rolls out first interest-rate hike in 3 years — with one more increase expected",
-    "tokens": [
-      "expected",
-      "fed",
-      "first",
-      "hike",
-      "increase",
-      "interest",
-      "more",
-      "one",
-      "rate",
-      "rolls",
-      "warsh",
-      "years"
-    ],
-    "ts": 1789583512.824314
-  },
-  {
-    "id": "WP-MKTW-0005236723",
-    "title": "Micron’s stock could climb 70% higher thanks to a factor that’s been largely absent so far",
-    "tokens": [
-      "absent",
-      "climb",
-      "could",
-      "factor",
-      "far",
-      "higher",
-      "largely",
-      "micron",
-      "stock",
-      "thanks"
-    ],
-    "ts": 1789583520.459815
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/udr-at-bofa-ny-global-real-estate-conference-2026-upbeat-on-2027-93CH-4904276",
-    "title": "UDR at BofA NY Global Real Estate Conference 2026: upbeat on 2027",
-    "tokens": [
-      "2026",
-      "2027",
-      "bofa",
-      "conference",
-      "estate",
-      "global",
-      "real",
-      "udr",
-      "upbeat"
-    ],
-    "ts": 1789583528.0029438
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/titan-america-stock-hits-52week-low-at-1389-usd-93CH-4904275",
-    "title": "Titan America stock hits 52-week low at 13.89 USD",
-    "tokens": [
-      "america",
-      "hits",
-      "low",
-      "stock",
-      "titan",
-      "usd",
-      "week"
-    ],
-    "ts": 1789583532.0185926
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/markets-steady-after-fed-raises-rates-points-to-another-hike-this-year-4904273",
-    "title": "Markets steady after Fed raises rates, points to another hike this year",
-    "tokens": [
-      "another",
-      "fed",
-      "hike",
-      "markets",
-      "points",
-      "raises",
-      "rates",
-      "steady",
-      "year"
-    ],
-    "ts": 1789583535.6130266
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-ciena-stock-surging-today-93CH-4904272",
-    "title": "Why is Ciena stock surging today?",
-    "tokens": [
-      "ciena",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789583539.62834
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/fed-forecasts-see-latest-hike-followed-by-another-before-end-of-year-4904264",
-    "title": "Fed forecasts see latest hike followed by another before end of year",
-    "tokens": [
-      "another",
-      "before",
-      "end",
-      "fed",
-      "followed",
-      "forecasts",
-      "hike",
-      "latest",
-      "see",
-      "year"
-    ],
-    "ts": 1789583543.8396347
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/firstservice-residential-enters-colorado-market-93CH-4904270",
-    "title": "FirstService Residential enters Colorado market",
-    "tokens": [
-      "colorado",
-      "enters",
-      "firstservice",
-      "market",
-      "residential"
-    ],
-    "ts": 1789583552.2609115
-  },
-  {
-    "id": "solana-price-forecast-sol-may-094010702.html",
-    "title": "Solana Price Forecast: SOL May Rise 50% Amid Rising Memecoin Activity",
-    "tokens": [
-      "activity",
-      "forecast",
-      "may",
-      "memecoin",
-      "price",
-      "rise",
-      "rising",
-      "sol",
-      "solana"
-    ],
-    "ts": 1789583561.1153677
-  },
-  {
-    "id": "10-000-investment-amazon-now-094000078.html",
-    "title": "What a $10,000 Investment in Amazon Now Would Be Worth if Its Anthropic Stake Gets Marked at $2 Trillion",
-    "tokens": [
-      "000",
-      "amazon",
-      "anthropic",
-      "gets",
-      "investment",
-      "marked",
-      "now",
-      "stake",
-      "trillion",
-      "what",
-      "worth",
-      "would"
-    ],
-    "ts": 1789583572.9848678
-  },
-  {
     "id": "acquisitions-doing-more-core-main-094332099.html",
     "title": "Acquisitions Are Doing More of the Work in Core & Main’s (CNM) Growth Story",
     "tokens": [
@@ -23088,5 +22851,239 @@
       "xrp"
     ],
     "ts": 1789730730.3444726
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/guggenheim-raises-eli-lilly-stock-price-target-to-1284-on-drug-growth-93CH-4907153",
+    "title": "Guggenheim raises Eli Lilly stock price target to $1,284 on drug growth",
+    "tokens": [
+      "284",
+      "drug",
+      "eli",
+      "growth",
+      "guggenheim",
+      "lilly",
+      "price",
+      "raises",
+      "stock",
+      "target"
+    ],
+    "ts": 1789731580.1135132
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/canaccord-reiterates-inter-parfums-stock-buy-rating-on-license-deal-93CH-4907152",
+    "title": "Canaccord reiterates Inter Parfums stock Buy rating on license deal",
+    "tokens": [
+      "buy",
+      "canaccord",
+      "deal",
+      "inter",
+      "license",
+      "parfums",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1789731590.4251835
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/canaccord-reiterates-planet-fitness-stock-rating-on-growth-outlook-93CH-4907151",
+    "title": "Canaccord reiterates Planet Fitness stock rating on growth outlook",
+    "tokens": [
+      "canaccord",
+      "fitness",
+      "growth",
+      "outlook",
+      "planet",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1789731600.5484595
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/guggenheim-raises-trade-desk-stock-price-target-on-cost-cuts-93CH-4907150",
+    "title": "Guggenheim raises Trade Desk stock price target on cost cuts",
+    "tokens": [
+      "cost",
+      "cuts",
+      "desk",
+      "guggenheim",
+      "price",
+      "raises",
+      "stock",
+      "target",
+      "trade"
+    ],
+    "ts": 1789731609.761578
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/guggenheim-raises-restaurant-brands-stock-price-target-on-turnaround-93CH-4907149",
+    "title": "Guggenheim raises Restaurant Brands stock price target on turnaround",
+    "tokens": [
+      "brands",
+      "guggenheim",
+      "price",
+      "raises",
+      "restaurant",
+      "stock",
+      "target",
+      "turnaround"
+    ],
+    "ts": 1789731618.8982897
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/canaccord-raises-ultragenyx-stock-price-target-on-gene-therapy-approval-93CH-4907146",
+    "title": "Canaccord raises Ultragenyx stock price target on gene therapy approval",
+    "tokens": [
+      "approval",
+      "canaccord",
+      "gene",
+      "price",
+      "raises",
+      "stock",
+      "target",
+      "therapy",
+      "ultragenyx"
+    ],
+    "ts": 1789731627.4355977
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-xenon-pharmaceuticals-stock-rating-on-study-pause-93CH-4907147",
+    "title": "H.C. Wainwright reiterates Xenon Pharmaceuticals stock rating on study pause",
+    "tokens": [
+      "pause",
+      "pharmaceuticals",
+      "rating",
+      "reiterates",
+      "stock",
+      "study",
+      "wainwright",
+      "xenon"
+    ],
+    "ts": 1789731635.6110578
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/nage-stock-rating-reiterated-at-buy-by-canaccord-on-pharma-strategy-93CH-4907148",
+    "title": "Nage stock rating reiterated at Buy by Canaccord on pharma strategy",
+    "tokens": [
+      "buy",
+      "canaccord",
+      "nage",
+      "pharma",
+      "rating",
+      "reiterated",
+      "stock",
+      "strategy"
+    ],
+    "ts": 1789731644.772295
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-downgrades-netflix-stock-rating-on-weak-content-slate-93CH-4907139",
+    "title": "Wells Fargo downgrades Netflix stock rating on weak content slate",
+    "tokens": [
+      "content",
+      "downgrades",
+      "fargo",
+      "netflix",
+      "rating",
+      "slate",
+      "stock",
+      "weak",
+      "wells"
+    ],
+    "ts": 1789731653.3646817
+  },
+  {
+    "id": "cienas-pricing-power-real-just-233841142.html",
+    "title": "Is Ciena's Pricing Power Real, Or Just A Parts Shortage?",
+    "tokens": [
+      "ciena",
+      "just",
+      "parts",
+      "power",
+      "pricing",
+      "real",
+      "shortage"
+    ],
+    "ts": 1789731661.351931
+  },
+  {
+    "id": "michael-burry-big-short-says-234100507.html",
+    "title": "Michael Burry of \"The Big Short\" Says an AI Slowdown Would Be \"Self-Serving\" for OpenAI and Anthropic",
+    "tokens": [
+      "anthropic",
+      "big",
+      "burry",
+      "michael",
+      "openai",
+      "self",
+      "serving",
+      "short",
+      "slowdown",
+      "would"
+    ],
+    "ts": 1789731670.7382574
+  },
+  {
+    "id": "axt-inc-axti-draws-bullish-010252885.html",
+    "title": "AXT Inc. (AXTI) Draws Bullish Analyst Attention — Here’s Why",
+    "tokens": [
+      "analyst",
+      "attention",
+      "axt",
+      "axti",
+      "bullish",
+      "draws",
+      "here",
+      "inc",
+      "why"
+    ],
+    "ts": 1789731679.0798316
+  },
+  {
+    "id": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028",
+    "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
+    "tokens": [
+      "2028",
+      "calls",
+      "dev",
+      "dragonfly",
+      "end",
+      "fund",
+      "qureshi",
+      "zcash"
+    ],
+    "ts": 1789731688.505616
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "title": "Federal Reserve issues FOMC statement",
+    "tokens": [
+      "federal",
+      "fomc",
+      "issues",
+      "reserve",
+      "statement"
+    ],
+    "ts": 1789731699.6750412
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+    "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "tokens": [
+      "board",
+      "committee",
+      "economic",
+      "federal",
+      "fomc",
+      "market",
+      "meeting",
+      "open",
+      "projections",
+      "release",
+      "reserve",
+      "september"
+    ],
+    "ts": 1789731707.2531242
   }
 ]

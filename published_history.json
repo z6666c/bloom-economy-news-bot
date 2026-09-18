@@ -1,222 +1,5 @@
 [
   {
-    "id": "oilprice-article-45519",
-    "title": "Leaked EU Draft Would Scrap Hydrogen Mandates for EU-Wide Target",
-    "tokens": [
-      "draft",
-      "hydrogen",
-      "leaked",
-      "mandates",
-      "scrap",
-      "target",
-      "wide",
-      "would"
-    ],
-    "ts": 1789578817.2531853
-  },
-  {
-    "id": "oilprice-news-45519",
-    "title": "Russia Extends Diesel Export Ban Through October",
-    "tokens": [
-      "ban",
-      "diesel",
-      "export",
-      "extends",
-      "october",
-      "russia",
-      "through"
-    ],
-    "ts": 1789578826.0892112
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/continental-resources-signs-venezuela-oil-development-deal-93CH-4904218",
-    "title": "Continental Resources signs Venezuela oil development deal",
-    "tokens": [
-      "continental",
-      "deal",
-      "development",
-      "oil",
-      "resources",
-      "signs",
-      "venezuela"
-    ],
-    "ts": 1789580502.1489866
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/teekay-tankers-stock-hits-52week-high-at-10286-usd-93CH-4904216",
-    "title": "Teekay Tankers stock hits 52-week high at 102.86 USD",
-    "tokens": [
-      "102",
-      "high",
-      "hits",
-      "stock",
-      "tankers",
-      "teekay",
-      "usd",
-      "week"
-    ],
-    "ts": 1789580509.7796881
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ma-stock-targets-quantitative-screener-picks-and-analyst-watchlist-names-93CH-4904215",
-    "title": "M&A stock targets: quantitative screener picks and analyst watchlist names",
-    "tokens": [
-      "analyst",
-      "names",
-      "picks",
-      "quantitative",
-      "screener",
-      "stock",
-      "targets",
-      "watchlist"
-    ],
-    "ts": 1789580518.0766916
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/coinshares-shareholders-approve-25-share-buyback-authority-93CH-4904214",
-    "title": "CoinShares shareholders approve 25% share buyback authority",
-    "tokens": [
-      "approve",
-      "authority",
-      "buyback",
-      "coinshares",
-      "share",
-      "shareholders"
-    ],
-    "ts": 1789580525.6141458
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/adlai-nortye-at-morgan-stanley-global-healthcare-conference-ras-push-93CH-4904213",
-    "title": "Adlai Nortye at Morgan Stanley global healthcare conference: RAS push",
-    "tokens": [
-      "adlai",
-      "conference",
-      "global",
-      "healthcare",
-      "morgan",
-      "nortye",
-      "push",
-      "ras",
-      "stanley"
-    ],
-    "ts": 1789580533.7807808
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/carnival-selloff-overdone-a-buying-opportunity-into-earnings-stifel-4904212",
-    "title": "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
-    "tokens": [
-      "buying",
-      "carnival",
-      "earnings",
-      "opportunity",
-      "overdone",
-      "selloff",
-      "stifel"
-    ],
-    "ts": 1789580541.3444421
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/american-airlines-ceo-says-shift-to-premium-continues-4904211",
-    "title": "American Airlines CEO says shift to premium continues",
-    "tokens": [
-      "airlines",
-      "american",
-      "ceo",
-      "continues",
-      "premium",
-      "shift"
-    ],
-    "ts": 1789580549.3237965
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jfrog-stock-strong-growth-trajectory-meets-valuation-debate-93CH-4904210",
-    "title": "JFrog stock: strong growth trajectory meets valuation debate",
-    "tokens": [
-      "debate",
-      "growth",
-      "jfrog",
-      "meets",
-      "stock",
-      "strong",
-      "trajectory",
-      "valuation"
-    ],
-    "ts": 1789580556.2462966
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/coherus-at-morgan-stanley-healthcare-conference-oncology-push-gains-traction-93CH-4904209",
-    "title": "Coherus at Morgan Stanley healthcare conference: oncology push gains traction",
-    "tokens": [
-      "coherus",
-      "conference",
-      "gains",
-      "healthcare",
-      "morgan",
-      "oncology",
-      "push",
-      "stanley",
-      "traction"
-    ],
-    "ts": 1789580563.7118554
-  },
-  {
-    "id": "mortgage-and-refinance-interest-rates-today-wednesday-september-16-2026-rates-ease-somewhat-ahead-of-the-feds-rate-decision-100000213.html",
-    "title": "Mortgage and refinance interest rates today, Wednesday, September 16, 2026: Rates ease somewhat ahead of the Fed's rate decision",
-    "tokens": [
-      "2026",
-      "ahead",
-      "decision",
-      "ease",
-      "fed",
-      "interest",
-      "mortgage",
-      "rate",
-      "rates",
-      "refinance",
-      "september",
-      "somewhat",
-      "today",
-      "wednesday"
-    ],
-    "ts": 1789580567.864133
-  },
-  {
-    "id": "wall-street-bets-on-a-rate-hike-but-the-fed-decision-could-be-a-close-call-171212149.html",
-    "title": "Wall Street bets on a rate hike, but the Fed decision could be a close call",
-    "tokens": [
-      "bets",
-      "call",
-      "close",
-      "could",
-      "decision",
-      "fed",
-      "hike",
-      "rate",
-      "street",
-      "wall"
-    ],
-    "ts": 1789580571.9225202
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/bionicvo-announces-strategic-partnership-with-yaman-media-group-to-accelerate-growth-across-radio-and-beyond-1036551263",
-    "title": "BionicVO Announces Strategic Partnership with Yaman Media Group to Accelerate Growth Across Radio and Beyond",
-    "tokens": [
-      "accelerate",
-      "across",
-      "announces",
-      "beyond",
-      "bionicvo",
-      "group",
-      "growth",
-      "media",
-      "partnership",
-      "radio",
-      "strategic",
-      "yaman"
-    ],
-    "ts": 1789580580.1518915
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/toll-brothers-announces-grand-opening-of-luxury-model-home-at-enclave-community-in-corona-california-1036551261",
     "title": "Toll Brothers Announces Grand Opening of Luxury Model Home at Enclave Community in Corona, California",
     "tokens": [
@@ -23158,5 +22941,228 @@
       "updates"
     ],
     "ts": 1789725207.310965
+  },
+  {
+    "id": "WP-MKTW-0005240872",
+    "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
+    "tokens": [
+      "according",
+      "confident",
+      "economic",
+      "fed",
+      "growth",
+      "investors",
+      "kkr",
+      "never",
+      "now",
+      "should",
+      "what"
+    ],
+    "ts": 1789726267.0205593
+  },
+  {
+    "id": "WP-MKTW-0005240949",
+    "title": "The Fed hasn’t been this terse since 2007. What a 130-word statement signals for market stability.",
+    "tokens": [
+      "130",
+      "2007",
+      "fed",
+      "hasn",
+      "market",
+      "signals",
+      "since",
+      "stability",
+      "statement",
+      "terse",
+      "what",
+      "word"
+    ],
+    "ts": 1789726274.650003
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/take-five-high-stakes-low-bars-4906923",
+    "title": "Take Five: High stakes, low bars",
+    "tokens": [
+      "bars",
+      "five",
+      "high",
+      "low",
+      "stakes",
+      "take"
+    ],
+    "ts": 1789726281.8896828
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/saudi-aramco-to-lift-gulf-exports-to-60-million-in-september-and-october--reuters-4906922",
+    "title": "Saudi Aramco to lift Gulf exports to 60 million in September and October - Reuters",
+    "tokens": [
+      "aramco",
+      "exports",
+      "gulf",
+      "lift",
+      "million",
+      "october",
+      "reuters",
+      "saudi",
+      "september"
+    ],
+    "ts": 1789726290.7236652
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-plans-medicaid-mostfavorednation-pricing-for-some-drugs-in-all-states-semafor-reports-4906921",
+    "title": "US plans Medicaid most-favored-nation pricing for some drugs in all states, Semafor reports",
+    "tokens": [
+      "all",
+      "drugs",
+      "favored",
+      "medicaid",
+      "most",
+      "nation",
+      "plans",
+      "pricing",
+      "reports",
+      "semafor",
+      "some",
+      "states"
+    ],
+    "ts": 1789726299.0259287
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/investors-buy-us-stocks-at-fastest-pace-in-three-months-bofa-says-4906920",
+    "title": "Investors buy US stocks at fastest pace in three months, BofA says",
+    "tokens": [
+      "bofa",
+      "buy",
+      "fastest",
+      "investors",
+      "months",
+      "pace",
+      "stocks",
+      "three"
+    ],
+    "ts": 1789726309.7747893
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/drax-taps-jpmorgan-santander-for-11-billion-bluefield-deal--report-93CH-4906919",
+    "title": "Drax taps JPMorgan, Santander for £1.1 billion Bluefield deal - report",
+    "tokens": [
+      "billion",
+      "bluefield",
+      "deal",
+      "drax",
+      "jpmorgan",
+      "report",
+      "santander",
+      "taps"
+    ],
+    "ts": 1789726318.6301234
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-frontline-stock-sliding-today-93CH-4906918",
+    "title": "Why is Frontline stock sliding today?",
+    "tokens": [
+      "frontline",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789726322.6467626
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/canaccord-reiterates-buy-on-hubspot-stock-keeps-300-target-93CH-4906916",
+    "title": "Canaccord reiterates Buy on HubSpot stock, keeps $300 target",
+    "tokens": [
+      "300",
+      "buy",
+      "canaccord",
+      "hubspot",
+      "keeps",
+      "reiterates",
+      "stock",
+      "target"
+    ],
+    "ts": 1789726326.7112436
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-etoro-stock-price-target-on-weaker-trading-activity-93CH-4906915",
+    "title": "Mizuho cuts eToro stock price target on weaker trading activity",
+    "tokens": [
+      "activity",
+      "cuts",
+      "etoro",
+      "mizuho",
+      "price",
+      "stock",
+      "target",
+      "trading",
+      "weaker"
+    ],
+    "ts": 1789726334.2458434
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-intuit-stock-rating-on-tax-strategy-shift-93CH-4906914",
+    "title": "Evercore ISI reiterates Intuit stock rating on tax strategy shift",
+    "tokens": [
+      "evercore",
+      "intuit",
+      "isi",
+      "rating",
+      "reiterates",
+      "shift",
+      "stock",
+      "strategy",
+      "tax"
+    ],
+    "ts": 1789726342.0770745
+  },
+  {
+    "id": "goldman-sachs-eyes-70b-revenue-220208845.html",
+    "title": "Goldman Sachs Eyes $70B Revenue Base as Asset, Wealth Growth Accelerates",
+    "tokens": [
+      "70b",
+      "accelerates",
+      "asset",
+      "base",
+      "eyes",
+      "goldman",
+      "growth",
+      "revenue",
+      "sachs",
+      "wealth"
+    ],
+    "ts": 1789726349.750723
+  },
+  {
+    "id": "351-exchange-smart-way-untangle-221157761.html",
+    "title": "The 351 Exchange: A Smart Way to Untangle a Messy Portfolio",
+    "tokens": [
+      "351",
+      "exchange",
+      "messy",
+      "portfolio",
+      "smart",
+      "untangle",
+      "way"
+    ],
+    "ts": 1789726357.2085402
+  },
+  {
+    "id": "4753b006-4684-453d-ab99-24746c960362",
+    "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
+    "tokens": [
+      "act",
+      "bitcoin",
+      "bulls",
+      "clarity",
+      "hikes",
+      "rate",
+      "september",
+      "setback",
+      "storm",
+      "test",
+      "weathers"
+    ],
+    "ts": 1789726365.8306
   }
 ]

@@ -1,130 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/chinas-huawei-sets-2027-launch-for-new-ai-chips-as-it-targets-nvidia-4904787",
-    "title": "China’s Huawei sets 2027 launch for new AI chips as it targets Nvidia",
-    "tokens": [
-      "2027",
-      "china",
-      "chips",
-      "huawei",
-      "launch",
-      "nvidia",
-      "sets",
-      "targets"
-    ],
-    "ts": 1789616685.051208
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/solidion-technology-cfo-prantsevich-buys-7343-common-stock-93CH-4904786",
-    "title": "Solidion technology CFO Prantsevich buys $7,343 common stock",
-    "tokens": [
-      "343",
-      "buys",
-      "cfo",
-      "common",
-      "prantsevich",
-      "solidion",
-      "stock",
-      "technology"
-    ],
-    "ts": 1789616692.7216282
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ralliant-corp-ceo-newcombe-sells-844720-in-shares-93CH-4904785",
-    "title": "Ralliant Corp CEO Newcombe sells $844,720 in shares",
-    "tokens": [
-      "720",
-      "844",
-      "ceo",
-      "corp",
-      "newcombe",
-      "ralliant",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789616699.8258116
-  },
-  {
-    "id": "coca-cola-spend-10b-us-160200407.html",
-    "title": "Coca-Cola to spend $10B on US manufacturing by 2030",
-    "tokens": [
-      "10b",
-      "2030",
-      "coca",
-      "cola",
-      "manufacturing",
-      "spend"
-    ],
-    "ts": 1789617446.7496781
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/gift-nifty-50-consolidates-bearishly-near-23595-resistance-live-93CH-4900761",
-    "title": "Gift Nifty 50 bear flag 80% done, drop risk rising: Live levels",
-    "tokens": [
-      "bear",
-      "done",
-      "drop",
-      "flag",
-      "gift",
-      "levels",
-      "live",
-      "nifty",
-      "rising",
-      "risk"
-    ],
-    "ts": 1789618582.9389372
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asian-stocks-edge-higher-as-fed-hike-eases-bond-fears-china-shares-lag-4904790",
-    "title": "Asian stocks edge higher as Fed hike eases bond fears, China shares lag",
-    "tokens": [
-      "asian",
-      "bond",
-      "china",
-      "eases",
-      "edge",
-      "fears",
-      "fed",
-      "higher",
-      "hike",
-      "lag",
-      "shares",
-      "stocks"
-    ],
-    "ts": 1789618590.5958023
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/gigacloud-technology-director-chen-zhiwu-sells-158010-in-shares-93CH-4904789",
-    "title": "GigaCloud technology director Chen Zhiwu sells $158,010 in shares",
-    "tokens": [
-      "010",
-      "158",
-      "chen",
-      "director",
-      "gigacloud",
-      "sells",
-      "shares",
-      "technology",
-      "zhiwu"
-    ],
-    "ts": 1789618597.9596152
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/gcm-grosvenor-cfo-pamela-bentley-sells-629k-in-shares-93CH-4904788",
-    "title": "GCM Grosvenor CFO Pamela Bentley sells $629k in shares",
-    "tokens": [
-      "629k",
-      "bentley",
-      "cfo",
-      "gcm",
-      "grosvenor",
-      "pamela",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789618605.245975
-  },
-  {
     "id": "stablecoin-yield-ban-boost-bank-162900064.html",
     "title": "Stablecoin Yield Ban Would Boost Bank Lending by Just 0.02%: White House",
     "tokens": [
@@ -23191,5 +23066,125 @@
       "underperforming"
     ],
     "ts": 1789757740.1989398
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/us-treasurys-bessent-plans-to-discuss-ai-and-rare-earths-with-chinas-he-source-says-4907786",
+    "title": "US Treasury’s Bessent plans to discuss AI and rare earths with China’s He, source says",
+    "tokens": [
+      "bessent",
+      "china",
+      "discuss",
+      "earths",
+      "plans",
+      "rare",
+      "source",
+      "treasury"
+    ],
+    "ts": 1789758636.5129554
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-sliding-today-93CH-4907785",
+    "title": "Why is Qualcomm stock sliding today?",
+    "tokens": [
+      "qualcomm",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789758640.525403
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/major-us-airlines-oppose-air-china-bid-to-schedule-additional-us-flights-4907782",
+    "title": "Major US airlines oppose Air China bid to schedule additional US flights",
+    "tokens": [
+      "additional",
+      "air",
+      "airlines",
+      "bid",
+      "china",
+      "flights",
+      "major",
+      "oppose",
+      "schedule"
+    ],
+    "ts": 1789758644.544645
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/musk-bets-ai-will-double-us-economic-growth-next-year-4907780",
+    "title": "Musk bets AI will double US economic growth next year",
+    "tokens": [
+      "bets",
+      "double",
+      "economic",
+      "growth",
+      "musk",
+      "next",
+      "year"
+    ],
+    "ts": 1789758654.0788956
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/wyndham-hotels--resorts-stock-hits-52week-low-at-6741-usd-93CH-4907781",
+    "title": "Wyndham Hotels & Resorts stock hits 52-week low at 67.41 USD",
+    "tokens": [
+      "hits",
+      "hotels",
+      "low",
+      "resorts",
+      "stock",
+      "usd",
+      "week",
+      "wyndham"
+    ],
+    "ts": 1789758658.0913851
+  },
+  {
+    "id": "amazon-lifts-minimum-hourly-wage-090928963.html",
+    "title": "Amazon lifts minimum hourly wage to $20 for US operations staff",
+    "tokens": [
+      "amazon",
+      "hourly",
+      "lifts",
+      "minimum",
+      "operations",
+      "staff",
+      "wage"
+    ],
+    "ts": 1789758666.2193685
+  },
+  {
+    "id": "oil-prices-decline-saudi-arabia-091158313.html",
+    "title": "Oil Prices Decline as Saudi Arabia Takes Steps to Maintain Crude Exports",
+    "tokens": [
+      "arabia",
+      "crude",
+      "decline",
+      "exports",
+      "maintain",
+      "oil",
+      "prices",
+      "saudi",
+      "steps",
+      "takes"
+    ],
+    "ts": 1789758675.6108115
+  },
+  {
+    "id": "figure-figr-bets-ai-agents-092850874.html",
+    "title": "Figure (FIGR) Bets AI Agents Can Rescue Trillions in Stalled Home Loans",
+    "tokens": [
+      "agents",
+      "bets",
+      "can",
+      "figr",
+      "figure",
+      "home",
+      "loans",
+      "rescue",
+      "stalled",
+      "trillions"
+    ],
+    "ts": 1789758685.5982766
   }
 ]

@@ -1,117 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-sylvamo-stock-with-overweight-rating-93CH-4903407",
-    "title": "Wells Fargo initiates Sylvamo stock with overweight rating",
-    "tokens": [
-      "fargo",
-      "initiates",
-      "overweight",
-      "rating",
-      "stock",
-      "sylvamo",
-      "wells"
-    ],
-    "ts": 1789557079.8505492
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bofa-initiates-bandwidth-stock-at-neutral-on-limited-ai-upside-93CH-4903405",
-    "title": "BofA initiates Bandwidth stock at neutral on limited AI upside",
-    "tokens": [
-      "bandwidth",
-      "bofa",
-      "initiates",
-      "limited",
-      "neutral",
-      "stock",
-      "upside"
-    ],
-    "ts": 1789557086.9886353
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/xenetic-biosciences-to-acquire-santersus-in-allstock-deal-93CH-4903404",
-    "title": "Xenetic Biosciences to acquire Santersus in all-stock deal",
-    "tokens": [
-      "acquire",
-      "all",
-      "biosciences",
-      "deal",
-      "santersus",
-      "stock",
-      "xenetic"
-    ],
-    "ts": 1789557094.6788104
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/clean-air-metals-upsizes-financing-to-c62-million-93CH-4903403",
-    "title": "Clean Air Metals upsizes financing to C$6.2 million",
-    "tokens": [
-      "air",
-      "clean",
-      "financing",
-      "metals",
-      "million",
-      "upsizes"
-    ],
-    "ts": 1789557101.422741
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/idexx-acquires-ai-veterinary-workflow-software-firm-covet-93CH-4903401",
-    "title": "IDEXX acquires AI veterinary workflow software firm CoVet",
-    "tokens": [
-      "acquires",
-      "covet",
-      "firm",
-      "idexx",
-      "software",
-      "veterinary",
-      "workflow"
-    ],
-    "ts": 1789557108.2283278
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/anderon-finalizes-1b-chips-act-award-for-quantum-wafers-93CH-4903402",
-    "title": "Anderon finalizes $1B CHIPS Act award for quantum wafers",
-    "tokens": [
-      "act",
-      "anderon",
-      "award",
-      "chips",
-      "finalizes",
-      "quantum",
-      "wafers"
-    ],
-    "ts": 1789557114.8099473
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/viatris-receives-japan-approval-for-sleep-disorder-drug-wakix-93CH-4903399",
-    "title": "Viatris receives Japan approval for sleep disorder drug Wakix",
-    "tokens": [
-      "approval",
-      "disorder",
-      "drug",
-      "japan",
-      "receives",
-      "sleep",
-      "viatris",
-      "wakix"
-    ],
-    "ts": 1789557121.8529224
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/uber-expands-costco-delivery-to-nearly-600-us-locations-93CH-4903400",
-    "title": "Uber expands Costco delivery to nearly 600 U.S. locations",
-    "tokens": [
-      "600",
-      "costco",
-      "delivery",
-      "expands",
-      "locations",
-      "nearly",
-      "uber"
-    ],
-    "ts": 1789557128.7573075
-  },
-  {
     "id": "https://www.investing.com/news/company-news/opentext-partners-with-cohere-on-agentic-ai-solution-93CH-4903396",
     "title": "OpenText partners with Cohere on agentic AI solution",
     "tokens": [
@@ -23168,5 +23056,124 @@
       "well"
     ],
     "ts": 1789702088.5350523
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/travere-therapeutics-ceo-eric-dube-sells-254m-in-shares-93CH-4906651",
+    "title": "Travere therapeutics CEO Eric Dube sells $25.4m in shares",
+    "tokens": [
+      "ceo",
+      "dube",
+      "eric",
+      "sells",
+      "shares",
+      "therapeutics",
+      "travere"
+    ],
+    "ts": 1789702935.324332
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/red-cat-holdings-chairman--ceo-sells-116m-in-stock-93CH-4906650",
+    "title": "Red Cat Holdings chairman & CEO sells $1.16m in stock",
+    "tokens": [
+      "16m",
+      "cat",
+      "ceo",
+      "chairman",
+      "holdings",
+      "red",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789702945.0880225
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/travere-therapeutics-cfo-cline-sells-31m-in-company-stock-93CH-4906649",
+    "title": "Travere Therapeutics CFO Cline sells $3.1m in company stock",
+    "tokens": [
+      "cfo",
+      "cline",
+      "company",
+      "sells",
+      "stock",
+      "therapeutics",
+      "travere"
+    ],
+    "ts": 1789702952.8073182
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/tenax-therapeutics-director-declan-doogan-buys-101760-in-shares-93CH-4906648",
+    "title": "Tenax Therapeutics director Declan Doogan buys $101,760 in shares",
+    "tokens": [
+      "101",
+      "760",
+      "buys",
+      "declan",
+      "director",
+      "doogan",
+      "shares",
+      "tenax",
+      "therapeutics"
+    ],
+    "ts": 1789702959.482909
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/halozyme-prices-13-billion-convertible-notes-offering-93CH-4906647",
+    "title": "Halozyme prices $1.3 billion convertible notes offering",
+    "tokens": [
+      "billion",
+      "convertible",
+      "halozyme",
+      "notes",
+      "offering",
+      "prices"
+    ],
+    "ts": 1789702963.4964066
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/investors-react-to-boj-raising-interest-rates-to-31year-high-4906646",
+    "title": "Investors react to BOJ raising interest rates to 31-year high",
+    "tokens": [
+      "boj",
+      "high",
+      "interest",
+      "investors",
+      "raising",
+      "rates",
+      "react",
+      "year"
+    ],
+    "ts": 1789702966.428792
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-chip-tech-stocks-track-wall-st-gains-as-yields-fall-4906644",
+    "title": "Asia chip, tech stocks track Wall St gains as yields fall",
+    "tokens": [
+      "asia",
+      "chip",
+      "fall",
+      "gains",
+      "stocks",
+      "tech",
+      "track",
+      "wall",
+      "yields"
+    ],
+    "ts": 1789702973.5045278
+  },
+  {
+    "id": "household-income-soars-record-87-153629998.html",
+    "title": "Household Income Soars to Record $87,460 — So Why Is Everyone Feeling So Poor?",
+    "tokens": [
+      "460",
+      "everyone",
+      "feeling",
+      "household",
+      "income",
+      "poor",
+      "record",
+      "soars",
+      "why"
+    ],
+    "ts": 1789702980.5923214
   }
 ]

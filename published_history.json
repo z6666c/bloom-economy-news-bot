@@ -1,285 +1,5 @@
 [
   {
-    "id": "two-interactive-stock-underperforming-p-123419248.html",
-    "title": "Is Take-Two Interactive Stock Underperforming the S&P 500?",
-    "tokens": [
-      "500",
-      "interactive",
-      "stock",
-      "take",
-      "two",
-      "underperforming"
-    ],
-    "ts": 1789592222.0460134
-  },
-  {
-    "id": "american-battery-technology-company-common-123000033.html",
-    "title": "American Battery Technology Company Common Stock Q4 2026 Earnings Call Summary",
-    "tokens": [
-      "2026",
-      "american",
-      "battery",
-      "call",
-      "common",
-      "company",
-      "earnings",
-      "stock",
-      "summary",
-      "technology"
-    ],
-    "ts": 1789592228.9250746
-  },
-  {
-    "id": "bioceres-crop-solutions-corp-q4-123000503.html",
-    "title": "Bioceres Crop Solutions Corp. Q4 2026 Earnings Call Summary",
-    "tokens": [
-      "2026",
-      "bioceres",
-      "call",
-      "corp",
-      "crop",
-      "earnings",
-      "solutions",
-      "summary"
-    ],
-    "ts": 1789592235.9236019
-  },
-  {
-    "id": "ocean-power-technologies-grows-defense-123000564.html",
-    "title": "Ocean Power Technologies grows defense footprint as backlog rises in fiscal Q1",
-    "tokens": [
-      "backlog",
-      "defense",
-      "fiscal",
-      "footprint",
-      "grows",
-      "ocean",
-      "power",
-      "rises",
-      "technologies"
-    ],
-    "ts": 1789592243.2532823
-  },
-  {
-    "id": "dave-busters-entertainment-inc-q2-123000667.html",
-    "title": "Dave & Buster's Entertainment, Inc. Q2 2026 Earnings Call Summary",
-    "tokens": [
-      "2026",
-      "buster",
-      "call",
-      "dave",
-      "earnings",
-      "entertainment",
-      "inc",
-      "summary"
-    ],
-    "ts": 1789592250.9780889
-  },
-  {
-    "id": "radiant-logistics-inc-q4-2026-123000994.html",
-    "title": "Radiant Logistics, Inc. Q4 2026 Earnings Call Summary",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "inc",
-      "logistics",
-      "radiant",
-      "summary"
-    ],
-    "ts": 1789592258.3828986
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/verisk-analytics-cfo-elizabeth-mann-sells-73964-in-stock-93CH-4904567",
-    "title": "Verisk analytics CFO Elizabeth Mann sells $73,964 in stock",
-    "tokens": [
-      "964",
-      "analytics",
-      "cfo",
-      "elizabeth",
-      "mann",
-      "sells",
-      "stock",
-      "verisk"
-    ],
-    "ts": 1789593123.3270986
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/timken-at-morgan-stanley-laguna-conference-margin-plan-in-focus-93CH-4904565",
-    "title": "Timken at Morgan Stanley Laguna conference: margin plan in focus",
-    "tokens": [
-      "conference",
-      "focus",
-      "laguna",
-      "margin",
-      "morgan",
-      "plan",
-      "stanley",
-      "timken"
-    ],
-    "ts": 1789593132.8916385
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-sunbelt-rentals-stock-rating-to-buy-on-strong-results-93CH-4904564",
-    "title": "Goldman Sachs upgrades Sunbelt Rentals stock rating to buy on strong results",
-    "tokens": [
-      "buy",
-      "goldman",
-      "rating",
-      "rentals",
-      "results",
-      "sachs",
-      "stock",
-      "strong",
-      "sunbelt",
-      "upgrades"
-    ],
-    "ts": 1789593141.5631897
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/wells-fargo-raises-prime-rate-to-700-effective-thursday-93CH-4904562",
-    "title": "Wells Fargo raises prime rate to 7.00% effective Thursday",
-    "tokens": [
-      "effective",
-      "fargo",
-      "prime",
-      "raises",
-      "rate",
-      "thursday",
-      "wells"
-    ],
-    "ts": 1789593149.44334
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-lowers-hawaiian-electric-stock-price-target-on-wildfire-risk-93CH-4904560",
-    "title": "Jefferies lowers Hawaiian Electric stock price target on wildfire risk",
-    "tokens": [
-      "electric",
-      "hawaiian",
-      "jefferies",
-      "lowers",
-      "price",
-      "risk",
-      "stock",
-      "target",
-      "wildfire"
-    ],
-    "ts": 1789593156.7155783
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-initiates-roivant-sciences-stock-with-buy-rating-51-target-93CH-4904559",
-    "title": "Stifel initiates Roivant Sciences stock with buy rating, $51 target",
-    "tokens": [
-      "buy",
-      "initiates",
-      "rating",
-      "roivant",
-      "sciences",
-      "stifel",
-      "stock",
-      "target"
-    ],
-    "ts": 1789593163.7212672
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/latin-american-markets-fall-after-fed-raises-interest-rates-93CH-4904557",
-    "title": "Latin American markets fall after Fed raises interest rates",
-    "tokens": [
-      "american",
-      "fall",
-      "fed",
-      "interest",
-      "latin",
-      "markets",
-      "raises",
-      "rates"
-    ],
-    "ts": 1789593170.9092805
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/trump-says-us-interest-rates-should-be-1-or-lower-4904556",
-    "title": "Trump says US interest rates should be 1% or lower",
-    "tokens": [
-      "interest",
-      "lower",
-      "rates",
-      "should",
-      "trump"
-    ],
-    "ts": 1789593177.8453836
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/afterhours-movers-gnrc-flnc-len-432SI-4904551",
-    "title": "After-Hours Movers: GNRC, FLNC, LEN",
-    "tokens": [
-      "flnc",
-      "gnrc",
-      "hours",
-      "len",
-      "movers"
-    ],
-    "ts": 1789593185.427454
-  },
-  {
-    "id": "targa-resources-stock-outperforming-p-130106466.html",
-    "title": "Is Targa Resources Stock Outperforming the S&P 500?",
-    "tokens": [
-      "500",
-      "outperforming",
-      "resources",
-      "stock",
-      "targa"
-    ],
-    "ts": 1789593193.7158833
-  },
-  {
-    "id": "nvidia-amd-intel-forecast-ai-125717460.html",
-    "title": "NVIDIA, AMD and Intel Forecast: AI Stocks Eye a Rebound",
-    "tokens": [
-      "amd",
-      "eye",
-      "forecast",
-      "intel",
-      "nvidia",
-      "rebound",
-      "stocks"
-    ],
-    "ts": 1789593201.1685731
-  },
-  {
-    "id": "bank-america-q3-investment-banking-125930006.html",
-    "title": "Bank of America Q3 investment banking fees to drop, CEO warns",
-    "tokens": [
-      "america",
-      "bank",
-      "banking",
-      "ceo",
-      "drop",
-      "fees",
-      "investment",
-      "warns"
-    ],
-    "ts": 1789593205.184101
-  },
-  {
-    "id": "adobe-stock-dirt-cheap-recent-130002656.html",
-    "title": "Adobe Stock is Dirt Cheap After Its Recent Results - What's the Best Way to Play ADBE?",
-    "tokens": [
-      "adbe",
-      "adobe",
-      "best",
-      "cheap",
-      "dirt",
-      "play",
-      "recent",
-      "results",
-      "stock",
-      "way",
-      "what"
-    ],
-    "ts": 1789593208.5619342
-  },
-  {
     "id": "oilprice-article-45524",
     "title": "Inside Putin’s $135 Billion Arctic Gamble That Could Save His Ukraine War",
     "tokens": [
@@ -23163,5 +22883,295 @@
       "why"
     ],
     "ts": 1789739633.380248
+  },
+  {
+    "id": "WP-MKTW-0005240426",
+    "title": "Travis Kelce and others lost millions in a Ponzi scheme. Here’s what a basic index fund would have earned them instead.",
+    "tokens": [
+      "basic",
+      "earned",
+      "fund",
+      "here",
+      "index",
+      "instead",
+      "kelce",
+      "lost",
+      "millions",
+      "others",
+      "ponzi",
+      "scheme",
+      "them",
+      "travis",
+      "what",
+      "would"
+    ],
+    "ts": 1789740652.6295633
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/yeti-stock-rises-as-ubs-maintains-neutral-rating-after-guidance-reset-93CH-4907530",
+    "title": "Yeti stock rises as UBS maintains neutral rating after guidance reset",
+    "tokens": [
+      "guidance",
+      "maintains",
+      "neutral",
+      "rating",
+      "reset",
+      "rises",
+      "stock",
+      "ubs",
+      "yeti"
+    ],
+    "ts": 1789740662.4519432
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-maintains-vail-resorts-stock-rating-on-pass-sales-concerns-93CH-4907529",
+    "title": "UBS maintains Vail Resorts stock rating on pass sales concerns",
+    "tokens": [
+      "concerns",
+      "maintains",
+      "pass",
+      "rating",
+      "resorts",
+      "sales",
+      "stock",
+      "ubs",
+      "vail"
+    ],
+    "ts": 1789740672.7477221
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-cuts-polaris-stock-price-target-on-promotional-headwinds-93CH-4907528",
+    "title": "UBS cuts Polaris stock price target on promotional headwinds",
+    "tokens": [
+      "cuts",
+      "headwinds",
+      "polaris",
+      "price",
+      "promotional",
+      "stock",
+      "target",
+      "ubs"
+    ],
+    "ts": 1789740682.285107
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-cipher-mining-stock-rallying-today-93CH-4907527",
+    "title": "Why is Cipher Mining stock rallying today?",
+    "tokens": [
+      "cipher",
+      "mining",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789740692.309329
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-galaxy-digital-stock-surging-today-93CH-4907525",
+    "title": "Why is Galaxy Digital stock surging today?",
+    "tokens": [
+      "digital",
+      "galaxy",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1789740702.488992
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/norwegian-cruise-line-stock-hits-52week-low-at-1418-usd-93CH-4907523",
+    "title": "Norwegian Cruise Line stock hits 52-week low at 14.18 USD",
+    "tokens": [
+      "cruise",
+      "hits",
+      "line",
+      "low",
+      "norwegian",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1789740718.6496313
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-macom-technology-solutions-stock-rallying-today-93CH-4907522",
+    "title": "Why is MACOM Technology Solutions stock rallying today?",
+    "tokens": [
+      "macom",
+      "rallying",
+      "solutions",
+      "stock",
+      "technology",
+      "today",
+      "why"
+    ],
+    "ts": 1789740729.013425
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/par-pacific-holdings-stock-hits-alltime-high-at-8707-usd-93CH-4907521",
+    "title": "Par Pacific Holdings stock hits all-time high at 87.07 USD",
+    "tokens": [
+      "all",
+      "high",
+      "hits",
+      "holdings",
+      "pacific",
+      "par",
+      "stock",
+      "time",
+      "usd"
+    ],
+    "ts": 1789740739.3757827
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-oil-prices-fall-4907520",
+    "title": "S&P 500, Nasdaq open higher as oil prices fall",
+    "tokens": [
+      "500",
+      "fall",
+      "higher",
+      "nasdaq",
+      "oil",
+      "open",
+      "prices"
+    ],
+    "ts": 1789740749.8226407
+  },
+  {
+    "id": "juanita-foods-house-production-plant-140455185.html",
+    "title": "Juanita’s Foods to house production at new plant",
+    "tokens": [
+      "foods",
+      "house",
+      "juanita",
+      "plant",
+      "production"
+    ],
+    "ts": 1789740759.6052866
+  },
+  {
+    "id": "why-aristotle-international-equity-fund-135629902.html",
+    "title": "Here’s Why Aristotle International Equity Fund Exited Unilever (UL)",
+    "tokens": [
+      "aristotle",
+      "equity",
+      "exited",
+      "fund",
+      "here",
+      "international",
+      "unilever",
+      "why"
+    ],
+    "ts": 1789740768.920379
+  },
+  {
+    "id": "magnum-ice-cream-micc-standalone-135414186.html",
+    "title": "Magnum Ice Cream (MICC): Standalone Structure Enables Exclusive Focus on Frozen Desserts",
+    "tokens": [
+      "cream",
+      "desserts",
+      "enables",
+      "exclusive",
+      "focus",
+      "frozen",
+      "ice",
+      "magnum",
+      "micc",
+      "standalone",
+      "structure"
+    ],
+    "ts": 1789740780.070637
+  },
+  {
+    "id": "u-regulator-expands-crypto-trading-135400971.html",
+    "title": "U.S. Regulator Expands Crypto Trading To Online Platforms",
+    "tokens": [
+      "crypto",
+      "expands",
+      "online",
+      "platforms",
+      "regulator",
+      "trading"
+    ],
+    "ts": 1789740789.5718124
+  },
+  {
+    "id": "deep-talks-first-trust-vehicles-140000862.html",
+    "title": "Deep talks first, trust vehicles later: 5 questions that reveal client goals",
+    "tokens": [
+      "client",
+      "deep",
+      "first",
+      "goals",
+      "later",
+      "questions",
+      "reveal",
+      "talks",
+      "trust",
+      "vehicles"
+    ],
+    "ts": 1789740801.7663574
+  },
+  {
+    "id": "stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq mixed as oil prices rise",
+    "tokens": [
+      "500",
+      "dow",
+      "market",
+      "mixed",
+      "nasdaq",
+      "oil",
+      "prices",
+      "rise",
+      "stock",
+      "today"
+    ],
+    "ts": 1789740812.176634
+  },
+  {
+    "id": "oilprice-article-45543",
+    "title": "The Oil Market’s Backup Plan Is Breaking Down",
+    "tokens": [
+      "backup",
+      "breaking",
+      "market",
+      "oil",
+      "plan"
+    ],
+    "ts": 1789740822.7464314
+  },
+  {
+    "id": "oilprice-news-45543",
+    "title": "Japan's Refiners Have Enough Crude to Last Through November, Industry Body Says",
+    "tokens": [
+      "body",
+      "crude",
+      "enough",
+      "industry",
+      "japan",
+      "last",
+      "november",
+      "refiners",
+      "through"
+    ],
+    "ts": 1789740832.9074917
+  },
+  {
+    "id": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma",
+    "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
+    "tokens": [
+      "banks",
+      "crypto",
+      "double",
+      "hits",
+      "list",
+      "mica",
+      "provider",
+      "share"
+    ],
+    "ts": 1789740843.2221313
   }
 ]

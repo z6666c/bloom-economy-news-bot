@@ -1,125 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economic-indicators/retail-sales-surge-surpassing-expectations-and-previous-figures-93CH-4903673",
-    "title": "Retail sales surge, surpassing expectations and previous figures",
-    "tokens": [
-      "expectations",
-      "figures",
-      "previous",
-      "retail",
-      "sales",
-      "surge",
-      "surpassing"
-    ],
-    "ts": 1789562307.5562606
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ishares-to-delist-18-etf-currency-trading-lines-in-december-93CH-4903671",
-    "title": "iShares to delist 18 ETF currency trading lines in December",
-    "tokens": [
-      "currency",
-      "december",
-      "delist",
-      "etf",
-      "ishares",
-      "lines",
-      "trading"
-    ],
-    "ts": 1789562316.8474476
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/moodys-cuts-vivid-seats-rating-on-restructuring-risk-93CH-4903666",
-    "title": "Moody’s cuts Vivid Seats rating on restructuring risk",
-    "tokens": [
-      "cuts",
-      "moody",
-      "rating",
-      "restructuring",
-      "risk",
-      "seats",
-      "vivid"
-    ],
-    "ts": 1789562324.4869287
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/astrazenecas-pipeline-six-2027-readouts-that-could-reshape-the-growth-story-4903665",
-    "title": "AstraZeneca’s pipeline: six 2027 readouts that could reshape the growth story",
-    "tokens": [
-      "2027",
-      "astrazeneca",
-      "could",
-      "growth",
-      "pipeline",
-      "readouts",
-      "reshape",
-      "six",
-      "story"
-    ],
-    "ts": 1789562331.236489
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/presidio-management-group-xii-buys-3m-in-carlsmed-stock-93CH-4903657",
-    "title": "Presidio Management Group XII buys $3m in Carlsmed stock",
-    "tokens": [
-      "buys",
-      "carlsmed",
-      "group",
-      "management",
-      "presidio",
-      "stock",
-      "xii"
-    ],
-    "ts": 1789562337.9341812
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/honest-company-svp-sells-over-130000-in-common-stock-93CH-4903656",
-    "title": "Honest company SVP sells over $130,000 in common stock",
-    "tokens": [
-      "000",
-      "130",
-      "common",
-      "company",
-      "honest",
-      "sells",
-      "stock",
-      "svp"
-    ],
-    "ts": 1789562345.3203938
-  },
-  {
-    "id": "tech-stocks-today-sk-hynix-and-intel-moves-openai-raising-funds-at-12-trillion-valuation-140134624.html",
-    "title": "Tech stocks today: SK Hynix and Intel moves, OpenAI raising funds at $1.2 trillion valuation",
-    "tokens": [
-      "funds",
-      "hynix",
-      "intel",
-      "moves",
-      "openai",
-      "raising",
-      "stocks",
-      "tech",
-      "today",
-      "trillion",
-      "valuation"
-    ],
-    "ts": 1789562352.8384285
-  },
-  {
-    "id": "happens-strong-uptrends-meet-bullish-122107436.html",
-    "title": "What Happens When Strong Uptrends Meet Bullish Sentiment?",
-    "tokens": [
-      "bullish",
-      "happens",
-      "meet",
-      "sentiment",
-      "strong",
-      "uptrends",
-      "what",
-      "when"
-    ],
-    "ts": 1789562359.7748652
-  },
-  {
     "id": "robert-half-rhi-slow-recruitment-121817621.html",
     "title": "Robert Half (RHI): Can a Slow Recruitment Recovery Turn a Former Buying Mistake Into a Winner?",
     "tokens": [
@@ -23134,5 +23014,142 @@
       "warns"
     ],
     "ts": 1789709141.6317482
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusivechinas-cxmt-eyes-flashmemory-push-amid-global-shortage-firm-to-take-on-samsung-ymtc-4906684",
+    "title": "Exclusive-China’s CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC",
+    "tokens": [
+      "china",
+      "cxmt",
+      "exclusive",
+      "eyes",
+      "firm",
+      "flash",
+      "global",
+      "memory",
+      "push",
+      "samsung",
+      "shortage",
+      "take",
+      "ymtc"
+    ],
+    "ts": 1789709974.5778608
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/barclays-backs-november-boe-hike-warns-middle-east-conflict-could-spur-more-4906680",
+    "title": "Barclays backs November BoE hike, warns Middle East conflict could spur more",
+    "tokens": [
+      "backs",
+      "barclays",
+      "boe",
+      "conflict",
+      "could",
+      "east",
+      "hike",
+      "middle",
+      "more",
+      "november",
+      "spur",
+      "warns"
+    ],
+    "ts": 1789709982.541756
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/hyundai-ceo-warns-chinese-auto-competition-could-spread-to-us-reuters-reports-4906681",
+    "title": "Hyundai CEO warns Chinese auto competition could spread to U.S., Reuters reports",
+    "tokens": [
+      "auto",
+      "ceo",
+      "chinese",
+      "competition",
+      "could",
+      "hyundai",
+      "reports",
+      "reuters",
+      "spread",
+      "warns"
+    ],
+    "ts": 1789709989.2704084
+  },
+  {
+    "id": "1-metric-separates-joby-archer-175000750.html",
+    "title": "The 1 Metric That Separates Joby From Archer in the Race to FAA Certification",
+    "tokens": [
+      "archer",
+      "certification",
+      "faa",
+      "joby",
+      "metric",
+      "race",
+      "separates"
+    ],
+    "ts": 1789710001.4026334
+  },
+  {
+    "id": "rivian-insider-sells-15-000-174802425.html",
+    "title": "A Rivian Insider Sells 15,000 Shares for $244,000 Amid a CFO Transition",
+    "tokens": [
+      "000",
+      "244",
+      "cfo",
+      "insider",
+      "rivian",
+      "sells",
+      "shares",
+      "transition"
+    ],
+    "ts": 1789710008.7652435
+  },
+  {
+    "id": "federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-happens-100449563.html",
+    "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
+    "tokens": [
+      "federal",
+      "happens",
+      "hikes",
+      "interest",
+      "pound",
+      "rate",
+      "reserve",
+      "something",
+      "stocks",
+      "surprising",
+      "then",
+      "usually"
+    ],
+    "ts": 1789710015.9645314
+  },
+  {
+    "id": "best-credit-card-for-airbnb-rentals-183212147.html",
+    "title": "The best credit cards for Airbnb rentals (2026): Earn points and cash back for your stay",
+    "tokens": [
+      "2026",
+      "airbnb",
+      "back",
+      "best",
+      "cards",
+      "cash",
+      "credit",
+      "earn",
+      "points",
+      "rentals",
+      "stay",
+      "your"
+    ],
+    "ts": 1789710023.179207
+  },
+  {
+    "id": "dividend-stock-staging-turnaround-2026-182206216.html",
+    "title": "This Dividend Stock Is Staging a Turnaround in 2026 and Pays More Than 2.4%",
+    "tokens": [
+      "2026",
+      "dividend",
+      "more",
+      "pays",
+      "staging",
+      "stock",
+      "turnaround"
+    ],
+    "ts": 1789710030.8030863
   }
 ]

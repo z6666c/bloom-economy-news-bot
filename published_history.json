@@ -1,222 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/oil-prices-steady-amid-cooling-meast-supply-jitters-4904755",
-    "title": "Oil prices steady amid cooling M.East supply jitters",
-    "tokens": [
-      "cooling",
-      "east",
-      "jitters",
-      "oil",
-      "prices",
-      "steady",
-      "supply"
-    ],
-    "ts": 1789612266.57703
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
-    "title": "Shares tick higher as Fed hikes rates, dollar jumps with short-term yields",
-    "tokens": [
-      "dollar",
-      "fed",
-      "higher",
-      "hikes",
-      "jumps",
-      "rates",
-      "shares",
-      "short",
-      "term",
-      "tick",
-      "yields"
-    ],
-    "ts": 1789612275.7991176
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/snowflake-chief-revenue-officer-beaulier-sells-413-million-in-stock-93CH-4904769",
-    "title": "Snowflake chief revenue officer Beaulier sells $4.13 million in stock",
-    "tokens": [
-      "beaulier",
-      "chief",
-      "million",
-      "officer",
-      "revenue",
-      "sells",
-      "snowflake",
-      "stock"
-    ],
-    "ts": 1789613145.5208719
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/snowflake-chief-accounting-officer-emily-ho-sells-255k-in-shares-93CH-4904768",
-    "title": "Snowflake chief accounting officer Emily Ho sells $255k in shares",
-    "tokens": [
-      "255k",
-      "accounting",
-      "chief",
-      "emily",
-      "officer",
-      "sells",
-      "shares",
-      "snowflake"
-    ],
-    "ts": 1789613153.6337268
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/snowflake-evp-christian-kleinerman-sells-951070-in-stock-93CH-4904767",
-    "title": "Snowflake EVP Christian Kleinerman sells $951,070 in stock",
-    "tokens": [
-      "070",
-      "951",
-      "christian",
-      "evp",
-      "kleinerman",
-      "sells",
-      "snowflake",
-      "stock"
-    ],
-    "ts": 1789613161.2839189
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/snowflake-director-frank-slootman-sells-26m-in-company-stock-93CH-4904766",
-    "title": "Snowflake director Frank Slootman sells $2.6m in company stock",
-    "tokens": [
-      "company",
-      "director",
-      "frank",
-      "sells",
-      "slootman",
-      "snowflake",
-      "stock"
-    ],
-    "ts": 1789613168.6483319
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/snowflake-svp-vivek-raghunathan-sells-123m-in-company-stock-93CH-4904765",
-    "title": "Snowflake SVP Vivek Raghunathan sells $1.23m in company stock",
-    "tokens": [
-      "23m",
-      "company",
-      "raghunathan",
-      "sells",
-      "snowflake",
-      "stock",
-      "svp",
-      "vivek"
-    ],
-    "ts": 1789613175.4303455
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/fed-hikes-again--an-aipicked-insurer-is-still-cashing-in-4904764",
-    "title": "Fed hikes again - an AI-Picked insurer is still cashing in",
-    "tokens": [
-      "again",
-      "cashing",
-      "fed",
-      "hikes",
-      "insurer",
-      "picked",
-      "still"
-    ],
-    "ts": 1789613183.3902218
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/manus-seeks-4-bln-valuation-in-first-funding-round-since-meta-breakup-bloomberg-4904762",
-    "title": "Manus seeks $4 bln valuation in first funding round since Meta breakup- Bloomberg",
-    "tokens": [
-      "bln",
-      "bloomberg",
-      "breakup",
-      "first",
-      "funding",
-      "manus",
-      "meta",
-      "round",
-      "seeks",
-      "since",
-      "valuation"
-    ],
-    "ts": 1789613190.2952187
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/judge-in-kennedy-center-case-orders-trump-administration-to-explain-closure-plans-4904590",
-    "title": "Judge in Kennedy Center case orders Trump administration to explain closure plans",
-    "tokens": [
-      "administration",
-      "case",
-      "center",
-      "closure",
-      "explain",
-      "judge",
-      "kennedy",
-      "orders",
-      "plans",
-      "trump"
-    ],
-    "ts": 1789614661.0989144
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/berkshire-may-boost-holdings-in-japans-trading-houses-bloomberg-4904778",
-    "title": "Berkshire may boost holdings in Japan’s trading houses- Bloomberg",
-    "tokens": [
-      "berkshire",
-      "bloomberg",
-      "boost",
-      "holdings",
-      "houses",
-      "japan",
-      "may",
-      "trading"
-    ],
-    "ts": 1789614669.4565732
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/eastgroup-properties-at-bofa-real-estate-conference-growth-discipline-93CH-4904776",
-    "title": "EastGroup Properties at BofA real estate conference: growth, discipline",
-    "tokens": [
-      "bofa",
-      "conference",
-      "discipline",
-      "eastgroup",
-      "estate",
-      "growth",
-      "properties",
-      "real"
-    ],
-    "ts": 1789614676.9430897
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/mach-natural-resources-ceo-tom-wards-trust-buys-2m-in-common-units-93CH-4904775",
-    "title": "Mach natural resources CEO Tom Ward’s trust buys $2m in common units",
-    "tokens": [
-      "buys",
-      "ceo",
-      "common",
-      "mach",
-      "natural",
-      "resources",
-      "tom",
-      "trust",
-      "units",
-      "ward"
-    ],
-    "ts": 1789614684.5810494
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/puma-biotechnology-director-troy-wilson-sells-45500-in-stock-93CH-4904774",
-    "title": "Puma Biotechnology director Troy Wilson sells $45,500 in stock",
-    "tokens": [
-      "500",
-      "biotechnology",
-      "director",
-      "puma",
-      "sells",
-      "stock",
-      "troy",
-      "wilson"
-    ],
-    "ts": 1789614691.202329
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/pc-connection-chairman-patricia-gallups-trust-sells-12m-in-cnxn-93CH-4904773",
     "title": "PC Connection chairman Patricia Gallup’s trust sells $1.2m in CNXN",
     "tokens": [
@@ -23185,5 +22968,223 @@
       "stocks"
     ],
     "ts": 1789755349.0549006
+  },
+  {
+    "id": "WP-MKTW-0005232002",
+    "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+    "tokens": [
+      "can",
+      "career",
+      "claim",
+      "died",
+      "earning",
+      "friend",
+      "her",
+      "high",
+      "lining",
+      "might",
+      "security",
+      "silver",
+      "social",
+      "there",
+      "wife"
+    ],
+    "ts": 1789756184.926653
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/wendys-shares-slip-after-us-franchisee-files-for-bankruptcy-93CH-4907773",
+    "title": "Wendy’s shares slip after US franchisee files for bankruptcy",
+    "tokens": [
+      "bankruptcy",
+      "files",
+      "franchisee",
+      "shares",
+      "slip",
+      "wendy"
+    ],
+    "ts": 1789756195.221627
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/new-york-times-options-flow-points-to-institutional-calendar-roll-with-hedged-upside-93CH-4907772",
+    "title": "New York Times options flow points to institutional calendar roll with hedged upside",
+    "tokens": [
+      "calendar",
+      "flow",
+      "hedged",
+      "institutional",
+      "options",
+      "points",
+      "roll",
+      "times",
+      "upside",
+      "york"
+    ],
+    "ts": 1789756204.3215766
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/san-juan-regional-medical-center-implements-oracle-health-tools-93CH-4907770",
+    "title": "San Juan Regional Medical Center implements Oracle Health tools",
+    "tokens": [
+      "center",
+      "health",
+      "implements",
+      "juan",
+      "medical",
+      "oracle",
+      "regional",
+      "san",
+      "tools"
+    ],
+    "ts": 1789756216.161549
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/lam-research-and-microstrategy-among-market-cap-stock-movers-on-friday-93CH-4907768",
+    "title": "Lam Research and MicroStrategy among market cap stock movers on Friday",
+    "tokens": [
+      "among",
+      "cap",
+      "friday",
+      "lam",
+      "market",
+      "microstrategy",
+      "movers",
+      "research",
+      "stock"
+    ],
+    "ts": 1789756229.048189
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/pbf-energy-options-flow-shows-bearish-tilt-with-large-put-spread-targeting-65-93CH-4907766",
+    "title": "PBF Energy options flow shows bearish tilt with large put spread targeting $65",
+    "tokens": [
+      "bearish",
+      "energy",
+      "flow",
+      "large",
+      "options",
+      "pbf",
+      "put",
+      "shows",
+      "spread",
+      "targeting",
+      "tilt"
+    ],
+    "ts": 1789756240.0452425
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/fda-approves-lillys-inluriyoverzenio-combo-for-breast-cancer-93CH-4907763",
+    "title": "FDA approves Lilly’s Inluriyo-Verzenio combo for breast cancer",
+    "tokens": [
+      "approves",
+      "breast",
+      "cancer",
+      "combo",
+      "fda",
+      "inluriyo",
+      "lilly",
+      "verzenio"
+    ],
+    "ts": 1789756253.8976107
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/economic-data-releases-and-fed-speech-highlight-mondays-calendar-93CH-4907762",
+    "title": "Economic data releases and Fed speech highlight Monday’s calendar",
+    "tokens": [
+      "calendar",
+      "data",
+      "economic",
+      "fed",
+      "highlight",
+      "monday",
+      "releases",
+      "speech"
+    ],
+    "ts": 1789756264.0622268
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/constellation-brands-options-positioning-signals-nearterm-bearish-bias-93CH-4907759",
+    "title": "Constellation Brands options positioning signals near-term bearish bias",
+    "tokens": [
+      "bearish",
+      "bias",
+      "brands",
+      "constellation",
+      "near",
+      "options",
+      "positioning",
+      "signals",
+      "term"
+    ],
+    "ts": 1789756273.4673011
+  },
+  {
+    "id": "2-top-stocks-double-5-083000739.html",
+    "title": "2 Top Stocks That Can Double in 5 Years",
+    "tokens": [
+      "can",
+      "double",
+      "stocks",
+      "top",
+      "years"
+    ],
+    "ts": 1789756283.672599
+  },
+  {
+    "id": "trend-excellent-news-eli-lilly-083501471.html",
+    "title": "This Trend is Excellent News for Eli Lilly and Its Investors",
+    "tokens": [
+      "eli",
+      "excellent",
+      "investors",
+      "lilly",
+      "news",
+      "trend"
+    ],
+    "ts": 1789756296.272227
+  },
+  {
+    "id": "im-65-high-earner-dont-135927460.html",
+    "title": "I'm 65 and a High Earner. Is Using My Roth IRA for Home Renovations a Mistake?",
+    "tokens": [
+      "earner",
+      "high",
+      "home",
+      "ira",
+      "mistake",
+      "renovations",
+      "roth",
+      "using"
+    ],
+    "ts": 1789756306.4308796
+  },
+  {
+    "id": "jpmorgan-ceo-jamie-dimon-its-not-clear-to-me-weve-slayed-inflation-210823303.html",
+    "title": "JPMorgan CEO Jamie Dimon: 'It's not clear to me we've slayed inflation'",
+    "tokens": [
+      "ceo",
+      "clear",
+      "dimon",
+      "inflation",
+      "jamie",
+      "jpmorgan",
+      "slayed"
+    ],
+    "ts": 1789756320.258584
+  },
+  {
+    "id": "live-nation-entertainment-stock-performance-090619228.html",
+    "title": "How Is Live Nation Entertainment’s Stock Performance Compared to Other Entertainment Stocks",
+    "tokens": [
+      "compared",
+      "entertainment",
+      "how",
+      "live",
+      "nation",
+      "other",
+      "performance",
+      "stock",
+      "stocks"
+    ],
+    "ts": 1789756331.9980166
   }
 ]

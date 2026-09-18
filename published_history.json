@@ -1,243 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-nokia-stock-surging-today-93CH-4903759",
-    "title": "Why is Nokia stock surging today?",
-    "tokens": [
-      "nokia",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789564638.2540603
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/avalo-therapeutics-at-hc-wainwright-conference-phase-2-data-lift-outlook-93CH-4903757",
-    "title": "Avalo Therapeutics at H.C. Wainwright conference: phase 2 data lift outlook",
-    "tokens": [
-      "avalo",
-      "conference",
-      "data",
-      "lift",
-      "outlook",
-      "phase",
-      "therapeutics",
-      "wainwright"
-    ],
-    "ts": 1789564643.2461436
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/chinas-huawei-forecasts-billions-of-agents-will-dominate-ai-traffic-by-2035-4903756",
-    "title": "China’s Huawei forecasts billions of agents will dominate AI traffic by 2035",
-    "tokens": [
-      "2035",
-      "agents",
-      "billions",
-      "china",
-      "dominate",
-      "forecasts",
-      "huawei",
-      "traffic"
-    ],
-    "ts": 1789564650.9166403
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/northern-venture-trust-launches-10m-share-offer-for-202627-93CH-4903755",
-    "title": "Northern Venture Trust launches £10m share offer for 2026/27",
-    "tokens": [
-      "10m",
-      "2026",
-      "launches",
-      "northern",
-      "offer",
-      "share",
-      "trust",
-      "venture"
-    ],
-    "ts": 1789564658.6787448
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-one-stop-systems-stock-climbing-today-93CH-4903753",
-    "title": "Why is One Stop Systems stock climbing today?",
-    "tokens": [
-      "climbing",
-      "one",
-      "stock",
-      "stop",
-      "systems",
-      "today",
-      "why"
-    ],
-    "ts": 1789564665.3674843
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/codiagnostics-partners-with-readygo-on-bloodbased-testing-93CH-4903752",
-    "title": "Co-Diagnostics partners with ReadyGo on blood-based testing",
-    "tokens": [
-      "based",
-      "blood",
-      "diagnostics",
-      "partners",
-      "readygo",
-      "testing"
-    ],
-    "ts": 1789564672.858577
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/northern-3-vct-launches-10-million-share-offer-for-202627-93CH-4903750",
-    "title": "Northern 3 VCT launches £10 million share offer for 2026/27",
-    "tokens": [
-      "2026",
-      "launches",
-      "million",
-      "northern",
-      "offer",
-      "share",
-      "vct"
-    ],
-    "ts": 1789564676.8734436
-  },
-  {
-    "id": "abded994-c176-4cbe-b925-7ffed347cb26",
-    "title": "A stolen coin can be returned. A leaked identity cannot.",
-    "tokens": [
-      "can",
-      "cannot",
-      "coin",
-      "identity",
-      "leaked",
-      "returned",
-      "stolen"
-    ],
-    "ts": 1789564682.5302355
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/thermo-fisher-scientific-stock-hits-52week-high-at-64772-usd-93CH-4903919",
-    "title": "Thermo Fisher Scientific stock hits 52-week high at 647.72 USD",
-    "tokens": [
-      "647",
-      "fisher",
-      "high",
-      "hits",
-      "scientific",
-      "stock",
-      "thermo",
-      "usd",
-      "week"
-    ],
-    "ts": 1789566124.3904517
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/arrowhead-pharmaceuticals-at-hc-wainwright-launch-and-pipeline-widen-93CH-4903918",
-    "title": "Arrowhead Pharmaceuticals at H.C. Wainwright: launch and pipeline widen",
-    "tokens": [
-      "arrowhead",
-      "launch",
-      "pharmaceuticals",
-      "pipeline",
-      "wainwright",
-      "widen"
-    ],
-    "ts": 1789566131.2301803
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/wall-st-opens-higher-ahead-of-muchanticipated-fed-decision-4903917",
-    "title": "Wall St opens higher ahead of much-anticipated Fed decision",
-    "tokens": [
-      "ahead",
-      "anticipated",
-      "decision",
-      "fed",
-      "higher",
-      "much",
-      "opens",
-      "wall"
-    ],
-    "ts": 1789566139.103332
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/lennar-earnings-on-deck-margin-pressure-tests-homebuilder-93CH-4903915",
-    "title": "Lennar earnings on deck: Margin pressure tests homebuilder",
-    "tokens": [
-      "deck",
-      "earnings",
-      "homebuilder",
-      "lennar",
-      "margin",
-      "pressure",
-      "tests"
-    ],
-    "ts": 1789566146.8877974
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/illumina-stock-reaches-52week-high-at-23182-usd-93CH-4903914",
-    "title": "Illumina stock reaches 52-week high at 231.82 USD",
-    "tokens": [
-      "231",
-      "high",
-      "illumina",
-      "reaches",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789566154.0518155
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hubspot-integrates-crm-with-chatgpt-ads-platform-93CH-4903913",
-    "title": "HubSpot integrates CRM with ChatGPT ads platform",
-    "tokens": [
-      "ads",
-      "chatgpt",
-      "crm",
-      "hubspot",
-      "integrates",
-      "platform"
-    ],
-    "ts": 1789566162.3125298
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/beamr-launches-lossless-compression-for-autonomous-vehicle-data-93CH-4903909",
-    "title": "Beamr launches lossless compression for autonomous vehicle data",
-    "tokens": [
-      "autonomous",
-      "beamr",
-      "compression",
-      "data",
-      "launches",
-      "lossless",
-      "vehicle"
-    ],
-    "ts": 1789566169.6861176
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/minaurum-silver-hires-operations-manager-for-alamos-project-93CH-4903910",
-    "title": "Minaurum Silver hires operations manager for Alamos project",
-    "tokens": [
-      "alamos",
-      "hires",
-      "manager",
-      "minaurum",
-      "operations",
-      "project",
-      "silver"
-    ],
-    "ts": 1789566177.3258197
-  },
-  {
-    "id": "bull-case-netflix-nflx-growth-132531860.html",
-    "title": "The Bull Case for Netflix’s (NFLX) New Growth Engine",
-    "tokens": [
-      "bull",
-      "case",
-      "engine",
-      "growth",
-      "netflix",
-      "nflx"
-    ],
-    "ts": 1789566185.9446778
-  },
-  {
     "id": "makes-mettler-toledo-international-mtd-132254501.html",
     "title": "What Makes Mettler-Toledo International (MTD) an Attractive Bet?",
     "tokens": [
@@ -23127,5 +22889,261 @@
       "saudi"
     ],
     "ts": 1789712069.4490812
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/oriole-resources-sells-turkey-royalty-for-12-million-93CH-4906712",
+    "title": "Oriole Resources sells Turkey royalty for $1.2 million",
+    "tokens": [
+      "million",
+      "oriole",
+      "resources",
+      "royalty",
+      "sells",
+      "turkey"
+    ],
+    "ts": 1789713304.5882056
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/french-prosecutors-and-regulators-step-up-scrutiny-on-smart-glasses-4906711",
+    "title": "French prosecutors and regulators step up scrutiny on smart glasses",
+    "tokens": [
+      "french",
+      "glasses",
+      "prosecutors",
+      "regulators",
+      "scrutiny",
+      "smart",
+      "step"
+    ],
+    "ts": 1789713312.0411737
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/shuka-minerals-assigns-convertible-loan-to-new-investor-and-ceo-93CH-4906710",
+    "title": "Shuka Minerals assigns convertible loan to new investor and CEO",
+    "tokens": [
+      "assigns",
+      "ceo",
+      "convertible",
+      "investor",
+      "loan",
+      "minerals",
+      "shuka"
+    ],
+    "ts": 1789713319.1968024
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tata-group-stocks-fall-after-26-billion-sp-group-stake-sale-plan-93CH-4906709",
+    "title": "Tata Group stocks fall after $2.6 billion SP Group stake sale plan",
+    "tokens": [
+      "billion",
+      "fall",
+      "group",
+      "plan",
+      "sale",
+      "stake",
+      "stocks",
+      "tata"
+    ],
+    "ts": 1789713325.9977994
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-in-us-sources-say-4906708",
+    "title": "SK Hynix’s Solidigm unit is weighing NAND memory chip factory in US, sources say",
+    "tokens": [
+      "chip",
+      "factory",
+      "hynix",
+      "memory",
+      "nand",
+      "say",
+      "solidigm",
+      "sources",
+      "unit",
+      "weighing"
+    ],
+    "ts": 1789713332.8452432
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/triad-group-grants-50000-share-units-to-commercial-director-93CH-4906706",
+    "title": "Triad Group grants 50,000 share units to commercial director",
+    "tokens": [
+      "000",
+      "commercial",
+      "director",
+      "grants",
+      "group",
+      "share",
+      "triad",
+      "units"
+    ],
+    "ts": 1789713340.5037513
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/cxmt-plans-flash-memory-chip-expansion-amid-global-shortage-reuters-93CH-4906704",
+    "title": "CXMT plans flash memory chip expansion amid global shortage- Reuters",
+    "tokens": [
+      "chip",
+      "cxmt",
+      "expansion",
+      "flash",
+      "global",
+      "memory",
+      "plans",
+      "reuters",
+      "shortage"
+    ],
+    "ts": 1789713349.0612104
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-180-4906703",
+    "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.80%",
+    "tokens": [
+      "close",
+      "higher",
+      "stocks",
+      "taiwan",
+      "trade",
+      "weighted"
+    ],
+    "ts": 1789713353.0735312
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tata-steel-receives-esg-score-of-683-from-ses-esg-research-93CH-4906700",
+    "title": "Tata Steel receives ESG score of 68.3 from SES ESG Research",
+    "tokens": [
+      "esg",
+      "receives",
+      "research",
+      "score",
+      "ses",
+      "steel",
+      "tata"
+    ],
+    "ts": 1789713356.1119652
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-dr-reddys-laboratories-stock-gaining-today-93CH-4906699",
+    "title": "Why is Dr Reddy’s Laboratories stock gaining today?",
+    "tokens": [
+      "gaining",
+      "laboratories",
+      "reddy",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789713364.02589
+  },
+  {
+    "id": "do-we-want-high-or-low-interest-rates-223031516.html",
+    "title": "Understanding the Fed's rate decisions: Do we want high or low interest rates​?",
+    "tokens": [
+      "decisions",
+      "fed",
+      "high",
+      "interest",
+      "low",
+      "rate",
+      "rates",
+      "understanding",
+      "want"
+    ],
+    "ts": 1789713371.1934266
+  },
+  {
+    "id": "qualcomm-now-faces-rival-bigger-183300116.html",
+    "title": "Qualcomm now faces rival with bigger market cap",
+    "tokens": [
+      "bigger",
+      "cap",
+      "faces",
+      "market",
+      "now",
+      "qualcomm",
+      "rival"
+    ],
+    "ts": 1789713377.8225734
+  },
+  {
+    "id": "mortgage-rate-predictions-for-the-next-five-years-a-new-data-powered-forecast-through-2031-195826935.html",
+    "title": "Mortgage rate predictions for the next five years: A new data-powered forecast through 2031",
+    "tokens": [
+      "2031",
+      "data",
+      "five",
+      "forecast",
+      "mortgage",
+      "next",
+      "powered",
+      "predictions",
+      "rate",
+      "through",
+      "years"
+    ],
+    "ts": 1789713385.0385365
+  },
+  {
+    "id": "fed-officials-forecasts-project-one-more-rate-hike-to-come-in-2026-183856618.html",
+    "title": "Fed officials' forecasts project one more rate hike to come in 2026",
+    "tokens": [
+      "2026",
+      "come",
+      "fed",
+      "forecasts",
+      "hike",
+      "more",
+      "officials",
+      "one",
+      "project",
+      "rate"
+    ],
+    "ts": 1789713393.5299711
+  },
+  {
+    "id": "us-retail-sales-rebound-sharply-123724094.html",
+    "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
+    "tokens": [
+      "building",
+      "economy",
+      "inflation",
+      "pressures",
+      "resilience",
+      "retail",
+      "robust",
+      "sales",
+      "underscore"
+    ],
+    "ts": 1789713402.3132534
+  },
+  {
+    "id": "preliminary-agenda-6th-palm-beach-224834498.html",
+    "title": "Preliminary Agenda: 6th Palm Beach CorpGov Forum Nov 4-5 with Activism, Sports, VC",
+    "tokens": [
+      "6th",
+      "activism",
+      "agenda",
+      "beach",
+      "corpgov",
+      "forum",
+      "nov",
+      "palm",
+      "preliminary",
+      "sports"
+    ],
+    "ts": 1789713409.321085
+  },
+  {
+    "id": "bf85d8c4-850d-45ba-8a81-216fcae720ea",
+    "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
+    "tokens": [
+      "blocks",
+      "capacity",
+      "same",
+      "solana",
+      "speeds",
+      "stays",
+      "transaction"
+    ],
+    "ts": 1789713417.2071588
   }
 ]

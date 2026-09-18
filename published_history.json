@@ -1,101 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/bofa-securities-maintains-apple-stock-rating-on-carrier-incentives-93CH-4905092",
-    "title": "BofA Securities maintains Apple stock rating on carrier incentives",
-    "tokens": [
-      "apple",
-      "bofa",
-      "carrier",
-      "incentives",
-      "maintains",
-      "rating",
-      "securities",
-      "stock"
-    ],
-    "ts": 1789638267.0498211
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-raiffeisen-bank-international-stock-tumbling-today-93CH-4905091",
-    "title": "Why is Raiffeisen Bank International stock tumbling today?",
-    "tokens": [
-      "bank",
-      "international",
-      "raiffeisen",
-      "stock",
-      "today",
-      "tumbling",
-      "why"
-    ],
-    "ts": 1789638273.8564296
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-allegro-groups-q2-2026-growth-surge-lifts-shares-93CH-4905090",
-    "title": "Earnings call transcript: Allegro Group’s Q2 2026 growth surge lifts shares",
-    "tokens": [
-      "2026",
-      "allegro",
-      "call",
-      "earnings",
-      "group",
-      "growth",
-      "lifts",
-      "shares",
-      "surge",
-      "transcript"
-    ],
-    "ts": 1789638281.4564147
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/exosens-raises-2026-guidance-again-on-faster-production-rampup-4904871",
-    "title": "Exosens raises 2026 guidance again on faster production ramp-up; shares jump",
-    "tokens": [
-      "2026",
-      "again",
-      "exosens",
-      "faster",
-      "guidance",
-      "jump",
-      "production",
-      "raises",
-      "ramp",
-      "shares"
-    ],
-    "ts": 1789638288.6664026
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-echo-investment-posts-stronger-h1-2026-results-93CH-4905089",
-    "title": "Earnings call transcript: Echo Investment posts stronger H1 2026 results",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "echo",
-      "investment",
-      "posts",
-      "results",
-      "stronger",
-      "transcript"
-    ],
-    "ts": 1789638296.317276
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
-    "title": "Wall St futures rise as Fed rate hike lifts long-standing overhang",
-    "tokens": [
-      "fed",
-      "futures",
-      "hike",
-      "lifts",
-      "long",
-      "overhang",
-      "rate",
-      "rise",
-      "standing",
-      "wall"
-    ],
-    "ts": 1789638303.8943367
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/berenberg-starts-bullish-coverage-as-uk-software-valuations-face-ai-fears-4905087",
     "title": "Berenberg sees UK software rebound despite AI-driven valuation de-rating",
     "tokens": [
@@ -23209,5 +23113,96 @@
       "trump"
     ],
     "ts": 1789771927.4611232
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/openai-expects-to-burn-through-almost-280-billion-by-2030-ft-reports-4907970",
+    "title": "OpenAI expects to burn through almost $280 billion by 2030, FT reports",
+    "tokens": [
+      "2030",
+      "280",
+      "almost",
+      "billion",
+      "burn",
+      "expects",
+      "openai",
+      "reports",
+      "through"
+    ],
+    "ts": 1789773035.9977038
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/revolution-medicines-coo-margaret-horn-sells-989612-of-common-stock-93CH-4907969",
+    "title": "Revolution Medicines COO Margaret Horn sells $989,612 of common stock",
+    "tokens": [
+      "612",
+      "989",
+      "common",
+      "coo",
+      "horn",
+      "margaret",
+      "medicines",
+      "revolution",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789773044.9793844
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/revolution-medicines-senior-advisor-sells-11m-in-stock-93CH-4907968",
+    "title": "Revolution Medicines’ senior advisor sells $1.1m in stock",
+    "tokens": [
+      "advisor",
+      "medicines",
+      "revolution",
+      "sells",
+      "senior",
+      "stock"
+    ],
+    "ts": 1789773055.9275851
+  },
+  {
+    "id": "sec-backs-real-stock-tokens-154009203.html",
+    "title": "SEC Backs Real Stock Tokens Over Synthetics: Who Loses?",
+    "tokens": [
+      "backs",
+      "loses",
+      "real",
+      "sec",
+      "stock",
+      "synthetics",
+      "tokens",
+      "who"
+    ],
+    "ts": 1789773066.0369139
+  },
+  {
+    "id": "p-global-buys-auditor-behind-153817004.html",
+    "title": "S&P Global Buys the Auditor Behind Most Stablecoins: Why Now, and Why Twice?",
+    "tokens": [
+      "auditor",
+      "behind",
+      "buys",
+      "global",
+      "most",
+      "now",
+      "stablecoins",
+      "twice",
+      "why"
+    ],
+    "ts": 1789773075.0064213
+  },
+  {
+    "id": "alexandria-real-estate-equities-stock-154718451.html",
+    "title": "Alexandria Real Estate Equities Stock: Is ARE Underperforming the Real Estate Sector?",
+    "tokens": [
+      "alexandria",
+      "equities",
+      "estate",
+      "real",
+      "sector",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1789773085.1757839
   }
 ]

@@ -1,176 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/berenberg-starts-bullish-coverage-as-uk-software-valuations-face-ai-fears-4905087",
-    "title": "Berenberg sees UK software rebound despite AI-driven valuation de-rating",
-    "tokens": [
-      "berenberg",
-      "despite",
-      "driven",
-      "rating",
-      "rebound",
-      "sees",
-      "software",
-      "valuation"
-    ],
-    "ts": 1789638310.6834786
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/prudential-sets-scrip-reference-price-for-interim-dividend-93CH-4905086",
-    "title": "Prudential sets scrip reference price for interim dividend",
-    "tokens": [
-      "dividend",
-      "interim",
-      "price",
-      "prudential",
-      "reference",
-      "scrip",
-      "sets"
-    ],
-    "ts": 1789638318.4548082
-  },
-  {
-    "id": "jim-cramer-likes-mcdonald-mcd-214316046.html",
-    "title": "Jim Cramer Likes McDonald’s (MCD) but Sees Jersey Mike’s (JMKE) as the Lower-Risk Bet",
-    "tokens": [
-      "bet",
-      "cramer",
-      "jersey",
-      "jim",
-      "jmke",
-      "likes",
-      "lower",
-      "mcd",
-      "mcdonald",
-      "mike",
-      "risk",
-      "sees"
-    ],
-    "ts": 1789638326.0549643
-  },
-  {
-    "id": "infleqtion-teams-cisco-play-infq-214331803.html",
-    "title": "As Infleqtion Teams Up With Cisco, Here’s How You Should Play INFQ Stock Now",
-    "tokens": [
-      "cisco",
-      "here",
-      "how",
-      "infleqtion",
-      "infq",
-      "now",
-      "play",
-      "should",
-      "stock",
-      "teams",
-      "you"
-    ],
-    "ts": 1789638333.6505363
-  },
-  {
-    "id": "tsmc-2nm-era-accelerating-mediatek-214827953.html",
-    "title": "TSMC’s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table",
-    "tokens": [
-      "2nm",
-      "accelerating",
-      "alphabet",
-      "already",
-      "era",
-      "mediatek",
-      "money",
-      "nvidia",
-      "table",
-      "tsmc"
-    ],
-    "ts": 1789638343.022987
-  },
-  {
-    "id": "palantir-nvidia-restricting-anthropic-ai-215533551.html",
-    "title": "Palantir and Nvidia Are Restricting Anthropic’s AI. Microsoft Could Win the Enterprise Trust War",
-    "tokens": [
-      "anthropic",
-      "could",
-      "enterprise",
-      "microsoft",
-      "nvidia",
-      "palantir",
-      "restricting",
-      "trust",
-      "war",
-      "win"
-    ],
-    "ts": 1789638350.718352
-  },
-  {
-    "id": "anthropic-just-put-claude-inside-215957194.html",
-    "title": "Anthropic Just Put Claude Inside Schwab and BlackRock. The AI Agent War Has Reached Wealth Management",
-    "tokens": [
-      "agent",
-      "anthropic",
-      "blackrock",
-      "claude",
-      "inside",
-      "just",
-      "management",
-      "put",
-      "reached",
-      "schwab",
-      "war",
-      "wealth"
-    ],
-    "ts": 1789638358.227529
-  },
-  {
-    "id": "crypto-market-today-sept-15-214527897.html",
-    "title": "Crypto Market Today, Sept. 15: Crypto Prices Plummet as Clarity Act Fails, Here's What it Means for Crypto",
-    "tokens": [
-      "act",
-      "clarity",
-      "crypto",
-      "fails",
-      "here",
-      "market",
-      "means",
-      "plummet",
-      "prices",
-      "sept",
-      "today",
-      "what"
-    ],
-    "ts": 1789638366.130383
-  },
-  {
-    "id": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe",
-    "title": "Polymarket users referred to prosecutors in South Korea: Report",
-    "tokens": [
-      "korea",
-      "polymarket",
-      "prosecutors",
-      "referred",
-      "report",
-      "south",
-      "users"
-    ],
-    "ts": 1789638374.951152
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bofa-hires-goldmans-srijith-nair-to-lead-asia-exchina-financial-institutions-banking-memo-says-4905111",
-    "title": "BofA hires Goldman’s Srijith Nair to lead Asia ex-China financial institutions banking, memo says",
-    "tokens": [
-      "asia",
-      "banking",
-      "bofa",
-      "china",
-      "financial",
-      "goldman",
-      "hires",
-      "institutions",
-      "lead",
-      "memo",
-      "nair",
-      "srijith"
-    ],
-    "ts": 1789638986.4216616
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-galliford-try-h2-2026-profit-cash-and-buyback-lift-shares-93CH-4905110",
     "title": "Earnings call transcript: Galliford Try H2 2026 profit, cash and buyback lift shares",
     "tokens": [
@@ -23204,5 +23033,170 @@
       "underperforming"
     ],
     "ts": 1789773085.1757839
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/paramount-states-discuss-cnn-monitoring-and-film-release-commitment-sources-say-4907979",
+    "title": "Paramount, states discuss CNN monitoring and film release commitment, sources say",
+    "tokens": [
+      "cnn",
+      "commitment",
+      "discuss",
+      "film",
+      "monitoring",
+      "paramount",
+      "release",
+      "say",
+      "sources",
+      "states"
+    ],
+    "ts": 1789773913.691091
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/paramount-in-advanced-talks-to-settle-warner-bros-discovery-deal-lawsuit--wsj-4907978",
+    "title": "Paramount in advanced talks to settle Warner Bros. Discovery deal lawsuit - WSJ",
+    "tokens": [
+      "advanced",
+      "bros",
+      "deal",
+      "discovery",
+      "lawsuit",
+      "paramount",
+      "settle",
+      "talks",
+      "warner",
+      "wsj"
+    ],
+    "ts": 1789773922.721676
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/glaukos-chief-development-officer-tomas-navratil-sells-243k-in-shares-93CH-4907977",
+    "title": "Glaukos chief development officer Tomas Navratil sells $243k in shares",
+    "tokens": [
+      "243k",
+      "chief",
+      "development",
+      "glaukos",
+      "navratil",
+      "officer",
+      "sells",
+      "shares",
+      "tomas"
+    ],
+    "ts": 1789773930.6701386
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/blackstone-mortgage-trust-cfo-sells-11597-in-bxmt-shares-93CH-4907976",
+    "title": "Blackstone Mortgage Trust CFO sells $11,597 in BXMT shares",
+    "tokens": [
+      "597",
+      "blackstone",
+      "bxmt",
+      "cfo",
+      "mortgage",
+      "sells",
+      "shares",
+      "trust"
+    ],
+    "ts": 1789773938.6115382
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/blackstone-mortgage-trust-president-sells-15128-in-shares-93CH-4907975",
+    "title": "Blackstone Mortgage Trust president sells $15,128 in shares",
+    "tokens": [
+      "128",
+      "blackstone",
+      "mortgage",
+      "president",
+      "sells",
+      "shares",
+      "trust"
+    ],
+    "ts": 1789773948.1678233
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/savers-value-village-director-allen-sells-241k-in-shares-93CH-4907974",
+    "title": "Savers Value Village director Allen sells $241k in shares",
+    "tokens": [
+      "241k",
+      "allen",
+      "director",
+      "savers",
+      "sells",
+      "shares",
+      "value",
+      "village"
+    ],
+    "ts": 1789773956.1861796
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/google-gemini-hacked-three-companies-during-cybersecurity-test--wsj-4907971",
+    "title": "Google Gemini hacked three companies during cybersecurity test - WSJ",
+    "tokens": [
+      "companies",
+      "cybersecurity",
+      "during",
+      "gemini",
+      "google",
+      "hacked",
+      "test",
+      "three",
+      "wsj"
+    ],
+    "ts": 1789773963.47374
+  },
+  {
+    "id": "c3-metals-ceo-major-copper-160622927.html",
+    "title": "C3 Metals CEO on major new copper target at Khaleesi and Q4 drilling plans",
+    "tokens": [
+      "ceo",
+      "copper",
+      "drilling",
+      "khaleesi",
+      "major",
+      "metals",
+      "plans",
+      "target"
+    ],
+    "ts": 1789773970.879792
+  },
+  {
+    "id": "everyone-seems-missed-13-most-160619465.html",
+    "title": "Everyone Seems to Have Missed the 13 Most Important Words in Kevin Warsh’s Press Conference About Hiking Rates",
+    "tokens": [
+      "about",
+      "conference",
+      "everyone",
+      "hiking",
+      "important",
+      "kevin",
+      "missed",
+      "most",
+      "press",
+      "rates",
+      "seems",
+      "warsh",
+      "words"
+    ],
+    "ts": 1789773978.599827
+  },
+  {
+    "id": "corning-just-signed-multibillion-dollar-162101149.html",
+    "title": "Corning Just Signed a Multibillion-Dollar Fiber Deal for AI and Broadband With Verizon. What That Means for GLW Stock.",
+    "tokens": [
+      "broadband",
+      "corning",
+      "deal",
+      "dollar",
+      "fiber",
+      "glw",
+      "just",
+      "means",
+      "multibillion",
+      "signed",
+      "stock",
+      "verizon",
+      "what"
+    ],
+    "ts": 1789773987.031899
   }
 ]

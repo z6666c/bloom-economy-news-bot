@@ -1,189 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005237231",
-    "title": "Here’s a sneaky way to play the Fed’s rate increase",
-    "tokens": [
-      "fed",
-      "here",
-      "increase",
-      "play",
-      "rate",
-      "sneaky",
-      "way"
-    ],
-    "ts": 1789591436.7888615
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/peabody-to-redeem-all-convertible-notes-due-2028-93CH-4904502",
-    "title": "Peabody to redeem all convertible notes due 2028",
-    "tokens": [
-      "2028",
-      "all",
-      "convertible",
-      "due",
-      "notes",
-      "peabody",
-      "redeem"
-    ],
-    "ts": 1789591444.8740883
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/north-dallas-bank--trust-declares-010-dividend-per-share-93CH-4904501",
-    "title": "North Dallas Bank & Trust declares $0.10 dividend per share",
-    "tokens": [
-      "bank",
-      "dallas",
-      "declares",
-      "dividend",
-      "north",
-      "per",
-      "share",
-      "trust"
-    ],
-    "ts": 1789591452.1567712
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-bcb-bancorp-stock-plunging-today-93CH-4904499",
-    "title": "Why is BCB Bancorp stock plunging today?",
-    "tokens": [
-      "bancorp",
-      "bcb",
-      "plunging",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789591459.1735566
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/nasdaq-grants-extension-to-generation-income-properties-for-bid-price-compliance-93CH-4904498",
-    "title": "Nasdaq grants extension to Generation Income Properties for bid price compliance",
-    "tokens": [
-      "bid",
-      "compliance",
-      "extension",
-      "generation",
-      "grants",
-      "income",
-      "nasdaq",
-      "price",
-      "properties"
-    ],
-    "ts": 1789591467.1912572
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/brightspire-capital-completes-300-million-sale-of-industrial-properties-93CH-4904495",
-    "title": "BrightSpire Capital completes $300 million sale of industrial properties",
-    "tokens": [
-      "300",
-      "brightspire",
-      "capital",
-      "completes",
-      "industrial",
-      "million",
-      "properties",
-      "sale"
-    ],
-    "ts": 1789591474.410618
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/fluence-energy-stock-tumbles-22-on-slashed-fiscal-2026-guidance-93CH-4904488",
-    "title": "Fluence Energy stock tumbles 22% on slashed fiscal 2026 guidance",
-    "tokens": [
-      "2026",
-      "energy",
-      "fiscal",
-      "fluence",
-      "guidance",
-      "slashed",
-      "stock",
-      "tumbles"
-    ],
-    "ts": 1789591482.260191
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fluence-energy-slashes-fiscal-2026-revenue-guidance-on-supply-delays-93CH-4904483",
-    "title": "Fluence Energy slashes fiscal 2026 revenue guidance on supply delays",
-    "tokens": [
-      "2026",
-      "delays",
-      "energy",
-      "fiscal",
-      "fluence",
-      "guidance",
-      "revenue",
-      "slashes",
-      "supply"
-    ],
-    "ts": 1789591491.5905845
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/caci-wins-15-billion-uscentcom-contract-for-intelligence-support-93CH-4904482",
-    "title": "CACI wins $1.5 billion USCENTCOM contract for intelligence support",
-    "tokens": [
-      "billion",
-      "caci",
-      "contract",
-      "intelligence",
-      "support",
-      "uscentcom",
-      "wins"
-    ],
-    "ts": 1789591499.0600822
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/bitgo-adds-support-for-arc-stablecoin-blockchain-93CH-4904481",
-    "title": "BitGo adds support for Arc stablecoin blockchain",
-    "tokens": [
-      "adds",
-      "arc",
-      "bitgo",
-      "blockchain",
-      "stablecoin",
-      "support"
-    ],
-    "ts": 1789591511.0983448
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/selective-insurance-appoints-wole-coaxum-to-board-93CH-4904479",
-    "title": "Selective Insurance appoints Wole Coaxum to board",
-    "tokens": [
-      "appoints",
-      "board",
-      "coaxum",
-      "insurance",
-      "selective",
-      "wole"
-    ],
-    "ts": 1789591519.225944
-  },
-  {
-    "id": "soybeans-slipping-back-ratings-remain-122930897.html",
-    "title": "Soybeans Slipping Back as Ratings Remain Steady",
-    "tokens": [
-      "back",
-      "ratings",
-      "remain",
-      "slipping",
-      "soybeans",
-      "steady"
-    ],
-    "ts": 1789591527.9955108
-  },
-  {
-    "id": "corn-facing-early-turnaround-tuesday-122930175.html",
-    "title": "Corn Facing Early Turnaround Tuesday Weakness",
-    "tokens": [
-      "corn",
-      "early",
-      "facing",
-      "tuesday",
-      "turnaround",
-      "weakness"
-    ],
-    "ts": 1789591535.3038085
-  },
-  {
     "id": "5-things-know-stock-market-121105631.html",
     "title": "5 Things to Know Before the Stock Market Opens on Tuesday",
     "tokens": [
@@ -23100,5 +22916,246 @@
       "wsj"
     ],
     "ts": 1789737152.8024352
+  },
+  {
+    "id": "coeur-mining-generating-record-cash-012024527.html",
+    "title": "Coeur Mining Is Generating Record Cash, So Why Does Its Dip History Warn Buyers?",
+    "tokens": [
+      "buyers",
+      "cash",
+      "coeur",
+      "dip",
+      "does",
+      "generating",
+      "history",
+      "mining",
+      "record",
+      "warn",
+      "why"
+    ],
+    "ts": 1789738013.9955242
+  },
+  {
+    "id": "vaxcyte-pcvx-brings-pharma-veterans-042014144.html",
+    "title": "Vaxcyte (PCVX) Brings In Pharma Veterans As Its Big Test Nears",
+    "tokens": [
+      "big",
+      "brings",
+      "nears",
+      "pcvx",
+      "pharma",
+      "test",
+      "vaxcyte",
+      "veterans"
+    ],
+    "ts": 1789738023.9095821
+  },
+  {
+    "id": "kevin-warsh-undersells-real-reason-011925150.html",
+    "title": "Kevin Warsh barely touched on the real reason why the Fed raised rates",
+    "tokens": [
+      "barely",
+      "fed",
+      "kevin",
+      "raised",
+      "rates",
+      "real",
+      "reason",
+      "touched",
+      "warsh",
+      "why"
+    ],
+    "ts": 1789738033.3304138
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/freight-technologies-launches-ai-powered-proof-of-delivery-validation-1036556767",
+    "title": "Freight Technologies Launches AI-Powered Proof-of-Delivery Validation",
+    "tokens": [
+      "delivery",
+      "freight",
+      "launches",
+      "powered",
+      "proof",
+      "technologies",
+      "validation"
+    ],
+    "ts": 1789738042.0287478
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/lincoln-tech-s-workforcelinc-division-expands-collaboration-with-cmc-1036556768",
+    "title": "Lincoln Tech’s WorkforceLinc Division Expands Collaboration with  CMC",
+    "tokens": [
+      "cmc",
+      "collaboration",
+      "division",
+      "expands",
+      "lincoln",
+      "tech",
+      "workforcelinc"
+    ],
+    "ts": 1789738053.1110117
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/toro-corp-announces-the-acquisitions-and-deliveries-of-two-tanker-vessels-1036556770",
+    "title": "Toro Corp. Announces the Acquisitions and Deliveries of Two Tanker Vessels",
+    "tokens": [
+      "acquisitions",
+      "announces",
+      "corp",
+      "deliveries",
+      "tanker",
+      "toro",
+      "two",
+      "vessels"
+    ],
+    "ts": 1789738063.3469348
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/former-united-kingdom-prime-minister-liz-truss-joins-roundtable-board-of-directors-to-lead-european-press-coalition-1036556769",
+    "title": "Former United Kingdom Prime Minister Liz Truss Joins Roundtable Board of Directors, to Lead European Press Coalition",
+    "tokens": [
+      "board",
+      "coalition",
+      "directors",
+      "european",
+      "former",
+      "joins",
+      "kingdom",
+      "lead",
+      "liz",
+      "minister",
+      "press",
+      "prime",
+      "roundtable",
+      "truss",
+      "united"
+    ],
+    "ts": 1789738073.2390501
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/premium-global-income-split-fund-announces-closing-of-overnight-offering-of-preferred-shares-and-class-a-shares-1036556771",
+    "title": "Premium Global Income Split Fund Announces Closing of Overnight Offering of Preferred Shares and Class A Shares",
+    "tokens": [
+      "announces",
+      "class",
+      "closing",
+      "fund",
+      "global",
+      "income",
+      "offering",
+      "overnight",
+      "preferred",
+      "premium",
+      "shares",
+      "split"
+    ],
+    "ts": 1789738087.1135821
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/medical-innovation-benefits-the-people-highlights-of-the-2026-beijing-capital-international-medical-conference-1036556761",
+    "title": "Medical Innovation Benefits the People: Highlights of the 2026 Beijing Capital International Medical Conference",
+    "tokens": [
+      "2026",
+      "beijing",
+      "benefits",
+      "capital",
+      "conference",
+      "highlights",
+      "innovation",
+      "international",
+      "medical",
+      "people"
+    ],
+    "ts": 1789738098.1555839
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-urges-smartsheet-inc.-smar-investors-seeking-recovery-to-contact-the-firm-before-october-5-2026-1036556755",
+    "title": "Kaplan Fox Urges Smartsheet Inc. (SMAR) Investors Seeking Recovery to Contact the Firm Before October 5, 2026",
+    "tokens": [
+      "2026",
+      "before",
+      "contact",
+      "firm",
+      "fox",
+      "inc",
+      "investors",
+      "kaplan",
+      "october",
+      "recovery",
+      "seeking",
+      "smar",
+      "smartsheet",
+      "urges"
+    ],
+    "ts": 1789738109.039336
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/yss-shareholder-action-reminder-faruqi-faruqi-llp-reminds-york-space-systems-yss-investors-of-securities-class-action-lawsuit-deadline-on-october-30-2026-1036556756",
+    "title": "YSS SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds York Space Systems (YSS) Investors of Securities Class Action Lawsuit Deadline on October 30, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "class",
+      "deadline",
+      "faruqi",
+      "investors",
+      "lawsuit",
+      "llp",
+      "october",
+      "reminder",
+      "reminds",
+      "securities",
+      "shareholder",
+      "space",
+      "systems",
+      "york",
+      "yss"
+    ],
+    "ts": 1789738119.3497238
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-brockhaus-technologies-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036556747",
+    "title": "EQS-PVR: Brockhaus Technologies AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "tokens": [
+      "according",
+      "act",
+      "article",
+      "brockhaus",
+      "distribution",
+      "eqs",
+      "europe",
+      "german",
+      "objective",
+      "pvr",
+      "release",
+      "section",
+      "securities",
+      "technologies",
+      "trading",
+      "wide",
+      "wphg"
+    ],
+    "ts": 1789738128.9356973
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rail-vision-to-showcase-newly-launched-yardflow-alongside-its-proven-ai-powered-railway-perception-solutions-at-innotrans-2026-1036556760",
+    "title": "Rail Vision to Showcase Newly Launched YardFlow™ Alongside Its Proven AI-Powered Railway Perception Solutions at InnoTrans 2026",
+    "tokens": [
+      "2026",
+      "alongside",
+      "innotrans",
+      "launched",
+      "newly",
+      "perception",
+      "powered",
+      "proven",
+      "rail",
+      "railway",
+      "showcase",
+      "solutions",
+      "vision",
+      "yardflow"
+    ],
+    "ts": 1789738138.8523834
   }
 ]

@@ -1,34 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/opentext-partners-with-cohere-on-agentic-ai-solution-93CH-4903396",
-    "title": "OpenText partners with Cohere on agentic AI solution",
-    "tokens": [
-      "agentic",
-      "cohere",
-      "opentext",
-      "partners",
-      "solution"
-    ],
-    "ts": 1789557135.9698818
-  },
-  {
-    "id": "silver-price-today-wednesday-september-16-2026-silver-prices-rise-in-anticipation-of-the-fed-105134969.html",
-    "title": "Silver price today, Wednesday, September 16, 2026:  Silver prices rise in anticipation of the Fed",
-    "tokens": [
-      "2026",
-      "anticipation",
-      "fed",
-      "price",
-      "prices",
-      "rise",
-      "september",
-      "silver",
-      "today",
-      "wednesday"
-    ],
-    "ts": 1789557143.6654334
-  },
-  {
     "id": "2b844be0-08fe-48dd-877b-2612b2f49d7f",
     "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
     "tokens": [
@@ -23175,5 +23146,32 @@
       "why"
     ],
     "ts": 1789702980.5923214
+  },
+  {
+    "id": "burnham-warns-challenging-budget-inflation-154142877.html",
+    "title": "Burnham warns of ‘challenging’ Budget as inflation rises",
+    "tokens": [
+      "budget",
+      "burnham",
+      "challenging",
+      "inflation",
+      "rises",
+      "warns"
+    ],
+    "ts": 1789703641.2950013
+  },
+  {
+    "id": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money",
+    "title": "World launches self-custodial ‘super app’ World Money",
+    "tokens": [
+      "app",
+      "custodial",
+      "launches",
+      "money",
+      "self",
+      "super",
+      "world"
+    ],
+    "ts": 1789703649.2752213
   }
 ]

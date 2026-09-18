@@ -1,205 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/exclusivelvmh-signed-a-secret-2002-pact-to-buy-hermes-heirs-shares-now-he-says-his-fortune-is-missing-4904831",
-    "title": "Exclusive-LVMH signed a secret 2002 pact to buy Hermès heir’s shares. Now he says his fortune is missing",
-    "tokens": [
-      "2002",
-      "buy",
-      "exclusive",
-      "fortune",
-      "heir",
-      "herm",
-      "his",
-      "lvmh",
-      "missing",
-      "now",
-      "pact",
-      "secret",
-      "shares",
-      "signed"
-    ],
-    "ts": 1789628266.5243897
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/zenith-energy-acquires-9-mwp-solar-project-in-lombardy-italy-93CH-4904858",
-    "title": "Zenith Energy acquires 9 MWp solar project in Lombardy, Italy",
-    "tokens": [
-      "acquires",
-      "energy",
-      "italy",
-      "lombardy",
-      "mwp",
-      "project",
-      "solar",
-      "zenith"
-    ],
-    "ts": 1789628273.592368
-  },
-  {
-    "id": "1-billion-reason-why-axon-193446212.html",
-    "title": "A $1 Billion Reason Why AXON Stock Is Down Today",
-    "tokens": [
-      "axon",
-      "billion",
-      "reason",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789628281.2943356
-  },
-  {
-    "id": "oil-prices-rise-saudi-pipeline-003617502.html",
-    "title": "Oil settles $3 higher on Yanbu disruption, Saudi cargo cancellations",
-    "tokens": [
-      "cancellations",
-      "cargo",
-      "disruption",
-      "higher",
-      "oil",
-      "saudi",
-      "settles",
-      "yanbu"
-    ],
-    "ts": 1789628288.1562667
-  },
-  {
-    "id": "why-axon-enterprise-stock-tumbling-185433953.html",
-    "title": "Why Axon Enterprise Stock Was Tumbling Today",
-    "tokens": [
-      "axon",
-      "enterprise",
-      "stock",
-      "today",
-      "tumbling",
-      "why"
-    ],
-    "ts": 1789628296.3952742
-  },
-  {
-    "id": "100-million-reason-buy-avav-190250936.html",
-    "title": "A $100 Million Reason to Buy AVAV Stock",
-    "tokens": [
-      "100",
-      "avav",
-      "buy",
-      "million",
-      "reason",
-      "stock"
-    ],
-    "ts": 1789628303.4013615
-  },
-  {
-    "id": "swarmer-targets-200m-pro-forma-190125987.html",
-    "title": "Swarmer Targets $200M in Pro Forma Revenue Next Year – Report",
-    "tokens": [
-      "200m",
-      "forma",
-      "next",
-      "pro",
-      "report",
-      "revenue",
-      "swarmer",
-      "targets",
-      "year"
-    ],
-    "ts": 1789628310.0649407
-  },
-  {
-    "id": "u-steel-materials-stocks-swing-193008928.html",
-    "title": "U.S. Steel and Materials Stocks Swing as U.S.-Canada Trade War Escalates With 50% Tariffs",
-    "tokens": [
-      "canada",
-      "escalates",
-      "materials",
-      "steel",
-      "stocks",
-      "swing",
-      "tariffs",
-      "trade",
-      "war"
-    ],
-    "ts": 1789628318.228957
-  },
-  {
-    "id": "dollar-rises-surging-crude-prices-193655740.html",
-    "title": "Dollar Rises on Surging Crude Prices and T-Note Yields",
-    "tokens": [
-      "crude",
-      "dollar",
-      "note",
-      "prices",
-      "rises",
-      "surging",
-      "yields"
-    ],
-    "ts": 1789628325.2891264
-  },
-  {
-    "id": "WP-MKTW-0005238097",
-    "title": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.",
-    "tokens": [
-      "began",
-      "freed",
-      "happened",
-      "itself",
-      "model",
-      "notes",
-      "openai",
-      "secretly",
-      "what",
-      "when",
-      "writing",
-      "you"
-    ],
-    "ts": 1789629385.357984
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
-    "title": "Bitcoin steady at $76.5k as markets digest Fed rate hike, M.East tensions",
-    "tokens": [
-      "bitcoin",
-      "digest",
-      "east",
-      "fed",
-      "hike",
-      "markets",
-      "rate",
-      "steady",
-      "tensions"
-    ],
-    "ts": 1789629393.3255358
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/starprime-responds-to-diverging-gold-market-demand-with-ampm-fixing-and-xau247-4904890",
-    "title": "STARPRIME Responds to Diverging Gold Market Demand with AM/PM Fixing and XAU24/7",
-    "tokens": [
-      "demand",
-      "diverging",
-      "fixing",
-      "gold",
-      "market",
-      "responds",
-      "starprime",
-      "xau24"
-    ],
-    "ts": 1789629400.7902648
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-053-4904889",
-    "title": "Japan stocks higher at close of trade; Nikkei 225 up 0.53%",
-    "tokens": [
-      "225",
-      "close",
-      "higher",
-      "japan",
-      "nikkei",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789629408.1096349
-  },
-  {
     "id": "https://www.investing.com/news/earnings/wizz-air-cuts-h2-capacity-by-5-unveils-mediumterm-growth-targets-4904882",
     "title": "Wizz Air cuts H2 capacity by 5%, unveils medium-term growth targets",
     "tokens": [
@@ -23182,5 +22982,203 @@
       "micro"
     ],
     "ts": 1789763329.6800718
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/analysisrussia-sanctions-bill-gives-trump-sweeping-new-tariff-powers-4907872",
+    "title": "Analysis-Russia sanctions bill gives Trump sweeping new tariff powers",
+    "tokens": [
+      "analysis",
+      "bill",
+      "gives",
+      "powers",
+      "russia",
+      "sanctions",
+      "sweeping",
+      "tariff",
+      "trump"
+    ],
+    "ts": 1789763982.191467
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/aura-minerals-director-bruno-sousa-mauad-sells-68-million-in-shares-93CH-4907871",
+    "title": "Aura Minerals director Bruno Sousa Mauad sells $6.8 million in shares",
+    "tokens": [
+      "aura",
+      "bruno",
+      "director",
+      "mauad",
+      "million",
+      "minerals",
+      "sells",
+      "shares",
+      "sousa"
+    ],
+    "ts": 1789763990.5318384
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/magnite-director-paul-caine-sells-198750-in-company-stock-93CH-4907868",
+    "title": "Magnite director Paul Caine sells $198,750 in company stock",
+    "tokens": [
+      "198",
+      "750",
+      "caine",
+      "company",
+      "director",
+      "magnite",
+      "paul",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789763999.3440394
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/eplus-coo-darren-raiguel-sells-12979-in-company-stock-93CH-4907869",
+    "title": "Eplus COO Darren Raiguel sells $12,979 in company stock",
+    "tokens": [
+      "979",
+      "company",
+      "coo",
+      "darren",
+      "eplus",
+      "raiguel",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789764009.8058531
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-down-019-4907867",
+    "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average down 0.19%",
+    "tokens": [
+      "average",
+      "close",
+      "dow",
+      "industrial",
+      "jones",
+      "mixed",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1789764013.8212535
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/openais-sam-altmanto-brief-un-security-council-next-week-4907866",
+    "title": "OpenAI’s Sam Altman to brief UN Security Council next week",
+    "tokens": [
+      "altman",
+      "brief",
+      "council",
+      "next",
+      "openai",
+      "sam",
+      "security",
+      "week"
+    ],
+    "ts": 1789764019.0361562
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-019-4907865",
+    "title": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.19%",
+    "tokens": [
+      "canada",
+      "close",
+      "composite",
+      "lower",
+      "stocks",
+      "trade",
+      "tsx"
+    ],
+    "ts": 1789764023.0519304
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-041-4907863",
+    "title": "Brazil stocks lower at close of trade; Bovespa down 0.41%",
+    "tokens": [
+      "bovespa",
+      "brazil",
+      "close",
+      "lower",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1789764023.0668867
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-china-discuss-cutting-tariffs-on-us-lng-ahead-of-xi-visit-4907862",
+    "title": "US, China discuss cutting tariffs on US LNG ahead of Xi visit",
+    "tokens": [
+      "ahead",
+      "china",
+      "cutting",
+      "discuss",
+      "lng",
+      "tariffs",
+      "visit"
+    ],
+    "ts": 1789764028.8467271
+  },
+  {
+    "id": "bitcoin-needs-reclaim-80-000-105205496.html",
+    "title": "Bitcoin Needs to Reclaim $80,000. Here’s What Has to Happen First",
+    "tokens": [
+      "000",
+      "bitcoin",
+      "first",
+      "happen",
+      "here",
+      "needs",
+      "reclaim",
+      "what"
+    ],
+    "ts": 1789764042.2763329
+  },
+  {
+    "id": "daily-briefing-a-cap-insurers-face-takeover-bid-over-risky-private-credit-cd70ad51?siteid=yhoof2&yptr=yahoo",
+    "title": "Daily Briefing: A-CAP Insurers Face Takeover Bid Over Risky Private Credit",
+    "tokens": [
+      "bid",
+      "briefing",
+      "cap",
+      "credit",
+      "daily",
+      "face",
+      "insurers",
+      "private",
+      "risky",
+      "takeover"
+    ],
+    "ts": 1789764052.5609143
+  },
+  {
+    "id": "iren-stock-dropped-12-week-111020110.html",
+    "title": "Iren Stock Has Dropped 12% in a Week. Why, and How to Play It Here.",
+    "tokens": [
+      "dropped",
+      "here",
+      "how",
+      "iren",
+      "play",
+      "stock",
+      "week",
+      "why"
+    ],
+    "ts": 1789764061.6574178
+  },
+  {
+    "id": "oracle-slashing-payroll-while-borrowing-112001539.html",
+    "title": "Oracle Is Slashing Payroll While Borrowing Billions for AI. What It Means for ORCL Stock.",
+    "tokens": [
+      "billions",
+      "borrowing",
+      "means",
+      "oracle",
+      "orcl",
+      "payroll",
+      "slashing",
+      "stock",
+      "what",
+      "while"
+    ],
+    "ts": 1789764071.2487974
   }
 ]

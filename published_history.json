@@ -1,243 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/american-airlines-at-morgan-stanley-laguna-conference-revenue-strength-93CH-4904107",
-    "title": "American Airlines at Morgan Stanley Laguna Conference: revenue strength",
-    "tokens": [
-      "airlines",
-      "american",
-      "conference",
-      "laguna",
-      "morgan",
-      "revenue",
-      "stanley",
-      "strength"
-    ],
-    "ts": 1789574171.4838426
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/bruker-at-morgan-stanley-conference-betting-on-postgenomic-growth-93CH-4904106",
-    "title": "Bruker at Morgan Stanley conference: betting on post-genomic growth",
-    "tokens": [
-      "betting",
-      "bruker",
-      "conference",
-      "genomic",
-      "growth",
-      "morgan",
-      "post",
-      "stanley"
-    ],
-    "ts": 1789574179.2976615
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/calumet-stock-hits-alltime-high-at-5844-usd-93CH-4904105",
-    "title": "Calumet stock hits all-time high at 58.44 USD",
-    "tokens": [
-      "all",
-      "calumet",
-      "high",
-      "hits",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1789574183.3100116
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/ge-vernova-at-morgan-stanley-laguna-conference-backlog-surges-93CH-4904104",
-    "title": "GE Vernova at Morgan Stanley laguna conference: backlog surges",
-    "tokens": [
-      "backlog",
-      "conference",
-      "laguna",
-      "morgan",
-      "stanley",
-      "surges",
-      "vernova"
-    ],
-    "ts": 1789574188.0034423
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/humacyte-at-hc-wainwright-conference-dialysis-push-takes-center-stage-93CH-4904102",
-    "title": "Humacyte at H.C. Wainwright conference: dialysis push takes center stage",
-    "tokens": [
-      "center",
-      "conference",
-      "dialysis",
-      "humacyte",
-      "push",
-      "stage",
-      "takes",
-      "wainwright"
-    ],
-    "ts": 1789574196.2514832
-  },
-  {
-    "id": "westlake-wlk-second-quarter-turned-153826527.html",
-    "title": "Westlake’s (WLK) Second Quarter Turned Two Straight Losses Into Profit",
-    "tokens": [
-      "losses",
-      "profit",
-      "quarter",
-      "second",
-      "straight",
-      "turned",
-      "two",
-      "westlake",
-      "wlk"
-    ],
-    "ts": 1789574204.2912545
-  },
-  {
-    "id": "WP-MKTW-0005236806",
-    "title": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500",
-    "tokens": [
-      "500",
-      "all",
-      "beaten",
-      "dividends",
-      "grown",
-      "most",
-      "nearly",
-      "stocks"
-    ],
-    "ts": 1789575175.2042859
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/marsh-names-matt-stadler-as-ceo-of-marsh-agency-unit-93CH-4904131",
-    "title": "Marsh names Matt Stadler as CEO of Marsh Agency unit",
-    "tokens": [
-      "agency",
-      "ceo",
-      "marsh",
-      "matt",
-      "names",
-      "stadler",
-      "unit"
-    ],
-    "ts": 1789575183.1808467
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/metlen-energy--metals-grants-share-awards-to-executives-93CH-4904129",
-    "title": "Metlen Energy & Metals grants share awards to executives",
-    "tokens": [
-      "awards",
-      "energy",
-      "executives",
-      "grants",
-      "metals",
-      "metlen",
-      "share"
-    ],
-    "ts": 1789575190.186767
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/saputo-at-scotiabank-back-to-school-conference-bets-on-protein-93CH-4904128",
-    "title": "Saputo at Scotiabank back to school conference: bets on protein",
-    "tokens": [
-      "back",
-      "bets",
-      "conference",
-      "protein",
-      "saputo",
-      "school",
-      "scotiabank"
-    ],
-    "ts": 1789575198.3278134
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/thrivent-financial-buys-6m-in-ares-dynamic-credit-preferred-shares-93CH-4904126",
-    "title": "Thrivent Financial buys $6m in Ares Dynamic Credit preferred shares",
-    "tokens": [
-      "ares",
-      "buys",
-      "credit",
-      "dynamic",
-      "financial",
-      "preferred",
-      "shares",
-      "thrivent"
-    ],
-    "ts": 1789575205.8310778
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiveopenais-rogue-agentsprobed-hugging-face-for-weaknesses-two-months-before-major-hack-4903289",
-    "title": "Exclusive-OpenAI’s rogue agents probed Hugging Face for weaknesses two months before major hack",
-    "tokens": [
-      "agents",
-      "before",
-      "exclusive",
-      "face",
-      "hack",
-      "hugging",
-      "major",
-      "months",
-      "openai",
-      "probed",
-      "rogue",
-      "two",
-      "weaknesses"
-    ],
-    "ts": 1789575213.6466587
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-098-4904124",
-    "title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.98%",
-    "tokens": [
-      "close",
-      "higher",
-      "omx",
-      "stockholm",
-      "stocks",
-      "sweden",
-      "trade"
-    ],
-    "ts": 1789575220.6017795
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/finland-stocks-higher-at-close-of-trade-omx-helsinki-25-up-077-4904122",
-    "title": "Finland stocks higher at close of trade; OMX Helsinki 25 up 0.77%",
-    "tokens": [
-      "close",
-      "finland",
-      "helsinki",
-      "higher",
-      "omx",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789575227.7453563
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sazerac-explores-berentzen-acquisition-for-schnapps-brands--bloomberg-93CH-4904121",
-    "title": "Sazerac explores Berentzen acquisition for schnapps brands - Bloomberg",
-    "tokens": [
-      "acquisition",
-      "berentzen",
-      "bloomberg",
-      "brands",
-      "explores",
-      "sazerac",
-      "schnapps"
-    ],
-    "ts": 1789575235.561664
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dollarama-stock-outlook-earnings-beat-but-valuation-remains-stretched-93CH-4904120",
-    "title": "Dollarama stock outlook: earnings beat but valuation remains stretched",
-    "tokens": [
-      "beat",
-      "dollarama",
-      "earnings",
-      "outlook",
-      "remains",
-      "stock",
-      "stretched",
-      "valuation"
-    ],
-    "ts": 1789575243.7819376
-  },
-  {
     "id": "bitget-publishes-45th-consecutive-monthly-160021181.html",
     "title": "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
     "tokens": [
@@ -23162,5 +22924,255 @@
       "wednesday"
     ],
     "ts": 1789720165.606167
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/baird-upgrades-regions-financial-stock-rating-on-valuation-93CH-4906814",
+    "title": "Baird upgrades Regions Financial stock rating on valuation",
+    "tokens": [
+      "baird",
+      "financial",
+      "rating",
+      "regions",
+      "stock",
+      "upgrades",
+      "valuation"
+    ],
+    "ts": 1789721052.8517776
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/deutsche-bank-cuts-xenon-pharmaceuticals-stock-rating-on-safety-concerns-93CH-4906815",
+    "title": "Deutsche Bank cuts Xenon Pharmaceuticals stock rating on safety concerns",
+    "tokens": [
+      "bank",
+      "concerns",
+      "cuts",
+      "deutsche",
+      "pharmaceuticals",
+      "rating",
+      "safety",
+      "stock",
+      "xenon"
+    ],
+    "ts": 1789721059.983764
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-nestle-stock-sliding-today-93CH-4906812",
+    "title": "Why is Nestlé stock sliding today?",
+    "tokens": [
+      "nestl",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789721063.999993
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/euro-zone-consumers-nudge-up-inflation-expectations-ecb-poll-shows-4906810",
+    "title": "Euro zone consumers nudge up inflation expectations, ECB poll shows",
+    "tokens": [
+      "consumers",
+      "ecb",
+      "euro",
+      "expectations",
+      "inflation",
+      "nudge",
+      "poll",
+      "shows",
+      "zone"
+    ],
+    "ts": 1789721066.733092
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/ubs-sees-eurusd-long-opportunity-on-central-bank-dynamics-93CH-4906809",
+    "title": "UBS sees EUR/USD long opportunity on central bank dynamics",
+    "tokens": [
+      "bank",
+      "central",
+      "dynamics",
+      "eur",
+      "long",
+      "opportunity",
+      "sees",
+      "ubs",
+      "usd"
+    ],
+    "ts": 1789721074.2353861
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/euro-zone-current-account-surplus-narrows-in-july-4906808",
+    "title": "Euro zone current account surplus narrows in July",
+    "tokens": [
+      "account",
+      "current",
+      "euro",
+      "july",
+      "narrows",
+      "surplus",
+      "zone"
+    ],
+    "ts": 1789721081.4687824
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/factboxtexas-power-plant-nuclear-projects-under-discussion-in-south-koreas-us-investment-package-4906807",
+    "title": "Factbox-Texas power plant, nuclear projects under discussion in South Korea’s US investment package",
+    "tokens": [
+      "discussion",
+      "factbox",
+      "investment",
+      "korea",
+      "nuclear",
+      "package",
+      "plant",
+      "power",
+      "projects",
+      "south",
+      "texas",
+      "under"
+    ],
+    "ts": 1789721089.1205652
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
+    "title": "Sterling today: Pound gains as UK retail sales beat and dollar cools",
+    "tokens": [
+      "beat",
+      "cools",
+      "dollar",
+      "gains",
+      "pound",
+      "retail",
+      "sales",
+      "sterling",
+      "today"
+    ],
+    "ts": 1789721096.965145
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/planet-labs-cfo-ashley-johnson-sells-944k-in-company-stock-93CH-4906804",
+    "title": "Planet Labs CFO Ashley Johnson sells $944k in company stock",
+    "tokens": [
+      "944k",
+      "ashley",
+      "cfo",
+      "company",
+      "johnson",
+      "labs",
+      "planet",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789721104.349817
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/lpp-shares-surge-on-strong-profit-growth-raised-fullyear-targets-4906802",
+    "title": "LPP shares surge on strong profit growth, raised full-year targets",
+    "tokens": [
+      "full",
+      "growth",
+      "lpp",
+      "profit",
+      "raised",
+      "shares",
+      "strong",
+      "surge",
+      "targets",
+      "year"
+    ],
+    "ts": 1789721111.4116058
+  },
+  {
+    "id": "american-express-stock-week-why-211915058.html",
+    "title": "American Express Stock Is Up This Week. Here’s Why the Platinum Refresh Keeps Paying Off",
+    "tokens": [
+      "american",
+      "express",
+      "here",
+      "keeps",
+      "off",
+      "paying",
+      "platinum",
+      "refresh",
+      "stock",
+      "week",
+      "why"
+    ],
+    "ts": 1789721120.9234257
+  },
+  {
+    "id": "fed-forecasts-see-latest-hike-180631717.html",
+    "title": "Fed policymakers forecast one more rate hike this year",
+    "tokens": [
+      "fed",
+      "forecast",
+      "hike",
+      "more",
+      "one",
+      "policymakers",
+      "rate",
+      "year"
+    ],
+    "ts": 1789721127.9261303
+  },
+  {
+    "id": "hawaiian-electric-does-1-billion-212245205.html",
+    "title": "Hawaiian Electric (HE): Does a $1 Billion Bank IPO Valuation Matter?",
+    "tokens": [
+      "bank",
+      "billion",
+      "does",
+      "electric",
+      "hawaiian",
+      "ipo",
+      "matter",
+      "valuation"
+    ],
+    "ts": 1789721134.3693578
+  },
+  {
+    "id": "keycorp-raises-prime-rate-fed-192441357.html",
+    "title": "Major US banks raise prime rate after first Fed rate hike since 2023",
+    "tokens": [
+      "2023",
+      "banks",
+      "fed",
+      "first",
+      "hike",
+      "major",
+      "prime",
+      "raise",
+      "rate",
+      "since"
+    ],
+    "ts": 1789721138.3848615
+  },
+  {
+    "id": "corn-bounces-session-lows-wednesday-210138991.html",
+    "title": "Corn Bounces of Session Lows into Wednesday’s Close",
+    "tokens": [
+      "bounces",
+      "close",
+      "corn",
+      "lows",
+      "session",
+      "wednesday"
+    ],
+    "ts": 1789721141.543043
+  },
+  {
+    "id": "binance-responds-u-seeks-61-211837931.html",
+    "title": "Binance responds after U.S. seeks $61 million in crypto tied to Iranian oil sales",
+    "tokens": [
+      "binance",
+      "crypto",
+      "iranian",
+      "million",
+      "oil",
+      "responds",
+      "sales",
+      "seeks",
+      "tied"
+    ],
+    "ts": 1789721149.0040812
   }
 ]

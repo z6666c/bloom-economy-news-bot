@@ -1,115 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-pan-african-resources-posts-record-fy-2026-results-93CH-4903287",
-    "title": "Earnings call transcript: Pan African Resources posts record FY 2026 results",
-    "tokens": [
-      "2026",
-      "african",
-      "call",
-      "earnings",
-      "pan",
-      "posts",
-      "record",
-      "resources",
-      "results",
-      "transcript"
-    ],
-    "ts": 1789554651.2706566
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/arcus-biosciences-stock-initiated-at-buy-by-td-cowen-on-rcc-drug-93CH-4903286",
-    "title": "Arcus Biosciences stock initiated at Buy by TD Cowen on RCC drug",
-    "tokens": [
-      "arcus",
-      "biosciences",
-      "buy",
-      "cowen",
-      "drug",
-      "initiated",
-      "rcc",
-      "stock"
-    ],
-    "ts": 1789554658.2689936
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/luxexperience-bv-drc-earnings-missed-by-011-revenue-topped-estimates-4903283",
-    "title": "LuxExperience BV DRC earnings missed by €0.11, revenue topped estimates",
-    "tokens": [
-      "drc",
-      "earnings",
-      "estimates",
-      "luxexperience",
-      "missed",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1789554662.2786071
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/crypto-stocks-decline-as-senate-bill-fails-to-advance-93CH-4903282",
-    "title": "Crypto stocks decline as Senate bill fails to advance",
-    "tokens": [
-      "advance",
-      "bill",
-      "crypto",
-      "decline",
-      "fails",
-      "senate",
-      "stocks"
-    ],
-    "ts": 1789554662.2887611
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
-    "title": "Bitcoin dips to $76k as Clarity vote fails; Fed rate hike in focus",
-    "tokens": [
-      "76k",
-      "bitcoin",
-      "clarity",
-      "dips",
-      "fails",
-      "fed",
-      "focus",
-      "hike",
-      "rate",
-      "vote"
-    ],
-    "ts": 1789554665.4039521
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/irish-home-prices-rise-08-in-july-fastest-monthly-gain-in-a-year-93CH-4903281",
-    "title": "Irish home prices rise 0.8% in July, fastest monthly gain in a year",
-    "tokens": [
-      "fastest",
-      "gain",
-      "home",
-      "irish",
-      "july",
-      "monthly",
-      "prices",
-      "rise",
-      "year"
-    ],
-    "ts": 1789554672.397358
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-grenergy-posts-strong-h1-2026-growth-shares-rise-27-93CH-4903280",
-    "title": "Earnings call transcript: Grenergy posts strong H1 2026 growth, shares rise 2.7%",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "grenergy",
-      "growth",
-      "posts",
-      "rise",
-      "shares",
-      "strong",
-      "transcript"
-    ],
-    "ts": 1789554679.8740494
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/bond-market-woes-likely-a-factor-for-fed-but-intervention-seen-as-unlikely-4903276",
     "title": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
     "tokens": [
@@ -23188,5 +23078,117 @@
       "saying"
     ],
     "ts": 1789696335.0743778
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ceribell-cfo-scott-blumberg-exercises-options-sells-21150-in-stock-93CH-4906613",
+    "title": "Ceribell CFO Scott Blumberg exercises options, sells $21,150 in stock.",
+    "tokens": [
+      "150",
+      "blumberg",
+      "ceribell",
+      "cfo",
+      "exercises",
+      "options",
+      "scott",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789697445.466841
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/formfactor-ceo-mike-slessor-sells-183m-in-company-stock-93CH-4906612",
+    "title": "FormFactor CEO Mike Slessor sells $1.83m in company stock",
+    "tokens": [
+      "83m",
+      "ceo",
+      "company",
+      "formfactor",
+      "mike",
+      "sells",
+      "slessor",
+      "stock"
+    ],
+    "ts": 1789697452.458512
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/australias-central-bank-chief-warns-inflation-risks-materialising-4906611",
+    "title": "Australia’s central bank chief warns inflation risks materialising",
+    "tokens": [
+      "australia",
+      "bank",
+      "central",
+      "chief",
+      "inflation",
+      "materialising",
+      "risks",
+      "warns"
+    ],
+    "ts": 1789697459.6481116
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/white-house-withdraws-former-delta-pilot-for-international-aviation-post-4906610",
+    "title": "White House withdraws former Delta pilot for international aviation post",
+    "tokens": [
+      "aviation",
+      "delta",
+      "former",
+      "house",
+      "international",
+      "pilot",
+      "post",
+      "white",
+      "withdraws"
+    ],
+    "ts": 1789697466.8376973
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/gold-rises-as-lower-oil-treasury-yields-ease-inflation-pressure-4906609",
+    "title": "Gold rises as lower oil, Treasury yields ease inflation pressure",
+    "tokens": [
+      "ease",
+      "gold",
+      "inflation",
+      "lower",
+      "oil",
+      "pressure",
+      "rises",
+      "treasury",
+      "yields"
+    ],
+    "ts": 1789697473.8401773
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
+    "title": "Stocks rise as oil dips, yen wobbles ahead of BOJ",
+    "tokens": [
+      "ahead",
+      "boj",
+      "dips",
+      "oil",
+      "rise",
+      "stocks",
+      "wobbles",
+      "yen"
+    ],
+    "ts": 1789697481.116721
+  },
+  {
+    "id": "apple-investors-breathe-sigh-relief-135647337.html",
+    "title": "Apple Investors Can Breathe A Sigh Of Relief After OpenAI Gives Update On Long-Rumored Device",
+    "tokens": [
+      "apple",
+      "breathe",
+      "can",
+      "device",
+      "gives",
+      "investors",
+      "long",
+      "openai",
+      "relief",
+      "rumored",
+      "sigh",
+      "update"
+    ],
+    "ts": 1789697488.2910733
   }
 ]

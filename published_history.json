@@ -1,79 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/bond-market-woes-likely-a-factor-for-fed-but-intervention-seen-as-unlikely-4903276",
-    "title": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
-    "tokens": [
-      "bond",
-      "factor",
-      "fed",
-      "intervention",
-      "likely",
-      "market",
-      "seen",
-      "unlikely",
-      "woes"
-    ],
-    "ts": 1789554687.4174907
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-jb-hunt-transport-stock-plunging-today-93CH-4903275",
-    "title": "Why is JB Hunt Transport stock plunging today?",
-    "tokens": [
-      "hunt",
-      "plunging",
-      "stock",
-      "today",
-      "transport",
-      "why"
-    ],
-    "ts": 1789554694.126838
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nike-earnings-preview-is-it-a-buy-now-amid-improving-riskreward-93CH-4903273",
-    "title": "Nike earnings preview: Is it a buy now amid improving risk-reward?",
-    "tokens": [
-      "buy",
-      "earnings",
-      "improving",
-      "nike",
-      "now",
-      "preview",
-      "reward",
-      "risk"
-    ],
-    "ts": 1789554700.7741075
-  },
-  {
-    "id": "signs-you-might-be-a-good-fit-for-debt-settlement-102500610.html",
-    "title": "5 signs you might be a good fit for debt settlement",
-    "tokens": [
-      "debt",
-      "fit",
-      "good",
-      "might",
-      "settlement",
-      "signs",
-      "you"
-    ],
-    "ts": 1789554708.3565826
-  },
-  {
-    "id": "microage-deal-signals-shift-growth-101436453.html",
-    "title": "MicroAge Deal Signals Shift to Growth-Focused Strategy for ScanSource (SCSC)",
-    "tokens": [
-      "deal",
-      "focused",
-      "growth",
-      "microage",
-      "scansource",
-      "scsc",
-      "shift",
-      "signals",
-      "strategy"
-    ],
-    "ts": 1789554715.8325245
-  },
-  {
     "id": "bond-market-woes-likely-factor-100656182.html",
     "title": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
     "tokens": [
@@ -23190,5 +23116,80 @@
       "update"
     ],
     "ts": 1789697488.2910733
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/this-aipicked-stock-jumps-18-on-amazons-8-billion-power-deal-4906617",
+    "title": "This AI-picked stock jumps 18% on Amazon’s $8 billion power deal",
+    "tokens": [
+      "amazon",
+      "billion",
+      "deal",
+      "jumps",
+      "picked",
+      "power",
+      "stock"
+    ],
+    "ts": 1789698509.1217234
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/waymo-to-bring-autonomous-ridehailing-to-singapore-in-2028-4906616",
+    "title": "Waymo to bring autonomous ride-hailing to Singapore in 2028",
+    "tokens": [
+      "2028",
+      "autonomous",
+      "bring",
+      "hailing",
+      "ride",
+      "singapore",
+      "waymo"
+    ],
+    "ts": 1789698517.6314757
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/palantir-director-alexander-moore-sells-276m-in-stock-93CH-4906615",
+    "title": "Palantir director Alexander Moore sells $2.76m in stock",
+    "tokens": [
+      "76m",
+      "alexander",
+      "director",
+      "moore",
+      "palantir",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789698525.4466965
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/kratos-defense-svp--general-counsel-sells-48500-in-stock-93CH-4906614",
+    "title": "Kratos Defense SVP & general counsel sells $48,500 in stock",
+    "tokens": [
+      "500",
+      "counsel",
+      "defense",
+      "general",
+      "kratos",
+      "sells",
+      "stock",
+      "svp"
+    ],
+    "ts": 1789698533.382773
+  },
+  {
+    "id": "hidden-costs-villages-residents-wish-142336798.html",
+    "title": "The Hidden Costs of The Villages Residents Wish Someone Had Warned Them About Before Closing",
+    "tokens": [
+      "about",
+      "before",
+      "closing",
+      "costs",
+      "hidden",
+      "residents",
+      "someone",
+      "them",
+      "villages",
+      "warned",
+      "wish"
+    ],
+    "ts": 1789698541.848361
   }
 ]

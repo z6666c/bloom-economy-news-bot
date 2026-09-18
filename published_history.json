@@ -1,49 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/hennessy-advisors-director-newton-sells-8188-of-stock-93CH-4904733",
-    "title": "Hennessy Advisors director Newton sells $8,188 of stock",
-    "tokens": [
-      "188",
-      "advisors",
-      "director",
-      "hennessy",
-      "newton",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789607591.5315487
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ouster-coo-darien-spencer-sells-434k-in-common-stock-93CH-4904732",
-    "title": "Ouster COO Darien Spencer sells $434k in common stock",
-    "tokens": [
-      "434k",
-      "common",
-      "coo",
-      "darien",
-      "ouster",
-      "sells",
-      "spencer",
-      "stock"
-    ],
-    "ts": 1789607598.4224343
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/butler-national-director-michael-loh-buys-39100-in-shares-93CH-4904731",
-    "title": "Butler National director Michael Loh buys $39,100 in shares",
-    "tokens": [
-      "100",
-      "butler",
-      "buys",
-      "director",
-      "loh",
-      "michael",
-      "national",
-      "shares"
-    ],
-    "ts": 1789607605.60181
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/snap-launches-2195-specs-augmentedreality-glasses-as-ai-push-expands-4904729",
     "title": "Snap launches $2,195 Specs augmented-reality glasses as AI push expands",
     "tokens": [
@@ -23184,5 +23140,54 @@
       "totalenergies"
     ],
     "ts": 1789752393.8253987
+  },
+  {
+    "id": "biotech-stock-too-cheap-ignore-172000522.html",
+    "title": "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+    "tokens": [
+      "biotech",
+      "cheap",
+      "ignore",
+      "latest",
+      "pullback",
+      "stock",
+      "too"
+    ],
+    "ts": 1789753017.420161
+  },
+  {
+    "id": "jim-cramer-says-ai-could-171508518.html",
+    "title": "Jim Cramer Says AI Could Make Okta’s Security Software More Essential",
+    "tokens": [
+      "could",
+      "cramer",
+      "essential",
+      "jim",
+      "make",
+      "more",
+      "okta",
+      "security",
+      "software"
+    ],
+    "ts": 1789753026.8568258
+  },
+  {
+    "id": "fed-just-raised-rates-first-171202240.html",
+    "title": "The Fed Just Raised Rates for the First Time in Three Years. History Says This Is What Comes Next.",
+    "tokens": [
+      "comes",
+      "fed",
+      "first",
+      "history",
+      "just",
+      "next",
+      "raised",
+      "rates",
+      "three",
+      "time",
+      "what",
+      "years"
+    ],
+    "ts": 1789753037.1276119
   }
 ]

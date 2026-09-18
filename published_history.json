@@ -1,18 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-beta-bionics-stock-sliding-today-93CH-4903323",
-    "title": "Why is Beta Bionics stock sliding today?",
-    "tokens": [
-      "beta",
-      "bionics",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789556054.1735299
-  },
-  {
     "id": "https://www.investing.com/news/company-news/circle-launches-arc-blockchain-with-institutional-validators-93CH-4903321",
     "title": "Circle launches Arc blockchain with institutional validators",
     "tokens": [
@@ -23180,5 +23167,22 @@
       "testing"
     ],
     "ts": 1789699511.2546978
+  },
+  {
+    "id": "coyote-copper-receives-drill-permit-144701294.html",
+    "title": "Coyote Copper receives drill permit approval, expands Copper Springs project footprint",
+    "tokens": [
+      "approval",
+      "copper",
+      "coyote",
+      "drill",
+      "expands",
+      "footprint",
+      "permit",
+      "project",
+      "receives",
+      "springs"
+    ],
+    "ts": 1789700095.887359
   }
 ]

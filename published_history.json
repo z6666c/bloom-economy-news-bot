@@ -1,292 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/ouster-president-and-ceo-angus-pacala-sells-103m-in-stock-93CH-4904716",
-    "title": "Ouster president and CEO Angus Pacala sells $1.03m in stock",
-    "tokens": [
-      "03m",
-      "angus",
-      "ceo",
-      "ouster",
-      "pacala",
-      "president",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789605421.648965
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/chime-financial-general-counsel-adam-frankel-sells-over-33m-in-stock-93CH-4904715",
-    "title": "Chime Financial general counsel Adam Frankel sells over $3.3m in stock",
-    "tokens": [
-      "adam",
-      "chime",
-      "counsel",
-      "financial",
-      "frankel",
-      "general",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789605429.1526127
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ringcentral-coo-kira-makagon-sells-25-million-in-company-stock-93CH-4904713",
-    "title": "RingCentral COO Kira Makagon sells $2.5 million in company stock",
-    "tokens": [
-      "company",
-      "coo",
-      "kira",
-      "makagon",
-      "million",
-      "ringcentral",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789605436.6455226
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/hewlett-packard-enterprise-director-gary-reiner-sells-967k-in-stock-93CH-4904714",
-    "title": "Hewlett Packard Enterprise director Gary Reiner sells $967k in stock",
-    "tokens": [
-      "967k",
-      "director",
-      "enterprise",
-      "gary",
-      "hewlett",
-      "packard",
-      "reiner",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789605443.7020829
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ouster-cro-cyrille-jacquemet-sells-302093-in-oust-stock-93CH-4904712",
-    "title": "Ouster CRO Cyrille Jacquemet sells $302,093 in OUST stock",
-    "tokens": [
-      "093",
-      "302",
-      "cro",
-      "cyrille",
-      "jacquemet",
-      "oust",
-      "ouster",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789605451.2408721
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/lennar-b-earnings-missed-by-009-revenue-fell-short-of-estimates-4904711",
-    "title": "Lennar B earnings missed by $0.09, revenue fell short of estimates",
-    "tokens": [
-      "earnings",
-      "estimates",
-      "fell",
-      "lennar",
-      "missed",
-      "revenue",
-      "short"
-    ],
-    "ts": 1789605455.2572246
-  },
-  {
-    "id": "netapp-stock-ntap-outperforming-technology-125243290.html",
-    "title": "NetApp Stock: Is NTAP Outperforming the Technology Sector?",
-    "tokens": [
-      "netapp",
-      "ntap",
-      "outperforming",
-      "sector",
-      "stock",
-      "technology"
-    ],
-    "ts": 1789605458.1100142
-  },
-  {
-    "id": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee",
-    "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
-    "tokens": [
-      "advance",
-      "bill",
-      "bitcoin",
-      "law",
-      "lawmakers",
-      "lock",
-      "reserve",
-      "trump"
-    ],
-    "ts": 1789605466.061601
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-snap-stock-climbing-afterhours-today-93CH-4904724",
-    "title": "Why is Snap stock climbing after-hours today?",
-    "tokens": [
-      "climbing",
-      "hours",
-      "snap",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789606580.7287548
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/bcb-bancorp-prices-853-million-stock-offering-93CH-4904723",
-    "title": "BCB Bancorp prices $85.3 million stock offering",
-    "tokens": [
-      "bancorp",
-      "bcb",
-      "million",
-      "offering",
-      "prices",
-      "stock"
-    ],
-    "ts": 1789606588.2948723
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/holtec-postpones-planned-us-ipo-citing-market-conditions--bloomberg-4904722",
-    "title": "Holtec postpones planned U.S. IPO citing market conditions - Bloomberg",
-    "tokens": [
-      "bloomberg",
-      "citing",
-      "conditions",
-      "holtec",
-      "ipo",
-      "market",
-      "planned",
-      "postpones"
-    ],
-    "ts": 1789606595.0198505
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-hawkish-fed-dents-wall-st-4904721",
-    "title": "U.S. stock futures rise after hawkish Fed dents Wall St",
-    "tokens": [
-      "dents",
-      "fed",
-      "futures",
-      "hawkish",
-      "rise",
-      "stock",
-      "wall"
-    ],
-    "ts": 1789606601.963536
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ouster-general-counsel-megan-chung-sells-389993-in-stock-93CH-4904719",
-    "title": "Ouster general counsel Megan Chung sells $389,993 in stock",
-    "tokens": [
-      "389",
-      "993",
-      "chung",
-      "counsel",
-      "general",
-      "megan",
-      "ouster",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789606608.7341719
-  },
-  {
-    "id": "why-sotera-health-company-shc-131345471.html",
-    "title": "Here’s Why Sotera Health Company (SHC) Surges 25% in Q2",
-    "tokens": [
-      "company",
-      "health",
-      "here",
-      "shc",
-      "sotera",
-      "surges",
-      "why"
-    ],
-    "ts": 1789606615.6035948
-  },
-  {
-    "id": "m-t-bank-outperforming-nasdaq-131152976.html",
-    "title": "Is M&T Bank Outperforming the Nasdaq?",
-    "tokens": [
-      "bank",
-      "nasdaq",
-      "outperforming"
-    ],
-    "ts": 1789606622.3734505
-  },
-  {
-    "id": "nasdaq-dow-p-500-forecast-130903574.html",
-    "title": "Nasdaq, Dow and S&P 500 Forecast: Markets Await the Fed",
-    "tokens": [
-      "500",
-      "await",
-      "dow",
-      "fed",
-      "forecast",
-      "markets",
-      "nasdaq"
-    ],
-    "ts": 1789606629.7253923
-  },
-  {
-    "id": "WP-MKTW-0005232002",
-    "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-    "tokens": [
-      "can",
-      "career",
-      "claim",
-      "died",
-      "earning",
-      "friend",
-      "her",
-      "high",
-      "lining",
-      "might",
-      "security",
-      "silver",
-      "social",
-      "there",
-      "wife"
-    ],
-    "ts": 1789607567.123451
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/byron-donalds-from-floridas-19th-district-makes-moves-in-howmet-aerospace-netflix-and-parkerhannifin-stocks-93CH-4904735",
-    "title": "Byron Donalds from Florida’s 19th District Makes Moves in Howmet Aerospace, Netflix, and Parker-Hannifin Stocks",
-    "tokens": [
-      "19th",
-      "aerospace",
-      "byron",
-      "district",
-      "donalds",
-      "florida",
-      "hannifin",
-      "howmet",
-      "makes",
-      "moves",
-      "netflix",
-      "parker",
-      "stocks"
-    ],
-    "ts": 1789607577.4034739
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/first-interstate-bancsystem-director-julie-a-scott-sells-101628-shares-93CH-4904734",
-    "title": "First Interstate BancSystem director Julie A. Scott sells $101,628 shares",
-    "tokens": [
-      "101",
-      "628",
-      "bancsystem",
-      "director",
-      "first",
-      "interstate",
-      "julie",
-      "scott",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789607584.2975464
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/hennessy-advisors-director-newton-sells-8188-of-stock-93CH-4904733",
     "title": "Hennessy Advisors director Newton sells $8,188 of stock",
     "tokens": [
@@ -23185,5 +22898,291 @@
       "track"
     ],
     "ts": 1789751563.2511027
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/invesco-increases-stake-in-mercia-asset-management-to-15-93CH-4907723",
+    "title": "Invesco increases stake in Mercia Asset Management to 15%",
+    "tokens": [
+      "asset",
+      "increases",
+      "invesco",
+      "management",
+      "mercia",
+      "stake"
+    ],
+    "ts": 1789752230.7345705
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/spacex-to-fly-more-nasa-crews-to-space-station-under-expanded-592-billion-deal-4907722",
+    "title": "SpaceX to fly more NASA crews to space station under expanded $5.92 billion deal",
+    "tokens": [
+      "billion",
+      "crews",
+      "deal",
+      "expanded",
+      "fly",
+      "more",
+      "nasa",
+      "space",
+      "spacex",
+      "station",
+      "under"
+    ],
+    "ts": 1789752240.884744
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/abcellera-and-recursion-pharmaceuticals-two-aidrug-stocks-two-different-stories-93CH-4907720",
+    "title": "AbCellera and Recursion Pharmaceuticals: two AI-drug stocks, two different stories",
+    "tokens": [
+      "abcellera",
+      "different",
+      "drug",
+      "pharmaceuticals",
+      "recursion",
+      "stocks",
+      "stories",
+      "two"
+    ],
+    "ts": 1789752254.1801023
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusiveus-weighs-allowing-most-pharma-licensing-deals-with-china-sources-say-4906959",
+    "title": "Exclusive-US weighs allowing most pharma licensing deals with China, sources say",
+    "tokens": [
+      "allowing",
+      "china",
+      "deals",
+      "exclusive",
+      "licensing",
+      "most",
+      "pharma",
+      "say",
+      "sources",
+      "weighs"
+    ],
+    "ts": 1789752263.6294868
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/factboxwho-is-howard-buffett-berkshire-hathaways-new-chairman-4907679",
+    "title": "Factbox-Who is Howard Buffett, Berkshire Hathaway’s new chairman?",
+    "tokens": [
+      "berkshire",
+      "buffett",
+      "chairman",
+      "factbox",
+      "hathaway",
+      "howard",
+      "who"
+    ],
+    "ts": 1789752274.5212567
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/heartflow-inc-stock-hits-alltime-high-at-5178-usd-93CH-4907719",
+    "title": "Heartflow Inc stock hits all-time high at 51.78 USD",
+    "tokens": [
+      "all",
+      "heartflow",
+      "high",
+      "hits",
+      "inc",
+      "stock",
+      "time",
+      "usd"
+    ],
+    "ts": 1789752278.5366647
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/warren-buffetts-road-to-investing-glory-4907562",
+    "title": "Warren Buffett’s road to investing glory",
+    "tokens": [
+      "buffett",
+      "glory",
+      "investing",
+      "road",
+      "warren"
+    ],
+    "ts": 1789752283.9373355
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/bcb-bancorp-completes-98-million-stock-offering-93CH-4907718",
+    "title": "BCB Bancorp completes $98 million stock offering",
+    "tokens": [
+      "bancorp",
+      "bcb",
+      "completes",
+      "million",
+      "offering",
+      "stock"
+    ],
+    "ts": 1789752287.9522648
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/market-outlook-bond-yields-oil-prices-and-equity-signals-heading-into-next-week-93CH-4907716",
+    "title": "Market outlook: bond yields, oil prices, and equity signals heading into next week",
+    "tokens": [
+      "bond",
+      "equity",
+      "heading",
+      "market",
+      "next",
+      "oil",
+      "outlook",
+      "prices",
+      "signals",
+      "week",
+      "yields"
+    ],
+    "ts": 1789752294.3142211
+  },
+  {
+    "id": "time-build-better-corporate-governance-171105878.html",
+    "title": "Time to Build Better Corporate Governance at BETR",
+    "tokens": [
+      "betr",
+      "better",
+      "build",
+      "corporate",
+      "governance",
+      "time"
+    ],
+    "ts": 1789752305.5352802
+  },
+  {
+    "id": "jim-cramer-says-selling-arm-171014392.html",
+    "title": "Jim Cramer Says Selling Arm Holdings (ARM) Early Was a “Big Mistake”",
+    "tokens": [
+      "arm",
+      "big",
+      "cramer",
+      "early",
+      "holdings",
+      "jim",
+      "mistake",
+      "selling"
+    ],
+    "ts": 1789752316.0616693
+  },
+  {
+    "id": "cerity-partners-enters-iowa-2b-170801980.html",
+    "title": "Cerity Partners Enters Iowa with $2B Gilbert & Cook",
+    "tokens": [
+      "cerity",
+      "cook",
+      "enters",
+      "gilbert",
+      "iowa",
+      "partners"
+    ],
+    "ts": 1789752325.411805
+  },
+  {
+    "id": "doordash-300-million-grubhub-deal-170248558.html",
+    "title": "DoorDash’s $300 Million Grubhub Deal Opens a New Venue-Commerce Opportunity",
+    "tokens": [
+      "300",
+      "commerce",
+      "deal",
+      "doordash",
+      "grubhub",
+      "million",
+      "opens",
+      "opportunity",
+      "venue"
+    ],
+    "ts": 1789752334.3519588
+  },
+  {
+    "id": "coca-cola-bets-10-billion-170127971.html",
+    "title": "Coca-Cola Bets $10 Billion on U.S. Infrastructure to Drive Growth",
+    "tokens": [
+      "bets",
+      "billion",
+      "coca",
+      "cola",
+      "drive",
+      "growth",
+      "infrastructure"
+    ],
+    "ts": 1789752344.6870267
+  },
+  {
+    "id": "general-motors-gm-bets-software-170012082.html",
+    "title": "General Motors (GM) Bets on Software to Strengthen its Pickup Truck Franchise",
+    "tokens": [
+      "bets",
+      "franchise",
+      "general",
+      "motors",
+      "pickup",
+      "software",
+      "strengthen",
+      "truck"
+    ],
+    "ts": 1789752354.6892378
+  },
+  {
+    "id": "carter-cri-rebrands-younger-parents-165846295.html",
+    "title": "Carter’s (CRI) Rebrands for Younger Parents as Sales Momentum Builds",
+    "tokens": [
+      "builds",
+      "carter",
+      "cri",
+      "momentum",
+      "parents",
+      "rebrands",
+      "sales",
+      "younger"
+    ],
+    "ts": 1789752363.4448774
+  },
+  {
+    "id": "pepsico-falls-3-while-consumer-170726924.html",
+    "title": "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
+    "tokens": [
+      "barely",
+      "budges",
+      "coca",
+      "cola",
+      "consumer",
+      "eases",
+      "falls",
+      "firm",
+      "hold",
+      "keurig",
+      "pepper",
+      "pepsico",
+      "staples",
+      "while"
+    ],
+    "ts": 1789752373.1646335
+  },
+  {
+    "id": "oilprice-article-45554",
+    "title": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices",
+    "tokens": [
+      "count",
+      "creeps",
+      "gas",
+      "oil",
+      "prices",
+      "rig",
+      "strong"
+    ],
+    "ts": 1789752383.6251428
+  },
+  {
+    "id": "oilprice-news-45554",
+    "title": "TotalEnergies and BlackRock Sign $1.8B Deal for African Oil and Gas Assets",
+    "tokens": [
+      "african",
+      "assets",
+      "blackrock",
+      "deal",
+      "gas",
+      "oil",
+      "sign",
+      "totalenergies"
+    ],
+    "ts": 1789752393.8253987
   }
 ]

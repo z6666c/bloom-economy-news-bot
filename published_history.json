@@ -1,94 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005236977",
-    "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-    "tokens": [
-      "burned",
-      "constantly",
-      "cousin",
-      "expect",
-      "help",
-      "helping",
-      "his",
-      "money",
-      "much",
-      "running",
-      "sister",
-      "too",
-      "who"
-    ],
-    "ts": 1789637313.717507
-  },
-  {
-    "id": "jim-cramer-favors-bwx-technologies-212632352.html",
-    "title": "Jim Cramer Favors BWX Technologies (BWXT) Over Cameco (CCJ)",
-    "tokens": [
-      "bwx",
-      "bwxt",
-      "cameco",
-      "ccj",
-      "cramer",
-      "favors",
-      "jim",
-      "technologies"
-    ],
-    "ts": 1789637321.0528524
-  },
-  {
-    "id": "own-47-positions-70-cannot-212544552.html",
-    "title": "You Own 47 Positions at 70 and Cannot Explain Half of Them. These 3 ETFs Replace Every One",
-    "tokens": [
-      "cannot",
-      "etfs",
-      "every",
-      "explain",
-      "half",
-      "one",
-      "own",
-      "positions",
-      "replace",
-      "them",
-      "these",
-      "you"
-    ],
-    "ts": 1789637328.2826233
-  },
-  {
-    "id": "china-state-media-calls-ai-212953858.html",
-    "title": "China’s State Media Calls AI Slowdown a “Cold War” Tactic. Z.AI Is Raising $5 Billion to Do the Opposite",
-    "tokens": [
-      "billion",
-      "calls",
-      "china",
-      "cold",
-      "media",
-      "opposite",
-      "raising",
-      "slowdown",
-      "state",
-      "tactic",
-      "war"
-    ],
-    "ts": 1789637336.0752182
-  },
-  {
-    "id": "ubiquiti-just-posted-23-5-213926267.html",
-    "title": "Ubiquiti Just Posted 23.5% Revenue Growth and a Dividend. What Could Derail the Momentum?",
-    "tokens": [
-      "could",
-      "derail",
-      "dividend",
-      "growth",
-      "just",
-      "momentum",
-      "posted",
-      "revenue",
-      "ubiquiti",
-      "what"
-    ],
-    "ts": 1789637343.4910545
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/bofa-securities-maintains-apple-stock-rating-on-carrier-incentives-93CH-4905092",
     "title": "BofA Securities maintains Apple stock rating on carrier incentives",
     "tokens": [
@@ -23212,5 +23123,91 @@
       "underperforming"
     ],
     "ts": 1789771247.9835203
+  },
+  {
+    "id": "WP-MKTW-0005243372",
+    "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
+    "tokens": [
+      "crash",
+      "fears",
+      "investors",
+      "market",
+      "october",
+      "shouldn",
+      "spooked",
+      "stock",
+      "why"
+    ],
+    "ts": 1789771888.1738772
+  },
+  {
+    "id": "WP-MKTW-0005236977",
+    "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+    "tokens": [
+      "burned",
+      "constantly",
+      "cousin",
+      "expect",
+      "help",
+      "helping",
+      "his",
+      "money",
+      "much",
+      "running",
+      "sister",
+      "too",
+      "who"
+    ],
+    "ts": 1789771897.1129143
+  },
+  {
+    "id": "week-5-numbers-amazon-grocery-153000270.html",
+    "title": "This week in 5 numbers: Amazon will give grocery benefits to workers",
+    "tokens": [
+      "amazon",
+      "benefits",
+      "give",
+      "grocery",
+      "numbers",
+      "week",
+      "workers"
+    ],
+    "ts": 1789771907.269265
+  },
+  {
+    "id": "crude-prices-fall-saudi-arabia-153112109.html",
+    "title": "Crude Prices Fall as Saudi Arabia Seeks to Restore East-West Pipeline",
+    "tokens": [
+      "arabia",
+      "crude",
+      "east",
+      "fall",
+      "pipeline",
+      "prices",
+      "restore",
+      "saudi",
+      "seeks",
+      "west"
+    ],
+    "ts": 1789771918.6722746
+  },
+  {
+    "id": "trump-accounts-face-dec-31-153013834.html",
+    "title": "Trump Accounts Face Dec. 31 Deadline — But Employer Contributions Could Create New Tax Planning Trap",
+    "tokens": [
+      "accounts",
+      "contributions",
+      "could",
+      "create",
+      "deadline",
+      "dec",
+      "employer",
+      "face",
+      "planning",
+      "tax",
+      "trap",
+      "trump"
+    ],
+    "ts": 1789771927.4611232
   }
 ]

@@ -1,194 +1,5 @@
 [
   {
-    "id": "oilprice-article-45523",
-    "title": "Saudi Oil Crisis Is About to Hit Europe",
-    "tokens": [
-      "about",
-      "crisis",
-      "europe",
-      "hit",
-      "oil",
-      "saudi"
-    ],
-    "ts": 1789583596.3785872
-  },
-  {
-    "id": "oilprice-news-45523",
-    "title": "Continental Strikes Venezuela Oil Deal with PDVSA",
-    "tokens": [
-      "continental",
-      "deal",
-      "oil",
-      "pdvsa",
-      "strikes",
-      "venezuela"
-    ],
-    "ts": 1789583605.6997862
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/prelude-therapeutics-at-hc-wainwright-conference-pipeline-gains-momentum-93CH-4904303",
-    "title": "Prelude Therapeutics at H.C. Wainwright conference: pipeline gains momentum",
-    "tokens": [
-      "conference",
-      "gains",
-      "momentum",
-      "pipeline",
-      "prelude",
-      "therapeutics",
-      "wainwright"
-    ],
-    "ts": 1789584860.7861092
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/jazz-pharmaceuticals-at-morgan-stanley-conference-oncology-drives-growth-93CH-4904299",
-    "title": "Jazz Pharmaceuticals at Morgan Stanley conference: oncology drives growth",
-    "tokens": [
-      "conference",
-      "drives",
-      "growth",
-      "jazz",
-      "morgan",
-      "oncology",
-      "pharmaceuticals",
-      "stanley"
-    ],
-    "ts": 1789584868.295889
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/arcutis-at-morgan-stanley-conference-zoryve-drives-growth-push-93CH-4904298",
-    "title": "Arcutis at Morgan Stanley conference: zoryve drives growth push",
-    "tokens": [
-      "arcutis",
-      "conference",
-      "drives",
-      "growth",
-      "morgan",
-      "push",
-      "stanley",
-      "zoryve"
-    ],
-    "ts": 1789584875.8042881
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/onsemi-targets-213-billion-market-with-power-density-solutions-93CH-4904297",
-    "title": "onsemi targets $213 billion market with power density solutions",
-    "tokens": [
-      "213",
-      "billion",
-      "density",
-      "market",
-      "onsemi",
-      "power",
-      "solutions",
-      "targets"
-    ],
-    "ts": 1789584883.2831707
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/onsemi-unveils-embedded-power-platform-for-ai-and-ev-markets-93CH-4904295",
-    "title": "onsemi unveils embedded power platform for AI and EV markets",
-    "tokens": [
-      "embedded",
-      "markets",
-      "onsemi",
-      "platform",
-      "power",
-      "unveils"
-    ],
-    "ts": 1789584890.7281616
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/subaru-to-evaluate-onsemi-power-tech-for-electric-vehicles-93CH-4904296",
-    "title": "Subaru to evaluate onsemi power tech for electric vehicles",
-    "tokens": [
-      "electric",
-      "evaluate",
-      "onsemi",
-      "power",
-      "subaru",
-      "tech",
-      "vehicles"
-    ],
-    "ts": 1789584898.7835228
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/valvoline-stock-hits-52week-low-at-2769-93CH-4904294",
-    "title": "Valvoline stock hits 52-week low at $27.69",
-    "tokens": [
-      "hits",
-      "low",
-      "stock",
-      "valvoline",
-      "week"
-    ],
-    "ts": 1789584902.7989814
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/vulcan-materials-stock-hits-52week-low-at-2461-usd-93CH-4904293",
-    "title": "Vulcan Materials stock hits 52-week low at 246.1 USD",
-    "tokens": [
-      "246",
-      "hits",
-      "low",
-      "materials",
-      "stock",
-      "usd",
-      "vulcan",
-      "week"
-    ],
-    "ts": 1789584906.6832535
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/gubra-at-morgan-stanley-healthcare-conference-deeper-pipeline-longer-hold-93CH-4904292",
-    "title": "Gubra at Morgan Stanley healthcare conference: deeper pipeline, longer hold",
-    "tokens": [
-      "conference",
-      "deeper",
-      "gubra",
-      "healthcare",
-      "hold",
-      "longer",
-      "morgan",
-      "pipeline",
-      "stanley"
-    ],
-    "ts": 1789584914.5224113
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/egetis-therapeutics-at-morgan-stanley-conference-us-launch-nears-93CH-4904291",
-    "title": "Egetis Therapeutics at Morgan Stanley conference: U.S. launch nears",
-    "tokens": [
-      "conference",
-      "egetis",
-      "launch",
-      "morgan",
-      "nears",
-      "stanley",
-      "therapeutics"
-    ],
-    "ts": 1789584923.219723
-  },
-  {
-    "id": "texas-cape-town-tightening-data-095248616.html",
-    "title": "Texas and Cape Town Are Tightening the Data-Center Gate. Digital Realty and Equinix Could Still Benefit",
-    "tokens": [
-      "benefit",
-      "cape",
-      "center",
-      "could",
-      "data",
-      "digital",
-      "equinix",
-      "gate",
-      "realty",
-      "still",
-      "texas",
-      "tightening",
-      "town"
-    ],
-    "ts": 1789584931.75959
-  },
-  {
     "id": "ai-stocks-fell-workday-adobe-095614361.html",
     "title": "AI Stocks Fell, but Workday and Adobe Jumped. A Favorite AI Disruption Trade Just Flinched",
     "tokens": [
@@ -23086,5 +22897,193 @@
       "week"
     ],
     "ts": 1789732287.4860606
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-alphabet-stock-climbing-today-93CH-4907193",
+    "title": "Why is Alphabet stock climbing today?",
+    "tokens": [
+      "alphabet",
+      "climbing",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789733605.1524513
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-renk-stock-rallying-today-93CH-4907191",
+    "title": "Why is RENK stock rallying today?",
+    "tokens": [
+      "rallying",
+      "renk",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789733605.1675568
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-raises-ultragenyx-stock-price-target-on-gene-therapy-approval-93CH-4907185",
+    "title": "Cantor Fitzgerald raises Ultragenyx stock price target on gene therapy approval",
+    "tokens": [
+      "approval",
+      "cantor",
+      "fitzgerald",
+      "gene",
+      "price",
+      "raises",
+      "stock",
+      "target",
+      "therapy",
+      "ultragenyx"
+    ],
+    "ts": 1789733605.1836927
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-neutral-on-hubspot-stock-at-200-93CH-4907183",
+    "title": "Cantor Fitzgerald reiterates Neutral on HubSpot stock at $200",
+    "tokens": [
+      "200",
+      "cantor",
+      "fitzgerald",
+      "hubspot",
+      "neutral",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1789733611.4764452
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-overweight-on-upexi-stock-at-2-target-93CH-4907184",
+    "title": "Cantor Fitzgerald reiterates Overweight on Upexi stock at $2 target",
+    "tokens": [
+      "cantor",
+      "fitzgerald",
+      "overweight",
+      "reiterates",
+      "stock",
+      "target",
+      "upexi"
+    ],
+    "ts": 1789733620.5008838
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/baird-reiterates-coinbase-stock-rating-at-neutral-cites-sec-move-93CH-4907182",
+    "title": "Baird reiterates Coinbase stock rating at Neutral, cites SEC move",
+    "tokens": [
+      "baird",
+      "cites",
+      "coinbase",
+      "move",
+      "neutral",
+      "rating",
+      "reiterates",
+      "sec",
+      "stock"
+    ],
+    "ts": 1789733628.5045953
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-evommune-stock-rating-at-overweight-93CH-4907181",
+    "title": "Cantor Fitzgerald reiterates Evommune stock rating at Overweight",
+    "tokens": [
+      "cantor",
+      "evommune",
+      "fitzgerald",
+      "overweight",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1789733636.8850994
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-orange-stock-sliding-today-93CH-4907180",
+    "title": "Why is Orange stock sliding today?",
+    "tokens": [
+      "orange",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789733640.9010406
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/goldman-upgrades-renk-to-buy-sees-62-upside-on-defense-growth-outlook-4907179",
+    "title": "Goldman upgrades Renk to “buy,” sees 62% upside on defense growth outlook",
+    "tokens": [
+      "buy",
+      "defense",
+      "goldman",
+      "growth",
+      "outlook",
+      "renk",
+      "sees",
+      "upgrades",
+      "upside"
+    ],
+    "ts": 1789733646.6177542
+  },
+  {
+    "id": "southwest-airlines-sees-strong-demand-000203398.html",
+    "title": "Southwest Airlines Sees Strong Demand as Initiatives Target Billions in EBIT",
+    "tokens": [
+      "airlines",
+      "billions",
+      "demand",
+      "ebit",
+      "initiatives",
+      "sees",
+      "southwest",
+      "strong",
+      "target"
+    ],
+    "ts": 1789733655.4169805
+  },
+  {
+    "id": "ge-vernova-vineyard-wind-settle-024435837.html",
+    "title": "GE Vernova and Vineyard Wind Settle $300M-Plus Offshore Wind Dispute",
+    "tokens": [
+      "300m",
+      "dispute",
+      "offshore",
+      "plus",
+      "settle",
+      "vernova",
+      "vineyard",
+      "wind"
+    ],
+    "ts": 1789733663.6233056
+  },
+  {
+    "id": "chipotle-stock-looks-expensive-until-000122182.html",
+    "title": "Chipotle Stock Looks Expensive Until You Price The New Restaurants",
+    "tokens": [
+      "chipotle",
+      "expensive",
+      "looks",
+      "price",
+      "restaurants",
+      "stock",
+      "until",
+      "you"
+    ],
+    "ts": 1789733671.4126313
+  },
+  {
+    "id": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending",
+    "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+    "tokens": [
+      "above",
+      "borrowing",
+      "hits",
+      "hype",
+      "hyperliquid",
+      "launches",
+      "manual",
+      "record"
+    ],
+    "ts": 1789733680.6524546
   }
 ]

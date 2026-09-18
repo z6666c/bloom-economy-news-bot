@@ -1,80 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/goldman-ceo-says-fixed-income-currencies-commodities-business-slightly-softer-in-q3-4904385",
-    "title": "Goldman Sachs sees slightly softer fixed income, currencies, commodities business, higher costs",
-    "tokens": [
-      "business",
-      "commodities",
-      "costs",
-      "currencies",
-      "fixed",
-      "goldman",
-      "higher",
-      "income",
-      "sachs",
-      "sees",
-      "slightly",
-      "softer"
-    ],
-    "ts": 1789595681.3037717
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/mt-bank-raises-prime-lending-rate-to-700-93CH-4904603",
-    "title": "M&T Bank raises prime lending rate to 7.00%",
-    "tokens": [
-      "bank",
-      "lending",
-      "prime",
-      "raises",
-      "rate"
-    ],
-    "ts": 1789595689.4458687
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/us-bancorp-raises-prime-lending-rate-to-700-percent-93CH-4904602",
-    "title": "U.S. Bancorp raises prime lending rate to 7.00 percent",
-    "tokens": [
-      "bancorp",
-      "lending",
-      "percent",
-      "prime",
-      "raises",
-      "rate"
-    ],
-    "ts": 1789595696.8532674
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/eaton-at-morgan-stanley-laguna-conference-growth-and-margins-rise-93CH-4904601",
-    "title": "Eaton at Morgan Stanley laguna conference: growth and margins rise",
-    "tokens": [
-      "conference",
-      "eaton",
-      "growth",
-      "laguna",
-      "margins",
-      "morgan",
-      "rise",
-      "stanley"
-    ],
-    "ts": 1789595700.8710444
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/ryder-at-morgan-stanley-laguna-conference-growth-holds-in-weak-freight-93CH-4904599",
-    "title": "Ryder at Morgan Stanley laguna conference: growth holds in weak freight",
-    "tokens": [
-      "conference",
-      "freight",
-      "growth",
-      "holds",
-      "laguna",
-      "morgan",
-      "ryder",
-      "stanley",
-      "weak"
-    ],
-    "ts": 1789595704.194487
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/us-dfc-approves-85-million-loan-to-ukraines-dtek-4904594",
     "title": "US DFC approves €85 million loan to Ukraine’s DTEK",
     "tokens": [
@@ -23173,5 +23098,81 @@
       "year"
     ],
     "ts": 1789742589.6596098
+  },
+  {
+    "id": "enbw-partners-inaugurate-960mw-dreiht-144248572.html",
+    "title": "EnBW and partners inaugurate 960MW He Dreiht offshore wind project",
+    "tokens": [
+      "960mw",
+      "dreiht",
+      "enbw",
+      "inaugurate",
+      "offshore",
+      "partners",
+      "project",
+      "wind"
+    ],
+    "ts": 1789743298.9394383
+  },
+  {
+    "id": "apples-iphone-leasing-program-how-it-works-what-to-consider-as-prices-increase-143105471.html",
+    "title": "Apple's iPhone leasing program: How it works, what to consider as prices increase",
+    "tokens": [
+      "apple",
+      "consider",
+      "how",
+      "increase",
+      "iphone",
+      "leasing",
+      "prices",
+      "program",
+      "what",
+      "works"
+    ],
+    "ts": 1789743311.2602673
+  },
+  {
+    "id": "thermo-fisher-scientific-tmo-positioned-143434079.html",
+    "title": "Thermo Fisher Scientific (TMO) is Positioned for Resurgence",
+    "tokens": [
+      "fisher",
+      "positioned",
+      "resurgence",
+      "scientific",
+      "thermo",
+      "tmo"
+    ],
+    "ts": 1789743320.9601696
+  },
+  {
+    "id": "mbappe-nike-stock-on-holding-a9db3fcd?siteid=yhoof2&yptr=yahoo",
+    "title": "Soccer Star Mbappé Chooses On Holding Over Nike. What It Means for the Sportswear Stocks.",
+    "tokens": [
+      "chooses",
+      "holding",
+      "mbapp",
+      "means",
+      "nike",
+      "soccer",
+      "sportswear",
+      "star",
+      "stocks",
+      "what"
+    ],
+    "ts": 1789743330.3967373
+  },
+  {
+    "id": "stonex-snex-turns-mortgage-bond-072537866.html",
+    "title": "StoneX (SNEX) Turns Mortgage Bond Complexity Into New Revenue",
+    "tokens": [
+      "bond",
+      "complexity",
+      "mortgage",
+      "revenue",
+      "snex",
+      "stonex",
+      "turns"
+    ],
+    "ts": 1789743342.115475
   }
 ]

@@ -1,127 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005235664",
-    "title": "Retail sales surged toward the end of summer. Economy still has plenty of momentum.",
-    "tokens": [
-      "economy",
-      "end",
-      "momentum",
-      "plenty",
-      "retail",
-      "sales",
-      "still",
-      "summer",
-      "surged",
-      "toward"
-    ],
-    "ts": 1789563469.462463
-  },
-  {
-    "id": "seattle-single-income-mom-homeschooling-124500141.html",
-    "title": "Seattle single-income mom homeschooling her kids discovers she owns $18M in one stock. What Dave Ramsey says to do next",
-    "tokens": [
-      "18m",
-      "dave",
-      "discovers",
-      "her",
-      "homeschooling",
-      "income",
-      "kids",
-      "mom",
-      "next",
-      "one",
-      "owns",
-      "ramsey",
-      "seattle",
-      "she",
-      "single",
-      "stock",
-      "what"
-    ],
-    "ts": 1789563476.8309393
-  },
-  {
-    "id": "us-retail-sales-rebound-sharply-123724094.html",
-    "title": "US retail sales rebound sharply in August",
-    "tokens": [
-      "august",
-      "rebound",
-      "retail",
-      "sales",
-      "sharply"
-    ],
-    "ts": 1789563485.1181197
-  },
-  {
-    "id": "lyondellbasell-lyb-retraces-amid-shifting-123131175.html",
-    "title": "LyondellBasell (LYB) Retraces Amid Shifting Commodity Sentiment",
-    "tokens": [
-      "commodity",
-      "lyb",
-      "lyondellbasell",
-      "retraces",
-      "sentiment",
-      "shifting"
-    ],
-    "ts": 1789563492.9806237
-  },
-  {
-    "id": "alphabet-goog-surges-24-revenue-123012360.html",
-    "title": "Alphabet (GOOG) Surges 24% as Revenue Growth Soars — But Is $190 Billion in Capex Too Much?",
-    "tokens": [
-      "190",
-      "alphabet",
-      "billion",
-      "capex",
-      "goog",
-      "growth",
-      "much",
-      "revenue",
-      "soars",
-      "surges",
-      "too"
-    ],
-    "ts": 1789563499.904332
-  },
-  {
-    "id": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act",
-    "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
-    "tokens": [
-      "act",
-      "aggressive",
-      "bernstein",
-      "cftc",
-      "clarity",
-      "expects",
-      "failure",
-      "following",
-      "rulemaking",
-      "sec"
-    ],
-    "ts": 1789563508.8832426
-  },
-  {
-    "id": "WP-MKTW-0005236581",
-    "title": "Why a strategist who previously thought inflation was contained now sees potential for aggressive Fed rate hikes",
-    "tokens": [
-      "aggressive",
-      "contained",
-      "fed",
-      "hikes",
-      "inflation",
-      "now",
-      "potential",
-      "previously",
-      "rate",
-      "sees",
-      "strategist",
-      "thought",
-      "who",
-      "why"
-    ],
-    "ts": 1789564634.0872016
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-nokia-stock-surging-today-93CH-4903759",
     "title": "Why is Nokia stock surging today?",
     "tokens": [
@@ -23146,5 +23024,108 @@
       "weak"
     ],
     "ts": 1789710747.9320512
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/exclusiveecbs-vujcic-cools-oilfuelled-bets-on-rate-hikes-4906690",
+    "title": "Exclusive-ECB’s Vujcic cools oil-fuelled bets on rate hikes",
+    "tokens": [
+      "bets",
+      "cools",
+      "ecb",
+      "exclusive",
+      "fuelled",
+      "hikes",
+      "oil",
+      "rate",
+      "vujcic"
+    ],
+    "ts": 1789712028.7418745
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/c3ai-cfo-hitesh-lath-sells-220886-in-company-stock-93CH-4906694",
+    "title": "C3.ai CFO Hitesh Lath sells $220,886 in company stock",
+    "tokens": [
+      "220",
+      "886",
+      "cfo",
+      "company",
+      "hitesh",
+      "lath",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789712035.868882
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/c3ai-ceo-thomas-siebel-sells-478m-in-company-stock-93CH-4906693",
+    "title": "C3.ai CEO Thomas Siebel sells $4.78m in company stock",
+    "tokens": [
+      "78m",
+      "ceo",
+      "company",
+      "sells",
+      "siebel",
+      "stock",
+      "thomas"
+    ],
+    "ts": 1789712042.979615
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/pe-firms-weigh-fresh-bids-for-evergrande-property-services--report-93CH-4906686",
+    "title": "PE Firms weigh fresh bids for Evergrande Property Services - report",
+    "tokens": [
+      "bids",
+      "evergrande",
+      "firms",
+      "fresh",
+      "property",
+      "report",
+      "services",
+      "weigh"
+    ],
+    "ts": 1789712050.2046747
+  },
+  {
+    "id": "1-000-investment-coca-cola-181305314.html",
+    "title": "A $1,000 Investment in Coca-Cola Nearly Tripled. Here’s Why That Wasn’t Enough",
+    "tokens": [
+      "000",
+      "coca",
+      "cola",
+      "enough",
+      "here",
+      "investment",
+      "nearly",
+      "tripled",
+      "wasn",
+      "why"
+    ],
+    "ts": 1789712057.5588562
+  },
+  {
+    "id": "fed-unanimously-raises-rates-quarter-181455988.html",
+    "title": "Fed Unanimously Raises Rates by a Quarter Point",
+    "tokens": [
+      "fed",
+      "point",
+      "quarter",
+      "raises",
+      "rates",
+      "unanimously"
+    ],
+    "ts": 1789712065.432751
+  },
+  {
+    "id": "saudi-oil-crisis-hit-europe-183200571.html",
+    "title": "Saudi Oil Crisis Is About to Hit Europe",
+    "tokens": [
+      "about",
+      "crisis",
+      "europe",
+      "hit",
+      "oil",
+      "saudi"
+    ],
+    "ts": 1789712069.4490812
   }
 ]

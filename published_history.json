@@ -1,72 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-034-4904049",
-    "title": "Norway stocks higher at close of trade; Oslo OBX up 0.34%",
-    "tokens": [
-      "close",
-      "higher",
-      "norway",
-      "obx",
-      "oslo",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789571503.2438061
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-132-4904048",
-    "title": "Israel stocks higher at close of trade; TA 35 up 1.32%",
-    "tokens": [
-      "close",
-      "higher",
-      "israel",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789571503.2588441
-  },
-  {
-    "id": "us-politicians-buying-two-stocks-144637200.html",
-    "title": "US Politicians Are Buying These Two Stocks",
-    "tokens": [
-      "buying",
-      "politicians",
-      "stocks",
-      "these",
-      "two"
-    ],
-    "ts": 1789571506.3883615
-  },
-  {
-    "id": "dave-buster-play-bets-leaders-144539009.html",
-    "title": "Dave & Buster’s (PLAY) Bets On New Leaders To Reverse Its Slide",
-    "tokens": [
-      "bets",
-      "buster",
-      "dave",
-      "leaders",
-      "play",
-      "reverse",
-      "slide"
-    ],
-    "ts": 1789571513.8242366
-  },
-  {
-    "id": "comfort-systems-usa-fix-positioned-144523131.html",
-    "title": "Comfort Systems USA (FIX) Positioned to Benefit from Accelerated AI Investment",
-    "tokens": [
-      "accelerated",
-      "benefit",
-      "comfort",
-      "fix",
-      "investment",
-      "positioned",
-      "systems",
-      "usa"
-    ],
-    "ts": 1789571524.7129366
-  },
-  {
     "id": "fund-exited-insmed-insm-investment-144040894.html",
     "title": "The Fund Exited Insmed (INSM) After the Investment Thesis Played Out",
     "tokens": [
@@ -23141,5 +23074,81 @@
       "sbi"
     ],
     "ts": 1789717457.8342593
+  },
+  {
+    "id": "how-long-could-the-benchmark-treasury-yield-stay-above-5--rCVWs2LRXlX2ywDqbpkc?siteid=yhoof2&yptr=yahoo",
+    "title": "10-Year Treasury Settles Above 5% For First Time Since 2007",
+    "tokens": [
+      "2007",
+      "above",
+      "first",
+      "settles",
+      "since",
+      "time",
+      "treasury",
+      "year"
+    ],
+    "ts": 1789718020.3492754
+  },
+  {
+    "id": "fox-foxa-faces-deeper-doj-194850344.html",
+    "title": "Fox (FOXA) Faces a Deeper DOJ Review of Roku (ROKU). Can the Deal Still Deliver?",
+    "tokens": [
+      "can",
+      "deal",
+      "deeper",
+      "deliver",
+      "doj",
+      "faces",
+      "fox",
+      "foxa",
+      "review",
+      "roku",
+      "still"
+    ],
+    "ts": 1789718029.4569793
+  },
+  {
+    "id": "cadence-keep-doing-justify-price-194332435.html",
+    "title": "What Would Cadence Have To Keep Doing To Justify Its Price?",
+    "tokens": [
+      "cadence",
+      "doing",
+      "justify",
+      "keep",
+      "price",
+      "what",
+      "would"
+    ],
+    "ts": 1789718038.327971
+  },
+  {
+    "id": "average-auto-loan-payments-expect-174817148.html",
+    "title": "Average car payments in 2026: What to expect",
+    "tokens": [
+      "2026",
+      "average",
+      "car",
+      "expect",
+      "payments",
+      "what"
+    ],
+    "ts": 1789718046.2797148
+  },
+  {
+    "id": "hungerford-gets-six-weeks-stop-195211826.html",
+    "title": "Hungerford gets six weeks to stop auction on troubled Rochester building",
+    "tokens": [
+      "auction",
+      "building",
+      "gets",
+      "hungerford",
+      "rochester",
+      "six",
+      "stop",
+      "troubled",
+      "weeks"
+    ],
+    "ts": 1789718053.583557
   }
 ]

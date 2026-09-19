@@ -1,53 +1,5 @@
 [
   {
-    "id": "oilprice-news-45521",
-    "title": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman",
-    "tokens": [
-      "arabia",
-      "crude",
-      "oil",
-      "oman",
-      "prices",
-      "reroutes",
-      "saudi",
-      "slide",
-      "via"
-    ],
-    "ts": 1789648616.1643996
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/rbc-bullish-on-kraft-heinz-sees-return-to-growth-in-2027-4905640",
-    "title": "RBC bullish on Kraft Heinz, sees return to growth in 2027",
-    "tokens": [
-      "2027",
-      "bullish",
-      "growth",
-      "heinz",
-      "kraft",
-      "rbc",
-      "return",
-      "sees"
-    ],
-    "ts": 1789649796.1363914
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-fall-below-forecast-indicating-labor-market-resilience-93CH-4905635",
-    "title": "U.S. Initial Jobless Claims Fall Below Forecast, Indicating Labor Market Resilience",
-    "tokens": [
-      "below",
-      "claims",
-      "fall",
-      "forecast",
-      "indicating",
-      "initial",
-      "jobless",
-      "labor",
-      "market",
-      "resilience"
-    ],
-    "ts": 1789649804.37658
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/tiziana-life-sciences-stock-jumps-on-ms-trial-partnership-93CH-4905633",
     "title": "Tiziana Life Sciences stock jumps on MS trial partnership",
     "tokens": [
@@ -23224,5 +23176,61 @@
       "returns"
     ],
     "ts": 1789785683.6086833
+  },
+  {
+    "id": "moneygram-just-launched-first-stablecoin-204300600.html",
+    "title": "MoneyGram Just Launched Its First Stablecoin-Backed Visa Card. Here's What Crypto Investors Need to Know.",
+    "tokens": [
+      "backed",
+      "card",
+      "crypto",
+      "first",
+      "here",
+      "investors",
+      "just",
+      "know",
+      "launched",
+      "moneygram",
+      "need",
+      "stablecoin",
+      "visa",
+      "what"
+    ],
+    "ts": 1789786309.3722932
+  },
+  {
+    "id": "rivian-reports-q3-deliveries-r2-204300920.html",
+    "title": "Rivian Reports Q3 Deliveries for the R2 SUV in October. Here's How Investors Should Prepare.",
+    "tokens": [
+      "deliveries",
+      "here",
+      "how",
+      "investors",
+      "october",
+      "prepare",
+      "reports",
+      "rivian",
+      "should",
+      "suv"
+    ],
+    "ts": 1789786319.6226156
+  },
+  {
+    "id": "snowflake-snow-eight-firms-raised-205444653.html",
+    "title": "Snowflake (SNOW): Eight Firms Raised Targets. Nobody Wants to Talk About the Multiple",
+    "tokens": [
+      "about",
+      "eight",
+      "firms",
+      "multiple",
+      "nobody",
+      "raised",
+      "snow",
+      "snowflake",
+      "talk",
+      "targets",
+      "wants"
+    ],
+    "ts": 1789786330.679906
   }
 ]

@@ -1,63 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/vicor-options-analysis-record-put-volume-on-a-15-rally-day-93CH-4906046",
-    "title": "Vicor options analysis: record put volume on a +15% rally day",
-    "tokens": [
-      "analysis",
-      "day",
-      "options",
-      "put",
-      "rally",
-      "record",
-      "vicor",
-      "volume"
-    ],
-    "ts": 1789658925.9284325
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/jet-fuel-stocks-in-ara-hub-jump-196-from-sevenyear-low-93CH-4906045",
-    "title": "Jet fuel stocks in ARA hub jump 19.6% from seven-year low",
-    "tokens": [
-      "ara",
-      "fuel",
-      "hub",
-      "jet",
-      "jump",
-      "low",
-      "seven",
-      "stocks",
-      "year"
-    ],
-    "ts": 1789658933.9112492
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sift-partners-with-blackberrys-qnx-for-realtime-data-streaming-93CH-4906044",
-    "title": "Sift partners with BlackBerry’s QNX for real-time data streaming",
-    "tokens": [
-      "blackberry",
-      "data",
-      "partners",
-      "qnx",
-      "real",
-      "sift",
-      "streaming",
-      "time"
-    ],
-    "ts": 1789658942.5703604
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/roundtable-announces-1-billion-deal-with-paradiumai-93CH-4906043",
-    "title": "Roundtable announces $1 billion deal with Paradium.AI",
-    "tokens": [
-      "announces",
-      "billion",
-      "deal",
-      "paradium",
-      "roundtable"
-    ],
-    "ts": 1789658949.6011589
-  },
-  {
     "id": "https://www.investing.com/news/company-news/nascar-truck-series-renamed-for-fedex-freight-in-2027-93CH-4906042",
     "title": "NASCAR truck series renamed for FedEx Freight in 2027",
     "tokens": [
@@ -23249,5 +23191,70 @@
       "wall"
     ],
     "ts": 1789810762.3253086
+  },
+  {
+    "id": "https://www.investing.com/news/press-releases/launch-vector-portfolio-company-surpasses-1-million-in-profit-within-45-months-of-acquisition-aur-satya-4908069",
+    "title": "Launch Vector Portfolio Company Surpasses $1 Million in Profit Within 4.5 Months of Acquisition aur Satya",
+    "tokens": [
+      "acquisition",
+      "aur",
+      "company",
+      "launch",
+      "million",
+      "months",
+      "portfolio",
+      "profit",
+      "satya",
+      "surpasses",
+      "vector",
+      "within"
+    ],
+    "ts": 1789811474.8752806
+  },
+  {
+    "id": "ryft-raises-20m-series-b-063132175.html",
+    "title": "Ryft raises £20m Series B to back European and US expansion",
+    "tokens": [
+      "20m",
+      "back",
+      "european",
+      "expansion",
+      "raises",
+      "ryft",
+      "series"
+    ],
+    "ts": 1789811481.763308
+  },
+  {
+    "id": "tyson-foods-stock-underperforming-nasdaq-070706294.html",
+    "title": "Is Tyson Foods Stock Underperforming the Nasdaq?",
+    "tokens": [
+      "foods",
+      "nasdaq",
+      "stock",
+      "tyson",
+      "underperforming"
+    ],
+    "ts": 1789811489.4727185
+  },
+  {
+    "id": "why-this-former-contender-for-the-fed-chair-job-thinks-kevin-warsh-has-a-huge-problem-on-his-hands-102652010.html",
+    "title": "Why this former contender for the Fed chair job thinks Kevin Warsh has a huge problem on his hands",
+    "tokens": [
+      "chair",
+      "contender",
+      "fed",
+      "former",
+      "hands",
+      "his",
+      "huge",
+      "job",
+      "kevin",
+      "problem",
+      "thinks",
+      "warsh",
+      "why"
+    ],
+    "ts": 1789811496.7172914
   }
 ]

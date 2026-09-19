@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/lcnb-wealth-chief-miller-to-retire-shapiro-promoted-93CH-4906363",
-    "title": "LCNB wealth chief Miller to retire, Shapiro promoted",
-    "tokens": [
-      "chief",
-      "lcnb",
-      "miller",
-      "promoted",
-      "retire",
-      "shapiro",
-      "wealth"
-    ],
-    "ts": 1789676954.4947104
-  },
-  {
     "id": "https://www.investing.com/news/company-news/beta-bionics-closes-1725-million-public-offering-93CH-4906360",
     "title": "Beta Bionics closes $172.5 million public offering",
     "tokens": [
@@ -23508,5 +23494,22 @@
       "worth"
     ],
     "ts": 1789860996.701035
+  },
+  {
+    "id": "bitcoin-etfs-now-own-6-233516113.html",
+    "title": "Bitcoin ETFs Now Own 6.29% of Every Bitcoin. What Happens When They Hit 10%?",
+    "tokens": [
+      "bitcoin",
+      "etfs",
+      "every",
+      "happens",
+      "hit",
+      "now",
+      "own",
+      "they",
+      "what",
+      "when"
+    ],
+    "ts": 1789861859.2031405
   }
 ]

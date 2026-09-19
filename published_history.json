@@ -1,59 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/calidi-biotherapeutics-announces-1-2-million-registered-direct-offering-1036553461",
-    "title": "Calidi Biotherapeutics Announces $1.2 Million Registered Direct Offering",
-    "tokens": [
-      "announces",
-      "biotherapeutics",
-      "calidi",
-      "direct",
-      "million",
-      "offering",
-      "registered"
-    ],
-    "ts": 1789652055.0657322
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/form-8-3-the-vanguard-group-inc-prologis-inc-1036553444",
-    "title": "Form 8.3 - The Vanguard Group, Inc.: Prologis, Inc.",
-    "tokens": [
-      "form",
-      "group",
-      "inc",
-      "prologis",
-      "vanguard"
-    ],
-    "ts": 1789652063.289134
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/clorox-stock-hits-52week-low-at-8469-usd-93CH-4905892",
-    "title": "Clorox stock hits 52-week low at 84.69 USD",
-    "tokens": [
-      "clorox",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789653231.4066625
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/tofutti-brands-director-a6684-ltd-purchases-3400-shares-93CH-4905891",
-    "title": "Tofutti Brands director A-6684 Ltd. purchases $3,400 shares",
-    "tokens": [
-      "400",
-      "6684",
-      "brands",
-      "director",
-      "ltd",
-      "purchases",
-      "shares",
-      "tofutti"
-    ],
-    "ts": 1789653235.5827022
-  },
-  {
     "id": "https://www.investing.com/news/company-news/lululemon-stock-hits-52week-low-at-956-usd-93CH-4905890",
     "title": "Lululemon stock hits 52-week low at 95.6 USD",
     "tokens": [
@@ -23222,5 +23168,73 @@
       "shares"
     ],
     "ts": 1789791996.6164248
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ubs-now-expects-ai-capex-to-reach-nearly-1tn-this-year-and-around-14tn-by-2027-4908051",
+    "title": "UBS now expects AI capex to reach nearly $1tn this year and around $1.4tn by 2027",
+    "tokens": [
+      "1tn",
+      "2027",
+      "4tn",
+      "around",
+      "capex",
+      "expects",
+      "nearly",
+      "now",
+      "reach",
+      "ubs",
+      "year"
+    ],
+    "ts": 1789792807.0163004
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/vinfast-earnings-beat-by-005-revenue-topped-estimates-4908050",
+    "title": "VinFast earnings beat by $0.05, revenue topped estimates",
+    "tokens": [
+      "beat",
+      "earnings",
+      "estimates",
+      "revenue",
+      "topped",
+      "vinfast"
+    ],
+    "ts": 1789792815.2687838
+  },
+  {
+    "id": "5-monthly-dividend-etfs-paying-212539710.html",
+    "title": "5 Monthly Dividend ETFs Paying 8 to 14 Percent for the Fourth Quarter of 2026",
+    "tokens": [
+      "2026",
+      "dividend",
+      "etfs",
+      "fourth",
+      "monthly",
+      "paying",
+      "percent",
+      "quarter"
+    ],
+    "ts": 1789792822.6071978
+  },
+  {
+    "id": "built-company-one-america-most-213000071.html",
+    "title": "I Built a Company in One Of America’s Most Complex Industries. Here’s Why Innovation Alone Won’t Make You Successful.",
+    "tokens": [
+      "alone",
+      "america",
+      "built",
+      "company",
+      "complex",
+      "here",
+      "industries",
+      "innovation",
+      "make",
+      "most",
+      "one",
+      "successful",
+      "why",
+      "won",
+      "you"
+    ],
+    "ts": 1789792829.6439803
   }
 ]

@@ -1,56 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/lamda-development-h1-2026-slides-malls-hit-records-as-ellinikon-capex-surges-93CH-4906048",
-    "title": "LAMDA Development H1 2026 slides: malls hit records as Ellinikon capex surges",
-    "tokens": [
-      "2026",
-      "capex",
-      "development",
-      "ellinikon",
-      "hit",
-      "lamda",
-      "malls",
-      "records",
-      "slides",
-      "surges"
-    ],
-    "ts": 1789658902.2272482
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/amazon-walmart-chatbots-attract-senator-ire-over-made-in-usa-label-snags-4906047",
-    "title": "Amazon, Walmart chatbots attract senator ire over ’made in USA’ label snags",
-    "tokens": [
-      "amazon",
-      "attract",
-      "chatbots",
-      "ire",
-      "label",
-      "made",
-      "senator",
-      "snags",
-      "usa",
-      "walmart"
-    ],
-    "ts": 1789658910.1445975
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bank-of-england-halts-longdated-gilt-sales-rewrites-plan-to-unwind-qe-4906037",
-    "title": "Bank of England halts long-dated gilt sales, rewrites plan to unwind QE",
-    "tokens": [
-      "bank",
-      "dated",
-      "england",
-      "gilt",
-      "halts",
-      "long",
-      "plan",
-      "rewrites",
-      "sales",
-      "unwind"
-    ],
-    "ts": 1789658917.451975
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/vicor-options-analysis-record-put-volume-on-a-15-rally-day-93CH-4906046",
     "title": "Vicor options analysis: record put volume on a +15% rally day",
     "tokens": [
@@ -23258,5 +23207,47 @@
       "wall"
     ],
     "ts": 1789810002.430076
+  },
+  {
+    "id": "strategists-most-bullish-european-stocks-062354923.html",
+    "title": "Strategists Are Most Bullish on European Stocks in Eight Years",
+    "tokens": [
+      "bullish",
+      "eight",
+      "european",
+      "most",
+      "stocks",
+      "strategists",
+      "years"
+    ],
+    "ts": 1789810747.8733373
+  },
+  {
+    "id": "1-7m-invested-advisor-pay-120000978.html",
+    "title": "I Have $1.7M Invested With an Advisor and Pay a 1% Fee. Is That Too Much?",
+    "tokens": [
+      "advisor",
+      "fee",
+      "invested",
+      "much",
+      "pay",
+      "too"
+    ],
+    "ts": 1789810755.044005
+  },
+  {
+    "id": "hyatt-h-delta-just-struck-051244186.html",
+    "title": "Hyatt (H) And Delta Just Struck A Deal Wall Street Ignored",
+    "tokens": [
+      "deal",
+      "delta",
+      "hyatt",
+      "ignored",
+      "just",
+      "street",
+      "struck",
+      "wall"
+    ],
+    "ts": 1789810762.3253086
   }
 ]

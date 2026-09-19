@@ -1,102 +1,5 @@
 [
   {
-    "id": "dno-raises-capricorn-takeover-offer-151903407.html",
-    "title": "DNO raises Capricorn takeover offer to $396m cash deal",
-    "tokens": [
-      "396m",
-      "capricorn",
-      "cash",
-      "deal",
-      "dno",
-      "offer",
-      "raises",
-      "takeover"
-    ],
-    "ts": 1789658989.0487301
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/scotiabank-reiterates-pan-american-silver-stock-rating-on-reserve-growth-93CH-4906071",
-    "title": "Scotiabank reiterates Pan American Silver stock rating on reserve growth",
-    "tokens": [
-      "american",
-      "growth",
-      "pan",
-      "rating",
-      "reiterates",
-      "reserve",
-      "scotiabank",
-      "silver",
-      "stock"
-    ],
-    "ts": 1789659808.2316947
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-295-4906070",
-    "title": "Turkey stocks higher at close of trade; BIST 100 up 2.95%",
-    "tokens": [
-      "100",
-      "bist",
-      "close",
-      "higher",
-      "stocks",
-      "trade",
-      "turkey"
-    ],
-    "ts": 1789659815.94149
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-innio-stock-surging-today-93CH-4906069",
-    "title": "Why is INNIO stock surging today?",
-    "tokens": [
-      "innio",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789659819.9571013
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-191-4906068",
-    "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 1.91%",
-    "tokens": [
-      "close",
-      "copenhagen",
-      "denmark",
-      "higher",
-      "omx",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789659823.5095122
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-nuvation-bio-stock-surging-today-93CH-4906067",
-    "title": "Why is Nuvation Bio stock surging today?",
-    "tokens": [
-      "bio",
-      "nuvation",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789659831.575319
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cvc-income--growth-resells-15m-shares-from-treasury-93CH-4906066",
-    "title": "CVC Income & Growth resells 1.5m shares from treasury",
-    "tokens": [
-      "cvc",
-      "growth",
-      "income",
-      "resells",
-      "shares",
-      "treasury"
-    ],
-    "ts": 1789659840.2698958
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-hvivo-posts-h1-2026-loss-as-revenue-shifts-to-h2-93CH-4906065",
     "title": "Earnings call transcript: hVIVO posts H1 2026 loss as revenue shifts to H2",
     "tokens": [
@@ -23248,5 +23151,118 @@
       "welcomes"
     ],
     "ts": 1789812631.895098
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ten-days-that-changed-the-course-of-ai-4908072",
+    "title": "Ten days that changed the course of AI",
+    "tokens": [
+      "changed",
+      "course",
+      "days",
+      "ten"
+    ],
+    "ts": 1789813517.8296678
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/europes-winter-power-prices-jump-as-gas-supply-concerns-grow--bloomberg-4908070",
+    "title": "Europe’s winter power prices jump as gas supply concerns grow - Bloomberg",
+    "tokens": [
+      "bloomberg",
+      "concerns",
+      "europe",
+      "gas",
+      "grow",
+      "jump",
+      "power",
+      "prices",
+      "supply",
+      "winter"
+    ],
+    "ts": 1789813524.6874027
+  },
+  {
+    "id": "bank-of-japan-raises-benchmark-interest-rate-to-1-25-highest-level-since-1995-2b28cbe9?siteid=yhoof2&yptr=yahoo",
+    "title": "Bank of Japan Raises Rates, Making U.S. Less Alluring for Tokyo Investors",
+    "tokens": [
+      "alluring",
+      "bank",
+      "investors",
+      "japan",
+      "less",
+      "making",
+      "raises",
+      "rates",
+      "tokyo"
+    ],
+    "ts": 1789813532.5400457
+  },
+  {
+    "id": "wise-convert-10-401-k-113000206.html",
+    "title": "Should I Convert 10% of My 401(k) to a Roth IRA Each Year to Reduce Taxes and RMDs?",
+    "tokens": [
+      "401",
+      "convert",
+      "each",
+      "ira",
+      "reduce",
+      "rmds",
+      "roth",
+      "should",
+      "taxes",
+      "year"
+    ],
+    "ts": 1789813540.44462
+  },
+  {
+    "id": "china-fuel-exports-surge-global-083000060.html",
+    "title": "China’s Fuel Exports Surge as Global Diesel Shortage Deepens",
+    "tokens": [
+      "china",
+      "deepens",
+      "diesel",
+      "exports",
+      "fuel",
+      "global",
+      "shortage",
+      "surge"
+    ],
+    "ts": 1789813548.3613126
+  },
+  {
+    "id": "prediction-palantirs-stock-price-1-085000224.html",
+    "title": "Prediction: This Will Be Palantir's Stock Price 1 Year From Now (Hint: It's a Bigger Move Than You Think)",
+    "tokens": [
+      "bigger",
+      "hint",
+      "move",
+      "now",
+      "palantir",
+      "prediction",
+      "price",
+      "stock",
+      "think",
+      "year",
+      "you"
+    ],
+    "ts": 1789813555.6350951
+  },
+  {
+    "id": "jersey-high-schooler-banked-135-091500036.html",
+    "title": "A New Jersey high schooler banked $135,000 in a single year flipping abandoned storage lockers",
+    "tokens": [
+      "000",
+      "135",
+      "abandoned",
+      "banked",
+      "flipping",
+      "high",
+      "jersey",
+      "lockers",
+      "schooler",
+      "single",
+      "storage",
+      "year"
+    ],
+    "ts": 1789813563.4949093
   }
 ]

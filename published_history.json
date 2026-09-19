@@ -1,69 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/polish-airports-in-lublin-and-rzeszow-suspend-operations-again-93CH-4906166",
-    "title": "Polish airports in Lublin and Rzeszow suspend operations again",
-    "tokens": [
-      "again",
-      "airports",
-      "lublin",
-      "operations",
-      "polish",
-      "rzeszow",
-      "suspend"
-    ],
-    "ts": 1789666825.6362553
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/experts-urge-fda-to-set-clear-safety-and-access-standards-for-psychedelic-drugs-september-14-4906165",
-    "title": "Experts urge FDA to set clear safety and access standards for psychedelic drugs (September 14)",
-    "tokens": [
-      "access",
-      "clear",
-      "drugs",
-      "experts",
-      "fda",
-      "psychedelic",
-      "safety",
-      "september",
-      "set",
-      "standards",
-      "urge"
-    ],
-    "ts": 1789666832.8856466
-  },
-  {
-    "id": "fed-affects-auto-loan-rates-190622401.html",
-    "title": "How does the Fed interest rate affect car loans?",
-    "tokens": [
-      "affect",
-      "car",
-      "does",
-      "fed",
-      "how",
-      "interest",
-      "loans",
-      "rate"
-    ],
-    "ts": 1789666840.2726424
-  },
-  {
-    "id": "boxs-2026-outlook-ai-driven-172501129.html",
-    "title": "Box's 2026 Outlook: AI-Driven Workflow Adoption Solidifies Enterprise Competitive Moat",
-    "tokens": [
-      "2026",
-      "adoption",
-      "box",
-      "competitive",
-      "driven",
-      "enterprise",
-      "moat",
-      "outlook",
-      "solidifies",
-      "workflow"
-    ],
-    "ts": 1789666848.30622
-  },
-  {
     "id": "WP-MKTW-0005238784",
     "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
     "tokens": [
@@ -23410,5 +23346,71 @@
       "world"
     ],
     "ts": 1789830616.3710098
+  },
+  {
+    "id": "WP-MKTW-0005228812",
+    "title": "Want to land more job interviews? Stop letting AI write your résumé.",
+    "tokens": [
+      "interviews",
+      "job",
+      "land",
+      "letting",
+      "more",
+      "stop",
+      "sum",
+      "want",
+      "write",
+      "your"
+    ],
+    "ts": 1789831480.6951916
+  },
+  {
+    "id": "WP-MKTW-0005218716",
+    "title": "How to create a ‘forever paycheck’ without paying for an annuity",
+    "tokens": [
+      "annuity",
+      "create",
+      "forever",
+      "how",
+      "paycheck",
+      "paying",
+      "without"
+    ],
+    "ts": 1789831487.8466697
+  },
+  {
+    "id": "american-airlines-ceo-sends-strong-150700724.html",
+    "title": "American Airlines CEO sends strong warning about airfare prices",
+    "tokens": [
+      "about",
+      "airfare",
+      "airlines",
+      "american",
+      "ceo",
+      "prices",
+      "sends",
+      "strong",
+      "warning"
+    ],
+    "ts": 1789831496.284357
+  },
+  {
+    "id": "stock-markets-biggest-companies-losing-150500940.html",
+    "title": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
+    "tokens": [
+      "biggest",
+      "buy",
+      "companies",
+      "etf",
+      "grip",
+      "here",
+      "history",
+      "losing",
+      "market",
+      "repeats",
+      "stock",
+      "their"
+    ],
+    "ts": 1789831502.9140854
   }
 ]

@@ -1,33 +1,5 @@
 [
   {
-    "id": "west-pharmaceutical-services-stock-outperforming-115008400.html",
-    "title": "Is West Pharmaceutical Services Stock Outperforming the Nasdaq?",
-    "tokens": [
-      "nasdaq",
-      "outperforming",
-      "pharmaceutical",
-      "services",
-      "stock",
-      "west"
-    ],
-    "ts": 1789675967.020372
-  },
-  {
-    "id": "teradyne-stock-performance-compared-other-114846545.html",
-    "title": "How Is Teradyne Stock Performance Compared to Other Semiconductor Stocks",
-    "tokens": [
-      "compared",
-      "how",
-      "other",
-      "performance",
-      "semiconductor",
-      "stock",
-      "stocks",
-      "teradyne"
-    ],
-    "ts": 1789675974.4404857
-  },
-  {
     "id": "steris-stock-ste-underperforming-healthcare-114339003.html",
     "title": "STERIS Stock: Is STE Underperforming the Healthcare Sector?",
     "tokens": [
@@ -23485,5 +23457,36 @@
       "shock"
     ],
     "ts": 1789853054.725155
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4908121",
+    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+    "tokens": [
+      "close",
+      "index",
+      "lower",
+      "moex",
+      "russia",
+      "stocks",
+      "trade",
+      "unchanged"
+    ],
+    "ts": 1789853862.2784622
+  },
+  {
+    "id": "cathie-wood-sends-bullish-bitcoin-211344354.html",
+    "title": "Cathie Wood sends bullish Bitcoin response to 'dead cat' warning",
+    "tokens": [
+      "bitcoin",
+      "bullish",
+      "cat",
+      "cathie",
+      "dead",
+      "response",
+      "sends",
+      "warning",
+      "wood"
+    ],
+    "ts": 1789853866.503903
   }
 ]

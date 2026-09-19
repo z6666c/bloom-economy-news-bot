@@ -1,64 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/us-securities-regulator-rolls-out-fiveyear-exemption-for-tokenized-stock-trading-4905776",
-    "title": "US securities regulator rolls out five-year exemption for tokenized stock trading",
-    "tokens": [
-      "exemption",
-      "five",
-      "regulator",
-      "rolls",
-      "securities",
-      "stock",
-      "tokenized",
-      "trading",
-      "year"
-    ],
-    "ts": 1789656351.8184366
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/costco-shares-may-move-25-on-sept-24-earnings-release-93CH-4905969",
-    "title": "Costco shares may move 2.5% on Sept. 24 earnings release",
-    "tokens": [
-      "costco",
-      "earnings",
-      "may",
-      "move",
-      "release",
-      "sept",
-      "shares"
-    ],
-    "ts": 1789656361.153518
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/uranium-energy-stock-may-move-15-on-sept-24-earnings-93CH-4905968",
-    "title": "Uranium Energy stock may move 1.5% on Sept. 24 earnings",
-    "tokens": [
-      "earnings",
-      "energy",
-      "may",
-      "move",
-      "sept",
-      "stock",
-      "uranium"
-    ],
-    "ts": 1789656369.8896506
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-block-stock-rating-on-monetization-outlook-93CH-4905966",
-    "title": "Piper Sandler reiterates Block stock rating on monetization outlook",
-    "tokens": [
-      "block",
-      "monetization",
-      "outlook",
-      "piper",
-      "rating",
-      "reiterates",
-      "sandler",
-      "stock"
-    ],
-    "ts": 1789656377.3968987
-  },
-  {
     "id": "https://www.investing.com/news/company-news/dutch-bros-stock-hits-52week-low-at-4104-usd-93CH-4905967",
     "title": "Dutch Bros stock hits 52-week low at 41.04 USD",
     "tokens": [
@@ -23304,5 +23245,59 @@
       "still"
     ],
     "ts": 1789801866.466002
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/deutsche-bank-sees-cautious-positioning-despite-market-resilience-93CH-4908060",
+    "title": "Deutsche Bank sees cautious positioning despite market resilience",
+    "tokens": [
+      "bank",
+      "cautious",
+      "despite",
+      "deutsche",
+      "market",
+      "positioning",
+      "resilience",
+      "sees"
+    ],
+    "ts": 1789802675.780433
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/metropolitan-bank-director-fredston-sells-178180-in-stock-93CH-4908059",
+    "title": "Metropolitan bank director Fredston sells $178,180 in stock",
+    "tokens": [
+      "178",
+      "180",
+      "bank",
+      "director",
+      "fredston",
+      "metropolitan",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789802683.6460886
+  },
+  {
+    "id": "amazon-makes-1-5-billion-023300527.html",
+    "title": "Amazon makes $1.5 billion move for U.S. workers",
+    "tokens": [
+      "amazon",
+      "billion",
+      "makes",
+      "move",
+      "workers"
+    ],
+    "ts": 1789802691.2227924
+  },
+  {
+    "id": "why-arm-stock-popped-today-023237661.html",
+    "title": "Why Arm Stock Popped Today",
+    "tokens": [
+      "arm",
+      "popped",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789802698.082651
   }
 ]

@@ -1,61 +1,5 @@
 [
   {
-    "id": "oilprice-news-45533",
-    "title": "Kpler Sees Oil Grinding Higher as Diesel Crunch Deepens",
-    "tokens": [
-      "crunch",
-      "deepens",
-      "diesel",
-      "grinding",
-      "higher",
-      "kpler",
-      "oil",
-      "sees"
-    ],
-    "ts": 1789668936.8095696
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/crusoe-adds-three-directors-with-cloud-and-energy-expertise-93CH-4906223",
-    "title": "Crusoe adds three directors with cloud and energy expertise",
-    "tokens": [
-      "adds",
-      "cloud",
-      "crusoe",
-      "directors",
-      "energy",
-      "expertise",
-      "three"
-    ],
-    "ts": 1789669976.9422581
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-delays-tariff-announcement-until-after-xitrump-summit--bloomberg-93CH-4906222",
-    "title": "US delays tariff announcement until after Xi-Trump summit - Bloomberg",
-    "tokens": [
-      "announcement",
-      "bloomberg",
-      "delays",
-      "summit",
-      "tariff",
-      "trump",
-      "until"
-    ],
-    "ts": 1789669984.7778113
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-blossom-gold-stock-surging-today-93CH-4906221",
-    "title": "Why is Blossom Gold stock surging today?",
-    "tokens": [
-      "blossom",
-      "gold",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789669993.2312202
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/ingersoll-rand-at-morgan-stanley-laguna-conference-growth-broadens-93CH-4906219",
     "title": "Ingersoll Rand at Morgan Stanley laguna conference: growth broadens",
     "tokens": [
@@ -23438,5 +23382,86 @@
       "years"
     ],
     "ts": 1789836700.264543
+  },
+  {
+    "id": "170-old-whiskey-brands-saga-171043884.html",
+    "title": "Whiskey brand tied to Jack Daniel's faces a second Chapter 7",
+    "tokens": [
+      "brand",
+      "chapter",
+      "daniel",
+      "faces",
+      "jack",
+      "second",
+      "tied",
+      "whiskey"
+    ],
+    "ts": 1789837747.2708344
+  },
+  {
+    "id": "lucid-lcid-rises-bolt-partnership-165233221.html",
+    "title": "Lucid (LCID) Rises After Bolt Partnership, But Cash Burn Remains a Concern",
+    "tokens": [
+      "bolt",
+      "burn",
+      "cash",
+      "concern",
+      "lcid",
+      "lucid",
+      "partnership",
+      "remains",
+      "rises"
+    ],
+    "ts": 1789837754.7605972
+  },
+  {
+    "id": "medicaid-told-her-she-could-165502025.html",
+    "title": "Medicaid Told Her She Could Keep $162,660 of Their Savings. She Asked for a Hearing, Showed Them Her Income, and Kept Far More. One Federal Rule Says the At-Home Spouse Can’t Be Left Short",
+    "tokens": [
+      "162",
+      "660",
+      "asked",
+      "can",
+      "could",
+      "far",
+      "federal",
+      "hearing",
+      "her",
+      "home",
+      "income",
+      "keep",
+      "kept",
+      "left",
+      "medicaid",
+      "more",
+      "one",
+      "rule",
+      "savings",
+      "she",
+      "short",
+      "showed",
+      "spouse",
+      "their",
+      "them",
+      "told"
+    ],
+    "ts": 1789837761.9284768
+  },
+  {
+    "id": "oilprice-article-45551",
+    "title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
+    "tokens": [
+      "finally",
+      "forecast",
+      "iaea",
+      "nuclear",
+      "off",
+      "power",
+      "reactors",
+      "small",
+      "take",
+      "triples"
+    ],
+    "ts": 1789837769.7375731
   }
 ]

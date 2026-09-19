@@ -1,125 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/lucid-bolt-team-up-to-deploy-25000-robotaxis-across-europe-4905533",
-    "title": "Lucid, Bolt team up to deploy 25,000 robotaxis across Europe",
-    "tokens": [
-      "000",
-      "across",
-      "bolt",
-      "deploy",
-      "europe",
-      "lucid",
-      "robotaxis",
-      "team"
-    ],
-    "ts": 1789647267.5932174
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/lockheed-martin-reveals-new-airtoair-missile-details-93CH-4905532",
-    "title": "Lockheed Martin reveals new air-to-air missile details",
-    "tokens": [
-      "air",
-      "details",
-      "lockheed",
-      "martin",
-      "missile",
-      "reveals"
-    ],
-    "ts": 1789647275.4563692
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/beyond-oil-receives-systemwide-approval-from-us-fastfood-chain-93CH-4905529",
-    "title": "Beyond Oil receives system-wide approval from US fast-food chain",
-    "tokens": [
-      "approval",
-      "beyond",
-      "chain",
-      "fast",
-      "food",
-      "oil",
-      "receives",
-      "system",
-      "wide"
-    ],
-    "ts": 1789647283.4505594
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lucid-and-bolt-partner-on-autonomous-vehicle-deployment-in-europe-93CH-4905527",
-    "title": "Lucid and Bolt partner on autonomous vehicle deployment in Europe",
-    "tokens": [
-      "autonomous",
-      "bolt",
-      "deployment",
-      "europe",
-      "lucid",
-      "partner",
-      "vehicle"
-    ],
-    "ts": 1789647290.0457819
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/world-kinect-founder-kasbar-to-step-down-bakshi-named-chairman-93CH-4905528",
-    "title": "World Kinect founder Kasbar to step down, Bakshi named chairman",
-    "tokens": [
-      "bakshi",
-      "chairman",
-      "founder",
-      "kasbar",
-      "kinect",
-      "named",
-      "step",
-      "world"
-    ],
-    "ts": 1789647296.9142408
-  },
-  {
-    "id": "group-1-automotive-gpi-high-115244285.html",
-    "title": "Group 1 Automotive (GPI): Can High Debt and a Troubled UK Acquisition Derail the Recovery?",
-    "tokens": [
-      "acquisition",
-      "automotive",
-      "can",
-      "debt",
-      "derail",
-      "gpi",
-      "group",
-      "high",
-      "recovery",
-      "troubled"
-    ],
-    "ts": 1789647304.6738007
-  },
-  {
-    "id": "falling-bitcoin-prices-drag-down-115121991.html",
-    "title": "Falling Bitcoin Prices Drag Down Products and Mining Revenue for Canaan (CAN)",
-    "tokens": [
-      "bitcoin",
-      "can",
-      "canaan",
-      "drag",
-      "falling",
-      "mining",
-      "prices",
-      "products",
-      "revenue"
-    ],
-    "ts": 1789647311.464652
-  },
-  {
-    "id": "apex-fintech-fusioniq-enter-digital-115845916.html",
-    "title": "Apex Fintech, FusionIQ enter digital wealth alliance",
-    "tokens": [
-      "alliance",
-      "apex",
-      "digital",
-      "enter",
-      "fintech",
-      "fusioniq",
-      "wealth"
-    ],
-    "ts": 1789647318.575402
-  },
-  {
     "id": "alphabet-goog-massive-infrastructure-capex-115010179.html",
     "title": "Alphabet (GOOG): Is Massive Infrastructure Capex Worth It?",
     "tokens": [
@@ -23225,5 +23105,124 @@
       "today"
     ],
     "ts": 1789783943.1131947
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/fold-holdings-director-bracebridge-young-jr-buys-11049-in-shares-93CH-4908038",
+    "title": "Fold Holdings director Bracebridge Young Jr buys $11,049 in shares",
+    "tokens": [
+      "049",
+      "bracebridge",
+      "buys",
+      "director",
+      "fold",
+      "holdings",
+      "shares",
+      "young"
+    ],
+    "ts": 1789784767.8254437
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/beta-bionics-cco-mark-hopman-sells-664550-in-company-stock-93CH-4908037",
+    "title": "Beta bionics CCO Mark Hopman sells $664,550 in company stock",
+    "tokens": [
+      "550",
+      "664",
+      "beta",
+      "bionics",
+      "cco",
+      "company",
+      "hopman",
+      "mark",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789784775.9481165
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/corcept-therapeutics-president-vieira-sells-29842-of-stock-93CH-4908036",
+    "title": "Corcept Therapeutics president Vieira sells $29,842 of stock",
+    "tokens": [
+      "842",
+      "corcept",
+      "president",
+      "sells",
+      "stock",
+      "therapeutics",
+      "vieira"
+    ],
+    "ts": 1789784784.8243072
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/enablence-closes-c25-million-private-placement-93CH-4908035",
+    "title": "Enablence closes C$25 million private placement",
+    "tokens": [
+      "closes",
+      "enablence",
+      "million",
+      "placement",
+      "private"
+    ],
+    "ts": 1789784792.14173
+  },
+  {
+    "id": "intel-soars-9-memory-deal-201927741.html",
+    "title": "Intel Soars 9% On A Memory Deal That Doesn’t Exist Yet",
+    "tokens": [
+      "deal",
+      "doesn",
+      "exist",
+      "intel",
+      "memory",
+      "soars",
+      "yet"
+    ],
+    "ts": 1789784799.8876734
+  },
+  {
+    "id": "buy-hp-stock-shares-keeps-202044238.html",
+    "title": "Should You Buy HP Stock For The Shares It Keeps Retiring?",
+    "tokens": [
+      "buy",
+      "keeps",
+      "retiring",
+      "shares",
+      "should",
+      "stock",
+      "you"
+    ],
+    "ts": 1789784808.167286
+  },
+  {
+    "id": "guardian-metal-gmtl-reports-shallow-202638668.html",
+    "title": "Guardian Metal (GMTL) Reports Shallow Tungsten. Can Discoveries Improve the Mine Plan?",
+    "tokens": [
+      "can",
+      "discoveries",
+      "gmtl",
+      "guardian",
+      "improve",
+      "metal",
+      "mine",
+      "plan",
+      "reports",
+      "shallow",
+      "tungsten"
+    ],
+    "ts": 1789784816.6736717
+  },
+  {
+    "id": "major-gold-holder-quietly-lends-201751777.html",
+    "title": "Major gold holder quietly lends $1.5 billion to top U.S. dealer",
+    "tokens": [
+      "billion",
+      "dealer",
+      "gold",
+      "holder",
+      "lends",
+      "major",
+      "quietly",
+      "top"
+    ],
+    "ts": 1789784824.412209
   }
 ]

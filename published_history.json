@@ -1,95 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/brazils-lula-raises-welfare-benefit-ahead-of-october-election-4905920",
-    "title": "Brazil’s Lula raises welfare benefit ahead of October election",
-    "tokens": [
-      "ahead",
-      "benefit",
-      "brazil",
-      "election",
-      "lula",
-      "october",
-      "raises",
-      "welfare"
-    ],
-    "ts": 1789654342.8359368
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ubs-sees-a-negative-catalyst-ahead-for-nike-heres-what-to-watch-4905931",
-    "title": "UBS sees a negative catalyst ahead for Nike: Here’s what to watch",
-    "tokens": [
-      "ahead",
-      "catalyst",
-      "here",
-      "negative",
-      "nike",
-      "sees",
-      "ubs",
-      "watch",
-      "what"
-    ],
-    "ts": 1789654350.9072285
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/astrana-health-stock-tumbles-after-short-report-93CH-4905930",
-    "title": "Astrana Health stock tumbles after short report",
-    "tokens": [
-      "astrana",
-      "health",
-      "report",
-      "short",
-      "stock",
-      "tumbles"
-    ],
-    "ts": 1789654359.1324906
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-sees-august-retail-sales-data-positive-for-best-buy-autozone-93CH-4905929",
-    "title": "DA Davidson sees August retail sales data positive for Best Buy, AutoZone",
-    "tokens": [
-      "august",
-      "autozone",
-      "best",
-      "buy",
-      "data",
-      "davidson",
-      "positive",
-      "retail",
-      "sales",
-      "sees"
-    ],
-    "ts": 1789654366.917013
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bernstein-raises-elf-beauty-stock-price-target-on-channel-model-93CH-4905928",
-    "title": "Bernstein raises e.l.f. Beauty stock price target on channel model",
-    "tokens": [
-      "beauty",
-      "bernstein",
-      "channel",
-      "model",
-      "price",
-      "raises",
-      "stock",
-      "target"
-    ],
-    "ts": 1789654374.6672091
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/greenridge-global-initiates-17-education-stock-with-buy-rating-93CH-4905927",
-    "title": "Greenridge Global initiates 17 Education stock with buy rating",
-    "tokens": [
-      "buy",
-      "education",
-      "global",
-      "greenridge",
-      "initiates",
-      "rating",
-      "stock"
-    ],
-    "ts": 1789654382.4304333
-  },
-  {
     "id": "settle-medical-bills-a-guide-to-debt-settlement-111100958.html",
     "title": "Can I settle my medical bills? A guide to debt settlement.",
     "tokens": [
@@ -23281,5 +23191,98 @@
       "upexi"
     ],
     "ts": 1789798424.4460113
+  },
+  {
+    "id": "why-amd-stock-jumped-today-233549219.html",
+    "title": "Why AMD Stock Jumped Today",
+    "tokens": [
+      "amd",
+      "jumped",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789799582.083263
+  },
+  {
+    "id": "washington-tells-ford-f-chinese-233517320.html",
+    "title": "Washington Tells Ford (F) its Chinese Partnerships are a National Security Problem",
+    "tokens": [
+      "chinese",
+      "ford",
+      "national",
+      "partnerships",
+      "problem",
+      "security",
+      "tells",
+      "washington"
+    ],
+    "ts": 1789799589.6607754
+  },
+  {
+    "id": "ford-hasn-t-raised-dividend-233003869.html",
+    "title": "Ford Hasn’t Raised Its Dividend in Years. Don’t Count on a Hike in 2026.",
+    "tokens": [
+      "2026",
+      "count",
+      "dividend",
+      "don",
+      "ford",
+      "hasn",
+      "hike",
+      "raised",
+      "years"
+    ],
+    "ts": 1789799596.913067
+  },
+  {
+    "id": "novo-nordisk-nvo-pulls-plug-233726977.html",
+    "title": "Novo Nordisk (NVO) Pulls the Plug on Two More Heart Drug Trials",
+    "tokens": [
+      "drug",
+      "heart",
+      "more",
+      "nordisk",
+      "novo",
+      "nvo",
+      "plug",
+      "pulls",
+      "trials",
+      "two"
+    ],
+    "ts": 1789799605.8808684
+  },
+  {
+    "id": "roth-conversions-between-62-65-233535663.html",
+    "title": "Roth Conversions Between 62 and 65: The Three-Year Window Before Medicare Starts Counting Every Dollar",
+    "tokens": [
+      "before",
+      "between",
+      "conversions",
+      "counting",
+      "dollar",
+      "every",
+      "medicare",
+      "roth",
+      "starts",
+      "three",
+      "window",
+      "year"
+    ],
+    "ts": 1789799613.1615593
+  },
+  {
+    "id": "meta-meta-hands-ai-agent-234026981.html",
+    "title": "Meta (META) Hands its New AI Agent the Keys to Your Inbox and Wallet",
+    "tokens": [
+      "agent",
+      "hands",
+      "inbox",
+      "keys",
+      "meta",
+      "wallet",
+      "your"
+    ],
+    "ts": 1789799621.4976985
   }
 ]

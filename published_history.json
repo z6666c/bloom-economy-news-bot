@@ -1,19 +1,5 @@
 [
   {
-    "id": "oilprice-article-45537",
-    "title": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
-    "tokens": [
-      "crisis",
-      "deepens",
-      "houthis",
-      "oil",
-      "open",
-      "saudi",
-      "talks"
-    ],
-    "ts": 1789676023.6667528
-  },
-  {
     "id": "oilprice-news-45537",
     "title": "America Is Paying a Lot for Fuel, Not Running Out of Gasoline",
     "tokens": [
@@ -23484,5 +23470,25 @@
       "oracle"
     ],
     "ts": 1789857461.8503585
+  },
+  {
+    "id": "bloom-energy-riding-data-center-222500710.html",
+    "title": "Bloom Energy Is Riding the Data Center Boom to a $25 Billion Backlog. Plug Power Is Passing on It. Here's Why.",
+    "tokens": [
+      "backlog",
+      "billion",
+      "bloom",
+      "boom",
+      "center",
+      "data",
+      "energy",
+      "here",
+      "passing",
+      "plug",
+      "power",
+      "riding",
+      "why"
+    ],
+    "ts": 1789858235.1902153
   }
 ]

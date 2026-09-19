@@ -1,96 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/goldman-sees-agency-mbs-as-attractive-buy-after-spread-widening-93CH-4906140",
-    "title": "Goldman sees agency MBS as attractive buy after spread widening",
-    "tokens": [
-      "agency",
-      "attractive",
-      "buy",
-      "goldman",
-      "mbs",
-      "sees",
-      "spread",
-      "widening"
-    ],
-    "ts": 1789663477.7311385
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ge-aerospace-says-ge9x-midseal-issue-wont-delay-boeing-777x-entry-into-service-4906139",
-    "title": "GE Aerospace says GE9X mid-seal issue won’t delay Boeing 777X entry into service",
-    "tokens": [
-      "777x",
-      "aerospace",
-      "boeing",
-      "delay",
-      "entry",
-      "ge9x",
-      "issue",
-      "mid",
-      "seal",
-      "service",
-      "won"
-    ],
-    "ts": 1789663484.4106224
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jpmorgan-names-top-us-auto-suppliers-amid-industry-shifts-93CH-4906138",
-    "title": "JPMorgan Names Top U.S. Auto Suppliers Amid Industry Shifts",
-    "tokens": [
-      "auto",
-      "industry",
-      "jpmorgan",
-      "names",
-      "shifts",
-      "suppliers",
-      "top"
-    ],
-    "ts": 1789663491.6990783
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/qqq-crosses-50day-average-for-13th-time-since-early-august-93CH-4906137",
-    "title": "QQQ crosses 50-day average for 13th time since early August",
-    "tokens": [
-      "13th",
-      "august",
-      "average",
-      "crosses",
-      "day",
-      "early",
-      "qqq",
-      "since",
-      "time"
-    ],
-    "ts": 1789663498.5499372
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/needham-announces-drone-dominance-gauntlet-ii-winners-93CH-4906136",
-    "title": "Needham announces Drone Dominance Gauntlet II winners",
-    "tokens": [
-      "announces",
-      "dominance",
-      "drone",
-      "gauntlet",
-      "needham",
-      "winners"
-    ],
-    "ts": 1789663507.1379163
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/aim-immunotech-ceo--president-buys-2310-in-company-stock-93CH-4906135",
-    "title": "Aim ImmunoTech CEO & president buys $2,310 in company stock",
-    "tokens": [
-      "310",
-      "aim",
-      "buys",
-      "ceo",
-      "company",
-      "immunotech",
-      "president",
-      "stock"
-    ],
-    "ts": 1789663514.6583257
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/kalshi-leads-prediction-market-with-76-share-in-nfl-week-1-93CH-4906132",
     "title": "Kalshi leads prediction market with 76% share in NFL week 1",
     "tokens": [
@@ -23296,5 +23205,107 @@
       "stocks"
     ],
     "ts": 1789822478.3856008
+  },
+  {
+    "id": "WP-MKTW-0005240229",
+    "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
+    "tokens": [
+      "about",
+      "believes",
+      "fed",
+      "inflation",
+      "now",
+      "serious",
+      "shows",
+      "street",
+      "taming",
+      "wall",
+      "warsh",
+      "why"
+    ],
+    "ts": 1789823426.222368
+  },
+  {
+    "id": "amgen-merck-drugmaker-stronger-dividend-125538920.html",
+    "title": "Amgen or Merck: Which Drugmaker Has the Stronger Dividend Growth Story?",
+    "tokens": [
+      "amgen",
+      "dividend",
+      "drugmaker",
+      "growth",
+      "merck",
+      "story",
+      "stronger",
+      "which"
+    ],
+    "ts": 1789823434.3841012
+  },
+  {
+    "id": "aflac-afl-net-earnings-jumped-124547627.html",
+    "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
+    "tokens": [
+      "actually",
+      "adjusted",
+      "afl",
+      "aflac",
+      "earnings",
+      "fell",
+      "jumped",
+      "net",
+      "yet"
+    ],
+    "ts": 1789823441.697025
+  },
+  {
+    "id": "cencora-cor-raised-guidance-bought-123837104.html",
+    "title": "Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch?",
+    "tokens": [
+      "back",
+      "bought",
+      "catch",
+      "cencora",
+      "cor",
+      "guidance",
+      "raised",
+      "what"
+    ],
+    "ts": 1789823448.7318327
+  },
+  {
+    "id": "coherent-cohr-squeezes-key-optical-123508124.html",
+    "title": "Coherent (COHR) Squeezes Key Optical Network Gear Into a Plug-In Module",
+    "tokens": [
+      "coherent",
+      "cohr",
+      "gear",
+      "key",
+      "module",
+      "network",
+      "optical",
+      "plug",
+      "squeezes"
+    ],
+    "ts": 1789823455.5934796
+  },
+  {
+    "id": "john-ternuss-first-iphone-launch-125000640.html",
+    "title": "John Ternus's First iPhone Launch Prompted a Bank of America Price Target Cut. Is Apple Stock a Buy?",
+    "tokens": [
+      "america",
+      "apple",
+      "bank",
+      "buy",
+      "cut",
+      "first",
+      "iphone",
+      "john",
+      "launch",
+      "price",
+      "prompted",
+      "stock",
+      "target",
+      "ternus"
+    ],
+    "ts": 1789823462.8766115
   }
 ]

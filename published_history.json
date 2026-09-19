@@ -1,34 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/usdsgd-trade-outlook-mas-tightening-points-to-further-sgd-gains-93CH-4906298",
-    "title": "USD/SGD trade outlook: MAS tightening points to further SGD gains",
-    "tokens": [
-      "further",
-      "gains",
-      "mas",
-      "outlook",
-      "points",
-      "sgd",
-      "tightening",
-      "trade",
-      "usd"
-    ],
-    "ts": 1789675932.8419185
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/robinhood-vs-coinbase-fundamentals-valuation-and-the-pairs-trade-93CH-4906296",
-    "title": "Robinhood vs. Coinbase: fundamentals, valuation, and the pairs trade",
-    "tokens": [
-      "coinbase",
-      "fundamentals",
-      "pairs",
-      "robinhood",
-      "trade",
-      "valuation"
-    ],
-    "ts": 1789675941.3407915
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/how-many-stocks-to-hold-in-a-beginner-portfolio-93CH-4906295",
     "title": "How many stocks to hold in a beginner portfolio",
     "tokens": [
@@ -23484,5 +23455,34 @@
       "wood"
     ],
     "ts": 1789850351.9856484
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/will-worries-about-ai-doom-end-the-ai-boom-bca-answers-4908120",
+    "title": "Will worries about AI Doom end the AI Boom? BCA answers",
+    "tokens": [
+      "about",
+      "answers",
+      "bca",
+      "boom",
+      "doom",
+      "end",
+      "worries"
+    ],
+    "ts": 1789851051.7536566
+  },
+  {
+    "id": "investors-worried-ai-bubble-heres-203500865.html",
+    "title": "Should Investors Be Worried About an AI Bubble? Here's What History Says.",
+    "tokens": [
+      "about",
+      "bubble",
+      "here",
+      "history",
+      "investors",
+      "should",
+      "what",
+      "worried"
+    ],
+    "ts": 1789851059.6030328
   }
 ]

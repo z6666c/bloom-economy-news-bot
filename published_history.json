@@ -1,167 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/uk-silence-over-demand-for-apple-data-access-is-farcical-lawyer-says-4906120",
-    "title": "UK silence over demand for Apple data access is farcical, lawyer says",
-    "tokens": [
-      "access",
-      "apple",
-      "data",
-      "demand",
-      "farcical",
-      "lawyer",
-      "silence"
-    ],
-    "ts": 1789662548.4538343
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/united-airlines-adds-live-football-streaming-via-starlink-93CH-4906119",
-    "title": "United Airlines adds live football streaming via Starlink",
-    "tokens": [
-      "adds",
-      "airlines",
-      "football",
-      "live",
-      "starlink",
-      "streaming",
-      "united",
-      "via"
-    ],
-    "ts": 1789662555.461181
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/softcat-plans-350m-equity-raise-to-fund-us-acquisition-93CH-4906118",
-    "title": "Softcat plans £350m equity raise to fund US acquisition",
-    "tokens": [
-      "350m",
-      "acquisition",
-      "equity",
-      "fund",
-      "plans",
-      "raise",
-      "softcat"
-    ],
-    "ts": 1789662563.9988976
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-125-4906117",
-    "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 1.25%",
-    "tokens": [
-      "100",
-      "close",
-      "com",
-      "higher",
-      "investing",
-      "kingdom",
-      "stocks",
-      "trade",
-      "united"
-    ],
-    "ts": 1789662571.0235713
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-102-4906116",
-    "title": "Spain stocks higher at close of trade; IBEX 35 up 1.02%",
-    "tokens": [
-      "close",
-      "higher",
-      "ibex",
-      "spain",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789662578.3309324
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-137-4906115",
-    "title": "Portugal stocks higher at close of trade; PSI up 1.37%",
-    "tokens": [
-      "close",
-      "higher",
-      "portugal",
-      "psi",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789662585.7146142
-  },
-  {
-    "id": "student-loans-are-quietly-gutting-your-retirement--especially-in-your-40s-160955696.html",
-    "title": "Student loans are quietly gutting your retirement — especially in your 40s",
-    "tokens": [
-      "40s",
-      "especially",
-      "gutting",
-      "loans",
-      "quietly",
-      "retirement",
-      "student",
-      "your"
-    ],
-    "ts": 1789662593.4601326
-  },
-  {
-    "id": "biocryst-bcrx-turns-first-profit-160606434.html",
-    "title": "BioCryst (BCRX) Turns its First Profit and Now Wants to Go Shopping for Rare Disease Drugs",
-    "tokens": [
-      "bcrx",
-      "biocryst",
-      "disease",
-      "drugs",
-      "first",
-      "now",
-      "profit",
-      "rare",
-      "shopping",
-      "turns",
-      "wants"
-    ],
-    "ts": 1789662600.4539564
-  },
-  {
-    "id": "nvidia-expects-chip-sales-double-161001284.html",
-    "title": "Nvidia Expects Chip Sales to Double in 2027",
-    "tokens": [
-      "2027",
-      "chip",
-      "double",
-      "expects",
-      "nvidia",
-      "sales"
-    ],
-    "ts": 1789662608.2889645
-  },
-  {
-    "id": "stellantis-stla-ford-f-bet-155611688.html",
-    "title": "Stellantis (STLA) and Ford (F) Bet Gas Engines Can Fix America’s EV Range Anxiety",
-    "tokens": [
-      "america",
-      "anxiety",
-      "bet",
-      "can",
-      "engines",
-      "fix",
-      "ford",
-      "gas",
-      "range",
-      "stellantis",
-      "stla"
-    ],
-    "ts": 1789662616.9096212
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/gm-doubles-down-on-diesel-pickups-as-rivals-tap-hybrids-4906141",
-    "title": "GM doubles down on diesel pickups as rivals tap hybrids",
-    "tokens": [
-      "diesel",
-      "doubles",
-      "hybrids",
-      "pickups",
-      "rivals",
-      "tap"
-    ],
-    "ts": 1789663470.0545213
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/goldman-sees-agency-mbs-as-attractive-buy-after-spread-widening-93CH-4906140",
     "title": "Goldman sees agency MBS as attractive buy after spread widening",
     "tokens": [
@@ -23260,5 +23098,203 @@
       "venture"
     ],
     "ts": 1789821163.1350513
+  },
+  {
+    "id": "WP-MKTW-0005241348",
+    "title": "The old new thing: Cisco and retro tech are back and forming the AI buildout’s backbone",
+    "tokens": [
+      "back",
+      "backbone",
+      "buildout",
+      "cisco",
+      "forming",
+      "old",
+      "retro",
+      "tech",
+      "thing"
+    ],
+    "ts": 1789822409.700915
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/french-draft-budget-caps-spending-growth-to-satisfy-eu-despite-rising-debt-burden-4908083",
+    "title": "French draft budget caps spending growth to satisfy EU despite rising debt burden",
+    "tokens": [
+      "budget",
+      "burden",
+      "caps",
+      "debt",
+      "despite",
+      "draft",
+      "french",
+      "growth",
+      "rising",
+      "satisfy",
+      "spending"
+    ],
+    "ts": 1789822416.873277
+  },
+  {
+    "id": "gallagher-ajg-colorado-deal-another-123050148.html",
+    "title": "Gallagher’s (AJG) Colorado Deal Is Another Brick in a Very Big Wall",
+    "tokens": [
+      "ajg",
+      "another",
+      "big",
+      "brick",
+      "colorado",
+      "deal",
+      "gallagher",
+      "very",
+      "wall"
+    ],
+    "ts": 1789822424.6929924
+  },
+  {
+    "id": "mitt-romney-warned-billionaire-tax-122500287.html",
+    "title": "Mitt Romney warned a billionaire tax triggers demand for 2 assets — now California decides. Get in before the super-rich",
+    "tokens": [
+      "assets",
+      "before",
+      "billionaire",
+      "california",
+      "decides",
+      "demand",
+      "get",
+      "mitt",
+      "now",
+      "rich",
+      "romney",
+      "super",
+      "tax",
+      "triggers",
+      "warned"
+    ],
+    "ts": 1789822431.9698317
+  },
+  {
+    "id": "bitcoin-reclaim-100-000-2026-122400854.html",
+    "title": "Can Bitcoin Reclaim $100,000 in 2026? One Factor Could Decide Everything.",
+    "tokens": [
+      "000",
+      "100",
+      "2026",
+      "bitcoin",
+      "can",
+      "could",
+      "decide",
+      "everything",
+      "factor",
+      "one",
+      "reclaim"
+    ],
+    "ts": 1789822439.054027
+  },
+  {
+    "id": "silver-price-today-friday-september-18-2026-silver-prices-recover-quickly-hitting-weekly-high-today-110854090.html",
+    "title": "Silver price today, Friday, September 18, 2026: Silver prices recover quickly, hitting weekly high today",
+    "tokens": [
+      "2026",
+      "friday",
+      "high",
+      "hitting",
+      "price",
+      "prices",
+      "quickly",
+      "recover",
+      "september",
+      "silver",
+      "today",
+      "weekly"
+    ],
+    "ts": 1789822446.2339914
+  },
+  {
+    "id": "jamie-dimon-fired-citigroup-42-110500399.html",
+    "title": "Jamie Dimon was fired from Citigroup at 42 — he turned a $20 billion bank into America's most profitable",
+    "tokens": [
+      "america",
+      "bank",
+      "billion",
+      "citigroup",
+      "dimon",
+      "fired",
+      "jamie",
+      "most",
+      "profitable",
+      "turned"
+    ],
+    "ts": 1789822453.4132352
+  },
+  {
+    "id": "3-investing-rules-used-warren-110500958.html",
+    "title": "The 3 investing rules used by Warren Buffett to turn $10K into billions — that still work in 2026",
+    "tokens": [
+      "10k",
+      "2026",
+      "billions",
+      "buffett",
+      "investing",
+      "rules",
+      "still",
+      "turn",
+      "used",
+      "warren",
+      "work"
+    ],
+    "ts": 1789822460.382283
+  },
+  {
+    "id": "genie-bottle-ai-risks-creating-105741054.html",
+    "title": "‘The Genie’s Out of the Bottle’ on AI Risks, Creating a Buying Opportunity in CrowdStrike Stock",
+    "tokens": [
+      "bottle",
+      "buying",
+      "creating",
+      "crowdstrike",
+      "genie",
+      "opportunity",
+      "risks",
+      "stock"
+    ],
+    "ts": 1789822467.321718
+  },
+  {
+    "id": "7-simple-financial-fitness-tasks-105500342.html",
+    "title": "These 7 simple ‘financial fitness’ tasks could save you serious coin — and you can get them each done in under an hour",
+    "tokens": [
+      "can",
+      "coin",
+      "could",
+      "done",
+      "each",
+      "financial",
+      "fitness",
+      "get",
+      "hour",
+      "save",
+      "serious",
+      "simple",
+      "tasks",
+      "them",
+      "these",
+      "under",
+      "you"
+    ],
+    "ts": 1789822474.3706427
+  },
+  {
+    "id": "principal-financials-stock-performance-compared-105257714.html",
+    "title": "How Is Principal Financial's Stock Performance Compared to Other Financial Stocks",
+    "tokens": [
+      "compared",
+      "financial",
+      "how",
+      "other",
+      "performance",
+      "principal",
+      "stock",
+      "stocks"
+    ],
+    "ts": 1789822478.3856008
   }
 ]

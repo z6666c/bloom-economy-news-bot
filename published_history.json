@@ -1,49 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/dream-finders-homes-stock-hits-52week-low-at-1176-usd-93CH-4906245",
-    "title": "Dream Finders Homes stock hits 52-week low at 11.76 USD",
-    "tokens": [
-      "dream",
-      "finders",
-      "hits",
-      "homes",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789671346.6849341
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/scotiabank-reiterates-wheaton-precious-metals-stock-rating-at-sector-outperform-93CH-4906244",
-    "title": "Scotiabank reiterates Wheaton Precious Metals stock rating at Sector Outperform",
-    "tokens": [
-      "metals",
-      "outperform",
-      "precious",
-      "rating",
-      "reiterates",
-      "scotiabank",
-      "sector",
-      "stock",
-      "wheaton"
-    ],
-    "ts": 1789671354.4709234
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/us-sanctions-cuban-nickel-reserves-military-enterprises-4906241",
-    "title": "US sanctions Cuban nickel reserves, military enterprises",
-    "tokens": [
-      "cuban",
-      "enterprises",
-      "military",
-      "nickel",
-      "reserves",
-      "sanctions"
-    ],
-    "ts": 1789671361.4980736
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-lennar-misses-q3-2026-estimates-as-housing-demand-softens-93CH-4906240",
     "title": "Earnings call transcript: Lennar misses Q3 2026 estimates as housing demand softens",
     "tokens": [
@@ -23478,5 +23434,51 @@
       "unexpected"
     ],
     "ts": 1789841515.1096208
+  },
+  {
+    "id": "bj-wholesale-club-bj-formalizes-180906005.html",
+    "title": "BJ’s Wholesale Club (BJ) Formalizes Investment-Grade Financial Policy",
+    "tokens": [
+      "club",
+      "financial",
+      "formalizes",
+      "grade",
+      "investment",
+      "policy",
+      "wholesale"
+    ],
+    "ts": 1789842541.4874315
+  },
+  {
+    "id": "realreal-real-bets-glendale-capture-180003520.html",
+    "title": "The RealReal (REAL) Bets on Glendale to Capture Growing Vintage Demand",
+    "tokens": [
+      "bets",
+      "capture",
+      "demand",
+      "glendale",
+      "growing",
+      "real",
+      "realreal",
+      "vintage"
+    ],
+    "ts": 1789842549.2615054
+  },
+  {
+    "id": "dividends-vs-annuity-turns-590-181214858.html",
+    "title": "Dividends vs. an Annuity: Which Turns $590,000 Into More Monthly Income for Life?",
+    "tokens": [
+      "000",
+      "590",
+      "annuity",
+      "dividends",
+      "income",
+      "life",
+      "monthly",
+      "more",
+      "turns",
+      "which"
+    ],
+    "ts": 1789842556.5162203
   }
 ]

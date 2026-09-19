@@ -1,94 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/ai-infrastructure-provider-crusoe-valued-at-309-billion-in-latest-funding-round-4906271",
-    "title": "AI infrastructure provider Crusoe valued at $30.9 billion in latest funding round",
-    "tokens": [
-      "billion",
-      "crusoe",
-      "funding",
-      "infrastructure",
-      "latest",
-      "provider",
-      "round",
-      "valued"
-    ],
-    "ts": 1789673941.8208897
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/faa-faces-100-million-tariff-cost-on-air-traffic-upgrades-93CH-4906269",
-    "title": "FAA faces $100 million tariff cost on air traffic upgrades",
-    "tokens": [
-      "100",
-      "air",
-      "cost",
-      "faa",
-      "faces",
-      "million",
-      "tariff",
-      "traffic",
-      "upgrades"
-    ],
-    "ts": 1789673948.8198051
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/google-upgrades-cc-agent-with-family-sharing-and-task-automation-93CH-4906266",
-    "title": "Google upgrades CC agent with family sharing and task automation",
-    "tokens": [
-      "agent",
-      "automation",
-      "family",
-      "google",
-      "sharing",
-      "task",
-      "upgrades"
-    ],
-    "ts": 1789673956.5210931
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ultragenyx-stock-surges-10-on-fda-approval-for-gene-therapy-93CH-4906265",
-    "title": "Ultragenyx stock surges 10% on FDA approval for gene therapy",
-    "tokens": [
-      "approval",
-      "fda",
-      "gene",
-      "stock",
-      "surges",
-      "therapy",
-      "ultragenyx"
-    ],
-    "ts": 1789673964.0245712
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sp-downgrades-corteva-rating-on-seed-business-spinoff-93CH-4906264",
-    "title": "S&P downgrades Corteva rating on seed business spin-off",
-    "tokens": [
-      "business",
-      "corteva",
-      "downgrades",
-      "off",
-      "rating",
-      "seed",
-      "spin"
-    ],
-    "ts": 1789673971.0610282
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/four-corners-property-trust-stock-hits-52week-low-at-2278-usd-93CH-4906263",
-    "title": "Four Corners Property Trust stock hits 52-week low at 22.78 USD",
-    "tokens": [
-      "corners",
-      "four",
-      "hits",
-      "low",
-      "property",
-      "stock",
-      "trust",
-      "usd",
-      "week"
-    ],
-    "ts": 1789673978.6165192
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/credit-acceptance-reaches-710-million-predatory-auto-lending-settlement-with-most-us-states-4906229",
     "title": "Credit Acceptance reaches $710 million predatory auto lending settlement with most US states",
     "tokens": [
@@ -23473,5 +23384,101 @@
       "treasury"
     ],
     "ts": 1789847453.86985
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/citi-expects-hawkish-fed-to-slow-nonai-economy-4908117",
+    "title": "Citi expects hawkish Fed to slow non-AI economy",
+    "tokens": [
+      "citi",
+      "economy",
+      "expects",
+      "fed",
+      "hawkish",
+      "non",
+      "slow"
+    ],
+    "ts": 1789848606.3462713
+  },
+  {
+    "id": "jim-cramer-notes-oil-behind-193509467.html",
+    "title": "Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH)",
+    "tokens": [
+      "behind",
+      "casey",
+      "casy",
+      "cramer",
+      "jim",
+      "notes",
+      "oil",
+      "pressure",
+      "roadhouse",
+      "texas",
+      "txrh"
+    ],
+    "ts": 1789848614.3490329
+  },
+  {
+    "id": "jim-cramer-says-buy-reddit-193324887.html",
+    "title": "Jim Cramer Says “Buy Reddit” (RDDT)",
+    "tokens": [
+      "buy",
+      "cramer",
+      "jim",
+      "rddt",
+      "reddit"
+    ],
+    "ts": 1789848621.5385864
+  },
+  {
+    "id": "coreweave-crwv-charging-more-ai-193252050.html",
+    "title": "CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying",
+    "tokens": [
+      "charging",
+      "compute",
+      "coreweave",
+      "crwv",
+      "customers",
+      "keep",
+      "more",
+      "paying"
+    ],
+    "ts": 1789848628.9640217
+  },
+  {
+    "id": "jim-cramer-suggests-against-holding-192955385.html",
+    "title": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
+    "tokens": [
+      "against",
+      "conversion",
+      "cramer",
+      "dominion",
+      "holding",
+      "jim",
+      "nee",
+      "nextera",
+      "share",
+      "suggests",
+      "through"
+    ],
+    "ts": 1789848635.8531094
+  },
+  {
+    "id": "main-street-capital-stock-buy-193500520.html",
+    "title": "Is Main Street Capital Stock a Buy, Sell, or Hold With Shares 15% Below Their 52-Week High?",
+    "tokens": [
+      "below",
+      "buy",
+      "capital",
+      "high",
+      "hold",
+      "main",
+      "sell",
+      "shares",
+      "stock",
+      "street",
+      "their",
+      "week"
+    ],
+    "ts": 1789848642.9828093
   }
 ]

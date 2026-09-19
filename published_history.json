@@ -1,124 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-applied-digital-stock-with-overweight-rating-93CH-4905165",
-    "title": "Wells Fargo initiates Applied Digital stock with overweight rating",
-    "tokens": [
-      "applied",
-      "digital",
-      "fargo",
-      "initiates",
-      "overweight",
-      "rating",
-      "stock",
-      "wells"
-    ],
-    "ts": 1789641011.1230893
-  },
-  {
-    "id": "growth-paying-zscaler-stock-222007549.html",
-    "title": "What Growth Are You Paying For In Zscaler Stock?",
-    "tokens": [
-      "growth",
-      "paying",
-      "stock",
-      "what",
-      "you",
-      "zscaler"
-    ],
-    "ts": 1789641014.723357
-  },
-  {
-    "id": "high-yield-construction-stock-just-233002433.html",
-    "title": "This High-Yield Construction Stock Just Raised Its Dividend by 40%",
-    "tokens": [
-      "construction",
-      "dividend",
-      "high",
-      "just",
-      "raised",
-      "stock",
-      "yield"
-    ],
-    "ts": 1789641021.406324
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/the-fed-is-hiking-why-isnt-ubs-worried-about-stocks-4905218",
-    "title": "The Fed is hiking. Why isn’t UBS worried about stocks?",
-    "tokens": [
-      "about",
-      "fed",
-      "hiking",
-      "isn",
-      "stocks",
-      "ubs",
-      "why",
-      "worried"
-    ],
-    "ts": 1789641938.845731
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hargreave-hale-aim-vct-allots-885927-shares-at-3264p-each-93CH-4905216",
-    "title": "Hargreave Hale AIM VCT allots 885,927 shares at 32.64p each",
-    "tokens": [
-      "64p",
-      "885",
-      "927",
-      "aim",
-      "allots",
-      "each",
-      "hale",
-      "hargreave",
-      "shares",
-      "vct"
-    ],
-    "ts": 1789641946.4073966
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/helvetia-baloise-h1-2026-slides-integration-ahead-of-plan-187-roae-93CH-4905215",
-    "title": "Helvetia Baloise H1 2026 slides: integration ahead of plan, 18.7% RoaE",
-    "tokens": [
-      "2026",
-      "ahead",
-      "baloise",
-      "helvetia",
-      "integration",
-      "plan",
-      "roae",
-      "slides"
-    ],
-    "ts": 1789641954.2763846
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/huaweis-xu-says-chinese-ai-not-powerful-enough-yet-to-see-frontier-risks-4905193",
-    "title": "Huawei’s Xu says Chinese AI not powerful enough yet to see frontier risks",
-    "tokens": [
-      "chinese",
-      "enough",
-      "frontier",
-      "huawei",
-      "powerful",
-      "risks",
-      "see",
-      "yet"
-    ],
-    "ts": 1789641961.5103052
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-momentum-group-posts-record-h2-2026-earnings-93CH-4905208",
-    "title": "Earnings call transcript: Momentum Group posts record H2 2026 earnings",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "group",
-      "momentum",
-      "posts",
-      "record",
-      "transcript"
-    ],
-    "ts": 1789641969.5634995
-  },
-  {
     "id": "https://www.investing.com/news/company-news/beyond-investment-returns-families-are-measuring-wealth-by-freedom-continuity-and-legacy-according-to-nour-private-wealth-4905207",
     "title": "Beyond Investment Returns: Families Are Measuring Wealth by Freedom, Continuity, and Legacy, According to Nour Private Wealth",
     "tokens": [
@@ -23203,5 +23084,113 @@
       "won"
     ],
     "ts": 1789776958.8032217
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/collective-metals-appoints-ram-kumar-as-new-ceo-93CH-4908012",
+    "title": "Collective Metals appoints Ram Kumar as new CEO",
+    "tokens": [
+      "appoints",
+      "ceo",
+      "collective",
+      "kumar",
+      "metals",
+      "ram"
+    ],
+    "ts": 1789778172.1645117
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/proenergy-eyes-40-billion-to-50-billion-valuation-in-us-ipo--bloomberg-4908009",
+    "title": "ProEnergy eyes $40 billion to $50 billion valuation in US IPO - Bloomberg",
+    "tokens": [
+      "billion",
+      "bloomberg",
+      "eyes",
+      "ipo",
+      "proenergy",
+      "valuation"
+    ],
+    "ts": 1789778184.0823839
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/bloom-energy-coo-satish-chitoori-sells-775k-in-stock-93CH-4908008",
+    "title": "Bloom Energy COO Satish Chitoori sells $775k in stock",
+    "tokens": [
+      "775k",
+      "bloom",
+      "chitoori",
+      "coo",
+      "energy",
+      "satish",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789778193.0152214
+  },
+  {
+    "id": "fluence-energy-shares-drop-houston-170000911.html",
+    "title": "Fluence Energy shares drop after Houston delays prompt cuts",
+    "tokens": [
+      "cuts",
+      "delays",
+      "drop",
+      "energy",
+      "fluence",
+      "houston",
+      "prompt",
+      "shares"
+    ],
+    "ts": 1789778202.4142802
+  },
+  {
+    "id": "ionq-stock-down-34-three-170255494.html",
+    "title": "IonQ Stock Is Down 34% in Three Months. Here’s What the Street Has to Say.",
+    "tokens": [
+      "here",
+      "ionq",
+      "months",
+      "say",
+      "stock",
+      "street",
+      "three",
+      "what"
+    ],
+    "ts": 1789778212.6499212
+  },
+  {
+    "id": "freight-cycle-could-last-171832534.html",
+    "title": "How This Freight Cycle Could Last",
+    "tokens": [
+      "could",
+      "cycle",
+      "freight",
+      "how",
+      "last"
+    ],
+    "ts": 1789778221.044482
+  },
+  {
+    "id": "corn-feeling-pressure-thursday-171912863.html",
+    "title": "Corn Feeling Pressure on Thursday",
+    "tokens": [
+      "corn",
+      "feeling",
+      "pressure",
+      "thursday"
+    ],
+    "ts": 1789778231.5742195
+  },
+  {
+    "id": "soybeans-showing-modest-gains-meal-171912826.html",
+    "title": "Soybeans Showing Modest Gains as Meal Carries the Load",
+    "tokens": [
+      "carries",
+      "gains",
+      "load",
+      "meal",
+      "modest",
+      "showing",
+      "soybeans"
+    ],
+    "ts": 1789778239.9654677
   }
 ]

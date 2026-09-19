@@ -1,58 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/us-rate-options-signal-market-can-absorb-higher-treasury-yields-4906084",
-    "title": "US rate options signal market can absorb higher Treasury yields",
-    "tokens": [
-      "absorb",
-      "can",
-      "higher",
-      "market",
-      "options",
-      "rate",
-      "signal",
-      "treasury",
-      "yields"
-    ],
-    "ts": 1789661519.5288408
-  },
-  {
-    "id": "https://www.investing.com/news/world-news/un-mission-finds-grounds-to-believeus-committed-war-crimes-in-iran-and-tehran-crimes-against-humanity-4904963",
-    "title": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity",
-    "tokens": [
-      "against",
-      "believe",
-      "committed",
-      "crimes",
-      "finds",
-      "grounds",
-      "humanity",
-      "iran",
-      "mission",
-      "tehran",
-      "war"
-    ],
-    "ts": 1789661527.4168136
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/biomarin-options-flow-shows-large-bullish-call-spread-targeting-100-by-april-2027-93CH-4906083",
-    "title": "BioMarin options flow shows large bullish call spread targeting $100 by April 2027",
-    "tokens": [
-      "100",
-      "2027",
-      "april",
-      "biomarin",
-      "bullish",
-      "call",
-      "flow",
-      "large",
-      "options",
-      "shows",
-      "spread",
-      "targeting"
-    ],
-    "ts": 1789661534.8188858
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/emcor-at-morgan-stanley-laguna-conference-ai-data-centers-drive-growth-93CH-4906082",
     "title": "EMCOR at Morgan Stanley laguna conference: ai data centers drive growth",
     "tokens": [
@@ -23252,5 +23199,55 @@
       "they"
     ],
     "ts": 1789816218.6256783
+  },
+  {
+    "id": "https://www.investing.com/news/investment-ideas/geopark-delivers-67-return-after-investingpro-fair-value-call-93CH-4908077",
+    "title": "GeoPark delivers 67% return after InvestingPro Fair Value call",
+    "tokens": [
+      "call",
+      "delivers",
+      "fair",
+      "geopark",
+      "investingpro",
+      "return",
+      "value"
+    ],
+    "ts": 1789817069.9370546
+  },
+  {
+    "id": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-predicted-sterling-infrastructure-40-decline-93CH-4908076",
+    "title": "InvestingPro Fair Value predicted Sterling Infrastructure 40% decline",
+    "tokens": [
+      "decline",
+      "fair",
+      "infrastructure",
+      "investingpro",
+      "predicted",
+      "sterling",
+      "value"
+    ],
+    "ts": 1789817077.5290346
+  },
+  {
+    "id": "oracle-tells-employees-doing-more-094508947.html",
+    "title": "Oracle Tells Employees 'Doing More With Less' Isn’t The Goal After Recent Layoffs, CFO Urges 'Thoughtful' Spending: Report",
+    "tokens": [
+      "cfo",
+      "doing",
+      "employees",
+      "goal",
+      "isn",
+      "layoffs",
+      "less",
+      "more",
+      "oracle",
+      "recent",
+      "report",
+      "spending",
+      "tells",
+      "thoughtful",
+      "urges"
+    ],
+    "ts": 1789817085.2405684
   }
 ]

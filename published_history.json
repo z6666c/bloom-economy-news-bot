@@ -1,80 +1,5 @@
 [
   {
-    "id": "oilprice-news-45537",
-    "title": "America Is Paying a Lot for Fuel, Not Running Out of Gasoline",
-    "tokens": [
-      "america",
-      "fuel",
-      "gasoline",
-      "lot",
-      "paying",
-      "running"
-    ],
-    "ts": 1789676031.4506927
-  },
-  {
-    "id": "WP-MKTW-0005239784",
-    "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
-    "tokens": [
-      "could",
-      "disappointed",
-      "frenzy",
-      "investors",
-      "leave",
-      "product",
-      "tesla",
-      "upcoming"
-    ],
-    "ts": 1789676896.8861952
-  },
-  {
-    "id": "WP-MKTW-0005233778",
-    "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
-    "tokens": [
-      "account",
-      "best",
-      "big",
-      "bill",
-      "insurance",
-      "pet",
-      "plan",
-      "savings",
-      "vet",
-      "way",
-      "what"
-    ],
-    "ts": 1789676905.7565389
-  },
-  {
-    "id": "WP-MKTW-0005239586",
-    "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
-    "tokens": [
-      "anniversary",
-      "cash",
-      "craze",
-      "mon",
-      "pok",
-      "set",
-      "target",
-      "turned"
-    ],
-    "ts": 1789676913.5095017
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/rexford-industrial-completes-12-billion-portfolio-sale-to-eqt-93CH-4906367",
-    "title": "Rexford Industrial completes $1.2 billion portfolio sale to EQT",
-    "tokens": [
-      "billion",
-      "completes",
-      "eqt",
-      "industrial",
-      "portfolio",
-      "rexford",
-      "sale"
-    ],
-    "ts": 1789676921.0917208
-  },
-  {
     "id": "https://www.investing.com/news/company-news/hudson-technologies-signs-development-deal-with-icorium-93CH-4906366",
     "title": "Hudson Technologies signs development deal with Icorium",
     "tokens": [
@@ -23490,5 +23415,82 @@
       "why"
     ],
     "ts": 1789858235.1902153
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ai-risk-debate-existential-threat-or-dangerous-tool-4908123",
+    "title": "AI risk debate: Existential threat or dangerous tool?",
+    "tokens": [
+      "dangerous",
+      "debate",
+      "existential",
+      "risk",
+      "threat",
+      "tool"
+    ],
+    "ts": 1789859350.4254344
+  },
+  {
+    "id": "rtx-beats-lockheed-martin-risk-225000401.html",
+    "title": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
+    "tokens": [
+      "beats",
+      "better",
+      "buy",
+      "here",
+      "lockheed",
+      "long",
+      "martin",
+      "risk",
+      "rtx",
+      "term",
+      "why"
+    ],
+    "ts": 1789859357.6087677
+  },
+  {
+    "id": "oilprice-article-45556",
+    "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
+    "tokens": [
+      "betting",
+      "billions",
+      "energy",
+      "giants",
+      "longer",
+      "oil",
+      "routes",
+      "world"
+    ],
+    "ts": 1789859365.0368304
+  },
+  {
+    "id": "oilprice-article-45555",
+    "title": "Europe Outbids Asia for LNG as Prices Surge 150%",
+    "tokens": [
+      "150",
+      "asia",
+      "europe",
+      "lng",
+      "outbids",
+      "prices",
+      "surge"
+    ],
+    "ts": 1789859372.1021693
+  },
+  {
+    "id": "oilprice-news-45556",
+    "title": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge",
+    "tokens": [
+      "arabia",
+      "crude",
+      "cuts",
+      "europe",
+      "exports",
+      "gulf",
+      "october",
+      "off",
+      "saudi",
+      "surge"
+    ],
+    "ts": 1789859379.2796886
   }
 ]

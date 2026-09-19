@@ -1,68 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/lockheed-martin-gets-first-batch-of-patriot-interceptor-parts-from-general-motors-4906217",
-    "title": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors",
-    "tokens": [
-      "batch",
-      "first",
-      "general",
-      "gets",
-      "interceptor",
-      "lockheed",
-      "martin",
-      "motors",
-      "parts",
-      "patriot"
-    ],
-    "ts": 1789670017.2523685
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bnp-paribas-exane-cuts-fluence-energy-stock-price-target-to-5-on-cash-concerns-93CH-4906216",
-    "title": "BNP Paribas Exane cuts Fluence Energy stock price target to $5 on cash concerns",
-    "tokens": [
-      "bnp",
-      "cash",
-      "concerns",
-      "cuts",
-      "energy",
-      "exane",
-      "fluence",
-      "paribas",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1789670024.2903354
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/arm-amd-among-market-cap-stock-movers-on-thursday-93CH-4906215",
-    "title": "Arm, AMD among market cap stock movers on Thursday",
-    "tokens": [
-      "amd",
-      "among",
-      "arm",
-      "cap",
-      "market",
-      "movers",
-      "stock",
-      "thursday"
-    ],
-    "ts": 1789670032.1229105
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-newcore-gold-stock-surging-today-93CH-4906214",
-    "title": "Why is Newcore Gold stock surging today?",
-    "tokens": [
-      "gold",
-      "newcore",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789670036.1397536
-  },
-  {
     "id": "international-flavors-fragrances-stock-outperforming-093049933.html",
     "title": "Is International Flavors & Fragrances Stock Outperforming the Dow?",
     "tokens": [
@@ -23475,5 +23412,74 @@
       "went"
     ],
     "ts": 1789838613.1272857
+  },
+  {
+    "id": "delivery-outlook-shows-tesla-tsla-171443015.html",
+    "title": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
+    "tokens": [
+      "business",
+      "core",
+      "deliver",
+      "delivery",
+      "engine",
+      "growth",
+      "must",
+      "next",
+      "outlook",
+      "pressure",
+      "shows",
+      "tesla",
+      "tsla",
+      "under"
+    ],
+    "ts": 1789839387.2749193
+  },
+  {
+    "id": "cisco-csco-leans-splunk-broaden-171200277.html",
+    "title": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
+    "tokens": [
+      "big",
+      "broaden",
+      "cisco",
+      "csco",
+      "enterprise",
+      "faces",
+      "leans",
+      "share",
+      "spending",
+      "splunk",
+      "test"
+    ],
+    "ts": 1789839395.4138634
+  },
+  {
+    "id": "micron-mu-unveils-breakthrough-memory-171152232.html",
+    "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
+    "tokens": [
+      "about",
+      "breakthrough",
+      "market",
+      "memory",
+      "micron",
+      "much",
+      "product",
+      "unveils"
+    ],
+    "ts": 1789839402.5189059
+  },
+  {
+    "id": "bofa-drops-stunning-warning-fed-171700996.html",
+    "title": "BofA drops stunning warning about Fed rate hikes",
+    "tokens": [
+      "about",
+      "bofa",
+      "drops",
+      "fed",
+      "hikes",
+      "rate",
+      "stunning",
+      "warning"
+    ],
+    "ts": 1789839409.6169102
   }
 ]

@@ -1,31 +1,5 @@
 [
   {
-    "id": "buy-used-car-181444914.html",
-    "title": "Should I buy a new or used car? Here’s how to decide",
-    "tokens": [
-      "buy",
-      "car",
-      "decide",
-      "here",
-      "how",
-      "should",
-      "used"
-    ],
-    "ts": 1789657990.990472
-  },
-  {
-    "id": "long-car-loan-163621954.html",
-    "title": "What’s the average car loan length?",
-    "tokens": [
-      "average",
-      "car",
-      "length",
-      "loan",
-      "what"
-    ],
-    "ts": 1789657998.4370463
-  },
-  {
     "id": "strong-execution-strengthens-macerich-mac-144814109.html",
     "title": "Strong Execution Strengthens Macerich (MAC) in Q2",
     "tokens": [
@@ -23297,5 +23271,38 @@
       "while"
     ],
     "ts": 1789806487.6422958
+  },
+  {
+    "id": "rocket-companies-sees-market-share-040203732.html",
+    "title": "Rocket Companies Sees Market-Share Gains as Redfin, Mr. Cooper Synergies Build",
+    "tokens": [
+      "build",
+      "companies",
+      "cooper",
+      "gains",
+      "market",
+      "redfin",
+      "rocket",
+      "sees",
+      "share",
+      "synergies"
+    ],
+    "ts": 1789807307.1707208
+  },
+  {
+    "id": "gaap-loss-masks-corebridge-crbg-042518547.html",
+    "title": "A GAAP Loss Masks What Corebridge (CRBG) Actually Earned This Quarter",
+    "tokens": [
+      "actually",
+      "corebridge",
+      "crbg",
+      "earned",
+      "gaap",
+      "loss",
+      "masks",
+      "quarter",
+      "what"
+    ],
+    "ts": 1789807314.779813
   }
 ]

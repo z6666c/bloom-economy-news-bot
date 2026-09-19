@@ -1,214 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005237744",
-    "title": "How can I get my employees to stop oversharing at work?",
-    "tokens": [
-      "can",
-      "employees",
-      "get",
-      "how",
-      "oversharing",
-      "stop",
-      "work"
-    ],
-    "ts": 1789645283.860982
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bank-of-england-keeps-interest-rates-on-hold-at-375-4905319",
-    "title": "Bank of England keeps interest rates steady, hints at future hikes",
-    "tokens": [
-      "bank",
-      "england",
-      "future",
-      "hikes",
-      "hints",
-      "interest",
-      "keeps",
-      "rates",
-      "steady"
-    ],
-    "ts": 1789645291.404306
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/premarket-movers-generac-nebius-rally-bcb-bancorp-sinks-4905356",
-    "title": "Premarket movers: Generac, Nebius rally, BCB Bancorp sinks",
-    "tokens": [
-      "bancorp",
-      "bcb",
-      "generac",
-      "movers",
-      "nebius",
-      "premarket",
-      "rally",
-      "sinks"
-    ],
-    "ts": 1789645299.2918367
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/guggenheim-raises-salesforce-stock-price-target-to-300-on-ai-strategy-93CH-4905354",
-    "title": "Guggenheim raises Salesforce stock price target to $300 on AI strategy",
-    "tokens": [
-      "300",
-      "guggenheim",
-      "price",
-      "raises",
-      "salesforce",
-      "stock",
-      "strategy",
-      "target"
-    ],
-    "ts": 1789645306.2603123
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-paychex-stock-rating-ahead-of-earnings-93CH-4905353",
-    "title": "Guggenheim reiterates Paychex stock rating ahead of earnings",
-    "tokens": [
-      "ahead",
-      "earnings",
-      "guggenheim",
-      "paychex",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1789645313.0366502
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/needham-assumes-everpure-stock-coverage-with-buy-rating-140-target-93CH-4905352",
-    "title": "Needham assumes Everpure stock coverage with buy rating, $140 target",
-    "tokens": [
-      "140",
-      "assumes",
-      "buy",
-      "coverage",
-      "everpure",
-      "needham",
-      "rating",
-      "stock",
-      "target"
-    ],
-    "ts": 1789645319.8330708
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/oppenheimer-initiates-kopin-stock-with-outperform-rating-93CH-4905351",
-    "title": "Oppenheimer initiates Kopin stock with Outperform rating",
-    "tokens": [
-      "initiates",
-      "kopin",
-      "oppenheimer",
-      "outperform",
-      "rating",
-      "stock"
-    ],
-    "ts": 1789645328.2137508
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
-    "title": "Sterling today: Pound falls as BoE holds rates, cautious minutes weigh",
-    "tokens": [
-      "boe",
-      "cautious",
-      "falls",
-      "holds",
-      "minutes",
-      "pound",
-      "rates",
-      "sterling",
-      "today",
-      "weigh"
-    ],
-    "ts": 1789645335.9825792
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/savills-appoints-john-nixon-as-nonexecutive-director-93CH-4905347",
-    "title": "Savills appoints John Nixon as non-executive director",
-    "tokens": [
-      "appoints",
-      "director",
-      "executive",
-      "john",
-      "nixon",
-      "non",
-      "savills"
-    ],
-    "ts": 1789645343.101786
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-salesforce-stock-rating-after-investor-day-93CH-4905346",
-    "title": "Oppenheimer reiterates Salesforce stock rating after investor day",
-    "tokens": [
-      "day",
-      "investor",
-      "oppenheimer",
-      "rating",
-      "reiterates",
-      "salesforce",
-      "stock"
-    ],
-    "ts": 1789645349.3324606
-  },
-  {
-    "id": "she-told-selling-house-double-233049029.html",
-    "title": "She Was Told Selling the House Would Double Her Medicare Premium. The Real Answer Turned on a Two-Year Deadline Nobody Mentioned",
-    "tokens": [
-      "answer",
-      "deadline",
-      "double",
-      "her",
-      "house",
-      "medicare",
-      "mentioned",
-      "nobody",
-      "premium",
-      "real",
-      "selling",
-      "she",
-      "told",
-      "turned",
-      "two",
-      "would",
-      "year"
-    ],
-    "ts": 1789645356.5908887
-  },
-  {
-    "id": "82e1db4b-493f-4729-928b-ddabc9c101f8",
-    "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
-    "tokens": [
-      "arc",
-      "blockchain",
-      "circle",
-      "day",
-      "got",
-      "how",
-      "institutional",
-      "memecoins",
-      "one",
-      "taken"
-    ],
-    "ts": 1789645365.0576515
-  },
-  {
-    "id": "WP-MKTW-0005238192",
-    "title": "‘I just want out’: Why Jeffrey Gundlach is moving his money as far from AI as possible — and what he’s doing instead",
-    "tokens": [
-      "doing",
-      "far",
-      "gundlach",
-      "his",
-      "instead",
-      "jeffrey",
-      "just",
-      "money",
-      "moving",
-      "possible",
-      "want",
-      "what",
-      "why"
-    ],
-    "ts": 1789646028.1412957
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/verisign-ceo-d-james-bidzos-sells-978712-in-stock-93CH-4905442",
     "title": "Verisign CEO D. James Bidzos sells $978,712 in stock",
     "tokens": [
@@ -23218,5 +23009,206 @@
       "volume"
     ],
     "ts": 1789781261.948804
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/duolingo-cofounder--ceo-luis-von-ahn-sells-425m-in-stock-93CH-4908029",
+    "title": "Duolingo co-founder & CEO Luis von Ahn sells $4.25m in stock",
+    "tokens": [
+      "25m",
+      "ahn",
+      "ceo",
+      "duolingo",
+      "founder",
+      "luis",
+      "sells",
+      "stock",
+      "von"
+    ],
+    "ts": 1789781997.3876884
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/oracle-data-center-debt-comes-under-pressure-amid-project-concerns--ft-4908028",
+    "title": "Oracle data center debt comes under pressure amid project concerns - FT",
+    "tokens": [
+      "center",
+      "comes",
+      "concerns",
+      "data",
+      "debt",
+      "oracle",
+      "pressure",
+      "project",
+      "under"
+    ],
+    "ts": 1789782005.5680313
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/redwood-trust-ceo-christopher-abate-buys-383900-in-company-stock-93CH-4908027",
+    "title": "Redwood Trust CEO Christopher Abate buys $383,900 in company stock",
+    "tokens": [
+      "383",
+      "900",
+      "abate",
+      "buys",
+      "ceo",
+      "christopher",
+      "company",
+      "redwood",
+      "stock",
+      "trust"
+    ],
+    "ts": 1789782014.4631326
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/innsuites-hospitality-evp-marc-berg-sells-3615-million-in-stock-93CH-4908026",
+    "title": "Innsuites Hospitality EVP Marc Berg sells $361.5 million in stock",
+    "tokens": [
+      "361",
+      "berg",
+      "evp",
+      "hospitality",
+      "innsuites",
+      "marc",
+      "million",
+      "sells",
+      "stock"
+    ],
+    "ts": 1789782023.4576318
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/viant-technology-cfo-larry-madden-sells-over-390k-in-shares-93CH-4908025",
+    "title": "Viant Technology CFO Larry Madden sells over $390k in shares",
+    "tokens": [
+      "390k",
+      "cfo",
+      "larry",
+      "madden",
+      "sells",
+      "shares",
+      "technology",
+      "viant"
+    ],
+    "ts": 1789782032.5903783
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/heartflow-cfo-verghese-sells-over-12-million-in-company-stock-93CH-4908024",
+    "title": "Heartflow CFO Verghese sells over $1.2 million in company stock",
+    "tokens": [
+      "cfo",
+      "company",
+      "heartflow",
+      "million",
+      "sells",
+      "stock",
+      "verghese"
+    ],
+    "ts": 1789782040.6607838
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/mohawk-industries-suzanne-helen-sells-100496-in-stock-93CH-4908023",
+    "title": "Mohawk Industries’ Suzanne Helen sells $100,496 in stock",
+    "tokens": [
+      "100",
+      "496",
+      "helen",
+      "industries",
+      "mohawk",
+      "sells",
+      "stock",
+      "suzanne"
+    ],
+    "ts": 1789782048.4621675
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/anthropic-weighs-new-ai-model-launch-as-openai-gains-ground--reuters-4908022",
+    "title": "Anthropic weighs new AI model launch as OpenAI gains ground - Reuters",
+    "tokens": [
+      "anthropic",
+      "gains",
+      "ground",
+      "launch",
+      "model",
+      "openai",
+      "reuters",
+      "weighs"
+    ],
+    "ts": 1789782056.7491732
+  },
+  {
+    "id": "goldman-top-strategist-just-added-184502410.html",
+    "title": "Goldman’s top strategist just added hard numbers to his earnings-bubble warning",
+    "tokens": [
+      "added",
+      "bubble",
+      "earnings",
+      "goldman",
+      "hard",
+      "his",
+      "just",
+      "numbers",
+      "strategist",
+      "top",
+      "warning"
+    ],
+    "ts": 1789782066.0721378
+  },
+  {
+    "id": "digital-realty-trust-dlr-forms-185412949.html",
+    "title": "Digital Realty Trust (DLR) Forms Türkiye Venture. Does Secured Power Justify the Commitment?",
+    "tokens": [
+      "commitment",
+      "digital",
+      "dlr",
+      "does",
+      "forms",
+      "justify",
+      "power",
+      "realty",
+      "rkiye",
+      "secured",
+      "trust",
+      "venture"
+    ],
+    "ts": 1789782074.305284
+  },
+  {
+    "id": "10-low-key-money-habits-184438107.html",
+    "title": "10 Low-Key Money Habits of the Wealthy",
+    "tokens": [
+      "habits",
+      "key",
+      "low",
+      "money",
+      "wealthy"
+    ],
+    "ts": 1789782083.4821076
+  },
+  {
+    "id": "nat-gas-prices-climb-smaller-191253323.html",
+    "title": "Nat-Gas Prices Climb on Smaller-Than-Expected Storage Build",
+    "tokens": [
+      "build",
+      "climb",
+      "expected",
+      "gas",
+      "nat",
+      "prices",
+      "smaller",
+      "storage"
+    ],
+    "ts": 1789782092.9674606
+  },
+  {
+    "id": "crude-prices-slip-supply-fears-191408143.html",
+    "title": "Crude Prices Slip as Supply Fears Ease",
+    "tokens": [
+      "crude",
+      "ease",
+      "fears",
+      "prices",
+      "slip",
+      "supply"
+    ],
+    "ts": 1789782096.9794433
   }
 ]

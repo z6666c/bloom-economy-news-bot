@@ -1,64 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/us-state-department-oks-possible-243-billion-military-aircraft-sale-to-saudi-arabia-4906175",
-    "title": "US State Department OKs possible $24.3 billion military aircraft sale to Saudi Arabia",
-    "tokens": [
-      "aircraft",
-      "arabia",
-      "billion",
-      "department",
-      "military",
-      "oks",
-      "possible",
-      "sale",
-      "saudi",
-      "state"
-    ],
-    "ts": 1789666795.6040885
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lpp-q2-2026-slides-profit-surges-48-on-margin-expansion-93CH-4906174",
-    "title": "LPP Q2 2026 slides: profit surges 48% on margin expansion",
-    "tokens": [
-      "2026",
-      "expansion",
-      "lpp",
-      "margin",
-      "profit",
-      "slides",
-      "surges"
-    ],
-    "ts": 1789666802.8605824
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bmo-reiterates-hanover-insurance-stock-rating-on-roe-outlook-93CH-4906172",
-    "title": "BMO reiterates Hanover Insurance stock rating on ROE outlook",
-    "tokens": [
-      "bmo",
-      "hanover",
-      "insurance",
-      "outlook",
-      "rating",
-      "reiterates",
-      "roe",
-      "stock"
-    ],
-    "ts": 1789666810.3638809
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/autonation-stock-hits-52week-low-at-17644-93CH-4906170",
-    "title": "Autonation stock hits 52-week low at $176.44",
-    "tokens": [
-      "176",
-      "autonation",
-      "hits",
-      "low",
-      "stock",
-      "week"
-    ],
-    "ts": 1789666817.462753
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/polish-airports-in-lublin-and-rzeszow-suspend-operations-again-93CH-4906166",
     "title": "Polish airports in Lublin and Rzeszow suspend operations again",
     "tokens": [
@@ -23395,5 +23336,79 @@
       "upstart"
     ],
     "ts": 1789829459.5910144
+  },
+  {
+    "id": "WP-MKTW-0005236806",
+    "title": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500",
+    "tokens": [
+      "500",
+      "all",
+      "beaten",
+      "dividends",
+      "grown",
+      "most",
+      "nearly",
+      "stocks"
+    ],
+    "ts": 1789830590.5529182
+  },
+  {
+    "id": "ally-financial-reaffirms-guidance-margin-150159380.html",
+    "title": "Ally Financial Reaffirms Guidance as Margin Gains Offset Stellantis Lease Pressure",
+    "tokens": [
+      "ally",
+      "financial",
+      "gains",
+      "guidance",
+      "lease",
+      "margin",
+      "offset",
+      "pressure",
+      "reaffirms",
+      "stellantis"
+    ],
+    "ts": 1789830598.3531952
+  },
+  {
+    "id": "warren-buffett-watched-alphabets-stock-145000584.html",
+    "title": "Warren Buffett Watched Alphabet's Stock Price Climb 9,000% Before He Decided to Invest. Here's Why He and Greg Abel Are Making It One of Berkshire Hathaway's Biggest Investments Now.",
+    "tokens": [
+      "000",
+      "abel",
+      "alphabet",
+      "before",
+      "berkshire",
+      "biggest",
+      "buffett",
+      "climb",
+      "decided",
+      "greg",
+      "hathaway",
+      "here",
+      "invest",
+      "investments",
+      "making",
+      "now",
+      "one",
+      "price",
+      "stock",
+      "warren",
+      "watched",
+      "why"
+    ],
+    "ts": 1789830605.8079317
+  },
+  {
+    "id": "oilprice-article-45546",
+    "title": "UN Warns World Must Prepare for Life Beyond 1.5°C",
+    "tokens": [
+      "beyond",
+      "life",
+      "must",
+      "prepare",
+      "warns",
+      "world"
+    ],
+    "ts": 1789830616.3710098
   }
 ]

@@ -1,74 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/ecopetrol-names-carlos-augusto-suarez-as-board-chairman-93CH-4906158",
-    "title": "Ecopetrol names Carlos Augusto Suarez as board chairman",
-    "tokens": [
-      "augusto",
-      "board",
-      "carlos",
-      "chairman",
-      "ecopetrol",
-      "names",
-      "suarez"
-    ],
-    "ts": 1789665971.5108736
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/entergy-texas-declares-quarterly-dividend-on-preferred-stock-93CH-4906156",
-    "title": "Entergy Texas declares quarterly dividend on preferred stock",
-    "tokens": [
-      "declares",
-      "dividend",
-      "entergy",
-      "preferred",
-      "quarterly",
-      "stock",
-      "texas"
-    ],
-    "ts": 1789665978.5758617
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/oregon-bancorp-declares-020-quarterly-dividend-93CH-4906157",
-    "title": "Oregon Bancorp declares $0.20 quarterly dividend",
-    "tokens": [
-      "bancorp",
-      "declares",
-      "dividend",
-      "oregon",
-      "quarterly"
-    ],
-    "ts": 1789665986.052476
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/northrop-grumman-at-morgan-stanley-conference-backlog-and-growth-93CH-4906154",
-    "title": "Northrop Grumman at Morgan Stanley conference: backlog and growth",
-    "tokens": [
-      "backlog",
-      "conference",
-      "growth",
-      "grumman",
-      "morgan",
-      "northrop",
-      "stanley"
-    ],
-    "ts": 1789665993.6718469
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/lincoln-electric-at-morgan-stanley-conference-margin-plan-in-focus-93CH-4906153",
-    "title": "Lincoln Electric at Morgan Stanley conference: margin plan in focus",
-    "tokens": [
-      "conference",
-      "electric",
-      "focus",
-      "lincoln",
-      "margin",
-      "morgan",
-      "plan",
-      "stanley"
-    ],
-    "ts": 1789665997.6885264
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/johnson--johnson-at-deutsche-bank-healthcare-summit-growth-outlook-lifts-93CH-4906149",
     "title": "Johnson & Johnson at deutsche bank healthcare summit: growth outlook lifts",
     "tokens": [
@@ -23372,5 +23303,86 @@
       "warns"
     ],
     "ts": 1789827035.376587
+  },
+  {
+    "id": "WP-MKTW-0005235737",
+    "title": "Most workers would take a pay cut for job security right now: ‘I can’t deal with this stress anymore’",
+    "tokens": [
+      "anymore",
+      "can",
+      "cut",
+      "deal",
+      "job",
+      "most",
+      "now",
+      "pay",
+      "right",
+      "security",
+      "stress",
+      "take",
+      "workers",
+      "would"
+    ],
+    "ts": 1789827896.0405362
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-judge-signals-rejection-of-part-of-tiktok-privacy-settlement-4908089",
+    "title": "US judge signals rejection of part of TikTok privacy settlement",
+    "tokens": [
+      "judge",
+      "part",
+      "privacy",
+      "rejection",
+      "settlement",
+      "signals",
+      "tiktok"
+    ],
+    "ts": 1789827904.4418304
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ecb-should-stay-vigilant-on-inflation-but-avoid-hasty-rate-moves--stournaras-4908086",
+    "title": "ECB should stay vigilant on inflation but avoid hasty rate moves - Stournaras",
+    "tokens": [
+      "avoid",
+      "ecb",
+      "hasty",
+      "inflation",
+      "moves",
+      "rate",
+      "should",
+      "stay",
+      "stournaras",
+      "vigilant"
+    ],
+    "ts": 1789827911.4885645
+  },
+  {
+    "id": "anthropics-ipo-coming-heres-means-140500319.html",
+    "title": "Anthropic's IPO Is Coming. Here's What That Means for S&P 500 Investors.",
+    "tokens": [
+      "500",
+      "anthropic",
+      "coming",
+      "here",
+      "investors",
+      "ipo",
+      "means",
+      "what"
+    ],
+    "ts": 1789827919.2775874
+  },
+  {
+    "id": "ibm-raised-dividend-31-years-140251592.html",
+    "title": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
+    "tokens": [
+      "dividend",
+      "ibm",
+      "inflation",
+      "raised",
+      "still",
+      "winning",
+      "years"
+    ],
+    "ts": 1789827927.2787468
   }
 ]

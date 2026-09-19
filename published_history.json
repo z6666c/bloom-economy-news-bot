@@ -1,65 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/sec-filings/oramed-pharmaceuticals-shareholders-approve-board-stock-plan-amendment-at-annual-meeting-93CH-4906308",
-    "title": "Oramed Pharmaceuticals shareholders approve board, stock plan amendment at annual meeting",
-    "tokens": [
-      "amendment",
-      "annual",
-      "approve",
-      "board",
-      "meeting",
-      "oramed",
-      "pharmaceuticals",
-      "plan",
-      "shareholders",
-      "stock"
-    ],
-    "ts": 1789675910.1989937
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fda-approves-ultragenyxs-fayuvi-for-sanfilippo-syndrome-type-a-93CH-4906307",
-    "title": "FDA approves Ultragenyx’s Fayuvi for Sanfilippo syndrome Type A",
-    "tokens": [
-      "approves",
-      "fayuvi",
-      "fda",
-      "sanfilippo",
-      "syndrome",
-      "type",
-      "ultragenyx"
-    ],
-    "ts": 1789675917.6479335
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-approves-possible-243-billion-f35-sale-to-saudi-arabia-4906300",
-    "title": "U.S. approves possible $24.3 billion F-35 sale to Saudi Arabia",
-    "tokens": [
-      "approves",
-      "arabia",
-      "billion",
-      "possible",
-      "sale",
-      "saudi"
-    ],
-    "ts": 1789675921.664629
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/figma-stock-analysis-ipo-hangover-strong-fundamentals-and-a-contested-valuation-93CH-4906299",
-    "title": "Figma stock analysis: IPO hangover, strong fundamentals, and a contested valuation",
-    "tokens": [
-      "analysis",
-      "contested",
-      "figma",
-      "fundamentals",
-      "hangover",
-      "ipo",
-      "stock",
-      "strong",
-      "valuation"
-    ],
-    "ts": 1789675924.7246816
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/usdsgd-trade-outlook-mas-tightening-points-to-further-sgd-gains-93CH-4906298",
     "title": "USD/SGD trade outlook: MAS tightening points to further SGD gains",
     "tokens": [
@@ -23476,5 +23416,73 @@
       "ship"
     ],
     "ts": 1789849553.847382
+  },
+  {
+    "id": "nashville-traffic-nightmare-now-9-202041295.html",
+    "title": "Nashville’s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project",
+    "tokens": [
+      "fer",
+      "ferrovial",
+      "led",
+      "nashville",
+      "nightmare",
+      "now",
+      "project",
+      "traffic"
+    ],
+    "ts": 1789850328.8884938
+  },
+  {
+    "id": "idexx-idxx-bets-ai-scribe-201730587.html",
+    "title": "IDEXX (IDXX) Bets an AI Scribe Can Sell More Pet Diagnostics",
+    "tokens": [
+      "bets",
+      "can",
+      "diagnostics",
+      "idexx",
+      "idxx",
+      "more",
+      "pet",
+      "scribe",
+      "sell"
+    ],
+    "ts": 1789850337.0432684
+  },
+  {
+    "id": "prudential-pru-leaving-emerging-markets-201350497.html",
+    "title": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
+    "tokens": [
+      "185m",
+      "emerging",
+      "leaving",
+      "markets",
+      "proves",
+      "pru",
+      "prudential",
+      "sale"
+    ],
+    "ts": 1789850344.6549718
+  },
+  {
+    "id": "cathie-wood-sold-palantir-amd-202500594.html",
+    "title": "Cathie Wood Sold Palantir and AMD, Then Poured $3.35 Million Into Archer Aviation. Is ARK Betting Big on Flying Taxis?",
+    "tokens": [
+      "amd",
+      "archer",
+      "ark",
+      "aviation",
+      "betting",
+      "big",
+      "cathie",
+      "flying",
+      "million",
+      "palantir",
+      "poured",
+      "sold",
+      "taxis",
+      "then",
+      "wood"
+    ],
+    "ts": 1789850351.9856484
   }
 ]

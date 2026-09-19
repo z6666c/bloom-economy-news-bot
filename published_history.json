@@ -1,84 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/dotkonnekt-names-siva-ganesan-to-lead-enterprise-ai-growth-1036553981",
-    "title": "DotKonnekt Names Siva Ganesan to Lead Enterprise AI Growth",
-    "tokens": [
-      "dotkonnekt",
-      "enterprise",
-      "ganesan",
-      "growth",
-      "lead",
-      "names",
-      "siva"
-    ],
-    "ts": 1789658039.628904
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/build-right-construction-lawyers-named-australia-s-best-residential-building-law-firm-for-2026-1036553979",
-    "title": "Build Right Construction Lawyers Named Australia's Best Residential Building Law Firm for 2026",
-    "tokens": [
-      "2026",
-      "australia",
-      "best",
-      "build",
-      "building",
-      "construction",
-      "firm",
-      "law",
-      "lawyers",
-      "named",
-      "residential",
-      "right"
-    ],
-    "ts": 1789658047.0849738
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/grabar-law-office-investigates-claims-on-behalf-of-longterm-shareholders-of-ast-spacemobile-inc.-asts-1036553957",
-    "title": "Grabar Law Office Investigates Claims on Behalf of Long-Term Shareholders of AST SpaceMobile, Inc. (ASTS)",
-    "tokens": [
-      "ast",
-      "asts",
-      "behalf",
-      "claims",
-      "grabar",
-      "inc",
-      "investigates",
-      "law",
-      "long",
-      "office",
-      "shareholders",
-      "spacemobile",
-      "term"
-    ],
-    "ts": 1789658054.8816729
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/faruqi-faruqi-llp-urges-hims-hers-health-inc.-hims-investors-to-seek-counsel-before-the-november-2-2026-lead-plaintiff-deadline-in-the-securities-class-action-1036536366",
-    "title": "Faruqi & Faruqi, LLP Urges Hims & Hers Health, Inc. (HIMS) Investors to Seek Counsel Before the November 2, 2026 Lead Plaintiff Deadline in the Securities Class Action",
-    "tokens": [
-      "2026",
-      "action",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "faruqi",
-      "health",
-      "hers",
-      "hims",
-      "inc",
-      "investors",
-      "lead",
-      "llp",
-      "november",
-      "plaintiff",
-      "securities",
-      "seek",
-      "urges"
-    ],
-    "ts": 1789658063.145868
-  },
-  {
     "id": "https://markets.businessinsider.com/news/currencies/span-global-services-releases-2026-legaltech-adoption-benchmark-report-62-of-law-firms-expand-cloud-operations-1036553976",
     "title": "Span Global Services Releases 2026 LegalTech Adoption Benchmark Report: 62% of Law Firms Expand Cloud Operations",
     "tokens": [
@@ -23289,5 +23210,68 @@
       "showdown"
     ],
     "ts": 1789807999.5660532
+  },
+  {
+    "id": "lattice-semiconductor-lscc-debuts-mach-043402946.html",
+    "title": "Lattice Semiconductor (LSCC) Debuts Mach-N2 FPGA Family to Secure Next-Gen Infrastructure",
+    "tokens": [
+      "debuts",
+      "family",
+      "fpga",
+      "gen",
+      "infrastructure",
+      "lattice",
+      "lscc",
+      "mach",
+      "next",
+      "secure",
+      "semiconductor"
+    ],
+    "ts": 1789809029.487361
+  },
+  {
+    "id": "viper-energy-vnom-trades-bigger-043723572.html",
+    "title": "Viper Energy (VNOM) Trades A Bigger Payout For More Flexibility",
+    "tokens": [
+      "bigger",
+      "energy",
+      "flexibility",
+      "more",
+      "payout",
+      "trades",
+      "viper",
+      "vnom"
+    ],
+    "ts": 1789809036.611683
+  },
+  {
+    "id": "neurocrine-nbix-data-deluge-reshapes-044725231.html",
+    "title": "Neurocrine’s (NBIX) Data Deluge Reshapes A Familiar Growth Story",
+    "tokens": [
+      "data",
+      "deluge",
+      "familiar",
+      "growth",
+      "nbix",
+      "neurocrine",
+      "reshapes",
+      "story"
+    ],
+    "ts": 1789809044.1645503
+  },
+  {
+    "id": "kimco-realty-kim-occupancy-record-045032903.html",
+    "title": "Kimco Realty’s (KIM) Occupancy Record Comes With A Bigger Dividend",
+    "tokens": [
+      "bigger",
+      "comes",
+      "dividend",
+      "kim",
+      "kimco",
+      "occupancy",
+      "realty",
+      "record"
+    ],
+    "ts": 1789809051.3081062
   }
 ]

@@ -1,186 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/tiziana-life-sciences-stock-jumps-on-ms-trial-partnership-93CH-4905633",
-    "title": "Tiziana Life Sciences stock jumps on MS trial partnership",
-    "tokens": [
-      "jumps",
-      "life",
-      "partnership",
-      "sciences",
-      "stock",
-      "tiziana",
-      "trial"
-    ],
-    "ts": 1789649811.675767
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/deutsche-bank-turns-cautious-on-allfunds-after-34-shareprice-gain-4905632",
-    "title": "Deutsche Bank turns cautious on Allfunds after 34% share-price gain",
-    "tokens": [
-      "allfunds",
-      "bank",
-      "cautious",
-      "deutsche",
-      "gain",
-      "price",
-      "share",
-      "turns"
-    ],
-    "ts": 1789649819.0275924
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/philadelphia-fed-manufacturing-index-surpasses-forecasts-but-declines-from-previous-reading-93CH-4905623",
-    "title": "Philadelphia Fed Manufacturing Index Surpasses Forecasts but Declines from Previous Reading",
-    "tokens": [
-      "declines",
-      "fed",
-      "forecasts",
-      "index",
-      "manufacturing",
-      "philadelphia",
-      "previous",
-      "reading",
-      "surpasses"
-    ],
-    "ts": 1789649826.3254874
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/rising-oil-rates-and-yields-brew-up-stagflation-cocktail-for-markets-4905605",
-    "title": "Rising oil, rates and yields brew up stagflation cocktail for markets",
-    "tokens": [
-      "brew",
-      "cocktail",
-      "markets",
-      "oil",
-      "rates",
-      "rising",
-      "stagflation",
-      "yields"
-    ],
-    "ts": 1789649833.6506305
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/lockheed-martin-reveals-new-secret-missile-fast-tracks-production-4905602",
-    "title": "Lockheed Martin reveals new secret missile, fast tracks production",
-    "tokens": [
-      "fast",
-      "lockheed",
-      "martin",
-      "missile",
-      "production",
-      "reveals",
-      "secret",
-      "tracks"
-    ],
-    "ts": 1789649841.0079544
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-rating-on-workiva-stock-keeps-95-target-93CH-4905601",
-    "title": "Stifel reiterates Buy rating on Workiva stock, keeps $95 target",
-    "tokens": [
-      "buy",
-      "keeps",
-      "rating",
-      "reiterates",
-      "stifel",
-      "stock",
-      "target",
-      "workiva"
-    ],
-    "ts": 1789649849.2696507
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-rating-on-atricure-stock-65-target-93CH-4905600",
-    "title": "Stifel reiterates Buy rating on AtriCure stock, $65 target",
-    "tokens": [
-      "atricure",
-      "buy",
-      "rating",
-      "reiterates",
-      "stifel",
-      "stock",
-      "target"
-    ],
-    "ts": 1789649853.285126
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-hold-on-hubspot-stock-keeps-225-target-93CH-4905599",
-    "title": "Stifel reiterates Hold on HubSpot stock, keeps $225 target",
-    "tokens": [
-      "225",
-      "hold",
-      "hubspot",
-      "keeps",
-      "reiterates",
-      "stifel",
-      "stock",
-      "target"
-    ],
-    "ts": 1789649856.4914718
-  },
-  {
-    "id": "peter-schiff-says-7-76-124500979.html",
-    "title": "Peter Schiff says the 7.76 cents of metal inside every nickel makes it a better bet than U.S. Treasuries",
-    "tokens": [
-      "bet",
-      "better",
-      "cents",
-      "every",
-      "inside",
-      "makes",
-      "metal",
-      "nickel",
-      "peter",
-      "schiff",
-      "treasuries"
-    ],
-    "ts": 1789649864.841674
-  },
-  {
-    "id": "benefits-kind-going-away-rewards-123000499.html",
-    "title": "‘The benefits are kind of going away’: Rewards cards rules make it harder to get your money’s worth — how you still can",
-    "tokens": [
-      "away",
-      "benefits",
-      "can",
-      "cards",
-      "get",
-      "going",
-      "harder",
-      "how",
-      "kind",
-      "make",
-      "money",
-      "rewards",
-      "rules",
-      "still",
-      "worth",
-      "you",
-      "your"
-    ],
-    "ts": 1789649872.28171
-  },
-  {
-    "id": "oil-market-is-a-hot-mess-says-analyst-as-supply-shock-keeps-prices-near-100-chart-of-the-day-122708703.html",
-    "title": "'Oil market is a hot mess,' says analyst as supply shock keeps prices near $100: Chart of the Day",
-    "tokens": [
-      "100",
-      "analyst",
-      "chart",
-      "day",
-      "hot",
-      "keeps",
-      "market",
-      "mess",
-      "near",
-      "oil",
-      "prices",
-      "shock",
-      "supply"
-    ],
-    "ts": 1789649879.5001595
-  },
-  {
     "id": "unilever-accused-double-standards-workers-124645443.html",
     "title": "Unilever accused of “double standards” for workers post McCormick merger",
     "tokens": [
@@ -23232,5 +23051,179 @@
       "wants"
     ],
     "ts": 1789786330.679906
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4908042",
+    "title": "Cardano Climbs 10% In Bullish Trade",
+    "tokens": [
+      "bullish",
+      "cardano",
+      "climbs",
+      "trade"
+    ],
+    "ts": 1789787432.311796
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-jumps-above-81k-as-short-squeeze-offsets-rate-and-regulatory-pressure-4908041",
+    "title": "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure",
+    "tokens": [
+      "81k",
+      "above",
+      "bitcoin",
+      "jumps",
+      "offsets",
+      "pressure",
+      "rate",
+      "regulatory",
+      "short",
+      "squeeze"
+    ],
+    "ts": 1789787438.3377974
+  },
+  {
+    "id": "u-s-stocks-rise-on-inflation-containment-hopes-4b45bf55?siteid=yhoof2&yptr=yahoo",
+    "title": "U.S. Stocks Up on Hopes Rising Inflation, Oil Prices Are Now Contained",
+    "tokens": [
+      "contained",
+      "hopes",
+      "inflation",
+      "now",
+      "oil",
+      "prices",
+      "rising",
+      "stocks"
+    ],
+    "ts": 1789787446.72713
+  },
+  {
+    "id": "wall-street-splits-phreesia-phr-205812051.html",
+    "title": "Wall Street Splits on Phreesia (PHR) as Margins Improve but Growth Visibility Fades",
+    "tokens": [
+      "fades",
+      "growth",
+      "improve",
+      "margins",
+      "phr",
+      "phreesia",
+      "splits",
+      "street",
+      "visibility",
+      "wall"
+    ],
+    "ts": 1789787455.1763244
+  },
+  {
+    "id": "etf-league-tables-capital-group-210005404.html",
+    "title": "ETF League Tables: Capital Group Nears $160B In AUM",
+    "tokens": [
+      "160b",
+      "aum",
+      "capital",
+      "etf",
+      "group",
+      "league",
+      "nears",
+      "tables"
+    ],
+    "ts": 1789787462.7709818
+  },
+  {
+    "id": "daily-etf-flows-qqq-inflows-210005358.html",
+    "title": "Daily ETF Flows: QQQ Inflows Total Nearly $1B",
+    "tokens": [
+      "daily",
+      "etf",
+      "flows",
+      "inflows",
+      "nearly",
+      "qqq",
+      "total"
+    ],
+    "ts": 1789787470.7316034
+  },
+  {
+    "id": "flnc-stock-alert-know-fluence-205650860.html",
+    "title": "FLNC Stock Alert: What to Know as Fluence Energy Cuts Guidance",
+    "tokens": [
+      "alert",
+      "cuts",
+      "energy",
+      "flnc",
+      "fluence",
+      "guidance",
+      "know",
+      "stock",
+      "what"
+    ],
+    "ts": 1789787478.3925514
+  },
+  {
+    "id": "micron-just-guided-50-billion-205901051.html",
+    "title": "Micron Just Guided to $50 Billion in a Single Quarter. AI Memory Has Changed Everything.",
+    "tokens": [
+      "billion",
+      "changed",
+      "everything",
+      "guided",
+      "just",
+      "memory",
+      "micron",
+      "quarter",
+      "single"
+    ],
+    "ts": 1789787487.0932763
+  },
+  {
+    "id": "academy-sports-outdoors-aso-target-210404586.html",
+    "title": "Academy Sports and Outdoors (ASO): Target Hikes Follow Q2, but No Upgrades",
+    "tokens": [
+      "academy",
+      "aso",
+      "follow",
+      "hikes",
+      "outdoors",
+      "sports",
+      "target",
+      "upgrades"
+    ],
+    "ts": 1789787495.8380394
+  },
+  {
+    "id": "ascendis-pharma-asnd-regain-metabolic-205510981.html",
+    "title": "Ascendis Pharma (ASND) Will Regain Metabolic Drug Rights. Is Greater Ownership Worth the Cost?",
+    "tokens": [
+      "ascendis",
+      "asnd",
+      "cost",
+      "drug",
+      "greater",
+      "metabolic",
+      "ownership",
+      "pharma",
+      "regain",
+      "rights",
+      "worth"
+    ],
+    "ts": 1789787503.99099
+  },
+  {
+    "id": "lovesac-company-love-three-analysts-210905041.html",
+    "title": "Lovesac Company (LOVE): Three Analysts Still Say Buy. All Three Just Cut Their Targets",
+    "tokens": [
+      "all",
+      "analysts",
+      "buy",
+      "company",
+      "cut",
+      "just",
+      "love",
+      "lovesac",
+      "say",
+      "still",
+      "targets",
+      "their",
+      "three"
+    ],
+    "ts": 1789787513.013793
   }
 ]

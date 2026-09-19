@@ -1,204 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/kalshi-leads-prediction-market-with-76-share-in-nfl-week-1-93CH-4906132",
-    "title": "Kalshi leads prediction market with 76% share in NFL week 1",
-    "tokens": [
-      "kalshi",
-      "leads",
-      "market",
-      "nfl",
-      "prediction",
-      "share",
-      "week"
-    ],
-    "ts": 1789663522.2307742
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/global-ship-lease-stock-hits-52week-high-at-4652-usd-93CH-4906131",
-    "title": "Global Ship Lease stock hits 52-week high at 46.52 USD",
-    "tokens": [
-      "global",
-      "high",
-      "hits",
-      "lease",
-      "ship",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789663530.0705261
-  },
-  {
-    "id": "assemblin-caverion-prints-1-5b-162749040.html",
-    "title": "Assemblin Caverion prints €1.5B floating-rate note in bumper day for European high yield",
-    "tokens": [
-      "assemblin",
-      "bumper",
-      "caverion",
-      "day",
-      "european",
-      "floating",
-      "high",
-      "note",
-      "prints",
-      "rate",
-      "yield"
-    ],
-    "ts": 1789663538.9083884
-  },
-  {
-    "id": "spacex-spcx-space-data-center-160856877.html",
-    "title": "SpaceX (SPCX)’s Space Data Center Dream Runs into Four Very Earthly Problems",
-    "tokens": [
-      "center",
-      "data",
-      "dream",
-      "earthly",
-      "four",
-      "problems",
-      "runs",
-      "space",
-      "spacex",
-      "spcx",
-      "very"
-    ],
-    "ts": 1789663547.2016256
-  },
-  {
-    "id": "sofi-could-building-something-wall-163015781.html",
-    "title": "SoFi Could Be Building Something Wall Street Hasn’t Fully Priced In",
-    "tokens": [
-      "building",
-      "could",
-      "fully",
-      "hasn",
-      "priced",
-      "sofi",
-      "something",
-      "street",
-      "wall"
-    ],
-    "ts": 1789663554.5135024
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike",
-    "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
-    "tokens": [
-      "bitcoin",
-      "coils",
-      "fed",
-      "hike",
-      "near",
-      "rate",
-      "rebound",
-      "stocks"
-    ],
-    "ts": 1789663563.8739963
-  },
-  {
-    "id": "rackspace-nvidia-partnership-sparks-early-163851620.html",
-    "title": "Rackspace’s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
-    "tokens": [
-      "billion",
-      "debt",
-      "early",
-      "load",
-      "nvidia",
-      "partnership",
-      "rackspace",
-      "rally",
-      "remains",
-      "sparks"
-    ],
-    "ts": 1789664209.9466083
-  },
-  {
-    "id": "meta-meta-overhauls-instagram-facebook-163514422.html",
-    "title": "Meta (META) Overhauls Instagram and Facebook for Teens after its $17 Billion Settlement",
-    "tokens": [
-      "billion",
-      "facebook",
-      "instagram",
-      "meta",
-      "overhauls",
-      "settlement",
-      "teens"
-    ],
-    "ts": 1789664217.7922637
-  },
-  {
-    "id": "deadly-amazon-amzn-cargo-plane-163256704.html",
-    "title": "A Deadly Amazon (AMZN) Cargo Plane Crash in Miami Puts its Air Network Under Scrutiny",
-    "tokens": [
-      "air",
-      "amazon",
-      "amzn",
-      "cargo",
-      "crash",
-      "deadly",
-      "miami",
-      "network",
-      "plane",
-      "puts",
-      "scrutiny",
-      "under"
-    ],
-    "ts": 1789664225.164275
-  },
-  {
-    "id": "sec-cftc-write-crypto-rules-164042293.html",
-    "title": "The SEC and CFTC Say They Will Write Crypto Rules Without Congress. What Atkins and Selig Can Actually Do for XRP and Bitcoin.",
-    "tokens": [
-      "actually",
-      "atkins",
-      "bitcoin",
-      "can",
-      "cftc",
-      "congress",
-      "crypto",
-      "rules",
-      "say",
-      "sec",
-      "selig",
-      "they",
-      "what",
-      "without",
-      "write",
-      "xrp"
-    ],
-    "ts": 1789664233.1338325
-  },
-  {
-    "id": "jim-cramer-tesla-tsla-only-164733818.html",
-    "title": "Jim Cramer on Tesla (TSLA): “My Only Solution to It Is That SpaceX Has to Buy It”",
-    "tokens": [
-      "buy",
-      "cramer",
-      "jim",
-      "only",
-      "solution",
-      "spacex",
-      "tesla",
-      "tsla"
-    ],
-    "ts": 1789665115.3338606
-  },
-  {
-    "id": "apple-aapl-faces-2-7-164412973.html",
-    "title": "Apple (AAPL) Faces a $2.7 Billion UK Lawsuit over its App Tracking Rules",
-    "tokens": [
-      "aapl",
-      "app",
-      "apple",
-      "billion",
-      "faces",
-      "lawsuit",
-      "rules",
-      "tracking"
-    ],
-    "ts": 1789665123.0025127
-  },
-  {
     "id": "lululemon-lulu-cuts-outlook-again-164209283.html",
     "title": "Lululemon (LULU) Cuts its Outlook Again Just as a New CEO Walks through the Door",
     "tokens": [
@@ -23307,5 +23108,251 @@
       "ternus"
     ],
     "ts": 1789823462.8766115
+  },
+  {
+    "id": "motorola-solutions-eyes-defense-drone-130200808.html",
+    "title": "Motorola Solutions Eyes Defense, Drone Security Growth as Silvus Scales",
+    "tokens": [
+      "defense",
+      "drone",
+      "eyes",
+      "growth",
+      "motorola",
+      "scales",
+      "security",
+      "silvus",
+      "solutions"
+    ],
+    "ts": 1789824308.3944707
+  },
+  {
+    "id": "5-000-invested-palantir-stock-130027090.html",
+    "title": "What Will $5,000 Invested in Palantir Stock Be Worth in 5 Years?",
+    "tokens": [
+      "000",
+      "invested",
+      "palantir",
+      "stock",
+      "what",
+      "worth",
+      "years"
+    ],
+    "ts": 1789824315.5441527
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/crypto-news-remittix-pushes-toward-its-36m-hard-cap-as-bitcoin-price-prediction-for-september-hits-93k-1036558695",
+    "title": "Crypto News: Remittix Pushes Toward Its $36M Hard Cap as Bitcoin Price Prediction For September Hits $93K",
+    "tokens": [
+      "36m",
+      "93k",
+      "bitcoin",
+      "cap",
+      "crypto",
+      "hard",
+      "hits",
+      "news",
+      "prediction",
+      "price",
+      "pushes",
+      "remittix",
+      "september",
+      "toward"
+    ],
+    "ts": 1789824322.734299
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/stay-prepared-for-canada-s-grid-outages-with-up-to-65-off-jackery-power-stations-during-prime-big-deal-days-early-access-event-1036558694",
+    "title": "Stay Prepared for Canada's Grid Outages with Up to 65% Off Jackery Power Stations During Prime Big Deal Days' Early Access Event",
+    "tokens": [
+      "access",
+      "big",
+      "canada",
+      "days",
+      "deal",
+      "during",
+      "early",
+      "event",
+      "grid",
+      "jackery",
+      "off",
+      "outages",
+      "power",
+      "prepared",
+      "prime",
+      "stations",
+      "stay"
+    ],
+    "ts": 1789824330.3775325
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/ccoi-investor-deadline-approaching-faruqi-faruqi-llp-reminds-cogent-investors-of-securities-class-action-lawsuit-deadline-on-september-21-2026-1036432575",
+    "title": "CCOI INVESTOR DEADLINE APPROACHING: Faruqi & Faruqi, LLP Reminds Cogent Investors of Securities Class Action Lawsuit Deadline on September 21, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "approaching",
+      "ccoi",
+      "class",
+      "cogent",
+      "deadline",
+      "faruqi",
+      "investor",
+      "investors",
+      "lawsuit",
+      "llp",
+      "reminds",
+      "securities",
+      "september"
+    ],
+    "ts": 1789824338.513224
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/wix-investor-deadline-approaching-faruqi-faruqi-llp-reminds-wix.com-wix-investors-of-securities-class-action-lawsuit-deadline-on-september-22-2026-1036484513",
+    "title": "WIX INVESTOR DEADLINE APPROACHING: Faruqi & Faruqi, LLP Reminds Wix.com (WIX) Investors of Securities Class Action Lawsuit Deadline on September 22, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "approaching",
+      "class",
+      "com",
+      "deadline",
+      "faruqi",
+      "investor",
+      "investors",
+      "lawsuit",
+      "llp",
+      "reminds",
+      "securities",
+      "september",
+      "wix"
+    ],
+    "ts": 1789824342.5303895
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/aard-investor-deadline-approaching-faruqi-faruqi-llp-reminds-aardvark-aard-investors-of-securities-class-action-lawsuit-deadline-on-october-13-2026-1036484511",
+    "title": "AARD INVESTOR DEADLINE APPROACHING: Faruqi & Faruqi, LLP Reminds Aardvark (AARD) Investors of Securities Class Action Lawsuit Deadline on October 13, 2026",
+    "tokens": [
+      "2026",
+      "aard",
+      "aardvark",
+      "action",
+      "approaching",
+      "class",
+      "deadline",
+      "faruqi",
+      "investor",
+      "investors",
+      "lawsuit",
+      "llp",
+      "october",
+      "reminds",
+      "securities"
+    ],
+    "ts": 1789824342.5466678
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/guts-investor-deadline-approaching-faruqi-faruqi-llp-reminds-fractyl-investors-of-securities-class-action-lawsuit-deadline-on-october-20-2026-1036502851",
+    "title": "GUTS INVESTOR DEADLINE APPROACHING: Faruqi & Faruqi, LLP Reminds Fractyl Investors of Securities Class Action Lawsuit Deadline on October 20, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "approaching",
+      "class",
+      "deadline",
+      "faruqi",
+      "fractyl",
+      "guts",
+      "investor",
+      "investors",
+      "lawsuit",
+      "llp",
+      "october",
+      "reminds",
+      "securities"
+    ],
+    "ts": 1789824342.5626798
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/wse-investor-deadline-approaching-faruqi-faruqi-llp-reminds-wise-group-plc-wse-investors-of-securities-class-action-lawsuit-deadline-on-september-29-2026-1036484527",
+    "title": "WSE INVESTOR DEADLINE APPROACHING: Faruqi & Faruqi, LLP Reminds Wise Group plc (WSE) Investors of Securities Class Action Lawsuit Deadline on September 29, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "approaching",
+      "class",
+      "deadline",
+      "faruqi",
+      "group",
+      "investor",
+      "investors",
+      "lawsuit",
+      "llp",
+      "plc",
+      "reminds",
+      "securities",
+      "september",
+      "wise",
+      "wse"
+    ],
+    "ts": 1789824342.5786886
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/fcel-investor-deadline-approaching-faruqi-faruqi-llp-reminds-fuelcell-energy-fcel-investors-of-securities-class-action-lawsuit-deadline-on-november-10-2026-1036558690",
+    "title": "FCEL INVESTOR DEADLINE APPROACHING: Faruqi & Faruqi, LLP Reminds FuelCell Energy (FCEL) Investors of Securities Class Action Lawsuit Deadline on November 10, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "approaching",
+      "class",
+      "deadline",
+      "energy",
+      "faruqi",
+      "fcel",
+      "fuelcell",
+      "investor",
+      "investors",
+      "lawsuit",
+      "llp",
+      "november",
+      "reminds",
+      "securities"
+    ],
+    "ts": 1789824342.5945868
+  },
+  {
+    "id": "https://seekingalpha.com/news/4644560-anthropic-weighs-new-ai-model-ahead-of-ipo?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Anthropic weighs launching a new AI model ahead of IPO: Reuters",
+    "tokens": [
+      "ahead",
+      "anthropic",
+      "ipo",
+      "launching",
+      "model",
+      "reuters",
+      "weighs"
+    ],
+    "ts": 1789824346.2750554
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/be-investor-deadline-approaching-faruqi-faruqi-llp-reminds-bloom-energy-be-investors-of-securities-class-action-lawsuit-deadline-on-september-28-2026-1036461432",
+    "title": "BE INVESTOR DEADLINE APPROACHING: Faruqi & Faruqi, LLP Reminds Bloom Energy (BE) Investors of Securities Class Action Lawsuit Deadline on September 28, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "approaching",
+      "bloom",
+      "class",
+      "deadline",
+      "energy",
+      "faruqi",
+      "investor",
+      "investors",
+      "lawsuit",
+      "llp",
+      "reminds",
+      "securities",
+      "september"
+    ],
+    "ts": 1789824350.2919674
   }
 ]

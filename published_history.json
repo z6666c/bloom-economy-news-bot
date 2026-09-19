@@ -1,70 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-fed-hike-lift-mood-boe-decision-looms-4904905",
-    "title": "FTSE 100 today: Stocks rally as BoE holds rates in line, Fed hike digested",
-    "tokens": [
-      "100",
-      "boe",
-      "digested",
-      "fed",
-      "ftse",
-      "hike",
-      "holds",
-      "line",
-      "rally",
-      "rates",
-      "stocks",
-      "today"
-    ],
-    "ts": 1789662517.2420573
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/softcat-launches-retail-share-offer-to-help-fund-us-acquisition-93CH-4906123",
-    "title": "Softcat launches retail share offer to help fund US acquisition",
-    "tokens": [
-      "acquisition",
-      "fund",
-      "help",
-      "launches",
-      "offer",
-      "retail",
-      "share",
-      "softcat"
-    ],
-    "ts": 1789662524.647909
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/top-picks-from-b-riley-securities-consumer--tmt-conference-93CH-4906122",
-    "title": "Top Picks from B. Riley Securities Consumer & TMT Conference",
-    "tokens": [
-      "conference",
-      "consumer",
-      "picks",
-      "riley",
-      "securities",
-      "tmt",
-      "top"
-    ],
-    "ts": 1789662531.9057577
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-30year-mortgage-rate-hits-highest-since-january-2025-freddie-mac-says-4906121",
-    "title": "US 30-year mortgage rate hits highest since January 2025, Freddie Mac says",
-    "tokens": [
-      "2025",
-      "freddie",
-      "highest",
-      "hits",
-      "january",
-      "mac",
-      "mortgage",
-      "rate",
-      "since",
-      "year"
-    ],
-    "ts": 1789662540.177755
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/uk-silence-over-demand-for-apple-data-access-is-farcical-lawyer-says-4906120",
     "title": "UK silence over demand for Apple data access is farcical, lawyer says",
     "tokens": [
@@ -23252,5 +23187,78 @@
       "wins"
     ],
     "ts": 1789820067.1370277
+  },
+  {
+    "id": "gonna-dave-ramsey-tells-divorced-120500452.html",
+    "title": "‘You’re gonna get there’: Dave Ramsey tells divorced mom, 51, with no savings she can retire a millionaire. Here’s how",
+    "tokens": [
+      "can",
+      "dave",
+      "divorced",
+      "get",
+      "gonna",
+      "here",
+      "how",
+      "millionaire",
+      "mom",
+      "ramsey",
+      "retire",
+      "savings",
+      "she",
+      "tells",
+      "there",
+      "you"
+    ],
+    "ts": 1789821138.6163146
+  },
+  {
+    "id": "equinix-plans-5b-7b-annual-120203982.html",
+    "title": "Equinix Plans $5B-$7B Annual Data Center Buildout as AI Demand Accelerates",
+    "tokens": [
+      "accelerates",
+      "annual",
+      "buildout",
+      "center",
+      "data",
+      "demand",
+      "equinix",
+      "plans"
+    ],
+    "ts": 1789821146.6403327
+  },
+  {
+    "id": "carl-icahn-added-nearly-69-120057213.html",
+    "title": "Carl Icahn Added Nearly 69 Million Shares of His Own Company Last Quarter",
+    "tokens": [
+      "added",
+      "carl",
+      "company",
+      "his",
+      "icahn",
+      "last",
+      "million",
+      "nearly",
+      "own",
+      "quarter",
+      "shares"
+    ],
+    "ts": 1789821154.02806
+  },
+  {
+    "id": "8e58bc27-3008-4540-a510-8be2b0148241",
+    "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+    "tokens": [
+      "bitcoin",
+      "capitalist",
+      "michael",
+      "obituary",
+      "orange",
+      "responds",
+      "saylor",
+      "stays",
+      "tie",
+      "venture"
+    ],
+    "ts": 1789821163.1350513
   }
 ]

@@ -1,42 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005238784",
-    "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
-    "tokens": [
-      "against",
-      "amazon",
-      "blitz",
-      "could",
-      "day",
-      "delivery",
-      "massive",
-      "same",
-      "secret",
-      "walmart",
-      "weapon"
-    ],
-    "ts": 1789667566.554129
-  },
-  {
-    "id": "mortgage-rates-fell-slightly-after-the-fed-hiked-rates-mortgage-and-refinance-interest-rates-today-thursday-september-17-2026-100000901.html",
-    "title": "Mortgage rates fell slightly after the Fed hiked rates: Mortgage and refinance interest rates today, Thursday, September 17, 2026",
-    "tokens": [
-      "2026",
-      "fed",
-      "fell",
-      "hiked",
-      "interest",
-      "mortgage",
-      "rates",
-      "refinance",
-      "september",
-      "slightly",
-      "thursday",
-      "today"
-    ],
-    "ts": 1789667574.5662947
-  },
-  {
     "id": "vanguard-russell-1000-growth-vs-174501563.html",
     "title": "Vanguard Russell 1000 Growth vs. Invesco SmallCap 600 Revenue: Which Is Better for a Diversified Portfolio?",
     "tokens": [
@@ -23412,5 +23375,38 @@
       "their"
     ],
     "ts": 1789831502.9140854
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ares-management-weighs-minority-deal-with-copenhagen-infrastructure-partners-4908100",
+    "title": "Ares Management weighs minority deal with Copenhagen Infrastructure Partners",
+    "tokens": [
+      "ares",
+      "copenhagen",
+      "deal",
+      "infrastructure",
+      "management",
+      "minority",
+      "partners",
+      "weighs"
+    ],
+    "ts": 1789832286.3318222
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/french-finance-ministry-expects-record-debt-in-2026-reaching-nearly-120-of-gdp-4908097",
+    "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
+    "tokens": [
+      "120",
+      "2026",
+      "debt",
+      "expects",
+      "finance",
+      "french",
+      "gdp",
+      "ministry",
+      "nearly",
+      "reaching",
+      "record"
+    ],
+    "ts": 1789832293.586852
   }
 ]

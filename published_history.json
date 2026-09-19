@@ -1,392 +1,5 @@
 [
   {
-    "id": "https://www.eia.gov/pressroom/releases/press590.php",
-    "title": "EIA increases global oil production forecast after the opening of the Strait of Hormuz",
-    "tokens": [
-      "eia",
-      "forecast",
-      "global",
-      "hormuz",
-      "increases",
-      "oil",
-      "opening",
-      "production",
-      "strait"
-    ],
-    "ts": 1789671410.544516
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press589.php",
-    "title": "EIA expects a drop in global oil demand will limit price increases from Hormuz disruptions",
-    "tokens": [
-      "demand",
-      "disruptions",
-      "drop",
-      "eia",
-      "expects",
-      "global",
-      "hormuz",
-      "increases",
-      "limit",
-      "oil",
-      "price"
-    ],
-    "ts": 1789671417.6840677
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press588.php",
-    "title": "EIA updates forecast amid continued Mideast disruption; will publish new energy security datasets",
-    "tokens": [
-      "continued",
-      "datasets",
-      "disruption",
-      "eia",
-      "energy",
-      "forecast",
-      "mideast",
-      "publish",
-      "security",
-      "updates"
-    ],
-    "ts": 1789671424.6952715
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press587.php",
-    "title": "EIA releases the Annual Energy Outlook 2026",
-    "tokens": [
-      "2026",
-      "annual",
-      "eia",
-      "energy",
-      "outlook",
-      "releases"
-    ],
-    "ts": 1789671433.3406672
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press586.php",
-    "title": "Hormuz closure and related production outages are key drivers in EIA's latest forecast",
-    "tokens": [
-      "closure",
-      "drivers",
-      "eia",
-      "forecast",
-      "hormuz",
-      "key",
-      "latest",
-      "outages",
-      "production",
-      "related"
-    ],
-    "ts": 1789671442.1279666
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press585.php",
-    "title": "EIA launches pilot survey on energy use at data centers",
-    "tokens": [
-      "centers",
-      "data",
-      "eia",
-      "energy",
-      "launches",
-      "pilot",
-      "survey",
-      "use"
-    ],
-    "ts": 1789671449.2465675
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press584.php",
-    "title": "EIA releases latest Short-Term Energy Outlook amid Middle East conflict",
-    "tokens": [
-      "conflict",
-      "east",
-      "eia",
-      "energy",
-      "latest",
-      "middle",
-      "outlook",
-      "releases",
-      "short",
-      "term"
-    ],
-    "ts": 1789671456.7726874
-  },
-  {
-    "id": "https://www.eia.gov/pressroom/releases/press583.php",
-    "title": "EIA raises natural gas price forecast following increased heating demand amid severe winter weather",
-    "tokens": [
-      "demand",
-      "eia",
-      "following",
-      "forecast",
-      "gas",
-      "heating",
-      "increased",
-      "natural",
-      "price",
-      "raises",
-      "severe",
-      "weather",
-      "winter"
-    ],
-    "ts": 1789671463.9023778
-  },
-  {
-    "id": "6d3779cf-288d-4b36-9ba1-29ff13fefc70",
-    "title": "Kevin O’Leary says Congress will revisit CLARITY early next year as crypto tax bill advances",
-    "tokens": [
-      "advances",
-      "bill",
-      "clarity",
-      "congress",
-      "crypto",
-      "early",
-      "kevin",
-      "leary",
-      "next",
-      "revisit",
-      "tax",
-      "year"
-    ],
-    "ts": 1789671472.3895519
-  },
-  {
-    "id": "f47c9c1b-685c-40a8-892c-03cc7bf6f332",
-    "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
-    "tokens": [
-      "benefit",
-      "could",
-      "door",
-      "here",
-      "opens",
-      "sec",
-      "stock",
-      "tokenized",
-      "trading",
-      "who"
-    ],
-    "ts": 1789671479.7438984
-  },
-  {
-    "id": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "title": "Here’s what happened in crypto today",
-    "tokens": [
-      "crypto",
-      "happened",
-      "here",
-      "today",
-      "what"
-    ],
-    "ts": 1789671487.3243027
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
-    "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-    "tokens": [
-      "acquisition",
-      "actions",
-      "announces",
-      "bank",
-      "board",
-      "corp",
-      "enforcement",
-      "federal",
-      "holdings",
-      "quontic",
-      "reserve",
-      "termination",
-      "texas",
-      "united"
-    ],
-    "ts": 1789671495.1834095
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
-    "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
-    "tokens": [
-      "action",
-      "banco",
-      "board",
-      "employee",
-      "enforcement",
-      "federal",
-      "former",
-      "issues",
-      "popular",
-      "puerto",
-      "reserve",
-      "rico"
-    ],
-    "ts": 1789671503.10045
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-    "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-    "tokens": [
-      "2026",
-      "board",
-      "discount",
-      "july",
-      "meetings",
-      "minutes",
-      "rate"
-    ],
-    "ts": 1789671514.614616
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-    "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-    "tokens": [
-      "announces",
-      "application",
-      "approval",
-      "bank",
-      "board",
-      "federal",
-      "national",
-      "plc",
-      "reserve",
-      "westminster"
-    ],
-    "ts": 1789671522.7407901
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
-    "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-    "tokens": [
-      "action",
-      "announces",
-      "bancshares",
-      "bank",
-      "board",
-      "branch",
-      "corporation",
-      "deutsche",
-      "enforcement",
-      "federal",
-      "inc",
-      "issues",
-      "reserve",
-      "southpoint",
-      "termination",
-      "usa",
-      "york"
-    ],
-    "ts": 1789671530.289794
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
-    "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-    "tokens": [
-      "actions",
-      "bank",
-      "board",
-      "community",
-      "employee",
-      "enforcement",
-      "federal",
-      "former",
-      "issues",
-      "regions",
-      "reserve",
-      "united"
-    ],
-    "ts": 1789671534.299805
-  },
-  {
-    "id": "investment-tax-credit-glut-gives-090000774.html",
-    "title": "Investment tax credit glut gives corporate buyers more leverage, report says",
-    "tokens": [
-      "buyers",
-      "corporate",
-      "credit",
-      "gives",
-      "glut",
-      "investment",
-      "leverage",
-      "more",
-      "report",
-      "tax"
-    ],
-    "ts": 1789672187.6987934
-  },
-  {
-    "id": "oilprice-article-45536",
-    "title": "Taiwan Mulls Nuclear Revival to Cut Its LNG Exposure",
-    "tokens": [
-      "cut",
-      "exposure",
-      "lng",
-      "mulls",
-      "nuclear",
-      "revival",
-      "taiwan"
-    ],
-    "ts": 1789672196.5616553
-  },
-  {
-    "id": "oilprice-news-45536",
-    "title": "Kpler Sees Oil Grinding Higher as Diesel Crunch Deepens",
-    "tokens": [
-      "crunch",
-      "deepens",
-      "diesel",
-      "grinding",
-      "higher",
-      "kpler",
-      "oil",
-      "sees"
-    ],
-    "ts": 1789672200.5771816
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ultragenyx-gets-fda-approval-for-rare-disease-gene-therapy-93CH-4906255",
-    "title": "Ultragenyx gets FDA approval for rare disease gene therapy",
-    "tokens": [
-      "approval",
-      "disease",
-      "fda",
-      "gene",
-      "gets",
-      "rare",
-      "therapy",
-      "ultragenyx"
-    ],
-    "ts": 1789673107.625635
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/amway-corp-affiliates-to-pay-225-million-under-proposed-order-ftc-says-4906228",
-    "title": "Amway, affiliates to pay $225 million to settle US claims they deceived recruits",
-    "tokens": [
-      "225",
-      "affiliates",
-      "amway",
-      "claims",
-      "deceived",
-      "million",
-      "pay",
-      "recruits",
-      "settle",
-      "they"
-    ],
-    "ts": 1789673117.209323
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/boyd-gaming-stock-hits-52week-low-at-7474-usd-93CH-4906254",
-    "title": "Boyd Gaming stock hits 52-week low at 74.74 USD",
-    "tokens": [
-      "boyd",
-      "gaming",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789673121.2256787
-  },
-  {
     "id": "https://www.investing.com/news/company-news/wynn-resorts-stock-hits-52week-low-at-840-usd-93CH-4906253",
     "title": "Wynn Resorts stock hits 52-week low at 84.0 USD",
     "tokens": [
@@ -23471,5 +23084,378 @@
       "stock"
     ],
     "ts": 1789844037.7007265
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-meet-on-sunday-at-jpmorgan-headquarters-4908112",
+    "title": "US Treasury’s Bessent, China’s He to meet on Sunday at JPMorgan headquarters",
+    "tokens": [
+      "bessent",
+      "china",
+      "headquarters",
+      "jpmorgan",
+      "meet",
+      "sunday",
+      "treasury"
+    ],
+    "ts": 1789844917.74053
+  },
+  {
+    "id": "franco-nevada-fnv-record-quarter-185639565.html",
+    "title": "Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark",
+    "tokens": [
+      "fnv",
+      "franco",
+      "hides",
+      "mark",
+      "nevada",
+      "quarter",
+      "question",
+      "record",
+      "two",
+      "year"
+    ],
+    "ts": 1789844925.0102074
+  },
+  {
+    "id": "nasdaq-ndaq-just-made-harder-185116666.html",
+    "title": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
+    "tokens": [
+      "criminals",
+      "crypto",
+      "harder",
+      "hide",
+      "just",
+      "made",
+      "nasdaq",
+      "ndaq"
+    ],
+    "ts": 1789844931.7234144
+  },
+  {
+    "id": "garmin-grmn-autopilot-signals-where-184731033.html",
+    "title": "Garmin’s (GRMN) New Autopilot Signals Where Growth Is Headed",
+    "tokens": [
+      "autopilot",
+      "garmin",
+      "grmn",
+      "growth",
+      "headed",
+      "signals",
+      "where"
+    ],
+    "ts": 1789844938.947071
+  },
+  {
+    "id": "corteva-ctva-bets-belgian-partner-183747198.html",
+    "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act",
+    "tokens": [
+      "act",
+      "belgian",
+      "bets",
+      "corteva",
+      "crop",
+      "ctva",
+      "next",
+      "partner",
+      "protection"
+    ],
+    "ts": 1789844946.7395673
+  },
+  {
+    "id": "forget-buying-seven-magnificent-seven-185000912.html",
+    "title": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
+    "tokens": [
+      "2028",
+      "all",
+      "buying",
+      "double",
+      "forget",
+      "likely",
+      "magnificent",
+      "most",
+      "seven",
+      "stock"
+    ],
+    "ts": 1789844953.9638352
+  },
+  {
+    "id": "jim-cramer-suggests-avoiding-redwire-183604424.html",
+    "title": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
+    "tokens": [
+      "avoiding",
+      "cramer",
+      "cycle",
+      "jim",
+      "rate",
+      "rdw",
+      "redwire",
+      "suggests",
+      "tightening"
+    ],
+    "ts": 1789844962.9189873
+  },
+  {
+    "id": "sempra-sre-just-locked-two-183448167.html",
+    "title": "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
+    "tokens": [
+      "decades",
+      "demand",
+      "just",
+      "lng",
+      "locked",
+      "sempra",
+      "sre",
+      "two"
+    ],
+    "ts": 1789844969.9231734
+  },
+  {
+    "id": "oilprice-article-45547",
+    "title": "Britain Faces £150 Billion Grid Overhaul to Power Renewable Energy Boom",
+    "tokens": [
+      "150",
+      "billion",
+      "boom",
+      "britain",
+      "energy",
+      "faces",
+      "grid",
+      "overhaul",
+      "power",
+      "renewable"
+    ],
+    "ts": 1789844978.1217332
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press591.php",
+    "title": "EIA expects highest natural gas inventories in a decade heading into winter",
+    "tokens": [
+      "decade",
+      "eia",
+      "expects",
+      "gas",
+      "heading",
+      "highest",
+      "inventories",
+      "natural",
+      "winter"
+    ],
+    "ts": 1789844985.1480446
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press590.php",
+    "title": "EIA increases global oil production forecast after the opening of the Strait of Hormuz",
+    "tokens": [
+      "eia",
+      "forecast",
+      "global",
+      "hormuz",
+      "increases",
+      "oil",
+      "opening",
+      "production",
+      "strait"
+    ],
+    "ts": 1789844992.0685189
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press589.php",
+    "title": "EIA expects a drop in global oil demand will limit price increases from Hormuz disruptions",
+    "tokens": [
+      "demand",
+      "disruptions",
+      "drop",
+      "eia",
+      "expects",
+      "global",
+      "hormuz",
+      "increases",
+      "limit",
+      "oil",
+      "price"
+    ],
+    "ts": 1789844998.8477554
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press588.php",
+    "title": "EIA updates forecast amid continued Mideast disruption; will publish new energy security datasets",
+    "tokens": [
+      "continued",
+      "datasets",
+      "disruption",
+      "eia",
+      "energy",
+      "forecast",
+      "mideast",
+      "publish",
+      "security",
+      "updates"
+    ],
+    "ts": 1789845006.0431857
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press587.php",
+    "title": "EIA releases the Annual Energy Outlook 2026",
+    "tokens": [
+      "2026",
+      "annual",
+      "eia",
+      "energy",
+      "outlook",
+      "releases"
+    ],
+    "ts": 1789845013.6460211
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press586.php",
+    "title": "Hormuz closure and related production outages are key drivers in EIA's latest forecast",
+    "tokens": [
+      "closure",
+      "drivers",
+      "eia",
+      "forecast",
+      "hormuz",
+      "key",
+      "latest",
+      "outages",
+      "production",
+      "related"
+    ],
+    "ts": 1789845022.9367974
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press585.php",
+    "title": "EIA launches pilot survey on energy use at data centers",
+    "tokens": [
+      "centers",
+      "data",
+      "eia",
+      "energy",
+      "launches",
+      "pilot",
+      "survey",
+      "use"
+    ],
+    "ts": 1789845029.8644912
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press584.php",
+    "title": "EIA releases latest Short-Term Energy Outlook amid Middle East conflict",
+    "tokens": [
+      "conflict",
+      "east",
+      "eia",
+      "energy",
+      "latest",
+      "middle",
+      "outlook",
+      "releases",
+      "short",
+      "term"
+    ],
+    "ts": 1789845037.1022618
+  },
+  {
+    "id": "https://www.eia.gov/pressroom/releases/press583.php",
+    "title": "EIA raises natural gas price forecast following increased heating demand amid severe winter weather",
+    "tokens": [
+      "demand",
+      "eia",
+      "following",
+      "forecast",
+      "gas",
+      "heating",
+      "increased",
+      "natural",
+      "price",
+      "raises",
+      "severe",
+      "weather",
+      "winter"
+    ],
+    "ts": 1789845045.620667
+  },
+  {
+    "id": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "title": "Here’s what happened in crypto today",
+    "tokens": [
+      "crypto",
+      "happened",
+      "here",
+      "today",
+      "what"
+    ],
+    "ts": 1789845053.4555826
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+    "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+    "tokens": [
+      "acquisition",
+      "actions",
+      "announces",
+      "bank",
+      "board",
+      "corp",
+      "enforcement",
+      "federal",
+      "holdings",
+      "quontic",
+      "reserve",
+      "termination",
+      "texas",
+      "united"
+    ],
+    "ts": 1789845060.7291808
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+    "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+    "tokens": [
+      "action",
+      "banco",
+      "board",
+      "employee",
+      "enforcement",
+      "federal",
+      "former",
+      "issues",
+      "popular",
+      "puerto",
+      "reserve",
+      "rico"
+    ],
+    "ts": 1789845067.910467
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+    "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+    "tokens": [
+      "2026",
+      "board",
+      "discount",
+      "july",
+      "meetings",
+      "minutes",
+      "rate"
+    ],
+    "ts": 1789845076.290818
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+    "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+    "tokens": [
+      "announces",
+      "application",
+      "approval",
+      "bank",
+      "board",
+      "federal",
+      "national",
+      "plc",
+      "reserve",
+      "westminster"
+    ],
+    "ts": 1789845083.0037172
   }
 ]

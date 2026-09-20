@@ -1,52 +1,5 @@
 [
   {
-    "id": "hidden-costs-villages-residents-wish-142336798.html",
-    "title": "The Hidden Costs of The Villages Residents Wish Someone Had Warned Them About Before Closing",
-    "tokens": [
-      "about",
-      "before",
-      "closing",
-      "costs",
-      "hidden",
-      "residents",
-      "someone",
-      "them",
-      "villages",
-      "warned",
-      "wish"
-    ],
-    "ts": 1789698541.848361
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/oracle-ceo-michael-sicilia-sells-15m-in-shares-93CH-4906633",
-    "title": "Oracle CEO Michael Sicilia sells $1.5m in shares",
-    "tokens": [
-      "ceo",
-      "michael",
-      "oracle",
-      "sells",
-      "shares",
-      "sicilia"
-    ],
-    "ts": 1789699433.415225
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/zscaler-cro-michael-rich-sells-791869-in-shares-for-taxes-93CH-4906632",
-    "title": "Zscaler CRO Michael Rich sells $791,869 in shares for taxes",
-    "tokens": [
-      "791",
-      "869",
-      "cro",
-      "michael",
-      "rich",
-      "sells",
-      "shares",
-      "taxes",
-      "zscaler"
-    ],
-    "ts": 1789699442.1307158
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/zscaler-chief-legal-officer-schlossman-sells-448173-in-taxrelated-shares-93CH-4906631",
     "title": "Zscaler chief legal officer Schlossman sells $448,173 in tax-related shares",
     "tokens": [
@@ -23681,5 +23634,54 @@
       "therapeutics"
     ],
     "ts": 1789921601.220056
+  },
+  {
+    "id": "WP-MKTW-0005194553",
+    "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+    "tokens": [
+      "burning",
+      "goal",
+      "help",
+      "hole",
+      "main",
+      "million",
+      "people",
+      "pocket",
+      "should",
+      "single",
+      "what"
+    ],
+    "ts": 1789922435.539112
+  },
+  {
+    "id": "california-resources-crc-sells-uinta-162106302.html",
+    "title": "California Resources (CRC) Sells Uinta Assets for $90 Million",
+    "tokens": [
+      "assets",
+      "california",
+      "crc",
+      "million",
+      "resources",
+      "sells",
+      "uinta"
+    ],
+    "ts": 1789922442.9862943
+  },
+  {
+    "id": "musk-says-nvidia-nvda-ai-162008359.html",
+    "title": "Musk Says NVIDIA (NVDA) AI Chips Are Headed to Space With SpaceX (SPCX) Next Year",
+    "tokens": [
+      "chips",
+      "headed",
+      "musk",
+      "next",
+      "nvda",
+      "nvidia",
+      "space",
+      "spacex",
+      "spcx",
+      "year"
+    ],
+    "ts": 1789922450.8073485
   }
 ]

@@ -1,79 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/canaccord-cuts-stryker-stock-price-target-on-manufacturing-woes-93CH-4906519",
-    "title": "Canaccord cuts Stryker stock price target on manufacturing woes",
-    "tokens": [
-      "canaccord",
-      "cuts",
-      "manufacturing",
-      "price",
-      "stock",
-      "stryker",
-      "target",
-      "woes"
-    ],
-    "ts": 1789683073.559702
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-steel-dynamics-stock-sliding-today-93CH-4906518",
-    "title": "Why is Steel Dynamics stock sliding today?",
-    "tokens": [
-      "dynamics",
-      "sliding",
-      "steel",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789683080.7774968
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nucor-stock-falls-on-weaker-than-expected-third-quarter-guidance-93CH-4906517",
-    "title": "Nucor stock falls on weaker than expected third quarter guidance",
-    "tokens": [
-      "expected",
-      "falls",
-      "guidance",
-      "nucor",
-      "quarter",
-      "stock",
-      "third",
-      "weaker"
-    ],
-    "ts": 1789683088.157614
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/openai-microsoft-executives-quotes-on-ai-training-threaten-copyright-defense-news-outlets-argue-4906516",
-    "title": "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue",
-    "tokens": [
-      "argue",
-      "copyright",
-      "defense",
-      "executives",
-      "microsoft",
-      "news",
-      "openai",
-      "outlets",
-      "quotes",
-      "threaten",
-      "training"
-    ],
-    "ts": 1789683096.5429418
-  },
-  {
-    "id": "state-street-corporation-stock-outperforming-140143659.html",
-    "title": "Is State Street Corporation Stock Outperforming the S&P 500?",
-    "tokens": [
-      "500",
-      "corporation",
-      "outperforming",
-      "state",
-      "stock",
-      "street"
-    ],
-    "ts": 1789683104.0160155
-  },
-  {
     "id": "fed-hikes-main-interest-rate-135731525.html",
     "title": "Fed hikes main interest rate by quarter point, citing stubborn inflation",
     "tokens": [
@@ -23526,5 +23452,85 @@
       "one"
     ],
     "ts": 1789886021.6014528
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-china-set-for-talks-on-ai-tariffs-and-critical-minerals-ahead-of-summit-4908147",
+    "title": "US, China set for talks on AI, tariffs and critical minerals ahead of summit",
+    "tokens": [
+      "ahead",
+      "china",
+      "critical",
+      "minerals",
+      "set",
+      "summit",
+      "talks",
+      "tariffs"
+    ],
+    "ts": 1789887271.3074503
+  },
+  {
+    "id": "jim-cramer-said-strength-oracle-230622055.html",
+    "title": "Jim Cramer Said The Strength In Oracle (ORCL)’s Shares Was A “Positive Sign”",
+    "tokens": [
+      "cramer",
+      "jim",
+      "oracle",
+      "orcl",
+      "positive",
+      "shares",
+      "sign",
+      "strength"
+    ],
+    "ts": 1789887278.2757459
+  },
+  {
+    "id": "strategy-mstr-surges-16-growing-230649452.html",
+    "title": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption — A New Catalyst Looms Next Week",
+    "tokens": [
+      "adoption",
+      "asset",
+      "catalyst",
+      "digital",
+      "growing",
+      "looms",
+      "mstr",
+      "next",
+      "strategy",
+      "surges",
+      "week"
+    ],
+    "ts": 1789887285.4174962
+  },
+  {
+    "id": "jim-stock-used-stock-indicator-230633041.html",
+    "title": "Jim Stock Used This Stock As An Indicator Of Investor Sentiment Towards AI",
+    "tokens": [
+      "indicator",
+      "investor",
+      "jim",
+      "sentiment",
+      "stock",
+      "towards",
+      "used"
+    ],
+    "ts": 1789887292.3987863
+  },
+  {
+    "id": "stock-jim-cramer-now-just-231218503.html",
+    "title": "Here’s A Stock That Jim Cramer Like Before But Now He Just Doesn’t Want To Buy It",
+    "tokens": [
+      "before",
+      "buy",
+      "cramer",
+      "doesn",
+      "here",
+      "jim",
+      "just",
+      "like",
+      "now",
+      "stock",
+      "want"
+    ],
+    "ts": 1789887299.09134
   }
 ]

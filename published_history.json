@@ -1,75 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-nucor-stock-sliding-today-93CH-4906526",
-    "title": "Why is Nucor stock sliding today?",
-    "tokens": [
-      "nucor",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789683036.8903651
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/everquote-ceo-jayme-mendal-sells-509208-of-company-stock-93CH-4906524",
-    "title": "Everquote CEO Jayme Mendal sells $509,208 of company stock",
-    "tokens": [
-      "208",
-      "509",
-      "ceo",
-      "company",
-      "everquote",
-      "jayme",
-      "mendal",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789683040.6863456
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/clover-health-vp-of-finance-sells-14708-in-shares-for-tax-obligations-93CH-4906522",
-    "title": "Clover Health VP of finance sells $14,708 in shares for tax obligations",
-    "tokens": [
-      "708",
-      "clover",
-      "finance",
-      "health",
-      "obligations",
-      "sells",
-      "shares",
-      "tax"
-    ],
-    "ts": 1789683049.8849473
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/uber-technologies-sells-1822m-of-aurora-innovation-stock-93CH-4906523",
-    "title": "Uber Technologies sells $182.2m of Aurora Innovation stock",
-    "tokens": [
-      "182",
-      "aurora",
-      "innovation",
-      "sells",
-      "stock",
-      "technologies",
-      "uber"
-    ],
-    "ts": 1789683057.3818824
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-xenon-pharmaceuticals-stock-plunging-today-93CH-4906520",
-    "title": "Why is Xenon Pharmaceuticals stock plunging today?",
-    "tokens": [
-      "pharmaceuticals",
-      "plunging",
-      "stock",
-      "today",
-      "why",
-      "xenon"
-    ],
-    "ts": 1789683065.8083355
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/canaccord-cuts-stryker-stock-price-target-on-manufacturing-woes-93CH-4906519",
     "title": "Canaccord cuts Stryker stock price target on manufacturing woes",
     "tokens": [
@@ -23511,5 +23441,90 @@
       "tsla"
     ],
     "ts": 1789883475.6174781
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/germanys-iw-institute-triples-growth-forecast-for-2026-4908145",
+    "title": "Germany’s IW institute triples growth forecast for 2026",
+    "tokens": [
+      "2026",
+      "forecast",
+      "germany",
+      "growth",
+      "institute",
+      "triples"
+    ],
+    "ts": 1789885993.1108875
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144",
+    "title": "Iran sets terms for US talks as Houthis step up attacks on Saudi Arabia",
+    "tokens": [
+      "arabia",
+      "attacks",
+      "houthis",
+      "iran",
+      "saudi",
+      "sets",
+      "step",
+      "talks",
+      "terms"
+    ],
+    "ts": 1789886000.4724855
+  },
+  {
+    "id": "ibm-once-held-nvidias-spot-230002527.html",
+    "title": "IBM Once Held Nvidia's Spot as Tech's Biggest Name. The Stock Just Crashed 25%. Here's the Comeback Case.",
+    "tokens": [
+      "biggest",
+      "case",
+      "comeback",
+      "crashed",
+      "held",
+      "here",
+      "ibm",
+      "just",
+      "name",
+      "nvidia",
+      "once",
+      "spot",
+      "stock",
+      "tech"
+    ],
+    "ts": 1789886007.6065483
+  },
+  {
+    "id": "jim-cramer-says-palantir-technologies-230154955.html",
+    "title": "Jim Cramer Says His Palantir Technologies Inc. (NASDAQ:PLTR) Price Target Is $250",
+    "tokens": [
+      "250",
+      "cramer",
+      "his",
+      "inc",
+      "jim",
+      "nasdaq",
+      "palantir",
+      "pltr",
+      "price",
+      "target",
+      "technologies"
+    ],
+    "ts": 1789886014.5566182
+  },
+  {
+    "id": "nvidia-vs-intel-corporation-nasdaq-230352152.html",
+    "title": "NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes",
+    "tokens": [
+      "corporation",
+      "cramer",
+      "here",
+      "intc",
+      "intel",
+      "jim",
+      "likes",
+      "nasdaq",
+      "nvidia",
+      "one"
+    ],
+    "ts": 1789886021.6014528
   }
 ]

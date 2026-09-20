@@ -1,53 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/bank-of-japan-hikes-rates-to-31yr-high-amid-growing-inflationary-risks-4906643",
-    "title": "Bank of Japan hikes rates to 31-yr high amid growing inflationary risks",
-    "tokens": [
-      "bank",
-      "growing",
-      "high",
-      "hikes",
-      "inflationary",
-      "japan",
-      "rates",
-      "risks"
-    ],
-    "ts": 1789702036.4672642
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/boj-raises-interest-rates-to-31year-high-in-widely-expected-move-4906642",
-    "title": "BOJ raises interest rates to 31-year high in widely expected move",
-    "tokens": [
-      "boj",
-      "expected",
-      "high",
-      "interest",
-      "move",
-      "raises",
-      "rates",
-      "widely",
-      "year"
-    ],
-    "ts": 1789702043.455428
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-oil-retreat-eases-inflation-fears-boj-in-focus-4906641",
-    "title": "Asian stocks rise as oil retreat eases inflation fears, BOJ in focus",
-    "tokens": [
-      "asian",
-      "boj",
-      "eases",
-      "fears",
-      "focus",
-      "inflation",
-      "oil",
-      "retreat",
-      "rise",
-      "stocks"
-    ],
-    "ts": 1789702050.6811175
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/rubrik-cfo-kiran-choudary-sells-105-million-in-rbrk-stock-93CH-4906640",
     "title": "Rubrik CFO Kiran Choudary sells $1.05 million in RBRK stock",
     "tokens": [
@@ -23699,5 +23651,56 @@
       "reports"
     ],
     "ts": 1789930445.1664965
+  },
+  {
+    "id": "spx-technologies-spxc-buys-fis-184511019.html",
+    "title": "SPX Technologies (SPXC) Buys FIS Water for $410M. Can Water Management Lift Cooling Returns?",
+    "tokens": [
+      "410m",
+      "buys",
+      "can",
+      "cooling",
+      "fis",
+      "lift",
+      "management",
+      "returns",
+      "spx",
+      "spxc",
+      "technologies",
+      "water"
+    ],
+    "ts": 1789931328.9121892
+  },
+  {
+    "id": "lifemd-lfmd-secures-t-partnership-184302502.html",
+    "title": "LifeMD (LFMD) Secures AT&T Partnership. Can Free Memberships Produce Paying Patients?",
+    "tokens": [
+      "can",
+      "free",
+      "lfmd",
+      "lifemd",
+      "memberships",
+      "partnership",
+      "patients",
+      "paying",
+      "produce",
+      "secures"
+    ],
+    "ts": 1789931336.574838
+  },
+  {
+    "id": "oilprice-article-45549",
+    "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
+    "tokens": [
+      "coal",
+      "crisis",
+      "demand",
+      "global",
+      "high",
+      "hormuz",
+      "push",
+      "record"
+    ],
+    "ts": 1789931345.1462643
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/travere-therapeutics-cfo-cline-sells-31m-in-company-stock-93CH-4906649",
-    "title": "Travere Therapeutics CFO Cline sells $3.1m in company stock",
-    "tokens": [
-      "cfo",
-      "cline",
-      "company",
-      "sells",
-      "stock",
-      "therapeutics",
-      "travere"
-    ],
-    "ts": 1789702952.8073182
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/tenax-therapeutics-director-declan-doogan-buys-101760-in-shares-93CH-4906648",
     "title": "Tenax Therapeutics director Declan Doogan buys $101,760 in shares",
     "tokens": [
@@ -23716,5 +23702,21 @@
       "record"
     ],
     "ts": 1789935013.6166213
+  },
+  {
+    "id": "orion-energy-oesx-raises-guidance-195100572.html",
+    "title": "Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?",
+    "tokens": [
+      "energy",
+      "firm",
+      "guidance",
+      "how",
+      "oesx",
+      "opportunity",
+      "orion",
+      "raises",
+      "retailer"
+    ],
+    "ts": 1789935915.6085854
   }
 ]

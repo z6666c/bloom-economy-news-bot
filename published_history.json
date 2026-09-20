@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/zscaler-ceo-chaudhry-sells-549759-in-company-stock-93CH-4906597",
-    "title": "Zscaler CEO Chaudhry sells $549,759 in company stock",
-    "tokens": [
-      "549",
-      "759",
-      "ceo",
-      "chaudhry",
-      "company",
-      "sells",
-      "stock",
-      "zscaler"
-    ],
-    "ts": 1789694781.7702389
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/zscaler-cfo-kevin-rubin-sells-115-million-in-company-stock-93CH-4906596",
     "title": "Zscaler CFO Kevin Rubin sells $1.15 million in company stock",
     "tokens": [
@@ -23683,5 +23668,22 @@
       "takeover"
     ],
     "ts": 1789917054.661261
+  },
+  {
+    "id": "deltas-non-main-cabin-revenue-145000624.html",
+    "title": "Delta's Non-Main-Cabin Revenue Hits 61% in 2026 -- Why It Matters for Earnings",
+    "tokens": [
+      "2026",
+      "cabin",
+      "delta",
+      "earnings",
+      "hits",
+      "main",
+      "matters",
+      "non",
+      "revenue",
+      "why"
+    ],
+    "ts": 1789917903.20839
   }
 ]

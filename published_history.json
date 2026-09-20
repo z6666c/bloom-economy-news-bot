@@ -1,81 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/tenax-therapeutics-director-declan-doogan-buys-101760-in-shares-93CH-4906648",
-    "title": "Tenax Therapeutics director Declan Doogan buys $101,760 in shares",
-    "tokens": [
-      "101",
-      "760",
-      "buys",
-      "declan",
-      "director",
-      "doogan",
-      "shares",
-      "tenax",
-      "therapeutics"
-    ],
-    "ts": 1789702959.482909
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/halozyme-prices-13-billion-convertible-notes-offering-93CH-4906647",
-    "title": "Halozyme prices $1.3 billion convertible notes offering",
-    "tokens": [
-      "billion",
-      "convertible",
-      "halozyme",
-      "notes",
-      "offering",
-      "prices"
-    ],
-    "ts": 1789702963.4964066
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/investors-react-to-boj-raising-interest-rates-to-31year-high-4906646",
-    "title": "Investors react to BOJ raising interest rates to 31-year high",
-    "tokens": [
-      "boj",
-      "high",
-      "interest",
-      "investors",
-      "raising",
-      "rates",
-      "react",
-      "year"
-    ],
-    "ts": 1789702966.428792
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asia-chip-tech-stocks-track-wall-st-gains-as-yields-fall-4906644",
-    "title": "Asia chip, tech stocks track Wall St gains as yields fall",
-    "tokens": [
-      "asia",
-      "chip",
-      "fall",
-      "gains",
-      "stocks",
-      "tech",
-      "track",
-      "wall",
-      "yields"
-    ],
-    "ts": 1789702973.5045278
-  },
-  {
-    "id": "household-income-soars-record-87-153629998.html",
-    "title": "Household Income Soars to Record $87,460 — So Why Is Everyone Feeling So Poor?",
-    "tokens": [
-      "460",
-      "everyone",
-      "feeling",
-      "household",
-      "income",
-      "poor",
-      "record",
-      "soars",
-      "why"
-    ],
-    "ts": 1789702980.5923214
-  },
-  {
     "id": "burnham-warns-challenging-budget-inflation-154142877.html",
     "title": "Burnham warns of ‘challenging’ Budget as inflation rises",
     "tokens": [
@@ -23718,5 +23642,79 @@
       "retailer"
     ],
     "ts": 1789935915.6085854
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/specialised-therapeutics-expands-incyte-partnership-to-australia-93CH-4908193",
+    "title": "Specialised Therapeutics expands Incyte partnership to Australia",
+    "tokens": [
+      "australia",
+      "expands",
+      "incyte",
+      "partnership",
+      "specialised",
+      "therapeutics"
+    ],
+    "ts": 1789936725.3799806
+  },
+  {
+    "id": "hca-healthcare-hca-acquires-healthcare-203355980.html",
+    "title": "HCA Healthcare (HCA) Acquires a Healthcare College. Can Training Capacity Improve Staffing?",
+    "tokens": [
+      "acquires",
+      "can",
+      "capacity",
+      "college",
+      "hca",
+      "healthcare",
+      "improve",
+      "staffing",
+      "training"
+    ],
+    "ts": 1789936733.315901
+  },
+  {
+    "id": "navan-navn-collaboration-engine-offers-203232047.html",
+    "title": "Navan’s (NAVN) Collaboration with Engine Offers New Lever for Platform Stickiness",
+    "tokens": [
+      "collaboration",
+      "engine",
+      "lever",
+      "navan",
+      "navn",
+      "offers",
+      "platform",
+      "stickiness"
+    ],
+    "ts": 1789936741.392832
+  },
+  {
+    "id": "red-violet-rdvt-expands-forewarn-202948729.html",
+    "title": "Red Violet (RDVT) Expands FOREWARN Reach Through This Latest Partnership",
+    "tokens": [
+      "expands",
+      "forewarn",
+      "latest",
+      "partnership",
+      "rdvt",
+      "reach",
+      "red",
+      "through",
+      "violet"
+    ],
+    "ts": 1789936749.1904895
+  },
+  {
+    "id": "streaming-biggest-rivals-just-became-202114144.html",
+    "title": "Streaming’s Biggest Rivals Just Became Allies in Washington",
+    "tokens": [
+      "allies",
+      "became",
+      "biggest",
+      "just",
+      "rivals",
+      "streaming",
+      "washington"
+    ],
+    "ts": 1789936755.7081866
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/forex-news/why-is-australian-dollar-gaining-today-93CH-4906672",
-    "title": "Why is Australian Dollar gaining today?",
-    "tokens": [
-      "australian",
-      "dollar",
-      "gaining",
-      "today",
-      "why"
-    ],
-    "ts": 1789708221.5912194
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/venezuela-nears-4-bln-us-gold-transfer-deal-ft-reports-93CH-4906671",
     "title": "Venezuela nears $4 bln U.S. gold transfer deal, FT reports",
     "tokens": [
@@ -23772,5 +23760,18 @@
       "tsmc"
     ],
     "ts": 1789942259.6103117
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
+    "title": "Oil rises after Houthi attack on Saudi capital",
+    "tokens": [
+      "attack",
+      "capital",
+      "houthi",
+      "oil",
+      "rises",
+      "saudi"
+    ],
+    "ts": 1789943922.9109933
   }
 ]

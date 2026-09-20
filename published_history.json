@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/venezuela-nears-4-bln-us-gold-transfer-deal-ft-reports-93CH-4906671",
-    "title": "Venezuela nears $4 bln U.S. gold transfer deal, FT reports",
-    "tokens": [
-      "bln",
-      "deal",
-      "gold",
-      "nears",
-      "reports",
-      "transfer",
-      "venezuela"
-    ],
-    "ts": 1789708228.5844474
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/morning-bid-boj-struggling-to-keep-pace-with-hiking-partners-4906670",
     "title": "Morning Bid: BOJ struggling to keep pace with hiking partners",
     "tokens": [
@@ -23773,5 +23759,21 @@
       "saudi"
     ],
     "ts": 1789943922.9109933
+  },
+  {
+    "id": "oilprice-article-45558",
+    "title": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
+    "tokens": [
+      "big",
+      "cuts",
+      "deep",
+      "despite",
+      "keeps",
+      "oil",
+      "production",
+      "soaring",
+      "spending"
+    ],
+    "ts": 1789945769.378264
   }
 ]

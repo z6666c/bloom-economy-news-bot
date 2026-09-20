@@ -1,24 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/sec-filings/sadot-group-appoints-michael-d-murray-as-ceo-and-cfo-chagay-ravid-transitions-to-executive-director-93CH-4906500",
-    "title": "Sadot Group appoints Michael D. Murray as CEO and CFO, Chagay Ravid transitions to executive director",
-    "tokens": [
-      "appoints",
-      "ceo",
-      "cfo",
-      "chagay",
-      "director",
-      "executive",
-      "group",
-      "michael",
-      "murray",
-      "ravid",
-      "sadot",
-      "transitions"
-    ],
-    "ts": 1789681154.6078365
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/boeing-wins-112m-contract-for-saudi-f15-training-program-93CH-4906499",
     "title": "Boeing wins $112m contract for Saudi F-15 training program",
     "tokens": [
@@ -23540,5 +23521,19 @@
       "visa"
     ],
     "ts": 1789871197.985707
+  },
+  {
+    "id": "analyst-just-downgraded-array-technologies-202037892.html",
+    "title": "This Analyst Just Downgraded Array Technologies. Here's Why.",
+    "tokens": [
+      "analyst",
+      "array",
+      "downgraded",
+      "here",
+      "just",
+      "technologies",
+      "why"
+    ],
+    "ts": 1789872042.1404254
   }
 ]

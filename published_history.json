@@ -1,38 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/paysign-evp-operations-joan-herman-sells-716899-in-shares-93CH-4906635",
-    "title": "Paysign EVP, operations Joan Herman sells $716,899 in shares",
-    "tokens": [
-      "716",
-      "899",
-      "evp",
-      "herman",
-      "joan",
-      "operations",
-      "paysign",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789701068.042346
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-prices-fall-for-3rd-day-as-supply-concerns-ease-diplomacy-in-focus-4906634",
-    "title": "Oil prices fall for 3rd day as supply concerns ease, diplomacy in focus",
-    "tokens": [
-      "3rd",
-      "concerns",
-      "day",
-      "diplomacy",
-      "ease",
-      "fall",
-      "focus",
-      "oil",
-      "prices",
-      "supply"
-    ],
-    "ts": 1789701076.017409
-  },
-  {
     "id": "investment-management-platform-ridgeline-raises-145638706.html",
     "title": "Investment Management Platform Ridgeline Raises $250M Series E",
     "tokens": [
@@ -23692,5 +23659,42 @@
       "nvidia"
     ],
     "ts": 1789926630.3903577
+  },
+  {
+    "id": "rf-industries-rfil-reports-stronger-174049668.html",
+    "title": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
+    "tokens": [
+      "can",
+      "improved",
+      "industries",
+      "mix",
+      "orders",
+      "product",
+      "profits",
+      "reports",
+      "rfil",
+      "stronger",
+      "sustain"
+    ],
+    "ts": 1789927903.8140786
+  },
+  {
+    "id": "sempra-sre-adds-20-lng-173718056.html",
+    "title": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
+    "tokens": [
+      "adds",
+      "agreement",
+      "commercial",
+      "does",
+      "how",
+      "lng",
+      "much",
+      "remove",
+      "risk",
+      "sempra",
+      "sre",
+      "year"
+    ],
+    "ts": 1789927911.0358987
   }
 ]

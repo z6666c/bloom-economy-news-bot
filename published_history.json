@@ -1,85 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/gmr-solutions-reprices-29-billion-term-loan-cuts-interest-rate-93CH-4906452",
-    "title": "GMR Solutions reprices $2.9 billion term loan, cuts interest rate",
-    "tokens": [
-      "billion",
-      "cuts",
-      "gmr",
-      "interest",
-      "loan",
-      "rate",
-      "reprices",
-      "solutions",
-      "term"
-    ],
-    "ts": 1789679485.3813972
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-acquires-28947-of-jewett-cameron-trading-co-ltd-stock-93CH-4906451",
-    "title": "AJB Investment Fund II acquires $28,947 of Jewett Cameron Trading Co Ltd stock",
-    "tokens": [
-      "947",
-      "acquires",
-      "ajb",
-      "cameron",
-      "fund",
-      "investment",
-      "jewett",
-      "ltd",
-      "stock",
-      "trading"
-    ],
-    "ts": 1789679492.0620046
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/amesite-schedules-annual-shareholder-meeting-for-december-10-2026-93CH-4906448",
-    "title": "Amesite schedules annual shareholder meeting for December 10, 2026",
-    "tokens": [
-      "2026",
-      "amesite",
-      "annual",
-      "december",
-      "meeting",
-      "schedules",
-      "shareholder"
-    ],
-    "ts": 1789679498.9849222
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/braskem-creditors-reject-debt-plan-over-capital-concerns--bloomberg-93CH-4906447",
-    "title": "Braskem creditors reject debt plan over capital concerns - Bloomberg",
-    "tokens": [
-      "bloomberg",
-      "braskem",
-      "capital",
-      "concerns",
-      "creditors",
-      "debt",
-      "plan",
-      "reject"
-    ],
-    "ts": 1789679506.618948
-  },
-  {
-    "id": "real-remax-group-reax-stock-130724417.html",
-    "title": "Real REMAX Group (REAX) Stock Weakness Reflects Fears of AI-Driven Market Changes",
-    "tokens": [
-      "changes",
-      "driven",
-      "fears",
-      "group",
-      "market",
-      "real",
-      "reax",
-      "reflects",
-      "remax",
-      "stock",
-      "weakness"
-    ],
-    "ts": 1789679514.1731176
-  },
-  {
     "id": "dividend-stock-beating-market-2026-130002850.html",
     "title": "This Dividend Stock Is Beating the Market in 2026 and Yields 2.36%",
     "tokens": [
@@ -23536,5 +23456,87 @@
       "warning"
     ],
     "ts": 1789865881.0749233
+  },
+  {
+    "id": "costco-expands-ultra-fast-delivery-185042149.html",
+    "title": "Costco expands ultra-fast delivery through DoorDash, Uber",
+    "tokens": [
+      "costco",
+      "delivery",
+      "doordash",
+      "expands",
+      "fast",
+      "through",
+      "uber",
+      "ultra"
+    ],
+    "ts": 1789866802.0005283
+  },
+  {
+    "id": "evereve-taps-sarah-clary-advisory-183926068.html",
+    "title": "Evereve Taps Sarah Clary as Advisory Chief Creative Officer to Shape Retailer’s Next Chapter",
+    "tokens": [
+      "advisory",
+      "chapter",
+      "chief",
+      "clary",
+      "creative",
+      "evereve",
+      "next",
+      "officer",
+      "retailer",
+      "sarah",
+      "shape",
+      "taps"
+    ],
+    "ts": 1789866809.4698443
+  },
+  {
+    "id": "fleetcor-ceo-agree-pay-100-185319968.html",
+    "title": "FleetCor, CEO agree to pay $100 million over hidden fuel-card fees",
+    "tokens": [
+      "100",
+      "agree",
+      "card",
+      "ceo",
+      "fees",
+      "fleetcor",
+      "fuel",
+      "hidden",
+      "million",
+      "pay"
+    ],
+    "ts": 1789866816.7379105
+  },
+  {
+    "id": "ask-4-questions-written-realtors-190000139.html",
+    "title": "Ask these 4 questions — written by Realtors — when choosing a mortgage lender",
+    "tokens": [
+      "ask",
+      "choosing",
+      "lender",
+      "mortgage",
+      "questions",
+      "realtors",
+      "these",
+      "when",
+      "written"
+    ],
+    "ts": 1789866824.3290288
+  },
+  {
+    "id": "xene-stock-plummets-xenon-pharmaceuticals-190004522.html",
+    "title": "XENE Stock Plummets as Xenon Pharmaceuticals Pauses Drug Trial",
+    "tokens": [
+      "drug",
+      "pauses",
+      "pharmaceuticals",
+      "plummets",
+      "stock",
+      "trial",
+      "xene",
+      "xenon"
+    ],
+    "ts": 1789866831.0185685
   }
 ]

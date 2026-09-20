@@ -1,81 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
-    "title": "Stocks rise as oil dips, yen wobbles ahead of BOJ",
-    "tokens": [
-      "ahead",
-      "boj",
-      "dips",
-      "oil",
-      "rise",
-      "stocks",
-      "wobbles",
-      "yen"
-    ],
-    "ts": 1789697481.116721
-  },
-  {
-    "id": "apple-investors-breathe-sigh-relief-135647337.html",
-    "title": "Apple Investors Can Breathe A Sigh Of Relief After OpenAI Gives Update On Long-Rumored Device",
-    "tokens": [
-      "apple",
-      "breathe",
-      "can",
-      "device",
-      "gives",
-      "investors",
-      "long",
-      "openai",
-      "relief",
-      "rumored",
-      "sigh",
-      "update"
-    ],
-    "ts": 1789697488.2910733
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/this-aipicked-stock-jumps-18-on-amazons-8-billion-power-deal-4906617",
-    "title": "This AI-picked stock jumps 18% on Amazon’s $8 billion power deal",
-    "tokens": [
-      "amazon",
-      "billion",
-      "deal",
-      "jumps",
-      "picked",
-      "power",
-      "stock"
-    ],
-    "ts": 1789698509.1217234
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/waymo-to-bring-autonomous-ridehailing-to-singapore-in-2028-4906616",
-    "title": "Waymo to bring autonomous ride-hailing to Singapore in 2028",
-    "tokens": [
-      "2028",
-      "autonomous",
-      "bring",
-      "hailing",
-      "ride",
-      "singapore",
-      "waymo"
-    ],
-    "ts": 1789698517.6314757
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/palantir-director-alexander-moore-sells-276m-in-stock-93CH-4906615",
-    "title": "Palantir director Alexander Moore sells $2.76m in stock",
-    "tokens": [
-      "76m",
-      "alexander",
-      "director",
-      "moore",
-      "palantir",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789698525.4466965
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/kratos-defense-svp--general-counsel-sells-48500-in-stock-93CH-4906614",
     "title": "Kratos Defense SVP & general counsel sells $48,500 in stock",
     "tokens": [
@@ -23680,5 +23604,82 @@
       "venezuela"
     ],
     "ts": 1789919525.8082645
+  },
+  {
+    "id": "targa-resources-trgp-gets-fresh-155123097.html",
+    "title": "Targa Resources (TRGP) Gets a Fresh Vote of Confidence from TD Cowen",
+    "tokens": [
+      "confidence",
+      "cowen",
+      "fresh",
+      "gets",
+      "resources",
+      "targa",
+      "trgp",
+      "vote"
+    ],
+    "ts": 1789920650.1378307
+  },
+  {
+    "id": "morgan-stanley-sees-marathon-petroleum-154726182.html",
+    "title": "Morgan Stanley Sees Marathon Petroleum (MPC) Breaking into New Highs",
+    "tokens": [
+      "breaking",
+      "highs",
+      "marathon",
+      "morgan",
+      "mpc",
+      "petroleum",
+      "sees",
+      "stanley"
+    ],
+    "ts": 1789920657.9984612
+  },
+  {
+    "id": "ge-vernova-gev-200-billion-154331999.html",
+    "title": "GE Vernova’s (GEV) $200 Billion Backlog is Coming Sooner than Expected",
+    "tokens": [
+      "200",
+      "backlog",
+      "billion",
+      "coming",
+      "expected",
+      "gev",
+      "sooner",
+      "vernova"
+    ],
+    "ts": 1789920665.0711834
+  },
+  {
+    "id": "morgan-stanley-sees-more-fuel-153825351.html",
+    "title": "Morgan Stanley Sees More Fuel for Valero’s (VLO) Rally",
+    "tokens": [
+      "fuel",
+      "more",
+      "morgan",
+      "rally",
+      "sees",
+      "stanley",
+      "valero",
+      "vlo"
+    ],
+    "ts": 1789920671.8199804
+  },
+  {
+    "id": "prediction-best-performing-big-bank-155000750.html",
+    "title": "Prediction: The Best-Performing Big Bank Stock of the Next 2 Years Is Not JPMorgan Chase",
+    "tokens": [
+      "bank",
+      "best",
+      "big",
+      "chase",
+      "jpmorgan",
+      "next",
+      "performing",
+      "prediction",
+      "stock",
+      "years"
+    ],
+    "ts": 1789920678.7695022
   }
 ]

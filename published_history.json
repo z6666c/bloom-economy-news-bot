@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/us-fda-approves-ultragenyxs-gene-therapy-for-rare-disorder-4906314",
-    "title": "Ultragenyx sets $3.95 million price for rare disease gene therapy",
-    "tokens": [
-      "disease",
-      "gene",
-      "million",
-      "price",
-      "rare",
-      "sets",
-      "therapy",
-      "ultragenyx"
-    ],
-    "ts": 1789686555.674747
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/clean-harbors-prices-600-million-senior-notes-offering-93CH-4906548",
-    "title": "Clean Harbors prices $600 million senior notes offering",
-    "tokens": [
-      "600",
-      "clean",
-      "harbors",
-      "million",
-      "notes",
-      "offering",
-      "prices",
-      "senior"
-    ],
-    "ts": 1789686562.507817
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/reddit-ceo-steve-huffman-sells-277m-in-shares-after-option-exercise-93CH-4906546",
     "title": "Reddit CEO Steve Huffman sells $2.77m in shares after option exercise",
     "tokens": [
@@ -23555,5 +23525,34 @@
       "woman"
     ],
     "ts": 1789899034.477312
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/china-rare-earth-group-in-talks-to-buy-mp-materials-shareholder-shenghe-resources-sources-say-4908159",
+    "title": "China Rare Earth Group in talks to buy MP Materials shareholder Shenghe Resources, sources say",
+    "tokens": [
+      "buy",
+      "china",
+      "earth",
+      "group",
+      "materials",
+      "rare",
+      "resources",
+      "say",
+      "shareholder",
+      "shenghe",
+      "sources",
+      "talks"
+    ],
+    "ts": 1789900737.2970262
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4908157",
+    "title": "EOS Falls 11% In Rout",
+    "tokens": [
+      "eos",
+      "falls",
+      "rout"
+    ],
+    "ts": 1789900743.7284243
   }
 ]

@@ -1,18 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/travere-therapeutics-svp-sells-335k-in-stock-93CH-4906636",
-    "title": "Travere Therapeutics SVP sells $335k in stock",
-    "tokens": [
-      "335k",
-      "sells",
-      "stock",
-      "svp",
-      "therapeutics",
-      "travere"
-    ],
-    "ts": 1789701060.6602361
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/paysign-evp-operations-joan-herman-sells-716899-in-shares-93CH-4906635",
     "title": "Paysign EVP, operations Joan Herman sells $716,899 in shares",
     "tokens": [
@@ -23692,5 +23679,18 @@
       "year"
     ],
     "ts": 1789925869.904158
+  },
+  {
+    "id": "nvidia-ceo-blunt-message-americans-173300093.html",
+    "title": "Nvidia CEO has a blunt message for Americans fearing AI",
+    "tokens": [
+      "americans",
+      "blunt",
+      "ceo",
+      "fearing",
+      "message",
+      "nvidia"
+    ],
+    "ts": 1789926630.3903577
   }
 ]

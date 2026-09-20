@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/boeing-wins-112m-contract-for-saudi-f15-training-program-93CH-4906499",
-    "title": "Boeing wins $112m contract for Saudi F-15 training program",
-    "tokens": [
-      "112m",
-      "boeing",
-      "contract",
-      "program",
-      "saudi",
-      "training",
-      "wins"
-    ],
-    "ts": 1789681162.1370358
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/general-dynamics-wins-476m-in-navy-contract-modifications-93CH-4906498",
     "title": "General Dynamics wins $47.6m in Navy contract modifications",
     "tokens": [
@@ -23535,5 +23521,21 @@
       "why"
     ],
     "ts": 1789872042.1404254
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/polymarket-fraud-concerns-mount-as-company-prepares-for-potential-ipo--wsj-4908134",
+    "title": "Polymarket fraud concerns mount as company prepares for potential IPO - WSJ",
+    "tokens": [
+      "company",
+      "concerns",
+      "fraud",
+      "ipo",
+      "mount",
+      "polymarket",
+      "potential",
+      "prepares",
+      "wsj"
+    ],
+    "ts": 1789872751.2916706
   }
 ]

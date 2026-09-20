@@ -1,63 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/nutanix-cfo-rukmini-sivaraman-sells-267-million-in-company-stock-93CH-4906626",
-    "title": "Nutanix CFO Rukmini Sivaraman sells $2.67 million in company stock",
-    "tokens": [
-      "cfo",
-      "company",
-      "million",
-      "nutanix",
-      "rukmini",
-      "sells",
-      "sivaraman",
-      "stock"
-    ],
-    "ts": 1789699477.6729918
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-director-watzinger-sells-286m-in-stock-93CH-4906625",
-    "title": "Crowdstrike director Watzinger sells $28.6m in stock",
-    "tokens": [
-      "crowdstrike",
-      "director",
-      "sells",
-      "stock",
-      "watzinger"
-    ],
-    "ts": 1789699486.6316667
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-485m-in-crwd-shares-93CH-4906624",
-    "title": "Crowdstrike CEO George Kurtz sells $4.85m in CRWD shares",
-    "tokens": [
-      "85m",
-      "ceo",
-      "crowdstrike",
-      "crwd",
-      "george",
-      "kurtz",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789699495.1611466
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/nextnav-inc-ceo-mariam-sorond-sells-41662-of-common-stock-93CH-4906622",
-    "title": "NextNav Inc. CEO Mariam Sorond sells $41,662 of common stock",
-    "tokens": [
-      "662",
-      "ceo",
-      "common",
-      "inc",
-      "mariam",
-      "nextnav",
-      "sells",
-      "sorond",
-      "stock"
-    ],
-    "ts": 1789699502.3752918
-  },
-  {
     "id": "jiuzi-holdings-advances-ai-intelligent-143150293.html",
     "title": "Jiuzi Holdings Advances AI Intelligent Imaging Platform Testing Ahead of Potential Commercial Deployment",
     "tokens": [
@@ -23692,5 +23634,64 @@
       "trillion"
     ],
     "ts": 1789923112.450078
+  },
+  {
+    "id": "exxon-xom-eyes-return-venezuela-164059135.html",
+    "title": "Exxon (XOM) Eyes a Return to Venezuela After Nearly Two Decades Away",
+    "tokens": [
+      "away",
+      "decades",
+      "exxon",
+      "eyes",
+      "nearly",
+      "return",
+      "two",
+      "venezuela",
+      "xom"
+    ],
+    "ts": 1789924175.1222084
+  },
+  {
+    "id": "bmo-sees-phillips-66-psx-163523482.html",
+    "title": "BMO Sees Phillips 66 (PSX) Breaking into New Highs",
+    "tokens": [
+      "bmo",
+      "breaking",
+      "highs",
+      "phillips",
+      "psx",
+      "sees"
+    ],
+    "ts": 1789924182.3850465
+  },
+  {
+    "id": "chevron-ceo-sends-strong-message-164700338.html",
+    "title": "Chevron CEO sends a strong message on oil price and the economy",
+    "tokens": [
+      "ceo",
+      "chevron",
+      "economy",
+      "message",
+      "oil",
+      "price",
+      "sends",
+      "strong"
+    ],
+    "ts": 1789924189.827066
+  },
+  {
+    "id": "oilprice-article-45552",
+    "title": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says",
+    "tokens": [
+      "2035",
+      "analyst",
+      "china",
+      "dominate",
+      "energy",
+      "global",
+      "nuclear",
+      "through"
+    ],
+    "ts": 1789924197.8878574
   }
 ]

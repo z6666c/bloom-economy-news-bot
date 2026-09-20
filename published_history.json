@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/qantas-ground-workers-to-strike-over-pay-and-conditions-next-week-4906589",
-    "title": "Qantas ground workers to strike over pay and conditions next week",
-    "tokens": [
-      "conditions",
-      "ground",
-      "next",
-      "pay",
-      "qantas",
-      "strike",
-      "week",
-      "workers"
-    ],
-    "ts": 1789692917.0233269
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/orion180-insurance-prices-us-ipo-below-range-raises-240-million-4906588",
     "title": "Orion180 Insurance prices US IPO below range, raises $240 million",
     "tokens": [
@@ -23669,5 +23654,21 @@
       "wishful"
     ],
     "ts": 1789911511.8007894
+  },
+  {
+    "id": "meta-stock-could-hit-800-122139390.html",
+    "title": "Meta Stock Could Hit $800 This Year -- And It All Begins on Sept. 23",
+    "tokens": [
+      "800",
+      "all",
+      "begins",
+      "could",
+      "hit",
+      "meta",
+      "sept",
+      "stock",
+      "year"
+    ],
+    "ts": 1789913424.6884954
   }
 ]

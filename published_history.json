@@ -1,18 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-040-4906501",
-    "title": "Colombia stocks higher at close of trade; COLCAP up 0.40%",
-    "tokens": [
-      "close",
-      "colcap",
-      "colombia",
-      "higher",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789681147.5289922
-  },
-  {
     "id": "https://www.investing.com/news/sec-filings/sadot-group-appoints-michael-d-murray-as-ceo-and-cfo-chagay-ravid-transitions-to-executive-director-93CH-4906500",
     "title": "Sadot Group appoints Michael D. Murray as CEO and CFO, Chagay Ravid transitions to executive director",
     "tokens": [
@@ -23535,5 +23522,23 @@
       "weak"
     ],
     "ts": 1789870253.7570474
+  },
+  {
+    "id": "us-bank-shield-visa-card-181913823.html",
+    "title": "U.S. Bank Shield Visa Card review: 0% APR for 21 billing cycles on purchases and balance transfers",
+    "tokens": [
+      "apr",
+      "balance",
+      "bank",
+      "billing",
+      "card",
+      "cycles",
+      "purchases",
+      "review",
+      "shield",
+      "transfers",
+      "visa"
+    ],
+    "ts": 1789871197.985707
   }
 ]

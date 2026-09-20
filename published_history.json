@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/samsaras-chief-accounting-officer-sells-92120-in-shares-93CH-4906602",
-    "title": "Samsara’s chief accounting officer sells $92,120 in shares",
-    "tokens": [
-      "120",
-      "accounting",
-      "chief",
-      "officer",
-      "samsara",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789694720.7993486
-  },
-  {
     "id": "https://www.investing.com/news/commodities-news/oil-prices-fall-1-on-hopes-of-limited-supply-disruptions-4906600",
     "title": "Oil prices fall 1% on hopes of limited supply disruptions",
     "tokens": [
@@ -23674,5 +23660,17 @@
       "what"
     ],
     "ts": 1789915145.0381758
+  },
+  {
+    "id": "best-buy-stock-outperforming-dow-132723594.html",
+    "title": "Is Best Buy Stock Outperforming the Dow?",
+    "tokens": [
+      "best",
+      "buy",
+      "dow",
+      "outperforming",
+      "stock"
+    ],
+    "ts": 1789915873.32805
   }
 ]

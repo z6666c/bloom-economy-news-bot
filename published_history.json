@@ -1,18 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/general-dynamics-wins-476m-in-navy-contract-modifications-93CH-4906498",
-    "title": "General Dynamics wins $47.6m in Navy contract modifications",
-    "tokens": [
-      "contract",
-      "dynamics",
-      "general",
-      "modifications",
-      "navy",
-      "wins"
-    ],
-    "ts": 1789681169.5009644
-  },
-  {
     "id": "https://www.investing.com/news/company-news/treace-medical-presents-5year-bunion-surgery-study-results-93CH-4906487",
     "title": "Treace Medical presents 5-year bunion surgery study results",
     "tokens": [
@@ -23537,5 +23524,19 @@
       "wsj"
     ],
     "ts": 1789872751.2916706
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/totalenergies-signs-deal-paving-way-for-return-to-venezuela-4908135",
+    "title": "TotalEnergies signs deal paving way for return to Venezuela",
+    "tokens": [
+      "deal",
+      "paving",
+      "return",
+      "signs",
+      "totalenergies",
+      "venezuela",
+      "way"
+    ],
+    "ts": 1789873857.9151921
   }
 ]

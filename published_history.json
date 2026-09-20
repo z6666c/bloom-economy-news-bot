@@ -1,62 +1,5 @@
 [
   {
-    "id": "420m-cmbs-loan-51-west-162120078.html",
-    "title": "$420M CMBS Loan at 51 West 52nd Exits Special Servicing",
-    "tokens": [
-      "420m",
-      "52nd",
-      "cmbs",
-      "exits",
-      "loan",
-      "servicing",
-      "special",
-      "west"
-    ],
-    "ts": 1789689061.1091378
-  },
-  {
-    "id": "zimmer-biomet-stock-underperforming-nasdaq-163755218.html",
-    "title": "Is Zimmer Biomet Stock Underperforming the Nasdaq?",
-    "tokens": [
-      "biomet",
-      "nasdaq",
-      "stock",
-      "underperforming",
-      "zimmer"
-    ],
-    "ts": 1789689067.9169538
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/japans-august-core-consumer-prices-rise-17-yryr-4906565",
-    "title": "Japan’s core inflation holds near BOJ’s target",
-    "tokens": [
-      "boj",
-      "core",
-      "holds",
-      "inflation",
-      "japan",
-      "near",
-      "target"
-    ],
-    "ts": 1789690479.3780203
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/xbp-global-holdings-ceo-andrej-jonovic-buys-89145-in-stock-93CH-4906581",
-    "title": "XBP Global Holdings CEO Andrej Jonovic buys $89,145 in stock",
-    "tokens": [
-      "145",
-      "andrej",
-      "buys",
-      "ceo",
-      "global",
-      "holdings",
-      "jonovic",
-      "stock",
-      "xbp"
-    ],
-    "ts": 1789690488.3198721
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/happen-director-erin-selleck-sells-119228-in-shares-93CH-4906579",
     "title": "Happen director Erin Selleck sells $119,228 in shares",
     "tokens": [
@@ -23596,5 +23539,76 @@
       "sibling"
     ],
     "ts": 1789907566.852185
+  },
+  {
+    "id": "WP-MKTW-0005241573",
+    "title": "Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year.",
+    "tokens": [
+      "about",
+      "debt",
+      "expected",
+      "fixes",
+      "midterm",
+      "national",
+      "only",
+      "overwhelmingly",
+      "small",
+      "voters",
+      "worried",
+      "year"
+    ],
+    "ts": 1789908857.8421235
+  },
+  {
+    "id": "screwed-larry-fink-lost-100m-114500926.html",
+    "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
+    "tokens": [
+      "100m",
+      "blackrock",
+      "built",
+      "fink",
+      "got",
+      "larry",
+      "lost",
+      "pushed",
+      "quarter",
+      "screwed",
+      "single",
+      "top",
+      "wreckage"
+    ],
+    "ts": 1789908865.183112
+  },
+  {
+    "id": "5-smart-things-wealthy-baby-114500034.html",
+    "title": "5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them",
+    "tokens": [
+      "baby",
+      "boomers",
+      "comfy",
+      "copy",
+      "guarantees",
+      "how",
+      "lifestyle",
+      "money",
+      "smart",
+      "their",
+      "them",
+      "things",
+      "wealthy"
+    ],
+    "ts": 1789908872.9124787
+  },
+  {
+    "id": "nestl-loses-keys-russian-business-115500444.html",
+    "title": "Nestlé Loses the Keys to Its Russian Business",
+    "tokens": [
+      "business",
+      "keys",
+      "loses",
+      "nestl",
+      "russian"
+    ],
+    "ts": 1789908880.1768734
   }
 ]

@@ -1,51 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/rubrik-cfo-kiran-choudary-sells-105-million-in-rbrk-stock-93CH-4906640",
-    "title": "Rubrik CFO Kiran Choudary sells $1.05 million in RBRK stock",
-    "tokens": [
-      "cfo",
-      "choudary",
-      "kiran",
-      "million",
-      "rbrk",
-      "rubrik",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789702058.165821
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ceribell-president-and-ceo-chao-xingjuan-sells-521775-in-stock-93CH-4906639",
-    "title": "Ceribell president and CEO Chao Xingjuan sells $521,775 in stock",
-    "tokens": [
-      "521",
-      "775",
-      "ceo",
-      "ceribell",
-      "chao",
-      "president",
-      "sells",
-      "stock",
-      "xingjuan"
-    ],
-    "ts": 1789702064.9977489
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/explainerwhat-commodity-markets-can-expect-from-the-trumpxi-summit-4906638",
-    "title": "Explainer-What commodity markets can expect from the Trump-Xi summit",
-    "tokens": [
-      "can",
-      "commodity",
-      "expect",
-      "explainer",
-      "markets",
-      "summit",
-      "trump",
-      "what"
-    ],
-    "ts": 1789702073.3048203
-  },
-  {
     "id": "interactive-brokers-senior-economist-shares-151656371.html",
     "title": "Interactive Brokers Senior Economist Shares The Oil Price That Creates “Serious Risk” For The American Consumer",
     "tokens": [
@@ -23702,5 +23656,63 @@
       "record"
     ],
     "ts": 1789931345.1462643
+  },
+  {
+    "id": "diesel-6-48-per-gallon-190000006.html",
+    "title": "Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit",
+    "tokens": [
+      "500",
+      "diesel",
+      "drivers",
+      "forcing",
+      "fuel",
+      "gallon",
+      "per",
+      "pushes",
+      "quit",
+      "some",
+      "spend",
+      "truck",
+      "week"
+    ],
+    "ts": 1789932179.7830334
+  },
+  {
+    "id": "lindblad-expeditions-lind-buys-white-185653752.html",
+    "title": "Lindblad Expeditions (LIND) Buys White Desert Control. Can Antarctic Land Travel Lift Returns?",
+    "tokens": [
+      "antarctic",
+      "buys",
+      "can",
+      "control",
+      "desert",
+      "expeditions",
+      "land",
+      "lift",
+      "lind",
+      "lindblad",
+      "returns",
+      "travel",
+      "white"
+    ],
+    "ts": 1789932187.2245347
+  },
+  {
+    "id": "vera-bradley-vra-returns-operating-185154105.html",
+    "title": "Vera Bradley (VRA) Returns to Operating Profit. Can the Recovery Outlast Tariff Refunds?",
+    "tokens": [
+      "bradley",
+      "can",
+      "operating",
+      "outlast",
+      "profit",
+      "recovery",
+      "refunds",
+      "returns",
+      "tariff",
+      "vera",
+      "vra"
+    ],
+    "ts": 1789932194.3918297
   }
 ]

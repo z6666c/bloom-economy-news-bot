@@ -1,37 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/how-bessent-americas-bond-salesman-cornered-japan-on-big-spending-4906555",
-    "title": "How Bessent, America’s bond salesman, cornered Japan on big spending",
-    "tokens": [
-      "america",
-      "bessent",
-      "big",
-      "bond",
-      "cornered",
-      "how",
-      "japan",
-      "salesman",
-      "spending"
-    ],
-    "ts": 1789687340.8716784
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/silver-lake-fund-sells-582093-of-dell-technologies-stock-93CH-4906554",
-    "title": "Silver Lake fund sells $582,093 of Dell Technologies stock",
-    "tokens": [
-      "093",
-      "582",
-      "dell",
-      "fund",
-      "lake",
-      "sells",
-      "silver",
-      "stock",
-      "technologies"
-    ],
-    "ts": 1789687348.1427402
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/us-judge-strikes-down-education-departments-antidei-grant-policy-4906553",
     "title": "US judge strikes down Education Department’s anti-DEI grant policy",
     "tokens": [
@@ -23587,5 +23555,36 @@
       "yourself"
     ],
     "ts": 1789903501.88786
+  },
+  {
+    "id": "republic-services-rsg-winning-price-104333739.html",
+    "title": "Republic Services (RSG) Is Winning On Price While Volumes Slip",
+    "tokens": [
+      "price",
+      "republic",
+      "rsg",
+      "services",
+      "slip",
+      "volumes",
+      "while",
+      "winning"
+    ],
+    "ts": 1789904309.7632806
+  },
+  {
+    "id": "royal-caribbean-rcl-1-25b-104710556.html",
+    "title": "Royal Caribbean’s (RCL) $1.25B Debt Deal Hides A Bigger Story",
+    "tokens": [
+      "25b",
+      "bigger",
+      "caribbean",
+      "deal",
+      "debt",
+      "hides",
+      "rcl",
+      "royal",
+      "story"
+    ],
+    "ts": 1789904317.071624
   }
 ]

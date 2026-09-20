@@ -1,98 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/forex-news/yuan-hits-4year-high-ahead-of-trumpxi-meeting-as-china-broadens-clearing-4906662",
-    "title": "Yuan hits 4-year high ahead of Trump-Xi meeting as China broadens clearing",
-    "tokens": [
-      "ahead",
-      "broadens",
-      "china",
-      "clearing",
-      "high",
-      "hits",
-      "meeting",
-      "trump",
-      "year",
-      "yuan"
-    ],
-    "ts": 1789705668.6209483
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-the-japanese-yen-sliding-today-93CH-4906660",
-    "title": "Why is the Japanese yen sliding today?",
-    "tokens": [
-      "japanese",
-      "sliding",
-      "today",
-      "why",
-      "yen"
-    ],
-    "ts": 1789705676.136236
-  },
-  {
-    "id": "fed-meeting-today-fed-officials-162904756.html",
-    "title": "Fed Officials Don’t Think They’re Done Hiking Interest Rates",
-    "tokens": [
-      "don",
-      "done",
-      "fed",
-      "hiking",
-      "interest",
-      "officials",
-      "rates",
-      "they",
-      "think"
-    ],
-    "ts": 1789705684.394796
-  },
-  {
-    "id": "target-takes-amazon-fall-shopping-165530007.html",
-    "title": "Target Takes on Amazon With Fall Shopping Event. What Comes Next for TGT Stock.",
-    "tokens": [
-      "amazon",
-      "comes",
-      "event",
-      "fall",
-      "next",
-      "shopping",
-      "stock",
-      "takes",
-      "target",
-      "tgt",
-      "what"
-    ],
-    "ts": 1789705692.0183127
-  },
-  {
-    "id": "president-trump-approved-stock-just-165739294.html",
-    "title": "This President Trump-Approved Stock Just Hit Another 52-Week Low. How to Play It Here.",
-    "tokens": [
-      "another",
-      "approved",
-      "here",
-      "hit",
-      "how",
-      "just",
-      "low",
-      "play",
-      "president",
-      "stock",
-      "trump",
-      "week"
-    ],
-    "ts": 1789705699.8990617
-  },
-  {
-    "id": "corn-falling-lower-wednesday-172852782.html",
-    "title": "Corn Falling Lower on Wednesday",
-    "tokens": [
-      "corn",
-      "falling",
-      "lower",
-      "wednesday"
-    ],
-    "ts": 1789705706.8376076
-  },
-  {
     "id": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam",
     "title": "Cardano’s IOG warns users to avoid YouTube channel amid giveaway scam",
     "tokens": [
@@ -23742,5 +23649,108 @@
       "ventures"
     ],
     "ts": 1789940300.7533438
+  },
+  {
+    "id": "keybanc-raises-appfolio-appf-price-213318180.html",
+    "title": "KeyBanc Raises AppFolio (APPF) Price Target: What Investors Need to Know",
+    "tokens": [
+      "appf",
+      "appfolio",
+      "investors",
+      "keybanc",
+      "know",
+      "need",
+      "price",
+      "raises",
+      "target",
+      "what"
+    ],
+    "ts": 1789941051.4988546
+  },
+  {
+    "id": "nordson-ndsn-vantage-xl-addresses-212740323.html",
+    "title": "Nordson’s (NDSN) New Vantage XL Addresses Increasing Advanced Semiconductor Packaging Demand",
+    "tokens": [
+      "addresses",
+      "advanced",
+      "demand",
+      "increasing",
+      "ndsn",
+      "nordson",
+      "packaging",
+      "semiconductor",
+      "vantage"
+    ],
+    "ts": 1789941059.2954748
+  },
+  {
+    "id": "amazon-amzn-taps-uk-bond-212711015.html",
+    "title": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout",
+    "tokens": [
+      "amazon",
+      "amzn",
+      "bond",
+      "buildout",
+      "first",
+      "fund",
+      "help",
+      "market",
+      "taps",
+      "time"
+    ],
+    "ts": 1789941066.3843052
+  },
+  {
+    "id": "amazon-amzn-sued-again-time-212413687.html",
+    "title": "Amazon (AMZN) Sued Again, This Time over How it Treats Pregnant Warehouse Workers",
+    "tokens": [
+      "again",
+      "amazon",
+      "amzn",
+      "how",
+      "pregnant",
+      "sued",
+      "time",
+      "treats",
+      "warehouse",
+      "workers"
+    ],
+    "ts": 1789941074.0211785
+  },
+  {
+    "id": "ai-slowdown-trade-winners-crowdstrike-212311977.html",
+    "title": "The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo Alto Rally While Chips Fall",
+    "tokens": [
+      "alto",
+      "chips",
+      "crowdstrike",
+      "fall",
+      "palo",
+      "rally",
+      "slowdown",
+      "some",
+      "trade",
+      "while",
+      "winners"
+    ],
+    "ts": 1789941082.766204
+  },
+  {
+    "id": "boeing-ba-completes-13-satellite-211953360.html",
+    "title": "Boeing (BA) Completes 13-Satellite O3b mPOWER Constellation — Here’s What It Means for Defense Growth",
+    "tokens": [
+      "boeing",
+      "completes",
+      "constellation",
+      "defense",
+      "growth",
+      "here",
+      "means",
+      "mpower",
+      "o3b",
+      "satellite",
+      "what"
+    ],
+    "ts": 1789941089.911763
   }
 ]

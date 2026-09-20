@@ -1,65 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/happen-director-erin-selleck-sells-119228-in-shares-93CH-4906579",
-    "title": "Happen director Erin Selleck sells $119,228 in shares",
-    "tokens": [
-      "119",
-      "228",
-      "director",
-      "erin",
-      "happen",
-      "selleck",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789690495.7917151
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dolphin-entertainment-ceo-william-odowd-iv-buys-6856-in-stock-93CH-4906577",
-    "title": "Dolphin entertainment CEO William O’Dowd IV buys $6,856 in stock",
-    "tokens": [
-      "856",
-      "buys",
-      "ceo",
-      "dolphin",
-      "dowd",
-      "entertainment",
-      "stock",
-      "william"
-    ],
-    "ts": 1789690503.1274455
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-474813-in-shares-93CH-4906575",
-    "title": "Apple SVP Jennifer Newstead sells $474,813 in shares",
-    "tokens": [
-      "474",
-      "813",
-      "apple",
-      "jennifer",
-      "newstead",
-      "sells",
-      "shares",
-      "svp"
-    ],
-    "ts": 1789690510.909995
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/screwworm-infests-us-horse-before-port-reopens-to-mexican-livestock-4906576",
-    "title": "Screwworm infests US horse before port reopens to Mexican livestock",
-    "tokens": [
-      "before",
-      "horse",
-      "infests",
-      "livestock",
-      "mexican",
-      "port",
-      "reopens",
-      "screwworm"
-    ],
-    "ts": 1789690518.6362698
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/amalgamated-financial-evp-sells-158k-in-common-stock-93CH-4906574",
     "title": "Amalgamated Financial EVP sells $158k in common stock",
     "tokens": [
@@ -23610,5 +23550,67 @@
       "russian"
     ],
     "ts": 1789908880.1768734
+  },
+  {
+    "id": "WP-MKTW-0005241400",
+    "title": "Record diesel prices are exposing pain points in the stock market and economy",
+    "tokens": [
+      "diesel",
+      "economy",
+      "exposing",
+      "market",
+      "pain",
+      "points",
+      "prices",
+      "record",
+      "stock"
+    ],
+    "ts": 1789909795.983115
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-026-4908173",
+    "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.26%",
+    "tokens": [
+      "all",
+      "arabia",
+      "close",
+      "lower",
+      "saudi",
+      "share",
+      "stocks",
+      "tadawul",
+      "trade"
+    ],
+    "ts": 1789909803.4356759
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tsx-miners-to-watch-next-week-as-analysts-flag-further-upside-93CH-4908172",
+    "title": "TSX miners to watch next week as analysts flag further upside",
+    "tokens": [
+      "analysts",
+      "flag",
+      "further",
+      "miners",
+      "next",
+      "tsx",
+      "upside",
+      "watch",
+      "week"
+    ],
+    "ts": 1789909810.9399173
+  },
+  {
+    "id": "yardflow-lands-over-200-yard-120000605.html",
+    "title": "YardFlow lands over 200-site yard automation deal",
+    "tokens": [
+      "200",
+      "automation",
+      "deal",
+      "lands",
+      "site",
+      "yard",
+      "yardflow"
+    ],
+    "ts": 1789909818.1154907
   }
 ]

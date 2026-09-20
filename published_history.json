@@ -1,53 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/orion180-insurance-prices-us-ipo-below-range-raises-240-million-4906588",
-    "title": "Orion180 Insurance prices US IPO below range, raises $240 million",
-    "tokens": [
-      "240",
-      "below",
-      "insurance",
-      "ipo",
-      "million",
-      "orion180",
-      "prices",
-      "raises",
-      "range"
-    ],
-    "ts": 1789692924.0826795
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/forager-fund-sells-944877-of-regional-management-corp-stock-93CH-4906587",
-    "title": "Forager fund sells $944,877 of Regional Management Corp. stock",
-    "tokens": [
-      "877",
-      "944",
-      "corp",
-      "forager",
-      "fund",
-      "management",
-      "regional",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789692930.6484964
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-lower-after-wall-st-rallies-on-softer-oil-yields-4906586",
-    "title": "U.S. stock futures edge lower after Wall St rallies on softer oil, yields",
-    "tokens": [
-      "edge",
-      "futures",
-      "lower",
-      "oil",
-      "rallies",
-      "softer",
-      "stock",
-      "wall",
-      "yields"
-    ],
-    "ts": 1789692939.8023536
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/alpha-compute-corp-president-villani-buys-108987-in-shares-93CH-4906584",
     "title": "Alpha Compute Corp president Villani buys $108,987 in shares",
     "tokens": [
@@ -23670,5 +23622,66 @@
       "year"
     ],
     "ts": 1789913424.6884954
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
+    "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
+    "tokens": [
+      "announces",
+      "asset",
+      "exchange",
+      "ieo",
+      "mcr",
+      "monochrome",
+      "multi",
+      "native",
+      "token",
+      "trading",
+      "venue"
+    ],
+    "ts": 1789914312.5168366
+  },
+  {
+    "id": "dave-ramsey-told-1-caller-130002244.html",
+    "title": "Dave Ramsey Told 1 Caller, ‘Hold on to the Cash. We’re Not Gonna Pay Off the House,’ But 5 Months Later Told Another to Pay It Off That Night. Here’s Why.",
+    "tokens": [
+      "another",
+      "caller",
+      "cash",
+      "dave",
+      "gonna",
+      "here",
+      "hold",
+      "house",
+      "later",
+      "months",
+      "night",
+      "off",
+      "pay",
+      "ramsey",
+      "told",
+      "why"
+    ],
+    "ts": 1789914320.9255776
+  },
+  {
+    "id": "wall-street-favorite-safe-haven-130003037.html",
+    "title": "Wall Street’s Favorite Safe Haven Could Be In Trouble. How Investors Should Play Gold Here.",
+    "tokens": [
+      "could",
+      "favorite",
+      "gold",
+      "haven",
+      "here",
+      "how",
+      "investors",
+      "play",
+      "safe",
+      "should",
+      "street",
+      "trouble",
+      "wall"
+    ],
+    "ts": 1789914328.1449647
   }
 ]

@@ -1,121 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/beta-bionics-closes-1725-million-public-offering-93CH-4906360",
-    "title": "Beta Bionics closes $172.5 million public offering",
-    "tokens": [
-      "172",
-      "beta",
-      "bionics",
-      "closes",
-      "million",
-      "offering",
-      "public"
-    ],
-    "ts": 1789676962.4709337
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/texas-instruments-raises-quarterly-dividend-7-to-152-93CH-4906361",
-    "title": "Texas Instruments raises quarterly dividend 7% to $1.52",
-    "tokens": [
-      "dividend",
-      "instruments",
-      "quarterly",
-      "raises",
-      "texas"
-    ],
-    "ts": 1789676970.4737153
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/texas-court-denies-former-fermi-ceos-restraining-order-requests-93CH-4906362",
-    "title": "Texas court denies former Fermi CEO’s restraining order requests",
-    "tokens": [
-      "ceo",
-      "court",
-      "denies",
-      "fermi",
-      "former",
-      "order",
-      "requests",
-      "restraining",
-      "texas"
-    ],
-    "ts": 1789676977.3715417
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/viasat-activates-viasat3-f2-satellite-across-americas-93CH-4906357",
-    "title": "Viasat activates ViaSat-3 F2 satellite across Americas",
-    "tokens": [
-      "across",
-      "activates",
-      "americas",
-      "satellite",
-      "viasat"
-    ],
-    "ts": 1789676984.3049443
-  },
-  {
-    "id": "fin-com-exits-stealth-20m-115331301.html",
-    "title": "Fin.com exits stealth with $20m to expand payment rails",
-    "tokens": [
-      "20m",
-      "com",
-      "exits",
-      "expand",
-      "fin",
-      "payment",
-      "rails",
-      "stealth"
-    ],
-    "ts": 1789676991.3094084
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/medtronic-corrects-prospectus-for-minimed-exchange-offer-clarifies-delivery-deadline-93CH-4906425",
-    "title": "Medtronic corrects prospectus for MiniMed exchange offer, clarifies delivery deadline",
-    "tokens": [
-      "clarifies",
-      "corrects",
-      "deadline",
-      "delivery",
-      "exchange",
-      "medtronic",
-      "minimed",
-      "offer",
-      "prospectus"
-    ],
-    "ts": 1789677730.1911008
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-062-4906410",
-    "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.62%",
-    "tokens": [
-      "average",
-      "close",
-      "dow",
-      "higher",
-      "industrial",
-      "jones",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789677737.7759018
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/riskified-cto-avi-shauli-sells-124800-of-company-stock-93CH-4906403",
-    "title": "Riskified CTO Avi Shauli sells $124,800 of company stock",
-    "tokens": [
-      "124",
-      "800",
-      "avi",
-      "company",
-      "cto",
-      "riskified",
-      "sells",
-      "shauli",
-      "stock"
-    ],
-    "ts": 1789677744.5534422
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/arcutis-biotherapeutics-director-welgus-sells-114k-in-shares-93CH-4906404",
     "title": "Arcutis Biotherapeutics director Welgus sells $114k in shares",
     "tokens": [
@@ -23511,5 +23395,136 @@
       "when"
     ],
     "ts": 1789861859.2031405
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pfizer-to-share-overseas-drug-revenue-with-hhs-under-pricing-deal-4908125",
+    "title": "Pfizer to share overseas drug revenue with HHS under pricing deal",
+    "tokens": [
+      "deal",
+      "drug",
+      "hhs",
+      "overseas",
+      "pfizer",
+      "pricing",
+      "revenue",
+      "share",
+      "under"
+    ],
+    "ts": 1789863331.621591
+  },
+  {
+    "id": "25-billion-reason-buy-coreweave-174856481.html",
+    "title": "A $25 Billion Reason to Buy CoreWeave Stock",
+    "tokens": [
+      "billion",
+      "buy",
+      "coreweave",
+      "reason",
+      "stock"
+    ],
+    "ts": 1789863339.0110395
+  },
+  {
+    "id": "visa-mastercard-1675-million-settlement-could-mean-money-for-atm-users-who-qualifies-174156944.html",
+    "title": "Visa, Mastercard $167.5 million settlement could mean money for ATM users. Who qualifies.",
+    "tokens": [
+      "167",
+      "atm",
+      "could",
+      "mastercard",
+      "mean",
+      "million",
+      "money",
+      "qualifies",
+      "settlement",
+      "users",
+      "visa",
+      "who"
+    ],
+    "ts": 1789863346.5274765
+  },
+  {
+    "id": "datavault-ai-stock-jumped-more-173755554.html",
+    "title": "Datavault AI Stock Jumped More Than 10% After a Tokenization Deal. What This Means for DVLT.",
+    "tokens": [
+      "datavault",
+      "deal",
+      "dvlt",
+      "jumped",
+      "means",
+      "more",
+      "stock",
+      "tokenization",
+      "what"
+    ],
+    "ts": 1789863353.6553829
+  },
+  {
+    "id": "macom-stock-bmo-upgrade-ai-chips-f0be4a1d?siteid=yhoof2&yptr=yahoo",
+    "title": "This Little-Known Chip Stock Has Doubled. Wall Street Is Getting Bullish.",
+    "tokens": [
+      "bullish",
+      "chip",
+      "doubled",
+      "getting",
+      "known",
+      "little",
+      "stock",
+      "street",
+      "wall"
+    ],
+    "ts": 1789863360.3933709
+  },
+  {
+    "id": "coinbase-seeks-approval-list-perpetual-173700089.html",
+    "title": "Coinbase Seeks Approval to List Perpetual Futures Tied to U.S. Stocks",
+    "tokens": [
+      "approval",
+      "coinbase",
+      "futures",
+      "list",
+      "perpetual",
+      "seeks",
+      "stocks",
+      "tied"
+    ],
+    "ts": 1789863367.5388846
+  },
+  {
+    "id": "fed-hike-jolts-gold-oil-175938582.html",
+    "title": "Fed Hike Jolts Gold Before Oil Retreat Fuels a Sharp Rebound",
+    "tokens": [
+      "before",
+      "fed",
+      "fuels",
+      "gold",
+      "hike",
+      "jolts",
+      "oil",
+      "rebound",
+      "retreat",
+      "sharp"
+    ],
+    "ts": 1789863374.8029377
+  },
+  {
+    "id": "warby-parker-unusual-options-activity-173002493.html",
+    "title": "Warby Parker’s Unusual Options Activity Points to a Covered Call Bet: Bullish on Growth, Cautious on Valuation",
+    "tokens": [
+      "activity",
+      "bet",
+      "bullish",
+      "call",
+      "cautious",
+      "covered",
+      "growth",
+      "options",
+      "parker",
+      "points",
+      "unusual",
+      "valuation",
+      "warby"
+    ],
+    "ts": 1789863382.1021729
   }
 ]

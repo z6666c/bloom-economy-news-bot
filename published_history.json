@@ -1,75 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005235209",
-    "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
-    "tokens": [
-      "anymore",
-      "brother",
-      "can",
-      "don",
-      "every",
-      "expects",
-      "food",
-      "his",
-      "how",
-      "husband",
-      "law",
-      "pay",
-      "tell",
-      "time",
-      "want"
-    ],
-    "ts": 1789705639.369615
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/moodys-raises-india-fy27-gdp-growth-forecast-to-7-on-middle-east-resilience-4906661",
-    "title": "Moody’s raises India fiscal 2027 GDP growth forecast to 7% on Middle East resilience",
-    "tokens": [
-      "2027",
-      "east",
-      "fiscal",
-      "forecast",
-      "gdp",
-      "growth",
-      "india",
-      "middle",
-      "moody",
-      "raises",
-      "resilience"
-    ],
-    "ts": 1789705647.0552347
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hyundai-motor-ceo-warns-of-chinese-vehicle-surge-in-the-us-without-guardrails-4906664",
-    "title": "Hyundai Motor CEO warns of Chinese vehicle surge in the US without guardrails",
-    "tokens": [
-      "ceo",
-      "chinese",
-      "guardrails",
-      "hyundai",
-      "motor",
-      "surge",
-      "vehicle",
-      "warns",
-      "without"
-    ],
-    "ts": 1789705654.246915
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-shenzhen-xunce-technology-stock-rising-today-93CH-4906663",
-    "title": "Why is Shenzhen Xunce Technology stock rising today?",
-    "tokens": [
-      "rising",
-      "shenzhen",
-      "stock",
-      "technology",
-      "today",
-      "why",
-      "xunce"
-    ],
-    "ts": 1789705661.4505856
-  },
-  {
     "id": "https://www.investing.com/news/forex-news/yuan-hits-4year-high-ahead-of-trumpxi-meeting-as-china-broadens-clearing-4906662",
     "title": "Yuan hits 4-year high ahead of Trump-Xi meeting as China broadens clearing",
     "tokens": [
@@ -23748,5 +23678,69 @@
       "wlfc"
     ],
     "ts": 1789939507.6493955
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4908195",
+    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+    "tokens": [
+      "close",
+      "index",
+      "lower",
+      "moex",
+      "russia",
+      "stocks",
+      "trade",
+      "unchanged"
+    ],
+    "ts": 1789940283.2891097
+  },
+  {
+    "id": "jersey-mike-jmke-owns-sub-211057214.html",
+    "title": "Jersey Mike’s (JMKE) Owns the Sub Business. Winning Over Younger Diners is the Next Fight",
+    "tokens": [
+      "business",
+      "diners",
+      "fight",
+      "jersey",
+      "jmke",
+      "mike",
+      "next",
+      "owns",
+      "sub",
+      "winning",
+      "younger"
+    ],
+    "ts": 1789940286.5333946
+  },
+  {
+    "id": "bally-baly-casino-building-spree-210836644.html",
+    "title": "Bally’s (BALY)’s Casino Building Spree Triggers a ‘Going Concern’ Warning",
+    "tokens": [
+      "bally",
+      "baly",
+      "building",
+      "casino",
+      "concern",
+      "going",
+      "spree",
+      "triggers",
+      "warning"
+    ],
+    "ts": 1789940293.8888721
+  },
+  {
+    "id": "mda-space-mda-bets-homegrown-210735201.html",
+    "title": "MDA Space (MDA) Bets on Homegrown Innovation with New LaunchPad Ventures Program",
+    "tokens": [
+      "bets",
+      "homegrown",
+      "innovation",
+      "launchpad",
+      "mda",
+      "program",
+      "space",
+      "ventures"
+    ],
+    "ts": 1789940300.7533438
   }
 ]

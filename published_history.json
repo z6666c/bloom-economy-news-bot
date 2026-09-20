@@ -1,92 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/reddit-ceo-steve-huffman-sells-277m-in-shares-after-option-exercise-93CH-4906546",
-    "title": "Reddit CEO Steve Huffman sells $2.77m in shares after option exercise",
-    "tokens": [
-      "77m",
-      "ceo",
-      "exercise",
-      "huffman",
-      "option",
-      "reddit",
-      "sells",
-      "shares",
-      "steve"
-    ],
-    "ts": 1789686569.6732755
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cotec-closes-121m-convertible-debenture-financing-93CH-4906545",
-    "title": "CoTec closes $12.1M convertible debenture financing",
-    "tokens": [
-      "closes",
-      "convertible",
-      "cotec",
-      "debenture",
-      "financing"
-    ],
-    "ts": 1789686576.33524
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/indie-semiconductor-ceo-sells-155460-of-class-a-shares-93CH-4906544",
-    "title": "Indie Semiconductor CEO sells $155,460 of Class A shares",
-    "tokens": [
-      "155",
-      "460",
-      "ceo",
-      "class",
-      "indie",
-      "sells",
-      "semiconductor",
-      "shares"
-    ],
-    "ts": 1789686583.479441
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/perdoceo-education-president--ceo-todd-nelson-sells-152m-in-shares-93CH-4906543",
-    "title": "Perdoceo Education president & CEO Todd Nelson sells $1.52m in shares",
-    "tokens": [
-      "52m",
-      "ceo",
-      "education",
-      "nelson",
-      "perdoceo",
-      "president",
-      "sells",
-      "shares",
-      "todd"
-    ],
-    "ts": 1789686590.7885888
-  },
-  {
-    "id": "weakness-opportunity-long-term-asml-152400381.html",
-    "title": "Weakness Is an Opportunity for Long-Term ASML Stock Investors",
-    "tokens": [
-      "asml",
-      "investors",
-      "long",
-      "opportunity",
-      "stock",
-      "term",
-      "weakness"
-    ],
-    "ts": 1789686598.0842
-  },
-  {
-    "id": "stocks-hold-gains-fed-hikes-151838478.html",
-    "title": "Stocks Hold Gains After Fed Hikes Key Rate",
-    "tokens": [
-      "fed",
-      "gains",
-      "hikes",
-      "hold",
-      "key",
-      "rate",
-      "stocks"
-    ],
-    "ts": 1789686606.3068478
-  },
-  {
     "id": "intel-stock-investors-pay-attention-152614539.html",
     "title": "Intel Stock Investors Should Pay Attention to This Potential SK Hynix Deal",
     "tokens": [
@@ -23554,5 +23467,117 @@
       "rout"
     ],
     "ts": 1789900743.7284243
+  },
+  {
+    "id": "americans-ready-retirement-most-aren-100000604.html",
+    "title": "Americans say they’re ready for retirement — but most aren’t actually prepared. How to know which camp you belong to",
+    "tokens": [
+      "actually",
+      "americans",
+      "aren",
+      "belong",
+      "camp",
+      "how",
+      "know",
+      "most",
+      "prepared",
+      "ready",
+      "retirement",
+      "say",
+      "they",
+      "which",
+      "you"
+    ],
+    "ts": 1789902596.0051832
+  },
+  {
+    "id": "best-cd-rates-today-saturday-september-19-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000984.html",
+    "title": "Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD",
+    "tokens": [
+      "2026",
+      "apy",
+      "best",
+      "lock",
+      "rates",
+      "saturday",
+      "september",
+      "today",
+      "year"
+    ],
+    "ts": 1789902602.862099
+  },
+  {
+    "id": "mortgage-and-refinance-interest-rates-today-saturday-september-19-2026-mortgage-rates-move-lower-to-start-the-weekend-100000254.html",
+    "title": "Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend",
+    "tokens": [
+      "2026",
+      "interest",
+      "lower",
+      "mortgage",
+      "move",
+      "rates",
+      "refinance",
+      "saturday",
+      "september",
+      "start",
+      "today",
+      "weekend"
+    ],
+    "ts": 1789902611.04603
+  },
+  {
+    "id": "wheaton-wpm-profits-nearly-doubled-102712259.html",
+    "title": "Wheaton’s (WPM) Profits Nearly Doubled While Its Cash Pile Shrank To $100M",
+    "tokens": [
+      "100m",
+      "cash",
+      "doubled",
+      "nearly",
+      "pile",
+      "profits",
+      "shrank",
+      "wheaton",
+      "while",
+      "wpm"
+    ],
+    "ts": 1789902618.689797
+  },
+  {
+    "id": "americans-lose-2-400-ghost-103000327.html",
+    "title": "Americans lose up to $2,400 a year to 'ghost charges' — 4 steps to find every phantom drain and redirect the cash",
+    "tokens": [
+      "400",
+      "americans",
+      "cash",
+      "charges",
+      "drain",
+      "every",
+      "find",
+      "ghost",
+      "lose",
+      "phantom",
+      "redirect",
+      "steps",
+      "year"
+    ],
+    "ts": 1789902626.7703426
+  },
+  {
+    "id": "digital-realty-dlr-data-center-103118086.html",
+    "title": "Digital Realty (DLR): Can a Data Center Landlord Become the Control Panel for Enterprise AI?",
+    "tokens": [
+      "become",
+      "can",
+      "center",
+      "control",
+      "data",
+      "digital",
+      "dlr",
+      "enterprise",
+      "landlord",
+      "panel",
+      "realty"
+    ],
+    "ts": 1789902634.5745835
   }
 ]

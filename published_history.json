@@ -1,17 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-climbing-today-93CH-4906637",
-    "title": "Why is SoftBank stock climbing today?",
-    "tokens": [
-      "climbing",
-      "softbank",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789701057.40755
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/travere-therapeutics-svp-sells-335k-in-stock-93CH-4906636",
     "title": "Travere Therapeutics SVP sells $335k in stock",
     "tokens": [
@@ -23690,5 +23678,19 @@
       "you"
     ],
     "ts": 1789925057.1566556
+  },
+  {
+    "id": "seven-standoff-over-venezuelan-gold-170700066.html",
+    "title": "A seven-year standoff over Venezuelan gold nears its end",
+    "tokens": [
+      "end",
+      "gold",
+      "nears",
+      "seven",
+      "standoff",
+      "venezuelan",
+      "year"
+    ],
+    "ts": 1789925869.904158
   }
 ]

@@ -1,54 +1,5 @@
 [
   {
-    "id": "spacex-rises-5-starship-first-143618850.html",
-    "title": "SpaceX Rises 5% as Starship’s First Orbital Attempt Gets Launch Date; Rocket Lab and AST SpaceMobile Hold Steady",
-    "tokens": [
-      "ast",
-      "attempt",
-      "date",
-      "first",
-      "gets",
-      "hold",
-      "lab",
-      "launch",
-      "orbital",
-      "rises",
-      "rocket",
-      "spacemobile",
-      "spacex",
-      "starship",
-      "steady"
-    ],
-    "ts": 1789683905.3297484
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/theravance-biopharma-svp-rhonda-farnum-sells-226k-in-stock-93CH-4906537",
-    "title": "Theravance Biopharma SVP Rhonda Farnum sells $226k in stock",
-    "tokens": [
-      "226k",
-      "biopharma",
-      "farnum",
-      "rhonda",
-      "sells",
-      "stock",
-      "svp",
-      "theravance"
-    ],
-    "ts": 1789684617.5634937
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/sl-spv2-lp-sells-259m-in-dell-technologies-stock-93CH-4906536",
-    "title": "Sl spv-2, l.p. sells $25.9m in Dell Technologies stock",
-    "tokens": [
-      "dell",
-      "sells",
-      "spv",
-      "stock",
-      "technologies"
-    ],
-    "ts": 1789684625.9213736
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/swarmer-director-justin-zeefes-fund-sells-576194-in-stock-93CH-4906535",
     "title": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock",
     "tokens": [
@@ -23552,5 +23503,60 @@
       "why"
     ],
     "ts": 1789889960.7080903
+  },
+  {
+    "id": "jim-cramer-shared-crowdstrike-holdings-232242655.html",
+    "title": "Jim Cramer Shared What CrowdStrike Holdings, Inc. (NASDAQ:CRWD)’s CEO Told Him About AI “Doomsaying”",
+    "tokens": [
+      "about",
+      "ceo",
+      "cramer",
+      "crowdstrike",
+      "crwd",
+      "doomsaying",
+      "him",
+      "holdings",
+      "inc",
+      "jim",
+      "nasdaq",
+      "shared",
+      "told",
+      "what"
+    ],
+    "ts": 1789890676.5062459
+  },
+  {
+    "id": "jim-cramer-revealed-ge-vernova-232155534.html",
+    "title": "Jim Cramer Revealed GE Vernova Inc. (NYSE:GEV)’s Saying There’s An Order Acceleration",
+    "tokens": [
+      "acceleration",
+      "cramer",
+      "gev",
+      "inc",
+      "jim",
+      "nyse",
+      "order",
+      "revealed",
+      "saying",
+      "there",
+      "vernova"
+    ],
+    "ts": 1789890683.5103066
+  },
+  {
+    "id": "jim-cramer-said-ai-firm-232154601.html",
+    "title": "Jim Cramer Said This AI Firm Has More Orders Than “Almost Anybody” Other Than NVIDIA",
+    "tokens": [
+      "almost",
+      "anybody",
+      "cramer",
+      "firm",
+      "jim",
+      "more",
+      "nvidia",
+      "orders",
+      "other"
+    ],
+    "ts": 1789890690.2769704
   }
 ]

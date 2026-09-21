@@ -1,241 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-viant-technology-stock-surging-today-93CH-4907425",
-    "title": "Why is Viant Technology stock surging today?",
-    "tokens": [
-      "stock",
-      "surging",
-      "technology",
-      "today",
-      "viant",
-      "why"
-    ],
-    "ts": 1789737073.8135467
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sos-limited-signs-nonbinding-memo-for-indonesia-data-center-93CH-4907423",
-    "title": "SOS Limited signs non-binding memo for Indonesia data center",
-    "tokens": [
-      "binding",
-      "center",
-      "data",
-      "indonesia",
-      "limited",
-      "memo",
-      "non",
-      "signs",
-      "sos"
-    ],
-    "ts": 1789737080.043506
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-virbac-h1-2026-sales-rise-74-shares-slip-93CH-4907422",
-    "title": "Earnings call transcript: Virbac H1 2026 sales rise 7.4%, shares slip",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "rise",
-      "sales",
-      "shares",
-      "slip",
-      "transcript",
-      "virbac"
-    ],
-    "ts": 1789737090.1498914
-  },
-  {
-    "id": "intel-stock-jumps-sk-hynix-010300931.html",
-    "title": "Intel stock jumps as SK Hynix weighs U.S. memory-chip deal",
-    "tokens": [
-      "chip",
-      "deal",
-      "hynix",
-      "intel",
-      "jumps",
-      "memory",
-      "stock",
-      "weighs"
-    ],
-    "ts": 1789737100.2165565
-  },
-  {
-    "id": "why-did-axon-stock-fall-010732169.html",
-    "title": "Why Did Axon Stock Fall Ten Percent On A Convertible That Pays No Interest?",
-    "tokens": [
-      "axon",
-      "convertible",
-      "did",
-      "fall",
-      "interest",
-      "pays",
-      "percent",
-      "stock",
-      "ten",
-      "why"
-    ],
-    "ts": 1789737109.5271628
-  },
-  {
-    "id": "hudson-pacific-hpp-extends-1-041136836.html",
-    "title": "Hudson Pacific (HPP) Extends $1.1B Hollywood Loan. Can Leasing Improve?",
-    "tokens": [
-      "can",
-      "extends",
-      "hollywood",
-      "hpp",
-      "hudson",
-      "improve",
-      "leasing",
-      "loan",
-      "pacific"
-    ],
-    "ts": 1789737123.1413245
-  },
-  {
-    "id": "redwood-trust-rwt-prices-185m-041638826.html",
-    "title": "Redwood Trust (RWT) Prices $185M of Convertibles. Does Maturity Relief Justify Higher Interest?",
-    "tokens": [
-      "185m",
-      "convertibles",
-      "does",
-      "higher",
-      "interest",
-      "justify",
-      "maturity",
-      "prices",
-      "redwood",
-      "relief",
-      "rwt",
-      "trust"
-    ],
-    "ts": 1789737132.9509702
-  },
-  {
-    "id": "54a28713-7f5e-4975-bb47-42f52bcd5623",
-    "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
-    "tokens": [
-      "american",
-      "dhs",
-      "policing",
-      "predictive",
-      "should",
-      "stopped",
-      "unconstitutional"
-    ],
-    "ts": 1789737144.1788347
-  },
-  {
-    "id": "a4a12840-34de-450d-beb6-87365e137fa2",
-    "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
-    "tokens": [
-      "binance",
-      "block",
-      "christine",
-      "ecb",
-      "intervened",
-      "lagarde",
-      "license",
-      "mica",
-      "president",
-      "wsj"
-    ],
-    "ts": 1789737152.8024352
-  },
-  {
-    "id": "coeur-mining-generating-record-cash-012024527.html",
-    "title": "Coeur Mining Is Generating Record Cash, So Why Does Its Dip History Warn Buyers?",
-    "tokens": [
-      "buyers",
-      "cash",
-      "coeur",
-      "dip",
-      "does",
-      "generating",
-      "history",
-      "mining",
-      "record",
-      "warn",
-      "why"
-    ],
-    "ts": 1789738013.9955242
-  },
-  {
-    "id": "vaxcyte-pcvx-brings-pharma-veterans-042014144.html",
-    "title": "Vaxcyte (PCVX) Brings In Pharma Veterans As Its Big Test Nears",
-    "tokens": [
-      "big",
-      "brings",
-      "nears",
-      "pcvx",
-      "pharma",
-      "test",
-      "vaxcyte",
-      "veterans"
-    ],
-    "ts": 1789738023.9095821
-  },
-  {
-    "id": "kevin-warsh-undersells-real-reason-011925150.html",
-    "title": "Kevin Warsh barely touched on the real reason why the Fed raised rates",
-    "tokens": [
-      "barely",
-      "fed",
-      "kevin",
-      "raised",
-      "rates",
-      "real",
-      "reason",
-      "touched",
-      "warsh",
-      "why"
-    ],
-    "ts": 1789738033.3304138
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/freight-technologies-launches-ai-powered-proof-of-delivery-validation-1036556767",
-    "title": "Freight Technologies Launches AI-Powered Proof-of-Delivery Validation",
-    "tokens": [
-      "delivery",
-      "freight",
-      "launches",
-      "powered",
-      "proof",
-      "technologies",
-      "validation"
-    ],
-    "ts": 1789738042.0287478
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/lincoln-tech-s-workforcelinc-division-expands-collaboration-with-cmc-1036556768",
-    "title": "Lincoln Tech’s WorkforceLinc Division Expands Collaboration with  CMC",
-    "tokens": [
-      "cmc",
-      "collaboration",
-      "division",
-      "expands",
-      "lincoln",
-      "tech",
-      "workforcelinc"
-    ],
-    "ts": 1789738053.1110117
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/toro-corp-announces-the-acquisitions-and-deliveries-of-two-tanker-vessels-1036556770",
-    "title": "Toro Corp. Announces the Acquisitions and Deliveries of Two Tanker Vessels",
-    "tokens": [
-      "acquisitions",
-      "announces",
-      "corp",
-      "deliveries",
-      "tanker",
-      "toro",
-      "two",
-      "vessels"
-    ],
-    "ts": 1789738063.3469348
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/former-united-kingdom-prime-minister-liz-truss-joins-roundtable-board-of-directors-to-lead-european-press-coalition-1036556769",
     "title": "Former United Kingdom Prime Minister Liz Truss Joins Roundtable Board of Directors, to Lead European Press Coalition",
     "tokens": [
@@ -23858,5 +23622,219 @@
       "strc"
     ],
     "ts": 1789996347.4320073
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/amazon-to-invest-19-billion-in-delivery-partner-program-93CH-4909177",
+    "title": "Amazon to invest $1.9 billion in delivery partner program",
+    "tokens": [
+      "amazon",
+      "billion",
+      "delivery",
+      "invest",
+      "partner",
+      "program"
+    ],
+    "ts": 1789997203.3975008
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/lion-group-reaffirms-holding-of-195000-hyperliquid-tokens-93CH-4909175",
+    "title": "Lion Group reaffirms holding of 195,000 Hyperliquid tokens",
+    "tokens": [
+      "000",
+      "195",
+      "group",
+      "holding",
+      "hyperliquid",
+      "lion",
+      "reaffirms",
+      "tokens"
+    ],
+    "ts": 1789997211.5143926
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/globalstar-completes-ground-station-expansion-in-greece-93CH-4909176",
+    "title": "Globalstar completes ground station expansion in Greece",
+    "tokens": [
+      "completes",
+      "expansion",
+      "globalstar",
+      "greece",
+      "ground",
+      "station"
+    ],
+    "ts": 1789997219.4515445
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tempus-extends-recursion-data-partnership-through-2029-93CH-4909174",
+    "title": "Tempus extends Recursion data partnership through 2029",
+    "tokens": [
+      "2029",
+      "data",
+      "extends",
+      "partnership",
+      "recursion",
+      "tempus",
+      "through"
+    ],
+    "ts": 1789997228.0646625
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/diana-shipping-secures-charter-for-ultramax-vessel-at-18000day-93CH-4909169",
+    "title": "Diana Shipping secures charter for Ultramax vessel at $18,000/day",
+    "tokens": [
+      "000",
+      "charter",
+      "day",
+      "diana",
+      "secures",
+      "shipping",
+      "ultramax",
+      "vessel"
+    ],
+    "ts": 1789997235.367029
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nordnet-shares-jump-6-after-launch-of-sek-250-mln-share-buyback-93CH-4909168",
+    "title": "Nordnet shares jump 6% after launch of SEK 250 mln share buyback",
+    "tokens": [
+      "250",
+      "buyback",
+      "jump",
+      "launch",
+      "mln",
+      "nordnet",
+      "sek",
+      "share",
+      "shares"
+    ],
+    "ts": 1789997243.945888
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sp-global-downgrades-telus-outlook-on-higher-leverage-93CH-4909160",
+    "title": "S&P Global downgrades Telus outlook on higher leverage",
+    "tokens": [
+      "downgrades",
+      "global",
+      "higher",
+      "leverage",
+      "outlook",
+      "telus"
+    ],
+    "ts": 1789997251.8877614
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/major-us-airline-and-cruise-stocks-rise-as-oil-prices-drop-93CH-4909159",
+    "title": "Major US airline and cruise stocks rise as oil prices drop",
+    "tokens": [
+      "airline",
+      "cruise",
+      "drop",
+      "major",
+      "oil",
+      "prices",
+      "rise",
+      "stocks"
+    ],
+    "ts": 1789997262.2442374
+  },
+  {
+    "id": "aggressive-store-additions-challenge-black-132106435.html",
+    "title": "Aggressive Store Additions Challenge Black Rock Coffee Bar’s (BRCB) Long-Term Expansion Thesis",
+    "tokens": [
+      "additions",
+      "aggressive",
+      "bar",
+      "black",
+      "brcb",
+      "challenge",
+      "coffee",
+      "expansion",
+      "long",
+      "rock",
+      "store",
+      "term",
+      "thesis"
+    ],
+    "ts": 1789997272.4774482
+  },
+  {
+    "id": "clorox-vs-kimberly-clark-household-131924678.html",
+    "title": "Clorox vs. Kimberly-Clark: Which Household Staples Dividend Is Safer",
+    "tokens": [
+      "clark",
+      "clorox",
+      "dividend",
+      "household",
+      "kimberly",
+      "safer",
+      "staples",
+      "which"
+    ],
+    "ts": 1789997283.3911083
+  },
+  {
+    "id": "short-seller-reports-drag-ensign-131917317.html",
+    "title": "Short Seller Reports Drag Ensign Group (ENSG) Down",
+    "tokens": [
+      "drag",
+      "ensg",
+      "ensign",
+      "group",
+      "reports",
+      "seller",
+      "short"
+    ],
+    "ts": 1789997292.0295684
+  },
+  {
+    "id": "bullish-fastly-fsly-131746101.html",
+    "title": "Should You Be Bullish on Fastly (FSLY)?",
+    "tokens": [
+      "bullish",
+      "fastly",
+      "fsly",
+      "should",
+      "you"
+    ],
+    "ts": 1789997300.3355114
+  },
+  {
+    "id": "below-expected-earnings-pressured-shake-131531191.html",
+    "title": "Below-Expected Earnings Pressured Shake Shack (SHAK) in Q2",
+    "tokens": [
+      "below",
+      "earnings",
+      "expected",
+      "pressured",
+      "shack",
+      "shak",
+      "shake"
+    ],
+    "ts": 1789997309.5197313
+  },
+  {
+    "id": "the-resilient-stock-market-is-flashing-warning-signs-130213993.html",
+    "title": "The resilient stock market is flashing warning signs",
+    "tokens": [
+      "flashing",
+      "market",
+      "resilient",
+      "signs",
+      "stock",
+      "warning"
+    ],
+    "ts": 1789997317.754207
+  },
+  {
+    "id": "billiontoone-svp-sells-1-416-131601502.html",
+    "title": "BillionToOne SVP Sells 1,416 Shares",
+    "tokens": [
+      "416",
+      "billiontoone",
+      "sells",
+      "shares",
+      "svp"
+    ],
+    "ts": 1789997326.3449192
   }
 ]

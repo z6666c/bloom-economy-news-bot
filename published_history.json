@@ -1,44 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-on-hormuz-crisis-despite-retail-sales-beat-4906757",
-    "title": "FTSE 100 today: Stocks drop as Hormuz tanker hit, Aramco cuts Europe supply",
-    "tokens": [
-      "100",
-      "aramco",
-      "cuts",
-      "drop",
-      "europe",
-      "ftse",
-      "hit",
-      "hormuz",
-      "stocks",
-      "supply",
-      "tanker",
-      "today"
-    ],
-    "ts": 1789749687.8803806
-  },
-  {
-    "id": "cftc-just-sent-crypto-rules-162414716.html",
-    "title": "The CFTC Just Sent Its Crypto Rules to the White House. What’s in the Filing, and How Quickly Could It Move?",
-    "tokens": [
-      "cftc",
-      "could",
-      "crypto",
-      "filing",
-      "house",
-      "how",
-      "just",
-      "move",
-      "quickly",
-      "rules",
-      "sent",
-      "what",
-      "white"
-    ],
-    "ts": 1789749697.3101165
-  },
-  {
     "id": "jim-cramer-says-wait-corning-162201204.html",
     "title": "Jim Cramer Says to Wait For Corning (GLW) to Fall Further",
     "tokens": [
@@ -23904,5 +23865,39 @@
       "third"
     ],
     "ts": 1790009139.6826434
+  },
+  {
+    "id": "cbp-importer-crackdown-puts-thousands-161317046.html",
+    "title": "CBP importer crackdown puts thousands of cross-border freight shipments at risk",
+    "tokens": [
+      "border",
+      "cbp",
+      "crackdown",
+      "cross",
+      "freight",
+      "importer",
+      "puts",
+      "risk",
+      "shipments",
+      "thousands"
+    ],
+    "ts": 1790009734.414979
+  },
+  {
+    "id": "old-dominion-pulls-forward-4-155854438.html",
+    "title": "Old Dominion pulls forward 4.9% GRI as LTL carriers accelerate rate hikes",
+    "tokens": [
+      "accelerate",
+      "carriers",
+      "dominion",
+      "forward",
+      "gri",
+      "hikes",
+      "ltl",
+      "old",
+      "pulls",
+      "rate"
+    ],
+    "ts": 1790009742.4618843
   }
 ]

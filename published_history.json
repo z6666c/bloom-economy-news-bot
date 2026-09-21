@@ -1,171 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-evommune-stock-rating-at-overweight-93CH-4907181",
-    "title": "Cantor Fitzgerald reiterates Evommune stock rating at Overweight",
-    "tokens": [
-      "cantor",
-      "evommune",
-      "fitzgerald",
-      "overweight",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1789733636.8850994
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-orange-stock-sliding-today-93CH-4907180",
-    "title": "Why is Orange stock sliding today?",
-    "tokens": [
-      "orange",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789733640.9010406
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/goldman-upgrades-renk-to-buy-sees-62-upside-on-defense-growth-outlook-4907179",
-    "title": "Goldman upgrades Renk to “buy,” sees 62% upside on defense growth outlook",
-    "tokens": [
-      "buy",
-      "defense",
-      "goldman",
-      "growth",
-      "outlook",
-      "renk",
-      "sees",
-      "upgrades",
-      "upside"
-    ],
-    "ts": 1789733646.6177542
-  },
-  {
-    "id": "southwest-airlines-sees-strong-demand-000203398.html",
-    "title": "Southwest Airlines Sees Strong Demand as Initiatives Target Billions in EBIT",
-    "tokens": [
-      "airlines",
-      "billions",
-      "demand",
-      "ebit",
-      "initiatives",
-      "sees",
-      "southwest",
-      "strong",
-      "target"
-    ],
-    "ts": 1789733655.4169805
-  },
-  {
-    "id": "ge-vernova-vineyard-wind-settle-024435837.html",
-    "title": "GE Vernova and Vineyard Wind Settle $300M-Plus Offshore Wind Dispute",
-    "tokens": [
-      "300m",
-      "dispute",
-      "offshore",
-      "plus",
-      "settle",
-      "vernova",
-      "vineyard",
-      "wind"
-    ],
-    "ts": 1789733663.6233056
-  },
-  {
-    "id": "chipotle-stock-looks-expensive-until-000122182.html",
-    "title": "Chipotle Stock Looks Expensive Until You Price The New Restaurants",
-    "tokens": [
-      "chipotle",
-      "expensive",
-      "looks",
-      "price",
-      "restaurants",
-      "stock",
-      "until",
-      "you"
-    ],
-    "ts": 1789733671.4126313
-  },
-  {
-    "id": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending",
-    "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
-    "tokens": [
-      "above",
-      "borrowing",
-      "hits",
-      "hype",
-      "hyperliquid",
-      "launches",
-      "manual",
-      "record"
-    ],
-    "ts": 1789733680.6524546
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/has-longterm-dollar-strength-arrived-standard-chartered-weighs-in-4907250",
-    "title": "Has long-term dollar strength arrived? Standard Chartered weighs in.",
-    "tokens": [
-      "arrived",
-      "chartered",
-      "dollar",
-      "long",
-      "standard",
-      "strength",
-      "term",
-      "weighs"
-    ],
-    "ts": 1789734831.5529895
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/truist-financial-president--ceo-michael-lyons-buys-1m-in-stock-93CH-4907249",
-    "title": "Truist Financial president & CEO Michael Lyons buys $1m in stock",
-    "tokens": [
-      "buys",
-      "ceo",
-      "financial",
-      "lyons",
-      "michael",
-      "president",
-      "stock",
-      "truist"
-    ],
-    "ts": 1789734840.0169945
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/can-global-equities-keep-rising-ubs-sees-these-factors-driving-upside-4907230",
-    "title": "Can global equities keep rising? UBS sees these factors driving upside",
-    "tokens": [
-      "can",
-      "driving",
-      "equities",
-      "factors",
-      "global",
-      "keep",
-      "rising",
-      "sees",
-      "these",
-      "ubs",
-      "upside"
-    ],
-    "ts": 1789734848.0966594
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/joby-aircraft-completes-first-autonomous-crosscountry-us-flight-93CH-4907227",
-    "title": "Joby aircraft completes first autonomous cross-country US flight",
-    "tokens": [
-      "aircraft",
-      "autonomous",
-      "completes",
-      "country",
-      "cross",
-      "first",
-      "flight",
-      "joby"
-    ],
-    "ts": 1789734859.9558964
-  },
-  {
     "id": "https://www.investing.com/news/company-news/philip-morris-raises-quarterly-dividend-88-to-160-per-share-93CH-4907226",
     "title": "Philip Morris raises quarterly dividend 8.8% to $1.60 per share",
     "tokens": [
@@ -23848,5 +23682,166 @@
       "september"
     ],
     "ts": 1789991873.6452277
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/american-resources-emco-unit-to-acquire-blackion-for-132m-93CH-4908958",
+    "title": "American Resources’ EMCO unit to acquire Blackion for $13.2m",
+    "tokens": [
+      "acquire",
+      "american",
+      "blackion",
+      "emco",
+      "resources",
+      "unit"
+    ],
+    "ts": 1789992781.430146
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/national-cinemedia-completes-captivate-acquisition-for-275m-93CH-4908956",
+    "title": "National CineMedia completes Captivate acquisition for $275m",
+    "tokens": [
+      "275m",
+      "acquisition",
+      "captivate",
+      "cinemedia",
+      "completes",
+      "national"
+    ],
+    "ts": 1789992789.7991445
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/innventure-cuts-parent-costs-56-names-new-cfo-and-director-93CH-4908957",
+    "title": "Innventure cuts parent costs 56%, names new CFO and director",
+    "tokens": [
+      "cfo",
+      "costs",
+      "cuts",
+      "director",
+      "innventure",
+      "names",
+      "parent"
+    ],
+    "ts": 1789992798.909853
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/fastly-launches-ai-security-and-control-tools-for-enterprises-93CH-4908954",
+    "title": "Fastly launches AI security and control tools for enterprises",
+    "tokens": [
+      "control",
+      "enterprises",
+      "fastly",
+      "launches",
+      "security",
+      "tools"
+    ],
+    "ts": 1789992807.0315142
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/kodiak-ai-partners-with-prepass-for-autonomous-truck-inspections-93CH-4908955",
+    "title": "Kodiak AI partners with PrePass for autonomous truck inspections",
+    "tokens": [
+      "autonomous",
+      "inspections",
+      "kodiak",
+      "partners",
+      "prepass",
+      "truck"
+    ],
+    "ts": 1789992816.1912467
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/enphase-meter-collar-gains-approval-from-80-us-canada-utilities-93CH-4908951",
+    "title": "Enphase meter collar gains approval from 80 US, Canada utilities",
+    "tokens": [
+      "approval",
+      "canada",
+      "collar",
+      "enphase",
+      "gains",
+      "meter",
+      "utilities"
+    ],
+    "ts": 1789992824.3289008
+  },
+  {
+    "id": "high-earners-cannot-contribute-roth-120058136.html",
+    "title": "High Earners Cannot Contribute to a Roth IRA Directly. Here’s the Legal Workaround",
+    "tokens": [
+      "cannot",
+      "contribute",
+      "directly",
+      "earners",
+      "here",
+      "high",
+      "ira",
+      "legal",
+      "roth",
+      "workaround"
+    ],
+    "ts": 1789992832.7218883
+  },
+  {
+    "id": "four-launches-100-rocket-lab-115117949.html",
+    "title": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
+    "tokens": [
+      "100",
+      "along",
+      "bullish",
+      "call",
+      "four",
+      "gets",
+      "iridium",
+      "lab",
+      "launches",
+      "mynaric",
+      "ride",
+      "rocket"
+    ],
+    "ts": 1789992839.770653
+  },
+  {
+    "id": "legend-launches-sale-banque-internationale-120035482.html",
+    "title": "Legend launches sale of Banque Internationale à Luxembourg – report",
+    "tokens": [
+      "banque",
+      "internationale",
+      "launches",
+      "legend",
+      "luxembourg",
+      "report",
+      "sale"
+    ],
+    "ts": 1789992847.231079
+  },
+  {
+    "id": "boeing-lockheed-martin-both-cash-114654499.html",
+    "title": "Boeing and Lockheed Martin Both Cash In on the Pentagon’s Contract Calendar",
+    "tokens": [
+      "boeing",
+      "both",
+      "calendar",
+      "cash",
+      "contract",
+      "lockheed",
+      "martin",
+      "pentagon"
+    ],
+    "ts": 1789992855.6132243
+  },
+  {
+    "id": "a68c0429-679c-4e28-b5c4-697b656aea09",
+    "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
+    "tokens": [
+      "adding",
+      "bitcoin",
+      "btc",
+      "buys",
+      "last",
+      "million",
+      "returns",
+      "strategy",
+      "week"
+    ],
+    "ts": 1789992866.1299443
   }
 ]

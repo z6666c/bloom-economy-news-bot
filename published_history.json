@@ -1,77 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/philip-morris-raises-quarterly-dividend-88-to-160-per-share-93CH-4907226",
-    "title": "Philip Morris raises quarterly dividend 8.8% to $1.60 per share",
-    "tokens": [
-      "dividend",
-      "morris",
-      "per",
-      "philip",
-      "quarterly",
-      "raises",
-      "share"
-    ],
-    "ts": 1789734869.3732655
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/repositrak-declares-quarterly-dividend-of-002-per-share-93CH-4907225",
-    "title": "ReposiTrak declares quarterly dividend of $0.02 per share",
-    "tokens": [
-      "declares",
-      "dividend",
-      "per",
-      "quarterly",
-      "repositrak",
-      "share"
-    ],
-    "ts": 1789734878.2103212
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/air-india-ceo-explores-merger-of-budget-unit-to-cut-costs--report-93CH-4907224",
-    "title": "Air India CEO explores merger of budget unit to cut costs - report",
-    "tokens": [
-      "air",
-      "budget",
-      "ceo",
-      "costs",
-      "cut",
-      "explores",
-      "india",
-      "merger",
-      "report",
-      "unit"
-    ],
-    "ts": 1789734886.239161
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/better-founder-nominates-three-directors-in-proxy-fight-93CH-4907221",
-    "title": "Better founder nominates three directors in proxy fight",
-    "tokens": [
-      "better",
-      "directors",
-      "fight",
-      "founder",
-      "nominates",
-      "proxy",
-      "three"
-    ],
-    "ts": 1789734894.5887365
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pmgc-converts-elevai-skincare-royalty-into-payment-plan-93CH-4907219",
-    "title": "PMGC converts Elevai Skincare royalty into payment plan",
-    "tokens": [
-      "converts",
-      "elevai",
-      "payment",
-      "plan",
-      "pmgc",
-      "royalty",
-      "skincare"
-    ],
-    "ts": 1789734902.2092
-  },
-  {
     "id": "ispire-ispr-q4-2026-earnings-002733215.html",
     "title": "Ispire (ISPR) Q4 2026 Earnings Call Transcript",
     "tokens": [
@@ -23843,5 +23771,90 @@
       "week"
     ],
     "ts": 1789992866.1299443
+  },
+  {
+    "id": "worried-hugging-face-microsoft-amazon-121222004.html",
+    "title": "Worried About Hugging Face? Microsoft and Amazon Got Exposed Most Among Hyperscalers",
+    "tokens": [
+      "about",
+      "amazon",
+      "among",
+      "exposed",
+      "face",
+      "got",
+      "hugging",
+      "hyperscalers",
+      "microsoft",
+      "most",
+      "worried"
+    ],
+    "ts": 1789993950.3047078
+  },
+  {
+    "id": "kevin-oleary-sold-software-company-115500725.html",
+    "title": "Kevin O'Leary sold his software company for $4.2 billion, so why did he only walk away with about $11 million?",
+    "tokens": [
+      "about",
+      "away",
+      "billion",
+      "company",
+      "did",
+      "his",
+      "kevin",
+      "leary",
+      "million",
+      "only",
+      "software",
+      "sold",
+      "walk",
+      "why"
+    ],
+    "ts": 1789993960.8459005
+  },
+  {
+    "id": "supertanker-shortage-sends-oil-shipping-120626653.html",
+    "title": "Supertanker shortage sends oil shipping rates to records",
+    "tokens": [
+      "oil",
+      "rates",
+      "records",
+      "sends",
+      "shipping",
+      "shortage",
+      "supertanker"
+    ],
+    "ts": 1789993969.1281655
+  },
+  {
+    "id": "oilprice-news-45552",
+    "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
+    "tokens": [
+      "bet",
+      "diplomacy",
+      "iran",
+      "oil",
+      "prices",
+      "slide",
+      "traders"
+    ],
+    "ts": 1789993973.7794638
+  },
+  {
+    "id": "2f8a9cfd-43ba-43e8-887a-f868559fa0eb",
+    "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
+    "tokens": [
+      "apple",
+      "big",
+      "crypto",
+      "eyes",
+      "google",
+      "rails",
+      "seek",
+      "stablecoin",
+      "talent",
+      "tech",
+      "tokenization"
+    ],
+    "ts": 1789993978.737115
   }
 ]

@@ -1,47 +1,5 @@
 [
   {
-    "id": "fed-raises-interest-rates-for-the-first-time-in-more-than-3-years-9NUwRukBbTLUQsmSQEPW?siteid=yhoof2&yptr=yahoo",
-    "title": "Fed Raises Interest Rates for the First Time in More Than 3 Years",
-    "tokens": [
-      "fed",
-      "first",
-      "interest",
-      "more",
-      "raises",
-      "rates",
-      "time",
-      "years"
-    ],
-    "ts": 1789710720.746955
-  },
-  {
-    "id": "federal-reserve-loan-rates-190719060.html",
-    "title": "How the Federal Reserve rate hike shapes consumer loans",
-    "tokens": [
-      "consumer",
-      "federal",
-      "hike",
-      "how",
-      "loans",
-      "rate",
-      "reserve",
-      "shapes"
-    ],
-    "ts": 1789710727.8734553
-  },
-  {
-    "id": "why-time-load-nvidia-stock-183025364.html",
-    "title": "Why It’s Time to Load Up on Nvidia Stock",
-    "tokens": [
-      "load",
-      "nvidia",
-      "stock",
-      "time",
-      "why"
-    ],
-    "ts": 1789710736.7547555
-  },
-  {
     "id": "fec19120-9745-457a-bfb5-31f97220e444",
     "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
     "tokens": [
@@ -23775,5 +23733,54 @@
       "without"
     ],
     "ts": 1789953080.5012252
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sk-hynix-squeezed-below-1911000-resistance-live-levels-93CH-4908215",
+    "title": "SK Hynix squeezed below ₩1,911,000 resistance: Live levels",
+    "tokens": [
+      "000",
+      "911",
+      "below",
+      "hynix",
+      "levels",
+      "live",
+      "resistance",
+      "squeezed"
+    ],
+    "ts": 1789954047.4808245
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nikkei-225-tests-200-sma-resistance-at-65337-live-levels-93CH-4908214",
+    "title": "Nikkei 225 tests 200 SMA resistance at 65,337: Live levels",
+    "tokens": [
+      "200",
+      "225",
+      "337",
+      "levels",
+      "live",
+      "nikkei",
+      "resistance",
+      "sma",
+      "tests"
+    ],
+    "ts": 1789954055.0275602
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/french-finance-ministry-expects-record-debt-in-2026-reaching-nearly-120-of-gdp-4908213",
+    "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
+    "tokens": [
+      "120",
+      "2026",
+      "debt",
+      "expects",
+      "finance",
+      "french",
+      "gdp",
+      "ministry",
+      "nearly",
+      "reaching",
+      "record"
+    ],
+    "ts": 1789954059.0432453
   }
 ]

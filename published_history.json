@@ -1,51 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/hyundai-ceo-warns-chinese-auto-competition-could-spread-to-us-reuters-reports-4906681",
-    "title": "Hyundai CEO warns Chinese auto competition could spread to U.S., Reuters reports",
-    "tokens": [
-      "auto",
-      "ceo",
-      "chinese",
-      "competition",
-      "could",
-      "hyundai",
-      "reports",
-      "reuters",
-      "spread",
-      "warns"
-    ],
-    "ts": 1789709989.2704084
-  },
-  {
-    "id": "1-metric-separates-joby-archer-175000750.html",
-    "title": "The 1 Metric That Separates Joby From Archer in the Race to FAA Certification",
-    "tokens": [
-      "archer",
-      "certification",
-      "faa",
-      "joby",
-      "metric",
-      "race",
-      "separates"
-    ],
-    "ts": 1789710001.4026334
-  },
-  {
-    "id": "rivian-insider-sells-15-000-174802425.html",
-    "title": "A Rivian Insider Sells 15,000 Shares for $244,000 Amid a CFO Transition",
-    "tokens": [
-      "000",
-      "244",
-      "cfo",
-      "insider",
-      "rivian",
-      "sells",
-      "shares",
-      "transition"
-    ],
-    "ts": 1789710008.7652435
-  },
-  {
     "id": "federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-happens-100449563.html",
     "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
     "tokens": [
@@ -23776,5 +23730,56 @@
       "retailer"
     ],
     "ts": 1789949709.9320862
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-with-china-summit-iran-escalation-in-focus-4908205",
+    "title": "U.S. stock index futures rise with China summit, Iran escalation in focus",
+    "tokens": [
+      "china",
+      "escalation",
+      "focus",
+      "futures",
+      "index",
+      "iran",
+      "rise",
+      "stock",
+      "summit"
+    ],
+    "ts": 1789951105.6052501
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/europe-faces-q4-jet-fuel-supply-deficit-even-as-south-korea-becomes-latest-big-supplier-4908204",
+    "title": "Europe faces Q4 jet fuel supply deficit even as South Korea becomes latest big supplier",
+    "tokens": [
+      "becomes",
+      "big",
+      "deficit",
+      "europe",
+      "even",
+      "faces",
+      "fuel",
+      "jet",
+      "korea",
+      "latest",
+      "south",
+      "supplier",
+      "supply"
+    ],
+    "ts": 1789951113.9447706
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australias-telix-agrees-to-buy-germanys-itm-isotope-for-165-bln-4908202",
+    "title": "Australia’s Telix agrees to buy Germany’s ITM Isotope for $1.65 bln",
+    "tokens": [
+      "agrees",
+      "australia",
+      "bln",
+      "buy",
+      "germany",
+      "isotope",
+      "itm",
+      "telix"
+    ],
+    "ts": 1789951123.4432502
   }
 ]

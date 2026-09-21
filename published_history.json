@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-041-4907863",
-    "title": "Brazil stocks lower at close of trade; Bovespa down 0.41%",
-    "tokens": [
-      "bovespa",
-      "brazil",
-      "close",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789764023.0668867
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-china-discuss-cutting-tariffs-on-us-lng-ahead-of-xi-visit-4907862",
-    "title": "US, China discuss cutting tariffs on US LNG ahead of Xi visit",
-    "tokens": [
-      "ahead",
-      "china",
-      "cutting",
-      "discuss",
-      "lng",
-      "tariffs",
-      "visit"
-    ],
-    "ts": 1789764028.8467271
-  },
-  {
     "id": "bitcoin-needs-reclaim-80-000-105205496.html",
     "title": "Bitcoin Needs to Reclaim $80,000. Here’s What Has to Happen First",
     "tokens": [
@@ -24006,5 +23979,37 @@
       "stock"
     ],
     "ts": 1790026842.569259
+  },
+  {
+    "id": "WP-MKTW-0005244509",
+    "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+    "tokens": [
+      "about",
+      "appetite",
+      "bitcoin",
+      "clear",
+      "high",
+      "hits",
+      "message",
+      "month",
+      "now",
+      "right",
+      "risk",
+      "sends"
+    ],
+    "ts": 1790027515.6512887
+  },
+  {
+    "id": "3m-stock-turnaround-happening-faster-131505697.html",
+    "title": "How the 3M Stock Turnaround Is Happening Faster Than Expected",
+    "tokens": [
+      "expected",
+      "faster",
+      "happening",
+      "how",
+      "stock",
+      "turnaround"
+    ],
+    "ts": 1790027523.5426981
   }
 ]

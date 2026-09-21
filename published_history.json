@@ -1,134 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/cue-biopharma-stock-initiated-at-buy-by-briley-on-allergy-drug-potential-93CH-4906841",
-    "title": "Cue Biopharma stock initiated at Buy by B.Riley on allergy drug potential",
-    "tokens": [
-      "allergy",
-      "biopharma",
-      "buy",
-      "cue",
-      "drug",
-      "initiated",
-      "potential",
-      "riley",
-      "stock"
-    ],
-    "ts": 1789723693.3725305
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-waste-connections-stock-rating-on-valuation-cash-flow-outlook-93CH-4906840",
-    "title": "UBS upgrades Waste Connections stock rating on valuation, cash flow outlook",
-    "tokens": [
-      "cash",
-      "connections",
-      "flow",
-      "outlook",
-      "rating",
-      "stock",
-      "ubs",
-      "upgrades",
-      "valuation",
-      "waste"
-    ],
-    "ts": 1789723700.2336874
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
-    "title": "Here’s what BoE tightening means for EUR/GBP",
-    "tokens": [
-      "boe",
-      "eur",
-      "gbp",
-      "here",
-      "means",
-      "tightening",
-      "what"
-    ],
-    "ts": 1789723708.0867558
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/huuuge-q2-2026-slides-120m-buyback-announced-despite-revenue-decline-93CH-4906838",
-    "title": "Huuuge Q2 2026 slides: $120m buyback announced despite revenue decline",
-    "tokens": [
-      "120m",
-      "2026",
-      "announced",
-      "buyback",
-      "decline",
-      "despite",
-      "huuuge",
-      "revenue",
-      "slides"
-    ],
-    "ts": 1789723715.6522985
-  },
-  {
-    "id": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments",
-    "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
-    "tokens": [
-      "25m",
-      "backing",
-      "closes",
-      "dtcpay",
-      "firm",
-      "payments",
-      "round",
-      "sbi",
-      "stablecoin"
-    ],
-    "ts": 1789723724.38371
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-sliding-today-93CH-4906904",
-    "title": "Why is Netflix stock sliding today?",
-    "tokens": [
-      "netflix",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789724523.9374733
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-stubhub-stock-climbing-today-93CH-4906903",
-    "title": "Why is StubHub stock climbing today?",
-    "tokens": [
-      "climbing",
-      "stock",
-      "stubhub",
-      "today",
-      "why"
-    ],
-    "ts": 1789724523.9525917
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/foxconn-industrial-internet-completes-1-billion-buyback-93CH-4906901",
-    "title": "Foxconn Industrial Internet completes $1 billion buyback",
-    "tokens": [
-      "billion",
-      "buyback",
-      "completes",
-      "foxconn",
-      "industrial",
-      "internet"
-    ],
-    "ts": 1789724527.9385796
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
-    "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
-    "tokens": [
-      "2026",
-      "coinferencex",
-      "ct3",
-      "participate",
-      "singapore",
-      "speaker"
-    ],
-    "ts": 1789724535.6509204
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/3-energy-and-utility-stocks-named-top-analyst-favorites-at-raymond-james-93CH-4906890",
     "title": "3 Energy and Utility Stocks Named Top Analyst Favorites at Raymond James",
     "tokens": [
@@ -23766,5 +23637,137 @@
       "traders"
     ],
     "ts": 1789983849.5639343
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/google-fined-over-345m-for-location-data-privacy-breaches-93CH-4908498",
+    "title": "Google fined over £345m for location data privacy breaches",
+    "tokens": [
+      "345m",
+      "breaches",
+      "data",
+      "fined",
+      "google",
+      "location",
+      "privacy"
+    ],
+    "ts": 1789984548.6557114
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/five-things-to-watch-in-markets-in-the-week-ahead-4908496",
+    "title": "Five things to watch in markets in the week ahead",
+    "tokens": [
+      "ahead",
+      "five",
+      "markets",
+      "things",
+      "watch",
+      "week"
+    ],
+    "ts": 1789984555.8669872
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-usa-rare-earth-stock-is-jumping-today-93CH-4908495",
+    "title": "Why USA Rare Earth stock is jumping today",
+    "tokens": [
+      "earth",
+      "jumping",
+      "rare",
+      "stock",
+      "today",
+      "usa",
+      "why"
+    ],
+    "ts": 1789984564.0799816
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/from-korean-chipmakers-to-leveraged-semiconductor-etfs-startrader-launches-49-new-247-stock-and-etf-cfds-4908494",
+    "title": "From Korean Chipmakers to Leveraged Semiconductor ETFs: STARTRADER Launches 49 New 24/7 Stock and ETF CFDs",
+    "tokens": [
+      "cfds",
+      "chipmakers",
+      "etf",
+      "etfs",
+      "korean",
+      "launches",
+      "leveraged",
+      "semiconductor",
+      "startrader",
+      "stock"
+    ],
+    "ts": 1789984571.6469674
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/streamflation-drives-39-of-americans-to-cancel-streaming-in-6-months-93CH-4908493",
+    "title": "Streamflation drives 39% of Americans to cancel streaming in 6 months",
+    "tokens": [
+      "americans",
+      "cancel",
+      "drives",
+      "months",
+      "streamflation",
+      "streaming"
+    ],
+    "ts": 1789984579.3423781
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-svrn-stock-surging-today-93CH-4908490",
+    "title": "Why is SVRN stock surging today?",
+    "tokens": [
+      "stock",
+      "surging",
+      "svrn",
+      "today",
+      "why"
+    ],
+    "ts": 1789984583.3581207
+  },
+  {
+    "id": "same-conference-same-day-same-094121233.html",
+    "title": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
+    "tokens": [
+      "bet",
+      "chevron",
+      "conference",
+      "day",
+      "double",
+      "exxonmobil",
+      "lng",
+      "same"
+    ],
+    "ts": 1789984587.128041
+  },
+  {
+    "id": "sam-altman-dropped-stanford-build-093000834.html",
+    "title": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
+    "tokens": [
+      "almost",
+      "altman",
+      "app",
+      "build",
+      "dropped",
+      "million",
+      "nobody",
+      "sam",
+      "sold",
+      "stanford",
+      "still",
+      "used"
+    ],
+    "ts": 1789984594.6114874
+  },
+  {
+    "id": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme",
+    "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
+    "tokens": [
+      "278k",
+      "account",
+      "alleged",
+      "bitcoin",
+      "fraud",
+      "operators",
+      "payout",
+      "sues"
+    ],
+    "ts": 1789984603.6661923
   }
 ]

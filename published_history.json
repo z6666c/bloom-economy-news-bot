@@ -1,21 +1,5 @@
 [
   {
-    "id": "2efd3d89-00fe-4c22-9da0-589b83e6bb91",
-    "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
-    "tokens": [
-      "bitcoin",
-      "booth",
-      "exchange",
-      "hormuz",
-      "iran",
-      "ran",
-      "strait",
-      "through",
-      "toll"
-    ],
-    "ts": 1789714645.6379952
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/boj-governor-uedas-comments-at-news-conference-4906744",
     "title": "BOJ Governor Ueda’s comments at news conference",
     "tokens": [
@@ -23809,5 +23793,23 @@
       "you"
     ],
     "ts": 1789966667.9082384
+  },
+  {
+    "id": "mediatek-stepping-competition-against-qualcomm-183002481.html",
+    "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+    "tokens": [
+      "against",
+      "chip",
+      "competition",
+      "means",
+      "mediatek",
+      "nanometer",
+      "qcom",
+      "qualcomm",
+      "stepping",
+      "stock",
+      "what"
+    ],
+    "ts": 1789967706.380096
   }
 ]

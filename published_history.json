@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/huuuge-q2-2026-slides-120m-buyback-amid-market-headwinds-93CH-4906845",
-    "title": "Huuuge Q2 2026 slides: $120m buyback amid market headwinds",
-    "tokens": [
-      "120m",
-      "2026",
-      "buyback",
-      "headwinds",
-      "huuuge",
-      "market",
-      "slides"
-    ],
-    "ts": 1789723679.0111809
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/magnum-ice-cream-to-buy-back-shares-worth-110-million-93CH-4906842",
-    "title": "Magnum Ice Cream to buy back shares worth €110 million",
-    "tokens": [
-      "110",
-      "back",
-      "buy",
-      "cream",
-      "ice",
-      "magnum",
-      "million",
-      "shares",
-      "worth"
-    ],
-    "ts": 1789723686.0580237
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/cue-biopharma-stock-initiated-at-buy-by-briley-on-allergy-drug-potential-93CH-4906841",
     "title": "Cue Biopharma stock initiated at Buy by B.Riley on allergy drug potential",
     "tokens": [
@@ -23764,5 +23734,37 @@
       "transition"
     ],
     "ts": 1789982957.9391718
+  },
+  {
+    "id": "novo-nordisk-stock-gets-drilled-on-pipeline-concerns-its-ceo-sees-this-as-the-main-problem-091933221.html",
+    "title": "Novo Nordisk stock gets drilled on pipeline concerns— its CEO sees this as the main problem",
+    "tokens": [
+      "ceo",
+      "concerns",
+      "drilled",
+      "gets",
+      "main",
+      "nordisk",
+      "novo",
+      "pipeline",
+      "problem",
+      "sees",
+      "stock"
+    ],
+    "ts": 1789983844.5313358
+  },
+  {
+    "id": "oilprice-news-45555",
+    "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
+    "tokens": [
+      "bet",
+      "diplomacy",
+      "iran",
+      "oil",
+      "prices",
+      "slide",
+      "traders"
+    ],
+    "ts": 1789983849.5639343
   }
 ]

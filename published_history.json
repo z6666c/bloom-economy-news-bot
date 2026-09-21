@@ -1,44 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/corpay-reaches-100-million-settlement-with-ftc-93CH-4907610",
-    "title": "Corpay reaches $100 million settlement with FTC",
-    "tokens": [
-      "100",
-      "corpay",
-      "ftc",
-      "million",
-      "reaches",
-      "settlement"
-    ],
-    "ts": 1789745292.3324518
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/adm-energy-winding-up-petition-hearing-adjourned-42-days-93CH-4907609",
-    "title": "ADM Energy winding up petition hearing adjourned 42 days",
-    "tokens": [
-      "adjourned",
-      "adm",
-      "days",
-      "energy",
-      "hearing",
-      "petition",
-      "winding"
-    ],
-    "ts": 1789745301.1899295
-  },
-  {
-    "id": "qualify-private-student-loan-212942539.html",
-    "title": "What are the requirements for private student loans?",
-    "tokens": [
-      "loans",
-      "private",
-      "requirements",
-      "student",
-      "what"
-    ],
-    "ts": 1789745311.8429387
-  },
-  {
     "id": "legendary-investor-warren-buffett-resigning-151058047.html",
     "title": "Legendary Investor Warren Buffett Is Resigning as Berkshire Chairman",
     "tokens": [
@@ -23843,5 +23804,53 @@
       "travel"
     ],
     "ts": 1790003711.0844257
+  },
+  {
+    "id": "WP-MKTW-0005240088",
+    "title": "Many young adults can only afford to invest thanks to the bank of mom and dad",
+    "tokens": [
+      "adults",
+      "afford",
+      "bank",
+      "can",
+      "dad",
+      "invest",
+      "many",
+      "mom",
+      "only",
+      "thanks",
+      "young"
+    ],
+    "ts": 1790004413.6145723
+  },
+  {
+    "id": "jim-cramer-sends-strong-signal-163300406.html",
+    "title": "Jim Cramer sends strong signal to Apple stock investors",
+    "tokens": [
+      "apple",
+      "cramer",
+      "investors",
+      "jim",
+      "sends",
+      "signal",
+      "stock",
+      "strong"
+    ],
+    "ts": 1790004417.7851105
+  },
+  {
+    "id": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks",
+    "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
+    "tokens": [
+      "act",
+      "biz",
+      "clarity",
+      "coinbase",
+      "crypto",
+      "puts",
+      "setback",
+      "spotlight"
+    ],
+    "ts": 1790004423.1508646
   }
 ]

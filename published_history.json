@@ -1,292 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/fr8tech-launches-ai-module-to-validate-delivery-documents-93CH-4907464",
-    "title": "Fr8Tech launches AI module to validate delivery documents",
-    "tokens": [
-      "delivery",
-      "documents",
-      "fr8tech",
-      "launches",
-      "module",
-      "validate"
-    ],
-    "ts": 1789738928.9960873
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/roundtable-appoints-liz-truss-to-board-of-directors-93CH-4907463",
-    "title": "Roundtable appoints Liz Truss to board of directors",
-    "tokens": [
-      "appoints",
-      "board",
-      "directors",
-      "liz",
-      "roundtable",
-      "truss"
-    ],
-    "ts": 1789738939.11897
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/toro-corp-acquires-two-mr-tanker-vessels-for-834-million-93CH-4907462",
-    "title": "Toro Corp. acquires two MR tanker vessels for $83.4 million",
-    "tokens": [
-      "acquires",
-      "corp",
-      "million",
-      "tanker",
-      "toro",
-      "two",
-      "vessels"
-    ],
-    "ts": 1789738951.4001055
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/nauticus-robotics-extends-term-loan-maturity-to-january-2028-in-new-agreement-93CH-4907458",
-    "title": "Nauticus Robotics extends term loan maturity to January 2028 in new agreement",
-    "tokens": [
-      "2028",
-      "agreement",
-      "extends",
-      "january",
-      "loan",
-      "maturity",
-      "nauticus",
-      "robotics",
-      "term"
-    ],
-    "ts": 1789738961.81238
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/us-industrial-production-stagnates-misses-forecast-93CH-4907455",
-    "title": "U.S. Industrial Production Stagnates, Misses Forecast",
-    "tokens": [
-      "forecast",
-      "industrial",
-      "misses",
-      "production",
-      "stagnates"
-    ],
-    "ts": 1789738972.0623307
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/virbac-h1-2026-slides-revenue-up-74-margin-gains-despite-fx-headwinds-93CH-4907453",
-    "title": "Virbac H1 2026 slides: revenue up 7.4%, margin gains despite FX headwinds",
-    "tokens": [
-      "2026",
-      "despite",
-      "gains",
-      "headwinds",
-      "margin",
-      "revenue",
-      "slides",
-      "virbac"
-    ],
-    "ts": 1789738982.4649315
-  },
-  {
-    "id": "paid-wait-vertivs-learning-curve-013527715.html",
-    "title": "Should You Get Paid To Wait Out Vertiv's Learning Curve?",
-    "tokens": [
-      "curve",
-      "get",
-      "learning",
-      "paid",
-      "should",
-      "vertiv",
-      "wait",
-      "you"
-    ],
-    "ts": 1789738992.6037047
-  },
-  {
-    "id": "nostalgic-mall-staple-closes-14-013700650.html",
-    "title": "Nostalgic mall staple closes 14 stores amid major changes",
-    "tokens": [
-      "changes",
-      "closes",
-      "major",
-      "mall",
-      "nostalgic",
-      "staple",
-      "stores"
-    ],
-    "ts": 1789739001.185352
-  },
-  {
-    "id": "sphd-schd-both-promise-high-014359431.html",
-    "title": "SPHD and SCHD Both Promise High Dividends, Yet One Has Barely Made Investors Any Money in a Decade",
-    "tokens": [
-      "any",
-      "barely",
-      "both",
-      "decade",
-      "dividends",
-      "high",
-      "investors",
-      "made",
-      "money",
-      "one",
-      "promise",
-      "schd",
-      "sphd",
-      "yet"
-    ],
-    "ts": 1789739623.8530948
-  },
-  {
-    "id": "why-forgent-power-stock-keeps-015007577.html",
-    "title": "Why Forgent Power Stock Keeps Going Up",
-    "tokens": [
-      "forgent",
-      "going",
-      "keeps",
-      "power",
-      "stock",
-      "why"
-    ],
-    "ts": 1789739633.380248
-  },
-  {
-    "id": "WP-MKTW-0005240426",
-    "title": "Travis Kelce and others lost millions in a Ponzi scheme. Here’s what a basic index fund would have earned them instead.",
-    "tokens": [
-      "basic",
-      "earned",
-      "fund",
-      "here",
-      "index",
-      "instead",
-      "kelce",
-      "lost",
-      "millions",
-      "others",
-      "ponzi",
-      "scheme",
-      "them",
-      "travis",
-      "what",
-      "would"
-    ],
-    "ts": 1789740652.6295633
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/yeti-stock-rises-as-ubs-maintains-neutral-rating-after-guidance-reset-93CH-4907530",
-    "title": "Yeti stock rises as UBS maintains neutral rating after guidance reset",
-    "tokens": [
-      "guidance",
-      "maintains",
-      "neutral",
-      "rating",
-      "reset",
-      "rises",
-      "stock",
-      "ubs",
-      "yeti"
-    ],
-    "ts": 1789740662.4519432
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-maintains-vail-resorts-stock-rating-on-pass-sales-concerns-93CH-4907529",
-    "title": "UBS maintains Vail Resorts stock rating on pass sales concerns",
-    "tokens": [
-      "concerns",
-      "maintains",
-      "pass",
-      "rating",
-      "resorts",
-      "sales",
-      "stock",
-      "ubs",
-      "vail"
-    ],
-    "ts": 1789740672.7477221
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-cuts-polaris-stock-price-target-on-promotional-headwinds-93CH-4907528",
-    "title": "UBS cuts Polaris stock price target on promotional headwinds",
-    "tokens": [
-      "cuts",
-      "headwinds",
-      "polaris",
-      "price",
-      "promotional",
-      "stock",
-      "target",
-      "ubs"
-    ],
-    "ts": 1789740682.285107
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-cipher-mining-stock-rallying-today-93CH-4907527",
-    "title": "Why is Cipher Mining stock rallying today?",
-    "tokens": [
-      "cipher",
-      "mining",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789740692.309329
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-galaxy-digital-stock-surging-today-93CH-4907525",
-    "title": "Why is Galaxy Digital stock surging today?",
-    "tokens": [
-      "digital",
-      "galaxy",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789740702.488992
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/norwegian-cruise-line-stock-hits-52week-low-at-1418-usd-93CH-4907523",
-    "title": "Norwegian Cruise Line stock hits 52-week low at 14.18 USD",
-    "tokens": [
-      "cruise",
-      "hits",
-      "line",
-      "low",
-      "norwegian",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789740718.6496313
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-macom-technology-solutions-stock-rallying-today-93CH-4907522",
-    "title": "Why is MACOM Technology Solutions stock rallying today?",
-    "tokens": [
-      "macom",
-      "rallying",
-      "solutions",
-      "stock",
-      "technology",
-      "today",
-      "why"
-    ],
-    "ts": 1789740729.013425
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/par-pacific-holdings-stock-hits-alltime-high-at-8707-usd-93CH-4907521",
-    "title": "Par Pacific Holdings stock hits all-time high at 87.07 USD",
-    "tokens": [
-      "all",
-      "high",
-      "hits",
-      "holdings",
-      "pacific",
-      "par",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1789740739.3757827
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-oil-prices-fall-4907520",
     "title": "S&P 500, Nasdaq open higher as oil prices fall",
     "tokens": [
@@ -23804,5 +23517,301 @@
       "valuation"
     ],
     "ts": 1789998948.6526
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-turning-point-brands-stock-sliding-today-93CH-4909258",
+    "title": "Why is Turning Point Brands stock sliding today?",
+    "tokens": [
+      "brands",
+      "point",
+      "sliding",
+      "stock",
+      "today",
+      "turning",
+      "why"
+    ],
+    "ts": 1789999857.4531593
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/datavault-ai-to-sponsor-dream-bowl-xv-college-football-game-93CH-4909252",
+    "title": "Datavault AI to sponsor Dream Bowl XV college football game",
+    "tokens": [
+      "bowl",
+      "college",
+      "datavault",
+      "dream",
+      "football",
+      "game",
+      "sponsor"
+    ],
+    "ts": 1789999866.6859455
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-roblox-stock-rallying-today-93CH-4909251",
+    "title": "Why is Roblox stock rallying today?",
+    "tokens": [
+      "rallying",
+      "roblox",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789999870.7947285
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-candel-therapeutics-stock-surging-today-93CH-4909250",
+    "title": "Why is Candel Therapeutics stock surging today?",
+    "tokens": [
+      "candel",
+      "stock",
+      "surging",
+      "therapeutics",
+      "today",
+      "why"
+    ],
+    "ts": 1789999875.565154
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-6513-usd-93CH-4909246",
+    "title": "CMS Energy stock hits 52-week low at 65.13 USD",
+    "tokens": [
+      "cms",
+      "energy",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1789999883.6613853
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/red-rock-resorts-stock-hits-52week-low-at-5052-usd-93CH-4909245",
+    "title": "Red Rock Resorts stock hits 52-week low at 50.52 USD",
+    "tokens": [
+      "hits",
+      "low",
+      "red",
+      "resorts",
+      "rock",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1789999892.899318
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/saia-options-activity-points-to-institutional-bull-call-spread-ahead-of-dec-2026-expiry-93CH-4909240",
+    "title": "Saia options activity points to institutional bull call spread ahead of Dec 2026 expiry",
+    "tokens": [
+      "2026",
+      "activity",
+      "ahead",
+      "bull",
+      "call",
+      "dec",
+      "expiry",
+      "institutional",
+      "options",
+      "points",
+      "saia",
+      "spread"
+    ],
+    "ts": 1789999902.26538
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/dicks-sporting-goods-stock-hits-52week-low-at-12039-usd-93CH-4909239",
+    "title": "Dicks Sporting Goods stock hits 52-week low at 120.39 USD",
+    "tokens": [
+      "120",
+      "dicks",
+      "goods",
+      "hits",
+      "low",
+      "sporting",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1789999910.5777864
+  },
+  {
+    "id": "wtw-expands-zurich-deal-deploy-135616788.html",
+    "title": "WTW expands Zurich deal to deploy Radar software globally",
+    "tokens": [
+      "deal",
+      "deploy",
+      "expands",
+      "globally",
+      "radar",
+      "software",
+      "wtw",
+      "zurich"
+    ],
+    "ts": 1789999919.251698
+  },
+  {
+    "id": "silver-prices-today-monday-september-21-2026-silver-prices-rising-ahead-of-us-china-summit-135458890.html",
+    "title": "Silver prices today, Monday, September 21, 2026: Silver prices rising ahead of U.S.-China summit",
+    "tokens": [
+      "2026",
+      "ahead",
+      "china",
+      "monday",
+      "prices",
+      "rising",
+      "september",
+      "silver",
+      "summit",
+      "today"
+    ],
+    "ts": 1789999928.0700207
+  },
+  {
+    "id": "nike-gets-hit-with-yet-another-bearish-wall-street-hot-take-135125963.html",
+    "title": "Nike gets hit with yet another bearish Wall Street hot take",
+    "tokens": [
+      "another",
+      "bearish",
+      "gets",
+      "hit",
+      "hot",
+      "nike",
+      "street",
+      "take",
+      "wall",
+      "yet"
+    ],
+    "ts": 1789999936.7747862
+  },
+  {
+    "id": "tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
+    "title": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
+    "tokens": [
+      "alphacheck",
+      "bitcoin",
+      "ease",
+      "rallied",
+      "rise",
+      "stocks",
+      "tech",
+      "treasury",
+      "yields"
+    ],
+    "ts": 1789999945.6933968
+  },
+  {
+    "id": "seabridge-gold-inc-sa-spun-134720749.html",
+    "title": "Seabridge Gold Inc. (SA) Spun Off a Major Gold Asset: Why Kopernik Sees More Upside",
+    "tokens": [
+      "asset",
+      "gold",
+      "inc",
+      "kopernik",
+      "major",
+      "more",
+      "off",
+      "seabridge",
+      "sees",
+      "spun",
+      "upside",
+      "why"
+    ],
+    "ts": 1789999955.0552766
+  },
+  {
+    "id": "ciena-upgraded-flutter-downgraded-wall-134710881.html",
+    "title": "Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls",
+    "tokens": [
+      "analyst",
+      "calls",
+      "ciena",
+      "downgraded",
+      "flutter",
+      "street",
+      "top",
+      "upgraded",
+      "wall"
+    ],
+    "ts": 1789999964.0306017
+  },
+  {
+    "id": "mosaic-co-mos-just-added-134710535.html",
+    "title": "Mosaic Co. (MOS) Was Just Added to the Portfolio: Why the Fertilizer Stock Looks Undervalued",
+    "tokens": [
+      "added",
+      "fertilizer",
+      "just",
+      "looks",
+      "mos",
+      "mosaic",
+      "portfolio",
+      "stock",
+      "undervalued",
+      "why"
+    ],
+    "ts": 1789999972.3753407
+  },
+  {
+    "id": "northern-dynasty-minerals-ltd-nak-134700461.html",
+    "title": "Northern Dynasty Minerals Ltd. (NAK) Gained 36.3% in Q2: The Alaska Gold-Copper Opportunity",
+    "tokens": [
+      "alaska",
+      "copper",
+      "dynasty",
+      "gained",
+      "gold",
+      "ltd",
+      "minerals",
+      "nak",
+      "northern",
+      "opportunity"
+    ],
+    "ts": 1789999982.068992
+  },
+  {
+    "id": "franklin-resources-ben-surged-47-134651405.html",
+    "title": "Franklin Resources (BEN) Surged 47.3% in Q2: Why Investors Took Notice",
+    "tokens": [
+      "ben",
+      "franklin",
+      "investors",
+      "notice",
+      "resources",
+      "surged",
+      "took",
+      "why"
+    ],
+    "ts": 1789999990.3619144
+  },
+  {
+    "id": "oilprice-article-45559",
+    "title": "Rising Energy Costs Threaten UK Growth Despite 1.3% Expansion",
+    "tokens": [
+      "costs",
+      "despite",
+      "energy",
+      "expansion",
+      "growth",
+      "rising",
+      "threaten"
+    ],
+    "ts": 1789999999.7721288
+  },
+  {
+    "id": "oilprice-news-45559",
+    "title": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu",
+    "tokens": [
+      "arabia",
+      "exports",
+      "houthi",
+      "oil",
+      "reroutes",
+      "saudi",
+      "strikes",
+      "target",
+      "yanbu"
+    ],
+    "ts": 1790000011.5372612
   }
 ]

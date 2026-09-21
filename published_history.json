@@ -1,24 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/barclays-backs-november-boe-hike-warns-middle-east-conflict-could-spur-more-4906680",
-    "title": "Barclays backs November BoE hike, warns Middle East conflict could spur more",
-    "tokens": [
-      "backs",
-      "barclays",
-      "boe",
-      "conflict",
-      "could",
-      "east",
-      "hike",
-      "middle",
-      "more",
-      "november",
-      "spur",
-      "warns"
-    ],
-    "ts": 1789709982.541756
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/hyundai-ceo-warns-chinese-auto-competition-could-spread-to-us-reuters-reports-4906681",
     "title": "Hyundai CEO warns Chinese auto competition could spread to U.S., Reuters reports",
     "tokens": [
@@ -23782,5 +23763,18 @@
       "who"
     ],
     "ts": 1789948290.1440494
+  },
+  {
+    "id": "key-christmas-retailer-files-chapter-140700474.html",
+    "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
+    "tokens": [
+      "bankrutpcy",
+      "chapter",
+      "christmas",
+      "files",
+      "key",
+      "retailer"
+    ],
+    "ts": 1789949709.9320862
   }
 ]

@@ -1,209 +1,5 @@
 [
   {
-    "id": "coca-cola-bets-10-billion-170127971.html",
-    "title": "Coca-Cola Bets $10 Billion on U.S. Infrastructure to Drive Growth",
-    "tokens": [
-      "bets",
-      "billion",
-      "coca",
-      "cola",
-      "drive",
-      "growth",
-      "infrastructure"
-    ],
-    "ts": 1789752344.6870267
-  },
-  {
-    "id": "general-motors-gm-bets-software-170012082.html",
-    "title": "General Motors (GM) Bets on Software to Strengthen its Pickup Truck Franchise",
-    "tokens": [
-      "bets",
-      "franchise",
-      "general",
-      "motors",
-      "pickup",
-      "software",
-      "strengthen",
-      "truck"
-    ],
-    "ts": 1789752354.6892378
-  },
-  {
-    "id": "carter-cri-rebrands-younger-parents-165846295.html",
-    "title": "Carter’s (CRI) Rebrands for Younger Parents as Sales Momentum Builds",
-    "tokens": [
-      "builds",
-      "carter",
-      "cri",
-      "momentum",
-      "parents",
-      "rebrands",
-      "sales",
-      "younger"
-    ],
-    "ts": 1789752363.4448774
-  },
-  {
-    "id": "pepsico-falls-3-while-consumer-170726924.html",
-    "title": "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-    "tokens": [
-      "barely",
-      "budges",
-      "coca",
-      "cola",
-      "consumer",
-      "eases",
-      "falls",
-      "firm",
-      "hold",
-      "keurig",
-      "pepper",
-      "pepsico",
-      "staples",
-      "while"
-    ],
-    "ts": 1789752373.1646335
-  },
-  {
-    "id": "oilprice-article-45554",
-    "title": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices",
-    "tokens": [
-      "count",
-      "creeps",
-      "gas",
-      "oil",
-      "prices",
-      "rig",
-      "strong"
-    ],
-    "ts": 1789752383.6251428
-  },
-  {
-    "id": "oilprice-news-45554",
-    "title": "TotalEnergies and BlackRock Sign $1.8B Deal for African Oil and Gas Assets",
-    "tokens": [
-      "african",
-      "assets",
-      "blackrock",
-      "deal",
-      "gas",
-      "oil",
-      "sign",
-      "totalenergies"
-    ],
-    "ts": 1789752393.8253987
-  },
-  {
-    "id": "biotech-stock-too-cheap-ignore-172000522.html",
-    "title": "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-    "tokens": [
-      "biotech",
-      "cheap",
-      "ignore",
-      "latest",
-      "pullback",
-      "stock",
-      "too"
-    ],
-    "ts": 1789753017.420161
-  },
-  {
-    "id": "jim-cramer-says-ai-could-171508518.html",
-    "title": "Jim Cramer Says AI Could Make Okta’s Security Software More Essential",
-    "tokens": [
-      "could",
-      "cramer",
-      "essential",
-      "jim",
-      "make",
-      "more",
-      "okta",
-      "security",
-      "software"
-    ],
-    "ts": 1789753026.8568258
-  },
-  {
-    "id": "fed-just-raised-rates-first-171202240.html",
-    "title": "The Fed Just Raised Rates for the First Time in Three Years. History Says This Is What Comes Next.",
-    "tokens": [
-      "comes",
-      "fed",
-      "first",
-      "history",
-      "just",
-      "next",
-      "raised",
-      "rates",
-      "three",
-      "time",
-      "what",
-      "years"
-    ],
-    "ts": 1789753037.1276119
-  },
-  {
-    "id": "WP-MKTW-0005241614",
-    "title": "As Warren Buffett’s reign ends, fans should sell Berkshire — and buy these stocks instead",
-    "tokens": [
-      "berkshire",
-      "buffett",
-      "buy",
-      "ends",
-      "fans",
-      "instead",
-      "reign",
-      "sell",
-      "should",
-      "stocks",
-      "these",
-      "warren"
-    ],
-    "ts": 1789753852.850254
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/ameren-sells-900-million-in-junior-subordinated-notes-due-2057-93CH-4907743",
-    "title": "Ameren sells $900 million in junior subordinated notes due 2057",
-    "tokens": [
-      "2057",
-      "900",
-      "ameren",
-      "due",
-      "junior",
-      "million",
-      "notes",
-      "sells",
-      "subordinated"
-    ],
-    "ts": 1789753862.9259653
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/att-extends-partnership-with-dallas-cowboys-at-stadium-93CH-4907742",
-    "title": "AT&T extends partnership with Dallas Cowboys at stadium",
-    "tokens": [
-      "cowboys",
-      "dallas",
-      "extends",
-      "partnership",
-      "stadium"
-    ],
-    "ts": 1789753872.4528816
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/oceanfirst-financial-director-john-r-buran-sells-22m-in-shares-93CH-4907731",
-    "title": "OceanFirst Financial director John R. Buran sells $2.2m in shares",
-    "tokens": [
-      "buran",
-      "director",
-      "financial",
-      "john",
-      "oceanfirst",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789753883.3399963
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/eaton-vance-portfolio-managements-brandon-craig-r-sells-798646-in-shares-93CH-4907730",
     "title": "Eaton Vance portfolio management’s Brandon Craig R sells $798,646 in shares",
     "tokens": [
@@ -23895,5 +23691,247 @@
       "use"
     ],
     "ts": 1790012384.932989
+  },
+  {
+    "id": "behind-ticker-crossmarks-values-based-174055390.html",
+    "title": "Behind the Ticker: Crossmark's Values-Based ETFs",
+    "tokens": [
+      "based",
+      "behind",
+      "crossmark",
+      "etfs",
+      "ticker",
+      "values"
+    ],
+    "ts": 1790013117.4675329
+  },
+  {
+    "id": "signal-says-software-stock-could-173505415.html",
+    "title": "Signal Says This Software Stock Could Soon Break Out",
+    "tokens": [
+      "break",
+      "could",
+      "signal",
+      "software",
+      "soon",
+      "stock"
+    ],
+    "ts": 1790013125.612042
+  },
+  {
+    "id": "loren-finegold-ed-comber-join-173054582.html",
+    "title": "Loren Finegold, Ed Comber Join Vinson & Elkins NY Practice, Finance & Infrastructure Growth",
+    "tokens": [
+      "comber",
+      "elkins",
+      "finance",
+      "finegold",
+      "growth",
+      "infrastructure",
+      "join",
+      "loren",
+      "practice",
+      "vinson"
+    ],
+    "ts": 1790013134.2302635
+  },
+  {
+    "id": "https://seekingalpha.com/news/4644976-invesco-sp-500-revenue-etf-declares-quarterly-distribution-of-03984?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Invesco S&P 500 Revenue ETF declares quarterly distribution of $0.3984",
+    "tokens": [
+      "3984",
+      "500",
+      "declares",
+      "distribution",
+      "etf",
+      "invesco",
+      "quarterly",
+      "revenue"
+    ],
+    "ts": 1790013142.9472103
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-pva-tepla-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036561341",
+    "title": "EQS-PVR: PVA TePla AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "tokens": [
+      "according",
+      "act",
+      "article",
+      "distribution",
+      "eqs",
+      "europe",
+      "german",
+      "objective",
+      "pva",
+      "pvr",
+      "release",
+      "section",
+      "securities",
+      "tepla",
+      "trading",
+      "wide",
+      "wphg"
+    ],
+    "ts": 1790013152.1948173
+  },
+  {
+    "id": "https://seekingalpha.com/news/4644975-invesco-sp-500-qvm-multi-factor-etf-declares-quarterly-distribution-of-01113?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Invesco S&P 500 QVM Multi-factor ETF declares quarterly distribution of $0.1113",
+    "tokens": [
+      "1113",
+      "500",
+      "declares",
+      "distribution",
+      "etf",
+      "factor",
+      "invesco",
+      "multi",
+      "quarterly",
+      "qvm"
+    ],
+    "ts": 1790013159.861392
+  },
+  {
+    "id": "https://seekingalpha.com/news/4644974-invesco-sp-500-garp-etf-declares-quarterly-distribution-of-01082?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Invesco S&P 500 GARP ETF declares quarterly distribution of $0.1082",
+    "tokens": [
+      "1082",
+      "500",
+      "declares",
+      "distribution",
+      "etf",
+      "garp",
+      "invesco",
+      "quarterly"
+    ],
+    "ts": 1790013163.8811846
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/dvlt-deadline-alert-rosen-national-trial-lawyers-encourages-datavault-ai-inc.-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-october-5-deadline-in-securities-class-action-dvlt-1036561349",
+    "title": "DVLT DEADLINE ALERT: ROSEN, NATIONAL TRIAL LAWYERS, Encourages Datavault AI Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important October 5 Deadline in Securities Class...",
+    "tokens": [
+      "100k",
+      "alert",
+      "before",
+      "class",
+      "counsel",
+      "datavault",
+      "deadline",
+      "dvlt",
+      "encourages",
+      "excess",
+      "important",
+      "inc",
+      "investors",
+      "lawyers",
+      "losses",
+      "national",
+      "october",
+      "rosen",
+      "secure",
+      "securities",
+      "trial"
+    ],
+    "ts": 1790013169.1551132
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-announces-a-securities-class-action-against-alibaba-group-holding-limited-baba-lead-plaintiff-deadline-is-october-5-2026-1036561350",
+    "title": "Kaplan Fox Announces a Securities Class Action Against Alibaba Group Holding Limited (BABA) - Lead Plaintiff Deadline is October 5, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "against",
+      "alibaba",
+      "announces",
+      "baba",
+      "class",
+      "deadline",
+      "fox",
+      "group",
+      "holding",
+      "kaplan",
+      "lead",
+      "limited",
+      "october",
+      "plaintiff",
+      "securities"
+    ],
+    "ts": 1790013177.241345
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/cyble-joins-the-uae-s-national-cybersecurity-strategy-to-strengthen-intelligence-led-defense-1036561336",
+    "title": "Cyble Joins the UAE’s National Cybersecurity Strategy to Strengthen Intelligence-Led Defense",
+    "tokens": [
+      "cybersecurity",
+      "cyble",
+      "defense",
+      "intelligence",
+      "joins",
+      "led",
+      "national",
+      "strategy",
+      "strengthen",
+      "uae"
+    ],
+    "ts": 1790013184.3564367
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/capr-final-deadline-rosen-top-ranked-global-counsel-encourages-capricor-therapeutics-inc.-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-september-28-deadline-in-securities-class-action-capr-1036561351",
+    "title": "CAPR FINAL DEADLINE: ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages Capricor Therapeutics, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important September 28 Deadline in...",
+    "tokens": [
+      "100k",
+      "before",
+      "capr",
+      "capricor",
+      "counsel",
+      "deadline",
+      "encourages",
+      "excess",
+      "final",
+      "global",
+      "important",
+      "inc",
+      "investors",
+      "losses",
+      "ranked",
+      "rosen",
+      "secure",
+      "september",
+      "therapeutics",
+      "top"
+    ],
+    "ts": 1790013193.7322094
+  },
+  {
+    "id": "https://seekingalpha.com/news/4644950-bitcoin-passes-85k-ether-tops-2_75k-pushing-up-crypto-stocks?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Bitcoin passes $85K, ether tops $2.75K, pushing up crypto stocks",
+    "tokens": [
+      "75k",
+      "85k",
+      "bitcoin",
+      "crypto",
+      "ether",
+      "passes",
+      "pushing",
+      "stocks",
+      "tops"
+    ],
+    "ts": 1790013202.022206
+  },
+  {
+    "id": "https://seekingalpha.com/news/4644972-invesco-dow-jones-industrial-average-dividend-etf-declares-03338-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Invesco Dow Jones Industrial Average Dividend ETF declares $0.3338 dividend",
+    "tokens": [
+      "3338",
+      "average",
+      "declares",
+      "dividend",
+      "dow",
+      "etf",
+      "industrial",
+      "invesco",
+      "jones"
+    ],
+    "ts": 1790013210.2606602
   }
 ]

@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
-    "title": "Sterling today: Pound gains as UK retail sales beat and dollar cools",
-    "tokens": [
-      "beat",
-      "cools",
-      "dollar",
-      "gains",
-      "pound",
-      "retail",
-      "sales",
-      "sterling",
-      "today"
-    ],
-    "ts": 1789721096.965145
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/planet-labs-cfo-ashley-johnson-sells-944k-in-company-stock-93CH-4906804",
     "title": "Planet Labs CFO Ashley Johnson sells $944k in company stock",
     "tokens": [
@@ -23752,5 +23736,23 @@
       "totaled"
     ],
     "ts": 1789979487.5011024
+  },
+  {
+    "id": "f16b98f9-1a8b-484e-aa2e-70f75f890c72",
+    "title": "Live updates: Bitcoin rockets above $83,500 as falling oil lifts risk assets",
+    "tokens": [
+      "500",
+      "above",
+      "assets",
+      "bitcoin",
+      "falling",
+      "lifts",
+      "live",
+      "oil",
+      "risk",
+      "rockets",
+      "updates"
+    ],
+    "ts": 1789980330.2768867
   }
 ]

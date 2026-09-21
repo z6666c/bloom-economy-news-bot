@@ -1,135 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/fda-approves-lillys-inluriyoverzenio-combo-for-breast-cancer-93CH-4907763",
-    "title": "FDA approves Lilly’s Inluriyo-Verzenio combo for breast cancer",
-    "tokens": [
-      "approves",
-      "breast",
-      "cancer",
-      "combo",
-      "fda",
-      "inluriyo",
-      "lilly",
-      "verzenio"
-    ],
-    "ts": 1789756253.8976107
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/economic-data-releases-and-fed-speech-highlight-mondays-calendar-93CH-4907762",
-    "title": "Economic data releases and Fed speech highlight Monday’s calendar",
-    "tokens": [
-      "calendar",
-      "data",
-      "economic",
-      "fed",
-      "highlight",
-      "monday",
-      "releases",
-      "speech"
-    ],
-    "ts": 1789756264.0622268
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/constellation-brands-options-positioning-signals-nearterm-bearish-bias-93CH-4907759",
-    "title": "Constellation Brands options positioning signals near-term bearish bias",
-    "tokens": [
-      "bearish",
-      "bias",
-      "brands",
-      "constellation",
-      "near",
-      "options",
-      "positioning",
-      "signals",
-      "term"
-    ],
-    "ts": 1789756273.4673011
-  },
-  {
-    "id": "2-top-stocks-double-5-083000739.html",
-    "title": "2 Top Stocks That Can Double in 5 Years",
-    "tokens": [
-      "can",
-      "double",
-      "stocks",
-      "top",
-      "years"
-    ],
-    "ts": 1789756283.672599
-  },
-  {
-    "id": "trend-excellent-news-eli-lilly-083501471.html",
-    "title": "This Trend is Excellent News for Eli Lilly and Its Investors",
-    "tokens": [
-      "eli",
-      "excellent",
-      "investors",
-      "lilly",
-      "news",
-      "trend"
-    ],
-    "ts": 1789756296.272227
-  },
-  {
-    "id": "im-65-high-earner-dont-135927460.html",
-    "title": "I'm 65 and a High Earner. Is Using My Roth IRA for Home Renovations a Mistake?",
-    "tokens": [
-      "earner",
-      "high",
-      "home",
-      "ira",
-      "mistake",
-      "renovations",
-      "roth",
-      "using"
-    ],
-    "ts": 1789756306.4308796
-  },
-  {
-    "id": "jpmorgan-ceo-jamie-dimon-its-not-clear-to-me-weve-slayed-inflation-210823303.html",
-    "title": "JPMorgan CEO Jamie Dimon: 'It's not clear to me we've slayed inflation'",
-    "tokens": [
-      "ceo",
-      "clear",
-      "dimon",
-      "inflation",
-      "jamie",
-      "jpmorgan",
-      "slayed"
-    ],
-    "ts": 1789756320.258584
-  },
-  {
-    "id": "live-nation-entertainment-stock-performance-090619228.html",
-    "title": "How Is Live Nation Entertainment’s Stock Performance Compared to Other Entertainment Stocks",
-    "tokens": [
-      "compared",
-      "entertainment",
-      "how",
-      "live",
-      "nation",
-      "other",
-      "performance",
-      "stock",
-      "stocks"
-    ],
-    "ts": 1789756331.9980166
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/gauzy-receives-court-approval-for-debt-restructuring-plan-93CH-4907779",
-    "title": "Gauzy receives court approval for debt restructuring plan",
-    "tokens": [
-      "approval",
-      "court",
-      "debt",
-      "gauzy",
-      "plan",
-      "receives",
-      "restructuring"
-    ],
-    "ts": 1789757061.3567095
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/troubled-australian-developer-bathla-granted-oneyear-extension-to-complete-projects-4907778",
     "title": "Troubled Australian developer Bathla granted one-year extension to complete projects",
     "tokens": [
@@ -23964,5 +23834,143 @@
       "tokenized"
     ],
     "ts": 1790016955.5669453
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bmo-reiterates-outperform-on-ero-copper-stock-after-site-visit-93CH-4909527",
+    "title": "BMO reiterates Outperform on ERO Copper stock after site visit",
+    "tokens": [
+      "bmo",
+      "copper",
+      "ero",
+      "outperform",
+      "reiterates",
+      "site",
+      "stock",
+      "visit"
+    ],
+    "ts": 1790017793.814911
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/esab-altrad-held-liable-for-cape-asbestos-operations-93CH-4909526",
+    "title": "ESAB, Altrad held liable for Cape asbestos operations",
+    "tokens": [
+      "altrad",
+      "asbestos",
+      "cape",
+      "esab",
+      "held",
+      "liable",
+      "operations"
+    ],
+    "ts": 1790017801.044841
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/california-governor-signs-broad-data-center-oversight-bill-package-4909524",
+    "title": "California governor signs broad data center oversight bill package",
+    "tokens": [
+      "bill",
+      "broad",
+      "california",
+      "center",
+      "data",
+      "governor",
+      "oversight",
+      "package",
+      "signs"
+    ],
+    "ts": 1790017810.5371363
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/data-center-companies-delay-ipos-amid-growing-public-opposition--nyt-93CH-4909523",
+    "title": "Data center companies delay IPOs amid growing public opposition - NYT",
+    "tokens": [
+      "center",
+      "companies",
+      "data",
+      "delay",
+      "growing",
+      "ipos",
+      "nyt",
+      "opposition",
+      "public"
+    ],
+    "ts": 1790017819.4770505
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/softbankbacked-sb-energy-delays-its-ipo-nyt-432SI-4909520",
+    "title": "Softbank-backed Sb Energy Delays Its IPO- NYT",
+    "tokens": [
+      "backed",
+      "delays",
+      "energy",
+      "ipo",
+      "nyt",
+      "softbank"
+    ],
+    "ts": 1790017827.0863874
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/soybean-futures-climb-ahead-of-trumpxi-meeting-this-week-93CH-4909521",
+    "title": "Soybean futures climb ahead of Trump-Xi meeting this week",
+    "tokens": [
+      "ahead",
+      "climb",
+      "futures",
+      "meeting",
+      "soybean",
+      "trump",
+      "week"
+    ],
+    "ts": 1790017835.7092948
+  },
+  {
+    "id": "oilprice-article-45564",
+    "title": "War Is Now A Core Risk Category For Data Centre Operators",
+    "tokens": [
+      "category",
+      "centre",
+      "core",
+      "data",
+      "now",
+      "operators",
+      "risk",
+      "war"
+    ],
+    "ts": 1790017844.658705
+  },
+  {
+    "id": "oilprice-news-45564",
+    "title": "Prague Caps Fuel Prices, Taxes Orlen's ‘Windfall’ Refining Margins",
+    "tokens": [
+      "caps",
+      "fuel",
+      "margins",
+      "orlen",
+      "prague",
+      "prices",
+      "refining",
+      "taxes",
+      "windfall"
+    ],
+    "ts": 1790017853.3301964
+  },
+  {
+    "id": "3bbf3037-1b1d-4cf2-b30b-be5b010e0ff9",
+    "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+    "tokens": [
+      "bank",
+      "demand",
+      "despite",
+      "expects",
+      "investment",
+      "little",
+      "rules",
+      "sec",
+      "stocks",
+      "tokenized",
+      "trading",
+      "why"
+    ],
+    "ts": 1790017861.1520553
   }
 ]

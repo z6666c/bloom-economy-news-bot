@@ -1,77 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/press-releases/coinmico-launches-crypto-market-data-platform-built-from-observed-trading-activity-4906727",
-    "title": "Coinmico Launches Crypto Market Data Platform Built From Observed Trading Activity",
-    "tokens": [
-      "activity",
-      "built",
-      "coinmico",
-      "crypto",
-      "data",
-      "launches",
-      "market",
-      "observed",
-      "platform",
-      "trading"
-    ],
-    "ts": 1789714544.3575487
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-001-4906726",
-    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.01%",
-    "tokens": [
-      "200",
-      "asx",
-      "australia",
-      "close",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789714551.170514
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/dialight-employee-trust-purchases-100000-shares-at-566p-93CH-4906725",
-    "title": "Dialight employee trust purchases 100,000 shares at 566p",
-    "tokens": [
-      "000",
-      "100",
-      "566p",
-      "dialight",
-      "employee",
-      "purchases",
-      "shares",
-      "trust"
-    ],
-    "ts": 1789714558.5963318
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-cxmt-stock-rallying-today-93CH-4906724",
-    "title": "Why is CXMT stock rallying today?",
-    "tokens": [
-      "cxmt",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789714562.6110244
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/softbank-increases-arm-margin-loan-to-25-billion-bloomberg-93CH-4906723",
-    "title": "SoftBank increases Arm margin loan to $25 billion- Bloomberg",
-    "tokens": [
-      "arm",
-      "billion",
-      "bloomberg",
-      "increases",
-      "loan",
-      "margin",
-      "softbank"
-    ],
-    "ts": 1789714565.6033556
-  },
-  {
     "id": "https://www.investing.com/news/company-news/tekcapitals-vesari-appoints-adviser-for-potential-spac-listing-93CH-4906722",
     "title": "Tekcapital’s Vesari appoints adviser for potential SPAC listing",
     "tokens": [
@@ -23802,5 +23730,80 @@
       "runs"
     ],
     "ts": 1789963874.2690642
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/gift-nifty-50-tests-23511-resistance-in-bear-flag-live-levels-93CH-4908246",
+    "title": "Gift Nifty 50 tests 23,511 resistance in bear flag: Live levels",
+    "tokens": [
+      "511",
+      "bear",
+      "flag",
+      "gift",
+      "levels",
+      "live",
+      "nifty",
+      "resistance",
+      "tests"
+    ],
+    "ts": 1789964882.855436
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/facebook-instagram-down-for-thousands-of-users-in-us-downdetector-shows-4908245",
+    "title": "Facebook, Instagram down for thousands of users in U.S., Downdetector shows",
+    "tokens": [
+      "downdetector",
+      "facebook",
+      "instagram",
+      "shows",
+      "thousands",
+      "users"
+    ],
+    "ts": 1789964890.2350848
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-xtalpi-stock-rallying-today-93CH-4908243",
+    "title": "Why is XtalPi stock rallying today?",
+    "tokens": [
+      "rallying",
+      "stock",
+      "today",
+      "why",
+      "xtalpi"
+    ],
+    "ts": 1789964896.9193249
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/yuan-hits-fresh-multiyear-peak-as-pboc-eases-curb-ahead-of-trumpxi-summit-4908242",
+    "title": "Yuan hits fresh multi-year peak as PBOC eases curb ahead of Trump-Xi summit",
+    "tokens": [
+      "ahead",
+      "curb",
+      "eases",
+      "fresh",
+      "hits",
+      "multi",
+      "pboc",
+      "peak",
+      "summit",
+      "trump",
+      "year",
+      "yuan"
+    ],
+    "ts": 1789964904.5412617
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/trumpxi-summit-outlook-watch-these-chinese-stocks-and-sectors-93CH-4908238",
+    "title": "Trump-Xi summit outlook: watch these Chinese stocks and sectors",
+    "tokens": [
+      "chinese",
+      "outlook",
+      "sectors",
+      "stocks",
+      "summit",
+      "these",
+      "trump",
+      "watch"
+    ],
+    "ts": 1789964911.3803697
   }
 ]

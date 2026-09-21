@@ -1,230 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-nike-stock-sliding-today-93CH-4907336",
-    "title": "Why is Nike stock sliding today?",
-    "tokens": [
-      "nike",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789736180.2665756
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-xenon-pharmaceuticals-stock-after-trial-pause-93CH-4907334",
-    "title": "Stifel reiterates Buy on Xenon Pharmaceuticals stock after trial pause",
-    "tokens": [
-      "buy",
-      "pause",
-      "pharmaceuticals",
-      "reiterates",
-      "stifel",
-      "stock",
-      "trial",
-      "xenon"
-    ],
-    "ts": 1789736186.1096523
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-elanco-animal-health-stock-rating-on-befrena-outlook-93CH-4907333",
-    "title": "Stifel reiterates Elanco Animal Health stock rating on Befrena outlook",
-    "tokens": [
-      "animal",
-      "befrena",
-      "elanco",
-      "health",
-      "outlook",
-      "rating",
-      "reiterates",
-      "stifel",
-      "stock"
-    ],
-    "ts": 1789736195.4351099
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-idexx-laboratories-stock-citing-vet-survey-93CH-4907332",
-    "title": "Stifel reiterates Buy on IDEXX Laboratories stock citing vet survey",
-    "tokens": [
-      "buy",
-      "citing",
-      "idexx",
-      "laboratories",
-      "reiterates",
-      "stifel",
-      "stock",
-      "survey",
-      "vet"
-    ],
-    "ts": 1789736203.340227
-  },
-  {
-    "id": "icu-medical-cfo-brian-bonnell-005001152.html",
-    "title": "ICU Medical CFO Brian Bonnell Sells 9,307 Shares",
-    "tokens": [
-      "307",
-      "bonnell",
-      "brian",
-      "cfo",
-      "icu",
-      "medical",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789736211.3883448
-  },
-  {
-    "id": "too-early-buy-marvell-stock-005158674.html",
-    "title": "Is It Too Early To Buy Marvell Stock After Its Three-Month Fall?",
-    "tokens": [
-      "buy",
-      "early",
-      "fall",
-      "marvell",
-      "month",
-      "stock",
-      "three",
-      "too"
-    ],
-    "ts": 1789736221.9565299
-  },
-  {
-    "id": "clarity-act-failed-advance-still-040300692.html",
-    "title": "The Clarity Act Failed to Advance. It’s Still Business As Usual",
-    "tokens": [
-      "act",
-      "advance",
-      "business",
-      "clarity",
-      "failed",
-      "still",
-      "usual"
-    ],
-    "ts": 1789736229.6279268
-  },
-  {
-    "id": "5770a488-05dd-4a28-bb15-de65dc0244ca",
-    "title": "Zcash targets November upgrade to make private payments up to three times faster",
-    "tokens": [
-      "faster",
-      "make",
-      "november",
-      "payments",
-      "private",
-      "targets",
-      "three",
-      "times",
-      "upgrade",
-      "zcash"
-    ],
-    "ts": 1789736239.090104
-  },
-  {
-    "id": "https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times",
-    "title": "Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times",
-    "tokens": [
-      "block",
-      "ethereum",
-      "ethlabs",
-      "institutional",
-      "motion",
-      "reduce",
-      "signals",
-      "support",
-      "times"
-    ],
-    "ts": 1789736247.9019406
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-maintains-apple-stock-rating-on-muted-iphone-18-demand-93CH-4907432",
-    "title": "UBS maintains Apple stock rating on muted iPhone 18 demand",
-    "tokens": [
-      "apple",
-      "demand",
-      "iphone",
-      "maintains",
-      "muted",
-      "rating",
-      "stock",
-      "ubs"
-    ],
-    "ts": 1789737020.2701735
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/oppenheimer-lowers-amrize-stock-price-target-on-nearterm-concerns-93CH-4907430",
-    "title": "Oppenheimer lowers Amrize stock price target on near-term concerns",
-    "tokens": [
-      "amrize",
-      "concerns",
-      "lowers",
-      "near",
-      "oppenheimer",
-      "price",
-      "stock",
-      "target",
-      "term"
-    ],
-    "ts": 1789737030.0176508
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/oppenheimer-cuts-autozone-stock-price-target-on-oil-price-concerns-93CH-4907431",
-    "title": "Oppenheimer cuts AutoZone stock price target on oil price concerns",
-    "tokens": [
-      "autozone",
-      "concerns",
-      "cuts",
-      "oil",
-      "oppenheimer",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1789737040.4901562
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stephens-cuts-california-resources-stock-price-target-to-91-on-asset-sale-93CH-4907429",
-    "title": "Stephens cuts California Resources stock price target to $91 on asset sale",
-    "tokens": [
-      "asset",
-      "california",
-      "cuts",
-      "price",
-      "resources",
-      "sale",
-      "stephens",
-      "stock",
-      "target"
-    ],
-    "ts": 1789737050.3662152
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/europes-ai-firms-playing-catchup-challenge-us-calls-for-slowdown-4907282",
-    "title": "Europe’s AI firms, playing catch-up, challenge US calls for slowdown",
-    "tokens": [
-      "calls",
-      "catch",
-      "challenge",
-      "europe",
-      "firms",
-      "playing",
-      "slowdown"
-    ],
-    "ts": 1789737060.630457
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
-    "title": "Why is Bitcoin US Dollar stock climbing today?",
-    "tokens": [
-      "bitcoin",
-      "climbing",
-      "dollar",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789737069.7986279
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-viant-technology-stock-surging-today-93CH-4907425",
     "title": "Why is Viant Technology stock surging today?",
     "tokens": [
@@ -23854,5 +23629,234 @@
       "solutions"
     ],
     "ts": 1789995366.030322
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-vivmark-residential-stock-after-update-93CH-4909123",
+    "title": "Stifel reiterates Buy on Vivmark Residential stock after update",
+    "tokens": [
+      "buy",
+      "reiterates",
+      "residential",
+      "stifel",
+      "stock",
+      "update",
+      "vivmark"
+    ],
+    "ts": 1789996216.2524211
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/anixa-receives-australian-patent-for-breast-cancer-vaccine-93CH-4909122",
+    "title": "Anixa receives Australian patent for breast cancer vaccine",
+    "tokens": [
+      "anixa",
+      "australian",
+      "breast",
+      "cancer",
+      "patent",
+      "receives",
+      "vaccine"
+    ],
+    "ts": 1789996230.8373
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/factboxweightloss-drug-developers-line-up-to-tap-lucrative-market-as-competition-heats-up-4909097",
+    "title": "Factbox-Weight-loss drug developers line up to tap lucrative market as competition heats up",
+    "tokens": [
+      "competition",
+      "developers",
+      "drug",
+      "factbox",
+      "heats",
+      "line",
+      "loss",
+      "lucrative",
+      "market",
+      "tap",
+      "weight"
+    ],
+    "ts": 1789996240.4102533
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-okta-stock-buy-rating-after-board-changes-93CH-4909120",
+    "title": "Stifel reiterates Okta stock Buy rating after board changes",
+    "tokens": [
+      "board",
+      "buy",
+      "changes",
+      "okta",
+      "rating",
+      "reiterates",
+      "stifel",
+      "stock"
+    ],
+    "ts": 1789996249.2149622
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-digitalocean-stock-after-database-launch-93CH-4909119",
+    "title": "Stifel reiterates Buy on DigitalOcean stock after database launch",
+    "tokens": [
+      "buy",
+      "database",
+      "digitalocean",
+      "launch",
+      "reiterates",
+      "stifel",
+      "stock"
+    ],
+    "ts": 1789996261.997141
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-oracle-stock-buy-rating-amid-data-center-progress-93CH-4909118",
+    "title": "Stifel reiterates Oracle stock Buy rating amid data center progress",
+    "tokens": [
+      "buy",
+      "center",
+      "data",
+      "oracle",
+      "progress",
+      "rating",
+      "reiterates",
+      "stifel",
+      "stock"
+    ],
+    "ts": 1789996273.6258492
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/defi-development-adds-101381-sol-to-treasury-in-one-week-93CH-4909116",
+    "title": "DeFi Development adds 101,381 SOL to treasury in one week",
+    "tokens": [
+      "101",
+      "381",
+      "adds",
+      "defi",
+      "development",
+      "one",
+      "sol",
+      "treasury",
+      "week"
+    ],
+    "ts": 1789996282.0772946
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/artemis-gold-to-acquire-vista-gold-in-us427m-allshare-deal-93CH-4909115",
+    "title": "Artemis Gold to acquire Vista Gold in US$427M all-share deal",
+    "tokens": [
+      "427m",
+      "acquire",
+      "all",
+      "artemis",
+      "deal",
+      "gold",
+      "share",
+      "vista"
+    ],
+    "ts": 1789996292.7902768
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-insmed-stock-climbing-today-93CH-4909114",
+    "title": "Why is Insmed stock climbing today?",
+    "tokens": [
+      "climbing",
+      "insmed",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1789996296.8058445
+  },
+  {
+    "id": "ai-giants-sued-california-over-125933830.html",
+    "title": "AI giants sued in California over alleged illegal pact to slow AI development",
+    "tokens": [
+      "alleged",
+      "california",
+      "development",
+      "giants",
+      "illegal",
+      "pact",
+      "slow",
+      "sued"
+    ],
+    "ts": 1789996302.9836245
+  },
+  {
+    "id": "sandisk-corp-sndk-impact-small-123955859.html",
+    "title": "SanDisk Corp’s (SNDK) Impact on Small/Mid Cap Returns",
+    "tokens": [
+      "cap",
+      "corp",
+      "impact",
+      "mid",
+      "returns",
+      "sandisk",
+      "small",
+      "sndk"
+    ],
+    "ts": 1789996312.7272072
+  },
+  {
+    "id": "why-bitcoin-today-closed-above-125755691.html",
+    "title": "Why Is Bitcoin Up Today? It Closed Above Its 50-Week Average for the First Time in 45 Weeks.",
+    "tokens": [
+      "above",
+      "average",
+      "bitcoin",
+      "closed",
+      "first",
+      "time",
+      "today",
+      "week",
+      "weeks",
+      "why"
+    ],
+    "ts": 1789996320.552077
+  },
+  {
+    "id": "470c31ca-4276-4dee-acb9-564e3371a02d",
+    "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
+    "tokens": [
+      "bitmine",
+      "bought",
+      "crypto",
+      "ether",
+      "institutions",
+      "lee",
+      "million",
+      "still",
+      "tom",
+      "underweight"
+    ],
+    "ts": 1789996331.4344106
+  },
+  {
+    "id": "937f47dd-653f-4c15-92e5-cc9a2bff0525",
+    "title": "Scott Bessent champions dollar dominance across global markets and stablecoins",
+    "tokens": [
+      "across",
+      "bessent",
+      "champions",
+      "dollar",
+      "dominance",
+      "global",
+      "markets",
+      "scott",
+      "stablecoins"
+    ],
+    "ts": 1789996338.9740126
+  },
+  {
+    "id": "https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million",
+    "title": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
+    "tokens": [
+      "174m",
+      "76m",
+      "950",
+      "bitcoin",
+      "buys",
+      "repurchases",
+      "strategy",
+      "strc"
+    ],
+    "ts": 1789996347.4320073
   }
 ]

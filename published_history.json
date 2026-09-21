@@ -1,67 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-082-4907655",
-    "title": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.82%",
-    "tokens": [
-      "close",
-      "lower",
-      "omx",
-      "stockholm",
-      "stocks",
-      "sweden",
-      "trade"
-    ],
-    "ts": 1789747876.2807205
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/finland-stocks-lower-at-close-of-trade-omx-helsinki-25-down-081-4907652",
-    "title": "Finland stocks lower at close of trade; OMX Helsinki 25 down 0.81%",
-    "tokens": [
-      "close",
-      "finland",
-      "helsinki",
-      "lower",
-      "omx",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789747888.5760362
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-magna-international-stock-sliding-today-93CH-4907651",
-    "title": "Why is Magna International stock sliding today?",
-    "tokens": [
-      "international",
-      "magna",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789747900.418272
-  },
-  {
-    "id": "tesla-stock-fell-last-4-155802806.html",
-    "title": "Tesla Stock Fell After Its Last 4 Delivery Reports, Even a Big Beat. Here's What History Says to Expect in October.",
-    "tokens": [
-      "beat",
-      "big",
-      "delivery",
-      "even",
-      "expect",
-      "fell",
-      "here",
-      "history",
-      "last",
-      "october",
-      "reports",
-      "stock",
-      "tesla",
-      "what"
-    ],
-    "ts": 1789747913.908229
-  },
-  {
     "id": "upexi-upxi-q4-2026-earnings-155743880.html",
     "title": "Upexi (UPXI) Q4 2026 Earnings Call Transcript",
     "tokens": [
@@ -23870,5 +23808,67 @@
       "sherrod"
     ],
     "ts": 1790007138.6657238
+  },
+  {
+    "id": "WP-MKTW-0005244369",
+    "title": "Meta’s stock is enjoying its best month in more than two years thanks to the company’s hot new AI assistant",
+    "tokens": [
+      "assistant",
+      "best",
+      "company",
+      "enjoying",
+      "hot",
+      "meta",
+      "month",
+      "more",
+      "stock",
+      "thanks",
+      "two",
+      "years"
+    ],
+    "ts": 1790008085.9228742
+  },
+  {
+    "id": "amd-stock-soars-to-new-record-as-semiconductors-bounce-chart-of-the-day-161627271.html",
+    "title": "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
+    "tokens": [
+      "amd",
+      "bounce",
+      "chart",
+      "day",
+      "record",
+      "semiconductors",
+      "soars",
+      "stock"
+    ],
+    "ts": 1790008094.4141355
+  },
+  {
+    "id": "how-to-invest-in-crypto-with-100-155125790.html",
+    "title": "How to start buying crypto with $100",
+    "tokens": [
+      "100",
+      "buying",
+      "crypto",
+      "how",
+      "start"
+    ],
+    "ts": 1790008103.0826225
+  },
+  {
+    "id": "super-ego-mimic-notches-win-152948515.html",
+    "title": "Super Ego’s Mimic notches win in court case; settlement coming?",
+    "tokens": [
+      "case",
+      "coming",
+      "court",
+      "ego",
+      "mimic",
+      "notches",
+      "settlement",
+      "super",
+      "win"
+    ],
+    "ts": 1790008110.6021461
   }
 ]

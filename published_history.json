@@ -1,169 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005242460",
-    "title": "Most of what you know about data centers is wrong",
-    "tokens": [
-      "about",
-      "centers",
-      "data",
-      "know",
-      "most",
-      "what",
-      "wrong",
-      "you"
-    ],
-    "ts": 1789763190.0742955
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/saratoga-investment-cfo-steenkamp-to-step-down-oct-31-93CH-4907844",
-    "title": "Saratoga Investment CFO Steenkamp to step down Oct. 31",
-    "tokens": [
-      "cfo",
-      "investment",
-      "oct",
-      "saratoga",
-      "steenkamp",
-      "step"
-    ],
-    "ts": 1789763199.7469304
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/okta-appoints-helen-riley-to-board-of-directors-93CH-4907843",
-    "title": "Okta appoints Helen Riley to board of directors",
-    "tokens": [
-      "appoints",
-      "board",
-      "directors",
-      "helen",
-      "okta",
-      "riley"
-    ],
-    "ts": 1789763210.07826
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/apogee-enterprises-completes-groglass-acquisition-for-718m-93CH-4907842",
-    "title": "Apogee Enterprises completes Groglass acquisition for $71.8m",
-    "tokens": [
-      "acquisition",
-      "apogee",
-      "completes",
-      "enterprises",
-      "groglass"
-    ],
-    "ts": 1789763219.816256
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/qiagen-schedules-shareholder-vote-on-new-ceo-appointment-93CH-4907841",
-    "title": "Qiagen schedules shareholder vote on new CEO appointment",
-    "tokens": [
-      "appointment",
-      "ceo",
-      "qiagen",
-      "schedules",
-      "shareholder",
-      "vote"
-    ],
-    "ts": 1789763230.580762
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hf-foods-terminates-100-million-equity-offering-program-93CH-4907840",
-    "title": "HF Foods terminates $100 million equity offering program",
-    "tokens": [
-      "100",
-      "equity",
-      "foods",
-      "million",
-      "offering",
-      "program",
-      "terminates"
-    ],
-    "ts": 1789763239.0407627
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/webuy-global-receives-nasdaq-minimum-bid-price-deficiency-notice-93CH-4907832",
-    "title": "Webuy Global receives Nasdaq minimum bid price deficiency notice",
-    "tokens": [
-      "bid",
-      "deficiency",
-      "global",
-      "minimum",
-      "nasdaq",
-      "notice",
-      "price",
-      "receives",
-      "webuy"
-    ],
-    "ts": 1789763249.6765335
-  },
-  {
-    "id": "weyerhaeuser-stock-underperforming-p-500-104454210.html",
-    "title": "Is Weyerhaeuser Stock Underperforming the S&P 500?",
-    "tokens": [
-      "500",
-      "stock",
-      "underperforming",
-      "weyerhaeuser"
-    ],
-    "ts": 1789763253.8065107
-  },
-  {
-    "id": "tyler-technologies-stock-underperforming-dow-104129457.html",
-    "title": "Is Tyler Technologies Stock Underperforming the Dow?",
-    "tokens": [
-      "dow",
-      "stock",
-      "technologies",
-      "tyler",
-      "underperforming"
-    ],
-    "ts": 1789763259.560014
-  },
-  {
-    "id": "strong-demand-weak-margins-gct-104344842.html",
-    "title": "Strong Demand, Weak Margins: GCT Semiconductor Could Be a Big Second Half Story",
-    "tokens": [
-      "big",
-      "could",
-      "demand",
-      "gct",
-      "half",
-      "margins",
-      "second",
-      "semiconductor",
-      "story",
-      "strong",
-      "weak"
-    ],
-    "ts": 1789763270.9777274
-  },
-  {
-    "id": "nvidia-named-potential-investor-anthropic-105741926.html",
-    "title": "Nvidia Is Named as a Potential Investor in Anthropic’s IPO. Here’s What to Know.",
-    "tokens": [
-      "anthropic",
-      "here",
-      "investor",
-      "ipo",
-      "know",
-      "named",
-      "nvidia",
-      "potential",
-      "what"
-    ],
-    "ts": 1789763282.5792384
-  },
-  {
-    "id": "analyzing-butterfly-spread-microsoft-110003534.html",
-    "title": "Analyzing a Butterfly Spread on Microsoft",
-    "tokens": [
-      "analyzing",
-      "butterfly",
-      "microsoft",
-      "spread"
-    ],
-    "ts": 1789763292.5018537
-  },
-  {
     "id": "jim-cramer-suggests-caller-time-110105395.html",
     "title": "Jim Cramer Suggests A Caller That It Is Time to Move On From DraftKings (DKNG)",
     "tokens": [
@@ -23994,5 +23830,175 @@
       "windfall"
     ],
     "ts": 1790025194.694932
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-vicor-stock-surging-today-93CH-4909670",
+    "title": "Why is Vicor stock surging today?",
+    "tokens": [
+      "stock",
+      "surging",
+      "today",
+      "vicor",
+      "why"
+    ],
+    "ts": 1790025957.9569228
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trading-day-ai-euphoria-back-with-a-bang-4909669",
+    "title": "Trading Day: AI euphoria back with a bang",
+    "tokens": [
+      "back",
+      "bang",
+      "day",
+      "euphoria",
+      "trading"
+    ],
+    "ts": 1790025964.5733354
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ge-aerospace-declares-047-quarterly-dividend-93CH-4909668",
+    "title": "GE Aerospace declares $0.47 quarterly dividend",
+    "tokens": [
+      "aerospace",
+      "declares",
+      "dividend",
+      "quarterly"
+    ],
+    "ts": 1790025976.6431198
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/endava-stock-tumbles-10-on-cfo-leave-accounting-probe-93CH-4909666",
+    "title": "Endava stock tumbles 10% on CFO leave, accounting probe",
+    "tokens": [
+      "accounting",
+      "cfo",
+      "endava",
+      "leave",
+      "probe",
+      "stock",
+      "tumbles"
+    ],
+    "ts": 1790025984.0240657
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/endava-cfo-placed-on-leave-amid-accounting-investigation-93CH-4909663",
+    "title": "Endava CFO placed on leave amid accounting investigation",
+    "tokens": [
+      "accounting",
+      "cfo",
+      "endava",
+      "investigation",
+      "leave",
+      "placed"
+    ],
+    "ts": 1790025990.8650346
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tomi-environmental-stock-surges-on-canceled-merger-deal-93CH-4909661",
+    "title": "Tomi Environmental stock surges on canceled merger deal",
+    "tokens": [
+      "canceled",
+      "deal",
+      "environmental",
+      "merger",
+      "stock",
+      "surges",
+      "tomi"
+    ],
+    "ts": 1790025998.5978363
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/vecima-acquires-cablediag-pnm-software-platform-from-akleza-93CH-4909660",
+    "title": "Vecima acquires CableDiag PNM software platform from Akleza",
+    "tokens": [
+      "acquires",
+      "akleza",
+      "cablediag",
+      "platform",
+      "pnm",
+      "software",
+      "vecima"
+    ],
+    "ts": 1790026006.5463421
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/central-garden--pet-names-jason-barnes-to-lead-garden-segment-93CH-4909658",
+    "title": "Central Garden & Pet names Jason Barnes to lead garden segment",
+    "tokens": [
+      "barnes",
+      "central",
+      "garden",
+      "jason",
+      "lead",
+      "names",
+      "pet",
+      "segment"
+    ],
+    "ts": 1790026014.5221682
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sun-life-converts-preferred-shares-to-single-series-93CH-4909659",
+    "title": "Sun Life converts preferred shares to single series",
+    "tokens": [
+      "converts",
+      "life",
+      "preferred",
+      "series",
+      "shares",
+      "single",
+      "sun"
+    ],
+    "ts": 1790026021.8534272
+  },
+  {
+    "id": "scott-bessent-helped-george-soros-130000046.html",
+    "title": "Scott Bessent helped George Soros net $1 billion breaking the Bank of England — now he's fighting a U.S. bond selloff",
+    "tokens": [
+      "bank",
+      "bessent",
+      "billion",
+      "bond",
+      "breaking",
+      "england",
+      "fighting",
+      "george",
+      "helped",
+      "net",
+      "now",
+      "scott",
+      "selloff",
+      "soros"
+    ],
+    "ts": 1790026029.2986908
+  },
+  {
+    "id": "dick-portillo-sold-restaurant-empire-130000099.html",
+    "title": "Dick Portillo sold his restaurant empire for nearly $1B, but says he was happier before the deal",
+    "tokens": [
+      "before",
+      "deal",
+      "dick",
+      "empire",
+      "happier",
+      "his",
+      "nearly",
+      "portillo",
+      "restaurant",
+      "sold"
+    ],
+    "ts": 1790026036.1914048
+  },
+  {
+    "id": "meta-ai-agent-could-missing-130002359.html",
+    "title": "Meta’s New AI Agent Could Be the Missing Piece for META Stock",
+    "tokens": [
+      "agent",
+      "could",
+      "meta",
+      "missing",
+      "piece",
+      "stock"
+    ],
+    "ts": 1790026043.819714
   }
 ]

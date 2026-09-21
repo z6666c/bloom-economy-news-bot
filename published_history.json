@@ -1,22 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/bofa-upgrades-equinor-as-higher-gas-prices-boost-cash-flow-outlook-4906993",
-    "title": "BofA upgrades Equinor as higher gas prices boost cash flow outlook",
-    "tokens": [
-      "bofa",
-      "boost",
-      "cash",
-      "equinor",
-      "flow",
-      "gas",
-      "higher",
-      "outlook",
-      "prices",
-      "upgrades"
-    ],
-    "ts": 1789727283.386379
-  },
-  {
     "id": "rate-rise-could-exacerbate-longstanding-222302262.html",
     "title": "Rate rise could exacerbate longstanding problems for the US PE industry",
     "tokens": [
@@ -23808,5 +23791,22 @@
       "week"
     ],
     "ts": 1789986554.848725
+  },
+  {
+    "id": "eb778519-5a5e-48ce-b5fa-fc4dfb736e06",
+    "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
+    "tokens": [
+      "000",
+      "648",
+      "bearish",
+      "bets",
+      "bitcoin",
+      "forces",
+      "hits",
+      "million",
+      "short",
+      "squeeze"
+    ],
+    "ts": 1789987315.291392
   }
 ]

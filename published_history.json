@@ -1,63 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/former-united-kingdom-prime-minister-liz-truss-joins-roundtable-board-of-directors-to-lead-european-press-coalition-1036556769",
-    "title": "Former United Kingdom Prime Minister Liz Truss Joins Roundtable Board of Directors, to Lead European Press Coalition",
-    "tokens": [
-      "board",
-      "coalition",
-      "directors",
-      "european",
-      "former",
-      "joins",
-      "kingdom",
-      "lead",
-      "liz",
-      "minister",
-      "press",
-      "prime",
-      "roundtable",
-      "truss",
-      "united"
-    ],
-    "ts": 1789738073.2390501
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/premium-global-income-split-fund-announces-closing-of-overnight-offering-of-preferred-shares-and-class-a-shares-1036556771",
-    "title": "Premium Global Income Split Fund Announces Closing of Overnight Offering of Preferred Shares and Class A Shares",
-    "tokens": [
-      "announces",
-      "class",
-      "closing",
-      "fund",
-      "global",
-      "income",
-      "offering",
-      "overnight",
-      "preferred",
-      "premium",
-      "shares",
-      "split"
-    ],
-    "ts": 1789738087.1135821
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/medical-innovation-benefits-the-people-highlights-of-the-2026-beijing-capital-international-medical-conference-1036556761",
-    "title": "Medical Innovation Benefits the People: Highlights of the 2026 Beijing Capital International Medical Conference",
-    "tokens": [
-      "2026",
-      "beijing",
-      "benefits",
-      "capital",
-      "conference",
-      "highlights",
-      "innovation",
-      "international",
-      "medical",
-      "people"
-    ],
-    "ts": 1789738098.1555839
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-urges-smartsheet-inc.-smar-investors-seeking-recovery-to-contact-the-firm-before-october-5-2026-1036556755",
     "title": "Kaplan Fox Urges Smartsheet Inc. (SMAR) Investors Seeking Recovery to Contact the Firm Before October 5, 2026",
     "tokens": [
@@ -23836,5 +23778,50 @@
       "svp"
     ],
     "ts": 1789997326.3449192
+  },
+  {
+    "id": "tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt-132800172.html",
+    "title": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT",
+    "tokens": [
+      "chatgpt",
+      "cheap",
+      "haven",
+      "launched",
+      "openai",
+      "since",
+      "stocks",
+      "tech"
+    ],
+    "ts": 1789998103.9593716
+  },
+  {
+    "id": "oilprice-news-45551",
+    "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
+    "tokens": [
+      "bet",
+      "diplomacy",
+      "iran",
+      "oil",
+      "prices",
+      "slide",
+      "traders"
+    ],
+    "ts": 1789998108.562641
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth",
+    "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
+    "tokens": [
+      "claims",
+      "eth",
+      "flippening",
+      "kyle",
+      "one",
+      "predicts",
+      "samani",
+      "sol",
+      "uses"
+    ],
+    "ts": 1789998113.5245266
   }
 ]

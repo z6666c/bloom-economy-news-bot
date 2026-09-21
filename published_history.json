@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/c3ai-ceo-thomas-siebel-sells-478m-in-company-stock-93CH-4906693",
-    "title": "C3.ai CEO Thomas Siebel sells $4.78m in company stock",
-    "tokens": [
-      "78m",
-      "ceo",
-      "company",
-      "sells",
-      "siebel",
-      "stock",
-      "thomas"
-    ],
-    "ts": 1789712042.979615
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/pe-firms-weigh-fresh-bids-for-evergrande-property-services--report-93CH-4906686",
     "title": "PE Firms weigh fresh bids for Evergrande Property Services - report",
     "tokens": [
@@ -23781,5 +23767,21 @@
       "theater"
     ],
     "ts": 1789954949.2642002
+  },
+  {
+    "id": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto",
+    "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
+    "tokens": [
+      "30k",
+      "crypto",
+      "devices",
+      "fake",
+      "infect",
+      "korean",
+      "north",
+      "recruiters",
+      "steal"
+    ],
+    "ts": 1789955706.3818526
   }
 ]

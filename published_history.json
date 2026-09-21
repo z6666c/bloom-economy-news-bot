@@ -1,156 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/empire-state-realty-stock-hits-52week-low-at-400-93CH-4907638",
-    "title": "Empire State Realty stock hits 52-week low at $4.00",
-    "tokens": [
-      "empire",
-      "hits",
-      "low",
-      "realty",
-      "state",
-      "stock",
-      "week"
-    ],
-    "ts": 1789746854.4385347
-  },
-  {
-    "id": "meta-become-mega-cloud-operator-154422140.html",
-    "title": "Meta Is About to Become Mega Cloud Operator",
-    "tokens": [
-      "about",
-      "become",
-      "cloud",
-      "mega",
-      "meta",
-      "operator"
-    ],
-    "ts": 1789746864.4361672
-  },
-  {
-    "id": "fed-sat-on-silicon-valley-bank-flaws-because-regulators-feared-being-wrong-report-finds-154331423.html",
-    "title": "Fed sat on Silicon Valley Bank flaws because regulators feared being wrong, report finds",
-    "tokens": [
-      "bank",
-      "because",
-      "being",
-      "feared",
-      "fed",
-      "finds",
-      "flaws",
-      "regulators",
-      "report",
-      "sat",
-      "silicon",
-      "valley",
-      "wrong"
-    ],
-    "ts": 1789746874.5931923
-  },
-  {
-    "id": "costco-doordash-launch-came-too-154323539.html",
-    "title": "Costco’s DoorDash Launch Came Too Late to Touch the Quarter It Reports September 24",
-    "tokens": [
-      "came",
-      "costco",
-      "doordash",
-      "late",
-      "launch",
-      "quarter",
-      "reports",
-      "september",
-      "too",
-      "touch"
-    ],
-    "ts": 1789746884.6074936
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes",
-    "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
-    "tokens": [
-      "81k",
-      "bitcoin",
-      "bond",
-      "global",
-      "hits",
-      "oil",
-      "rebound",
-      "woes",
-      "yields"
-    ],
-    "ts": 1789746897.0730908
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/belgium-stocks-lower-at-close-of-trade-bel-20-down-111-4907660",
-    "title": "Belgium stocks lower at close of trade; BEL 20 down 1.11%",
-    "tokens": [
-      "bel",
-      "belgium",
-      "close",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789747823.0702171
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-ned-holmes-sells-78030-in-stock-93CH-4907658",
-    "title": "Prosperity Bancshares director Ned Holmes sells $78,030 in stock",
-    "tokens": [
-      "030",
-      "bancshares",
-      "director",
-      "holmes",
-      "ned",
-      "prosperity",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789747833.7712715
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/teradyne-director-marilyn-matz-sells-140444-in-shares-93CH-4907657",
-    "title": "Teradyne director Marilyn Matz sells $140,444 in shares",
-    "tokens": [
-      "140",
-      "444",
-      "director",
-      "marilyn",
-      "matz",
-      "sells",
-      "shares",
-      "teradyne"
-    ],
-    "ts": 1789747843.407057
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/growgeneration-director-eula-adams-buys-6680-in-stock-93CH-4907656",
-    "title": "GrowGeneration director Eula Adams buys $6,680 in stock",
-    "tokens": [
-      "680",
-      "adams",
-      "buys",
-      "director",
-      "eula",
-      "growgeneration",
-      "stock"
-    ],
-    "ts": 1789747854.405992
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/virginia-tightens-data-centerrestrictions-amid-political-backlash-4907645",
-    "title": "Virginia tightens data center restrictions amid political backlash",
-    "tokens": [
-      "backlash",
-      "center",
-      "data",
-      "political",
-      "restrictions",
-      "tightens",
-      "virginia"
-    ],
-    "ts": 1789747864.5684881
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-082-4907655",
     "title": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.82%",
     "tokens": [
@@ -23863,5 +23712,163 @@
       "warner"
     ],
     "ts": 1790006068.9080062
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/nowpayments-releases-crosschain-payout-data-revealing-key-performance-benchmarks-across-tron-bnb-chain-and-solana-4909411",
+    "title": "NOWPayments Releases Cross-Chain Payout Data Revealing Key Performance Benchmarks Across TRON, BNB Chain, and Solana",
+    "tokens": [
+      "across",
+      "benchmarks",
+      "bnb",
+      "chain",
+      "cross",
+      "data",
+      "key",
+      "nowpayments",
+      "payout",
+      "performance",
+      "releases",
+      "revealing",
+      "solana",
+      "tron"
+    ],
+    "ts": 1790007069.8743553
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/world-bank-board-backs-changes-to-debt-sustainability-framework-for-poor-countries-4909387",
+    "title": "World Bank, IMF back debt framework changes for poor countries",
+    "tokens": [
+      "back",
+      "bank",
+      "changes",
+      "countries",
+      "debt",
+      "framework",
+      "imf",
+      "poor",
+      "world"
+    ],
+    "ts": 1790007077.3591063
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-131-4909410",
+    "title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.31%",
+    "tokens": [
+      "close",
+      "higher",
+      "omx",
+      "stockholm",
+      "stocks",
+      "sweden",
+      "trade"
+    ],
+    "ts": 1790007086.079354
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/finland-stocks-higher-at-close-of-trade-omx-helsinki-25-up-041-4909408",
+    "title": "Finland stocks higher at close of trade; OMX Helsinki 25 up 0.41%",
+    "tokens": [
+      "close",
+      "finland",
+      "helsinki",
+      "higher",
+      "omx",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790007093.1423054
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-kromek-h2-2026-shares-fall-on-revenue-mix-shift-93CH-4909407",
+    "title": "Earnings call transcript: Kromek H2 2026 shares fall on revenue mix shift",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "fall",
+      "kromek",
+      "mix",
+      "revenue",
+      "shares",
+      "shift",
+      "transcript"
+    ],
+    "ts": 1790007100.7965083
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bank-of-canada-says-new-us-tariffs-could-slash-fourth-quarter-growth-4909392",
+    "title": "Bank of Canada says new US tariffs could slash fourth quarter growth",
+    "tokens": [
+      "bank",
+      "canada",
+      "could",
+      "fourth",
+      "growth",
+      "quarter",
+      "slash",
+      "tariffs"
+    ],
+    "ts": 1790007112.2074742
+  },
+  {
+    "id": "best-wells-fargo-credit-cards-164310496.html",
+    "title": "Best Wells Fargo credit cards (2026)",
+    "tokens": [
+      "2026",
+      "best",
+      "cards",
+      "credit",
+      "fargo",
+      "wells"
+    ],
+    "ts": 1790007121.3413796
+  },
+  {
+    "id": "oilprice-article-45560",
+    "title": "Record Diesel Prices Raise Fears of Local Fuel Shortages",
+    "tokens": [
+      "diesel",
+      "fears",
+      "fuel",
+      "local",
+      "prices",
+      "raise",
+      "record",
+      "shortages"
+    ],
+    "ts": 1790007130.416115
+  },
+  {
+    "id": "oilprice-news-45560",
+    "title": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu",
+    "tokens": [
+      "arabia",
+      "exports",
+      "houthi",
+      "oil",
+      "reroutes",
+      "saudi",
+      "strikes",
+      "target",
+      "yanbu"
+    ],
+    "ts": 1790007134.4331083
+  },
+  {
+    "id": "36ae7118-89a5-48d2-bb83-2e432711f8c6",
+    "title": "Crypto's Fairshake repeats history with $30 million to oppose Sherrod Brown Senate bid",
+    "tokens": [
+      "bid",
+      "brown",
+      "crypto",
+      "fairshake",
+      "history",
+      "million",
+      "oppose",
+      "repeats",
+      "senate",
+      "sherrod"
+    ],
+    "ts": 1790007138.6657238
   }
 ]

@@ -1,239 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-oil-prices-fall-4907520",
-    "title": "S&P 500, Nasdaq open higher as oil prices fall",
-    "tokens": [
-      "500",
-      "fall",
-      "higher",
-      "nasdaq",
-      "oil",
-      "open",
-      "prices"
-    ],
-    "ts": 1789740749.8226407
-  },
-  {
-    "id": "juanita-foods-house-production-plant-140455185.html",
-    "title": "Juanita’s Foods to house production at new plant",
-    "tokens": [
-      "foods",
-      "house",
-      "juanita",
-      "plant",
-      "production"
-    ],
-    "ts": 1789740759.6052866
-  },
-  {
-    "id": "why-aristotle-international-equity-fund-135629902.html",
-    "title": "Here’s Why Aristotle International Equity Fund Exited Unilever (UL)",
-    "tokens": [
-      "aristotle",
-      "equity",
-      "exited",
-      "fund",
-      "here",
-      "international",
-      "unilever",
-      "why"
-    ],
-    "ts": 1789740768.920379
-  },
-  {
-    "id": "magnum-ice-cream-micc-standalone-135414186.html",
-    "title": "Magnum Ice Cream (MICC): Standalone Structure Enables Exclusive Focus on Frozen Desserts",
-    "tokens": [
-      "cream",
-      "desserts",
-      "enables",
-      "exclusive",
-      "focus",
-      "frozen",
-      "ice",
-      "magnum",
-      "micc",
-      "standalone",
-      "structure"
-    ],
-    "ts": 1789740780.070637
-  },
-  {
-    "id": "u-regulator-expands-crypto-trading-135400971.html",
-    "title": "U.S. Regulator Expands Crypto Trading To Online Platforms",
-    "tokens": [
-      "crypto",
-      "expands",
-      "online",
-      "platforms",
-      "regulator",
-      "trading"
-    ],
-    "ts": 1789740789.5718124
-  },
-  {
-    "id": "deep-talks-first-trust-vehicles-140000862.html",
-    "title": "Deep talks first, trust vehicles later: 5 questions that reveal client goals",
-    "tokens": [
-      "client",
-      "deep",
-      "first",
-      "goals",
-      "later",
-      "questions",
-      "reveal",
-      "talks",
-      "trust",
-      "vehicles"
-    ],
-    "ts": 1789740801.7663574
-  },
-  {
-    "id": "stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html",
-    "title": "Stock market today: Dow, S&P 500, Nasdaq mixed as oil prices rise",
-    "tokens": [
-      "500",
-      "dow",
-      "market",
-      "mixed",
-      "nasdaq",
-      "oil",
-      "prices",
-      "rise",
-      "stock",
-      "today"
-    ],
-    "ts": 1789740812.176634
-  },
-  {
-    "id": "oilprice-article-45543",
-    "title": "The Oil Market’s Backup Plan Is Breaking Down",
-    "tokens": [
-      "backup",
-      "breaking",
-      "market",
-      "oil",
-      "plan"
-    ],
-    "ts": 1789740822.7464314
-  },
-  {
-    "id": "oilprice-news-45543",
-    "title": "Japan's Refiners Have Enough Crude to Last Through November, Industry Body Says",
-    "tokens": [
-      "body",
-      "crude",
-      "enough",
-      "industry",
-      "japan",
-      "last",
-      "november",
-      "refiners",
-      "through"
-    ],
-    "ts": 1789740832.9074917
-  },
-  {
-    "id": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma",
-    "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
-    "tokens": [
-      "banks",
-      "crypto",
-      "double",
-      "hits",
-      "list",
-      "mica",
-      "provider",
-      "share"
-    ],
-    "ts": 1789740843.2221313
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-almonty-industries-stock-buy-rating-93CH-4907561",
-    "title": "D.A. Davidson reiterates Almonty Industries stock buy rating",
-    "tokens": [
-      "almonty",
-      "buy",
-      "davidson",
-      "industries",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1789741635.7336843
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-buy-on-evi-industries-stock-32-target-93CH-4907560",
-    "title": "DA Davidson reiterates Buy on EVI Industries stock, $32 target",
-    "tokens": [
-      "buy",
-      "davidson",
-      "evi",
-      "industries",
-      "reiterates",
-      "stock",
-      "target"
-    ],
-    "ts": 1789741645.199009
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-crane-nxt-stock-rating-on-currency-tech-strength-93CH-4907559",
-    "title": "DA Davidson reiterates Crane NXT stock rating on currency tech strength",
-    "tokens": [
-      "crane",
-      "currency",
-      "davidson",
-      "nxt",
-      "rating",
-      "reiterates",
-      "stock",
-      "strength",
-      "tech"
-    ],
-    "ts": 1789741655.2677512
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hsbc-expands-premier-banking-services-in-the-us-93CH-4907558",
-    "title": "HSBC expands Premier banking services in the US",
-    "tokens": [
-      "banking",
-      "expands",
-      "hsbc",
-      "premier",
-      "services"
-    ],
-    "ts": 1789741666.3307
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/goldcom-director-jeffrey-d-benjamin-sells-108m-in-shares-93CH-4907557",
-    "title": "Gold.com director Jeffrey D. Benjamin sells $1.08m in shares",
-    "tokens": [
-      "08m",
-      "benjamin",
-      "com",
-      "director",
-      "gold",
-      "jeffrey",
-      "sells",
-      "shares"
-    ],
-    "ts": 1789741676.681179
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/alphabet-c-stuck-in-chop-zone-at-341-hourly-levels-93CH-4899897",
-    "title": "Alphabet C stalls at $355 resistance after surge: Live levels",
-    "tokens": [
-      "355",
-      "alphabet",
-      "levels",
-      "live",
-      "resistance",
-      "stalls",
-      "surge"
-    ],
-    "ts": 1789741687.0920572
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/dow-jones-tests-50sma-resistance-at-52931-live-levels-93CH-4899894",
     "title": "Dow Jones oversold near 51,614 support: Live levels",
     "tokens": [
@@ -23813,5 +23579,257 @@
       "yanbu"
     ],
     "ts": 1790000011.5372612
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/czech-republic-approves-teslas-fsd-after-earlier-safety-concerns-4909315",
+    "title": "Czech Republic approves Tesla’s FSD after earlier safety concerns",
+    "tokens": [
+      "approves",
+      "concerns",
+      "czech",
+      "earlier",
+      "fsd",
+      "republic",
+      "safety",
+      "tesla"
+    ],
+    "ts": 1790000888.873306
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/paramountsettles-states-challenge-to-warner-bros-merger-bloomberg-news-reports-4909314",
+    "title": "Paramount settles states’ challenge to Warner Bros merger, Bloomberg News reports",
+    "tokens": [
+      "bloomberg",
+      "bros",
+      "challenge",
+      "merger",
+      "news",
+      "paramount",
+      "reports",
+      "settles",
+      "states",
+      "warner"
+    ],
+    "ts": 1790000896.577533
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/dollar-index-consolidates-at-10009-in-bull-trap-danger-zone-live-93CH-4909312",
+    "title": "Dollar Index consolidates at 100.09 in bull trap danger zone: Live",
+    "tokens": [
+      "100",
+      "bull",
+      "consolidates",
+      "danger",
+      "dollar",
+      "index",
+      "live",
+      "trap",
+      "zone"
+    ],
+    "ts": 1790000904.8423202
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nvidia-reclaims-key-mas-at-22333-eyes-228-resistance-live-93CH-4909311",
+    "title": "NVIDIA reclaims key MAs at $223.33, eyes $228 resistance: Live",
+    "tokens": [
+      "223",
+      "228",
+      "eyes",
+      "key",
+      "live",
+      "mas",
+      "nvidia",
+      "reclaims",
+      "resistance"
+    ],
+    "ts": 1790000913.2190778
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/alphabet-tests-357-resistance-where-200ma-meets-fib-live-93CH-4909310",
+    "title": "Alphabet tests $357 resistance where 200MA meets Fib: Live",
+    "tokens": [
+      "200ma",
+      "357",
+      "alphabet",
+      "fib",
+      "live",
+      "meets",
+      "resistance",
+      "tests",
+      "where"
+    ],
+    "ts": 1790000921.2684188
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tesla-tests-381-resistance-confluence-live-levels-93CH-4909308",
+    "title": "Tesla tests $381 resistance confluence: Live levels",
+    "tokens": [
+      "381",
+      "confluence",
+      "levels",
+      "live",
+      "resistance",
+      "tesla",
+      "tests"
+    ],
+    "ts": 1790000928.4715466
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nasdaq-100-hits-overbought-resistance-at-30405-live-levels-93CH-4909309",
+    "title": "Nasdaq 100 hits overbought resistance at 30,405: Live levels",
+    "tokens": [
+      "100",
+      "405",
+      "hits",
+      "levels",
+      "live",
+      "nasdaq",
+      "overbought",
+      "resistance"
+    ],
+    "ts": 1790000936.0957909
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/dow-jones-trapped-in-bear-flag-at-52187-live-levels-93CH-4909307",
+    "title": "Dow Jones trapped in bear flag at 52,187: Live levels",
+    "tokens": [
+      "187",
+      "bear",
+      "dow",
+      "flag",
+      "jones",
+      "levels",
+      "live",
+      "trapped"
+    ],
+    "ts": 1790000944.7486365
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sp-500-tests-7838-resistance-amid-bull-trap-warnings-live-93CH-4909306",
+    "title": "S&P 500 tests 7,838 resistance amid bull trap warnings: Live",
+    "tokens": [
+      "500",
+      "838",
+      "bull",
+      "live",
+      "resistance",
+      "tests",
+      "trap",
+      "warnings"
+    ],
+    "ts": 1790000952.3607275
+  },
+  {
+    "id": "sitime-corporation-sitm-surged-strong-141359726.html",
+    "title": "SiTime Corporation (SITM) Surged on Strong AI data center demand",
+    "tokens": [
+      "center",
+      "corporation",
+      "data",
+      "demand",
+      "sitime",
+      "sitm",
+      "strong",
+      "surged"
+    ],
+    "ts": 1790000960.8988624
+  },
+  {
+    "id": "oura-publicly-files-for-initial-public-offering-looks-to-raise-22-billion-140523751.html",
+    "title": "Oura publicly files for initial public offering, looks to raise $2.2 billion",
+    "tokens": [
+      "billion",
+      "files",
+      "initial",
+      "looks",
+      "offering",
+      "oura",
+      "public",
+      "publicly",
+      "raise"
+    ],
+    "ts": 1790000969.5140574
+  },
+  {
+    "id": "pizzaexpress-explores-sale-valuation-500m-141813074.html",
+    "title": "PizzaExpress explores sale at valuation of up to £500m – report",
+    "tokens": [
+      "500m",
+      "explores",
+      "pizzaexpress",
+      "report",
+      "sale",
+      "valuation"
+    ],
+    "ts": 1790000978.3955593
+  },
+  {
+    "id": "lifted-brightspring-health-services-btsg-140139645.html",
+    "title": "Here’s What Lifted BrightSpring Health Services (BTSG)",
+    "tokens": [
+      "brightspring",
+      "btsg",
+      "health",
+      "here",
+      "lifted",
+      "services",
+      "what"
+    ],
+    "ts": 1790000986.5189483
+  },
+  {
+    "id": "ai-build-strengthens-credo-technology-135854858.html",
+    "title": "AI build-out Strengthens Credo Technology Group Holding Ltd (CRDO)",
+    "tokens": [
+      "build",
+      "crdo",
+      "credo",
+      "group",
+      "holding",
+      "ltd",
+      "strengthens",
+      "technology"
+    ],
+    "ts": 1790000994.4877195
+  },
+  {
+    "id": "applied-optoelectronics-aaoi-hyperscaler-capex-135615291.html",
+    "title": "Applied Optoelectronics (AAOI): Hyperscaler Capex Surge Fuels Unprecedented Demand for Optical Infrastructure",
+    "tokens": [
+      "aaoi",
+      "applied",
+      "capex",
+      "demand",
+      "fuels",
+      "hyperscaler",
+      "infrastructure",
+      "optical",
+      "optoelectronics",
+      "surge",
+      "unprecedented"
+    ],
+    "ts": 1790001002.622873
+  },
+  {
+    "id": "oklo-climbs-5-nuclear-names-141418370.html",
+    "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week’s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+    "tokens": [
+      "back",
+      "bounce",
+      "climbs",
+      "energy",
+      "gains",
+      "last",
+      "names",
+      "nuclear",
+      "nuscale",
+      "oklo",
+      "power",
+      "rises",
+      "selloff",
+      "uranium",
+      "week"
+    ],
+    "ts": 1790001011.6280928
   }
 ]

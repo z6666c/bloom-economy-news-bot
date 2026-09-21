@@ -1,34 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/boj-governor-uedas-comments-at-news-conference-4906744",
-    "title": "BOJ Governor Ueda’s comments at news conference",
-    "tokens": [
-      "boj",
-      "comments",
-      "conference",
-      "governor",
-      "news",
-      "ueda"
-    ],
-    "ts": 1789715491.053288
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nestle-weighing-all-options-after-kremlin-moves-to-seize-russia-business-4906736",
-    "title": "Nestle weighing all options after Kremlin moves to seize Russia business",
-    "tokens": [
-      "all",
-      "business",
-      "kremlin",
-      "moves",
-      "nestle",
-      "options",
-      "russia",
-      "seize",
-      "weighing"
-    ],
-    "ts": 1789715498.902602
-  },
-  {
     "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
     "title": "Bitcoin rises to $77.5k as markets look past Clarity setback",
     "tokens": [
@@ -23811,5 +23782,36 @@
       "what"
     ],
     "ts": 1789967706.380096
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/us-fed-boe-step-up-scrutiny-of-bank-exposure-to-trading-firms-after-jane-street-loss-ft-reports-4908257",
+    "title": "US Fed, BoE step up scrutiny of bank exposure to trading firms after Jane Street loss, FT reports",
+    "tokens": [
+      "bank",
+      "boe",
+      "exposure",
+      "fed",
+      "firms",
+      "jane",
+      "loss",
+      "reports",
+      "scrutiny",
+      "step",
+      "street",
+      "trading"
+    ],
+    "ts": 1789968649.2013624
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/five-takeaways-from-germanys-regional-elections-4908256",
+    "title": "Five takeaways from Germany’s regional elections",
+    "tokens": [
+      "elections",
+      "five",
+      "germany",
+      "regional",
+      "takeaways"
+    ],
+    "ts": 1789968657.3573096
   }
 ]

@@ -1,99 +1,5 @@
 [
   {
-    "id": "fed-rate-hike-could-backfire-163000297.html",
-    "title": "The Fed’s Rate Hike Could Backfire If Oil Prices Collapse",
-    "tokens": [
-      "backfire",
-      "collapse",
-      "could",
-      "fed",
-      "hike",
-      "oil",
-      "prices",
-      "rate"
-    ],
-    "ts": 1789776950.01397
-  },
-  {
-    "id": "openai-anthropic-slowdown-call-wont-163011305.html",
-    "title": "OpenAI, Anthropic Slowdown Call Won't Derail AI Infrastructure Demand, Why One Fund Manager Sees No Spending Pause in Sight",
-    "tokens": [
-      "anthropic",
-      "call",
-      "demand",
-      "derail",
-      "fund",
-      "infrastructure",
-      "manager",
-      "one",
-      "openai",
-      "pause",
-      "sees",
-      "sight",
-      "slowdown",
-      "spending",
-      "why",
-      "won"
-    ],
-    "ts": 1789776958.8032217
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/collective-metals-appoints-ram-kumar-as-new-ceo-93CH-4908012",
-    "title": "Collective Metals appoints Ram Kumar as new CEO",
-    "tokens": [
-      "appoints",
-      "ceo",
-      "collective",
-      "kumar",
-      "metals",
-      "ram"
-    ],
-    "ts": 1789778172.1645117
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/proenergy-eyes-40-billion-to-50-billion-valuation-in-us-ipo--bloomberg-4908009",
-    "title": "ProEnergy eyes $40 billion to $50 billion valuation in US IPO - Bloomberg",
-    "tokens": [
-      "billion",
-      "bloomberg",
-      "eyes",
-      "ipo",
-      "proenergy",
-      "valuation"
-    ],
-    "ts": 1789778184.0823839
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/bloom-energy-coo-satish-chitoori-sells-775k-in-stock-93CH-4908008",
-    "title": "Bloom Energy COO Satish Chitoori sells $775k in stock",
-    "tokens": [
-      "775k",
-      "bloom",
-      "chitoori",
-      "coo",
-      "energy",
-      "satish",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789778193.0152214
-  },
-  {
-    "id": "fluence-energy-shares-drop-houston-170000911.html",
-    "title": "Fluence Energy shares drop after Houston delays prompt cuts",
-    "tokens": [
-      "cuts",
-      "delays",
-      "drop",
-      "energy",
-      "fluence",
-      "houston",
-      "prompt",
-      "shares"
-    ],
-    "ts": 1789778202.4142802
-  },
-  {
     "id": "ionq-stock-down-34-three-170255494.html",
     "title": "IonQ Stock Is Down 34% in Three Months. Here’s What the Street Has to Say.",
     "tokens": [
@@ -23932,5 +23838,98 @@
       "serabi"
     ],
     "ts": 1790054783.5346017
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/the-show-must-go-on-struggling-luxury-brands-seek-catwalk-boost-in-milan-and-paris-4909868",
+    "title": "The show must go on: struggling luxury brands seek catwalk boost in Milan and Paris",
+    "tokens": [
+      "boost",
+      "brands",
+      "catwalk",
+      "luxury",
+      "milan",
+      "must",
+      "paris",
+      "seek",
+      "show",
+      "struggling"
+    ],
+    "ts": 1790055634.661909
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ecbs-lane-sees-inflation-returning-to-target-from-mid2027paper-4909871",
+    "title": "ECB’s Lane sees inflation returning to target from mid-2027-paper",
+    "tokens": [
+      "2027",
+      "ecb",
+      "inflation",
+      "lane",
+      "mid",
+      "paper",
+      "returning",
+      "sees",
+      "target"
+    ],
+    "ts": 1790055641.679613
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/zelenskiy-to-meet-trump-at-un-in-push-for-energy-truce-with-russia-4909869",
+    "title": "Zelenskiy to meet Trump at UN in push for energy truce with Russia",
+    "tokens": [
+      "energy",
+      "meet",
+      "push",
+      "russia",
+      "truce",
+      "trump",
+      "zelenskiy"
+    ],
+    "ts": 1790055648.8249738
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/alibabas-zhenwu-v900-chip-and-what-it-means-for-chinas-foundry-ecosystem-93CH-4909867",
+    "title": "Alibaba’s Zhenwu V900 chip and what it means for China’s foundry ecosystem",
+    "tokens": [
+      "alibaba",
+      "china",
+      "chip",
+      "ecosystem",
+      "foundry",
+      "means",
+      "v900",
+      "what",
+      "zhenwu"
+    ],
+    "ts": 1790055656.5609698
+  },
+  {
+    "id": "a862c9b5-b9ba-4e03-ad89-f741048cf060",
+    "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+    "tokens": [
+      "bitcoin",
+      "brings",
+      "closer",
+      "elon",
+      "musk",
+      "stock",
+      "timeline",
+      "trading"
+    ],
+    "ts": 1790055665.0405731
+  },
+  {
+    "id": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto",
+    "title": "Australian 40-year economic outlook recognizes ‘AI revolution’, omits crypto",
+    "tokens": [
+      "australian",
+      "crypto",
+      "economic",
+      "omits",
+      "outlook",
+      "recognizes",
+      "revolution",
+      "year"
+    ],
+    "ts": 1790055672.8127117
   }
 ]

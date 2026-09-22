@@ -1,64 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/morgan-stanley-private-credit-fund-redemptions-remain-elevated-in-third-quarter-4907950",
-    "title": "Morgan Stanley private credit fund redemptions remain elevated in third quarter",
-    "tokens": [
-      "credit",
-      "elevated",
-      "fund",
-      "morgan",
-      "private",
-      "quarter",
-      "redemptions",
-      "remain",
-      "stanley",
-      "third"
-    ],
-    "ts": 1789770326.3187222
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/top-airline-stocks-to-watch-according-to-td-cowen-93CH-4907949",
-    "title": "Top Airline Stocks to Watch, According to TD Cowen",
-    "tokens": [
-      "according",
-      "airline",
-      "cowen",
-      "stocks",
-      "top",
-      "watch"
-    ],
-    "ts": 1789770334.5791893
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trump-extends-restrictions-on-h1b-nonimmigrant-visa-program-by-another-year-4907948",
-    "title": "Trump extends restrictions on H-1B non-immigrant visa program by another year",
-    "tokens": [
-      "another",
-      "extends",
-      "immigrant",
-      "non",
-      "program",
-      "restrictions",
-      "trump",
-      "visa",
-      "year"
-    ],
-    "ts": 1789770344.715289
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/nvidia-cfo-colette-kress-sells-76m-in-stock-93CH-4907947",
-    "title": "NVIDIA CFO Colette Kress sells $7.6m in stock",
-    "tokens": [
-      "cfo",
-      "colette",
-      "kress",
-      "nvidia",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789770353.0053346
-  },
-  {
     "id": "lahontan-gold-signs-agreement-acquire-145511685.html",
     "title": "Lahontan Gold signs agreement to acquire Emergent Metals",
     "tokens": [
@@ -23974,5 +23915,67 @@
       "stock"
     ],
     "ts": 1790040386.4536293
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/eu-and-philippines-agree-on-free-trade-deal-4909812",
+    "title": "EU and Philippines agree on free trade deal",
+    "tokens": [
+      "agree",
+      "deal",
+      "free",
+      "philippines",
+      "trade"
+    ],
+    "ts": 1790041872.674988
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/gigacloud-technology-director-chen-zhiwu-sells-159360-in-shares-93CH-4909811",
+    "title": "GigaCloud technology director Chen Zhiwu sells $159,360 in shares",
+    "tokens": [
+      "159",
+      "360",
+      "chen",
+      "director",
+      "gigacloud",
+      "sells",
+      "shares",
+      "technology",
+      "zhiwu"
+    ],
+    "ts": 1790041880.2487683
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/gold-rises-as-oil-slide-eases-inflation-fears-trump-signals-iran-talks-4909810",
+    "title": "Gold rises as oil slide eases inflation fears, Trump signals Iran talks",
+    "tokens": [
+      "eases",
+      "fears",
+      "gold",
+      "inflation",
+      "iran",
+      "oil",
+      "rises",
+      "signals",
+      "slide",
+      "talks",
+      "trump"
+    ],
+    "ts": 1790041888.5810785
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-edges-higher-as-markets-eye-usiran-talks-saudi-flows-4909809",
+    "title": "Oil edges higher as markets eye U.S.-Iran talks, Saudi flows",
+    "tokens": [
+      "edges",
+      "eye",
+      "flows",
+      "higher",
+      "iran",
+      "markets",
+      "oil",
+      "saudi",
+      "talks"
+    ],
+    "ts": 1790041895.821703
   }
 ]

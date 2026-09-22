@@ -1,22 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/paramount-states-discuss-cnn-monitoring-and-film-release-commitment-sources-say-4907979",
-    "title": "Paramount, states discuss CNN monitoring and film release commitment, sources say",
-    "tokens": [
-      "cnn",
-      "commitment",
-      "discuss",
-      "film",
-      "monitoring",
-      "paramount",
-      "release",
-      "say",
-      "sources",
-      "states"
-    ],
-    "ts": 1789773913.691091
-  },
-  {
     "id": "https://www.investing.com/news/company-news/paramount-in-advanced-talks-to-settle-warner-bros-discovery-deal-lawsuit--wsj-4907978",
     "title": "Paramount in advanced talks to settle Warner Bros. Discovery deal lawsuit - WSJ",
     "tokens": [
@@ -23961,5 +23944,19 @@
       "stock"
     ],
     "ts": 1790046680.3391201
+  },
+  {
+    "id": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure",
+    "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
+    "tokens": [
+      "explore",
+      "fireblocks",
+      "kakao",
+      "kakaobank",
+      "opportunities",
+      "pay",
+      "stablecoin"
+    ],
+    "ts": 1790047649.297594
   }
 ]

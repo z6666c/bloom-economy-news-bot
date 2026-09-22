@@ -1,56 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/google-gemini-hacked-three-companies-during-cybersecurity-test--wsj-4907971",
-    "title": "Google Gemini hacked three companies during cybersecurity test - WSJ",
-    "tokens": [
-      "companies",
-      "cybersecurity",
-      "during",
-      "gemini",
-      "google",
-      "hacked",
-      "test",
-      "three",
-      "wsj"
-    ],
-    "ts": 1789773963.47374
-  },
-  {
-    "id": "c3-metals-ceo-major-copper-160622927.html",
-    "title": "C3 Metals CEO on major new copper target at Khaleesi and Q4 drilling plans",
-    "tokens": [
-      "ceo",
-      "copper",
-      "drilling",
-      "khaleesi",
-      "major",
-      "metals",
-      "plans",
-      "target"
-    ],
-    "ts": 1789773970.879792
-  },
-  {
-    "id": "everyone-seems-missed-13-most-160619465.html",
-    "title": "Everyone Seems to Have Missed the 13 Most Important Words in Kevin Warsh’s Press Conference About Hiking Rates",
-    "tokens": [
-      "about",
-      "conference",
-      "everyone",
-      "hiking",
-      "important",
-      "kevin",
-      "missed",
-      "most",
-      "press",
-      "rates",
-      "seems",
-      "warsh",
-      "words"
-    ],
-    "ts": 1789773978.599827
-  },
-  {
     "id": "corning-just-signed-multibillion-dollar-162101149.html",
     "title": "Corning Just Signed a Multibillion-Dollar Fiber Deal for AI and Broadband With Verizon. What That Means for GLW Stock.",
     "tokens": [
@@ -23959,5 +23908,49 @@
       "unveils"
     ],
     "ts": 1790048606.8428268
+  },
+  {
+    "id": "WP-MKTW-0005242568",
+    "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
+    "tokens": [
+      "college",
+      "mit",
+      "nation",
+      "now",
+      "princeton",
+      "run",
+      "top",
+      "year"
+    ],
+    "ts": 1790050254.7959886
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/td-cowen-names-top-pick-in-canadas-paper--forest-product-sector-93CH-4909846",
+    "title": "TD Cowen Names Top Pick in Canada’s Paper & Forest Product Sector",
+    "tokens": [
+      "canada",
+      "cowen",
+      "forest",
+      "names",
+      "paper",
+      "pick",
+      "product",
+      "sector",
+      "top"
+    ],
+    "ts": 1790050262.319668
+  },
+  {
+    "id": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum",
+    "title": "Trueo prediction market moves from Base to Ethereum",
+    "tokens": [
+      "base",
+      "ethereum",
+      "market",
+      "moves",
+      "prediction",
+      "trueo"
+    ],
+    "ts": 1790050270.996818
   }
 ]

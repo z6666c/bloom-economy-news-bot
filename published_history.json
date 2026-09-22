@@ -1,79 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/honeywell-wins-539m-navy-contract-for-navigation-parts-93CH-4907932",
-    "title": "Honeywell wins $53.9M Navy contract for navigation parts",
-    "tokens": [
-      "contract",
-      "honeywell",
-      "navigation",
-      "navy",
-      "parts",
-      "wins"
-    ],
-    "ts": 1789767522.1068976
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/leidos-wins-85m-air-force-contract-for-aerospace-design-93CH-4907931",
-    "title": "Leidos wins $85m Air Force contract for aerospace design",
-    "tokens": [
-      "85m",
-      "aerospace",
-      "air",
-      "contract",
-      "design",
-      "force",
-      "leidos",
-      "wins"
-    ],
-    "ts": 1789767526.1228254
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/lockheed-martin-wins-871-million-f35-contract-modification-93CH-4907930",
-    "title": "Lockheed Martin wins $871 million F-35 contract modification",
-    "tokens": [
-      "871",
-      "contract",
-      "lockheed",
-      "martin",
-      "million",
-      "modification",
-      "wins"
-    ],
-    "ts": 1789767531.4644778
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/paradiumai-enters-tenyear-platform-agreement-with-rtb-digital-and-minority-stake-sale-is-planned-93CH-4907929",
-    "title": "Paradium.AI enters ten-year platform agreement with RTB Digital and minority stake sale is planned",
-    "tokens": [
-      "agreement",
-      "digital",
-      "enters",
-      "minority",
-      "paradium",
-      "planned",
-      "platform",
-      "rtb",
-      "sale",
-      "stake",
-      "ten",
-      "year"
-    ],
-    "ts": 1789767541.03191
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-105-4907927",
-    "title": "Colombia stocks higher at close of trade; COLCAP up 1.05%",
-    "tokens": [
-      "close",
-      "colcap",
-      "colombia",
-      "higher",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789767545.047731
-  },
-  {
     "id": "https://www.investing.com/news/company-news/cleanspark-prices-228-billion-senior-secured-notes-offering-93CH-4907926",
     "title": "CleanSpark prices $2.28 billion senior secured notes offering",
     "tokens": [
@@ -23991,5 +23917,79 @@
       "you"
     ],
     "ts": 1790034000.7109547
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/bancfirst-declares-quarterly-dividend-and-trust-preferred-interest-payment-93CH-4909757",
+    "title": "BancFirst declares quarterly dividend and trust preferred interest payment",
+    "tokens": [
+      "bancfirst",
+      "declares",
+      "dividend",
+      "interest",
+      "payment",
+      "preferred",
+      "quarterly",
+      "trust"
+    ],
+    "ts": 1790036068.3164983
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/triplepoint-private-venture-credit-announces-leadership-changes-and-board-reduction-93CH-4909756",
+    "title": "TriplePoint Private Venture Credit announces leadership changes and board reduction",
+    "tokens": [
+      "announces",
+      "board",
+      "changes",
+      "credit",
+      "leadership",
+      "private",
+      "reduction",
+      "triplepoint",
+      "venture"
+    ],
+    "ts": 1790036075.7737694
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/meta-announces-ai-shopping-partnership-with-spotify-4909755",
+    "title": "Meta announces AI shopping partnership with Spotify",
+    "tokens": [
+      "announces",
+      "meta",
+      "partnership",
+      "shopping",
+      "spotify"
+    ],
+    "ts": 1790036083.2736824
+  },
+  {
+    "id": "oilprice-article-45569",
+    "title": "Qatar’s LNG Loss Revives Projects From Argentina to Timor-Leste",
+    "tokens": [
+      "argentina",
+      "leste",
+      "lng",
+      "loss",
+      "projects",
+      "qatar",
+      "revives",
+      "timor"
+    ],
+    "ts": 1790036091.630553
+  },
+  {
+    "id": "oilprice-news-45569",
+    "title": "Prague Caps Fuel Prices, Taxes Orlen's ‘Windfall’ Refining Margins",
+    "tokens": [
+      "caps",
+      "fuel",
+      "margins",
+      "orlen",
+      "prague",
+      "prices",
+      "refining",
+      "taxes",
+      "windfall"
+    ],
+    "ts": 1790036095.647742
   }
 ]

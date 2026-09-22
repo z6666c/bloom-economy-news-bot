@@ -1,91 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005236977",
-    "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-    "tokens": [
-      "burned",
-      "constantly",
-      "cousin",
-      "expect",
-      "help",
-      "helping",
-      "his",
-      "money",
-      "much",
-      "running",
-      "sister",
-      "too",
-      "who"
-    ],
-    "ts": 1789771897.1129143
-  },
-  {
-    "id": "week-5-numbers-amazon-grocery-153000270.html",
-    "title": "This week in 5 numbers: Amazon will give grocery benefits to workers",
-    "tokens": [
-      "amazon",
-      "benefits",
-      "give",
-      "grocery",
-      "numbers",
-      "week",
-      "workers"
-    ],
-    "ts": 1789771907.269265
-  },
-  {
-    "id": "crude-prices-fall-saudi-arabia-153112109.html",
-    "title": "Crude Prices Fall as Saudi Arabia Seeks to Restore East-West Pipeline",
-    "tokens": [
-      "arabia",
-      "crude",
-      "east",
-      "fall",
-      "pipeline",
-      "prices",
-      "restore",
-      "saudi",
-      "seeks",
-      "west"
-    ],
-    "ts": 1789771918.6722746
-  },
-  {
-    "id": "trump-accounts-face-dec-31-153013834.html",
-    "title": "Trump Accounts Face Dec. 31 Deadline — But Employer Contributions Could Create New Tax Planning Trap",
-    "tokens": [
-      "accounts",
-      "contributions",
-      "could",
-      "create",
-      "deadline",
-      "dec",
-      "employer",
-      "face",
-      "planning",
-      "tax",
-      "trap",
-      "trump"
-    ],
-    "ts": 1789771927.4611232
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/openai-expects-to-burn-through-almost-280-billion-by-2030-ft-reports-4907970",
-    "title": "OpenAI expects to burn through almost $280 billion by 2030, FT reports",
-    "tokens": [
-      "2030",
-      "280",
-      "almost",
-      "billion",
-      "burn",
-      "expects",
-      "openai",
-      "reports",
-      "through"
-    ],
-    "ts": 1789773035.9977038
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/revolution-medicines-coo-margaret-horn-sells-989612-of-common-stock-93CH-4907969",
     "title": "Revolution Medicines COO Margaret Horn sells $989,612 of common stock",
     "tokens": [
@@ -23971,5 +23885,78 @@
       "probe"
     ],
     "ts": 1790045004.246436
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/new-zealand-central-bank-chief-sees-risks-to-economy-inflation-4909835",
+    "title": "New Zealand central bank chief sees risks to economy, inflation",
+    "tokens": [
+      "bank",
+      "central",
+      "chief",
+      "economy",
+      "inflation",
+      "risks",
+      "sees",
+      "zealand"
+    ],
+    "ts": 1790045661.4643328
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-zto-express-stock-sliding-today-93CH-4909834",
+    "title": "Why is ZTO Express stock sliding today?",
+    "tokens": [
+      "express",
+      "sliding",
+      "stock",
+      "today",
+      "why",
+      "zto"
+    ],
+    "ts": 1790045667.9294233
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-lg-electronics-stock-surging-today-93CH-4909833",
+    "title": "Why is LG Electronics stock surging today?",
+    "tokens": [
+      "electronics",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790045671.9450936
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/amd-joins-the-1-trillion-club-as-chip-rally-surges--our-ai-strategy-saw-it-early-4909831",
+    "title": "AMD joins the $1 trillion club as chip rally surges - our AI Strategy saw it early",
+    "tokens": [
+      "amd",
+      "chip",
+      "club",
+      "early",
+      "joins",
+      "our",
+      "rally",
+      "saw",
+      "strategy",
+      "surges",
+      "trillion"
+    ],
+    "ts": 1790045675.7604537
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australias-midcaps-sink-5-as-this-ai-strategy-beats-them-by-67-points-4909830",
+    "title": "Australia’s mid-caps sink 5% as this AI Strategy beats them by 6.7 points",
+    "tokens": [
+      "australia",
+      "beats",
+      "caps",
+      "mid",
+      "points",
+      "sink",
+      "strategy",
+      "them"
+    ],
+    "ts": 1790045683.7816951
   }
 ]

@@ -1,143 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/sec-filings/hwh-international-to-change-name-to-enersyn-global-ticker-to-esyn-on-nasdaq-93CH-4907960",
-    "title": "HWH International to change name to EnerSyn Global, ticker to ESYN on Nasdaq",
-    "tokens": [
-      "change",
-      "enersyn",
-      "esyn",
-      "global",
-      "hwh",
-      "international",
-      "name",
-      "nasdaq",
-      "ticker"
-    ],
-    "ts": 1789771180.9012792
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/daktronics-increases-cfo-salary-and-reports-results-of-annual-shareholder-meeting-93CH-4907959",
-    "title": "Daktronics increases CFO salary and reports results of annual shareholder meeting",
-    "tokens": [
-      "annual",
-      "cfo",
-      "daktronics",
-      "increases",
-      "meeting",
-      "reports",
-      "results",
-      "salary",
-      "shareholder"
-    ],
-    "ts": 1789771189.6423507
-  },
-  {
-    "id": "ishares-silver-trust-vs-physical-152000925.html",
-    "title": "iShares Silver Trust vs. Physical Silver Coins: Which Is the Smarter Way to Own the Metal?",
-    "tokens": [
-      "coins",
-      "ishares",
-      "metal",
-      "own",
-      "physical",
-      "silver",
-      "smarter",
-      "trust",
-      "way",
-      "which"
-    ],
-    "ts": 1789771200.4261749
-  },
-  {
-    "id": "trade-now-fed-hiked-rates-151754223.html",
-    "title": "Make This Trade Now That the Fed Has Hiked Rates",
-    "tokens": [
-      "fed",
-      "hiked",
-      "make",
-      "now",
-      "rates",
-      "trade"
-    ],
-    "ts": 1789771210.343053
-  },
-  {
-    "id": "stocks-push-higher-lower-crude-151213645.html",
-    "title": "Stocks Push Higher on Lower Crude Prices and Bond Yields",
-    "tokens": [
-      "bond",
-      "crude",
-      "higher",
-      "lower",
-      "prices",
-      "push",
-      "stocks",
-      "yields"
-    ],
-    "ts": 1789771218.0870495
-  },
-  {
-    "id": "worker-tensions-taiwan-rising-micron-151005678.html",
-    "title": "Worker Tensions in Taiwan Are Rising at Micron. What This Means for MU Stock.",
-    "tokens": [
-      "means",
-      "micron",
-      "rising",
-      "stock",
-      "taiwan",
-      "tensions",
-      "what",
-      "worker"
-    ],
-    "ts": 1789771226.8244045
-  },
-  {
-    "id": "wall-street-may-overpriced-fed-150657658.html",
-    "title": "Wall Street May Have Overpriced the Fed Rate Hike’s Impact on Citigroup Stock Spreads",
-    "tokens": [
-      "citigroup",
-      "fed",
-      "hike",
-      "impact",
-      "may",
-      "overpriced",
-      "rate",
-      "spreads",
-      "stock",
-      "street",
-      "wall"
-    ],
-    "ts": 1789771239.2248976
-  },
-  {
-    "id": "huntington-bancshares-stock-underperforming-p-150310108.html",
-    "title": "Is Huntington Bancshares Stock Underperforming the S&P 500?",
-    "tokens": [
-      "500",
-      "bancshares",
-      "huntington",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1789771247.9835203
-  },
-  {
-    "id": "WP-MKTW-0005243372",
-    "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
-    "tokens": [
-      "crash",
-      "fears",
-      "investors",
-      "market",
-      "october",
-      "shouldn",
-      "spooked",
-      "stock",
-      "why"
-    ],
-    "ts": 1789771888.1738772
-  },
-  {
     "id": "WP-MKTW-0005236977",
     "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
     "tokens": [
@@ -23965,5 +23827,149 @@
       "shares"
     ],
     "ts": 1790043100.6251838
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/how-a-bangladeshi-garmentmaker-is-fighting-the-middle-east-energy-crunch-4909827",
+    "title": "How a Bangladeshi garment-maker is fighting the Middle East energy crunch",
+    "tokens": [
+      "bangladeshi",
+      "crunch",
+      "east",
+      "energy",
+      "fighting",
+      "garment",
+      "how",
+      "maker",
+      "middle"
+    ],
+    "ts": 1790044943.391887
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/chip-stocks-snap-back-on-multibilliondollar-ai-bet--ai-strategy-got-in-early-4909829",
+    "title": "Chip stocks snap back on multi-billion-dollar AI bet - AI Strategy got in early",
+    "tokens": [
+      "back",
+      "bet",
+      "billion",
+      "chip",
+      "dollar",
+      "early",
+      "got",
+      "multi",
+      "snap",
+      "stocks",
+      "strategy"
+    ],
+    "ts": 1790044951.097123
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/alibaba-sells-500-mln-zto-shares-bloomberg-4909826",
+    "title": "Alibaba sells $500 mln ZTO shares- Bloomberg",
+    "tokens": [
+      "500",
+      "alibaba",
+      "bloomberg",
+      "mln",
+      "sells",
+      "shares",
+      "zto"
+    ],
+    "ts": 1790044958.4988048
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/tech-rally-boosts-asian-stocks-dollar-firms-on-ratehike-wagers-4909825",
+    "title": "Tech rally boosts Asian stocks, dollar firms on rate-hike wagers",
+    "tokens": [
+      "asian",
+      "boosts",
+      "dollar",
+      "firms",
+      "hike",
+      "rally",
+      "rate",
+      "stocks",
+      "tech",
+      "wagers"
+    ],
+    "ts": 1790044966.235401
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-energy-stocks-slip-as-oil-clocks-protracted-losses-4909824",
+    "title": "Asia energy stocks slip as oil clocks protracted losses",
+    "tokens": [
+      "asia",
+      "clocks",
+      "energy",
+      "losses",
+      "oil",
+      "protracted",
+      "slip",
+      "stocks"
+    ],
+    "ts": 1790044973.0529122
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bank-of-korea-to-assess-inflation-growth-for-rate-hikes-board-member-says-4909823",
+    "title": "Bank of Korea to assess inflation, growth for rate hikes, board member says",
+    "tokens": [
+      "assess",
+      "bank",
+      "board",
+      "growth",
+      "hikes",
+      "inflation",
+      "korea",
+      "member",
+      "rate"
+    ],
+    "ts": 1790044980.816563
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/binance-under-us-scrutiny-over-possible-iran-sanctions-violations-bloomberg-news-reports-4909822",
+    "title": "Binance under US scrutiny over possible Iran sanctions violations, Bloomberg News reports",
+    "tokens": [
+      "binance",
+      "bloomberg",
+      "iran",
+      "news",
+      "possible",
+      "reports",
+      "sanctions",
+      "scrutiny",
+      "under",
+      "violations"
+    ],
+    "ts": 1790044987.447545
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/what-can-chinas-ai-labs-tell-us-about-an-anthropic-or-openai-ipo-93CH-4909821",
+    "title": "What can China’s AI labs tell us about an Anthropic or OpenAI IPO?",
+    "tokens": [
+      "about",
+      "anthropic",
+      "can",
+      "china",
+      "ipo",
+      "labs",
+      "openai",
+      "tell",
+      "what"
+    ],
+    "ts": 1790044995.2925797
+  },
+  {
+    "id": "https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg",
+    "title": "Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg",
+    "tokens": [
+      "attorney",
+      "binance",
+      "bloomberg",
+      "compliance",
+      "iran",
+      "leading",
+      "manhattan",
+      "probe"
+    ],
+    "ts": 1790045004.246436
   }
 ]

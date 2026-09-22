@@ -1,155 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/world-news/defence-firm-anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business-4908052",
-    "title": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business",
-    "tokens": [
-      "affecting",
-      "anduril",
-      "arms",
-      "business",
-      "defence",
-      "delay",
-      "firm",
-      "sales",
-      "taiwan"
-    ],
-    "ts": 1789798399.9635494
-  },
-  {
-    "id": "fcc-approves-foreign-owners-merged-230848584.html",
-    "title": "FCC approves foreign owners for a merged Paramount-Warner Bros.",
-    "tokens": [
-      "approves",
-      "bros",
-      "fcc",
-      "foreign",
-      "merged",
-      "owners",
-      "paramount",
-      "warner"
-    ],
-    "ts": 1789798409.6020153
-  },
-  {
-    "id": "estes-bets-56m-cross-border-231647268.html",
-    "title": "Estes bets $56M on cross-border, offshore freight expansion",
-    "tokens": [
-      "56m",
-      "bets",
-      "border",
-      "cross",
-      "estes",
-      "expansion",
-      "freight",
-      "offshore"
-    ],
-    "ts": 1789798416.7628958
-  },
-  {
-    "id": "upexi-q4-earnings-call-highlights-230222069.html",
-    "title": "Upexi Q4 Earnings Call Highlights",
-    "tokens": [
-      "call",
-      "earnings",
-      "highlights",
-      "upexi"
-    ],
-    "ts": 1789798424.4460113
-  },
-  {
-    "id": "why-amd-stock-jumped-today-233549219.html",
-    "title": "Why AMD Stock Jumped Today",
-    "tokens": [
-      "amd",
-      "jumped",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789799582.083263
-  },
-  {
-    "id": "washington-tells-ford-f-chinese-233517320.html",
-    "title": "Washington Tells Ford (F) its Chinese Partnerships are a National Security Problem",
-    "tokens": [
-      "chinese",
-      "ford",
-      "national",
-      "partnerships",
-      "problem",
-      "security",
-      "tells",
-      "washington"
-    ],
-    "ts": 1789799589.6607754
-  },
-  {
-    "id": "ford-hasn-t-raised-dividend-233003869.html",
-    "title": "Ford Hasn’t Raised Its Dividend in Years. Don’t Count on a Hike in 2026.",
-    "tokens": [
-      "2026",
-      "count",
-      "dividend",
-      "don",
-      "ford",
-      "hasn",
-      "hike",
-      "raised",
-      "years"
-    ],
-    "ts": 1789799596.913067
-  },
-  {
-    "id": "novo-nordisk-nvo-pulls-plug-233726977.html",
-    "title": "Novo Nordisk (NVO) Pulls the Plug on Two More Heart Drug Trials",
-    "tokens": [
-      "drug",
-      "heart",
-      "more",
-      "nordisk",
-      "novo",
-      "nvo",
-      "plug",
-      "pulls",
-      "trials",
-      "two"
-    ],
-    "ts": 1789799605.8808684
-  },
-  {
-    "id": "roth-conversions-between-62-65-233535663.html",
-    "title": "Roth Conversions Between 62 and 65: The Three-Year Window Before Medicare Starts Counting Every Dollar",
-    "tokens": [
-      "before",
-      "between",
-      "conversions",
-      "counting",
-      "dollar",
-      "every",
-      "medicare",
-      "roth",
-      "starts",
-      "three",
-      "window",
-      "year"
-    ],
-    "ts": 1789799613.1615593
-  },
-  {
-    "id": "meta-meta-hands-ai-agent-234026981.html",
-    "title": "Meta (META) Hands its New AI Agent the Keys to Your Inbox and Wallet",
-    "tokens": [
-      "agent",
-      "hands",
-      "inbox",
-      "keys",
-      "meta",
-      "wallet",
-      "your"
-    ],
-    "ts": 1789799621.4976985
-  },
-  {
     "id": "https://www.investing.com/news/company-news/california-judge-blocks-part-of-tiktoks-400-million-privacy-settlement-4908058",
     "title": "California judge blocks part of TikTok’s $400 million privacy settlement",
     "tokens": [
@@ -23830,5 +23680,155 @@
       "updates"
     ],
     "ts": 1790073062.9334598
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-raises-darling-ingredients-stock-price-target-on-strong-earnings-93CH-4910331",
+    "title": "UBS raises Darling Ingredients stock price target on strong earnings",
+    "tokens": [
+      "darling",
+      "earnings",
+      "ingredients",
+      "price",
+      "raises",
+      "stock",
+      "strong",
+      "target",
+      "ubs"
+    ],
+    "ts": 1790073894.0769618
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-raises-alaska-air-stock-price-target-to-54-on-q3-outlook-93CH-4910330",
+    "title": "UBS raises Alaska Air stock price target to $54 on Q3 outlook",
+    "tokens": [
+      "air",
+      "alaska",
+      "outlook",
+      "price",
+      "raises",
+      "stock",
+      "target",
+      "ubs"
+    ],
+    "ts": 1790073903.8049204
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/us-goldmining-completes-drilling-program-at-alaska-project-93CH-4910329",
+    "title": "U.S. GoldMining completes drilling program at Alaska project",
+    "tokens": [
+      "alaska",
+      "completes",
+      "drilling",
+      "goldmining",
+      "program",
+      "project"
+    ],
+    "ts": 1790073911.646209
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/valens-semiconductor-partners-with-onsemi-on-automotive-sensor-93CH-4910328",
+    "title": "Valens Semiconductor partners with onsemi on automotive sensor",
+    "tokens": [
+      "automotive",
+      "onsemi",
+      "partners",
+      "semiconductor",
+      "sensor",
+      "valens"
+    ],
+    "ts": 1790073919.3345985
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/willis-lease-secures-35-million-preferred-stock-investment-from-dbj-93CH-4910327",
+    "title": "Willis Lease secures $35 million preferred stock investment from DBJ",
+    "tokens": [
+      "dbj",
+      "investment",
+      "lease",
+      "million",
+      "preferred",
+      "secures",
+      "stock",
+      "willis"
+    ],
+    "ts": 1790073926.8599622
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/corporate-bond-buyers-get-picky-with-flood-of-ai-debt-4910258",
+    "title": "Corporate bond buyers get picky with flood of AI debt",
+    "tokens": [
+      "bond",
+      "buyers",
+      "corporate",
+      "debt",
+      "flood",
+      "get",
+      "picky"
+    ],
+    "ts": 1790073930.8765235
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/thor-industries-earnings-missed-by-013-revenue-topped-estimates-4910326",
+    "title": "Thor Industries earnings missed by $0.13, revenue topped estimates",
+    "tokens": [
+      "earnings",
+      "estimates",
+      "industries",
+      "missed",
+      "revenue",
+      "thor",
+      "topped"
+    ],
+    "ts": 1790073934.7067847
+  },
+  {
+    "id": "https://www.investing.com/news/press-releases/mexc-expands-opportunity-compass-with-stock-trading-handbook-to-help-crypto-users-build-investment-knowledge-4910315",
+    "title": "MEXC Expands Opportunity Compass with Stock Trading Handbook to Help Crypto Users Build Investment Knowledge",
+    "tokens": [
+      "build",
+      "compass",
+      "crypto",
+      "expands",
+      "handbook",
+      "help",
+      "investment",
+      "knowledge",
+      "mexc",
+      "opportunity",
+      "stock",
+      "trading",
+      "users"
+    ],
+    "ts": 1790073942.5853102
+  },
+  {
+    "id": "roivant-roiv-9-billion-sales-102730498.html",
+    "title": "Roivant (ROIV): $9 Billion Sales Potential Faces a Commercialization Test",
+    "tokens": [
+      "billion",
+      "commercialization",
+      "faces",
+      "potential",
+      "roiv",
+      "roivant",
+      "sales",
+      "test"
+    ],
+    "ts": 1790073949.5549383
+  },
+  {
+    "id": "1-5-americans-thinks-sports-101500032.html",
+    "title": "1 in 5 Americans thinks sports betting is an ‘investment’ — but the data says something different",
+    "tokens": [
+      "americans",
+      "betting",
+      "data",
+      "different",
+      "investment",
+      "something",
+      "sports",
+      "thinks"
+    ],
+    "ts": 1790073957.1516635
   }
 ]

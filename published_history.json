@@ -1,80 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/revolution-medicines-coo-margaret-horn-sells-989612-of-common-stock-93CH-4907969",
-    "title": "Revolution Medicines COO Margaret Horn sells $989,612 of common stock",
-    "tokens": [
-      "612",
-      "989",
-      "common",
-      "coo",
-      "horn",
-      "margaret",
-      "medicines",
-      "revolution",
-      "sells",
-      "stock"
-    ],
-    "ts": 1789773044.9793844
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/revolution-medicines-senior-advisor-sells-11m-in-stock-93CH-4907968",
-    "title": "Revolution Medicines’ senior advisor sells $1.1m in stock",
-    "tokens": [
-      "advisor",
-      "medicines",
-      "revolution",
-      "sells",
-      "senior",
-      "stock"
-    ],
-    "ts": 1789773055.9275851
-  },
-  {
-    "id": "sec-backs-real-stock-tokens-154009203.html",
-    "title": "SEC Backs Real Stock Tokens Over Synthetics: Who Loses?",
-    "tokens": [
-      "backs",
-      "loses",
-      "real",
-      "sec",
-      "stock",
-      "synthetics",
-      "tokens",
-      "who"
-    ],
-    "ts": 1789773066.0369139
-  },
-  {
-    "id": "p-global-buys-auditor-behind-153817004.html",
-    "title": "S&P Global Buys the Auditor Behind Most Stablecoins: Why Now, and Why Twice?",
-    "tokens": [
-      "auditor",
-      "behind",
-      "buys",
-      "global",
-      "most",
-      "now",
-      "stablecoins",
-      "twice",
-      "why"
-    ],
-    "ts": 1789773075.0064213
-  },
-  {
-    "id": "alexandria-real-estate-equities-stock-154718451.html",
-    "title": "Alexandria Real Estate Equities Stock: Is ARE Underperforming the Real Estate Sector?",
-    "tokens": [
-      "alexandria",
-      "equities",
-      "estate",
-      "real",
-      "sector",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1789773085.1757839
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/paramount-states-discuss-cnn-monitoring-and-film-release-commitment-sources-say-4907979",
     "title": "Paramount, states discuss CNN monitoring and film release commitment, sources say",
     "tokens": [
@@ -23958,5 +23883,83 @@
       "them"
     ],
     "ts": 1790045683.7816951
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/alibaba-plans-ai-model-with-5-trillion-to-10-trillion-parameters-unveils-new-chip-4909839",
+    "title": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip",
+    "tokens": [
+      "alibaba",
+      "chip",
+      "model",
+      "parameters",
+      "plans",
+      "trillion",
+      "unveils"
+    ],
+    "ts": 1790046650.3157399
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-tracking-us-tech-rally-trumpxi-meeting-eyed-4909838",
+    "title": "Asia stocks rise tracking U.S. tech rally; Trump-Xi meeting eyed",
+    "tokens": [
+      "asia",
+      "eyed",
+      "meeting",
+      "rally",
+      "rise",
+      "stocks",
+      "tech",
+      "tracking",
+      "trump"
+    ],
+    "ts": 1790046657.7328522
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-chip-stocks-soar-after-wall-street-ai-rally-lg-jumps-on-nvidia-cooling-nod-4909837",
+    "title": "Asia chip stocks soar after Wall Street AI rally; LG jumps on Nvidia cooling nod",
+    "tokens": [
+      "asia",
+      "chip",
+      "cooling",
+      "jumps",
+      "nod",
+      "nvidia",
+      "rally",
+      "soar",
+      "stocks",
+      "street",
+      "wall"
+    ],
+    "ts": 1790046665.6883135
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/leaders-advantage-acquisition-corp-closes-150m-ipo-on-nasdaq-432SI-4909832",
+    "title": "Leader’s Advantage Acquisition Corp. closes $150M IPO on Nasdaq",
+    "tokens": [
+      "150m",
+      "acquisition",
+      "advantage",
+      "closes",
+      "corp",
+      "ipo",
+      "leader",
+      "nasdaq"
+    ],
+    "ts": 1790046673.0661945
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/17-in-a-single-session-this-aipicked-stock-catches-a-datacenter-breakout-4909836",
+    "title": "+17% in a single session: This AI-picked stock catches a data-center breakout",
+    "tokens": [
+      "breakout",
+      "catches",
+      "center",
+      "data",
+      "picked",
+      "session",
+      "single",
+      "stock"
+    ],
+    "ts": 1790046680.3391201
   }
 ]

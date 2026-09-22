@@ -1,117 +1,5 @@
 [
   {
-    "id": "starbucks-sbux-wins-big-court-144721274.html",
-    "title": "Starbucks (SBUX) Wins Big in Court, but One Finding Still Sticks",
-    "tokens": [
-      "big",
-      "court",
-      "finding",
-      "one",
-      "sbux",
-      "starbucks",
-      "sticks",
-      "still",
-      "wins"
-    ],
-    "ts": 1789769507.28328
-  },
-  {
-    "id": "boeing-ba-8-4-billion-144356015.html",
-    "title": "Boeing (BA)’s $8.4 Billion Supplier Buyback Keeps Turning Up New Costs",
-    "tokens": [
-      "billion",
-      "boeing",
-      "buyback",
-      "costs",
-      "keeps",
-      "supplier",
-      "turning"
-    ],
-    "ts": 1789769517.040034
-  },
-  {
-    "id": "ptc-inc-stock-performance-compared-144340989.html",
-    "title": "How Is PTC Inc.'s Stock Performance Compared to Other Tech-Software Stocks?",
-    "tokens": [
-      "compared",
-      "how",
-      "inc",
-      "other",
-      "performance",
-      "ptc",
-      "software",
-      "stock",
-      "stocks",
-      "tech"
-    ],
-    "ts": 1789769525.7344725
-  },
-  {
-    "id": "german-distiller-berentzen-talks-sell-093336262.html",
-    "title": "German distiller Berentzen in talks to sell to Sazerac",
-    "tokens": [
-      "berentzen",
-      "distiller",
-      "german",
-      "sazerac",
-      "sell",
-      "talks"
-    ],
-    "ts": 1789769535.371531
-  },
-  {
-    "id": "warner-bros-discoverys-stock-performance-144029291.html",
-    "title": "How Is Warner Bros. Discovery's Stock Performance Compared to Other Entertainment Stocks",
-    "tokens": [
-      "bros",
-      "compared",
-      "discovery",
-      "entertainment",
-      "how",
-      "other",
-      "performance",
-      "stock",
-      "stocks",
-      "warner"
-    ],
-    "ts": 1789769545.8988633
-  },
-  {
-    "id": "broadcom-ceo-hock-tan-says-145433255.html",
-    "title": "Broadcom CEO Hock Tan Says He Isn’t Worried – ‘No, Not in the Least’ – About AVGO as AI Extinction Fears Rattle Stocks",
-    "tokens": [
-      "about",
-      "avgo",
-      "broadcom",
-      "ceo",
-      "extinction",
-      "fears",
-      "hock",
-      "isn",
-      "least",
-      "rattle",
-      "stocks",
-      "tan",
-      "worried"
-    ],
-    "ts": 1789769557.2455804
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/oracles-18-billion-data-center-debt-under-pressure-ft-reports-4907951",
-    "title": "Oracle’s $18 billion data center debt under pressure, FT reports",
-    "tokens": [
-      "billion",
-      "center",
-      "data",
-      "debt",
-      "oracle",
-      "pressure",
-      "reports",
-      "under"
-    ],
-    "ts": 1789770318.3430789
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/morgan-stanley-private-credit-fund-redemptions-remain-elevated-in-third-quarter-4907950",
     "title": "Morgan Stanley private credit fund redemptions remain elevated in third quarter",
     "tokens": [
@@ -23981,5 +23869,110 @@
       "workday"
     ],
     "ts": 1790038567.5702057
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/binance-faces-us-probe-over-potential-iran-sanctions-violations-bloomberg-93CH-4909807",
+    "title": "Binance faces U.S. probe over potential Iran sanctions violations- Bloomberg",
+    "tokens": [
+      "binance",
+      "bloomberg",
+      "faces",
+      "iran",
+      "potential",
+      "probe",
+      "sanctions",
+      "violations"
+    ],
+    "ts": 1790040341.177154
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/better-home--finance-cco-paula-tuffin-sells-38413-in-shares-93CH-4909806",
+    "title": "Better home & finance CCO Paula Tuffin sells $38,413 in shares",
+    "tokens": [
+      "413",
+      "better",
+      "cco",
+      "finance",
+      "home",
+      "paula",
+      "sells",
+      "shares",
+      "tuffin"
+    ],
+    "ts": 1790040348.471401
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-anaptysbio-stock-rising-afterhours-today-93CH-4909804",
+    "title": "Why is AnaptysBio stock rising afterhours today?",
+    "tokens": [
+      "afterhours",
+      "anaptysbio",
+      "rising",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790040355.789153
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/canada-aims-to-cut-time-needed-for-project-reviews-and-address-strikes-4909803",
+    "title": "Canada aims to cut time needed for project reviews, and address strikes",
+    "tokens": [
+      "address",
+      "aims",
+      "canada",
+      "cut",
+      "needed",
+      "project",
+      "reviews",
+      "strikes",
+      "time"
+    ],
+    "ts": 1790040362.8644886
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-upbeat-after-ai-rally-falling-oil-boost-wall-st-4909802",
+    "title": "U.S. stock futures upbeat after AI rally, falling oil boost Wall St",
+    "tokens": [
+      "boost",
+      "falling",
+      "futures",
+      "oil",
+      "rally",
+      "stock",
+      "upbeat",
+      "wall"
+    ],
+    "ts": 1790040370.8303447
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/yen-squeezed-as-hawkish-turn-grips-central-banks-4909801",
+    "title": "Yen squeezed as hawkish turn grips central banks",
+    "tokens": [
+      "banks",
+      "central",
+      "grips",
+      "hawkish",
+      "squeezed",
+      "turn",
+      "yen"
+    ],
+    "ts": 1790040378.4582024
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-llc-sells-143m-kinetik-holdings-kntk-stock-93CH-4909800",
+    "title": "Isq global fund II gp llc sells $14.3m Kinetik Holdings (KNTK) stock",
+    "tokens": [
+      "fund",
+      "global",
+      "holdings",
+      "isq",
+      "kinetik",
+      "kntk",
+      "llc",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790040386.4536293
   }
 ]

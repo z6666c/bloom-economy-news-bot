@@ -1,232 +1,5 @@
 [
   {
-    "id": "nike-gets-hit-with-yet-another-bearish-wall-street-hot-take-135125963.html",
-    "title": "Nike gets hit with yet another bearish Wall Street hot take",
-    "tokens": [
-      "another",
-      "bearish",
-      "gets",
-      "hit",
-      "hot",
-      "nike",
-      "street",
-      "take",
-      "wall",
-      "yet"
-    ],
-    "ts": 1789999936.7747862
-  },
-  {
-    "id": "tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
-    "title": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
-    "tokens": [
-      "alphacheck",
-      "bitcoin",
-      "ease",
-      "rallied",
-      "rise",
-      "stocks",
-      "tech",
-      "treasury",
-      "yields"
-    ],
-    "ts": 1789999945.6933968
-  },
-  {
-    "id": "seabridge-gold-inc-sa-spun-134720749.html",
-    "title": "Seabridge Gold Inc. (SA) Spun Off a Major Gold Asset: Why Kopernik Sees More Upside",
-    "tokens": [
-      "asset",
-      "gold",
-      "inc",
-      "kopernik",
-      "major",
-      "more",
-      "off",
-      "seabridge",
-      "sees",
-      "spun",
-      "upside",
-      "why"
-    ],
-    "ts": 1789999955.0552766
-  },
-  {
-    "id": "ciena-upgraded-flutter-downgraded-wall-134710881.html",
-    "title": "Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls",
-    "tokens": [
-      "analyst",
-      "calls",
-      "ciena",
-      "downgraded",
-      "flutter",
-      "street",
-      "top",
-      "upgraded",
-      "wall"
-    ],
-    "ts": 1789999964.0306017
-  },
-  {
-    "id": "mosaic-co-mos-just-added-134710535.html",
-    "title": "Mosaic Co. (MOS) Was Just Added to the Portfolio: Why the Fertilizer Stock Looks Undervalued",
-    "tokens": [
-      "added",
-      "fertilizer",
-      "just",
-      "looks",
-      "mos",
-      "mosaic",
-      "portfolio",
-      "stock",
-      "undervalued",
-      "why"
-    ],
-    "ts": 1789999972.3753407
-  },
-  {
-    "id": "northern-dynasty-minerals-ltd-nak-134700461.html",
-    "title": "Northern Dynasty Minerals Ltd. (NAK) Gained 36.3% in Q2: The Alaska Gold-Copper Opportunity",
-    "tokens": [
-      "alaska",
-      "copper",
-      "dynasty",
-      "gained",
-      "gold",
-      "ltd",
-      "minerals",
-      "nak",
-      "northern",
-      "opportunity"
-    ],
-    "ts": 1789999982.068992
-  },
-  {
-    "id": "franklin-resources-ben-surged-47-134651405.html",
-    "title": "Franklin Resources (BEN) Surged 47.3% in Q2: Why Investors Took Notice",
-    "tokens": [
-      "ben",
-      "franklin",
-      "investors",
-      "notice",
-      "resources",
-      "surged",
-      "took",
-      "why"
-    ],
-    "ts": 1789999990.3619144
-  },
-  {
-    "id": "oilprice-article-45559",
-    "title": "Rising Energy Costs Threaten UK Growth Despite 1.3% Expansion",
-    "tokens": [
-      "costs",
-      "despite",
-      "energy",
-      "expansion",
-      "growth",
-      "rising",
-      "threaten"
-    ],
-    "ts": 1789999999.7721288
-  },
-  {
-    "id": "oilprice-news-45559",
-    "title": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu",
-    "tokens": [
-      "arabia",
-      "exports",
-      "houthi",
-      "oil",
-      "reroutes",
-      "saudi",
-      "strikes",
-      "target",
-      "yanbu"
-    ],
-    "ts": 1790000011.5372612
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/czech-republic-approves-teslas-fsd-after-earlier-safety-concerns-4909315",
-    "title": "Czech Republic approves Tesla’s FSD after earlier safety concerns",
-    "tokens": [
-      "approves",
-      "concerns",
-      "czech",
-      "earlier",
-      "fsd",
-      "republic",
-      "safety",
-      "tesla"
-    ],
-    "ts": 1790000888.873306
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/paramountsettles-states-challenge-to-warner-bros-merger-bloomberg-news-reports-4909314",
-    "title": "Paramount settles states’ challenge to Warner Bros merger, Bloomberg News reports",
-    "tokens": [
-      "bloomberg",
-      "bros",
-      "challenge",
-      "merger",
-      "news",
-      "paramount",
-      "reports",
-      "settles",
-      "states",
-      "warner"
-    ],
-    "ts": 1790000896.577533
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dollar-index-consolidates-at-10009-in-bull-trap-danger-zone-live-93CH-4909312",
-    "title": "Dollar Index consolidates at 100.09 in bull trap danger zone: Live",
-    "tokens": [
-      "100",
-      "bull",
-      "consolidates",
-      "danger",
-      "dollar",
-      "index",
-      "live",
-      "trap",
-      "zone"
-    ],
-    "ts": 1790000904.8423202
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nvidia-reclaims-key-mas-at-22333-eyes-228-resistance-live-93CH-4909311",
-    "title": "NVIDIA reclaims key MAs at $223.33, eyes $228 resistance: Live",
-    "tokens": [
-      "223",
-      "228",
-      "eyes",
-      "key",
-      "live",
-      "mas",
-      "nvidia",
-      "reclaims",
-      "resistance"
-    ],
-    "ts": 1790000913.2190778
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/alphabet-tests-357-resistance-where-200ma-meets-fib-live-93CH-4909310",
-    "title": "Alphabet tests $357 resistance where 200MA meets Fib: Live",
-    "tokens": [
-      "200ma",
-      "357",
-      "alphabet",
-      "fib",
-      "live",
-      "meets",
-      "resistance",
-      "tests",
-      "where"
-    ],
-    "ts": 1790000921.2684188
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/tesla-tests-381-resistance-confluence-live-levels-93CH-4909308",
     "title": "Tesla tests $381 resistance confluence: Live levels",
     "tokens": [
@@ -23214,5 +22987,224 @@
       "year"
     ],
     "ts": 1790164526.2703114
+  },
+  {
+    "id": "WP-MKTW-0005244837",
+    "title": "What the Trump-Xi meeting could do to strengthen the guardrails for AI",
+    "tokens": [
+      "could",
+      "guardrails",
+      "meeting",
+      "strengthen",
+      "trump",
+      "what"
+    ],
+    "ts": 1790165652.1929667
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/premarket-movers-ionq-surges-on-quantum-six-flags-gains-4912840",
+    "title": "Premarket movers: IonQ surges on quantum, Six Flags gains",
+    "tokens": [
+      "flags",
+      "gains",
+      "ionq",
+      "movers",
+      "premarket",
+      "quantum",
+      "six",
+      "surges"
+    ],
+    "ts": 1790165661.2575
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-essential-properties-stock-36-target-93CH-4912839",
+    "title": "Stifel reiterates Buy on Essential Properties stock, $36 target",
+    "tokens": [
+      "buy",
+      "essential",
+      "properties",
+      "reiterates",
+      "stifel",
+      "stock",
+      "target"
+    ],
+    "ts": 1790165670.9601352
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-lowers-autozone-stock-price-target-to-3700-on-sales-miss-93CH-4912838",
+    "title": "Raymond James lowers AutoZone stock price target to $3,700 on sales miss",
+    "tokens": [
+      "700",
+      "autozone",
+      "james",
+      "lowers",
+      "miss",
+      "price",
+      "raymond",
+      "sales",
+      "stock",
+      "target"
+    ],
+    "ts": 1790165678.6813378
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-cuts-tetra-technologies-stock-price-target-on-business-uncertainty-93CH-4912836",
+    "title": "Stifel cuts Tetra Technologies stock price target on business uncertainty",
+    "tokens": [
+      "business",
+      "cuts",
+      "price",
+      "stifel",
+      "stock",
+      "target",
+      "technologies",
+      "tetra",
+      "uncertainty"
+    ],
+    "ts": 1790165686.1234107
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/baird-raises-rubrik-stock-price-target-on-ai-resilience-positioning-93CH-4912837",
+    "title": "Baird raises Rubrik stock price target on AI resilience positioning",
+    "tokens": [
+      "baird",
+      "positioning",
+      "price",
+      "raises",
+      "resilience",
+      "rubrik",
+      "stock",
+      "target"
+    ],
+    "ts": 1790165694.4528039
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/baird-reiterates-circle-internet-stock-rating-on-binance-deal-93CH-4912835",
+    "title": "Baird reiterates Circle Internet stock rating on Binance deal",
+    "tokens": [
+      "baird",
+      "binance",
+      "circle",
+      "deal",
+      "internet",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1790165702.770806
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/baird-reiterates-on-holding-stock-rating-on-growth-outlook-93CH-4912834",
+    "title": "Baird reiterates On Holding stock rating on growth outlook",
+    "tokens": [
+      "baird",
+      "growth",
+      "holding",
+      "outlook",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1790165710.3867226
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/turkiye-garanti-bankasi-redeems-eur-25-million-mtn-debt-93CH-4912831",
+    "title": "Turkiye Garanti Bankasi redeems EUR 25 million MTN debt",
+    "tokens": [
+      "bankasi",
+      "debt",
+      "eur",
+      "garanti",
+      "million",
+      "mtn",
+      "redeems",
+      "turkiye"
+    ],
+    "ts": 1790165718.3516982
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/zephyr-minerals-plans-200000-private-placement-for-permitting-93CH-4912830",
+    "title": "Zephyr Minerals plans $200,000 private placement for permitting",
+    "tokens": [
+      "000",
+      "200",
+      "minerals",
+      "permitting",
+      "placement",
+      "plans",
+      "private",
+      "zephyr"
+    ],
+    "ts": 1790165726.0460978
+  },
+  {
+    "id": "mcdonalds-bets-on-hand-breaded-chicken-ai-drive-thrus-to-fend-off-burger-king-120418093.html",
+    "title": "McDonald's bets on hand-breaded chicken, AI drive-thrus to fend off Burger King",
+    "tokens": [
+      "bets",
+      "breaded",
+      "burger",
+      "chicken",
+      "drive",
+      "fend",
+      "hand",
+      "king",
+      "mcdonald",
+      "off",
+      "thrus"
+    ],
+    "ts": 1790165736.9775865
+  },
+  {
+    "id": "casey-general-stores-casy-beat-115123835.html",
+    "title": "Casey’s General Stores (CASY) Beat Estimates, So Why Did Wall Street Cut Its Targets?",
+    "tokens": [
+      "beat",
+      "casey",
+      "casy",
+      "cut",
+      "did",
+      "estimates",
+      "general",
+      "stores",
+      "street",
+      "targets",
+      "wall",
+      "why"
+    ],
+    "ts": 1790165744.9821277
+  },
+  {
+    "id": "3-dividend-stocks-trading-cheap-120049524.html",
+    "title": "3 Dividend Stocks Trading Cheap Enough to Buy Meaningful Stakes for Under $1,000",
+    "tokens": [
+      "000",
+      "buy",
+      "cheap",
+      "dividend",
+      "enough",
+      "meaningful",
+      "stakes",
+      "stocks",
+      "trading",
+      "under"
+    ],
+    "ts": 1790165753.1885064
+  },
+  {
+    "id": "oilprice-news-45574",
+    "title": "Trump Backs Diesel Export Ban as Prices Hit Record Highs",
+    "tokens": [
+      "backs",
+      "ban",
+      "diesel",
+      "export",
+      "highs",
+      "hit",
+      "prices",
+      "record",
+      "trump"
+    ],
+    "ts": 1790165762.4428895
   }
 ]

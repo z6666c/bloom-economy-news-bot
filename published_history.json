@@ -1,321 +1,5 @@
 [
   {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
-    "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-    "tokens": [
-      "agencies",
-      "bank",
-      "comment",
-      "community",
-      "core",
-      "engagement",
-      "guidance",
-      "issue",
-      "management",
-      "party",
-      "proposed",
-      "providers",
-      "risk",
-      "seek",
-      "service",
-      "statement",
-      "third"
-    ],
-    "ts": 1790009139.6826434
-  },
-  {
-    "id": "cbp-importer-crackdown-puts-thousands-161317046.html",
-    "title": "CBP importer crackdown puts thousands of cross-border freight shipments at risk",
-    "tokens": [
-      "border",
-      "cbp",
-      "crackdown",
-      "cross",
-      "freight",
-      "importer",
-      "puts",
-      "risk",
-      "shipments",
-      "thousands"
-    ],
-    "ts": 1790009734.414979
-  },
-  {
-    "id": "old-dominion-pulls-forward-4-155854438.html",
-    "title": "Old Dominion pulls forward 4.9% GRI as LTL carriers accelerate rate hikes",
-    "tokens": [
-      "accelerate",
-      "carriers",
-      "dominion",
-      "forward",
-      "gri",
-      "hikes",
-      "ltl",
-      "old",
-      "pulls",
-      "rate"
-    ],
-    "ts": 1790009742.4618843
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/amd-joins-1-trillion-market-cap-club-on-ai-computing-bets-4909456",
-    "title": "AMD joins $1 trillion market cap club on AI computing bets",
-    "tokens": [
-      "amd",
-      "bets",
-      "cap",
-      "club",
-      "computing",
-      "joins",
-      "market",
-      "trillion"
-    ],
-    "ts": 1790010571.9827602
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/saudi-aramco-boosts-crude-loadings-after-pipeline-disruption-4909455",
-    "title": "Saudi Aramco boosts crude loadings after pipeline disruption",
-    "tokens": [
-      "aramco",
-      "boosts",
-      "crude",
-      "disruption",
-      "loadings",
-      "pipeline",
-      "saudi"
-    ],
-    "ts": 1790010580.5408273
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anthropic-and-openai-navigate-ai-regulation-ahead-of-ipos-93CH-4909454",
-    "title": "Anthropic and OpenAI navigate AI regulation ahead of IPOs",
-    "tokens": [
-      "ahead",
-      "anthropic",
-      "ipos",
-      "navigate",
-      "openai",
-      "regulation"
-    ],
-    "ts": 1790010589.3647895
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/grail-rallies-as-fda-staff-flags-no-major-concerns-for-multicancer-test-4909453",
-    "title": "Grail rallies as FDA staff flags no major concerns for multi-cancer test",
-    "tokens": [
-      "cancer",
-      "concerns",
-      "fda",
-      "flags",
-      "grail",
-      "major",
-      "multi",
-      "rallies",
-      "staff",
-      "test"
-    ],
-    "ts": 1790010598.2801118
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ibm-stock-outlook-trading-at-a-discount-with-mixed-signals-ahead-of-october-earnings-93CH-4909452",
-    "title": "IBM stock outlook: trading at a discount with mixed signals ahead of October earnings",
-    "tokens": [
-      "ahead",
-      "discount",
-      "earnings",
-      "ibm",
-      "mixed",
-      "october",
-      "outlook",
-      "signals",
-      "stock",
-      "trading"
-    ],
-    "ts": 1790010606.1435184
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/chemed-president-and-ceo-kevin-mcnamara-sells-10m-in-company-stock-93CH-4909451",
-    "title": "Chemed president and CEO Kevin McNamara sells $1.0m in company stock",
-    "tokens": [
-      "ceo",
-      "chemed",
-      "company",
-      "kevin",
-      "mcnamara",
-      "president",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790010614.4147594
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dhr-vs-tmo-valuation-spread-and-pairs-trade-case-93CH-4909450",
-    "title": "DHR vs TMO: valuation spread and pairs trade case",
-    "tokens": [
-      "case",
-      "dhr",
-      "pairs",
-      "spread",
-      "tmo",
-      "trade",
-      "valuation"
-    ],
-    "ts": 1790010622.4786723
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/rental--leasing-sector-fundamentals-sentiment-and-top-stock-pick-93CH-4909449",
-    "title": "Rental & Leasing sector: fundamentals, sentiment, and top stock pick",
-    "tokens": [
-      "fundamentals",
-      "leasing",
-      "pick",
-      "rental",
-      "sector",
-      "sentiment",
-      "stock",
-      "top"
-    ],
-    "ts": 1790010630.0592666
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/central-securities-corp-stock-hits-alltime-high-at-5675-usd-93CH-4909448",
-    "title": "Central Securities Corp stock hits all-time high at 56.75 USD",
-    "tokens": [
-      "all",
-      "central",
-      "corp",
-      "high",
-      "hits",
-      "securities",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1790010637.7718701
-  },
-  {
-    "id": "weekly-survey-mortgage-lenders-with-the-best-lowest-rates-september-21-170834159.html",
-    "title": "Weekly survey of mortgage lenders with the lowest rates: Sub-6% rates disappearing",
-    "tokens": [
-      "disappearing",
-      "lenders",
-      "lowest",
-      "mortgage",
-      "rates",
-      "sub",
-      "survey",
-      "weekly"
-    ],
-    "ts": 1790010646.3126364
-  },
-  {
-    "id": "bitcoin-clears-50-week-hurdle-164400579.html",
-    "title": "Bitcoin Clears 50-Week Hurdle as Traders Eye New Bull Market: Analyst",
-    "tokens": [
-      "analyst",
-      "bitcoin",
-      "bull",
-      "clears",
-      "eye",
-      "hurdle",
-      "market",
-      "traders",
-      "week"
-    ],
-    "ts": 1790010654.84549
-  },
-  {
-    "id": "oilprice-article-45563",
-    "title": "Bitcoin Tops $85,000 For First Time Since Late January",
-    "tokens": [
-      "000",
-      "bitcoin",
-      "first",
-      "january",
-      "late",
-      "since",
-      "time",
-      "tops"
-    ],
-    "ts": 1790010665.0534935
-  },
-  {
-    "id": "oilprice-news-45563",
-    "title": "Hormuz Blockage Puts Qatar's $83 Billion LNG Bet at Risk",
-    "tokens": [
-      "bet",
-      "billion",
-      "blockage",
-      "hormuz",
-      "lng",
-      "puts",
-      "qatar",
-      "risk"
-    ],
-    "ts": 1790010673.9616296
-  },
-  {
-    "id": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients",
-    "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
-    "tokens": [
-      "backed",
-      "bitcoin",
-      "borrowing",
-      "circle",
-      "clients",
-      "institutional",
-      "launches",
-      "usdc"
-    ],
-    "ts": 1790010681.7918856
-  },
-  {
-    "id": "WP-MKTW-0005240413",
-    "title": "A happier retirement contains these 3 elements",
-    "tokens": [
-      "contains",
-      "elements",
-      "happier",
-      "retirement",
-      "these"
-    ],
-    "ts": 1790011430.829103
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
-    "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
-    "tokens": [
-      "canadian",
-      "dollar",
-      "greenb",
-      "oil",
-      "outlook",
-      "pressure",
-      "rate",
-      "retreats",
-      "supports",
-      "under"
-    ],
-    "ts": 1790011438.221491
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tsx-futures-rise-amid-extended-oil-price-decline-4908912",
-    "title": "Canadian stocks reverse course to trade higher as oil falls, Macklem in focus",
-    "tokens": [
-      "canadian",
-      "course",
-      "falls",
-      "focus",
-      "higher",
-      "macklem",
-      "oil",
-      "reverse",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790011446.3679273
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/rtb-digital-director-jason-dorsett-buys-196840-in-company-stock-93CH-4909474",
     "title": "RTB Digital director Jason Dorsett buys $196,840 in company stock",
     "tokens": [
@@ -23096,5 +22780,322 @@
       "sites"
     ],
     "ts": 1790173819.5513036
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-shopify-stock-sliding-today-93CH-4913439",
+    "title": "Why is Shopify stock sliding today?",
+    "tokens": [
+      "shopify",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790174774.8471491
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/analysisparamount-pledges-to-release-30-films-a-year-how-will-that-add-up-4913423",
+    "title": "Analysis-Paramount pledges to release 30 films a year. How will that add up?",
+    "tokens": [
+      "add",
+      "analysis",
+      "films",
+      "how",
+      "paramount",
+      "pledges",
+      "release",
+      "year"
+    ],
+    "ts": 1790174779.8321989
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/kingstone-companies-at-sidoti-conference-turnaround-shifts-to-growth-93CH-4913438",
+    "title": "Kingstone Companies at Sidoti conference: turnaround shifts to growth",
+    "tokens": [
+      "companies",
+      "conference",
+      "growth",
+      "kingstone",
+      "shifts",
+      "sidoti",
+      "turnaround"
+    ],
+    "ts": 1790174788.404517
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/chinas-xi-to-visit-washington-without-ceo-delegation-sources-say-4913437",
+    "title": "China’s Xi to visit Washington without CEO delegation, sources say",
+    "tokens": [
+      "ceo",
+      "china",
+      "delegation",
+      "say",
+      "sources",
+      "visit",
+      "washington",
+      "without"
+    ],
+    "ts": 1790174797.3259833
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bnp-paribas-exane-cuts-pepsico-stock-price-target-on-demand-woes-93CH-4913436",
+    "title": "BNP Paribas Exane cuts Pepsico stock price target on demand woes",
+    "tokens": [
+      "bnp",
+      "cuts",
+      "demand",
+      "exane",
+      "paribas",
+      "pepsico",
+      "price",
+      "stock",
+      "target",
+      "woes"
+    ],
+    "ts": 1790174805.1252675
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/ingevity-at-water-tower-research-virtual-insights-conference-sharper-focus-93CH-4913435",
+    "title": "Ingevity at water tower research virtual insights conference: sharper focus",
+    "tokens": [
+      "conference",
+      "focus",
+      "ingevity",
+      "insights",
+      "research",
+      "sharper",
+      "tower",
+      "virtual",
+      "water"
+    ],
+    "ts": 1790174812.5230567
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/btcs-at-water-tower-research-virtual-insights-conference-profit-focus-deepens-93CH-4913434",
+    "title": "BTCS at Water Tower Research Virtual Insights Conference: profit focus deepens",
+    "tokens": [
+      "btcs",
+      "conference",
+      "deepens",
+      "focus",
+      "insights",
+      "profit",
+      "research",
+      "tower",
+      "virtual",
+      "water"
+    ],
+    "ts": 1790174820.1167092
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/youtube-unveils-ai-creator-tools-shopping-features-at-annual-event-4913433",
+    "title": "YouTube unveils AI creator tools, shopping features at annual event",
+    "tokens": [
+      "annual",
+      "creator",
+      "event",
+      "features",
+      "shopping",
+      "tools",
+      "unveils",
+      "youtube"
+    ],
+    "ts": 1790174827.5987184
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/republic-power-to-execute-1for16-reverse-stock-split-thursday-93CH-4913432",
+    "title": "Republic Power to execute 1-for-16 reverse stock split Thursday",
+    "tokens": [
+      "execute",
+      "power",
+      "republic",
+      "reverse",
+      "split",
+      "stock",
+      "thursday"
+    ],
+    "ts": 1790174834.8335345
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/alibaba-dell-among-market-cap-stock-movers-on-wednesday-93CH-4913431",
+    "title": "Alibaba, Dell among market cap stock movers on Wednesday",
+    "tokens": [
+      "alibaba",
+      "among",
+      "cap",
+      "dell",
+      "market",
+      "movers",
+      "stock",
+      "wednesday"
+    ],
+    "ts": 1790174842.7288427
+  },
+  {
+    "id": "exceptional-earnings-ai-immunity-fuel-143115048.html",
+    "title": "Exceptional Earnings and AI Immunity Fuel Hinge Health’s (HNGE) Performance",
+    "tokens": [
+      "earnings",
+      "exceptional",
+      "fuel",
+      "health",
+      "hinge",
+      "hnge",
+      "immunity",
+      "performance"
+    ],
+    "ts": 1790174850.678611
+  },
+  {
+    "id": "jim-cramer-reveals-5-boneheaded-143000752.html",
+    "title": "Jim Cramer reveals 5 'boneheaded mistakes' that cost him 'a fortune.' How many are you making?",
+    "tokens": [
+      "boneheaded",
+      "cost",
+      "cramer",
+      "fortune",
+      "him",
+      "how",
+      "jim",
+      "making",
+      "many",
+      "mistakes",
+      "reveals",
+      "you"
+    ],
+    "ts": 1790174859.0339656
+  },
+  {
+    "id": "life-time-group-holdings-lth-142935624.html",
+    "title": "Life Time Group Holdings (LTH) Plans to More Than Double Its Current Location Count",
+    "tokens": [
+      "count",
+      "current",
+      "double",
+      "group",
+      "holdings",
+      "life",
+      "location",
+      "lth",
+      "more",
+      "plans",
+      "time"
+    ],
+    "ts": 1790174870.8430822
+  },
+  {
+    "id": "india-antitrust-watchdog-clears-l-143531536.html",
+    "title": "India’s antitrust watchdog clears L’Oréal’s takeover of Onesto Labs",
+    "tokens": [
+      "antitrust",
+      "clears",
+      "india",
+      "labs",
+      "onesto",
+      "takeover",
+      "watchdog"
+    ],
+    "ts": 1790174879.814159
+  },
+  {
+    "id": "claude-ai-september-portfolio-top-142750903.html",
+    "title": "Claude AI September Portfolio: Top 2 Picks",
+    "tokens": [
+      "claude",
+      "picks",
+      "portfolio",
+      "september",
+      "top"
+    ],
+    "ts": 1790174887.584685
+  },
+  {
+    "id": "strengthened-cvs-health-cvs-q2-142547696.html",
+    "title": "Here’s What Strengthened CVS Health (CVS) in Q2",
+    "tokens": [
+      "cvs",
+      "health",
+      "here",
+      "strengthened",
+      "what"
+    ],
+    "ts": 1790174897.6214614
+  },
+  {
+    "id": "data-shows-americans-relying-way-142000957.html",
+    "title": "New data shows Americans are relying way too much on Social Security — here’s what to do if you’re part of this group",
+    "tokens": [
+      "americans",
+      "data",
+      "group",
+      "here",
+      "much",
+      "part",
+      "relying",
+      "security",
+      "shows",
+      "social",
+      "too",
+      "way",
+      "what",
+      "you"
+    ],
+    "ts": 1790174908.0122123
+  },
+  {
+    "id": "oilprice-article-45586",
+    "title": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average",
+    "tokens": [
+      "average",
+      "barrel",
+      "below",
+      "build",
+      "crude",
+      "distillate",
+      "eia",
+      "fall",
+      "reports",
+      "stocks"
+    ],
+    "ts": 1790174917.690956
+  },
+  {
+    "id": "oilprice-news-45586",
+    "title": "Climate Startup Signs CO2 Deals With Three U.S. Oil Producers",
+    "tokens": [
+      "climate",
+      "co2",
+      "deals",
+      "oil",
+      "producers",
+      "signs",
+      "startup",
+      "three"
+    ],
+    "ts": 1790174925.6951754
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+    "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+    "tokens": [
+      "agencies",
+      "bank",
+      "comment",
+      "community",
+      "core",
+      "engagement",
+      "guidance",
+      "issue",
+      "management",
+      "party",
+      "proposed",
+      "providers",
+      "risk",
+      "seek",
+      "service",
+      "statement",
+      "third"
+    ],
+    "ts": 1790174934.0809271
   }
 ]

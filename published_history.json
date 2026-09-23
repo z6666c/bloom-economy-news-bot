@@ -1,193 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/innventure-cuts-parent-costs-56-names-new-cfo-and-director-93CH-4908957",
-    "title": "Innventure cuts parent costs 56%, names new CFO and director",
-    "tokens": [
-      "cfo",
-      "costs",
-      "cuts",
-      "director",
-      "innventure",
-      "names",
-      "parent"
-    ],
-    "ts": 1789992798.909853
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fastly-launches-ai-security-and-control-tools-for-enterprises-93CH-4908954",
-    "title": "Fastly launches AI security and control tools for enterprises",
-    "tokens": [
-      "control",
-      "enterprises",
-      "fastly",
-      "launches",
-      "security",
-      "tools"
-    ],
-    "ts": 1789992807.0315142
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/kodiak-ai-partners-with-prepass-for-autonomous-truck-inspections-93CH-4908955",
-    "title": "Kodiak AI partners with PrePass for autonomous truck inspections",
-    "tokens": [
-      "autonomous",
-      "inspections",
-      "kodiak",
-      "partners",
-      "prepass",
-      "truck"
-    ],
-    "ts": 1789992816.1912467
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/enphase-meter-collar-gains-approval-from-80-us-canada-utilities-93CH-4908951",
-    "title": "Enphase meter collar gains approval from 80 US, Canada utilities",
-    "tokens": [
-      "approval",
-      "canada",
-      "collar",
-      "enphase",
-      "gains",
-      "meter",
-      "utilities"
-    ],
-    "ts": 1789992824.3289008
-  },
-  {
-    "id": "high-earners-cannot-contribute-roth-120058136.html",
-    "title": "High Earners Cannot Contribute to a Roth IRA Directly. Here’s the Legal Workaround",
-    "tokens": [
-      "cannot",
-      "contribute",
-      "directly",
-      "earners",
-      "here",
-      "high",
-      "ira",
-      "legal",
-      "roth",
-      "workaround"
-    ],
-    "ts": 1789992832.7218883
-  },
-  {
-    "id": "four-launches-100-rocket-lab-115117949.html",
-    "title": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
-    "tokens": [
-      "100",
-      "along",
-      "bullish",
-      "call",
-      "four",
-      "gets",
-      "iridium",
-      "lab",
-      "launches",
-      "mynaric",
-      "ride",
-      "rocket"
-    ],
-    "ts": 1789992839.770653
-  },
-  {
-    "id": "legend-launches-sale-banque-internationale-120035482.html",
-    "title": "Legend launches sale of Banque Internationale à Luxembourg – report",
-    "tokens": [
-      "banque",
-      "internationale",
-      "launches",
-      "legend",
-      "luxembourg",
-      "report",
-      "sale"
-    ],
-    "ts": 1789992847.231079
-  },
-  {
-    "id": "boeing-lockheed-martin-both-cash-114654499.html",
-    "title": "Boeing and Lockheed Martin Both Cash In on the Pentagon’s Contract Calendar",
-    "tokens": [
-      "boeing",
-      "both",
-      "calendar",
-      "cash",
-      "contract",
-      "lockheed",
-      "martin",
-      "pentagon"
-    ],
-    "ts": 1789992855.6132243
-  },
-  {
-    "id": "a68c0429-679c-4e28-b5c4-697b656aea09",
-    "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
-    "tokens": [
-      "adding",
-      "bitcoin",
-      "btc",
-      "buys",
-      "last",
-      "million",
-      "returns",
-      "strategy",
-      "week"
-    ],
-    "ts": 1789992866.1299443
-  },
-  {
-    "id": "worried-hugging-face-microsoft-amazon-121222004.html",
-    "title": "Worried About Hugging Face? Microsoft and Amazon Got Exposed Most Among Hyperscalers",
-    "tokens": [
-      "about",
-      "amazon",
-      "among",
-      "exposed",
-      "face",
-      "got",
-      "hugging",
-      "hyperscalers",
-      "microsoft",
-      "most",
-      "worried"
-    ],
-    "ts": 1789993950.3047078
-  },
-  {
-    "id": "kevin-oleary-sold-software-company-115500725.html",
-    "title": "Kevin O'Leary sold his software company for $4.2 billion, so why did he only walk away with about $11 million?",
-    "tokens": [
-      "about",
-      "away",
-      "billion",
-      "company",
-      "did",
-      "his",
-      "kevin",
-      "leary",
-      "million",
-      "only",
-      "software",
-      "sold",
-      "walk",
-      "why"
-    ],
-    "ts": 1789993960.8459005
-  },
-  {
-    "id": "supertanker-shortage-sends-oil-shipping-120626653.html",
-    "title": "Supertanker shortage sends oil shipping rates to records",
-    "tokens": [
-      "oil",
-      "rates",
-      "records",
-      "sends",
-      "shipping",
-      "shortage",
-      "supertanker"
-    ],
-    "ts": 1789993969.1281655
-  },
-  {
     "id": "oilprice-news-45552",
     "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
     "tokens": [
@@ -23162,5 +22974,207 @@
       "september"
     ],
     "ts": 1790158355.2556183
+  },
+  {
+    "id": "WP-MKTW-0005248592",
+    "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
+    "tokens": [
+      "begrudge",
+      "don",
+      "friends",
+      "how",
+      "husband",
+      "keep",
+      "money",
+      "spend",
+      "their",
+      "them",
+      "who"
+    ],
+    "ts": 1790159264.5787678
+  },
+  {
+    "id": "kennametal-kmt-maintain-momentum-101027152.html",
+    "title": "Can Kennametal (KMT) Maintain Its Momentum?",
+    "tokens": [
+      "can",
+      "kennametal",
+      "kmt",
+      "maintain",
+      "momentum"
+    ],
+    "ts": 1790159272.4781904
+  },
+  {
+    "id": "the-future-of-ai-growth-rests-on-big-techs-cash-flow-tripling-to-2-trillion-chart-of-the-day-100000169.html",
+    "title": "The future of AI growth rests on Big Tech's cash flow tripling to $2 trillion: Chart of the Day",
+    "tokens": [
+      "big",
+      "cash",
+      "chart",
+      "day",
+      "flow",
+      "future",
+      "growth",
+      "rests",
+      "tech",
+      "trillion",
+      "tripling"
+    ],
+    "ts": 1790159281.3249648
+  },
+  {
+    "id": "stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting",
+    "tokens": [
+      "500",
+      "dow",
+      "eye",
+      "falls",
+      "futures",
+      "looming",
+      "market",
+      "markets",
+      "meeting",
+      "muted",
+      "nasdaq",
+      "oil",
+      "stock",
+      "today",
+      "trump"
+    ],
+    "ts": 1790159290.0006876
+  },
+  {
+    "id": "mortgage-and-refinance-interest-rates-today-wednesday-september-23-2026-fixed-rates-find-more-room-to-fall-100000875.html",
+    "title": "Mortgage and refinance interest rates today, Wednesday, September 23, 2026: Fixed rates find more room to fall",
+    "tokens": [
+      "2026",
+      "fall",
+      "find",
+      "fixed",
+      "interest",
+      "more",
+      "mortgage",
+      "rates",
+      "refinance",
+      "room",
+      "september",
+      "today",
+      "wednesday"
+    ],
+    "ts": 1790159298.2320194
+  },
+  {
+    "id": "boomray-novartis-pharma-sign-900m-101831580.html",
+    "title": "BoomRay and Novartis Pharma sign $900m deal for radioligand therapy",
+    "tokens": [
+      "900m",
+      "boomray",
+      "deal",
+      "novartis",
+      "pharma",
+      "radioligand",
+      "sign",
+      "therapy"
+    ],
+    "ts": 1790159306.4692643
+  },
+  {
+    "id": "harder-hospitality-program-harvard-why-100000789.html",
+    "title": "It’s harder to get into a hospitality program than it is to get into Harvard — why grads are flocking to the hotel trade",
+    "tokens": [
+      "flocking",
+      "get",
+      "grads",
+      "harder",
+      "harvard",
+      "hospitality",
+      "hotel",
+      "program",
+      "trade",
+      "why"
+    ],
+    "ts": 1790159316.3603466
+  },
+  {
+    "id": "best-cd-rates-today-wednesday-september-23-2026-earn-up-to-440-apy-with-happen-bank-100000312.html",
+    "title": "Best CD rates today, Wednesday, September 23, 2026: Earn up to 4.40% APY with Happen Bank",
+    "tokens": [
+      "2026",
+      "apy",
+      "bank",
+      "best",
+      "earn",
+      "happen",
+      "rates",
+      "september",
+      "today",
+      "wednesday"
+    ],
+    "ts": 1790159324.5704923
+  },
+  {
+    "id": "employers-are-auto-enrolling-workers-in-hsas--just-like-401ks-095400659.html",
+    "title": "Employers are auto-enrolling workers in HSAs — just like 401(k)s",
+    "tokens": [
+      "401",
+      "auto",
+      "employers",
+      "enrolling",
+      "hsas",
+      "just",
+      "like",
+      "workers"
+    ],
+    "ts": 1790159333.0975616
+  },
+  {
+    "id": "cb5b92e2-5944-4ab9-afb5-e97fb50b55a5",
+    "title": "BitMEX shuts down: perpetuals pioneer officially closes it doors after 11 years",
+    "tokens": [
+      "bitmex",
+      "closes",
+      "doors",
+      "officially",
+      "perpetuals",
+      "pioneer",
+      "shuts",
+      "years"
+    ],
+    "ts": 1790159342.5447924
+  },
+  {
+    "id": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets",
+    "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
+    "tokens": [
+      "cftc",
+      "chair",
+      "door",
+      "onchain",
+      "opens",
+      "pushes",
+      "sec",
+      "stocks",
+      "tokenization"
+    ],
+    "ts": 1790159349.95438
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis",
+    "title": "Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis",
+    "tokens": [
+      "90k",
+      "analysis",
+      "bitcoin",
+      "bull",
+      "confirmed",
+      "market",
+      "presents",
+      "profit",
+      "risk",
+      "taking"
+    ],
+    "ts": 1790159357.8722835
   }
 ]

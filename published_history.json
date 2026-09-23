@@ -1,153 +1,5 @@
 [
   {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-    "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-    "tokens": [
-      "action",
-      "announces",
-      "bancshares",
-      "bank",
-      "board",
-      "enforcement",
-      "eufaula",
-      "federal",
-      "reserve",
-      "snb",
-      "termination"
-    ],
-    "ts": 1790003701.7377667
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-    "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-    "tokens": [
-      "actions",
-      "american",
-      "bank",
-      "board",
-      "company",
-      "employee",
-      "enforcement",
-      "express",
-      "federal",
-      "former",
-      "inc",
-      "issues",
-      "northstar",
-      "regions",
-      "related",
-      "reserve",
-      "services",
-      "travel"
-    ],
-    "ts": 1790003711.0844257
-  },
-  {
-    "id": "WP-MKTW-0005240088",
-    "title": "Many young adults can only afford to invest thanks to the bank of mom and dad",
-    "tokens": [
-      "adults",
-      "afford",
-      "bank",
-      "can",
-      "dad",
-      "invest",
-      "many",
-      "mom",
-      "only",
-      "thanks",
-      "young"
-    ],
-    "ts": 1790004413.6145723
-  },
-  {
-    "id": "jim-cramer-sends-strong-signal-163300406.html",
-    "title": "Jim Cramer sends strong signal to Apple stock investors",
-    "tokens": [
-      "apple",
-      "cramer",
-      "investors",
-      "jim",
-      "sends",
-      "signal",
-      "stock",
-      "strong"
-    ],
-    "ts": 1790004417.7851105
-  },
-  {
-    "id": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks",
-    "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
-    "tokens": [
-      "act",
-      "biz",
-      "clarity",
-      "coinbase",
-      "crypto",
-      "puts",
-      "setback",
-      "spotlight"
-    ],
-    "ts": 1790004423.1508646
-  },
-  {
-    "id": "WP-MKTW-0005244148",
-    "title": "This is the ‘most underappreciated’ driver for Microsoft, according to one analyst",
-    "tokens": [
-      "according",
-      "analyst",
-      "driver",
-      "microsoft",
-      "most",
-      "one",
-      "underappreciated"
-    ],
-    "ts": 1790005256.5641778
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/california-clears-sales-of-higherethanol-fuel-to-lowergasoline-costs-4909402",
-    "title": "California clears sales of higher-ethanol fuel to lower gasoline costs",
-    "tokens": [
-      "california",
-      "clears",
-      "costs",
-      "ethanol",
-      "fuel",
-      "gasoline",
-      "higher",
-      "lower",
-      "sales"
-    ],
-    "ts": 1790006000.115595
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/citi-names-top-pick-in-athletic-sector-93CH-4909401",
-    "title": "Citi Names Top Pick in Athletic Sector",
-    "tokens": [
-      "athletic",
-      "citi",
-      "names",
-      "pick",
-      "sector",
-      "top"
-    ],
-    "ts": 1790006008.4219482
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/donatella-versace-partners-with-gen-z-fashion-retailer-revolve-4909320",
-    "title": "Donatella Versace partners with Gen Z fashion retailer REVOLVE",
-    "tokens": [
-      "donatella",
-      "fashion",
-      "gen",
-      "partners",
-      "retailer",
-      "revolve",
-      "versace"
-    ],
-    "ts": 1790006018.1677125
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-221-4909400",
     "title": "Poland stocks higher at close of trade; WIG30 up 2.21%",
     "tokens": [
@@ -23143,5 +22995,164 @@
       "surge"
     ],
     "ts": 1790169458.5978951
+  },
+  {
+    "id": "iren-microsoft-14-billion-funding-131403251.html",
+    "title": "IREN Has Microsoft and $14 Billion of Funding. Execution Is the Real Test",
+    "tokens": [
+      "billion",
+      "execution",
+      "funding",
+      "iren",
+      "microsoft",
+      "real",
+      "test"
+    ],
+    "ts": 1790170318.9311752
+  },
+  {
+    "id": "urogen-urgn-commercial-engine-strong-131353171.html",
+    "title": "Is UroGen’s (URGN) Commercial Engine Strong Enough To Fund Its Pipeline Ambitions?",
+    "tokens": [
+      "ambitions",
+      "commercial",
+      "engine",
+      "enough",
+      "fund",
+      "pipeline",
+      "strong",
+      "urgn",
+      "urogen"
+    ],
+    "ts": 1790170326.8786476
+  },
+  {
+    "id": "five9-president-andy-dignan-sells-132201422.html",
+    "title": "Five9 President Andy Dignan Sells Shares for $244,510",
+    "tokens": [
+      "244",
+      "510",
+      "andy",
+      "dignan",
+      "five9",
+      "president",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790170334.2580495
+  },
+  {
+    "id": "morgan-stanley-just-put-54-130939928.html",
+    "title": "Morgan Stanley Just Put a $54 Target on This AI-Pivoting Bitcoin Miner. Amazon Is Already a Customer",
+    "tokens": [
+      "already",
+      "amazon",
+      "bitcoin",
+      "customer",
+      "just",
+      "miner",
+      "morgan",
+      "pivoting",
+      "put",
+      "stanley",
+      "target"
+    ],
+    "ts": 1790170342.989613
+  },
+  {
+    "id": "space-investment-more-doubled-23-130604634.html",
+    "title": "Space investment more than doubled to $23 billion in year to June, report says",
+    "tokens": [
+      "billion",
+      "doubled",
+      "investment",
+      "june",
+      "more",
+      "report",
+      "space",
+      "year"
+    ],
+    "ts": 1790170351.093892
+  },
+  {
+    "id": "why-sunrun-run-virtual-power-130550763.html",
+    "title": "Why Sunrun’s (RUN) Virtual Power Plant Strategy Changes Everything For Its Valuation",
+    "tokens": [
+      "changes",
+      "everything",
+      "plant",
+      "power",
+      "run",
+      "strategy",
+      "sunrun",
+      "valuation",
+      "virtual",
+      "why"
+    ],
+    "ts": 1790170359.2155714
+  },
+  {
+    "id": "oil-hovers-near-100-as-analysts-warn-trump-diesel-export-ban-would-tighten-global-supply-130359301.html",
+    "title": "Oil hovers near $100 as analysts warn Trump diesel export ban would 'tighten global supply'",
+    "tokens": [
+      "100",
+      "analysts",
+      "ban",
+      "diesel",
+      "export",
+      "global",
+      "hovers",
+      "near",
+      "oil",
+      "supply",
+      "tighten",
+      "trump",
+      "warn",
+      "would"
+    ],
+    "ts": 1790170363.2325778
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+    "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+    "tokens": [
+      "actions",
+      "american",
+      "bank",
+      "board",
+      "company",
+      "employee",
+      "enforcement",
+      "express",
+      "federal",
+      "former",
+      "inc",
+      "issues",
+      "northstar",
+      "regions",
+      "related",
+      "reserve",
+      "services",
+      "travel"
+    ],
+    "ts": 1790170367.795759
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+    "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+    "tokens": [
+      "action",
+      "announces",
+      "bancshares",
+      "bank",
+      "board",
+      "enforcement",
+      "eufaula",
+      "federal",
+      "reserve",
+      "snb",
+      "termination"
+    ],
+    "ts": 1790170375.5029187
   }
 ]

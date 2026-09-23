@@ -1,210 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/converse-pulls-ad-apologizes-after-backlash-over-alleged-kkk-imagery-abc-news-reports-4909842",
-    "title": "Converse pulls ad, apologizes after backlash over alleged KKK imagery, ABC News reports",
-    "tokens": [
-      "abc",
-      "alleged",
-      "apologizes",
-      "backlash",
-      "converse",
-      "imagery",
-      "kkk",
-      "news",
-      "pulls",
-      "reports"
-    ],
-    "ts": 1790048585.2241032
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/sandisk-corp-chairman--ceo-david-goeckeler-sells-533-million-in-shares-93CH-4909844",
-    "title": "Sandisk corp chairman & CEO David Goeckeler sells $53.3 million in shares",
-    "tokens": [
-      "ceo",
-      "chairman",
-      "corp",
-      "david",
-      "goeckeler",
-      "million",
-      "sandisk",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790048592.4657068
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ooma-svp--chief-legal-officer-jenny-yeh-sells-40181-in-shares-93CH-4909843",
-    "title": "Ooma SVP & chief legal officer Jenny Yeh sells $40,181 in shares",
-    "tokens": [
-      "181",
-      "chief",
-      "jenny",
-      "legal",
-      "officer",
-      "ooma",
-      "sells",
-      "shares",
-      "svp",
-      "yeh"
-    ],
-    "ts": 1790048599.1985955
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/alibaba-unveils-new-ai-chip-calls-it-chinas-most-powerful-4909841",
-    "title": "Alibaba unveils new AI chip, calls it China’s most powerful",
-    "tokens": [
-      "alibaba",
-      "calls",
-      "china",
-      "chip",
-      "most",
-      "powerful",
-      "unveils"
-    ],
-    "ts": 1790048606.8428268
-  },
-  {
-    "id": "WP-MKTW-0005242568",
-    "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
-    "tokens": [
-      "college",
-      "mit",
-      "nation",
-      "now",
-      "princeton",
-      "run",
-      "top",
-      "year"
-    ],
-    "ts": 1790050254.7959886
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/td-cowen-names-top-pick-in-canadas-paper--forest-product-sector-93CH-4909846",
-    "title": "TD Cowen Names Top Pick in Canada’s Paper & Forest Product Sector",
-    "tokens": [
-      "canada",
-      "cowen",
-      "forest",
-      "names",
-      "paper",
-      "pick",
-      "product",
-      "sector",
-      "top"
-    ],
-    "ts": 1790050262.319668
-  },
-  {
-    "id": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum",
-    "title": "Trueo prediction market moves from Base to Ethereum",
-    "tokens": [
-      "base",
-      "ethereum",
-      "market",
-      "moves",
-      "prediction",
-      "trueo"
-    ],
-    "ts": 1790050270.996818
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-surging-today-93CH-4909852",
-    "title": "Why is Alibaba stock surging today?",
-    "tokens": [
-      "alibaba",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790051230.5235713
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-rising-today-93CH-4909851",
-    "title": "Why is Samsung Electronics stock rising today?",
-    "tokens": [
-      "electronics",
-      "rising",
-      "samsung",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790051234.061905
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-rallying-today-93CH-4909850",
-    "title": "Why is SK Hynix stock rallying today?",
-    "tokens": [
-      "hynix",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790051238.0778625
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tencent-shares-jump-after-unveiling-new-ai-image-model-4909849",
-    "title": "Tencent shares jump after unveiling new AI image model",
-    "tokens": [
-      "image",
-      "jump",
-      "model",
-      "shares",
-      "tencent",
-      "unveiling"
-    ],
-    "ts": 1790051241.6483433
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
-    "title": "Asian currencies mixed as dollar steadies, yen pressured by policy gap",
-    "tokens": [
-      "asian",
-      "currencies",
-      "dollar",
-      "gap",
-      "mixed",
-      "policy",
-      "pressured",
-      "steadies",
-      "yen"
-    ],
-    "ts": 1790051248.8216345
-  },
-  {
-    "id": "u-china-summit-pmi-other-170002981.html",
-    "title": "U.S.-China Summit, PMI and Other Can't Miss Items this Week",
-    "tokens": [
-      "can",
-      "china",
-      "items",
-      "miss",
-      "other",
-      "pmi",
-      "summit",
-      "week"
-    ],
-    "ts": 1790051255.8350317
-  },
-  {
-    "id": "9edbaaa4-df04-48f6-a080-fa24798ace78",
-    "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
-    "tokens": [
-      "agent",
-      "cardano",
-      "joins",
-      "ledger",
-      "payments",
-      "power",
-      "race",
-      "solana",
-      "xrp"
-    ],
-    "ts": 1790051264.0840466
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-zai-stock-declining-today-93CH-4909855",
     "title": "Why is ZAI stock declining today?",
     "tokens": [
@@ -22993,5 +22788,211 @@
       "southern"
     ],
     "ts": 1790199635.3509886
+  },
+  {
+    "id": "WP-MKTW-0005250932",
+    "title": "Is gridlock in Washington actually good for stocks? Here’s what historical market data says.",
+    "tokens": [
+      "actually",
+      "data",
+      "good",
+      "gridlock",
+      "here",
+      "historical",
+      "market",
+      "stocks",
+      "washington",
+      "what"
+    ],
+    "ts": 1790200267.1539912
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/everpure-stock-surges-on-raised-fiscal-2028-revenue-outlook-93CH-4914098",
+    "title": "Everpure stock surges on raised fiscal 2028 revenue outlook",
+    "tokens": [
+      "2028",
+      "everpure",
+      "fiscal",
+      "outlook",
+      "raised",
+      "revenue",
+      "stock",
+      "surges"
+    ],
+    "ts": 1790200275.0649073
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/capital-clean-energy-carriers-holds-annual-shareholder-meeting-93CH-4914095",
+    "title": "Capital Clean Energy Carriers holds annual shareholder meeting",
+    "tokens": [
+      "annual",
+      "capital",
+      "carriers",
+      "clean",
+      "energy",
+      "holds",
+      "meeting",
+      "shareholder"
+    ],
+    "ts": 1790200282.4782465
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/fg-nexus-acquires-10-million-stake-in-fg-communities-93CH-4914094",
+    "title": "FG Nexus acquires $10 million stake in FG Communities",
+    "tokens": [
+      "acquires",
+      "communities",
+      "million",
+      "nexus",
+      "stake"
+    ],
+    "ts": 1790200289.693098
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/fortitude-mining-upsizes-credit-facility-to-50-million-93CH-4914093",
+    "title": "Fortitude Mining upsizes credit facility to $50 million",
+    "tokens": [
+      "credit",
+      "facility",
+      "fortitude",
+      "million",
+      "mining",
+      "upsizes"
+    ],
+    "ts": 1790200296.7329905
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/everpure-reaffirms-fy27-guidance-provides-fy28-outlook-93CH-4914092",
+    "title": "Everpure reaffirms FY27 guidance, provides FY28 outlook",
+    "tokens": [
+      "everpure",
+      "fy27",
+      "fy28",
+      "guidance",
+      "outlook",
+      "provides",
+      "reaffirms"
+    ],
+    "ts": 1790200304.093353
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/abacus-founders-cancel-stock-sale-plans-retain-shares-93CH-4914091",
+    "title": "Abacus founders cancel stock sale plans, retain shares",
+    "tokens": [
+      "abacus",
+      "cancel",
+      "founders",
+      "plans",
+      "retain",
+      "sale",
+      "shares",
+      "stock"
+    ],
+    "ts": 1790200311.477797
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/nexgel-shareholders-approve-share-increase-and-reverse-stock-split-proposals-93CH-4914084",
+    "title": "NexGel shareholders approve share increase and reverse stock split proposals",
+    "tokens": [
+      "approve",
+      "increase",
+      "nexgel",
+      "proposals",
+      "reverse",
+      "share",
+      "shareholders",
+      "split",
+      "stock"
+    ],
+    "ts": 1790200318.687927
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/qualcomm-at-snapdragon-summit-2026-day-1-pushing-ai-onto-devices-93CH-4914083",
+    "title": "Qualcomm at Snapdragon Summit 2026 Day 1: pushing AI onto devices",
+    "tokens": [
+      "2026",
+      "day",
+      "devices",
+      "onto",
+      "pushing",
+      "qualcomm",
+      "snapdragon",
+      "summit"
+    ],
+    "ts": 1790200325.9835484
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-ned-holmes-sells-75310-in-stock-93CH-4914078",
+    "title": "Prosperity Bancshares director Ned Holmes sells $75,310 in stock",
+    "tokens": [
+      "310",
+      "bancshares",
+      "director",
+      "holmes",
+      "ned",
+      "prosperity",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790200333.2550828
+  },
+  {
+    "id": "walmart-target-costco-forecast-retail-134747501.html",
+    "title": "Walmart, Target and Costco Forecast: Retail Stocks Face Key Tests",
+    "tokens": [
+      "costco",
+      "face",
+      "forecast",
+      "key",
+      "retail",
+      "stocks",
+      "target",
+      "tests",
+      "walmart"
+    ],
+    "ts": 1790200341.1284528
+  },
+  {
+    "id": "mid-america-apartment-communities-stock-134620864.html",
+    "title": "Mid-America Apartment Communities Stock: Is MAA Underperforming the Real Estate Sector?",
+    "tokens": [
+      "america",
+      "apartment",
+      "communities",
+      "estate",
+      "maa",
+      "mid",
+      "real",
+      "sector",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1790200350.0927303
+  },
+  {
+    "id": "why-jnj-stock-beating-rivals-134048100.html",
+    "title": "Why Is JNJ Stock Beating Rivals That Grow Faster?",
+    "tokens": [
+      "beating",
+      "faster",
+      "grow",
+      "jnj",
+      "rivals",
+      "stock",
+      "why"
+    ],
+    "ts": 1790200357.4926956
+  },
+  {
+    "id": "international-paper-stock-underperforming-dow-135035800.html",
+    "title": "Is International Paper Stock Underperforming the Dow?",
+    "tokens": [
+      "dow",
+      "international",
+      "paper",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1790200365.1216447
   }
 ]

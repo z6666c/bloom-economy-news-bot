@@ -1,182 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-leading-law-firm-encourages-lincoln-educational-services-corporation-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-linc-1036561156",
-    "title": "ROSEN, A LEADING LAW FIRM, Encourages Lincoln Educational Services Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - LINC",
-    "tokens": [
-      "action",
-      "before",
-      "class",
-      "corporation",
-      "counsel",
-      "deadline",
-      "educational",
-      "encourages",
-      "firm",
-      "important",
-      "investors",
-      "law",
-      "leading",
-      "linc",
-      "lincoln",
-      "rosen",
-      "secure",
-      "securities",
-      "services"
-    ],
-    "ts": 1790009069.4535089
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-cms-deutsche-telekom-ag-release-of-a-capital-market-information-1036561145",
-    "title": "EQS-CMS: Deutsche Telekom AG: Release of a capital market information",
-    "tokens": [
-      "capital",
-      "cms",
-      "deutsche",
-      "eqs",
-      "information",
-      "market",
-      "release",
-      "telekom"
-    ],
-    "ts": 1790009076.9281726
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/alibaba-deadline-rosen-trusted-investor-counsel-encourages-alibaba-group-holding-limited-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-baba-1036561157",
-    "title": "ALIBABA DEADLINE: ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Alibaba Group Holding Limited Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class...",
-    "tokens": [
-      "100k",
-      "alibaba",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "excess",
-      "group",
-      "holding",
-      "important",
-      "investor",
-      "investors",
-      "limited",
-      "losses",
-      "rosen",
-      "secure",
-      "securities",
-      "trusted"
-    ],
-    "ts": 1790009084.509445
-  },
-  {
-    "id": "https://seekingalpha.com/news/4644944-spdr-sp-emerging-markets-dividend-etf-declares-quarterly-distribution-of-06678?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "SPDR S&P Emerging Markets Dividend ETF declares quarterly distribution of $0.6678",
-    "tokens": [
-      "6678",
-      "declares",
-      "distribution",
-      "dividend",
-      "emerging",
-      "etf",
-      "markets",
-      "quarterly",
-      "spdr"
-    ],
-    "ts": 1790009091.5069501
-  },
-  {
-    "id": "https://seekingalpha.com/news/4644943-spdr-sp-kensho-future-security-etf-declares-quarterly-distribution-of-00448?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "SPDR S&P Kensho Future Security ETF declares quarterly distribution of $0.0448",
-    "tokens": [
-      "0448",
-      "declares",
-      "distribution",
-      "etf",
-      "future",
-      "kensho",
-      "quarterly",
-      "security",
-      "spdr"
-    ],
-    "ts": 1790009098.818024
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/arevo-arginex-corn-proven-to-deliver-up-to-4-3-more-grain-yield-with-30-less-nitrogen-fertiliser-in-independent-trials-across-europe-and-south-america-1036561137",
-    "title": "Arevo Arginex Corn proven to deliver up to 4.3% more grain yield with 30% less nitrogen fertiliser in independent trials across Europe and South America",
-    "tokens": [
-      "across",
-      "america",
-      "arevo",
-      "arginex",
-      "corn",
-      "deliver",
-      "europe",
-      "fertiliser",
-      "grain",
-      "independent",
-      "less",
-      "more",
-      "nitrogen",
-      "proven",
-      "south",
-      "trials",
-      "yield"
-    ],
-    "ts": 1790009106.6858706
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-class-action-reminder-capricor-therapeutics-inc.-capr-lead-plaintiff-deadline-is-september-28-2026-1036561158",
-    "title": "Kaplan Fox Class Action Reminder: Capricor Therapeutics, Inc. (CAPR) Lead Plaintiff Deadline is September 28, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "capr",
-      "capricor",
-      "class",
-      "deadline",
-      "fox",
-      "inc",
-      "kaplan",
-      "lead",
-      "plaintiff",
-      "reminder",
-      "september",
-      "therapeutics"
-    ],
-    "ts": 1790009114.5308607
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/compound-wealth-advisors-highlights-retirement-income-and-tax-planning-for-individuals-approaching-retirement-1036561155",
-    "title": "Compound Wealth Advisors Highlights Retirement Income and Tax Planning for Individuals Approaching Retirement",
-    "tokens": [
-      "advisors",
-      "approaching",
-      "compound",
-      "highlights",
-      "income",
-      "individuals",
-      "planning",
-      "retirement",
-      "tax",
-      "wealth"
-    ],
-    "ts": 1790009121.6283684
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market",
-    "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
-    "tokens": [
-      "86k",
-      "analysis",
-      "bitcoin",
-      "bull",
-      "crypto",
-      "market",
-      "price",
-      "sees",
-      "tags"
-    ],
-    "ts": 1790009131.4585707
-  },
-  {
     "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
     "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
     "tokens": [
@@ -23138,5 +22961,140 @@
       "totalenergies"
     ],
     "ts": 1790172833.0156126
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-halliburton-stock-rating-on-mobilization-costs-93CH-4913387",
+    "title": "UBS reiterates Halliburton stock rating on mobilization costs",
+    "tokens": [
+      "costs",
+      "halliburton",
+      "mobilization",
+      "rating",
+      "reiterates",
+      "stock",
+      "ubs"
+    ],
+    "ts": 1790173753.5319238
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-blackstone-stock-rating-on-lower-realization-outlook-93CH-4913388",
+    "title": "UBS reiterates Blackstone stock rating on lower realization outlook",
+    "tokens": [
+      "blackstone",
+      "lower",
+      "outlook",
+      "rating",
+      "realization",
+      "reiterates",
+      "stock",
+      "ubs"
+    ],
+    "ts": 1790173761.8778055
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nasdaq-100-hits-overbought-resistance-at-30405-live-levels-93CH-4909309",
+    "title": "Nasdaq 100 overextended at 30,860 with RSI near overbought: Live levels",
+    "tokens": [
+      "100",
+      "860",
+      "levels",
+      "live",
+      "nasdaq",
+      "near",
+      "overbought",
+      "overextended",
+      "rsi"
+    ],
+    "ts": 1790173770.954107
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tesla-tests-381-resistance-confluence-live-levels-93CH-4909308",
+    "title": "Tesla snaps back below breakout zone at $381.72: Live levels",
+    "tokens": [
+      "381",
+      "back",
+      "below",
+      "breakout",
+      "levels",
+      "live",
+      "snaps",
+      "tesla",
+      "zone"
+    ],
+    "ts": 1790173779.7268772
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sp-500-tests-7838-resistance-amid-bull-trap-warnings-live-93CH-4909306",
+    "title": "S&P 500 fades from double top at 7,848: Live levels",
+    "tokens": [
+      "500",
+      "848",
+      "double",
+      "fades",
+      "levels",
+      "live",
+      "top"
+    ],
+    "ts": 1790173787.2022192
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/dollar-index-consolidates-at-10009-in-bull-trap-danger-zone-live-93CH-4909312",
+    "title": "Dollar Index overbought at 100.73 with Doji warning: Live levels",
+    "tokens": [
+      "100",
+      "doji",
+      "dollar",
+      "index",
+      "levels",
+      "live",
+      "overbought",
+      "warning"
+    ],
+    "ts": 1790173795.228174
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/dow-jones-trapped-in-bear-flag-at-52187-live-levels-93CH-4909307",
+    "title": "Dow Jones bear flag breaks down below 20-SMA: Live levels",
+    "tokens": [
+      "bear",
+      "below",
+      "breaks",
+      "dow",
+      "flag",
+      "jones",
+      "levels",
+      "live",
+      "sma"
+    ],
+    "ts": 1790173802.9316914
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nvidia-reclaims-key-mas-at-22333-eyes-228-resistance-live-93CH-4909311",
+    "title": "NVIDIA nears double top at $234.75: Live levels",
+    "tokens": [
+      "234",
+      "double",
+      "levels",
+      "live",
+      "nears",
+      "nvidia",
+      "top"
+    ],
+    "ts": 1790173810.854716
+  },
+  {
+    "id": "maple-leaf-foods-close-plant-140812466.html",
+    "title": "Maple Leaf Foods to close plant-based meat sites",
+    "tokens": [
+      "based",
+      "close",
+      "foods",
+      "leaf",
+      "maple",
+      "meat",
+      "plant",
+      "sites"
+    ],
+    "ts": 1790173819.5513036
   }
 ]

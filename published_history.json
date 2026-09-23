@@ -1,157 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/abbvies-rinvoq-wins-eu-approval-for-pediatric-arthritis-93CH-4909938",
-    "title": "AbbVie’s Rinvoq wins EU approval for pediatric arthritis",
-    "tokens": [
-      "abbvie",
-      "approval",
-      "arthritis",
-      "pediatric",
-      "rinvoq",
-      "wins"
-    ],
-    "ts": 1790060227.5999498
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/corvex-requests-shareholder-vote-for-whitbread-board-seat-93CH-4909937",
-    "title": "Corvex requests shareholder vote for Whitbread board seat",
-    "tokens": [
-      "board",
-      "corvex",
-      "requests",
-      "seat",
-      "shareholder",
-      "vote",
-      "whitbread"
-    ],
-    "ts": 1790060235.218827
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/enliven-therapeutics-cmo-helen-collins-sells-251k-in-shares-93CH-4909932",
-    "title": "Enliven Therapeutics CMO Helen Collins sells $251k in shares",
-    "tokens": [
-      "251k",
-      "cmo",
-      "collins",
-      "enliven",
-      "helen",
-      "sells",
-      "shares",
-      "therapeutics"
-    ],
-    "ts": 1790060242.8108118
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-030-4909931",
-    "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.30%",
-    "tokens": [
-      "200",
-      "asx",
-      "australia",
-      "close",
-      "higher",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790060246.8268418
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-initiates-dbs-group-stock-with-buy-on-capital-strength-93CH-4909928",
-    "title": "Jefferies initiates DBS Group stock with buy on capital strength",
-    "tokens": [
-      "buy",
-      "capital",
-      "dbs",
-      "group",
-      "initiates",
-      "jefferies",
-      "stock",
-      "strength"
-    ],
-    "ts": 1790060250.1010978
-  },
-  {
-    "id": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut",
-    "title": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
-    "tokens": [
-      "animoca",
-      "currenc",
-      "debut",
-      "delaying",
-      "ice",
-      "merger",
-      "nasdaq",
-      "puts"
-    ],
-    "ts": 1790060257.9696348
-  },
-  {
-    "id": "https://www.investing.com/news/press-releases/cba-real-estate-led-by-salman-bin-ali-launches-exitfocused-dubai-property-assessment-initiative-4909974",
-    "title": "CBA Real Estate, Led by Salman Bin Ali, Launches Exit-Focused Dubai Property Assessment Initiative",
-    "tokens": [
-      "ali",
-      "assessment",
-      "bin",
-      "cba",
-      "dubai",
-      "estate",
-      "exit",
-      "focused",
-      "initiative",
-      "launches",
-      "led",
-      "property",
-      "real",
-      "salman"
-    ],
-    "ts": 1790061191.6200593
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tui-narrows-2026-operating-profit-outlook-4909972",
-    "title": "TUI narrows 2026 operating profit outlook",
-    "tokens": [
-      "2026",
-      "narrows",
-      "operating",
-      "outlook",
-      "profit",
-      "tui"
-    ],
-    "ts": 1790061202.3873165
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/forterra-nonexecutive-director-purchases-shares-worth-40030-93CH-4909970",
-    "title": "Forterra non-executive director purchases shares worth £40,030",
-    "tokens": [
-      "030",
-      "director",
-      "executive",
-      "forterra",
-      "non",
-      "purchases",
-      "shares",
-      "worth"
-    ],
-    "ts": 1790061210.0646524
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/smiths-group-beats-profit-forecasts-plans-to-divest-legacy-asbestos-liability-4909969",
-    "title": "Smiths Group beats profit forecasts, plans to divest legacy asbestos liability",
-    "tokens": [
-      "asbestos",
-      "beats",
-      "divest",
-      "forecasts",
-      "group",
-      "legacy",
-      "liability",
-      "plans",
-      "profit",
-      "smiths"
-    ],
-    "ts": 1790061219.2669148
-  },
-  {
     "id": "https://www.investing.com/news/company-news/seed-capital-solutions-reports-92600-loss-plans-fundraising-93CH-4909968",
     "title": "Seed Capital Solutions reports £92,600 loss, plans fundraising",
     "tokens": [
@@ -23017,5 +22865,159 @@
       "takeover"
     ],
     "ts": 1790203937.2631605
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/allient-director-michael-winter-sells-49936-in-stock-for-plan-transfer-93CH-4914196",
+    "title": "Allient director Michael Winter sells $49,936 in stock for plan transfer",
+    "tokens": [
+      "936",
+      "allient",
+      "director",
+      "michael",
+      "plan",
+      "sells",
+      "stock",
+      "transfer",
+      "winter"
+    ],
+    "ts": 1790204933.619026
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/meta-cpo-christopher-cox-sells-285-million-in-shares-93CH-4914186",
+    "title": "Meta CPO Christopher Cox sells $28.5 million in shares",
+    "tokens": [
+      "christopher",
+      "cox",
+      "cpo",
+      "meta",
+      "million",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790204940.6314707
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/meta-platforms-coo-olivan-sells-107m-in-company-stock-93CH-4914185",
+    "title": "Meta platforms COO Olivan sells $1.07m in company stock",
+    "tokens": [
+      "07m",
+      "company",
+      "coo",
+      "meta",
+      "olivan",
+      "platforms",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790204949.3698347
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/conyers-investments-llc-sells-3860-of-newsmax-nmax-stock-93CH-4914184",
+    "title": "Conyers Investments LLC sells $3,860 of Newsmax (NMAX) stock",
+    "tokens": [
+      "860",
+      "conyers",
+      "investments",
+      "llc",
+      "newsmax",
+      "nmax",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790204956.610003
+  },
+  {
+    "id": "huawei-ramping-chips-2027-means-150002001.html",
+    "title": "Huawei Is Ramping Up to New Chips in 2027. What That Means for Nvidia Stock Now.",
+    "tokens": [
+      "2027",
+      "chips",
+      "huawei",
+      "means",
+      "now",
+      "nvidia",
+      "ramping",
+      "stock",
+      "what"
+    ],
+    "ts": 1790204965.4492028
+  },
+  {
+    "id": "analog-devices-sees-double-digit-150211734.html",
+    "title": "Analog Devices Sees Double-Digit Growth Into 2027 on Data Center, Industrial Demand",
+    "tokens": [
+      "2027",
+      "analog",
+      "center",
+      "data",
+      "demand",
+      "devices",
+      "digit",
+      "double",
+      "growth",
+      "industrial",
+      "sees"
+    ],
+    "ts": 1790204973.1219785
+  },
+  {
+    "id": "rbc-bullish-kraft-heinz-stock-150029488.html",
+    "title": "RBC Is Bullish on Kraft Heinz Stock and Expects Growth to Return in 2027",
+    "tokens": [
+      "2027",
+      "bullish",
+      "expects",
+      "growth",
+      "heinz",
+      "kraft",
+      "rbc",
+      "return",
+      "stock"
+    ],
+    "ts": 1790204980.322873
+  },
+  {
+    "id": "why-utility-profits-could-next-150000825.html",
+    "title": "Why Utility Profits Could Be the Next Target",
+    "tokens": [
+      "could",
+      "next",
+      "profits",
+      "target",
+      "utility",
+      "why"
+    ],
+    "ts": 1790204984.3401449
+  },
+  {
+    "id": "oilprice-article-45591",
+    "title": "Canada’s Oil Patch On Track For Biggest M&A Wave In A Decade",
+    "tokens": [
+      "biggest",
+      "canada",
+      "decade",
+      "oil",
+      "patch",
+      "track",
+      "wave"
+    ],
+    "ts": 1790204989.4274662
+  },
+  {
+    "id": "oilprice-news-45591",
+    "title": "Imperial Oil Becomes First Major Alberta Energy Company to Oppose Separatism",
+    "tokens": [
+      "alberta",
+      "becomes",
+      "company",
+      "energy",
+      "first",
+      "imperial",
+      "major",
+      "oil",
+      "oppose",
+      "separatism"
+    ],
+    "ts": 1790204993.446573
   }
 ]

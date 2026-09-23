@@ -1,253 +1,5 @@
 [
   {
-    "id": "oilprice-news-45552",
-    "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
-    "tokens": [
-      "bet",
-      "diplomacy",
-      "iran",
-      "oil",
-      "prices",
-      "slide",
-      "traders"
-    ],
-    "ts": 1789993973.7794638
-  },
-  {
-    "id": "2f8a9cfd-43ba-43e8-887a-f868559fa0eb",
-    "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
-    "tokens": [
-      "apple",
-      "big",
-      "crypto",
-      "eyes",
-      "google",
-      "rails",
-      "seek",
-      "stablecoin",
-      "talent",
-      "tech",
-      "tokenization"
-    ],
-    "ts": 1789993978.737115
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-anterix-stock-rallying-today-93CH-4909029",
-    "title": "Why is Anterix stock rallying today?",
-    "tokens": [
-      "anterix",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789995226.6903238
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-overweight-rating-on-etoro-stock-93CH-4909026",
-    "title": "Cantor Fitzgerald reiterates Overweight rating on eToro stock",
-    "tokens": [
-      "cantor",
-      "etoro",
-      "fitzgerald",
-      "overweight",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1789995232.2457736
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-forward-industries-stock-rating-93CH-4909024",
-    "title": "Cantor Fitzgerald reiterates Forward Industries stock rating",
-    "tokens": [
-      "cantor",
-      "fitzgerald",
-      "forward",
-      "industries",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1789995240.8916156
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-raises-microsoft-stock-price-target-on-growth-93CH-4909025",
-    "title": "Cantor Fitzgerald raises Microsoft stock price target on growth",
-    "tokens": [
-      "cantor",
-      "fitzgerald",
-      "growth",
-      "microsoft",
-      "price",
-      "raises",
-      "stock",
-      "target"
-    ],
-    "ts": 1789995249.2729385
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-stablecoinx-stock-surging-today-93CH-4909019",
-    "title": "Why is Stablecoinx stock surging today?",
-    "tokens": [
-      "stablecoinx",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1789995253.288587
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-satellogic-stock-rating-on-satellite-deployment-93CH-4909001",
-    "title": "Cantor Fitzgerald reiterates Satellogic stock rating on satellite deployment",
-    "tokens": [
-      "cantor",
-      "deployment",
-      "fitzgerald",
-      "rating",
-      "reiterates",
-      "satellite",
-      "satellogic",
-      "stock"
-    ],
-    "ts": 1789995258.064792
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/merlin-labs-stock-maintained-at-overweight-by-cantor-fitzgerald-93CH-4909000",
-    "title": "Merlin Labs stock maintained at Overweight by Cantor Fitzgerald",
-    "tokens": [
-      "cantor",
-      "fitzgerald",
-      "labs",
-      "maintained",
-      "merlin",
-      "overweight",
-      "stock"
-    ],
-    "ts": 1789995267.0657158
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/joby-aviation-stock-maintains-neutral-at-cantor-fitzgerald-after-autonomous-flight-93CH-4908999",
-    "title": "Joby Aviation stock maintains Neutral at Cantor Fitzgerald after autonomous flight",
-    "tokens": [
-      "autonomous",
-      "aviation",
-      "cantor",
-      "fitzgerald",
-      "flight",
-      "joby",
-      "maintains",
-      "neutral",
-      "stock"
-    ],
-    "ts": 1789995275.1903267
-  },
-  {
-    "id": "veeco-instruments-veco-results-far-123608566.html",
-    "title": "Veeco Instruments (VECO): Results Far Exceed Expectations Amid Memory Capacity Boom",
-    "tokens": [
-      "boom",
-      "capacity",
-      "exceed",
-      "expectations",
-      "far",
-      "instruments",
-      "memory",
-      "results",
-      "veco",
-      "veeco"
-    ],
-    "ts": 1789995285.579573
-  },
-  {
-    "id": "strategy-sees-value-methanex-meoh-123337498.html",
-    "title": "This Strategy Sees Value in Methanex (MEOH) Despite a Near-Term Cash Flow Pullback",
-    "tokens": [
-      "cash",
-      "despite",
-      "flow",
-      "meoh",
-      "methanex",
-      "near",
-      "pullback",
-      "sees",
-      "strategy",
-      "term",
-      "value"
-    ],
-    "ts": 1789995295.6924806
-  },
-  {
-    "id": "tariffs-fuel-costs-rising-rates-123314726.html",
-    "title": "Tariffs, fuel costs, and rising rates squeeze U.S. manufacturers",
-    "tokens": [
-      "costs",
-      "fuel",
-      "manufacturers",
-      "rates",
-      "rising",
-      "squeeze",
-      "tariffs"
-    ],
-    "ts": 1789995304.4653754
-  },
-  {
-    "id": "montgomery-v-caribe-supercharges-knight-123210361.html",
-    "title": "How Montgomery v. Caribe Supercharges Knight-Swift’s (KNX) Scale Advantage",
-    "tokens": [
-      "advantage",
-      "caribe",
-      "how",
-      "knight",
-      "knx",
-      "montgomery",
-      "scale",
-      "supercharges",
-      "swift"
-    ],
-    "ts": 1789995312.984119
-  },
-  {
-    "id": "why-strategy-decided-exit-charles-123056495.html",
-    "title": "Here’s Why This Strategy Decided to Exit Charles River Laboratories (CRL)",
-    "tokens": [
-      "charles",
-      "crl",
-      "decided",
-      "exit",
-      "here",
-      "laboratories",
-      "river",
-      "strategy",
-      "why"
-    ],
-    "ts": 1789995322.183955
-  },
-  {
-    "id": "11-texas-condo-owners-pay-123000155.html",
-    "title": "11 Texas condo owners pay $800 per month in HOA fees 5 years after a fire destroyed units they've yet to return to",
-    "tokens": [
-      "800",
-      "condo",
-      "destroyed",
-      "fees",
-      "fire",
-      "hoa",
-      "month",
-      "owners",
-      "pay",
-      "per",
-      "return",
-      "texas",
-      "they",
-      "units",
-      "years",
-      "yet"
-    ],
-    "ts": 1789995331.0589774
-  },
-  {
     "id": "tokenized-equities-ai-disruption-threaten-122633931.html",
     "title": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
     "tokens": [
@@ -23176,5 +22928,254 @@
       "taking"
     ],
     "ts": 1790159357.8722835
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/secunet-to-supply-germany-with-encryption-tech-worth-up-to-17bn-93CH-4912537",
+    "title": "Secunet to supply Germany with encryption tech worth up to €1.7bn",
+    "tokens": [
+      "7bn",
+      "encryption",
+      "germany",
+      "secunet",
+      "supply",
+      "tech",
+      "worth"
+    ],
+    "ts": 1790160197.9016678
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-air-traffic-vulnerabilities-exposed-by-old-computers-severed-cables-and-stalled-upgrades-4912464",
+    "title": "US air traffic vulnerabilities exposed by old computers, severed cables and stalled upgrades",
+    "tokens": [
+      "air",
+      "cables",
+      "computers",
+      "exposed",
+      "old",
+      "severed",
+      "stalled",
+      "traffic",
+      "upgrades",
+      "vulnerabilities"
+    ],
+    "ts": 1790160204.847764
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ai-leaders-to-brief-un-amid-warnings-the-technology-could-slip-beyond-human-control-4912463",
+    "title": "AI leaders to brief UN amid warnings the technology could slip beyond human control",
+    "tokens": [
+      "beyond",
+      "brief",
+      "control",
+      "could",
+      "human",
+      "leaders",
+      "slip",
+      "technology",
+      "warnings"
+    ],
+    "ts": 1790160213.4308596
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/blueberry-strengthens-mena-presence-with-cma-category-5-license-and-dubai-office-launch-4912532",
+    "title": "Blueberry Strengthens MENA Presence with CMA Category 5 License and Dubai Office Launch",
+    "tokens": [
+      "blueberry",
+      "category",
+      "cma",
+      "dubai",
+      "launch",
+      "license",
+      "mena",
+      "office",
+      "presence",
+      "strengthens"
+    ],
+    "ts": 1790160220.625412
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/meta-expected-to-unveil-smart-glasses-without-camera-as-privacy-concerns-grow-4912466",
+    "title": "Meta expected to unveil smart glasses without camera as privacy concerns grow",
+    "tokens": [
+      "camera",
+      "concerns",
+      "expected",
+      "glasses",
+      "grow",
+      "meta",
+      "privacy",
+      "smart",
+      "unveil",
+      "without"
+    ],
+    "ts": 1790160228.7478013
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-050-4912523",
+    "title": "India stocks higher at close of trade; Nifty 50 up 0.50%",
+    "tokens": [
+      "close",
+      "higher",
+      "india",
+      "nifty",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790160236.5092008
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/legal--general-to-cut-1000-jobs-by-mid2027-93CH-4912522",
+    "title": "Legal & General to cut 1,000 jobs by mid-2027",
+    "tokens": [
+      "000",
+      "2027",
+      "cut",
+      "general",
+      "jobs",
+      "legal",
+      "mid"
+    ],
+    "ts": 1790160244.0465107
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/portugal-forecasts-balanced-budget-for-2026-despite-surplus-93CH-4912521",
+    "title": "Portugal forecasts balanced budget for 2026 despite surplus",
+    "tokens": [
+      "2026",
+      "balanced",
+      "budget",
+      "despite",
+      "forecasts",
+      "portugal",
+      "surplus"
+    ],
+    "ts": 1790160252.0026672
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/lg-and-samsung-face-india-probe-over-tv-display-import-tariffs-93CH-4912520",
+    "title": "LG and Samsung face India probe over TV display import tariffs",
+    "tokens": [
+      "display",
+      "face",
+      "import",
+      "india",
+      "probe",
+      "samsung",
+      "tariffs"
+    ],
+    "ts": 1790160259.3704834
+  },
+  {
+    "id": "federal-delivers-warning-americans-savings-103500121.html",
+    "title": "Federal Reserve delivers warning to all Americans with a savings account: ‘There will be a reckoning.’ Are you ready?",
+    "tokens": [
+      "account",
+      "all",
+      "americans",
+      "delivers",
+      "federal",
+      "ready",
+      "reckoning",
+      "reserve",
+      "savings",
+      "there",
+      "warning",
+      "you"
+    ],
+    "ts": 1790160267.3129416
+  },
+  {
+    "id": "biocryst-bcrx-newest-approval-bigger-102622733.html",
+    "title": "Is BioCryst’s (BCRX) Newest Approval Bigger Than It Looks?",
+    "tokens": [
+      "approval",
+      "bcrx",
+      "bigger",
+      "biocryst",
+      "looks",
+      "newest"
+    ],
+    "ts": 1790160274.621467
+  },
+  {
+    "id": "oil-falls-increased-gulf-supply-014402051.html",
+    "title": "Oil holds near two-week lows while diesel cracks hit record peak",
+    "tokens": [
+      "cracks",
+      "diesel",
+      "hit",
+      "holds",
+      "lows",
+      "near",
+      "oil",
+      "peak",
+      "record",
+      "two",
+      "week",
+      "while"
+    ],
+    "ts": 1790160282.651457
+  },
+  {
+    "id": "whys-everyone-talking-monster-beverage-103500317.html",
+    "title": "Why's Everyone Talking About Monster Beverage Stock Now?",
+    "tokens": [
+      "about",
+      "beverage",
+      "everyone",
+      "monster",
+      "now",
+      "stock",
+      "talking",
+      "why"
+    ],
+    "ts": 1790160290.6000195
+  },
+  {
+    "id": "why-northwest-bancshares-nwbi-betting-101926444.html",
+    "title": "Why Is Northwest Bancshares (NWBI) Betting Big On A New Home?",
+    "tokens": [
+      "bancshares",
+      "betting",
+      "big",
+      "home",
+      "northwest",
+      "nwbi",
+      "why"
+    ],
+    "ts": 1790160298.0225415
+  },
+  {
+    "id": "securitize-secz-climbs-time-high-004521644.html",
+    "title": "Securitize (SECZ) Climbs to All-Time High on Tokenized Securities Go-Signal",
+    "tokens": [
+      "all",
+      "climbs",
+      "high",
+      "securities",
+      "securitize",
+      "secz",
+      "signal",
+      "time",
+      "tokenized"
+    ],
+    "ts": 1790160305.9895368
+  },
+  {
+    "id": "bd9abfb6-20d1-441b-8fc8-6772b35e19f3",
+    "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
+    "tokens": [
+      "000",
+      "100",
+      "below",
+      "bitcoin",
+      "brent",
+      "consolidates",
+      "narrows",
+      "near",
+      "rally",
+      "slips"
+    ],
+    "ts": 1790160315.3170931
   }
 ]

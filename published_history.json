@@ -1,30 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/facebook-instagram-down-for-thousands-of-users-in-us-downdetector-shows-4908245",
-    "title": "Facebook, Instagram down for thousands of users in U.S., Downdetector shows",
-    "tokens": [
-      "downdetector",
-      "facebook",
-      "instagram",
-      "shows",
-      "thousands",
-      "users"
-    ],
-    "ts": 1789964890.2350848
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-xtalpi-stock-rallying-today-93CH-4908243",
-    "title": "Why is XtalPi stock rallying today?",
-    "tokens": [
-      "rallying",
-      "stock",
-      "today",
-      "why",
-      "xtalpi"
-    ],
-    "ts": 1789964896.9193249
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/yuan-hits-fresh-multiyear-peak-as-pboc-eases-curb-ahead-of-trumpxi-summit-4908242",
     "title": "Yuan hits fresh multi-year peak as PBOC eases curb ahead of Trump-Xi summit",
     "tokens": [
@@ -23185,5 +23160,36 @@
       "security"
     ],
     "ts": 1790135023.0754485
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/chinese-beauty-product-exporters-are-sitting-pretty-despite-us-trade-dispute-4912049",
+    "title": "Chinese beauty product exporters are sitting pretty despite US trade dispute",
+    "tokens": [
+      "beauty",
+      "chinese",
+      "despite",
+      "dispute",
+      "exporters",
+      "pretty",
+      "product",
+      "sitting",
+      "trade"
+    ],
+    "ts": 1790135737.3186324
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/china-vanke-shares-surge-on-report-of-regulatory-debt-intervention-4912048",
+    "title": "China Vanke shares surge on report of regulatory debt intervention",
+    "tokens": [
+      "china",
+      "debt",
+      "intervention",
+      "regulatory",
+      "report",
+      "shares",
+      "surge",
+      "vanke"
+    ],
+    "ts": 1790135745.0721993
   }
 ]

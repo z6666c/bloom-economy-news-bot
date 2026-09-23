@@ -1,150 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/french-finance-ministry-expects-record-debt-in-2026-reaching-nearly-120-of-gdp-4908213",
-    "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
-    "tokens": [
-      "120",
-      "2026",
-      "debt",
-      "expects",
-      "finance",
-      "french",
-      "gdp",
-      "ministry",
-      "nearly",
-      "reaching",
-      "record"
-    ],
-    "ts": 1789954059.0432453
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/brazils-petrobras-board-approves-joining-diesel-subsidy-program-4908218",
-    "title": "Brazil’s Petrobras board approves joining diesel subsidy program",
-    "tokens": [
-      "approves",
-      "board",
-      "brazil",
-      "diesel",
-      "joining",
-      "petrobras",
-      "program",
-      "subsidy"
-    ],
-    "ts": 1789954938.6319468
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital-4908217",
-    "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
-    "tokens": [
-      "airport",
-      "attacks",
-      "capital",
-      "claim",
-      "flames",
-      "houthis",
-      "near",
-      "riyadh",
-      "saudi",
-      "seen",
-      "smoke"
-    ],
-    "ts": 1789954942.3374052
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/paramount-could-face-30m-penalty-for-missing-theater-release-goal-bloomberg-93CH-4908216",
-    "title": "Paramount could face $30m penalty for missing theater release goal- Bloomberg",
-    "tokens": [
-      "30m",
-      "bloomberg",
-      "could",
-      "face",
-      "goal",
-      "missing",
-      "paramount",
-      "penalty",
-      "release",
-      "theater"
-    ],
-    "ts": 1789954949.2642002
-  },
-  {
-    "id": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto",
-    "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
-    "tokens": [
-      "30k",
-      "crypto",
-      "devices",
-      "fake",
-      "infect",
-      "korean",
-      "north",
-      "recruiters",
-      "steal"
-    ],
-    "ts": 1789955706.3818526
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/softbank-group-launches-over-10-billion-in-bonds-for-openai-investment-term-sheet-shows-4908223",
-    "title": "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows",
-    "tokens": [
-      "billion",
-      "bonds",
-      "group",
-      "investment",
-      "launches",
-      "openai",
-      "sheet",
-      "shows",
-      "softbank",
-      "term"
-    ],
-    "ts": 1789956633.8671014
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/porsche-could-face-another-4000-job-cuts-handelsblatt-reports-4908222",
-    "title": "Porsche could face another 4,000 job cuts, Handelsblatt reports",
-    "tokens": [
-      "000",
-      "another",
-      "could",
-      "cuts",
-      "face",
-      "handelsblatt",
-      "job",
-      "porsche",
-      "reports"
-    ],
-    "ts": 1789956637.8825252
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/metas-social-networks-down-for-thousands-of-users-in-usdowndetector-says-4908221",
-    "title": "Meta’s social networks down for thousands of users in US, Downdetector says",
-    "tokens": [
-      "downdetector",
-      "meta",
-      "networks",
-      "social",
-      "thousands",
-      "users"
-    ],
-    "ts": 1789956641.725763
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/gold-prices-flat-with-focus-on-uschina-talks-iran-conflict-4908220",
-    "title": "Gold prices flat with focus on U.S.-China talks, Iran conflict",
-    "tokens": [
-      "china",
-      "conflict",
-      "flat",
-      "focus",
-      "gold",
-      "iran",
-      "prices",
-      "talks"
-    ],
-    "ts": 1789956648.530284
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/volatile-yen-draws-intervention-watch-other-currencies-subdued-4908219",
     "title": "Volatile yen draws intervention watch, other currencies subdued",
     "tokens": [
@@ -23212,5 +23067,145 @@
       "why"
     ],
     "ts": 1790128303.0432074
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/chargepoint-general-counsel-eric-batill-sells-42417-in-stock-93CH-4912017",
+    "title": "ChargePoint general counsel Eric Batill sells $42,417 in stock",
+    "tokens": [
+      "417",
+      "batill",
+      "chargepoint",
+      "counsel",
+      "eric",
+      "general",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790129461.249501
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/chargepoint-cfo-mansi-khetani-sells-48619-in-company-stock-93CH-4912016",
+    "title": "ChargePoint CFO Mansi Khetani sells $48,619 in company stock",
+    "tokens": [
+      "619",
+      "cfo",
+      "chargepoint",
+      "company",
+      "khetani",
+      "mansi",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790129468.5605166
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/runway-growth-finance-director-edward-goldthorpe-buys-67450-in-stock-93CH-4912015",
+    "title": "Runway Growth Finance director Edward Goldthorpe buys $67,450 in stock",
+    "tokens": [
+      "450",
+      "buys",
+      "director",
+      "edward",
+      "finance",
+      "goldthorpe",
+      "growth",
+      "runway",
+      "stock"
+    ],
+    "ts": 1790129475.5249681
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/endeavor-blockchain-buys-2959-in-big-digital-energy-shares-93CH-4912014",
+    "title": "Endeavor blockchain buys $2,959 in Big Digital Energy shares",
+    "tokens": [
+      "959",
+      "big",
+      "blockchain",
+      "buys",
+      "digital",
+      "endeavor",
+      "energy",
+      "shares"
+    ],
+    "ts": 1790129483.0694616
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusivegm-ceo-mary-barra-to-attend-trumps-state-dinner-for-xi-sources-say-4912003",
+    "title": "Exclusive-GM CEO Mary Barra to attend Trump’s state dinner for Xi, sources say",
+    "tokens": [
+      "attend",
+      "barra",
+      "ceo",
+      "dinner",
+      "exclusive",
+      "mary",
+      "say",
+      "sources",
+      "state",
+      "trump"
+    ],
+    "ts": 1790129491.158971
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-ride-tech-wave-higher-oil-stays-subdued-4912006",
+    "title": "Asia stocks ride tech wave higher, oil stays subdued",
+    "tokens": [
+      "asia",
+      "higher",
+      "oil",
+      "ride",
+      "stays",
+      "stocks",
+      "subdued",
+      "tech",
+      "wave"
+    ],
+    "ts": 1790129499.685066
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/dollar-holds-near-2month-high-as-markets-weigh-rate-hikes-iran-diplomacy-4912004",
+    "title": "Dollar holds near 2-month high as markets weigh rate hikes, Iran diplomacy",
+    "tokens": [
+      "diplomacy",
+      "dollar",
+      "high",
+      "hikes",
+      "holds",
+      "iran",
+      "markets",
+      "month",
+      "near",
+      "rate",
+      "weigh"
+    ],
+    "ts": 1790129506.8360896
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-falls-on-increased-gulf-supply-and-hopes-for-usiran-talks-4912001",
+    "title": "Oil falls on increased Gulf supply and hopes for US-Iran talks",
+    "tokens": [
+      "falls",
+      "gulf",
+      "hopes",
+      "increased",
+      "iran",
+      "oil",
+      "supply",
+      "talks"
+    ],
+    "ts": 1790129514.391278
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-president-michael-sentonas-sells-115m-in-stock-93CH-4912000",
+    "title": "Crowdstrike president Michael Sentonas sells $11.5m in stock",
+    "tokens": [
+      "crowdstrike",
+      "michael",
+      "president",
+      "sells",
+      "sentonas",
+      "stock"
+    ],
+    "ts": 1790129521.4636447
   }
 ]

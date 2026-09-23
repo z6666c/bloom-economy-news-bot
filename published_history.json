@@ -1,255 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/tesla-tests-381-resistance-confluence-live-levels-93CH-4909308",
-    "title": "Tesla tests $381 resistance confluence: Live levels",
-    "tokens": [
-      "381",
-      "confluence",
-      "levels",
-      "live",
-      "resistance",
-      "tesla",
-      "tests"
-    ],
-    "ts": 1790000928.4715466
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nasdaq-100-hits-overbought-resistance-at-30405-live-levels-93CH-4909309",
-    "title": "Nasdaq 100 hits overbought resistance at 30,405: Live levels",
-    "tokens": [
-      "100",
-      "405",
-      "hits",
-      "levels",
-      "live",
-      "nasdaq",
-      "overbought",
-      "resistance"
-    ],
-    "ts": 1790000936.0957909
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dow-jones-trapped-in-bear-flag-at-52187-live-levels-93CH-4909307",
-    "title": "Dow Jones trapped in bear flag at 52,187: Live levels",
-    "tokens": [
-      "187",
-      "bear",
-      "dow",
-      "flag",
-      "jones",
-      "levels",
-      "live",
-      "trapped"
-    ],
-    "ts": 1790000944.7486365
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sp-500-tests-7838-resistance-amid-bull-trap-warnings-live-93CH-4909306",
-    "title": "S&P 500 tests 7,838 resistance amid bull trap warnings: Live",
-    "tokens": [
-      "500",
-      "838",
-      "bull",
-      "live",
-      "resistance",
-      "tests",
-      "trap",
-      "warnings"
-    ],
-    "ts": 1790000952.3607275
-  },
-  {
-    "id": "sitime-corporation-sitm-surged-strong-141359726.html",
-    "title": "SiTime Corporation (SITM) Surged on Strong AI data center demand",
-    "tokens": [
-      "center",
-      "corporation",
-      "data",
-      "demand",
-      "sitime",
-      "sitm",
-      "strong",
-      "surged"
-    ],
-    "ts": 1790000960.8988624
-  },
-  {
-    "id": "oura-publicly-files-for-initial-public-offering-looks-to-raise-22-billion-140523751.html",
-    "title": "Oura publicly files for initial public offering, looks to raise $2.2 billion",
-    "tokens": [
-      "billion",
-      "files",
-      "initial",
-      "looks",
-      "offering",
-      "oura",
-      "public",
-      "publicly",
-      "raise"
-    ],
-    "ts": 1790000969.5140574
-  },
-  {
-    "id": "pizzaexpress-explores-sale-valuation-500m-141813074.html",
-    "title": "PizzaExpress explores sale at valuation of up to £500m – report",
-    "tokens": [
-      "500m",
-      "explores",
-      "pizzaexpress",
-      "report",
-      "sale",
-      "valuation"
-    ],
-    "ts": 1790000978.3955593
-  },
-  {
-    "id": "lifted-brightspring-health-services-btsg-140139645.html",
-    "title": "Here’s What Lifted BrightSpring Health Services (BTSG)",
-    "tokens": [
-      "brightspring",
-      "btsg",
-      "health",
-      "here",
-      "lifted",
-      "services",
-      "what"
-    ],
-    "ts": 1790000986.5189483
-  },
-  {
-    "id": "ai-build-strengthens-credo-technology-135854858.html",
-    "title": "AI build-out Strengthens Credo Technology Group Holding Ltd (CRDO)",
-    "tokens": [
-      "build",
-      "crdo",
-      "credo",
-      "group",
-      "holding",
-      "ltd",
-      "strengthens",
-      "technology"
-    ],
-    "ts": 1790000994.4877195
-  },
-  {
-    "id": "applied-optoelectronics-aaoi-hyperscaler-capex-135615291.html",
-    "title": "Applied Optoelectronics (AAOI): Hyperscaler Capex Surge Fuels Unprecedented Demand for Optical Infrastructure",
-    "tokens": [
-      "aaoi",
-      "applied",
-      "capex",
-      "demand",
-      "fuels",
-      "hyperscaler",
-      "infrastructure",
-      "optical",
-      "optoelectronics",
-      "surge",
-      "unprecedented"
-    ],
-    "ts": 1790001002.622873
-  },
-  {
-    "id": "oklo-climbs-5-nuclear-names-141418370.html",
-    "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week’s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-    "tokens": [
-      "back",
-      "bounce",
-      "climbs",
-      "energy",
-      "gains",
-      "last",
-      "names",
-      "nuclear",
-      "nuscale",
-      "oklo",
-      "power",
-      "rises",
-      "selloff",
-      "uranium",
-      "week"
-    ],
-    "ts": 1790001011.6280928
-  },
-  {
-    "id": "WP-MKTW-0005244143",
-    "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
-    "tokens": [
-      "analyst",
-      "bet",
-      "like",
-      "looks",
-      "sector",
-      "smartest",
-      "stock",
-      "wireless"
-    ],
-    "ts": 1790001852.5846863
-  },
-  {
-    "id": "bank-america-says-buy-tumbling-143700198.html",
-    "title": "Bank of America says buy tumbling shares of aviation giant",
-    "tokens": [
-      "america",
-      "aviation",
-      "bank",
-      "buy",
-      "giant",
-      "shares",
-      "tumbling"
-    ],
-    "ts": 1790001862.4955087
-  },
-  {
-    "id": "bullish-american-healthcare-reit-ahr-143612697.html",
-    "title": "Should You be Bullish on American Healthcare REIT (AHR)?",
-    "tokens": [
-      "ahr",
-      "american",
-      "bullish",
-      "healthcare",
-      "reit",
-      "should",
-      "you"
-    ],
-    "ts": 1790001871.0312893
-  },
-  {
-    "id": "bitcoin-and-ethereum-prices-today-monday-september-21-2026-crypto-prices-hit-highest-levels-in-8-months-143444230.html",
-    "title": "Bitcoin and ethereum prices today, Monday, September 21, 2026: Crypto prices hit highest levels in 8 months",
-    "tokens": [
-      "2026",
-      "bitcoin",
-      "crypto",
-      "ethereum",
-      "highest",
-      "hit",
-      "levels",
-      "monday",
-      "months",
-      "prices",
-      "september",
-      "today"
-    ],
-    "ts": 1790001879.852506
-  },
-  {
-    "id": "baron-capital-sees-blackstone-mortgage-143030157.html",
-    "title": "Baron Capital Sees Blackstone Mortgage Trust (BXMT) as a Compelling Opportunity",
-    "tokens": [
-      "baron",
-      "blackstone",
-      "bxmt",
-      "capital",
-      "compelling",
-      "mortgage",
-      "opportunity",
-      "sees",
-      "trust"
-    ],
-    "ts": 1790001888.1011271
-  },
-  {
     "id": "how-to-save-money-working-from-home-142616852.html",
     "title": "Work from home? Here are 5 ways to save money on remote work expenses.",
     "tokens": [
@@ -23206,5 +22956,234 @@
       "trump"
     ],
     "ts": 1790165762.4428895
+  },
+  {
+    "id": "WP-MKTW-0005249003",
+    "title": "HSBC addresses the concerns that are gripping the stock market — and dismisses most of them",
+    "tokens": [
+      "addresses",
+      "concerns",
+      "dismisses",
+      "gripping",
+      "hsbc",
+      "market",
+      "most",
+      "stock",
+      "them"
+    ],
+    "ts": 1790166955.6916552
+  },
+  {
+    "id": "WP-MKTW-0005243638",
+    "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+    "tokens": [
+      "anymore",
+      "can",
+      "everything",
+      "friend",
+      "grateful",
+      "her",
+      "just",
+      "money",
+      "pays",
+      "she",
+      "should",
+      "stand"
+    ],
+    "ts": 1790166963.4170682
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-deutsche-bank-stock-sliding-today-93CH-4912965",
+    "title": "Why is Deutsche Bank stock sliding today?",
+    "tokens": [
+      "bank",
+      "deutsche",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790166971.3577662
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-rating-on-maxlinear-stock-120-target-93CH-4912964",
+    "title": "Stifel reiterates Buy rating on MaxLinear stock, $120 target",
+    "tokens": [
+      "120",
+      "buy",
+      "maxlinear",
+      "rating",
+      "reiterates",
+      "stifel",
+      "stock",
+      "target"
+    ],
+    "ts": 1790166979.6141267
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/lexeo-gains-access-to-aperturas-gene-therapy-capsid-93CH-4912962",
+    "title": "Lexeo gains access to Apertura’s gene therapy capsid",
+    "tokens": [
+      "access",
+      "apertura",
+      "capsid",
+      "gains",
+      "gene",
+      "lexeo",
+      "therapy"
+    ],
+    "ts": 1790166987.9802146
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/turkiye-garanti-bankasi-redeems-20-million-mtn-debt-instrument-93CH-4912963",
+    "title": "Turkiye Garanti Bankasi redeems €20 million MTN debt instrument",
+    "tokens": [
+      "bankasi",
+      "debt",
+      "garanti",
+      "instrument",
+      "million",
+      "mtn",
+      "redeems",
+      "turkiye"
+    ],
+    "ts": 1790166991.9973135
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/rain-enhancement-technologies-to-acquire-ai-firm-tensor-networks-93CH-4912960",
+    "title": "Rain Enhancement Technologies to acquire AI firm Tensor Networks",
+    "tokens": [
+      "acquire",
+      "enhancement",
+      "firm",
+      "networks",
+      "rain",
+      "technologies",
+      "tensor"
+    ],
+    "ts": 1790166995.905197
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/viasat-wins-307m-marine-corps-satellite-services-contract-93CH-4912961",
+    "title": "Viasat wins $307M Marine Corps satellite services contract",
+    "tokens": [
+      "307m",
+      "contract",
+      "corps",
+      "marine",
+      "satellite",
+      "services",
+      "viasat",
+      "wins"
+    ],
+    "ts": 1790167004.7298248
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sphere-entertainment-partners-with-disguise-on-tech-development-93CH-4912958",
+    "title": "Sphere Entertainment partners with Disguise on tech development",
+    "tokens": [
+      "development",
+      "disguise",
+      "entertainment",
+      "partners",
+      "sphere",
+      "tech"
+    ],
+    "ts": 1790167012.5050592
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/standardaero-partners-with-gmr-aero-technic-for-india-engine-support-93CH-4912959",
+    "title": "StandardAero partners with GMR Aero Technic for India engine support",
+    "tokens": [
+      "aero",
+      "engine",
+      "gmr",
+      "india",
+      "partners",
+      "standardaero",
+      "support",
+      "technic"
+    ],
+    "ts": 1790167020.4428105
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ryanair-says-it-will-not-add-fuel-surcharge-despite-rising-costs-93CH-4912957",
+    "title": "Ryanair says it will not add fuel surcharge despite rising costs",
+    "tokens": [
+      "add",
+      "costs",
+      "despite",
+      "fuel",
+      "rising",
+      "ryanair",
+      "surcharge"
+    ],
+    "ts": 1790167028.1658247
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/beyond-meat-announces-exchange-of-15-million-convertible-notes-for-stock-93CH-4912956",
+    "title": "Beyond Meat announces exchange of $15 million convertible notes for stock",
+    "tokens": [
+      "announces",
+      "beyond",
+      "convertible",
+      "exchange",
+      "meat",
+      "million",
+      "notes",
+      "stock"
+    ],
+    "ts": 1790167036.218941
+  },
+  {
+    "id": "xrp-buy-now-1-50-121600308.html",
+    "title": "Is XRP a Buy Right Now at $1.50?",
+    "tokens": [
+      "buy",
+      "now",
+      "right",
+      "xrp"
+    ],
+    "ts": 1790167043.3159072
+  },
+  {
+    "id": "verizon-invest-70-million-ai-120116227.html",
+    "title": "Verizon to invest $70 million in AI training effort",
+    "tokens": [
+      "effort",
+      "invest",
+      "million",
+      "training",
+      "verizon"
+    ],
+    "ts": 1790167050.699703
+  },
+  {
+    "id": "mks-mksi-gains-momentum-chipmakers-120022688.html",
+    "title": "MKS (MKSI) Gains Momentum as Chipmakers Expand",
+    "tokens": [
+      "chipmakers",
+      "expand",
+      "gains",
+      "mks",
+      "mksi",
+      "momentum"
+    ],
+    "ts": 1790167057.841116
+  },
+  {
+    "id": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks",
+    "title": "EU watchdogs warn quantum computers could pick crypto’s locks",
+    "tokens": [
+      "computers",
+      "could",
+      "crypto",
+      "locks",
+      "pick",
+      "quantum",
+      "warn",
+      "watchdogs"
+    ],
+    "ts": 1790167067.206152
   }
 ]

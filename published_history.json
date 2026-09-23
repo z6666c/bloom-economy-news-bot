@@ -1,220 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/europes-stoxx-600-gains-as-tech-rallies-oil-retreat-eases-nerves-4908362",
-    "title": "Europe’s STOXX 600 gains as tech rallies, oil retreat eases nerves",
-    "tokens": [
-      "600",
-      "eases",
-      "europe",
-      "gains",
-      "nerves",
-      "oil",
-      "rallies",
-      "retreat",
-      "stoxx",
-      "tech"
-    ],
-    "ts": 1789976539.0872266
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rothschild-downgrades-flutter-stock-rating-on-guidance-cuts-93CH-4908361",
-    "title": "Rothschild downgrades Flutter stock rating on guidance cuts",
-    "tokens": [
-      "cuts",
-      "downgrades",
-      "flutter",
-      "guidance",
-      "rating",
-      "rothschild",
-      "stock"
-    ],
-    "ts": 1789976546.4558291
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/perpetual-rejects-revised-eqt-takeover-offer-citing-undervaluation-93CH-4908360",
-    "title": "Perpetual rejects revised EQT takeover offer, citing undervaluation",
-    "tokens": [
-      "citing",
-      "eqt",
-      "offer",
-      "perpetual",
-      "rejects",
-      "revised",
-      "takeover",
-      "undervaluation"
-    ],
-    "ts": 1789976554.0169935
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/volkswagen-porsche-shares-extend-losses-following-profit-warning-4908357",
-    "title": "Volkswagen, Porsche shares extend losses following profit warning",
-    "tokens": [
-      "extend",
-      "following",
-      "losses",
-      "porsche",
-      "profit",
-      "shares",
-      "volkswagen",
-      "warning"
-    ],
-    "ts": 1789976561.2766168
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ote-buys-back-340044-shares-for-67-million-93CH-4908358",
-    "title": "OTE buys back 340,044 shares for €6.7 million",
-    "tokens": [
-      "044",
-      "340",
-      "back",
-      "buys",
-      "million",
-      "ote",
-      "shares"
-    ],
-    "ts": 1789976568.9218502
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/take-five-high-stakes-low-bars-4908356",
-    "title": "Take Five: High stakes, low bars",
-    "tokens": [
-      "bars",
-      "five",
-      "high",
-      "low",
-      "stakes",
-      "take"
-    ],
-    "ts": 1789976577.464492
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/metlen-energy--metals-appoints-yannis-masvoulas-as-ir-head-93CH-4908355",
-    "title": "Metlen Energy & Metals appoints Yannis Masvoulas as IR head",
-    "tokens": [
-      "appoints",
-      "energy",
-      "head",
-      "masvoulas",
-      "metals",
-      "metlen",
-      "yannis"
-    ],
-    "ts": 1789976585.1255932
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-oil-slips-on-iran-diplomacy-hopes-4908354",
-    "title": "FTSE 100 today: Stocks rise as oil slips on Iran diplomacy hopes",
-    "tokens": [
-      "100",
-      "diplomacy",
-      "ftse",
-      "hopes",
-      "iran",
-      "oil",
-      "rise",
-      "slips",
-      "stocks",
-      "today"
-    ],
-    "ts": 1789976593.0999627
-  },
-  {
-    "id": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration",
-    "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
-    "tokens": [
-      "approve",
-      "holders",
-      "move",
-      "plan",
-      "solana",
-      "wind",
-      "zeta",
-      "zetachain"
-    ],
-    "ts": 1789976602.6965766
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rothschild-redburn-initiates-hut-8-stock-with-neutral-rating-93CH-4908378",
-    "title": "Rothschild Redburn initiates Hut 8 stock with neutral rating",
-    "tokens": [
-      "hut",
-      "initiates",
-      "neutral",
-      "rating",
-      "redburn",
-      "rothschild",
-      "stock"
-    ],
-    "ts": 1789978330.4898212
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rothschild-redburn-initiates-iren-stock-with-neutral-rating-93CH-4908377",
-    "title": "Rothschild Redburn initiates IREN stock with neutral rating",
-    "tokens": [
-      "initiates",
-      "iren",
-      "neutral",
-      "rating",
-      "redburn",
-      "rothschild",
-      "stock"
-    ],
-    "ts": 1789978334.500551
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/craneware-shares-plunge-23-after-cyber-incident-weaker-outlook-93CH-4908376",
-    "title": "Craneware shares plunge 23% after cyber incident, weaker outlook",
-    "tokens": [
-      "craneware",
-      "cyber",
-      "incident",
-      "outlook",
-      "plunge",
-      "shares",
-      "weaker"
-    ],
-    "ts": 1789978338.3090181
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/chinas-xi-to-visit-the-us-from-september-2325-4908374",
-    "title": "China’s Xi to visit the US from September 23-25",
-    "tokens": [
-      "china",
-      "september",
-      "visit"
-    ],
-    "ts": 1789978346.084314
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-elixirr-international-stock-tumbling-today-93CH-4908373",
-    "title": "Why is Elixirr International stock tumbling today?",
-    "tokens": [
-      "elixirr",
-      "international",
-      "stock",
-      "today",
-      "tumbling",
-      "why"
-    ],
-    "ts": 1789978354.2511296
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
-    "title": "Euro zone yields ease as markets await of ECB’s Lagarde speech",
-    "tokens": [
-      "await",
-      "ease",
-      "ecb",
-      "euro",
-      "lagarde",
-      "markets",
-      "speech",
-      "yields",
-      "zone"
-    ],
-    "ts": 1789978362.1180546
-  },
-  {
     "id": "https://www.investing.com/news/economic-indicators/polands-august-corporate-wages-rise-56-miss-forecasts-93CH-4908366",
     "title": "Poland’s August corporate wages rise 5.6%, miss forecasts",
     "tokens": [
@@ -23210,5 +22995,232 @@
       "surprised"
     ],
     "ts": 1790144092.4190826
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/globalworth-issues-92-million-shares-via-scrip-dividend-93CH-4912110",
+    "title": "Globalworth issues 9.2 million shares via scrip dividend",
+    "tokens": [
+      "dividend",
+      "globalworth",
+      "issues",
+      "million",
+      "scrip",
+      "shares",
+      "via"
+    ],
+    "ts": 1790145401.886716
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ecclesiastical-insurance-office-announces-board-changes-93CH-4912109",
+    "title": "Ecclesiastical Insurance Office announces board changes",
+    "tokens": [
+      "announces",
+      "board",
+      "changes",
+      "ecclesiastical",
+      "insurance",
+      "office"
+    ],
+    "ts": 1790145409.109762
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/portmeirion-group-to-change-name-to-spode-group-in-november-93CH-4912107",
+    "title": "Portmeirion Group to change name to Spode Group in November",
+    "tokens": [
+      "change",
+      "group",
+      "name",
+      "november",
+      "portmeirion",
+      "spode"
+    ],
+    "ts": 1790145417.191173
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nbpe-appoints-david-maclellan-as-chairman-designate-93CH-4912106",
+    "title": "NBPE appoints David MacLellan as chairman designate",
+    "tokens": [
+      "appoints",
+      "chairman",
+      "david",
+      "designate",
+      "maclellan",
+      "nbpe"
+    ],
+    "ts": 1790145425.2580805
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/myer-fy26-slides-record-sales-top-4b-but-profits-slip-on-margins-93CH-4912105",
+    "title": "Myer FY26 slides: record sales top $4B, but profits slip on margins",
+    "tokens": [
+      "fy26",
+      "margins",
+      "myer",
+      "profits",
+      "record",
+      "sales",
+      "slides",
+      "slip",
+      "top"
+    ],
+    "ts": 1790145433.4043043
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/judges-scientific-cfo-brad-ormsby-to-step-down-in-2027-93CH-4912104",
+    "title": "Judges Scientific CFO Brad Ormsby to step down in 2027",
+    "tokens": [
+      "2027",
+      "brad",
+      "cfo",
+      "judges",
+      "ormsby",
+      "scientific",
+      "step"
+    ],
+    "ts": 1790145441.7470987
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/sri-lanka-economy-resilient-but-risks-remain-tilted-to-downside-imf-says-4912103",
+    "title": "Sri Lanka economy resilient but risks remain tilted to downside, IMF says",
+    "tokens": [
+      "downside",
+      "economy",
+      "imf",
+      "lanka",
+      "remain",
+      "resilient",
+      "risks",
+      "sri",
+      "tilted"
+    ],
+    "ts": 1790145449.4318433
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-060-4912102",
+    "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.60%",
+    "tokens": [
+      "close",
+      "higher",
+      "stocks",
+      "taiwan",
+      "trade",
+      "weighted"
+    ],
+    "ts": 1790145453.4481916
+  },
+  {
+    "id": "why-time-load-meta-stock-184857569.html",
+    "title": "Why It’s Time to Load Up on Meta Stock",
+    "tokens": [
+      "load",
+      "meta",
+      "stock",
+      "time",
+      "why"
+    ],
+    "ts": 1790145456.7438412
+  },
+  {
+    "id": "needham-just-upped-price-target-185554859.html",
+    "title": "Needham Just Upped Its Price Target on OKTA Stock. Here's Why.",
+    "tokens": [
+      "here",
+      "just",
+      "needham",
+      "okta",
+      "price",
+      "stock",
+      "target",
+      "upped",
+      "why"
+    ],
+    "ts": 1790145463.7483385
+  },
+  {
+    "id": "arm-holdings-arm-soars-17-184855651.html",
+    "title": "Arm Holdings (ARM) Soars 17% on Ambitious $2B Revenue Goal; Hedge Funds Bullish",
+    "tokens": [
+      "ambitious",
+      "arm",
+      "bullish",
+      "funds",
+      "goal",
+      "hedge",
+      "holdings",
+      "revenue",
+      "soars"
+    ],
+    "ts": 1790145471.2762165
+  },
+  {
+    "id": "substantially-higher-car-xpeng-ceo-190125193.html",
+    "title": "‘Substantially Higher Than a Car’: XPeng’s CEO on What Each Robot Could Earn. First It Has to Survive a Brutal Price War.",
+    "tokens": [
+      "brutal",
+      "car",
+      "ceo",
+      "could",
+      "each",
+      "earn",
+      "first",
+      "higher",
+      "price",
+      "robot",
+      "substantially",
+      "survive",
+      "war",
+      "what",
+      "xpeng"
+    ],
+    "ts": 1790145479.0369377
+  },
+  {
+    "id": "why-nano-nuclear-energy-stock-185059384.html",
+    "title": "Why Nano Nuclear Energy Stock Is Powering Higher Today",
+    "tokens": [
+      "energy",
+      "higher",
+      "nano",
+      "nuclear",
+      "powering",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790145486.6708333
+  },
+  {
+    "id": "dave-buster-play-bmo-stays-184752969.html",
+    "title": "Dave & Buster’s (PLAY): BMO Stays Bullish, UBS and Freedom Capital Aren’t Convinced Yet",
+    "tokens": [
+      "aren",
+      "bmo",
+      "bullish",
+      "buster",
+      "capital",
+      "convinced",
+      "dave",
+      "freedom",
+      "play",
+      "stays",
+      "ubs",
+      "yet"
+    ],
+    "ts": 1790145494.7879887
+  },
+  {
+    "id": "hormel-foods-stock-hrl-underperforming-184803592.html",
+    "title": "Hormel Foods Stock: Is HRL Underperforming the Consumer Defensive Sector?",
+    "tokens": [
+      "consumer",
+      "defensive",
+      "foods",
+      "hormel",
+      "hrl",
+      "sector",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1790145502.284703
   }
 ]

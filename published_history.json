@@ -1,63 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/china-slows-humanoid-robot-ipo-rush-as-hype-outruns-reality-4908236",
-    "title": "China slows humanoid robot IPO rush as hype outruns reality",
-    "tokens": [
-      "china",
-      "humanoid",
-      "hype",
-      "ipo",
-      "outruns",
-      "reality",
-      "robot",
-      "rush",
-      "slows"
-    ],
-    "ts": 1789961315.7313929
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-telix-pharmaceuticals-stock-sliding-today-93CH-4908237",
-    "title": "Why is Telix Pharmaceuticals stock sliding today?",
-    "tokens": [
-      "pharmaceuticals",
-      "sliding",
-      "stock",
-      "telix",
-      "today",
-      "why"
-    ],
-    "ts": 1789961323.2344685
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
-    "title": "Asia FX muted with U.S.-China summit in focus, dollar ticks higher",
-    "tokens": [
-      "asia",
-      "china",
-      "dollar",
-      "focus",
-      "higher",
-      "muted",
-      "summit",
-      "ticks"
-    ],
-    "ts": 1789963832.9260767
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/how-trump-and-xi-went-from-tariff-war-to-trade-truce-4908240",
-    "title": "How Trump and Xi went from tariff war to trade truce",
-    "tokens": [
-      "how",
-      "tariff",
-      "trade",
-      "truce",
-      "trump",
-      "war",
-      "went"
-    ],
-    "ts": 1789963840.3563106
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/asia-stocks-climb-tech-shares-lead-gains-ahead-of-trumpxi-summit-4908239",
     "title": "Asia stocks climb, tech shares lead gains ahead of Trump-Xi summit",
     "tokens": [
@@ -23196,5 +23138,71 @@
       "union"
     ],
     "ts": 1790133064.4491115
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/rba-says-asx-clearing-facilities-still-fall-short-in-key-areas-despite-progress-4912046",
+    "title": "RBA says ASX clearing facilities still fall short in key areas despite progress",
+    "tokens": [
+      "areas",
+      "asx",
+      "clearing",
+      "despite",
+      "facilities",
+      "fall",
+      "key",
+      "progress",
+      "rba",
+      "short",
+      "still"
+    ],
+    "ts": 1790134063.762467
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-in-talks-to-lease-1-gigawatt-from-stream-data-centers-the-information-93CH-4912045",
+    "title": "Anthropic in talks to lease 1 gigawatt from Stream Data Centers- The Information",
+    "tokens": [
+      "anthropic",
+      "centers",
+      "data",
+      "gigawatt",
+      "information",
+      "lease",
+      "stream",
+      "talks"
+    ],
+    "ts": 1790134071.502767
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australias-idp-shares-drop-after-rejecting-494-mln-blackstone-offer-4912044",
+    "title": "Australia’s IDP shares drop after rejecting $494 mln Blackstone offer",
+    "tokens": [
+      "494",
+      "australia",
+      "blackstone",
+      "drop",
+      "idp",
+      "mln",
+      "offer",
+      "rejecting",
+      "shares"
+    ],
+    "ts": 1790134079.0393248
+  },
+  {
+    "id": "?src=A00220&yptr=yahoo",
+    "title": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
+    "tokens": [
+      "critical",
+      "deal",
+      "earth",
+      "fuels",
+      "greenland",
+      "hinge",
+      "metals",
+      "rare",
+      "stocks",
+      "trump"
+    ],
+    "ts": 1790134088.3398433
   }
 ]

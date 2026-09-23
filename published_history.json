@@ -1,176 +1,5 @@
 [
   {
-    "id": "jim-cramer-iron-mountain-irm-215701602.html",
-    "title": "Jim Cramer on Iron Mountain (IRM): “It’s Been an Incredible Stock”",
-    "tokens": [
-      "cramer",
-      "incredible",
-      "irm",
-      "iron",
-      "jim",
-      "mountain",
-      "stock"
-    ],
-    "ts": 1789942220.8367772
-  },
-  {
-    "id": "two-years-starbucks-sbux-ceo-215502629.html",
-    "title": "Two Years In, Starbucks (SBUX)’s CEO Niccol has Won Back Customers. Now Wall Street Wants Margins",
-    "tokens": [
-      "back",
-      "ceo",
-      "customers",
-      "margins",
-      "niccol",
-      "now",
-      "sbux",
-      "starbucks",
-      "street",
-      "two",
-      "wall",
-      "wants",
-      "won",
-      "years"
-    ],
-    "ts": 1789942228.8133402
-  },
-  {
-    "id": "lululemon-lulu-wall-street-keeps-215239806.html",
-    "title": "Lululemon (LULU): Wall Street Keeps Cutting Targets, But Nobody’s Calling It Cheap Enough to Buy",
-    "tokens": [
-      "buy",
-      "calling",
-      "cheap",
-      "cutting",
-      "enough",
-      "keeps",
-      "lulu",
-      "lululemon",
-      "nobody",
-      "street",
-      "targets",
-      "wall"
-    ],
-    "ts": 1789942235.7420335
-  },
-  {
-    "id": "amazon-amzn-debut-sterling-bond-215111018.html",
-    "title": "Amazon (AMZN)’s Debut Sterling Bond Sale Prices Bigger, But Demand Cools from Alphabet’s",
-    "tokens": [
-      "alphabet",
-      "amazon",
-      "amzn",
-      "bigger",
-      "bond",
-      "cools",
-      "debut",
-      "demand",
-      "prices",
-      "sale",
-      "sterling"
-    ],
-    "ts": 1789942244.0139773
-  },
-  {
-    "id": "nokia-nok-gets-buy-rating-214509281.html",
-    "title": "Nokia (NOK) Gets a Buy Rating, But Q2 Operating Loss Raises Questions",
-    "tokens": [
-      "buy",
-      "gets",
-      "loss",
-      "nok",
-      "nokia",
-      "operating",
-      "questions",
-      "raises",
-      "rating"
-    ],
-    "ts": 1789942250.934861
-  },
-  {
-    "id": "asml-asml-chip-giants-tsmc-214129428.html",
-    "title": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
-    "tokens": [
-      "asml",
-      "bigger",
-      "building",
-      "canvas",
-      "chip",
-      "chips",
-      "giants",
-      "like",
-      "plot",
-      "tsmc"
-    ],
-    "ts": 1789942259.6103117
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
-    "title": "Oil rises after Houthi attack on Saudi capital",
-    "tokens": [
-      "attack",
-      "capital",
-      "houthi",
-      "oil",
-      "rises",
-      "saudi"
-    ],
-    "ts": 1789943922.9109933
-  },
-  {
-    "id": "oilprice-article-45558",
-    "title": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
-    "tokens": [
-      "big",
-      "cuts",
-      "deep",
-      "despite",
-      "keeps",
-      "oil",
-      "production",
-      "soaring",
-      "spending"
-    ],
-    "ts": 1789945769.378264
-  },
-  {
-    "id": "alphabet-googl-google-bets-finland-230634716.html",
-    "title": "Alphabet (GOOGL)’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout",
-    "tokens": [
-      "alphabet",
-      "bets",
-      "buildout",
-      "cold",
-      "finland",
-      "googl",
-      "google",
-      "next",
-      "nuclear",
-      "power",
-      "weather"
-    ],
-    "ts": 1789946657.8374705
-  },
-  {
-    "id": "paramount-psky-turns-california-own-230245287.html",
-    "title": "Paramount (PSKY) Turns California’s Own Words Against it in Warner Bros. (WBD) Bond Fight",
-    "tokens": [
-      "against",
-      "bond",
-      "bros",
-      "california",
-      "fight",
-      "own",
-      "paramount",
-      "psky",
-      "turns",
-      "warner",
-      "wbd",
-      "words"
-    ],
-    "ts": 1789946665.8706467
-  },
-  {
     "id": "stellantis-stla-recalls-200-000-225734007.html",
     "title": "Stellantis (STLA) Recalls 200,000 More Jeeps, its Latest Entry in a Record Recall Year",
     "tokens": [
@@ -23253,5 +23082,152 @@
       "warning"
     ],
     "ts": 1790123750.35145
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-tuas-h2-2026-profit-jumps-but-shares-sink-14-93CH-4911934",
+    "title": "Earnings call transcript: Tuas H2 2026 profit jumps, but shares sink 14%",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "jumps",
+      "profit",
+      "shares",
+      "sink",
+      "transcript",
+      "tuas"
+    ],
+    "ts": 1790124903.8660984
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-extends-losses-as-trump-signals-progress-in-usiran-talks-4911933",
+    "title": "Oil extends losses as Trump signals progress in U.S.-Iran talks",
+    "tokens": [
+      "extends",
+      "iran",
+      "losses",
+      "oil",
+      "progress",
+      "signals",
+      "talks",
+      "trump"
+    ],
+    "ts": 1790124911.0775094
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-cao-anurag-saha-sells-163m-in-shares-93CH-4911931",
+    "title": "Crowdstrike CAO Anurag Saha sells $1.63m in shares",
+    "tokens": [
+      "63m",
+      "anurag",
+      "cao",
+      "crowdstrike",
+      "saha",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790124918.9494555
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-cfo-burt-podberes-807m-share-disposal-93CH-4911930",
+    "title": "Crowdstrike CFO Burt Podbere’s $8.07m share disposal",
+    "tokens": [
+      "07m",
+      "burt",
+      "cfo",
+      "crowdstrike",
+      "disposal",
+      "podbere",
+      "share"
+    ],
+    "ts": 1790124926.8994
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-over-195m-in-company-stock-93CH-4911929",
+    "title": "Crowdstrike CEO George Kurtz sells over $19.5m in company stock",
+    "tokens": [
+      "ceo",
+      "company",
+      "crowdstrike",
+      "george",
+      "kurtz",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790124930.915699
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-iran-talks-ai-optimism-4911928",
+    "title": "U.S. stock futures flat as markets parse Iran talks, AI optimism",
+    "tokens": [
+      "flat",
+      "futures",
+      "iran",
+      "markets",
+      "optimism",
+      "parse",
+      "stock",
+      "talks"
+    ],
+    "ts": 1790124935.0151548
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/indie-semiconductor-cfo-naixi-wu-reports-11936-stock-sale-93CH-4911923",
+    "title": "Indie Semiconductor CFO Naixi Wu reports $11,936 stock sale",
+    "tokens": [
+      "936",
+      "cfo",
+      "indie",
+      "naixi",
+      "reports",
+      "sale",
+      "semiconductor",
+      "stock"
+    ],
+    "ts": 1790124942.5379744
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-over-753k-in-stock-93CH-4911922",
+    "title": "Crowdstrike CEO George Kurtz sells over $753k in stock",
+    "tokens": [
+      "753k",
+      "ceo",
+      "crowdstrike",
+      "george",
+      "kurtz",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790124946.5540833
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/mineralys-therapeutics-cco-eric-warren-sells-209k-in-stock-93CH-4911921",
+    "title": "Mineralys Therapeutics CCO Eric Warren sells $209k in stock",
+    "tokens": [
+      "209k",
+      "cco",
+      "eric",
+      "mineralys",
+      "sells",
+      "stock",
+      "therapeutics",
+      "warren"
+    ],
+    "ts": 1790124950.8262558
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/jack-in-the-box-exec-chairman-king-sells-76583-in-stock-93CH-4911920",
+    "title": "Jack in the box exec chairman King sells $76,583 in stock",
+    "tokens": [
+      "583",
+      "box",
+      "chairman",
+      "exec",
+      "jack",
+      "king",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790124958.0473473
   }
 ]

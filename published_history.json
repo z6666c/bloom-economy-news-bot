@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/hang-seng-stalls-at-25054-resistance-cluster-live-levels-93CH-4908225",
-    "title": "Hang Seng stalls at 25,054 resistance cluster: Live levels",
-    "tokens": [
-      "054",
-      "cluster",
-      "hang",
-      "levels",
-      "live",
-      "resistance",
-      "seng",
-      "stalls"
-    ],
-    "ts": 1789957661.9314678
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/paramount-california-ag-discuss-concessions-including-15-billion-investment-wsj-reports-4908232",
     "title": "Paramount, California AG discuss concessions including $1.5 billion investment, WSJ reports",
     "tokens": [
@@ -23201,5 +23186,22 @@
       "trade"
     ],
     "ts": 1790130480.7035367
+  },
+  {
+    "id": "dominos-pizza-stock-performance-compared-144515849.html",
+    "title": "How Is Domino's Pizza’s Stock Performance Compared to Other Consumer Discretionary Stocks?",
+    "tokens": [
+      "compared",
+      "consumer",
+      "discretionary",
+      "domino",
+      "how",
+      "other",
+      "performance",
+      "pizza",
+      "stock",
+      "stocks"
+    ],
+    "ts": 1790131355.5098288
   }
 ]

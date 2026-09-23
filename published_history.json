@@ -1,87 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/red-rock-resorts-stock-hits-52week-low-at-5052-usd-93CH-4909245",
-    "title": "Red Rock Resorts stock hits 52-week low at 50.52 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "red",
-      "resorts",
-      "rock",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789999892.899318
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/saia-options-activity-points-to-institutional-bull-call-spread-ahead-of-dec-2026-expiry-93CH-4909240",
-    "title": "Saia options activity points to institutional bull call spread ahead of Dec 2026 expiry",
-    "tokens": [
-      "2026",
-      "activity",
-      "ahead",
-      "bull",
-      "call",
-      "dec",
-      "expiry",
-      "institutional",
-      "options",
-      "points",
-      "saia",
-      "spread"
-    ],
-    "ts": 1789999902.26538
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/dicks-sporting-goods-stock-hits-52week-low-at-12039-usd-93CH-4909239",
-    "title": "Dicks Sporting Goods stock hits 52-week low at 120.39 USD",
-    "tokens": [
-      "120",
-      "dicks",
-      "goods",
-      "hits",
-      "low",
-      "sporting",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1789999910.5777864
-  },
-  {
-    "id": "wtw-expands-zurich-deal-deploy-135616788.html",
-    "title": "WTW expands Zurich deal to deploy Radar software globally",
-    "tokens": [
-      "deal",
-      "deploy",
-      "expands",
-      "globally",
-      "radar",
-      "software",
-      "wtw",
-      "zurich"
-    ],
-    "ts": 1789999919.251698
-  },
-  {
-    "id": "silver-prices-today-monday-september-21-2026-silver-prices-rising-ahead-of-us-china-summit-135458890.html",
-    "title": "Silver prices today, Monday, September 21, 2026: Silver prices rising ahead of U.S.-China summit",
-    "tokens": [
-      "2026",
-      "ahead",
-      "china",
-      "monday",
-      "prices",
-      "rising",
-      "september",
-      "silver",
-      "summit",
-      "today"
-    ],
-    "ts": 1789999928.0700207
-  },
-  {
     "id": "nike-gets-hit-with-yet-another-bearish-wall-street-hot-take-135125963.html",
     "title": "Nike gets hit with yet another bearish Wall Street hot take",
     "tokens": [
@@ -23210,5 +23128,91 @@
       "problem"
     ],
     "ts": 1790163864.5400527
+  },
+  {
+    "id": "reddit-rddt-strong-financials-user-114554112.html",
+    "title": "Reddit (RDDT) Has Strong Financials. Are User Trends the Bigger Risk?",
+    "tokens": [
+      "bigger",
+      "financials",
+      "rddt",
+      "reddit",
+      "risk",
+      "strong",
+      "trends",
+      "user"
+    ],
+    "ts": 1790164491.1402774
+  },
+  {
+    "id": "bitcoin-and-ethereum-prices-today-wednesday-september-23-2026-crypto-prices-open-near-8-month-highs-is-the-crypto-winter-over-113908671.html",
+    "title": "Bitcoin and ethereum prices today, Wednesday, September 23, 2026: Crypto prices open near 8-month highs. Is the crypto winter over?",
+    "tokens": [
+      "2026",
+      "bitcoin",
+      "crypto",
+      "ethereum",
+      "highs",
+      "month",
+      "near",
+      "open",
+      "prices",
+      "september",
+      "today",
+      "wednesday",
+      "winter"
+    ],
+    "ts": 1790164499.3676903
+  },
+  {
+    "id": "julius-baer-names-pamela-tseng-114849820.html",
+    "title": "Julius Baer names Pamela Tseng Asia COO",
+    "tokens": [
+      "asia",
+      "baer",
+      "coo",
+      "julius",
+      "names",
+      "pamela",
+      "tseng"
+    ],
+    "ts": 1790164507.420772
+  },
+  {
+    "id": "jim-cramer-says-costco-cost-113643371.html",
+    "title": "Jim Cramer Says Costco (COST) “Stock’s Acting Poorly”",
+    "tokens": [
+      "acting",
+      "cost",
+      "costco",
+      "cramer",
+      "jim",
+      "poorly",
+      "stock"
+    ],
+    "ts": 1790164515.2795494
+  },
+  {
+    "id": "70-old-owes-200-000-113000217.html",
+    "title": "A 70-year-old owes $200,000 in parent student loans for his kids — experts warn against draining retirement to pay it",
+    "tokens": [
+      "000",
+      "200",
+      "against",
+      "draining",
+      "experts",
+      "his",
+      "kids",
+      "loans",
+      "old",
+      "owes",
+      "parent",
+      "pay",
+      "retirement",
+      "student",
+      "warn",
+      "year"
+    ],
+    "ts": 1790164526.2703114
   }
 ]

@@ -1,188 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/endava-stock-tumbles-10-on-cfo-leave-accounting-probe-93CH-4909666",
-    "title": "Endava stock tumbles 10% on CFO leave, accounting probe",
-    "tokens": [
-      "accounting",
-      "cfo",
-      "endava",
-      "leave",
-      "probe",
-      "stock",
-      "tumbles"
-    ],
-    "ts": 1790025984.0240657
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/endava-cfo-placed-on-leave-amid-accounting-investigation-93CH-4909663",
-    "title": "Endava CFO placed on leave amid accounting investigation",
-    "tokens": [
-      "accounting",
-      "cfo",
-      "endava",
-      "investigation",
-      "leave",
-      "placed"
-    ],
-    "ts": 1790025990.8650346
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tomi-environmental-stock-surges-on-canceled-merger-deal-93CH-4909661",
-    "title": "Tomi Environmental stock surges on canceled merger deal",
-    "tokens": [
-      "canceled",
-      "deal",
-      "environmental",
-      "merger",
-      "stock",
-      "surges",
-      "tomi"
-    ],
-    "ts": 1790025998.5978363
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/vecima-acquires-cablediag-pnm-software-platform-from-akleza-93CH-4909660",
-    "title": "Vecima acquires CableDiag PNM software platform from Akleza",
-    "tokens": [
-      "acquires",
-      "akleza",
-      "cablediag",
-      "platform",
-      "pnm",
-      "software",
-      "vecima"
-    ],
-    "ts": 1790026006.5463421
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/central-garden--pet-names-jason-barnes-to-lead-garden-segment-93CH-4909658",
-    "title": "Central Garden & Pet names Jason Barnes to lead garden segment",
-    "tokens": [
-      "barnes",
-      "central",
-      "garden",
-      "jason",
-      "lead",
-      "names",
-      "pet",
-      "segment"
-    ],
-    "ts": 1790026014.5221682
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sun-life-converts-preferred-shares-to-single-series-93CH-4909659",
-    "title": "Sun Life converts preferred shares to single series",
-    "tokens": [
-      "converts",
-      "life",
-      "preferred",
-      "series",
-      "shares",
-      "single",
-      "sun"
-    ],
-    "ts": 1790026021.8534272
-  },
-  {
-    "id": "scott-bessent-helped-george-soros-130000046.html",
-    "title": "Scott Bessent helped George Soros net $1 billion breaking the Bank of England — now he's fighting a U.S. bond selloff",
-    "tokens": [
-      "bank",
-      "bessent",
-      "billion",
-      "bond",
-      "breaking",
-      "england",
-      "fighting",
-      "george",
-      "helped",
-      "net",
-      "now",
-      "scott",
-      "selloff",
-      "soros"
-    ],
-    "ts": 1790026029.2986908
-  },
-  {
-    "id": "dick-portillo-sold-restaurant-empire-130000099.html",
-    "title": "Dick Portillo sold his restaurant empire for nearly $1B, but says he was happier before the deal",
-    "tokens": [
-      "before",
-      "deal",
-      "dick",
-      "empire",
-      "happier",
-      "his",
-      "nearly",
-      "portillo",
-      "restaurant",
-      "sold"
-    ],
-    "ts": 1790026036.1914048
-  },
-  {
-    "id": "meta-ai-agent-could-missing-130002359.html",
-    "title": "Meta’s New AI Agent Could Be the Missing Piece for META Stock",
-    "tokens": [
-      "agent",
-      "could",
-      "meta",
-      "missing",
-      "piece",
-      "stock"
-    ],
-    "ts": 1790026043.819714
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/critics-say-california-got-too-little-in-deal-to-let-paramount-buy-warner-bros-4909686",
-    "title": "Critics say California got too little in deal to let Paramount buy Warner Bros",
-    "tokens": [
-      "bros",
-      "buy",
-      "california",
-      "critics",
-      "deal",
-      "got",
-      "let",
-      "little",
-      "paramount",
-      "say",
-      "too",
-      "warner"
-    ],
-    "ts": 1790026769.2790093
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/gamestop-president-ryan-cohen-buys-264m-in-gme-stock-93CH-4909696",
-    "title": "GameStop president Ryan Cohen buys $26.4m in GME stock",
-    "tokens": [
-      "buys",
-      "cohen",
-      "gamestop",
-      "gme",
-      "president",
-      "ryan",
-      "stock"
-    ],
-    "ts": 1790026776.6301482
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dynatrace-evp-cto-bernd-greifeneder-sells-286m-in-stock-93CH-4909694",
-    "title": "Dynatrace EVP, CTO Bernd Greifeneder sells $2.86m in stock",
-    "tokens": [
-      "86m",
-      "bernd",
-      "cto",
-      "dynatrace",
-      "evp",
-      "greifeneder",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790026783.7531154
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/pattersonuti-energy-ceo-sells-298m-in-common-stock-93CH-4909695",
     "title": "Patterson-UTI Energy CEO sells $2.98m in common stock",
     "tokens": [
@@ -23034,5 +22851,184 @@
       "white"
     ],
     "ts": 1790187375.9405494
+  },
+  {
+    "id": "WP-MKTW-0005249240",
+    "title": "The ingredients for a financial reckoning are all in place",
+    "tokens": [
+      "all",
+      "financial",
+      "ingredients",
+      "place",
+      "reckoning"
+    ],
+    "ts": 1790188399.8152792
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/united-therapeutics-at-bernstein-forum-growth-bets-widen-93CH-4913727",
+    "title": "United Therapeutics at Bernstein forum: growth bets widen",
+    "tokens": [
+      "bernstein",
+      "bets",
+      "forum",
+      "growth",
+      "therapeutics",
+      "united",
+      "widen"
+    ],
+    "ts": 1790188407.9920142
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropics-claude-finds-new-enzyme-system-4913724",
+    "title": "Anthropic’s Claude finds new enzyme system",
+    "tokens": [
+      "anthropic",
+      "claude",
+      "enzyme",
+      "finds",
+      "system"
+    ],
+    "ts": 1790188416.1610677
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-52415-in-company-stock-93CH-4913725",
+    "title": "Verizon EVP Kyle Malady sells $52,415 in company stock",
+    "tokens": [
+      "415",
+      "company",
+      "evp",
+      "kyle",
+      "malady",
+      "sells",
+      "stock",
+      "verizon"
+    ],
+    "ts": 1790188423.150744
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/turn-therapeutics-at-stifel-forum-itch-score-drives-trial-design-93CH-4913721",
+    "title": "Turn Therapeutics at Stifel forum: itch score drives trial design",
+    "tokens": [
+      "design",
+      "drives",
+      "forum",
+      "itch",
+      "score",
+      "stifel",
+      "therapeutics",
+      "trial",
+      "turn"
+    ],
+    "ts": 1790188430.6131253
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/rapport-therapeutics-at-td-cowen-summit-bipolar-data-loom-93CH-4913720",
+    "title": "Rapport Therapeutics at TD Cowen summit: bipolar data loom",
+    "tokens": [
+      "bipolar",
+      "cowen",
+      "data",
+      "loom",
+      "rapport",
+      "summit",
+      "therapeutics"
+    ],
+    "ts": 1790188437.6304903
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/lifevantage-at-water-tower-research-virtual-insights-conference-turnaround-focus-93CH-4913719",
+    "title": "LifeVantage at Water Tower Research Virtual Insights Conference: turnaround focus",
+    "tokens": [
+      "conference",
+      "focus",
+      "insights",
+      "lifevantage",
+      "research",
+      "tower",
+      "turnaround",
+      "virtual",
+      "water"
+    ],
+    "ts": 1790188441.647095
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/soluna-holdings-at-water-tower-research-ai-push-gains-ground-93CH-4913717",
+    "title": "Soluna Holdings at Water Tower Research: ai push gains ground",
+    "tokens": [
+      "gains",
+      "ground",
+      "holdings",
+      "push",
+      "research",
+      "soluna",
+      "tower",
+      "water"
+    ],
+    "ts": 1790188446.5865428
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/google-wayfair-among-market-cap-stock-movers-on-wednesday-93CH-4913716",
+    "title": "Google, Wayfair among market cap stock movers on Wednesday",
+    "tokens": [
+      "among",
+      "cap",
+      "google",
+      "market",
+      "movers",
+      "stock",
+      "wayfair",
+      "wednesday"
+    ],
+    "ts": 1790188450.603058
+  },
+  {
+    "id": "mark-cuban-says-healthcare-companies-100000881.html",
+    "title": "Mark Cuban says healthcare companies are sued daily, usually lose and are 'too big to care.' He has a better solution",
+    "tokens": [
+      "better",
+      "big",
+      "care",
+      "companies",
+      "cuban",
+      "daily",
+      "healthcare",
+      "lose",
+      "mark",
+      "solution",
+      "sued",
+      "too",
+      "usually"
+    ],
+    "ts": 1790188454.4191194
+  },
+  {
+    "id": "dogecoin-targets-30-surge-following-100106959.html",
+    "title": "Dogecoin Targets 30% Surge Following $12.66M Short Squeeze",
+    "tokens": [
+      "66m",
+      "dogecoin",
+      "following",
+      "short",
+      "squeeze",
+      "surge",
+      "targets"
+    ],
+    "ts": 1790188461.9417539
+  },
+  {
+    "id": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa",
+    "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+    "tokens": [
+      "adoption",
+      "bank",
+      "could",
+      "like",
+      "protections",
+      "stablecoin",
+      "surge",
+      "survey",
+      "visa"
+    ],
+    "ts": 1790188472.0869935
   }
 ]

@@ -1,51 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economic-indicators/xi-rolls-into-trump-summit-with-chinas-trade-engine-roaring-4908235",
-    "title": "Xi rolls into Trump summit with China’s trade engine roaring",
-    "tokens": [
-      "china",
-      "engine",
-      "roaring",
-      "rolls",
-      "summit",
-      "trade",
-      "trump"
-    ],
-    "ts": 1789960260.8411598
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/prysmian-rio-tinto-partner-to-bring-lowcarbon-aluminum-to-amazon-data-center-4908234",
-    "title": "Prysmian, Rio Tinto partner to bring low-carbon aluminum to Amazon data center",
-    "tokens": [
-      "aluminum",
-      "amazon",
-      "bring",
-      "carbon",
-      "center",
-      "data",
-      "low",
-      "partner",
-      "prysmian",
-      "rio",
-      "tinto"
-    ],
-    "ts": 1789960269.0622694
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/vietnam-joins-ftse-russell-emerging-market-benchmark-4908233",
-    "title": "Vietnam joins FTSE Russell emerging market benchmark",
-    "tokens": [
-      "benchmark",
-      "emerging",
-      "ftse",
-      "joins",
-      "market",
-      "russell",
-      "vietnam"
-    ],
-    "ts": 1789960276.240053
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/china-slows-humanoid-robot-ipo-rush-as-hype-outruns-reality-4908236",
     "title": "China slows humanoid robot IPO rush as hype outruns reality",
     "tokens": [
@@ -23197,5 +23151,50 @@
       "seng"
     ],
     "ts": 1790132096.5268054
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
+    "title": "Asia FX flat, dollar creeps higher ahead of U.S.-China summit",
+    "tokens": [
+      "ahead",
+      "asia",
+      "china",
+      "creeps",
+      "dollar",
+      "flat",
+      "higher",
+      "summit"
+    ],
+    "ts": 1790133048.0253787
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-struggle-for-direction-ahead-of-trumpxi-meeting-china-shares-down-4912042",
+    "title": "Asia stocks struggle for direction ahead of Trump-Xi meeting; China shares down",
+    "tokens": [
+      "ahead",
+      "asia",
+      "china",
+      "direction",
+      "meeting",
+      "shares",
+      "stocks",
+      "struggle",
+      "trump"
+    ],
+    "ts": 1790133056.2535057
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/boeings-engineers-union-backs-latest-contract-offer-4912041",
+    "title": "Boeing’s engineers union backs latest contract offer",
+    "tokens": [
+      "backs",
+      "boeing",
+      "contract",
+      "engineers",
+      "latest",
+      "offer",
+      "union"
+    ],
+    "ts": 1790133064.4491115
   }
 ]

@@ -1,80 +1,5 @@
 [
   {
-    "id": "oilprice-news-45567",
-    "title": "Prague Caps Fuel Prices, Taxes Orlen's ‘Windfall’ Refining Margins",
-    "tokens": [
-      "caps",
-      "fuel",
-      "margins",
-      "orlen",
-      "prague",
-      "prices",
-      "refining",
-      "taxes",
-      "windfall"
-    ],
-    "ts": 1790028704.901676
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/mission-produce-executive-chairman-stephen-barnard-sells-446177-in-avo-stock-93CH-4909717",
-    "title": "Mission Produce executive chairman Stephen Barnard sells $446,177 in AVO stock",
-    "tokens": [
-      "177",
-      "446",
-      "avo",
-      "barnard",
-      "chairman",
-      "executive",
-      "mission",
-      "produce",
-      "sells",
-      "stephen",
-      "stock"
-    ],
-    "ts": 1790029556.0013757
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/iambic-therapeutics-files-for-ipo-to-fund-cancer-drugs-93CH-4909715",
-    "title": "Iambic Therapeutics files for IPO to fund cancer drugs",
-    "tokens": [
-      "cancer",
-      "drugs",
-      "files",
-      "fund",
-      "iambic",
-      "ipo",
-      "therapeutics"
-    ],
-    "ts": 1790029564.0316837
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/btig-raises-adeptus-biotechnologies-price-target-to-34-on-guidelines-93CH-4909713",
-    "title": "BTIG raises Adeptus Biotechnologies price target to $34 on guidelines",
-    "tokens": [
-      "adeptus",
-      "biotechnologies",
-      "btig",
-      "guidelines",
-      "price",
-      "raises",
-      "target"
-    ],
-    "ts": 1790029571.0003738
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-awards-99-million-for-geothermal-drilling-technology-projects-4909712",
-    "title": "US awards $99 million for geothermal drilling, technology projects",
-    "tokens": [
-      "awards",
-      "drilling",
-      "geothermal",
-      "million",
-      "projects",
-      "technology"
-    ],
-    "ts": 1790029578.20609
-  },
-  {
     "id": "dear-tesla-stock-fans-mark-140003840.html",
     "title": "Dear Tesla Stock Fans, Mark Your Calendars for September 30",
     "tokens": [
@@ -23038,5 +22963,81 @@
       "public"
     ],
     "ts": 1790190682.5758944
+  },
+  {
+    "id": "WP-MKTW-0005249290",
+    "title": "The AI-scare trade is finally hitting banks. Bargain-hunters should take note.",
+    "tokens": [
+      "banks",
+      "bargain",
+      "finally",
+      "hitting",
+      "hunters",
+      "note",
+      "scare",
+      "should",
+      "take",
+      "trade"
+    ],
+    "ts": 1790191545.171811
+  },
+  {
+    "id": "bunge-global-stock-outperforming-p-102357974.html",
+    "title": "Is Bunge Global Stock Outperforming the S&P 500?",
+    "tokens": [
+      "500",
+      "bunge",
+      "global",
+      "outperforming",
+      "stock"
+    ],
+    "ts": 1790191553.3451562
+  },
+  {
+    "id": "saudi-oil-lifeline-may-reopen-103000476.html",
+    "title": "Saudi Oil Lifeline May Reopen as Aramco Eyes Yanbu Restart",
+    "tokens": [
+      "aramco",
+      "eyes",
+      "lifeline",
+      "may",
+      "oil",
+      "reopen",
+      "restart",
+      "saudi",
+      "yanbu"
+    ],
+    "ts": 1790191562.6641135
+  },
+  {
+    "id": "paymob-secures-35m-pre-series-101907626.html",
+    "title": "Paymob secures $35m pre-Series C round led by Mubadala and EBRD",
+    "tokens": [
+      "35m",
+      "ebrd",
+      "led",
+      "mubadala",
+      "paymob",
+      "pre",
+      "round",
+      "secures",
+      "series"
+    ],
+    "ts": 1790191571.149561
+  },
+  {
+    "id": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase",
+    "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
+    "tokens": [
+      "100k",
+      "ethics",
+      "filing",
+      "purchase",
+      "reveals",
+      "stock",
+      "strategy",
+      "trump"
+    ],
+    "ts": 1790191579.782453
   }
 ]

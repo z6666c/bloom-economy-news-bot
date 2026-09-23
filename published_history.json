@@ -1,126 +1,5 @@
 [
   {
-    "id": "amazon-amzn-sued-again-time-212413687.html",
-    "title": "Amazon (AMZN) Sued Again, This Time over How it Treats Pregnant Warehouse Workers",
-    "tokens": [
-      "again",
-      "amazon",
-      "amzn",
-      "how",
-      "pregnant",
-      "sued",
-      "time",
-      "treats",
-      "warehouse",
-      "workers"
-    ],
-    "ts": 1789941074.0211785
-  },
-  {
-    "id": "ai-slowdown-trade-winners-crowdstrike-212311977.html",
-    "title": "The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo Alto Rally While Chips Fall",
-    "tokens": [
-      "alto",
-      "chips",
-      "crowdstrike",
-      "fall",
-      "palo",
-      "rally",
-      "slowdown",
-      "some",
-      "trade",
-      "while",
-      "winners"
-    ],
-    "ts": 1789941082.766204
-  },
-  {
-    "id": "boeing-ba-completes-13-satellite-211953360.html",
-    "title": "Boeing (BA) Completes 13-Satellite O3b mPOWER Constellation — Here’s What It Means for Defense Growth",
-    "tokens": [
-      "boeing",
-      "completes",
-      "constellation",
-      "defense",
-      "growth",
-      "here",
-      "means",
-      "mpower",
-      "o3b",
-      "satellite",
-      "what"
-    ],
-    "ts": 1789941089.911763
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jefferies-stays-bullish-on-sp-500-sees-9000-by-end2027-4908198",
-    "title": "Jefferies stays bullish on S&P 500, sees 9,000 by end-2027",
-    "tokens": [
-      "000",
-      "2027",
-      "500",
-      "bullish",
-      "end",
-      "jefferies",
-      "sees",
-      "stays"
-    ],
-    "ts": 1789942190.5489225
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/midterm-elections-what-do-equity-markets-typically-do-and-what-is-priced-4908197",
-    "title": "Midterm elections: What do equity markets typically do and what is priced?",
-    "tokens": [
-      "elections",
-      "equity",
-      "markets",
-      "midterm",
-      "priced",
-      "typically",
-      "what"
-    ],
-    "ts": 1789942197.766739
-  },
-  {
-    "id": "warner-music-wmg-bets-ai-215750591.html",
-    "title": "Warner Music (WMG) Bets its AI Truce with Suno Can Turn into a New Revenue Line",
-    "tokens": [
-      "bets",
-      "can",
-      "line",
-      "music",
-      "revenue",
-      "suno",
-      "truce",
-      "turn",
-      "warner",
-      "wmg"
-    ],
-    "ts": 1789942206.0311363
-  },
-  {
-    "id": "?src=A00220&yptr=yahoo",
-    "title": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-    "tokens": [
-      "amd",
-      "areas",
-      "buy",
-      "can",
-      "dow",
-      "due",
-      "flight",
-      "futures",
-      "jones",
-      "market",
-      "moderna",
-      "robinhood",
-      "sandisk",
-      "surge",
-      "take"
-    ],
-    "ts": 1789942214.1338992
-  },
-  {
     "id": "jim-cramer-iron-mountain-irm-215701602.html",
     "title": "Jim Cramer on Iron Mountain (IRM): “It’s Been an Incredible Stock”",
     "tokens": [
@@ -23272,5 +23151,107 @@
       "warns"
     ],
     "ts": 1790122524.7102458
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/mexico-arrests-allegedprominent-fentanyl-trafficker-4911914",
+    "title": "Mexico arrests alleged prominent fentanyl trafficker",
+    "tokens": [
+      "alleged",
+      "arrests",
+      "fentanyl",
+      "mexico",
+      "prominent",
+      "trafficker"
+    ],
+    "ts": 1790123703.8692439
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-alphabet-stock-buys-rocket-lab-93CH-4911908",
+    "title": "Cathie Wood’s ARK sells Alphabet stock, buys Rocket Lab",
+    "tokens": [
+      "alphabet",
+      "ark",
+      "buys",
+      "cathie",
+      "lab",
+      "rocket",
+      "sells",
+      "stock",
+      "wood"
+    ],
+    "ts": 1790123711.2681065
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/advanced-flower-capital-director-leonard-tannenbaum-buys-34900-in-stock-93CH-4911906",
+    "title": "Advanced flower capital director Leonard Tannenbaum buys $34,900 in stock",
+    "tokens": [
+      "900",
+      "advanced",
+      "buys",
+      "capital",
+      "director",
+      "flower",
+      "leonard",
+      "stock",
+      "tannenbaum"
+    ],
+    "ts": 1790123718.610483
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/scott-bizily-sells-22317-of-4d-molecular-therapeutics-stock-93CH-4911907",
+    "title": "Scott Bizily sells $22,317 of 4D Molecular Therapeutics stock",
+    "tokens": [
+      "317",
+      "bizily",
+      "molecular",
+      "scott",
+      "sells",
+      "stock",
+      "therapeutics"
+    ],
+    "ts": 1790123726.0839689
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/bridgford-foods-vp-richard-bridgford-buys-2054-in-common-stock-93CH-4911905",
+    "title": "Bridgford Foods VP Richard Bridgford buys $2,054 in common stock",
+    "tokens": [
+      "054",
+      "bridgford",
+      "buys",
+      "common",
+      "foods",
+      "richard",
+      "stock"
+    ],
+    "ts": 1790123733.30538
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/accc-blocks-iags-proposed-acquisition-of-rac-insurance-4911897",
+    "title": "ACCC blocks IAG’s proposed acquisition of RAC Insurance",
+    "tokens": [
+      "accc",
+      "acquisition",
+      "blocks",
+      "iag",
+      "insurance",
+      "proposed",
+      "rac"
+    ],
+    "ts": 1790123741.0909905
+  },
+  {
+    "id": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts",
+    "title": "CFTC issues warning over risky prediction market ‘mention’ contracts",
+    "tokens": [
+      "cftc",
+      "contracts",
+      "issues",
+      "market",
+      "mention",
+      "prediction",
+      "risky",
+      "warning"
+    ],
+    "ts": 1790123750.35145
   }
 ]

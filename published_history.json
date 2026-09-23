@@ -1,69 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/mizuho-raises-plains-gp-holdings-stock-price-target-on-acquisition-93CH-4908517",
-    "title": "Mizuho raises Plains GP Holdings stock price target on acquisition",
-    "tokens": [
-      "acquisition",
-      "holdings",
-      "mizuho",
-      "plains",
-      "price",
-      "raises",
-      "stock",
-      "target"
-    ],
-    "ts": 1789985559.6757462
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/wheat-prices-near-multiyear-highs-as-war-weather-and-harvest-shortfalls-converge-93CH-4908516",
-    "title": "Wheat prices near multi-year highs as war, weather, and harvest shortfalls converge",
-    "tokens": [
-      "converge",
-      "harvest",
-      "highs",
-      "multi",
-      "near",
-      "prices",
-      "shortfalls",
-      "war",
-      "weather",
-      "wheat",
-      "year"
-    ],
-    "ts": 1789985566.999705
-  },
-  {
-    "id": "trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
-    "title": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
-    "tokens": [
-      "dine",
-      "meta",
-      "stage",
-      "takes",
-      "titans",
-      "trump",
-      "watch",
-      "week",
-      "what"
-    ],
-    "ts": 1789985575.0880377
-  },
-  {
-    "id": "best-cd-rates-today-monday-september-21-2026-lock-in-up-to-440-apy-100000956.html",
-    "title": "Best CD rates today, Monday, September 21, 2026: Lock in up to 4.40% APY",
-    "tokens": [
-      "2026",
-      "apy",
-      "best",
-      "lock",
-      "monday",
-      "rates",
-      "september",
-      "today"
-    ],
-    "ts": 1789985579.0982788
-  },
-  {
     "id": "heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
     "title": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
     "tokens": [
@@ -23208,5 +23144,74 @@
       "users"
     ],
     "ts": 1790151180.5258505
+  },
+  {
+    "id": "WP-MKTW-0005248721",
+    "title": "This oil giant has lagged its leading rivals through two energy crises. Now one Wall Street giant says it’s time to buy.",
+    "tokens": [
+      "buy",
+      "crises",
+      "energy",
+      "giant",
+      "lagged",
+      "leading",
+      "now",
+      "oil",
+      "one",
+      "rivals",
+      "street",
+      "through",
+      "time",
+      "two",
+      "wall"
+    ],
+    "ts": 1790152145.7705693
+  },
+  {
+    "id": "amazon-ups-stock-14c23fe9?siteid=yhoof2&yptr=yahoo",
+    "title": "UPS Among Today’s Worst Stocks in the S&P 500 After Slowed Amazon Shipments",
+    "tokens": [
+      "500",
+      "amazon",
+      "among",
+      "shipments",
+      "slowed",
+      "stocks",
+      "today",
+      "ups",
+      "worst"
+    ],
+    "ts": 1790152153.4542243
+  },
+  {
+    "id": "https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open",
+    "title": "BitMEX ends crypto trading, keeps withdrawals open after closure",
+    "tokens": [
+      "bitmex",
+      "closure",
+      "crypto",
+      "ends",
+      "keeps",
+      "open",
+      "trading",
+      "withdrawals"
+    ],
+    "ts": 1790152162.3224924
+  },
+  {
+    "id": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable",
+    "title": "Zcash’s November upgrade could freeze funds in legacy Sprout pool",
+    "tokens": [
+      "could",
+      "freeze",
+      "funds",
+      "legacy",
+      "november",
+      "pool",
+      "sprout",
+      "upgrade",
+      "zcash"
+    ],
+    "ts": 1790152169.5241919
   }
 ]

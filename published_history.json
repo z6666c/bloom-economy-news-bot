@@ -1,125 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/foresight-environmental-infrastructure-adds-investec-as-broker-93CH-4908302",
-    "title": "Foresight Environmental Infrastructure adds Investec as broker",
-    "tokens": [
-      "adds",
-      "broker",
-      "environmental",
-      "foresight",
-      "infrastructure",
-      "investec"
-    ],
-    "ts": 1789973909.056202
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/humanoid-robot-sales-reach-7000-units-worldwide-in-2025-93CH-4908300",
-    "title": "Humanoid robot sales reach 7,000 units worldwide in 2025",
-    "tokens": [
-      "000",
-      "2025",
-      "humanoid",
-      "reach",
-      "robot",
-      "sales",
-      "units",
-      "worldwide"
-    ],
-    "ts": 1789973916.0393846
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/beacons-gene-therapy-meets-primary-endpoint-in-pivotal-trial-93CH-4908299",
-    "title": "Beacon’s gene therapy meets primary endpoint in pivotal trial",
-    "tokens": [
-      "beacon",
-      "endpoint",
-      "gene",
-      "meets",
-      "pivotal",
-      "primary",
-      "therapy",
-      "trial"
-    ],
-    "ts": 1789973923.428323
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-001-4908298",
-    "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.01%",
-    "tokens": [
-      "200",
-      "asx",
-      "australia",
-      "close",
-      "higher",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1789973930.4178557
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hamak-sells-8-bitcoin-to-fund-ghana-gold-project-assessment-93CH-4908297",
-    "title": "Hamak sells 8 bitcoin to fund Ghana gold project assessment",
-    "tokens": [
-      "assessment",
-      "bitcoin",
-      "fund",
-      "ghana",
-      "gold",
-      "hamak",
-      "project",
-      "sells"
-    ],
-    "ts": 1789973937.4450574
-  },
-  {
-    "id": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot",
-    "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
-    "tokens": [
-      "bank",
-      "foreign",
-      "hour",
-      "investors",
-      "korea",
-      "launches",
-      "pilot",
-      "settlement",
-      "won"
-    ],
-    "ts": 1789973945.6431909
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/citi-is-bullish-on-these-2-chinese-travel-stocks-heading-into-the-autumn-holidays-93CH-4908344",
-    "title": "Citi is Bullish on these 2 Chinese travel stocks heading into the autumn holidays",
-    "tokens": [
-      "autumn",
-      "bullish",
-      "chinese",
-      "citi",
-      "heading",
-      "holidays",
-      "stocks",
-      "these",
-      "travel"
-    ],
-    "ts": 1789975041.709976
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-nexgen-energy-stock-at-overweight-on-uranium-supply-potential-93CH-4908342",
-    "title": "JPMorgan initiates NexGen Energy stock at Overweight on uranium supply potential",
-    "tokens": [
-      "energy",
-      "initiates",
-      "jpmorgan",
-      "nexgen",
-      "overweight",
-      "potential",
-      "stock",
-      "supply",
-      "uranium"
-    ],
-    "ts": 1789975049.3625314
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/australias-perpetual-slumped-15-today-heres-why-93CH-4908343",
     "title": "Australia’s Perpetual slumped 15% today. Here’s why",
     "tokens": [
@@ -23210,5 +23090,120 @@
       "theft"
     ],
     "ts": 1790142154.5502117
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/india-business-activity-rebounds-in-september-to-3month-high-pmi-shows-4912090",
+    "title": "India business activity rebounds in September to 3-month high, PMI shows",
+    "tokens": [
+      "activity",
+      "business",
+      "high",
+      "india",
+      "month",
+      "pmi",
+      "rebounds",
+      "september",
+      "shows"
+    ],
+    "ts": 1790142823.6738741
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/avax-reports-firsthalf-net-profit-decline-of-44-93CH-4912089",
+    "title": "Avax reports first-half net profit decline of 4.4%",
+    "tokens": [
+      "avax",
+      "decline",
+      "first",
+      "half",
+      "net",
+      "profit",
+      "reports"
+    ],
+    "ts": 1790142832.0892577
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/indias-private-sector-growth-accelerates-in-september-flash-pmi-93CH-4912088",
+    "title": "India’s private sector growth accelerates in September flash PMI",
+    "tokens": [
+      "accelerates",
+      "flash",
+      "growth",
+      "india",
+      "pmi",
+      "private",
+      "sector",
+      "september"
+    ],
+    "ts": 1790142839.430964
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/kws-saat-profit-rises-13-as-debt-plunges-4912084",
+    "title": "KWS SAAT profit rises 13% as debt plunges",
+    "tokens": [
+      "debt",
+      "kws",
+      "plunges",
+      "profit",
+      "rises",
+      "saat"
+    ],
+    "ts": 1790142847.8155236
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/roches-sefaxersen-shows-positive-results-in-kidney-disease-trial-93CH-4912083",
+    "title": "Roche’s sefaxersen shows positive results in kidney disease trial",
+    "tokens": [
+      "disease",
+      "kidney",
+      "positive",
+      "results",
+      "roche",
+      "sefaxersen",
+      "shows",
+      "trial"
+    ],
+    "ts": 1790142855.4680448
+  },
+  {
+    "id": "jim-cramer-notes-buying-pullback-182048493.html",
+    "title": "Jim Cramer Notes He Is Buying The Pullback In TJX",
+    "tokens": [
+      "buying",
+      "cramer",
+      "jim",
+      "notes",
+      "pullback",
+      "tjx"
+    ],
+    "ts": 1790142862.699088
+  },
+  {
+    "id": "dominance-credit-megafunds-only-grew-182215507.html",
+    "title": "The dominance of credit megafunds has only grown in 2026",
+    "tokens": [
+      "2026",
+      "credit",
+      "dominance",
+      "grown",
+      "megafunds",
+      "only"
+    ],
+    "ts": 1790142870.466881
+  },
+  {
+    "id": "why-wall-street-analysts-love-182530204.html",
+    "title": "Why Wall Street Analysts Love Generac Stock After a New Amazon Deal",
+    "tokens": [
+      "amazon",
+      "analysts",
+      "deal",
+      "generac",
+      "love",
+      "stock",
+      "street",
+      "wall",
+      "why"
+    ],
+    "ts": 1790142878.1920598
   }
 ]

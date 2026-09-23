@@ -1,93 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/australias-perpetual-slumped-15-today-heres-why-93CH-4908343",
-    "title": "Australia’s Perpetual slumped 15% today. Here’s why",
-    "tokens": [
-      "australia",
-      "here",
-      "perpetual",
-      "slumped",
-      "today",
-      "why"
-    ],
-    "ts": 1789975056.2283025
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-nexgen-energy-stock-at-overweight-14-target-93CH-4908341",
-    "title": "JPMorgan initiates NexGen Energy stock at Overweight, $14 target",
-    "tokens": [
-      "energy",
-      "initiates",
-      "jpmorgan",
-      "nexgen",
-      "overweight",
-      "stock",
-      "target"
-    ],
-    "ts": 1789975060.2443562
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/great-southern-copper-reports-high-metallurgy-recovery-at-mostaza-93CH-4908340",
-    "title": "Great Southern Copper reports high metallurgy recovery at Mostaza",
-    "tokens": [
-      "copper",
-      "great",
-      "high",
-      "metallurgy",
-      "mostaza",
-      "recovery",
-      "reports",
-      "southern"
-    ],
-    "ts": 1789975063.7943904
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/european-stocks-bounce-as-oil-eases-but-german-political-shock-ecb-hawks-weigh-4908285",
-    "title": "European stocks bounce as oil eases, but German political shock, ECB hawks weigh",
-    "tokens": [
-      "bounce",
-      "eases",
-      "ecb",
-      "european",
-      "german",
-      "hawks",
-      "oil",
-      "political",
-      "shock",
-      "stocks",
-      "weigh"
-    ],
-    "ts": 1789975071.0713303
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/central-asia-metals-delays-cygnus-acquisition-court-date-93CH-4908327",
-    "title": "Central Asia Metals delays Cygnus acquisition court date",
-    "tokens": [
-      "acquisition",
-      "asia",
-      "central",
-      "court",
-      "cygnus",
-      "date",
-      "delays",
-      "metals"
-    ],
-    "ts": 1789975078.4404511
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-kuehne--nagel-stock-rallying-today-93CH-4908363",
-    "title": "Why is Kuehne & Nagel stock rallying today?",
-    "tokens": [
-      "kuehne",
-      "nagel",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1789976531.1428642
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/europes-stoxx-600-gains-as-tech-rallies-oil-retreat-eases-nerves-4908362",
     "title": "Europe’s STOXX 600 gains as tech rallies, oil retreat eases nerves",
     "tokens": [
@@ -23205,5 +23117,98 @@
       "why"
     ],
     "ts": 1790142878.1920598
+  },
+  {
+    "id": "jim-cramer-holding-back-snap-183412255.html",
+    "title": "Jim Cramer Is Holding Back on Snap (SNAP) Until It Shows a Profit",
+    "tokens": [
+      "back",
+      "cramer",
+      "holding",
+      "jim",
+      "profit",
+      "shows",
+      "snap",
+      "until"
+    ],
+    "ts": 1790144050.6083384
+  },
+  {
+    "id": "biopharma-stock-layers-technical-support-184416734.html",
+    "title": "Biopharma Stock With Layers of Technical Support in Place",
+    "tokens": [
+      "biopharma",
+      "layers",
+      "place",
+      "stock",
+      "support",
+      "technical"
+    ],
+    "ts": 1790144058.307521
+  },
+  {
+    "id": "snap-partners-nvidia-specs-play-184201778.html",
+    "title": "As Snap Partners With Nvidia on Its Specs, Here’s How You Should Play SNAP Stock",
+    "tokens": [
+      "here",
+      "how",
+      "nvidia",
+      "partners",
+      "play",
+      "should",
+      "snap",
+      "specs",
+      "stock",
+      "you"
+    ],
+    "ts": 1790144067.191133
+  },
+  {
+    "id": "nuai-stock-soars-era-energy-184054970.html",
+    "title": "NUAI Stock Soars as New Era Energy Strikes Power Deal With Vistra",
+    "tokens": [
+      "deal",
+      "energy",
+      "era",
+      "nuai",
+      "power",
+      "soars",
+      "stock",
+      "strikes",
+      "vistra"
+    ],
+    "ts": 1790144075.8636873
+  },
+  {
+    "id": "ciena-cien-wall-street-cut-184230060.html",
+    "title": "Ciena (CIEN): Wall Street Cut Targets After Earnings, Then Raised Them on 2029 Outlook",
+    "tokens": [
+      "2029",
+      "cien",
+      "ciena",
+      "cut",
+      "earnings",
+      "outlook",
+      "raised",
+      "street",
+      "targets",
+      "them",
+      "then",
+      "wall"
+    ],
+    "ts": 1790144084.2537763
+  },
+  {
+    "id": "jim-cramer-blackberry-bb-am-182804023.html",
+    "title": "Jim Cramer on BlackBerry (BB): “I Am Surprised That It Came Back Down”",
+    "tokens": [
+      "back",
+      "blackberry",
+      "came",
+      "cramer",
+      "jim",
+      "surprised"
+    ],
+    "ts": 1790144092.4190826
   }
 ]

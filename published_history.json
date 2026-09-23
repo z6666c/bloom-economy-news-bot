@@ -1,83 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/yuan-hits-fresh-multiyear-peak-as-pboc-eases-curb-ahead-of-trumpxi-summit-4908242",
-    "title": "Yuan hits fresh multi-year peak as PBOC eases curb ahead of Trump-Xi summit",
-    "tokens": [
-      "ahead",
-      "curb",
-      "eases",
-      "fresh",
-      "hits",
-      "multi",
-      "pboc",
-      "peak",
-      "summit",
-      "trump",
-      "year",
-      "yuan"
-    ],
-    "ts": 1789964904.5412617
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trumpxi-summit-outlook-watch-these-chinese-stocks-and-sectors-93CH-4908238",
-    "title": "Trump-Xi summit outlook: watch these Chinese stocks and sectors",
-    "tokens": [
-      "chinese",
-      "outlook",
-      "sectors",
-      "stocks",
-      "summit",
-      "these",
-      "trump",
-      "watch"
-    ],
-    "ts": 1789964911.3803697
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/why-frances-budget-problems-have-driven-its-bond-risk-premium-to-2012-highs-4908248",
-    "title": "Why France’s budget problems have driven its bond risk premium to 2012 highs",
-    "tokens": [
-      "2012",
-      "bond",
-      "budget",
-      "driven",
-      "france",
-      "highs",
-      "premium",
-      "problems",
-      "risk",
-      "why"
-    ],
-    "ts": 1789965898.4468162
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bessent-proposes-uschina-ai-safety-system-in-talks-with-china-4908247",
-    "title": "Bessent proposes U.S.-China AI safety system in talks with China",
-    "tokens": [
-      "bessent",
-      "china",
-      "proposes",
-      "safety",
-      "system",
-      "talks"
-    ],
-    "ts": 1789965906.137547
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over",
-    "title": "Bitcoin reclaims 50-week moving average: Is the bear market over?",
-    "tokens": [
-      "average",
-      "bear",
-      "bitcoin",
-      "market",
-      "moving",
-      "reclaims",
-      "week"
-    ],
-    "ts": 1789965914.7182817
-  },
-  {
     "id": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond",
     "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
     "tokens": [
@@ -23191,5 +23113,81 @@
       "vanke"
     ],
     "ts": 1790135745.0721993
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/gift-nifty-50-tests-23511-resistance-in-bear-flag-live-levels-93CH-4908246",
+    "title": "Gift Nifty 50 bear flag 80% complete near 23,270: Live levels",
+    "tokens": [
+      "270",
+      "bear",
+      "complete",
+      "flag",
+      "gift",
+      "levels",
+      "live",
+      "near",
+      "nifty"
+    ],
+    "ts": 1790136705.404554
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-china-vanke-stock-surging-today-93CH-4912054",
+    "title": "Why is China Vanke stock surging today?",
+    "tokens": [
+      "china",
+      "stock",
+      "surging",
+      "today",
+      "vanke",
+      "why"
+    ],
+    "ts": 1790136709.417263
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/guggenheim-names-top-stock-pick-in-biotech-sector-93CH-4912053",
+    "title": "Guggenheim Names Top Stock Pick in Biotech Sector",
+    "tokens": [
+      "biotech",
+      "guggenheim",
+      "names",
+      "pick",
+      "sector",
+      "stock",
+      "top"
+    ],
+    "ts": 1790136713.1118484
+  },
+  {
+    "id": "lucid-just-struck-partnership-bolt-162648488.html",
+    "title": "Lucid Just Struck a Partnership With Bolt on Mobility. What This Means for LCID Stock.",
+    "tokens": [
+      "bolt",
+      "just",
+      "lcid",
+      "lucid",
+      "means",
+      "mobility",
+      "partnership",
+      "stock",
+      "struck",
+      "what"
+    ],
+    "ts": 1790136720.879975
+  },
+  {
+    "id": "4fe63d09-cbe6-4c25-888c-353c1039921d",
+    "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
+    "tokens": [
+      "000",
+      "bitcoin",
+      "crypto",
+      "gain",
+      "holds",
+      "leads",
+      "majors",
+      "near",
+      "zcash"
+    ],
+    "ts": 1790136729.570257
   }
 ]

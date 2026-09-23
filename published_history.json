@@ -1,66 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/canada-aims-to-cut-time-needed-for-project-reviews-and-address-strikes-4909803",
-    "title": "Canada aims to cut time needed for project reviews, and address strikes",
-    "tokens": [
-      "address",
-      "aims",
-      "canada",
-      "cut",
-      "needed",
-      "project",
-      "reviews",
-      "strikes",
-      "time"
-    ],
-    "ts": 1790040362.8644886
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-upbeat-after-ai-rally-falling-oil-boost-wall-st-4909802",
-    "title": "U.S. stock futures upbeat after AI rally, falling oil boost Wall St",
-    "tokens": [
-      "boost",
-      "falling",
-      "futures",
-      "oil",
-      "rally",
-      "stock",
-      "upbeat",
-      "wall"
-    ],
-    "ts": 1790040370.8303447
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/yen-squeezed-as-hawkish-turn-grips-central-banks-4909801",
-    "title": "Yen squeezed as hawkish turn grips central banks",
-    "tokens": [
-      "banks",
-      "central",
-      "grips",
-      "hawkish",
-      "squeezed",
-      "turn",
-      "yen"
-    ],
-    "ts": 1790040378.4582024
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-llc-sells-143m-kinetik-holdings-kntk-stock-93CH-4909800",
-    "title": "Isq global fund II gp llc sells $14.3m Kinetik Holdings (KNTK) stock",
-    "tokens": [
-      "fund",
-      "global",
-      "holdings",
-      "isq",
-      "kinetik",
-      "kntk",
-      "llc",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790040386.4536293
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/eu-and-philippines-agree-on-free-trade-deal-4909812",
     "title": "EU and Philippines agree on free trade deal",
     "tokens": [
@@ -23018,5 +22957,58 @@
       "stock"
     ],
     "ts": 1790195383.9885643
+  },
+  {
+    "id": "fox-corporation-stock-underperforming-p-121812686.html",
+    "title": "Is Fox Corporation Stock Underperforming the S&P 500?",
+    "tokens": [
+      "500",
+      "corporation",
+      "fox",
+      "stock",
+      "underperforming"
+    ],
+    "ts": 1790196145.7502866
+  },
+  {
+    "id": "5-things-know-stock-market-121341332.html",
+    "title": "5 Things to Know Before the Stock Market Opens on Tuesday",
+    "tokens": [
+      "before",
+      "know",
+      "market",
+      "opens",
+      "stock",
+      "things",
+      "tuesday"
+    ],
+    "ts": 1790196149.5331063
+  },
+  {
+    "id": "southwest-airlines-stock-outperforming-nasdaq-121100966.html",
+    "title": "Is Southwest Airlines Stock Outperforming the Nasdaq?",
+    "tokens": [
+      "airlines",
+      "nasdaq",
+      "outperforming",
+      "southwest",
+      "stock"
+    ],
+    "ts": 1790196158.1916904
+  },
+  {
+    "id": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets",
+    "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
+    "tokens": [
+      "case",
+      "gaming",
+      "kalshi",
+      "lawmakers",
+      "scotus",
+      "states",
+      "take",
+      "urge"
+    ],
+    "ts": 1790196166.903056
   }
 ]

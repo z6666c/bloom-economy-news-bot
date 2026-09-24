@@ -1,239 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-celldex-therapeutics-stock-sliding-today-93CH-4911396",
-    "title": "Why is Celldex Therapeutics stock sliding today?",
-    "tokens": [
-      "celldex",
-      "sliding",
-      "stock",
-      "therapeutics",
-      "today",
-      "why"
-    ],
-    "ts": 1790099492.663914
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/brazil-cuts-2026-growth-forecast-to-20-from-23-93CH-4911395",
-    "title": "Brazil cuts 2026 growth forecast to 2.0% from 2.3%",
-    "tokens": [
-      "2026",
-      "brazil",
-      "cuts",
-      "forecast",
-      "growth"
-    ],
-    "ts": 1790099496.6771798
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiventh-cycle-inks-1-billion-minerals-offtake-with-glencore-ahead-of-public-listing-4911393",
-    "title": "Exclusive-Nth Cycle inks $1 billion minerals offtake with Glencore ahead of public listing",
-    "tokens": [
-      "ahead",
-      "billion",
-      "cycle",
-      "exclusive",
-      "glencore",
-      "inks",
-      "listing",
-      "minerals",
-      "nth",
-      "offtake",
-      "public"
-    ],
-    "ts": 1790099499.383861
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/clinch-resources-at-water-tower-research-virtual-insights-conference-ramping-up-93CH-4911390",
-    "title": "Clinch Resources at Water Tower Research Virtual Insights Conference: ramping up",
-    "tokens": [
-      "clinch",
-      "conference",
-      "insights",
-      "ramping",
-      "research",
-      "resources",
-      "tower",
-      "virtual",
-      "water"
-    ],
-    "ts": 1790099506.1586974
-  },
-  {
-    "id": "WP-MKTW-0005247217",
-    "title": "Defending against dangerous AI should be a national priority — and we need more AI to do it",
-    "tokens": [
-      "against",
-      "dangerous",
-      "defending",
-      "more",
-      "national",
-      "need",
-      "priority",
-      "should"
-    ],
-    "ts": 1790100817.7409163
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bessent-emerges-as-frontrunner-for-trumps-ai-czar-role--report-4911440",
-    "title": "Bessent emerges as frontrunner for Trump’s \"AI czar\" role - report",
-    "tokens": [
-      "bessent",
-      "czar",
-      "emerges",
-      "frontrunner",
-      "report",
-      "role",
-      "trump"
-    ],
-    "ts": 1790100825.483629
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/amgen-vicor-among-market-cap-stock-movers-on-tuesday-93CH-4911439",
-    "title": "Amgen, Vicor among market cap stock movers on Tuesday",
-    "tokens": [
-      "amgen",
-      "among",
-      "cap",
-      "market",
-      "movers",
-      "stock",
-      "tuesday",
-      "vicor"
-    ],
-    "ts": 1790100829.5002737
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-ai-stock-pick-93CH-4911438",
-    "title": "Goldman Sachs Names Top AI Stock Pick",
-    "tokens": [
-      "goldman",
-      "names",
-      "pick",
-      "sachs",
-      "stock",
-      "top"
-    ],
-    "ts": 1790100833.4485734
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/network1-technologies-shareholders-reelect-board-and-approve-key-proposals-93CH-4911437",
-    "title": "Network-1 Technologies shareholders re-elect board and approve key proposals",
-    "tokens": [
-      "approve",
-      "board",
-      "elect",
-      "key",
-      "network",
-      "proposals",
-      "shareholders",
-      "technologies"
-    ],
-    "ts": 1790100840.3796835
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-treasury-yields-edge-up-as-rate-hike-bets-weigh-on-markets-93CH-4911436",
-    "title": "US Treasury yields edge up as rate hike bets weigh on markets",
-    "tokens": [
-      "bets",
-      "edge",
-      "hike",
-      "markets",
-      "rate",
-      "treasury",
-      "weigh",
-      "yields"
-    ],
-    "ts": 1790100847.7224214
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/pirelli-approves-12bn-us-plant-expansion-in-georgia-93CH-4911435",
-    "title": "Pirelli approves $1.2bn US plant expansion in Georgia",
-    "tokens": [
-      "2bn",
-      "approves",
-      "expansion",
-      "georgia",
-      "pirelli",
-      "plant"
-    ],
-    "ts": 1790100854.8641999
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
-    "title": "EOS Climbs 12% As Investors Gain Confidence",
-    "tokens": [
-      "climbs",
-      "confidence",
-      "eos",
-      "gain",
-      "investors"
-    ],
-    "ts": 1790100861.3936958
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/capitol-federal-financial-announces-accounting-officer-transition-93CH-4911433",
-    "title": "Capitol Federal Financial announces accounting officer transition",
-    "tokens": [
-      "accounting",
-      "announces",
-      "capitol",
-      "federal",
-      "financial",
-      "officer",
-      "transition"
-    ],
-    "ts": 1790100867.9244819
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/pmi-data-and-crude-oil-inventories-highlight-wednesdays-economic-calendar-93CH-4911432",
-    "title": "PMI data and crude oil inventories highlight Wednesday’s economic calendar",
-    "tokens": [
-      "calendar",
-      "crude",
-      "data",
-      "economic",
-      "highlight",
-      "inventories",
-      "oil",
-      "pmi",
-      "wednesday"
-    ],
-    "ts": 1790100874.7651715
-  },
-  {
-    "id": "ask-advisor-better-independent-advisor-110000428.html",
-    "title": "Ask an Advisor: Is an Independent Advisor or Large Firm Better for Managing My Money?",
-    "tokens": [
-      "advisor",
-      "ask",
-      "better",
-      "firm",
-      "independent",
-      "large",
-      "managing",
-      "money"
-    ],
-    "ts": 1790100881.5759938
-  },
-  {
-    "id": "novo-nordisk-stock-gets-drilled-on-pipeline-concerns--its-ceo-sees-a-main-problem-091933221.html",
-    "title": "Novo Nordisk stock gets drilled on pipeline concerns — its CEO sees a main problem",
-    "tokens": [
-      "ceo",
-      "concerns",
-      "drilled",
-      "gets",
-      "main",
-      "nordisk",
-      "novo",
-      "pipeline",
-      "problem",
-      "sees",
-      "stock"
-    ],
-    "ts": 1790100885.591548
-  },
-  {
     "id": "us-dollar-price-forecast-hawkish-081536540.html",
     "title": "US Dollar Price Forecast: Hawkish Fed Supports DXY as EUR and GBP Struggle",
     "tokens": [
@@ -23009,5 +22775,253 @@
       "tokenized"
     ],
     "ts": 1790252184.177377
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/mexican-economy-grows-08-in-july-from-june-4915309",
+    "title": "Mexican economy grows 0.8% in July from June",
+    "tokens": [
+      "economy",
+      "grows",
+      "july",
+      "june",
+      "mexican"
+    ],
+    "ts": 1790253402.8460069
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hcw-biologics-prices-15m-private-placement-offering-93CH-4915302",
+    "title": "HCW Biologics prices $1.5M private placement offering",
+    "tokens": [
+      "biologics",
+      "hcw",
+      "offering",
+      "placement",
+      "prices",
+      "private"
+    ],
+    "ts": 1790253409.9046638
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/hsbc-sees-plenty-of-road-for-recovery-for-dollar-general-4915301",
+    "title": "HSBC sees ‘plenty of road for recovery’ for Dollar General",
+    "tokens": [
+      "dollar",
+      "general",
+      "hsbc",
+      "plenty",
+      "recovery",
+      "road",
+      "sees"
+    ],
+    "ts": 1790253418.4546325
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-cuts-vail-resorts-stock-price-target-on-australia-challenges-93CH-4915299",
+    "title": "Stifel cuts Vail Resorts stock price target on Australia challenges",
+    "tokens": [
+      "australia",
+      "challenges",
+      "cuts",
+      "price",
+      "resorts",
+      "stifel",
+      "stock",
+      "target",
+      "vail"
+    ],
+    "ts": 1790253425.7125647
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-climbing-today-93CH-4915297",
+    "title": "Why is CoreWeave stock climbing today?",
+    "tokens": [
+      "climbing",
+      "coreweave",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790253429.7285912
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-atyr-pharma-stock-surging-today-93CH-4915296",
+    "title": "Why is aTyr Pharma stock surging today?",
+    "tokens": [
+      "atyr",
+      "pharma",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790253432.8352532
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/digital-brands-avo-unit-reports-221-revenue-growth-93CH-4915294",
+    "title": "Digital Brands’ AVO unit reports 221% revenue growth",
+    "tokens": [
+      "221",
+      "avo",
+      "brands",
+      "digital",
+      "growth",
+      "reports",
+      "revenue",
+      "unit"
+    ],
+    "ts": 1790253439.510071
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-cuts-paychex-stock-price-target-to-112-on-growth-concerns-93CH-4915293",
+    "title": "Stifel cuts Paychex stock price target to $112 on growth concerns",
+    "tokens": [
+      "112",
+      "concerns",
+      "cuts",
+      "growth",
+      "paychex",
+      "price",
+      "stifel",
+      "stock",
+      "target"
+    ],
+    "ts": 1790253446.6058414
+  },
+  {
+    "id": "strive-ceo-bitcoin-could-infinity-015100441.html",
+    "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+    "tokens": [
+      "bitcoin",
+      "breaks",
+      "ceo",
+      "could",
+      "crisis",
+      "debt",
+      "dollar",
+      "infinity",
+      "strive"
+    ],
+    "ts": 1790253454.2175565
+  },
+  {
+    "id": "little-known-ai-chip-stock-042916921.html",
+    "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+    "tokens": [
+      "chip",
+      "chips",
+      "double",
+      "doubled",
+      "known",
+      "little",
+      "now",
+      "optical",
+      "speed",
+      "stock"
+    ],
+    "ts": 1790253462.110077
+  },
+  {
+    "id": "may-mobilitys-spac-merger-road-015000118.html",
+    "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?",
+    "tokens": [
+      "investors",
+      "may",
+      "merger",
+      "mobility",
+      "nowhere",
+      "road",
+      "spac"
+    ],
+    "ts": 1790253470.2664382
+  },
+  {
+    "id": "sk-hynix-eyeing-intel-intc-043316388.html",
+    "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+    "tokens": [
+      "attention",
+      "eyeing",
+      "hynix",
+      "intc",
+      "intel",
+      "micron",
+      "ohio",
+      "pay",
+      "should",
+      "site",
+      "why"
+    ],
+    "ts": 1790253478.2442715
+  },
+  {
+    "id": "pat-gelsinger-just-backed-100-042433352.html",
+    "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+    "tokens": [
+      "100",
+      "amd",
+      "backed",
+      "benefit",
+      "challenge",
+      "could",
+      "gelsinger",
+      "just",
+      "million",
+      "moat",
+      "networking",
+      "nvidia",
+      "pat"
+    ],
+    "ts": 1790253486.232339
+  },
+  {
+    "id": "lumentum-jumped-nearly-10-while-041957023.html",
+    "title": "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?",
+    "tokens": [
+      "apart",
+      "barely",
+      "corning",
+      "jumped",
+      "lumentum",
+      "moved",
+      "nearly",
+      "optics",
+      "splitting",
+      "trade",
+      "while"
+    ],
+    "ts": 1790253494.1550632
+  },
+  {
+    "id": "1289c673-e199-4b41-b758-79bbfa37bc9b",
+    "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
+    "tokens": [
+      "150",
+      "becoming",
+      "betting",
+      "big",
+      "case",
+      "crypto",
+      "firm",
+      "investment",
+      "million",
+      "next",
+      "rockawayx",
+      "use",
+      "yield"
+    ],
+    "ts": 1790253502.2853897
+  },
+  {
+    "id": "73227280-58ba-49ef-9153-5a03644d1d9b",
+    "title": "EU's financial regulator to make AI and tokenization a supervisory priority in 2027",
+    "tokens": [
+      "2027",
+      "financial",
+      "make",
+      "priority",
+      "regulator",
+      "supervisory",
+      "tokenization"
+    ],
+    "ts": 1790253510.1766548
   }
 ]

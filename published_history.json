@@ -1,132 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/us-seeks-30-billion-for-air-traffic-control-upgrades-93CH-4911488",
-    "title": "US seeks $30 billion for air traffic control upgrades",
-    "tokens": [
-      "air",
-      "billion",
-      "control",
-      "seeks",
-      "traffic",
-      "upgrades"
-    ],
-    "ts": 1790105123.3492064
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/imf-aims-to-scale-back-economic-consultations-for-some-countries-bloomberg-news-reports-4911487",
-    "title": "IMF aims to scale back economic consultations for some countries, Bloomberg News reports",
-    "tokens": [
-      "aims",
-      "back",
-      "bloomberg",
-      "consultations",
-      "countries",
-      "economic",
-      "imf",
-      "news",
-      "reports",
-      "scale",
-      "some"
-    ],
-    "ts": 1790105127.445304
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trump-bought-and-sold-shares-in-musks-spacex-in-july-financial-disclosure-shows-4911482",
-    "title": "Trump bought and sold shares in Musk’s SpaceX in July, financial disclosure shows",
-    "tokens": [
-      "bought",
-      "disclosure",
-      "financial",
-      "july",
-      "musk",
-      "shares",
-      "shows",
-      "sold",
-      "spacex",
-      "trump"
-    ],
-    "ts": 1790105135.4385302
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/karat-packaging-stock-hits-alltime-high-at-5193-usd-93CH-4911481",
-    "title": "Karat Packaging stock hits all-time high at 51.93 USD",
-    "tokens": [
-      "all",
-      "high",
-      "hits",
-      "karat",
-      "packaging",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1790105143.7581758
-  },
-  {
-    "id": "https://seekingalpha.com/news/4645661-aurora-mobile-reports-1h-results?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Aurora Mobile reports 1H results",
-    "tokens": [
-      "aurora",
-      "mobile",
-      "reports",
-      "results"
-    ],
-    "ts": 1790105152.521853
-  },
-  {
-    "id": "https://seekingalpha.com/news/4645660-direxion-daily-sp-oil-gas-exp-prod-bear-2x-shares-declares-quarterly-distribution-of-02731?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares declares quarterly distribution of $0.2731",
-    "tokens": [
-      "2731",
-      "bear",
-      "daily",
-      "declares",
-      "direxion",
-      "distribution",
-      "exp",
-      "gas",
-      "oil",
-      "prod",
-      "quarterly",
-      "shares"
-    ],
-    "ts": 1790105161.6684387
-  },
-  {
-    "id": "https://seekingalpha.com/news/4645659-direxion-daily-regional-banks-bull-3x-shares-declares-quarterly-distribution-of-04100?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Direxion Daily Regional Banks Bull 3X Shares declares quarterly distribution of $0.4100",
-    "tokens": [
-      "4100",
-      "banks",
-      "bull",
-      "daily",
-      "declares",
-      "direxion",
-      "distribution",
-      "quarterly",
-      "regional",
-      "shares"
-    ],
-    "ts": 1790105169.7715282
-  },
-  {
-    "id": "https://seekingalpha.com/news/4645658-direxion-daily-aerospace-defense-bull-3x-shares-declares-quarterly-distribution-of-00118?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Direxion Daily Aerospace & Defense Bull 3X Shares declares quarterly distribution of $0.0118",
-    "tokens": [
-      "0118",
-      "aerospace",
-      "bull",
-      "daily",
-      "declares",
-      "defense",
-      "direxion",
-      "distribution",
-      "quarterly",
-      "shares"
-    ],
-    "ts": 1790105178.4963086
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/lantronix-nominates-defense-technology-executive-and-former-navy-seal-jason-lamb-to-board-of-directors-1036565389",
     "title": "Lantronix Nominates Defense Technology Executive and Former Navy SEAL Jason Lamb to Board of Directors",
     "tokens": [
@@ -23020,5 +22893,121 @@
       "solana"
     ],
     "ts": 1790255809.39255
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/nato-commander-says-us-to-provide-limited-support-as-europe-expands-role-4915525",
+    "title": "NATO commander says US to provide limited support as Europe expands role",
+    "tokens": [
+      "commander",
+      "europe",
+      "expands",
+      "limited",
+      "nato",
+      "provide",
+      "role",
+      "support"
+    ],
+    "ts": 1790256775.6773493
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/egypts-central-bank-holds-interest-rates-steady-93CH-4915520",
+    "title": "Egypt’s central bank holds interest rates steady",
+    "tokens": [
+      "bank",
+      "central",
+      "egypt",
+      "holds",
+      "interest",
+      "rates",
+      "steady"
+    ],
+    "ts": 1790256783.6626318
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tractor-supply-expands-support-to-over-1000-us-fairs-93CH-4915519",
+    "title": "Tractor Supply expands support to over 1,000 U.S. fairs",
+    "tokens": [
+      "000",
+      "expands",
+      "fairs",
+      "supply",
+      "support",
+      "tractor"
+    ],
+    "ts": 1790256791.6488187
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stitch-fix-stock-price-target-lowered-to-4-by-bernstein-on-consumer-headwinds-93CH-4915518",
+    "title": "Stitch Fix stock price target lowered to $4 by Bernstein on consumer headwinds",
+    "tokens": [
+      "bernstein",
+      "consumer",
+      "fix",
+      "headwinds",
+      "lowered",
+      "price",
+      "stitch",
+      "stock",
+      "target"
+    ],
+    "ts": 1790256799.3643892
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-krikri-lifts-h1-2026-sales-trims-profit-outlook-93CH-4915512",
+    "title": "Earnings call transcript: Kri-Kri lifts H1 2026 sales, trims profit outlook",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "kri",
+      "lifts",
+      "outlook",
+      "profit",
+      "sales",
+      "transcript",
+      "trims"
+    ],
+    "ts": 1790256807.529504
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/us-current-account-deficit-widens-sharply-in-second-quarter-4915511",
+    "title": "US current account deficit widens sharply in second quarter",
+    "tokens": [
+      "account",
+      "current",
+      "deficit",
+      "quarter",
+      "second",
+      "sharply",
+      "widens"
+    ],
+    "ts": 1790256814.831867
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/satellos-stock-jumps-after-fda-clears-fshd-trial-for-forazapadin-4915509",
+    "title": "Satellos stock jumps after FDA clears FSHD trial for forazapadin",
+    "tokens": [
+      "clears",
+      "fda",
+      "forazapadin",
+      "fshd",
+      "jumps",
+      "satellos",
+      "stock",
+      "trial"
+    ],
+    "ts": 1790256822.2766533
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-oracle-stock-sliding-today-93CH-4915499",
+    "title": "Why is Oracle stock sliding today?",
+    "tokens": [
+      "oracle",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790256826.2886667
   }
 ]

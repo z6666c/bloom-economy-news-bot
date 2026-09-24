@@ -1,145 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/live-oak-acquisition-corp-vi-prices-200m-ipo-on-nasdaq-432SI-4911784",
-    "title": "Live Oak Acquisition Corp. VI prices $200M IPO on Nasdaq",
-    "tokens": [
-      "200m",
-      "acquisition",
-      "corp",
-      "ipo",
-      "live",
-      "nasdaq",
-      "oak",
-      "prices"
-    ],
-    "ts": 1790118607.7775848
-  },
-  {
-    "id": "verisign-stock-underperforming-dow-145907668.html",
-    "title": "Is VeriSign Stock Underperforming the Dow?",
-    "tokens": [
-      "dow",
-      "stock",
-      "underperforming",
-      "verisign"
-    ],
-    "ts": 1790118615.5019484
-  },
-  {
-    "id": "did-jim-cramer-just-gamestop-144914863.html",
-    "title": "Did Jim Cramer Just Give GameStop Stock the Kiss of Death When He Said the Turnaround Is Working?",
-    "tokens": [
-      "cramer",
-      "death",
-      "did",
-      "gamestop",
-      "give",
-      "jim",
-      "just",
-      "kiss",
-      "stock",
-      "turnaround",
-      "when",
-      "working"
-    ],
-    "ts": 1790118622.862645
-  },
-  {
-    "id": "oilprice-article-45580",
-    "title": "Trump Proposes $5 Billion Fund to Rebuild Gulf Energy Infrastructure",
-    "tokens": [
-      "billion",
-      "energy",
-      "fund",
-      "gulf",
-      "infrastructure",
-      "proposes",
-      "rebuild",
-      "trump"
-    ],
-    "ts": 1790118627.4033935
-  },
-  {
-    "id": "oilprice-news-45580",
-    "title": "US Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold",
-    "tokens": [
-      "continue",
-      "crude",
-      "distillate",
-      "fall",
-      "gasoline",
-      "hold",
-      "inventories",
-      "stocks"
-    ],
-    "ts": 1790118627.4149747
-  },
-  {
-    "id": "cipher-digital-just-scored-huge-151220507.html",
-    "title": "Cipher Digital Just Scored a Huge AI Infrastructure Breakthrough. What It Will Take for the Stock to Reclaim $30.",
-    "tokens": [
-      "breakthrough",
-      "cipher",
-      "digital",
-      "huge",
-      "infrastructure",
-      "just",
-      "reclaim",
-      "scored",
-      "stock",
-      "take",
-      "what"
-    ],
-    "ts": 1790119442.297601
-  },
-  {
-    "id": "corteva-ctva-bets-belgian-partner-183747198.html",
-    "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act – Corrected",
-    "tokens": [
-      "act",
-      "belgian",
-      "bets",
-      "corrected",
-      "corteva",
-      "crop",
-      "ctva",
-      "next",
-      "partner",
-      "protection"
-    ],
-    "ts": 1790119450.4351025
-  },
-  {
-    "id": "stocks-bonds-climb-slumping-crude-151325897.html",
-    "title": "Stocks and Bonds Climb as Slumping Crude Prices Ease Inflation Risks",
-    "tokens": [
-      "bonds",
-      "climb",
-      "crude",
-      "ease",
-      "inflation",
-      "prices",
-      "risks",
-      "slumping",
-      "stocks"
-    ],
-    "ts": 1790119457.855944
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/western-new-england-bancorp-svp-sells-47498-in-stock-93CH-4911850",
-    "title": "Western New England Bancorp SVP sells $47,498 in stock",
-    "tokens": [
-      "498",
-      "bancorp",
-      "england",
-      "sells",
-      "stock",
-      "svp",
-      "western"
-    ],
-    "ts": 1790120293.6901731
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/uk-employers-pay-awards-cool-to-3-brightmine-data-shows-4911840",
     "title": "UK employers’ pay awards cool to 3%, Brightmine data shows",
     "tokens": [
@@ -23021,5 +22881,139 @@
       "treasury"
     ],
     "ts": 1790270845.4770663
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/repsol-warns-90-of-crude-supplies-may-not-meet-eu-methane-rules-4915971",
+    "title": "Repsol warns 90% of crude supplies may not meet EU methane rules",
+    "tokens": [
+      "crude",
+      "may",
+      "meet",
+      "methane",
+      "repsol",
+      "rules",
+      "supplies",
+      "warns"
+    ],
+    "ts": 1790271578.3224478
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/clorox-stock-hits-52week-low-at-8247-usd-93CH-4915969",
+    "title": "Clorox stock hits 52-week low at 82.47 USD",
+    "tokens": [
+      "clorox",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790271582.3350434
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sp-downgrades-paramount-skydance-rating-on-higher-leverage-93CH-4915967",
+    "title": "S&P downgrades Paramount Skydance rating on higher leverage",
+    "tokens": [
+      "downgrades",
+      "higher",
+      "leverage",
+      "paramount",
+      "rating",
+      "skydance"
+    ],
+    "ts": 1790271586.3687255
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/moomoo-sees-50-jump-in-crypto-buyers-as-retail-demand-broadens-4915966",
+    "title": "moomoo sees 50% jump in crypto buyers as retail demand broadens",
+    "tokens": [
+      "broadens",
+      "buyers",
+      "crypto",
+      "demand",
+      "jump",
+      "moomoo",
+      "retail",
+      "sees"
+    ],
+    "ts": 1790271593.6039412
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/rambus-director-charles-kissner-sells-525000-in-company-stock-93CH-4915965",
+    "title": "Rambus director Charles Kissner sells $525,000 in company stock",
+    "tokens": [
+      "000",
+      "525",
+      "charles",
+      "company",
+      "director",
+      "kissner",
+      "rambus",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790271600.960071
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/koil-energy-director-neal-goldman-sells-31250-of-klng-shares-93CH-4915964",
+    "title": "Koil Energy director Neal Goldman sells $31,250 of KLNG shares",
+    "tokens": [
+      "250",
+      "director",
+      "energy",
+      "goldman",
+      "klng",
+      "koil",
+      "neal",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790271608.6176062
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/renault-to-invest-600-million-in-spanish-plants-by-2030-93CH-4915963",
+    "title": "Renault to invest €600 million in Spanish plants by 2030",
+    "tokens": [
+      "2030",
+      "600",
+      "invest",
+      "million",
+      "plants",
+      "renault",
+      "spanish"
+    ],
+    "ts": 1790271616.6919153
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/merger-arbitrage-opportunities-four-active-deal-spreads-compared-93CH-4915961",
+    "title": "Merger arbitrage opportunities: four active deal spreads compared",
+    "tokens": [
+      "active",
+      "arbitrage",
+      "compared",
+      "deal",
+      "four",
+      "merger",
+      "opportunities",
+      "spreads"
+    ],
+    "ts": 1790271625.7848709
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/credit-rating-trades-owning-the-agencies-fortress-balance-sheets-and-renaults-upgrade-93CH-4915960",
+    "title": "Credit rating trades: owning the agencies, fortress balance sheets, and Renault’s upgrade",
+    "tokens": [
+      "agencies",
+      "balance",
+      "credit",
+      "fortress",
+      "owning",
+      "rating",
+      "renault",
+      "sheets",
+      "trades",
+      "upgrade"
+    ],
+    "ts": 1790271633.4941707
   }
 ]

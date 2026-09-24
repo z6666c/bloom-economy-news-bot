@@ -1,33 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/pep-stock-is-its-cheap-valuation-enough-to-justify-a-buy-93CH-4910391",
-    "title": "PEP stock: Is its cheap valuation enough to justify a buy?",
-    "tokens": [
-      "buy",
-      "cheap",
-      "enough",
-      "justify",
-      "pep",
-      "stock",
-      "valuation"
-    ],
-    "ts": 1790075556.1018977
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pentair-names-bob-hau-as-cfo-effective-november-1-93CH-4910390",
-    "title": "Pentair names Bob Hau as CFO effective November 1",
-    "tokens": [
-      "bob",
-      "cfo",
-      "effective",
-      "hau",
-      "names",
-      "november",
-      "pentair"
-    ],
-    "ts": 1790075563.7761908
-  },
-  {
     "id": "https://www.investing.com/news/company-news/endeavour-silver-suspends-ball-mill-at-guanacevi-mine-93CH-4910389",
     "title": "Endeavour Silver suspends ball mill at Guanacevi mine",
     "tokens": [
@@ -23009,5 +22981,37 @@
       "weighs"
     ],
     "ts": 1790226790.0365376
+  },
+  {
+    "id": "redwire-vs-rocket-lab-space-171935452.html",
+    "title": "Redwire vs. Rocket Lab: Which Space Stock Is a Better Buy in 2026?",
+    "tokens": [
+      "2026",
+      "better",
+      "buy",
+      "lab",
+      "redwire",
+      "rocket",
+      "space",
+      "stock",
+      "which"
+    ],
+    "ts": 1790227668.6034417
+  },
+  {
+    "id": "75cca234-cd05-43ed-8b60-f13bc7d2205a",
+    "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
+    "tokens": [
+      "320",
+      "bitcoin",
+      "coding",
+      "cut",
+      "estimate",
+      "quantum",
+      "safe",
+      "transaction",
+      "week"
+    ],
+    "ts": 1790227677.8885343
   }
 ]

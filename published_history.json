@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/judges-scientific-cfo-brad-ormsby-to-step-down-in-2027-93CH-4912104",
-    "title": "Judges Scientific CFO Brad Ormsby to step down in 2027",
-    "tokens": [
-      "2027",
-      "brad",
-      "cfo",
-      "judges",
-      "ormsby",
-      "scientific",
-      "step"
-    ],
-    "ts": 1790145441.7470987
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/sri-lanka-economy-resilient-but-risks-remain-tilted-to-downside-imf-says-4912103",
     "title": "Sri Lanka economy resilient but risks remain tilted to downside, IMF says",
     "tokens": [
@@ -23041,5 +23027,20 @@
       "stablecoins"
     ],
     "ts": 1790289676.6800702
+  },
+  {
+    "id": "3104e571-2648-4823-bc35-4911ef0d6643",
+    "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+    "tokens": [
+      "alleging",
+      "gambling",
+      "illegal",
+      "operation",
+      "polymarket",
+      "running",
+      "sues",
+      "york"
+    ],
+    "ts": 1790290374.4771957
   }
 ]

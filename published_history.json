@@ -1,280 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005236158",
-    "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-    "tokens": [
-      "000",
-      "125",
-      "affect",
-      "bankruptcy",
-      "card",
-      "credit",
-      "debt",
-      "disability",
-      "including",
-      "income",
-      "month"
-    ],
-    "ts": 1790097072.5892134
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/celtic-reports-48m-loss-as-revenue-drops-227-in-202526-93CH-4911361",
-    "title": "Celtic reports £4.8m loss as revenue drops 22.7% in 2025/26",
-    "tokens": [
-      "2025",
-      "celtic",
-      "drops",
-      "loss",
-      "reports",
-      "revenue"
-    ],
-    "ts": 1790097080.3623374
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anaptysbio-earnings-analysis-questions-answered-and-next-catalysts-93CH-4911360",
-    "title": "AnaptysBio earnings analysis: questions answered and next catalysts",
-    "tokens": [
-      "analysis",
-      "anaptysbio",
-      "answered",
-      "catalysts",
-      "earnings",
-      "next",
-      "questions"
-    ],
-    "ts": 1790097087.4131384
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/feds-barkin-says-us-economy-firming-but-inflation-risks-persist-4911359",
-    "title": "Fed’s Barkin says US economy firming but inflation risks persist",
-    "tokens": [
-      "barkin",
-      "economy",
-      "fed",
-      "firming",
-      "inflation",
-      "persist",
-      "risks"
-    ],
-    "ts": 1790097095.2238636
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/top-cyber-stocks-gain-as-ai-safety-concerns-drive-security-demand-93CH-4911358",
-    "title": "Top Cyber Stocks as AI Safety Concerns Drive Security Demand",
-    "tokens": [
-      "concerns",
-      "cyber",
-      "demand",
-      "drive",
-      "safety",
-      "security",
-      "stocks",
-      "top"
-    ],
-    "ts": 1790097103.1005993
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/jothy-rosenberg-seeks-strategic-partner-for-dover-microsystems-17patent-hardware-cybersecurity-technology-4911357",
-    "title": "Jothy Rosenberg Seeks Strategic Partner for Dover Microsystems’ 17-Patent Hardware Cybersecurity Technology",
-    "tokens": [
-      "cybersecurity",
-      "dover",
-      "hardware",
-      "jothy",
-      "microsystems",
-      "partner",
-      "patent",
-      "rosenberg",
-      "seeks",
-      "strategic",
-      "technology"
-    ],
-    "ts": 1790097111.307368
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anthropic-unveils-cheaper-faster-claude-opus-55-model-as-ai-race-accelerates-4911355",
-    "title": "Anthropic unveils cheaper, faster Claude Opus 5.5 model as AI race accelerates",
-    "tokens": [
-      "accelerates",
-      "anthropic",
-      "cheaper",
-      "claude",
-      "faster",
-      "model",
-      "opus",
-      "race",
-      "unveils"
-    ],
-    "ts": 1790097119.4984999
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/defence-holdings-annual-meeting-approves-all-resolutions-93CH-4911356",
-    "title": "Defence Holdings annual meeting approves all resolutions",
-    "tokens": [
-      "all",
-      "annual",
-      "approves",
-      "defence",
-      "holdings",
-      "meeting",
-      "resolutions"
-    ],
-    "ts": 1790097127.2941506
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/feds-barkin-says-economy-may-be-firming-inflation-not-limited-to-energy-tariff-shocks-4911347",
-    "title": "Fed’s Barkin says economy may be firming, inflation not limited to energy, tariff shocks",
-    "tokens": [
-      "barkin",
-      "economy",
-      "energy",
-      "fed",
-      "firming",
-      "inflation",
-      "limited",
-      "may",
-      "shocks",
-      "tariff"
-    ],
-    "ts": 1790097137.50392
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/transportation-chief-seeks-30-billion-for-air-control-upgrades-93CH-4911352",
-    "title": "Transportation chief seeks $30 billion for air control upgrades",
-    "tokens": [
-      "air",
-      "billion",
-      "chief",
-      "control",
-      "seeks",
-      "transportation",
-      "upgrades"
-    ],
-    "ts": 1790097144.3057637
-  },
-  {
-    "id": "credit-score-needed-for-balance-transfer-card-165714139.html",
-    "title": "What credit score do you need for a balance transfer credit card?",
-    "tokens": [
-      "balance",
-      "card",
-      "credit",
-      "need",
-      "score",
-      "transfer",
-      "what",
-      "you"
-    ],
-    "ts": 1790097153.132777
-  },
-  {
-    "id": "think-buying-car-cash-flex-165500324.html",
-    "title": "Think buying a car in cash is a flex? Why millions of boomers are quietly wasting thousands in savings",
-    "tokens": [
-      "boomers",
-      "buying",
-      "car",
-      "cash",
-      "flex",
-      "millions",
-      "quietly",
-      "savings",
-      "think",
-      "thousands",
-      "wasting",
-      "why"
-    ],
-    "ts": 1790097160.112045
-  },
-  {
-    "id": "feds-barkin-says-economy-may-165255863.html",
-    "title": "Fed's Barkin says economy may be firming, inflation not limited to energy, tariff shocks",
-    "tokens": [
-      "barkin",
-      "economy",
-      "energy",
-      "fed",
-      "firming",
-      "inflation",
-      "limited",
-      "may",
-      "shocks",
-      "tariff"
-    ],
-    "ts": 1790097164.1289923
-  },
-  {
-    "id": "cme-group-launch-bitcoin-cash-165200159.html",
-    "title": "CME Group to Launch Bitcoin Cash and Uniswap Futures",
-    "tokens": [
-      "bitcoin",
-      "cash",
-      "cme",
-      "futures",
-      "group",
-      "launch",
-      "uniswap"
-    ],
-    "ts": 1790097167.2553992
-  },
-  {
-    "id": "millerknoll-inc-q1-2027-earnings-165135862.html",
-    "title": "MillerKnoll, Inc. Q1 2027 Earnings Call Summary",
-    "tokens": [
-      "2027",
-      "call",
-      "earnings",
-      "inc",
-      "millerknoll",
-      "summary"
-    ],
-    "ts": 1790097174.2354786
-  },
-  {
-    "id": "coinbase-allow-u-retail-investors-165100177.html",
-    "title": "Coinbase to Allow U.S. Retail Investors Buy IPO Shares",
-    "tokens": [
-      "allow",
-      "buy",
-      "coinbase",
-      "investors",
-      "ipo",
-      "retail",
-      "shares"
-    ],
-    "ts": 1790097181.4868472
-  },
-  {
-    "id": "mcdonalds-has-1-shot-to-turn-around-its-dreadful-year-164554149.html",
-    "title": "McDonald's has 1 shot to turn around its dreadful year",
-    "tokens": [
-      "around",
-      "dreadful",
-      "mcdonald",
-      "shot",
-      "turn",
-      "year"
-    ],
-    "ts": 1790097188.6198204
-  },
-  {
-    "id": "why-gabelli-global-growth-fund-141047976.html",
-    "title": "Why Gabelli Global Growth Fund Added Advanced Micro Devices (AMD) in Q2",
-    "tokens": [
-      "added",
-      "advanced",
-      "amd",
-      "devices",
-      "fund",
-      "gabelli",
-      "global",
-      "growth",
-      "micro",
-      "why"
-    ],
-    "ts": 1790097195.499154
-  },
-  {
     "id": "oilprice-article-45573",
     "title": "Beijing Tightens Rare Earth Flow Ahead Of Washington Summit With Trump",
     "tokens": [
@@ -22978,5 +22703,280 @@
       "pure"
     ],
     "ts": 1790250218.504221
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-atresmedia-stock-surging-today-93CH-4915195",
+    "title": "Why is Atresmedia stock surging today?",
+    "tokens": [
+      "atresmedia",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790250854.403636
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/toyota-motor-credit-lists-750m-notes-on-london-exchange-93CH-4915192",
+    "title": "Toyota Motor Credit lists €750m notes on London exchange",
+    "tokens": [
+      "750m",
+      "credit",
+      "exchange",
+      "lists",
+      "london",
+      "motor",
+      "notes",
+      "toyota"
+    ],
+    "ts": 1790250857.566407
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-aclaris-stock-rating-on-lp-opportunity-93CH-4915191",
+    "title": "Cantor Fitzgerald reiterates Aclaris stock rating on LP opportunity",
+    "tokens": [
+      "aclaris",
+      "cantor",
+      "fitzgerald",
+      "opportunity",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1790250864.8834398
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-roivant-sciences-stock-rating-93CH-4915189",
+    "title": "Cantor Fitzgerald reiterates Roivant Sciences stock rating",
+    "tokens": [
+      "cantor",
+      "fitzgerald",
+      "rating",
+      "reiterates",
+      "roivant",
+      "sciences",
+      "stock"
+    ],
+    "ts": 1790250872.5497482
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/fervo-energy-stock-rises-after-cape-station-achieves-first-power-93CH-4915187",
+    "title": "Fervo Energy stock rises after Cape Station achieves first power",
+    "tokens": [
+      "achieves",
+      "cape",
+      "energy",
+      "fervo",
+      "first",
+      "power",
+      "rises",
+      "station",
+      "stock"
+    ],
+    "ts": 1790250876.5664392
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/qualcomm-apple-extend-licensing-agreement-for-chips-4915186",
+    "title": "Qualcomm, Apple extend licensing agreement for chips",
+    "tokens": [
+      "agreement",
+      "apple",
+      "chips",
+      "extend",
+      "licensing",
+      "qualcomm"
+    ],
+    "ts": 1790250880.8556101
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-dropbox-stock-sliding-today-93CH-4915185",
+    "title": "Why is Dropbox stock sliding today?",
+    "tokens": [
+      "dropbox",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790250884.8711972
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-uxin-stock-surging-today-93CH-4915173",
+    "title": "Why is Uxin stock surging today?",
+    "tokens": [
+      "stock",
+      "surging",
+      "today",
+      "uxin",
+      "why"
+    ],
+    "ts": 1790250884.8861911
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/wall-street-sees-muse-as-metas-next-big-catalyst-after-connect-event-4915180",
+    "title": "Wall Street sees Muse as Meta’s next big catalyst after Connect event",
+    "tokens": [
+      "big",
+      "catalyst",
+      "connect",
+      "event",
+      "meta",
+      "muse",
+      "next",
+      "sees",
+      "street",
+      "wall"
+    ],
+    "ts": 1790250888.5882668
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/guinness-vct-approves-share-buyback-director-reelections-93CH-4915176",
+    "title": "Guinness VCT approves share buyback, director re-elections",
+    "tokens": [
+      "approves",
+      "buyback",
+      "director",
+      "elections",
+      "guinness",
+      "share",
+      "vct"
+    ],
+    "ts": 1790250895.2893186
+  },
+  {
+    "id": "equity-lifestyle-els-slides-near-235135116.html",
+    "title": "Equity LifeStyle (ELS) Slides Near 52-Week Lows: Can Core Rental Stability Offset Higher Rates?",
+    "tokens": [
+      "can",
+      "core",
+      "els",
+      "equity",
+      "higher",
+      "lifestyle",
+      "lows",
+      "near",
+      "offset",
+      "rates",
+      "rental",
+      "slides",
+      "stability",
+      "week"
+    ],
+    "ts": 1790250904.106117
+  },
+  {
+    "id": "longeveron-lgvn-heart-treatment-falls-235437648.html",
+    "title": "Longeveron (LGVN) Heart Treatment Falls Short. Can a Strategic Review Preserve Value?",
+    "tokens": [
+      "can",
+      "falls",
+      "heart",
+      "lgvn",
+      "longeveron",
+      "preserve",
+      "review",
+      "short",
+      "strategic",
+      "treatment",
+      "value"
+    ],
+    "ts": 1790250911.2398577
+  },
+  {
+    "id": "asml-vs-intel-ai-chip-235501657.html",
+    "title": "ASML vs. Intel: Which AI Chip Stock Is a Better Buy in 2026?",
+    "tokens": [
+      "2026",
+      "asml",
+      "better",
+      "buy",
+      "chip",
+      "intel",
+      "stock",
+      "which"
+    ],
+    "ts": 1790250919.0291014
+  },
+  {
+    "id": "lisata-therapeutics-lsta-buys-marea-000837054.html",
+    "title": "Lisata Therapeutics (LSTA) Buys Marea and Signs $225M Financing. Is the Dilution Worth it?",
+    "tokens": [
+      "225m",
+      "buys",
+      "dilution",
+      "financing",
+      "lisata",
+      "lsta",
+      "marea",
+      "signs",
+      "therapeutics",
+      "worth"
+    ],
+    "ts": 1790250927.5651183
+  },
+  {
+    "id": "hudson-technologies-hdsn-signs-icorium-010854703.html",
+    "title": "Hudson Technologies (HDSN) Signs Icorium Deal. Can Better Refrigerant Recycling Lift Margins?",
+    "tokens": [
+      "better",
+      "can",
+      "deal",
+      "hdsn",
+      "hudson",
+      "icorium",
+      "lift",
+      "margins",
+      "recycling",
+      "refrigerant",
+      "signs",
+      "technologies"
+    ],
+    "ts": 1790250935.2113256
+  },
+  {
+    "id": "interparfums-ipar-extends-cavalli-fragrance-011630256.html",
+    "title": "Interparfums (IPAR) Extends Cavalli Fragrance Deal Through 2046. Can it Boost Profits?",
+    "tokens": [
+      "2046",
+      "boost",
+      "can",
+      "cavalli",
+      "deal",
+      "extends",
+      "fragrance",
+      "interparfums",
+      "ipar",
+      "profits",
+      "through"
+    ],
+    "ts": 1790250942.7168965
+  },
+  {
+    "id": "nasdaq-record-meta-muse-inflation-fed-b394ab3e?siteid=yhoof2&yptr=yahoo",
+    "title": "Review & Preview: Musing Over AI",
+    "tokens": [
+      "musing",
+      "preview",
+      "review"
+    ],
+    "ts": 1790250950.1374488
+  },
+  {
+    "id": "atlanticus-holdings-atlc-sells-auto-005703318.html",
+    "title": "Atlanticus Holdings (ATLC) Sells Auto Finance Unit. Can it Replace Lost Earnings?",
+    "tokens": [
+      "atlanticus",
+      "atlc",
+      "auto",
+      "can",
+      "earnings",
+      "finance",
+      "holdings",
+      "lost",
+      "replace",
+      "sells",
+      "unit"
+    ],
+    "ts": 1790250957.2482116
   }
 ]

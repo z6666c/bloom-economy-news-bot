@@ -1,125 +1,5 @@
 [
   {
-    "id": "oilprice-news-45579",
-    "title": "US Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold",
-    "tokens": [
-      "continue",
-      "crude",
-      "distillate",
-      "fall",
-      "gasoline",
-      "hold",
-      "inventories",
-      "stocks"
-    ],
-    "ts": 1790115046.179386
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-kb-home-beats-q3-2026-eps-forecast-shares-slip-after-hours-93CH-4911774",
-    "title": "Earnings call transcript: KB Home beats Q3 2026 EPS forecast, shares slip after hours",
-    "tokens": [
-      "2026",
-      "beats",
-      "call",
-      "earnings",
-      "eps",
-      "forecast",
-      "home",
-      "hours",
-      "shares",
-      "slip",
-      "transcript"
-    ],
-    "ts": 1790115924.630844
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/trustbix-gets-extension-for-private-placement-until-oct-22-93CH-4911773",
-    "title": "TrustBIX gets extension for private placement until Oct. 22",
-    "tokens": [
-      "extension",
-      "gets",
-      "oct",
-      "placement",
-      "private",
-      "trustbix",
-      "until"
-    ],
-    "ts": 1790115931.7101479
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/boeing-wins-334-million-air-force-avionics-contract-93CH-4911760",
-    "title": "Boeing wins $33.4 million Air Force avionics contract",
-    "tokens": [
-      "air",
-      "avionics",
-      "boeing",
-      "contract",
-      "force",
-      "million",
-      "wins"
-    ],
-    "ts": 1790115939.2188606
-  },
-  {
-    "id": "sec-gives-nod-nocturnal-traders-141252657.html",
-    "title": "SEC Gives a Nod to Nocturnal Traders",
-    "tokens": [
-      "gives",
-      "nocturnal",
-      "nod",
-      "sec",
-      "traders"
-    ],
-    "ts": 1790115946.6592195
-  },
-  {
-    "id": "stocks-supported-lower-crude-prices-140825214.html",
-    "title": "Stocks Supported by Lower Crude Prices and Bond Yields",
-    "tokens": [
-      "bond",
-      "crude",
-      "lower",
-      "prices",
-      "stocks",
-      "supported",
-      "yields"
-    ],
-    "ts": 1790115954.1014144
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/chief-global-commercialization-officer-mancini-sells-347402-of-rvmd-stock-93CH-4911792",
-    "title": "Chief global commercialization officer Mancini sells $347,402 of RVMD stock",
-    "tokens": [
-      "347",
-      "402",
-      "chief",
-      "commercialization",
-      "global",
-      "mancini",
-      "officer",
-      "rvmd",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790116752.2940366
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/globalstar-general-counsel-ponder-sells-140363-in-company-shares-93CH-4911791",
-    "title": "Globalstar general counsel ponder sells $140,363 in company shares",
-    "tokens": [
-      "140",
-      "363",
-      "company",
-      "counsel",
-      "general",
-      "globalstar",
-      "ponder",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790116760.0254614
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/strategy-inc-director-jarrod-patten-sells-238k-in-shares-93CH-4911790",
     "title": "Strategy Inc director Jarrod Patten sells $238k in shares",
     "tokens": [
@@ -23029,5 +22909,123 @@
       "spread"
     ],
     "ts": 1790267470.7267184
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/analysisa-diplomatic-split-screen-as-trump-and-xi-meet-4914435",
+    "title": "Analysis-Trump-Xi meeting outside UN spotlight tests world body’s clout",
+    "tokens": [
+      "analysis",
+      "body",
+      "clout",
+      "meeting",
+      "outside",
+      "spotlight",
+      "tests",
+      "trump",
+      "world"
+    ],
+    "ts": 1790269799.9643505
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/equipmentshare-stock-falls-6-after-short-seller-report-4915898",
+    "title": "EquipmentShare stock falls 6% after short seller report",
+    "tokens": [
+      "equipmentshare",
+      "falls",
+      "report",
+      "seller",
+      "short",
+      "stock"
+    ],
+    "ts": 1790269807.1111388
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-solaria-posts-record-h1-2026-results-as-stock-falls-65-93CH-4915899",
+    "title": "Earnings call transcript: Solaria posts record H1 2026 results as stock falls 6.5%",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "falls",
+      "posts",
+      "record",
+      "results",
+      "solaria",
+      "stock",
+      "transcript"
+    ],
+    "ts": 1790269816.4657135
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-whitecap-resources-stock-rallying-today-93CH-4915896",
+    "title": "Why is Whitecap Resources stock rallying today?",
+    "tokens": [
+      "rallying",
+      "resources",
+      "stock",
+      "today",
+      "whitecap",
+      "why"
+    ],
+    "ts": 1790269824.4948058
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/proto-labs-stock-hits-52week-high-at-9325-usd-93CH-4915892",
+    "title": "Proto Labs stock hits 52-week high at 93.25 USD",
+    "tokens": [
+      "high",
+      "hits",
+      "labs",
+      "proto",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790269833.588007
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/aktor-h1-2026-slides-950mn-raise-funds-infrastructure-expansion-93CH-4915891",
+    "title": "AKTOR H1 2026 slides: €950mn raise funds infrastructure expansion",
+    "tokens": [
+      "2026",
+      "950mn",
+      "aktor",
+      "expansion",
+      "funds",
+      "infrastructure",
+      "raise",
+      "slides"
+    ],
+    "ts": 1790269842.1284413
+  },
+  {
+    "id": "oilprice-article-45598",
+    "title": "Iran Warns U.S. Strikes Could Push War Into Indian Ocean",
+    "tokens": [
+      "could",
+      "indian",
+      "iran",
+      "ocean",
+      "push",
+      "strikes",
+      "war",
+      "warns"
+    ],
+    "ts": 1790269851.0500937
+  },
+  {
+    "id": "oilprice-news-45598",
+    "title": "Russia Begins Oil Exports From Its Giant Vostok Arctic Project",
+    "tokens": [
+      "arctic",
+      "begins",
+      "exports",
+      "giant",
+      "oil",
+      "project",
+      "russia",
+      "vostok"
+    ],
+    "ts": 1790269859.4973197
   }
 ]

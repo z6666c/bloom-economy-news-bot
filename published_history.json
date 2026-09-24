@@ -1,164 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/australias-idp-shares-drop-after-rejecting-494-mln-blackstone-offer-4912044",
-    "title": "Australia’s IDP shares drop after rejecting $494 mln Blackstone offer",
-    "tokens": [
-      "494",
-      "australia",
-      "blackstone",
-      "drop",
-      "idp",
-      "mln",
-      "offer",
-      "rejecting",
-      "shares"
-    ],
-    "ts": 1790134079.0393248
-  },
-  {
-    "id": "?src=A00220&yptr=yahoo",
-    "title": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
-    "tokens": [
-      "critical",
-      "deal",
-      "earth",
-      "fuels",
-      "greenland",
-      "hinge",
-      "metals",
-      "rare",
-      "stocks",
-      "trump"
-    ],
-    "ts": 1790134088.3398433
-  },
-  {
-    "id": "loews-stock-underperforming-nasdaq-155629158.html",
-    "title": "Is Loews Stock Underperforming the Nasdaq?",
-    "tokens": [
-      "loews",
-      "nasdaq",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1790134994.084871
-  },
-  {
-    "id": "practice-caution-hot-stock-493-155003136.html",
-    "title": "Practice Caution with This Hot Stock Up 493% in the Past Year",
-    "tokens": [
-      "493",
-      "caution",
-      "hot",
-      "past",
-      "practice",
-      "stock",
-      "year"
-    ],
-    "ts": 1790134998.040833
-  },
-  {
-    "id": "alphabet-pushes-deeper-voice-ai-160354581.html",
-    "title": "Alphabet Pushes Deeper Into Voice AI With New Gemini Models",
-    "tokens": [
-      "alphabet",
-      "deeper",
-      "gemini",
-      "models",
-      "pushes",
-      "voice"
-    ],
-    "ts": 1790135006.444085
-  },
-  {
-    "id": "northern-trust-stock-ntrs-outperforming-160739477.html",
-    "title": "Northern Trust Stock: Is NTRS Outperforming the Financial Sector?",
-    "tokens": [
-      "financial",
-      "northern",
-      "ntrs",
-      "outperforming",
-      "sector",
-      "stock",
-      "trust"
-    ],
-    "ts": 1790135013.7398696
-  },
-  {
-    "id": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks",
-    "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
-    "tokens": [
-      "anthropic",
-      "brief",
-      "council",
-      "openai",
-      "reports",
-      "risks",
-      "security"
-    ],
-    "ts": 1790135023.0754485
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/chinese-beauty-product-exporters-are-sitting-pretty-despite-us-trade-dispute-4912049",
-    "title": "Chinese beauty product exporters are sitting pretty despite US trade dispute",
-    "tokens": [
-      "beauty",
-      "chinese",
-      "despite",
-      "dispute",
-      "exporters",
-      "pretty",
-      "product",
-      "sitting",
-      "trade"
-    ],
-    "ts": 1790135737.3186324
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/china-vanke-shares-surge-on-report-of-regulatory-debt-intervention-4912048",
-    "title": "China Vanke shares surge on report of regulatory debt intervention",
-    "tokens": [
-      "china",
-      "debt",
-      "intervention",
-      "regulatory",
-      "report",
-      "shares",
-      "surge",
-      "vanke"
-    ],
-    "ts": 1790135745.0721993
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/gift-nifty-50-tests-23511-resistance-in-bear-flag-live-levels-93CH-4908246",
-    "title": "Gift Nifty 50 bear flag 80% complete near 23,270: Live levels",
-    "tokens": [
-      "270",
-      "bear",
-      "complete",
-      "flag",
-      "gift",
-      "levels",
-      "live",
-      "near",
-      "nifty"
-    ],
-    "ts": 1790136705.404554
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-china-vanke-stock-surging-today-93CH-4912054",
-    "title": "Why is China Vanke stock surging today?",
-    "tokens": [
-      "china",
-      "stock",
-      "surging",
-      "today",
-      "vanke",
-      "why"
-    ],
-    "ts": 1790136709.417263
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/guggenheim-names-top-stock-pick-in-biotech-sector-93CH-4912053",
     "title": "Guggenheim Names Top Stock Pick in Biotech Sector",
     "tokens": [
@@ -23043,5 +22884,165 @@
       "traders"
     ],
     "ts": 1790281857.8162715
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trump-and-xi-agreed-to-support-each-other-in-hosting-apec-g20-summitsxinhua-reports-4916211",
+    "title": "Trump and Xi agreed to support each other in hosting APEC, G20 summits, Xinhua reports",
+    "tokens": [
+      "agreed",
+      "apec",
+      "each",
+      "g20",
+      "hosting",
+      "other",
+      "reports",
+      "summits",
+      "support",
+      "trump",
+      "xinhua"
+    ],
+    "ts": 1790282726.5567288
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/tmx-group-at-cibc-conference-growth-plan-leans-on-deals-and-data-93CH-4916210",
+    "title": "TMX Group at CIBC conference: growth plan leans on deals and data",
+    "tokens": [
+      "cibc",
+      "conference",
+      "data",
+      "deals",
+      "group",
+      "growth",
+      "leans",
+      "plan",
+      "tmx"
+    ],
+    "ts": 1790282733.6992407
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/select-water-to-acquire-pilot-water-for-700-million-in-cash-and-stock-93CH-4916209",
+    "title": "Select Water to acquire Pilot Water for $700 million in cash and stock",
+    "tokens": [
+      "700",
+      "acquire",
+      "cash",
+      "million",
+      "pilot",
+      "select",
+      "stock",
+      "water"
+    ],
+    "ts": 1790282742.2670996
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ibotta-appoints-tony-weisman-to-board-of-directors-93CH-4916208",
+    "title": "Ibotta appoints Tony Weisman to board of directors",
+    "tokens": [
+      "appoints",
+      "board",
+      "directors",
+      "ibotta",
+      "tony",
+      "weisman"
+    ],
+    "ts": 1790282749.9761379
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/clover-health-adds-two-directors-to-board-93CH-4916203",
+    "title": "Clover Health adds two directors to board",
+    "tokens": [
+      "adds",
+      "board",
+      "clover",
+      "directors",
+      "health",
+      "two"
+    ],
+    "ts": 1790282757.1164162
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cooper-standard-names-boddy-chief-commercial-officer-93CH-4916204",
+    "title": "Cooper Standard names Boddy chief commercial officer",
+    "tokens": [
+      "boddy",
+      "chief",
+      "commercial",
+      "cooper",
+      "names",
+      "officer",
+      "standard"
+    ],
+    "ts": 1790282765.36627
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/dime-commercial-bancshares-declares-025-quarterly-dividend-93CH-4916205",
+    "title": "Dime Commercial Bancshares declares $0.25 quarterly dividend",
+    "tokens": [
+      "bancshares",
+      "commercial",
+      "declares",
+      "dime",
+      "dividend",
+      "quarterly"
+    ],
+    "ts": 1790282772.751445
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/bankunited-declares-033-quarterly-dividend-per-share-93CH-4916206",
+    "title": "BankUnited declares $0.33 quarterly dividend per share",
+    "tokens": [
+      "bankunited",
+      "declares",
+      "dividend",
+      "per",
+      "quarterly",
+      "share"
+    ],
+    "ts": 1790282780.0809789
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/delta-air-lines-declares-quarterly-dividend-of-0215-per-share-93CH-4916202",
+    "title": "Delta Air Lines declares quarterly dividend of $0.215 per share",
+    "tokens": [
+      "215",
+      "air",
+      "declares",
+      "delta",
+      "dividend",
+      "lines",
+      "per",
+      "quarterly",
+      "share"
+    ],
+    "ts": 1790282787.7848794
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-scholastic-stock-tumbling-today-93CH-4916201",
+    "title": "Why is Scholastic stock tumbling today?",
+    "tokens": [
+      "scholastic",
+      "stock",
+      "today",
+      "tumbling",
+      "why"
+    ],
+    "ts": 1790282795.9174786
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs",
+    "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
+    "tokens": [
+      "2007",
+      "bitcoin",
+      "highs",
+      "hit",
+      "ondo",
+      "price",
+      "rallies",
+      "steadies",
+      "treasury",
+      "yields"
+    ],
+    "ts": 1790282805.005753
   }
 ]

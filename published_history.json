@@ -1,24 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/lantronix-nominates-defense-technology-executive-and-former-navy-seal-jason-lamb-to-board-of-directors-1036565389",
-    "title": "Lantronix Nominates Defense Technology Executive and Former Navy SEAL Jason Lamb to Board of Directors",
-    "tokens": [
-      "board",
-      "defense",
-      "directors",
-      "executive",
-      "former",
-      "jason",
-      "lamb",
-      "lantronix",
-      "navy",
-      "nominates",
-      "seal",
-      "technology"
-    ],
-    "ts": 1790105187.9052546
-  },
-  {
     "id": "https://seekingalpha.com/news/4645657-direxion-daily-csi-china-internet-index-bull-2x-shares-declares-quarterly-distribution-of-00661?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
     "title": "Direxion Daily CSI China Internet Index Bull 2X Shares declares quarterly distribution of $0.0661",
     "tokens": [
@@ -23009,5 +22990,20 @@
       "why"
     ],
     "ts": 1790256826.2886667
+  },
+  {
+    "id": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers",
+    "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
+    "tokens": [
+      "beta",
+      "deposits",
+      "ibm",
+      "ledger",
+      "link",
+      "opens",
+      "swift",
+      "tokenized"
+    ],
+    "ts": 1790258101.453734
   }
 ]

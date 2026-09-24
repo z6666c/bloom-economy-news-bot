@@ -1,183 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/guggenheim-names-top-stock-pick-in-biotech-sector-93CH-4912053",
-    "title": "Guggenheim Names Top Stock Pick in Biotech Sector",
-    "tokens": [
-      "biotech",
-      "guggenheim",
-      "names",
-      "pick",
-      "sector",
-      "stock",
-      "top"
-    ],
-    "ts": 1790136713.1118484
-  },
-  {
-    "id": "lucid-just-struck-partnership-bolt-162648488.html",
-    "title": "Lucid Just Struck a Partnership With Bolt on Mobility. What This Means for LCID Stock.",
-    "tokens": [
-      "bolt",
-      "just",
-      "lcid",
-      "lucid",
-      "means",
-      "mobility",
-      "partnership",
-      "stock",
-      "struck",
-      "what"
-    ],
-    "ts": 1790136720.879975
-  },
-  {
-    "id": "4fe63d09-cbe6-4c25-888c-353c1039921d",
-    "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
-    "tokens": [
-      "000",
-      "bitcoin",
-      "crypto",
-      "gain",
-      "holds",
-      "leads",
-      "majors",
-      "near",
-      "zcash"
-    ],
-    "ts": 1790136729.570257
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ai-laptop-deal-sends-this-aipicked-stock-up-nearly-20-this-month-4912061",
-    "title": "AI laptop deal sends this AI-picked stock up nearly 20% this month",
-    "tokens": [
-      "deal",
-      "laptop",
-      "month",
-      "nearly",
-      "picked",
-      "sends",
-      "stock"
-    ],
-    "ts": 1790137720.1960547
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/novo-nordisk-open-to-new-york-listing-upgrade-ceo-doustdar-tells-ft-4912060",
-    "title": "Novo Nordisk open to New York listing upgrade, CEO Doustdar tells FT",
-    "tokens": [
-      "ceo",
-      "doustdar",
-      "listing",
-      "nordisk",
-      "novo",
-      "open",
-      "tells",
-      "upgrade",
-      "york"
-    ],
-    "ts": 1790137727.8636146
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/analysiswheat-buyers-brace-for-higher-costs-as-russiaukraine-war-drags-on-4912057",
-    "title": "Analysis-Wheat buyers brace for higher costs as Russia-Ukraine war drags on",
-    "tokens": [
-      "analysis",
-      "brace",
-      "buyers",
-      "costs",
-      "drags",
-      "higher",
-      "russia",
-      "ukraine",
-      "war",
-      "wheat"
-    ],
-    "ts": 1790137734.9958959
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/we-flagged-it-early-this-diagnostics-stock-is-up-22-after-a-regulatory-win-4912056",
-    "title": "We flagged it early: This diagnostics stock is up +22% after a regulatory win",
-    "tokens": [
-      "diagnostics",
-      "early",
-      "flagged",
-      "regulatory",
-      "stock",
-      "win"
-    ],
-    "ts": 1790137742.904955
-  },
-  {
-    "id": "xrp-price-prediction-bull-flag-165757458.html",
-    "title": "XRP Price Prediction: Bull Flag Breakout Targets $2.10",
-    "tokens": [
-      "breakout",
-      "bull",
-      "flag",
-      "prediction",
-      "price",
-      "targets",
-      "xrp"
-    ],
-    "ts": 1790138662.7764654
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/morning-bid-a-gets-a-bit-part-as-ai-steals-the-show-4912066",
-    "title": "Morning Bid: A$ gets a bit part as AI steals the show",
-    "tokens": [
-      "bid",
-      "bit",
-      "gets",
-      "morning",
-      "part",
-      "show",
-      "steals"
-    ],
-    "ts": 1790139393.8797112
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/goldman-appoints-simon-lyons-uk-investment-banking-cohead-4910827",
-    "title": "Goldman appoints Simon Lyons UK investment banking co-head",
-    "tokens": [
-      "appoints",
-      "banking",
-      "goldman",
-      "head",
-      "investment",
-      "lyons",
-      "simon"
-    ],
-    "ts": 1790139401.7291424
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/this-aipicked-miner-jumps-145-as-a-120m-copper-deal-lands-4912063",
-    "title": "This AI-picked miner jumps 14.5% as a $120M copper deal lands",
-    "tokens": [
-      "120m",
-      "copper",
-      "deal",
-      "jumps",
-      "lands",
-      "miner",
-      "picked"
-    ],
-    "ts": 1790139409.731693
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/trump-says-iran-deal-close-held-very-good-un-talks-4912062",
-    "title": "Trump says Iran deal close, held ‘very good’ UN talks",
-    "tokens": [
-      "close",
-      "deal",
-      "good",
-      "held",
-      "iran",
-      "talks",
-      "trump",
-      "very"
-    ],
-    "ts": 1790139416.7819443
-  },
-  {
     "id": "cotton-rallying-monday-midday-170901500.html",
     "title": "Cotton Rallying at Monday’s Midday",
     "tokens": [
@@ -23044,5 +22866,173 @@
       "yields"
     ],
     "ts": 1790282805.005753
+  },
+  {
+    "id": "WP-MKTW-0005252615",
+    "title": "Costco earnings beat expectations, thanks to tariff refunds",
+    "tokens": [
+      "beat",
+      "costco",
+      "earnings",
+      "expectations",
+      "refunds",
+      "tariff",
+      "thanks"
+    ],
+    "ts": 1790283435.4572725
+  },
+  {
+    "id": "WP-MKTW-0005252461",
+    "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
+    "tokens": [
+      "according",
+      "here",
+      "how",
+      "morgan",
+      "next",
+      "portfolio",
+      "position",
+      "stanley",
+      "wave",
+      "your"
+    ],
+    "ts": 1790283444.2090397
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/alexandria-real-estate-equities-amends-5-billion-revolving-credit-facility-93CH-4916245",
+    "title": "Alexandria Real Estate Equities amends $5 billion revolving credit facility",
+    "tokens": [
+      "alexandria",
+      "amends",
+      "billion",
+      "credit",
+      "equities",
+      "estate",
+      "facility",
+      "real",
+      "revolving"
+    ],
+    "ts": 1790283452.1560297
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/utah-medical-offers-to-buy-back-shares-at-75-premium-93CH-4916244",
+    "title": "Utah Medical offers to buy back shares at $75 premium",
+    "tokens": [
+      "back",
+      "buy",
+      "medical",
+      "offers",
+      "premium",
+      "shares",
+      "utah"
+    ],
+    "ts": 1790283460.0633776
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/afterhours-movers-akam-zs-wttr-432SI-4916240",
+    "title": "After-Hours Movers: AKAM, ZS, WTTR",
+    "tokens": [
+      "akam",
+      "hours",
+      "movers",
+      "wttr"
+    ],
+    "ts": 1790283468.1117785
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/soybean-futures-slip-as-traders-await-china-trade-news-93CH-4916229",
+    "title": "Soybean futures slip as traders await China trade news",
+    "tokens": [
+      "await",
+      "china",
+      "futures",
+      "news",
+      "slip",
+      "soybean",
+      "trade",
+      "traders"
+    ],
+    "ts": 1790283477.3935628
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-zscaler-stock-sliding-today-93CH-4916227",
+    "title": "Why is Zscaler stock sliding today?",
+    "tokens": [
+      "sliding",
+      "stock",
+      "today",
+      "why",
+      "zscaler"
+    ],
+    "ts": 1790283481.4086576
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/boxlight-coo-henry-nance-sells-5-of-class-a-common-stock-93CH-4916225",
+    "title": "Boxlight COO Henry Nance sells $5 of class A common stock",
+    "tokens": [
+      "boxlight",
+      "class",
+      "common",
+      "coo",
+      "henry",
+      "nance",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790283485.4967828
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-staar-surgical-stock-climbing-today-93CH-4916224",
+    "title": "Why is STAAR Surgical stock climbing today?",
+    "tokens": [
+      "climbing",
+      "staar",
+      "stock",
+      "surgical",
+      "today",
+      "why"
+    ],
+    "ts": 1790283493.5915189
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ormat-secures-up-to-35m-doe-funding-for-geothermal-projects-93CH-4916219",
+    "title": "Ormat secures up to $35M DOE funding for geothermal projects",
+    "tokens": [
+      "35m",
+      "doe",
+      "funding",
+      "geothermal",
+      "ormat",
+      "projects",
+      "secures"
+    ],
+    "ts": 1790283500.9016433
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-akamai-technologies-stock-surging-today-93CH-4916218",
+    "title": "Why is Akamai Technologies stock surging today?",
+    "tokens": [
+      "akamai",
+      "stock",
+      "surging",
+      "technologies",
+      "today",
+      "why"
+    ],
+    "ts": 1790283509.1995764
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/select-water-stock-surges-28-on-pilot-water-acquisition-deal-4916217",
+    "title": "Select Water stock surges 28% on Pilot Water acquisition deal",
+    "tokens": [
+      "acquisition",
+      "deal",
+      "pilot",
+      "select",
+      "stock",
+      "surges",
+      "water"
+    ],
+    "ts": 1790283517.909309
   }
 ]

@@ -1,116 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/endeavour-silver-suspends-ball-mill-at-guanacevi-mine-93CH-4910389",
-    "title": "Endeavour Silver suspends ball mill at Guanacevi mine",
-    "tokens": [
-      "ball",
-      "endeavour",
-      "guanacevi",
-      "mill",
-      "mine",
-      "silver",
-      "suspends"
-    ],
-    "ts": 1790075570.9452746
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/btig-reiterates-hyperfine-stock-rating-on-commercial-progress-93CH-4910388",
-    "title": "BTIG reiterates Hyperfine stock rating on commercial progress",
-    "tokens": [
-      "btig",
-      "commercial",
-      "hyperfine",
-      "progress",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790075578.0766556
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/btig-assumes-coverage-on-radian-group-stock-with-buy-rating-48-target-93CH-4910387",
-    "title": "BTIG assumes coverage on Radian Group stock with buy rating, $48 target",
-    "tokens": [
-      "assumes",
-      "btig",
-      "buy",
-      "coverage",
-      "group",
-      "radian",
-      "rating",
-      "stock",
-      "target"
-    ],
-    "ts": 1790075585.700575
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/costco-stock-analysis-is-now-time-to-buy-the-pullback-93CH-4910386",
-    "title": "Costco stock analysis: Is now time to buy the pullback?",
-    "tokens": [
-      "analysis",
-      "buy",
-      "costco",
-      "now",
-      "pullback",
-      "stock",
-      "time"
-    ],
-    "ts": 1790075593.0588446
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bofa-securities-names-top-biotech-stock-amid-sector-rally-93CH-4910385",
-    "title": "BofA Securities Names Top Biotech Stock Amid Sector Rally",
-    "tokens": [
-      "biotech",
-      "bofa",
-      "names",
-      "rally",
-      "sector",
-      "securities",
-      "stock",
-      "top"
-    ],
-    "ts": 1790075600.80566
-  },
-  {
-    "id": "home-depot-cfo-issues-chilling-104500209.html",
-    "title": "Home Depot CFO issues chilling alarm over ‘frozen’ US housing market — crucial metric plunges to historic low",
-    "tokens": [
-      "alarm",
-      "cfo",
-      "chilling",
-      "crucial",
-      "depot",
-      "frozen",
-      "historic",
-      "home",
-      "housing",
-      "issues",
-      "low",
-      "market",
-      "metric",
-      "plunges"
-    ],
-    "ts": 1790075608.636023
-  },
-  {
-    "id": "bwx-technologies-bwxt-wins-4-104356882.html",
-    "title": "BWX Technologies (BWXT) Wins $4 Million Y-12 Design Contract. Could Construction Follow?",
-    "tokens": [
-      "bwx",
-      "bwxt",
-      "construction",
-      "contract",
-      "could",
-      "design",
-      "follow",
-      "million",
-      "technologies",
-      "wins"
-    ],
-    "ts": 1790075616.0528636
-  },
-  {
     "id": "global-diesel-shortage-iran-ukraine-181721706.html",
     "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
     "tokens": [
@@ -23013,5 +22902,109 @@
       "week"
     ],
     "ts": 1790227677.8885343
+  },
+  {
+    "id": "tabi-connect-kleinschmidt-partner-automate-174105793.html",
+    "title": "Tabi Connect, Kleinschmidt partner to automate freight quoting",
+    "tokens": [
+      "automate",
+      "connect",
+      "freight",
+      "kleinschmidt",
+      "partner",
+      "quoting",
+      "tabi"
+    ],
+    "ts": 1790228573.1036584
+  },
+  {
+    "id": "stock-trading-time-highs-looks-175002793.html",
+    "title": "This Stock Is Trading at New All-Time Highs and Looks Like a Great Long-Term Winner",
+    "tokens": [
+      "all",
+      "great",
+      "highs",
+      "like",
+      "long",
+      "looks",
+      "stock",
+      "term",
+      "time",
+      "trading",
+      "winner"
+    ],
+    "ts": 1790228580.352459
+  },
+  {
+    "id": "leveraged-loan-fund-assets-rise-175112734.html",
+    "title": "Leveraged loan fund assets rise as Fed turns hawkish",
+    "tokens": [
+      "assets",
+      "fed",
+      "fund",
+      "hawkish",
+      "leveraged",
+      "loan",
+      "rise",
+      "turns"
+    ],
+    "ts": 1790228587.9409394
+  },
+  {
+    "id": "stock-market-crash-happens-history-174400168.html",
+    "title": "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+    "tokens": [
+      "could",
+      "crash",
+      "happens",
+      "history",
+      "how",
+      "investors",
+      "long",
+      "market",
+      "recover",
+      "stock",
+      "take"
+    ],
+    "ts": 1790228595.70977
+  },
+  {
+    "id": "should-you-apply-for-multiple-credit-cards-at-once-180015761.html",
+    "title": "Should you apply for multiple credit cards at once?",
+    "tokens": [
+      "apply",
+      "cards",
+      "credit",
+      "multiple",
+      "once",
+      "should",
+      "you"
+    ],
+    "ts": 1790228602.9724925
+  },
+  {
+    "id": "etf-zoo-6-pundits-walk-180901573.html",
+    "title": "ETF Zoo: 6 Pundits Walk Into a Bar",
+    "tokens": [
+      "bar",
+      "etf",
+      "pundits",
+      "walk",
+      "zoo"
+    ],
+    "ts": 1790228610.4570105
+  },
+  {
+    "id": "200-billion-reason-buy-ge-181346344.html",
+    "title": "A $200 Billion Reason to Buy GE Vernova Stock",
+    "tokens": [
+      "200",
+      "billion",
+      "buy",
+      "reason",
+      "stock",
+      "vernova"
+    ],
+    "ts": 1790228617.5849874
   }
 ]

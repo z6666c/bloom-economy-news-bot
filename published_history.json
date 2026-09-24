@@ -1,140 +1,5 @@
 [
   {
-    "id": "packaging-corporation-underperforming-nasdaq-114239106.html",
-    "title": "Is Packaging Corporation Underperforming the Nasdaq?",
-    "tokens": [
-      "corporation",
-      "nasdaq",
-      "packaging",
-      "underperforming"
-    ],
-    "ts": 1790108832.2985487
-  },
-  {
-    "id": "regions-financial-stock-underperforming-p-113729907.html",
-    "title": "Is Regions Financial Stock Underperforming the S&P 500?",
-    "tokens": [
-      "500",
-      "financial",
-      "regions",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1790108839.292452
-  },
-  {
-    "id": "j-b-hunt-transport-services-114815246.html",
-    "title": "Is J.B. Hunt Transport Services Stock Outperforming the S&P 500?",
-    "tokens": [
-      "500",
-      "hunt",
-      "outperforming",
-      "services",
-      "stock",
-      "transport"
-    ],
-    "ts": 1790108847.6246421
-  },
-  {
-    "id": "atmos-energy-stock-underperforming-dow-113138150.html",
-    "title": "Is Atmos Energy Stock Underperforming the Dow?",
-    "tokens": [
-      "atmos",
-      "dow",
-      "energy",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1790108855.3314984
-  },
-  {
-    "id": "eli-lilly-vs-novo-obesity-113002601.html",
-    "title": "Eli Lilly vs. Novo: The Obesity-Drug Battle Is Entering Its Next Round",
-    "tokens": [
-      "battle",
-      "drug",
-      "eli",
-      "entering",
-      "lilly",
-      "next",
-      "novo",
-      "obesity",
-      "round"
-    ],
-    "ts": 1790108863.460298
-  },
-  {
-    "id": "WP-MKTW-0005247987",
-    "title": "Want to bet on risky, high-beta stocks? Why you should wait for this week in October.",
-    "tokens": [
-      "bet",
-      "beta",
-      "high",
-      "october",
-      "risky",
-      "should",
-      "stocks",
-      "wait",
-      "want",
-      "week",
-      "why",
-      "you"
-    ],
-    "ts": 1790109648.2806036
-  },
-  {
-    "id": "coinbase-global-stock-performance-compared-120117135.html",
-    "title": "How Is Coinbase Global Stock Performance Compared to Other Financial Data And Stock Exchanges' Stocks",
-    "tokens": [
-      "coinbase",
-      "compared",
-      "data",
-      "exchanges",
-      "financial",
-      "global",
-      "how",
-      "other",
-      "performance",
-      "stock",
-      "stocks"
-    ],
-    "ts": 1790109656.3951516
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/one-year-in-arrowhead-intermediaries-advances-integration-with-brand-alignment-1036565662",
-    "title": "One year in, Arrowhead Intermediaries advances integration with brand alignment",
-    "tokens": [
-      "advances",
-      "alignment",
-      "arrowhead",
-      "brand",
-      "integration",
-      "intermediaries",
-      "one",
-      "year"
-    ],
-    "ts": 1790109664.5263493
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/white-river-bancshares-company-to-present-at-the-financial-services-virtual-investor-conference-september-24th-1036565663",
-    "title": "White River Bancshares Company to Present at the Financial Services Virtual Investor Conference September 24th",
-    "tokens": [
-      "24th",
-      "bancshares",
-      "company",
-      "conference",
-      "financial",
-      "investor",
-      "present",
-      "river",
-      "september",
-      "services",
-      "virtual",
-      "white"
-    ],
-    "ts": 1790109672.0292704
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/glacier-bancorp-inc-increases-quarterly-dividend-1036565664",
     "title": "Glacier Bancorp, Inc. Increases Quarterly Dividend",
     "tokens": [
@@ -23002,5 +22867,152 @@
       "tigress"
     ],
     "ts": 1790261319.7689784
+  },
+  {
+    "id": "WP-MKTW-0005247122",
+    "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
+    "tokens": [
+      "adults",
+      "could",
+      "decades",
+      "fallout",
+      "financial",
+      "half",
+      "last",
+      "live",
+      "nearly",
+      "parents",
+      "their",
+      "under"
+    ],
+    "ts": 1790262703.3863387
+  },
+  {
+    "id": "WP-MKTW-0005251609",
+    "title": "3 things Micron investors need to watch as the stakes get higher",
+    "tokens": [
+      "get",
+      "higher",
+      "investors",
+      "micron",
+      "need",
+      "stakes",
+      "things",
+      "watch"
+    ],
+    "ts": 1790262711.2907772
+  },
+  {
+    "id": "WP-MKTW-0005245054",
+    "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
+    "tokens": [
+      "groups",
+      "hardest",
+      "hit",
+      "kick",
+      "lose",
+      "medicaid",
+      "millions",
+      "once",
+      "rules",
+      "these",
+      "work"
+    ],
+    "ts": 1790262719.824663
+  },
+  {
+    "id": "oilprice-article-45597",
+    "title": "China Could Cut Fuel Exports in October as Inventories Plunge",
+    "tokens": [
+      "china",
+      "could",
+      "cut",
+      "exports",
+      "fuel",
+      "inventories",
+      "october",
+      "plunge"
+    ],
+    "ts": 1790262730.3257217
+  },
+  {
+    "id": "oilprice-news-45597",
+    "title": "Record Fuel Prices Send European EV Sales Soaring",
+    "tokens": [
+      "european",
+      "fuel",
+      "prices",
+      "record",
+      "sales",
+      "send",
+      "soaring"
+    ],
+    "ts": 1790262739.0216248
+  },
+  {
+    "id": "388650d7-6ab4-4ec3-9da4-05732827d316",
+    "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
+    "tokens": [
+      "banks",
+      "complete",
+      "deposits",
+      "first",
+      "interbank",
+      "largest",
+      "tokenized",
+      "transactions",
+      "using",
+      "world"
+    ],
+    "ts": 1790262747.3919647
+  },
+  {
+    "id": "01879859-f3f6-4d7d-adc3-0172348364d6",
+    "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
+    "tokens": [
+      "advisors",
+      "bitcoin",
+      "costs",
+      "crypto",
+      "hidden",
+      "holding",
+      "own",
+      "your"
+    ],
+    "ts": 1790262755.1043272
+  },
+  {
+    "id": "baec2bbc-1ca6-47f6-b54d-41732cff784d",
+    "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
+    "tokens": [
+      "european",
+      "finance",
+      "global",
+      "issuer",
+      "qivalis",
+      "sees",
+      "stablecoin",
+      "trade",
+      "transformation"
+    ],
+    "ts": 1790262762.863156
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+    "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+    "tokens": [
+      "action",
+      "bank",
+      "board",
+      "employee",
+      "enforcement",
+      "federal",
+      "former",
+      "issues",
+      "reserve",
+      "sandy",
+      "spring"
+    ],
+    "ts": 1790262770.324516
   }
 ]

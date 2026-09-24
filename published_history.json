@@ -1,297 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-paypal-stock-climbing-today-93CH-4911287",
-    "title": "Why is PayPal stock climbing today?",
-    "tokens": [
-      "climbing",
-      "paypal",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790093474.668378
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/willamette-valley-vineyards-director-chris-riccardi-buys-6769-stock-93CH-4911283",
-    "title": "Willamette Valley vineyards director Chris Riccardi buys $6,769 stock",
-    "tokens": [
-      "769",
-      "buys",
-      "chris",
-      "director",
-      "riccardi",
-      "stock",
-      "valley",
-      "vineyards",
-      "willamette"
-    ],
-    "ts": 1790093478.2638066
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/craneware-fy26-slides-revenue-flat-as-340b-headwinds-prompt-reset-93CH-4911278",
-    "title": "Craneware FY26 slides: revenue flat as 340B headwinds prompt reset",
-    "tokens": [
-      "340b",
-      "craneware",
-      "flat",
-      "fy26",
-      "headwinds",
-      "prompt",
-      "reset",
-      "revenue",
-      "slides"
-    ],
-    "ts": 1790093485.3850973
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/duke-energy-stock-hits-52week-low-at-2064-usd-93CH-4911277",
-    "title": "Duke Energy stock hits 52-week low at 20.64 USD",
-    "tokens": [
-      "duke",
-      "energy",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790093489.4009693
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/calmaine-foods-stock-hits-52week-low-at-7191-93CH-4911276",
-    "title": "Cal-Maine Foods stock hits 52-week low at $71.91",
-    "tokens": [
-      "cal",
-      "foods",
-      "hits",
-      "low",
-      "maine",
-      "stock",
-      "week"
-    ],
-    "ts": 1790093492.786099
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/craneware-director-purchases-shares-at-1054-93CH-4911275",
-    "title": "Craneware director purchases shares at £10.54",
-    "tokens": [
-      "craneware",
-      "director",
-      "purchases",
-      "shares"
-    ],
-    "ts": 1790093499.7621799
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-acg-posts-strong-h1-2026-results-as-rampup-continues-93CH-4911274",
-    "title": "Earnings call transcript: ACG posts strong H1 2026 results as ramp-up continues",
-    "tokens": [
-      "2026",
-      "acg",
-      "call",
-      "continues",
-      "earnings",
-      "posts",
-      "ramp",
-      "results",
-      "strong",
-      "transcript"
-    ],
-    "ts": 1790093508.5758858
-  },
-  {
-    "id": "oilprice-article-45571",
-    "title": "Europe’s Offshore Wind Slowdown Is Squeezing Manufacturers",
-    "tokens": [
-      "europe",
-      "manufacturers",
-      "offshore",
-      "slowdown",
-      "squeezing",
-      "wind"
-    ],
-    "ts": 1790093516.7557542
-  },
-  {
-    "id": "oilprice-news-45571",
-    "title": "Libya’s Largest Oilfield Hit by New Armed Group Blockade",
-    "tokens": [
-      "armed",
-      "blockade",
-      "group",
-      "hit",
-      "largest",
-      "libya",
-      "oilfield"
-    ],
-    "ts": 1790093520.7737267
-  },
-  {
-    "id": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms",
-    "title": "CLARITY vote failure could stoke more crypto PAC spending in key races",
-    "tokens": [
-      "clarity",
-      "could",
-      "crypto",
-      "failure",
-      "key",
-      "more",
-      "pac",
-      "races",
-      "spending",
-      "stoke",
-      "vote"
-    ],
-    "ts": 1790093524.3093383
-  },
-  {
-    "id": "WP-MKTW-0005246633",
-    "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
-    "tokens": [
-      "app",
-      "chatgpt",
-      "company",
-      "could",
-      "meta",
-      "moment",
-      "muse",
-      "viral"
-    ],
-    "ts": 1790094524.7054188
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-record-borrowing-data-fans-budget-pressure-4909976",
-    "title": "FTSE 100 today: Stocks slide as oil subdued, Kingfisher surges",
-    "tokens": [
-      "100",
-      "ftse",
-      "kingfisher",
-      "oil",
-      "slide",
-      "stocks",
-      "subdued",
-      "surges",
-      "today"
-    ],
-    "ts": 1790094533.161362
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-buys-2305-of-renn-fund-stock-93CH-4911312",
-    "title": "Horizon Kinetics Asset Management buys $2,305 of RENN Fund stock",
-    "tokens": [
-      "305",
-      "asset",
-      "buys",
-      "fund",
-      "horizon",
-      "kinetics",
-      "management",
-      "renn",
-      "stock"
-    ],
-    "ts": 1790094537.1773703
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/uk-to-auction-425-billion-of-gilts-maturing-in-2036-93CH-4911308",
-    "title": "UK to auction £4.25 billion of gilts maturing in 2036",
-    "tokens": [
-      "2036",
-      "auction",
-      "billion",
-      "gilts",
-      "maturing"
-    ],
-    "ts": 1790094540.6760123
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-031-4911307",
-    "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.31%",
-    "tokens": [
-      "100",
-      "close",
-      "com",
-      "investing",
-      "kingdom",
-      "lower",
-      "stocks",
-      "trade",
-      "united"
-    ],
-    "ts": 1790094548.11496
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-034-4911306",
-    "title": "Spain stocks higher at close of trade; IBEX 35 up 0.34%",
-    "tokens": [
-      "close",
-      "higher",
-      "ibex",
-      "spain",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790094555.246097
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-transense-h2-2026-revenue-falls-as-growth-bets-build-93CH-4911305",
-    "title": "Earnings call transcript: Transense H2 2026 revenue falls as growth bets build",
-    "tokens": [
-      "2026",
-      "bets",
-      "build",
-      "call",
-      "earnings",
-      "falls",
-      "growth",
-      "revenue",
-      "transcript",
-      "transense"
-    ],
-    "ts": 1790094562.04113
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-041-4911304",
-    "title": "Portugal stocks higher at close of trade; PSI up 0.41%",
-    "tokens": [
-      "close",
-      "higher",
-      "portugal",
-      "psi",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790094569.888346
-  },
-  {
-    "id": "oilprice-article-45576",
-    "title": "Saudi Pipeline Restart Fails to End Oil Market Tightness",
-    "tokens": [
-      "end",
-      "fails",
-      "market",
-      "oil",
-      "pipeline",
-      "restart",
-      "saudi",
-      "tightness"
-    ],
-    "ts": 1790094578.8130248
-  },
-  {
-    "id": "oilprice-news-45576",
-    "title": "Saudi Arabia Restarts East-West Oil Pipeline",
-    "tokens": [
-      "arabia",
-      "east",
-      "oil",
-      "pipeline",
-      "restarts",
-      "saudi",
-      "west"
-    ],
-    "ts": 1790094582.8297997
-  },
-  {
     "id": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi",
     "title": "Zcash gets first European ETP following US ETF launch",
     "tokens": [
@@ -22968,5 +22676,317 @@
       "rate"
     ],
     "ts": 1790248438.2641587
+  },
+  {
+    "id": "WP-MKTW-0005249061",
+    "title": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
+    "tokens": [
+      "500",
+      "could",
+      "drive",
+      "here",
+      "market",
+      "nearly",
+      "next",
+      "perfection",
+      "priced",
+      "slump",
+      "stock",
+      "what",
+      "year"
+    ],
+    "ts": 1790249243.8623183
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/blackberry-lifts-annual-revenue-forecast-on-strength-in-automotive-software-business-4915045",
+    "title": "BlackBerry lifts annual revenue forecast on strength in automotive software business",
+    "tokens": [
+      "annual",
+      "automotive",
+      "blackberry",
+      "business",
+      "forecast",
+      "lifts",
+      "revenue",
+      "software",
+      "strength"
+    ],
+    "ts": 1790249251.803547
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/metas-charm-gadget-carries-ceo-zuckerbergs-big-ai-ambitions-4914409",
+    "title": "Meta’s Charm gadget carries CEO Zuckerberg’s big AI ambitions",
+    "tokens": [
+      "ambitions",
+      "big",
+      "carries",
+      "ceo",
+      "charm",
+      "gadget",
+      "meta",
+      "zuckerberg"
+    ],
+    "ts": 1790249259.1262803
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/starbucks-to-close-about-1-of-coffeehouses-in-north-america-4915076",
+    "title": "Starbucks to close about 1% of coffeehouses in North America",
+    "tokens": [
+      "about",
+      "america",
+      "close",
+      "coffeehouses",
+      "north",
+      "starbucks"
+    ],
+    "ts": 1790249268.2086146
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bofa-initiates-mge-energy-stock-coverage-with-neutral-rating-93CH-4915075",
+    "title": "BofA initiates MGE Energy stock coverage with neutral rating",
+    "tokens": [
+      "bofa",
+      "coverage",
+      "energy",
+      "initiates",
+      "mge",
+      "neutral",
+      "rating",
+      "stock"
+    ],
+    "ts": 1790249275.621996
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/td-synnex-earnings-beat-by-104-revenue-topped-estimates-4915074",
+    "title": "TD Synnex earnings beat by $1.04, revenue topped estimates",
+    "tokens": [
+      "beat",
+      "earnings",
+      "estimates",
+      "revenue",
+      "synnex",
+      "topped"
+    ],
+    "ts": 1790249279.6379907
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-grail-stock-surging-today-93CH-4915071",
+    "title": "Why is Grail stock surging today?",
+    "tokens": [
+      "grail",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790249279.6529846
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-darden-restaurants-stock-sliding-today-93CH-4915067",
+    "title": "Why is Darden Restaurants stock sliding today?",
+    "tokens": [
+      "darden",
+      "restaurants",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790249279.669346
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/darden-restaurants-falls-as-q1-revenue-misses-expectations-4915066",
+    "title": "Darden Restaurants falls as Q1 revenue misses expectations",
+    "tokens": [
+      "darden",
+      "expectations",
+      "falls",
+      "misses",
+      "restaurants",
+      "revenue"
+    ],
+    "ts": 1790249283.2002685
+  },
+  {
+    "id": "https://www.investing.com/news/investment-ideas/how-capital-city-banks-74-gain-validated-fair-value-analysis-93CH-4915065",
+    "title": "How Capital City Bank’s 74% gain validated Fair Value analysis",
+    "tokens": [
+      "analysis",
+      "bank",
+      "capital",
+      "city",
+      "fair",
+      "gain",
+      "how",
+      "validated",
+      "value"
+    ],
+    "ts": 1790249290.2420282
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/30year-treasury-yield-hits-539-a-22year-high-after-hot-pmi-data-93CH-4915064",
+    "title": "30-year Treasury yield hits 5.39%, a 22-year high, after hot PMI data",
+    "tokens": [
+      "data",
+      "high",
+      "hits",
+      "hot",
+      "pmi",
+      "treasury",
+      "year",
+      "yield"
+    ],
+    "ts": 1790249298.2048597
+  },
+  {
+    "id": "techcrunch-founder-summit-agenda-revealed-232149079.html",
+    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "tokens": [
+      "agenda",
+      "boston",
+      "founder",
+      "fundraising",
+      "hiring",
+      "insights",
+      "november",
+      "revealed",
+      "summit",
+      "techcrunch",
+      "unlock"
+    ],
+    "ts": 1790249306.6746345
+  },
+  {
+    "id": "chemed-che-buys-60-6m-233037814.html",
+    "title": "Chemed (CHE) Buys a $60.6M Roto-Rooter Franchise. Can Ownership Lift Returns?",
+    "tokens": [
+      "buys",
+      "can",
+      "che",
+      "chemed",
+      "franchise",
+      "lift",
+      "ownership",
+      "returns",
+      "rooter",
+      "roto"
+    ],
+    "ts": 1790249314.523972
+  },
+  {
+    "id": "high-yield-tobacco-stock-just-233002517.html",
+    "title": "This High-Yield Tobacco Stock Just Raised Its Dividend by 8.8%",
+    "tokens": [
+      "dividend",
+      "high",
+      "just",
+      "raised",
+      "stock",
+      "tobacco",
+      "yield"
+    ],
+    "ts": 1790249322.4789662
+  },
+  {
+    "id": "indias-titan-whats-slowing-gold-232241668.html",
+    "title": "India's Titan On What's Slowing Gold Demand",
+    "tokens": [
+      "demand",
+      "gold",
+      "india",
+      "slowing",
+      "titan",
+      "what"
+    ],
+    "ts": 1790249330.006348
+  },
+  {
+    "id": "flutter-flut-world-biggest-betting-233329385.html",
+    "title": "Flutter (FLUT), The World’s Biggest Betting Company Has Lost Two-Thirds of Its Value. Is the Bottom In?",
+    "tokens": [
+      "betting",
+      "biggest",
+      "bottom",
+      "company",
+      "flut",
+      "flutter",
+      "lost",
+      "thirds",
+      "two",
+      "value",
+      "world"
+    ],
+    "ts": 1790249337.3845677
+  },
+  {
+    "id": "ares-management-ares-forms-logistics-233229101.html",
+    "title": "Ares Management (ARES) Forms Logistics Venture. Can the $2.4B Target Drive Earnings?",
+    "tokens": [
+      "ares",
+      "can",
+      "drive",
+      "earnings",
+      "forms",
+      "logistics",
+      "management",
+      "target",
+      "venture"
+    ],
+    "ts": 1790249345.1791117
+  },
+  {
+    "id": "greif-gef-plans-coated-recycled-233847283.html",
+    "title": "Greif (GEF) Plans Coated Recycled Paperboard Exit. Can a Smaller Portfolio Earn Better Returns?",
+    "tokens": [
+      "better",
+      "can",
+      "coated",
+      "earn",
+      "exit",
+      "gef",
+      "greif",
+      "paperboard",
+      "plans",
+      "portfolio",
+      "recycled",
+      "returns",
+      "smaller"
+    ],
+    "ts": 1790249352.417173
+  },
+  {
+    "id": "constellation-stz-brands-hit-52-234130260.html",
+    "title": "Constellation (STZ) Brands Hit a 52-Week Low. Is the Corona-and-Modelo Machine Broken, or On Sale?",
+    "tokens": [
+      "brands",
+      "broken",
+      "constellation",
+      "corona",
+      "hit",
+      "low",
+      "machine",
+      "modelo",
+      "sale",
+      "stz",
+      "week"
+    ],
+    "ts": 1790249361.1827955
+  },
+  {
+    "id": "0463fc45-2c4f-4356-8ccd-a9896fbc984e",
+    "title": "Live updates: Bitcoin continues lower as bond yields take center stage",
+    "tokens": [
+      "bitcoin",
+      "bond",
+      "center",
+      "continues",
+      "live",
+      "lower",
+      "stage",
+      "take",
+      "updates",
+      "yields"
+    ],
+    "ts": 1790249371.2997737
   }
 ]

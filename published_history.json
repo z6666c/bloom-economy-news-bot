@@ -1,242 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/bcb-bancorp-cfo-purchases-77500-in-common-stock-93CH-4911470",
-    "title": "BCB Bancorp CFO purchases $77,500 in common stock",
-    "tokens": [
-      "500",
-      "bancorp",
-      "bcb",
-      "cfo",
-      "common",
-      "purchases",
-      "stock"
-    ],
-    "ts": 1790103292.5040922
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-jpmorgan-chase-stock-sliding-today-93CH-4911467",
-    "title": "Why is JPMorgan Chase stock sliding today?",
-    "tokens": [
-      "chase",
-      "jpmorgan",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790103299.983099
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/trump-says-he-backs-the-idea-of-a-ban-on-diesel-exports-4911466",
-    "title": "Trump says he backs the idea of a ban on diesel exports",
-    "tokens": [
-      "backs",
-      "ban",
-      "diesel",
-      "exports",
-      "idea",
-      "trump"
-    ],
-    "ts": 1790103306.9217184
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/zions-bancorporation-pa-adr-stock-hits-52week-low-at-1766-usd-93CH-4911465",
-    "title": "Zions Bancorporation Pa ADR stock hits 52-week low at 17.66 USD",
-    "tokens": [
-      "adr",
-      "bancorporation",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week",
-      "zions"
-    ],
-    "ts": 1790103315.3860185
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/kroger-outlines-ai-strategy-at-groceryshop-conference-93CH-4911464",
-    "title": "Kroger outlines AI strategy at GroceryShop conference",
-    "tokens": [
-      "conference",
-      "groceryshop",
-      "kroger",
-      "outlines",
-      "strategy"
-    ],
-    "ts": 1790103324.779363
-  },
-  {
-    "id": "WP-MKTW-0005246171",
-    "title": "The bond market is flashing a warning for stocks. These sectors are already wobbling.",
-    "tokens": [
-      "already",
-      "bond",
-      "flashing",
-      "market",
-      "sectors",
-      "stocks",
-      "these",
-      "warning",
-      "wobbling"
-    ],
-    "ts": 1790104197.8591492
-  },
-  {
-    "id": "had-commodities-moving-start-week-103335330.html",
-    "title": "What Had Commodities Moving to Start the New Week?",
-    "tokens": [
-      "commodities",
-      "moving",
-      "start",
-      "week",
-      "what"
-    ],
-    "ts": 1790104206.4427886
-  },
-  {
-    "id": "u-stock-futures-climb-oil-103605406.html",
-    "title": "U.S. Stock Futures Climb as Oil Falls, Optimism Builds Ahead of Trump-Xi Summit",
-    "tokens": [
-      "ahead",
-      "builds",
-      "climb",
-      "falls",
-      "futures",
-      "oil",
-      "optimism",
-      "stock",
-      "summit",
-      "trump"
-    ],
-    "ts": 1790104217.487778
-  },
-  {
-    "id": "oilprice-article-45577",
-    "title": "The U.S. Has More Leverage in Iraq Than It Thinks",
-    "tokens": [
-      "iraq",
-      "leverage",
-      "more",
-      "thinks"
-    ],
-    "ts": 1790104225.9292383
-  },
-  {
-    "id": "oilprice-news-45577",
-    "title": "India’s Russian Oil Imports Slide as Refiners Hunt for Alternatives",
-    "tokens": [
-      "alternatives",
-      "hunt",
-      "imports",
-      "india",
-      "oil",
-      "refiners",
-      "russian",
-      "slide"
-    ],
-    "ts": 1790104235.5023367
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/meta-ceo-mark-zuckerberg-to-join-tech-leaders-at-trumpxi-dinner-bloomberg-news-reports-4911495",
-    "title": "Meta CEO Mark Zuckerberg to join tech leaders at Trump-Xi dinner, Bloomberg News reports",
-    "tokens": [
-      "bloomberg",
-      "ceo",
-      "dinner",
-      "join",
-      "leaders",
-      "mark",
-      "meta",
-      "news",
-      "reports",
-      "tech",
-      "trump",
-      "zuckerberg"
-    ],
-    "ts": 1790105075.186556
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/royal-caribbean-cruises-stock-hits-52week-low-at-23197-usd-93CH-4911494",
-    "title": "Royal Caribbean Cruises stock hits 52-week low at 231.97 USD",
-    "tokens": [
-      "231",
-      "caribbean",
-      "cruises",
-      "hits",
-      "low",
-      "royal",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790105084.0234048
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/meta-ai-agent-triggers-heavy-selloff-in-banks-insurers-and-travel-stocks-4911491",
-    "title": "Meta AI agent triggers heavy selloff in banks, insurers, and travel stocks",
-    "tokens": [
-      "agent",
-      "banks",
-      "heavy",
-      "insurers",
-      "meta",
-      "selloff",
-      "stocks",
-      "travel",
-      "triggers"
-    ],
-    "ts": 1790105093.992022
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/5e-advanced-materials-at-water-tower-research-boron-push-gains-scale-93CH-4911493",
-    "title": "5E Advanced Materials at water tower research: boron push gains scale",
-    "tokens": [
-      "advanced",
-      "boron",
-      "gains",
-      "materials",
-      "push",
-      "research",
-      "scale",
-      "tower",
-      "water"
-    ],
-    "ts": 1790105101.9612377
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/riley-exploration--production-at-water-tower-research-steady-growth-low-debt-93CH-4911492",
-    "title": "Riley Exploration & Production at Water Tower Research: steady growth, low debt",
-    "tokens": [
-      "debt",
-      "exploration",
-      "growth",
-      "low",
-      "production",
-      "research",
-      "riley",
-      "steady",
-      "tower",
-      "water"
-    ],
-    "ts": 1790105110.8045588
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lantronix-nominates-jason-lamb-to-board-two-directors-to-exit-93CH-4911490",
-    "title": "Lantronix nominates Jason Lamb to board, two directors to exit",
-    "tokens": [
-      "board",
-      "directors",
-      "exit",
-      "jason",
-      "lamb",
-      "lantronix",
-      "nominates",
-      "two"
-    ],
-    "ts": 1790105119.3322716
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/us-seeks-30-billion-for-air-traffic-control-upgrades-93CH-4911488",
     "title": "US seeks $30 billion for air traffic control upgrades",
     "tokens": [
@@ -23010,5 +22773,252 @@
       "yuen"
     ],
     "ts": 1790254652.3030381
+  },
+  {
+    "id": "WP-MKTW-0005251721",
+    "title": "Oracle’s stock is falling as investors fear a data-center setback",
+    "tokens": [
+      "center",
+      "data",
+      "falling",
+      "fear",
+      "investors",
+      "oracle",
+      "setback",
+      "stock"
+    ],
+    "ts": 1790255688.4160597
+  },
+  {
+    "id": "WP-MKTW-0005250479",
+    "title": "My wife wants to buy her late mother’s home, but her siblings won’t let her. Should I get involved?",
+    "tokens": [
+      "buy",
+      "get",
+      "her",
+      "home",
+      "involved",
+      "late",
+      "let",
+      "mother",
+      "should",
+      "siblings",
+      "wants",
+      "wife",
+      "won"
+    ],
+    "ts": 1790255696.0402133
+  },
+  {
+    "id": "WP-MKTW-0005251604",
+    "title": "Three reasons to stick with stocks despite rising yields, according to Barclays",
+    "tokens": [
+      "according",
+      "barclays",
+      "despite",
+      "reasons",
+      "rising",
+      "stick",
+      "stocks",
+      "three",
+      "yields"
+    ],
+    "ts": 1790255703.7687886
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-pasqal-posts-h1-2026-revenue-growth-as-losses-widen-93CH-4915459",
+    "title": "Earnings call transcript: Pasqal posts H1 2026 revenue growth as losses widen",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "growth",
+      "losses",
+      "pasqal",
+      "posts",
+      "revenue",
+      "transcript",
+      "widen"
+    ],
+    "ts": 1790255712.2001884
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ming-yang-smart-energy-plans-to-cancel-70-million-shares-93CH-4915454",
+    "title": "Ming Yang Smart Energy plans to cancel 70 million shares",
+    "tokens": [
+      "cancel",
+      "energy",
+      "million",
+      "ming",
+      "plans",
+      "shares",
+      "smart",
+      "yang"
+    ],
+    "ts": 1790255719.9165504
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/amazon-to-spend-100-million-on-new-robotics-facility-in-indiana--wsj-93CH-4915453",
+    "title": "Amazon to spend $100 million on new robotics facility in Indiana - WSJ",
+    "tokens": [
+      "100",
+      "amazon",
+      "facility",
+      "indiana",
+      "million",
+      "robotics",
+      "spend",
+      "wsj"
+    ],
+    "ts": 1790255728.08888
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sos-limited-reports-digital-assets-worth-756-million-93CH-4915452",
+    "title": "SOS Limited reports digital assets worth $75.6 million",
+    "tokens": [
+      "assets",
+      "digital",
+      "limited",
+      "million",
+      "reports",
+      "sos",
+      "worth"
+    ],
+    "ts": 1790255736.8235552
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/paramount-seeks-75-billion-loan-for-warner-bros-discovery-deal-93CH-4915450",
+    "title": "Paramount seeks $7.5 billion loan for Warner Bros. Discovery deal",
+    "tokens": [
+      "billion",
+      "bros",
+      "deal",
+      "discovery",
+      "loan",
+      "paramount",
+      "seeks",
+      "warner"
+    ],
+    "ts": 1790255745.0838597
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/soundhound-ai-launches-oasys-edge-for-embedded-voice-agents-93CH-4915451",
+    "title": "SoundHound AI launches OASYS Edge for embedded voice agents",
+    "tokens": [
+      "agents",
+      "edge",
+      "embedded",
+      "launches",
+      "oasys",
+      "soundhound",
+      "voice"
+    ],
+    "ts": 1790255753.1270504
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/alaska-airlines-to-expand-paine-field-service-by-50-by-2027-93CH-4915449",
+    "title": "Alaska Airlines to expand Paine Field service by 50% by 2027",
+    "tokens": [
+      "2027",
+      "airlines",
+      "alaska",
+      "expand",
+      "field",
+      "paine",
+      "service"
+    ],
+    "ts": 1790255760.9163692
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/aetna-expands-cancer-treatment-prior-authorization-bundles-93CH-4915447",
+    "title": "Aetna expands cancer treatment prior authorization bundles",
+    "tokens": [
+      "aetna",
+      "authorization",
+      "bundles",
+      "cancer",
+      "expands",
+      "prior",
+      "treatment"
+    ],
+    "ts": 1790255768.8680005
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/onterris-secures-14m-in-brownfields-work-through-july-93CH-4915448",
+    "title": "Onterris secures $14M in brownfields work through July",
+    "tokens": [
+      "14m",
+      "brownfields",
+      "july",
+      "onterris",
+      "secures",
+      "through",
+      "work"
+    ],
+    "ts": 1790255776.2734292
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sunshine-biopharma-launches-generic-ondansetron-in-canada-93CH-4915446",
+    "title": "Sunshine Biopharma launches generic ondansetron in Canada",
+    "tokens": [
+      "biopharma",
+      "canada",
+      "generic",
+      "launches",
+      "ondansetron",
+      "sunshine"
+    ],
+    "ts": 1790255784.708879
+  },
+  {
+    "id": "b745f25d-c1d3-4ab5-a7a7-27a1ae312dd2",
+    "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
+    "tokens": [
+      "anthropic",
+      "ark",
+      "cathie",
+      "fund",
+      "openai",
+      "securitize",
+      "stakes",
+      "teams",
+      "tokenize",
+      "venture",
+      "wood"
+    ],
+    "ts": 1790255793.866225
+  },
+  {
+    "id": "ed2da4f0-78e6-4a08-b90c-245d477def31",
+    "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
+    "tokens": [
+      "binance",
+      "finance",
+      "foundation",
+      "hires",
+      "polygon",
+      "push",
+      "ramps",
+      "solana",
+      "tokenized",
+      "veterans"
+    ],
+    "ts": 1790255801.6643898
+  },
+  {
+    "id": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive",
+    "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+    "tokens": [
+      "binance",
+      "cmo",
+      "exec",
+      "expand",
+      "foundation",
+      "hires",
+      "partnerships",
+      "payments",
+      "solana"
+    ],
+    "ts": 1790255809.39255
   }
 ]

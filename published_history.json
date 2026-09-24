@@ -1,92 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/data-suggests-global-luxury-demand-has-slowed-23ppts-in-3qtd-vs-2q-bofa-93CH-4910200",
-    "title": "Data suggests global luxury demand has slowed 2-3ppts in 3QTD vs 2Q: BofA",
-    "tokens": [
-      "3ppts",
-      "3qtd",
-      "bofa",
-      "data",
-      "demand",
-      "global",
-      "luxury",
-      "slowed",
-      "suggests"
-    ],
-    "ts": 1790071932.9282658
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ishares-to-close-italy-government-bond-etf-in-december-93CH-4910199",
-    "title": "iShares to close Italy government bond ETF in December",
-    "tokens": [
-      "bond",
-      "close",
-      "december",
-      "etf",
-      "government",
-      "ishares",
-      "italy"
-    ],
-    "ts": 1790071939.8731344
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-on-holding-stock-rating-on-2029-targets-93CH-4910198",
-    "title": "Goldman Sachs reiterates On Holding stock rating on 2029 targets",
-    "tokens": [
-      "2029",
-      "goldman",
-      "holding",
-      "rating",
-      "reiterates",
-      "sachs",
-      "stock",
-      "targets"
-    ],
-    "ts": 1790071947.356388
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-strong-buy-on-tonix-pharma-stock-at-27-93CH-4910197",
-    "title": "Raymond James reiterates Strong Buy on Tonix Pharma stock at $27",
-    "tokens": [
-      "buy",
-      "james",
-      "pharma",
-      "raymond",
-      "reiterates",
-      "stock",
-      "strong",
-      "tonix"
-    ],
-    "ts": 1790071954.863192
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-maintains-compass-stock-rating-on-housing-market-weakness-93CH-4910196",
-    "title": "Goldman Sachs maintains Compass stock rating on housing market weakness",
-    "tokens": [
-      "compass",
-      "goldman",
-      "housing",
-      "maintains",
-      "market",
-      "rating",
-      "sachs",
-      "stock",
-      "weakness"
-    ],
-    "ts": 1790071961.940027
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-on-stock-surging-today-93CH-4910195",
-    "title": "Why is On stock surging today?",
-    "tokens": [
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790071965.9495375
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/ubs-at-bank-of-america-financials-conference-growth-meets-capital-pressure-93CH-4910194",
     "title": "UBS at Bank of America financials conference: growth meets capital pressure",
     "tokens": [
@@ -23018,5 +22931,102 @@
       "years"
     ],
     "ts": 1790216887.185724
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/chinese-tech-chip-stocks-slide-as-us-yields-surge-4914380",
+    "title": "Chinese tech, chip stocks slide as U.S. yields surge",
+    "tokens": [
+      "chinese",
+      "chip",
+      "slide",
+      "stocks",
+      "surge",
+      "tech",
+      "yields"
+    ],
+    "ts": 1790218538.9026518
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/hope-fading-for-new-boeing-deal-during-uschina-summit-sources-say-4914377",
+    "title": "Hope fading for new Boeing deal during US-China summit, sources say",
+    "tokens": [
+      "boeing",
+      "china",
+      "deal",
+      "during",
+      "fading",
+      "hope",
+      "say",
+      "sources",
+      "summit"
+    ],
+    "ts": 1790218546.0952754
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/verastem-cfo-daniel-calkins-sells-423-in-company-stock-93CH-4914378",
+    "title": "Verastem CFO Daniel Calkins sells $423 in company stock",
+    "tokens": [
+      "423",
+      "calkins",
+      "cfo",
+      "company",
+      "daniel",
+      "sells",
+      "stock",
+      "verastem"
+    ],
+    "ts": 1790218553.0136747
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-soul-patts-h2-2026-profit-jumps-502-as-shares-rise-93CH-4914373",
+    "title": "Earnings call transcript: Soul Patts H2 2026 profit jumps 502% as shares rise",
+    "tokens": [
+      "2026",
+      "502",
+      "call",
+      "earnings",
+      "jumps",
+      "patts",
+      "profit",
+      "rise",
+      "shares",
+      "soul",
+      "transcript"
+    ],
+    "ts": 1790218559.694911
+  },
+  {
+    "id": "spacexs-ai-business-booming-heres-151430511.html",
+    "title": "SpaceX's AI Business Is Booming. Here's How Much Analysts Expect It to Generate by 2030",
+    "tokens": [
+      "2030",
+      "analysts",
+      "booming",
+      "business",
+      "expect",
+      "generate",
+      "here",
+      "how",
+      "much",
+      "spacex"
+    ],
+    "ts": 1790218567.8867998
+  },
+  {
+    "id": "icon-public-limited-company-iclr-150804481.html",
+    "title": "ICON Public Limited Company’s (ICLR) Shrinking Moat Warranted an Early Departure",
+    "tokens": [
+      "company",
+      "departure",
+      "early",
+      "iclr",
+      "icon",
+      "limited",
+      "moat",
+      "public",
+      "shrinking",
+      "warranted"
+    ],
+    "ts": 1790218574.6277146
   }
 ]

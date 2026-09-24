@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/uk-employers-pay-awards-cool-to-3-brightmine-data-shows-4911840",
-    "title": "UK employers’ pay awards cool to 3%, Brightmine data shows",
-    "tokens": [
-      "awards",
-      "brightmine",
-      "cool",
-      "data",
-      "employers",
-      "pay",
-      "shows"
-    ],
-    "ts": 1790120301.8835318
-  },
-  {
     "id": "https://www.investing.com/news/sec-filings/united-parks--resorts-appoints-kyle-miller-as-president-amends-bylaws-93CH-4911839",
     "title": "United Parks & Resorts appoints Kyle Miller as president, amends bylaws",
     "tokens": [
@@ -23015,5 +23001,21 @@
       "upgrade"
     ],
     "ts": 1790271633.4941707
+  },
+  {
+    "id": "WP-MKTW-0005252203",
+    "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
+    "tokens": [
+      "age",
+      "bill",
+      "congress",
+      "lower",
+      "qualify",
+      "retirement",
+      "see",
+      "who",
+      "would"
+    ],
+    "ts": 1790272329.2239356
   }
 ]

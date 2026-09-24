@@ -1,150 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/bofa-lifts-european-power-price-assumptions-shuffles-ratings-4910289",
-    "title": "BofA lifts European power price assumptions, shuffles ratings",
-    "tokens": [
-      "assumptions",
-      "bofa",
-      "european",
-      "lifts",
-      "power",
-      "price",
-      "ratings",
-      "shuffles"
-    ],
-    "ts": 1790072978.8756757
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/iran-ready-to-reopen-strait-of-hormuz-if-us-eases-military-pressure-and-lifts-blockade-4910286",
-    "title": "Iran ready to reopen Strait of Hormuz if US eases military pressure and lifts blockade",
-    "tokens": [
-      "blockade",
-      "eases",
-      "hormuz",
-      "iran",
-      "lifts",
-      "military",
-      "pressure",
-      "ready",
-      "reopen",
-      "strait"
-    ],
-    "ts": 1790072986.7461364
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/banks-warn-ai-shopping-bots-raise-scam-fraud-and-dataprivacy-risks-4910257",
-    "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks",
-    "tokens": [
-      "banks",
-      "bots",
-      "data",
-      "fraud",
-      "privacy",
-      "raise",
-      "risks",
-      "scam",
-      "shopping",
-      "warn"
-    ],
-    "ts": 1790072994.510061
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/india-places-spicejet-under-scrutiny-amid-cash-flow-troubles-93CH-4910285",
-    "title": "India places SpiceJet under scrutiny amid cash flow troubles",
-    "tokens": [
-      "cash",
-      "flow",
-      "india",
-      "places",
-      "scrutiny",
-      "spicejet",
-      "troubles",
-      "under"
-    ],
-    "ts": 1790073005.8566847
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/analysisfrom-smart-glasses-to-ai-pins-privacy-fears-challenge-techs-next-big-bet-4910249",
-    "title": "Analysis-From smart glasses to AI pins, privacy fears challenge tech’s next big bet",
-    "tokens": [
-      "analysis",
-      "bet",
-      "big",
-      "challenge",
-      "fears",
-      "glasses",
-      "next",
-      "pins",
-      "privacy",
-      "smart",
-      "tech"
-    ],
-    "ts": 1790073013.981463
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/kremlin-says-us-denied-visa-to-russian-deputy-foreign-minister-93CH-4910284",
-    "title": "Kremlin says US denied visa to Russian deputy foreign minister",
-    "tokens": [
-      "denied",
-      "deputy",
-      "foreign",
-      "kremlin",
-      "minister",
-      "russian",
-      "visa"
-    ],
-    "ts": 1790073021.1644144
-  },
-  {
-    "id": "fda-approves-fayuvi-does-mean-101851628.html",
-    "title": "FDA Approves Fayuvi. What Does It Mean for Ultragenyx (RARE)’s 2027 Profitability Target?",
-    "tokens": [
-      "2027",
-      "approves",
-      "does",
-      "fayuvi",
-      "fda",
-      "mean",
-      "profitability",
-      "rare",
-      "target",
-      "ultragenyx",
-      "what"
-    ],
-    "ts": 1790073029.703975
-  },
-  {
-    "id": "twist-bioscience-twst-expands-ai-100850469.html",
-    "title": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
-    "tokens": [
-      "bioscience",
-      "discovery",
-      "drug",
-      "expands",
-      "exposure",
-      "lilly",
-      "partnership",
-      "tunelab",
-      "twist",
-      "twst"
-    ],
-    "ts": 1790073037.469113
-  },
-  {
-    "id": "corporate-bond-buyers-picky-flood-100410778.html",
-    "title": "Corporate bond buyers get picky with flood of AI debt",
-    "tokens": [
-      "bond",
-      "buyers",
-      "corporate",
-      "debt",
-      "flood",
-      "get",
-      "picky"
-    ],
-    "ts": 1790073045.30927
-  },
-  {
     "id": "stellantis-stla-reportedly-eyes-1-100646836.html",
     "title": "Stellantis (STLA) Reportedly Eyes $1.16 Billion France Van Investment",
     "tokens": [
@@ -23033,5 +22888,141 @@
       "why"
     ],
     "ts": 1790222190.2360747
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/australia-housing-runs-out-of-rescuers-as-rba-is-set-to-hike-rates-4914399",
+    "title": "Australia housing runs out of rescuers as RBA is set to hike rates",
+    "tokens": [
+      "australia",
+      "hike",
+      "housing",
+      "rates",
+      "rba",
+      "rescuers",
+      "runs",
+      "set"
+    ],
+    "ts": 1790223135.61605
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/us-and-indian-top-diplomats-discuss-russia-sanctions-bill-signed-by-trump-4914397",
+    "title": "US and Indian top diplomats discuss Russia sanctions bill signed by Trump",
+    "tokens": [
+      "bill",
+      "diplomats",
+      "discuss",
+      "indian",
+      "russia",
+      "sanctions",
+      "signed",
+      "top",
+      "trump"
+    ],
+    "ts": 1790223143.0128973
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-ibiden-stock-surging-today-93CH-4914396",
+    "title": "Why is Ibiden stock surging today?",
+    "tokens": [
+      "ibiden",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790223147.0294693
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-surging-yields-weigh-trumpxi-talks-in-focus-4914395",
+    "title": "Asia stocks fall as surging yields weigh; Trump-Xi talks in focus",
+    "tokens": [
+      "asia",
+      "fall",
+      "focus",
+      "stocks",
+      "surging",
+      "talks",
+      "trump",
+      "weigh",
+      "yields"
+    ],
+    "ts": 1790223151.0097241
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/metas-muse-who-are-the-winners-and-losers-of-more-agentic-ai-adoption-93CH-4914391",
+    "title": "Meta’s Muse: who are the winners and losers of more agentic AI adoption?",
+    "tokens": [
+      "adoption",
+      "agentic",
+      "losers",
+      "meta",
+      "more",
+      "muse",
+      "who",
+      "winners"
+    ],
+    "ts": 1790223159.1245801
+  },
+  {
+    "id": "why-crane-co-cr-among-163509000.html",
+    "title": "Why Crane Co. (CR) Was Among Gabelli’s Top Q2 Performers",
+    "tokens": [
+      "among",
+      "crane",
+      "gabelli",
+      "performers",
+      "top",
+      "why"
+    ],
+    "ts": 1790223167.2212598
+  },
+  {
+    "id": "u-m2-money-supply-recently-162000876.html",
+    "title": "U.S. M2 Money Supply Recently Grew at the Fastest Pace Seen in 3 Years. It Could Be an Ominous Sign With Inflation at 3.4%.",
+    "tokens": [
+      "could",
+      "fastest",
+      "grew",
+      "inflation",
+      "money",
+      "ominous",
+      "pace",
+      "recently",
+      "seen",
+      "sign",
+      "supply",
+      "years"
+    ],
+    "ts": 1790223174.9180386
+  },
+  {
+    "id": "why-myers-industries-mye-top-163520531.html",
+    "title": "Why Myers Industries (MYE) Was a Top Performer for Gabelli in Q2",
+    "tokens": [
+      "gabelli",
+      "industries",
+      "mye",
+      "myers",
+      "performer",
+      "top",
+      "why"
+    ],
+    "ts": 1790223182.367433
+  },
+  {
+    "id": "why-graco-ggg-q2-detractor-163529754.html",
+    "title": "Why Graco (GGG) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
+    "tokens": [
+      "cap",
+      "detractor",
+      "fund",
+      "gabelli",
+      "ggg",
+      "graco",
+      "growth",
+      "small",
+      "why"
+    ],
+    "ts": 1790223189.5687664
   }
 ]

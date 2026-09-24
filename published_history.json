@@ -1,285 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/roche-obesity-drug-shows-155-weight-loss-in-diabetes-trial-93CH-4910507",
-    "title": "Roche obesity drug shows 15.5% weight loss in diabetes trial",
-    "tokens": [
-      "diabetes",
-      "drug",
-      "loss",
-      "obesity",
-      "roche",
-      "shows",
-      "trial",
-      "weight"
-    ],
-    "ts": 1790077380.0155427
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/premarket-movers-quest-labcorp-hit-by-cms-cuts-4910503",
-    "title": "Premarket movers: Quest, Labcorp hit by CMS cuts",
-    "tokens": [
-      "cms",
-      "cuts",
-      "hit",
-      "labcorp",
-      "movers",
-      "premarket",
-      "quest"
-    ],
-    "ts": 1790077388.519929
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/accelevation-targets-up-to-54-billion-valuation-in-us-ipo-4910506",
-    "title": "Accelevation targets up to $5.4 billion valuation in US IPO",
-    "tokens": [
-      "accelevation",
-      "billion",
-      "ipo",
-      "targets",
-      "valuation"
-    ],
-    "ts": 1790077396.1896617
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/thor-industries-stock-falls-2-on-fourth-quarter-earnings-miss-93CH-4910505",
-    "title": "Thor Industries stock falls 2% on fourth quarter earnings miss",
-    "tokens": [
-      "earnings",
-      "falls",
-      "fourth",
-      "industries",
-      "miss",
-      "quarter",
-      "stock",
-      "thor"
-    ],
-    "ts": 1790077403.420025
-  },
-  {
-    "id": "aarp-social-security-proposal-could-113000944.html",
-    "title": "AARP: Social Security proposal could ‘erode’ checks for 80% of recipients. 3 moves to protect your retirement income now",
-    "tokens": [
-      "aarp",
-      "checks",
-      "could",
-      "erode",
-      "income",
-      "moves",
-      "now",
-      "proposal",
-      "protect",
-      "recipients",
-      "retirement",
-      "security",
-      "social",
-      "your"
-    ],
-    "ts": 1790077412.7089508
-  },
-  {
-    "id": "credo-technology-crdo-just-cleared-112133583.html",
-    "title": "Credo Technology (CRDO) Just Cleared a Key PCIe 6.0 Milestone. What Comes Next?",
-    "tokens": [
-      "cleared",
-      "comes",
-      "crdo",
-      "credo",
-      "just",
-      "key",
-      "milestone",
-      "next",
-      "pcie",
-      "technology",
-      "what"
-    ],
-    "ts": 1790077422.3090017
-  },
-  {
-    "id": "saudi-arabia-restarts-east-west-100845429.html",
-    "title": "Saudi Arabia restarts East-West oil pipeline, sources say",
-    "tokens": [
-      "arabia",
-      "east",
-      "oil",
-      "pipeline",
-      "restarts",
-      "saudi",
-      "say",
-      "sources",
-      "west"
-    ],
-    "ts": 1790077430.2172136
-  },
-  {
-    "id": "de58f44c-ab6a-41ad-8558-8a4a98c93a8f",
-    "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
-    "tokens": [
-      "000",
-      "bets",
-      "bitcoin",
-      "butterfly",
-      "end",
-      "million",
-      "october",
-      "option",
-      "trade"
-    ],
-    "ts": 1790077439.0889757
-  },
-  {
-    "id": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes",
-    "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
-    "tokens": [
-      "dlt",
-      "ecb",
-      "money",
-      "own",
-      "pontes",
-      "put",
-      "securities",
-      "tokenized",
-      "via"
-    ],
-    "ts": 1790077446.428934
-  },
-  {
-    "id": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks",
-    "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-    "tokens": [
-      "bank",
-      "cenbanks",
-      "changes",
-      "deposit",
-      "ecb",
-      "mica",
-      "minimum",
-      "seek",
-      "stablecoins"
-    ],
-    "ts": 1790077453.8249118
-  },
-  {
-    "id": "WP-MKTW-0005243891",
-    "title": "Financial conditions are tightening. Here’s why stock investors should pay attention.",
-    "tokens": [
-      "attention",
-      "conditions",
-      "financial",
-      "here",
-      "investors",
-      "pay",
-      "should",
-      "stock",
-      "tightening",
-      "why"
-    ],
-    "ts": 1790077966.395006
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/pfizer-at-us-all-stars-conference-growth-shifts-beyond-covid-93CH-4910592",
-    "title": "Pfizer at U.S. All Stars Conference: growth shifts beyond covid",
-    "tokens": [
-      "all",
-      "beyond",
-      "conference",
-      "covid",
-      "growth",
-      "pfizer",
-      "shifts",
-      "stars"
-    ],
-    "ts": 1790077975.0369124
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/bruker-at-bank-of-america-global-healthcare-conference-growth-mix-lifts-outlook-93CH-4910585",
-    "title": "Bruker at Bank of America Global Healthcare Conference: growth mix lifts outlook",
-    "tokens": [
-      "america",
-      "bank",
-      "bruker",
-      "conference",
-      "global",
-      "growth",
-      "healthcare",
-      "lifts",
-      "mix",
-      "outlook"
-    ],
-    "ts": 1790077982.32501
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/china-regulator-probes-deepseek-and-moonshot-ai-over-data-routing--information-93CH-4910581",
-    "title": "China regulator probes DeepSeek and Moonshot AI over data routing - Information",
-    "tokens": [
-      "china",
-      "data",
-      "deepseek",
-      "information",
-      "moonshot",
-      "probes",
-      "regulator",
-      "routing"
-    ],
-    "ts": 1790077989.4666338
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/briley-reiterates-buy-on-nayax-stock-with-83-price-target-93CH-4910579",
-    "title": "B.Riley reiterates Buy on Nayax stock with $83 price target",
-    "tokens": [
-      "buy",
-      "nayax",
-      "price",
-      "reiterates",
-      "riley",
-      "stock",
-      "target"
-    ],
-    "ts": 1790077996.8456006
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/slovak-pm-calls-for-eu-emergency-summit-on-fuel-prices-93CH-4910574",
-    "title": "Slovak PM calls for EU emergency summit on fuel prices",
-    "tokens": [
-      "calls",
-      "emergency",
-      "fuel",
-      "prices",
-      "slovak",
-      "summit"
-    ],
-    "ts": 1790078005.287918
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-amid-mideast-diplomacy-hopes-upcoming-trumpxi-summit-4910572",
-    "title": "TSX futures inch higher amid Mideast diplomacy hopes, upcoming Trump-Xi summit",
-    "tokens": [
-      "diplomacy",
-      "futures",
-      "higher",
-      "hopes",
-      "inch",
-      "mideast",
-      "summit",
-      "trump",
-      "tsx",
-      "upcoming"
-    ],
-    "ts": 1790078012.9529443
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/grab-stock-jumps-after-ceo-purchases-299m-in-shares-93CH-4910570",
-    "title": "Grab stock jumps after CEO purchases $29.9M in shares",
-    "tokens": [
-      "ceo",
-      "grab",
-      "jumps",
-      "purchases",
-      "shares",
-      "stock"
-    ],
-    "ts": 1790078020.4763873
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/bbva-at-bank-of-america-31th-annual-financials-ceo-conference-growth-and-caution-93CH-4910569",
     "title": "BBVA at Bank of America 31th Annual Financials CEO Conference: growth and caution",
     "tokens": [
@@ -22997,5 +22717,275 @@
       "why"
     ],
     "ts": 1790230513.870479
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ecb-will-decide-on-rates-from-meeting-to-meeting-kocher-tells-newspaper-4914474",
+    "title": "ECB will decide on rates from meeting to meeting, Kocher tells newspaper",
+    "tokens": [
+      "decide",
+      "ecb",
+      "kocher",
+      "meeting",
+      "newspaper",
+      "rates",
+      "tells"
+    ],
+    "ts": 1790231800.9165235
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tap-globals-crypto-yield-program-surpasses-8m-in-assets-93CH-4914471",
+    "title": "Tap Global’s crypto yield program surpasses $8m in assets",
+    "tokens": [
+      "assets",
+      "crypto",
+      "global",
+      "program",
+      "surpasses",
+      "tap",
+      "yield"
+    ],
+    "ts": 1790231808.063357
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/dfs-furniture-reports-487-profit-growth-cuts-debt-by-38m-93CH-4914469",
+    "title": "DFS Furniture reports 48.7% profit growth, cuts debt by £38m",
+    "tokens": [
+      "38m",
+      "cuts",
+      "debt",
+      "dfs",
+      "furniture",
+      "growth",
+      "profit",
+      "reports"
+    ],
+    "ts": 1790231816.1454644
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/hms-operating-profit-grows-more-than-expected-in-third-quarter-4914468",
+    "title": "H&M’s operating profit grows more than expected in third quarter",
+    "tokens": [
+      "expected",
+      "grows",
+      "more",
+      "operating",
+      "profit",
+      "quarter",
+      "third"
+    ],
+    "ts": 1790231823.4729307
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hafnia-to-increase-stake-in-torm-to-1985-for-578m-93CH-4914466",
+    "title": "Hafnia to increase stake in TORM to 19.85% for $57.8m",
+    "tokens": [
+      "hafnia",
+      "increase",
+      "stake",
+      "torm"
+    ],
+    "ts": 1790231830.6497207
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sundae-bar-ai-launches-monthly-subscription-for-ai-agents-93CH-4914462",
+    "title": "Sundae Bar AI launches monthly subscription for AI agents",
+    "tokens": [
+      "agents",
+      "bar",
+      "launches",
+      "monthly",
+      "subscription",
+      "sundae"
+    ],
+    "ts": 1790231838.3889153
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tencent-launches-mobile-payment-app-for-foreign-visitors-93CH-4914460",
+    "title": "Tencent launches mobile payment app for foreign visitors",
+    "tokens": [
+      "app",
+      "foreign",
+      "launches",
+      "mobile",
+      "payment",
+      "tencent",
+      "visitors"
+    ],
+    "ts": 1790231846.2509947
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/indias-rbi-conducts-10-bln-currency-swaps-to-drain-liquidity--report-93CH-4914459",
+    "title": "India’s RBI conducts $10 bln currency swaps to drain liquidity - report",
+    "tokens": [
+      "bln",
+      "conducts",
+      "currency",
+      "drain",
+      "india",
+      "liquidity",
+      "rbi",
+      "report",
+      "swaps"
+    ],
+    "ts": 1790231853.5921285
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/rentguarantor-signs-deals-with-two-buildtorent-operators-93CH-4914458",
+    "title": "RentGuarantor signs deals with two build-to-rent operators",
+    "tokens": [
+      "build",
+      "deals",
+      "operators",
+      "rent",
+      "rentguarantor",
+      "signs",
+      "two"
+    ],
+    "ts": 1790231860.4493365
+  },
+  {
+    "id": "weekend-chain-prices-monday-don-183331035.html",
+    "title": "What Weekend On-Chain Prices Say About Monday, and What They Don’t",
+    "tokens": [
+      "about",
+      "chain",
+      "don",
+      "monday",
+      "prices",
+      "say",
+      "they",
+      "weekend",
+      "what"
+    ],
+    "ts": 1790231867.961618
+  },
+  {
+    "id": "high-growth-energy-stock-continues-183638227.html",
+    "title": "This High-Growth Energy Stock Continues to Plunge. Don’t Rush to Buy the Dip.",
+    "tokens": [
+      "buy",
+      "continues",
+      "dip",
+      "don",
+      "energy",
+      "growth",
+      "high",
+      "plunge",
+      "rush",
+      "stock"
+    ],
+    "ts": 1790231874.966361
+  },
+  {
+    "id": "netapp-ntap-just-deepened-vmware-183727937.html",
+    "title": "NetApp (NTAP) Just Deepened Its VMware Cloud Integration. How Much Does It Matter?",
+    "tokens": [
+      "cloud",
+      "deepened",
+      "does",
+      "how",
+      "integration",
+      "just",
+      "matter",
+      "much",
+      "netapp",
+      "ntap",
+      "vmware"
+    ],
+    "ts": 1790231882.4917135
+  },
+  {
+    "id": "diplomatic-hopes-middle-east-knock-191435224.html",
+    "title": "Diplomatic Hopes in the Middle East Knock Crude Prices Lower",
+    "tokens": [
+      "crude",
+      "diplomatic",
+      "east",
+      "hopes",
+      "knock",
+      "lower",
+      "middle",
+      "prices"
+    ],
+    "ts": 1790231886.5086133
+  },
+  {
+    "id": "grabs-chief-operating-officer-buys-183318676.html",
+    "title": "Grab's Chief Operating Officer Buys Nearly 300,000 Shares for $867,000 After Stock Hits 52-Week Low",
+    "tokens": [
+      "000",
+      "300",
+      "867",
+      "buys",
+      "chief",
+      "grab",
+      "hits",
+      "low",
+      "nearly",
+      "officer",
+      "operating",
+      "shares",
+      "stock",
+      "week"
+    ],
+    "ts": 1790231889.3310955
+  },
+  {
+    "id": "integra-ready-deploy-250m-closing-191212523.html",
+    "title": "Integra ready to deploy $250M after closing multifamily fund",
+    "tokens": [
+      "250m",
+      "closing",
+      "deploy",
+      "fund",
+      "integra",
+      "multifamily",
+      "ready"
+    ],
+    "ts": 1790231897.1882362
+  },
+  {
+    "id": "best-practices-sports-investing-2nd-191154115.html",
+    "title": "Best Practices in Sports Investing: 2nd LA CorpGov Forum",
+    "tokens": [
+      "2nd",
+      "best",
+      "corpgov",
+      "forum",
+      "investing",
+      "practices",
+      "sports"
+    ],
+    "ts": 1790231904.4931414
+  },
+  {
+    "id": "what-is-prime-rate-155310130.html",
+    "title": "What is the prime rate, and how does it affect you?",
+    "tokens": [
+      "affect",
+      "does",
+      "how",
+      "prime",
+      "rate",
+      "what",
+      "you"
+    ],
+    "ts": 1790231911.8297157
+  },
+  {
+    "id": "2131a239-7f11-4dcf-8057-1c1eae6bab22",
+    "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
+    "tokens": [
+      "administration",
+      "cement",
+      "dollar",
+      "dominance",
+      "global",
+      "plan",
+      "stablecoin",
+      "trump",
+      "weighs"
+    ],
+    "ts": 1790231921.2321444
   }
 ]

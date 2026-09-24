@@ -1,63 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-cuts-chord-energy-stock-price-target-on-marcellus-sale-impact-93CH-4911158",
-    "title": "UBS cuts Chord Energy stock price target on Marcellus sale impact",
-    "tokens": [
-      "chord",
-      "cuts",
-      "energy",
-      "impact",
-      "marcellus",
-      "price",
-      "sale",
-      "stock",
-      "target",
-      "ubs"
-    ],
-    "ts": 1790088355.135113
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/textron-aviation-rolls-out-500th-citation-latitude-jet-93CH-4911157",
-    "title": "Textron Aviation rolls out 500th Citation Latitude jet",
-    "tokens": [
-      "500th",
-      "aviation",
-      "citation",
-      "jet",
-      "latitude",
-      "rolls",
-      "textron"
-    ],
-    "ts": 1790088364.1402166
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/goodvision-ai-secures-30m-forward-purchase-agreement-93CH-4911156",
-    "title": "GoodVision AI secures $30M forward purchase agreement",
-    "tokens": [
-      "30m",
-      "agreement",
-      "forward",
-      "goodvision",
-      "purchase",
-      "secures"
-    ],
-    "ts": 1790088372.4901521
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/feds-discount-window-supports-market-liquidity-jefferson-says-4911155",
-    "title": "Fed’s discount window supports market liquidity, Jefferson says",
-    "tokens": [
-      "discount",
-      "fed",
-      "jefferson",
-      "liquidity",
-      "market",
-      "supports",
-      "window"
-    ],
-    "ts": 1790088380.625215
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/goldman-sachs-in-talks-to-acquire-palmer-square-bloomberg-says-4911154",
     "title": "Goldman Sachs in talks to acquire Palmer Square, Bloomberg says",
     "tokens": [
@@ -22972,5 +22914,73 @@
       "through"
     ],
     "ts": 1790242248.7017906
+  },
+  {
+    "id": "diesel-prices-valero-marathon-refining-stocks-4487b345?siteid=yhoof2&yptr=yahoo",
+    "title": "Trump Supports Diesel Export Ban, Knocking Refining Stocks",
+    "tokens": [
+      "ban",
+      "diesel",
+      "export",
+      "knocking",
+      "refining",
+      "stocks",
+      "supports",
+      "trump"
+    ],
+    "ts": 1790243099.7388227
+  },
+  {
+    "id": "crowdstrike-stock-rallies-ai-security-213438176.html",
+    "title": "CrowdStrike Stock Rallies as AI Security Fears Create a Major Opportunity. How to Play CRWD Here.",
+    "tokens": [
+      "create",
+      "crowdstrike",
+      "crwd",
+      "fears",
+      "here",
+      "how",
+      "major",
+      "opportunity",
+      "play",
+      "rallies",
+      "security",
+      "stock"
+    ],
+    "ts": 1790243108.2304397
+  },
+  {
+    "id": "9b4062c9-f4eb-49f1-810c-c073d1e916d2",
+    "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
+    "tokens": [
+      "blockchain",
+      "computing",
+      "encryption",
+      "financial",
+      "imminent",
+      "poses",
+      "quantum",
+      "threat",
+      "warn",
+      "watchdogs"
+    ],
+    "ts": 1790243117.5702612
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k",
+    "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
+    "tokens": [
+      "347m",
+      "84k",
+      "87k",
+      "add",
+      "below",
+      "bitcoin",
+      "btc",
+      "etfs",
+      "falls",
+      "topping"
+    ],
+    "ts": 1790243124.7732372
   }
 ]

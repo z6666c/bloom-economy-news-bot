@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-bp-stock-rating-on-balance-sheet-repair-outlook-93CH-4912125",
-    "title": "JPMorgan upgrades BP stock rating on balance sheet repair outlook",
-    "tokens": [
-      "balance",
-      "jpmorgan",
-      "outlook",
-      "rating",
-      "repair",
-      "sheet",
-      "stock",
-      "upgrades"
-    ],
-    "ts": 1790146602.2184548
-  },
-  {
     "id": "https://www.investing.com/news/earnings/jd-sports-holds-profit-view-as-h1-margins-beat-expectations-4912124",
     "title": "JD Sports holds profit view as H1 margins beat expectations",
     "tokens": [
@@ -23054,5 +23039,21 @@
       "solutions"
     ],
     "ts": 1790292346.2183747
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express",
+    "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
+    "tokens": [
+      "351m",
+      "adoption",
+      "asia",
+      "bitget",
+      "crypto",
+      "dominates",
+      "express",
+      "hack",
+      "index"
+    ],
+    "ts": 1790293124.2169504
   }
 ]

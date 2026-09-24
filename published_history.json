@@ -1,153 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/ubs-shares-fall-as-ceo-pushes-back-on-swiss-capital-rules-ahead-of-vote-4910012",
-    "title": "UBS shares fall as CEO pushes back on Swiss capital rules ahead of vote",
-    "tokens": [
-      "ahead",
-      "back",
-      "capital",
-      "ceo",
-      "fall",
-      "pushes",
-      "rules",
-      "shares",
-      "swiss",
-      "ubs",
-      "vote"
-    ],
-    "ts": 1790064825.8940854
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/colombia-accepts-biodegradability-evidence-for-d2w-straws-93CH-4910010",
-    "title": "Colombia accepts biodegradability evidence for d2w straws",
-    "tokens": [
-      "accepts",
-      "biodegradability",
-      "colombia",
-      "d2w",
-      "evidence",
-      "straws"
-    ],
-    "ts": 1790064833.5063372
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trump-to-sign-deal-with-greenland-and-denmark-on-us-military-expansion-93CH-4910009",
-    "title": "Trump to sign deal with Greenland and Denmark on U.S. military expansion",
-    "tokens": [
-      "deal",
-      "denmark",
-      "expansion",
-      "greenland",
-      "military",
-      "sign",
-      "trump"
-    ],
-    "ts": 1790064840.6346593
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/trump-to-speak-at-un-alibabas-new-ai-chip--whats-moving-markets-4910008",
-    "title": "Trump to speak at UN; Alibaba’s new AI chip - what’s moving markets",
-    "tokens": [
-      "alibaba",
-      "chip",
-      "markets",
-      "moving",
-      "speak",
-      "trump",
-      "what"
-    ],
-    "ts": 1790064848.2755857
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-closes-rearview-camera-probe-into-more-than-129000-honda-vehicles-4910002",
-    "title": "US closes rear-view camera probe into more than 129,000 Honda vehicles",
-    "tokens": [
-      "000",
-      "129",
-      "camera",
-      "closes",
-      "honda",
-      "more",
-      "probe",
-      "rear",
-      "vehicles",
-      "view"
-    ],
-    "ts": 1790064856.1334445
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-vusiongroup-stock-surging-today-93CH-4910007",
-    "title": "Why is Vusiongroup stock surging today?",
-    "tokens": [
-      "stock",
-      "surging",
-      "today",
-      "vusiongroup",
-      "why"
-    ],
-    "ts": 1790064860.1453092
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/evonik-shares-rise-3-on-restructuring-plan-4910034",
-    "title": "Evonik shares rise 3% on restructuring plan",
-    "tokens": [
-      "evonik",
-      "plan",
-      "restructuring",
-      "rise",
-      "shares"
-    ],
-    "ts": 1790065826.6107152
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australias-idp-rejects-blackstones-494-million-takeover-offer-4910033",
-    "title": "Australia’s IDP rejects Blackstone’s $494 million takeover offer",
-    "tokens": [
-      "494",
-      "australia",
-      "blackstone",
-      "idp",
-      "million",
-      "offer",
-      "rejects",
-      "takeover"
-    ],
-    "ts": 1790065834.7797587
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/teva-at-us-all-stars-conference-growth-plan-gains-traction-93CH-4910032",
-    "title": "Teva at U.S. All Stars Conference: growth plan gains traction",
-    "tokens": [
-      "all",
-      "conference",
-      "gains",
-      "growth",
-      "plan",
-      "stars",
-      "teva",
-      "traction"
-    ],
-    "ts": 1790065842.8507113
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-target-real-estate-investment-trust-posts-strong-h2-2026-93CH-4910031",
-    "title": "Earnings call transcript: Target Real Estate Investment Trust posts strong H2 2026",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "estate",
-      "investment",
-      "posts",
-      "real",
-      "strong",
-      "target",
-      "transcript",
-      "trust"
-    ],
-    "ts": 1790065850.5150728
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/cranswick-shares-rise-to-oneweek-high-after-berenberg-upgrade-4910030",
     "title": "Cranswick shares rise to one-week high after Berenberg upgrade",
     "tokens": [
@@ -23032,5 +22884,153 @@
       "stock"
     ],
     "ts": 1790208928.6133003
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/softbank-issues-111-billion-in-bonds-in-openai-financing-push-4914266",
+    "title": "SoftBank issues $11.1 billion in bonds in OpenAI financing push",
+    "tokens": [
+      "billion",
+      "bonds",
+      "financing",
+      "issues",
+      "openai",
+      "push",
+      "softbank"
+    ],
+    "ts": 1790210252.726114
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-tempus-ai-stock-buys-scribe-therapeutics-93CH-4914264",
+    "title": "Cathie Wood’s ARK sells Tempus AI stock, buys Scribe Therapeutics",
+    "tokens": [
+      "ark",
+      "buys",
+      "cathie",
+      "scribe",
+      "sells",
+      "stock",
+      "tempus",
+      "therapeutics",
+      "wood"
+    ],
+    "ts": 1790210259.8367124
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/grace-therapeutics-director-opaleye-management-buys-31686-in-stock-93CH-4914263",
+    "title": "Grace Therapeutics director Opaleye Management buys $31,686 in stock",
+    "tokens": [
+      "686",
+      "buys",
+      "director",
+      "grace",
+      "management",
+      "opaleye",
+      "stock",
+      "therapeutics"
+    ],
+    "ts": 1790210267.7440882
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/manchester-united-earnings-beat-by-004-revenue-topped-estimates-4914260",
+    "title": "Manchester United earnings beat by £0.04, revenue topped estimates",
+    "tokens": [
+      "beat",
+      "earnings",
+      "estimates",
+      "manchester",
+      "revenue",
+      "topped",
+      "united"
+    ],
+    "ts": 1790210275.623814
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/meta-ai-glasses-to-feature-dolby-atmos-audio-capture-93CH-4914259",
+    "title": "Meta AI glasses to feature Dolby Atmos audio capture",
+    "tokens": [
+      "atmos",
+      "audio",
+      "capture",
+      "dolby",
+      "feature",
+      "glasses",
+      "meta"
+    ],
+    "ts": 1790210283.0012507
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-china-agree-to-extend-trade-truce-until-january-bessent-says-4914257",
+    "title": "U.S., China agree to extend trade truce until January, Bessent says",
+    "tokens": [
+      "agree",
+      "bessent",
+      "china",
+      "extend",
+      "january",
+      "trade",
+      "truce",
+      "until"
+    ],
+    "ts": 1790210290.415636
+  },
+  {
+    "id": "why-cathie-wood-says-spacex-130002913.html",
+    "title": "Why Cathie Wood Says SpaceX Stock Could Be a Deep-Value Buy",
+    "tokens": [
+      "buy",
+      "cathie",
+      "could",
+      "deep",
+      "spacex",
+      "stock",
+      "value",
+      "why",
+      "wood"
+    ],
+    "ts": 1790210299.2050197
+  },
+  {
+    "id": "dear-semiconductor-stock-fans-know-130002440.html",
+    "title": "Dear ON Semiconductor Stock Fans, Here’s What You Need to Know About ON’s Financial Analyst Day",
+    "tokens": [
+      "about",
+      "analyst",
+      "day",
+      "dear",
+      "fans",
+      "financial",
+      "here",
+      "know",
+      "need",
+      "semiconductor",
+      "stock",
+      "what",
+      "you"
+    ],
+    "ts": 1790210306.5991955
+  },
+  {
+    "id": "quantasing-group-q4-earnings-call-130220427.html",
+    "title": "QuantaSing Group Q4 Earnings Call Highlights",
+    "tokens": [
+      "call",
+      "earnings",
+      "group",
+      "highlights",
+      "quantasing"
+    ],
+    "ts": 1790210313.533152
+  },
+  {
+    "id": "skyworks-solutions-stock-outperforming-dow-125127017.html",
+    "title": "Is Skyworks Solutions Stock Outperforming the Dow?",
+    "tokens": [
+      "dow",
+      "outperforming",
+      "skyworks",
+      "solutions",
+      "stock"
+    ],
+    "ts": 1790210320.7572849
   }
 ]

@@ -1,190 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/strategy-inc-director-jarrod-patten-sells-238k-in-shares-93CH-4911790",
-    "title": "Strategy Inc director Jarrod Patten sells $238k in shares",
-    "tokens": [
-      "238k",
-      "director",
-      "inc",
-      "jarrod",
-      "patten",
-      "sells",
-      "shares",
-      "strategy"
-    ],
-    "ts": 1790116766.8642464
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/kb-home-q3-2026-slides-bto-model-shines-amid-margin-pressure-93CH-4911783",
-    "title": "KB Home Q3 2026 slides: BTO model shines amid margin pressure",
-    "tokens": [
-      "2026",
-      "bto",
-      "home",
-      "margin",
-      "model",
-      "pressure",
-      "shines",
-      "slides"
-    ],
-    "ts": 1790116774.4435666
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/firstline-acquires-150000-stake-in-forward-water-technologies-93CH-4911782",
-    "title": "FirstLine acquires $150,000 stake in Forward Water Technologies",
-    "tokens": [
-      "000",
-      "150",
-      "acquires",
-      "firstline",
-      "forward",
-      "stake",
-      "technologies",
-      "water"
-    ],
-    "ts": 1790116781.813757
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/orosur-mining-launches-private-placement-to-raise-c14-million-93CH-4911779",
-    "title": "Orosur Mining launches private placement to raise C$14 million",
-    "tokens": [
-      "launches",
-      "million",
-      "mining",
-      "orosur",
-      "placement",
-      "private",
-      "raise"
-    ],
-    "ts": 1790116788.796005
-  },
-  {
-    "id": "200-large-cap-1-month-142246542.html",
-    "title": "Out of 200 Large-Cap, 1-Month Losers, This Video Game Stock Stands Out",
-    "tokens": [
-      "200",
-      "cap",
-      "game",
-      "large",
-      "losers",
-      "month",
-      "stands",
-      "stock",
-      "video"
-    ],
-    "ts": 1790116796.4692252
-  },
-  {
-    "id": "expeditors-stock-outperforming-p-500-143033324.html",
-    "title": "Is Expeditors Stock Outperforming the S&P 500?",
-    "tokens": [
-      "500",
-      "expeditors",
-      "outperforming",
-      "stock"
-    ],
-    "ts": 1790117483.7468386
-  },
-  {
-    "id": "baxter-stock-underperforming-nasdaq-143204719.html",
-    "title": "Is Baxter Stock Underperforming the Nasdaq?",
-    "tokens": [
-      "baxter",
-      "nasdaq",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1790117491.0764794
-  },
-  {
-    "id": "dollar-gains-gold-falls-hawkish-143351060.html",
-    "title": "Dollar Gains and Gold Falls on Hawkish Fed Comments",
-    "tokens": [
-      "comments",
-      "dollar",
-      "falls",
-      "fed",
-      "gains",
-      "gold",
-      "hawkish"
-    ],
-    "ts": 1790117498.2987282
-  },
-  {
-    "id": "fed-just-raised-rates-first-143638934.html",
-    "title": "The Fed Just Raised Rates for the First Time Since 2023. CoreWeave’s CEO Sees an ‘Inflection Point,’ But Its $51 Billion Debt Problem Just Got Worse.",
-    "tokens": [
-      "2023",
-      "billion",
-      "ceo",
-      "coreweave",
-      "debt",
-      "fed",
-      "first",
-      "got",
-      "inflection",
-      "just",
-      "point",
-      "problem",
-      "raised",
-      "rates",
-      "sees",
-      "since",
-      "time",
-      "worse"
-    ],
-    "ts": 1790117506.8533328
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/rtb-digital-announces-55-million-private-placement-and-loan-agreements-93CH-4911819",
-    "title": "RTB Digital announces $5.5 million private placement and loan agreements",
-    "tokens": [
-      "agreements",
-      "announces",
-      "digital",
-      "loan",
-      "million",
-      "placement",
-      "private",
-      "rtb"
-    ],
-    "ts": 1790118582.6978607
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/cytokinetics-evp-fady-malik-sells-239k-in-company-stock-93CH-4911806",
-    "title": "Cytokinetics EVP Fady Malik sells $239k in company stock",
-    "tokens": [
-      "239k",
-      "company",
-      "cytokinetics",
-      "evp",
-      "fady",
-      "malik",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790118590.6110413
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-to-keep-shareholder-proposal-rights-through-2027-even-as-sec-reduces-oversight-4911540",
-    "title": "Exclusive-Microsoft to keep shareholder proposal rights through 2027, even as SEC reduces oversight",
-    "tokens": [
-      "2027",
-      "even",
-      "exclusive",
-      "keep",
-      "microsoft",
-      "oversight",
-      "proposal",
-      "reduces",
-      "rights",
-      "sec",
-      "shareholder",
-      "through"
-    ],
-    "ts": 1790118598.426662
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/live-oak-acquisition-corp-vi-prices-200m-ipo-on-nasdaq-432SI-4911784",
     "title": "Live Oak Acquisition Corp. VI prices $200M IPO on Nasdaq",
     "tokens": [
@@ -23027,5 +22842,184 @@
       "vostok"
     ],
     "ts": 1790269859.4973197
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/agroz-announces-1for20-reverse-stock-split-effective-sept-29-93CH-4915949",
+    "title": "Agroz announces 1-for-20 reverse stock split effective Sept. 29",
+    "tokens": [
+      "agroz",
+      "announces",
+      "effective",
+      "reverse",
+      "sept",
+      "split",
+      "stock"
+    ],
+    "ts": 1790270764.194964
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/egypt-central-bank-holds-interest-rates-steady-at-19-93CH-4915934",
+    "title": "Egypt central bank holds interest rates steady at 19%",
+    "tokens": [
+      "bank",
+      "central",
+      "egypt",
+      "holds",
+      "interest",
+      "rates",
+      "steady"
+    ],
+    "ts": 1790270768.2067418
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-acadia-pharmaceuticals-stock-rating-on-trial-data-93CH-4915933",
+    "title": "TD Cowen reiterates Acadia Pharmaceuticals stock rating on trial data",
+    "tokens": [
+      "acadia",
+      "cowen",
+      "data",
+      "pharmaceuticals",
+      "rating",
+      "reiterates",
+      "stock",
+      "trial"
+    ],
+    "ts": 1790270771.90887
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/best-ai-etfs-ranked-by-aum-returns-and-infrastructure-focus-93CH-4915932",
+    "title": "Best AI ETFs ranked by AUM, returns, and infrastructure focus",
+    "tokens": [
+      "aum",
+      "best",
+      "etfs",
+      "focus",
+      "infrastructure",
+      "ranked",
+      "returns"
+    ],
+    "ts": 1790270780.097749
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-building-products-sector-analysis-pultegroup-stands-out-among-homebuilders-93CH-4915931",
+    "title": "US building products sector analysis: PulteGroup stands out among homebuilders",
+    "tokens": [
+      "among",
+      "analysis",
+      "building",
+      "homebuilders",
+      "products",
+      "pultegroup",
+      "sector",
+      "stands"
+    ],
+    "ts": 1790270789.0062385
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ai-and-memory-not-a-classic-bubble-but-future-returns-uncertain--strategist-4915930",
+    "title": "AI and memory not a classic bubble, but future returns uncertain - strategist",
+    "tokens": [
+      "bubble",
+      "classic",
+      "future",
+      "memory",
+      "returns",
+      "strategist",
+      "uncertain"
+    ],
+    "ts": 1790270796.3103676
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/valmont-industries-at-25th-annual-diversified-industrials--services-conference-utility-growth-leads-93CH-4915929",
+    "title": "Valmont Industries at 25th annual diversified industrials & services conference: utility growth leads",
+    "tokens": [
+      "25th",
+      "annual",
+      "conference",
+      "diversified",
+      "growth",
+      "industrials",
+      "industries",
+      "leads",
+      "services",
+      "utility",
+      "valmont"
+    ],
+    "ts": 1790270804.8636856
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/knife-river-responds-to-starboard-value-investment-letter-93CH-4915928",
+    "title": "Knife River responds to Starboard Value investment letter",
+    "tokens": [
+      "investment",
+      "knife",
+      "letter",
+      "responds",
+      "river",
+      "starboard",
+      "value"
+    ],
+    "ts": 1790270813.0630553
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/belden-to-manufacture-ruckus-switches-at-india-facility-93CH-4915927",
+    "title": "Belden to manufacture RUCKUS switches at India facility",
+    "tokens": [
+      "belden",
+      "facility",
+      "india",
+      "manufacture",
+      "ruckus",
+      "switches"
+    ],
+    "ts": 1790270820.5961924
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bmo-cuts-acadia-pharmaceuticals-stock-price-target-on-trial-miss-93CH-4915926",
+    "title": "BMO cuts Acadia Pharmaceuticals stock price target on trial miss",
+    "tokens": [
+      "acadia",
+      "bmo",
+      "cuts",
+      "miss",
+      "pharmaceuticals",
+      "price",
+      "stock",
+      "target",
+      "trial"
+    ],
+    "ts": 1790270828.5497491
+  },
+  {
+    "id": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit",
+    "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
+    "tokens": [
+      "crypto",
+      "dwf",
+      "edge",
+      "fade",
+      "loses",
+      "model",
+      "premiums",
+      "stock",
+      "treasury"
+    ],
+    "ts": 1790270837.5395813
+  },
+  {
+    "id": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc",
+    "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+    "tokens": [
+      "314",
+      "bitcoin",
+      "btc",
+      "exits",
+      "remaining",
+      "selling",
+      "sequans",
+      "strategy",
+      "treasury"
+    ],
+    "ts": 1790270845.4770663
   }
 ]

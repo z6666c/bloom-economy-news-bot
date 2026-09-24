@@ -1,94 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/ubs-at-bank-of-america-financials-conference-growth-meets-capital-pressure-93CH-4910194",
-    "title": "UBS at Bank of America financials conference: growth meets capital pressure",
-    "tokens": [
-      "america",
-      "bank",
-      "capital",
-      "conference",
-      "financials",
-      "growth",
-      "meets",
-      "pressure",
-      "ubs"
-    ],
-    "ts": 1790071969.2783995
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ai-and-earnings-keep-driving-markets-as-focus-shifts-to-trumpxi-summit-4910193",
-    "title": "AI and earnings keep driving markets as focus shifts to Trump-Xi summit",
-    "tokens": [
-      "driving",
-      "earnings",
-      "focus",
-      "keep",
-      "markets",
-      "shifts",
-      "summit",
-      "trump"
-    ],
-    "ts": 1790071976.7912545
-  },
-  {
-    "id": "best-high-yield-savings-interest-rates-today-tuesday-september-22-2026-earn-up-to-410-apy-100000921.html",
-    "title": "Best high-yield savings interest rates today, Tuesday, September 22, 2026: Earn up to 4.10% APY",
-    "tokens": [
-      "2026",
-      "apy",
-      "best",
-      "earn",
-      "high",
-      "interest",
-      "rates",
-      "savings",
-      "september",
-      "today",
-      "tuesday",
-      "yield"
-    ],
-    "ts": 1790071980.9741638
-  },
-  {
-    "id": "heloc-and-home-equity-loan-rates-today-tuesday-september-22-2026-besides-rates-how-to-choose-between-a-heloc-or-home-equity-loan-100000210.html",
-    "title": "HELOC and home equity loan rates today, Tuesday, September 22, 2026: Besides rates, how to choose between a HELOC or home equity loan",
-    "tokens": [
-      "2026",
-      "besides",
-      "between",
-      "choose",
-      "equity",
-      "heloc",
-      "home",
-      "how",
-      "loan",
-      "rates",
-      "september",
-      "today",
-      "tuesday"
-    ],
-    "ts": 1790071986.3261998
-  },
-  {
-    "id": "mortgage-and-refinance-interest-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html",
-    "title": "Mortgage and refinance interest rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%",
-    "tokens": [
-      "2026",
-      "interest",
-      "lower",
-      "mortgage",
-      "move",
-      "rates",
-      "refinance",
-      "september",
-      "still",
-      "today",
-      "tuesday",
-      "year"
-    ],
-    "ts": 1790071990.3359377
-  },
-  {
     "id": "best-cd-rates-today-tuesday-september-22-2026-lock-in-up-to-440-apy-100000744.html",
     "title": "Best CD rates today, Tuesday, September 22, 2026: Lock in up to 4.40% APY",
     "tokens": [
@@ -23028,5 +22939,82 @@
       "warranted"
     ],
     "ts": 1790218574.6277146
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/it-services-stock-is-up-89-since-july--our-ai-models-picked-it-first-4914387",
+    "title": "IT services stock is up 89%+ since July - our AI models picked it first",
+    "tokens": [
+      "first",
+      "july",
+      "models",
+      "our",
+      "picked",
+      "services",
+      "since",
+      "stock"
+    ],
+    "ts": 1790219470.2266586
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/primeenergy-director-gifford-fong-buys-21170-in-pnrg-shares-93CH-4914384",
+    "title": "PrimeEnergy director Gifford Fong buys $21,170 in PNRG shares",
+    "tokens": [
+      "170",
+      "buys",
+      "director",
+      "fong",
+      "gifford",
+      "pnrg",
+      "primeenergy",
+      "shares"
+    ],
+    "ts": 1790219477.8331864
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sofi-cto-jeremy-rishel-sells-325920-in-stock-93CH-4914383",
+    "title": "SoFi CTO Jeremy Rishel sells $325,920 in stock",
+    "tokens": [
+      "325",
+      "920",
+      "cto",
+      "jeremy",
+      "rishel",
+      "sells",
+      "sofi",
+      "stock"
+    ],
+    "ts": 1790219485.179726
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/soul-patts-fy26-slides-15b-merger-drives-502-profit-surge-93CH-4914381",
+    "title": "Soul Patts FY26 slides: $15b merger drives 502% profit surge",
+    "tokens": [
+      "15b",
+      "502",
+      "drives",
+      "fy26",
+      "merger",
+      "patts",
+      "profit",
+      "slides",
+      "soul",
+      "surge"
+    ],
+    "ts": 1790219492.3856857
+  },
+  {
+    "id": "homes-stocks-us-households-now-151605046.html",
+    "title": "Homes or Stocks? US Households Now Lean on Stocks Like Never Before",
+    "tokens": [
+      "before",
+      "homes",
+      "households",
+      "lean",
+      "like",
+      "never",
+      "now",
+      "stocks"
+    ],
+    "ts": 1790219499.5499477
   }
 ]

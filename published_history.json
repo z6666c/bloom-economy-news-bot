@@ -1,96 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/exclusivegm-ceo-mary-barra-to-attend-trumps-state-dinner-for-xi-sources-say-4912003",
-    "title": "Exclusive-GM CEO Mary Barra to attend Trump’s state dinner for Xi, sources say",
-    "tokens": [
-      "attend",
-      "barra",
-      "ceo",
-      "dinner",
-      "exclusive",
-      "mary",
-      "say",
-      "sources",
-      "state",
-      "trump"
-    ],
-    "ts": 1790129491.158971
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-ride-tech-wave-higher-oil-stays-subdued-4912006",
-    "title": "Asia stocks ride tech wave higher, oil stays subdued",
-    "tokens": [
-      "asia",
-      "higher",
-      "oil",
-      "ride",
-      "stays",
-      "stocks",
-      "subdued",
-      "tech",
-      "wave"
-    ],
-    "ts": 1790129499.685066
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/dollar-holds-near-2month-high-as-markets-weigh-rate-hikes-iran-diplomacy-4912004",
-    "title": "Dollar holds near 2-month high as markets weigh rate hikes, Iran diplomacy",
-    "tokens": [
-      "diplomacy",
-      "dollar",
-      "high",
-      "hikes",
-      "holds",
-      "iran",
-      "markets",
-      "month",
-      "near",
-      "rate",
-      "weigh"
-    ],
-    "ts": 1790129506.8360896
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-falls-on-increased-gulf-supply-and-hopes-for-usiran-talks-4912001",
-    "title": "Oil falls on increased Gulf supply and hopes for US-Iran talks",
-    "tokens": [
-      "falls",
-      "gulf",
-      "hopes",
-      "increased",
-      "iran",
-      "oil",
-      "supply",
-      "talks"
-    ],
-    "ts": 1790129514.391278
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-president-michael-sentonas-sells-115m-in-stock-93CH-4912000",
-    "title": "Crowdstrike president Michael Sentonas sells $11.5m in stock",
-    "tokens": [
-      "crowdstrike",
-      "michael",
-      "president",
-      "sells",
-      "sentonas",
-      "stock"
-    ],
-    "ts": 1790129521.4636447
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-nufarm-stock-sliding-today-93CH-4912023",
-    "title": "Why is Nufarm stock sliding today?",
-    "tokens": [
-      "nufarm",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790130461.8033016
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/with-new-macs-apple-aims-to-take-on-microsoft-nvidia-in-a-rush-to-lower-ai-costs-4910955",
     "title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs",
     "tokens": [
@@ -23053,5 +22962,99 @@
       "week"
     ],
     "ts": 1790279561.0560348
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/federal-reserve-unveils-proposed-framework-for-stablecoin-issuers-4916070",
+    "title": "Federal Reserve unveils proposed framework for stablecoin issuers",
+    "tokens": [
+      "federal",
+      "framework",
+      "issuers",
+      "proposed",
+      "reserve",
+      "stablecoin",
+      "unveils"
+    ],
+    "ts": 1790280717.182454
+  },
+  {
+    "id": "oilprice-article-45600",
+    "title": "Global Biofuels Output Could Surge 70% Amid Energy Crisis",
+    "tokens": [
+      "biofuels",
+      "could",
+      "crisis",
+      "energy",
+      "global",
+      "output",
+      "surge"
+    ],
+    "ts": 1790280727.6987646
+  },
+  {
+    "id": "oilprice-news-45600",
+    "title": "Saudi Oil Export Costs Surge as Red Sea Risks Mount",
+    "tokens": [
+      "costs",
+      "export",
+      "mount",
+      "oil",
+      "red",
+      "risks",
+      "saudi",
+      "sea",
+      "surge"
+    ],
+    "ts": 1790280731.7123625
+  },
+  {
+    "id": "c06095bb-4167-4d73-9cf2-6cf6cffc77ae",
+    "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
+    "tokens": [
+      "alpaca",
+      "apex",
+      "backed",
+      "bullish",
+      "coalition",
+      "fintech",
+      "form",
+      "issuer",
+      "push",
+      "stocks",
+      "tokenized"
+    ],
+    "ts": 1790280736.7225661
+  },
+  {
+    "id": "a99ae8a8-f7b9-43f1-a26e-d801dc263ea2",
+    "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
+    "tokens": [
+      "assets",
+      "blockchain",
+      "can",
+      "cftc",
+      "commodities",
+      "firms",
+      "invest",
+      "records",
+      "tokenized",
+      "use"
+    ],
+    "ts": 1790280746.2117
+  },
+  {
+    "id": "e63a3fc1-913b-44ec-a49b-81947b053cff",
+    "title": "The stock token debate, and the gap nobody can close alone",
+    "tokens": [
+      "alone",
+      "can",
+      "close",
+      "debate",
+      "gap",
+      "nobody",
+      "stock",
+      "token"
+    ],
+    "ts": 1790280753.929853
   }
 ]

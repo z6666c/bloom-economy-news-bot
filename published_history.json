@@ -1,103 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/gold-rises-as-oil-slide-eases-fed-hike-fears-iran-talks-stay-in-focus-4911978",
-    "title": "Gold rises as oil slide eases Fed hike fears, Iran talks stay in focus",
-    "tokens": [
-      "eases",
-      "fears",
-      "fed",
-      "focus",
-      "gold",
-      "hike",
-      "iran",
-      "oil",
-      "rises",
-      "slide",
-      "stay",
-      "talks"
-    ],
-    "ts": 1790128294.9723914
-  },
-  {
-    "id": "range-resources-rrc-slid-17-134559578.html",
-    "title": "Range Resources (RRC) Slid 17.2% in Q2: Why the Natural Gas Stock Still Looks Attractive",
-    "tokens": [
-      "attractive",
-      "gas",
-      "looks",
-      "natural",
-      "range",
-      "resources",
-      "rrc",
-      "slid",
-      "still",
-      "stock",
-      "why"
-    ],
-    "ts": 1790128303.0432074
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/chargepoint-general-counsel-eric-batill-sells-42417-in-stock-93CH-4912017",
-    "title": "ChargePoint general counsel Eric Batill sells $42,417 in stock",
-    "tokens": [
-      "417",
-      "batill",
-      "chargepoint",
-      "counsel",
-      "eric",
-      "general",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790129461.249501
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/chargepoint-cfo-mansi-khetani-sells-48619-in-company-stock-93CH-4912016",
-    "title": "ChargePoint CFO Mansi Khetani sells $48,619 in company stock",
-    "tokens": [
-      "619",
-      "cfo",
-      "chargepoint",
-      "company",
-      "khetani",
-      "mansi",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790129468.5605166
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/runway-growth-finance-director-edward-goldthorpe-buys-67450-in-stock-93CH-4912015",
-    "title": "Runway Growth Finance director Edward Goldthorpe buys $67,450 in stock",
-    "tokens": [
-      "450",
-      "buys",
-      "director",
-      "edward",
-      "finance",
-      "goldthorpe",
-      "growth",
-      "runway",
-      "stock"
-    ],
-    "ts": 1790129475.5249681
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/endeavor-blockchain-buys-2959-in-big-digital-energy-shares-93CH-4912014",
-    "title": "Endeavor blockchain buys $2,959 in Big Digital Energy shares",
-    "tokens": [
-      "959",
-      "big",
-      "blockchain",
-      "buys",
-      "digital",
-      "endeavor",
-      "energy",
-      "shares"
-    ],
-    "ts": 1790129483.0694616
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/exclusivegm-ceo-mary-barra-to-attend-trumps-state-dinner-for-xi-sources-say-4912003",
     "title": "Exclusive-GM CEO Mary Barra to attend Trump’s state dinner for Xi, sources say",
     "tokens": [
@@ -23063,5 +22965,93 @@
       "week"
     ],
     "ts": 1790278003.0048385
+  },
+  {
+    "id": "WP-MKTW-0005252630",
+    "title": "Companies keep raising prices. The Fed is trying to get them to reconsider.",
+    "tokens": [
+      "companies",
+      "fed",
+      "get",
+      "keep",
+      "prices",
+      "raising",
+      "reconsider",
+      "them",
+      "trying"
+    ],
+    "ts": 1790279532.4111814
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/mach-natural-resources-stock-hits-52week-low-at-1046-93CH-4916069",
+    "title": "Mach Natural Resources stock hits 52-week low at $10.46",
+    "tokens": [
+      "hits",
+      "low",
+      "mach",
+      "natural",
+      "resources",
+      "stock",
+      "week"
+    ],
+    "ts": 1790279540.9787602
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/agnc-stock-hits-52week-low-at-963-usd-93CH-4916068",
+    "title": "Agnc stock hits 52-week low at 9.63 USD",
+    "tokens": [
+      "agnc",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790279544.9946942
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/banxico-holds-benchmark-rate-at-65-as-core-inflation-proves-sticky-4916066",
+    "title": "Banxico holds benchmark rate at 6.5% as core inflation proves sticky",
+    "tokens": [
+      "banxico",
+      "benchmark",
+      "core",
+      "holds",
+      "inflation",
+      "proves",
+      "rate",
+      "sticky"
+    ],
+    "ts": 1790279549.3803477
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/morgan-stanley-asia-deals-leaked-in-missent-email-attachment-4915622",
+    "title": "Morgan Stanley Asia deals leaked in missent email attachment",
+    "tokens": [
+      "asia",
+      "attachment",
+      "deals",
+      "email",
+      "leaked",
+      "missent",
+      "morgan",
+      "stanley"
+    ],
+    "ts": 1790279557.0393028
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/miami-international-holdings-stock-hits-52week-low-at-3542-usd-93CH-4916065",
+    "title": "Miami International Holdings stock hits 52-week low at 35.42 USD",
+    "tokens": [
+      "hits",
+      "holdings",
+      "international",
+      "low",
+      "miami",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790279561.0560348
   }
 ]

@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/china-surveys-broadcom-switch-use-in-state-data-centers-ft-reports-4912074",
-    "title": "China surveys Broadcom switch use in state data centers, FT reports",
-    "tokens": [
-      "broadcom",
-      "centers",
-      "china",
-      "data",
-      "reports",
-      "state",
-      "surveys",
-      "switch",
-      "use"
-    ],
-    "ts": 1790141283.981201
-  },
-  {
     "id": "critical-metals-surges-35-greenland-173749296.html",
     "title": "Critical Metals Surges 35% on Greenland Pact. The Tanbreez Opportunity Is Huge — But So Is the Risk.",
     "tokens": [
@@ -23026,5 +23010,21 @@
       "quarterly"
     ],
     "ts": 1790286238.8212643
+  },
+  {
+    "id": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote",
+    "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
+    "tokens": [
+      "assets",
+      "blockchain",
+      "cftc",
+      "failed",
+      "guidance",
+      "records",
+      "tokenized",
+      "updates",
+      "vote"
+    ],
+    "ts": 1790286779.9453955
   }
 ]

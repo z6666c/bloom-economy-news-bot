@@ -1,64 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/earnings/jd-sports-holds-profit-view-as-h1-margins-beat-expectations-4912124",
-    "title": "JD Sports holds profit view as H1 margins beat expectations",
-    "tokens": [
-      "beat",
-      "expectations",
-      "holds",
-      "margins",
-      "profit",
-      "sports",
-      "view"
-    ],
-    "ts": 1790146609.674483
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/nexus-infrastructure-reports-70m-revenue-ceo-to-depart-93CH-4912120",
-    "title": "Nexus Infrastructure reports £70m revenue, CEO to depart",
-    "tokens": [
-      "70m",
-      "ceo",
-      "depart",
-      "infrastructure",
-      "nexus",
-      "reports",
-      "revenue"
-    ],
-    "ts": 1790146617.6153336
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
-    "title": "Bitcoin steady near $87k as ETF inflows soar; Trump-Xi summit in focus",
-    "tokens": [
-      "87k",
-      "bitcoin",
-      "etf",
-      "focus",
-      "inflows",
-      "near",
-      "soar",
-      "steady",
-      "summit",
-      "trump"
-    ],
-    "ts": 1790146624.97013
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pearson-appoints-three-nonexecutive-directors-to-board-93CH-4912116",
-    "title": "Pearson appoints three non-executive directors to board",
-    "tokens": [
-      "appoints",
-      "board",
-      "directors",
-      "executive",
-      "non",
-      "pearson",
-      "three"
-    ],
-    "ts": 1790146634.7654765
-  },
-  {
     "id": "moderna-mrna-soars-fresh-high-191331309.html",
     "title": "Moderna (MRNA) Soars to Fresh High Ahead of Pipeline Updates This Week",
     "tokens": [
@@ -23055,5 +22996,68 @@
       "index"
     ],
     "ts": 1790293124.2169504
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/adarx-pharmaceuticals-prices-upsized-ipo-at-17-per-share-93CH-4916428",
+    "title": "ADARx Pharmaceuticals prices upsized IPO at $17 per share",
+    "tokens": [
+      "adarx",
+      "ipo",
+      "per",
+      "pharmaceuticals",
+      "prices",
+      "share",
+      "upsized"
+    ],
+    "ts": 1790293868.0599396
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/polymarket-sues-new-york-attorney-general-to-block-regulation-of-its-prediction-market-4916415",
+    "title": "Polymarket sues New York attorney general to block regulation of its prediction market",
+    "tokens": [
+      "attorney",
+      "block",
+      "general",
+      "market",
+      "polymarket",
+      "prediction",
+      "regulation",
+      "sues",
+      "york"
+    ],
+    "ts": 1790293876.1032221
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pimco-dynamic-income-fund-director-sonya-morris-buys-79885-in-shares-93CH-4916412",
+    "title": "Pimco Dynamic Income Fund director Sonya Morris buys $79,885 in shares",
+    "tokens": [
+      "885",
+      "buys",
+      "director",
+      "dynamic",
+      "fund",
+      "income",
+      "morris",
+      "pimco",
+      "shares",
+      "sonya"
+    ],
+    "ts": 1790293883.9006917
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tesla-set-to-formally-roll-out-semi-electric-trucks-at-nevada-event-4916402",
+    "title": "Tesla set to formally roll out Semi electric trucks at Nevada event",
+    "tokens": [
+      "electric",
+      "event",
+      "formally",
+      "nevada",
+      "roll",
+      "semi",
+      "set",
+      "tesla",
+      "trucks"
+    ],
+    "ts": 1790293892.2507486
   }
 ]

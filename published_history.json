@@ -1,53 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/corporate-bond-buyers-get-picky-with-flood-of-ai-debt-4910258",
-    "title": "Corporate bond buyers get picky with flood of AI debt",
-    "tokens": [
-      "bond",
-      "buyers",
-      "corporate",
-      "debt",
-      "flood",
-      "get",
-      "picky"
-    ],
-    "ts": 1790073930.8765235
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/thor-industries-earnings-missed-by-013-revenue-topped-estimates-4910326",
-    "title": "Thor Industries earnings missed by $0.13, revenue topped estimates",
-    "tokens": [
-      "earnings",
-      "estimates",
-      "industries",
-      "missed",
-      "revenue",
-      "thor",
-      "topped"
-    ],
-    "ts": 1790073934.7067847
-  },
-  {
-    "id": "https://www.investing.com/news/press-releases/mexc-expands-opportunity-compass-with-stock-trading-handbook-to-help-crypto-users-build-investment-knowledge-4910315",
-    "title": "MEXC Expands Opportunity Compass with Stock Trading Handbook to Help Crypto Users Build Investment Knowledge",
-    "tokens": [
-      "build",
-      "compass",
-      "crypto",
-      "expands",
-      "handbook",
-      "help",
-      "investment",
-      "knowledge",
-      "mexc",
-      "opportunity",
-      "stock",
-      "trading",
-      "users"
-    ],
-    "ts": 1790073942.5853102
-  },
-  {
     "id": "roivant-roiv-9-billion-sales-102730498.html",
     "title": "Roivant (ROIV): $9 Billion Sales Potential Faces a Commercialization Test",
     "tokens": [
@@ -23016,5 +22968,54 @@
       "yields"
     ],
     "ts": 1790224171.286638
+  },
+  {
+    "id": "why-rpc-res-q2-detractor-163646235.html",
+    "title": "Why RPC (RES) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
+    "tokens": [
+      "cap",
+      "detractor",
+      "fund",
+      "gabelli",
+      "growth",
+      "res",
+      "rpc",
+      "small",
+      "why"
+    ],
+    "ts": 1790225077.3565366
+  },
+  {
+    "id": "puma-revolving-door-persists-two-163458525.html",
+    "title": "Puma’s Revolving Door Persists With Two More Executive Changes, With One Addition From Nike",
+    "tokens": [
+      "addition",
+      "changes",
+      "door",
+      "executive",
+      "more",
+      "nike",
+      "one",
+      "persists",
+      "puma",
+      "revolving",
+      "two"
+    ],
+    "ts": 1790225081.0649076
+  },
+  {
+    "id": "why-gabelli-global-growth-fund-141037360.html",
+    "title": "Why Gabelli Global Growth Fund Added Micron Technology (MU) in Q2",
+    "tokens": [
+      "added",
+      "fund",
+      "gabelli",
+      "global",
+      "growth",
+      "micron",
+      "technology",
+      "why"
+    ],
+    "ts": 1790225088.1541302
   }
 ]

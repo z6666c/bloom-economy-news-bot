@@ -1,215 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/glacier-bancorp-inc-increases-quarterly-dividend-1036565664",
-    "title": "Glacier Bancorp, Inc. Increases Quarterly Dividend",
-    "tokens": [
-      "bancorp",
-      "dividend",
-      "glacier",
-      "inc",
-      "increases",
-      "quarterly"
-    ],
-    "ts": 1790109680.2082841
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/hii-expands-unmanned-production-facility-by-25-to-meet-growing-global-maritime-demand-1036565665",
-    "title": "HII Expands Unmanned Production Facility by 25% to Meet Growing Global Maritime Demand",
-    "tokens": [
-      "demand",
-      "expands",
-      "facility",
-      "global",
-      "growing",
-      "hii",
-      "maritime",
-      "meet",
-      "production",
-      "unmanned"
-    ],
-    "ts": 1790109687.6512492
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kayne-anderson-energy-infrastructure-fund-announces-increase-in-monthly-distribution-1036565666",
-    "title": "Kayne Anderson Energy Infrastructure Fund Announces Increase in Monthly Distribution",
-    "tokens": [
-      "anderson",
-      "announces",
-      "distribution",
-      "energy",
-      "fund",
-      "increase",
-      "infrastructure",
-      "kayne",
-      "monthly"
-    ],
-    "ts": 1790109695.4530516
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/suncar-technology-reports-first-half-2026-financial-results-1036565667",
-    "title": "SunCar Technology Reports First Half 2026 Financial Results",
-    "tokens": [
-      "2026",
-      "financial",
-      "first",
-      "half",
-      "reports",
-      "results",
-      "suncar",
-      "technology"
-    ],
-    "ts": 1790109703.1238852
-  },
-  {
-    "id": "https://seekingalpha.com/news/4645724-brighthouse-financial-jumps-on-report-sixth-street-looks-to-renew-takeover-effort?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Brighthouse Financial jumps on report Sixth Street looks to renew takeover effort",
-    "tokens": [
-      "brighthouse",
-      "effort",
-      "financial",
-      "jumps",
-      "looks",
-      "renew",
-      "report",
-      "sixth",
-      "street",
-      "takeover"
-    ],
-    "ts": 1790109710.2903857
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/medallion-bank-announces-launch-of-series-g-preferred-stock-offering-1036565629",
-    "title": "Medallion Bank Announces Launch of  Series G Preferred Stock Offering",
-    "tokens": [
-      "announces",
-      "bank",
-      "launch",
-      "medallion",
-      "offering",
-      "preferred",
-      "series",
-      "stock"
-    ],
-    "ts": 1790109718.173059
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-alerts-investors-of-a-securities-class-action-against-aevex-corp.-avex-deadline-is-october-20-2026-1036565639",
-    "title": "Kaplan Fox Alerts Investors of a Securities Class Action Against AEVEX Corp. (AVEX) - Deadline is October 20, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "aevex",
-      "against",
-      "alerts",
-      "avex",
-      "class",
-      "corp",
-      "deadline",
-      "fox",
-      "investors",
-      "kaplan",
-      "october",
-      "securities"
-    ],
-    "ts": 1790109725.243219
-  },
-  {
-    "id": "https://seekingalpha.com/news/4645756-toro-declares-0_39-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Toro declares $0.39 dividend",
-    "tokens": [
-      "declares",
-      "dividend",
-      "toro"
-    ],
-    "ts": 1790109732.528112
-  },
-  {
-    "id": "b8ece49e-99b2-4999-8708-3807154f49ab",
-    "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
-    "tokens": [
-      "act",
-      "can",
-      "clarity",
-      "crypto",
-      "election",
-      "house",
-      "market",
-      "post",
-      "shot",
-      "structure",
-      "surge",
-      "wait",
-      "white"
-    ],
-    "ts": 1790109741.1370792
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-    "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-    "tokens": [
-      "announces",
-      "application",
-      "approval",
-      "bancfirst",
-      "board",
-      "corporation",
-      "federal",
-      "reserve"
-    ],
-    "ts": 1790109749.8988357
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
-    "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
-    "tokens": [
-      "agencies",
-      "banks",
-      "burden",
-      "community",
-      "cycle",
-      "eligibility",
-      "exam",
-      "increase",
-      "month",
-      "reduce",
-      "regulatory"
-    ],
-    "ts": 1790109758.2810807
-  },
-  {
-    "id": "erie-indemnity-stock-erie-underperforming-121202945.html",
-    "title": "Erie Indemnity Stock: Is ERIE Underperforming the Financial Services Sector?",
-    "tokens": [
-      "erie",
-      "financial",
-      "indemnity",
-      "sector",
-      "services",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1790110382.3636703
-  },
-  {
-    "id": "dave-ramsey-no-credit-score-121500364.html",
-    "title": "Dave Ramsey has no credit score and says he couldn't rent an apartment if he tried. He doesn't care — but should you?",
-    "tokens": [
-      "apartment",
-      "care",
-      "couldn",
-      "credit",
-      "dave",
-      "doesn",
-      "ramsey",
-      "rent",
-      "score",
-      "should",
-      "tried",
-      "you"
-    ],
-    "ts": 1790110390.4541705
-  },
-  {
     "id": "WP-MKTW-0005247580",
     "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
     "tokens": [
@@ -23014,5 +22804,193 @@
       "spring"
     ],
     "ts": 1790262770.324516
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/crh-stock-hits-52week-low-at-8365-usd-93CH-4915809",
+    "title": "CRH stock hits 52-week low at 83.65 USD",
+    "tokens": [
+      "crh",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790263773.9674778
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/jpmorgan-asset-management-crosses-5-stake-in-everplay-group-93CH-4915808",
+    "title": "JPMorgan Asset Management crosses 5% stake in Everplay Group",
+    "tokens": [
+      "asset",
+      "crosses",
+      "everplay",
+      "group",
+      "jpmorgan",
+      "management",
+      "stake"
+    ],
+    "ts": 1790263777.7031531
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/duke-energy-stock-hits-52week-low-at-11388-usd-93CH-4915805",
+    "title": "Duke Energy stock hits 52-week low at 113.88 USD",
+    "tokens": [
+      "113",
+      "duke",
+      "energy",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790263785.968994
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/lowes-stock-hits-52week-low-at-18822-usd-93CH-4915804",
+    "title": "Lowe’s stock hits 52-week low at 188.22 USD",
+    "tokens": [
+      "188",
+      "hits",
+      "low",
+      "lowe",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790263789.9787838
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hayward-holdings-stock-hits-52week-low-at-1263-usd-93CH-4915803",
+    "title": "Hayward Holdings stock hits 52-week low at 12.63 USD",
+    "tokens": [
+      "hayward",
+      "hits",
+      "holdings",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790263789.988367
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/google-to-test-custom-ai-chips-in-space-on-upcoming-spacex-mission-4915802",
+    "title": "Google to test custom AI chips in space on upcoming SpaceX mission",
+    "tokens": [
+      "chips",
+      "custom",
+      "google",
+      "mission",
+      "space",
+      "spacex",
+      "test",
+      "upcoming"
+    ],
+    "ts": 1790263794.8005166
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/equifax-stock-hits-52week-low-at-15063-usd-93CH-4915801",
+    "title": "Equifax stock hits 52-week low at 150.63 USD",
+    "tokens": [
+      "150",
+      "equifax",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790263798.8106709
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/att-stock-hits-52week-low-at-1926-usd-93CH-4915798",
+    "title": "AT&T stock hits 52-week low at 19.26 USD",
+    "tokens": [
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790263798.820265
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nisource-stock-hits-52week-low-at-3901-usd-93CH-4915797",
+    "title": "Nisource stock hits 52-week low at 39.01 USD",
+    "tokens": [
+      "hits",
+      "low",
+      "nisource",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790263798.8298264
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/granite-reit-at-financial-services-virtual-investor-conference-growth-with-discipline-93CH-4915796",
+    "title": "Granite REIT at Financial Services Virtual Investor Conference: growth with discipline",
+    "tokens": [
+      "conference",
+      "discipline",
+      "financial",
+      "granite",
+      "growth",
+      "investor",
+      "reit",
+      "services",
+      "virtual"
+    ],
+    "ts": 1790263803.0048482
+  },
+  {
+    "id": "635c2526-7bd2-40d6-81f1-9e3f87cc40bf",
+    "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
+    "tokens": [
+      "bear",
+      "bitcoin",
+      "bull",
+      "getting",
+      "markets",
+      "may",
+      "milder",
+      "next"
+    ],
+    "ts": 1790263812.261253
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+    "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+    "tokens": [
+      "announces",
+      "application",
+      "approval",
+      "bancfirst",
+      "board",
+      "corporation",
+      "federal",
+      "reserve"
+    ],
+    "ts": 1790263820.466193
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+    "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+    "tokens": [
+      "agencies",
+      "banks",
+      "burden",
+      "community",
+      "cycle",
+      "eligibility",
+      "exam",
+      "increase",
+      "month",
+      "reduce",
+      "regulatory"
+    ],
+    "ts": 1790263828.189377
   }
 ]

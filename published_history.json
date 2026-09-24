@@ -1,148 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/mastercraft-boat-holdings-director-buys-24958-in-shares-93CH-4910769",
-    "title": "MasterCraft Boat Holdings director buys $24,958 in shares",
-    "tokens": [
-      "958",
-      "boat",
-      "buys",
-      "director",
-      "holdings",
-      "mastercraft",
-      "shares"
-    ],
-    "ts": 1790081827.2082896
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/wall-street-expects-metas-ai-agent-to-shape-into-a-new-revenue-engine-4910768",
-    "title": "Wall Street expects Meta’s AI agent to shape into a new revenue engine",
-    "tokens": [
-      "agent",
-      "engine",
-      "expects",
-      "meta",
-      "revenue",
-      "shape",
-      "street",
-      "wall"
-    ],
-    "ts": 1790081836.349653
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-neutral-rating-on-merck-stock-at-120-93CH-4910767",
-    "title": "Cantor Fitzgerald reiterates Neutral rating on Merck stock at $120",
-    "tokens": [
-      "120",
-      "cantor",
-      "fitzgerald",
-      "merck",
-      "neutral",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790081845.2971947
-  },
-  {
-    "id": "crypto-winter-is-over-says-analyst-as-bitcoin-tops-86000-chart-of-the-day-124006079.html",
-    "title": "'Crypto winter is over,' says analyst as bitcoin tops $86,000: Chart of the Day",
-    "tokens": [
-      "000",
-      "analyst",
-      "bitcoin",
-      "chart",
-      "crypto",
-      "day",
-      "tops",
-      "winter"
-    ],
-    "ts": 1790081853.2508197
-  },
-  {
-    "id": "xpeng-tech-licensing-expansion-meets-123610355.html",
-    "title": "Xpeng’s Tech-Licensing Expansion Meets a Core Auto Business Still Losing Money",
-    "tokens": [
-      "auto",
-      "business",
-      "core",
-      "expansion",
-      "licensing",
-      "losing",
-      "meets",
-      "money",
-      "still",
-      "tech",
-      "xpeng"
-    ],
-    "ts": 1790081860.4431467
-  },
-  {
-    "id": "sick-conspiracy-trump-dismisses-calls-123000393.html",
-    "title": "'SICK conspiracy': Trump dismisses calls to rein in AI as his sons cash in on AI-linked defence and tech investments",
-    "tokens": [
-      "calls",
-      "cash",
-      "conspiracy",
-      "defence",
-      "dismisses",
-      "his",
-      "investments",
-      "linked",
-      "rein",
-      "sick",
-      "sons",
-      "tech",
-      "trump"
-    ],
-    "ts": 1790081871.1353502
-  },
-  {
-    "id": "3m-ceo-says-turnaround-ahead-122451020.html",
-    "title": "3M’s CEO Says the Turnaround Is Ahead of Schedule, But PFAS Litigation Keeps Resurfacing",
-    "tokens": [
-      "ahead",
-      "ceo",
-      "keeps",
-      "litigation",
-      "pfas",
-      "resurfacing",
-      "schedule",
-      "turnaround"
-    ],
-    "ts": 1790081878.8536863
-  },
-  {
-    "id": "multifamily-reits-finally-showing-signs-122342590.html",
-    "title": "Multifamily REITs Are Finally Showing Signs of Recovery — Why Baron Increased UDR (UDR)",
-    "tokens": [
-      "baron",
-      "finally",
-      "increased",
-      "multifamily",
-      "recovery",
-      "reits",
-      "showing",
-      "signs",
-      "udr",
-      "why"
-    ],
-    "ts": 1790081887.9587848
-  },
-  {
-    "id": "saudi-arabia-reportedly-restarts-east-122302773.html",
-    "title": "Saudi Arabia Reportedly Restarts East-West Pipeline",
-    "tokens": [
-      "arabia",
-      "east",
-      "pipeline",
-      "reportedly",
-      "restarts",
-      "saudi",
-      "west"
-    ],
-    "ts": 1790081891.9764614
-  },
-  {
     "id": "WP-MKTW-0005246289",
     "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
     "tokens": [
@@ -22974,5 +22831,139 @@
       "why"
     ],
     "ts": 1790236506.9041464
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-hm-group-q3-2026-profit-gains-offset-by-stock-drop-93CH-4914568",
+    "title": "Earnings call transcript: H&M Group Q3 2026 profit gains offset by stock drop",
+    "tokens": [
+      "2026",
+      "call",
+      "drop",
+      "earnings",
+      "gains",
+      "group",
+      "offset",
+      "profit",
+      "stock",
+      "transcript"
+    ],
+    "ts": 1790237570.2846835
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/bravura-solutions-postpones-agm-to-november-26-93CH-4914567",
+    "title": "Bravura Solutions postpones AGM to November 26",
+    "tokens": [
+      "agm",
+      "bravura",
+      "november",
+      "postpones",
+      "solutions"
+    ],
+    "ts": 1790237578.0549388
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4914566",
+    "title": "Litecoin Climbs 10% In a Green Day",
+    "tokens": [
+      "climbs",
+      "day",
+      "green",
+      "litecoin"
+    ],
+    "ts": 1790237585.246131
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cvs-group-fy-2026-slides-solid-growth-australia-expansion-accelerates-93CH-4914564",
+    "title": "CVS Group FY 2026 slides: solid growth, Australia expansion accelerates",
+    "tokens": [
+      "2026",
+      "accelerates",
+      "australia",
+      "cvs",
+      "expansion",
+      "group",
+      "growth",
+      "slides",
+      "solid"
+    ],
+    "ts": 1790237593.7322073
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/neonc-technologies-stock-initiated-with-buy-rating-at-rothmkm-93CH-4914563",
+    "title": "NeOnc Technologies stock initiated with buy rating at Roth/MKM",
+    "tokens": [
+      "buy",
+      "initiated",
+      "mkm",
+      "neonc",
+      "rating",
+      "roth",
+      "stock",
+      "technologies"
+    ],
+    "ts": 1790237600.6935167
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cvs-group-fy2026-slides-solid-growth-australia-expansion-accelerates-93CH-4914560",
+    "title": "CVS Group FY2026 slides: solid growth, Australia expansion accelerates",
+    "tokens": [
+      "accelerates",
+      "australia",
+      "cvs",
+      "expansion",
+      "fy2026",
+      "group",
+      "growth",
+      "slides",
+      "solid"
+    ],
+    "ts": 1790237604.7104666
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cairdac-appoints-raymond-cohen-as-board-chairman-93CH-4914558",
+    "title": "Cairdac appoints Raymond Cohen as board chairman",
+    "tokens": [
+      "appoints",
+      "board",
+      "cairdac",
+      "chairman",
+      "cohen",
+      "raymond"
+    ],
+    "ts": 1790237607.9343207
+  },
+  {
+    "id": "vht-vs-xbi-diversified-healthcare-200144299.html",
+    "title": "VHT vs. XBI: Is Diversified Healthcare Exposure or Biotech Stocks the Smarter Choice for Investors?",
+    "tokens": [
+      "biotech",
+      "choice",
+      "diversified",
+      "exposure",
+      "healthcare",
+      "investors",
+      "smarter",
+      "stocks",
+      "vht",
+      "xbi"
+    ],
+    "ts": 1790237615.0855596
+  },
+  {
+    "id": "abm-industries-abm-scaling-semiconductors-202200179.html",
+    "title": "ABM Industries (ABM) Is Scaling in Semiconductors and Data Centers. What Is Holding the Stock Back?",
+    "tokens": [
+      "abm",
+      "back",
+      "centers",
+      "data",
+      "holding",
+      "industries",
+      "scaling",
+      "semiconductors",
+      "stock",
+      "what"
+    ],
+    "ts": 1790237622.7138236
   }
 ]

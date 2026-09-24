@@ -1,197 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/goldman-sachs-in-talks-to-acquire-palmer-square-bloomberg-says-4911154",
-    "title": "Goldman Sachs in talks to acquire Palmer Square, Bloomberg says",
-    "tokens": [
-      "acquire",
-      "bloomberg",
-      "goldman",
-      "palmer",
-      "sachs",
-      "square",
-      "talks"
-    ],
-    "ts": 1790088389.7553651
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-rallying-today-93CH-4911153",
-    "title": "Why is Western Digital stock rallying today?",
-    "tokens": [
-      "digital",
-      "rallying",
-      "stock",
-      "today",
-      "western",
-      "why"
-    ],
-    "ts": 1790088397.9776459
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/db-investing-announces-aifirst-transformation-and-launch-of-dbinvestingai-4911151",
-    "title": "DB Investing Announces AI-First Transformation and Launch of dbinvesting.ai",
-    "tokens": [
-      "announces",
-      "dbinvesting",
-      "first",
-      "investing",
-      "launch",
-      "transformation"
-    ],
-    "ts": 1790088406.175175
-  },
-  {
-    "id": "gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html",
-    "title": "GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares",
-    "tokens": [
-      "buys",
-      "ceo",
-      "cohen",
-      "gamestop",
-      "jumps",
-      "million",
-      "ryan",
-      "shares",
-      "stock"
-    ],
-    "ts": 1790088414.2448087
-  },
-  {
-    "id": "fund-trimmed-murphy-usa-musa-142800363.html",
-    "title": "This Fund Trimmed Murphy USA (MUSA) Amid Fuel Margin Strengths",
-    "tokens": [
-      "fuel",
-      "fund",
-      "margin",
-      "murphy",
-      "musa",
-      "strengths",
-      "trimmed",
-      "usa"
-    ],
-    "ts": 1790088422.3512561
-  },
-  {
-    "id": "strong-results-lifted-cts-corporation-142559440.html",
-    "title": "Strong Results Lifted CTS Corporation (CTS) in Q2",
-    "tokens": [
-      "corporation",
-      "cts",
-      "lifted",
-      "results",
-      "strong"
-    ],
-    "ts": 1790088430.4309928
-  },
-  {
-    "id": "subscription-pivot-scba-replacement-cycle-142237408.html",
-    "title": "Subscription Pivot and SCBA Replacement Cycle Set to Drive MSA Safety’s (MSA) Margin Expansion",
-    "tokens": [
-      "cycle",
-      "drive",
-      "expansion",
-      "margin",
-      "msa",
-      "pivot",
-      "replacement",
-      "safety",
-      "scba",
-      "set",
-      "subscription"
-    ],
-    "ts": 1790088439.2069497
-  },
-  {
-    "id": "ai-infrastructure-boom-fuels-texas-141812824.html",
-    "title": "AI infrastructure Boom Fuels Texas Instruments’ (TXN) Rally",
-    "tokens": [
-      "boom",
-      "fuels",
-      "infrastructure",
-      "instruments",
-      "rally",
-      "texas",
-      "txn"
-    ],
-    "ts": 1790088447.7530887
-  },
-  {
-    "id": "will-the-housing-market-crash-this-year-what-to-expect-for-the-rest-of-2026-170038540.html",
-    "title": "Will the housing market crash this year? What to expect for the rest of 2026.",
-    "tokens": [
-      "2026",
-      "crash",
-      "expect",
-      "housing",
-      "market",
-      "rest",
-      "what",
-      "year"
-    ],
-    "ts": 1790088456.2689502
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/bluesky-digital-announces-shareholder-approval-of-chessgold-inc-transaction-1036564273",
-    "title": "Bluesky Digital Announces Shareholder Approval of ChessGold Inc. Transaction",
-    "tokens": [
-      "announces",
-      "approval",
-      "bluesky",
-      "chessgold",
-      "digital",
-      "inc",
-      "shareholder",
-      "transaction"
-    ],
-    "ts": 1790088465.4451685
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/century-announces-results-of-2026-shareholder-meeting-1036564276",
-    "title": "Century Announces Results of 2026 Shareholder Meeting",
-    "tokens": [
-      "2026",
-      "announces",
-      "century",
-      "meeting",
-      "results",
-      "shareholder"
-    ],
-    "ts": 1790088472.978291
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/aissist-launches-agent-insight-to-evaluate-ai-and-human-agents-on-custom-standards-1036564277",
-    "title": "Aissist Launches Agent Insight to Evaluate AI and Human Agents on Custom Standards",
-    "tokens": [
-      "agent",
-      "agents",
-      "aissist",
-      "custom",
-      "evaluate",
-      "human",
-      "insight",
-      "launches",
-      "standards"
-    ],
-    "ts": 1790088481.7841454
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/critter-guard-publishes-japan-power-outage-data-highlighting-animal-related-disruptions-1036564278",
-    "title": "Critter Guard Publishes Japan Power Outage Data Highlighting Animal-Related Disruptions",
-    "tokens": [
-      "animal",
-      "critter",
-      "data",
-      "disruptions",
-      "guard",
-      "highlighting",
-      "japan",
-      "outage",
-      "power",
-      "publishes",
-      "related"
-    ],
-    "ts": 1790088490.6112037
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/roger-williams-university-earns-first-ever-top-25-ranking-from-u-s-news-world-report-1036564262",
     "title": "Roger Williams University Earns First-Ever Top-25 Ranking from U.S. News & World Report",
     "tokens": [
@@ -22982,5 +22790,199 @@
       "topping"
     ],
     "ts": 1790243124.7732372
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/citizens-upgrades-blue-owl-capital-stock-rating-on-net-lease-growth-93CH-4914737",
+    "title": "Citizens upgrades Blue Owl Capital stock rating on net lease growth",
+    "tokens": [
+      "blue",
+      "capital",
+      "citizens",
+      "growth",
+      "lease",
+      "net",
+      "owl",
+      "rating",
+      "stock",
+      "upgrades"
+    ],
+    "ts": 1790243823.370813
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pacific-assets-trust-shareholders-approve-liquidation-scheme-93CH-4914734",
+    "title": "Pacific Assets Trust shareholders approve liquidation scheme",
+    "tokens": [
+      "approve",
+      "assets",
+      "liquidation",
+      "pacific",
+      "scheme",
+      "shareholders",
+      "trust"
+    ],
+    "ts": 1790243830.3042245
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-starwood-property-trust-stock-rating-on-net-lease-strategy-93CH-4914732",
+    "title": "Citizens reiterates Starwood Property Trust stock rating on net lease strategy",
+    "tokens": [
+      "citizens",
+      "lease",
+      "net",
+      "property",
+      "rating",
+      "reiterates",
+      "starwood",
+      "stock",
+      "strategy",
+      "trust"
+    ],
+    "ts": 1790243837.6169918
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-everpure-stock-surging-today-93CH-4914731",
+    "title": "Why is Everpure stock surging today?",
+    "tokens": [
+      "everpure",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790243841.6263742
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/4-lowbeta-value-stocks-for-rate-and-geopolitical-uncertainty-93CH-4914730",
+    "title": "4 low-beta value stocks for rate and geopolitical uncertainty",
+    "tokens": [
+      "beta",
+      "geopolitical",
+      "low",
+      "rate",
+      "stocks",
+      "uncertainty",
+      "value"
+    ],
+    "ts": 1790243844.784638
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-energa-stock-surging-today-93CH-4914729",
+    "title": "Why is Energa stock surging today?",
+    "tokens": [
+      "energa",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790243848.7942812
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hsbc-grants-share-options-to-employees-for-79-million-shares-93CH-4914728",
+    "title": "HSBC grants share options to employees for 7.9 million shares",
+    "tokens": [
+      "employees",
+      "grants",
+      "hsbc",
+      "million",
+      "options",
+      "share",
+      "shares"
+    ],
+    "ts": 1790243851.4576151
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/living-reit-h1-2026-slides-strategic-shift-delivers-steady-growth-93CH-4914727",
+    "title": "Living REIT H1 2026 slides: strategic shift delivers steady growth",
+    "tokens": [
+      "2026",
+      "delivers",
+      "growth",
+      "living",
+      "reit",
+      "shift",
+      "slides",
+      "steady",
+      "strategic"
+    ],
+    "ts": 1790243858.8036783
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/shaires-holdings-opens-trading-at-lse-with-108m-ai-portfolio-93CH-4914724",
+    "title": "Shaires Holdings opens trading at LSE with $108m AI portfolio",
+    "tokens": [
+      "108m",
+      "holdings",
+      "lse",
+      "opens",
+      "portfolio",
+      "shaires",
+      "trading"
+    ],
+    "ts": 1790243867.0111701
+  },
+  {
+    "id": "retailer-closed-stores-making-major-214700564.html",
+    "title": "Retailer that closed all its stores is making a major comeback",
+    "tokens": [
+      "all",
+      "closed",
+      "comeback",
+      "major",
+      "making",
+      "retailer",
+      "stores"
+    ],
+    "ts": 1790243876.2158272
+  },
+  {
+    "id": "china-secret-power-advantage-trigger-220000479.html",
+    "title": "Is China’s Secret Power Advantage About To Trigger An 89% Crash In US AI Stocks",
+    "tokens": [
+      "about",
+      "advantage",
+      "china",
+      "crash",
+      "power",
+      "secret",
+      "stocks",
+      "trigger"
+    ],
+    "ts": 1790243880.2259276
+  },
+  {
+    "id": "alibaba-just-unveiled-ai-chip-221410155.html",
+    "title": "Alibaba Just Unveiled an AI Chip 3x Faster Than Its Predecessor. Nvidia Has a China Problem to Watch",
+    "tokens": [
+      "alibaba",
+      "china",
+      "chip",
+      "faster",
+      "just",
+      "nvidia",
+      "predecessor",
+      "problem",
+      "unveiled",
+      "watch"
+    ],
+    "ts": 1790243883.5160198
+  },
+  {
+    "id": "dbb61c32-baf3-4a34-98e0-9ba45141773b",
+    "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
+    "tokens": [
+      "about",
+      "bitcoin",
+      "bond",
+      "care",
+      "data",
+      "doesn",
+      "long",
+      "proves",
+      "rising",
+      "term",
+      "yields"
+    ],
+    "ts": 1790243892.053077
   }
 ]

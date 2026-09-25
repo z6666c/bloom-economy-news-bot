@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/cintas-earnings-analysis-questions-answered-and-next-catalysts-93CH-4913609",
-    "title": "Cintas earnings analysis: questions answered and next catalysts",
-    "tokens": [
-      "analysis",
-      "answered",
-      "catalysts",
-      "cintas",
-      "earnings",
-      "next",
-      "questions"
-    ],
-    "ts": 1790182428.9480336
-  },
-  {
     "id": "https://www.investing.com/news/company-news/arcpoint-expands-globally-with-institutional-intelligence-platform-for-modern-investors-4913608",
     "title": "ArcPoint Expands Globally with Institutional Intelligence Platform for Modern Investors",
     "tokens": [
@@ -22960,5 +22946,22 @@
       "why"
     ],
     "ts": 1790366024.4159386
+  },
+  {
+    "id": "818c011b-a4ae-45af-9d08-4f565e17aeec",
+    "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+    "tokens": [
+      "act",
+      "association",
+      "blockchain",
+      "clarity",
+      "crypto",
+      "fizzles",
+      "leadership",
+      "sees",
+      "shift",
+      "shortly"
+    ],
+    "ts": 1790367009.4176683
   }
 ]

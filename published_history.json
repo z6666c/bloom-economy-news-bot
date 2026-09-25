@@ -1,187 +1,5 @@
 [
   {
-    "id": "3-dividend-stocks-trading-cheap-120049524.html",
-    "title": "3 Dividend Stocks Trading Cheap Enough to Buy Meaningful Stakes for Under $1,000",
-    "tokens": [
-      "000",
-      "buy",
-      "cheap",
-      "dividend",
-      "enough",
-      "meaningful",
-      "stakes",
-      "stocks",
-      "trading",
-      "under"
-    ],
-    "ts": 1790165753.1885064
-  },
-  {
-    "id": "oilprice-news-45574",
-    "title": "Trump Backs Diesel Export Ban as Prices Hit Record Highs",
-    "tokens": [
-      "backs",
-      "ban",
-      "diesel",
-      "export",
-      "highs",
-      "hit",
-      "prices",
-      "record",
-      "trump"
-    ],
-    "ts": 1790165762.4428895
-  },
-  {
-    "id": "WP-MKTW-0005249003",
-    "title": "HSBC addresses the concerns that are gripping the stock market — and dismisses most of them",
-    "tokens": [
-      "addresses",
-      "concerns",
-      "dismisses",
-      "gripping",
-      "hsbc",
-      "market",
-      "most",
-      "stock",
-      "them"
-    ],
-    "ts": 1790166955.6916552
-  },
-  {
-    "id": "WP-MKTW-0005243638",
-    "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-    "tokens": [
-      "anymore",
-      "can",
-      "everything",
-      "friend",
-      "grateful",
-      "her",
-      "just",
-      "money",
-      "pays",
-      "she",
-      "should",
-      "stand"
-    ],
-    "ts": 1790166963.4170682
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-deutsche-bank-stock-sliding-today-93CH-4912965",
-    "title": "Why is Deutsche Bank stock sliding today?",
-    "tokens": [
-      "bank",
-      "deutsche",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790166971.3577662
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-rating-on-maxlinear-stock-120-target-93CH-4912964",
-    "title": "Stifel reiterates Buy rating on MaxLinear stock, $120 target",
-    "tokens": [
-      "120",
-      "buy",
-      "maxlinear",
-      "rating",
-      "reiterates",
-      "stifel",
-      "stock",
-      "target"
-    ],
-    "ts": 1790166979.6141267
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lexeo-gains-access-to-aperturas-gene-therapy-capsid-93CH-4912962",
-    "title": "Lexeo gains access to Apertura’s gene therapy capsid",
-    "tokens": [
-      "access",
-      "apertura",
-      "capsid",
-      "gains",
-      "gene",
-      "lexeo",
-      "therapy"
-    ],
-    "ts": 1790166987.9802146
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/turkiye-garanti-bankasi-redeems-20-million-mtn-debt-instrument-93CH-4912963",
-    "title": "Turkiye Garanti Bankasi redeems €20 million MTN debt instrument",
-    "tokens": [
-      "bankasi",
-      "debt",
-      "garanti",
-      "instrument",
-      "million",
-      "mtn",
-      "redeems",
-      "turkiye"
-    ],
-    "ts": 1790166991.9973135
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/rain-enhancement-technologies-to-acquire-ai-firm-tensor-networks-93CH-4912960",
-    "title": "Rain Enhancement Technologies to acquire AI firm Tensor Networks",
-    "tokens": [
-      "acquire",
-      "enhancement",
-      "firm",
-      "networks",
-      "rain",
-      "technologies",
-      "tensor"
-    ],
-    "ts": 1790166995.905197
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/viasat-wins-307m-marine-corps-satellite-services-contract-93CH-4912961",
-    "title": "Viasat wins $307M Marine Corps satellite services contract",
-    "tokens": [
-      "307m",
-      "contract",
-      "corps",
-      "marine",
-      "satellite",
-      "services",
-      "viasat",
-      "wins"
-    ],
-    "ts": 1790167004.7298248
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sphere-entertainment-partners-with-disguise-on-tech-development-93CH-4912958",
-    "title": "Sphere Entertainment partners with Disguise on tech development",
-    "tokens": [
-      "development",
-      "disguise",
-      "entertainment",
-      "partners",
-      "sphere",
-      "tech"
-    ],
-    "ts": 1790167012.5050592
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/standardaero-partners-with-gmr-aero-technic-for-india-engine-support-93CH-4912959",
-    "title": "StandardAero partners with GMR Aero Technic for India engine support",
-    "tokens": [
-      "aero",
-      "engine",
-      "gmr",
-      "india",
-      "partners",
-      "standardaero",
-      "support",
-      "technic"
-    ],
-    "ts": 1790167020.4428105
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/ryanair-says-it-will-not-add-fuel-surcharge-despite-rising-costs-93CH-4912957",
     "title": "Ryanair says it will not add fuel surcharge despite rising costs",
     "tokens": [
@@ -22925,5 +22743,188 @@
       "weekly"
     ],
     "ts": 1790338504.3341484
+  },
+  {
+    "id": "WP-MKTW-0005253840",
+    "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+    "tokens": [
+      "going",
+      "help",
+      "homeless",
+      "hungry",
+      "live",
+      "many",
+      "off",
+      "pay",
+      "people",
+      "rent",
+      "security",
+      "social",
+      "why"
+    ],
+    "ts": 1790339783.7174196
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-apple-stock-outperform-on-margin-concerns-93CH-4917442",
+    "title": "Bernstein reiterates Apple stock Outperform on margin concerns",
+    "tokens": [
+      "apple",
+      "bernstein",
+      "concerns",
+      "margin",
+      "outperform",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1790339792.8094606
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/alibaba-stock-maintains-buy-rating-at-stonex-on-ai-momentum-93CH-4917440",
+    "title": "Alibaba stock maintains buy rating at StoneX on AI momentum",
+    "tokens": [
+      "alibaba",
+      "buy",
+      "maintains",
+      "momentum",
+      "rating",
+      "stock",
+      "stonex"
+    ],
+    "ts": 1790339800.0285354
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stonex-reiterates-buy-on-godaddy-stock-amid-gen-digital-takeover-talk-93CH-4917441",
+    "title": "StoneX reiterates Buy on GoDaddy stock amid Gen Digital takeover talk",
+    "tokens": [
+      "buy",
+      "digital",
+      "gen",
+      "godaddy",
+      "reiterates",
+      "stock",
+      "stonex",
+      "takeover",
+      "talk"
+    ],
+    "ts": 1790339807.879112
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cdt-equity-approves-1for25-reverse-stock-split-93CH-4917439",
+    "title": "CDT Equity approves 1-for-25 reverse stock split",
+    "tokens": [
+      "approves",
+      "cdt",
+      "equity",
+      "reverse",
+      "split",
+      "stock"
+    ],
+    "ts": 1790339814.504335
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/compass-therapeutics-cao-neil-lerner-buys-2849-in-cmpx-shares-93CH-4917438",
+    "title": "Compass Therapeutics CAO Neil Lerner buys $2,849 in CMPX shares",
+    "tokens": [
+      "849",
+      "buys",
+      "cao",
+      "cmpx",
+      "compass",
+      "lerner",
+      "neil",
+      "shares",
+      "therapeutics"
+    ],
+    "ts": 1790339821.8178604
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/jefferies-valuation-analysis-two-models-two-very-different-verdicts-93CH-4917427",
+    "title": "Jefferies valuation analysis: two models, two very different verdicts",
+    "tokens": [
+      "analysis",
+      "different",
+      "jefferies",
+      "models",
+      "two",
+      "valuation",
+      "verdicts",
+      "very"
+    ],
+    "ts": 1790339829.3324554
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/hyperscalers-need-300-billion-in-annual-ai-revenue-to-break-even-goldman-4917423",
+    "title": "Hyperscalers need $300 billion in annual AI revenue to break even: Goldman",
+    "tokens": [
+      "300",
+      "annual",
+      "billion",
+      "break",
+      "even",
+      "goldman",
+      "hyperscalers",
+      "need",
+      "revenue"
+    ],
+    "ts": 1790339837.0012298
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stonex-reiterates-buy-rating-on-tesla-stock-ahead-of-q3-deliveries-93CH-4917421",
+    "title": "StoneX reiterates Buy rating on Tesla stock ahead of Q3 deliveries",
+    "tokens": [
+      "ahead",
+      "buy",
+      "deliveries",
+      "rating",
+      "reiterates",
+      "stock",
+      "stonex",
+      "tesla"
+    ],
+    "ts": 1790339844.9377291
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-cipher-mining-stock-rallying-today-93CH-4917420",
+    "title": "Why is Cipher Mining stock rallying today?",
+    "tokens": [
+      "cipher",
+      "mining",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790339851.7624304
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/elite-wall-street-boutiques-push-back-on-saudi-headquarters-rules-93CH-4917415",
+    "title": "Elite Wall Street boutiques push back on Saudi headquarters rules",
+    "tokens": [
+      "back",
+      "boutiques",
+      "elite",
+      "headquarters",
+      "push",
+      "rules",
+      "saudi",
+      "street",
+      "wall"
+    ],
+    "ts": 1790339859.490423
+  },
+  {
+    "id": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist",
+    "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
+    "tokens": [
+      "attack",
+      "confirm",
+      "crypto",
+      "iphone",
+      "safari",
+      "slowmist",
+      "theft",
+      "yet"
+    ],
+    "ts": 1790339868.1057045
   }
 ]

@@ -1,181 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/solidium-cuts-stake-in-sampo-below-5-93CH-4913342",
-    "title": "Solidium cuts stake in Sampo below 5%",
-    "tokens": [
-      "below",
-      "cuts",
-      "sampo",
-      "solidium",
-      "stake"
-    ],
-    "ts": 1790172712.4037826
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hsbc-remains-max-bullish-on-stocks-tells-investors-to-lean-into-tech-4913341",
-    "title": "HSBC remains max bullish on stocks, tells investors to lean into tech",
-    "tokens": [
-      "bullish",
-      "hsbc",
-      "investors",
-      "lean",
-      "max",
-      "remains",
-      "stocks",
-      "tech",
-      "tells"
-    ],
-    "ts": 1790172720.3935947
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lemonade-stock-hits-52week-low-at-4612-usd-93CH-4913340",
-    "title": "Lemonade stock hits 52-week low at 46.12 USD",
-    "tokens": [
-      "hits",
-      "lemonade",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790172724.4086843
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hub-group-stock-hits-52week-low-at-3137-usd-93CH-4913339",
-    "title": "Hub Group stock hits 52-week low at 31.37 USD",
-    "tokens": [
-      "group",
-      "hits",
-      "hub",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790172724.4234166
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/brazil-central-banker-says-predictable-rate-moves-best-response-to-uncertainty-4913279",
-    "title": "Brazil central banker says predictable rate moves best response to uncertainty",
-    "tokens": [
-      "banker",
-      "best",
-      "brazil",
-      "central",
-      "moves",
-      "predictable",
-      "rate",
-      "response",
-      "uncertainty"
-    ],
-    "ts": 1790172728.5806077
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nyse-and-blockchaincom-to-explore-selling-tokenised-stocks-4913157",
-    "title": "NYSE and Blockchain.com to explore selling tokenised stocks",
-    "tokens": [
-      "blockchain",
-      "com",
-      "explore",
-      "nyse",
-      "selling",
-      "stocks",
-      "tokenised"
-    ],
-    "ts": 1790172737.5955107
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/mcdonalds-outlines-85-billion-plan-to-support-franchisees-4912916",
-    "title": "McDonald’s lays out $8.5 billion franchisee support plan, targets higher margins by 2030",
-    "tokens": [
-      "2030",
-      "billion",
-      "franchisee",
-      "higher",
-      "lays",
-      "margins",
-      "mcdonald",
-      "plan",
-      "support",
-      "targets"
-    ],
-    "ts": 1790172747.003555
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/us-business-growth-spikes-to-fastest-in-over-5-years-in-september--sp-global-4913338",
-    "title": "U.S. business growth spikes to fastest in over 5 years in September - S&P Global",
-    "tokens": [
-      "business",
-      "fastest",
-      "global",
-      "growth",
-      "september",
-      "spikes",
-      "years"
-    ],
-    "ts": 1790172755.0825102
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pool-stock-hits-52week-low-at-16521-usd-93CH-4913337",
-    "title": "Pool stock hits 52-week low at 165.21 USD",
-    "tokens": [
-      "165",
-      "hits",
-      "low",
-      "pool",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790172759.0975907
-  },
-  {
-    "id": "doubleverify-dv-ai-push-still-140003995.html",
-    "title": "Can DoubleVerify’s (DV) AI Push Still Matter With A Buyout Pending?",
-    "tokens": [
-      "buyout",
-      "can",
-      "doubleverify",
-      "matter",
-      "pending",
-      "push",
-      "still"
-    ],
-    "ts": 1790172764.3247478
-  },
-  {
-    "id": "why-polaris-capital-continues-watching-135738757.html",
-    "title": "Why Polaris Capital Continues Watching Alibaba (BABA) Amid AI Opportunity and China Market Challenges",
-    "tokens": [
-      "alibaba",
-      "baba",
-      "capital",
-      "challenges",
-      "china",
-      "continues",
-      "market",
-      "opportunity",
-      "polaris",
-      "watching",
-      "why"
-    ],
-    "ts": 1790172772.5382364
-  },
-  {
-    "id": "tech-retreats-as-treasury-yields-and-oil-climb-alphacheck-135323303.html",
-    "title": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
-    "tokens": [
-      "alphacheck",
-      "climb",
-      "oil",
-      "retreats",
-      "tech",
-      "treasury",
-      "yields"
-    ],
-    "ts": 1790172780.966123
-  },
-  {
     "id": "sonic-sah-automotive-luxury-bet-135202332.html",
     "title": "Can Sonic (SAH) Automotive’s Luxury Bet Outrun Margin Pressure?",
     "tokens": [
@@ -22956,5 +22780,184 @@
       "termination"
     ],
     "ts": 1790346844.9536502
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/eni-sets-fuel-price-caps-in-italy-starting-september-28-93CH-4917746",
+    "title": "Eni sets fuel price caps in Italy starting September 28",
+    "tokens": [
+      "caps",
+      "eni",
+      "fuel",
+      "italy",
+      "price",
+      "september",
+      "sets",
+      "starting"
+    ],
+    "ts": 1790347618.9124446
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/adarx-pharmaceuticals-allocates-55-of-ipo-to-10-investors-93CH-4917744",
+    "title": "Adarx Pharmaceuticals allocates 55% of IPO to 10 investors",
+    "tokens": [
+      "adarx",
+      "allocates",
+      "investors",
+      "ipo",
+      "pharmaceuticals"
+    ],
+    "ts": 1790347626.2069085
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cegedim-h1-2026-slides-margins-expand-as-revenue-growth-stays-modest-93CH-4917742",
+    "title": "Cegedim H1 2026 slides: margins expand as revenue growth stays modest",
+    "tokens": [
+      "2026",
+      "cegedim",
+      "expand",
+      "growth",
+      "margins",
+      "modest",
+      "revenue",
+      "slides",
+      "stays"
+    ],
+    "ts": 1790347633.4300582
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/greenland-mines-begins-trading-on-frankfurt-stock-exchange-93CH-4917740",
+    "title": "Greenland Mines begins trading on Frankfurt Stock Exchange",
+    "tokens": [
+      "begins",
+      "exchange",
+      "frankfurt",
+      "greenland",
+      "mines",
+      "stock",
+      "trading"
+    ],
+    "ts": 1790347640.5362523
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/analysisdata-center-ipo-hopefuls-brave-tougher-market-as-investor-scrutiny-grows-4917737",
+    "title": "Analysis-Data center IPO hopefuls brave tougher market as investor scrutiny grows",
+    "tokens": [
+      "analysis",
+      "brave",
+      "center",
+      "data",
+      "grows",
+      "hopefuls",
+      "investor",
+      "ipo",
+      "market",
+      "scrutiny",
+      "tougher"
+    ],
+    "ts": 1790347648.4556916
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cbl--associates-evp-jennifer-cope-sells-351684-in-stock-93CH-4917736",
+    "title": "CBL & Associates EVP Jennifer Cope sells $351,684 in stock",
+    "tokens": [
+      "351",
+      "684",
+      "associates",
+      "cbl",
+      "cope",
+      "evp",
+      "jennifer",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790347655.330717
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/changenow-unveils-token2049-singapore-lineup-bit-digital-stage-address-and-fast-track-wallet-program-4917735",
+    "title": "ChangeNOW Unveils TOKEN2049 Singapore Lineup, Bit Digital Stage Address, and Fast Track Wallet Program",
+    "tokens": [
+      "address",
+      "bit",
+      "changenow",
+      "digital",
+      "fast",
+      "lineup",
+      "program",
+      "singapore",
+      "stage",
+      "token2049",
+      "track",
+      "unveils",
+      "wallet"
+    ],
+    "ts": 1790347663.2171052
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-tower-semiconductor-stock-surging-today-93CH-4917732",
+    "title": "Why is Tower Semiconductor stock surging today?",
+    "tokens": [
+      "semiconductor",
+      "stock",
+      "surging",
+      "today",
+      "tower",
+      "why"
+    ],
+    "ts": 1790347670.3587446
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-harvest-delays-send-soy-processors-scrambling-for-supplies-4917728",
+    "title": "US harvest delays send soy processors scrambling for supplies",
+    "tokens": [
+      "delays",
+      "harvest",
+      "processors",
+      "scrambling",
+      "send",
+      "soy",
+      "supplies"
+    ],
+    "ts": 1790347678.479028
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-viavi-solutions-stock-surging-today-93CH-4917731",
+    "title": "Why is Viavi Solutions stock surging today?",
+    "tokens": [
+      "solutions",
+      "stock",
+      "surging",
+      "today",
+      "viavi",
+      "why"
+    ],
+    "ts": 1790347686.8069959
+  },
+  {
+    "id": "a0b4a6ba-5569-4fef-940c-e402f9698d89",
+    "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+    "tokens": [
+      "bitget",
+      "circle",
+      "crypto",
+      "freeze",
+      "hacker",
+      "heist",
+      "massive",
+      "step",
+      "tether",
+      "wallet"
+    ],
+    "ts": 1790347696.3687024
+  },
+  {
+    "id": "4b1641e9-2454-46f5-841d-56cf7c985a35",
+    "title": "Tokenization is moving faster than Washington",
+    "tokens": [
+      "faster",
+      "moving",
+      "tokenization",
+      "washington"
+    ],
+    "ts": 1790347705.604793
   }
 ]

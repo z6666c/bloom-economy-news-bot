@@ -1,138 +1,5 @@
 [
   {
-    "id": "oilprice-article-45584",
-    "title": "Uzbekistan Eyes Caspian and Black Sea Ports to Break Out of Central Asia",
-    "tokens": [
-      "asia",
-      "black",
-      "break",
-      "caspian",
-      "central",
-      "eyes",
-      "ports",
-      "sea",
-      "uzbekistan"
-    ],
-    "ts": 1790187358.8496826
-  },
-  {
-    "id": "oilprice-news-45584",
-    "title": "Glencore Joins Project Vault With $500 Million Cobalt Commitment",
-    "tokens": [
-      "500",
-      "cobalt",
-      "commitment",
-      "glencore",
-      "joins",
-      "million",
-      "project",
-      "vault"
-    ],
-    "ts": 1790187367.4845078
-  },
-  {
-    "id": "0dcfd36b-6b5f-4a51-b504-8cbe8412c12e",
-    "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
-    "tokens": [
-      "act",
-      "adviser",
-      "clarity",
-      "crypto",
-      "defeat",
-      "defends",
-      "house",
-      "president",
-      "ties",
-      "trump",
-      "wake",
-      "white"
-    ],
-    "ts": 1790187375.9405494
-  },
-  {
-    "id": "WP-MKTW-0005249240",
-    "title": "The ingredients for a financial reckoning are all in place",
-    "tokens": [
-      "all",
-      "financial",
-      "ingredients",
-      "place",
-      "reckoning"
-    ],
-    "ts": 1790188399.8152792
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/united-therapeutics-at-bernstein-forum-growth-bets-widen-93CH-4913727",
-    "title": "United Therapeutics at Bernstein forum: growth bets widen",
-    "tokens": [
-      "bernstein",
-      "bets",
-      "forum",
-      "growth",
-      "therapeutics",
-      "united",
-      "widen"
-    ],
-    "ts": 1790188407.9920142
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anthropics-claude-finds-new-enzyme-system-4913724",
-    "title": "Anthropic’s Claude finds new enzyme system",
-    "tokens": [
-      "anthropic",
-      "claude",
-      "enzyme",
-      "finds",
-      "system"
-    ],
-    "ts": 1790188416.1610677
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-52415-in-company-stock-93CH-4913725",
-    "title": "Verizon EVP Kyle Malady sells $52,415 in company stock",
-    "tokens": [
-      "415",
-      "company",
-      "evp",
-      "kyle",
-      "malady",
-      "sells",
-      "stock",
-      "verizon"
-    ],
-    "ts": 1790188423.150744
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/turn-therapeutics-at-stifel-forum-itch-score-drives-trial-design-93CH-4913721",
-    "title": "Turn Therapeutics at Stifel forum: itch score drives trial design",
-    "tokens": [
-      "design",
-      "drives",
-      "forum",
-      "itch",
-      "score",
-      "stifel",
-      "therapeutics",
-      "trial",
-      "turn"
-    ],
-    "ts": 1790188430.6131253
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/rapport-therapeutics-at-td-cowen-summit-bipolar-data-loom-93CH-4913720",
-    "title": "Rapport Therapeutics at TD Cowen summit: bipolar data loom",
-    "tokens": [
-      "bipolar",
-      "cowen",
-      "data",
-      "loom",
-      "rapport",
-      "summit",
-      "therapeutics"
-    ],
-    "ts": 1790188437.6304903
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/lifevantage-at-water-tower-research-virtual-insights-conference-turnaround-focus-93CH-4913719",
     "title": "LifeVantage at Water Tower Research Virtual Insights Conference: turnaround focus",
     "tokens": [
@@ -22945,5 +22812,140 @@
       "year"
     ],
     "ts": 1790374243.6445687
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/venezuelas-promised-elections-face-long-delays-sources-say-4918243",
+    "title": "Venezuela’s promised elections face long delays, sources say",
+    "tokens": [
+      "delays",
+      "elections",
+      "face",
+      "long",
+      "promised",
+      "say",
+      "sources",
+      "venezuela"
+    ],
+    "ts": 1790375183.5342166
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/stablecoin-firm-circle-finance-chief-foxgeen-to-step-down-4918246",
+    "title": "Stablecoin firm Circle finance chief Fox-Geen to step down",
+    "tokens": [
+      "chief",
+      "circle",
+      "finance",
+      "firm",
+      "fox",
+      "geen",
+      "stablecoin",
+      "step"
+    ],
+    "ts": 1790375190.7958717
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/kodiak-sciences-to-report-phase-3-trial-results-monday-93CH-4918245",
+    "title": "Kodiak Sciences to report phase 3 trial results Monday",
+    "tokens": [
+      "kodiak",
+      "monday",
+      "phase",
+      "report",
+      "results",
+      "sciences",
+      "trial"
+    ],
+    "ts": 1790375197.7643054
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/marygold-companies-to-be-taken-private-by-madison-dearborn-partners-in-allcash-deal-93CH-4918240",
+    "title": "Marygold Companies to be taken private by Madison Dearborn Partners in all-cash deal",
+    "tokens": [
+      "all",
+      "cash",
+      "companies",
+      "deal",
+      "dearborn",
+      "madison",
+      "marygold",
+      "partners",
+      "private",
+      "taken"
+    ],
+    "ts": 1790375201.7814882
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ibotta-cto-luke-swanson-sells-661216-of-ibta-shares-93CH-4918239",
+    "title": "Ibotta CTO Luke Swanson sells $661,216 of IBTA shares",
+    "tokens": [
+      "216",
+      "661",
+      "cto",
+      "ibotta",
+      "ibta",
+      "luke",
+      "sells",
+      "shares",
+      "swanson"
+    ],
+    "ts": 1790375204.6073651
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cdw-completes-acquisition-of-data-and-ai-firm-lovelytics-93CH-4918238",
+    "title": "CDW completes acquisition of data and AI firm Lovelytics",
+    "tokens": [
+      "acquisition",
+      "cdw",
+      "completes",
+      "data",
+      "firm",
+      "lovelytics"
+    ],
+    "ts": 1790375211.838236
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/tidewater-enters-guarantee-agreement-for-bndes-construction-loans-93CH-4918228",
+    "title": "Tidewater enters guarantee agreement for BNDES construction loans",
+    "tokens": [
+      "agreement",
+      "bndes",
+      "construction",
+      "enters",
+      "guarantee",
+      "loans",
+      "tidewater"
+    ],
+    "ts": 1790375218.8315177
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/marygold-companies-enters-agreement-to-go-private-in-deal-with-madison-dearborn-93CH-4918226",
+    "title": "Marygold Companies enters agreement to go private in deal with Madison Dearborn",
+    "tokens": [
+      "agreement",
+      "companies",
+      "deal",
+      "dearborn",
+      "enters",
+      "madison",
+      "marygold",
+      "private"
+    ],
+    "ts": 1790375222.8485758
+  },
+  {
+    "id": "fe3908e5-a758-4fce-b2a9-c1e7c6073eb9",
+    "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+    "tokens": [
+      "advocate",
+      "crypto",
+      "depart",
+      "hester",
+      "next",
+      "peirce",
+      "sec",
+      "steadiest",
+      "week"
+    ],
+    "ts": 1790375227.2630208
   }
 ]

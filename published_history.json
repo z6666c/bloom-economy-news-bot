@@ -1,65 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa",
-    "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
-    "tokens": [
-      "adoption",
-      "bank",
-      "could",
-      "like",
-      "protections",
-      "stablecoin",
-      "surge",
-      "survey",
-      "visa"
-    ],
-    "ts": 1790188472.0869935
-  },
-  {
-    "id": "WP-MKTW-0005249436",
-    "title": "Palantir’s stock is heading for its highest close of the year, in a dramatic comeback",
-    "tokens": [
-      "close",
-      "comeback",
-      "dramatic",
-      "heading",
-      "highest",
-      "palantir",
-      "stock",
-      "year"
-    ],
-    "ts": 1790189649.8698823
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/wall-st-futures-steady-with-focus-on-mideast-talks-uschina-summit-4912483",
-    "title": "Wall Street falls as oil prices, Treasury yields rise",
-    "tokens": [
-      "falls",
-      "oil",
-      "prices",
-      "rise",
-      "street",
-      "treasury",
-      "wall",
-      "yields"
-    ],
-    "ts": 1790189657.5248394
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dominican-leader-urges-un-to-step-up-backing-for-haiti-mission-4913750",
-    "title": "Dominican leader urges UN to step up backing for Haiti mission",
-    "tokens": [
-      "backing",
-      "dominican",
-      "haiti",
-      "leader",
-      "mission",
-      "step",
-      "urges"
-    ],
-    "ts": 1790189665.4081464
-  },
-  {
     "id": "https://www.investing.com/news/company-news/firstenergy-stock-hits-52week-low-at-4372-usd-93CH-4913749",
     "title": "FirstEnergy stock hits 52-week low at 43.72 USD",
     "tokens": [
@@ -22941,5 +22881,71 @@
       "stock"
     ],
     "ts": 1790376085.9961405
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/rush-of-money-campaign-stops-show-republicans-feel-vulnerable-in-iowa-kansas-4917071",
+    "title": "Rush of money, campaign stops show Republicans feel vulnerable in Iowa, Kansas",
+    "tokens": [
+      "campaign",
+      "feel",
+      "iowa",
+      "kansas",
+      "money",
+      "republicans",
+      "rush",
+      "show",
+      "stops",
+      "vulnerable"
+    ],
+    "ts": 1790377792.8714838
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cypherpunk-technologies-director-oei-khing-djien-sells-661500-in-stock-93CH-4918282",
+    "title": "Cypherpunk technologies director Oei Khing Djien sells $661,500 in stock",
+    "tokens": [
+      "500",
+      "661",
+      "cypherpunk",
+      "director",
+      "djien",
+      "khing",
+      "oei",
+      "sells",
+      "stock",
+      "technologies"
+    ],
+    "ts": 1790377799.9904623
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-lawmakers-aim-to-keep-chinas-datacenter-tech-out-of-sensitive-government-systems-4918273",
+    "title": "US lawmakers aim to keep China’s datacenter tech out of sensitive government systems",
+    "tokens": [
+      "aim",
+      "china",
+      "datacenter",
+      "government",
+      "keep",
+      "lawmakers",
+      "sensitive",
+      "systems",
+      "tech"
+    ],
+    "ts": 1790377807.3955622
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/toro-at-25th-annual-diversified-industrials--services-conference-growth-reset-93CH-4918271",
+    "title": "Toro at 25th Annual Diversified Industrials & Services Conference: growth reset",
+    "tokens": [
+      "25th",
+      "annual",
+      "conference",
+      "diversified",
+      "growth",
+      "industrials",
+      "reset",
+      "services",
+      "toro"
+    ],
+    "ts": 1790377811.410624
   }
 ]

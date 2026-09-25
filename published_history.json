@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/ingevity-at-water-tower-research-virtual-insights-conference-sharper-focus-93CH-4913435",
-    "title": "Ingevity at water tower research virtual insights conference: sharper focus",
-    "tokens": [
-      "conference",
-      "focus",
-      "ingevity",
-      "insights",
-      "research",
-      "sharper",
-      "tower",
-      "virtual",
-      "water"
-    ],
-    "ts": 1790174812.5230567
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/btcs-at-water-tower-research-virtual-insights-conference-profit-focus-deepens-93CH-4913434",
     "title": "BTCS at Water Tower Research Virtual Insights Conference: profit focus deepens",
     "tokens": [
@@ -22970,5 +22954,21 @@
       "week"
     ],
     "ts": 1790351154.1592376
+  },
+  {
+    "id": "WP-MKTW-0005254212",
+    "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
+    "tokens": [
+      "excite",
+      "fails",
+      "falls",
+      "investors",
+      "launch",
+      "semi",
+      "stock",
+      "tesla",
+      "truck"
+    ],
+    "ts": 1790351777.607429
   }
 ]

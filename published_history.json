@@ -1,98 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-initiates-terawulf-stock-with-buy-rating-on-leasing-growth-93CH-4912229",
-    "title": "UBS initiates Terawulf stock with buy rating on leasing growth",
-    "tokens": [
-      "buy",
-      "growth",
-      "initiates",
-      "leasing",
-      "rating",
-      "stock",
-      "terawulf",
-      "ubs"
-    ],
-    "ts": 1790151090.4236877
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-initiates-applied-digital-stock-with-buy-rating-on-ai-data-center-growth-93CH-4912227",
-    "title": "UBS initiates Applied Digital stock with buy rating on AI data center growth",
-    "tokens": [
-      "applied",
-      "buy",
-      "center",
-      "data",
-      "digital",
-      "growth",
-      "initiates",
-      "rating",
-      "stock",
-      "ubs"
-    ],
-    "ts": 1790151094.4373813
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-kws-saat-posts-resilient-2026-results-as-shares-fall-93CH-4912226",
-    "title": "Earnings call transcript: KWS SAAT posts resilient 2026 results as shares fall",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "fall",
-      "kws",
-      "posts",
-      "resilient",
-      "results",
-      "saat",
-      "shares",
-      "transcript"
-    ],
-    "ts": 1790151098.948161
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/german-business-activity-grows-in-september-pmi-shows-4912225",
-    "title": "German business activity grows in September, PMI shows",
-    "tokens": [
-      "activity",
-      "business",
-      "german",
-      "grows",
-      "pmi",
-      "september",
-      "shows"
-    ],
-    "ts": 1790151106.55428
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-resumes-wave-life-sciences-stock-rating-at-neutral-93CH-4912220",
-    "title": "JPMorgan resumes Wave Life Sciences stock rating at Neutral",
-    "tokens": [
-      "jpmorgan",
-      "life",
-      "neutral",
-      "rating",
-      "resumes",
-      "sciences",
-      "stock",
-      "wave"
-    ],
-    "ts": 1790151113.7694948
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bernstein-initiates-te-connectivity-stock-coverage-with-outperform-rating-93CH-4912219",
-    "title": "Bernstein initiates TE Connectivity stock coverage with outperform rating",
-    "tokens": [
-      "bernstein",
-      "connectivity",
-      "coverage",
-      "initiates",
-      "outperform",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790151121.9048254
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/industrie-de-nora-recovers-slightly-after-18-plunge-on-snam-share-placement-4912218",
     "title": "Industrie De Nora recovers slightly after 18% plunge on Snam share placement",
     "tokens": [
@@ -23048,5 +22955,95 @@
       "yen"
     ],
     "ts": 1790305859.2811964
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-oracle-japan-stock-surging-today-93CH-4916563",
+    "title": "Why is Oracle Japan stock surging today?",
+    "tokens": [
+      "japan",
+      "oracle",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790307740.6904907
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/atricure-cto-salvatore-privitera-sells-271140-in-stock-93CH-4916562",
+    "title": "AtriCure CTO Salvatore Privitera sells $271,140 in stock",
+    "tokens": [
+      "140",
+      "271",
+      "atricure",
+      "cto",
+      "privitera",
+      "salvatore",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790307748.6427953
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-slip-as-bond-selloff-weighs-trumpxi-summit-offers-little-relief-4916561",
+    "title": "Asia stocks slip as bond selloff weighs; Trump-Xi summit offers little relief",
+    "tokens": [
+      "asia",
+      "bond",
+      "little",
+      "offers",
+      "relief",
+      "selloff",
+      "slip",
+      "stocks",
+      "summit",
+      "trump",
+      "weighs"
+    ],
+    "ts": 1790307756.3424885
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/softbank-shares-fall-as-oracle-datacenter-warning-fuels-ai-funding-fears-4916560",
+    "title": "SoftBank shares fall as Oracle data-center warning fuels AI funding fears",
+    "tokens": [
+      "center",
+      "data",
+      "fall",
+      "fears",
+      "fuels",
+      "funding",
+      "oracle",
+      "shares",
+      "softbank",
+      "warning"
+    ],
+    "ts": 1790307763.5718338
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/densityai-seeks-funding-at-10-bln-valuation-information-reports-93CH-4916559",
+    "title": "DensityAI seeks funding at $10 bln valuation, Information reports",
+    "tokens": [
+      "bln",
+      "densityai",
+      "funding",
+      "information",
+      "reports",
+      "seeks",
+      "valuation"
+    ],
+    "ts": 1790307770.5800312
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-sliding-today-93CH-4916558",
+    "title": "Why is SoftBank Group stock sliding today?",
+    "tokens": [
+      "group",
+      "sliding",
+      "softbank",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790307774.5957224
   }
 ]

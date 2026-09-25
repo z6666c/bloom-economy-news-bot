@@ -1,113 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/legal--general-to-cut-1000-jobs-by-mid2027-93CH-4912522",
-    "title": "Legal & General to cut 1,000 jobs by mid-2027",
-    "tokens": [
-      "000",
-      "2027",
-      "cut",
-      "general",
-      "jobs",
-      "legal",
-      "mid"
-    ],
-    "ts": 1790160244.0465107
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/portugal-forecasts-balanced-budget-for-2026-despite-surplus-93CH-4912521",
-    "title": "Portugal forecasts balanced budget for 2026 despite surplus",
-    "tokens": [
-      "2026",
-      "balanced",
-      "budget",
-      "despite",
-      "forecasts",
-      "portugal",
-      "surplus"
-    ],
-    "ts": 1790160252.0026672
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lg-and-samsung-face-india-probe-over-tv-display-import-tariffs-93CH-4912520",
-    "title": "LG and Samsung face India probe over TV display import tariffs",
-    "tokens": [
-      "display",
-      "face",
-      "import",
-      "india",
-      "probe",
-      "samsung",
-      "tariffs"
-    ],
-    "ts": 1790160259.3704834
-  },
-  {
-    "id": "federal-delivers-warning-americans-savings-103500121.html",
-    "title": "Federal Reserve delivers warning to all Americans with a savings account: ‘There will be a reckoning.’ Are you ready?",
-    "tokens": [
-      "account",
-      "all",
-      "americans",
-      "delivers",
-      "federal",
-      "ready",
-      "reckoning",
-      "reserve",
-      "savings",
-      "there",
-      "warning",
-      "you"
-    ],
-    "ts": 1790160267.3129416
-  },
-  {
-    "id": "biocryst-bcrx-newest-approval-bigger-102622733.html",
-    "title": "Is BioCryst’s (BCRX) Newest Approval Bigger Than It Looks?",
-    "tokens": [
-      "approval",
-      "bcrx",
-      "bigger",
-      "biocryst",
-      "looks",
-      "newest"
-    ],
-    "ts": 1790160274.621467
-  },
-  {
-    "id": "oil-falls-increased-gulf-supply-014402051.html",
-    "title": "Oil holds near two-week lows while diesel cracks hit record peak",
-    "tokens": [
-      "cracks",
-      "diesel",
-      "hit",
-      "holds",
-      "lows",
-      "near",
-      "oil",
-      "peak",
-      "record",
-      "two",
-      "week",
-      "while"
-    ],
-    "ts": 1790160282.651457
-  },
-  {
-    "id": "whys-everyone-talking-monster-beverage-103500317.html",
-    "title": "Why's Everyone Talking About Monster Beverage Stock Now?",
-    "tokens": [
-      "about",
-      "beverage",
-      "everyone",
-      "monster",
-      "now",
-      "stock",
-      "talking",
-      "why"
-    ],
-    "ts": 1790160290.6000195
-  },
-  {
     "id": "why-northwest-bancshares-nwbi-betting-101926444.html",
     "title": "Why Is Northwest Bancshares (NWBI) Betting Big On A New Home?",
     "tokens": [
@@ -22965,5 +22857,115 @@
       "stock"
     ],
     "ts": 1790329547.3973277
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/wall-st-futures-gain-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-4917018",
+    "title": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
+    "tokens": [
+      "eases",
+      "enthusiasm",
+      "futures",
+      "gain",
+      "higher",
+      "oil",
+      "prices",
+      "wall",
+      "worries",
+      "yields"
+    ],
+    "ts": 1790330247.5668597
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/telsey-reiterates-costco-stock-rating-on-strong-q4-results-93CH-4917017",
+    "title": "Telsey reiterates Costco stock rating on strong Q4 results",
+    "tokens": [
+      "costco",
+      "rating",
+      "reiterates",
+      "results",
+      "stock",
+      "strong",
+      "telsey"
+    ],
+    "ts": 1790330255.7730021
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-alaska-air-stock-rating-on-investor-day-preview-93CH-4917016",
+    "title": "Raymond James reiterates Alaska Air stock rating on Investor Day preview",
+    "tokens": [
+      "air",
+      "alaska",
+      "day",
+      "investor",
+      "james",
+      "preview",
+      "rating",
+      "raymond",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1790330262.727459
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-eastman-chemical-stock-rating-on-china-competition-view-93CH-4917015",
+    "title": "Jefferies reiterates Eastman Chemical stock rating on China competition view",
+    "tokens": [
+      "chemical",
+      "china",
+      "competition",
+      "eastman",
+      "jefferies",
+      "rating",
+      "reiterates",
+      "stock",
+      "view"
+    ],
+    "ts": 1790330269.70628
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/boes-bailey-says-high-energy-prices-make-it-harder-to-leave-rates-on-hold-4917012",
+    "title": "BoE’s Bailey says high energy prices make it harder to leave rates on hold",
+    "tokens": [
+      "bailey",
+      "boe",
+      "energy",
+      "harder",
+      "high",
+      "hold",
+      "leave",
+      "make",
+      "prices",
+      "rates"
+    ],
+    "ts": 1790330276.7401795
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/raspberry-pi-shares-fall-9-after-record-h1-results-trigger-profittaking-4917002",
+    "title": "Raspberry Pi shares fall 9% after record H1 results trigger profit-taking",
+    "tokens": [
+      "fall",
+      "profit",
+      "raspberry",
+      "record",
+      "results",
+      "shares",
+      "taking",
+      "trigger"
+    ],
+    "ts": 1790330283.939633
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/mizuho-initiates-tower-semiconductor-stock-at-outperform-on-ai-growth-93CH-4917000",
+    "title": "Mizuho initiates Tower Semiconductor stock at Outperform on AI growth",
+    "tokens": [
+      "growth",
+      "initiates",
+      "mizuho",
+      "outperform",
+      "semiconductor",
+      "stock",
+      "tower"
+    ],
+    "ts": 1790330291.582838
   }
 ]

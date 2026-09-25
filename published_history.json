@@ -1,55 +1,5 @@
 [
   {
-    "id": "6896956a-d4f2-454b-9d87-51ac9ecb3c90",
-    "title": "XRP Ledger retries upgrade that lets banks split payment and compliance duties",
-    "tokens": [
-      "banks",
-      "compliance",
-      "duties",
-      "ledger",
-      "lets",
-      "payment",
-      "retries",
-      "split",
-      "upgrade",
-      "xrp"
-    ],
-    "ts": 1790149581.95413
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable",
-    "title": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
-    "tokens": [
-      "basis",
-      "bitcoin",
-      "btc",
-      "cost",
-      "days",
-      "etfs",
-      "holder",
-      "take",
-      "tops"
-    ],
-    "ts": 1790149590.3761168
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-initiates-hut-8-mining-stock-with-buy-rating-on-data-center-growth-93CH-4912228",
-    "title": "UBS initiates Hut 8 Mining stock with buy rating on data center growth",
-    "tokens": [
-      "buy",
-      "center",
-      "data",
-      "growth",
-      "hut",
-      "initiates",
-      "mining",
-      "rating",
-      "stock",
-      "ubs"
-    ],
-    "ts": 1790151083.2348294
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/ubs-initiates-terawulf-stock-with-buy-rating-on-leasing-growth-93CH-4912229",
     "title": "UBS initiates Terawulf stock with buy rating on leasing growth",
     "tokens": [
@@ -23049,5 +22999,54 @@
       "weather"
     ],
     "ts": 1790304077.5512707
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/insurance-australia-agrees-to-settle-2-bln-credit-suisse-greensill-lawsuit-4916547",
+    "title": "Insurance Australia agrees to settle $2 bln Credit Suisse Greensill lawsuit",
+    "tokens": [
+      "agrees",
+      "australia",
+      "bln",
+      "credit",
+      "greensill",
+      "insurance",
+      "lawsuit",
+      "settle",
+      "suisse"
+    ],
+    "ts": 1790305844.683769
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tesla-has-begun-high-volume-production-of-semi-truck-musk-says-4916546",
+    "title": "Tesla has begun ‘high volume’ production of semi truck, Musk says",
+    "tokens": [
+      "begun",
+      "high",
+      "musk",
+      "production",
+      "semi",
+      "tesla",
+      "truck",
+      "volume"
+    ],
+    "ts": 1790305851.4610543
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
+    "title": "Asian currencies weaken as dollar hits two-month high, yen nears 160",
+    "tokens": [
+      "160",
+      "asian",
+      "currencies",
+      "dollar",
+      "high",
+      "hits",
+      "month",
+      "nears",
+      "two",
+      "weaken",
+      "yen"
+    ],
+    "ts": 1790305859.2811964
   }
 ]

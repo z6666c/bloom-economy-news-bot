@@ -1,109 +1,5 @@
 [
   {
-    "id": "jim-cramer-credo-crdo-think-193721036.html",
-    "title": "Jim Cramer on Credo (CRDO): “I Think You Can Buy the Stock”",
-    "tokens": [
-      "buy",
-      "can",
-      "cramer",
-      "crdo",
-      "credo",
-      "jim",
-      "stock",
-      "think",
-      "you"
-    ],
-    "ts": 1790147678.5925498
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/rivian-recalls-nearly-99000-vehicles-over-rearview-camera-display-issue-4912206",
-    "title": "Rivian recalls nearly 99,000 vehicles over rearview camera display issue",
-    "tokens": [
-      "000",
-      "camera",
-      "display",
-      "issue",
-      "nearly",
-      "rearview",
-      "recalls",
-      "rivian",
-      "vehicles"
-    ],
-    "ts": 1790148605.059635
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/france-private-sector-returns-to-growth-at-fastest-rate-in-25-months-pmi-shows-4912205",
-    "title": "France private sector returns to growth at fastest rate in 25 months, PMI shows",
-    "tokens": [
-      "fastest",
-      "france",
-      "growth",
-      "months",
-      "pmi",
-      "private",
-      "rate",
-      "returns",
-      "sector",
-      "shows"
-    ],
-    "ts": 1790148612.7818313
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-renishaw-stock-rallying-today-93CH-4912199",
-    "title": "Why is Renishaw stock rallying today?",
-    "tokens": [
-      "rallying",
-      "renishaw",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790148616.7915523
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-totalenergies-stock-rating-on-valuation-93CH-4912197",
-    "title": "JPMorgan downgrades TotalEnergies stock rating on valuation",
-    "tokens": [
-      "downgrades",
-      "jpmorgan",
-      "rating",
-      "stock",
-      "totalenergies",
-      "valuation"
-    ],
-    "ts": 1790148620.702195
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/adyen-shares-slip-after-new-cfo-appointment-company-teams-up-with-flatpay-4912196",
-    "title": "Adyen shares slip after new CFO appointment; company teams up with Flatpay",
-    "tokens": [
-      "adyen",
-      "appointment",
-      "cfo",
-      "company",
-      "flatpay",
-      "shares",
-      "slip",
-      "teams"
-    ],
-    "ts": 1790148627.7300775
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/smith-douglas-homes-director-bradbury-buys-199k-in-shares-93CH-4912195",
-    "title": "Smith Douglas Homes director Bradbury buys $199k in shares",
-    "tokens": [
-      "199k",
-      "bradbury",
-      "buys",
-      "director",
-      "douglas",
-      "homes",
-      "shares",
-      "smith"
-    ],
-    "ts": 1790148635.2274835
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-usiran-diplomacy-eases-oil-fears-4912189",
     "title": "FTSE 100 today: Stocks rise as U.S.-Iran diplomacy eases oil fears",
     "tokens": [
@@ -23056,5 +22952,111 @@
       "sharp"
     ],
     "ts": 1790298827.5241687
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities-4916502",
+    "title": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities",
+    "tokens": [
+      "attacks",
+      "facilities",
+      "fall",
+      "iran",
+      "look",
+      "markets",
+      "oil",
+      "prices",
+      "remain",
+      "truce",
+      "wary"
+    ],
+    "ts": 1790299659.2421412
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/gold-edges-lower-set-for-weekly-loss-as-oil-fuels-fed-hike-bets-4916501",
+    "title": "Gold edges lower, set for weekly loss as oil fuels Fed hike bets",
+    "tokens": [
+      "bets",
+      "edges",
+      "fed",
+      "fuels",
+      "gold",
+      "hike",
+      "loss",
+      "lower",
+      "oil",
+      "set",
+      "weekly"
+    ],
+    "ts": 1790299667.241857
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/china-fuels-rush-to-turn-ai-video-into-an-industry-4916500",
+    "title": "China fuels rush to turn AI video into an industry",
+    "tokens": [
+      "china",
+      "fuels",
+      "industry",
+      "rush",
+      "turn",
+      "video"
+    ],
+    "ts": 1790299675.351384
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/centerpoint-energy-declares-024-quarterly-dividend-93CH-4916499",
+    "title": "CenterPoint Energy declares $0.24 quarterly dividend",
+    "tokens": [
+      "centerpoint",
+      "declares",
+      "dividend",
+      "energy",
+      "quarterly"
+    ],
+    "ts": 1790299682.5049345
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nikkei-225-tests-200-sma-resistance-at-65337-live-levels-93CH-4908214",
+    "title": "Nikkei 225 trapped in Ichimoku cloud range: Live levels",
+    "tokens": [
+      "225",
+      "cloud",
+      "ichimoku",
+      "levels",
+      "live",
+      "nikkei",
+      "range",
+      "trapped"
+    ],
+    "ts": 1790299689.8973064
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/openai-to-preview-gpt6-cyber-in-coming-weeks-fortune-reports-4916497",
+    "title": "OpenAI to preview GPT-6 Cyber in coming weeks, Fortune reports",
+    "tokens": [
+      "coming",
+      "cyber",
+      "fortune",
+      "gpt",
+      "openai",
+      "preview",
+      "reports",
+      "weeks"
+    ],
+    "ts": 1790299697.2736938
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/rh-director-mark-demilio-sells-132000-in-company-stock-93CH-4916496",
+    "title": "RH director Mark Demilio sells $132,000 in company stock",
+    "tokens": [
+      "000",
+      "132",
+      "company",
+      "demilio",
+      "director",
+      "mark",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790299704.49976
   }
 ]

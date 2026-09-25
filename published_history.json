@@ -1,80 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-cintas-tops-q1-2026-forecasts-raises-guidance-93CH-4913494",
-    "title": "Earnings call transcript: Cintas tops Q1 2026 forecasts, raises guidance",
-    "tokens": [
-      "2026",
-      "call",
-      "cintas",
-      "earnings",
-      "forecasts",
-      "guidance",
-      "raises",
-      "tops",
-      "transcript"
-    ],
-    "ts": 1790177322.4062111
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/paychex-q1-fy27-slides-doubledigit-earnings-growth-ai-expansion-93CH-4913490",
-    "title": "Paychex Q1 FY27 slides: double-digit earnings growth, AI expansion",
-    "tokens": [
-      "digit",
-      "double",
-      "earnings",
-      "expansion",
-      "fy27",
-      "growth",
-      "paychex",
-      "slides"
-    ],
-    "ts": 1790177330.7196555
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ashtead-technology-receives-615-pence-per-share-takeover-proposal-93CH-4913489",
-    "title": "Ashtead Technology receives 615 pence per share takeover proposal",
-    "tokens": [
-      "615",
-      "ashtead",
-      "pence",
-      "per",
-      "proposal",
-      "receives",
-      "share",
-      "takeover",
-      "technology"
-    ],
-    "ts": 1790177338.598646
-  },
-  {
-    "id": "home-depot-hd-positioned-benefit-151515088.html",
-    "title": "Home Depot (HD) is Positioned to benefit from Housing Market Recovery",
-    "tokens": [
-      "benefit",
-      "depot",
-      "home",
-      "housing",
-      "market",
-      "positioned",
-      "recovery"
-    ],
-    "ts": 1790177346.298744
-  },
-  {
-    "id": "nyse-teams-blockchain-com-offer-151400975.html",
-    "title": "NYSE Teams Up With Blockchain.com to Offer Tokenized Stocks",
-    "tokens": [
-      "blockchain",
-      "com",
-      "nyse",
-      "offer",
-      "stocks",
-      "teams",
-      "tokenized"
-    ],
-    "ts": 1790177354.4855056
-  },
-  {
     "id": "southern-company-duke-energy-only-152037800.html",
     "title": "Southern Company or Duke Energy: Only One Offers the Combination of Yield, Growth, and Safety You Need",
     "tokens": [
@@ -22942,5 +22867,79 @@
       "security"
     ],
     "ts": 1790357251.5074525
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/meta-misled-consumers-in-case-over-cambridge-analytica-scandal-new-mexico-jury-says-4917926",
+    "title": "Meta misled consumers in case over Cambridge Analytica scandal, New Mexico jury says",
+    "tokens": [
+      "analytica",
+      "cambridge",
+      "case",
+      "consumers",
+      "jury",
+      "meta",
+      "mexico",
+      "misled",
+      "scandal"
+    ],
+    "ts": 1790358125.6258965
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/leaders-advantage-completes-150-million-spac-ipo-on-nasdaq-93CH-4917927",
+    "title": "Leader’s Advantage completes $150 million SPAC IPO on Nasdaq",
+    "tokens": [
+      "150",
+      "advantage",
+      "completes",
+      "ipo",
+      "leader",
+      "million",
+      "nasdaq",
+      "spac"
+    ],
+    "ts": 1790358132.693109
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-alten-h1-2026-revenue-beats-forecast-as-shares-rise-65-93CH-4917925",
+    "title": "Earnings call transcript: Alten H1 2026 revenue beats forecast as shares rise 6.5%",
+    "tokens": [
+      "2026",
+      "alten",
+      "beats",
+      "call",
+      "earnings",
+      "forecast",
+      "revenue",
+      "rise",
+      "shares",
+      "transcript"
+    ],
+    "ts": 1790358139.991136
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/crowdstrike-probe-closed-by-us-prosecutors-without-charges-4917924",
+    "title": "CrowdStrike probe closed by US prosecutors without charges",
+    "tokens": [
+      "charges",
+      "closed",
+      "crowdstrike",
+      "probe",
+      "prosecutors",
+      "without"
+    ],
+    "ts": 1790358146.9285572
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/fmc-stock-hits-52week-low-at-948-usd-93CH-4917917",
+    "title": "FMC stock hits 52-week low at 9.48 USD",
+    "tokens": [
+      "fmc",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790358150.9435568
   }
 ]

@@ -1,98 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/industrie-de-nora-recovers-slightly-after-18-plunge-on-snam-share-placement-4912218",
-    "title": "Industrie De Nora recovers slightly after 18% plunge on Snam share placement",
-    "tokens": [
-      "industrie",
-      "nora",
-      "placement",
-      "plunge",
-      "recovers",
-      "share",
-      "slightly",
-      "snam"
-    ],
-    "ts": 1790151129.4080203
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/grab-execs-buy-back-shares-after-stock-hits-3year-low-on-atome-deal-4912209",
-    "title": "Grab execs buy back shares after stock hits 3-year low on Atome deal",
-    "tokens": [
-      "atome",
-      "back",
-      "buy",
-      "deal",
-      "execs",
-      "grab",
-      "hits",
-      "low",
-      "shares",
-      "stock",
-      "year"
-    ],
-    "ts": 1790151139.2124999
-  },
-  {
-    "id": "meta-s-stock-soars-more-than-10-as-new-ai-agent-gathers-steam-XHfjpXIVTQ13gdgdnYdK?siteid=yhoof2&yptr=yahoo",
-    "title": "Meta Stock Soars as New AI Agent Gathers Steam",
-    "tokens": [
-      "agent",
-      "gathers",
-      "meta",
-      "soars",
-      "steam",
-      "stock"
-    ],
-    "ts": 1790151146.908784
-  },
-  {
-    "id": "amd-stock-alert-advanced-micro-205135877.html",
-    "title": "AMD Stock Alert: Advanced Micro Devices Joins the Trillion-Dollar Club",
-    "tokens": [
-      "advanced",
-      "alert",
-      "amd",
-      "club",
-      "devices",
-      "dollar",
-      "joins",
-      "micro",
-      "stock",
-      "trillion"
-    ],
-    "ts": 1790151155.3717644
-  },
-  {
-    "id": "wells-fargo-cuts-netflix-nflx-205315969.html",
-    "title": "Wells Fargo Cuts Netflix (NFLX) to Underweight as its 2026 Slide Deepens",
-    "tokens": [
-      "2026",
-      "cuts",
-      "deepens",
-      "fargo",
-      "netflix",
-      "nflx",
-      "slide",
-      "underweight",
-      "wells"
-    ],
-    "ts": 1790151163.6843724
-  },
-  {
-    "id": "play-crowdstrike-stock-time-highs-205405169.html",
-    "title": "How to Play CrowdStrike Stock at All-Time Highs",
-    "tokens": [
-      "all",
-      "crowdstrike",
-      "highs",
-      "how",
-      "play",
-      "stock",
-      "time"
-    ],
-    "ts": 1790151171.6184855
-  },
-  {
     "id": "b9d02a89-d570-44df-9239-cf29ec6c5c5f",
     "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
     "tokens": [
@@ -23045,5 +22952,92 @@
       "why"
     ],
     "ts": 1790307774.5957224
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/delek-us-prices-400m-convertible-notes-offering-due-2031-93CH-4916579",
+    "title": "Delek US prices $400m convertible notes offering due 2031",
+    "tokens": [
+      "2031",
+      "400m",
+      "convertible",
+      "delek",
+      "due",
+      "notes",
+      "offering",
+      "prices"
+    ],
+    "ts": 1790309444.9554627
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/analysisjapans-bond-falling-knife-stalls-repatriation-rush-4916565",
+    "title": "Analysis-Japan’s bond ’falling knife’ stalls repatriation rush",
+    "tokens": [
+      "analysis",
+      "bond",
+      "falling",
+      "japan",
+      "knife",
+      "repatriation",
+      "rush",
+      "stalls"
+    ],
+    "ts": 1790309451.9953454
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/giftify-vp-of-sales-timothy-miller-sells-1000-in-common-stock-93CH-4916573",
+    "title": "Giftify VP of sales Timothy Miller sells $1,000 in common stock",
+    "tokens": [
+      "000",
+      "common",
+      "giftify",
+      "miller",
+      "sales",
+      "sells",
+      "stock",
+      "timothy"
+    ],
+    "ts": 1790309459.4402487
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/marcus-corp-director-diane-gershowitz-sells-138m-in-shares-93CH-4916574",
+    "title": "Marcus Corp. director Diane Gershowitz sells $1.38m in shares",
+    "tokens": [
+      "38m",
+      "corp",
+      "diane",
+      "director",
+      "gershowitz",
+      "marcus",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790309466.1859567
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/okta-ceo-todd-mckinnon-sells-94-million-in-company-shares-93CH-4916572",
+    "title": "Okta CEO Todd McKinnon sells $9.4 million in company shares",
+    "tokens": [
+      "ceo",
+      "company",
+      "mckinnon",
+      "million",
+      "okta",
+      "sells",
+      "shares",
+      "todd"
+    ],
+    "ts": 1790309474.1576838
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-shimizu-stock-sliding-today-93CH-4916567",
+    "title": "Why is Shimizu stock sliding today?",
+    "tokens": [
+      "shimizu",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790309478.176903
   }
 ]

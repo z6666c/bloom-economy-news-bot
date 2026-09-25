@@ -1,191 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005244837",
-    "title": "What the Trump-Xi meeting could do to strengthen the guardrails for AI",
-    "tokens": [
-      "could",
-      "guardrails",
-      "meeting",
-      "strengthen",
-      "trump",
-      "what"
-    ],
-    "ts": 1790165652.1929667
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/premarket-movers-ionq-surges-on-quantum-six-flags-gains-4912840",
-    "title": "Premarket movers: IonQ surges on quantum, Six Flags gains",
-    "tokens": [
-      "flags",
-      "gains",
-      "ionq",
-      "movers",
-      "premarket",
-      "quantum",
-      "six",
-      "surges"
-    ],
-    "ts": 1790165661.2575
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-essential-properties-stock-36-target-93CH-4912839",
-    "title": "Stifel reiterates Buy on Essential Properties stock, $36 target",
-    "tokens": [
-      "buy",
-      "essential",
-      "properties",
-      "reiterates",
-      "stifel",
-      "stock",
-      "target"
-    ],
-    "ts": 1790165670.9601352
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-lowers-autozone-stock-price-target-to-3700-on-sales-miss-93CH-4912838",
-    "title": "Raymond James lowers AutoZone stock price target to $3,700 on sales miss",
-    "tokens": [
-      "700",
-      "autozone",
-      "james",
-      "lowers",
-      "miss",
-      "price",
-      "raymond",
-      "sales",
-      "stock",
-      "target"
-    ],
-    "ts": 1790165678.6813378
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-cuts-tetra-technologies-stock-price-target-on-business-uncertainty-93CH-4912836",
-    "title": "Stifel cuts Tetra Technologies stock price target on business uncertainty",
-    "tokens": [
-      "business",
-      "cuts",
-      "price",
-      "stifel",
-      "stock",
-      "target",
-      "technologies",
-      "tetra",
-      "uncertainty"
-    ],
-    "ts": 1790165686.1234107
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/baird-raises-rubrik-stock-price-target-on-ai-resilience-positioning-93CH-4912837",
-    "title": "Baird raises Rubrik stock price target on AI resilience positioning",
-    "tokens": [
-      "baird",
-      "positioning",
-      "price",
-      "raises",
-      "resilience",
-      "rubrik",
-      "stock",
-      "target"
-    ],
-    "ts": 1790165694.4528039
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/baird-reiterates-circle-internet-stock-rating-on-binance-deal-93CH-4912835",
-    "title": "Baird reiterates Circle Internet stock rating on Binance deal",
-    "tokens": [
-      "baird",
-      "binance",
-      "circle",
-      "deal",
-      "internet",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790165702.770806
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/baird-reiterates-on-holding-stock-rating-on-growth-outlook-93CH-4912834",
-    "title": "Baird reiterates On Holding stock rating on growth outlook",
-    "tokens": [
-      "baird",
-      "growth",
-      "holding",
-      "outlook",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790165710.3867226
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/turkiye-garanti-bankasi-redeems-eur-25-million-mtn-debt-93CH-4912831",
-    "title": "Turkiye Garanti Bankasi redeems EUR 25 million MTN debt",
-    "tokens": [
-      "bankasi",
-      "debt",
-      "eur",
-      "garanti",
-      "million",
-      "mtn",
-      "redeems",
-      "turkiye"
-    ],
-    "ts": 1790165718.3516982
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/zephyr-minerals-plans-200000-private-placement-for-permitting-93CH-4912830",
-    "title": "Zephyr Minerals plans $200,000 private placement for permitting",
-    "tokens": [
-      "000",
-      "200",
-      "minerals",
-      "permitting",
-      "placement",
-      "plans",
-      "private",
-      "zephyr"
-    ],
-    "ts": 1790165726.0460978
-  },
-  {
-    "id": "mcdonalds-bets-on-hand-breaded-chicken-ai-drive-thrus-to-fend-off-burger-king-120418093.html",
-    "title": "McDonald's bets on hand-breaded chicken, AI drive-thrus to fend off Burger King",
-    "tokens": [
-      "bets",
-      "breaded",
-      "burger",
-      "chicken",
-      "drive",
-      "fend",
-      "hand",
-      "king",
-      "mcdonald",
-      "off",
-      "thrus"
-    ],
-    "ts": 1790165736.9775865
-  },
-  {
-    "id": "casey-general-stores-casy-beat-115123835.html",
-    "title": "Casey’s General Stores (CASY) Beat Estimates, So Why Did Wall Street Cut Its Targets?",
-    "tokens": [
-      "beat",
-      "casey",
-      "casy",
-      "cut",
-      "did",
-      "estimates",
-      "general",
-      "stores",
-      "street",
-      "targets",
-      "wall",
-      "why"
-    ],
-    "ts": 1790165744.9821277
-  },
-  {
     "id": "3-dividend-stocks-trading-cheap-120049524.html",
     "title": "3 Dividend Stocks Trading Cheap Enough to Buy Meaningful Stakes for Under $1,000",
     "tokens": [
@@ -22923,5 +22737,193 @@
       "while"
     ],
     "ts": 1790337400.421846
+  },
+  {
+    "id": "WP-MKTW-0005251796",
+    "title": "How to keep profiting from AI while shielding your portfolio against the risk of a slowdown",
+    "tokens": [
+      "against",
+      "how",
+      "keep",
+      "portfolio",
+      "profiting",
+      "risk",
+      "shielding",
+      "slowdown",
+      "while",
+      "your"
+    ],
+    "ts": 1790338436.0066304
+  },
+  {
+    "id": "WP-MKTW-0005252885",
+    "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+    "tokens": [
+      "000",
+      "cars",
+      "charts",
+      "defined",
+      "eggs",
+      "how",
+      "inflation",
+      "past",
+      "show",
+      "these",
+      "years"
+    ],
+    "ts": 1790338445.4292185
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-cuts-costco-stock-price-target-on-valuation-reset-93CH-4917395",
+    "title": "JPMorgan cuts Costco stock price target on valuation reset",
+    "tokens": [
+      "costco",
+      "cuts",
+      "jpmorgan",
+      "price",
+      "reset",
+      "stock",
+      "target",
+      "valuation"
+    ],
+    "ts": 1790338452.7086754
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-reiterates-birkenstock-stock-rating-on-growth-outlook-93CH-4917396",
+    "title": "JPMorgan reiterates Birkenstock stock rating on growth outlook",
+    "tokens": [
+      "birkenstock",
+      "growth",
+      "jpmorgan",
+      "outlook",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1790338460.1559348
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-costco-stock-buy-rating-on-digital-growth-93CH-4917394",
+    "title": "TD Cowen reiterates Costco stock buy rating on digital growth",
+    "tokens": [
+      "buy",
+      "costco",
+      "cowen",
+      "digital",
+      "growth",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1790338466.9199944
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/keysight-vp-and-controller-lisa-poole-sells-69602-in-stock-93CH-4917381",
+    "title": "Keysight VP and controller Lisa Poole sells $69,602 in stock",
+    "tokens": [
+      "602",
+      "controller",
+      "keysight",
+      "lisa",
+      "poole",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790338474.4693167
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/needham-cuts-acadia-pharmaceuticals-stock-price-target-on-trial-results-93CH-4917371",
+    "title": "Needham cuts Acadia Pharmaceuticals stock price target on trial results",
+    "tokens": [
+      "acadia",
+      "cuts",
+      "needham",
+      "pharmaceuticals",
+      "price",
+      "results",
+      "stock",
+      "target",
+      "trial"
+    ],
+    "ts": 1790338478.4795337
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-raises-porch-group-stock-price-target-on-growth-93CH-4917370",
+    "title": "Cantor Fitzgerald raises Porch Group stock price target on growth",
+    "tokens": [
+      "cantor",
+      "fitzgerald",
+      "group",
+      "growth",
+      "porch",
+      "price",
+      "raises",
+      "stock",
+      "target"
+    ],
+    "ts": 1790338481.579272
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/dollar-falls-as-oil-cools-but-set-for-weekly-gain-yen-rallies-4917368",
+    "title": "Dollar falls as oil cools but set for weekly gain; yen rallies",
+    "tokens": [
+      "cools",
+      "dollar",
+      "falls",
+      "gain",
+      "oil",
+      "rallies",
+      "set",
+      "weekly",
+      "yen"
+    ],
+    "ts": 1790338489.1930127
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-aurora-innovation-stock-overweight-rating-93CH-4917367",
+    "title": "Cantor Fitzgerald reiterates Aurora Innovation stock Overweight rating",
+    "tokens": [
+      "aurora",
+      "cantor",
+      "fitzgerald",
+      "innovation",
+      "overweight",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1790338493.2034411
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/baird-cuts-mcdonalds-stock-price-target-on-consumer-headwinds-93CH-4917366",
+    "title": "Baird cuts McDonald’s stock price target on consumer headwinds",
+    "tokens": [
+      "baird",
+      "consumer",
+      "cuts",
+      "headwinds",
+      "mcdonald",
+      "price",
+      "stock",
+      "target"
+    ],
+    "ts": 1790338496.3792741
+  },
+  {
+    "id": "oilprice-news-45596",
+    "title": "Brent Set for Weekly Gain as Houthi Attacks Rattle Saudi Oil Supply",
+    "tokens": [
+      "attacks",
+      "brent",
+      "gain",
+      "houthi",
+      "oil",
+      "rattle",
+      "saudi",
+      "set",
+      "supply",
+      "weekly"
+    ],
+    "ts": 1790338504.3341484
   }
 ]

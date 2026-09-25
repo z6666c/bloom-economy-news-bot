@@ -1,33 +1,5 @@
 [
   {
-    "id": "paramount-reaches-historic-settlement-states-163136478.html",
-    "title": "Paramount reaches historic settlement with states, clearing way for WBD deal",
-    "tokens": [
-      "clearing",
-      "deal",
-      "historic",
-      "paramount",
-      "reaches",
-      "settlement",
-      "states",
-      "way",
-      "wbd"
-    ],
-    "ts": 1790147663.1913798
-  },
-  {
-    "id": "hawkish-fed-comments-boost-dollar-193511123.html",
-    "title": "Hawkish Fed Comments Boost the Dollar",
-    "tokens": [
-      "boost",
-      "comments",
-      "dollar",
-      "fed",
-      "hawkish"
-    ],
-    "ts": 1790147670.6141953
-  },
-  {
     "id": "jim-cramer-credo-crdo-think-193721036.html",
     "title": "Jim Cramer on Credo (CRDO): “I Think You Can Buy the Stock”",
     "tokens": [
@@ -23052,5 +23024,37 @@
       "suspects"
     ],
     "ts": 1790297134.3942442
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-lower-as-soaring-yields-oil-prices-weigh-4916485",
+    "title": "U.S. stock futures drift lower as soaring yields, oil prices weigh",
+    "tokens": [
+      "drift",
+      "futures",
+      "lower",
+      "oil",
+      "prices",
+      "soaring",
+      "stock",
+      "weigh",
+      "yields"
+    ],
+    "ts": 1790298818.52806
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-dips-after-sharp-gains-as-us-iran-reportedly-explore-hormuz-deal-4916483",
+    "title": "Oil dips after sharp gains as U.S., Iran reportedly explore Hormuz deal",
+    "tokens": [
+      "deal",
+      "dips",
+      "explore",
+      "gains",
+      "hormuz",
+      "iran",
+      "oil",
+      "reportedly",
+      "sharp"
+    ],
+    "ts": 1790298827.5241687
   }
 ]

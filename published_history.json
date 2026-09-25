@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/sp-500-tests-7838-resistance-amid-bull-trap-warnings-live-93CH-4909306",
-    "title": "S&P 500 fades from double top at 7,848: Live levels",
-    "tokens": [
-      "500",
-      "848",
-      "double",
-      "fades",
-      "levels",
-      "live",
-      "top"
-    ],
-    "ts": 1790173787.2022192
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/dollar-index-consolidates-at-10009-in-bull-trap-danger-zone-live-93CH-4909312",
     "title": "Dollar Index overbought at 100.73 with Doji warning: Live levels",
     "tokens": [
@@ -22954,5 +22940,19 @@
       "surge"
     ],
     "ts": 1790349341.559172
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-079-4917767",
+    "title": "Norway stocks lower at close of trade; Oslo OBX down 0.79%",
+    "tokens": [
+      "close",
+      "lower",
+      "norway",
+      "obx",
+      "oslo",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790350169.2728934
   }
 ]

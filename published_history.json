@@ -1,137 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/kingsway-at-smallcap-virtual-conference-search-fund-model-scales-93CH-4913526",
-    "title": "Kingsway at Small-Cap Virtual Conference: search fund model scales",
-    "tokens": [
-      "cap",
-      "conference",
-      "fund",
-      "kingsway",
-      "model",
-      "scales",
-      "search",
-      "small",
-      "virtual"
-    ],
-    "ts": 1790178238.7633815
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/charles-river-associates-at-sidoti-conference-growth-ai-and-talent-93CH-4913524",
-    "title": "Charles River Associates at Sidoti conference: growth, AI and talent",
-    "tokens": [
-      "associates",
-      "charles",
-      "conference",
-      "growth",
-      "river",
-      "sidoti",
-      "talent"
-    ],
-    "ts": 1790178247.9989142
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/tennant-at-smallcap-virtual-conference-robotics-drive-takes-center-stage-93CH-4913523",
-    "title": "Tennant at Small-Cap Virtual Conference: robotics drive takes center stage",
-    "tokens": [
-      "cap",
-      "center",
-      "conference",
-      "drive",
-      "robotics",
-      "small",
-      "stage",
-      "takes",
-      "tennant",
-      "virtual"
-    ],
-    "ts": 1790178256.234618
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/odyssey-therapeutics-at-stifel-forum-pipeline-bets-and-cash-runway-93CH-4913522",
-    "title": "Odyssey Therapeutics at Stifel forum: pipeline bets and cash runway",
-    "tokens": [
-      "bets",
-      "cash",
-      "forum",
-      "odyssey",
-      "pipeline",
-      "runway",
-      "stifel",
-      "therapeutics"
-    ],
-    "ts": 1790178264.9585881
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/aberforth-partners-increases-stake-in-reach-to-169-93CH-4913521",
-    "title": "Aberforth Partners increases stake in Reach to 16.9%",
-    "tokens": [
-      "aberforth",
-      "increases",
-      "partners",
-      "reach",
-      "stake"
-    ],
-    "ts": 1790178273.3888545
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/aldi-cuts-us-grocery-prices-for-fall-season-amid-inflation-competition-pressure-4913519",
-    "title": "Aldi cuts U.S. grocery prices for fall season amid inflation, competition pressure",
-    "tokens": [
-      "aldi",
-      "competition",
-      "cuts",
-      "fall",
-      "grocery",
-      "inflation",
-      "pressure",
-      "prices",
-      "season"
-    ],
-    "ts": 1790178281.9598756
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-079-4913518",
-    "title": "Poland stocks lower at close of trade; WIG30 down 0.79%",
-    "tokens": [
-      "close",
-      "lower",
-      "poland",
-      "stocks",
-      "trade",
-      "wig30"
-    ],
-    "ts": 1790178290.4623036
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/essilorluxottica-options-show-bullish-conviction-with-71-calltoput-ratio-93CH-4913516",
-    "title": "EssilorLuxottica options show bullish conviction with 7:1 call-to-put ratio",
-    "tokens": [
-      "bullish",
-      "call",
-      "conviction",
-      "essilorluxottica",
-      "options",
-      "put",
-      "ratio",
-      "show"
-    ],
-    "ts": 1790178298.322043
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-040-4913514",
-    "title": "Turkey stocks higher at close of trade; BIST 100 up 0.40%",
-    "tokens": [
-      "100",
-      "bist",
-      "close",
-      "higher",
-      "stocks",
-      "trade",
-      "turkey"
-    ],
-    "ts": 1790178302.3385162
-  },
-  {
     "id": "10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
     "title": "10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike",
     "tokens": [
@@ -22936,5 +22804,137 @@
       "venezuela"
     ],
     "ts": 1790359954.588
+  },
+  {
+    "id": "WP-MKTW-0005254676",
+    "title": "A 10% risk-free yield? For some, yes.",
+    "tokens": [
+      "free",
+      "risk",
+      "some",
+      "yield"
+    ],
+    "ts": 1790361023.5102866
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-cvs-health-stock-rallying-today-93CH-4917952",
+    "title": "Why is CVS Health stock rallying today?",
+    "tokens": [
+      "cvs",
+      "health",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790361033.2027688
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/microsoft-arm-among-market-cap-stock-movers-on-friday-93CH-4917950",
+    "title": "Microsoft, Arm among market cap stock movers on Friday",
+    "tokens": [
+      "among",
+      "arm",
+      "cap",
+      "friday",
+      "market",
+      "microsoft",
+      "movers",
+      "stock"
+    ],
+    "ts": 1790361044.0720623
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/converse-pauses-social-media-ads-marketing-after-racism-uproar-bloomberg-news-reports-4917942",
+    "title": "Converse pauses social media ads, marketing after racism uproar, Bloomberg News reports",
+    "tokens": [
+      "ads",
+      "bloomberg",
+      "converse",
+      "marketing",
+      "media",
+      "news",
+      "pauses",
+      "racism",
+      "reports",
+      "social",
+      "uproar"
+    ],
+    "ts": 1790361051.8083756
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/revvity-options-flow-shows-1561-calltoput-ratio-ahead-of-nov-2026-expiry-93CH-4917949",
+    "title": "Revvity options flow shows 156:1 call-to-put ratio ahead of Nov. 2026 expiry",
+    "tokens": [
+      "156",
+      "2026",
+      "ahead",
+      "call",
+      "expiry",
+      "flow",
+      "nov",
+      "options",
+      "put",
+      "ratio",
+      "revvity",
+      "shows"
+    ],
+    "ts": 1790361058.609185
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/costco-stock-price-target-lowered-to-1010-by-freedom-broker-on-valuation-93CH-4917948",
+    "title": "Costco stock price target lowered to $1,010 by Freedom Broker on valuation",
+    "tokens": [
+      "010",
+      "broker",
+      "costco",
+      "freedom",
+      "lowered",
+      "price",
+      "stock",
+      "target",
+      "valuation"
+    ],
+    "ts": 1790361065.4041977
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/canopy-growth-adjourns-shareholder-meeting-due-to-lack-of-quorum-93CH-4917947",
+    "title": "Canopy Growth adjourns shareholder meeting due to lack of quorum",
+    "tokens": [
+      "adjourns",
+      "canopy",
+      "due",
+      "growth",
+      "lack",
+      "meeting",
+      "quorum",
+      "shareholder"
+    ],
+    "ts": 1790361073.3177526
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/putin-says-ukraine-settlement-proposals-remain-under-review-93CH-4917946",
+    "title": "Putin says Ukraine settlement proposals remain under review",
+    "tokens": [
+      "proposals",
+      "putin",
+      "remain",
+      "review",
+      "settlement",
+      "ukraine",
+      "under"
+    ],
+    "ts": 1790361080.3196964
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/investingcoms-stocks-of-the-week-4917943",
+    "title": "Investing.com’s stocks of the week",
+    "tokens": [
+      "com",
+      "investing",
+      "stocks",
+      "week"
+    ],
+    "ts": 1790361088.350288
   }
 ]

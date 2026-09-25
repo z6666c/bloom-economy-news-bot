@@ -1,207 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/turkish-airlines-orders-up-to-150-boeing-737-max-aircraft-93CH-4913626",
-    "title": "Turkish Airlines orders up to 150 Boeing 737 MAX aircraft",
-    "tokens": [
-      "150",
-      "737",
-      "aircraft",
-      "airlines",
-      "boeing",
-      "max",
-      "orders",
-      "turkish"
-    ],
-    "ts": 1790183522.193116
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/raymond-james-says-cn-cpkc-stock-traffic-beats-3q-estimates-93CH-4913625",
-    "title": "Raymond James says CN, CPKC stock traffic beats 3Q estimates",
-    "tokens": [
-      "beats",
-      "cpkc",
-      "estimates",
-      "james",
-      "raymond",
-      "stock",
-      "traffic"
-    ],
-    "ts": 1790183530.320335
-  },
-  {
-    "id": "brookfield-ggp-scores-800m-cmbs-163000079.html",
-    "title": "Brookfield’s GGP scores $800M CMBS refi for Oakbrook Center",
-    "tokens": [
-      "800m",
-      "brookfield",
-      "center",
-      "cmbs",
-      "ggp",
-      "oakbrook",
-      "refi",
-      "scores"
-    ],
-    "ts": 1790183538.393517
-  },
-  {
-    "id": "oilprice-article-45587",
-    "title": "U.S. Energy Secretary: Blunt Tool of Banning Diesel Exports Doesn't Work",
-    "tokens": [
-      "banning",
-      "blunt",
-      "diesel",
-      "doesn",
-      "energy",
-      "exports",
-      "secretary",
-      "tool",
-      "work"
-    ],
-    "ts": 1790183546.8515697
-  },
-  {
-    "id": "oilprice-news-45587",
-    "title": "Dangote's Kenya Refinery Project Launches This Week at Up to $20B",
-    "tokens": [
-      "20b",
-      "dangote",
-      "kenya",
-      "launches",
-      "project",
-      "refinery",
-      "week"
-    ],
-    "ts": 1790183554.858932
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-bqe-water-misses-q2-2026-estimates-as-growth-buildout-continues-93CH-4913666",
-    "title": "Earnings call transcript: BQE Water misses Q2 2026 estimates as growth build-out continues",
-    "tokens": [
-      "2026",
-      "bqe",
-      "build",
-      "call",
-      "continues",
-      "earnings",
-      "estimates",
-      "growth",
-      "misses",
-      "transcript",
-      "water"
-    ],
-    "ts": 1790184398.5118158
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/fiveyear-us-treasury-yield-tops-5-for-first-time-since-2007-4913665",
-    "title": "Five-year US Treasury yield tops 5% for first time since 2007",
-    "tokens": [
-      "2007",
-      "first",
-      "five",
-      "since",
-      "time",
-      "tops",
-      "treasury",
-      "year",
-      "yield"
-    ],
-    "ts": 1790184406.5856822
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-quadient-h1-2026-gains-on-digital-growth-and-cash-flow-93CH-4913664",
-    "title": "Earnings call transcript: Quadient H1 2026 gains on digital growth and cash flow",
-    "tokens": [
-      "2026",
-      "call",
-      "cash",
-      "digital",
-      "earnings",
-      "flow",
-      "gains",
-      "growth",
-      "quadient",
-      "transcript"
-    ],
-    "ts": 1790184415.0058935
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/okta-at-oktane-call-2026-investor-summit-push-to-secure-ai-agents-93CH-4913663",
-    "title": "Okta at oktane call 2026 investor summit: push to secure ai agents",
-    "tokens": [
-      "2026",
-      "agents",
-      "call",
-      "investor",
-      "okta",
-      "oktane",
-      "push",
-      "secure",
-      "summit"
-    ],
-    "ts": 1790184422.5178034
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/metas-muse-rekindles-fears-over-winners-and-losers-as-personal-ai-agent-emerges-4913662",
-    "title": "Meta’s Muse rekindles fears over winners and losers as personal AI agent emerges",
-    "tokens": [
-      "agent",
-      "emerges",
-      "fears",
-      "losers",
-      "meta",
-      "muse",
-      "personal",
-      "rekindles",
-      "winners"
-    ],
-    "ts": 1790184430.5787082
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/liberty-global-stock-hits-52week-low-at-929-usd-93CH-4913661",
-    "title": "Liberty Global stock hits 52-week low at 9.29 USD",
-    "tokens": [
-      "global",
-      "hits",
-      "liberty",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790184434.5943644
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/thredup-at-wells-fargo-consumer-conference-growth-meets-softer-demand-93CH-4913660",
-    "title": "ThredUp at wells fargo consumer conference: growth meets softer demand",
-    "tokens": [
-      "conference",
-      "consumer",
-      "demand",
-      "fargo",
-      "growth",
-      "meets",
-      "softer",
-      "thredup",
-      "wells"
-    ],
-    "ts": 1790184438.026264
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/newmark-group-inc-stock-hits-52week-low-at-1335-usd-93CH-4913654",
-    "title": "Newmark Group Inc stock hits 52-week low at 13.35 USD",
-    "tokens": [
-      "group",
-      "hits",
-      "inc",
-      "low",
-      "newmark",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790184442.0427969
-  },
-  {
     "id": "freight-operators-actually-watching-165557089.html",
     "title": "What Freight Operators Should Actually Be Watching",
     "tokens": [
@@ -22952,5 +22750,198 @@
       "warning"
     ],
     "ts": 1790368037.6983519
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hafnia-files-prospectus-for-300-million-share-offering-93CH-4918105",
+    "title": "Hafnia files prospectus for $300 million share offering",
+    "tokens": [
+      "300",
+      "files",
+      "hafnia",
+      "million",
+      "offering",
+      "prospectus",
+      "share"
+    ],
+    "ts": 1790368914.7014065
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/circle-stock-dips-as-cfo-foxgeen-steps-down-and-cofounder-leaves-board-4918104",
+    "title": "Circle stock dips as CFO Fox-Geen steps down and co-founder leaves board",
+    "tokens": [
+      "board",
+      "cfo",
+      "circle",
+      "dips",
+      "founder",
+      "fox",
+      "geen",
+      "leaves",
+      "steps",
+      "stock"
+    ],
+    "ts": 1790368922.2040908
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/clipper-realty-director-sam-levinson-buys-77434-in-common-stock-93CH-4918099",
+    "title": "Clipper Realty director Sam Levinson buys $77,434 in common stock",
+    "tokens": [
+      "434",
+      "buys",
+      "clipper",
+      "common",
+      "director",
+      "levinson",
+      "realty",
+      "sam",
+      "stock"
+    ],
+    "ts": 1790368928.7419655
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-093-4918098",
+    "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.93%",
+    "tokens": [
+      "average",
+      "close",
+      "dow",
+      "higher",
+      "industrial",
+      "jones",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790368935.867502
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-026-4918097",
+    "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.26%",
+    "tokens": [
+      "canada",
+      "close",
+      "composite",
+      "higher",
+      "stocks",
+      "trade",
+      "tsx"
+    ],
+    "ts": 1790368943.411217
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-027-4918088",
+    "title": "Brazil stocks lower at close of trade; Bovespa down 0.27%",
+    "tokens": [
+      "bovespa",
+      "brazil",
+      "close",
+      "lower",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790368949.961014
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/b-riley-securities-names-top-pick-in-financial-services-sector-4918087",
+    "title": "B. Riley Securities Names Top Pick in Financial Services Sector",
+    "tokens": [
+      "financial",
+      "names",
+      "pick",
+      "riley",
+      "sector",
+      "securities",
+      "services",
+      "top"
+    ],
+    "ts": 1790368957.143778
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-mirum-pharmaceuticals-stock-gaining-today-93CH-4918084",
+    "title": "Why is Mirum Pharmaceuticals stock gaining today?",
+    "tokens": [
+      "gaining",
+      "mirum",
+      "pharmaceuticals",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790368963.8607924
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/klx-energy-narrows-q3-revenue-guidance-to-180185-million-93CH-4918082",
+    "title": "KLX Energy narrows Q3 revenue guidance to $180-185 million",
+    "tokens": [
+      "180",
+      "185",
+      "energy",
+      "guidance",
+      "klx",
+      "million",
+      "narrows",
+      "revenue"
+    ],
+    "ts": 1790368970.72178
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/north-america-home-finance-closes-first-tranche-of-offering-93CH-4918080",
+    "title": "North America Home Finance closes first tranche of offering",
+    "tokens": [
+      "america",
+      "closes",
+      "finance",
+      "first",
+      "home",
+      "north",
+      "offering",
+      "tranche"
+    ],
+    "ts": 1790368977.946404
+  },
+  {
+    "id": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures",
+    "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
+    "tokens": [
+      "approval",
+      "cftc",
+      "com",
+      "futures",
+      "perpetual",
+      "seeks",
+      "single",
+      "stock"
+    ],
+    "ts": 1790368987.3486311
+  },
+  {
+    "id": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo",
+    "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+    "tokens": [
+      "association",
+      "blockchain",
+      "cftc",
+      "clarity",
+      "fails",
+      "leader",
+      "leave",
+      "vote"
+    ],
+    "ts": 1790368994.3420846
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+    "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+    "tokens": [
+      "announces",
+      "application",
+      "approval",
+      "bancorp",
+      "board",
+      "federal",
+      "inc",
+      "peoples",
+      "reserve"
+    ],
+    "ts": 1790369000.8902755
   }
 ]

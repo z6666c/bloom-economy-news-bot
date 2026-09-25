@@ -1,135 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economic-indicators/uk-business-growth-slows-as-inflation-pressures-build-4912305",
-    "title": "UK business growth slows as inflation pressures build",
-    "tokens": [
-      "build",
-      "business",
-      "growth",
-      "inflation",
-      "pressures",
-      "slows"
-    ],
-    "ts": 1790153901.4703367
-  },
-  {
-    "id": "energy-transition-speed-advantage-cost-210000319.html",
-    "title": "The Energy Transition Has a Speed Advantage That Cost Models Miss",
-    "tokens": [
-      "advantage",
-      "cost",
-      "energy",
-      "miss",
-      "models",
-      "speed",
-      "transition"
-    ],
-    "ts": 1790153905.7129362
-  },
-  {
-    "id": "WP-MKTW-0005242844",
-    "title": "The real estate portfolio of Zendaya and Tom Holland, plus her plans for a room just for her wedding dress",
-    "tokens": [
-      "dress",
-      "estate",
-      "her",
-      "holland",
-      "just",
-      "plans",
-      "plus",
-      "portfolio",
-      "real",
-      "room",
-      "tom",
-      "wedding",
-      "zendaya"
-    ],
-    "ts": 1790154922.4265282
-  },
-  {
-    "id": "WP-MKTW-0005243038",
-    "title": "TV host Maria Menounos lists a beautifully renovated Encino mansion for $7 million",
-    "tokens": [
-      "beautifully",
-      "encino",
-      "host",
-      "lists",
-      "mansion",
-      "maria",
-      "menounos",
-      "million",
-      "renovated"
-    ],
-    "ts": 1790154930.1797595
-  },
-  {
-    "id": "WP-MKTW-0005248221",
-    "title": "Softbank’s mega junk-bond deal shows capital for the AI race is getting more expensive",
-    "tokens": [
-      "bond",
-      "capital",
-      "deal",
-      "expensive",
-      "getting",
-      "junk",
-      "mega",
-      "more",
-      "race",
-      "shows",
-      "softbank"
-    ],
-    "ts": 1790154937.9547029
-  },
-  {
-    "id": "applied-materials-stock-jumped-nearly-230513231.html",
-    "title": "Applied Materials Stock Jumped Nearly 7% in a Chip-Equipment Rally. Its $5 Billion India Plan Is the Longer Story",
-    "tokens": [
-      "applied",
-      "billion",
-      "chip",
-      "equipment",
-      "india",
-      "jumped",
-      "longer",
-      "materials",
-      "nearly",
-      "plan",
-      "rally",
-      "stock",
-      "story"
-    ],
-    "ts": 1790154946.5554826
-  },
-  {
-    "id": "ouras-2-2b-ipo-mostly-230019467.html",
-    "title": "Oura's $2.2B IPO is a major payday for three VCs",
-    "tokens": [
-      "ipo",
-      "major",
-      "oura",
-      "payday",
-      "three",
-      "vcs"
-    ],
-    "ts": 1790154954.4530377
-  },
-  {
-    "id": "silver-lake-sues-carl-icahn-231025693.html",
-    "title": "Silver Lake sues Carl Icahn and hedge funds over Endeavor buyout",
-    "tokens": [
-      "buyout",
-      "carl",
-      "endeavor",
-      "funds",
-      "hedge",
-      "icahn",
-      "lake",
-      "silver",
-      "sues"
-    ],
-    "ts": 1790154958.4649348
-  },
-  {
     "id": "apollo-apo-nears-16-stake-211617683.html",
     "title": "Apollo (APO) Nears a 16% Stake in the Yankees. Why Private Equity Wants a Piece of Baseball",
     "tokens": [
@@ -23033,5 +22903,122 @@
       "securitisation"
     ],
     "ts": 1790318272.4344788
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/eqt-hires-jpmorgan-to-sell-parques-reunidos-stake-for-17bn--report-93CH-4916705",
+    "title": "EQT hires JPMorgan to sell Parques Reunidos stake for €1.7bn - report",
+    "tokens": [
+      "7bn",
+      "eqt",
+      "hires",
+      "jpmorgan",
+      "parques",
+      "report",
+      "reunidos",
+      "sell",
+      "stake"
+    ],
+    "ts": 1790319413.0602117
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sdcl-efficiency-income-trust-proposes-two-new-board-members-93CH-4916704",
+    "title": "SDCL Efficiency Income Trust proposes two new board members",
+    "tokens": [
+      "board",
+      "efficiency",
+      "income",
+      "members",
+      "proposes",
+      "sdcl",
+      "trust",
+      "two"
+    ],
+    "ts": 1790319420.7049325
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/take-five-its-q4-already-4916693",
+    "title": "Take Five: It’s Q4 already?",
+    "tokens": [
+      "already",
+      "five",
+      "take"
+    ],
+    "ts": 1790319427.3236775
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/musk-says-colossus-2-data-center-plans-to-ramp-up-nvidia-ai-chips-by-yearend-4916692",
+    "title": "Musk says Colossus 2 data center plans to ramp up Nvidia AI chips by year-end",
+    "tokens": [
+      "center",
+      "chips",
+      "colossus",
+      "data",
+      "end",
+      "musk",
+      "nvidia",
+      "plans",
+      "ramp",
+      "year"
+    ],
+    "ts": 1790319435.3859813
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/novo-nordisk-licenses-nanexa-drug-tech-in-deal-worth-up-to-117-bln-93CH-4916691",
+    "title": "Novo Nordisk licenses Nanexa drug tech in deal worth up to €1.17 bln",
+    "tokens": [
+      "bln",
+      "deal",
+      "drug",
+      "licenses",
+      "nanexa",
+      "nordisk",
+      "novo",
+      "tech",
+      "worth"
+    ],
+    "ts": 1790319443.3490136
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/lloyds-banking-group-completes-175bn-share-buyback-93CH-4916690",
+    "title": "Lloyds Banking Group completes £1.75bn share buyback",
+    "tokens": [
+      "75bn",
+      "banking",
+      "buyback",
+      "completes",
+      "group",
+      "lloyds",
+      "share"
+    ],
+    "ts": 1790319450.6647158
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-043-4916689",
+    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.43%",
+    "tokens": [
+      "200",
+      "asx",
+      "australia",
+      "close",
+      "lower",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790319454.6805854
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tharisa-places-300m-bond-proceeds-in-escrow-for-zimbabwe-project-93CH-4916676",
+    "title": "Tharisa places $300m bond proceeds in escrow for Zimbabwe project",
+    "tokens": [
+      "300m",
+      "bond",
+      "escrow",
+      "places",
+      "proceeds",
+      "project",
+      "tharisa",
+      "zimbabwe"
+    ],
+    "ts": 1790319458.0739946
   }
 ]

@@ -1,18 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-rapport-therapeutics-stock-sliding-today-93CH-4913783",
-    "title": "Why is Rapport Therapeutics stock sliding today?",
-    "tokens": [
-      "rapport",
-      "sliding",
-      "stock",
-      "therapeutics",
-      "today",
-      "why"
-    ],
-    "ts": 1790193183.6141765
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/fastly-stock-surges-on-meta-muse-traffic-analysis-93CH-4913779",
     "title": "Fastly stock surges on Meta Muse traffic analysis",
     "tokens": [
@@ -22935,5 +22922,19 @@
       "sues"
     ],
     "ts": 1790407570.9711666
+  },
+  {
+    "id": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2",
+    "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+    "tokens": [
+      "commissioner",
+      "hester",
+      "leave",
+      "oct",
+      "peirce",
+      "post",
+      "sec"
+    ],
+    "ts": 1790413821.1065845
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/oracle-expands-digital-assets-platform-for-banking-operations-93CH-4913895",
-    "title": "Oracle expands digital assets platform for banking operations",
-    "tokens": [
-      "assets",
-      "banking",
-      "digital",
-      "expands",
-      "operations",
-      "oracle",
-      "platform"
-    ],
-    "ts": 1790195300.2829227
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/wells-fargo-chief-risk-officer-to-retire-coo-to-succeed-him-93CH-4913894",
-    "title": "Wells Fargo chief risk officer to retire, COO to succeed him",
-    "tokens": [
-      "chief",
-      "coo",
-      "fargo",
-      "him",
-      "officer",
-      "retire",
-      "risk",
-      "succeed",
-      "wells"
-    ],
-    "ts": 1790195308.1200614
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/1789-capital-in-talks-to-raise-3-billion-for-second-growth-fund--bloomberg-93CH-4913893",
     "title": "1789 Capital in talks to raise $3 billion for second growth fund - Bloomberg",
     "tokens": [
@@ -22965,5 +22935,38 @@
       "undermines"
     ],
     "ts": 1790425978.443616
+  },
+  {
+    "id": "105bfe76-3a32-4c8f-89ad-9052c33b9b04",
+    "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+    "tokens": [
+      "analysts",
+      "binance",
+      "boost",
+      "circle",
+      "deal",
+      "gives",
+      "race",
+      "say",
+      "stablecoin",
+      "tether"
+    ],
+    "ts": 1790428203.6932886
+  },
+  {
+    "id": "009fc444-a057-4ac9-abbf-0be00e333f04",
+    "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+    "tokens": [
+      "bitget",
+      "cannot",
+      "freeze",
+      "hacker",
+      "million",
+      "moves",
+      "ripple",
+      "stolen",
+      "xrp"
+    ],
+    "ts": 1790428211.5488784
   }
 ]

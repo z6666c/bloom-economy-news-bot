@@ -1,22 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005249290",
-    "title": "The AI-scare trade is finally hitting banks. Bargain-hunters should take note.",
-    "tokens": [
-      "banks",
-      "bargain",
-      "finally",
-      "hitting",
-      "hunters",
-      "note",
-      "scare",
-      "should",
-      "take",
-      "trade"
-    ],
-    "ts": 1790191545.171811
-  },
-  {
     "id": "bunge-global-stock-outperforming-p-102357974.html",
     "title": "Is Bunge Global Stock Outperforming the S&P 500?",
     "tokens": [
@@ -22955,5 +22938,17 @@
       "timothy"
     ],
     "ts": 1790384172.166556
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/goldcana-closes-c2m-private-placement-for-exploration-93CH-4918364",
+    "title": "Goldcana closes C$2M private placement for exploration",
+    "tokens": [
+      "closes",
+      "exploration",
+      "goldcana",
+      "placement",
+      "private"
+    ],
+    "ts": 1790385916.693777
   }
 ]

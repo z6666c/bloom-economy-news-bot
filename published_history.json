@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/gevo-at-water-tower-research-virtual-insights-conference-carbon-stack-lifts-outlook-93CH-4913775",
-    "title": "Gevo at Water Tower Research Virtual Insights Conference: carbon stack lifts outlook",
-    "tokens": [
-      "carbon",
-      "conference",
-      "gevo",
-      "insights",
-      "lifts",
-      "outlook",
-      "research",
-      "stack",
-      "tower",
-      "virtual",
-      "water"
-    ],
-    "ts": 1790192437.749286
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/exclusive-national-vision-ceo-on-traffic-ticket-growth-and-the-digital-shift-4913774",
     "title": "Exclusive: National Vision CEO on traffic, ticket growth and the digital shift",
     "tokens": [
@@ -22956,5 +22938,21 @@
       "zcash"
     ],
     "ts": 1790395838.7314868
+  },
+  {
+    "id": "4e3afdfc-0e98-4569-adc2-020b5762a762",
+    "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+    "tokens": [
+      "batch",
+      "ledger",
+      "oct",
+      "resets",
+      "slips",
+      "support",
+      "upgrade",
+      "validator",
+      "xrp"
+    ],
+    "ts": 1790397715.7327805
   }
 ]

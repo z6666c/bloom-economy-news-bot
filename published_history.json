@@ -1,46 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/minerals-technologies-unveils-rare-earth-steel-slag-initiatives-93CH-4914046",
-    "title": "Minerals Technologies unveils rare earth, steel slag initiatives",
-    "tokens": [
-      "earth",
-      "initiatives",
-      "minerals",
-      "rare",
-      "slag",
-      "steel",
-      "technologies",
-      "unveils"
-    ],
-    "ts": 1790198827.064483
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/auranova-resources-announces-private-placement-for-up-to-c4m-93CH-4914045",
-    "title": "Auranova Resources announces private placement for up to C$4m",
-    "tokens": [
-      "announces",
-      "auranova",
-      "placement",
-      "private",
-      "resources"
-    ],
-    "ts": 1790198834.301679
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/runway-growth-finance-commences-unsecured-notes-offering-93CH-4914044",
-    "title": "Runway Growth Finance commences unsecured notes offering",
-    "tokens": [
-      "commences",
-      "finance",
-      "growth",
-      "notes",
-      "offering",
-      "runway",
-      "unsecured"
-    ],
-    "ts": 1790198841.8439455
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-051-4914043",
     "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.51%",
     "tokens": [
@@ -23022,5 +22981,48 @@
       "through"
     ],
     "ts": 1790464218.403042
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/iran-insists-on-diplomacy-after-trump-rejects-hormuz-peace-plan-4918668",
+    "title": "Iran insists on diplomacy after Trump rejects Hormuz peace plan",
+    "tokens": [
+      "diplomacy",
+      "hormuz",
+      "insists",
+      "iran",
+      "peace",
+      "plan",
+      "rejects",
+      "trump"
+    ],
+    "ts": 1790466732.2877815
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/are-investors-expecting-too-many-hikes-from-the-ecb-4918666",
+    "title": "Are investors expecting too many hikes from the ECB?",
+    "tokens": [
+      "ecb",
+      "expecting",
+      "hikes",
+      "investors",
+      "many",
+      "too"
+    ],
+    "ts": 1790466736.6887195
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ubs-discusses-potential-political-scenarios-in-germany-amid-elevated-risks-4918665",
+    "title": "UBS discusses potential political scenarios in Germany amid elevated risks",
+    "tokens": [
+      "discusses",
+      "elevated",
+      "germany",
+      "political",
+      "potential",
+      "risks",
+      "scenarios",
+      "ubs"
+    ],
+    "ts": 1790466743.4144342
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "id": "quest-diagnostics-stock-outperforming-nasdaq-115652672.html",
-    "title": "Is Quest Diagnostics Stock Outperforming the Nasdaq?",
-    "tokens": [
-      "diagnostics",
-      "nasdaq",
-      "outperforming",
-      "quest",
-      "stock"
-    ],
-    "ts": 1790195383.9885643
-  },
-  {
     "id": "fox-corporation-stock-underperforming-p-121812686.html",
     "title": "Is Fox Corporation Stock Underperforming the S&P 500?",
     "tokens": [
@@ -22972,5 +22960,22 @@
       "reject"
     ],
     "ts": 1790435419.3877769
+  },
+  {
+    "id": "WP-MKTW-0005245989",
+    "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
+    "tokens": [
+      "before",
+      "bond",
+      "free",
+      "get",
+      "late",
+      "spot",
+      "sweet",
+      "tax",
+      "too",
+      "yields"
+    ],
+    "ts": 1790438012.535168
   }
 ]

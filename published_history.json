@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/exclusive-national-vision-ceo-on-traffic-ticket-growth-and-the-digital-shift-4913774",
-    "title": "Exclusive: National Vision CEO on traffic, ticket growth and the digital shift",
-    "tokens": [
-      "ceo",
-      "digital",
-      "exclusive",
-      "growth",
-      "national",
-      "shift",
-      "ticket",
-      "traffic",
-      "vision"
-    ],
-    "ts": 1790192445.3781996
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/alphabet-tests-354-resistance-after-325-double-bottom-live-93CH-4909305",
     "title": "Alphabet C tests $332 support as double top plays out: Live",
     "tokens": [
@@ -22954,5 +22938,22 @@
       "xrp"
     ],
     "ts": 1790397715.7327805
+  },
+  {
+    "id": "100b2cba-7e49-4f89-8113-588b5b53e894",
+    "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+    "tokens": [
+      "150",
+      "millisecond",
+      "network",
+      "public",
+      "reaches",
+      "second",
+      "settlement",
+      "solana",
+      "test",
+      "upgrade"
+    ],
+    "ts": 1790399416.169552
   }
 ]

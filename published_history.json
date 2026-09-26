@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/sec-filings/iqvia-completes-2-billion-senior-notes-offering-due-2034-93CH-4914058",
-    "title": "Iqvia completes $2 billion senior notes offering due 2034",
-    "tokens": [
-      "2034",
-      "billion",
-      "completes",
-      "due",
-      "iqvia",
-      "notes",
-      "offering",
-      "senior"
-    ],
-    "ts": 1790198819.2057438
-  },
-  {
     "id": "https://www.investing.com/news/company-news/minerals-technologies-unveils-rare-earth-steel-slag-initiatives-93CH-4914046",
     "title": "Minerals Technologies unveils rare earth, steel slag initiatives",
     "tokens": [
@@ -23022,5 +23007,20 @@
       "without"
     ],
     "ts": 1790463203.9376135
+  },
+  {
+    "id": "oilprice-article-45615",
+    "title": "Global Gas Squeeze Could Last Through Next Summer",
+    "tokens": [
+      "could",
+      "gas",
+      "global",
+      "last",
+      "next",
+      "squeeze",
+      "summer",
+      "through"
+    ],
+    "ts": 1790464218.403042
   }
 ]

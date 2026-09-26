@@ -1,22 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005250640",
-    "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
-    "tokens": [
-      "any",
-      "carrying",
-      "com",
-      "dot",
-      "fewer",
-      "market",
-      "peak",
-      "since",
-      "stocks",
-      "time"
-    ],
-    "ts": 1790196788.805317
-  },
-  {
     "id": "WP-MKTW-0005238250",
     "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
     "tokens": [
@@ -22984,5 +22967,22 @@
       "supply"
     ],
     "ts": 1790442605.270737
+  },
+  {
+    "id": "WP-MKTW-0005249067",
+    "title": "Social Security checks are projected to be cut by $540 a month in just six years",
+    "tokens": [
+      "540",
+      "checks",
+      "cut",
+      "just",
+      "month",
+      "projected",
+      "security",
+      "six",
+      "social",
+      "years"
+    ],
+    "ts": 1790443552.9446096
   }
 ]

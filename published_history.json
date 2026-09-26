@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/1789-capital-in-talks-to-raise-3-billion-for-second-growth-fund--bloomberg-93CH-4913893",
-    "title": "1789 Capital in talks to raise $3 billion for second growth fund - Bloomberg",
-    "tokens": [
-      "1789",
-      "billion",
-      "bloomberg",
-      "capital",
-      "fund",
-      "growth",
-      "raise",
-      "second",
-      "talks"
-    ],
-    "ts": 1790195315.9746487
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/peloton-explores-debut-bond-sale-to-raise-800-million--bloomberg-93CH-4913892",
     "title": "Peloton explores debut bond sale to raise $800 million - Bloomberg",
     "tokens": [
@@ -22968,5 +22952,21 @@
       "xrp"
     ],
     "ts": 1790428211.5488784
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/gold-fields-approaches-northern-star-over-potential-takeover-bloomberg-reports-4918575",
+    "title": "Gold Fields approaches Northern Star over potential takeover, Bloomberg reports",
+    "tokens": [
+      "approaches",
+      "bloomberg",
+      "fields",
+      "gold",
+      "northern",
+      "potential",
+      "reports",
+      "star",
+      "takeover"
+    ],
+    "ts": 1790429105.7724137
   }
 ]

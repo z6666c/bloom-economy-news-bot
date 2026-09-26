@@ -1,149 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/firstenergy-stock-hits-52week-low-at-4372-usd-93CH-4913749",
-    "title": "FirstEnergy stock hits 52-week low at 43.72 USD",
-    "tokens": [
-      "firstenergy",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790189669.4239995
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/vici-properties-stock-hits-52week-low-at-2371-usd-93CH-4913746",
-    "title": "Vici Properties stock hits 52-week low at 23.71 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "properties",
-      "stock",
-      "usd",
-      "vici",
-      "week"
-    ],
-    "ts": 1790189669.4424179
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/xenon-at-td-cowen-summit-epilepsy-gains-psychiatry-pause-93CH-4913745",
-    "title": "Xenon at TD Cowen summit: epilepsy gains, psychiatry pause",
-    "tokens": [
-      "cowen",
-      "epilepsy",
-      "gains",
-      "pause",
-      "psychiatry",
-      "summit",
-      "xenon"
-    ],
-    "ts": 1790189673.4269543
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/zenta-group-clarifies-share-count-after-zentoai-acquisition-93CH-4913744",
-    "title": "Zenta Group clarifies share count after ZentoAI acquisition",
-    "tokens": [
-      "acquisition",
-      "clarifies",
-      "count",
-      "group",
-      "share",
-      "zenta",
-      "zentoai"
-    ],
-    "ts": 1790189681.6202016
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/unity-options-flow-shows-overwhelming-bullish-positioning-ahead-of-october-expiry-93CH-4913743",
-    "title": "Unity options flow shows overwhelming bullish positioning ahead of October expiry",
-    "tokens": [
-      "ahead",
-      "bullish",
-      "expiry",
-      "flow",
-      "october",
-      "options",
-      "overwhelming",
-      "positioning",
-      "shows",
-      "unity"
-    ],
-    "ts": 1790189688.6467984
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bentley-tests-wealthy-buyers-interest-in-going-electric-with-first-ev-4913741",
-    "title": "Bentley tests wealthy buyers’ interest in going electric with first EV",
-    "tokens": [
-      "bentley",
-      "buyers",
-      "electric",
-      "first",
-      "going",
-      "interest",
-      "tests",
-      "wealthy"
-    ],
-    "ts": 1790189696.7288783
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bentley-unveils-torcal-electric-suv-with-merino-wool-interior-93CH-4913763",
-    "title": "Bentley unveils Torcal electric SUV with Merino wool interior",
-    "tokens": [
-      "bentley",
-      "electric",
-      "interior",
-      "merino",
-      "suv",
-      "torcal",
-      "unveils",
-      "wool"
-    ],
-    "ts": 1790190608.5629811
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-osisko-metals-stock-sliding-today-93CH-4913760",
-    "title": "Why is Osisko Metals stock sliding today?",
-    "tokens": [
-      "metals",
-      "osisko",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790190616.377662
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-andean-precious-metals-stock-sliding-today-93CH-4913758",
-    "title": "Why is Andean Precious Metals stock sliding today?",
-    "tokens": [
-      "andean",
-      "metals",
-      "precious",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790190620.3945274
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/moodys-cuts-campbells-rating-on-weak-earnings-high-leverage-93CH-4913757",
-    "title": "Moody’s cuts Campbell’s rating on weak earnings, high leverage",
-    "tokens": [
-      "campbell",
-      "cuts",
-      "earnings",
-      "high",
-      "leverage",
-      "moody",
-      "rating",
-      "weak"
-    ],
-    "ts": 1790190624.2322967
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/sp-global-upgrades-healthequity-rating-on-strong-performance-93CH-4913756",
     "title": "S&P Global upgrades HealthEquity rating on strong performance",
     "tokens": [
@@ -22947,5 +22803,160 @@
       "toro"
     ],
     "ts": 1790377811.410624
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cathie-woods-ark-adds-to-3iq-solana-staking-etf-stock-holdings-93CH-4918339",
+    "title": "Cathie Wood’s ARK adds to 3IQ Solana Staking ETF stock holdings",
+    "tokens": [
+      "3iq",
+      "adds",
+      "ark",
+      "cathie",
+      "etf",
+      "holdings",
+      "solana",
+      "staking",
+      "stock",
+      "wood"
+    ],
+    "ts": 1790382973.8810072
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/oric-pharmaceuticals-cfo-dominic-piscitelli-sells-8102-in-shares-93CH-4918338",
+    "title": "Oric Pharmaceuticals CFO Dominic Piscitelli sells $8,102 in shares",
+    "tokens": [
+      "102",
+      "cfo",
+      "dominic",
+      "oric",
+      "pharmaceuticals",
+      "piscitelli",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790382981.1853511
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/white-house-blocks-cnn-from-air-force-one-trip-washington-post-reports-4918336",
+    "title": "White House blocks CNN from Air Force One trip, Washington Post reports",
+    "tokens": [
+      "air",
+      "blocks",
+      "cnn",
+      "force",
+      "house",
+      "one",
+      "post",
+      "reports",
+      "trip",
+      "washington",
+      "white"
+    ],
+    "ts": 1790382988.1881025
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/krait-critical-minerals-closes-first-tranche-of-private-placement-93CH-4918335",
+    "title": "Krait Critical Minerals closes first tranche of private placement",
+    "tokens": [
+      "closes",
+      "critical",
+      "first",
+      "krait",
+      "minerals",
+      "placement",
+      "private",
+      "tranche"
+    ],
+    "ts": 1790382996.3837676
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/marygold-companies-to-go-private-in-agreement-with-madison-dearborn-partners-93CH-4918334",
+    "title": "Marygold Companies to go private in agreement with Madison Dearborn Partners",
+    "tokens": [
+      "agreement",
+      "companies",
+      "dearborn",
+      "madison",
+      "marygold",
+      "partners",
+      "private"
+    ],
+    "ts": 1790383000.4008977
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/larry-ellison-adds-92-billion-in-oracle-shares-as-loan-collateral-4918330",
+    "title": "Larry Ellison adds $9.2 billion in Oracle shares as loan collateral",
+    "tokens": [
+      "adds",
+      "billion",
+      "collateral",
+      "ellison",
+      "larry",
+      "loan",
+      "oracle",
+      "shares"
+    ],
+    "ts": 1790383003.81502
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/mediaalpha-cto-kuanling-amy-yeh-sells-28200-of-max-shares-93CH-4918325",
+    "title": "MediaAlpha CTO Kuanling Amy Yeh sells $28,200 of Max shares",
+    "tokens": [
+      "200",
+      "amy",
+      "cto",
+      "kuanling",
+      "max",
+      "mediaalpha",
+      "sells",
+      "shares",
+      "yeh"
+    ],
+    "ts": 1790383010.7621489
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/doubleline-vp-jeffrey-sherman-buys-130300-in-fund-shares-93CH-4918324",
+    "title": "DoubleLine VP Jeffrey Sherman buys $130,300 in fund shares",
+    "tokens": [
+      "130",
+      "300",
+      "buys",
+      "doubleline",
+      "fund",
+      "jeffrey",
+      "shares",
+      "sherman"
+    ],
+    "ts": 1790383017.4921741
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/citigroup-targets-over-3-billion-banamex-ipo-for-january--bloomberg-4918315",
+    "title": "Citigroup targets over $3 billion Banamex IPO for January - Bloomberg",
+    "tokens": [
+      "banamex",
+      "billion",
+      "bloomberg",
+      "citigroup",
+      "ipo",
+      "january",
+      "targets"
+    ],
+    "ts": 1790383024.8073492
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pubmatic-ceo-rajeev-goel-sells-930633-in-company-stock-93CH-4918314",
+    "title": "PubMatic CEO Rajeev Goel sells $930,633 in company stock",
+    "tokens": [
+      "633",
+      "930",
+      "ceo",
+      "company",
+      "goel",
+      "pubmatic",
+      "rajeev",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790383031.7727418
   }
 ]

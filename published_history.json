@@ -1,39 +1,5 @@
 [
   {
-    "id": "oilprice-news-45589",
-    "title": "Imperial Oil Becomes First Major Alberta Energy Company to Oppose Separatism",
-    "tokens": [
-      "alberta",
-      "becomes",
-      "company",
-      "energy",
-      "first",
-      "imperial",
-      "major",
-      "oil",
-      "oppose",
-      "separatism"
-    ],
-    "ts": 1790194400.4075692
-  },
-  {
-    "id": "WP-MKTW-0005249469",
-    "title": "What’s behind Royal Caribbean’s ‘highly surprising’ push into Sandals vacation resorts",
-    "tokens": [
-      "behind",
-      "caribbean",
-      "highly",
-      "push",
-      "resorts",
-      "royal",
-      "sandals",
-      "surprising",
-      "vacation",
-      "what"
-    ],
-    "ts": 1790195292.5717154
-  },
-  {
     "id": "https://www.investing.com/news/company-news/oracle-expands-digital-assets-platform-for-banking-operations-93CH-4913895",
     "title": "Oracle expands digital assets platform for banking operations",
     "tokens": [
@@ -22971,5 +22937,33 @@
       "under"
     ],
     "ts": 1790424794.6915946
+  },
+  {
+    "id": "WP-MKTW-0005254315",
+    "title": "China is playing a different game when it comes to AI",
+    "tokens": [
+      "china",
+      "comes",
+      "different",
+      "game",
+      "playing",
+      "when"
+    ],
+    "ts": 1790425968.7628624
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/in-brazil-frustration-over-cost-of-living-undermines-lulas-reelection-bid-4918566",
+    "title": "In Brazil, frustration over cost of living undermines Lula’s reelection bid",
+    "tokens": [
+      "bid",
+      "brazil",
+      "cost",
+      "frustration",
+      "living",
+      "lula",
+      "reelection",
+      "undermines"
+    ],
+    "ts": 1790425978.443616
   }
 ]

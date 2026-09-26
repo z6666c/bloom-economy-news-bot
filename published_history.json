@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/google-expands-vids-access-with-gemini-omni-11-flash-for-free-93CH-4913785",
-    "title": "Google expands Vids access with Gemini Omni 1.1 Flash for free",
-    "tokens": [
-      "access",
-      "expands",
-      "flash",
-      "free",
-      "gemini",
-      "google",
-      "omni",
-      "vids"
-    ],
-    "ts": 1790193170.9793804
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/openai-launches-mentalhealthbench-to-evaluate-ai-mental-health-responses-93CH-4913784",
     "title": "OpenAI launches MentalHealthBench to evaluate AI mental health responses",
     "tokens": [
@@ -22932,5 +22917,21 @@
       "trump"
     ],
     "ts": 1790404466.554496
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/proto-labs-cfo-daniel-schumacher-sells-476604-in-stock-93CH-4918493",
+    "title": "Proto Labs CFO Daniel Schumacher sells $476,604 in stock",
+    "tokens": [
+      "476",
+      "604",
+      "cfo",
+      "daniel",
+      "labs",
+      "proto",
+      "schumacher",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790405719.7054255
   }
 ]

@@ -1,179 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005238250",
-    "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-    "tokens": [
-      "50s",
-      "alzheimer",
-      "care",
-      "died",
-      "insurance",
-      "long",
-      "mother",
-      "need",
-      "term"
-    ],
-    "ts": 1790196798.6819277
-  },
-  {
-    "id": "morning-minute-robinhood-ceo-bets-121544948.html",
-    "title": "Morning Minute: Robinhood CEO Bets Crypto Will Beat Sports at Prediction Markets",
-    "tokens": [
-      "beat",
-      "bets",
-      "ceo",
-      "crypto",
-      "markets",
-      "minute",
-      "morning",
-      "prediction",
-      "robinhood",
-      "sports"
-    ],
-    "ts": 1790196806.7410343
-  },
-  {
-    "id": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead",
-    "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
-    "tokens": [
-      "chuang",
-      "dead",
-      "former",
-      "found",
-      "hack",
-      "hsin",
-      "partner"
-    ],
-    "ts": 1790196811.9592216
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-neovolta-stock-down-11-today-93CH-4913993",
-    "title": "Why is NeoVolta stock down 11% today?",
-    "tokens": [
-      "neovolta",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790197854.2268047
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/flock-safety-explores-sale-amid-surveillance-controversy--semafor-93CH-4913992",
-    "title": "Flock Safety explores sale amid surveillance controversy - Semafor",
-    "tokens": [
-      "controversy",
-      "explores",
-      "flock",
-      "safety",
-      "sale",
-      "semafor",
-      "surveillance"
-    ],
-    "ts": 1790197858.96534
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-lowers-ormat-technologies-stock-price-target-on-valuation-93CH-4913991",
-    "title": "Jefferies lowers Ormat Technologies stock price target on valuation",
-    "tokens": [
-      "jefferies",
-      "lowers",
-      "ormat",
-      "price",
-      "stock",
-      "target",
-      "technologies",
-      "valuation"
-    ],
-    "ts": 1790197867.4814742
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sequans-communications-receives-nyse-noncompliance-notice-93CH-4913989",
-    "title": "Sequans Communications receives NYSE noncompliance notice",
-    "tokens": [
-      "communications",
-      "noncompliance",
-      "notice",
-      "nyse",
-      "receives",
-      "sequans"
-    ],
-    "ts": 1790197875.5704632
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-stitch-fix-stock-down-17-today-93CH-4913988",
-    "title": "Why is Stitch Fix stock down 17% today?",
-    "tokens": [
-      "fix",
-      "stitch",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790197882.698551
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/playstudios-to-record-3-million-to-35-million-impairment-charge-after-ending-the-win-zone-93CH-4913987",
-    "title": "Playstudios to record $3 million to $3.5 million impairment charge after ending The Win Zone",
-    "tokens": [
-      "charge",
-      "ending",
-      "impairment",
-      "million",
-      "playstudios",
-      "record",
-      "win",
-      "zone"
-    ],
-    "ts": 1790197890.7084222
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/oge-energy-declares-042875-quarterly-dividend-93CH-4913981",
-    "title": "OGE Energy declares $0.42875 quarterly dividend",
-    "tokens": [
-      "42875",
-      "declares",
-      "dividend",
-      "energy",
-      "oge",
-      "quarterly"
-    ],
-    "ts": 1790197898.3278582
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/arq-at-water-tower-research-virtual-insights-conference-pfas-push-lifts-outlook-93CH-4913979",
-    "title": "Arq at Water Tower Research Virtual Insights Conference: pfas push lifts outlook",
-    "tokens": [
-      "arq",
-      "conference",
-      "insights",
-      "lifts",
-      "outlook",
-      "pfas",
-      "push",
-      "research",
-      "tower",
-      "virtual",
-      "water"
-    ],
-    "ts": 1790197907.2867424
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/wetouch-technology-closes-388-million-private-share-sale-at-premium-to-market-93CH-4913977",
-    "title": "Wetouch Technology closes $38.8 million private share sale at premium to market",
-    "tokens": [
-      "closes",
-      "market",
-      "million",
-      "premium",
-      "private",
-      "sale",
-      "share",
-      "technology",
-      "wetouch"
-    ],
-    "ts": 1790197914.4735367
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/blend-labs-head-nima-ghamsari-sells-25021-in-stock-93CH-4913975",
     "title": "Blend Labs head Nima Ghamsari sells $25,021 in stock",
     "tokens": [
@@ -22984,5 +22810,208 @@
       "years"
     ],
     "ts": 1790443552.9446096
+  },
+  {
+    "id": "https://seekingalpha.com/news/4647377-foreign-capital-investment-into-us-equities-hits-record?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Foreign capital investment into US equities hits record",
+    "tokens": [
+      "capital",
+      "equities",
+      "foreign",
+      "hits",
+      "investment",
+      "record"
+    ],
+    "ts": 1790449757.2778096
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/upcoming-blaze-wilde-podcast-on-snapchat-exploring-pop-culture-politics-and-life-between-arab-and-american-culture-1036576073",
+    "title": "Upcoming Blaze Wilde Podcast on Snapchat Exploring Pop Culture, Politics, and Life Between Arab and American Culture",
+    "tokens": [
+      "american",
+      "arab",
+      "between",
+      "blaze",
+      "culture",
+      "exploring",
+      "life",
+      "podcast",
+      "politics",
+      "pop",
+      "snapchat",
+      "upcoming",
+      "wilde"
+    ],
+    "ts": 1790449764.528858
+  },
+  {
+    "id": "https://seekingalpha.com/news/4647295-real-estate-stocks-slump-amid-rising-bond-yields-sector-rotation-into-technology?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Real estate stocks slump amid rising bond yields, sector rotation into technology",
+    "tokens": [
+      "bond",
+      "estate",
+      "real",
+      "rising",
+      "rotation",
+      "sector",
+      "slump",
+      "stocks",
+      "technology",
+      "yields"
+    ],
+    "ts": 1790449771.9041345
+  },
+  {
+    "id": "https://www.businessinsider.com/pope-leo-xiv-warns-against-losing-humanity-paradise-of-machines-2026-9",
+    "title": "Pope Leo XIV warns against losing humanity to a ‘paradise of machines’",
+    "tokens": [
+      "against",
+      "humanity",
+      "leo",
+      "losing",
+      "machines",
+      "paradise",
+      "pope",
+      "warns",
+      "xiv"
+    ],
+    "ts": 1790449779.1063406
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/razumich-associates-announces-platinum-defense-membership-for-ongoing-criminal-defense-representation-in-indiana-1036576068",
+    "title": "Razumich & Associates Announces Platinum Defense Membership for Ongoing Criminal Defense Representation in Indiana",
+    "tokens": [
+      "announces",
+      "associates",
+      "criminal",
+      "defense",
+      "indiana",
+      "membership",
+      "ongoing",
+      "platinum",
+      "razumich",
+      "representation"
+    ],
+    "ts": 1790449786.6606784
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/one-payment-plan-expands-debt-relief-comparison-platform-to-help-more-americans-find-the-right-financial-path-1036576052",
+    "title": "One Payment Plan Expands Debt Relief Comparison Platform to Help More Americans Find the Right Financial Path",
+    "tokens": [
+      "americans",
+      "comparison",
+      "debt",
+      "expands",
+      "financial",
+      "find",
+      "help",
+      "more",
+      "one",
+      "path",
+      "payment",
+      "plan",
+      "platform",
+      "relief",
+      "right"
+    ],
+    "ts": 1790449793.6055682
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/smf-capital-launches-as-the-uk-s-specialist-recruiter-for-fca-senior-manager-function-appointments-1036576053",
+    "title": "SMF Capital Launches as the UK's Specialist Recruiter for FCA Senior Manager Function Appointments",
+    "tokens": [
+      "appointments",
+      "capital",
+      "fca",
+      "function",
+      "launches",
+      "manager",
+      "recruiter",
+      "senior",
+      "smf",
+      "specialist"
+    ],
+    "ts": 1790449801.8296094
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/awatif-al-khouri-authors-uae-chapter-of-chambers-global-practice-guides-child-relocation-2026-1036576054",
+    "title": "Awatif Al Khouri Authors UAE Chapter of Chambers Global Practice Guides – Child Relocation 2026",
+    "tokens": [
+      "2026",
+      "authors",
+      "awatif",
+      "chambers",
+      "chapter",
+      "child",
+      "global",
+      "guides",
+      "khouri",
+      "practice",
+      "relocation",
+      "uae"
+    ],
+    "ts": 1790449808.7733297
+  },
+  {
+    "id": "https://www.businessinsider.com/airlines-waive-change-fees-noreaster-northeast-boston-laguardia-newark-2026-9",
+    "title": "Airlines waive change fees as nor'easter hits Northeast",
+    "tokens": [
+      "airlines",
+      "change",
+      "easter",
+      "fees",
+      "hits",
+      "nor",
+      "northeast",
+      "waive"
+    ],
+    "ts": 1790449820.6135085
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/listingbott-expands-managed-directory-submission-service-for-saas-and-software-teams-1036576055",
+    "title": "ListingBott Expands Managed Directory Submission Service for SaaS and Software Teams",
+    "tokens": [
+      "directory",
+      "expands",
+      "listingbott",
+      "managed",
+      "saas",
+      "service",
+      "software",
+      "submission",
+      "teams"
+    ],
+    "ts": 1790449827.6377072
+  },
+  {
+    "id": "oilprice-article-45607",
+    "title": "Brazil's Energy Mix Goes Green Even As Oil Production Climbs",
+    "tokens": [
+      "brazil",
+      "climbs",
+      "energy",
+      "even",
+      "goes",
+      "green",
+      "mix",
+      "oil",
+      "production"
+    ],
+    "ts": 1790449834.9289067
+  },
+  {
+    "id": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead",
+    "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
+    "tokens": [
+      "chuang",
+      "death",
+      "former",
+      "hack",
+      "hsin",
+      "partner",
+      "ruled",
+      "suicide"
+    ],
+    "ts": 1790449842.0407925
   }
 ]

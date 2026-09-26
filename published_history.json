@@ -1,49 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/teamshares-secures-225m-preferred-equity-investment-from-t-rowe-93CH-4913887",
-    "title": "Teamshares secures $225M preferred equity investment from T. Rowe",
-    "tokens": [
-      "225m",
-      "equity",
-      "investment",
-      "preferred",
-      "rowe",
-      "secures",
-      "teamshares"
-    ],
-    "ts": 1790195346.809751
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/coopercompanies-opens-global-innovation-hub-unveils-product-pipeline-93CH-4913886",
-    "title": "CooperCompanies opens global innovation hub, unveils product pipeline",
-    "tokens": [
-      "coopercompanies",
-      "global",
-      "hub",
-      "innovation",
-      "opens",
-      "pipeline",
-      "product",
-      "unveils"
-    ],
-    "ts": 1790195353.8161838
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/talos-energy-appoints-retired-air-force-general-to-board-93CH-4913885",
-    "title": "Talos Energy appoints retired Air Force general to board",
-    "tokens": [
-      "air",
-      "appoints",
-      "board",
-      "energy",
-      "force",
-      "general",
-      "retired",
-      "talos"
-    ],
-    "ts": 1790195361.466875
-  },
-  {
     "id": "https://www.investing.com/news/company-news/park-dental-adds-sapphire-dental-care-to-arizona-network-93CH-4913884",
     "title": "Park Dental adds Sapphire Dental Care to Arizona network",
     "tokens": [
@@ -22972,5 +22928,54 @@
       "payward"
     ],
     "ts": 1790431850.242164
+  },
+  {
+    "id": "WP-MKTW-0005249167",
+    "title": "I’m afraid of ‘starving to death.’ Social Security stopped our checks due to a hacked bank account. What can we do?",
+    "tokens": [
+      "account",
+      "afraid",
+      "bank",
+      "can",
+      "checks",
+      "death",
+      "due",
+      "hacked",
+      "our",
+      "security",
+      "social",
+      "starving",
+      "stopped",
+      "what"
+    ],
+    "ts": 1790434362.4753692
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/trump-predicts-cuba-and-us-will-make-a-deal-4918594",
+    "title": "Trump predicts Cuba and US will make a deal",
+    "tokens": [
+      "cuba",
+      "deal",
+      "make",
+      "predicts",
+      "trump"
+    ],
+    "ts": 1790434369.988005
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-jury-says-apple-owes-record-57-billion-in-haptic-technology-patent-case-4918591",
+    "title": "US jury says Apple owes record $5.7 billion in haptic technology patent case",
+    "tokens": [
+      "apple",
+      "billion",
+      "case",
+      "haptic",
+      "jury",
+      "owes",
+      "patent",
+      "record",
+      "technology"
+    ],
+    "ts": 1790434379.047135
   }
 ]

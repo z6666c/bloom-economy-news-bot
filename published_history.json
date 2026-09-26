@@ -1,39 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/park-dental-adds-sapphire-dental-care-to-arizona-network-93CH-4913884",
-    "title": "Park Dental adds Sapphire Dental Care to Arizona network",
-    "tokens": [
-      "adds",
-      "arizona",
-      "care",
-      "dental",
-      "network",
-      "park",
-      "sapphire"
-    ],
-    "ts": 1790195368.7143278
-  },
-  {
-    "id": "hilton-gets-15-000-applications-120031875.html",
-    "title": "Hilton Gets 15,000 Applications for Early-Career Jobs as AI Fuels Hiring Frenzy: ‘Double-Edged Sword’",
-    "tokens": [
-      "000",
-      "applications",
-      "career",
-      "double",
-      "early",
-      "edged",
-      "frenzy",
-      "fuels",
-      "gets",
-      "hilton",
-      "hiring",
-      "jobs",
-      "sword"
-    ],
-    "ts": 1790195376.7401195
-  },
-  {
     "id": "quest-diagnostics-stock-outperforming-nasdaq-115652672.html",
     "title": "Is Quest Diagnostics Stock Outperforming the Nasdaq?",
     "tokens": [
@@ -22977,5 +22943,34 @@
       "technology"
     ],
     "ts": 1790434379.047135
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/trump-says-he-spoke-with-venezuelas-rodriguez-about-elections-4918595",
+    "title": "Trump says he spoke with Venezuela’s Rodriguez about elections",
+    "tokens": [
+      "about",
+      "elections",
+      "rodriguez",
+      "spoke",
+      "trump",
+      "venezuela"
+    ],
+    "ts": 1790435409.9615707
+  },
+  {
+    "id": "oilprice-article-45606",
+    "title": "North Carolina Regulators Reject Duke Energy Gas Power Plant",
+    "tokens": [
+      "carolina",
+      "duke",
+      "energy",
+      "gas",
+      "north",
+      "plant",
+      "power",
+      "regulators",
+      "reject"
+    ],
+    "ts": 1790435419.3877769
   }
 ]

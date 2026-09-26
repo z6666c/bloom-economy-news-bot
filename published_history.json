@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/clarivate-announces-tender-offer-pricing-for-2028-notes-93CH-4913888",
-    "title": "Clarivate announces tender offer pricing for 2028 notes",
-    "tokens": [
-      "2028",
-      "announces",
-      "clarivate",
-      "notes",
-      "offer",
-      "pricing",
-      "tender"
-    ],
-    "ts": 1790195339.5505846
-  },
-  {
     "id": "https://www.investing.com/news/company-news/teamshares-secures-225m-preferred-equity-investment-from-t-rowe-93CH-4913887",
     "title": "Teamshares secures $225M preferred equity investment from T. Rowe",
     "tokens": [
@@ -22968,5 +22954,23 @@
       "supreme"
     ],
     "ts": 1790429963.018358
+  },
+  {
+    "id": "8bf9807d-93f0-4d78-bba1-2b092b1897a8",
+    "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+    "tokens": [
+      "becoming",
+      "betting",
+      "billions",
+      "crypto",
+      "exchange",
+      "financial",
+      "infrastructure",
+      "just",
+      "kraken",
+      "parent",
+      "payward"
+    ],
+    "ts": 1790431850.242164
   }
 ]

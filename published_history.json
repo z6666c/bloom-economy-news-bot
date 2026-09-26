@@ -1,34 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/peloton-explores-debut-bond-sale-to-raise-800-million--bloomberg-93CH-4913892",
-    "title": "Peloton explores debut bond sale to raise $800 million - Bloomberg",
-    "tokens": [
-      "800",
-      "bloomberg",
-      "bond",
-      "debut",
-      "explores",
-      "million",
-      "peloton",
-      "raise",
-      "sale"
-    ],
-    "ts": 1790195324.6612024
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/alcoa-closes-26-billion-senior-notes-offering-93CH-4913889",
-    "title": "Alcoa closes $2.6 billion senior notes offering",
-    "tokens": [
-      "alcoa",
-      "billion",
-      "closes",
-      "notes",
-      "offering",
-      "senior"
-    ],
-    "ts": 1790195332.0358486
-  },
-  {
     "id": "https://www.investing.com/news/company-news/clarivate-announces-tender-offer-pricing-for-2028-notes-93CH-4913888",
     "title": "Clarivate announces tender offer pricing for 2028 notes",
     "tokens": [
@@ -22968,5 +22939,34 @@
       "takeover"
     ],
     "ts": 1790429105.7724137
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/nuveen-nea-portfolio-manager-sells-26572-in-stock-93CH-4918588",
+    "title": "Nuveen NEA portfolio manager sells $26,572 in stock",
+    "tokens": [
+      "572",
+      "manager",
+      "nea",
+      "nuveen",
+      "portfolio",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790429953.2440853
+  },
+  {
+    "id": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case",
+    "title": "Kalshi loses appeal, setting up potential Supreme Court case",
+    "tokens": [
+      "appeal",
+      "case",
+      "court",
+      "kalshi",
+      "loses",
+      "potential",
+      "setting",
+      "supreme"
+    ],
+    "ts": 1790429963.018358
   }
 ]

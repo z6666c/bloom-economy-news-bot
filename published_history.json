@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/openai-launches-mentalhealthbench-to-evaluate-ai-mental-health-responses-93CH-4913784",
-    "title": "OpenAI launches MentalHealthBench to evaluate AI mental health responses",
-    "tokens": [
-      "evaluate",
-      "health",
-      "launches",
-      "mental",
-      "mentalhealthbench",
-      "openai",
-      "responses"
-    ],
-    "ts": 1790193179.5984366
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-rapport-therapeutics-stock-sliding-today-93CH-4913783",
     "title": "Why is Rapport Therapeutics stock sliding today?",
     "tokens": [
@@ -22933,5 +22919,21 @@
       "stock"
     ],
     "ts": 1790405719.7054255
+  },
+  {
+    "id": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme",
+    "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+    "tokens": [
+      "950m",
+      "alleges",
+      "cash",
+      "cftc",
+      "crypto",
+      "forex",
+      "linked",
+      "scheme",
+      "sues"
+    ],
+    "ts": 1790407570.9711666
   }
 ]

@@ -1,55 +1,5 @@
 [
   {
-    "id": "news-corporation-stock-underperforming-p-152219343.html",
-    "title": "Is News Corporation Stock Underperforming the S&P 500?",
-    "tokens": [
-      "500",
-      "corporation",
-      "news",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1790205755.0315163
-  },
-  {
-    "id": "stocks-mixed-crude-oil-prices-152253159.html",
-    "title": "Stocks Mixed as Crude Oil Prices and Financial Stocks Fall",
-    "tokens": [
-      "crude",
-      "fall",
-      "financial",
-      "mixed",
-      "oil",
-      "prices",
-      "stocks"
-    ],
-    "ts": 1790205758.39095
-  },
-  {
-    "id": "why-teekay-tankers-stock-dropped-152219144.html",
-    "title": "Why Teekay Tankers Stock Dropped Today",
-    "tokens": [
-      "dropped",
-      "stock",
-      "tankers",
-      "teekay",
-      "today",
-      "why"
-    ],
-    "ts": 1790205765.7889216
-  },
-  {
-    "id": "case-buying-netflix-stock-151709602.html",
-    "title": "The Case for Buying Netflix Stock",
-    "tokens": [
-      "buying",
-      "case",
-      "netflix",
-      "stock"
-    ],
-    "ts": 1790205772.8062215
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/asana-general-counsel-katie-colendich-sells-over-153000-in-company-stock-93CH-4914212",
     "title": "Asana general counsel Katie Colendich sells over $153,000 in company stock",
     "tokens": [
@@ -23019,5 +22969,65 @@
       "yields"
     ],
     "ts": 1790507433.8147383
+  },
+  {
+    "id": "https://www.investing.com/news/investment-ideas/northern-trust-delivers-66-return-after-fair-value-signal-93CH-4918940",
+    "title": "Northern Trust delivers 66% return after Fair Value signal",
+    "tokens": [
+      "delivers",
+      "fair",
+      "northern",
+      "return",
+      "signal",
+      "trust",
+      "value"
+    ],
+    "ts": 1790508362.4945714
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/plug-power-cso-benjamin-haycraft-sells-428300-in-shares-93CH-4918939",
+    "title": "Plug Power CSO Benjamin Haycraft sells $428,300 in shares",
+    "tokens": [
+      "300",
+      "428",
+      "benjamin",
+      "cso",
+      "haycraft",
+      "plug",
+      "power",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790508369.2703958
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/upwork-cfo-erica-gessert-sells-78896-in-shares-93CH-4918938",
+    "title": "Upwork CFO Erica Gessert sells $78,896 in shares",
+    "tokens": [
+      "896",
+      "cfo",
+      "erica",
+      "gessert",
+      "sells",
+      "shares",
+      "upwork"
+    ],
+    "ts": 1790508376.2963796
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/upwork-ceo-hayden-brown-sells-201917-in-upwk-stock-93CH-4918937",
+    "title": "Upwork CEO Hayden Brown sells $201,917 in UPWK stock",
+    "tokens": [
+      "201",
+      "917",
+      "brown",
+      "ceo",
+      "hayden",
+      "sells",
+      "stock",
+      "upwk",
+      "upwork"
+    ],
+    "ts": 1790508383.164674
   }
 ]

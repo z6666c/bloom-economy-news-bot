@@ -1,36 +1,5 @@
 [
   {
-    "id": "oilprice-article-45591",
-    "title": "Canada’s Oil Patch On Track For Biggest M&A Wave In A Decade",
-    "tokens": [
-      "biggest",
-      "canada",
-      "decade",
-      "oil",
-      "patch",
-      "track",
-      "wave"
-    ],
-    "ts": 1790204989.4274662
-  },
-  {
-    "id": "oilprice-news-45591",
-    "title": "Imperial Oil Becomes First Major Alberta Energy Company to Oppose Separatism",
-    "tokens": [
-      "alberta",
-      "becomes",
-      "company",
-      "energy",
-      "first",
-      "imperial",
-      "major",
-      "oil",
-      "oppose",
-      "separatism"
-    ],
-    "ts": 1790204993.446573
-  },
-  {
     "id": "soybean-oil-prices-falling-crude-152215339.html",
     "title": "Soybean Oil Prices Are Falling as Crude Sells Off. 1 Trade to Make Here.",
     "tokens": [
@@ -23020,5 +22989,35 @@
       "safe"
     ],
     "ts": 1790505626.103607
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/triplepoint-venture-growth-ceo-labe-buys-147m-in-shares-93CH-4918920",
+    "title": "TriplePoint Venture Growth CEO Labe buys $1.47m in shares",
+    "tokens": [
+      "47m",
+      "buys",
+      "ceo",
+      "growth",
+      "labe",
+      "shares",
+      "triplepoint",
+      "venture"
+    ],
+    "ts": 1790506325.99956
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/triplepoint-president--cio-sajal-srivastava-sells-148m-stock-93CH-4918919",
+    "title": "TriplePoint president & CIO Sajal Srivastava sells $1.48m stock",
+    "tokens": [
+      "48m",
+      "cio",
+      "president",
+      "sajal",
+      "sells",
+      "srivastava",
+      "stock",
+      "triplepoint"
+    ],
+    "ts": 1790506334.3989236
   }
 ]

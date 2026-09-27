@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-volumes-drive-142-roc-1b-invested-93CH-4914319",
-    "title": "Fonterra FY26 slides: record volumes drive 14.2% ROC, $1B invested",
-    "tokens": [
-      "drive",
-      "fonterra",
-      "fy26",
-      "invested",
-      "record",
-      "roc",
-      "slides",
-      "volumes"
-    ],
-    "ts": 1790214062.628398
-  },
-  {
     "id": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-returns-1b-capital-plan-unveiled-93CH-4914318",
     "title": "Fonterra FY26 slides: record returns, $1B+ capital plan unveiled",
     "tokens": [
@@ -23073,5 +23058,20 @@
       "won"
     ],
     "ts": 1790536223.2448916
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-ceo-amodei-to-meet-trump-privately-ahead-of-ai-summit-4919089",
+    "title": "Anthropic CEO Amodei to meet Trump privately ahead of AI summit",
+    "tokens": [
+      "ahead",
+      "amodei",
+      "anthropic",
+      "ceo",
+      "meet",
+      "privately",
+      "summit",
+      "trump"
+    ],
+    "ts": 1790537898.8827705
   }
 ]

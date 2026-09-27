@@ -1,33 +1,5 @@
 [
   {
-    "id": "amcor-stock-amcr-outperforming-consumer-124224161.html",
-    "title": "Amcor Stock: Is AMCR Outperforming the Consumer Cyclical Sector?",
-    "tokens": [
-      "amcor",
-      "amcr",
-      "consumer",
-      "cyclical",
-      "outperforming",
-      "sector",
-      "stock"
-    ],
-    "ts": 1790208928.6133003
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/softbank-issues-111-billion-in-bonds-in-openai-financing-push-4914266",
-    "title": "SoftBank issues $11.1 billion in bonds in OpenAI financing push",
-    "tokens": [
-      "billion",
-      "bonds",
-      "financing",
-      "issues",
-      "openai",
-      "push",
-      "softbank"
-    ],
-    "ts": 1790210252.726114
-  },
-  {
     "id": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-tempus-ai-stock-buys-scribe-therapeutics-93CH-4914264",
     "title": "Cathie Wood’s ARK sells Tempus AI stock, buys Scribe Therapeutics",
     "tokens": [
@@ -23031,5 +23003,36 @@
       "vitalik"
     ],
     "ts": 1790520024.2291243
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/will-a-falling-unemployment-rate-keep-us-inflation-above-target-4919042",
+    "title": "Will a falling unemployment rate keep U.S. inflation above target?",
+    "tokens": [
+      "above",
+      "falling",
+      "inflation",
+      "keep",
+      "rate",
+      "target",
+      "unemployment"
+    ],
+    "ts": 1790521820.6036482
+  },
+  {
+    "id": "oilprice-article-45608",
+    "title": "EPA Power Plant Rollback To Add 123 Million More Tons of CO2",
+    "tokens": [
+      "123",
+      "add",
+      "co2",
+      "epa",
+      "million",
+      "more",
+      "plant",
+      "power",
+      "rollback",
+      "tons"
+    ],
+    "ts": 1790521829.211044
   }
 ]

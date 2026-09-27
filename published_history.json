@@ -1,33 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-051-4914043",
-    "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.51%",
-    "tokens": [
-      "close",
-      "higher",
-      "index",
-      "moex",
-      "russia",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790198848.6902802
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/genco-shipping--trading-at-sidoti-conference-dividends-surge-93CH-4914040",
-    "title": "Genco Shipping & Trading at Sidoti conference: dividends surge",
-    "tokens": [
-      "conference",
-      "dividends",
-      "genco",
-      "shipping",
-      "sidoti",
-      "surge",
-      "trading"
-    ],
-    "ts": 1790198856.1672184
-  },
-  {
     "id": "citizens-financial-stock-cfg-outperforming-131514658.html",
     "title": "Citizens Financial Stock: Is CFG Outperforming the Financial Sector?",
     "tokens": [
@@ -23024,5 +22996,35 @@
       "ubs"
     ],
     "ts": 1790466743.4144342
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trump-administration-set-to-ease-bidenera-fuel-economy-rules-4918674",
+    "title": "Trump administration set to ease Biden-era fuel economy rules",
+    "tokens": [
+      "administration",
+      "biden",
+      "ease",
+      "economy",
+      "era",
+      "fuel",
+      "rules",
+      "set",
+      "trump"
+    ],
+    "ts": 1790468134.8268785
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/adlai-nortye-director-ji-ping-sells-83150-in-shares-93CH-4918669",
+    "title": "Adlai Nortye director Ji Ping sells $83,150 in shares",
+    "tokens": [
+      "150",
+      "adlai",
+      "director",
+      "nortye",
+      "ping",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790468142.9094586
   }
 ]

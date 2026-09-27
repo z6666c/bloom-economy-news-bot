@@ -1,107 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/sp-upgrades-skeena-resources-outlook-on-mine-progress-93CH-4914106",
-    "title": "S&P upgrades Skeena Resources outlook on mine progress",
-    "tokens": [
-      "mine",
-      "outlook",
-      "progress",
-      "resources",
-      "skeena",
-      "upgrades"
-    ],
-    "ts": 1790201509.0260358
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sp-upgrades-bending-spoons-rating-on-acquisition-integration-93CH-4914104",
-    "title": "S&P upgrades Bending Spoons rating on acquisition integration",
-    "tokens": [
-      "acquisition",
-      "bending",
-      "integration",
-      "rating",
-      "spoons",
-      "upgrades"
-    ],
-    "ts": 1790201517.4393837
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/celldex-therapeutics-leads-guggenheims-biotechnology-rankings-93CH-4914103",
-    "title": "Celldex Therapeutics Leads Guggenheim’s Biotechnology Rankings",
-    "tokens": [
-      "biotechnology",
-      "celldex",
-      "guggenheim",
-      "leads",
-      "rankings",
-      "therapeutics"
-    ],
-    "ts": 1790201524.5427196
-  },
-  {
-    "id": "sonida-senior-living-snda-poised-141451416.html",
-    "title": "Sonida Senior Living (SNDA) Poised for Strong Performance Over the Next Several Years",
-    "tokens": [
-      "living",
-      "next",
-      "performance",
-      "poised",
-      "senior",
-      "several",
-      "snda",
-      "sonida",
-      "strong",
-      "years"
-    ],
-    "ts": 1790201532.581404
-  },
-  {
-    "id": "stocks-supported-crude-oil-prices-141506095.html",
-    "title": "Stocks Supported as Crude Oil Prices Ease",
-    "tokens": [
-      "crude",
-      "ease",
-      "oil",
-      "prices",
-      "stocks",
-      "supported"
-    ],
-    "ts": 1790201539.911488
-  },
-  {
-    "id": "warren-buffett-just-left-chairman-141730011.html",
-    "title": "Warren Buffett Just Left the Chairman Role at Berkshire Hathaway. How His Departure Will Impact BRK.B Stock.",
-    "tokens": [
-      "berkshire",
-      "brk",
-      "buffett",
-      "chairman",
-      "departure",
-      "hathaway",
-      "his",
-      "how",
-      "impact",
-      "just",
-      "left",
-      "role",
-      "stock",
-      "warren"
-    ],
-    "ts": 1790201547.628278
-  },
-  {
-    "id": "spacex-stock-ai-power-67161f10?siteid=yhoof2&yptr=yahoo",
-    "title": "SpaceX Has a Key Advantage in the AI Power Battle",
-    "tokens": [
-      "advantage",
-      "battle",
-      "key",
-      "power",
-      "spacex"
-    ],
-    "ts": 1790201555.0202188
-  },
-  {
     "id": "minot-light-bullish-stance-rockwell-140627170.html",
     "title": "Minot Light’s Bullish Stance on Rockwell Medical (RMTI)",
     "tokens": [
@@ -23026,5 +22924,119 @@
       "troendle"
     ],
     "ts": 1790483483.3335462
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/core-scientific-chief-legal-officer-todd-duchene-sells-183746-in-shares-93CH-4918801",
+    "title": "Core Scientific chief legal officer Todd Duchene sells $183,746 in shares",
+    "tokens": [
+      "183",
+      "746",
+      "chief",
+      "core",
+      "duchene",
+      "legal",
+      "officer",
+      "scientific",
+      "sells",
+      "shares",
+      "todd"
+    ],
+    "ts": 1790484793.6871605
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/twist-bioscience-svp-dennis-cho-sells-57590-in-company-stock-93CH-4918800",
+    "title": "Twist Bioscience SVP Dennis Cho sells $57,590 in company stock",
+    "tokens": [
+      "590",
+      "bioscience",
+      "cho",
+      "company",
+      "dennis",
+      "sells",
+      "stock",
+      "svp",
+      "twist"
+    ],
+    "ts": 1790484800.9358904
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe-4918799",
+    "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+    "tokens": [
+      "anthropic",
+      "appear",
+      "australian",
+      "called",
+      "ceos",
+      "openai",
+      "probe"
+    ],
+    "ts": 1790484808.9123569
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/south-korea-tax-windfall-could-top-50-trillion-won-on-chip-boom--yonhap-4918796",
+    "title": "South Korea tax windfall could top 50 trillion won on chip boom - Yonhap",
+    "tokens": [
+      "boom",
+      "chip",
+      "could",
+      "korea",
+      "south",
+      "tax",
+      "top",
+      "trillion",
+      "windfall",
+      "won",
+      "yonhap"
+    ],
+    "ts": 1790484816.4126122
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/intapp-ceo-john-hall-sells-110220-in-shares-after-option-exercise-93CH-4918791",
+    "title": "Intapp CEO John Hall sells $110,220 in shares after option exercise",
+    "tokens": [
+      "110",
+      "220",
+      "ceo",
+      "exercise",
+      "hall",
+      "intapp",
+      "john",
+      "option",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790484823.1064682
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/twist-bioscience-svp-paula-green-sells-48654-in-common-stock-93CH-4918789",
+    "title": "Twist Bioscience SVP Paula Green sells $48,654 in common stock",
+    "tokens": [
+      "654",
+      "bioscience",
+      "common",
+      "green",
+      "paula",
+      "sells",
+      "stock",
+      "svp",
+      "twist"
+    ],
+    "ts": 1790484830.391687
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/nextdoor-cao-antoinette-how-sells-105020-in-shares-93CH-4918788",
+    "title": "Nextdoor CAO Antoinette How sells $105,020 in shares",
+    "tokens": [
+      "020",
+      "105",
+      "antoinette",
+      "cao",
+      "how",
+      "nextdoor",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790484837.0923727
   }
 ]

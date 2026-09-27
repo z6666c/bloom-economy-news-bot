@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/mgm-resorts-confirms-withdrawal-of-people-incorporated-takeover-bid-93CH-4914166",
-    "title": "MGM Resorts confirms withdrawal of People Incorporated takeover bid",
-    "tokens": [
-      "bid",
-      "confirms",
-      "incorporated",
-      "mgm",
-      "people",
-      "resorts",
-      "takeover",
-      "withdrawal"
-    ],
-    "ts": 1790203930.2447658
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/aurora-cannabis-files-complaint-over-curaleaf-takeover-bid-93CH-4914165",
-    "title": "Aurora Cannabis files complaint over Curaleaf takeover bid",
-    "tokens": [
-      "aurora",
-      "bid",
-      "cannabis",
-      "complaint",
-      "curaleaf",
-      "files",
-      "takeover"
-    ],
-    "ts": 1790203937.2631605
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/allient-director-michael-winter-sells-49936-in-stock-for-plan-transfer-93CH-4914196",
-    "title": "Allient director Michael Winter sells $49,936 in stock for plan transfer",
-    "tokens": [
-      "936",
-      "allient",
-      "director",
-      "michael",
-      "plan",
-      "sells",
-      "stock",
-      "transfer",
-      "winter"
-    ],
-    "ts": 1790204933.619026
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/meta-cpo-christopher-cox-sells-285-million-in-shares-93CH-4914186",
     "title": "Meta CPO Christopher Cox sells $28.5 million in shares",
     "tokens": [
@@ -23025,5 +22980,50 @@
       "stock"
     ],
     "ts": 1790500298.4267752
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/burnham-hints-at-new-uk-taxes-for-social-care-questions-heathrow-expansion-4918901",
+    "title": "Burnham hints at new UK taxes for social care, questions Heathrow expansion",
+    "tokens": [
+      "burnham",
+      "care",
+      "expansion",
+      "heathrow",
+      "hints",
+      "questions",
+      "social",
+      "taxes"
+    ],
+    "ts": 1790502796.018527
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/nvidia-director-mark-stevens-sells-3001-million-in-stock-93CH-4918893",
+    "title": "NVIDIA director Mark Stevens sells $300.1 million in stock",
+    "tokens": [
+      "300",
+      "director",
+      "mark",
+      "million",
+      "nvidia",
+      "sells",
+      "stevens",
+      "stock"
+    ],
+    "ts": 1790502802.9271379
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/heritage-insurance-president-johns-sells-121579-in-stock-93CH-4918892",
+    "title": "Heritage Insurance president Johns sells $121,579 in stock",
+    "tokens": [
+      "121",
+      "579",
+      "heritage",
+      "insurance",
+      "johns",
+      "president",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790502809.2199507
   }
 ]

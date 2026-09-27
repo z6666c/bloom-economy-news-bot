@@ -1,34 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/meta-debuts-new-handheld-device-dedicated-to-using-muse-4914274",
-    "title": "Meta debuts new handheld device dedicated to using Muse",
-    "tokens": [
-      "debuts",
-      "dedicated",
-      "device",
-      "handheld",
-      "meta",
-      "muse",
-      "using"
-    ],
-    "ts": 1790211320.014559
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-177m-in-pins-stock-93CH-4914270",
-    "title": "Pinterest director Benjamin Silbermann sells $1.77m in PINS stock",
-    "tokens": [
-      "77m",
-      "benjamin",
-      "director",
-      "pins",
-      "pinterest",
-      "sells",
-      "silbermann",
-      "stock"
-    ],
-    "ts": 1790211329.0625706
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/nexstar-president-broadcasting-alford-sells-467742-stock-93CH-4914269",
     "title": "Nexstar president, broadcasting Alford sells $467,742 stock.",
     "tokens": [
@@ -23037,5 +23008,35 @@
       "yield"
     ],
     "ts": 1790530766.6645694
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/stock-yards-bancorp-sr-vp-michael-woods-sells-10983-in-shares-93CH-4919075",
+    "title": "Stock yards bancorp Sr. VP Michael Woods sells $10,983 in shares",
+    "tokens": [
+      "983",
+      "bancorp",
+      "michael",
+      "sells",
+      "shares",
+      "stock",
+      "woods",
+      "yards"
+    ],
+    "ts": 1790532740.2955875
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/exponent-group-vp-souri-buys-12593-in-expo-common-stock-93CH-4919069",
+    "title": "Exponent group VP Souri buys $12,593 in EXPO common stock",
+    "tokens": [
+      "593",
+      "buys",
+      "common",
+      "expo",
+      "exponent",
+      "group",
+      "souri",
+      "stock"
+    ],
+    "ts": 1790532748.1131604
   }
 ]

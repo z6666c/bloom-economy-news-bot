@@ -1,32 +1,5 @@
 [
   {
-    "id": "factset-stock-underperforming-nasdaq-160607471.html",
-    "title": "Is FactSet Stock Underperforming the Nasdaq?",
-    "tokens": [
-      "factset",
-      "nasdaq",
-      "stock",
-      "underperforming"
-    ],
-    "ts": 1790206727.9633296
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/asana-cfo-megji-aziz-sells-367505-in-company-stock-93CH-4914222",
-    "title": "Asana CFO Megji Aziz sells $367,505 in company stock",
-    "tokens": [
-      "367",
-      "505",
-      "asana",
-      "aziz",
-      "cfo",
-      "company",
-      "megji",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790207444.184553
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/arista-networks-president--cto-kenneth-duda-sells-88m-in-shares-93CH-4914221",
     "title": "Arista Networks president & CTO Kenneth Duda sells $8.8m in shares",
     "tokens": [
@@ -23016,5 +22989,34 @@
       "work"
     ],
     "ts": 1790511263.3257422
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/repligen-ceo-olivier-loeillot-sells-976680-in-company-stock-93CH-4918982",
+    "title": "Repligen CEO Olivier Loeillot sells $976,680 in company stock",
+    "tokens": [
+      "680",
+      "976",
+      "ceo",
+      "company",
+      "loeillot",
+      "olivier",
+      "repligen",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790513727.1474888
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/fluence-energy-director-buys-73600-in-stock-93CH-4918981",
+    "title": "Fluence Energy director buys $73,600 in stock",
+    "tokens": [
+      "600",
+      "buys",
+      "director",
+      "energy",
+      "fluence",
+      "stock"
+    ],
+    "ts": 1790513734.1617882
   }
 ]

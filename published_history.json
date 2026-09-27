@@ -1,36 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/us-faa-says-error-messages-in-telecommunications-circuit-prompted-shift-to-backup-on-sunday-4914173",
-    "title": "US FAA says error messages in telecommunications circuit prompted shift to backup on Sunday",
-    "tokens": [
-      "backup",
-      "circuit",
-      "error",
-      "faa",
-      "messages",
-      "prompted",
-      "shift",
-      "sunday",
-      "telecommunications"
-    ],
-    "ts": 1790203916.3265662
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/amc-entertainment-prices-2-billion-notes-850-million-loan-93CH-4914172",
-    "title": "AMC Entertainment prices $2 billion notes, $850 million loan",
-    "tokens": [
-      "850",
-      "amc",
-      "billion",
-      "entertainment",
-      "loan",
-      "million",
-      "notes",
-      "prices"
-    ],
-    "ts": 1790203923.2743173
-  },
-  {
     "id": "https://www.investing.com/news/company-news/mgm-resorts-confirms-withdrawal-of-people-incorporated-takeover-bid-93CH-4914166",
     "title": "MGM Resorts confirms withdrawal of People Incorporated takeover bid",
     "tokens": [
@@ -23026,5 +22995,35 @@
       "shares"
     ],
     "ts": 1790498617.7045703
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/iran-says-it-wont-soften-hormuz-demands-after-trump-rejects-proposal-4918887",
+    "title": "Iran says it won’t soften Hormuz demands after Trump rejects proposal",
+    "tokens": [
+      "demands",
+      "hormuz",
+      "iran",
+      "proposal",
+      "rejects",
+      "soften",
+      "trump",
+      "won"
+    ],
+    "ts": 1790500290.904943
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/okta-coo-eric-kelleher-sells-117m-in-company-stock-93CH-4918886",
+    "title": "Okta COO Eric Kelleher sells $1.17m in company stock",
+    "tokens": [
+      "17m",
+      "company",
+      "coo",
+      "eric",
+      "kelleher",
+      "okta",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790500298.4267752
   }
 ]

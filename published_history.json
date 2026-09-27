@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/stitch-fix-q4-2026-slides-show-transformation-progress-fy27-concerns-93CH-4914150",
-    "title": "Stitch Fix Q4 2026 slides show transformation progress, FY27 concerns",
-    "tokens": [
-      "2026",
-      "concerns",
-      "fix",
-      "fy27",
-      "progress",
-      "show",
-      "slides",
-      "stitch",
-      "transformation"
-    ],
-    "ts": 1790203187.2256165
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/barry-diller-withdraws-bid-for-mgm-resorts-wsj-reports-4914144",
     "title": "Barry Diller withdraws bid for MGM Resorts, WSJ reports",
     "tokens": [
@@ -23023,5 +23007,19 @@
       "steadies"
     ],
     "ts": 1790489633.868547
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-understands-taiwans-defence-needs-amid-china-threat-official-says-4918829",
+    "title": "U.S. understands Taiwan’s defence needs amid China threat, official says",
+    "tokens": [
+      "china",
+      "defence",
+      "needs",
+      "official",
+      "taiwan",
+      "threat",
+      "understands"
+    ],
+    "ts": 1790490954.0964148
   }
 ]

@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/barry-diller-withdraws-bid-for-mgm-resorts-wsj-reports-4914144",
-    "title": "Barry Diller withdraws bid for MGM Resorts, WSJ reports",
-    "tokens": [
-      "barry",
-      "bid",
-      "diller",
-      "mgm",
-      "reports",
-      "resorts",
-      "withdraws",
-      "wsj"
-    ],
-    "ts": 1790203194.5279052
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/mercury-systems-evp-stuart-kupinsky-sells-86520-in-shares-93CH-4914143",
-    "title": "Mercury Systems EVP Stuart Kupinsky sells $86,520 in shares",
-    "tokens": [
-      "520",
-      "evp",
-      "kupinsky",
-      "mercury",
-      "sells",
-      "shares",
-      "stuart",
-      "systems"
-    ],
-    "ts": 1790203201.8579488
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/block-inc-director-anthony-eisen-sells-14-million-in-stock-93CH-4914142",
-    "title": "Block, Inc. director Anthony Eisen sells $1.4 million in stock",
-    "tokens": [
-      "anthony",
-      "block",
-      "director",
-      "eisen",
-      "inc",
-      "million",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790203209.0221395
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/rimini-street-evp-david-rowe-sells-21294-in-taxrelated-stock-93CH-4914140",
     "title": "Rimini Street EVP David Rowe sells $21,294 in tax-related stock",
     "tokens": [
@@ -23021,5 +22976,51 @@
       "understands"
     ],
     "ts": 1790490954.0964148
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/east-german-espionage-raised-gdp-by-74-in-late-1980s-study-finds-4918838",
+    "title": "East German espionage raised GDP by 7.4% in late 1980s, study finds",
+    "tokens": [
+      "1980s",
+      "east",
+      "espionage",
+      "finds",
+      "gdp",
+      "german",
+      "late",
+      "raised",
+      "study"
+    ],
+    "ts": 1790492169.277525
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/globe-life-evp--cio-robert-hensley-sells-over-17m-in-stock-93CH-4918833",
+    "title": "Globe Life EVP & CIO Robert Hensley sells over $1.7m in stock",
+    "tokens": [
+      "cio",
+      "evp",
+      "globe",
+      "hensley",
+      "life",
+      "robert",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790492176.3718803
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/rtb-digital-rtb-director-jason-dorsett-buys-91520-in-shares-93CH-4918832",
+    "title": "Rtb digital (RTB) director Jason Dorsett buys $91,520 in shares",
+    "tokens": [
+      "520",
+      "buys",
+      "digital",
+      "director",
+      "dorsett",
+      "jason",
+      "rtb",
+      "shares"
+    ],
+    "ts": 1790492182.7135017
   }
 ]

@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/solus-alternative-asset-management-sells-54782-in-bristow-group-stock-93CH-4914228",
-    "title": "Solus alternative asset management sells $54,782 in Bristow Group stock",
-    "tokens": [
-      "782",
-      "alternative",
-      "asset",
-      "bristow",
-      "group",
-      "management",
-      "sells",
-      "solus",
-      "stock"
-    ],
-    "ts": 1790208920.6294937
-  },
-  {
     "id": "crypto-winter-is-over-analyst-says-as-bitcoin-tops-86000-chart-of-the-day-124006079.html",
     "title": "'Crypto winter is over,' analyst says as bitcoin tops $86,000: Chart of the Day",
     "tokens": [
@@ -23028,5 +23012,22 @@
       "unfold"
     ],
     "ts": 1790517126.7789297
+  },
+  {
+    "id": "WP-MKTW-0005254254",
+    "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+    "tokens": [
+      "500",
+      "become",
+      "biggest",
+      "could",
+      "dethrone",
+      "driver",
+      "growth",
+      "micron",
+      "nvidia",
+      "profit"
+    ],
+    "ts": 1790518210.050331
   }
 ]

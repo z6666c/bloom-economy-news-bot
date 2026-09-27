@@ -1,48 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/grace-therapeutics-director-opaleye-management-buys-31686-in-stock-93CH-4914263",
-    "title": "Grace Therapeutics director Opaleye Management buys $31,686 in stock",
-    "tokens": [
-      "686",
-      "buys",
-      "director",
-      "grace",
-      "management",
-      "opaleye",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1790210267.7440882
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/manchester-united-earnings-beat-by-004-revenue-topped-estimates-4914260",
-    "title": "Manchester United earnings beat by £0.04, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "earnings",
-      "estimates",
-      "manchester",
-      "revenue",
-      "topped",
-      "united"
-    ],
-    "ts": 1790210275.623814
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/meta-ai-glasses-to-feature-dolby-atmos-audio-capture-93CH-4914259",
-    "title": "Meta AI glasses to feature Dolby Atmos audio capture",
-    "tokens": [
-      "atmos",
-      "audio",
-      "capture",
-      "dolby",
-      "feature",
-      "glasses",
-      "meta"
-    ],
-    "ts": 1790210283.0012507
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/us-china-agree-to-extend-trade-truce-until-january-bessent-says-4914257",
     "title": "U.S., China agree to extend trade truce until January, Bessent says",
     "tokens": [
@@ -23035,5 +22992,50 @@
       "weighs"
     ],
     "ts": 1790524365.6431098
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/neostellar-capital-chairman-klein-buys-39550-in-common-stock-93CH-4919056",
+    "title": "Neostellar capital chairman Klein buys $39,550 in common stock",
+    "tokens": [
+      "550",
+      "buys",
+      "capital",
+      "chairman",
+      "common",
+      "klein",
+      "neostellar",
+      "stock"
+    ],
+    "ts": 1790526464.952978
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/bcb-bancorp-ceo-thomas-obrien-purchases-124m-in-company-stock-93CH-4919051",
+    "title": "BCB Bancorp CEO Thomas O’Brien purchases $1.24m in company stock",
+    "tokens": [
+      "24m",
+      "bancorp",
+      "bcb",
+      "brien",
+      "ceo",
+      "company",
+      "purchases",
+      "stock",
+      "thomas"
+    ],
+    "ts": 1790526471.9316895
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bill-gates-joins-calls-for-ai-safeguards-including-legislation-4919049",
+    "title": "Bill Gates joins calls for AI safeguards, including legislation",
+    "tokens": [
+      "bill",
+      "calls",
+      "gates",
+      "including",
+      "joins",
+      "legislation",
+      "safeguards"
+    ],
+    "ts": 1790526479.3763187
   }
 ]

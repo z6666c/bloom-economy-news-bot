@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/capsovision-director-eliyahou-harari-buys-10-million-in-shares-93CH-4914331",
-    "title": "CapsoVision director Eliyahou Harari buys $10 million in shares",
-    "tokens": [
-      "buys",
-      "capsovision",
-      "director",
-      "eliyahou",
-      "harari",
-      "million",
-      "shares"
-    ],
-    "ts": 1790214843.8634782
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/defi-development-cso-daniel-kang-buys-92183-in-preferred-stock-93CH-4914330",
     "title": "DeFi development CSO Daniel Kang buys $92,183 in preferred stock",
     "tokens": [
@@ -23078,5 +23064,20 @@
       "trucks"
     ],
     "ts": 1790548949.5160499
+  },
+  {
+    "id": "oilprice-article-45616",
+    "title": "Venezuela’s Oil Comeback Could Cost More Than $100 Billion",
+    "tokens": [
+      "100",
+      "billion",
+      "comeback",
+      "cost",
+      "could",
+      "more",
+      "oil",
+      "venezuela"
+    ],
+    "ts": 1790550592.3863537
   }
 ]

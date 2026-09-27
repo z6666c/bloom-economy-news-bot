@@ -1,56 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/us-china-agree-to-extend-trade-truce-until-january-bessent-says-4914257",
-    "title": "U.S., China agree to extend trade truce until January, Bessent says",
-    "tokens": [
-      "agree",
-      "bessent",
-      "china",
-      "extend",
-      "january",
-      "trade",
-      "truce",
-      "until"
-    ],
-    "ts": 1790210290.415636
-  },
-  {
-    "id": "why-cathie-wood-says-spacex-130002913.html",
-    "title": "Why Cathie Wood Says SpaceX Stock Could Be a Deep-Value Buy",
-    "tokens": [
-      "buy",
-      "cathie",
-      "could",
-      "deep",
-      "spacex",
-      "stock",
-      "value",
-      "why",
-      "wood"
-    ],
-    "ts": 1790210299.2050197
-  },
-  {
-    "id": "dear-semiconductor-stock-fans-know-130002440.html",
-    "title": "Dear ON Semiconductor Stock Fans, Here’s What You Need to Know About ON’s Financial Analyst Day",
-    "tokens": [
-      "about",
-      "analyst",
-      "day",
-      "dear",
-      "fans",
-      "financial",
-      "here",
-      "know",
-      "need",
-      "semiconductor",
-      "stock",
-      "what",
-      "you"
-    ],
-    "ts": 1790210306.5991955
-  },
-  {
     "id": "quantasing-group-q4-earnings-call-130220427.html",
     "title": "QuantaSing Group Q4 Earnings Call Highlights",
     "tokens": [
@@ -23037,5 +22986,49 @@
       "safeguards"
     ],
     "ts": 1790526479.3763187
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/china-may-permit-alibaba-bytedance-to-buy-new-nvidia-chips--the-information-4919061",
+    "title": "China may permit Alibaba, ByteDance to buy new Nvidia chips – The Information",
+    "tokens": [
+      "alibaba",
+      "buy",
+      "bytedance",
+      "china",
+      "chips",
+      "information",
+      "may",
+      "nvidia",
+      "permit"
+    ],
+    "ts": 1790528980.6996078
+  },
+  {
+    "id": "oilprice-article-45619",
+    "title": "The AI Data Center Boom Faces a New Reality Check",
+    "tokens": [
+      "boom",
+      "center",
+      "check",
+      "data",
+      "faces",
+      "reality"
+    ],
+    "ts": 1790528989.0525014
+  },
+  {
+    "id": "oilprice-news-45619",
+    "title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
+    "tokens": [
+      "failed",
+      "gas",
+      "heat",
+      "lift",
+      "natural",
+      "prices",
+      "record",
+      "why"
+    ],
+    "ts": 1790528996.5758166
   }
 ]

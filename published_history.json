@@ -1,66 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/asana-general-counsel-katie-colendich-sells-over-153000-in-company-stock-93CH-4914212",
-    "title": "Asana general counsel Katie Colendich sells over $153,000 in company stock",
-    "tokens": [
-      "000",
-      "153",
-      "asana",
-      "colendich",
-      "company",
-      "counsel",
-      "general",
-      "katie",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790206664.5354016
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/national-healthcare-sr-vp-patient-srvcs-dodson-sells-109m-stock-93CH-4914207",
-    "title": "National healthcare sr. VP patient srvcs Dodson sells $1.09m stock",
-    "tokens": [
-      "09m",
-      "dodson",
-      "healthcare",
-      "national",
-      "patient",
-      "sells",
-      "srvcs",
-      "stock"
-    ],
-    "ts": 1790206671.9137871
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/asana-ceo-daniel-rogers-sells-over-42m-in-company-stock-93CH-4914206",
-    "title": "Asana CEO Daniel Rogers sells over $4.2m in company stock",
-    "tokens": [
-      "asana",
-      "ceo",
-      "company",
-      "daniel",
-      "rogers",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790206679.603225
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/mission-produce-executive-chairman-sells-145m-in-avo-stock-93CH-4914205",
-    "title": "Mission Produce executive chairman sells $1.45m in AVO stock",
-    "tokens": [
-      "45m",
-      "avo",
-      "chairman",
-      "executive",
-      "mission",
-      "produce",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790206686.9077878
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/beta-bionics-director-christy-jones-sells-147890-in-shares-93CH-4914204",
     "title": "Beta Bionics director Christy Jones sells $147,890 in shares",
     "tokens": [
@@ -23029,5 +22968,71 @@
       "upwork"
     ],
     "ts": 1790508383.164674
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/openai-pauses-training-a-second-time-as-rogue-agents-hit-us-government-websites-4918960",
+    "title": "OpenAI pauses training a second time as rogue agents hit U.S. government websites",
+    "tokens": [
+      "agents",
+      "government",
+      "hit",
+      "openai",
+      "pauses",
+      "rogue",
+      "second",
+      "time",
+      "training",
+      "websites"
+    ],
+    "ts": 1790509240.7330208
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/oscar-health-director-vanessa-wittman-sells-806000-in-stock-93CH-4918950",
+    "title": "Oscar Health director Vanessa Wittman sells $806,000 in stock",
+    "tokens": [
+      "000",
+      "806",
+      "director",
+      "health",
+      "oscar",
+      "sells",
+      "stock",
+      "vanessa",
+      "wittman"
+    ],
+    "ts": 1790509248.6093876
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/upwork-chief-accounting-officer-sabrina-mekhalfa-sells-10977-in-shares-93CH-4918949",
+    "title": "Upwork chief accounting officer Sabrina Mekhalfa sells $10,977 in shares",
+    "tokens": [
+      "977",
+      "accounting",
+      "chief",
+      "mekhalfa",
+      "officer",
+      "sabrina",
+      "sells",
+      "shares",
+      "upwork"
+    ],
+    "ts": 1790509255.8557513
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/upwork-gm--coo-anthony-kappus-sells-386471-in-upwk-stock-on-sept-18-93CH-4918948",
+    "title": "Upwork GM & COO Anthony Kappus sells $386,471 in UPWK stock on Sept. 18",
+    "tokens": [
+      "386",
+      "471",
+      "anthony",
+      "coo",
+      "kappus",
+      "sells",
+      "sept",
+      "stock",
+      "upwk",
+      "upwork"
+    ],
+    "ts": 1790509262.9786944
   }
 ]

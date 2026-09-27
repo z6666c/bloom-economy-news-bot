@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/abacus-global-director-matthew-ganovsky-sells-176k-in-stock-93CH-4914178",
-    "title": "Abacus global director Matthew Ganovsky sells $176k in stock",
-    "tokens": [
-      "176k",
-      "abacus",
-      "director",
-      "ganovsky",
-      "global",
-      "matthew",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790203904.5047827
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/abacus-global-management-director-sean-mcnealy-sells-175698-in-stock-93CH-4914177",
     "title": "Abacus Global Management director Sean McNealy sells $175,698 in stock",
     "tokens": [
@@ -23025,5 +23010,21 @@
       "stock"
     ],
     "ts": 1790495658.0459957
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/north-korea-tests-swarm-attacks-combining-drones-and-missiles--wsj-4918858",
+    "title": "North Korea tests swarm attacks combining drones and missiles - WSJ",
+    "tokens": [
+      "attacks",
+      "combining",
+      "drones",
+      "korea",
+      "missiles",
+      "north",
+      "swarm",
+      "tests",
+      "wsj"
+    ],
+    "ts": 1790497683.2567823
   }
 ]

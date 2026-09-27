@@ -1,95 +1,5 @@
 [
   {
-    "id": "tax-rises-virtually-inevitable-8bn-131248871.html",
-    "title": "Tax rises ‘virtually inevitable’ after £8bn borrowing blow",
-    "tokens": [
-      "8bn",
-      "blow",
-      "borrowing",
-      "inevitable",
-      "rises",
-      "tax",
-      "virtually"
-    ],
-    "ts": 1790198878.830231
-  },
-  {
-    "id": "WP-MKTW-0005250815",
-    "title": "OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl",
-    "tokens": [
-      "anthropic",
-      "ceos",
-      "delivered",
-      "fears",
-      "just",
-      "message",
-      "openai",
-      "swirl"
-    ],
-    "ts": 1790199627.6745846
-  },
-  {
-    "id": "kali-metals-jx-advanced-metals-132542670.html",
-    "title": "Kali Metals, JX Advanced Metals sign MoU for Southern Lachlan",
-    "tokens": [
-      "advanced",
-      "kali",
-      "lachlan",
-      "metals",
-      "mou",
-      "sign",
-      "southern"
-    ],
-    "ts": 1790199635.3509886
-  },
-  {
-    "id": "WP-MKTW-0005250932",
-    "title": "Is gridlock in Washington actually good for stocks? Here’s what historical market data says.",
-    "tokens": [
-      "actually",
-      "data",
-      "good",
-      "gridlock",
-      "here",
-      "historical",
-      "market",
-      "stocks",
-      "washington",
-      "what"
-    ],
-    "ts": 1790200267.1539912
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/everpure-stock-surges-on-raised-fiscal-2028-revenue-outlook-93CH-4914098",
-    "title": "Everpure stock surges on raised fiscal 2028 revenue outlook",
-    "tokens": [
-      "2028",
-      "everpure",
-      "fiscal",
-      "outlook",
-      "raised",
-      "revenue",
-      "stock",
-      "surges"
-    ],
-    "ts": 1790200275.0649073
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/capital-clean-energy-carriers-holds-annual-shareholder-meeting-93CH-4914095",
-    "title": "Capital Clean Energy Carriers holds annual shareholder meeting",
-    "tokens": [
-      "annual",
-      "capital",
-      "carriers",
-      "clean",
-      "energy",
-      "holds",
-      "meeting",
-      "shareholder"
-    ],
-    "ts": 1790200282.4782465
-  },
-  {
     "id": "https://www.investing.com/news/sec-filings/fg-nexus-acquires-10-million-stake-in-fg-communities-93CH-4914094",
     "title": "FG Nexus acquires $10 million stake in FG Communities",
     "tokens": [
@@ -23026,5 +22936,90 @@
       "stocks"
     ],
     "ts": 1790471431.3635278
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/united-therapeutics-chairperson--ceo-sells-47m-in-stock-93CH-4918698",
+    "title": "United Therapeutics chairperson & CEO sells $4.7m in stock",
+    "tokens": [
+      "ceo",
+      "chairperson",
+      "sells",
+      "stock",
+      "therapeutics",
+      "united"
+    ],
+    "ts": 1790473980.23204
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/nvidia-evp-timothy-teter-sells-678m-in-shares-93CH-4918697",
+    "title": "NVIDIA EVP Timothy Teter sells $6.78m in shares",
+    "tokens": [
+      "78m",
+      "evp",
+      "nvidia",
+      "sells",
+      "shares",
+      "teter",
+      "timothy"
+    ],
+    "ts": 1790473987.6419601
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/hershey-trust-co-sells-505-million-in-hershey-co-stock-93CH-4918695",
+    "title": "Hershey Trust Co. sells $5.05 million in Hershey Co. stock",
+    "tokens": [
+      "hershey",
+      "million",
+      "sells",
+      "stock",
+      "trust"
+    ],
+    "ts": 1790473995.3464441
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/onkure-therapeutics-president-and-ceo-saccomano-sells-258-in-stock-93CH-4918696",
+    "title": "OnKure Therapeutics president and CEO Saccomano sells $258 in stock",
+    "tokens": [
+      "258",
+      "ceo",
+      "onkure",
+      "president",
+      "saccomano",
+      "sells",
+      "stock",
+      "therapeutics"
+    ],
+    "ts": 1790474002.4094043
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/onkure-therapeutics-cfo-jason-leverone-sells-898-in-stock-93CH-4918690",
+    "title": "OnKure Therapeutics CFO Jason Leverone sells $898 in stock",
+    "tokens": [
+      "898",
+      "cfo",
+      "jason",
+      "leverone",
+      "onkure",
+      "sells",
+      "stock",
+      "therapeutics"
+    ],
+    "ts": 1790474009.2709773
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/openai-agents-aggressively-accessed-un-data-website-more-than-16000-times-4918688",
+    "title": "OpenAI agents aggressively accessed UN data website more than 16,000 times",
+    "tokens": [
+      "000",
+      "accessed",
+      "agents",
+      "aggressively",
+      "data",
+      "more",
+      "openai",
+      "times",
+      "website"
+    ],
+    "ts": 1790474016.288683
   }
 ]

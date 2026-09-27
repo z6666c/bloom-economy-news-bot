@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/nexstar-president-broadcasting-alford-sells-467742-stock-93CH-4914269",
-    "title": "Nexstar president, broadcasting Alford sells $467,742 stock.",
-    "tokens": [
-      "467",
-      "742",
-      "alford",
-      "broadcasting",
-      "nexstar",
-      "president",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790211336.4079762
-  },
-  {
     "id": "sazerac-buy-german-spirits-producer-131700836.html",
     "title": "Sazerac to buy German spirits producer Berentzen",
     "tokens": [
@@ -23038,5 +23023,20 @@
       "stock"
     ],
     "ts": 1790532748.1131604
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/kaltura-officer-eynav-azaria-sells-5771-in-common-stock-93CH-4919078",
+    "title": "Kaltura officer Eynav Azaria sells $5,771 in common stock",
+    "tokens": [
+      "771",
+      "azaria",
+      "common",
+      "eynav",
+      "kaltura",
+      "officer",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790533866.3505414
   }
 ]

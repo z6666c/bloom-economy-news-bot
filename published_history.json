@@ -1,53 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-volumes-drive-142-return-on-capital-93CH-4914317",
-    "title": "Fonterra FY26 slides: record volumes drive 14.2% return on capital",
-    "tokens": [
-      "capital",
-      "drive",
-      "fonterra",
-      "fy26",
-      "record",
-      "return",
-      "slides",
-      "volumes"
-    ],
-    "ts": 1790214073.975984
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-volumes-drive-returns-above-target-93CH-4914316",
-    "title": "Fonterra FY26 slides: record volumes drive returns above target",
-    "tokens": [
-      "above",
-      "drive",
-      "fonterra",
-      "fy26",
-      "record",
-      "returns",
-      "slides",
-      "target",
-      "volumes"
-    ],
-    "ts": 1790214077.934606
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-volumes-drive-roc-above-target-range-93CH-4914314",
-    "title": "Fonterra FY26 slides: record volumes drive ROC above target range",
-    "tokens": [
-      "above",
-      "drive",
-      "fonterra",
-      "fy26",
-      "range",
-      "record",
-      "roc",
-      "slides",
-      "target",
-      "volumes"
-    ],
-    "ts": 1790214081.9516618
-  },
-  {
     "id": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-iran-says-it-is-open-to-diplomacy-to-end-the-war-4914308",
     "title": "Oil prices edge lower as Iran says it is open to diplomacy to end the war",
     "tokens": [
@@ -23073,5 +23025,53 @@
       "troendle"
     ],
     "ts": 1790542346.7360413
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/redwood-trust-chro-macomber-buys-19967-in-common-stock-93CH-4919134",
+    "title": "Redwood Trust CHRO Macomber buys $19,967 in common stock",
+    "tokens": [
+      "967",
+      "buys",
+      "chro",
+      "common",
+      "macomber",
+      "redwood",
+      "stock",
+      "trust"
+    ],
+    "ts": 1790543419.4018886
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/butler-national-corp-director-joseph-daly-buys-16400-in-shares-93CH-4919135",
+    "title": "Butler National Corp director Joseph Daly buys $16,400 in shares",
+    "tokens": [
+      "400",
+      "butler",
+      "buys",
+      "corp",
+      "daly",
+      "director",
+      "joseph",
+      "national",
+      "shares"
+    ],
+    "ts": 1790543426.386401
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/barclays-sees-lasting-labormarket-pressures-as-immigration-slows-population-ages-4919127",
+    "title": "Barclays sees lasting labor-market pressures as immigration slows, population ages",
+    "tokens": [
+      "ages",
+      "barclays",
+      "immigration",
+      "labor",
+      "lasting",
+      "market",
+      "population",
+      "pressures",
+      "sees",
+      "slows"
+    ],
+    "ts": 1790543433.9465792
   }
 ]

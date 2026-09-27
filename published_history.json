@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/oracle-evp-maria-smith-sells-399122-in-orcl-stock-93CH-4914229",
-    "title": "Oracle EVP Maria Smith sells $399,122 in ORCL stock",
-    "tokens": [
-      "122",
-      "399",
-      "evp",
-      "maria",
-      "oracle",
-      "orcl",
-      "sells",
-      "smith",
-      "stock"
-    ],
-    "ts": 1790208913.7288148
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/solus-alternative-asset-management-sells-54782-in-bristow-group-stock-93CH-4914228",
     "title": "Solus alternative asset management sells $54,782 in Bristow Group stock",
     "tokens": [
@@ -23028,5 +23012,21 @@
       "stock"
     ],
     "ts": 1790515578.783566
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/how-might-a-us-fiscal-crisis-unfold-capital-economics-charts-the-path-4919024",
+    "title": "How might a U.S. fiscal crisis unfold? Capital Economics charts the path",
+    "tokens": [
+      "capital",
+      "charts",
+      "crisis",
+      "economics",
+      "fiscal",
+      "how",
+      "might",
+      "path",
+      "unfold"
+    ],
+    "ts": 1790517126.7789297
   }
 ]

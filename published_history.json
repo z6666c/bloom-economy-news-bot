@@ -1,38 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/australian-shares-hit-over-3month-low-as-oil-rally-revives-inflation-worries-4914329",
-    "title": "Australian shares hit over 3-month low as oil rally revives inflation worries",
-    "tokens": [
-      "australian",
-      "hit",
-      "inflation",
-      "low",
-      "month",
-      "oil",
-      "rally",
-      "revives",
-      "shares",
-      "worries"
-    ],
-    "ts": 1790214857.8367317
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-atomo-diagnostics-posts-strong-h2-2026-growth-93CH-4914322",
-    "title": "Earnings call transcript: Atomo Diagnostics posts strong H2 2026 growth",
-    "tokens": [
-      "2026",
-      "atomo",
-      "call",
-      "diagnostics",
-      "earnings",
-      "growth",
-      "posts",
-      "strong",
-      "transcript"
-    ],
-    "ts": 1790214865.6385233
-  },
-  {
     "id": "apple-overtake-nvidia-worlds-most-142000889.html",
     "title": "Can Apple Overtake NVIDIA as the World's Most Valuable Company?",
     "tokens": [
@@ -23080,5 +23047,38 @@
       "turnaround"
     ],
     "ts": 1790551512.3475986
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/synlait-fy26-slides-detail-turnaround-progress-operational-gains-93CH-4919201",
+    "title": "Synlait FY26 slides detail turnaround progress, operational gains",
+    "tokens": [
+      "detail",
+      "fy26",
+      "gains",
+      "operational",
+      "progress",
+      "slides",
+      "synlait",
+      "turnaround"
+    ],
+    "ts": 1790552340.4730375
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-10-owner-buys-351-in-texas-pacific-land-stock-93CH-4919200",
+    "title": "Horizon Kinetics asset management, 10% owner, buys $351 in Texas Pacific Land stock",
+    "tokens": [
+      "351",
+      "asset",
+      "buys",
+      "horizon",
+      "kinetics",
+      "land",
+      "management",
+      "owner",
+      "pacific",
+      "stock",
+      "texas"
+    ],
+    "ts": 1790552344.4853327
   }
 ]

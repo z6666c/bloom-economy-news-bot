@@ -1,39 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/beta-bionics-director-christy-jones-sells-147890-in-shares-93CH-4914204",
-    "title": "Beta Bionics director Christy Jones sells $147,890 in shares",
-    "tokens": [
-      "147",
-      "890",
-      "beta",
-      "bionics",
-      "christy",
-      "director",
-      "jones",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790206694.1350646
-  },
-  {
-    "id": "nvidia-just-gave-einride-stock-154207385.html",
-    "title": "Nvidia Just Gave Einride Stock a Big Boost. How to Play ENRD Here.",
-    "tokens": [
-      "big",
-      "boost",
-      "einride",
-      "enrd",
-      "gave",
-      "here",
-      "how",
-      "just",
-      "nvidia",
-      "play",
-      "stock"
-    ],
-    "ts": 1790206701.8411596
-  },
-  {
     "id": "crude-oil-prices-pressured-diplomatic-154210848.html",
     "title": "Crude Oil Prices Pressured by Diplomatic Hopes in the Middle East",
     "tokens": [
@@ -23034,5 +23000,35 @@
       "upwork"
     ],
     "ts": 1790509262.9786944
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/juniper-investment-company-sells-273m-of-orthofix-medical-shares-93CH-4918965",
+    "title": "Juniper investment company sells $2.73m of Orthofix Medical shares",
+    "tokens": [
+      "73m",
+      "company",
+      "investment",
+      "juniper",
+      "medical",
+      "orthofix",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790509939.761787
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/phreesia-general-counsel-allison-hoffman-disposes-of-67k-in-stock-93CH-4918964",
+    "title": "Phreesia general counsel Allison Hoffman disposes of $67k in stock",
+    "tokens": [
+      "67k",
+      "allison",
+      "counsel",
+      "disposes",
+      "general",
+      "hoffman",
+      "phreesia",
+      "stock"
+    ],
+    "ts": 1790509943.2175424
   }
 ]

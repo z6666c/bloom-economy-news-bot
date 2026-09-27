@@ -1,40 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/rimini-street-evp-david-rowe-sells-21294-in-taxrelated-stock-93CH-4914140",
-    "title": "Rimini Street EVP David Rowe sells $21,294 in tax-related stock",
-    "tokens": [
-      "294",
-      "david",
-      "evp",
-      "related",
-      "rimini",
-      "rowe",
-      "sells",
-      "stock",
-      "street",
-      "tax"
-    ],
-    "ts": 1790203216.409933
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/billiontoone-svp-john-ten-bosch-sells-150959-of-class-a-common-stock-93CH-4914141",
-    "title": "BillionToOne SVP John ten Bosch sells $150,959 of class A common stock",
-    "tokens": [
-      "150",
-      "959",
-      "billiontoone",
-      "bosch",
-      "class",
-      "common",
-      "john",
-      "sells",
-      "stock",
-      "svp",
-      "ten"
-    ],
-    "ts": 1790203223.5647497
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/teslas-supervised-selfdriving-system-often-misreads-speed-limits-belgian-safety-group-finds-4914134",
     "title": "Tesla’s supervised self-driving system often misreads speed limits, Belgian safety group finds",
     "tokens": [
@@ -23022,5 +22987,39 @@
       "shares"
     ],
     "ts": 1790492182.7135017
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-buys-361-of-texas-pacific-land-stock-93CH-4918840",
+    "title": "Horizon Kinetics Asset Management buys $361 of Texas Pacific Land stock",
+    "tokens": [
+      "361",
+      "asset",
+      "buys",
+      "horizon",
+      "kinetics",
+      "land",
+      "management",
+      "pacific",
+      "stock",
+      "texas"
+    ],
+    "ts": 1790493128.2449403
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/how-ai-shopping-agents-could-reshape-hardline-broadline-and-food-retail--ubs-4918839",
+    "title": "How AI shopping agents could reshape hardline, broadline and food retail - UBS",
+    "tokens": [
+      "agents",
+      "broadline",
+      "could",
+      "food",
+      "hardline",
+      "how",
+      "reshape",
+      "retail",
+      "shopping",
+      "ubs"
+    ],
+    "ts": 1790493135.8367121
   }
 ]

@@ -1,64 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/knife-river-responds-to-starboard-value-investment-letter-93CH-4915928",
-    "title": "Knife River responds to Starboard Value investment letter",
-    "tokens": [
-      "investment",
-      "knife",
-      "letter",
-      "responds",
-      "river",
-      "starboard",
-      "value"
-    ],
-    "ts": 1790270813.0630553
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/belden-to-manufacture-ruckus-switches-at-india-facility-93CH-4915927",
-    "title": "Belden to manufacture RUCKUS switches at India facility",
-    "tokens": [
-      "belden",
-      "facility",
-      "india",
-      "manufacture",
-      "ruckus",
-      "switches"
-    ],
-    "ts": 1790270820.5961924
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bmo-cuts-acadia-pharmaceuticals-stock-price-target-on-trial-miss-93CH-4915926",
-    "title": "BMO cuts Acadia Pharmaceuticals stock price target on trial miss",
-    "tokens": [
-      "acadia",
-      "bmo",
-      "cuts",
-      "miss",
-      "pharmaceuticals",
-      "price",
-      "stock",
-      "target",
-      "trial"
-    ],
-    "ts": 1790270828.5497491
-  },
-  {
-    "id": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit",
-    "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
-    "tokens": [
-      "crypto",
-      "dwf",
-      "edge",
-      "fade",
-      "loses",
-      "model",
-      "premiums",
-      "stock",
-      "treasury"
-    ],
-    "ts": 1790270837.5395813
-  },
-  {
     "id": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc",
     "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
     "tokens": [
@@ -22977,5 +22918,66 @@
       "mining"
     ],
     "ts": 1790638064.0938673
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/hennessy-advisors-director-thomas-seavey-sells-19031-in-shares-93CH-4921414",
+    "title": "Hennessy Advisors director Thomas Seavey sells $19,031 in shares",
+    "tokens": [
+      "031",
+      "advisors",
+      "director",
+      "hennessy",
+      "seavey",
+      "sells",
+      "shares",
+      "thomas"
+    ],
+    "ts": 1790639676.41319
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/first-atlantic-nickel-closes-38m-financing-for-drilling-93CH-4921403",
+    "title": "First Atlantic Nickel closes $3.8M financing for drilling",
+    "tokens": [
+      "atlantic",
+      "closes",
+      "drilling",
+      "financing",
+      "first",
+      "nickel"
+    ],
+    "ts": 1790639684.3234184
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/ivanhoe-mines-at-mining-forum-americas-2026-copper-critical-metals-93CH-4921402",
+    "title": "Ivanhoe Mines at Mining Forum Americas 2026: copper, critical metals",
+    "tokens": [
+      "2026",
+      "americas",
+      "copper",
+      "critical",
+      "forum",
+      "ivanhoe",
+      "metals",
+      "mines",
+      "mining"
+    ],
+    "ts": 1790639691.851045
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/goldman-sachs-board-discussed-plan-to-name-waldron-as-next-ceo-wsj-4921389",
+    "title": "Goldman Sachs board discussed plan to name Waldron as next CEO- WSJ",
+    "tokens": [
+      "board",
+      "ceo",
+      "discussed",
+      "goldman",
+      "name",
+      "next",
+      "plan",
+      "sachs",
+      "waldron",
+      "wsj"
+    ],
+    "ts": 1790639699.4212718
   }
 ]

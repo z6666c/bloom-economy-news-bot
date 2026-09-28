@@ -1,122 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005249061",
-    "title": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
-    "tokens": [
-      "500",
-      "could",
-      "drive",
-      "here",
-      "market",
-      "nearly",
-      "next",
-      "perfection",
-      "priced",
-      "slump",
-      "stock",
-      "what",
-      "year"
-    ],
-    "ts": 1790249243.8623183
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/blackberry-lifts-annual-revenue-forecast-on-strength-in-automotive-software-business-4915045",
-    "title": "BlackBerry lifts annual revenue forecast on strength in automotive software business",
-    "tokens": [
-      "annual",
-      "automotive",
-      "blackberry",
-      "business",
-      "forecast",
-      "lifts",
-      "revenue",
-      "software",
-      "strength"
-    ],
-    "ts": 1790249251.803547
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/metas-charm-gadget-carries-ceo-zuckerbergs-big-ai-ambitions-4914409",
-    "title": "Meta’s Charm gadget carries CEO Zuckerberg’s big AI ambitions",
-    "tokens": [
-      "ambitions",
-      "big",
-      "carries",
-      "ceo",
-      "charm",
-      "gadget",
-      "meta",
-      "zuckerberg"
-    ],
-    "ts": 1790249259.1262803
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/starbucks-to-close-about-1-of-coffeehouses-in-north-america-4915076",
-    "title": "Starbucks to close about 1% of coffeehouses in North America",
-    "tokens": [
-      "about",
-      "america",
-      "close",
-      "coffeehouses",
-      "north",
-      "starbucks"
-    ],
-    "ts": 1790249268.2086146
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bofa-initiates-mge-energy-stock-coverage-with-neutral-rating-93CH-4915075",
-    "title": "BofA initiates MGE Energy stock coverage with neutral rating",
-    "tokens": [
-      "bofa",
-      "coverage",
-      "energy",
-      "initiates",
-      "mge",
-      "neutral",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790249275.621996
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/td-synnex-earnings-beat-by-104-revenue-topped-estimates-4915074",
-    "title": "TD Synnex earnings beat by $1.04, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "earnings",
-      "estimates",
-      "revenue",
-      "synnex",
-      "topped"
-    ],
-    "ts": 1790249279.6379907
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-grail-stock-surging-today-93CH-4915071",
-    "title": "Why is Grail stock surging today?",
-    "tokens": [
-      "grail",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790249279.6529846
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-darden-restaurants-stock-sliding-today-93CH-4915067",
-    "title": "Why is Darden Restaurants stock sliding today?",
-    "tokens": [
-      "darden",
-      "restaurants",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790249279.669346
-  },
-  {
     "id": "https://www.investing.com/news/earnings/darden-restaurants-falls-as-q1-revenue-misses-expectations-4915066",
     "title": "Darden Restaurants falls as Q1 revenue misses expectations",
     "tokens": [
@@ -22984,5 +22867,126 @@
       "what"
     ],
     "ts": 1790607882.7424746
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ecb-eyes-new-currency-safety-nets-to-boost-euros-global-role-4920819",
+    "title": "ECB eyes new currency safety nets to boost euro’s global role",
+    "tokens": [
+      "boost",
+      "currency",
+      "ecb",
+      "euro",
+      "eyes",
+      "global",
+      "nets",
+      "role",
+      "safety"
+    ],
+    "ts": 1790609473.8884175
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/joan-a-binstock-appointed-to-spdr-gold-trust-board-and-audit-committee-93CH-4920818",
+    "title": "Joan A. Binstock appointed to SPDR Gold Trust board and audit committee",
+    "tokens": [
+      "appointed",
+      "audit",
+      "binstock",
+      "board",
+      "committee",
+      "gold",
+      "joan",
+      "spdr",
+      "trust"
+    ],
+    "ts": 1790609482.952329
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-openai-will-not-attend-australian-senate-ai-hearing-on-october-1-4920817",
+    "title": "Anthropic, OpenAI will not attend Australian senate AI hearing on October 1",
+    "tokens": [
+      "anthropic",
+      "attend",
+      "australian",
+      "hearing",
+      "october",
+      "openai",
+      "senate"
+    ],
+    "ts": 1790609493.036752
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/world-gold-trust-appoints-joan-a-binstock-to-board-and-audit-committee-93CH-4920815",
+    "title": "World Gold Trust appoints Joan A. Binstock to board and audit committee",
+    "tokens": [
+      "appoints",
+      "audit",
+      "binstock",
+      "board",
+      "committee",
+      "gold",
+      "joan",
+      "trust",
+      "world"
+    ],
+    "ts": 1790609497.052743
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/rocket-companies-stock-hits-52week-low-at-1147-usd-93CH-4920814",
+    "title": "Rocket Companies stock hits 52-week low at 11.47 USD",
+    "tokens": [
+      "companies",
+      "hits",
+      "low",
+      "rocket",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790609502.3417308
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/wesbanco-stock-hits-52week-low-at-250-usd-93CH-4920813",
+    "title": "WesBanco stock hits 52-week low at 25.0 USD",
+    "tokens": [
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week",
+      "wesbanco"
+    ],
+    "ts": 1790609506.3574772
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/evonik-rejects-117-billion-basf-takeover-bid-sources-say-4920812",
+    "title": "Evonik rejects $11.7 billion BASF takeover bid, sources say",
+    "tokens": [
+      "basf",
+      "bid",
+      "billion",
+      "evonik",
+      "rejects",
+      "say",
+      "sources",
+      "takeover"
+    ],
+    "ts": 1790609511.2551246
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/oregon-commission-issues-order-on-portland-general-electric-holding-company-plan-93CH-4920811",
+    "title": "Oregon commission issues order on Portland General Electric holding company plan",
+    "tokens": [
+      "commission",
+      "company",
+      "electric",
+      "general",
+      "holding",
+      "issues",
+      "order",
+      "oregon",
+      "plan",
+      "portland"
+    ],
+    "ts": 1790609519.8318646
   }
 ]

@@ -1,184 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005251183",
-    "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
-    "tokens": [
-      "aging",
-      "bad",
-      "decision",
-      "father",
-      "hard",
-      "how",
-      "learned",
-      "made",
-      "manage",
-      "money",
-      "way"
-    ],
-    "ts": 1790242143.7713406
-  },
-  {
-    "id": "WP-MKTW-0005251333",
-    "title": "Meta gets price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
-    "tokens": [
-      "agent",
-      "application",
-      "become",
-      "boost",
-      "chatgpt",
-      "gets",
-      "jpmorgan",
-      "meta",
-      "muse",
-      "potential",
-      "price",
-      "since",
-      "target",
-      "top"
-    ],
-    "ts": 1790242151.3426309
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-oracle-japan-posts-strong-q1-2026-cloud-growth-93CH-4914700",
-    "title": "Earnings call transcript: Oracle Japan posts strong Q1 2026 cloud growth",
-    "tokens": [
-      "2026",
-      "call",
-      "cloud",
-      "earnings",
-      "growth",
-      "japan",
-      "oracle",
-      "posts",
-      "strong",
-      "transcript"
-    ],
-    "ts": 1790242158.6226494
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-living-reit-posts-steady-h1-2026-growth-as-shares-slip-93CH-4914699",
-    "title": "Earnings call transcript: Living REIT posts steady H1 2026 growth as shares slip",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "growth",
-      "living",
-      "posts",
-      "reit",
-      "shares",
-      "slip",
-      "steady",
-      "transcript"
-    ],
-    "ts": 1790242165.7660823
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-booking-holdings-stock-rating-amid-airbnb-concerns-93CH-4914698",
-    "title": "Citizens reiterates Booking Holdings stock rating amid Airbnb concerns",
-    "tokens": [
-      "airbnb",
-      "booking",
-      "citizens",
-      "concerns",
-      "holdings",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790242172.491721
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/banco-de-sabadell-at-bank-of-america-conference-spain-drives-growth-93CH-4914696",
-    "title": "Banco de Sabadell at Bank of America conference: Spain drives growth",
-    "tokens": [
-      "america",
-      "banco",
-      "bank",
-      "conference",
-      "drives",
-      "growth",
-      "sabadell",
-      "spain"
-    ],
-    "ts": 1790242180.0825877
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/amazon-to-pour-3-billion-into-india-quick-commerce-push--report-93CH-4914694",
-    "title": "Amazon to pour $3 billion into India quick commerce push - report",
-    "tokens": [
-      "amazon",
-      "billion",
-      "commerce",
-      "india",
-      "pour",
-      "push",
-      "quick",
-      "report"
-    ],
-    "ts": 1790242187.6091645
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-cvs-group-h2-2026-profit-rises-as-shares-fall-93CH-4914693",
-    "title": "Earnings call transcript: CVS Group H2 2026 profit rises as shares fall",
-    "tokens": [
-      "2026",
-      "call",
-      "cvs",
-      "earnings",
-      "fall",
-      "group",
-      "profit",
-      "rises",
-      "shares",
-      "transcript"
-    ],
-    "ts": 1790242194.4465368
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiveamazon-bets-3-billion-on-indias-fastdelivery-boom-sources-say-4914641",
-    "title": "Exclusive-Amazon bets $3 billion on India’s fast-delivery boom, sources say",
-    "tokens": [
-      "amazon",
-      "bets",
-      "billion",
-      "boom",
-      "delivery",
-      "exclusive",
-      "fast",
-      "india",
-      "say",
-      "sources"
-    ],
-    "ts": 1790242203.6182904
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ofcom-launches-probes-into-vonage-and-voxbone-over-scam-risks-93CH-4914692",
-    "title": "Ofcom launches probes into Vonage and Voxbone over scam risks",
-    "tokens": [
-      "launches",
-      "ofcom",
-      "probes",
-      "risks",
-      "scam",
-      "vonage",
-      "voxbone"
-    ],
-    "ts": 1790242210.714836
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-shelly-stock-surging-today-93CH-4914686",
-    "title": "Why is Shelly stock surging today?",
-    "tokens": [
-      "shelly",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790242214.7300644
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-spruce-biosciences-stock-rating-on-therapy-lead-93CH-4914685",
     "title": "Citizens reiterates Spruce Biosciences stock rating on therapy lead",
     "tokens": [
@@ -23042,5 +22863,172 @@
       "withdrawals"
     ],
     "ts": 1790595118.8519342
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-incyte-stock-price-target-on-atebrioz-approval-93CH-4920049",
+    "title": "H.C. Wainwright raises Incyte stock price target on Atebrioz approval",
+    "tokens": [
+      "approval",
+      "atebrioz",
+      "incyte",
+      "price",
+      "raises",
+      "stock",
+      "target",
+      "wainwright"
+    ],
+    "ts": 1790596535.876235
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/william-blair-downgrades-acuity-brands-stock-rating-on-muted-lighting-market-93CH-4920050",
+    "title": "William Blair downgrades Acuity Brands stock rating on muted lighting market",
+    "tokens": [
+      "acuity",
+      "blair",
+      "brands",
+      "downgrades",
+      "lighting",
+      "market",
+      "muted",
+      "rating",
+      "stock",
+      "william"
+    ],
+    "ts": 1790596544.1107142
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-legend-biotech-stock-rating-on-durability-data-93CH-4920048",
+    "title": "H.C. Wainwright reiterates Legend Biotech stock rating on durability data",
+    "tokens": [
+      "biotech",
+      "data",
+      "durability",
+      "legend",
+      "rating",
+      "reiterates",
+      "stock",
+      "wainwright"
+    ],
+    "ts": 1790596551.5173414
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/acadia-pharmaceuticals-stock-price-target-lowered-to-33-by-hc-wainwright-93CH-4920047",
+    "title": "Acadia Pharmaceuticals stock price target lowered to $33 by H.C. Wainwright",
+    "tokens": [
+      "acadia",
+      "lowered",
+      "pharmaceuticals",
+      "price",
+      "stock",
+      "target",
+      "wainwright"
+    ],
+    "ts": 1790596559.19169
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/northland-initiates-mbody-ai-stock-coverage-with-outperform-rating-93CH-4920045",
+    "title": "Northland initiates MBody AI stock coverage with outperform rating",
+    "tokens": [
+      "coverage",
+      "initiates",
+      "mbody",
+      "northland",
+      "outperform",
+      "rating",
+      "stock"
+    ],
+    "ts": 1790596567.0590744
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-tyler-technologies-stock-price-target-on-valuation-93CH-4920044",
+    "title": "Piper Sandler cuts Tyler Technologies stock price target on valuation",
+    "tokens": [
+      "cuts",
+      "piper",
+      "price",
+      "sandler",
+      "stock",
+      "target",
+      "technologies",
+      "tyler",
+      "valuation"
+    ],
+    "ts": 1790596575.0194228
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/slate-grocery-reit-agrees-to-23-billion-buyout-at-13-per-unit-93CH-4920043",
+    "title": "Slate Grocery REIT agrees to $2.3 billion buyout at $13 per unit",
+    "tokens": [
+      "agrees",
+      "billion",
+      "buyout",
+      "grocery",
+      "per",
+      "reit",
+      "slate",
+      "unit"
+    ],
+    "ts": 1790596582.2757847
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/transdigm-completes-107-billion-prince--izant-acquisition-93CH-4920042",
+    "title": "TransDigm completes $1.07 billion Prince & Izant acquisition",
+    "tokens": [
+      "acquisition",
+      "billion",
+      "completes",
+      "izant",
+      "prince",
+      "transdigm"
+    ],
+    "ts": 1790596590.6449382
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/canadian-stock-futures-slip-as-markets-gear-up-for-heavydata-week-4920037",
+    "title": "Canadian stock futures slip as markets gear up for heavy-data week",
+    "tokens": [
+      "canadian",
+      "data",
+      "futures",
+      "gear",
+      "heavy",
+      "markets",
+      "slip",
+      "stock",
+      "week"
+    ],
+    "ts": 1790596597.9051602
+  },
+  {
+    "id": "b32182ee-a497-4031-8e0f-3f3156a1dc2f",
+    "title": "Traders aren't panicking yet despite cooling crypto sentiment",
+    "tokens": [
+      "aren",
+      "cooling",
+      "crypto",
+      "despite",
+      "panicking",
+      "sentiment",
+      "traders",
+      "yet"
+    ],
+    "ts": 1790596607.5588906
+  },
+  {
+    "id": "9b64acb6-ebeb-44bf-b40f-0b033b2ebf54",
+    "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
+    "tokens": [
+      "brings",
+      "bybit",
+      "collateral",
+      "crypto",
+      "franklin",
+      "friendly",
+      "institution",
+      "service",
+      "templeton",
+      "tokenized"
+    ],
+    "ts": 1790596614.5393288
   }
 ]

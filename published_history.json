@@ -1,79 +1,5 @@
 [
   {
-    "id": "why-crane-co-cr-among-163509000.html",
-    "title": "Why Crane Co. (CR) Was Among Gabelli’s Top Q2 Performers",
-    "tokens": [
-      "among",
-      "crane",
-      "gabelli",
-      "performers",
-      "top",
-      "why"
-    ],
-    "ts": 1790223167.2212598
-  },
-  {
-    "id": "u-m2-money-supply-recently-162000876.html",
-    "title": "U.S. M2 Money Supply Recently Grew at the Fastest Pace Seen in 3 Years. It Could Be an Ominous Sign With Inflation at 3.4%.",
-    "tokens": [
-      "could",
-      "fastest",
-      "grew",
-      "inflation",
-      "money",
-      "ominous",
-      "pace",
-      "recently",
-      "seen",
-      "sign",
-      "supply",
-      "years"
-    ],
-    "ts": 1790223174.9180386
-  },
-  {
-    "id": "why-myers-industries-mye-top-163520531.html",
-    "title": "Why Myers Industries (MYE) Was a Top Performer for Gabelli in Q2",
-    "tokens": [
-      "gabelli",
-      "industries",
-      "mye",
-      "myers",
-      "performer",
-      "top",
-      "why"
-    ],
-    "ts": 1790223182.367433
-  },
-  {
-    "id": "why-graco-ggg-q2-detractor-163529754.html",
-    "title": "Why Graco (GGG) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
-    "tokens": [
-      "cap",
-      "detractor",
-      "fund",
-      "gabelli",
-      "ggg",
-      "graco",
-      "growth",
-      "small",
-      "why"
-    ],
-    "ts": 1790223189.5687664
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-nec-stock-gaining-today-93CH-4914404",
-    "title": "Why is NEC stock gaining today?",
-    "tokens": [
-      "gaining",
-      "nec",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790224142.4545448
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/japans-katayama-says-principles-of-japanus-fx-intervention-remain-in-place-4914402",
     "title": "Japan’s Katayama says principles of Japan-US FX intervention remain in place",
     "tokens": [
@@ -23054,5 +22980,83 @@
       "star"
     ],
     "ts": 1790565164.0011587
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/rba-preview-september-25-bps-widely-expected-as-inflation-risks-grow-4919297",
+    "title": "RBA preview September: 25 bps widely expected as inflation risks grow",
+    "tokens": [
+      "bps",
+      "expected",
+      "grow",
+      "inflation",
+      "preview",
+      "rba",
+      "risks",
+      "september",
+      "widely"
+    ],
+    "ts": 1790566249.471302
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-chip-stocks-slide-as-openai-pause-revives-ai-slowdown-fears-4919296",
+    "title": "Asia chip stocks slide as OpenAI pause revives AI slowdown fears",
+    "tokens": [
+      "asia",
+      "chip",
+      "fears",
+      "openai",
+      "pause",
+      "revives",
+      "slide",
+      "slowdown",
+      "stocks"
+    ],
+    "ts": 1790566258.6938903
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australias-northern-star-rejects-27-billion-takeover-approach-from-gold-fields-4919295",
+    "title": "Australia’s Northern Star rejects $27 billion takeover approach from Gold Fields",
+    "tokens": [
+      "approach",
+      "australia",
+      "billion",
+      "fields",
+      "gold",
+      "northern",
+      "rejects",
+      "star",
+      "takeover"
+    ],
+    "ts": 1790566266.8933053
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/australia-posts-budget-deficit-of-157-billion-for-202526-financial-year-4919294",
+    "title": "Australia posts budget deficit of $15.7 billion for 2025/26 financial year",
+    "tokens": [
+      "2025",
+      "australia",
+      "billion",
+      "budget",
+      "deficit",
+      "financial",
+      "posts",
+      "year"
+    ],
+    "ts": 1790566274.8490913
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/china-says-us-trade-truce-extension-creates-space-to-advance-talks-4919293",
+    "title": "China says US trade truce extension creates space to advance talks",
+    "tokens": [
+      "advance",
+      "china",
+      "creates",
+      "extension",
+      "space",
+      "talks",
+      "trade",
+      "truce"
+    ],
+    "ts": 1790566282.8953857
   }
 ]

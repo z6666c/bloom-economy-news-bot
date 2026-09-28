@@ -1,190 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-nice-systems-stock-price-target-on-ai-opportunity-93CH-4915673",
-    "title": "RBC Capital raises NICE Systems stock price target on AI opportunity",
-    "tokens": [
-      "capital",
-      "nice",
-      "opportunity",
-      "price",
-      "raises",
-      "rbc",
-      "stock",
-      "systems",
-      "target"
-    ],
-    "ts": 1790260228.1543653
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/blackrock-corporate-high-yield-fund-stock-hits-52week-low-at-777-93CH-4915672",
-    "title": "BlackRock Corporate High Yield Fund stock hits 52-week low at $7.77",
-    "tokens": [
-      "blackrock",
-      "corporate",
-      "fund",
-      "high",
-      "hits",
-      "low",
-      "stock",
-      "week",
-      "yield"
-    ],
-    "ts": 1790260236.1386929
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/teucrium-commodity-trust-increases-outstanding-shares-of-bitcoin-and-carbon-credit-etf-93CH-4915671",
-    "title": "Teucrium Commodity Trust increases outstanding shares of bitcoin and carbon credit ETF",
-    "tokens": [
-      "bitcoin",
-      "carbon",
-      "commodity",
-      "credit",
-      "etf",
-      "increases",
-      "outstanding",
-      "shares",
-      "teucrium",
-      "trust"
-    ],
-    "ts": 1790260244.040378
-  },
-  {
-    "id": "WP-MKTW-0005248323",
-    "title": "Everyone knows Social Security and Medicare are on the ropes. Here’s what to do instead of panicking.",
-    "tokens": [
-      "everyone",
-      "here",
-      "instead",
-      "knows",
-      "medicare",
-      "panicking",
-      "ropes",
-      "security",
-      "social",
-      "what"
-    ],
-    "ts": 1790261252.730749
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hafnia-stock-falls-after-increasing-stake-in-torm-to-1985-4915725",
-    "title": "Hafnia stock falls after increasing stake in Torm to 19.85%",
-    "tokens": [
-      "falls",
-      "hafnia",
-      "increasing",
-      "stake",
-      "stock",
-      "torm"
-    ],
-    "ts": 1790261260.9336374
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/artiva-biotherapeutics-at-stifel-forum-nk-cell-therapy-gains-traction-93CH-4915723",
-    "title": "Artiva Biotherapeutics at Stifel forum: nk cell therapy gains traction",
-    "tokens": [
-      "artiva",
-      "biotherapeutics",
-      "cell",
-      "forum",
-      "gains",
-      "stifel",
-      "therapy",
-      "traction"
-    ],
-    "ts": 1790261269.1522985
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/new-york-sues-polymarket-says-it-ran-illegal-gambling-operation-4915722",
-    "title": "New York sues Polymarket, says it ran illegal gambling operation",
-    "tokens": [
-      "gambling",
-      "illegal",
-      "operation",
-      "polymarket",
-      "ran",
-      "sues",
-      "york"
-    ],
-    "ts": 1790261278.024031
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/nuveen-amt-free-municipal-credit-income-stock-hits-52week-low-at-1104-93CH-4915721",
-    "title": "Nuveen AMT Free Municipal Credit Income stock hits 52-week low at $11.04",
-    "tokens": [
-      "amt",
-      "credit",
-      "free",
-      "hits",
-      "income",
-      "low",
-      "municipal",
-      "nuveen",
-      "stock",
-      "week"
-    ],
-    "ts": 1790261282.0400057
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/oracle-synnex-among-market-cap-stock-movers-on-thursday-93CH-4915720",
-    "title": "Oracle, Synnex among market cap stock movers on Thursday",
-    "tokens": [
-      "among",
-      "cap",
-      "market",
-      "movers",
-      "oracle",
-      "stock",
-      "synnex",
-      "thursday"
-    ],
-    "ts": 1790261286.2893937
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-iofina-posts-stronger-h1-2026-profit-and-growth-plans-93CH-4915719",
-    "title": "Earnings call transcript: Iofina posts stronger H1 2026 profit and growth plans",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "growth",
-      "iofina",
-      "plans",
-      "posts",
-      "profit",
-      "stronger",
-      "transcript"
-    ],
-    "ts": 1790261294.8512473
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/estithmar-holding-secures-approval-for-sukuk-exchange-offer-93CH-4915718",
-    "title": "Estithmar Holding secures approval for sukuk exchange offer",
-    "tokens": [
-      "approval",
-      "estithmar",
-      "exchange",
-      "holding",
-      "offer",
-      "secures",
-      "sukuk"
-    ],
-    "ts": 1790261302.973707
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bmo-reiterates-meta-stock-rating-on-vr-glasses-announcement-93CH-4915717",
-    "title": "BMO reiterates Meta stock rating on VR glasses announcement",
-    "tokens": [
-      "announcement",
-      "bmo",
-      "glasses",
-      "meta",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790261311.4854348
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/tigress-financial-raises-meta-stock-price-target-on-ai-growth-93CH-4915716",
     "title": "Tigress Financial raises Meta stock price target on AI growth",
     "tokens": [
@@ -23000,5 +22815,187 @@
       "tesla"
     ],
     "ts": 1790625311.551428
+  },
+  {
+    "id": "WP-MKTW-0005257172",
+    "title": "Before you invest in the Oura IPO, understand what you’re buying",
+    "tokens": [
+      "before",
+      "buying",
+      "invest",
+      "ipo",
+      "oura",
+      "understand",
+      "what",
+      "you"
+    ],
+    "ts": 1790626205.9715483
+  },
+  {
+    "id": "WP-MKTW-0005257414",
+    "title": "October is historically the most volatile month for stocks. But why? These 4 popular theories fail to hold up.",
+    "tokens": [
+      "fail",
+      "historically",
+      "hold",
+      "month",
+      "most",
+      "october",
+      "popular",
+      "stocks",
+      "theories",
+      "these",
+      "volatile",
+      "why"
+    ],
+    "ts": 1790626212.4842854
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/manus-launches-ai-agent-platform-as-startup-expands-tools-93CH-4921041",
+    "title": "Manus launches AI agent platform as startup expands tools",
+    "tokens": [
+      "agent",
+      "expands",
+      "launches",
+      "manus",
+      "platform",
+      "startup",
+      "tools"
+    ],
+    "ts": 1790626219.3533416
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/blockchaincom-eyes-500m-ipo-at-up-to-6b-valuation-bloomberg-reports-4921038",
+    "title": "Blockchain.com eyes $500M IPO at up to $6B valuation, Bloomberg reports",
+    "tokens": [
+      "500m",
+      "blockchain",
+      "bloomberg",
+      "com",
+      "eyes",
+      "ipo",
+      "reports",
+      "valuation"
+    ],
+    "ts": 1790626227.5345726
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/corn-futures-fall-on-soybean-weakness-and-stronger-dollar-93CH-4921037",
+    "title": "Corn futures fall on soybean weakness and stronger dollar",
+    "tokens": [
+      "corn",
+      "dollar",
+      "fall",
+      "futures",
+      "soybean",
+      "stronger",
+      "weakness"
+    ],
+    "ts": 1790626234.4855876
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/soybean-futures-fall-as-uschina-deal-excludes-key-crop-93CH-4921036",
+    "title": "Soybean futures fall as US-China deal excludes key crop",
+    "tokens": [
+      "china",
+      "crop",
+      "deal",
+      "excludes",
+      "fall",
+      "futures",
+      "key",
+      "soybean"
+    ],
+    "ts": 1790626241.7984247
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/pfizer-biontech-and-moderna-lose-bid-to-dismiss-bayer-patent-case-93CH-4921035",
+    "title": "Pfizer, BioNTech and Moderna lose bid to dismiss Bayer patent case",
+    "tokens": [
+      "bayer",
+      "bid",
+      "biontech",
+      "case",
+      "dismiss",
+      "lose",
+      "moderna",
+      "patent",
+      "pfizer"
+    ],
+    "ts": 1790626248.902514
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/equinox-gold-at-mining-forum-americas-2026-focus-shifts-to-execution-93CH-4921034",
+    "title": "Equinox Gold at Mining Forum Americas 2026: focus shifts to execution",
+    "tokens": [
+      "2026",
+      "americas",
+      "equinox",
+      "execution",
+      "focus",
+      "forum",
+      "gold",
+      "mining",
+      "shifts"
+    ],
+    "ts": 1790626255.9305105
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/resolute-mining-at-mining-forum-americas-2026-growth-shifts-west-93CH-4921033",
+    "title": "Resolute Mining at Mining Forum Americas 2026: growth shifts west",
+    "tokens": [
+      "2026",
+      "americas",
+      "forum",
+      "growth",
+      "mining",
+      "resolute",
+      "shifts",
+      "west"
+    ],
+    "ts": 1790626262.80831
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/clevelandcliffs-slides-as-report-shows-stelco-idling-plant-over-us-tariffs-4921032",
+    "title": "Cleveland-Cliffs slides as report shows Stelco idling plant over US tariffs",
+    "tokens": [
+      "cleveland",
+      "cliffs",
+      "idling",
+      "plant",
+      "report",
+      "shows",
+      "slides",
+      "stelco",
+      "tariffs"
+    ],
+    "ts": 1790626270.957426
+  },
+  {
+    "id": "oilprice-article-45628",
+    "title": "The World Is Entering a New Era of Energy Security",
+    "tokens": [
+      "energy",
+      "entering",
+      "era",
+      "security",
+      "world"
+    ],
+    "ts": 1790626279.079219
+  },
+  {
+    "id": "oilprice-news-45628",
+    "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
+    "tokens": [
+      "1982",
+      "falls",
+      "level",
+      "lowest",
+      "petroleum",
+      "reserve",
+      "since",
+      "strategic"
+    ],
+    "ts": 1790626283.0943449
   }
 ]

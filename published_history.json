@@ -1,48 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-starwood-property-trust-stock-rating-on-net-lease-strategy-93CH-4914732",
-    "title": "Citizens reiterates Starwood Property Trust stock rating on net lease strategy",
-    "tokens": [
-      "citizens",
-      "lease",
-      "net",
-      "property",
-      "rating",
-      "reiterates",
-      "starwood",
-      "stock",
-      "strategy",
-      "trust"
-    ],
-    "ts": 1790243837.6169918
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-everpure-stock-surging-today-93CH-4914731",
-    "title": "Why is Everpure stock surging today?",
-    "tokens": [
-      "everpure",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790243841.6263742
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/4-lowbeta-value-stocks-for-rate-and-geopolitical-uncertainty-93CH-4914730",
-    "title": "4 low-beta value stocks for rate and geopolitical uncertainty",
-    "tokens": [
-      "beta",
-      "geopolitical",
-      "low",
-      "rate",
-      "stocks",
-      "uncertainty",
-      "value"
-    ],
-    "ts": 1790243844.784638
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-energa-stock-surging-today-93CH-4914729",
     "title": "Why is Energa stock surging today?",
     "tokens": [
@@ -23015,5 +22972,55 @@
       "thorchain"
     ],
     "ts": 1790597771.5868216
+  },
+  {
+    "id": "WP-MKTW-0005256393",
+    "title": "SpaceX is moments away from monumental Starship launch",
+    "tokens": [
+      "away",
+      "launch",
+      "moments",
+      "monumental",
+      "spacex",
+      "starship"
+    ],
+    "ts": 1790599244.118201
+  },
+  {
+    "id": "52a47b17-2e1a-4fd7-a536-6ed4e8db823b",
+    "title": "Chainlink updates its crypto bridge tech months after a $292 million hack at a rival exposed risks",
+    "tokens": [
+      "292",
+      "bridge",
+      "chainlink",
+      "crypto",
+      "exposed",
+      "hack",
+      "million",
+      "months",
+      "risks",
+      "rival",
+      "tech",
+      "updates"
+    ],
+    "ts": 1790599254.426161
+  },
+  {
+    "id": "https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week",
+    "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
+    "tokens": [
+      "best",
+      "bitcoin",
+      "btc",
+      "eyes",
+      "know",
+      "nine",
+      "price",
+      "things",
+      "three",
+      "week",
+      "years"
+    ],
+    "ts": 1790599262.7946105
   }
 ]

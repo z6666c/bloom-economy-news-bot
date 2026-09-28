@@ -1,113 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/needham-remains-cautious-on-nike-stock-sees-more-downside-risk-4915680",
-    "title": "Needham remains cautious on Nike stock, sees more downside risk",
-    "tokens": [
-      "cautious",
-      "downside",
-      "more",
-      "needham",
-      "nike",
-      "remains",
-      "risk",
-      "sees",
-      "stock"
-    ],
-    "ts": 1790260175.3224213
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-fastly-stock-rating-on-ai-traffic-outlook-93CH-4915679",
-    "title": "DA Davidson reiterates Fastly stock rating on AI traffic outlook",
-    "tokens": [
-      "davidson",
-      "fastly",
-      "outlook",
-      "rating",
-      "reiterates",
-      "stock",
-      "traffic"
-    ],
-    "ts": 1790260183.3435836
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/melco-resorts--entertainment-ltd-stock-hits-52week-low-at-455-93CH-4915677",
-    "title": "Melco Resorts & Entertainment Ltd stock hits 52-week low at $4.55",
-    "tokens": [
-      "entertainment",
-      "hits",
-      "low",
-      "ltd",
-      "melco",
-      "resorts",
-      "stock",
-      "week"
-    ],
-    "ts": 1790260191.8324406
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-alight-stock-price-target-on-attrition-concerns-93CH-4915678",
-    "title": "DA Davidson cuts Alight stock price target on attrition concerns",
-    "tokens": [
-      "alight",
-      "attrition",
-      "concerns",
-      "cuts",
-      "davidson",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1790260201.789626
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-lowers-mcdonalds-stock-price-target-on-unit-growth-outlook-93CH-4915676",
-    "title": "RBC Capital lowers McDonald’s stock price target on unit growth outlook",
-    "tokens": [
-      "capital",
-      "growth",
-      "lowers",
-      "mcdonald",
-      "outlook",
-      "price",
-      "rbc",
-      "stock",
-      "target",
-      "unit"
-    ],
-    "ts": 1790260211.6191459
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-okta-stock-price-target-on-ai-security-growth-93CH-4915674",
-    "title": "RBC Capital raises Okta stock price target on AI security growth",
-    "tokens": [
-      "capital",
-      "growth",
-      "okta",
-      "price",
-      "raises",
-      "rbc",
-      "security",
-      "stock",
-      "target"
-    ],
-    "ts": 1790260220.3954253
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-raises-okta-stock-price-target-on-ai-agent-traction-93CH-4915675",
-    "title": "DA Davidson raises Okta stock price target on AI agent traction",
-    "tokens": [
-      "agent",
-      "davidson",
-      "okta",
-      "price",
-      "raises",
-      "stock",
-      "target",
-      "traction"
-    ],
-    "ts": 1790260224.4120789
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-nice-systems-stock-price-target-on-ai-opportunity-93CH-4915673",
     "title": "RBC Capital raises NICE Systems stock price target on AI opportunity",
     "tokens": [
@@ -23000,5 +22892,113 @@
       "week"
     ],
     "ts": 1790623972.0248525
+  },
+  {
+    "id": "WP-MKTW-0005256959",
+    "title": "PepsiCo plans to raise prices on sodas, chips and dip — and that has Wall Street worried",
+    "tokens": [
+      "chips",
+      "dip",
+      "pepsico",
+      "plans",
+      "prices",
+      "raise",
+      "sodas",
+      "street",
+      "wall",
+      "worried"
+    ],
+    "ts": 1790625269.0581243
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/transportation-secretary-urges-congress-to-approve-30bn-in-aviation-funding-93CH-4921029",
+    "title": "Transportation secretary urges Congress to approve $30bn in aviation funding",
+    "tokens": [
+      "30bn",
+      "approve",
+      "aviation",
+      "congress",
+      "funding",
+      "secretary",
+      "transportation",
+      "urges"
+    ],
+    "ts": 1790625276.721246
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/dow-jones-trapped-at-51913-between-double-bottom-and-downtrend-live-93CH-4920690",
+    "title": "Dow Jones stalls below 52,200 resistance: Live levels",
+    "tokens": [
+      "200",
+      "below",
+      "dow",
+      "jones",
+      "levels",
+      "live",
+      "resistance",
+      "stalls"
+    ],
+    "ts": 1790625283.5313613
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/alphabet-c-tests-33690-support-below-ichimoku-cloud-live-levels-93CH-4920694",
+    "title": "Alphabet C stuck in range below $342 resistance: Live levels",
+    "tokens": [
+      "342",
+      "alphabet",
+      "below",
+      "levels",
+      "live",
+      "range",
+      "resistance",
+      "stuck"
+    ],
+    "ts": 1790625290.7448125
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1400-support-in-distribution-range-live-93CH-4921028",
+    "title": "London Gas Oil tests $1,400 support in distribution range: Live",
+    "tokens": [
+      "400",
+      "distribution",
+      "gas",
+      "live",
+      "london",
+      "oil",
+      "range",
+      "support",
+      "tests"
+    ],
+    "ts": 1790625297.5656543
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nasdaq-100-rangebound-between-30548-and-30787-live-levels-93CH-4920692",
+    "title": "Nasdaq 100 clings to SuperTrend support at 30,548: Live levels",
+    "tokens": [
+      "100",
+      "548",
+      "clings",
+      "levels",
+      "live",
+      "nasdaq",
+      "supertrend",
+      "support"
+    ],
+    "ts": 1790625304.4564192
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tesla-teeters-above-support-at-361-live-levels-93CH-4920695",
+    "title": "Tesla breaks below Ichimoku cloud at $357.91: Live levels",
+    "tokens": [
+      "357",
+      "below",
+      "breaks",
+      "cloud",
+      "ichimoku",
+      "levels",
+      "live",
+      "tesla"
+    ],
+    "ts": 1790625311.551428
   }
 ]

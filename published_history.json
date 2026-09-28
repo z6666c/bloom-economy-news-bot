@@ -1,279 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005250479",
-    "title": "My wife wants to buy her late mother’s home, but her siblings won’t let her. Should I get involved?",
-    "tokens": [
-      "buy",
-      "get",
-      "her",
-      "home",
-      "involved",
-      "late",
-      "let",
-      "mother",
-      "should",
-      "siblings",
-      "wants",
-      "wife",
-      "won"
-    ],
-    "ts": 1790255696.0402133
-  },
-  {
-    "id": "WP-MKTW-0005251604",
-    "title": "Three reasons to stick with stocks despite rising yields, according to Barclays",
-    "tokens": [
-      "according",
-      "barclays",
-      "despite",
-      "reasons",
-      "rising",
-      "stick",
-      "stocks",
-      "three",
-      "yields"
-    ],
-    "ts": 1790255703.7687886
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-pasqal-posts-h1-2026-revenue-growth-as-losses-widen-93CH-4915459",
-    "title": "Earnings call transcript: Pasqal posts H1 2026 revenue growth as losses widen",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "growth",
-      "losses",
-      "pasqal",
-      "posts",
-      "revenue",
-      "transcript",
-      "widen"
-    ],
-    "ts": 1790255712.2001884
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ming-yang-smart-energy-plans-to-cancel-70-million-shares-93CH-4915454",
-    "title": "Ming Yang Smart Energy plans to cancel 70 million shares",
-    "tokens": [
-      "cancel",
-      "energy",
-      "million",
-      "ming",
-      "plans",
-      "shares",
-      "smart",
-      "yang"
-    ],
-    "ts": 1790255719.9165504
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/amazon-to-spend-100-million-on-new-robotics-facility-in-indiana--wsj-93CH-4915453",
-    "title": "Amazon to spend $100 million on new robotics facility in Indiana - WSJ",
-    "tokens": [
-      "100",
-      "amazon",
-      "facility",
-      "indiana",
-      "million",
-      "robotics",
-      "spend",
-      "wsj"
-    ],
-    "ts": 1790255728.08888
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sos-limited-reports-digital-assets-worth-756-million-93CH-4915452",
-    "title": "SOS Limited reports digital assets worth $75.6 million",
-    "tokens": [
-      "assets",
-      "digital",
-      "limited",
-      "million",
-      "reports",
-      "sos",
-      "worth"
-    ],
-    "ts": 1790255736.8235552
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/paramount-seeks-75-billion-loan-for-warner-bros-discovery-deal-93CH-4915450",
-    "title": "Paramount seeks $7.5 billion loan for Warner Bros. Discovery deal",
-    "tokens": [
-      "billion",
-      "bros",
-      "deal",
-      "discovery",
-      "loan",
-      "paramount",
-      "seeks",
-      "warner"
-    ],
-    "ts": 1790255745.0838597
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/soundhound-ai-launches-oasys-edge-for-embedded-voice-agents-93CH-4915451",
-    "title": "SoundHound AI launches OASYS Edge for embedded voice agents",
-    "tokens": [
-      "agents",
-      "edge",
-      "embedded",
-      "launches",
-      "oasys",
-      "soundhound",
-      "voice"
-    ],
-    "ts": 1790255753.1270504
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/alaska-airlines-to-expand-paine-field-service-by-50-by-2027-93CH-4915449",
-    "title": "Alaska Airlines to expand Paine Field service by 50% by 2027",
-    "tokens": [
-      "2027",
-      "airlines",
-      "alaska",
-      "expand",
-      "field",
-      "paine",
-      "service"
-    ],
-    "ts": 1790255760.9163692
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/aetna-expands-cancer-treatment-prior-authorization-bundles-93CH-4915447",
-    "title": "Aetna expands cancer treatment prior authorization bundles",
-    "tokens": [
-      "aetna",
-      "authorization",
-      "bundles",
-      "cancer",
-      "expands",
-      "prior",
-      "treatment"
-    ],
-    "ts": 1790255768.8680005
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/onterris-secures-14m-in-brownfields-work-through-july-93CH-4915448",
-    "title": "Onterris secures $14M in brownfields work through July",
-    "tokens": [
-      "14m",
-      "brownfields",
-      "july",
-      "onterris",
-      "secures",
-      "through",
-      "work"
-    ],
-    "ts": 1790255776.2734292
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sunshine-biopharma-launches-generic-ondansetron-in-canada-93CH-4915446",
-    "title": "Sunshine Biopharma launches generic ondansetron in Canada",
-    "tokens": [
-      "biopharma",
-      "canada",
-      "generic",
-      "launches",
-      "ondansetron",
-      "sunshine"
-    ],
-    "ts": 1790255784.708879
-  },
-  {
-    "id": "b745f25d-c1d3-4ab5-a7a7-27a1ae312dd2",
-    "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
-    "tokens": [
-      "anthropic",
-      "ark",
-      "cathie",
-      "fund",
-      "openai",
-      "securitize",
-      "stakes",
-      "teams",
-      "tokenize",
-      "venture",
-      "wood"
-    ],
-    "ts": 1790255793.866225
-  },
-  {
-    "id": "ed2da4f0-78e6-4a08-b90c-245d477def31",
-    "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
-    "tokens": [
-      "binance",
-      "finance",
-      "foundation",
-      "hires",
-      "polygon",
-      "push",
-      "ramps",
-      "solana",
-      "tokenized",
-      "veterans"
-    ],
-    "ts": 1790255801.6643898
-  },
-  {
-    "id": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive",
-    "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-    "tokens": [
-      "binance",
-      "cmo",
-      "exec",
-      "expand",
-      "foundation",
-      "hires",
-      "partnerships",
-      "payments",
-      "solana"
-    ],
-    "ts": 1790255809.39255
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/nato-commander-says-us-to-provide-limited-support-as-europe-expands-role-4915525",
-    "title": "NATO commander says US to provide limited support as Europe expands role",
-    "tokens": [
-      "commander",
-      "europe",
-      "expands",
-      "limited",
-      "nato",
-      "provide",
-      "role",
-      "support"
-    ],
-    "ts": 1790256775.6773493
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/egypts-central-bank-holds-interest-rates-steady-93CH-4915520",
-    "title": "Egypt’s central bank holds interest rates steady",
-    "tokens": [
-      "bank",
-      "central",
-      "egypt",
-      "holds",
-      "interest",
-      "rates",
-      "steady"
-    ],
-    "ts": 1790256783.6626318
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tractor-supply-expands-support-to-over-1000-us-fairs-93CH-4915519",
-    "title": "Tractor Supply expands support to over 1,000 U.S. fairs",
-    "tokens": [
-      "000",
-      "expands",
-      "fairs",
-      "supply",
-      "support",
-      "tractor"
-    ],
-    "ts": 1790256791.6488187
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/stitch-fix-stock-price-target-lowered-to-4-by-bernstein-on-consumer-headwinds-93CH-4915518",
     "title": "Stitch Fix stock price target lowered to $4 by Bernstein on consumer headwinds",
     "tokens": [
@@ -22961,5 +22687,320 @@
       "trading"
     ],
     "ts": 1790619280.380134
+  },
+  {
+    "id": "WP-MKTW-0005256902",
+    "title": "The U.S. and China agree to $60 billion in tariff cuts on products like dolls and fireworks. Rare earths remain a sticking point.",
+    "tokens": [
+      "agree",
+      "billion",
+      "china",
+      "cuts",
+      "dolls",
+      "earths",
+      "fireworks",
+      "like",
+      "point",
+      "products",
+      "rare",
+      "remain",
+      "sticking",
+      "tariff"
+    ],
+    "ts": 1790620535.4925473
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/goldcom-at-mining-forum-americas-2026-hedged-model-seeks-growth-93CH-4920990",
+    "title": "Gold.com at Mining Forum Americas 2026: hedged model seeks growth",
+    "tokens": [
+      "2026",
+      "americas",
+      "com",
+      "forum",
+      "gold",
+      "growth",
+      "hedged",
+      "mining",
+      "model",
+      "seeks"
+    ],
+    "ts": 1790620542.6970356
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ubs-warns-food-price-risks-could-push-bond-yields-higher-93CH-4920989",
+    "title": "UBS warns food price risks could push bond yields higher",
+    "tokens": [
+      "bond",
+      "could",
+      "food",
+      "higher",
+      "price",
+      "push",
+      "risks",
+      "ubs",
+      "warns",
+      "yields"
+    ],
+    "ts": 1790620549.8293877
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/carnival-corp-and-carmax-earnings-preview-what-to-watch-premarket-sep-29-93CH-4920982",
+    "title": "Carnival Corp and CarMax earnings preview: what to watch pre-market Sep 29",
+    "tokens": [
+      "carmax",
+      "carnival",
+      "corp",
+      "earnings",
+      "market",
+      "pre",
+      "preview",
+      "sep",
+      "watch",
+      "what"
+    ],
+    "ts": 1790620557.1332831
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/intel-and-palo-alto-among-market-cap-stock-movers-on-monday-93CH-4920981",
+    "title": "Intel and Palo Alto among market cap stock movers on Monday",
+    "tokens": [
+      "alto",
+      "among",
+      "cap",
+      "intel",
+      "market",
+      "monday",
+      "movers",
+      "palo",
+      "stock"
+    ],
+    "ts": 1790620564.6173248
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/drdgold-at-mining-forum-americas-2026-growth-funded-by-cash-flow-93CH-4920976",
+    "title": "DRDGOLD at Mining Forum Americas 2026: growth funded by cash flow",
+    "tokens": [
+      "2026",
+      "americas",
+      "cash",
+      "drdgold",
+      "flow",
+      "forum",
+      "funded",
+      "growth",
+      "mining"
+    ],
+    "ts": 1790620571.4550633
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/regis-resources-at-mining-forum-americas-2026-cash-dividends-and-growth-93CH-4920975",
+    "title": "Regis Resources at Mining Forum Americas 2026: cash, dividends and growth",
+    "tokens": [
+      "2026",
+      "americas",
+      "cash",
+      "dividends",
+      "forum",
+      "growth",
+      "mining",
+      "regis",
+      "resources"
+    ],
+    "ts": 1790620578.5147183
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/glaukos-options-activity-points-to-bullish-call-spread-targeting-180-93CH-4920974",
+    "title": "Glaukos options activity points to bullish call spread targeting $180",
+    "tokens": [
+      "180",
+      "activity",
+      "bullish",
+      "call",
+      "glaukos",
+      "options",
+      "points",
+      "spread",
+      "targeting"
+    ],
+    "ts": 1790620586.4348795
+  },
+  {
+    "id": "https://www.businessinsider.com/meta-muse-facebook-marketplace-address-story-matt-robb-2026-9",
+    "title": "A YouTuber says Meta's Muse gave his address to a Facebook Marketplace buyer: 'A guy just showed up at my door'",
+    "tokens": [
+      "address",
+      "buyer",
+      "door",
+      "facebook",
+      "gave",
+      "guy",
+      "his",
+      "just",
+      "marketplace",
+      "meta",
+      "muse",
+      "showed",
+      "youtuber"
+    ],
+    "ts": 1790620595.0109737
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/protext-mobility-issues-significant-inter-quarter-shareholder-update-absa-confirms-inaugural-digital-asset-custody-pilot-as-txtm-advances-global-rwa-and-uplist-strategy-1036579159",
+    "title": "ProText Mobility Issues Significant Inter-Quarter Shareholder Update: ABSA Confirms Inaugural Digital-Asset Custody Pilot as TXTM Advances Global RWA and Uplist Strategy",
+    "tokens": [
+      "absa",
+      "advances",
+      "asset",
+      "confirms",
+      "custody",
+      "digital",
+      "global",
+      "inaugural",
+      "inter",
+      "issues",
+      "mobility",
+      "pilot",
+      "protext",
+      "quarter",
+      "rwa",
+      "shareholder",
+      "significant",
+      "strategy",
+      "txtm",
+      "update",
+      "uplist"
+    ],
+    "ts": 1790620602.1133018
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/keeping-student-athletes-healthy-this-school-year-with-support-from-wellspan-orthopedics-1036579158",
+    "title": "Keeping student athletes healthy this school year with support from WellSpan Orthopedics",
+    "tokens": [
+      "athletes",
+      "healthy",
+      "keeping",
+      "orthopedics",
+      "school",
+      "student",
+      "support",
+      "wellspan",
+      "year"
+    ],
+    "ts": 1790620609.7655785
+  },
+  {
+    "id": "https://www.businessinsider.com/microsoft-copilot-chief-ai-future-worries-about-2026-9",
+    "title": "Microsoft's Copilot chief says this is the AI future he worries about most",
+    "tokens": [
+      "about",
+      "chief",
+      "copilot",
+      "future",
+      "microsoft",
+      "most",
+      "worries"
+    ],
+    "ts": 1790620617.1266854
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/the-parks-reaches-97-occupancy-marking-a-major-milestone-for-downtown-edmonton-1036579063",
+    "title": "The Parks Reaches 97% Occupancy, Marking a Major Milestone for Downtown Edmonton",
+    "tokens": [
+      "downtown",
+      "edmonton",
+      "major",
+      "marking",
+      "milestone",
+      "occupancy",
+      "parks",
+      "reaches"
+    ],
+    "ts": 1790620625.198832
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/the-2026-list-announces-business-recognition-for-100-industry-icons-across-ten-categories-1036579062",
+    "title": "The 2026 List Announces Business Recognition for 100 Industry Icons Across Ten Categories",
+    "tokens": [
+      "100",
+      "2026",
+      "across",
+      "announces",
+      "business",
+      "categories",
+      "icons",
+      "industry",
+      "list",
+      "recognition",
+      "ten"
+    ],
+    "ts": 1790620632.2235644
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/scripps-taps-sean-mcgarvy-to-lead-news-strategy-1036579059",
+    "title": "Scripps taps Sean McGarvy to lead news strategy",
+    "tokens": [
+      "lead",
+      "mcgarvy",
+      "news",
+      "scripps",
+      "sean",
+      "strategy",
+      "taps"
+    ],
+    "ts": 1790620639.4655912
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/9th-china-nanning-overseas-talent-innovation-and-entrepreneurship-competition-concludes-1036579058",
+    "title": "9th China·Nanning Overseas Talent Innovation and Entrepreneurship Competition Concludes",
+    "tokens": [
+      "9th",
+      "china",
+      "competition",
+      "concludes",
+      "entrepreneurship",
+      "innovation",
+      "nanning",
+      "overseas",
+      "talent"
+    ],
+    "ts": 1790620646.488494
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/national-commercial-cleaning-franchisor-coverall-awards-2026-27-academic-scholarships-to-children-of-its-franchise-business-owners-1036579019",
+    "title": "National Commercial Cleaning Franchisor, Coverall, Awards 2026-27 Academic Scholarships to Children of Its Franchise Business Owners",
+    "tokens": [
+      "2026",
+      "academic",
+      "awards",
+      "business",
+      "children",
+      "cleaning",
+      "commercial",
+      "coverall",
+      "franchise",
+      "franchisor",
+      "national",
+      "owners",
+      "scholarships"
+    ],
+    "ts": 1790620653.480369
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/action-home-services-inc-recognized-among-top-pool-installation-companies-in-toronto-1036579020",
+    "title": "Action Home Services Inc. Recognized Among Top Pool Installation Companies in Toronto",
+    "tokens": [
+      "action",
+      "among",
+      "companies",
+      "home",
+      "inc",
+      "installation",
+      "pool",
+      "recognized",
+      "services",
+      "top",
+      "toronto"
+    ],
+    "ts": 1790620660.8099499
   }
 ]

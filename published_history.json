@@ -1,195 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/judge-orders-trump-to-restore-white-house-media-access-to-banned-outlets-4914450",
-    "title": "Judge orders Trump to restore White House media access to banned outlets",
-    "tokens": [
-      "access",
-      "banned",
-      "house",
-      "judge",
-      "media",
-      "orders",
-      "outlets",
-      "restore",
-      "trump",
-      "white"
-    ],
-    "ts": 1790230454.5235903
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/analysisas-5-treasury-yields-lose-shock-value-investors-start-worrying-about-6-4913678",
-    "title": "As 5% Treasury yields lose shock value, investors start worrying about 6%",
-    "tokens": [
-      "about",
-      "investors",
-      "lose",
-      "shock",
-      "start",
-      "treasury",
-      "value",
-      "worrying",
-      "yields"
-    ],
-    "ts": 1790230461.583209
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/hinge-health-president-james-pursley-sells-31-million-in-stock-93CH-4914449",
-    "title": "Hinge Health president James Pursley sells $3.1 million in stock",
-    "tokens": [
-      "health",
-      "hinge",
-      "james",
-      "million",
-      "president",
-      "pursley",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790230469.1030955
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asia-rare-earth-stocks-fall-after-uschina-extend-trade-truce-to-january-4914443",
-    "title": "Asia rare earth stocks fall after U.S.-China extend trade truce to January",
-    "tokens": [
-      "asia",
-      "china",
-      "earth",
-      "extend",
-      "fall",
-      "january",
-      "rare",
-      "stocks",
-      "trade",
-      "truce"
-    ],
-    "ts": 1790230476.9470022
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/boj-could-raise-rates-every-quarter-expolicymaker-says-4914439",
-    "title": "BOJ could raise rates every quarter, ex-policymaker says",
-    "tokens": [
-      "boj",
-      "could",
-      "every",
-      "policymaker",
-      "quarter",
-      "raise",
-      "rates"
-    ],
-    "ts": 1790230484.441765
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/analysissouth-africa-races-to-keep-auto-exports-competitive-in-ev-era-4914438",
-    "title": "Analysis-South Africa races to keep auto exports competitive in EV era",
-    "tokens": [
-      "africa",
-      "analysis",
-      "auto",
-      "competitive",
-      "era",
-      "exports",
-      "keep",
-      "races",
-      "south"
-    ],
-    "ts": 1790230491.70226
-  },
-  {
-    "id": "dear-microsoft-stock-fans-mark-185339421.html",
-    "title": "Dear Microsoft Stock Fans, Mark Your Calendars for September 24",
-    "tokens": [
-      "calendars",
-      "dear",
-      "fans",
-      "mark",
-      "microsoft",
-      "september",
-      "stock",
-      "your"
-    ],
-    "ts": 1790230495.779247
-  },
-  {
-    "id": "paramount-skydance-kept-sell-ubs-181200689.html",
-    "title": "Paramount Skydance kept at 'sell' by UBS despite Warner Bros Discovery deal clearing final hurdle",
-    "tokens": [
-      "bros",
-      "clearing",
-      "deal",
-      "despite",
-      "discovery",
-      "final",
-      "hurdle",
-      "kept",
-      "paramount",
-      "sell",
-      "skydance",
-      "ubs",
-      "warner"
-    ],
-    "ts": 1790230499.0959954
-  },
-  {
-    "id": "netskope-ntsk-tackling-major-ai-185139812.html",
-    "title": "Netskope (NTSK) Is Tackling a Major AI Agent Security Gap. Can Skylight Deepen Its Edge?",
-    "tokens": [
-      "agent",
-      "can",
-      "deepen",
-      "edge",
-      "gap",
-      "major",
-      "netskope",
-      "ntsk",
-      "security",
-      "skylight",
-      "tackling"
-    ],
-    "ts": 1790230506.8143477
-  },
-  {
-    "id": "sandisk-just-scored-buy-rating-184617334.html",
-    "title": "SanDisk Just Scored a New 'Buy' Rating. Here's Why.",
-    "tokens": [
-      "buy",
-      "here",
-      "just",
-      "rating",
-      "sandisk",
-      "scored",
-      "why"
-    ],
-    "ts": 1790230513.870479
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/ecb-will-decide-on-rates-from-meeting-to-meeting-kocher-tells-newspaper-4914474",
-    "title": "ECB will decide on rates from meeting to meeting, Kocher tells newspaper",
-    "tokens": [
-      "decide",
-      "ecb",
-      "kocher",
-      "meeting",
-      "newspaper",
-      "rates",
-      "tells"
-    ],
-    "ts": 1790231800.9165235
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tap-globals-crypto-yield-program-surpasses-8m-in-assets-93CH-4914471",
-    "title": "Tap Global’s crypto yield program surpasses $8m in assets",
-    "tokens": [
-      "assets",
-      "crypto",
-      "global",
-      "program",
-      "surpasses",
-      "tap",
-      "yield"
-    ],
-    "ts": 1790231808.063357
-  },
-  {
     "id": "https://www.investing.com/news/company-news/dfs-furniture-reports-487-profit-growth-cuts-debt-by-38m-93CH-4914469",
     "title": "DFS Furniture reports 48.7% profit growth, cuts debt by £38m",
     "tokens": [
@@ -23058,5 +22868,188 @@
       "why"
     ],
     "ts": 1790576144.828622
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/gresham-house-renewable-energy-vct-1-shares-suspended-93CH-4919403",
+    "title": "Gresham House Renewable Energy VCT 1 shares suspended",
+    "tokens": [
+      "energy",
+      "gresham",
+      "house",
+      "renewable",
+      "shares",
+      "suspended",
+      "vct"
+    ],
+    "ts": 1790577737.0229065
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-017-4919398",
+    "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.17%",
+    "tokens": [
+      "200",
+      "asx",
+      "australia",
+      "close",
+      "higher",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790577744.0831132
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-mobility-global-stock-at-neutral-on-margin-reset-93CH-4919389",
+    "title": "JPMorgan initiates Mobility Global stock at Neutral on margin reset",
+    "tokens": [
+      "global",
+      "initiates",
+      "jpmorgan",
+      "margin",
+      "mobility",
+      "neutral",
+      "reset",
+      "stock"
+    ],
+    "ts": 1790577751.372594
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jefferies-downgrades-roblox-stock-rating-on-bookings-concerns-93CH-4919388",
+    "title": "Jefferies downgrades Roblox stock rating on bookings concerns",
+    "tokens": [
+      "bookings",
+      "concerns",
+      "downgrades",
+      "jefferies",
+      "rating",
+      "roblox",
+      "stock"
+    ],
+    "ts": 1790577758.4606566
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/rothmkm-initiates-buda-juice-stock-with-buy-rating-on-retail-expansion-93CH-4919387",
+    "title": "Roth/MKM initiates Buda Juice stock with buy rating on retail expansion",
+    "tokens": [
+      "buda",
+      "buy",
+      "expansion",
+      "initiates",
+      "juice",
+      "mkm",
+      "rating",
+      "retail",
+      "roth",
+      "stock"
+    ],
+    "ts": 1790577765.4822357
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/tullow-oil-h1-loss-widens-raises-fy-free-cash-flow-view-4919386",
+    "title": "Tullow Oil H1 loss widens; raises FY free cash flow view",
+    "tokens": [
+      "cash",
+      "flow",
+      "free",
+      "loss",
+      "oil",
+      "raises",
+      "tullow",
+      "view",
+      "widens"
+    ],
+    "ts": 1790577773.3286078
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/renalytix-chairman-julian-baines-to-step-down-in-december-93CH-4919385",
+    "title": "Renalytix chairman Julian Baines to step down in December",
+    "tokens": [
+      "baines",
+      "chairman",
+      "december",
+      "julian",
+      "renalytix",
+      "step"
+    ],
+    "ts": 1790577780.6459646
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/stirling-water-seafield-finance-redeems-4m-in-bonds-93CH-4919379",
+    "title": "Stirling Water Seafield Finance redeems £4m in bonds",
+    "tokens": [
+      "bonds",
+      "finance",
+      "redeems",
+      "seafield",
+      "stirling",
+      "water"
+    ],
+    "ts": 1790577788.0712073
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/evercore-sees-yieldcurve-inversiaion-risk-rising-as-ai-bull-market-holds-firm-4919378",
+    "title": "Evercore sees yield-curve inversiaion risk rising as AI bull market holds firm",
+    "tokens": [
+      "bull",
+      "curve",
+      "evercore",
+      "firm",
+      "holds",
+      "inversiaion",
+      "market",
+      "rising",
+      "risk",
+      "sees",
+      "yield"
+    ],
+    "ts": 1790577795.6779013
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-absci-stock-rating-on-endometriosis-trial-delay-93CH-4919377",
+    "title": "Guggenheim reiterates Absci stock rating on endometriosis trial delay",
+    "tokens": [
+      "absci",
+      "delay",
+      "endometriosis",
+      "guggenheim",
+      "rating",
+      "reiterates",
+      "stock",
+      "trial"
+    ],
+    "ts": 1790577803.4269452
+  },
+  {
+    "id": "aca89014-729f-4f9f-88af-1b8fc2d3dfd0",
+    "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
+    "tokens": [
+      "ban",
+      "california",
+      "calls",
+      "memecoin",
+      "newsom",
+      "opposite",
+      "signs",
+      "trump"
+    ],
+    "ts": 1790577811.7025163
+  },
+  {
+    "id": "bebf864f-7863-478f-b83f-1d6acd333f77",
+    "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
+    "tokens": [
+      "188",
+      "bitwise",
+      "draw",
+      "etfs",
+      "inflows",
+      "million",
+      "record",
+      "solana",
+      "takes",
+      "thirds",
+      "two",
+      "week"
+    ],
+    "ts": 1790577819.2275796
   }
 ]

@@ -1,154 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/stitch-fix-stock-price-target-lowered-to-4-by-bernstein-on-consumer-headwinds-93CH-4915518",
-    "title": "Stitch Fix stock price target lowered to $4 by Bernstein on consumer headwinds",
-    "tokens": [
-      "bernstein",
-      "consumer",
-      "fix",
-      "headwinds",
-      "lowered",
-      "price",
-      "stitch",
-      "stock",
-      "target"
-    ],
-    "ts": 1790256799.3643892
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-krikri-lifts-h1-2026-sales-trims-profit-outlook-93CH-4915512",
-    "title": "Earnings call transcript: Kri-Kri lifts H1 2026 sales, trims profit outlook",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "kri",
-      "lifts",
-      "outlook",
-      "profit",
-      "sales",
-      "transcript",
-      "trims"
-    ],
-    "ts": 1790256807.529504
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/us-current-account-deficit-widens-sharply-in-second-quarter-4915511",
-    "title": "US current account deficit widens sharply in second quarter",
-    "tokens": [
-      "account",
-      "current",
-      "deficit",
-      "quarter",
-      "second",
-      "sharply",
-      "widens"
-    ],
-    "ts": 1790256814.831867
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/satellos-stock-jumps-after-fda-clears-fshd-trial-for-forazapadin-4915509",
-    "title": "Satellos stock jumps after FDA clears FSHD trial for forazapadin",
-    "tokens": [
-      "clears",
-      "fda",
-      "forazapadin",
-      "fshd",
-      "jumps",
-      "satellos",
-      "stock",
-      "trial"
-    ],
-    "ts": 1790256822.2766533
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-oracle-stock-sliding-today-93CH-4915499",
-    "title": "Why is Oracle stock sliding today?",
-    "tokens": [
-      "oracle",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790256826.2886667
-  },
-  {
-    "id": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers",
-    "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
-    "tokens": [
-      "beta",
-      "deposits",
-      "ibm",
-      "ledger",
-      "link",
-      "opens",
-      "swift",
-      "tokenized"
-    ],
-    "ts": 1790258101.453734
-  },
-  {
-    "id": "WP-MKTW-0005249099",
-    "title": "How is Gen Z investing their money? Over a dozen share their strategies for today’s market.",
-    "tokens": [
-      "dozen",
-      "gen",
-      "how",
-      "investing",
-      "market",
-      "money",
-      "share",
-      "strategies",
-      "their",
-      "today"
-    ],
-    "ts": 1790259088.0130692
-  },
-  {
-    "id": "WP-MKTW-0005249993",
-    "title": "Do this one thing to help prevent your parents from being scammed",
-    "tokens": [
-      "being",
-      "help",
-      "one",
-      "parents",
-      "prevent",
-      "scammed",
-      "thing",
-      "your"
-    ],
-    "ts": 1790259096.152652
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-arm-stock-sliding-today-93CH-4915602",
-    "title": "Why is Arm stock sliding today?",
-    "tokens": [
-      "arm",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790259100.4301019
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/dycom-at-25th-annual-diversified-industrials--services-conference-growth-broadens-93CH-4915601",
-    "title": "Dycom at 25th annual diversified industrials & services conference: growth broadens",
-    "tokens": [
-      "25th",
-      "annual",
-      "broadens",
-      "conference",
-      "diversified",
-      "dycom",
-      "growth",
-      "industrials",
-      "services"
-    ],
-    "ts": 1790259104.7917755
-  },
-  {
     "id": "https://www.investing.com/news/company-news/mobix-labs-reiterates-q4-revenue-guidance-above-16-million-93CH-4915599",
     "title": "Mobix Labs reiterates Q4 revenue guidance above $1.6 million",
     "tokens": [
@@ -23002,5 +22853,162 @@
       "toronto"
     ],
     "ts": 1790620660.8099499
+  },
+  {
+    "id": "WP-MKTW-0005255576",
+    "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
+    "tokens": [
+      "dolly",
+      "estate",
+      "fight",
+      "her",
+      "matters",
+      "nephew",
+      "parton",
+      "planned",
+      "shows",
+      "why"
+    ],
+    "ts": 1790621857.429185
+  },
+  {
+    "id": "WP-MKTW-0005257154",
+    "title": "Spending $800 to see my family this Thanksgiving is a financial burden. How can I push for a cheaper flight?",
+    "tokens": [
+      "800",
+      "burden",
+      "can",
+      "cheaper",
+      "family",
+      "financial",
+      "flight",
+      "how",
+      "push",
+      "see",
+      "spending",
+      "thanksgiving"
+    ],
+    "ts": 1790621864.3842864
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-vir-biotechnology-stock-rating-on-hepatitis-delta-data-93CH-4921015",
+    "title": "Raymond James reiterates Vir Biotechnology stock rating on hepatitis delta data",
+    "tokens": [
+      "biotechnology",
+      "data",
+      "delta",
+      "hepatitis",
+      "james",
+      "rating",
+      "raymond",
+      "reiterates",
+      "stock",
+      "vir"
+    ],
+    "ts": 1790621873.2113805
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-inventiva-stock-ahead-of-phase-3-data-93CH-4921016",
+    "title": "Truist reiterates Buy on Inventiva stock ahead of phase 3 data",
+    "tokens": [
+      "ahead",
+      "buy",
+      "data",
+      "inventiva",
+      "phase",
+      "reiterates",
+      "stock",
+      "truist"
+    ],
+    "ts": 1790621880.557831
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/millrose-properties-stock-hits-52week-low-at-263-usd-93CH-4921013",
+    "title": "Millrose Properties stock hits 52-week low at 26.3 USD",
+    "tokens": [
+      "hits",
+      "low",
+      "millrose",
+      "properties",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790621884.5738444
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/citizens-raises-mirum-pharmaceuticals-stock-price-target-on-hdv-data-93CH-4921012",
+    "title": "Citizens raises Mirum Pharmaceuticals stock price target on HDV data",
+    "tokens": [
+      "citizens",
+      "data",
+      "hdv",
+      "mirum",
+      "pharmaceuticals",
+      "price",
+      "raises",
+      "stock",
+      "target"
+    ],
+    "ts": 1790621888.0203846
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/boeing-slides-6-as-faa-halts-max-10-cert-31-of-undelivered-orders-at-risk-4921010",
+    "title": "Boeing slides 6% as FAA halts Max 10 cert, 31% of undelivered orders at risk",
+    "tokens": [
+      "boeing",
+      "cert",
+      "faa",
+      "halts",
+      "max",
+      "orders",
+      "risk",
+      "slides",
+      "undelivered"
+    ],
+    "ts": 1790621895.7999086
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sba-communications-stock-hits-52week-low-at-1624-usd-93CH-4921011",
+    "title": "SBA Communications stock hits 52-week low at 162.4 USD",
+    "tokens": [
+      "162",
+      "communications",
+      "hits",
+      "low",
+      "sba",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790621902.3914356
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/dell-vs-hpe-valuation-gap-ai-backlogs-and-the-pairs-trade-case-93CH-4921008",
+    "title": "Dell vs HPE: valuation gap, AI backlogs, and the pairs trade case",
+    "tokens": [
+      "backlogs",
+      "case",
+      "dell",
+      "gap",
+      "hpe",
+      "pairs",
+      "trade",
+      "valuation"
+    ],
+    "ts": 1790621909.6484072
+  },
+  {
+    "id": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail",
+    "title": "US SEC follows CFTC in staff guidance for crypto",
+    "tokens": [
+      "cftc",
+      "crypto",
+      "follows",
+      "guidance",
+      "sec",
+      "staff"
+    ],
+    "ts": 1790621918.1262803
   }
 ]

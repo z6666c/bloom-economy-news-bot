@@ -1,54 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/wall-st-futures-fall-on-middle-east-uncertainties-ahead-of-trumpxi-talks-4914927",
-    "title": "Wall St futures retreat as oil gains on Mideast uncertainty, eyes on Trump-Xi talks",
-    "tokens": [
-      "eyes",
-      "futures",
-      "gains",
-      "mideast",
-      "oil",
-      "retreat",
-      "talks",
-      "trump",
-      "uncertainty",
-      "wall"
-    ],
-    "ts": 1790252068.4053624
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/australia-agrees-priority-visa-processing-for-vital-farm-workers-industry-group-says-4915259",
-    "title": "Australia agrees priority visa processing for vital farm workers, industry group says",
-    "tokens": [
-      "agrees",
-      "australia",
-      "farm",
-      "group",
-      "industry",
-      "priority",
-      "processing",
-      "visa",
-      "vital",
-      "workers"
-    ],
-    "ts": 1790252076.0895324
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/mdpanel-appoints-nariwal-as-coo-andrews-as-chief-client-officer-93CH-4915251",
-    "title": "MDpanel appoints Nariwal as COO, Andrews as chief client officer",
-    "tokens": [
-      "andrews",
-      "appoints",
-      "chief",
-      "client",
-      "coo",
-      "mdpanel",
-      "nariwal",
-      "officer"
-    ],
-    "ts": 1790252083.2834597
-  },
-  {
     "id": "https://www.investing.com/news/company-news/annexon-presents-vonaprument-data-at-retina-meeting-93CH-4915247",
     "title": "Annexon presents vonaprument data at retina meeting",
     "tokens": [
@@ -22958,5 +22909,47 @@
       "spends"
     ],
     "ts": 1790614635.2209027
+  },
+  {
+    "id": "WP-MKTW-0005256423",
+    "title": "Micron has a chance to set the record straight with its earnings report",
+    "tokens": [
+      "chance",
+      "earnings",
+      "micron",
+      "record",
+      "report",
+      "set",
+      "straight"
+    ],
+    "ts": 1790615597.7674603
+  },
+  {
+    "id": "oilprice-article-45623",
+    "title": "Can Fracking Reverse Colombia’s Oil and Gas Decline?",
+    "tokens": [
+      "can",
+      "colombia",
+      "decline",
+      "fracking",
+      "gas",
+      "oil",
+      "reverse"
+    ],
+    "ts": 1790615607.256024
+  },
+  {
+    "id": "oilprice-news-45623",
+    "title": "SpaceX Sends Starship to Orbit and Deploys 26 Starlink V3 Satellites",
+    "tokens": [
+      "deploys",
+      "orbit",
+      "satellites",
+      "sends",
+      "spacex",
+      "starlink",
+      "starship"
+    ],
+    "ts": 1790615616.8433025
   }
 ]

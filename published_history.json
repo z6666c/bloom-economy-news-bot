@@ -1,48 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/mobix-labs-reiterates-q4-revenue-guidance-above-16-million-93CH-4915599",
-    "title": "Mobix Labs reiterates Q4 revenue guidance above $1.6 million",
-    "tokens": [
-      "above",
-      "guidance",
-      "labs",
-      "million",
-      "mobix",
-      "reiterates",
-      "revenue"
-    ],
-    "ts": 1790259113.195077
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tutor-perini-unit-wins-43m-us-coast-guard-contract-in-oregon-93CH-4915598",
-    "title": "Tutor Perini unit wins $43M U.S. Coast Guard contract in Oregon",
-    "tokens": [
-      "43m",
-      "coast",
-      "contract",
-      "guard",
-      "oregon",
-      "perini",
-      "tutor",
-      "unit",
-      "wins"
-    ],
-    "ts": 1790259120.6008592
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-4915594",
-    "title": "Why is Bloom Energy stock sliding today?",
-    "tokens": [
-      "bloom",
-      "energy",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790259124.6171677
-  },
-  {
     "id": "https://www.investing.com/news/company-news/carlyle-group-stock-hits-52week-low-at-3915-usd-93CH-4915593",
     "title": "Carlyle Group stock hits 52-week low at 39.15 USD",
     "tokens": [
@@ -23010,5 +22967,53 @@
       "staff"
     ],
     "ts": 1790621918.1262803
+  },
+  {
+    "id": "WP-MKTW-0005249099",
+    "title": "These Gen Z-ers are choosing ETFs over sports bets. How younger investors told us they’re building wealth.",
+    "tokens": [
+      "bets",
+      "building",
+      "choosing",
+      "ers",
+      "etfs",
+      "gen",
+      "how",
+      "investors",
+      "sports",
+      "these",
+      "they",
+      "told",
+      "wealth",
+      "younger"
+    ],
+    "ts": 1790622906.337159
+  },
+  {
+    "id": "oilprice-article-45627",
+    "title": "Europe’s Gas Forecasts Are Not an Energy Strategy",
+    "tokens": [
+      "energy",
+      "europe",
+      "forecasts",
+      "gas",
+      "strategy"
+    ],
+    "ts": 1790622915.8076966
+  },
+  {
+    "id": "oilprice-news-45627",
+    "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
+    "tokens": [
+      "1982",
+      "falls",
+      "level",
+      "lowest",
+      "petroleum",
+      "reserve",
+      "since",
+      "strategic"
+    ],
+    "ts": 1790622923.4270554
   }
 ]

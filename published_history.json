@@ -1,17 +1,5 @@
 [
   {
-    "id": "soybean-bulls-pushing-higher-midday-172246256.html",
-    "title": "Soybean Bulls Pushing Higher at Midday",
-    "tokens": [
-      "bulls",
-      "higher",
-      "midday",
-      "pushing",
-      "soybean"
-    ],
-    "ts": 1790226765.854989
-  },
-  {
     "id": "corn-slipping-back-tuesday-172246595.html",
     "title": "Corn Slipping Back on Tuesday",
     "tokens": [
@@ -23051,5 +23039,20 @@
       "tariffs"
     ],
     "ts": 1790571375.8186324
+  },
+  {
+    "id": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork",
+    "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
+    "tokens": [
+      "buterin",
+      "could",
+      "ethereum",
+      "fork",
+      "hegot",
+      "last",
+      "normal",
+      "vitalik"
+    ],
+    "ts": 1790572304.9245095
   }
 ]

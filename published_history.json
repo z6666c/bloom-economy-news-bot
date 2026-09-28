@@ -1,305 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/mizuho-reiterates-shopify-stock-rating-on-meta-pay-wallet-clarity-93CH-4915133",
-    "title": "Mizuho reiterates Shopify stock rating on Meta Pay wallet clarity",
-    "tokens": [
-      "clarity",
-      "meta",
-      "mizuho",
-      "pay",
-      "rating",
-      "reiterates",
-      "shopify",
-      "stock",
-      "wallet"
-    ],
-    "ts": 1790250177.8554125
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/td-synnex-stock-falls-3-despite-beating-third-quarter-estimates-93CH-4915132",
-    "title": "TD SYNNEX stock falls 3% despite beating third quarter estimates",
-    "tokens": [
-      "beating",
-      "despite",
-      "estimates",
-      "falls",
-      "quarter",
-      "stock",
-      "synnex",
-      "third"
-    ],
-    "ts": 1790250186.9826744
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/germanys-auto-industry-head-warns-on-china-trade-imbalances-93CH-4915128",
-    "title": "Germany’s auto industry head warns on China trade imbalances",
-    "tokens": [
-      "auto",
-      "china",
-      "germany",
-      "head",
-      "imbalances",
-      "industry",
-      "trade",
-      "warns"
-    ],
-    "ts": 1790250195.1059272
-  },
-  {
-    "id": "62658870-1bcd-4709-b039-f7b95dadda66",
-    "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
-    "tokens": [
-      "16m",
-      "brooklyn",
-      "coinbase",
-      "man",
-      "phishing",
-      "prison",
-      "scheme",
-      "sent",
-      "stealing",
-      "years"
-    ],
-    "ts": 1790250204.0671532
-  },
-  {
-    "id": "cfcacf30-8d2c-4b4c-8bfe-c810c9dc7dbe",
-    "title": "Litecoin token has its moment as network activity booms",
-    "tokens": [
-      "activity",
-      "booms",
-      "litecoin",
-      "moment",
-      "network",
-      "token"
-    ],
-    "ts": 1790250211.489067
-  },
-  {
-    "id": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo",
-    "title": "Era of pure crypto exchanges is ending, Bybit CEO says",
-    "tokens": [
-      "bybit",
-      "ceo",
-      "crypto",
-      "ending",
-      "era",
-      "exchanges",
-      "pure"
-    ],
-    "ts": 1790250218.504221
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-atresmedia-stock-surging-today-93CH-4915195",
-    "title": "Why is Atresmedia stock surging today?",
-    "tokens": [
-      "atresmedia",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790250854.403636
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/toyota-motor-credit-lists-750m-notes-on-london-exchange-93CH-4915192",
-    "title": "Toyota Motor Credit lists €750m notes on London exchange",
-    "tokens": [
-      "750m",
-      "credit",
-      "exchange",
-      "lists",
-      "london",
-      "motor",
-      "notes",
-      "toyota"
-    ],
-    "ts": 1790250857.566407
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-aclaris-stock-rating-on-lp-opportunity-93CH-4915191",
-    "title": "Cantor Fitzgerald reiterates Aclaris stock rating on LP opportunity",
-    "tokens": [
-      "aclaris",
-      "cantor",
-      "fitzgerald",
-      "opportunity",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790250864.8834398
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-roivant-sciences-stock-rating-93CH-4915189",
-    "title": "Cantor Fitzgerald reiterates Roivant Sciences stock rating",
-    "tokens": [
-      "cantor",
-      "fitzgerald",
-      "rating",
-      "reiterates",
-      "roivant",
-      "sciences",
-      "stock"
-    ],
-    "ts": 1790250872.5497482
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/fervo-energy-stock-rises-after-cape-station-achieves-first-power-93CH-4915187",
-    "title": "Fervo Energy stock rises after Cape Station achieves first power",
-    "tokens": [
-      "achieves",
-      "cape",
-      "energy",
-      "fervo",
-      "first",
-      "power",
-      "rises",
-      "station",
-      "stock"
-    ],
-    "ts": 1790250876.5664392
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/qualcomm-apple-extend-licensing-agreement-for-chips-4915186",
-    "title": "Qualcomm, Apple extend licensing agreement for chips",
-    "tokens": [
-      "agreement",
-      "apple",
-      "chips",
-      "extend",
-      "licensing",
-      "qualcomm"
-    ],
-    "ts": 1790250880.8556101
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-dropbox-stock-sliding-today-93CH-4915185",
-    "title": "Why is Dropbox stock sliding today?",
-    "tokens": [
-      "dropbox",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790250884.8711972
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-uxin-stock-surging-today-93CH-4915173",
-    "title": "Why is Uxin stock surging today?",
-    "tokens": [
-      "stock",
-      "surging",
-      "today",
-      "uxin",
-      "why"
-    ],
-    "ts": 1790250884.8861911
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/wall-street-sees-muse-as-metas-next-big-catalyst-after-connect-event-4915180",
-    "title": "Wall Street sees Muse as Meta’s next big catalyst after Connect event",
-    "tokens": [
-      "big",
-      "catalyst",
-      "connect",
-      "event",
-      "meta",
-      "muse",
-      "next",
-      "sees",
-      "street",
-      "wall"
-    ],
-    "ts": 1790250888.5882668
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/guinness-vct-approves-share-buyback-director-reelections-93CH-4915176",
-    "title": "Guinness VCT approves share buyback, director re-elections",
-    "tokens": [
-      "approves",
-      "buyback",
-      "director",
-      "elections",
-      "guinness",
-      "share",
-      "vct"
-    ],
-    "ts": 1790250895.2893186
-  },
-  {
-    "id": "equity-lifestyle-els-slides-near-235135116.html",
-    "title": "Equity LifeStyle (ELS) Slides Near 52-Week Lows: Can Core Rental Stability Offset Higher Rates?",
-    "tokens": [
-      "can",
-      "core",
-      "els",
-      "equity",
-      "higher",
-      "lifestyle",
-      "lows",
-      "near",
-      "offset",
-      "rates",
-      "rental",
-      "slides",
-      "stability",
-      "week"
-    ],
-    "ts": 1790250904.106117
-  },
-  {
-    "id": "longeveron-lgvn-heart-treatment-falls-235437648.html",
-    "title": "Longeveron (LGVN) Heart Treatment Falls Short. Can a Strategic Review Preserve Value?",
-    "tokens": [
-      "can",
-      "falls",
-      "heart",
-      "lgvn",
-      "longeveron",
-      "preserve",
-      "review",
-      "short",
-      "strategic",
-      "treatment",
-      "value"
-    ],
-    "ts": 1790250911.2398577
-  },
-  {
-    "id": "asml-vs-intel-ai-chip-235501657.html",
-    "title": "ASML vs. Intel: Which AI Chip Stock Is a Better Buy in 2026?",
-    "tokens": [
-      "2026",
-      "asml",
-      "better",
-      "buy",
-      "chip",
-      "intel",
-      "stock",
-      "which"
-    ],
-    "ts": 1790250919.0291014
-  },
-  {
-    "id": "lisata-therapeutics-lsta-buys-marea-000837054.html",
-    "title": "Lisata Therapeutics (LSTA) Buys Marea and Signs $225M Financing. Is the Dilution Worth it?",
-    "tokens": [
-      "225m",
-      "buys",
-      "dilution",
-      "financing",
-      "lisata",
-      "lsta",
-      "marea",
-      "signs",
-      "therapeutics",
-      "worth"
-    ],
-    "ts": 1790250927.5651183
-  },
-  {
     "id": "hudson-technologies-hdsn-signs-icorium-010854703.html",
     "title": "Hudson Technologies (HDSN) Signs Icorium Deal. Can Better Refrigerant Recycling Lift Margins?",
     "tokens": [
@@ -22968,5 +22668,306 @@
       "toward"
     ],
     "ts": 1790612185.5470805
+  },
+  {
+    "id": "WP-MKTW-0005256807",
+    "title": "Nvidia is right: Its stock is a bargain",
+    "tokens": [
+      "bargain",
+      "nvidia",
+      "right",
+      "stock"
+    ],
+    "ts": 1790613299.948069
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/volkswagen-gotion-deepen-battery-ties-in-europe-as-vw-sells-53-stake-4920541",
+    "title": "China’s Gotion invests $1.25 billion in Volkswagen battery plant in Spain",
+    "tokens": [
+      "battery",
+      "billion",
+      "china",
+      "gotion",
+      "invests",
+      "plant",
+      "spain",
+      "volkswagen"
+    ],
+    "ts": 1790613309.495849
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/fresnillo-at-mining-forum-americas-2026-growth-pipeline-in-focus-93CH-4920886",
+    "title": "Fresnillo at Mining Forum Americas 2026: growth pipeline in focus",
+    "tokens": [
+      "2026",
+      "americas",
+      "focus",
+      "forum",
+      "fresnillo",
+      "growth",
+      "mining",
+      "pipeline"
+    ],
+    "ts": 1790613316.9034142
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/rh-director-mark-demilio-sells-132000-in-company-shares-93CH-4920884",
+    "title": "RH director Mark Demilio sells $132,000 in company shares",
+    "tokens": [
+      "000",
+      "132",
+      "company",
+      "demilio",
+      "director",
+      "mark",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790613324.130298
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/amc-stock-hits-52week-high-at-319-usd-93CH-4920875",
+    "title": "AMC stock hits 52-week high at 3.19 USD",
+    "tokens": [
+      "amc",
+      "high",
+      "hits",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790613331.4215226
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/hochschild-mining-at-mining-forum-americas-2026-growth-plan-lifts-output-93CH-4920874",
+    "title": "Hochschild Mining at Mining Forum Americas 2026: growth plan lifts output",
+    "tokens": [
+      "2026",
+      "americas",
+      "forum",
+      "growth",
+      "hochschild",
+      "lifts",
+      "mining",
+      "output",
+      "plan"
+    ],
+    "ts": 1790613339.1885765
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-011-4920873",
+    "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.11%",
+    "tokens": [
+      "100",
+      "close",
+      "com",
+      "investing",
+      "kingdom",
+      "lower",
+      "stocks",
+      "trade",
+      "united"
+    ],
+    "ts": 1790613346.1892986
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-051-4920872",
+    "title": "Spain stocks lower at close of trade; IBEX 35 down 0.51%",
+    "tokens": [
+      "close",
+      "ibex",
+      "lower",
+      "spain",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790613353.1208265
+  },
+  {
+    "id": "https://www.businessinsider.com/mongodb-stock-meta-ceo-enterprise-meta-zuckerberg-mdb-net-now-2026-9",
+    "title": "Meta the conqueror: The AI titan just poached MongoDB’s CEO and sent its stock down 27%",
+    "tokens": [
+      "ceo",
+      "conqueror",
+      "just",
+      "meta",
+      "mongodb",
+      "poached",
+      "sent",
+      "stock",
+      "titan"
+    ],
+    "ts": 1790613360.6173835
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/globaltech-corporation-resumes-trading-under-ticker-symbol-gltk-1036578605",
+    "title": "Globaltech Corporation Resumes Trading Under Ticker Symbol “GLTK”",
+    "tokens": [
+      "corporation",
+      "globaltech",
+      "gltk",
+      "resumes",
+      "symbol",
+      "ticker",
+      "trading",
+      "under"
+    ],
+    "ts": 1790613368.2715414
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/75-of-americans-fear-the-financial-aftermath-of-severe-weather-as-much-as-the-storm-itself-1036578601",
+    "title": "75% of Americans Fear the Financial Aftermath of Severe Weather as Much as the Storm Itself",
+    "tokens": [
+      "aftermath",
+      "americans",
+      "fear",
+      "financial",
+      "itself",
+      "much",
+      "severe",
+      "storm",
+      "weather"
+    ],
+    "ts": 1790613375.252886
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/ictc-launches-canada-europe-digital-economy-bridge-to-connect-canada-to-new-markets-partnerships-and-opportunities-1036578600",
+    "title": "ICTC launches Canada-Europe Digital Economy Bridge to connect Canada to new markets, partnerships, and opportunities",
+    "tokens": [
+      "bridge",
+      "canada",
+      "connect",
+      "digital",
+      "economy",
+      "europe",
+      "ictc",
+      "launches",
+      "markets",
+      "opportunities",
+      "partnerships"
+    ],
+    "ts": 1790613382.7325563
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/currencies/studio-6-plus-continues-expansion-with-new-horn-lake-mississippi-development-1036578629",
+    "title": "Studio 6 Plus Continues Expansion with New Horn Lake, Mississippi Development",
+    "tokens": [
+      "continues",
+      "development",
+      "expansion",
+      "horn",
+      "lake",
+      "mississippi",
+      "plus",
+      "studio"
+    ],
+    "ts": 1790613390.0919003
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/currencies/remittix-announces-binance500-presale-promotion-ahead-of-planned-november-24-rtx-launch-1036578598",
+    "title": "Remittix Announces BINANCE500 Presale Promotion Ahead of Planned November 24 RTX Launch",
+    "tokens": [
+      "ahead",
+      "announces",
+      "binance500",
+      "launch",
+      "november",
+      "planned",
+      "presale",
+      "promotion",
+      "remittix",
+      "rtx"
+    ],
+    "ts": 1790613397.4659793
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/currencies/remittix-announces-november-24-rtx-launch-date-as-bitcoin-price-forecasts-remain-in-focus-1036578599",
+    "title": "Remittix Announces November 24 RTX Launch Date as Bitcoin Price Forecasts Remain in Focus",
+    "tokens": [
+      "announces",
+      "bitcoin",
+      "date",
+      "focus",
+      "forecasts",
+      "launch",
+      "november",
+      "price",
+      "remain",
+      "remittix",
+      "rtx"
+    ],
+    "ts": 1790613404.4649413
+  },
+  {
+    "id": "https://seekingalpha.com/news/4647694-ingles-markets-declares-0_165-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Ingles Markets declares $0.165 dividend",
+    "tokens": [
+      "165",
+      "declares",
+      "dividend",
+      "ingles",
+      "markets"
+    ],
+    "ts": 1790613411.8143096
+  },
+  {
+    "id": "https://seekingalpha.com/news/4647693-amen-properties-declares-12_50-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "AMEN Properties declares $12.50 dividend",
+    "tokens": [
+      "amen",
+      "declares",
+      "dividend",
+      "properties"
+    ],
+    "ts": 1790613419.650489
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/hon-launches-scribble-a-flexible-polyshell-classroom-chair-with-built-in-tactile-feature-for-k-12-student-engagement-1036578555",
+    "title": "HON Launches Scribble, a Flexible Polyshell Classroom Chair with Built-in Tactile Feature for K-12 Student Engagement",
+    "tokens": [
+      "built",
+      "chair",
+      "classroom",
+      "engagement",
+      "feature",
+      "flexible",
+      "hon",
+      "launches",
+      "polyshell",
+      "scribble",
+      "student",
+      "tactile"
+    ],
+    "ts": 1790613427.5760512
+  },
+  {
+    "id": "8f50099e-cd4b-4fb2-8172-d028e53c5a34",
+    "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+    "tokens": [
+      "barely",
+      "gold",
+      "making",
+      "profit",
+      "protocols",
+      "restaking",
+      "rush",
+      "top"
+    ],
+    "ts": 1790613436.0368145
+  },
+  {
+    "id": "4134a23f-1fbc-42b3-9d1f-21369e91cbc8",
+    "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
+    "tokens": [
+      "dems",
+      "iranian",
+      "lifeline",
+      "regime",
+      "report",
+      "say",
+      "senate",
+      "tether"
+    ],
+    "ts": 1790613443.3134587
   }
 ]

@@ -1,72 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/dfs-furniture-reports-487-profit-growth-cuts-debt-by-38m-93CH-4914469",
-    "title": "DFS Furniture reports 48.7% profit growth, cuts debt by £38m",
-    "tokens": [
-      "38m",
-      "cuts",
-      "debt",
-      "dfs",
-      "furniture",
-      "growth",
-      "profit",
-      "reports"
-    ],
-    "ts": 1790231816.1454644
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hms-operating-profit-grows-more-than-expected-in-third-quarter-4914468",
-    "title": "H&M’s operating profit grows more than expected in third quarter",
-    "tokens": [
-      "expected",
-      "grows",
-      "more",
-      "operating",
-      "profit",
-      "quarter",
-      "third"
-    ],
-    "ts": 1790231823.4729307
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hafnia-to-increase-stake-in-torm-to-1985-for-578m-93CH-4914466",
-    "title": "Hafnia to increase stake in TORM to 19.85% for $57.8m",
-    "tokens": [
-      "hafnia",
-      "increase",
-      "stake",
-      "torm"
-    ],
-    "ts": 1790231830.6497207
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sundae-bar-ai-launches-monthly-subscription-for-ai-agents-93CH-4914462",
-    "title": "Sundae Bar AI launches monthly subscription for AI agents",
-    "tokens": [
-      "agents",
-      "bar",
-      "launches",
-      "monthly",
-      "subscription",
-      "sundae"
-    ],
-    "ts": 1790231838.3889153
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tencent-launches-mobile-payment-app-for-foreign-visitors-93CH-4914460",
-    "title": "Tencent launches mobile payment app for foreign visitors",
-    "tokens": [
-      "app",
-      "foreign",
-      "launches",
-      "mobile",
-      "payment",
-      "tencent",
-      "visitors"
-    ],
-    "ts": 1790231846.2509947
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/indias-rbi-conducts-10-bln-currency-swaps-to-drain-liquidity--report-93CH-4914459",
     "title": "India’s RBI conducts $10 bln currency swaps to drain liquidity - report",
     "tokens": [
@@ -23051,5 +22984,72 @@
       "week"
     ],
     "ts": 1790577819.2275796
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/4basebio-reports-210-rise-in-h1-sales-orders-amid-revenue-decline-93CH-4919407",
+    "title": "4basebio reports 210% rise in H1 sales orders amid revenue decline",
+    "tokens": [
+      "210",
+      "4basebio",
+      "decline",
+      "orders",
+      "reports",
+      "revenue",
+      "rise",
+      "sales"
+    ],
+    "ts": 1790578827.8544579
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/take-five-its-q4-already-4919408",
+    "title": "Take Five: It’s Q4 already?",
+    "tokens": [
+      "already",
+      "five",
+      "take"
+    ],
+    "ts": 1790578835.5715244
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/bodycote-publishes-scheme-document-for-veritas-acquisition-93CH-4919406",
+    "title": "Bodycote publishes scheme document for Veritas acquisition",
+    "tokens": [
+      "acquisition",
+      "bodycote",
+      "document",
+      "publishes",
+      "scheme",
+      "veritas"
+    ],
+    "ts": 1790578843.5078166
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/gresham-house-renewable-energy-vct2-shares-suspended-from-trading-93CH-4919405",
+    "title": "Gresham House Renewable Energy VCT2 shares suspended from trading",
+    "tokens": [
+      "energy",
+      "gresham",
+      "house",
+      "renewable",
+      "shares",
+      "suspended",
+      "trading",
+      "vct2"
+    ],
+    "ts": 1790578847.5232067
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/jefferies-names-top-australia-internet-stock-pick-4919404",
+    "title": "Jefferies Names Top Australia Internet Stock Pick",
+    "tokens": [
+      "australia",
+      "internet",
+      "jefferies",
+      "names",
+      "pick",
+      "stock",
+      "top"
+    ],
+    "ts": 1790578850.8379264
   }
 ]

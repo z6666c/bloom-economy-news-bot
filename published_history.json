@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/google-nears-release-of-gemini-4-ai-model-deepmind-head-tells-the-information-93CH-4914393",
-    "title": "Google nears release of Gemini 4 AI model, DeepMind head tells The Information",
-    "tokens": [
-      "deepmind",
-      "gemini",
-      "google",
-      "head",
-      "information",
-      "model",
-      "nears",
-      "release",
-      "tells"
-    ],
-    "ts": 1790222167.3636744
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/japanese-10yr-bond-yields-soar-to-30yr-high-amid-bets-on-more-rate-hikes-4914392",
     "title": "Japanese 10-yr bond yields soar to 30-yr high amid bets on more rate hikes",
     "tokens": [
@@ -23069,5 +23053,20 @@
       "technologies"
     ],
     "ts": 1790562521.1493237
+  },
+  {
+    "id": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins",
+    "title": "Newsom signs California ban on public officials issuing memecoins",
+    "tokens": [
+      "ban",
+      "california",
+      "issuing",
+      "memecoins",
+      "newsom",
+      "officials",
+      "public",
+      "signs"
+    ],
+    "ts": 1790563546.283274
   }
 ]

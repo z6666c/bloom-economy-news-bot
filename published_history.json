@@ -1,197 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/morgan-stanley-initiates-imax-stock-with-overweight-rating-on-box-office-growth-93CH-4914586",
-    "title": "Morgan Stanley initiates IMAX stock with overweight rating on box office growth",
-    "tokens": [
-      "box",
-      "growth",
-      "imax",
-      "initiates",
-      "morgan",
-      "office",
-      "overweight",
-      "rating",
-      "stanley",
-      "stock"
-    ],
-    "ts": 1790238656.5126455
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/schneider-electric-nears-15-bln-deal-to-buy-shelly-group-bloomberg-reports-4914421",
-    "title": "Shelly Group shares jump 4% on Schneider Electric takeover bid",
-    "tokens": [
-      "bid",
-      "electric",
-      "group",
-      "jump",
-      "schneider",
-      "shares",
-      "shelly",
-      "takeover"
-    ],
-    "ts": 1790238663.6991873
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/boes-lombardelli-sees-rates-rising-if-energy-prices-stay-high-4914583",
-    "title": "BoE’s Lombardelli sees rates rising if energy prices stay high",
-    "tokens": [
-      "boe",
-      "energy",
-      "high",
-      "lombardelli",
-      "prices",
-      "rates",
-      "rising",
-      "sees",
-      "stay"
-    ],
-    "ts": 1790238670.9458709
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/norways-central-bank-raises-policy-rate-to-450-93CH-4914578",
-    "title": "Norway’s central bank raises policy rate to 4.50%",
-    "tokens": [
-      "bank",
-      "central",
-      "norway",
-      "policy",
-      "raises",
-      "rate"
-    ],
-    "ts": 1790238678.3319097
-  },
-  {
-    "id": "apple-stock-price-5-trillion-market-cap-63758a7b?siteid=yhoof2&yptr=yahoo",
-    "title": "Apple Just Misses $5 Trillion Market Cap. The Milestone Is Likely Coming Soon.",
-    "tokens": [
-      "apple",
-      "cap",
-      "coming",
-      "just",
-      "likely",
-      "market",
-      "milestone",
-      "misses",
-      "soon",
-      "trillion"
-    ],
-    "ts": 1790238686.245797
-  },
-  {
-    "id": "stocks-settle-mixed-chipmakers-climb-203442164.html",
-    "title": "Stocks Settle Mixed as Chipmakers Climb and Financial Stocks Fall",
-    "tokens": [
-      "chipmakers",
-      "climb",
-      "fall",
-      "financial",
-      "mixed",
-      "settle",
-      "stocks"
-    ],
-    "ts": 1790238693.089874
-  },
-  {
-    "id": "market-participants-favor-treasury-parking-202919146.html",
-    "title": "Market participants favor Treasury parking some cash in repo market",
-    "tokens": [
-      "cash",
-      "favor",
-      "market",
-      "parking",
-      "participants",
-      "repo",
-      "some",
-      "treasury"
-    ],
-    "ts": 1790238700.3400853
-  },
-  {
-    "id": "ny-feds-perli-says-monetary-202729503.html",
-    "title": "NY Fed's Perli says monetary policy toolkit working very well",
-    "tokens": [
-      "fed",
-      "monetary",
-      "perli",
-      "policy",
-      "toolkit",
-      "very",
-      "well",
-      "working"
-    ],
-    "ts": 1790238706.8721714
-  },
-  {
-    "id": "accordia-bank-review-190954959.html",
-    "title": "Accordia Bank review (2026): Top rates on savings and CD accounts with low minimum deposits",
-    "tokens": [
-      "2026",
-      "accordia",
-      "accounts",
-      "bank",
-      "deposits",
-      "low",
-      "minimum",
-      "rates",
-      "review",
-      "savings",
-      "top"
-    ],
-    "ts": 1790238713.879703
-  },
-  {
-    "id": "everyone-chasing-florida-gulf-coast-202711076.html",
-    "title": "Everyone’s Chasing Florida’s Gulf Coast. The Retirees Who Priced It Twice Bought Somewhere Else",
-    "tokens": [
-      "bought",
-      "chasing",
-      "coast",
-      "else",
-      "everyone",
-      "florida",
-      "gulf",
-      "priced",
-      "retirees",
-      "somewhere",
-      "twice",
-      "who"
-    ],
-    "ts": 1790238720.709563
-  },
-  {
-    "id": "generac-rallies-power-deal-amazon-203530300.html",
-    "title": "Generac Rallies on Power Deal With Amazon. How to Play GNRC Stock Now.",
-    "tokens": [
-      "amazon",
-      "deal",
-      "generac",
-      "gnrc",
-      "how",
-      "now",
-      "play",
-      "power",
-      "rallies",
-      "stock"
-    ],
-    "ts": 1790238727.6902907
-  },
-  {
-    "id": "jim-cramer-notes-snowflake-snow-204239978.html",
-    "title": "Jim Cramer Notes Snowflake (SNOW) “Caught Fire in Recent Months”",
-    "tokens": [
-      "caught",
-      "cramer",
-      "fire",
-      "jim",
-      "months",
-      "notes",
-      "recent",
-      "snow",
-      "snowflake"
-    ],
-    "ts": 1790238739.261539
-  },
-  {
     "id": "tempus-ai-tem-75-goldman-204805322.html",
     "title": "Tempus AI (TEM) Has a $75 Goldman Sachs Target, But Its Data Business Faces a Bigger Test",
     "tokens": [
@@ -23058,5 +22866,188 @@
       "week"
     ],
     "ts": 1790589447.6541774
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/wall-st-futures-drop-as-oil-spikes-after-trump-rejects-iran-peace-proposal-4919715",
+    "title": "Wall St futures drop as oil spikes after Trump rejects Iran peace proposal",
+    "tokens": [
+      "drop",
+      "futures",
+      "iran",
+      "oil",
+      "peace",
+      "proposal",
+      "rejects",
+      "spikes",
+      "trump",
+      "wall"
+    ],
+    "ts": 1790590470.866882
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/baird-raises-micron-stock-price-target-on-ai-demand-outlook-93CH-4919714",
+    "title": "Baird raises Micron stock price target on AI demand outlook",
+    "tokens": [
+      "baird",
+      "demand",
+      "micron",
+      "outlook",
+      "price",
+      "raises",
+      "stock",
+      "target"
+    ],
+    "ts": 1790590479.0936031
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-updates-networking-sector-outlook-on-ai-demand-93CH-4919713",
+    "title": "Goldman Sachs updates networking sector outlook on AI demand",
+    "tokens": [
+      "demand",
+      "goldman",
+      "networking",
+      "outlook",
+      "sachs",
+      "sector",
+      "updates"
+    ],
+    "ts": 1790590487.35322
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-costco-stock-rating-on-membership-trends-93CH-4919712",
+    "title": "Evercore ISI maintains Costco stock rating on membership trends",
+    "tokens": [
+      "costco",
+      "evercore",
+      "isi",
+      "maintains",
+      "membership",
+      "rating",
+      "stock",
+      "trends"
+    ],
+    "ts": 1790590494.9594133
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-disney-stock-price-target-to-140-on-ebitda-93CH-4919711",
+    "title": "Goldman Sachs lowers Disney stock price target to $140 on EBITDA",
+    "tokens": [
+      "140",
+      "disney",
+      "ebitda",
+      "goldman",
+      "lowers",
+      "price",
+      "sachs",
+      "stock",
+      "target"
+    ],
+    "ts": 1790590503.8901694
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/prediction-markets-push-into-us-stocks-raises-regulatory-alarm-bells-4919710",
+    "title": "Prediction markets’ push into US stocks raises regulatory alarm bells",
+    "tokens": [
+      "alarm",
+      "bells",
+      "markets",
+      "prediction",
+      "push",
+      "raises",
+      "regulatory",
+      "stocks"
+    ],
+    "ts": 1790590511.9380033
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/datameds-ai-launches-health-app-targeting-glp1-users-93CH-4919707",
+    "title": "DataMeds AI launches health app targeting GLP-1 users",
+    "tokens": [
+      "app",
+      "datameds",
+      "glp",
+      "health",
+      "launches",
+      "targeting",
+      "users"
+    ],
+    "ts": 1790590519.3370795
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/national-healthcare-properties-to-sell-omf-portfolio-for-542m-93CH-4919706",
+    "title": "National Healthcare Properties to sell OMF portfolio for $542M",
+    "tokens": [
+      "542m",
+      "healthcare",
+      "national",
+      "omf",
+      "portfolio",
+      "properties",
+      "sell"
+    ],
+    "ts": 1790590527.3118849
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ideaya-biosciences-promotes-michael-white-to-rd-president-93CH-4919704",
+    "title": "IDEAYA Biosciences promotes Michael White to R&D president",
+    "tokens": [
+      "biosciences",
+      "ideaya",
+      "michael",
+      "president",
+      "promotes",
+      "white"
+    ],
+    "ts": 1790590535.9549727
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/medicinova-reports-mixed-phase-2-results-for-mn001-drug-trial-93CH-4919705",
+    "title": "MediciNova reports mixed phase 2 results for MN-001 drug trial",
+    "tokens": [
+      "001",
+      "drug",
+      "medicinova",
+      "mixed",
+      "phase",
+      "reports",
+      "results",
+      "trial"
+    ],
+    "ts": 1790590543.3253338
+  },
+  {
+    "id": "9b137aae-ded0-4e17-9b0d-26bf382f9b30",
+    "title": "Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs",
+    "tokens": [
+      "000",
+      "below",
+      "bitcoin",
+      "climbs",
+      "iran",
+      "live",
+      "oil",
+      "sinks",
+      "stall",
+      "talks",
+      "updates"
+    ],
+    "ts": 1790590552.9120843
+  },
+  {
+    "id": "https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou",
+    "title": "Hong Kong regulators expand financial reporting oversight to licensed crypto firms",
+    "tokens": [
+      "crypto",
+      "expand",
+      "financial",
+      "firms",
+      "hong",
+      "kong",
+      "licensed",
+      "oversight",
+      "regulators",
+      "reporting"
+    ],
+    "ts": 1790590561.7834816
   }
 ]

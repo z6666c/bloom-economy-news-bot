@@ -1,65 +1,5 @@
 [
   {
-    "id": "dutch-bros-valuation-attractive-despite-175900917.html",
-    "title": "Dutch Bros valuation attractive despite stock decline says Bank of America",
-    "tokens": [
-      "america",
-      "attractive",
-      "bank",
-      "bros",
-      "decline",
-      "despite",
-      "dutch",
-      "stock",
-      "valuation"
-    ],
-    "ts": 1790229291.7900164
-  },
-  {
-    "id": "corporate-bond-buyers-picky-flood-100410778.html",
-    "title": "Corporate bond buyers get picky with flood of AI debt",
-    "tokens": [
-      "bond",
-      "buyers",
-      "corporate",
-      "debt",
-      "flood",
-      "get",
-      "picky"
-    ],
-    "ts": 1790229299.8376424
-  },
-  {
-    "id": "arm-stock-too-good-sell-182431532.html",
-    "title": "Arm Stock: Too Good to Sell, Too Expensive to Buy",
-    "tokens": [
-      "arm",
-      "buy",
-      "expensive",
-      "good",
-      "sell",
-      "stock",
-      "too"
-    ],
-    "ts": 1790229307.5333068
-  },
-  {
-    "id": "microsoft-msft-raises-dividend-8-183008175.html",
-    "title": "Microsoft (MSFT) Raises Its Dividend 8%. Does AI Spending Change the Investment Case?",
-    "tokens": [
-      "case",
-      "change",
-      "dividend",
-      "does",
-      "investment",
-      "microsoft",
-      "msft",
-      "raises",
-      "spending"
-    ],
-    "ts": 1790229317.2135496
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/judge-orders-trump-to-restore-white-house-media-access-to-banned-outlets-4914450",
     "title": "Judge orders Trump to restore White House media access to banned outlets",
     "tokens": [
@@ -23062,5 +23002,61 @@
       "weighs"
     ],
     "ts": 1790574440.3792481
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/china-chipmaking-stocks-tumble-as-beijing-reportedly-mulls-allowing-nvidia-sales-4919366",
+    "title": "China chipmaking stocks tumble as Beijing reportedly mulls allowing Nvidia sales",
+    "tokens": [
+      "allowing",
+      "beijing",
+      "china",
+      "chipmaking",
+      "mulls",
+      "nvidia",
+      "reportedly",
+      "sales",
+      "stocks",
+      "tumble"
+    ],
+    "ts": 1790576121.8668685
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/jyske-bank-buys-back-52072-shares-in-week-39-93CH-4919362",
+    "title": "Jyske Bank buys back 52,072 shares in week 39",
+    "tokens": [
+      "072",
+      "back",
+      "bank",
+      "buys",
+      "jyske",
+      "shares",
+      "week"
+    ],
+    "ts": 1790576129.1197658
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-hutchmed-china-stock-gaining-today-93CH-4919353",
+    "title": "Why is HUTCHMED China stock gaining today?",
+    "tokens": [
+      "china",
+      "gaining",
+      "hutchmed",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790576136.637686
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-nio-stock-climbing-today-93CH-4919344",
+    "title": "Why is NIO stock climbing today?",
+    "tokens": [
+      "climbing",
+      "nio",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790576144.828622
   }
 ]

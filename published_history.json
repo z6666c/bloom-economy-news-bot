@@ -1,194 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005246289",
-    "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-    "tokens": [
-      "can",
-      "card",
-      "credit",
-      "doesn",
-      "fair",
-      "money",
-      "plenty",
-      "qualify",
-      "retail",
-      "retired",
-      "seem",
-      "why"
-    ],
-    "ts": 1790240072.7835765
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/feds-williams-says-it-is-reasonable-to-see-another-us-rate-hike-this-year-4914611",
-    "title": "Fed’s Williams says it is reasonable to see another US rate hike this year",
-    "tokens": [
-      "another",
-      "fed",
-      "hike",
-      "rate",
-      "reasonable",
-      "see",
-      "williams",
-      "year"
-    ],
-    "ts": 1790240080.3819091
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/flatexdegiro-launches-german-retirement-savings-accounts-93CH-4914607",
-    "title": "flatexDEGIRO launches German retirement savings accounts",
-    "tokens": [
-      "accounts",
-      "flatexdegiro",
-      "german",
-      "launches",
-      "retirement",
-      "savings"
-    ],
-    "ts": 1790240087.0865884
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
-    "title": "U.S. yields surge past 5% as hot PMI data and failed auctions spark sharp sell-off",
-    "tokens": [
-      "auctions",
-      "data",
-      "failed",
-      "hot",
-      "off",
-      "past",
-      "pmi",
-      "sell",
-      "sharp",
-      "spark",
-      "surge",
-      "yields"
-    ],
-    "ts": 1790240094.3156426
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-rollins-stock-rating-on-ai-search-concerns-93CH-4914602",
-    "title": "Piper Sandler cuts Rollins stock rating on AI search concerns",
-    "tokens": [
-      "concerns",
-      "cuts",
-      "piper",
-      "rating",
-      "rollins",
-      "sandler",
-      "search",
-      "stock"
-    ],
-    "ts": 1790240101.3450425
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/christian-dior-shares-surge-16-on-arnault-familys-46905-cash-offer-plan-4914601",
-    "title": "Christian Dior shares surge 16% on Arnault family’s €469.05 cash offer plan",
-    "tokens": [
-      "469",
-      "arnault",
-      "cash",
-      "christian",
-      "dior",
-      "family",
-      "offer",
-      "plan",
-      "shares",
-      "surge"
-    ],
-    "ts": 1790240108.1905913
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bmw-stock-is-its-cheap-valuation-enough-for-a-buy-ahead-of-next-weeks-cmd-93CH-4914599",
-    "title": "BMW stock: Is its cheap valuation enough for a buy ahead of next week’s CMD?",
-    "tokens": [
-      "ahead",
-      "bmw",
-      "buy",
-      "cheap",
-      "cmd",
-      "enough",
-      "next",
-      "stock",
-      "valuation",
-      "week"
-    ],
-    "ts": 1790240115.0879407
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/amazon-receives-vietnam-satellite-telecom-license--report-93CH-4914598",
-    "title": "Amazon receives Vietnam satellite telecom license - report",
-    "tokens": [
-      "amazon",
-      "license",
-      "receives",
-      "report",
-      "satellite",
-      "telecom",
-      "vietnam"
-    ],
-    "ts": 1790240121.5683568
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/citi-doubleupgrades-mtu-aero-engines-to-buy-on-cash-conversion-inflection-4914595",
-    "title": "Citi double-upgrades MTU Aero Engines to Buy on cash conversion inflection",
-    "tokens": [
-      "aero",
-      "buy",
-      "cash",
-      "citi",
-      "conversion",
-      "double",
-      "engines",
-      "inflection",
-      "mtu",
-      "upgrades"
-    ],
-    "ts": 1790240128.436789
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/bank-of-england-may-tighten-policy-if-energy-prices-stay-high-93CH-4914594",
-    "title": "Bank of England may tighten policy if energy prices stay high",
-    "tokens": [
-      "bank",
-      "energy",
-      "england",
-      "high",
-      "may",
-      "policy",
-      "prices",
-      "stay",
-      "tighten"
-    ],
-    "ts": 1790240135.773109
-  },
-  {
-    "id": "autozone-inc-q4-2026-earnings-205114740.html",
-    "title": "AutoZone, Inc. Q4 2026 Earnings Call Summary",
-    "tokens": [
-      "2026",
-      "autozone",
-      "call",
-      "earnings",
-      "inc",
-      "summary"
-    ],
-    "ts": 1790240143.2781193
-  },
-  {
-    "id": "lets-not-send-out-the-diesel-trump-floats-ban-on-us-diesel-exports-190158139.html",
-    "title": "'Let's not send out the diesel': Trump floats ban on US diesel exports",
-    "tokens": [
-      "ban",
-      "diesel",
-      "exports",
-      "floats",
-      "let",
-      "send",
-      "trump"
-    ],
-    "ts": 1790240150.6935933
-  },
-  {
     "id": "nucor-nue-strong-shipments-q3-205941798.html",
     "title": "Nucor (NUE): Strong Shipments, but Q3 Guidance Raises Earnings Questions",
     "tokens": [
@@ -23044,5 +22855,188 @@
       "while"
     ],
     "ts": 1790591636.5251882
+  },
+  {
+    "id": "WP-MKTW-0005256236",
+    "title": "How Muse and other AI agents  could spark a bank run, according to an economist",
+    "tokens": [
+      "according",
+      "agents",
+      "bank",
+      "could",
+      "economist",
+      "how",
+      "muse",
+      "other",
+      "run",
+      "spark"
+    ],
+    "ts": 1790592920.1231077
+  },
+  {
+    "id": "WP-MKTW-0005251279",
+    "title": "The history of this market bad breadth signal points to ominous risks ahead",
+    "tokens": [
+      "ahead",
+      "bad",
+      "breadth",
+      "history",
+      "market",
+      "ominous",
+      "points",
+      "risks",
+      "signal"
+    ],
+    "ts": 1790592928.5011077
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sp-500-breadth-hits-lowest-level-since-dotcom-bubble-goldman-says-4919770",
+    "title": "S&P 500 breadth hits lowest level since dot-com bubble, Goldman says",
+    "tokens": [
+      "500",
+      "breadth",
+      "bubble",
+      "com",
+      "dot",
+      "goldman",
+      "hits",
+      "level",
+      "lowest",
+      "since"
+    ],
+    "ts": 1790592936.6374269
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/netease-shares-climb-in-hong-kong-after-morgan-stanley-top-pick-designation-93CH-4919769",
+    "title": "NetEase shares climb in Hong Kong after Morgan Stanley Top Pick designation",
+    "tokens": [
+      "climb",
+      "designation",
+      "hong",
+      "kong",
+      "morgan",
+      "netease",
+      "pick",
+      "shares",
+      "stanley",
+      "top"
+    ],
+    "ts": 1790592944.4979098
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/xp-factory-sells-boom-battle-bar-for-up-to-11m-93CH-4919768",
+    "title": "XP Factory sells Boom Battle Bar for up to £11m",
+    "tokens": [
+      "11m",
+      "bar",
+      "battle",
+      "boom",
+      "factory",
+      "sells"
+    ],
+    "ts": 1790592951.5262585
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/superx-launches-ai-token-platform-and-apps-in-singapore-93CH-4919767",
+    "title": "SuperX launches AI token platform and apps in Singapore",
+    "tokens": [
+      "apps",
+      "launches",
+      "platform",
+      "singapore",
+      "superx",
+      "token"
+    ],
+    "ts": 1790592958.8560443
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/perpetua-resources-advances-construction-at-idaho-gold-project-93CH-4919766",
+    "title": "Perpetua Resources advances construction at Idaho gold project",
+    "tokens": [
+      "advances",
+      "construction",
+      "gold",
+      "idaho",
+      "perpetua",
+      "project",
+      "resources"
+    ],
+    "ts": 1790592967.1152143
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nationwide-building-society-buys-back-72-of-at1-securities-93CH-4919754",
+    "title": "Nationwide Building Society buys back 72% of AT1 securities",
+    "tokens": [
+      "at1",
+      "back",
+      "building",
+      "buys",
+      "nationwide",
+      "securities",
+      "society"
+    ],
+    "ts": 1790592975.5464418
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/diesel-at-652-squeezes-fishing-fleets-as-lobster-demand-sags-93CH-4919753",
+    "title": "Diesel at $6.52 squeezes fishing fleets as lobster demand sags",
+    "tokens": [
+      "demand",
+      "diesel",
+      "fishing",
+      "fleets",
+      "lobster",
+      "sags",
+      "squeezes"
+    ],
+    "ts": 1790592983.2784884
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/copper-falls-to-lowest-in-over-a-week-on-china-data-dollar-93CH-4919752",
+    "title": "Copper falls to lowest in over a week on China data, dollar",
+    "tokens": [
+      "china",
+      "copper",
+      "data",
+      "dollar",
+      "falls",
+      "lowest",
+      "week"
+    ],
+    "ts": 1790592991.4053886
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bank-of-englands-ramsden-says-rates-may-need-to-rise-if-inflation-pressures-build-4919750",
+    "title": "Bank of England’s Ramsden says rates may need to rise if inflation pressures build",
+    "tokens": [
+      "bank",
+      "build",
+      "england",
+      "inflation",
+      "may",
+      "need",
+      "pressures",
+      "ramsden",
+      "rates",
+      "rise"
+    ],
+    "ts": 1790592999.2355974
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-dte-energy-stock-price-target-on-utility-valuation-pressure-93CH-4919748",
+    "title": "Mizuho cuts DTE Energy stock price target on utility valuation pressure",
+    "tokens": [
+      "cuts",
+      "dte",
+      "energy",
+      "mizuho",
+      "pressure",
+      "price",
+      "stock",
+      "target",
+      "utility",
+      "valuation"
+    ],
+    "ts": 1790593006.2918053
   }
 ]

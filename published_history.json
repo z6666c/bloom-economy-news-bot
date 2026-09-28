@@ -1,86 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005245875",
-    "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-    "tokens": [
-      "000",
-      "else",
-      "finances",
-      "her",
-      "hiding",
-      "mother",
-      "old",
-      "overpaid",
-      "security",
-      "social",
-      "what",
-      "year"
-    ],
-    "ts": 1790215849.0866234
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/universal-technical-institute-director-buys-19833-in-shares-93CH-4914362",
-    "title": "Universal Technical Institute director buys $19,833 in shares",
-    "tokens": [
-      "833",
-      "buys",
-      "director",
-      "institute",
-      "shares",
-      "technical",
-      "universal"
-    ],
-    "ts": 1790215856.671938
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/endeavor-blockchain-10-owner-buys-big-digital-energy-shares-for-4936-93CH-4914361",
-    "title": "Endeavor blockchain, 10% owner, buys Big Digital Energy shares for $4,936",
-    "tokens": [
-      "936",
-      "big",
-      "blockchain",
-      "buys",
-      "digital",
-      "endeavor",
-      "energy",
-      "owner",
-      "shares"
-    ],
-    "ts": 1790215860.6827207
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/archer-aviation-president-benjamin-lyon-sells-246299-in-stock-93CH-4914360",
-    "title": "Archer Aviation president Benjamin Lyon sells $246,299 in stock",
-    "tokens": [
-      "246",
-      "299",
-      "archer",
-      "aviation",
-      "benjamin",
-      "lyon",
-      "president",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790215864.3773959
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/sofi-technologies-evp-kelli-keough-sells-173310-in-shares-93CH-4914359",
-    "title": "SoFi Technologies EVP Kelli Keough sells $173,310 in shares",
-    "tokens": [
-      "173",
-      "310",
-      "evp",
-      "kelli",
-      "keough",
-      "sells",
-      "shares",
-      "sofi",
-      "technologies"
-    ],
-    "ts": 1790215872.4888284
-  },
-  {
     "id": "https://www.investing.com/news/economic-indicators/australia-jobs-beat-forecasts-in-aug-but-unemployment-hits-5yr-high-4914356",
     "title": "Australia jobs beat forecasts in Aug, but unemployment hits 5-yr high",
     "tokens": [
@@ -23081,5 +23000,83 @@
       "years"
     ],
     "ts": 1790554600.4532924
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-dip-as-markets-parse-iran-tensions-openai-training-halt-4919222",
+    "title": "U.S. stock futures dip as markets parse Iran tensions, OpenAI training halt",
+    "tokens": [
+      "dip",
+      "futures",
+      "halt",
+      "iran",
+      "markets",
+      "openai",
+      "parse",
+      "stock",
+      "tensions",
+      "training"
+    ],
+    "ts": 1790556401.745177
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/centuri-holdings-director-dustin-demaria-buys-100204-ctri-93CH-4919221",
+    "title": "Centuri Holdings director Dustin DeMaria buys $100,204 CTRI",
+    "tokens": [
+      "100",
+      "204",
+      "buys",
+      "centuri",
+      "ctri",
+      "demaria",
+      "director",
+      "dustin",
+      "holdings"
+    ],
+    "ts": 1790556409.1182961
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/japans-corporate-services-inflation-hits-2year-high-4919220",
+    "title": "Japan’s corporate services inflation hits 2-year high",
+    "tokens": [
+      "corporate",
+      "high",
+      "hits",
+      "inflation",
+      "japan",
+      "services",
+      "year"
+    ],
+    "ts": 1790556416.814825
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/iran-insists-on-diplomatic-solution-after-trump-rejects-peace-plan-4919219",
+    "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
+    "tokens": [
+      "diplomatic",
+      "insists",
+      "iran",
+      "peace",
+      "plan",
+      "rejects",
+      "solution",
+      "trump"
+    ],
+    "ts": 1790556420.830396
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/mideast-oil-exports-rebound-in-september-as-saudi-arabia-boosts-shipments-4919216",
+    "title": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments",
+    "tokens": [
+      "arabia",
+      "boosts",
+      "exports",
+      "mideast",
+      "oil",
+      "rebound",
+      "saudi",
+      "september",
+      "shipments"
+    ],
+    "ts": 1790556424.191343
   }
 ]

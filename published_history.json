@@ -1,114 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/carlyle-group-stock-hits-52week-low-at-3915-usd-93CH-4915593",
-    "title": "Carlyle Group stock hits 52-week low at 39.15 USD",
-    "tokens": [
-      "carlyle",
-      "group",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790259124.6313896
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/thermo-fisher-scientific-stock-hits-52week-high-at-67169-usd-93CH-4915592",
-    "title": "Thermo Fisher Scientific stock hits 52-week high at 671.69 USD",
-    "tokens": [
-      "671",
-      "fisher",
-      "high",
-      "hits",
-      "scientific",
-      "stock",
-      "thermo",
-      "usd",
-      "week"
-    ],
-    "ts": 1790259128.0576313
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/agilent-technologies-stock-hits-52week-high-at-16907-usd-93CH-4915591",
-    "title": "Agilent Technologies stock hits 52-week high at 169.07 USD",
-    "tokens": [
-      "169",
-      "agilent",
-      "high",
-      "hits",
-      "stock",
-      "technologies",
-      "usd",
-      "week"
-    ],
-    "ts": 1790259136.2725713
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/general-american-investors-vp-stark-buys-113750-in-preferred-stock-93CH-4915589",
-    "title": "General American investors VP Stark buys $113,750 in preferred stock",
-    "tokens": [
-      "113",
-      "750",
-      "american",
-      "buys",
-      "general",
-      "investors",
-      "preferred",
-      "stark",
-      "stock"
-    ],
-    "ts": 1790259143.7551498
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-cuts-mcdonalds-stock-price-target-on-reinvestment-plan-93CH-4915585",
-    "title": "JPMorgan cuts McDonald’s stock price target on reinvestment plan",
-    "tokens": [
-      "cuts",
-      "jpmorgan",
-      "mcdonald",
-      "plan",
-      "price",
-      "reinvestment",
-      "stock",
-      "target"
-    ],
-    "ts": 1790259151.930606
-  },
-  {
-    "id": "oilprice-article-45592",
-    "title": "South Korea Follows Japan's Playbook With $22.3 Billion Texas Gas Bet",
-    "tokens": [
-      "bet",
-      "billion",
-      "follows",
-      "gas",
-      "japan",
-      "korea",
-      "playbook",
-      "south",
-      "texas"
-    ],
-    "ts": 1790259161.363095
-  },
-  {
-    "id": "oilprice-news-45592",
-    "title": "Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Hormuz",
-    "tokens": [
-      "100",
-      "arabia",
-      "asia",
-      "barrels",
-      "crude",
-      "hormuz",
-      "million",
-      "saudi",
-      "sells",
-      "via"
-    ],
-    "ts": 1790259169.8568766
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/needham-remains-cautious-on-nike-stock-sees-more-downside-risk-4915680",
     "title": "Needham remains cautious on Nike stock, sees more downside risk",
     "tokens": [
@@ -23015,5 +22906,99 @@
       "strategic"
     ],
     "ts": 1790622923.4270554
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/trump-says-us-will-win-iran-war-very-soon-4921027",
+    "title": "Trump says US will win Iran war ’very soon’",
+    "tokens": [
+      "iran",
+      "soon",
+      "trump",
+      "very",
+      "war",
+      "win"
+    ],
+    "ts": 1790623928.3222451
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-teleflex-stock-rallying-today-93CH-4921026",
+    "title": "Why is Teleflex stock rallying today?",
+    "tokens": [
+      "rallying",
+      "stock",
+      "teleflex",
+      "today",
+      "why"
+    ],
+    "ts": 1790623935.791739
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/mongodb-shares-fall-as-ceo-desai-steps-down-ittycheria-returns-93CH-4921025",
+    "title": "MongoDB shares fall as CEO Desai steps down, Ittycheria returns",
+    "tokens": [
+      "ceo",
+      "desai",
+      "fall",
+      "ittycheria",
+      "mongodb",
+      "returns",
+      "shares",
+      "steps"
+    ],
+    "ts": 1790623944.5050757
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-monster-beverage-stock-sliding-today-93CH-4921024",
+    "title": "Why is Monster Beverage stock sliding today?",
+    "tokens": [
+      "beverage",
+      "monster",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790623951.6869447
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-clevelandcliffs-stock-sliding-today-93CH-4921023",
+    "title": "Why is Cleveland-Cliffs stock sliding today?",
+    "tokens": [
+      "cleveland",
+      "cliffs",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790623960.3741817
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/lightspeed-stock-price-target-lowered-to-950-by-morgan-stanley-93CH-4921021",
+    "title": "Lightspeed stock price target lowered to $9.50 by Morgan Stanley",
+    "tokens": [
+      "lightspeed",
+      "lowered",
+      "morgan",
+      "price",
+      "stanley",
+      "stock",
+      "target"
+    ],
+    "ts": 1790623968.0090387
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ormat-technologies-stock-hits-52week-low-at-9058-usd-93CH-4921017",
+    "title": "Ormat Technologies stock hits 52-week low at 90.58 USD",
+    "tokens": [
+      "hits",
+      "low",
+      "ormat",
+      "stock",
+      "technologies",
+      "usd",
+      "week"
+    ],
+    "ts": 1790623972.0248525
   }
 ]

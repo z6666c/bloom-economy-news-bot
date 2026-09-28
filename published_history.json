@@ -1,105 +1,5 @@
 [
   {
-    "id": "sabert-sells-private-equity-142500584.html",
-    "title": "Sabert sells to private equity",
-    "tokens": [
-      "equity",
-      "private",
-      "sabert",
-      "sells"
-    ],
-    "ts": 1790215895.7547357
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/dollar-perched-at-twomonth-high-as-hot-pmi-fuels-inflation-fears-rate-hike-bets-4914371",
-    "title": "Dollar perched at two-month high as hot PMI fuels inflation fears, rate hike bets",
-    "tokens": [
-      "bets",
-      "dollar",
-      "fears",
-      "fuels",
-      "high",
-      "hike",
-      "hot",
-      "inflation",
-      "month",
-      "perched",
-      "pmi",
-      "rate",
-      "two"
-    ],
-    "ts": 1790216856.802542
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/australias-unemployment-rate-hits-fiveyear-high-in-august-as-more-seek-work-4914372",
-    "title": "Australia’s unemployment rate hits five-year high in August as more seek work",
-    "tokens": [
-      "august",
-      "australia",
-      "five",
-      "high",
-      "hits",
-      "more",
-      "rate",
-      "seek",
-      "unemployment",
-      "work",
-      "year"
-    ],
-    "ts": 1790216863.9074764
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/meta-at-connect-2026-betting-on-ai-glasses-and-personal-agents-93CH-4914370",
-    "title": "Meta at connect 2026: betting on ai glasses and personal agents",
-    "tokens": [
-      "2026",
-      "agents",
-      "betting",
-      "connect",
-      "glasses",
-      "meta",
-      "personal"
-    ],
-    "ts": 1790216871.8973842
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/asia-energy-stocks-rise-as-oil-rebounds-on-renewed-iran-supply-fears-4914367",
-    "title": "Asia energy stocks rise as oil rebounds on renewed Iran supply fears",
-    "tokens": [
-      "asia",
-      "energy",
-      "fears",
-      "iran",
-      "oil",
-      "rebounds",
-      "renewed",
-      "rise",
-      "stocks",
-      "supply"
-    ],
-    "ts": 1790216879.3576937
-  },
-  {
-    "id": "63-old-couple-converting-500-144417708.html",
-    "title": "A 63-Year-Old Couple Is Converting $500,000 to a Roth Over Four Years to Erase a $140,000 Tax Bill",
-    "tokens": [
-      "000",
-      "140",
-      "500",
-      "bill",
-      "converting",
-      "couple",
-      "erase",
-      "four",
-      "old",
-      "roth",
-      "tax",
-      "year",
-      "years"
-    ],
-    "ts": 1790216887.185724
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/chinese-tech-chip-stocks-slide-as-us-yields-surge-4914380",
     "title": "Chinese tech, chip stocks slide as U.S. yields surge",
     "tokens": [
@@ -23080,5 +22980,105 @@
       "yields"
     ],
     "ts": 1790557852.8202312
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bank-of-japan-debated-need-for-faster-rate-hikes-july-minutes-show-4919225",
+    "title": "Bank of Japan debated need for faster rate hikes, July minutes show",
+    "tokens": [
+      "bank",
+      "debated",
+      "faster",
+      "hikes",
+      "japan",
+      "july",
+      "minutes",
+      "need",
+      "rate",
+      "show"
+    ],
+    "ts": 1790558842.7448313
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusiveopenai-works-to-understand-full-scope-of-agent-activity-as-user-data-leak-emerges-4919229",
+    "title": "Exclusive-OpenAI works to understand full scope of agent activity as user data leak emerges",
+    "tokens": [
+      "activity",
+      "agent",
+      "data",
+      "emerges",
+      "exclusive",
+      "full",
+      "leak",
+      "openai",
+      "scope",
+      "understand",
+      "user",
+      "works"
+    ],
+    "ts": 1790558849.5592048
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nikkei-225-trapped-in-6520067100-range-live-levels-93CH-4919228",
+    "title": "Nikkei 225 trapped in 65,200-67,100 range: Live levels",
+    "tokens": [
+      "100",
+      "200",
+      "225",
+      "levels",
+      "live",
+      "nikkei",
+      "range",
+      "trapped"
+    ],
+    "ts": 1790558857.3990428
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sk-hynix-doji-at-fibonacci-inflection-1808000-live-levels-93CH-4919227",
+    "title": "SK Hynix doji at Fibonacci inflection ₩1,808,000: Live levels",
+    "tokens": [
+      "000",
+      "808",
+      "doji",
+      "fibonacci",
+      "hynix",
+      "inflection",
+      "levels",
+      "live"
+    ],
+    "ts": 1790558864.6370034
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/boeing-flags-737-max-software-glitch-affecting-landing-navigation-feature-wsj-reports-4919226",
+    "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports",
+    "tokens": [
+      "737",
+      "affecting",
+      "boeing",
+      "feature",
+      "flags",
+      "glitch",
+      "landing",
+      "max",
+      "navigation",
+      "reports",
+      "software",
+      "wsj"
+    ],
+    "ts": 1790558868.6520903
+  },
+  {
+    "id": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit",
+    "title": "Zano rolls blockchain back a month after Gateway Address exploit",
+    "tokens": [
+      "address",
+      "back",
+      "blockchain",
+      "exploit",
+      "gateway",
+      "month",
+      "rolls",
+      "zano"
+    ],
+    "ts": 1790558873.150494
   }
 ]

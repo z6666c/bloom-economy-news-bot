@@ -1,91 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/agnc-stock-hits-52week-low-at-963-usd-93CH-4916068",
-    "title": "Agnc stock hits 52-week low at 9.63 USD",
-    "tokens": [
-      "agnc",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790279544.9946942
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/banxico-holds-benchmark-rate-at-65-as-core-inflation-proves-sticky-4916066",
-    "title": "Banxico holds benchmark rate at 6.5% as core inflation proves sticky",
-    "tokens": [
-      "banxico",
-      "benchmark",
-      "core",
-      "holds",
-      "inflation",
-      "proves",
-      "rate",
-      "sticky"
-    ],
-    "ts": 1790279549.3803477
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/morgan-stanley-asia-deals-leaked-in-missent-email-attachment-4915622",
-    "title": "Morgan Stanley Asia deals leaked in missent email attachment",
-    "tokens": [
-      "asia",
-      "attachment",
-      "deals",
-      "email",
-      "leaked",
-      "missent",
-      "morgan",
-      "stanley"
-    ],
-    "ts": 1790279557.0393028
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/miami-international-holdings-stock-hits-52week-low-at-3542-usd-93CH-4916065",
-    "title": "Miami International Holdings stock hits 52-week low at 35.42 USD",
-    "tokens": [
-      "hits",
-      "holdings",
-      "international",
-      "low",
-      "miami",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790279561.0560348
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/federal-reserve-unveils-proposed-framework-for-stablecoin-issuers-4916070",
-    "title": "Federal Reserve unveils proposed framework for stablecoin issuers",
-    "tokens": [
-      "federal",
-      "framework",
-      "issuers",
-      "proposed",
-      "reserve",
-      "stablecoin",
-      "unveils"
-    ],
-    "ts": 1790280717.182454
-  },
-  {
-    "id": "oilprice-article-45600",
-    "title": "Global Biofuels Output Could Surge 70% Amid Energy Crisis",
-    "tokens": [
-      "biofuels",
-      "could",
-      "crisis",
-      "energy",
-      "global",
-      "output",
-      "surge"
-    ],
-    "ts": 1790280727.6987646
-  },
-  {
     "id": "oilprice-news-45600",
     "title": "Saudi Oil Export Costs Surge as Red Sea Risks Mount",
     "tokens": [
@@ -22921,5 +22835,103 @@
       "wins"
     ],
     "ts": 1790659750.250532
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/china-factories-seen-rebounding-in-september-as-beijing-signals-more-aid-reuters-poll-4921583",
+    "title": "China factories seen rebounding in September as Beijing signals more aid: Reuters poll",
+    "tokens": [
+      "aid",
+      "beijing",
+      "china",
+      "factories",
+      "more",
+      "poll",
+      "rebounding",
+      "reuters",
+      "seen",
+      "september",
+      "signals"
+    ],
+    "ts": 1790660891.2829967
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/australias-central-bank-raises-cash-rate-to-15year-peak-4921581",
+    "title": "Australia’s central bank raises cash rate to 15-year peak",
+    "tokens": [
+      "australia",
+      "bank",
+      "cash",
+      "central",
+      "peak",
+      "raises",
+      "rate",
+      "year"
+    ],
+    "ts": 1790660899.0938468
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/hengrui-pharma-shares-rise-as-novo-nordisk-signs-26-billion-drug-deal-4921580",
+    "title": "Hengrui Pharma shares rise as Novo Nordisk signs $2.6 billion drug deal",
+    "tokens": [
+      "billion",
+      "deal",
+      "drug",
+      "hengrui",
+      "nordisk",
+      "novo",
+      "pharma",
+      "rise",
+      "shares",
+      "signs"
+    ],
+    "ts": 1790660906.4274623
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/dolphin-entertainment-ceo-odowd-buys-4884-in-dlpn-stock-93CH-4921579",
+    "title": "Dolphin entertainment CEO O’Dowd buys $4,884 in DLPN stock",
+    "tokens": [
+      "884",
+      "buys",
+      "ceo",
+      "dlpn",
+      "dolphin",
+      "dowd",
+      "entertainment",
+      "stock"
+    ],
+    "ts": 1790660913.5699625
+  },
+  {
+    "id": "b35fccf1-fb5d-431b-8ca4-c12481395b09",
+    "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
+    "tokens": [
+      "518",
+      "anthropic",
+      "barely",
+      "billion",
+      "blink",
+      "infrastructure",
+      "ipo",
+      "perps",
+      "plans",
+      "pre",
+      "spend"
+    ],
+    "ts": 1790660922.2809663
+  },
+  {
+    "id": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year",
+    "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+    "tokens": [
+      "550m",
+      "freeze",
+      "helped",
+      "iran",
+      "linked",
+      "tether",
+      "usdt",
+      "year"
+    ],
+    "ts": 1790660929.6108425
   }
 ]

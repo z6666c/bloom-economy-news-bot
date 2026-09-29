@@ -1,158 +1,5 @@
 [
   {
-    "id": "https://seekingalpha.com/news/4646839-goldman-sachs-said-to-have-earned-over-200m-in-fees-this-year-from-situational-awareness?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Goldman Sachs said to have earned over $200M in fees this year from Situational Awareness",
-    "tokens": [
-      "200m",
-      "awareness",
-      "earned",
-      "fees",
-      "goldman",
-      "sachs",
-      "situational",
-      "year"
-    ],
-    "ts": 1790277147.4824088
-  },
-  {
-    "id": "oilprice-article-45599",
-    "title": "Italy Returns to Nuclear After 40-Year Hiatus",
-    "tokens": [
-      "hiatus",
-      "italy",
-      "nuclear",
-      "returns",
-      "year"
-    ],
-    "ts": 1790277156.6276314
-  },
-  {
-    "id": "oilprice-news-45599",
-    "title": "Saudi Oil Export Costs Surge as Red Sea Risks Mount",
-    "tokens": [
-      "costs",
-      "export",
-      "mount",
-      "oil",
-      "red",
-      "risks",
-      "saudi",
-      "sea",
-      "surge"
-    ],
-    "ts": 1790277164.8830836
-  },
-  {
-    "id": "WP-MKTW-0005251177",
-    "title": "The government canceled her student loans due to a scam — but $72,000 is still on her credit report",
-    "tokens": [
-      "000",
-      "canceled",
-      "credit",
-      "due",
-      "government",
-      "her",
-      "loans",
-      "report",
-      "scam",
-      "still",
-      "student"
-    ],
-    "ts": 1790277937.766972
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jsw-one-platforms-files-for-318-million-india-ipo-93CH-4916060",
-    "title": "JSW One Platforms files for $318 million India IPO",
-    "tokens": [
-      "318",
-      "files",
-      "india",
-      "ipo",
-      "jsw",
-      "million",
-      "one",
-      "platforms"
-    ],
-    "ts": 1790277945.6995342
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/americas-carmart-shareholders-approve-equity-plan-amendment-and-director-elections-93CH-4916059",
-    "title": "America’s Car-Mart shareholders approve equity plan amendment and director elections",
-    "tokens": [
-      "amendment",
-      "america",
-      "approve",
-      "car",
-      "director",
-      "elections",
-      "equity",
-      "mart",
-      "plan",
-      "shareholders"
-    ],
-    "ts": 1790277955.5623062
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/regency-centers-corp-preferred-stock-hits-52week-low-at-2232-93CH-4916058",
-    "title": "Regency Centers Corp preferred stock hits 52-week low at $22.32",
-    "tokens": [
-      "centers",
-      "corp",
-      "hits",
-      "low",
-      "preferred",
-      "regency",
-      "stock",
-      "week"
-    ],
-    "ts": 1790277963.9879568
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/clinch-resources-at-smallcap-virtual-conference-fast-ramp-big-coal-bet-93CH-4916057",
-    "title": "Clinch Resources at Small-Cap Virtual Conference: fast ramp, big coal bet",
-    "tokens": [
-      "bet",
-      "big",
-      "cap",
-      "clinch",
-      "coal",
-      "conference",
-      "fast",
-      "ramp",
-      "resources",
-      "small",
-      "virtual"
-    ],
-    "ts": 1790277973.5476592
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-transalta-stock-sliding-today-93CH-4916046",
-    "title": "Why is TransAlta stock sliding today?",
-    "tokens": [
-      "sliding",
-      "stock",
-      "today",
-      "transalta",
-      "why"
-    ],
-    "ts": 1790277977.5627012
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/oportun-at-sidoti-conference-turnaround-gains-cautious-growth-ahead-93CH-4916045",
-    "title": "Oportun at Sidoti conference: turnaround gains, cautious growth ahead",
-    "tokens": [
-      "ahead",
-      "cautious",
-      "conference",
-      "gains",
-      "growth",
-      "oportun",
-      "sidoti",
-      "turnaround"
-    ],
-    "ts": 1790277982.5736382
-  },
-  {
     "id": "https://www.investing.com/news/company-news/zhibao-technology-signs-mou-with-desyn-protocol-for-btcfi-products-93CH-4916044",
     "title": "Zhibao Technology signs MOU with DeSyn Protocol for BTCfi products",
     "tokens": [
@@ -22928,5 +22775,150 @@
       "gets"
     ],
     "ts": 1790656231.3487148
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nvidia-turns-to-insurers-to-spread-risk-of-ai-buildout--ft-4921570",
+    "title": "Nvidia turns to insurers to spread risk of AI build-out - FT",
+    "tokens": [
+      "build",
+      "insurers",
+      "nvidia",
+      "risk",
+      "spread",
+      "turns"
+    ],
+    "ts": 1790658651.8067667
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/battered-bond-market-braces-for-a-new-era-of-interest-rates-4921569",
+    "title": "Battered bond market braces for a new era of interest rates",
+    "tokens": [
+      "battered",
+      "bond",
+      "braces",
+      "era",
+      "interest",
+      "market",
+      "rates"
+    ],
+    "ts": 1790658661.7509515
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-united-nova-technology-stock-rising-today-93CH-4921568",
+    "title": "Why is United Nova Technology stock rising today?",
+    "tokens": [
+      "nova",
+      "rising",
+      "stock",
+      "technology",
+      "today",
+      "united",
+      "why"
+    ],
+    "ts": 1790658669.5171416
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-akeso-stock-surging-today-93CH-4921567",
+    "title": "Why is Akeso stock surging today?",
+    "tokens": [
+      "akeso",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790658673.5281074
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-guangzhou-automobile-stock-rallying-today-93CH-4921566",
+    "title": "Why is Guangzhou Automobile stock rallying today?",
+    "tokens": [
+      "automobile",
+      "guangzhou",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790658677.3334618
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/rba-raises-interest-rates-by-25-bps-sees-more-hikes-as-inflationary-risks-mount-4921561",
+    "title": "RBA raises interest rates by 25 bps; sees more hikes as inflationary risks mount",
+    "tokens": [
+      "bps",
+      "hikes",
+      "inflationary",
+      "interest",
+      "more",
+      "mount",
+      "raises",
+      "rates",
+      "rba",
+      "risks",
+      "sees"
+    ],
+    "ts": 1790658684.705857
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/china-stocks-edge-up-on-policy-support-pledge-4921560",
+    "title": "China stocks edge up on policy support pledge",
+    "tokens": [
+      "china",
+      "edge",
+      "pledge",
+      "policy",
+      "stocks",
+      "support"
+    ],
+    "ts": 1790658692.102197
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/toyota-august-sales-production-fall-for-second-straight-month-4921559",
+    "title": "Toyota August sales, production fall for second straight month",
+    "tokens": [
+      "august",
+      "fall",
+      "month",
+      "production",
+      "sales",
+      "second",
+      "straight",
+      "toyota"
+    ],
+    "ts": 1790658699.7239232
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/morning-bid-our-products-could-end-all-human-life-buy-our-shares-4921558",
+    "title": "Morning Bid: Our products could end all human life, buy our shares",
+    "tokens": [
+      "all",
+      "bid",
+      "buy",
+      "could",
+      "end",
+      "human",
+      "life",
+      "morning",
+      "our",
+      "products",
+      "shares"
+    ],
+    "ts": 1790658706.7721124
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/finward-bancorp-director-anthony-puntillo-acquires-233-in-stock-93CH-4921555",
+    "title": "Finward Bancorp director Anthony Puntillo acquires $233 in stock",
+    "tokens": [
+      "233",
+      "acquires",
+      "anthony",
+      "bancorp",
+      "director",
+      "finward",
+      "puntillo",
+      "stock"
+    ],
+    "ts": 1790658714.1879313
   }
 ]

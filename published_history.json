@@ -1,148 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economic-indicators/spain-q2-gdp-holds-at-07-qq-as-domestic-demand-drives-growth-93CH-4916792",
-    "title": "Spain Q2 GDP holds at 0.7% q/q as domestic demand drives growth",
-    "tokens": [
-      "demand",
-      "domestic",
-      "drives",
-      "gdp",
-      "growth",
-      "holds",
-      "spain"
-    ],
-    "ts": 1790323907.8154051
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-capricorn-energy-stock-surging-today-93CH-4916788",
-    "title": "Why is Capricorn Energy stock surging today?",
-    "tokens": [
-      "capricorn",
-      "energy",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790323916.3183231
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-kpn-stock-rating-on-improving-revenue-outlook-93CH-4916787",
-    "title": "JPMorgan upgrades KPN stock rating on improving revenue outlook",
-    "tokens": [
-      "improving",
-      "jpmorgan",
-      "kpn",
-      "outlook",
-      "rating",
-      "revenue",
-      "stock",
-      "upgrades"
-    ],
-    "ts": 1790323923.5221372
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/everpure-chief-visionary-officer-john-colgrove-sells-227m-in-stock-93CH-4916786",
-    "title": "Everpure chief visionary officer John Colgrove sells $22.7m in stock",
-    "tokens": [
-      "chief",
-      "colgrove",
-      "everpure",
-      "john",
-      "officer",
-      "sells",
-      "stock",
-      "visionary"
-    ],
-    "ts": 1790323930.2810514
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-alsea-stock-rating-to-neutral-on-valuation-93CH-4916778",
-    "title": "Goldman Sachs upgrades Alsea stock rating to neutral on valuation",
-    "tokens": [
-      "alsea",
-      "goldman",
-      "neutral",
-      "rating",
-      "sachs",
-      "stock",
-      "upgrades",
-      "valuation"
-    ],
-    "ts": 1790323936.77083
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/canary-wharf-finance-ii-releases-defeasance-funds-for-property-works-93CH-4916859",
-    "title": "Canary Wharf Finance II releases defeasance funds for property works",
-    "tokens": [
-      "canary",
-      "defeasance",
-      "finance",
-      "funds",
-      "property",
-      "releases",
-      "wharf",
-      "works"
-    ],
-    "ts": 1790325005.61813
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/arcelormittal-to-halt-ukraine-plant-flags-1-billion-impairment-after-strikes-93CH-4916857",
-    "title": "ArcelorMittal to halt Ukraine plant, flags $1 billion impairment after strikes",
-    "tokens": [
-      "arcelormittal",
-      "billion",
-      "flags",
-      "halt",
-      "impairment",
-      "plant",
-      "strikes",
-      "ukraine"
-    ],
-    "ts": 1790325012.3835714
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/euro-zone-business-lending-slows-slightly-4916856",
-    "title": "Euro zone business lending slows slightly",
-    "tokens": [
-      "business",
-      "euro",
-      "lending",
-      "slightly",
-      "slows",
-      "zone"
-    ],
-    "ts": 1790325019.2657905
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/td-cowen-raises-akamai-stock-price-target-on-compute-scarcity-93CH-4916852",
-    "title": "TD Cowen raises Akamai stock price target on compute scarcity",
-    "tokens": [
-      "akamai",
-      "compute",
-      "cowen",
-      "price",
-      "raises",
-      "scarcity",
-      "stock",
-      "target"
-    ],
-    "ts": 1790325026.4790025
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/safestay-stock-plunges-35-on-weak-forward-bookings-4916850",
-    "title": "Safestay stock plunges 35% on weak forward bookings",
-    "tokens": [
-      "bookings",
-      "forward",
-      "plunges",
-      "safestay",
-      "stock",
-      "weak"
-    ],
-    "ts": 1790325033.7155259
-  },
-  {
     "id": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
     "title": "U.S 10-year yield climbs for 6 straight week as bond rout deepens",
     "tokens": [
@@ -22940,5 +22797,146 @@
       "record"
     ],
     "ts": 1790697490.9082696
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/germany-stocks-mixed-at-close-of-trade-dax-up-000-4923149",
+    "title": "Germany stocks mixed at close of trade; DAX up 0.00%",
+    "tokens": [
+      "close",
+      "dax",
+      "germany",
+      "mixed",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790698623.2727015
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/france-stocks-lower-at-close-of-trade-cac-40-down-053-4923148",
+    "title": "France stocks lower at close of trade; CAC 40 down 0.53%",
+    "tokens": [
+      "cac",
+      "close",
+      "france",
+      "lower",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790698630.849322
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/belgium-stocks-lower-at-close-of-trade-bel-20-down-067-4923146",
+    "title": "Belgium stocks lower at close of trade; BEL 20 down 0.67%",
+    "tokens": [
+      "bel",
+      "belgium",
+      "close",
+      "lower",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790698638.4164786
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/epower-raises-187m-through-registered-direct-offering-93CH-4923145",
+    "title": "E-Power raises $1.87M through registered direct offering",
+    "tokens": [
+      "87m",
+      "direct",
+      "offering",
+      "power",
+      "raises",
+      "registered",
+      "through"
+    ],
+    "ts": 1790698645.3444724
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/epower-raises-187m-through-registered-direct-offering-93CH-4923144",
+    "title": "E-Power raises $1.87M through registered direct offering",
+    "tokens": [
+      "87m",
+      "direct",
+      "offering",
+      "power",
+      "raises",
+      "registered",
+      "through"
+    ],
+    "ts": 1790698649.3609922
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/openais-annual-recurring-revenue-nears-70-billion-axios-reports-4923088",
+    "title": "OpenAI’s annualized recurring revenue nears $70 billion, source says",
+    "tokens": [
+      "annualized",
+      "billion",
+      "nears",
+      "openai",
+      "recurring",
+      "revenue",
+      "source"
+    ],
+    "ts": 1790698653.0446181
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-018-4923143",
+    "title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.18%",
+    "tokens": [
+      "close",
+      "higher",
+      "omx",
+      "stockholm",
+      "stocks",
+      "sweden",
+      "trade"
+    ],
+    "ts": 1790698657.060219
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/finland-stocks-lower-at-close-of-trade-omx-helsinki-25-down-051-4923137",
+    "title": "Finland stocks lower at close of trade; OMX Helsinki 25 down 0.51%",
+    "tokens": [
+      "close",
+      "finland",
+      "helsinki",
+      "lower",
+      "omx",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790698657.0754683
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-hardlines-retailers-to-watch-as-ai-agents-reshape-shopping-landscape-4923136",
+    "title": "U.S. Hardlines Retailers to Watch as AI Agents Reshape Shopping Landscape",
+    "tokens": [
+      "agents",
+      "hardlines",
+      "landscape",
+      "reshape",
+      "retailers",
+      "shopping",
+      "watch"
+    ],
+    "ts": 1790698661.061472
+  },
+  {
+    "id": "d477854d-f801-4054-bd25-323ac968793e",
+    "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
+    "tokens": [
+      "another",
+      "ethereum",
+      "get",
+      "money",
+      "pay",
+      "privately",
+      "returns",
+      "three",
+      "users",
+      "way",
+      "years"
+    ],
+    "ts": 1790698668.8933096
   }
 ]

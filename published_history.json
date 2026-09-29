@@ -1,188 +1,5 @@
 [
   {
-    "id": "oilprice-article-45610",
-    "title": "Aramco Restores East-West Pipeline as War Risk Closes In on Yanbu",
-    "tokens": [
-      "aramco",
-      "closes",
-      "east",
-      "pipeline",
-      "restores",
-      "risk",
-      "war",
-      "west",
-      "yanbu"
-    ],
-    "ts": 1790342237.6378508
-  },
-  {
-    "id": "oilprice-news-45612",
-    "title": "EU Pressures UK to Match Its Tariffs on Chinese-Made Cars",
-    "tokens": [
-      "cars",
-      "chinese",
-      "made",
-      "match",
-      "pressures",
-      "tariffs"
-    ],
-    "ts": 1790342245.012461
-  },
-  {
-    "id": "oilprice-news-45611",
-    "title": "India Weighs Mandatory Imported Coal Blending as Plant Stocks Crumble",
-    "tokens": [
-      "blending",
-      "coal",
-      "crumble",
-      "imported",
-      "india",
-      "mandatory",
-      "plant",
-      "stocks",
-      "weighs"
-    ],
-    "ts": 1790342252.1605844
-  },
-  {
-    "id": "oilprice-news-45610",
-    "title": "Ukraine Drone Strike Knocks Out Russia's Novoshakhtinsk Refinery",
-    "tokens": [
-      "drone",
-      "knocks",
-      "novoshakhtinsk",
-      "refinery",
-      "russia",
-      "strike",
-      "ukraine"
-    ],
-    "ts": 1790342261.1528919
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/needham-initiates-wealthfront-stock-with-buy-rating-on-roboadvisor-growth-93CH-4917630",
-    "title": "Needham initiates Wealthfront stock with buy rating on robo-advisor growth",
-    "tokens": [
-      "advisor",
-      "buy",
-      "growth",
-      "initiates",
-      "needham",
-      "rating",
-      "robo",
-      "stock",
-      "wealthfront"
-    ],
-    "ts": 1790343683.4482052
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-natera-stock-price-target-on-mrd-testing-growth-93CH-4917629",
-    "title": "RBC Capital raises Natera stock price target on MRD testing growth",
-    "tokens": [
-      "capital",
-      "growth",
-      "mrd",
-      "natera",
-      "price",
-      "raises",
-      "rbc",
-      "stock",
-      "target",
-      "testing"
-    ],
-    "ts": 1790343691.1958718
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/generation-income-properties-retires-42m-loci-obligation-93CH-4917627",
-    "title": "Generation Income Properties retires $4.2M Loci obligation",
-    "tokens": [
-      "generation",
-      "income",
-      "loci",
-      "obligation",
-      "properties",
-      "retires"
-    ],
-    "ts": 1790343698.5746868
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/eu-vote-on-tesla-full-selfdriving-approval-delayed-to-december-93CH-4917624",
-    "title": "EU vote on Tesla Full Self-Driving approval delayed to December",
-    "tokens": [
-      "approval",
-      "december",
-      "delayed",
-      "driving",
-      "full",
-      "self",
-      "tesla",
-      "vote"
-    ],
-    "ts": 1790343705.5576503
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hsbc-upgrades-synopsys-stock-rating-to-buy-on-ai-growth-outlook-93CH-4917623",
-    "title": "HSBC upgrades Synopsys stock rating to buy on AI growth outlook",
-    "tokens": [
-      "buy",
-      "growth",
-      "hsbc",
-      "outlook",
-      "rating",
-      "stock",
-      "synopsys",
-      "upgrades"
-    ],
-    "ts": 1790343712.9488382
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-maintains-conagra-stock-rating-on-freight-cost-concerns-93CH-4917622",
-    "title": "RBC Capital maintains ConAgra stock rating on freight cost concerns",
-    "tokens": [
-      "capital",
-      "conagra",
-      "concerns",
-      "cost",
-      "freight",
-      "maintains",
-      "rating",
-      "rbc",
-      "stock"
-    ],
-    "ts": 1790343721.0360115
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-cuts-ameren-stock-price-target-on-valuation-concerns-93CH-4917621",
-    "title": "RBC Capital cuts Ameren stock price target on valuation concerns",
-    "tokens": [
-      "ameren",
-      "capital",
-      "concerns",
-      "cuts",
-      "price",
-      "rbc",
-      "stock",
-      "target",
-      "valuation"
-    ],
-    "ts": 1790343728.545731
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-zscaler-stock-price-target-on-smooth-transition-93CH-4917620",
-    "title": "RBC Capital raises Zscaler stock price target on smooth transition",
-    "tokens": [
-      "capital",
-      "price",
-      "raises",
-      "rbc",
-      "smooth",
-      "stock",
-      "target",
-      "transition",
-      "zscaler"
-    ],
-    "ts": 1790343735.4760702
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-maintains-sector-perform-on-akamai-stock-after-anthropic-deal-93CH-4917619",
     "title": "RBC Capital maintains Sector Perform on Akamai stock after Anthropic deal",
     "tokens": [
@@ -22989,5 +22806,185 @@
       "towers"
     ],
     "ts": 1790715338.1989646
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/costa-ricas-grynspan-narrowly-ahead-in-race-to-be-next-un-chief-sources-say-4923580",
+    "title": "Costa Rica’s Grynspan narrowly ahead in race to be next UN chief, sources say",
+    "tokens": [
+      "ahead",
+      "chief",
+      "costa",
+      "grynspan",
+      "narrowly",
+      "next",
+      "race",
+      "rica",
+      "say",
+      "sources"
+    ],
+    "ts": 1790716273.77144
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/this-is-the-top-biotech-stock-pick-from-b-riley-securities-4923579",
+    "title": "This is the top biotech stock pick from B Riley Securities",
+    "tokens": [
+      "biotech",
+      "pick",
+      "riley",
+      "securities",
+      "stock",
+      "top"
+    ],
+    "ts": 1790716281.481301
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/intelligent-protection-management-at-lytham-partners-ai-and-patent-upside-93CH-4923578",
+    "title": "Intelligent Protection Management at lytham partners: ai and patent upside",
+    "tokens": [
+      "intelligent",
+      "lytham",
+      "management",
+      "partners",
+      "patent",
+      "protection",
+      "upside"
+    ],
+    "ts": 1790716289.3095992
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/dyne-therapeutics-stock-rises-on-positive-dm1-trial-results-4923577",
+    "title": "Dyne Therapeutics stock rises on positive DM1 trial results",
+    "tokens": [
+      "dm1",
+      "dyne",
+      "positive",
+      "results",
+      "rises",
+      "stock",
+      "therapeutics",
+      "trial"
+    ],
+    "ts": 1790716297.447374
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-rise-defying-forecasts-and-previous-data-93CH-4923575",
+    "title": "Crude Oil Inventories Rise, Defying Forecasts and Previous Data",
+    "tokens": [
+      "crude",
+      "data",
+      "defying",
+      "forecasts",
+      "inventories",
+      "oil",
+      "previous",
+      "rise"
+    ],
+    "ts": 1790716304.8833725
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/richardson-electronics-at-lytham-partners-growth-broadens-beyond-semis-93CH-4923574",
+    "title": "Richardson Electronics at Lytham Partners: growth broadens beyond semis",
+    "tokens": [
+      "beyond",
+      "broadens",
+      "electronics",
+      "growth",
+      "lytham",
+      "partners",
+      "richardson",
+      "semis"
+    ],
+    "ts": 1790716312.2743313
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/metals-exploration-at-mining-forum-americas-2026-shift-to-nicaragua-93CH-4923572",
+    "title": "Metals Exploration at Mining Forum Americas 2026: shift to Nicaragua",
+    "tokens": [
+      "2026",
+      "americas",
+      "exploration",
+      "forum",
+      "metals",
+      "mining",
+      "nicaragua",
+      "shift"
+    ],
+    "ts": 1790716320.4937732
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/blackstone-infrastructure-strategies-raises-366-million-through-unit-sales-93CH-4923571",
+    "title": "Blackstone Infrastructure Strategies raises $366 million through unit sales",
+    "tokens": [
+      "366",
+      "blackstone",
+      "infrastructure",
+      "million",
+      "raises",
+      "sales",
+      "strategies",
+      "through",
+      "unit"
+    ],
+    "ts": 1790716328.2093537
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/pyxis-oncology-stock-falls-on-public-offering-announcement-4923564",
+    "title": "Pyxis Oncology stock falls on public offering announcement",
+    "tokens": [
+      "announcement",
+      "falls",
+      "offering",
+      "oncology",
+      "public",
+      "pyxis",
+      "stock"
+    ],
+    "ts": 1790716335.6727355
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/alliance-entertainment-at-lytham-partners-physical-media-and-ai-drive-growth-93CH-4923563",
+    "title": "Alliance Entertainment at Lytham Partners: physical media and AI drive growth",
+    "tokens": [
+      "alliance",
+      "drive",
+      "entertainment",
+      "growth",
+      "lytham",
+      "media",
+      "partners",
+      "physical"
+    ],
+    "ts": 1790716344.6593943
+  },
+  {
+    "id": "oilprice-article-45634",
+    "title": "White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar",
+    "tokens": [
+      "diesel",
+      "dyed",
+      "fuel",
+      "house",
+      "prices",
+      "red",
+      "relief",
+      "soar",
+      "weighs",
+      "white"
+    ],
+    "ts": 1790716353.7728302
+  },
+  {
+    "id": "oilprice-news-45634",
+    "title": "Dangote Targets 10 Million Investors in Africa’s Biggest IPO",
+    "tokens": [
+      "africa",
+      "biggest",
+      "dangote",
+      "investors",
+      "ipo",
+      "million",
+      "targets"
+    ],
+    "ts": 1790716357.7900953
   }
 ]

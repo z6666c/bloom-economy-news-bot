@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/haverty-furniture-at-smallcap-virtual-conference-design-drives-growth-93CH-4916010",
-    "title": "Haverty Furniture at Small-Cap Virtual Conference: design drives growth",
-    "tokens": [
-      "cap",
-      "conference",
-      "design",
-      "drives",
-      "furniture",
-      "growth",
-      "haverty",
-      "small",
-      "virtual"
-    ],
-    "ts": 1790276134.7250051
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/lawmakers-to-seek-senate-approval-of-permanent-us-ban-on-chinese-cars-4915903",
     "title": "US senators delay effort to permanently ban Chinese cars",
     "tokens": [
@@ -22968,5 +22952,19 @@
       "week"
     ],
     "ts": 1790648898.9853652
+  },
+  {
+    "id": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents",
+    "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
+    "tokens": [
+      "agents",
+      "nvidia",
+      "platform",
+      "rein",
+      "rogue",
+      "safety",
+      "unveils"
+    ],
+    "ts": 1790649816.2687037
   }
 ]

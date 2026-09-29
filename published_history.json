@@ -1,187 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/playstudios-implements-1for10-reverse-stock-split-93CH-4916459",
-    "title": "Playstudios implements 1-for-10 reverse stock split",
-    "tokens": [
-      "implements",
-      "playstudios",
-      "reverse",
-      "split",
-      "stock"
-    ],
-    "ts": 1790297116.4403331
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-484m-in-company-stock-93CH-4916457",
-    "title": "CoreWeave CFO Nitin Agrawal sells $4.84m in company stock",
-    "tokens": [
-      "84m",
-      "agrawal",
-      "cfo",
-      "company",
-      "coreweave",
-      "nitin",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790297124.167103
-  },
-  {
-    "id": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues",
-    "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
-    "tokens": [
-      "352m",
-      "behind",
-      "bitget",
-      "ceo",
-      "citing",
-      "clues",
-      "hack",
-      "korea",
-      "north",
-      "suspects"
-    ],
-    "ts": 1790297134.3942442
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-lower-as-soaring-yields-oil-prices-weigh-4916485",
-    "title": "U.S. stock futures drift lower as soaring yields, oil prices weigh",
-    "tokens": [
-      "drift",
-      "futures",
-      "lower",
-      "oil",
-      "prices",
-      "soaring",
-      "stock",
-      "weigh",
-      "yields"
-    ],
-    "ts": 1790298818.52806
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-dips-after-sharp-gains-as-us-iran-reportedly-explore-hormuz-deal-4916483",
-    "title": "Oil dips after sharp gains as U.S., Iran reportedly explore Hormuz deal",
-    "tokens": [
-      "deal",
-      "dips",
-      "explore",
-      "gains",
-      "hormuz",
-      "iran",
-      "oil",
-      "reportedly",
-      "sharp"
-    ],
-    "ts": 1790298827.5241687
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities-4916502",
-    "title": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities",
-    "tokens": [
-      "attacks",
-      "facilities",
-      "fall",
-      "iran",
-      "look",
-      "markets",
-      "oil",
-      "prices",
-      "remain",
-      "truce",
-      "wary"
-    ],
-    "ts": 1790299659.2421412
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/gold-edges-lower-set-for-weekly-loss-as-oil-fuels-fed-hike-bets-4916501",
-    "title": "Gold edges lower, set for weekly loss as oil fuels Fed hike bets",
-    "tokens": [
-      "bets",
-      "edges",
-      "fed",
-      "fuels",
-      "gold",
-      "hike",
-      "loss",
-      "lower",
-      "oil",
-      "set",
-      "weekly"
-    ],
-    "ts": 1790299667.241857
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/china-fuels-rush-to-turn-ai-video-into-an-industry-4916500",
-    "title": "China fuels rush to turn AI video into an industry",
-    "tokens": [
-      "china",
-      "fuels",
-      "industry",
-      "rush",
-      "turn",
-      "video"
-    ],
-    "ts": 1790299675.351384
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/centerpoint-energy-declares-024-quarterly-dividend-93CH-4916499",
-    "title": "CenterPoint Energy declares $0.24 quarterly dividend",
-    "tokens": [
-      "centerpoint",
-      "declares",
-      "dividend",
-      "energy",
-      "quarterly"
-    ],
-    "ts": 1790299682.5049345
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nikkei-225-tests-200-sma-resistance-at-65337-live-levels-93CH-4908214",
-    "title": "Nikkei 225 trapped in Ichimoku cloud range: Live levels",
-    "tokens": [
-      "225",
-      "cloud",
-      "ichimoku",
-      "levels",
-      "live",
-      "nikkei",
-      "range",
-      "trapped"
-    ],
-    "ts": 1790299689.8973064
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/openai-to-preview-gpt6-cyber-in-coming-weeks-fortune-reports-4916497",
-    "title": "OpenAI to preview GPT-6 Cyber in coming weeks, Fortune reports",
-    "tokens": [
-      "coming",
-      "cyber",
-      "fortune",
-      "gpt",
-      "openai",
-      "preview",
-      "reports",
-      "weeks"
-    ],
-    "ts": 1790299697.2736938
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/rh-director-mark-demilio-sells-132000-in-company-stock-93CH-4916496",
-    "title": "RH director Mark Demilio sells $132,000 in company stock",
-    "tokens": [
-      "000",
-      "132",
-      "company",
-      "demilio",
-      "director",
-      "mark",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790299704.49976
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/wood-river-capital-sells-581-million-of-aspen-aerogels-stock-93CH-4916517",
     "title": "Wood River Capital sells $58.1 million of Aspen Aerogels stock",
     "tokens": [
@@ -22954,5 +22772,181 @@
       "surge"
     ],
     "ts": 1790682198.8902996
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-resumes-baker-hughes-stock-coverage-with-buy-rating-93CH-4922557",
+    "title": "Goldman Sachs resumes Baker Hughes stock coverage with buy rating",
+    "tokens": [
+      "baker",
+      "buy",
+      "coverage",
+      "goldman",
+      "hughes",
+      "rating",
+      "resumes",
+      "sachs",
+      "stock"
+    ],
+    "ts": 1790684331.4252079
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/jj-presents-twoyear-data-on-imaavy-for-myasthenia-gravis-93CH-4922555",
+    "title": "J&J presents two-year data on IMAAVY for myasthenia gravis",
+    "tokens": [
+      "data",
+      "gravis",
+      "imaavy",
+      "myasthenia",
+      "presents",
+      "two",
+      "year"
+    ],
+    "ts": 1790684339.6064947
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/acurx-enrolls-first-patient-in-recurrent-c-difficile-trial-93CH-4922554",
+    "title": "Acurx enrolls first patient in recurrent C. difficile trial",
+    "tokens": [
+      "acurx",
+      "difficile",
+      "enrolls",
+      "first",
+      "patient",
+      "recurrent",
+      "trial"
+    ],
+    "ts": 1790684347.964993
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/silexion-raises-837000-through-warrant-exercise-at-reduced-price-93CH-4922553",
+    "title": "Silexion raises $837,000 through warrant exercise at reduced price",
+    "tokens": [
+      "000",
+      "837",
+      "exercise",
+      "price",
+      "raises",
+      "reduced",
+      "silexion",
+      "through",
+      "warrant"
+    ],
+    "ts": 1790684355.1199014
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/arlo-launches-solarpowered-security-camera-for-9999-93CH-4922551",
+    "title": "Arlo launches solar-powered security camera for $99.99",
+    "tokens": [
+      "arlo",
+      "camera",
+      "launches",
+      "powered",
+      "security",
+      "solar"
+    ],
+    "ts": 1790684362.7967956
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/apyx-medical-reports-study-results-on-renuvion-skin-treatment-93CH-4922552",
+    "title": "Apyx Medical reports study results on Renuvion skin treatment",
+    "tokens": [
+      "apyx",
+      "medical",
+      "renuvion",
+      "reports",
+      "results",
+      "skin",
+      "study",
+      "treatment"
+    ],
+    "ts": 1790684370.3231199
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/agilent-launches-ai-cell-identification-software-module-93CH-4922546",
+    "title": "Agilent launches AI cell identification software module",
+    "tokens": [
+      "agilent",
+      "cell",
+      "identification",
+      "launches",
+      "module",
+      "software"
+    ],
+    "ts": 1790684378.1339612
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/keros-therapeutics-to-receive-20m-milestone-from-takeda-93CH-4922547",
+    "title": "Keros Therapeutics to receive $20M milestone from Takeda",
+    "tokens": [
+      "20m",
+      "keros",
+      "milestone",
+      "receive",
+      "takeda",
+      "therapeutics"
+    ],
+    "ts": 1790684386.8590267
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/horizon-aircraft-signs-letter-of-intent-with-great-lakes-helicopter-93CH-4922548",
+    "title": "Horizon Aircraft signs letter of intent with Great Lakes Helicopter",
+    "tokens": [
+      "aircraft",
+      "great",
+      "helicopter",
+      "horizon",
+      "intent",
+      "lakes",
+      "letter",
+      "signs"
+    ],
+    "ts": 1790684393.7666335
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/atossa-plans-cvr-issuance-tied-to-priority-review-voucher-93CH-4922549",
+    "title": "Atossa plans CVR issuance tied to priority review voucher",
+    "tokens": [
+      "atossa",
+      "cvr",
+      "issuance",
+      "plans",
+      "priority",
+      "review",
+      "tied",
+      "voucher"
+    ],
+    "ts": 1790684401.3543615
+  },
+  {
+    "id": "ee9e71e1-0470-411b-a814-9bbcfa41e826",
+    "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
+    "tokens": [
+      "begin",
+      "code",
+      "developers",
+      "faster",
+      "moving",
+      "payment",
+      "private",
+      "software",
+      "tachyon",
+      "zcash"
+    ],
+    "ts": 1790684410.8490746
+  },
+  {
+    "id": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro",
+    "title": "ECB puts AI agent payments on the digital euro drawing board",
+    "tokens": [
+      "agent",
+      "board",
+      "digital",
+      "drawing",
+      "ecb",
+      "euro",
+      "payments",
+      "puts"
+    ],
+    "ts": 1790684418.810347
   }
 ]

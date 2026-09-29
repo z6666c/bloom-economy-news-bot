@@ -1,164 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/akamai-anthropic-sign-116-billion-cloud-services-deal-4916120",
-    "title": "Akamai, Anthropic sign $11.6 billion cloud services deal",
-    "tokens": [
-      "akamai",
-      "anthropic",
-      "billion",
-      "cloud",
-      "deal",
-      "services",
-      "sign"
-    ],
-    "ts": 1790281784.4047568
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fermi-signs-cbre-for-texas-data-center-operations-93CH-4916115",
-    "title": "Fermi signs CBRE for Texas data center operations",
-    "tokens": [
-      "cbre",
-      "center",
-      "data",
-      "fermi",
-      "operations",
-      "signs",
-      "texas"
-    ],
-    "ts": 1790281792.108006
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/akamai-secures-116b-cloud-deal-with-anthropic-for-ai-workloads-93CH-4916111",
-    "title": "Akamai secures $11.6B cloud deal with Anthropic for AI workloads",
-    "tokens": [
-      "akamai",
-      "anthropic",
-      "cloud",
-      "deal",
-      "secures",
-      "workloads"
-    ],
-    "ts": 1790281799.557996
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hemab-therapeutics-appoints-keli-walbert-to-board-of-directors-93CH-4916112",
-    "title": "Hemab Therapeutics appoints Keli Walbert to board of directors",
-    "tokens": [
-      "appoints",
-      "board",
-      "directors",
-      "hemab",
-      "keli",
-      "therapeutics",
-      "walbert"
-    ],
-    "ts": 1790281807.0967755
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/im-cannabis-closes-131-million-registered-direct-offering-93CH-4916113",
-    "title": "IM Cannabis closes $1.31 million registered direct offering",
-    "tokens": [
-      "cannabis",
-      "closes",
-      "direct",
-      "million",
-      "offering",
-      "registered"
-    ],
-    "ts": 1790281811.112264
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/adp-nominates-two-directors-ahead-of-annual-meeting-93CH-4916114",
-    "title": "ADP nominates two directors ahead of annual meeting",
-    "tokens": [
-      "adp",
-      "ahead",
-      "annual",
-      "directors",
-      "meeting",
-      "nominates",
-      "two"
-    ],
-    "ts": 1790281814.7544994
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/akamai-lands-116-billion-anthropic-deal-shares-soar-4916108",
-    "title": "Akamai lands $11.6 billion Anthropic deal, shares soar",
-    "tokens": [
-      "akamai",
-      "anthropic",
-      "billion",
-      "deal",
-      "lands",
-      "shares",
-      "soar"
-    ],
-    "ts": 1790281825.2716124
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/staar-surgical-authorizes-50-million-share-buyback-program-93CH-4916109",
-    "title": "STAAR Surgical authorizes $50 million share buyback program",
-    "tokens": [
-      "authorizes",
-      "buyback",
-      "million",
-      "program",
-      "share",
-      "staar",
-      "surgical"
-    ],
-    "ts": 1790281832.4479954
-  },
-  {
-    "id": "6ebdf1a5-c0de-4eb4-a867-0fa5c493ee88",
-    "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
-    "tokens": [
-      "allman",
-      "death",
-      "finance",
-      "founder",
-      "nathan",
-      "ondo",
-      "sell",
-      "someone",
-      "trying"
-    ],
-    "ts": 1790281848.5051868
-  },
-  {
-    "id": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders",
-    "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
-    "tokens": [
-      "brings",
-      "data",
-      "dedicated",
-      "doublezero",
-      "fiber",
-      "hyperliquid",
-      "market",
-      "traders"
-    ],
-    "ts": 1790281857.8162715
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/trump-and-xi-agreed-to-support-each-other-in-hosting-apec-g20-summitsxinhua-reports-4916211",
-    "title": "Trump and Xi agreed to support each other in hosting APEC, G20 summits, Xinhua reports",
-    "tokens": [
-      "agreed",
-      "apec",
-      "each",
-      "g20",
-      "hosting",
-      "other",
-      "reports",
-      "summits",
-      "support",
-      "trump",
-      "xinhua"
-    ],
-    "ts": 1790282726.5567288
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/tmx-group-at-cibc-conference-growth-plan-leans-on-deals-and-data-93CH-4916210",
     "title": "TMX Group at CIBC conference: growth plan leans on deals and data",
     "tokens": [
@@ -22933,5 +22774,169 @@
       "sharing"
     ],
     "ts": 1790662487.6926374
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/borussia-dortmund-extends-contracts-names-cramer-board-chair-93CH-4921634",
+    "title": "Borussia Dortmund extends contracts, names Cramer board chair",
+    "tokens": [
+      "board",
+      "borussia",
+      "chair",
+      "contracts",
+      "cramer",
+      "dortmund",
+      "extends",
+      "names"
+    ],
+    "ts": 1790663912.1331196
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/astrazeneca-invests-2b-in-summit-therapeutics-for-adc-trials-93CH-4921630",
+    "title": "AstraZeneca invests $2B in Summit Therapeutics for ADC trials",
+    "tokens": [
+      "adc",
+      "astrazeneca",
+      "invests",
+      "summit",
+      "therapeutics",
+      "trials"
+    ],
+    "ts": 1790663920.6417696
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/akamai-evp-mani-sundaram-sells-882k-in-company-stock-93CH-4921629",
+    "title": "Akamai EVP Mani Sundaram sells $882k in company stock",
+    "tokens": [
+      "882k",
+      "akamai",
+      "company",
+      "evp",
+      "mani",
+      "sells",
+      "stock",
+      "sundaram"
+    ],
+    "ts": 1790663927.8808007
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-034-4921626",
+    "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.34%",
+    "tokens": [
+      "200",
+      "asx",
+      "australia",
+      "close",
+      "higher",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790663931.8927896
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/ag-barr-keeps-2026-outlook-as-firsthalf-revenue-rises-85-4921623",
+    "title": "A.G. Barr keeps 2026 outlook as first-half revenue rises 8.5%",
+    "tokens": [
+      "2026",
+      "barr",
+      "first",
+      "half",
+      "keeps",
+      "outlook",
+      "revenue",
+      "rises"
+    ],
+    "ts": 1790663935.171115
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/meridian-mining-to-join-ftse-250-index-on-october-1-93CH-4921622",
+    "title": "Meridian Mining to join FTSE 250 index on October 1",
+    "tokens": [
+      "250",
+      "ftse",
+      "index",
+      "join",
+      "meridian",
+      "mining",
+      "october"
+    ],
+    "ts": 1790663942.1545055
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/goldstone-resources-secures-gold-loan-interest-waiver-extension-93CH-4921618",
+    "title": "Goldstone Resources secures gold loan interest waiver extension",
+    "tokens": [
+      "extension",
+      "gold",
+      "goldstone",
+      "interest",
+      "loan",
+      "resources",
+      "secures",
+      "waiver"
+    ],
+    "ts": 1790663949.8899891
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tap-global-buys-3-bitcoin-for-balance-sheet-reserve-strategy-93CH-4921617",
+    "title": "Tap Global buys 3 bitcoin for balance sheet reserve strategy",
+    "tokens": [
+      "balance",
+      "bitcoin",
+      "buys",
+      "global",
+      "reserve",
+      "sheet",
+      "strategy",
+      "tap"
+    ],
+    "ts": 1790663958.480408
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/pepco-raises-fy26-earnings-outlook-announces-new-400-million-buyback-4921613",
+    "title": "Pepco raises FY26 earnings outlook, announces new €400 million buyback",
+    "tokens": [
+      "400",
+      "announces",
+      "buyback",
+      "earnings",
+      "fy26",
+      "million",
+      "outlook",
+      "pepco",
+      "raises"
+    ],
+    "ts": 1790663966.0725648
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/abingdon-healths-lab-receives-isoiec-17025-accreditation-93CH-4921612",
+    "title": "Abingdon Health’s lab receives ISO/IEC 17025 accreditation",
+    "tokens": [
+      "17025",
+      "abingdon",
+      "accreditation",
+      "health",
+      "iec",
+      "iso",
+      "lab",
+      "receives"
+    ],
+    "ts": 1790663974.8070626
+  },
+  {
+    "id": "f1609b4f-2c2c-4779-bdd2-5682add9d94d",
+    "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
+    "tokens": [
+      "bitget",
+      "blocks",
+      "hacker",
+      "happened",
+      "here",
+      "intents",
+      "million",
+      "near",
+      "swaps",
+      "what"
+    ],
+    "ts": 1790663983.04791
   }
 ]

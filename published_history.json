@@ -1,80 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/cerrado-gold-at-96th-emerging-growth-conference-growth-pipeline-in-focus-93CH-4916025",
-    "title": "Cerrado Gold at 96th Emerging Growth Conference: growth pipeline in focus",
-    "tokens": [
-      "96th",
-      "cerrado",
-      "conference",
-      "emerging",
-      "focus",
-      "gold",
-      "growth",
-      "pipeline"
-    ],
-    "ts": 1790277062.0771716
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/alaska-air-expects-boeing-737-max-10-certification-this-month-93CH-4916024",
-    "title": "Alaska Air expects Boeing 737 MAX 10 certification this month",
-    "tokens": [
-      "737",
-      "air",
-      "alaska",
-      "boeing",
-      "certification",
-      "expects",
-      "max",
-      "month"
-    ],
-    "ts": 1790277066.0889428
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/gaming-stocks-fall-after-meta-unveils-ai-gamebuilding-tools-4916022",
-    "title": "Gaming stocks fall after Meta unveils AI game-building tools",
-    "tokens": [
-      "building",
-      "fall",
-      "game",
-      "gaming",
-      "meta",
-      "stocks",
-      "tools",
-      "unveils"
-    ],
-    "ts": 1790277070.9899948
-  },
-  {
-    "id": "https://seekingalpha.com/news/4646850-equipmentshare-com-drops-after-short-report-from-blue-orca?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "EquipmentShare.com drops after short report from Blue Orca",
-    "tokens": [
-      "blue",
-      "com",
-      "drops",
-      "equipmentshare",
-      "orca",
-      "report",
-      "short"
-    ],
-    "ts": 1790277079.6748185
-  },
-  {
-    "id": "https://seekingalpha.com/news/4646852-almonty-initiated-neutral-at-goldman-as-valuation-already-discounts-companys-potential?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Almonty initiated Neutral at Goldman as valuation already discounts company's potential",
-    "tokens": [
-      "almonty",
-      "already",
-      "company",
-      "discounts",
-      "goldman",
-      "initiated",
-      "neutral",
-      "potential",
-      "valuation"
-    ],
-    "ts": 1790277087.7268128
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-kilsheimer-llp-announces-the-filing-of-a-securities-class-action-against-capricor-therapeutics-inc.-capr-deadline-is-september-29-2026-1036572354",
     "title": "Kaplan Fox & Kilsheimer LLP Announces the Filing of a Securities Class Action Against Capricor Therapeutics, Inc. (CAPR) - Deadline is September 29, 2026",
     "tokens": [
@@ -22966,5 +22891,79 @@
       "two"
     ],
     "ts": 1790652813.0826106
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/cnn-ms-now-politico-ask-judge-to-extend-block-on-white-house-ban-4921534",
+    "title": "CNN, MS NOW, Politico ask judge to extend block on White House ban",
+    "tokens": [
+      "ask",
+      "ban",
+      "block",
+      "cnn",
+      "extend",
+      "house",
+      "judge",
+      "now",
+      "politico",
+      "white"
+    ],
+    "ts": 1790654131.420816
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-cochlear-stock-sliding-today-93CH-4921530",
+    "title": "Why is Cochlear stock sliding today?",
+    "tokens": [
+      "cochlear",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790654135.4363809
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-nidec-stock-sliding-today-93CH-4921529",
+    "title": "Why is Nidec stock sliding today?",
+    "tokens": [
+      "nidec",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790654135.4514666
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-rising-yields-oil-weigh-on-risk-appetite-rba-decision-ahead-4921528",
+    "title": "Asia stocks fall as rising yields, oil weigh on risk appetite; RBA decision ahead",
+    "tokens": [
+      "ahead",
+      "appetite",
+      "asia",
+      "decision",
+      "fall",
+      "oil",
+      "rba",
+      "rising",
+      "risk",
+      "stocks",
+      "weigh",
+      "yields"
+    ],
+    "ts": 1790654140.6835692
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ambarella-director-christopher-paisley-sells-17690-in-shares-93CH-4921526",
+    "title": "Ambarella director Christopher Paisley sells $17,690 in shares",
+    "tokens": [
+      "690",
+      "ambarella",
+      "christopher",
+      "director",
+      "paisley",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790654148.3507743
   }
 ]

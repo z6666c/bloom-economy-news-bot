@@ -1,170 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/lokahi-therapeutics-partners-with-pepperdine-for-mba-program-93CH-4917587",
-    "title": "Lokahi Therapeutics partners with Pepperdine for MBA program",
-    "tokens": [
-      "lokahi",
-      "mba",
-      "partners",
-      "pepperdine",
-      "program",
-      "therapeutics"
-    ],
-    "ts": 1790342167.893484
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/kodiak-plans-driverless-highway-service-launch-by-year-end-93CH-4917588",
-    "title": "Kodiak plans driverless highway service launch by year end",
-    "tokens": [
-      "driverless",
-      "end",
-      "highway",
-      "kodiak",
-      "launch",
-      "plans",
-      "service",
-      "year"
-    ],
-    "ts": 1790342175.3295832
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-evonik-industries-stock-surging-today-93CH-4917581",
-    "title": "Why is Evonik Industries stock surging today?",
-    "tokens": [
-      "evonik",
-      "industries",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790342179.3453646
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-atlas-energy-stock-surging-today-93CH-4917580",
-    "title": "Why is Atlas Energy stock surging today?",
-    "tokens": [
-      "atlas",
-      "energy",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790342179.3612232
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/tessera-defense-signs-option-agreement-to-acquire-majority-stake-in-rt-lta-systems-93CH-4917578",
-    "title": "Tessera Defense signs option agreement to acquire majority stake in RT LTA Systems",
-    "tokens": [
-      "acquire",
-      "agreement",
-      "defense",
-      "lta",
-      "majority",
-      "option",
-      "signs",
-      "stake",
-      "systems",
-      "tessera"
-    ],
-    "ts": 1790342183.1886704
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/truist-cuts-camden-property-trust-stock-price-target-on-2027-outlook-93CH-4917577",
-    "title": "Truist cuts Camden Property Trust stock price target on 2027 outlook",
-    "tokens": [
-      "2027",
-      "camden",
-      "cuts",
-      "outlook",
-      "price",
-      "property",
-      "stock",
-      "target",
-      "truist",
-      "trust"
-    ],
-    "ts": 1790342190.0313373
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/truist-reiterates-avery-dennison-stock-buy-rating-after-investor-event-93CH-4917576",
-    "title": "Truist reiterates Avery Dennison stock Buy rating after investor event",
-    "tokens": [
-      "avery",
-      "buy",
-      "dennison",
-      "event",
-      "investor",
-      "rating",
-      "reiterates",
-      "stock",
-      "truist"
-    ],
-    "ts": 1790342197.0185795
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/truist-cuts-costco-stock-price-target-on-member-growth-concerns-93CH-4917575",
-    "title": "Truist cuts Costco stock price target on member growth concerns",
-    "tokens": [
-      "concerns",
-      "costco",
-      "cuts",
-      "growth",
-      "member",
-      "price",
-      "stock",
-      "target",
-      "truist"
-    ],
-    "ts": 1790342205.0174065
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/truist-raises-andersen-group-stock-price-target-on-growth-outlook-93CH-4917574",
-    "title": "Truist raises Andersen Group stock price target on growth outlook",
-    "tokens": [
-      "andersen",
-      "group",
-      "growth",
-      "outlook",
-      "price",
-      "raises",
-      "stock",
-      "target",
-      "truist"
-    ],
-    "ts": 1790342211.993775
-  },
-  {
-    "id": "oilprice-article-45612",
-    "title": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch",
-    "tokens": [
-      "collide",
-      "crunch",
-      "diesel",
-      "hopes",
-      "hormuz",
-      "whipsaws",
-      "wti"
-    ],
-    "ts": 1790342220.779361
-  },
-  {
-    "id": "oilprice-article-45611",
-    "title": "U.S.-Iran Talks Revive June Plan for Ending Hormuz Standoff",
-    "tokens": [
-      "ending",
-      "hormuz",
-      "iran",
-      "june",
-      "plan",
-      "revive",
-      "standoff",
-      "talks"
-    ],
-    "ts": 1790342229.6204474
-  },
-  {
     "id": "oilprice-article-45610",
     "title": "Aramco Restores East-West Pipeline as War Risk Closes In on Yanbu",
     "tokens": [
@@ -22994,5 +22829,165 @@
       "memory"
     ],
     "ts": 1790713977.793827
+  },
+  {
+    "id": "WP-MKTW-0005259512",
+    "title": "Nvidia’s historic buyback announcement underscores a sharp divide in Big Tech",
+    "tokens": [
+      "announcement",
+      "big",
+      "buyback",
+      "divide",
+      "historic",
+      "nvidia",
+      "sharp",
+      "tech",
+      "underscores"
+    ],
+    "ts": 1790715260.5751235
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/acres-commercial-realty-authorizes-5m-share-buyback-93CH-4923542",
+    "title": "ACRES Commercial Realty authorizes $5M share buyback",
+    "tokens": [
+      "acres",
+      "authorizes",
+      "buyback",
+      "commercial",
+      "realty",
+      "share"
+    ],
+    "ts": 1790715267.677554
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cion-repays-315m-in-debt-completes-deleveraging-plan-93CH-4923543",
+    "title": "CION repays $315m in debt, completes deleveraging plan",
+    "tokens": [
+      "315m",
+      "cion",
+      "completes",
+      "debt",
+      "deleveraging",
+      "plan",
+      "repays"
+    ],
+    "ts": 1790715274.539585
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/granite-secures-165m-guam-defense-contract-from-navfac-93CH-4923541",
+    "title": "Granite secures $165M Guam defense contract from NAVFAC",
+    "tokens": [
+      "165m",
+      "contract",
+      "defense",
+      "granite",
+      "guam",
+      "navfac",
+      "secures"
+    ],
+    "ts": 1790715283.444759
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sun-life-appoints-darko-mihelic-as-head-of-investor-relations-93CH-4923539",
+    "title": "Sun Life appoints Darko Mihelic as head of investor relations",
+    "tokens": [
+      "appoints",
+      "darko",
+      "head",
+      "investor",
+      "life",
+      "mihelic",
+      "relations",
+      "sun"
+    ],
+    "ts": 1790715290.8855028
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/linkage-global-terminates-20-million-equity-investment-deal-93CH-4923540",
+    "title": "Linkage Global terminates $20 million equity investment deal",
+    "tokens": [
+      "deal",
+      "equity",
+      "global",
+      "investment",
+      "linkage",
+      "million",
+      "terminates"
+    ],
+    "ts": 1790715298.1241987
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/uranium-energy-fy2026-slides-production-surges-157-costs-drop-33-93CH-4923538",
+    "title": "Uranium Energy FY2026 slides: production surges 157%, costs drop 33%",
+    "tokens": [
+      "157",
+      "costs",
+      "drop",
+      "energy",
+      "fy2026",
+      "production",
+      "slides",
+      "surges",
+      "uranium"
+    ],
+    "ts": 1790715307.698102
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/lexeo-therapeutics-completes-acquisition-of-mantle-therapeutics-93CH-4923537",
+    "title": "Lexeo Therapeutics completes acquisition of Mantle Therapeutics",
+    "tokens": [
+      "acquisition",
+      "completes",
+      "lexeo",
+      "mantle",
+      "therapeutics"
+    ],
+    "ts": 1790715315.6251698
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/company-at-mining-forum-americas-2026-richmond-hill-nears-production-93CH-4923536",
+    "title": "Company at Mining Forum Americas 2026: richmond hill nears production",
+    "tokens": [
+      "2026",
+      "americas",
+      "company",
+      "forum",
+      "hill",
+      "mining",
+      "nears",
+      "production",
+      "richmond"
+    ],
+    "ts": 1790715322.8650496
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/neuraxis-at-lytham-partners-fall-2026-investor-conference-coverage-gains-93CH-4923534",
+    "title": "NeurAxis at Lytham Partners fall 2026 investor conference: coverage gains",
+    "tokens": [
+      "2026",
+      "conference",
+      "coverage",
+      "fall",
+      "gains",
+      "investor",
+      "lytham",
+      "neuraxis",
+      "partners"
+    ],
+    "ts": 1790715330.687456
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/crown-castle-at-rbc-conference-ai-towers-and-margin-push-93CH-4923533",
+    "title": "Crown Castle at RBC conference: ai, towers and margin push",
+    "tokens": [
+      "castle",
+      "conference",
+      "crown",
+      "margin",
+      "push",
+      "rbc",
+      "towers"
+    ],
+    "ts": 1790715338.1989646
   }
 ]

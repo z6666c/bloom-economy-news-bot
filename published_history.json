@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/amundi-index-solutions-announces-dividend-payment-for-two-etfs-93CH-4917717",
-    "title": "Amundi Index Solutions announces dividend payment for two ETFs",
-    "tokens": [
-      "amundi",
-      "announces",
-      "dividend",
-      "etfs",
-      "index",
-      "payment",
-      "solutions",
-      "two"
-    ],
-    "ts": 1790346620.181893
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-super-micro-computer-stock-climbing-today-93CH-4917716",
-    "title": "Why is Super Micro Computer stock climbing today?",
-    "tokens": [
-      "climbing",
-      "computer",
-      "micro",
-      "stock",
-      "super",
-      "today",
-      "why"
-    ],
-    "ts": 1790346629.8522139
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bmo-cuts-darden-restaurants-stock-price-target-on-consumer-uncertainty-93CH-4917713",
-    "title": "BMO cuts Darden Restaurants stock price target on consumer uncertainty",
-    "tokens": [
-      "bmo",
-      "consumer",
-      "cuts",
-      "darden",
-      "price",
-      "restaurants",
-      "stock",
-      "target",
-      "uncertainty"
-    ],
-    "ts": 1790346638.6079202
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/bmo-capital-raises-okta-stock-price-target-on-ai-expansion-93CH-4917714",
     "title": "BMO Capital raises Okta stock price target on AI expansion",
     "tokens": [
@@ -22995,5 +22950,52 @@
       "tech"
     ],
     "ts": 1790719097.489563
+  },
+  {
+    "id": "WP-MKTW-0005259928",
+    "title": "Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
+    "tokens": [
+      "big",
+      "bros",
+      "buyout",
+      "deal",
+      "debt",
+      "finances",
+      "higher",
+      "hits",
+      "hollywood",
+      "paramount",
+      "wall",
+      "warner",
+      "yields"
+    ],
+    "ts": 1790720107.0388596
+  },
+  {
+    "id": "oilprice-article-45640",
+    "title": "US Government Presents Regulatory Gift to Gas Automakers",
+    "tokens": [
+      "automakers",
+      "gas",
+      "gift",
+      "government",
+      "presents",
+      "regulatory"
+    ],
+    "ts": 1790720115.8621788
+  },
+  {
+    "id": "oilprice-news-45640",
+    "title": "US Distillate Stocks Continue to Fall As Crude Inventories Build",
+    "tokens": [
+      "build",
+      "continue",
+      "crude",
+      "distillate",
+      "fall",
+      "inventories",
+      "stocks"
+    ],
+    "ts": 1790720123.6125157
   }
 ]

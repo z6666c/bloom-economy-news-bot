@@ -1,77 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc",
-    "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
-    "tokens": [
-      "314",
-      "bitcoin",
-      "btc",
-      "exits",
-      "remaining",
-      "selling",
-      "sequans",
-      "strategy",
-      "treasury"
-    ],
-    "ts": 1790270845.4770663
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/repsol-warns-90-of-crude-supplies-may-not-meet-eu-methane-rules-4915971",
-    "title": "Repsol warns 90% of crude supplies may not meet EU methane rules",
-    "tokens": [
-      "crude",
-      "may",
-      "meet",
-      "methane",
-      "repsol",
-      "rules",
-      "supplies",
-      "warns"
-    ],
-    "ts": 1790271578.3224478
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/clorox-stock-hits-52week-low-at-8247-usd-93CH-4915969",
-    "title": "Clorox stock hits 52-week low at 82.47 USD",
-    "tokens": [
-      "clorox",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790271582.3350434
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sp-downgrades-paramount-skydance-rating-on-higher-leverage-93CH-4915967",
-    "title": "S&P downgrades Paramount Skydance rating on higher leverage",
-    "tokens": [
-      "downgrades",
-      "higher",
-      "leverage",
-      "paramount",
-      "rating",
-      "skydance"
-    ],
-    "ts": 1790271586.3687255
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/moomoo-sees-50-jump-in-crypto-buyers-as-retail-demand-broadens-4915966",
-    "title": "moomoo sees 50% jump in crypto buyers as retail demand broadens",
-    "tokens": [
-      "broadens",
-      "buyers",
-      "crypto",
-      "demand",
-      "jump",
-      "moomoo",
-      "retail",
-      "sees"
-    ],
-    "ts": 1790271593.6039412
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/rambus-director-charles-kissner-sells-525000-in-company-stock-93CH-4915965",
     "title": "Rambus director Charles Kissner sells $525,000 in company stock",
     "tokens": [
@@ -22979,5 +22907,81 @@
       "wsj"
     ],
     "ts": 1790639699.4212718
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pimco-dynamic-income-director-alan-rappaport-buys-75654-in-stock-93CH-4921425",
+    "title": "Pimco Dynamic Income director Alan Rappaport buys $75,654 in stock",
+    "tokens": [
+      "654",
+      "alan",
+      "buys",
+      "director",
+      "dynamic",
+      "income",
+      "pimco",
+      "rappaport",
+      "stock"
+    ],
+    "ts": 1790640947.9342554
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/commercial-bancgroup-executive-chairperson-john-robertson-buys-2287-in-stock-93CH-4921424",
+    "title": "Commercial bancgroup executive chairperson John Robertson buys $2,287 in stock",
+    "tokens": [
+      "287",
+      "bancgroup",
+      "buys",
+      "chairperson",
+      "commercial",
+      "executive",
+      "john",
+      "robertson",
+      "stock"
+    ],
+    "ts": 1790640955.3006923
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/openai-scraps-release-of-new-model-on-safety-concerns-wsj-4921415",
+    "title": "OpenAI scraps release of new model on safety concerns- WSJ",
+    "tokens": [
+      "concerns",
+      "model",
+      "openai",
+      "release",
+      "safety",
+      "scraps",
+      "wsj"
+    ],
+    "ts": 1790640963.1559122
+  },
+  {
+    "id": "oilprice-article-45630",
+    "title": "Hormuz Rerouting Doubles Cape Traffic Without Delivering a Windfall",
+    "tokens": [
+      "cape",
+      "delivering",
+      "doubles",
+      "hormuz",
+      "rerouting",
+      "traffic",
+      "windfall",
+      "without"
+    ],
+    "ts": 1790640971.8109286
+  },
+  {
+    "id": "oilprice-news-45630",
+    "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
+    "tokens": [
+      "1982",
+      "falls",
+      "level",
+      "lowest",
+      "petroleum",
+      "reserve",
+      "since",
+      "strategic"
+    ],
+    "ts": 1790640975.827728
   }
 ]

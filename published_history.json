@@ -1,89 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-kilsheimer-llp-announces-the-filing-of-a-securities-class-action-against-capricor-therapeutics-inc.-capr-deadline-is-september-29-2026-1036572354",
-    "title": "Kaplan Fox & Kilsheimer LLP Announces the Filing of a Securities Class Action Against Capricor Therapeutics, Inc. (CAPR) - Deadline is September 29, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "against",
-      "announces",
-      "capr",
-      "capricor",
-      "class",
-      "deadline",
-      "filing",
-      "fox",
-      "inc",
-      "kaplan",
-      "kilsheimer",
-      "llp",
-      "securities",
-      "september",
-      "therapeutics"
-    ],
-    "ts": 1790277096.437212
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-adtran-holdings-inc-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036572348",
-    "title": "EQS-PVR: Adtran Holdings, Inc.: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
-    "tokens": [
-      "according",
-      "act",
-      "adtran",
-      "article",
-      "distribution",
-      "eqs",
-      "europe",
-      "german",
-      "holdings",
-      "inc",
-      "objective",
-      "pvr",
-      "release",
-      "section",
-      "securities",
-      "trading",
-      "wide",
-      "wphg"
-    ],
-    "ts": 1790277100.448819
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/asla-2026-brings-landscape-architecture-industry-to-los-angeles-as-york-bridge-concepts-prepares-to-exhibit-1036572355",
-    "title": "ASLA 2026 Brings Landscape Architecture Industry to Los Angeles as York Bridge Concepts Prepares to Exhibit",
-    "tokens": [
-      "2026",
-      "angeles",
-      "architecture",
-      "asla",
-      "bridge",
-      "brings",
-      "concepts",
-      "exhibit",
-      "industry",
-      "landscape",
-      "los",
-      "prepares",
-      "york"
-    ],
-    "ts": 1790277105.7832491
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/independent-collection-hotels-resorts-celebrates-michelin-key-achievements-1036572317",
-    "title": "INDEPENDENT COLLECTION HOTELS & RESORTS CELEBRATES MICHELIN KEY ACHIEVEMENTS",
-    "tokens": [
-      "achievements",
-      "celebrates",
-      "collection",
-      "hotels",
-      "independent",
-      "key",
-      "michelin",
-      "resorts"
-    ],
-    "ts": 1790277113.9840207
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/vancouver-ai-company-alebex-ranks-8th-in-international-speech-to-text-benchmark-1036572316",
     "title": "Vancouver AI Company Alebex Ranks 8th in International Speech-to-Text Benchmark",
     "tokens": [
@@ -22965,5 +22881,61 @@
       "shares"
     ],
     "ts": 1790654148.3507743
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/shein-shares-hit-record-low-as-quarterly-profit-slumps-67-4921542",
+    "title": "Shein shares hit record low as quarterly profit slumps 67%",
+    "tokens": [
+      "hit",
+      "low",
+      "profit",
+      "quarterly",
+      "record",
+      "shares",
+      "shein",
+      "slumps"
+    ],
+    "ts": 1790655109.8435168
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-chugai-pharmaceutical-stock-sliding-today-93CH-4921541",
+    "title": "Why is Chugai Pharmaceutical stock sliding today?",
+    "tokens": [
+      "chugai",
+      "pharmaceutical",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790655117.4196727
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-goodman-stock-sliding-today-93CH-4921540",
+    "title": "Why is Goodman stock sliding today?",
+    "tokens": [
+      "goodman",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790655121.4351416
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/finward-bancorp-evp-robert-lowry-buys-1829-in-company-stock-93CH-4921538",
+    "title": "Finward Bancorp EVP Robert Lowry buys $1,829 in company stock",
+    "tokens": [
+      "829",
+      "bancorp",
+      "buys",
+      "company",
+      "evp",
+      "finward",
+      "lowry",
+      "robert",
+      "stock"
+    ],
+    "ts": 1790655125.191834
   }
 ]

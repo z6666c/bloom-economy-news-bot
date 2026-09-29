@@ -1,111 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/halyk-bank-shareholders-approve-islamic-banking-license-93CH-4917106",
-    "title": "Halyk Bank shareholders approve Islamic banking license",
-    "tokens": [
-      "approve",
-      "bank",
-      "banking",
-      "halyk",
-      "islamic",
-      "license",
-      "shareholders"
-    ],
-    "ts": 1790332342.8749492
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/kremlin-says-us-russia-ukraine-meeting-may-happen-soon-93CH-4917104",
-    "title": "Kremlin says US, Russia, Ukraine meeting may happen soon",
-    "tokens": [
-      "happen",
-      "kremlin",
-      "may",
-      "meeting",
-      "russia",
-      "soon",
-      "ukraine"
-    ],
-    "ts": 1790332349.8557122
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-emerson-stock-with-overweight-rating-on-growth-93CH-4917101",
-    "title": "Wells Fargo initiates Emerson stock with overweight rating on growth",
-    "tokens": [
-      "emerson",
-      "fargo",
-      "growth",
-      "initiates",
-      "overweight",
-      "rating",
-      "stock",
-      "wells"
-    ],
-    "ts": 1790332357.6111724
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-trane-technologies-stock-at-overweight-on-data-center-growth-93CH-4917100",
-    "title": "Wells Fargo initiates Trane Technologies stock at Overweight on data center growth",
-    "tokens": [
-      "center",
-      "data",
-      "fargo",
-      "growth",
-      "initiates",
-      "overweight",
-      "stock",
-      "technologies",
-      "trane",
-      "wells"
-    ],
-    "ts": 1790332364.8698997
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-johnson-controls-stock-at-overweight-on-backlog-93CH-4917099",
-    "title": "Wells Fargo initiates Johnson Controls stock at Overweight on backlog",
-    "tokens": [
-      "backlog",
-      "controls",
-      "fargo",
-      "initiates",
-      "johnson",
-      "overweight",
-      "stock",
-      "wells"
-    ],
-    "ts": 1790332372.1190872
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-eaton-stock-coverage-with-overweight-rating-93CH-4917098",
-    "title": "Wells Fargo initiates Eaton stock coverage with overweight rating",
-    "tokens": [
-      "coverage",
-      "eaton",
-      "fargo",
-      "initiates",
-      "overweight",
-      "rating",
-      "stock",
-      "wells"
-    ],
-    "ts": 1790332376.1357257
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/vertiv-stock-initiated-at-overweight-by-wells-fargo-on-data-center-growth-93CH-4917096",
-    "title": "Vertiv stock initiated at Overweight by Wells Fargo on data center growth",
-    "tokens": [
-      "center",
-      "data",
-      "fargo",
-      "growth",
-      "initiated",
-      "overweight",
-      "stock",
-      "vertiv",
-      "wells"
-    ],
-    "ts": 1790332378.9602485
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-dover-stock-coverage-with-overweight-rating-93CH-4917097",
     "title": "Wells Fargo initiates Dover stock coverage with overweight rating",
     "tokens": [
@@ -22938,5 +22832,107 @@
       "token"
     ],
     "ts": 1790703822.3364384
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/openai-seeks-30-billion-in-new-funding-round-at-14-trillion-value--report-4923285",
+    "title": "OpenAI seeks $30 billion in new funding round at $1.4 trillion value - report",
+    "tokens": [
+      "billion",
+      "funding",
+      "openai",
+      "report",
+      "round",
+      "seeks",
+      "trillion",
+      "value"
+    ],
+    "ts": 1790704692.883122
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/juventus-seeks-shareholder-approval-for-250m-capital-raise-93CH-4923284",
+    "title": "Juventus seeks shareholder approval for €250m capital raise",
+    "tokens": [
+      "250m",
+      "approval",
+      "capital",
+      "juventus",
+      "raise",
+      "seeks",
+      "shareholder"
+    ],
+    "ts": 1790704753.6179152
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/adient-stock-hits-52week-low-at-1676-usd-93CH-4923283",
+    "title": "Adient stock hits 52-week low at 16.76 USD",
+    "tokens": [
+      "adient",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790704757.6336904
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/medicare-advantage-premiums-expected-to-drop-more-than-16-in-2027-cms-projects-4923282",
+    "title": "Medicare Advantage premiums expected to drop more than 16% in 2027, CMS projects",
+    "tokens": [
+      "2027",
+      "advantage",
+      "cms",
+      "drop",
+      "expected",
+      "medicare",
+      "more",
+      "premiums",
+      "projects"
+    ],
+    "ts": 1790704761.4697065
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-appeals-court-upholds-thomson-reuters-landmark-win-in-ai-training-lawsuit-4923265",
+    "title": "US appeals court upholds Thomson Reuters’ landmark win in AI training lawsuit",
+    "tokens": [
+      "appeals",
+      "court",
+      "landmark",
+      "lawsuit",
+      "reuters",
+      "thomson",
+      "training",
+      "upholds",
+      "win"
+    ],
+    "ts": 1790704768.6599689
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/data-center-developer-5c-group-considering-an-ipo-ceo-says-4923281",
+    "title": "Data center developer 5C Group considering an IPO, CEO says",
+    "tokens": [
+      "center",
+      "ceo",
+      "considering",
+      "data",
+      "developer",
+      "group",
+      "ipo"
+    ],
+    "ts": 1790704776.330843
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/astrabit-appoints-wade-and-hawes-to-strategic-advisory-board-93CH-4923279",
+    "title": "AstraBit appoints Wade and Hawes to strategic advisory board",
+    "tokens": [
+      "advisory",
+      "appoints",
+      "astrabit",
+      "board",
+      "hawes",
+      "strategic",
+      "wade"
+    ],
+    "ts": 1790704784.9201238
   }
 ]

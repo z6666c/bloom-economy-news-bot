@@ -1,16 +1,5 @@
 [
   {
-    "id": "oilprice-article-45595",
-    "title": "Why Are Diesel Prices So High?",
-    "tokens": [
-      "diesel",
-      "high",
-      "prices",
-      "why"
-    ],
-    "ts": 1790273671.9214232
-  },
-  {
     "id": "oilprice-news-45595",
     "title": "Record Fuel Prices Send European EV Sales Soaring",
     "tokens": [
@@ -22978,5 +22967,20 @@
       "tied"
     ],
     "ts": 1790645305.4465363
+  },
+  {
+    "id": "WP-MKTW-0005258150",
+    "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
+    "tokens": [
+      "anthropic",
+      "comes",
+      "fine",
+      "following",
+      "ipo",
+      "potential",
+      "print",
+      "trillion"
+    ],
+    "ts": 1790646194.0306566
   }
 ]

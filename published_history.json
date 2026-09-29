@@ -1,205 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/sec-filings/venu-holding-shareholders-approve-board-elections-incentive-plan-amendment-and-debt-issuance-93CH-4916373",
-    "title": "Venu Holding shareholders approve board elections, incentive plan amendment, and debt issuance",
-    "tokens": [
-      "amendment",
-      "approve",
-      "board",
-      "debt",
-      "elections",
-      "holding",
-      "incentive",
-      "issuance",
-      "plan",
-      "shareholders",
-      "venu"
-    ],
-    "ts": 1790291429.5901914
-  },
-  {
-    "id": "oilprice-article-45602",
-    "title": "Soaring Freight Costs Make Japan’s Crude Imports the World’s Most Expensive",
-    "tokens": [
-      "costs",
-      "crude",
-      "expensive",
-      "freight",
-      "imports",
-      "japan",
-      "make",
-      "most",
-      "soaring",
-      "world"
-    ],
-    "ts": 1790291438.4908745
-  },
-  {
-    "id": "oilprice-news-45602",
-    "title": "Saudi Oil Export Costs Surge as Red Sea Risks Mount",
-    "tokens": [
-      "costs",
-      "export",
-      "mount",
-      "oil",
-      "red",
-      "risks",
-      "saudi",
-      "sea",
-      "surge"
-    ],
-    "ts": 1790291442.5082493
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/costco-beats-quarterly-sales-estimates-on-resilient-demand-for-essentials-4916155",
-    "title": "Costco tops estimates as discount gas, bulk deals draw inflation-weary shoppers",
-    "tokens": [
-      "bulk",
-      "costco",
-      "deals",
-      "discount",
-      "draw",
-      "estimates",
-      "gas",
-      "inflation",
-      "shoppers",
-      "tops",
-      "weary"
-    ],
-    "ts": 1790292306.7619982
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/uk-consumer-confidence-hits-more-than-twoyear-high-in-september-gfk-says-4916400",
-    "title": "UK consumer confidence hits more than two-year high in September, GfK says",
-    "tokens": [
-      "confidence",
-      "consumer",
-      "gfk",
-      "high",
-      "hits",
-      "more",
-      "september",
-      "two",
-      "year"
-    ],
-    "ts": 1790292315.096172
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-815803-in-company-stock-93CH-4916398",
-    "title": "Apple SVP Jennifer Newstead sells $815,803 in company stock",
-    "tokens": [
-      "803",
-      "815",
-      "apple",
-      "company",
-      "jennifer",
-      "newstead",
-      "sells",
-      "stock",
-      "svp"
-    ],
-    "ts": 1790292322.9496665
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/analysisoracle-blue-owl-project-delaysends-ripples-through-ai-financing-sources-say-4916397",
-    "title": "Analysis-Oracle, Blue Owl project delay sends ripples through AI financing, sources say",
-    "tokens": [
-      "analysis",
-      "blue",
-      "delay",
-      "financing",
-      "oracle",
-      "owl",
-      "project",
-      "ripples",
-      "say",
-      "sends",
-      "sources",
-      "through"
-    ],
-    "ts": 1790292330.4898527
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/amc-entertainment-stockholders-approve-equity-plan-amendment-reject-board-changes-93CH-4916386",
-    "title": "AMC Entertainment stockholders approve equity plan amendment, reject board changes",
-    "tokens": [
-      "amc",
-      "amendment",
-      "approve",
-      "board",
-      "changes",
-      "entertainment",
-      "equity",
-      "plan",
-      "reject",
-      "stockholders"
-    ],
-    "ts": 1790292338.4949596
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/atlas-energy-solutions-signs-6135-million-equipment-deals-for-power-project-93CH-4916385",
-    "title": "Atlas Energy Solutions signs $613.5 million equipment deals for power project",
-    "tokens": [
-      "613",
-      "atlas",
-      "deals",
-      "energy",
-      "equipment",
-      "million",
-      "power",
-      "project",
-      "signs",
-      "solutions"
-    ],
-    "ts": 1790292346.2183747
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express",
-    "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
-    "tokens": [
-      "351m",
-      "adoption",
-      "asia",
-      "bitget",
-      "crypto",
-      "dominates",
-      "express",
-      "hack",
-      "index"
-    ],
-    "ts": 1790293124.2169504
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/adarx-pharmaceuticals-prices-upsized-ipo-at-17-per-share-93CH-4916428",
-    "title": "ADARx Pharmaceuticals prices upsized IPO at $17 per share",
-    "tokens": [
-      "adarx",
-      "ipo",
-      "per",
-      "pharmaceuticals",
-      "prices",
-      "share",
-      "upsized"
-    ],
-    "ts": 1790293868.0599396
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/polymarket-sues-new-york-attorney-general-to-block-regulation-of-its-prediction-market-4916415",
-    "title": "Polymarket sues New York attorney general to block regulation of its prediction market",
-    "tokens": [
-      "attorney",
-      "block",
-      "general",
-      "market",
-      "polymarket",
-      "prediction",
-      "regulation",
-      "sues",
-      "york"
-    ],
-    "ts": 1790293876.1032221
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/pimco-dynamic-income-fund-director-sonya-morris-buys-79885-in-shares-93CH-4916412",
     "title": "Pimco Dynamic Income Fund director Sonya Morris buys $79,885 in shares",
     "tokens": [
@@ -22973,5 +22773,179 @@
       "yield"
     ],
     "ts": 1790677207.243642
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pearson-to-acquire-ai-skills-assessment-platform-workera-93CH-4921724",
+    "title": "Pearson to acquire AI skills assessment platform Workera",
+    "tokens": [
+      "acquire",
+      "assessment",
+      "pearson",
+      "platform",
+      "skills",
+      "workera"
+    ],
+    "ts": 1790678620.7564635
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/faced-with-us-ban-canadian-booze-makers-see-yet-more-hurdles-at-home-4922051",
+    "title": "Faced with US ban, Canadian booze makers see yet more hurdles at home",
+    "tokens": [
+      "ban",
+      "booze",
+      "canadian",
+      "faced",
+      "home",
+      "hurdles",
+      "makers",
+      "more",
+      "see",
+      "yet"
+    ],
+    "ts": 1790678628.1043289
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/china-expects-trade-to-grow-despite-external-challenges-4922118",
+    "title": "China expects trade to grow despite external challenges",
+    "tokens": [
+      "challenges",
+      "china",
+      "despite",
+      "expects",
+      "external",
+      "grow",
+      "trade"
+    ],
+    "ts": 1790678635.3232288
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/td-cowen-initiates-spacex-stock-coverage-with-buy-rating-on-ai-growth-93CH-4922113",
+    "title": "TD Cowen initiates SpaceX stock coverage with buy rating on AI growth",
+    "tokens": [
+      "buy",
+      "coverage",
+      "cowen",
+      "growth",
+      "initiates",
+      "rating",
+      "spacex",
+      "stock"
+    ],
+    "ts": 1790678643.774366
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/meta-expands-muse-ai-agent-for-small-businesses-4922112",
+    "title": "Meta expands Muse AI agent for small businesses",
+    "tokens": [
+      "agent",
+      "businesses",
+      "expands",
+      "meta",
+      "muse",
+      "small"
+    ],
+    "ts": 1790678651.3074145
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/equinox-gold-reports-drilling-results-from-canadian-operations-93CH-4922111",
+    "title": "Equinox Gold reports drilling results from Canadian operations",
+    "tokens": [
+      "canadian",
+      "drilling",
+      "equinox",
+      "gold",
+      "operations",
+      "reports",
+      "results"
+    ],
+    "ts": 1790678658.396658
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hyperscale-data-reports-56m-in-bitcoin-and-cash-holdings-93CH-4922110",
+    "title": "Hyperscale Data reports $56M in bitcoin and cash holdings",
+    "tokens": [
+      "56m",
+      "bitcoin",
+      "cash",
+      "data",
+      "holdings",
+      "hyperscale",
+      "reports"
+    ],
+    "ts": 1790678665.689805
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/wyndham-hotels-board-approves-400m-buyback-increase-93CH-4922107",
+    "title": "Wyndham Hotels board approves $400M buyback increase",
+    "tokens": [
+      "400m",
+      "approves",
+      "board",
+      "buyback",
+      "hotels",
+      "increase",
+      "wyndham"
+    ],
+    "ts": 1790678672.732809
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/parsons-wins-85m-contract-for-space-command-headquarters-93CH-4922108",
+    "title": "Parsons wins $85M contract for Space Command headquarters",
+    "tokens": [
+      "85m",
+      "command",
+      "contract",
+      "headquarters",
+      "parsons",
+      "space",
+      "wins"
+    ],
+    "ts": 1790678679.9569504
+  },
+  {
+    "id": "oilprice-news-45626",
+    "title": "Oil Extends Rally Despite Higher Hormuz Volume Reports",
+    "tokens": [
+      "despite",
+      "extends",
+      "higher",
+      "hormuz",
+      "oil",
+      "rally",
+      "reports",
+      "volume"
+    ],
+    "ts": 1790678688.3038785
+  },
+  {
+    "id": "3006a094-875f-4d58-8f04-4bc973d79d33",
+    "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+    "tokens": [
+      "aave",
+      "bond",
+      "crypto",
+      "defi",
+      "higher",
+      "leads",
+      "market",
+      "off",
+      "shrugs",
+      "surging"
+    ],
+    "ts": 1790678696.6093898
+  },
+  {
+    "id": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp",
+    "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+    "tokens": [
+      "cool",
+      "crypto",
+      "etf",
+      "hold",
+      "inflows",
+      "streaks",
+      "week"
+    ],
+    "ts": 1790678704.1472335
   }
 ]

@@ -1,134 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-reiterates-darden-stock-rating-on-solid-quarterly-results-93CH-4917674",
-    "title": "JPMorgan reiterates Darden stock rating on solid quarterly results",
-    "tokens": [
-      "darden",
-      "jpmorgan",
-      "quarterly",
-      "rating",
-      "reiterates",
-      "results",
-      "solid",
-      "stock"
-    ],
-    "ts": 1790345553.0940835
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-raises-costco-stock-price-target-on-solid-earnings-93CH-4917673",
-    "title": "DA Davidson raises Costco stock price target on solid earnings",
-    "tokens": [
-      "costco",
-      "davidson",
-      "earnings",
-      "price",
-      "raises",
-      "solid",
-      "stock",
-      "target"
-    ],
-    "ts": 1790345561.2779052
-  },
-  {
-    "id": "oilprice-article-45603",
-    "title": "Beijing's Iran Oil Trade Draws Fresh Criticism From Capitol Hill",
-    "tokens": [
-      "beijing",
-      "capitol",
-      "criticism",
-      "draws",
-      "fresh",
-      "hill",
-      "iran",
-      "oil",
-      "trade"
-    ],
-    "ts": 1790345569.4762404
-  },
-  {
-    "id": "oilprice-news-45603",
-    "title": "Netherlands Pushes to Scrap EU Gas Storage Mandate After $1.14 Billion Bill",
-    "tokens": [
-      "bill",
-      "billion",
-      "gas",
-      "mandate",
-      "netherlands",
-      "pushes",
-      "scrap",
-      "storage"
-    ],
-    "ts": 1790345576.9775765
-  },
-  {
-    "id": "WP-MKTW-0005253337",
-    "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-    "tokens": [
-      "000",
-      "100",
-      "capital",
-      "friend",
-      "gains",
-      "her",
-      "home",
-      "ill",
-      "pay",
-      "rental",
-      "sell",
-      "she",
-      "should",
-      "terminally"
-    ],
-    "ts": 1790346597.4639258
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-philogen-h1-2026-cash-tops-eur-300-million-as-pipeline-advances-93CH-4917720",
-    "title": "Earnings call transcript: Philogen H1 2026 cash tops EUR 300 million as pipeline advances",
-    "tokens": [
-      "2026",
-      "300",
-      "advances",
-      "call",
-      "cash",
-      "earnings",
-      "eur",
-      "million",
-      "philogen",
-      "pipeline",
-      "tops",
-      "transcript"
-    ],
-    "ts": 1790346605.4696708
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-iren-stock-sliding-today-93CH-4917719",
-    "title": "Why is IREN stock sliding today?",
-    "tokens": [
-      "iren",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790346609.4790316
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/siebert-financial-appoints-john-m-gebbia-to-board-following-director-resignation-93CH-4917718",
-    "title": "Siebert Financial appoints John M. Gebbia to board following director resignation",
-    "tokens": [
-      "appoints",
-      "board",
-      "director",
-      "financial",
-      "following",
-      "gebbia",
-      "john",
-      "resignation",
-      "siebert"
-    ],
-    "ts": 1790346612.3557165
-  },
-  {
     "id": "https://www.investing.com/news/company-news/amundi-index-solutions-announces-dividend-payment-for-two-etfs-93CH-4917717",
     "title": "Amundi Index Solutions announces dividend payment for two ETFs",
     "tokens": [
@@ -22993,5 +22864,136 @@
       "target"
     ],
     "ts": 1790718316.4370615
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/heliostar-metals-at-mining-forum-americas-2026-growth-plan-advances-93CH-4923728",
+    "title": "Heliostar Metals at Mining Forum Americas 2026: growth plan advances",
+    "tokens": [
+      "2026",
+      "advances",
+      "americas",
+      "forum",
+      "growth",
+      "heliostar",
+      "metals",
+      "mining",
+      "plan"
+    ],
+    "ts": 1790719042.476432
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/aterian-announces-change-in-control-board-appointment-and-cvr-payment-93CH-4923727",
+    "title": "Aterian announces change in control, board appointment, and CVR payment",
+    "tokens": [
+      "announces",
+      "appointment",
+      "aterian",
+      "board",
+      "change",
+      "control",
+      "cvr",
+      "payment"
+    ],
+    "ts": 1790719051.055624
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/builddirect-at-lytham-partners-fall-2026-investor-conference-buyandbuild-push-93CH-4923724",
+    "title": "BuildDirect at Lytham Partners Fall 2026 Investor Conference: buy-and-build push",
+    "tokens": [
+      "2026",
+      "build",
+      "builddirect",
+      "buy",
+      "conference",
+      "fall",
+      "investor",
+      "lytham",
+      "partners",
+      "push"
+    ],
+    "ts": 1790719058.4606175
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/mineros-at-mining-forum-americas-2026-growth-push-gains-pace-93CH-4923722",
+    "title": "Mineros at Mining Forum Americas 2026: growth push gains pace",
+    "tokens": [
+      "2026",
+      "americas",
+      "forum",
+      "gains",
+      "growth",
+      "mineros",
+      "mining",
+      "pace",
+      "push"
+    ],
+    "ts": 1790719065.897004
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/marketaxess-and-ice-refile-premerger-notifications-hsr-waiting-period-reset-93CH-4923723",
+    "title": "MarketAxess and ICE refile premerger notifications, HSR waiting period reset",
+    "tokens": [
+      "hsr",
+      "ice",
+      "marketaxess",
+      "notifications",
+      "period",
+      "premerger",
+      "refile",
+      "reset",
+      "waiting"
+    ],
+    "ts": 1790719073.9527168
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/wheaton-precious-metals-at-mining-forum-americas-2026-growth-push-93CH-4923720",
+    "title": "Wheaton Precious Metals at Mining Forum Americas 2026: growth push",
+    "tokens": [
+      "2026",
+      "americas",
+      "forum",
+      "growth",
+      "metals",
+      "mining",
+      "precious",
+      "push",
+      "wheaton"
+    ],
+    "ts": 1790719081.5721855
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-concentrix-q3-2026-profit-beat-overshadowed-by-revenue-miss-93CH-4923719",
+    "title": "Earnings call transcript: Concentrix Q3 2026 profit beat overshadowed by revenue miss",
+    "tokens": [
+      "2026",
+      "beat",
+      "call",
+      "concentrix",
+      "earnings",
+      "miss",
+      "overshadowed",
+      "profit",
+      "revenue",
+      "transcript"
+    ],
+    "ts": 1790719090.2101054
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-prospectus-lays-bare-deep-dependence-on-big-tech-partners-4923585",
+    "title": "Exclusive-Anthropic IPO prospectus lays bare deep dependence on Big Tech partners",
+    "tokens": [
+      "anthropic",
+      "bare",
+      "big",
+      "deep",
+      "dependence",
+      "exclusive",
+      "ipo",
+      "lays",
+      "partners",
+      "prospectus",
+      "tech"
+    ],
+    "ts": 1790719097.489563
   }
 ]

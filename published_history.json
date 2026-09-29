@@ -1,148 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/chinese-usfirms-line-up-for-peru-copper-projects-as-government-cuts-red-tape-4917808",
-    "title": "Chinese, US firms line up for Peru copper projects as government cuts red tape",
-    "tokens": [
-      "chinese",
-      "copper",
-      "cuts",
-      "firms",
-      "government",
-      "line",
-      "peru",
-      "projects",
-      "red",
-      "tape"
-    ],
-    "ts": 1790351112.09654
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-appeals-court-declines-to-block-pentagons-blacklisting-of-anthropic-4917802",
-    "title": "US appeals court declines to block Pentagon’s blacklisting of Anthropic",
-    "tokens": [
-      "anthropic",
-      "appeals",
-      "blacklisting",
-      "block",
-      "court",
-      "declines",
-      "pentagon"
-    ],
-    "ts": 1790351119.420665
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/sterling-real-estate-trust-updates-unit-redemption-and-trustee-compensation-plans-93CH-4917801",
-    "title": "Sterling Real Estate Trust updates unit redemption and trustee compensation plans",
-    "tokens": [
-      "compensation",
-      "estate",
-      "plans",
-      "real",
-      "redemption",
-      "sterling",
-      "trust",
-      "trustee",
-      "unit",
-      "updates"
-    ],
-    "ts": 1790351127.8146834
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/cognition-ai-hits-1-billion-run-rate-amid-demand-for-coding-software--bloomberg-4917797",
-    "title": "Cognition AI hits $1 billion run rate amid demand for coding software - Bloomberg",
-    "tokens": [
-      "billion",
-      "bloomberg",
-      "coding",
-      "cognition",
-      "demand",
-      "hits",
-      "rate",
-      "run",
-      "software"
-    ],
-    "ts": 1790351135.529752
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-senate-approves-legislation-to-address-pilot-air-traffic-control-mental-health-issues-4917788",
-    "title": "US Senate approves legislation to address pilot, air traffic control mental health issues",
-    "tokens": [
-      "address",
-      "air",
-      "approves",
-      "control",
-      "health",
-      "issues",
-      "legislation",
-      "mental",
-      "pilot",
-      "senate",
-      "traffic"
-    ],
-    "ts": 1790351142.71924
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/harvard-apparatus-regenerative-ceo-he-junli-buys-380000-in-hrgn-stock-93CH-4917787",
-    "title": "Harvard Apparatus Regenerative CEO He Junli buys $380,000 in HRGN stock",
-    "tokens": [
-      "000",
-      "380",
-      "apparatus",
-      "buys",
-      "ceo",
-      "harvard",
-      "hrgn",
-      "junli",
-      "regenerative",
-      "stock"
-    ],
-    "ts": 1790351150.1441302
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/campbells-stock-hits-52week-low-at-1955-usd-93CH-4917785",
-    "title": "Campbell’s stock hits 52-week low at 19.55 USD",
-    "tokens": [
-      "campbell",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790351154.1592376
-  },
-  {
-    "id": "WP-MKTW-0005254212",
-    "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
-    "tokens": [
-      "excite",
-      "fails",
-      "falls",
-      "investors",
-      "launch",
-      "semi",
-      "stock",
-      "tesla",
-      "truck"
-    ],
-    "ts": 1790351777.607429
-  },
-  {
-    "id": "WP-MKTW-0005253849",
-    "title": "Apple’s expensive new iPhones could be a double-edged sword for the company",
-    "tokens": [
-      "apple",
-      "company",
-      "could",
-      "double",
-      "edged",
-      "expensive",
-      "iphones",
-      "sword"
-    ],
-    "ts": 1790352827.0130646
-  },
-  {
     "id": "WP-MKTW-0005254053",
     "title": "When is it the right time to ask someone out? I’m 21, and ‘my finances and identity still feel like works in progress.’",
     "tokens": [
@@ -23012,5 +22869,144 @@
       "win"
     ],
     "ts": 1790723477.6978478
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/accelevation-prices-ipo-at-18-per-share-to-raise-180-million-93CH-4923848",
+    "title": "Accelevation prices IPO at $18 per share, to raise $180 million",
+    "tokens": [
+      "180",
+      "accelevation",
+      "ipo",
+      "million",
+      "per",
+      "prices",
+      "raise",
+      "share"
+    ],
+    "ts": 1790724361.849188
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/robinhood-to-allow-24hour-weekend-trading-of-us-stocks-as-industry-shifts-to-wider-access-4923847",
+    "title": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access",
+    "tokens": [
+      "access",
+      "allow",
+      "hour",
+      "industry",
+      "robinhood",
+      "shifts",
+      "stocks",
+      "trading",
+      "weekend",
+      "wider"
+    ],
+    "ts": 1790724369.1325808
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/uk-business-morale-hits-17month-low-lloyds-says-4923846",
+    "title": "UK business morale hits 17-month low, Lloyds says",
+    "tokens": [
+      "business",
+      "hits",
+      "lloyds",
+      "low",
+      "month",
+      "morale"
+    ],
+    "ts": 1790724377.841378
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/silverco-at-mining-forum-americas-2026-rampup-plan-targets-growth-93CH-4923845",
+    "title": "Silverco at Mining Forum Americas 2026: ramp-up plan targets growth",
+    "tokens": [
+      "2026",
+      "americas",
+      "forum",
+      "growth",
+      "mining",
+      "plan",
+      "ramp",
+      "silverco",
+      "targets"
+    ],
+    "ts": 1790724385.4714837
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/kolibri-global-energy-at-lytham-partners-oil-shift-drives-growth-93CH-4923842",
+    "title": "Kolibri Global Energy at Lytham Partners: oil shift drives growth",
+    "tokens": [
+      "drives",
+      "energy",
+      "global",
+      "growth",
+      "kolibri",
+      "lytham",
+      "oil",
+      "partners",
+      "shift"
+    ],
+    "ts": 1790724393.3828852
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/rio2-at-mining-forum-americas-2026-growth-plan-meets-weather-setbacks-93CH-4923841",
+    "title": "Rio2 at Mining Forum Americas 2026: growth plan meets weather setbacks",
+    "tokens": [
+      "2026",
+      "americas",
+      "forum",
+      "growth",
+      "meets",
+      "mining",
+      "plan",
+      "rio2",
+      "setbacks",
+      "weather"
+    ],
+    "ts": 1790724400.5554292
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/vera-bradley-director-ivan-brockman-buys-10000-in-shares-93CH-4923840",
+    "title": "Vera Bradley director Ivan Brockman buys $10,000 in shares",
+    "tokens": [
+      "000",
+      "bradley",
+      "brockman",
+      "buys",
+      "director",
+      "ivan",
+      "shares",
+      "vera"
+    ],
+    "ts": 1790724407.9578018
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/core-silver-plans-c1m-private-placement-for-drilling-93CH-4923839",
+    "title": "Core Silver plans C$1M private placement for drilling",
+    "tokens": [
+      "core",
+      "drilling",
+      "placement",
+      "plans",
+      "private",
+      "silver"
+    ],
+    "ts": 1790724415.2708097
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/sorby-hills-at-mining-forum-americas-2026-lowcost-silver-push-93CH-4923835",
+    "title": "Sorby Hills at Mining Forum Americas 2026: low-cost silver push",
+    "tokens": [
+      "2026",
+      "americas",
+      "cost",
+      "forum",
+      "hills",
+      "low",
+      "mining",
+      "push",
+      "silver",
+      "sorby"
+    ],
+    "ts": 1790724422.3632708
   }
 ]

@@ -1,136 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/genel-raises-cash-offer-for-capricorn-energy-to-574-per-share-93CH-4916666",
-    "title": "Genel raises cash offer for Capricorn Energy to $5.74 per share",
-    "tokens": [
-      "capricorn",
-      "cash",
-      "energy",
-      "genel",
-      "offer",
-      "per",
-      "raises",
-      "share"
-    ],
-    "ts": 1790318228.0407739
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/avacta-presents-trial-design-for-pancreatic-cancer-drug-ava6103-93CH-4916665",
-    "title": "Avacta presents trial design for pancreatic cancer drug AVA6103",
-    "tokens": [
-      "ava6103",
-      "avacta",
-      "cancer",
-      "design",
-      "drug",
-      "pancreatic",
-      "presents",
-      "trial"
-    ],
-    "ts": 1790318235.4940267
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/is-a-1553-postearnings-run-the-start-or-end-for-this-restaurant-pick-4916664",
-    "title": "Is a 15.53% post-earnings run the start or end for this restaurant pick?",
-    "tokens": [
-      "earnings",
-      "end",
-      "pick",
-      "post",
-      "restaurant",
-      "run",
-      "start"
-    ],
-    "ts": 1790318243.0893884
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/abingdon-health-opens-us-manufacturing-facility-in-wisconsin-93CH-4916660",
-    "title": "Abingdon Health opens US manufacturing facility in Wisconsin",
-    "tokens": [
-      "abingdon",
-      "facility",
-      "health",
-      "manufacturing",
-      "opens",
-      "wisconsin"
-    ],
-    "ts": 1790318250.1023026
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/german-consumer-confidence-slumps-asenergy-costs-bite-4916659",
-    "title": "German consumer confidence slumps as energy costs bite",
-    "tokens": [
-      "bite",
-      "confidence",
-      "consumer",
-      "costs",
-      "energy",
-      "german",
-      "slumps"
-    ],
-    "ts": 1790318257.5141337
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hellofresh-cuts-2026-outlook-as-marketing-cuts-hit-customer-growth-4916657",
-    "title": "HelloFresh cuts 2026 outlook as marketing cuts hit customer growth",
-    "tokens": [
-      "2026",
-      "customer",
-      "cuts",
-      "growth",
-      "hellofresh",
-      "hit",
-      "marketing",
-      "outlook"
-    ],
-    "ts": 1790318265.4106243
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lendinvest-completes-300m-buytolet-mortgage-securitisation-93CH-4916656",
-    "title": "LendInvest completes £300m buy-to-let mortgage securitisation",
-    "tokens": [
-      "300m",
-      "buy",
-      "completes",
-      "lendinvest",
-      "let",
-      "mortgage",
-      "securitisation"
-    ],
-    "ts": 1790318272.4344788
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/eqt-hires-jpmorgan-to-sell-parques-reunidos-stake-for-17bn--report-93CH-4916705",
-    "title": "EQT hires JPMorgan to sell Parques Reunidos stake for €1.7bn - report",
-    "tokens": [
-      "7bn",
-      "eqt",
-      "hires",
-      "jpmorgan",
-      "parques",
-      "report",
-      "reunidos",
-      "sell",
-      "stake"
-    ],
-    "ts": 1790319413.0602117
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sdcl-efficiency-income-trust-proposes-two-new-board-members-93CH-4916704",
-    "title": "SDCL Efficiency Income Trust proposes two new board members",
-    "tokens": [
-      "board",
-      "efficiency",
-      "income",
-      "members",
-      "proposes",
-      "sdcl",
-      "trust",
-      "two"
-    ],
-    "ts": 1790319420.7049325
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/take-five-its-q4-already-4916693",
     "title": "Take Five: It’s Q4 already?",
     "tokens": [
@@ -22931,5 +22800,132 @@
       "killed"
     ],
     "ts": 1790691457.5925694
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/wells-fargo-raises-oil-price-targets-citing-ongoing-supply-risks-4923041",
+    "title": "Wells Fargo raises oil price targets citing ongoing supply risks",
+    "tokens": [
+      "citing",
+      "fargo",
+      "oil",
+      "ongoing",
+      "price",
+      "raises",
+      "risks",
+      "supply",
+      "targets",
+      "wells"
+    ],
+    "ts": 1790693064.0834212
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/analysisweather-not-price-to-drive-brazil-mills-on-sugarproduction-4923040",
+    "title": "Analysis-Weather, not price, to drive Brazil mills on sugar production",
+    "tokens": [
+      "analysis",
+      "brazil",
+      "drive",
+      "mills",
+      "price",
+      "production",
+      "sugar",
+      "weather"
+    ],
+    "ts": 1790693071.449207
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/spotify-down-for-thousands-of-users-in-us-downdetector-shows-4923039",
+    "title": "Spotify down for thousands of users in US, Downdetector shows",
+    "tokens": [
+      "downdetector",
+      "shows",
+      "spotify",
+      "thousands",
+      "users"
+    ],
+    "ts": 1790693078.919293
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/us-consumer-confidence-dives-to-more-than-12year-low-in-september-4923037",
+    "title": "US consumer confidence dives to more than 12-year low in September",
+    "tokens": [
+      "confidence",
+      "consumer",
+      "dives",
+      "low",
+      "more",
+      "september",
+      "year"
+    ],
+    "ts": 1790693088.620856
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/maverick-gold-appoints-marketing-vp-deploys-ai-platform-93CH-4923036",
+    "title": "Maverick Gold appoints marketing VP, deploys AI platform",
+    "tokens": [
+      "appoints",
+      "deploys",
+      "gold",
+      "marketing",
+      "maverick",
+      "platform"
+    ],
+    "ts": 1790693096.259896
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/three-points-copper-appoints-nick-tintor-as-director-93CH-4923035",
+    "title": "Three Points Copper appoints Nick Tintor as director",
+    "tokens": [
+      "appoints",
+      "copper",
+      "director",
+      "nick",
+      "points",
+      "three",
+      "tintor"
+    ],
+    "ts": 1790693103.7129889
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/arm-and-carnival-corp-among-market-cap-stock-movers-on-tuesday-93CH-4923033",
+    "title": "Arm and Carnival Corp among market cap stock movers on Tuesday",
+    "tokens": [
+      "among",
+      "arm",
+      "cap",
+      "carnival",
+      "corp",
+      "market",
+      "movers",
+      "stock",
+      "tuesday"
+    ],
+    "ts": 1790693112.0734122
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/switch-metals-shareholders-approve-all-resolutions-at-agm-93CH-4923032",
+    "title": "Switch Metals shareholders approve all resolutions at AGM",
+    "tokens": [
+      "agm",
+      "all",
+      "approve",
+      "metals",
+      "resolutions",
+      "shareholders",
+      "switch"
+    ],
+    "ts": 1790693119.0862243
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-arm-stock-rallying-today-93CH-4923030",
+    "title": "Why is Arm stock rallying today?",
+    "tokens": [
+      "arm",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790693123.101532
   }
 ]

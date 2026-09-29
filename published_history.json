@@ -1,174 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/markel-corp-stock-hits-52week-low-at-17187-usd-93CH-4917766",
-    "title": "Markel Corp stock hits 52-week low at 1718.7 USD",
-    "tokens": [
-      "1718",
-      "corp",
-      "hits",
-      "low",
-      "markel",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790349291.153018
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sanderson-design-secures-10year-designers-guild-license-deal-93CH-4917765",
-    "title": "Sanderson Design secures 10-year Designers Guild license deal",
-    "tokens": [
-      "deal",
-      "design",
-      "designers",
-      "guild",
-      "license",
-      "sanderson",
-      "secures",
-      "year"
-    ],
-    "ts": 1790349294.9359965
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/un-expands-list-of-companies-linked-to-israeli-settlements-4917764",
-    "title": "UN expands list of companies linked to Israeli settlements",
-    "tokens": [
-      "companies",
-      "expands",
-      "israeli",
-      "linked",
-      "list",
-      "settlements"
-    ],
-    "ts": 1790349302.7452877
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/monster-beverage-options-flow-points-to-institutional-put-selling-93CH-4917763",
-    "title": "Monster Beverage options flow points to institutional put selling",
-    "tokens": [
-      "beverage",
-      "flow",
-      "institutional",
-      "monster",
-      "options",
-      "points",
-      "put",
-      "selling"
-    ],
-    "ts": 1790349309.789287
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/mizuho-bullish-on-tower-semiconductor-points-to-ai-optical-growth-4917762",
-    "title": "Mizuho bullish on Tower Semiconductor, points to AI optical growth",
-    "tokens": [
-      "bullish",
-      "growth",
-      "mizuho",
-      "optical",
-      "points",
-      "semiconductor",
-      "tower"
-    ],
-    "ts": 1790349318.2382407
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/freedom-capital-raises-nutex-health-stock-price-target-on-growth-outlook-93CH-4917761",
-    "title": "Freedom Capital raises Nutex Health stock price target on growth outlook",
-    "tokens": [
-      "capital",
-      "freedom",
-      "growth",
-      "health",
-      "nutex",
-      "outlook",
-      "price",
-      "raises",
-      "stock",
-      "target"
-    ],
-    "ts": 1790349325.6743495
-  },
-  {
-    "id": "oilprice-article-45613",
-    "title": "Trump’s Diesel Export Threat Puts Britain on Edge",
-    "tokens": [
-      "britain",
-      "diesel",
-      "edge",
-      "export",
-      "puts",
-      "threat",
-      "trump"
-    ],
-    "ts": 1790349334.4844482
-  },
-  {
-    "id": "oilprice-news-45613",
-    "title": "Italy Pushes Refineries to Raise Fuel Output Amid Price Surge",
-    "tokens": [
-      "fuel",
-      "italy",
-      "output",
-      "price",
-      "pushes",
-      "raise",
-      "refineries",
-      "surge"
-    ],
-    "ts": 1790349341.559172
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-079-4917767",
-    "title": "Norway stocks lower at close of trade; Oslo OBX down 0.79%",
-    "tokens": [
-      "close",
-      "lower",
-      "norway",
-      "obx",
-      "oslo",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790350169.2728934
-  },
-  {
-    "id": "WP-MKTW-0005242251",
-    "title": "I just started dating someone I really like, but he’s moving to Mexico for six months. Should I spend the money to visit him?",
-    "tokens": [
-      "dating",
-      "him",
-      "just",
-      "like",
-      "mexico",
-      "money",
-      "months",
-      "moving",
-      "really",
-      "should",
-      "six",
-      "someone",
-      "spend",
-      "started",
-      "visit"
-    ],
-    "ts": 1790351096.3658702
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bill-gates-demands-federal-ai-guardrails-warns-of-a-billion-deaths-4917809",
-    "title": "Bill Gates demands federal AI guardrails, warns of \"a billion deaths\"",
-    "tokens": [
-      "bill",
-      "billion",
-      "deaths",
-      "demands",
-      "federal",
-      "gates",
-      "guardrails",
-      "warns"
-    ],
-    "ts": 1790351104.258658
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/chinese-usfirms-line-up-for-peru-copper-projects-as-government-cuts-red-tape-4917808",
     "title": "Chinese, US firms line up for Peru copper projects as government cuts red tape",
     "tokens": [
@@ -23001,5 +22832,185 @@
       "treasury"
     ],
     "ts": 1790722450.3478684
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/guayabalos-at-mining-forum-americas-2026-colombia-bet-grows-93CH-4923826",
+    "title": "Guayabalos at Mining Forum Americas 2026: colombia bet grows",
+    "tokens": [
+      "2026",
+      "americas",
+      "bet",
+      "colombia",
+      "forum",
+      "grows",
+      "guayabalos",
+      "mining"
+    ],
+    "ts": 1790723411.1836572
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/amaroq-at-mining-forum-americas-2026-greenland-growth-plan-takes-shape-93CH-4923825",
+    "title": "Amaroq at Mining Forum Americas 2026: Greenland growth plan takes shape",
+    "tokens": [
+      "2026",
+      "amaroq",
+      "americas",
+      "forum",
+      "greenland",
+      "growth",
+      "mining",
+      "plan",
+      "shape",
+      "takes"
+    ],
+    "ts": 1790723415.1938102
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/eog-evp--coo-jeffrey-leitzell-sells-127m-in-stock-on-sept-25-93CH-4923822",
+    "title": "Eog EVP & COO Jeffrey Leitzell sells $1.27M in stock on Sept. 25",
+    "tokens": [
+      "27m",
+      "coo",
+      "eog",
+      "evp",
+      "jeffrey",
+      "leitzell",
+      "sells",
+      "sept",
+      "stock"
+    ],
+    "ts": 1790723420.8197331
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/southwest-gas-svp-williams-sells-204518-of-swx-stock-93CH-4923821",
+    "title": "Southwest Gas SVP Williams sells $204,518 of SWX stock",
+    "tokens": [
+      "204",
+      "518",
+      "gas",
+      "sells",
+      "southwest",
+      "stock",
+      "svp",
+      "swx",
+      "williams"
+    ],
+    "ts": 1790723428.6303265
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/tsakos-energy-navigation-at-lytham-partners-tanker-tightness-lifts-outlook-93CH-4923820",
+    "title": "Tsakos Energy Navigation at Lytham Partners: tanker tightness lifts outlook",
+    "tokens": [
+      "energy",
+      "lifts",
+      "lytham",
+      "navigation",
+      "outlook",
+      "partners",
+      "tanker",
+      "tightness",
+      "tsakos"
+    ],
+    "ts": 1790723436.5769064
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/gold-fields-at-mining-forum-americas-2026-growth-cash-and-a-bid-93CH-4923811",
+    "title": "Gold Fields at Mining Forum Americas 2026: growth, cash and a bid",
+    "tokens": [
+      "2026",
+      "americas",
+      "bid",
+      "cash",
+      "fields",
+      "forum",
+      "gold",
+      "growth",
+      "mining"
+    ],
+    "ts": 1790723444.36337
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/integra-resources-at-mining-forum-americas-2026-selffunded-growth-plan-93CH-4923810",
+    "title": "Integra Resources at Mining Forum Americas 2026: self-funded growth plan",
+    "tokens": [
+      "2026",
+      "americas",
+      "forum",
+      "funded",
+      "growth",
+      "integra",
+      "mining",
+      "plan",
+      "resources",
+      "self"
+    ],
+    "ts": 1790723452.7507868
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/avino-silver--gold-mines-at-mining-forum-americas-2026-growth-push-93CH-4923809",
+    "title": "Avino Silver & Gold Mines at Mining Forum Americas 2026: growth push",
+    "tokens": [
+      "2026",
+      "americas",
+      "avino",
+      "forum",
+      "gold",
+      "growth",
+      "mines",
+      "mining",
+      "push",
+      "silver"
+    ],
+    "ts": 1790723460.8432317
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/endeavour-silver-at-mining-forum-americas-2026-growth-plan-advances-93CH-4923808",
+    "title": "Endeavour Silver at Mining Forum Americas 2026: growth plan advances",
+    "tokens": [
+      "2026",
+      "advances",
+      "americas",
+      "endeavour",
+      "forum",
+      "growth",
+      "mining",
+      "plan",
+      "silver"
+    ],
+    "ts": 1790723464.8536763
+  },
+  {
+    "id": "oilprice-article-45636",
+    "title": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher",
+    "tokens": [
+      "crisis",
+      "crunch",
+      "deepens",
+      "drives",
+      "europe",
+      "gas",
+      "higher",
+      "hormuz",
+      "lng",
+      "prices"
+    ],
+    "ts": 1790723469.2718945
+  },
+  {
+    "id": "c7345e2a-ef6e-4b64-b607-345dbe8b75e3",
+    "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
+    "tokens": [
+      "active",
+      "adds",
+      "agents",
+      "perps",
+      "push",
+      "robinhood",
+      "traders",
+      "trading",
+      "weekend",
+      "win"
+    ],
+    "ts": 1790723477.6978478
   }
 ]

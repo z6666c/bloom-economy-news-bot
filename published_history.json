@@ -1,219 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-bond-selloff-powers-dollar-gains-4916939",
-    "title": "Sterling today: Pound steadies as bond sell-off powers dollar gains",
-    "tokens": [
-      "bond",
-      "dollar",
-      "gains",
-      "off",
-      "pound",
-      "powers",
-      "sell",
-      "steadies",
-      "sterling",
-      "today"
-    ],
-    "ts": 1790327528.0430813
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/mink-brook-asset-management-10-owner-buys-611-in-dlh-holdings-stock-93CH-4916938",
-    "title": "Mink Brook Asset Management, 10% owner, buys $611 in DLH Holdings stock",
-    "tokens": [
-      "611",
-      "asset",
-      "brook",
-      "buys",
-      "dlh",
-      "holdings",
-      "management",
-      "mink",
-      "owner",
-      "stock"
-    ],
-    "ts": 1790327534.5860684
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/barnes--noble-education-ceo-shar-sells-331200-in-common-stock-93CH-4916929",
-    "title": "Barnes & Noble Education CEO Shar sells $331,200 in common stock",
-    "tokens": [
-      "200",
-      "331",
-      "barnes",
-      "ceo",
-      "common",
-      "education",
-      "noble",
-      "sells",
-      "shar",
-      "stock"
-    ],
-    "ts": 1790327541.7920191
-  },
-  {
-    "id": "ab157ac9-ca60-44da-89bc-0e6b92ff9e7b",
-    "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-    "tokens": [
-      "2026",
-      "exploit",
-      "far",
-      "kelpdao",
-      "largest",
-      "layerzero",
-      "seen",
-      "sues"
-    ],
-    "ts": 1790327550.2030208
-  },
-  {
-    "id": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit",
-    "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
-    "tokens": [
-      "292m",
-      "bridge",
-      "ceo",
-      "exploit",
-      "kelpdao",
-      "layerzero",
-      "rseth",
-      "sues"
-    ],
-    "ts": 1790327557.915164
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-    "title": "Federal Reserve issues FOMC statement",
-    "tokens": [
-      "federal",
-      "fomc",
-      "issues",
-      "reserve",
-      "statement"
-    ],
-    "ts": 1790327564.831846
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-    "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-    "tokens": [
-      "board",
-      "committee",
-      "economic",
-      "federal",
-      "fomc",
-      "market",
-      "meeting",
-      "open",
-      "projections",
-      "release",
-      "reserve",
-      "september"
-    ],
-    "ts": 1790327571.8927557
-  },
-  {
-    "id": "WP-MKTW-0005253632",
-    "title": "After capital-markets day flop, Novo strikes licensing deal that sends a Swedish company’s stock soaring",
-    "tokens": [
-      "capital",
-      "company",
-      "day",
-      "deal",
-      "flop",
-      "licensing",
-      "markets",
-      "novo",
-      "sends",
-      "soaring",
-      "stock",
-      "strikes",
-      "swedish"
-    ],
-    "ts": 1790328541.8072786
-  },
-  {
-    "id": "156010f1-b751-4734-918a-a7bd754bdab6",
-    "title": "Bitcoin ETFs have erased a $5.8 billion hole",
-    "tokens": [
-      "billion",
-      "bitcoin",
-      "erased",
-      "etfs",
-      "hole"
-    ],
-    "ts": 1790328550.4085934
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-tandem-stock-surging-today-93CH-4916986",
-    "title": "Why is Tandem stock surging today?",
-    "tokens": [
-      "stock",
-      "surging",
-      "tandem",
-      "today",
-      "why"
-    ],
-    "ts": 1790329507.3040164
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-stem-stock-rating-on-software-growth-raises-target-to-7-93CH-4916985",
-    "title": "UBS upgrades Stem stock rating on software growth, raises target to $7",
-    "tokens": [
-      "growth",
-      "raises",
-      "rating",
-      "software",
-      "stem",
-      "stock",
-      "target",
-      "ubs",
-      "upgrades"
-    ],
-    "ts": 1790329513.1090884
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/knights-group-completes-acquisition-of-thp-solicitors-93CH-4916984",
-    "title": "Knights Group completes acquisition of THP Solicitors",
-    "tokens": [
-      "acquisition",
-      "completes",
-      "group",
-      "knights",
-      "solicitors",
-      "thp"
-    ],
-    "ts": 1790329520.0832596
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/banca-ifis-tumbles-12-after-bank-of-italy-flags-control-issues-93CH-4916981",
-    "title": "Banca Ifis tumbles 12% after Bank of Italy flags control issues",
-    "tokens": [
-      "banca",
-      "bank",
-      "control",
-      "flags",
-      "ifis",
-      "issues",
-      "italy",
-      "tumbles"
-    ],
-    "ts": 1790329526.8877864
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-w-p-carey-stock-rating-on-investment-update-93CH-4916978",
-    "title": "Citizens reiterates W. P. Carey stock rating on investment update",
-    "tokens": [
-      "carey",
-      "citizens",
-      "investment",
-      "rating",
-      "reiterates",
-      "stock",
-      "update"
-    ],
-    "ts": 1790329533.6966605
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/royalty-pharma-evp-christopher-hite-sells-585m-in-shares-93CH-4916976",
     "title": "Royalty Pharma EVP Christopher Hite sells $5.85m in shares",
     "tokens": [
@@ -22941,5 +22727,218 @@
       "very"
     ],
     "ts": 1790700338.366323
+  },
+  {
+    "id": "WP-MKTW-0005258695",
+    "title": "Here’s what Netflix skeptics are getting wrong about the stock, according to an analyst",
+    "tokens": [
+      "about",
+      "according",
+      "analyst",
+      "getting",
+      "here",
+      "netflix",
+      "skeptics",
+      "stock",
+      "what",
+      "wrong"
+    ],
+    "ts": 1790701157.5337033
+  },
+  {
+    "id": "WP-MKTW-0005258566",
+    "title": "The hidden messages the bond market is sending about the AI boom and the stock market",
+    "tokens": [
+      "about",
+      "bond",
+      "boom",
+      "hidden",
+      "market",
+      "messages",
+      "sending",
+      "stock"
+    ],
+    "ts": 1790701166.0281417
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/boes-taylor-says-january-wage-settlement-survey-will-be-key-4923191",
+    "title": "BoE’s Taylor says January wage settlement survey will be key",
+    "tokens": [
+      "boe",
+      "january",
+      "key",
+      "settlement",
+      "survey",
+      "taylor",
+      "wage"
+    ],
+    "ts": 1790701175.7774963
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/senate-republican-says-chinese-vehicle-bill-will-not-ban-mercedesbenz-in-us-4923190",
+    "title": "Senate Republican says Chinese vehicle bill will not ban Mercedes-Benz in US",
+    "tokens": [
+      "ban",
+      "benz",
+      "bill",
+      "chinese",
+      "mercedes",
+      "republican",
+      "senate",
+      "vehicle"
+    ],
+    "ts": 1790701183.9375625
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/jpmorgan-appoints-mark-odonovan-as-head-of-human-resources-memo-says-4923189",
+    "title": "JPMorgan appoints Mark O’Donovan as head of human resources, memo says",
+    "tokens": [
+      "appoints",
+      "donovan",
+      "head",
+      "human",
+      "jpmorgan",
+      "mark",
+      "memo",
+      "resources"
+    ],
+    "ts": 1790701191.4808505
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/bayfirst-financial-revises-executive-contracts-for-coo-and-cfo-93CH-4923188",
+    "title": "BayFirst Financial revises executive contracts for COO and CFO",
+    "tokens": [
+      "bayfirst",
+      "cfo",
+      "contracts",
+      "coo",
+      "executive",
+      "financial",
+      "revises"
+    ],
+    "ts": 1790701199.0721407
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/boes-taylor-urges-caution-on-rate-hikes-as-secondround-inflation-risks-lag-4923177",
+    "title": "BOE’s Taylor urges caution on rate hikes as second-round inflation risks lag",
+    "tokens": [
+      "boe",
+      "caution",
+      "hikes",
+      "inflation",
+      "lag",
+      "rate",
+      "risks",
+      "round",
+      "second",
+      "taylor",
+      "urges"
+    ],
+    "ts": 1790701207.648906
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/feds-barr-says-more-rate-hikes-likely-to-be-needed-to-curb-inflation-4923176",
+    "title": "Fed’s Barr says more rate hikes likely to be needed to curb inflation",
+    "tokens": [
+      "barr",
+      "curb",
+      "fed",
+      "hikes",
+      "inflation",
+      "likely",
+      "more",
+      "needed",
+      "rate"
+    ],
+    "ts": 1790701215.4370008
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/bwxt-stock-hits-52week-low-at-13366-usd-93CH-4923175",
+    "title": "Bwxt stock hits 52-week low at 133.66 USD",
+    "tokens": [
+      "133",
+      "bwxt",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790701219.4538877
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/agronomics-portfolio-company-liberation-bioindustries-seeks-25m-93CH-4923171",
+    "title": "Agronomics portfolio company Liberation Bioindustries seeks $25m",
+    "tokens": [
+      "25m",
+      "agronomics",
+      "bioindustries",
+      "company",
+      "liberation",
+      "portfolio",
+      "seeks"
+    ],
+    "ts": 1790701223.6020002
+  },
+  {
+    "id": "oilprice-article-45632",
+    "title": "World's Tallest Dam Project Gets New Life With Fresh World Bank Funding",
+    "tokens": [
+      "bank",
+      "dam",
+      "fresh",
+      "funding",
+      "gets",
+      "life",
+      "project",
+      "tallest",
+      "world"
+    ],
+    "ts": 1790701231.919966
+  },
+  {
+    "id": "oilprice-news-45632",
+    "title": "Dangote Targets 10 Million Investors in Africa’s Biggest IPO",
+    "tokens": [
+      "africa",
+      "biggest",
+      "dangote",
+      "investors",
+      "ipo",
+      "million",
+      "targets"
+    ],
+    "ts": 1790701235.9379761
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "title": "Federal Reserve issues FOMC statement",
+    "tokens": [
+      "federal",
+      "fomc",
+      "issues",
+      "reserve",
+      "statement"
+    ],
+    "ts": 1790701239.793816
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+    "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "tokens": [
+      "board",
+      "committee",
+      "economic",
+      "federal",
+      "fomc",
+      "market",
+      "meeting",
+      "open",
+      "projections",
+      "release",
+      "reserve",
+      "september"
+    ],
+    "ts": 1790701247.6518035
   }
 ]

@@ -1,38 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/pimco-dynamic-income-fund-director-sonya-morris-buys-79885-in-shares-93CH-4916412",
-    "title": "Pimco Dynamic Income Fund director Sonya Morris buys $79,885 in shares",
-    "tokens": [
-      "885",
-      "buys",
-      "director",
-      "dynamic",
-      "fund",
-      "income",
-      "morris",
-      "pimco",
-      "shares",
-      "sonya"
-    ],
-    "ts": 1790293883.9006917
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tesla-set-to-formally-roll-out-semi-electric-trucks-at-nevada-event-4916402",
-    "title": "Tesla set to formally roll out Semi electric trucks at Nevada event",
-    "tokens": [
-      "electric",
-      "event",
-      "formally",
-      "nevada",
-      "roll",
-      "semi",
-      "set",
-      "tesla",
-      "trucks"
-    ],
-    "ts": 1790293892.2507486
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/mamas-creations-ceo-adam-michaels-sells-927k-in-mama-stock-93CH-4916439",
     "title": "Mama’s creations CEO Adam Michaels sells $927k in Mama stock",
     "tokens": [
@@ -22947,5 +22914,36 @@
       "week"
     ],
     "ts": 1790678704.1472335
+  },
+  {
+    "id": "WP-MKTW-0005256558",
+    "title": "Two stock picks from a money manager who expects small caps to roar in 2027",
+    "tokens": [
+      "2027",
+      "caps",
+      "expects",
+      "manager",
+      "money",
+      "picks",
+      "roar",
+      "small",
+      "stock",
+      "two",
+      "who"
+    ],
+    "ts": 1790679466.0462873
+  },
+  {
+    "id": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia",
+    "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+    "tokens": [
+      "ethereum",
+      "glamsterdam",
+      "oct",
+      "schedules",
+      "sepolia",
+      "upgrade"
+    ],
+    "ts": 1790679474.5172164
   }
 ]

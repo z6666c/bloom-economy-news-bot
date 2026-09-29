@@ -1,148 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/photronics-director-lee-kang-jyh-sells-297000-in-stock-93CH-4916529",
-    "title": "Photronics director Lee Kang Jyh sells $297,000 in stock",
-    "tokens": [
-      "000",
-      "297",
-      "director",
-      "jyh",
-      "kang",
-      "lee",
-      "photronics",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790303220.3996289
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/asian-stocks-weather-bond-storm-oil-retreats-slightly-4916537",
-    "title": "Asian stocks weather bond storm, oil retreats slightly",
-    "tokens": [
-      "asian",
-      "bond",
-      "oil",
-      "retreats",
-      "slightly",
-      "stocks",
-      "storm",
-      "weather"
-    ],
-    "ts": 1790304077.5512707
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/insurance-australia-agrees-to-settle-2-bln-credit-suisse-greensill-lawsuit-4916547",
-    "title": "Insurance Australia agrees to settle $2 bln Credit Suisse Greensill lawsuit",
-    "tokens": [
-      "agrees",
-      "australia",
-      "bln",
-      "credit",
-      "greensill",
-      "insurance",
-      "lawsuit",
-      "settle",
-      "suisse"
-    ],
-    "ts": 1790305844.683769
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tesla-has-begun-high-volume-production-of-semi-truck-musk-says-4916546",
-    "title": "Tesla has begun ‘high volume’ production of semi truck, Musk says",
-    "tokens": [
-      "begun",
-      "high",
-      "musk",
-      "production",
-      "semi",
-      "tesla",
-      "truck",
-      "volume"
-    ],
-    "ts": 1790305851.4610543
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
-    "title": "Asian currencies weaken as dollar hits two-month high, yen nears 160",
-    "tokens": [
-      "160",
-      "asian",
-      "currencies",
-      "dollar",
-      "high",
-      "hits",
-      "month",
-      "nears",
-      "two",
-      "weaken",
-      "yen"
-    ],
-    "ts": 1790305859.2811964
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-oracle-japan-stock-surging-today-93CH-4916563",
-    "title": "Why is Oracle Japan stock surging today?",
-    "tokens": [
-      "japan",
-      "oracle",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790307740.6904907
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/atricure-cto-salvatore-privitera-sells-271140-in-stock-93CH-4916562",
-    "title": "AtriCure CTO Salvatore Privitera sells $271,140 in stock",
-    "tokens": [
-      "140",
-      "271",
-      "atricure",
-      "cto",
-      "privitera",
-      "salvatore",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790307748.6427953
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-slip-as-bond-selloff-weighs-trumpxi-summit-offers-little-relief-4916561",
-    "title": "Asia stocks slip as bond selloff weighs; Trump-Xi summit offers little relief",
-    "tokens": [
-      "asia",
-      "bond",
-      "little",
-      "offers",
-      "relief",
-      "selloff",
-      "slip",
-      "stocks",
-      "summit",
-      "trump",
-      "weighs"
-    ],
-    "ts": 1790307756.3424885
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/softbank-shares-fall-as-oracle-datacenter-warning-fuels-ai-funding-fears-4916560",
-    "title": "SoftBank shares fall as Oracle data-center warning fuels AI funding fears",
-    "tokens": [
-      "center",
-      "data",
-      "fall",
-      "fears",
-      "fuels",
-      "funding",
-      "oracle",
-      "shares",
-      "softbank",
-      "warning"
-    ],
-    "ts": 1790307763.5718338
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/densityai-seeks-funding-at-10-bln-valuation-information-reports-93CH-4916559",
     "title": "DensityAI seeks funding at $10 bln valuation, Information reports",
     "tokens": [
@@ -22951,5 +22808,136 @@
       "vlo"
     ],
     "ts": 1790686147.235391
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/iovance-shares-jump-in-premarket-as-raised-outlook-clears-consensus-views-4922704",
+    "title": "Iovance shares jump in premarket as raised outlook clears consensus views",
+    "tokens": [
+      "clears",
+      "consensus",
+      "iovance",
+      "jump",
+      "outlook",
+      "premarket",
+      "raised",
+      "shares",
+      "views"
+    ],
+    "ts": 1790687637.0879831
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/jpmorgan-cuts-mondaycom-to-neutral-on-slowing-growth-4922703",
+    "title": "JPMorgan cuts Monday.com to Neutral on slowing growth",
+    "tokens": [
+      "com",
+      "cuts",
+      "growth",
+      "jpmorgan",
+      "monday",
+      "neutral",
+      "slowing"
+    ],
+    "ts": 1790687644.2357273
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/vivos-therapeutics-plans-36m-annual-cost-reduction-93CH-4922702",
+    "title": "Vivos Therapeutics plans $3.6M annual cost reduction",
+    "tokens": [
+      "annual",
+      "cost",
+      "plans",
+      "reduction",
+      "therapeutics",
+      "vivos"
+    ],
+    "ts": 1790687651.7764034
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-aar-tops-q1-2026-estimates-as-shares-rise-premarket-93CH-4922701",
+    "title": "Earnings call transcript: AAR tops Q1 2026 estimates as shares rise premarket",
+    "tokens": [
+      "2026",
+      "aar",
+      "call",
+      "earnings",
+      "estimates",
+      "premarket",
+      "rise",
+      "shares",
+      "tops",
+      "transcript"
+    ],
+    "ts": 1790687660.2254398
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/moleculin-completes-enrollment-in-annamycin-aml-trial-part-a-93CH-4922700",
+    "title": "Moleculin completes enrollment in Annamycin AML trial Part A",
+    "tokens": [
+      "aml",
+      "annamycin",
+      "completes",
+      "enrollment",
+      "moleculin",
+      "part",
+      "trial"
+    ],
+    "ts": 1790687668.115122
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-cdc-confirms-two-measlesrelated-deaths-in-2026-4922699",
+    "title": "US CDC confirms two measles-related deaths in 2026",
+    "tokens": [
+      "2026",
+      "cdc",
+      "confirms",
+      "deaths",
+      "measles",
+      "related",
+      "two"
+    ],
+    "ts": 1790687675.5273895
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/corning-stock-rises-on-3b-att-fiber-deal-4922696",
+    "title": "Corning stock rises on $3B AT&T fiber deal",
+    "tokens": [
+      "corning",
+      "deal",
+      "fiber",
+      "rises",
+      "stock"
+    ],
+    "ts": 1790687682.9654448
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/fuelcell-energy-jumps-on-oppenheimer-initiation-citing-data-center-demand-4922680",
+    "title": "FuelCell Energy jumps on Oppenheimer initiation, citing data center demand",
+    "tokens": [
+      "center",
+      "citing",
+      "data",
+      "demand",
+      "energy",
+      "fuelcell",
+      "initiation",
+      "jumps",
+      "oppenheimer"
+    ],
+    "ts": 1790687691.1282835
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares",
+    "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+    "tokens": [
+      "bitcoin",
+      "coinshares",
+      "demand",
+      "etf",
+      "inflows",
+      "institutional",
+      "leave",
+      "unclear"
+    ],
+    "ts": 1790687699.5518281
   }
 ]

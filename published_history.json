@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/fidelity-national-financial-stock-hits-52week-low-at-411-usd-93CH-4916030",
-    "title": "Fidelity National Financial stock hits 52-week low at 41.1 USD",
-    "tokens": [
-      "fidelity",
-      "financial",
-      "hits",
-      "low",
-      "national",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790277049.5425134
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/alaska-air-expects-boeing-737-max-10-certification-by-endseptember-4916029",
-    "title": "Alaska Air expects Boeing 737 MAX 10 certification by end-September",
-    "tokens": [
-      "737",
-      "air",
-      "alaska",
-      "boeing",
-      "certification",
-      "end",
-      "expects",
-      "max",
-      "september"
-    ],
-    "ts": 1790277053.9704819
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hormel-foods-stock-hits-52week-low-at-197-usd-93CH-4916028",
-    "title": "Hormel Foods stock hits 52-week low at 19.7 USD",
-    "tokens": [
-      "foods",
-      "hits",
-      "hormel",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790277057.9813702
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/cerrado-gold-at-96th-emerging-growth-conference-growth-pipeline-in-focus-93CH-4916025",
     "title": "Cerrado Gold at 96th Emerging Growth Conference: growth pipeline in focus",
     "tokens": [
@@ -22961,5 +22916,55 @@
       "stock"
     ],
     "ts": 1790651671.6359985
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/with-national-holidays-approaching-chinese-workers-demand-a-proper-break-4921517",
+    "title": "With national holidays approaching, Chinese workers demand a proper break",
+    "tokens": [
+      "approaching",
+      "break",
+      "chinese",
+      "demand",
+      "holidays",
+      "national",
+      "proper",
+      "workers"
+    ],
+    "ts": 1790652793.392834
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/un-agency-warns-funding-crisis-could-leave-83-million-people-without-aid-4921520",
+    "title": "UN agency warns funding crisis could leave 8.3 million people without aid",
+    "tokens": [
+      "agency",
+      "aid",
+      "could",
+      "crisis",
+      "funding",
+      "leave",
+      "million",
+      "people",
+      "warns",
+      "without"
+    ],
+    "ts": 1790652802.0886798
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
+    "title": "Asian currencies mixed as dollar holds two-month high, RBA decision looms",
+    "tokens": [
+      "asian",
+      "currencies",
+      "decision",
+      "dollar",
+      "high",
+      "holds",
+      "looms",
+      "mixed",
+      "month",
+      "rba",
+      "two"
+    ],
+    "ts": 1790652813.0826106
   }
 ]

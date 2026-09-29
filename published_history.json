@@ -1,79 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/zhibao-technology-signs-mou-with-desyn-protocol-for-btcfi-products-93CH-4916044",
-    "title": "Zhibao Technology signs MOU with DeSyn Protocol for BTCfi products",
-    "tokens": [
-      "btcfi",
-      "desyn",
-      "mou",
-      "products",
-      "protocol",
-      "signs",
-      "technology",
-      "zhibao"
-    ],
-    "ts": 1790277990.6678576
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/parke-bancorp-appoints-michael-regina-to-board-of-directors-93CH-4916043",
-    "title": "Parke Bancorp appoints Michael Regina to board of directors",
-    "tokens": [
-      "appoints",
-      "bancorp",
-      "board",
-      "directors",
-      "michael",
-      "parke",
-      "regina"
-    ],
-    "ts": 1790277998.986911
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/revvity-inc-stock-hits-52week-high-at-14972-usd-93CH-4916042",
-    "title": "Revvity Inc stock hits 52-week high at 149.72 USD",
-    "tokens": [
-      "149",
-      "high",
-      "hits",
-      "inc",
-      "revvity",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790278003.0048385
-  },
-  {
-    "id": "WP-MKTW-0005252630",
-    "title": "Companies keep raising prices. The Fed is trying to get them to reconsider.",
-    "tokens": [
-      "companies",
-      "fed",
-      "get",
-      "keep",
-      "prices",
-      "raising",
-      "reconsider",
-      "them",
-      "trying"
-    ],
-    "ts": 1790279532.4111814
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/mach-natural-resources-stock-hits-52week-low-at-1046-93CH-4916069",
-    "title": "Mach Natural Resources stock hits 52-week low at $10.46",
-    "tokens": [
-      "hits",
-      "low",
-      "mach",
-      "natural",
-      "resources",
-      "stock",
-      "week"
-    ],
-    "ts": 1790279540.9787602
-  },
-  {
     "id": "https://www.investing.com/news/company-news/agnc-stock-hits-52week-low-at-963-usd-93CH-4916068",
     "title": "Agnc stock hits 52-week low at 9.63 USD",
     "tokens": [
@@ -22920,5 +22846,80 @@
       "stock"
     ],
     "ts": 1790658714.1879313
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/google-challenges-eu-orders-to-open-up-to-ai-searchengine-rivals-4921578",
+    "title": "Google challenges EU orders to open up to AI, search-engine rivals",
+    "tokens": [
+      "challenges",
+      "engine",
+      "google",
+      "open",
+      "orders",
+      "rivals",
+      "search"
+    ],
+    "ts": 1790659720.7650363
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/zoomlion-signs-300m-credit-insurance-50m-factoring-deal-93CH-4921577",
+    "title": "Zoomlion signs $300M credit insurance, $50M factoring deal",
+    "tokens": [
+      "300m",
+      "50m",
+      "credit",
+      "deal",
+      "factoring",
+      "insurance",
+      "signs",
+      "zoomlion"
+    ],
+    "ts": 1790659728.2284915
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/analysiseuros-dollar-resilience-faces-energy-price-political-risk-tests-4921576",
+    "title": "Analysis-Euro’s dollar resilience faces energy price, political risk tests",
+    "tokens": [
+      "analysis",
+      "dollar",
+      "energy",
+      "euro",
+      "faces",
+      "political",
+      "price",
+      "resilience",
+      "risk",
+      "tests"
+    ],
+    "ts": 1790659735.6947682
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pharming-ceo-fabrice-chouraqui-steps-down-immediately-93CH-4921575",
+    "title": "Pharming CEO Fabrice Chouraqui steps down immediately",
+    "tokens": [
+      "ceo",
+      "chouraqui",
+      "fabrice",
+      "immediately",
+      "pharming",
+      "steps"
+    ],
+    "ts": 1790659742.6751654
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/samsung-electromechanics-wins-210-mln-mlcc-supply-contract-4921573",
+    "title": "Samsung Electro-Mechanics wins $210 mln MLCC supply contract",
+    "tokens": [
+      "210",
+      "contract",
+      "electro",
+      "mechanics",
+      "mlcc",
+      "mln",
+      "samsung",
+      "supply",
+      "wins"
+    ],
+    "ts": 1790659750.250532
   }
 ]

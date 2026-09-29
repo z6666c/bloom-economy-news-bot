@@ -1,56 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/vancouver-ai-company-alebex-ranks-8th-in-international-speech-to-text-benchmark-1036572316",
-    "title": "Vancouver AI Company Alebex Ranks 8th in International Speech-to-Text Benchmark",
-    "tokens": [
-      "8th",
-      "alebex",
-      "benchmark",
-      "company",
-      "international",
-      "ranks",
-      "speech",
-      "text",
-      "vancouver"
-    ],
-    "ts": 1790277122.782949
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/prollenium-spotlights-the-future-of-regenerative-aesthetics-at-aesthetic-next-8-0-and-chateau-prollenium-dallas-1036572308",
-    "title": "PROLLENIUM® Spotlights the Future of Regenerative Aesthetics at Aesthetic Next 8.0 and Chateau Prollenium Dallas",
-    "tokens": [
-      "aesthetic",
-      "aesthetics",
-      "chateau",
-      "dallas",
-      "future",
-      "next",
-      "prollenium",
-      "regenerative",
-      "spotlights"
-    ],
-    "ts": 1790277131.082536
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/embark-behavioral-health-releases-2025-outcomes-report-highlighting-measurable-improvements-for-youth-mental-health-1036572307",
-    "title": "Embark Behavioral Health Releases 2025 Outcomes Report Highlighting Measurable Improvements for Youth Mental Health",
-    "tokens": [
-      "2025",
-      "behavioral",
-      "embark",
-      "health",
-      "highlighting",
-      "improvements",
-      "measurable",
-      "mental",
-      "outcomes",
-      "releases",
-      "report",
-      "youth"
-    ],
-    "ts": 1790277139.2669122
-  },
-  {
     "id": "https://seekingalpha.com/news/4646839-goldman-sachs-said-to-have-earned-over-200m-in-fees-this-year-from-situational-awareness?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
     "title": "Goldman Sachs said to have earned over $200M in fees this year from Situational Awareness",
     "tokens": [
@@ -22937,5 +22886,47 @@
       "stock"
     ],
     "ts": 1790655125.191834
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-navigator-global-investments-stock-surging-today-93CH-4921543",
+    "title": "Why is Navigator Global Investments stock surging today?",
+    "tokens": [
+      "global",
+      "investments",
+      "navigator",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790656214.8455682
+  },
+  {
+    "id": "478d80da-1c9f-4338-aa4f-069d64391aa0",
+    "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+    "tokens": [
+      "000",
+      "again",
+      "bitcoin",
+      "climbs",
+      "drops",
+      "holds",
+      "oil",
+      "zec"
+    ],
+    "ts": 1790656223.7216156
+  },
+  {
+    "id": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse",
+    "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
+    "tokens": [
+      "approval",
+      "cftc",
+      "clearinghouse",
+      "coinbase",
+      "derivatives",
+      "gets"
+    ],
+    "ts": 1790656231.3487148
   }
 ]

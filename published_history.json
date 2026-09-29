@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/red-violet-inc-stock-hits-alltime-high-at-8039-usd-93CH-4917675",
-    "title": "Red Violet Inc stock hits all-time high at 80.39 USD",
-    "tokens": [
-      "all",
-      "high",
-      "hits",
-      "inc",
-      "red",
-      "stock",
-      "time",
-      "usd",
-      "violet"
-    ],
-    "ts": 1790345544.830153
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-reiterates-darden-stock-rating-on-solid-quarterly-results-93CH-4917674",
     "title": "JPMorgan reiterates Darden stock rating on solid quarterly results",
     "tokens": [
@@ -22992,5 +22976,22 @@
       "shift"
     ],
     "ts": 1790717404.061628
+  },
+  {
+    "id": "WP-MKTW-0005260055",
+    "title": "Target’s price cuts are a sign of strength, some analysts say. Investors disagree.",
+    "tokens": [
+      "analysts",
+      "cuts",
+      "disagree",
+      "investors",
+      "price",
+      "say",
+      "sign",
+      "some",
+      "strength",
+      "target"
+    ],
+    "ts": 1790718316.4370615
   }
 ]

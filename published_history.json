@@ -1,371 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/take-five-its-q4-already-4916693",
-    "title": "Take Five: It’s Q4 already?",
-    "tokens": [
-      "already",
-      "five",
-      "take"
-    ],
-    "ts": 1790319427.3236775
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/musk-says-colossus-2-data-center-plans-to-ramp-up-nvidia-ai-chips-by-yearend-4916692",
-    "title": "Musk says Colossus 2 data center plans to ramp up Nvidia AI chips by year-end",
-    "tokens": [
-      "center",
-      "chips",
-      "colossus",
-      "data",
-      "end",
-      "musk",
-      "nvidia",
-      "plans",
-      "ramp",
-      "year"
-    ],
-    "ts": 1790319435.3859813
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/novo-nordisk-licenses-nanexa-drug-tech-in-deal-worth-up-to-117-bln-93CH-4916691",
-    "title": "Novo Nordisk licenses Nanexa drug tech in deal worth up to €1.17 bln",
-    "tokens": [
-      "bln",
-      "deal",
-      "drug",
-      "licenses",
-      "nanexa",
-      "nordisk",
-      "novo",
-      "tech",
-      "worth"
-    ],
-    "ts": 1790319443.3490136
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lloyds-banking-group-completes-175bn-share-buyback-93CH-4916690",
-    "title": "Lloyds Banking Group completes £1.75bn share buyback",
-    "tokens": [
-      "75bn",
-      "banking",
-      "buyback",
-      "completes",
-      "group",
-      "lloyds",
-      "share"
-    ],
-    "ts": 1790319450.6647158
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-043-4916689",
-    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.43%",
-    "tokens": [
-      "200",
-      "asx",
-      "australia",
-      "close",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790319454.6805854
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tharisa-places-300m-bond-proceeds-in-escrow-for-zimbabwe-project-93CH-4916676",
-    "title": "Tharisa places $300m bond proceeds in escrow for Zimbabwe project",
-    "tokens": [
-      "300m",
-      "bond",
-      "escrow",
-      "places",
-      "proceeds",
-      "project",
-      "tharisa",
-      "zimbabwe"
-    ],
-    "ts": 1790319458.0739946
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-145-4916728",
-    "title": "Japan stocks higher at close of trade; Nikkei 225 up 1.45%",
-    "tokens": [
-      "225",
-      "close",
-      "higher",
-      "japan",
-      "nikkei",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790320485.5052922
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
-    "title": "Bitcoin pauses near $84k with focus on rate jitters, Bitget hack",
-    "tokens": [
-      "84k",
-      "bitcoin",
-      "bitget",
-      "focus",
-      "hack",
-      "jitters",
-      "near",
-      "pauses",
-      "rate"
-    ],
-    "ts": 1790320492.607884
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/german-consumer-sentiment-drops-more-than-expected-as-energy-costs-hit-incomes-4916726",
-    "title": "German consumer sentiment drops more than expected as energy costs hit incomes",
-    "tokens": [
-      "consumer",
-      "costs",
-      "drops",
-      "energy",
-      "expected",
-      "german",
-      "hit",
-      "incomes",
-      "more",
-      "sentiment"
-    ],
-    "ts": 1790320500.7548702
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/petkim-signs-contracts-for-petrochemical-plant-engineering-93CH-4916723",
-    "title": "Petkim signs contracts for petrochemical plant engineering",
-    "tokens": [
-      "contracts",
-      "engineering",
-      "petkim",
-      "petrochemical",
-      "plant",
-      "signs"
-    ],
-    "ts": 1790320508.1581936
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/genel-energy-raises-capricorn-bid-to-436-million-tops-dno-93CH-4916722",
-    "title": "Genel Energy raises Capricorn bid to $436 million, tops DNO",
-    "tokens": [
-      "436",
-      "bid",
-      "capricorn",
-      "dno",
-      "energy",
-      "genel",
-      "million",
-      "raises",
-      "tops"
-    ],
-    "ts": 1790320515.8234475
-  },
-  {
-    "id": "cf83a51a-bd24-4e7e-8e66-dfc83264e971",
-    "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
-    "tokens": [
-      "000",
-      "bitcoin",
-      "bond",
-      "live",
-      "near",
-      "pauses",
-      "selloff",
-      "steadies",
-      "updates"
-    ],
-    "ts": 1790320525.1895778
-  },
-  {
-    "id": "WP-MKTW-0005248264",
-    "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-    "tokens": [
-      "000",
-      "300",
-      "business",
-      "friend",
-      "grosses",
-      "her",
-      "herself",
-      "pays",
-      "pet",
-      "same",
-      "she",
-      "should",
-      "sitting",
-      "year"
-    ],
-    "ts": 1790321511.4373877
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-nanexa-stock-surging-today-93CH-4916755",
-    "title": "Why is Nanexa stock surging today?",
-    "tokens": [
-      "nanexa",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790321515.5607548
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nanexa-shares-rocket-114-on-13-billion-novo-nordisk-licensing-deal-4916754",
-    "title": "Nanexa shares rocket 114% on $1.3 billion Novo Nordisk licensing deal",
-    "tokens": [
-      "114",
-      "billion",
-      "deal",
-      "licensing",
-      "nanexa",
-      "nordisk",
-      "novo",
-      "rocket",
-      "shares"
-    ],
-    "ts": 1790321523.6208808
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/kerry-upgraded-as-citi-sees-returnsled-upside-in-ingredients-4916753",
-    "title": "Kerry upgraded as Citi sees returns-led upside in ingredients",
-    "tokens": [
-      "citi",
-      "ingredients",
-      "kerry",
-      "led",
-      "returns",
-      "sees",
-      "upgraded",
-      "upside"
-    ],
-    "ts": 1790321530.9264789
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-usiran-ceasefire-talks-offset-hormuz-supply-fear-4916741",
-    "title": "FTSE 100 today: Stocks rise as U.S.-Iran ceasefire talks offset Hormuz supply fear",
-    "tokens": [
-      "100",
-      "ceasefire",
-      "fear",
-      "ftse",
-      "hormuz",
-      "iran",
-      "offset",
-      "rise",
-      "stocks",
-      "supply",
-      "talks",
-      "today"
-    ],
-    "ts": 1790321538.4699042
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-94-support-after-double-top-live-levels-93CH-4908350",
-    "title": "Crude Oil WTI consolidates at $93.29 in tight range: Live levels",
-    "tokens": [
-      "consolidates",
-      "crude",
-      "levels",
-      "live",
-      "oil",
-      "range",
-      "tight",
-      "wti"
-    ],
-    "ts": 1790321547.4311128
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/brent-oil-battles-10176-support-as-bearish-signals-build-live-93CH-4908348",
-    "title": "Brent Oil consolidates at $105.91 between key levels: Live",
-    "tokens": [
-      "105",
-      "between",
-      "brent",
-      "consolidates",
-      "key",
-      "levels",
-      "live",
-      "oil"
-    ],
-    "ts": 1790321554.1526854
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hsbc-shuffles-oil-stocks-ratings-upgrades-bp-and-totalenergies-to-buy-4916740",
-    "title": "HSBC shuffles oil stocks ratings, upgrades BP and TotalEnergies to Buy",
-    "tokens": [
-      "buy",
-      "hsbc",
-      "oil",
-      "ratings",
-      "shuffles",
-      "stocks",
-      "totalenergies",
-      "upgrades"
-    ],
-    "ts": 1790321561.2158659
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/european-stocks-on-track-for-weekly-gain-as-oil-prices-ease-4916775",
-    "title": "European stocks on track for weekly gain as oil prices ease",
-    "tokens": [
-      "ease",
-      "european",
-      "gain",
-      "oil",
-      "prices",
-      "stocks",
-      "track",
-      "weekly"
-    ],
-    "ts": 1790322846.6958451
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hsbc-upgrades-bp-stock-rating-on-improved-deleveraging-outlook-93CH-4916773",
-    "title": "HSBC upgrades BP stock rating on improved deleveraging outlook",
-    "tokens": [
-      "deleveraging",
-      "hsbc",
-      "improved",
-      "outlook",
-      "rating",
-      "stock",
-      "upgrades"
-    ],
-    "ts": 1790322854.1466727
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hsbc-upgrades-totalenergies-stock-rating-on-commodity-price-outlook-93CH-4916772",
-    "title": "HSBC upgrades TotalEnergies stock rating on commodity price outlook",
-    "tokens": [
-      "commodity",
-      "hsbc",
-      "outlook",
-      "price",
-      "rating",
-      "stock",
-      "totalenergies",
-      "upgrades"
-    ],
-    "ts": 1790322862.1439707
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hsbc-raises-chevron-stock-price-target-to-250-on-oil-sensitivity-93CH-4916771",
-    "title": "HSBC raises Chevron stock price target to $250 on oil sensitivity",
-    "tokens": [
-      "250",
-      "chevron",
-      "hsbc",
-      "oil",
-      "price",
-      "raises",
-      "sensitivity",
-      "stock",
-      "target"
-    ],
-    "ts": 1790322869.0206726
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-hellofresh-stock-sliding-today-93CH-4916769",
     "title": "Why is HelloFresh stock sliding today?",
     "tokens": [
@@ -22927,5 +22561,374 @@
       "why"
     ],
     "ts": 1790693123.101532
+  },
+  {
+    "id": "WP-MKTW-0005257823",
+    "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
+    "tokens": [
+      "better",
+      "get",
+      "hiring",
+      "job",
+      "labor",
+      "low",
+      "market",
+      "openings",
+      "soon",
+      "weak",
+      "why",
+      "won"
+    ],
+    "ts": 1790695893.3739474
+  },
+  {
+    "id": "WP-MKTW-0005258763",
+    "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
+    "tokens": [
+      "advantage",
+      "cheaper",
+      "cost",
+      "here",
+      "medicare",
+      "next",
+      "plans",
+      "year"
+    ],
+    "ts": 1790695901.5223577
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/truist-says-coreweave-stock-financing-position-comfortable-for-2026-93CH-4923109",
+    "title": "Truist says CoreWeave stock financing position comfortable for 2026",
+    "tokens": [
+      "2026",
+      "comfortable",
+      "coreweave",
+      "financing",
+      "position",
+      "stock",
+      "truist"
+    ],
+    "ts": 1790695910.1035125
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hershey-stock-hits-52week-low-at-1614-usd-93CH-4923108",
+    "title": "Hershey stock hits 52-week low at 161.4 USD",
+    "tokens": [
+      "161",
+      "hershey",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790695914.119486
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exxon-veteran-liam-mallon-joins-tmc-board-ahead-of-seabed-mining-push-4923107",
+    "title": "Exxon veteran Liam Mallon joins TMC board ahead of seabed mining push",
+    "tokens": [
+      "ahead",
+      "board",
+      "exxon",
+      "joins",
+      "liam",
+      "mallon",
+      "mining",
+      "push",
+      "seabed",
+      "tmc",
+      "veteran"
+    ],
+    "ts": 1790695917.0444002
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/santander-approves-interim-dividend-with-10-increase-93CH-4923106",
+    "title": "Santander approves interim dividend with 10% increase",
+    "tokens": [
+      "approves",
+      "dividend",
+      "increase",
+      "interim",
+      "santander"
+    ],
+    "ts": 1790695924.5679393
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-bce-stock-sliding-today-93CH-4923105",
+    "title": "Why is BCE stock sliding today?",
+    "tokens": [
+      "bce",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790695928.5833282
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/baird-lowers-ryder-to-neutral-warning-consensus-forecasts-are-too-high-4923104",
+    "title": "Baird lowers Ryder to Neutral, warning consensus forecasts are too high",
+    "tokens": [
+      "baird",
+      "consensus",
+      "forecasts",
+      "high",
+      "lowers",
+      "neutral",
+      "ryder",
+      "too",
+      "warning"
+    ],
+    "ts": 1790695932.5306966
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-staar-surgical-stock-surging-today-93CH-4923103",
+    "title": "Why is STAAR Surgical stock surging today?",
+    "tokens": [
+      "staar",
+      "stock",
+      "surgical",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790695939.954754
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/banxico-can-chart-rate-path-independently-of-fed-governor-says--bloomberg-4923102",
+    "title": "Banxico can chart rate path independently of Fed, Governor says - Bloomberg",
+    "tokens": [
+      "banxico",
+      "bloomberg",
+      "can",
+      "chart",
+      "fed",
+      "governor",
+      "independently",
+      "path",
+      "rate"
+    ],
+    "ts": 1790695948.1377358
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-air-canada-stock-climbing-today-93CH-4923101",
+    "title": "Why is Air Canada stock climbing today?",
+    "tokens": [
+      "air",
+      "canada",
+      "climbing",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790695956.6393204
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/xeris-biopharma-stock-hits-52week-high-at-1008-usd-93CH-4923099",
+    "title": "Xeris Biopharma stock hits 52-week high at 10.08 USD",
+    "tokens": [
+      "biopharma",
+      "high",
+      "hits",
+      "stock",
+      "usd",
+      "week",
+      "xeris"
+    ],
+    "ts": 1790695960.6550765
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rm-plc-strategic-sale-of-tts-business-1036582090",
+    "title": "RM plc: Strategic sale of TTS business",
+    "tokens": [
+      "business",
+      "plc",
+      "sale",
+      "strategic",
+      "tts"
+    ],
+    "ts": 1790695964.2600052
+  },
+  {
+    "id": "https://seekingalpha.com/news/4648047-micron-q4-earnings-on-deck-what-to-expect?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Micron Q4 earnings on deck: What to expect",
+    "tokens": [
+      "deck",
+      "earnings",
+      "expect",
+      "micron",
+      "what"
+    ],
+    "ts": 1790695973.0428858
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/resilinc-extends-its-supply-chain-risk-and-compliance-intelligence-platform-with-compliance-for-eudr-1036582084",
+    "title": "Resilinc Extends its Supply Chain Risk and Compliance Intelligence Platform with Compliance for EUDR",
+    "tokens": [
+      "chain",
+      "compliance",
+      "eudr",
+      "extends",
+      "intelligence",
+      "platform",
+      "resilinc",
+      "risk",
+      "supply"
+    ],
+    "ts": 1790695981.0723138
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/media-release-america-makes-to-celebrate-national-manufacturing-day-with-3d-printing-for-drones-student-experiences-across-five-states-1036582080",
+    "title": "Media Release: America Makes to Celebrate National Manufacturing Day with '3D Printing for Drones' Student Experiences Across Five States",
+    "tokens": [
+      "across",
+      "america",
+      "celebrate",
+      "day",
+      "drones",
+      "experiences",
+      "five",
+      "makes",
+      "manufacturing",
+      "media",
+      "national",
+      "printing",
+      "release",
+      "states",
+      "student"
+    ],
+    "ts": 1790695988.7582753
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/inverness-graham-acquires-easyllama-driving-the-next-phase-of-governance-risk-and-compliance-for-smbs-1036582081",
+    "title": "Inverness Graham Acquires EasyLlama, Driving the Next Phase of Governance, Risk, and Compliance for SMBs",
+    "tokens": [
+      "acquires",
+      "compliance",
+      "driving",
+      "easyllama",
+      "governance",
+      "graham",
+      "inverness",
+      "next",
+      "phase",
+      "risk",
+      "smbs"
+    ],
+    "ts": 1790695997.2287533
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/pepper-lunch-introduces-kimchi-cheesy-corn-pasta-a-new-limited-time-offering-1036582079",
+    "title": "Pepper Lunch Introduces Kimchi Cheesy Corn Pasta, a New Limited-Time Offering",
+    "tokens": [
+      "cheesy",
+      "corn",
+      "introduces",
+      "kimchi",
+      "limited",
+      "lunch",
+      "offering",
+      "pasta",
+      "pepper",
+      "time"
+    ],
+    "ts": 1790696004.8000572
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/ethan-allen-returns-to-south-florida-with-state-of-the-art-design-center-in-aventura-1036582077",
+    "title": "Ethan Allen Returns to South Florida with State-Of-The-Art Design Center in Aventura",
+    "tokens": [
+      "allen",
+      "art",
+      "aventura",
+      "center",
+      "design",
+      "ethan",
+      "florida",
+      "returns",
+      "south",
+      "state"
+    ],
+    "ts": 1790696012.4422204
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/vishay-intertechnology-releases-new-top-side-cooling-mount-thick-film-power-resistor-in-compact-to-263-d-pak-package-1036582078",
+    "title": "Vishay Intertechnology Releases New Top-Side Cooling Mount Thick Film Power Resistor in Compact TO-263 (D²PAK) Package",
+    "tokens": [
+      "263",
+      "compact",
+      "cooling",
+      "film",
+      "intertechnology",
+      "mount",
+      "package",
+      "pak",
+      "power",
+      "releases",
+      "resistor",
+      "side",
+      "thick",
+      "top",
+      "vishay"
+    ],
+    "ts": 1790696019.427642
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/marlabs-wins-2026-isg-paragon-transformation-award-for-gategroup-implementation-1036582094",
+    "title": "Marlabs Wins 2026 ISG Paragon Transformation Award for gategroup Implementation",
+    "tokens": [
+      "2026",
+      "award",
+      "gategroup",
+      "implementation",
+      "isg",
+      "marlabs",
+      "paragon",
+      "transformation",
+      "wins"
+    ],
+    "ts": 1790696026.9322815
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/how-much-is-facial-feminization-surgery-out-of-pocket-cost-1036582092",
+    "title": "How Much Is Facial Feminization Surgery Out-of-Pocket Cost?",
+    "tokens": [
+      "cost",
+      "facial",
+      "feminization",
+      "how",
+      "much",
+      "pocket",
+      "surgery"
+    ],
+    "ts": 1790696035.1144745
+  },
+  {
+    "id": "oilprice-article-45635",
+    "title": "Iran Talks Take the Heat Out of the Oil Rally",
+    "tokens": [
+      "heat",
+      "iran",
+      "oil",
+      "rally",
+      "take",
+      "talks"
+    ],
+    "ts": 1790696042.5630972
+  },
+  {
+    "id": "oilprice-news-45635",
+    "title": "Dangote Targets 10 Million Investors in Africa’s Biggest IPO",
+    "tokens": [
+      "africa",
+      "biggest",
+      "dangote",
+      "investors",
+      "ipo",
+      "million",
+      "targets"
+    ],
+    "ts": 1790696050.8741198
   }
 ]

@@ -1,162 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/advanced-flower-capital-director-buys-92635-in-common-stock-93CH-4916977",
-    "title": "Advanced flower capital director buys $92,635 in common stock",
-    "tokens": [
-      "635",
-      "advanced",
-      "buys",
-      "capital",
-      "common",
-      "director",
-      "flower",
-      "stock"
-    ],
-    "ts": 1790329547.3973277
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/wall-st-futures-gain-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-4917018",
-    "title": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
-    "tokens": [
-      "eases",
-      "enthusiasm",
-      "futures",
-      "gain",
-      "higher",
-      "oil",
-      "prices",
-      "wall",
-      "worries",
-      "yields"
-    ],
-    "ts": 1790330247.5668597
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/telsey-reiterates-costco-stock-rating-on-strong-q4-results-93CH-4917017",
-    "title": "Telsey reiterates Costco stock rating on strong Q4 results",
-    "tokens": [
-      "costco",
-      "rating",
-      "reiterates",
-      "results",
-      "stock",
-      "strong",
-      "telsey"
-    ],
-    "ts": 1790330255.7730021
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-alaska-air-stock-rating-on-investor-day-preview-93CH-4917016",
-    "title": "Raymond James reiterates Alaska Air stock rating on Investor Day preview",
-    "tokens": [
-      "air",
-      "alaska",
-      "day",
-      "investor",
-      "james",
-      "preview",
-      "rating",
-      "raymond",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790330262.727459
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-eastman-chemical-stock-rating-on-china-competition-view-93CH-4917015",
-    "title": "Jefferies reiterates Eastman Chemical stock rating on China competition view",
-    "tokens": [
-      "chemical",
-      "china",
-      "competition",
-      "eastman",
-      "jefferies",
-      "rating",
-      "reiterates",
-      "stock",
-      "view"
-    ],
-    "ts": 1790330269.70628
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/boes-bailey-says-high-energy-prices-make-it-harder-to-leave-rates-on-hold-4917012",
-    "title": "BoE’s Bailey says high energy prices make it harder to leave rates on hold",
-    "tokens": [
-      "bailey",
-      "boe",
-      "energy",
-      "harder",
-      "high",
-      "hold",
-      "leave",
-      "make",
-      "prices",
-      "rates"
-    ],
-    "ts": 1790330276.7401795
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/raspberry-pi-shares-fall-9-after-record-h1-results-trigger-profittaking-4917002",
-    "title": "Raspberry Pi shares fall 9% after record H1 results trigger profit-taking",
-    "tokens": [
-      "fall",
-      "profit",
-      "raspberry",
-      "record",
-      "results",
-      "shares",
-      "taking",
-      "trigger"
-    ],
-    "ts": 1790330283.939633
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/mizuho-initiates-tower-semiconductor-stock-at-outperform-on-ai-growth-93CH-4917000",
-    "title": "Mizuho initiates Tower Semiconductor stock at Outperform on AI growth",
-    "tokens": [
-      "growth",
-      "initiates",
-      "mizuho",
-      "outperform",
-      "semiconductor",
-      "stock",
-      "tower"
-    ],
-    "ts": 1790330291.582838
-  },
-  {
-    "id": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability",
-    "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
-    "tokens": [
-      "832",
-      "custody",
-      "eden",
-      "magic",
-      "nfts",
-      "protective",
-      "puts",
-      "scare",
-      "whitehat"
-    ],
-    "ts": 1790331326.8271198
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bank-of-england-may-struggle-to-hold-rates-amid-high-energy-costs-93CH-4917107",
-    "title": "Bank of England may struggle to hold rates amid high energy costs",
-    "tokens": [
-      "bank",
-      "costs",
-      "energy",
-      "england",
-      "high",
-      "hold",
-      "may",
-      "rates",
-      "struggle"
-    ],
-    "ts": 1790332336.1759324
-  },
-  {
     "id": "https://www.investing.com/news/company-news/halyk-bank-shareholders-approve-islamic-banking-license-93CH-4917106",
     "title": "Halyk Bank shareholders approve Islamic banking license",
     "tokens": [
@@ -22943,5 +22786,157 @@
       "worth"
     ],
     "ts": 1790702285.6424656
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-2009-usd-93CH-4923247",
+    "title": "Cms Energy stock hits 52-week low at 20.09 USD",
+    "tokens": [
+      "cms",
+      "energy",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790703767.336187
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/copart-stock-hits-52week-low-at-268-usd-93CH-4923243",
+    "title": "Copart stock hits 52-week low at 26.8 USD",
+    "tokens": [
+      "copart",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790703767.3480127
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/canadian-institutions-should-not-fear-using-liquidity-facility-says-bank-of-canada-4923242",
+    "title": "Canadian institutions should not fear using liquidity facility, says Bank of Canada",
+    "tokens": [
+      "bank",
+      "canada",
+      "canadian",
+      "facility",
+      "fear",
+      "institutions",
+      "liquidity",
+      "should",
+      "using"
+    ],
+    "ts": 1790703771.934954
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/onceiconic-nyc-wine-seller-sherrylehmann-loses-lawsuit-over-alleged-smear-campaign-4923218",
+    "title": "Once-iconic NYC wine seller Sherry-Lehmann loses lawsuit over alleged smear campaign",
+    "tokens": [
+      "alleged",
+      "campaign",
+      "iconic",
+      "lawsuit",
+      "lehmann",
+      "loses",
+      "nyc",
+      "once",
+      "seller",
+      "sherry",
+      "smear",
+      "wine"
+    ],
+    "ts": 1790703780.1481175
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/feds-barr-signals-more-rate-hikes-needed-amid-inflation-risks-4923234",
+    "title": "Fed’s Barr signals more rate hikes needed amid inflation risks",
+    "tokens": [
+      "barr",
+      "fed",
+      "hikes",
+      "inflation",
+      "more",
+      "needed",
+      "rate",
+      "risks",
+      "signals"
+    ],
+    "ts": 1790703784.1596646
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/peel-pepper-offer-for-harworth-group-declared-unconditional-93CH-4923233",
+    "title": "Peel Pepper offer for Harworth Group declared unconditional",
+    "tokens": [
+      "declared",
+      "group",
+      "harworth",
+      "offer",
+      "peel",
+      "pepper",
+      "unconditional"
+    ],
+    "ts": 1790703788.2410662
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/white-house-urges-eu-to-draw-down-diesel-inventories-sources-say-4923232",
+    "title": "White House urges EU to draw down diesel inventories, sources say",
+    "tokens": [
+      "diesel",
+      "draw",
+      "house",
+      "inventories",
+      "say",
+      "sources",
+      "urges",
+      "white"
+    ],
+    "ts": 1790703796.3798885
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/openai-launches-dots-ai-agents-powered-by-gpt6-astra-93CH-4923231",
+    "title": "OpenAI launches Dots AI agents powered by GPT-6 Astra",
+    "tokens": [
+      "agents",
+      "astra",
+      "dots",
+      "gpt",
+      "launches",
+      "openai",
+      "powered"
+    ],
+    "ts": 1790703805.2922304
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/boes-taylor-casts-doubt-on-practicality-of-single-rate-hike-4923229",
+    "title": "BoE’s Taylor casts doubt on practicality of single rate hike",
+    "tokens": [
+      "boe",
+      "casts",
+      "doubt",
+      "hike",
+      "practicality",
+      "rate",
+      "single",
+      "taylor"
+    ],
+    "ts": 1790703812.515627
+  },
+  {
+    "id": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge",
+    "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+    "tokens": [
+      "bitwise",
+      "etf",
+      "first",
+      "launches",
+      "near",
+      "recent",
+      "spot",
+      "surge",
+      "token"
+    ],
+    "ts": 1790703822.3364384
   }
 ]

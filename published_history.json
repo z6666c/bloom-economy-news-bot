@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/mamas-creations-ceo-adam-michaels-sells-927k-in-mama-stock-93CH-4916439",
-    "title": "Mama’s creations CEO Adam Michaels sells $927k in Mama stock",
-    "tokens": [
-      "927k",
-      "adam",
-      "ceo",
-      "creations",
-      "mama",
-      "michaels",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790295337.3403742
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/executive-chairman-marc-grandisson-buys-16m-in-howard-hughes-holdings-stock-93CH-4916438",
     "title": "Executive chairman Marc Grandisson buys $1.6m in Howard Hughes Holdings stock",
     "tokens": [
@@ -22945,5 +22930,23 @@
       "upgrade"
     ],
     "ts": 1790679474.5172164
+  },
+  {
+    "id": "WP-MKTW-0005258378",
+    "title": "Morgan Stanley’s Mike Wilson says an S&P 500 correction may be exactly what the market needs",
+    "tokens": [
+      "500",
+      "correction",
+      "exactly",
+      "market",
+      "may",
+      "mike",
+      "morgan",
+      "needs",
+      "stanley",
+      "what",
+      "wilson"
+    ],
+    "ts": 1790680553.8005435
   }
 ]

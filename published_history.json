@@ -1,86 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork",
-    "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-    "tokens": [
-      "bitcoin",
-      "fork",
-      "private",
-      "propose",
-      "researchers",
-      "soft",
-      "style",
-      "transfers",
-      "without",
-      "zcash"
-    ],
-    "ts": 1790313066.8538325
-  },
-  {
-    "id": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site",
-    "title": "Australia PM warns of AI’s ‘furious pace’ after agent breached government site",
-    "tokens": [
-      "agent",
-      "australia",
-      "breached",
-      "furious",
-      "government",
-      "pace",
-      "site",
-      "warns"
-    ],
-    "ts": 1790313984.2049437
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trump-to-wrap-up-xi-summit-with-a-tour-of-us-archives-4916620",
-    "title": "Trump to wrap up Xi summit with a tour of US archives",
-    "tokens": [
-      "archives",
-      "summit",
-      "tour",
-      "trump",
-      "wrap"
-    ],
-    "ts": 1790314913.8809533
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/sb-financial-director-richard-hardgrove-sells-107654-in-stock-93CH-4916627",
-    "title": "Sb financial director Richard Hardgrove sells $107,654 in stock",
-    "tokens": [
-      "107",
-      "654",
-      "director",
-      "financial",
-      "hardgrove",
-      "richard",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790314921.452082
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/chinas-xi-calls-for-cooperation-with-us-on-ai-4916619",
-    "title": "China’s Xi calls for cooperation with U.S. on AI",
-    "tokens": [
-      "calls",
-      "china",
-      "cooperation"
-    ],
-    "ts": 1790314928.7941244
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/explainerthe-road-ahead-for-volkswagens-restructuring-4916617",
-    "title": "Explainer-The road ahead for Volkswagen’s restructuring",
-    "tokens": [
-      "ahead",
-      "explainer",
-      "restructuring",
-      "road",
-      "volkswagen"
-    ],
-    "ts": 1790314936.1769803
-  },
-  {
     "id": "https://www.investing.com/news/company-news/genel-raises-cash-offer-for-capricorn-energy-to-574-per-share-93CH-4916666",
     "title": "Genel raises cash offer for Capricorn Energy to $5.74 per share",
     "tokens": [
@@ -22925,5 +22844,92 @@
       "trucking"
     ],
     "ts": 1790690317.8996556
+  },
+  {
+    "id": "WP-MKTW-0005258594",
+    "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
+    "tokens": [
+      "according",
+      "beginners",
+      "cards",
+      "guy",
+      "make",
+      "mistake",
+      "points",
+      "travel"
+    ],
+    "ts": 1790691416.6291518
+  },
+  {
+    "id": "WP-MKTW-0005257167",
+    "title": "My kids don’t want my decades’ worth of stuff. Here’s how I’m learning to let go of it.",
+    "tokens": [
+      "decades",
+      "don",
+      "here",
+      "how",
+      "kids",
+      "learning",
+      "let",
+      "stuff",
+      "want",
+      "worth"
+    ],
+    "ts": 1790691425.1781473
+  },
+  {
+    "id": "WP-MKTW-0005257623",
+    "title": "Junk bonds are heading for worst month since 2022 after punishing global selloff",
+    "tokens": [
+      "2022",
+      "bonds",
+      "global",
+      "heading",
+      "junk",
+      "month",
+      "punishing",
+      "selloff",
+      "since",
+      "worst"
+    ],
+    "ts": 1790691432.3938007
+  },
+  {
+    "id": "oilprice-article-45631",
+    "title": "The Hidden Tradeoffs of a U.S. Diesel Export Ban",
+    "tokens": [
+      "ban",
+      "diesel",
+      "export",
+      "hidden",
+      "tradeoffs"
+    ],
+    "ts": 1790691441.7011852
+  },
+  {
+    "id": "oilprice-news-45631",
+    "title": "LNG Canada to Double Export Capacity After Shell Approves Phase 2",
+    "tokens": [
+      "approves",
+      "canada",
+      "capacity",
+      "double",
+      "export",
+      "lng",
+      "phase",
+      "shell"
+    ],
+    "ts": 1790691449.5171914
+  },
+  {
+    "id": "4c95ef4f-466c-4d15-ac8b-c70c02e2bb86",
+    "title": "Democrats killed the Clarity Act",
+    "tokens": [
+      "act",
+      "clarity",
+      "democrats",
+      "killed"
+    ],
+    "ts": 1790691457.5925694
   }
 ]

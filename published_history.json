@@ -1,68 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/dollar-falls-as-oil-cools-but-set-for-weekly-gain-yen-rallies-4917368",
-    "title": "Dollar falls as oil cools but set for weekly gain; yen rallies",
-    "tokens": [
-      "cools",
-      "dollar",
-      "falls",
-      "gain",
-      "oil",
-      "rallies",
-      "set",
-      "weekly",
-      "yen"
-    ],
-    "ts": 1790338489.1930127
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-aurora-innovation-stock-overweight-rating-93CH-4917367",
-    "title": "Cantor Fitzgerald reiterates Aurora Innovation stock Overweight rating",
-    "tokens": [
-      "aurora",
-      "cantor",
-      "fitzgerald",
-      "innovation",
-      "overweight",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790338493.2034411
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/baird-cuts-mcdonalds-stock-price-target-on-consumer-headwinds-93CH-4917366",
-    "title": "Baird cuts McDonald’s stock price target on consumer headwinds",
-    "tokens": [
-      "baird",
-      "consumer",
-      "cuts",
-      "headwinds",
-      "mcdonald",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1790338496.3792741
-  },
-  {
-    "id": "oilprice-news-45596",
-    "title": "Brent Set for Weekly Gain as Houthi Attacks Rattle Saudi Oil Supply",
-    "tokens": [
-      "attacks",
-      "brent",
-      "gain",
-      "houthi",
-      "oil",
-      "rattle",
-      "saudi",
-      "set",
-      "supply",
-      "weekly"
-    ],
-    "ts": 1790338504.3341484
-  },
-  {
     "id": "WP-MKTW-0005253840",
     "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
     "tokens": [
@@ -23002,5 +22939,69 @@
       "systems"
     ],
     "ts": 1790710355.155507
+  },
+  {
+    "id": "WP-MKTW-0005258446",
+    "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
+    "tokens": [
+      "acquisition",
+      "amd",
+      "billion",
+      "isn",
+      "labs",
+      "prize",
+      "real",
+      "think",
+      "what",
+      "world",
+      "you"
+    ],
+    "ts": 1790711702.817626
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/entertainment-sector-stock-outlook-disney-leads-amid-streaming-and-livesports-tailwinds-93CH-4923375",
+    "title": "Entertainment sector stock outlook: Disney leads amid streaming and live-sports tailwinds",
+    "tokens": [
+      "disney",
+      "entertainment",
+      "leads",
+      "live",
+      "outlook",
+      "sector",
+      "sports",
+      "stock",
+      "streaming",
+      "tailwinds"
+    ],
+    "ts": 1790711710.861302
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/lmt-gd-and-rtx-value-quality-and-pairs-trade-opportunities-compared-93CH-4923374",
+    "title": "LMT, GD and RTX: value, quality and pairs trade opportunities compared",
+    "tokens": [
+      "compared",
+      "lmt",
+      "opportunities",
+      "pairs",
+      "quality",
+      "rtx",
+      "trade",
+      "value"
+    ],
+    "ts": 1790711719.3967695
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/atico-mining-secures-95m-financing-for-la-plata-project-93CH-4923373",
+    "title": "Atico Mining secures $95M financing for La Plata project",
+    "tokens": [
+      "95m",
+      "atico",
+      "financing",
+      "mining",
+      "plata",
+      "project",
+      "secures"
+    ],
+    "ts": 1790711726.965324
   }
 ]

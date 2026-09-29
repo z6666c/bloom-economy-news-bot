@@ -1,51 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/lawmakers-to-seek-senate-approval-of-permanent-us-ban-on-chinese-cars-4915903",
-    "title": "US senators delay effort to permanently ban Chinese cars",
-    "tokens": [
-      "ban",
-      "cars",
-      "chinese",
-      "delay",
-      "effort",
-      "permanently",
-      "senators"
-    ],
-    "ts": 1790276142.4706507
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/capital-one-options-a-large-bull-call-spread-bets-on-a-rebound-above-210-93CH-4916009",
-    "title": "Capital One options: a large bull call spread bets on a rebound above $210",
-    "tokens": [
-      "210",
-      "above",
-      "bets",
-      "bull",
-      "call",
-      "capital",
-      "large",
-      "one",
-      "options",
-      "rebound",
-      "spread"
-    ],
-    "ts": 1790276150.550933
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/gm-ford-to-see-us-marketshare-slide-forecaster-predicts-4916006",
-    "title": "GM, Ford to see US market-share slide, forecaster predicts",
-    "tokens": [
-      "ford",
-      "forecaster",
-      "market",
-      "predicts",
-      "see",
-      "share",
-      "slide"
-    ],
-    "ts": 1790276160.2952108
-  },
-  {
     "id": "ee6a6c3e-6a67-4205-a430-f96e9b3af7d8",
     "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
     "tokens": [
@@ -22966,5 +22920,50 @@
       "unveils"
     ],
     "ts": 1790649816.2687037
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/mideast-oil-exports-rebound-in-september-as-saudi-arabia-boosts-shipments-4921507",
+    "title": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments",
+    "tokens": [
+      "arabia",
+      "boosts",
+      "exports",
+      "mideast",
+      "oil",
+      "rebound",
+      "saudi",
+      "september",
+      "shipments"
+    ],
+    "ts": 1790650599.6381552
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/newgenivf-prices-125m-public-offering-at-007-per-share-93CH-4921506",
+    "title": "NewGenIvf prices $1.25M public offering at $0.07 per share",
+    "tokens": [
+      "25m",
+      "newgenivf",
+      "offering",
+      "per",
+      "prices",
+      "public",
+      "share"
+    ],
+    "ts": 1790650604.2827494
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/c1-fund-cio-elliot-han-buys-24049-in-company-stock-93CH-4921503",
+    "title": "C1 fund CIO Elliot Han buys $24,049 in company stock",
+    "tokens": [
+      "049",
+      "buys",
+      "cio",
+      "company",
+      "elliot",
+      "fund",
+      "han",
+      "stock"
+    ],
+    "ts": 1790650611.893822
   }
 ]

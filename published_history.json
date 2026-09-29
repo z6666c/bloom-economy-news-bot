@@ -1,200 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/bmo-capital-raises-okta-stock-price-target-on-ai-expansion-93CH-4917714",
-    "title": "BMO Capital raises Okta stock price target on AI expansion",
-    "tokens": [
-      "bmo",
-      "capital",
-      "expansion",
-      "okta",
-      "price",
-      "raises",
-      "stock",
-      "target"
-    ],
-    "ts": 1790346645.548207
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nanexa-stock-jumps-over-100-on-novo-nordisk-deal-real-breakout-or-trap-93CH-4917712",
-    "title": "Nanexa stock jumps over 100% on Novo Nordisk deal: Real breakout or trap?",
-    "tokens": [
-      "100",
-      "breakout",
-      "deal",
-      "jumps",
-      "nanexa",
-      "nordisk",
-      "novo",
-      "real",
-      "stock",
-      "trap"
-    ],
-    "ts": 1790346653.6298556
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-rallying-today-93CH-4917710",
-    "title": "Why is Bloom Energy stock rallying today?",
-    "tokens": [
-      "bloom",
-      "energy",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790346657.6391683
-  },
-  {
-    "id": "8c72534c-d321-4ff2-a9db-0d3ee8cc1a04",
-    "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
-    "tokens": [
-      "89m",
-      "asset",
-      "confirms",
-      "eqibank",
-      "exposure",
-      "following",
-      "minimal",
-      "seizure",
-      "tether"
-    ],
-    "ts": 1790346821.3797913
-  },
-  {
-    "id": "40a7a32a-4dde-407f-aa04-c9fee2ae7ad4",
-    "title": "Strategy proposes daily dividends to bring STRC back toward $100",
-    "tokens": [
-      "100",
-      "back",
-      "bring",
-      "daily",
-      "dividends",
-      "proposes",
-      "strategy",
-      "strc",
-      "toward"
-    ],
-    "ts": 1790346829.0872567
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-    "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-    "tokens": [
-      "actions",
-      "american",
-      "bank",
-      "board",
-      "company",
-      "employee",
-      "enforcement",
-      "express",
-      "federal",
-      "former",
-      "inc",
-      "issues",
-      "northstar",
-      "regions",
-      "related",
-      "reserve",
-      "services",
-      "travel"
-    ],
-    "ts": 1790346837.1234882
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-    "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-    "tokens": [
-      "action",
-      "announces",
-      "bancshares",
-      "bank",
-      "board",
-      "enforcement",
-      "eufaula",
-      "federal",
-      "reserve",
-      "snb",
-      "termination"
-    ],
-    "ts": 1790346844.9536502
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/eni-sets-fuel-price-caps-in-italy-starting-september-28-93CH-4917746",
-    "title": "Eni sets fuel price caps in Italy starting September 28",
-    "tokens": [
-      "caps",
-      "eni",
-      "fuel",
-      "italy",
-      "price",
-      "september",
-      "sets",
-      "starting"
-    ],
-    "ts": 1790347618.9124446
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/adarx-pharmaceuticals-allocates-55-of-ipo-to-10-investors-93CH-4917744",
-    "title": "Adarx Pharmaceuticals allocates 55% of IPO to 10 investors",
-    "tokens": [
-      "adarx",
-      "allocates",
-      "investors",
-      "ipo",
-      "pharmaceuticals"
-    ],
-    "ts": 1790347626.2069085
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cegedim-h1-2026-slides-margins-expand-as-revenue-growth-stays-modest-93CH-4917742",
-    "title": "Cegedim H1 2026 slides: margins expand as revenue growth stays modest",
-    "tokens": [
-      "2026",
-      "cegedim",
-      "expand",
-      "growth",
-      "margins",
-      "modest",
-      "revenue",
-      "slides",
-      "stays"
-    ],
-    "ts": 1790347633.4300582
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/greenland-mines-begins-trading-on-frankfurt-stock-exchange-93CH-4917740",
-    "title": "Greenland Mines begins trading on Frankfurt Stock Exchange",
-    "tokens": [
-      "begins",
-      "exchange",
-      "frankfurt",
-      "greenland",
-      "mines",
-      "stock",
-      "trading"
-    ],
-    "ts": 1790347640.5362523
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/analysisdata-center-ipo-hopefuls-brave-tougher-market-as-investor-scrutiny-grows-4917737",
-    "title": "Analysis-Data center IPO hopefuls brave tougher market as investor scrutiny grows",
-    "tokens": [
-      "analysis",
-      "brave",
-      "center",
-      "data",
-      "grows",
-      "hopefuls",
-      "investor",
-      "ipo",
-      "market",
-      "scrutiny",
-      "tougher"
-    ],
-    "ts": 1790347648.4556916
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/cbl--associates-evp-jennifer-cope-sells-351684-in-stock-93CH-4917736",
     "title": "CBL & Associates EVP Jennifer Cope sells $351,684 in stock",
     "tokens": [
@@ -22997,5 +22802,202 @@
       "stocks"
     ],
     "ts": 1790720123.6125157
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/northern-technologies-at-lytham-partners-growth-bets-gain-traction-93CH-4923788",
+    "title": "Northern Technologies at Lytham Partners: growth bets gain traction",
+    "tokens": [
+      "bets",
+      "gain",
+      "growth",
+      "lytham",
+      "northern",
+      "partners",
+      "technologies",
+      "traction"
+    ],
+    "ts": 1790721111.2704756
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/mining-americas-at-mining-forum-americas-2026-growth-plan-gains-pace-93CH-4923787",
+    "title": "Mining Americas at Mining Forum Americas 2026: growth plan gains pace",
+    "tokens": [
+      "2026",
+      "americas",
+      "forum",
+      "gains",
+      "growth",
+      "mining",
+      "pace",
+      "plan"
+    ],
+    "ts": 1790721115.282777
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/vertical-aerospace-at-lytham-partners-certification-and-quiet-flight-93CH-4923786",
+    "title": "Vertical Aerospace at Lytham Partners: certification and quiet flight",
+    "tokens": [
+      "aerospace",
+      "certification",
+      "flight",
+      "lytham",
+      "partners",
+      "quiet",
+      "vertical"
+    ],
+    "ts": 1790721121.0316064
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/advanced-flower-capital-amends-loan-agreement-increases-revolver-commitments-93CH-4923785",
+    "title": "Advanced Flower Capital amends loan agreement, increases revolver commitments",
+    "tokens": [
+      "advanced",
+      "agreement",
+      "amends",
+      "capital",
+      "commitments",
+      "flower",
+      "increases",
+      "loan",
+      "revolver"
+    ],
+    "ts": 1790721128.1211972
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/eco-wave-power-at-lytham-partners-conference-onshore-wave-push-93CH-4923784",
+    "title": "Eco Wave Power at Lytham Partners conference: onshore wave push",
+    "tokens": [
+      "conference",
+      "eco",
+      "lytham",
+      "onshore",
+      "partners",
+      "power",
+      "push",
+      "wave"
+    ],
+    "ts": 1790721136.7463777
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/crane-company-announces-planned-retirement-of-lead-independent-director-93CH-4923773",
+    "title": "Crane Company announces planned retirement of lead independent director",
+    "tokens": [
+      "announces",
+      "company",
+      "crane",
+      "director",
+      "independent",
+      "lead",
+      "planned",
+      "retirement"
+    ],
+    "ts": 1790721143.7033868
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/gogold-resources-at-mining-forum-americas-2026-cashrich-buildout-93CH-4923772",
+    "title": "GoGold Resources at Mining Forum Americas 2026: cash-rich buildout",
+    "tokens": [
+      "2026",
+      "americas",
+      "buildout",
+      "cash",
+      "forum",
+      "gogold",
+      "mining",
+      "resources",
+      "rich"
+    ],
+    "ts": 1790721151.6596923
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/interlink-electronics-at-lytham-partners-sensor-rollup-gains-pace-93CH-4923771",
+    "title": "Interlink Electronics at Lytham Partners: sensor rollup gains pace",
+    "tokens": [
+      "electronics",
+      "gains",
+      "interlink",
+      "lytham",
+      "pace",
+      "partners",
+      "rollup",
+      "sensor"
+    ],
+    "ts": 1790721159.2664058
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/angel-oak-mortgage-reit-extends-financing-facility-lowers-interest-rate-spread-93CH-4923770",
+    "title": "Angel Oak Mortgage REIT extends financing facility, lowers interest rate spread",
+    "tokens": [
+      "angel",
+      "extends",
+      "facility",
+      "financing",
+      "interest",
+      "lowers",
+      "mortgage",
+      "oak",
+      "rate",
+      "reit",
+      "spread"
+    ],
+    "ts": 1790721166.7490222
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-cuts-stryker-stock-price-target-on-revenue-pressures-93CH-4923769",
+    "title": "Stifel cuts Stryker stock price target on revenue pressures",
+    "tokens": [
+      "cuts",
+      "pressures",
+      "price",
+      "revenue",
+      "stifel",
+      "stock",
+      "stryker",
+      "target"
+    ],
+    "ts": 1790721176.382518
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+    "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+    "tokens": [
+      "actions",
+      "american",
+      "bank",
+      "board",
+      "company",
+      "employee",
+      "enforcement",
+      "express",
+      "federal",
+      "former",
+      "inc",
+      "issues",
+      "northstar",
+      "regions",
+      "related",
+      "reserve",
+      "services",
+      "travel"
+    ],
+    "ts": 1790721186.0077055
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+    "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+    "tokens": [
+      "action",
+      "announces",
+      "bancshares",
+      "bank",
+      "board",
+      "enforcement",
+      "eufaula",
+      "federal",
+      "reserve",
+      "snb",
+      "termination"
+    ],
+    "ts": 1790721194.5556135
   }
 ]

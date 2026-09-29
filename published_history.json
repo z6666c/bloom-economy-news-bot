@@ -1,184 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
-    "title": "U.S 10-year yield climbs for 6 straight week as bond rout deepens",
-    "tokens": [
-      "bond",
-      "climbs",
-      "deepens",
-      "rout",
-      "straight",
-      "week",
-      "year",
-      "yield"
-    ],
-    "ts": 1790325040.868817
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/oxford-industries-ceo-thomas-chubb-buys-65374-in-stock-93CH-4916849",
-    "title": "Oxford Industries CEO Thomas Chubb buys $65,374 in stock",
-    "tokens": [
-      "374",
-      "buys",
-      "ceo",
-      "chubb",
-      "industries",
-      "oxford",
-      "stock",
-      "thomas"
-    ],
-    "ts": 1790325050.4045122
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/shearwater-group-calls-shareholder-vote-on-capital-reduction-93CH-4916838",
-    "title": "Shearwater Group calls shareholder vote on capital reduction",
-    "tokens": [
-      "calls",
-      "capital",
-      "group",
-      "reduction",
-      "shareholder",
-      "shearwater",
-      "vote"
-    ],
-    "ts": 1790325058.1296833
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-akamai-technologies-stock-surging-today-93CH-4916836",
-    "title": "Why is Akamai Technologies stock surging today?",
-    "tokens": [
-      "akamai",
-      "stock",
-      "surging",
-      "technologies",
-      "today",
-      "why"
-    ],
-    "ts": 1790325062.1465561
-  },
-  {
-    "id": "WP-MKTW-0005253592",
-    "title": "Akamai stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.",
-    "tokens": [
-      "akamai",
-      "anthropic",
-      "billion",
-      "cloud",
-      "deal",
-      "edge",
-      "powerful",
-      "providers",
-      "reveals",
-      "stock",
-      "surging"
-    ],
-    "ts": 1790325987.636768
-  },
-  {
-    "id": "WP-MKTW-0005243518",
-    "title": "The low-key California property portfolio of ‘Wednesday’ star Jenna Ortega",
-    "tokens": [
-      "california",
-      "jenna",
-      "key",
-      "low",
-      "ortega",
-      "portfolio",
-      "property",
-      "star",
-      "wednesday"
-    ],
-    "ts": 1790327477.567715
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/citi-sees-yen-strengthening-on-reduced-foreign-investment-93CH-4916952",
-    "title": "Citi sees yen strengthening on reduced foreign investment",
-    "tokens": [
-      "citi",
-      "foreign",
-      "investment",
-      "reduced",
-      "sees",
-      "strengthening",
-      "yen"
-    ],
-    "ts": 1790327484.6985817
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-summit-therapeutics-stock-rating-on-trial-data-93CH-4916951",
-    "title": "Citizens reiterates Summit Therapeutics stock rating on trial data",
-    "tokens": [
-      "citizens",
-      "data",
-      "rating",
-      "reiterates",
-      "stock",
-      "summit",
-      "therapeutics",
-      "trial"
-    ],
-    "ts": 1790327491.765607
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-rezolute-stock-rating-on-tumor-trial-results-due-93CH-4916950",
-    "title": "Citizens reiterates Rezolute stock rating on tumor trial results due",
-    "tokens": [
-      "citizens",
-      "due",
-      "rating",
-      "reiterates",
-      "results",
-      "rezolute",
-      "stock",
-      "trial",
-      "tumor"
-    ],
-    "ts": 1790327499.007712
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/prime-medicine-stock-holds-at-outperform-on-fda-ind-clearance-93CH-4916949",
-    "title": "Prime Medicine stock holds at outperform on FDA IND clearance",
-    "tokens": [
-      "clearance",
-      "fda",
-      "holds",
-      "ind",
-      "medicine",
-      "outperform",
-      "prime",
-      "stock"
-    ],
-    "ts": 1790327506.5301518
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dell-director-lynn-radakovich-sells-over-11m-in-stock-93CH-4916941",
-    "title": "Dell director Lynn Radakovich sells over $1.1m in stock",
-    "tokens": [
-      "dell",
-      "director",
-      "lynn",
-      "radakovich",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790327514.4327204
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hsbc-appoints-alison-platt-as-independent-nonexecutive-director-93CH-4916940",
-    "title": "HSBC appoints Alison Platt as independent non-executive director",
-    "tokens": [
-      "alison",
-      "appoints",
-      "director",
-      "executive",
-      "hsbc",
-      "independent",
-      "non",
-      "platt"
-    ],
-    "ts": 1790327521.057947
-  },
-  {
     "id": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-bond-selloff-powers-dollar-gains-4916939",
     "title": "Sterling today: Pound steadies as bond sell-off powers dollar gains",
     "tokens": [
@@ -22938,5 +22759,187 @@
       "years"
     ],
     "ts": 1790698668.8933096
+  },
+  {
+    "id": "WP-MKTW-0005258457",
+    "title": "You might be shocked by how many stocks are in a bear market right now",
+    "tokens": [
+      "bear",
+      "how",
+      "many",
+      "market",
+      "might",
+      "now",
+      "right",
+      "shocked",
+      "stocks",
+      "you"
+    ],
+    "ts": 1790700257.4700835
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/blackrock-stake-in-public-policy-holding-falls-to-404-93CH-4923166",
+    "title": "BlackRock stake in Public Policy Holding falls to 4.04%",
+    "tokens": [
+      "blackrock",
+      "falls",
+      "holding",
+      "policy",
+      "public",
+      "stake"
+    ],
+    "ts": 1790700265.6520755
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/trump-to-host-zuckerberg-anthropics-amodei-and-other-ai-titans-tuesday-4922037",
+    "title": "Trump says working with Xi on AI would hurt US companies",
+    "tokens": [
+      "companies",
+      "hurt",
+      "trump",
+      "working",
+      "would"
+    ],
+    "ts": 1790700272.8314016
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/gm-lg-to-make-lowercost-ev-battery-cells-in-tennessee-4923161",
+    "title": "GM, LG to make lower-cost EV battery cells in Tennessee",
+    "tokens": [
+      "battery",
+      "cells",
+      "cost",
+      "lower",
+      "make",
+      "tennessee"
+    ],
+    "ts": 1790700280.5106292
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bank-of-englands-taylor-says-case-for-rate-hike-not-compelling-4923132",
+    "title": "Bank of England’s Taylor views case for rate hike as ’not compelling’",
+    "tokens": [
+      "bank",
+      "case",
+      "compelling",
+      "england",
+      "hike",
+      "rate",
+      "taylor",
+      "views"
+    ],
+    "ts": 1790700287.644226
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/alaska-air-bets-on-premium-travel-for-earnings-boost-as-fuel-costs-bite-4922533",
+    "title": "Alaska Air bets on premium travel to boost profit as fuel costs bite",
+    "tokens": [
+      "air",
+      "alaska",
+      "bets",
+      "bite",
+      "boost",
+      "costs",
+      "fuel",
+      "premium",
+      "profit",
+      "travel"
+    ],
+    "ts": 1790700295.6369395
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/european-equities-edge-up-as-yield-spike-and-rising-crude-saps-sentiment-4921619",
+    "title": "European equities give up gains despite oil decline and Anthropic’s outlook",
+    "tokens": [
+      "anthropic",
+      "decline",
+      "despite",
+      "equities",
+      "european",
+      "gains",
+      "give",
+      "oil",
+      "outlook"
+    ],
+    "ts": 1790700303.855635
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-says-rogue-ai-agents-pose-uncertain-legal-risk-for-the-company-4923159",
+    "title": "Exclusive-Anthropic says rogue AI agents pose uncertain legal risk for the company",
+    "tokens": [
+      "agents",
+      "anthropic",
+      "company",
+      "exclusive",
+      "legal",
+      "pose",
+      "risk",
+      "rogue",
+      "uncertain"
+    ],
+    "ts": 1790700312.699181
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/western-union-stock-hits-52week-low-at-594-usd-93CH-4923158",
+    "title": "Western Union stock hits 52-week low at 5.94 USD",
+    "tokens": [
+      "hits",
+      "low",
+      "stock",
+      "union",
+      "usd",
+      "week",
+      "western"
+    ],
+    "ts": 1790700316.7146795
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-senator-demands-pentagon-supply-chain-review-after-f35-parts-land-in-china-4923156",
+    "title": "U.S. senator demands Pentagon supply chain review after F-35 parts land in China",
+    "tokens": [
+      "chain",
+      "china",
+      "demands",
+      "land",
+      "parts",
+      "pentagon",
+      "review",
+      "senator",
+      "supply"
+    ],
+    "ts": 1790700321.8519666
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach",
+    "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
+    "tokens": [
+      "85k",
+      "back",
+      "bitcoin",
+      "gains",
+      "gives",
+      "holder",
+      "keeps",
+      "long",
+      "reach",
+      "supply",
+      "term"
+    ],
+    "ts": 1790700330.4003105
+  },
+  {
+    "id": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach",
+    "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
+    "tokens": [
+      "388m",
+      "bitget",
+      "breach",
+      "ceo",
+      "funds",
+      "optimistic",
+      "recovering",
+      "very"
+    ],
+    "ts": 1790700338.366323
   }
 ]

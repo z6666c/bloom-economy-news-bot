@@ -1,80 +1,5 @@
 [
   {
-    "id": "oilprice-news-45595",
-    "title": "Record Fuel Prices Send European EV Sales Soaring",
-    "tokens": [
-      "european",
-      "fuel",
-      "prices",
-      "record",
-      "sales",
-      "send",
-      "soaring"
-    ],
-    "ts": 1790273675.9387748
-  },
-  {
-    "id": "WP-MKTW-0005252565",
-    "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
-    "tokens": [
-      "fixed",
-      "impossibility",
-      "mortgage",
-      "rate",
-      "rates",
-      "surges",
-      "year"
-    ],
-    "ts": 1790274794.0569801
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/everpure-options-activity-points-to-bullish-positioning-with-longdated-upside-bets-93CH-4916002",
-    "title": "Everpure options activity points to bullish positioning with long-dated upside bets",
-    "tokens": [
-      "activity",
-      "bets",
-      "bullish",
-      "dated",
-      "everpure",
-      "long",
-      "options",
-      "points",
-      "positioning",
-      "upside"
-    ],
-    "ts": 1790274803.032434
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-sarepta-therapeutics-stock-rating-on-pipeline-potential-93CH-4916000",
-    "title": "Jefferies reiterates Sarepta Therapeutics stock rating on pipeline potential",
-    "tokens": [
-      "jefferies",
-      "pipeline",
-      "potential",
-      "rating",
-      "reiterates",
-      "sarepta",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1790274813.298229
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/cullinan-therapeutics-at-stifel-2026-forum-autoimmune-pipeline-advances-93CH-4915999",
-    "title": "Cullinan Therapeutics at stifel 2026 forum: autoimmune pipeline advances",
-    "tokens": [
-      "2026",
-      "advances",
-      "autoimmune",
-      "cullinan",
-      "forum",
-      "pipeline",
-      "stifel",
-      "therapeutics"
-    ],
-    "ts": 1790274821.999329
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/openais-former-head-of-data-centers-joins-nvidia-4915998",
     "title": "OpenAI’s former head of data centers joins Nvidia",
     "tokens": [
@@ -22982,5 +22907,77 @@
       "trillion"
     ],
     "ts": 1790646194.0306566
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/openai-says-ai-models-accessed-australian-government-systems-without-authorisation-4921486",
+    "title": "OpenAI says AI models accessed Australian government systems without authorisation",
+    "tokens": [
+      "accessed",
+      "australian",
+      "authorisation",
+      "government",
+      "models",
+      "openai",
+      "systems",
+      "without"
+    ],
+    "ts": 1790646991.783758
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-extends-gains-as-usiran-stalemate-overshadows-saudi-flows-4921487",
+    "title": "Oil extends gains as U.S.-Iran stalemate overshadows Saudi flows",
+    "tokens": [
+      "extends",
+      "flows",
+      "gains",
+      "iran",
+      "oil",
+      "overshadows",
+      "saudi",
+      "stalemate"
+    ],
+    "ts": 1790646999.665077
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-megaport-stock-surging-today-93CH-4921482",
+    "title": "Why is Megaport stock surging today?",
+    "tokens": [
+      "megaport",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790647003.6807885
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/astrazeneca-seeks-us-fda-approval-for-lung-cancer-treatment-93CH-4921481",
+    "title": "AstraZeneca seeks U.S. FDA approval for lung cancer treatment",
+    "tokens": [
+      "approval",
+      "astrazeneca",
+      "cancer",
+      "fda",
+      "lung",
+      "seeks",
+      "treatment"
+    ],
+    "ts": 1790647008.849625
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/samsung-electronics-commits-1-billion-to-kkrbacked-helix-digital-aibuildout-4921434",
+    "title": "Samsung, affiliates commit $1 billion to KKR-backed Helix Digital AI buildout",
+    "tokens": [
+      "affiliates",
+      "backed",
+      "billion",
+      "buildout",
+      "commit",
+      "digital",
+      "helix",
+      "kkr",
+      "samsung"
+    ],
+    "ts": 1790647016.8233376
   }
 ]

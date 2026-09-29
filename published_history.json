@@ -1,102 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/tmx-group-at-cibc-conference-growth-plan-leans-on-deals-and-data-93CH-4916210",
-    "title": "TMX Group at CIBC conference: growth plan leans on deals and data",
-    "tokens": [
-      "cibc",
-      "conference",
-      "data",
-      "deals",
-      "group",
-      "growth",
-      "leans",
-      "plan",
-      "tmx"
-    ],
-    "ts": 1790282733.6992407
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/select-water-to-acquire-pilot-water-for-700-million-in-cash-and-stock-93CH-4916209",
-    "title": "Select Water to acquire Pilot Water for $700 million in cash and stock",
-    "tokens": [
-      "700",
-      "acquire",
-      "cash",
-      "million",
-      "pilot",
-      "select",
-      "stock",
-      "water"
-    ],
-    "ts": 1790282742.2670996
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ibotta-appoints-tony-weisman-to-board-of-directors-93CH-4916208",
-    "title": "Ibotta appoints Tony Weisman to board of directors",
-    "tokens": [
-      "appoints",
-      "board",
-      "directors",
-      "ibotta",
-      "tony",
-      "weisman"
-    ],
-    "ts": 1790282749.9761379
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/clover-health-adds-two-directors-to-board-93CH-4916203",
-    "title": "Clover Health adds two directors to board",
-    "tokens": [
-      "adds",
-      "board",
-      "clover",
-      "directors",
-      "health",
-      "two"
-    ],
-    "ts": 1790282757.1164162
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cooper-standard-names-boddy-chief-commercial-officer-93CH-4916204",
-    "title": "Cooper Standard names Boddy chief commercial officer",
-    "tokens": [
-      "boddy",
-      "chief",
-      "commercial",
-      "cooper",
-      "names",
-      "officer",
-      "standard"
-    ],
-    "ts": 1790282765.36627
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/dime-commercial-bancshares-declares-025-quarterly-dividend-93CH-4916205",
-    "title": "Dime Commercial Bancshares declares $0.25 quarterly dividend",
-    "tokens": [
-      "bancshares",
-      "commercial",
-      "declares",
-      "dime",
-      "dividend",
-      "quarterly"
-    ],
-    "ts": 1790282772.751445
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/bankunited-declares-033-quarterly-dividend-per-share-93CH-4916206",
-    "title": "BankUnited declares $0.33 quarterly dividend per share",
-    "tokens": [
-      "bankunited",
-      "declares",
-      "dividend",
-      "per",
-      "quarterly",
-      "share"
-    ],
-    "ts": 1790282780.0809789
-  },
-  {
     "id": "https://www.investing.com/news/company-news/delta-air-lines-declares-quarterly-dividend-of-0215-per-share-93CH-4916202",
     "title": "Delta Air Lines declares quarterly dividend of $0.215 per share",
     "tokens": [
@@ -22938,5 +22841,113 @@
       "what"
     ],
     "ts": 1790663983.04791
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-upgrades-staar-surgical-stock-rating-on-china-growth-outlook-93CH-4921652",
+    "title": "Stifel upgrades STAAR Surgical stock rating on China growth outlook",
+    "tokens": [
+      "china",
+      "growth",
+      "outlook",
+      "rating",
+      "staar",
+      "stifel",
+      "stock",
+      "surgical",
+      "upgrades"
+    ],
+    "ts": 1790665139.286623
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/trump-denies-offering-iran-sanctions-relief-tehran-says-ready-for-talks-4921647",
+    "title": "Trump denies offering Iran sanctions relief, Tehran says ready for talks",
+    "tokens": [
+      "denies",
+      "iran",
+      "offering",
+      "ready",
+      "relief",
+      "sanctions",
+      "talks",
+      "tehran",
+      "trump"
+    ],
+    "ts": 1790665147.030513
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/beowulf-minings-43m-financing-faces-uncertainty-93CH-4921651",
+    "title": "Beowulf Mining’s £4.3m financing faces uncertainty",
+    "tokens": [
+      "beowulf",
+      "faces",
+      "financing",
+      "mining",
+      "uncertainty"
+    ],
+    "ts": 1790665154.8958118
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/close-brothers-reports-fy26-loss-suspends-dividend-on-motorfinance-uncertainty-4921650",
+    "title": "Close Brothers reports FY26 loss, suspends dividend on motor-finance uncertainty",
+    "tokens": [
+      "brothers",
+      "close",
+      "dividend",
+      "finance",
+      "fy26",
+      "loss",
+      "motor",
+      "reports",
+      "suspends",
+      "uncertainty"
+    ],
+    "ts": 1790665162.5064328
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
+    "title": "Bitcoin flat at $83.4k as markets weigh soaring yields, Iran tensions",
+    "tokens": [
+      "bitcoin",
+      "flat",
+      "iran",
+      "markets",
+      "soaring",
+      "tensions",
+      "weigh",
+      "yields"
+    ],
+    "ts": 1790665169.8514326
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/diamond-drilling-program-to-begin-at-elizabeth-hill-silver-project-93CH-4921648",
+    "title": "Diamond drilling program to begin at Elizabeth Hill silver project",
+    "tokens": [
+      "begin",
+      "diamond",
+      "drilling",
+      "elizabeth",
+      "hill",
+      "program",
+      "project",
+      "silver"
+    ],
+    "ts": 1790665178.4594417
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/swedish-household-confidence-hits-highest-since-2021-as-economic-sentiment-rises-93CH-4921646",
+    "title": "Swedish household confidence hits highest since 2021 as economic sentiment rises",
+    "tokens": [
+      "2021",
+      "confidence",
+      "economic",
+      "highest",
+      "hits",
+      "household",
+      "rises",
+      "sentiment",
+      "since",
+      "swedish"
+    ],
+    "ts": 1790665186.6415408
   }
 ]

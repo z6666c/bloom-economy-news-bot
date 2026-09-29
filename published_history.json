@@ -1,119 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/white-house-asks-openai-anthropic-to-hold-models-from-british-testers-politico-reports-4915985",
-    "title": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports",
-    "tokens": [
-      "anthropic",
-      "asks",
-      "british",
-      "hold",
-      "house",
-      "models",
-      "openai",
-      "politico",
-      "reports",
-      "testers",
-      "white"
-    ],
-    "ts": 1790273623.6725838
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-vecima-tops-revenue-forecast-in-q4-2026-eps-misses-93CH-4915984",
-    "title": "Earnings call transcript: Vecima tops revenue forecast in Q4 2026, EPS misses",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "eps",
-      "forecast",
-      "misses",
-      "revenue",
-      "tops",
-      "transcript",
-      "vecima"
-    ],
-    "ts": 1790273631.290858
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/white-house-asks-ai-firms-to-delay-sharing-models-with-uk--report-4915983",
-    "title": "White House asks AI firms to delay sharing models with UK - report",
-    "tokens": [
-      "asks",
-      "delay",
-      "firms",
-      "house",
-      "models",
-      "report",
-      "sharing",
-      "white"
-    ],
-    "ts": 1790273639.3257973
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/in8bio-at-sidoti-smallcap-virtual-conference-gammadelta-push-93CH-4915982",
-    "title": "IN8bio at Sidoti Small-Cap Virtual Conference: gamma-delta push",
-    "tokens": [
-      "cap",
-      "conference",
-      "delta",
-      "gamma",
-      "in8bio",
-      "push",
-      "sidoti",
-      "small",
-      "virtual"
-    ],
-    "ts": 1790273647.0512276
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/kolibri-global-energy-at-smallcap-virtual-conference-reserve-upside-in-focus-93CH-4915974",
-    "title": "Kolibri Global Energy at Small-Cap Virtual Conference: reserve upside in focus",
-    "tokens": [
-      "cap",
-      "conference",
-      "energy",
-      "focus",
-      "global",
-      "kolibri",
-      "reserve",
-      "small",
-      "upside",
-      "virtual"
-    ],
-    "ts": 1790273655.6941879
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/redbird-capital-to-acquire-majority-stake-in-puck-at-250-million-valuation-memo-says-4915973",
-    "title": "RedBird Capital to acquire majority stake in Puck at $250 million valuation, memo says",
-    "tokens": [
-      "250",
-      "acquire",
-      "capital",
-      "majority",
-      "memo",
-      "million",
-      "puck",
-      "redbird",
-      "stake",
-      "valuation"
-    ],
-    "ts": 1790273663.0142646
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/silgan-holdings-stock-hits-52week-low-at-3567-usd-93CH-4915972",
-    "title": "Silgan Holdings stock hits 52-week low at 35.67 USD",
-    "tokens": [
-      "hits",
-      "holdings",
-      "low",
-      "silgan",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790273667.0297084
-  },
-  {
     "id": "oilprice-article-45595",
     "title": "Why Are Diesel Prices So High?",
     "tokens": [
@@ -22985,5 +22871,112 @@
       "zuckerberg"
     ],
     "ts": 1790642856.6098797
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/gold-steadies-near-sevenweek-low-after-4-plunge-as-fed-hike-bets-rise-4921480",
+    "title": "Gold steadies near seven-week low after 4% plunge as Fed hike bets rise",
+    "tokens": [
+      "bets",
+      "fed",
+      "gold",
+      "hike",
+      "low",
+      "near",
+      "plunge",
+      "rise",
+      "seven",
+      "steadies",
+      "week"
+    ],
+    "ts": 1790645255.865569
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/monopar-therapeutics-ceo-robinson-sells-25m-in-stock-93CH-4921477",
+    "title": "Monopar Therapeutics CEO Robinson sells $2.5m in stock",
+    "tokens": [
+      "ceo",
+      "monopar",
+      "robinson",
+      "sells",
+      "stock",
+      "therapeutics"
+    ],
+    "ts": 1790645263.5632277
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/photronics-director-lee-sells-221250-in-company-stock-93CH-4921476",
+    "title": "Photronics director Lee sells $221,250 in company stock",
+    "tokens": [
+      "221",
+      "250",
+      "company",
+      "director",
+      "lee",
+      "photronics",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790645271.0706089
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/south-korean-exports-seen-rising-for-16th-month-on-solid-ai-chip-demand-reuters-poll-4921475",
+    "title": "South Korean exports seen rising for 16th month on solid AI chip demand: Reuters poll",
+    "tokens": [
+      "16th",
+      "chip",
+      "demand",
+      "exports",
+      "korean",
+      "month",
+      "poll",
+      "reuters",
+      "rising",
+      "seen",
+      "solid",
+      "south"
+    ],
+    "ts": 1790645279.7535574
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/csl-partners-with-aws-on-ai-for-drug-research-and-development-93CH-4921474",
+    "title": "CSL partners with AWS on AI for drug research and development",
+    "tokens": [
+      "aws",
+      "csl",
+      "development",
+      "drug",
+      "partners",
+      "research"
+    ],
+    "ts": 1790645287.6763034
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-after-soaring-yields-ai-jitters-dent-wall-st-4921473",
+    "title": "U.S. stock futures flat after soaring yields, AI jitters dent Wall St",
+    "tokens": [
+      "dent",
+      "flat",
+      "futures",
+      "jitters",
+      "soaring",
+      "stock",
+      "wall",
+      "yields"
+    ],
+    "ts": 1790645296.0655625
+  },
+  {
+    "id": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers",
+    "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
+    "tokens": [
+      "50m",
+      "bitget",
+      "blocked",
+      "hackers",
+      "intents",
+      "near",
+      "tied"
+    ],
+    "ts": 1790645305.4465363
   }
 ]

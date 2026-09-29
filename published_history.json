@@ -1,97 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/delta-air-lines-declares-quarterly-dividend-of-0215-per-share-93CH-4916202",
-    "title": "Delta Air Lines declares quarterly dividend of $0.215 per share",
-    "tokens": [
-      "215",
-      "air",
-      "declares",
-      "delta",
-      "dividend",
-      "lines",
-      "per",
-      "quarterly",
-      "share"
-    ],
-    "ts": 1790282787.7848794
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-scholastic-stock-tumbling-today-93CH-4916201",
-    "title": "Why is Scholastic stock tumbling today?",
-    "tokens": [
-      "scholastic",
-      "stock",
-      "today",
-      "tumbling",
-      "why"
-    ],
-    "ts": 1790282795.9174786
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs",
-    "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
-    "tokens": [
-      "2007",
-      "bitcoin",
-      "highs",
-      "hit",
-      "ondo",
-      "price",
-      "rallies",
-      "steadies",
-      "treasury",
-      "yields"
-    ],
-    "ts": 1790282805.005753
-  },
-  {
-    "id": "WP-MKTW-0005252615",
-    "title": "Costco earnings beat expectations, thanks to tariff refunds",
-    "tokens": [
-      "beat",
-      "costco",
-      "earnings",
-      "expectations",
-      "refunds",
-      "tariff",
-      "thanks"
-    ],
-    "ts": 1790283435.4572725
-  },
-  {
-    "id": "WP-MKTW-0005252461",
-    "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
-    "tokens": [
-      "according",
-      "here",
-      "how",
-      "morgan",
-      "next",
-      "portfolio",
-      "position",
-      "stanley",
-      "wave",
-      "your"
-    ],
-    "ts": 1790283444.2090397
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/alexandria-real-estate-equities-amends-5-billion-revolving-credit-facility-93CH-4916245",
-    "title": "Alexandria Real Estate Equities amends $5 billion revolving credit facility",
-    "tokens": [
-      "alexandria",
-      "amends",
-      "billion",
-      "credit",
-      "equities",
-      "estate",
-      "facility",
-      "real",
-      "revolving"
-    ],
-    "ts": 1790283452.1560297
-  },
-  {
     "id": "https://www.investing.com/news/company-news/utah-medical-offers-to-buy-back-shares-at-75-premium-93CH-4916244",
     "title": "Utah Medical offers to buy back shares at $75 premium",
     "tokens": [
@@ -22949,5 +22857,101 @@
       "swedish"
     ],
     "ts": 1790665186.6415408
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-hornbach-group-posts-solid-q2-2026-sales-growth-93CH-4921682",
+    "title": "Earnings call transcript: HORNBACH Group posts solid Q2 2026 sales growth",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "group",
+      "growth",
+      "hornbach",
+      "posts",
+      "sales",
+      "solid",
+      "transcript"
+    ],
+    "ts": 1790667778.4246259
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-hornbach-posts-solid-h1-2026-results-keeps-guidance-cautious-93CH-4921681",
+    "title": "Earnings call transcript: HORNBACH posts solid H1 2026 results, keeps guidance cautious",
+    "tokens": [
+      "2026",
+      "call",
+      "cautious",
+      "earnings",
+      "guidance",
+      "hornbach",
+      "keeps",
+      "posts",
+      "results",
+      "solid",
+      "transcript"
+    ],
+    "ts": 1790667786.9793947
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/defence-therapeutics-appoints-sherry-aulin-to-board-93CH-4921678",
+    "title": "Defence Therapeutics appoints Sherry Aulin to board",
+    "tokens": [
+      "appoints",
+      "aulin",
+      "board",
+      "defence",
+      "sherry",
+      "therapeutics"
+    ],
+    "ts": 1790667794.865563
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-uk-shop-price-inflation-slows-4921672",
+    "title": "FTSE 100 today: Stocks edge up as UK shop price inflation slows",
+    "tokens": [
+      "100",
+      "edge",
+      "ftse",
+      "inflation",
+      "price",
+      "shop",
+      "slows",
+      "stocks",
+      "today"
+    ],
+    "ts": 1790667804.1956146
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bernstein-downgrades-pan-pacific-international-stock-rating-on-margin-pressure-93CH-4921671",
+    "title": "Bernstein downgrades Pan Pacific International stock rating on margin pressure",
+    "tokens": [
+      "bernstein",
+      "downgrades",
+      "international",
+      "margin",
+      "pacific",
+      "pan",
+      "pressure",
+      "rating",
+      "stock"
+    ],
+    "ts": 1790667813.989967
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/china-automaker-faw-to-explore-broader-cooperation-with-gac-after-jv-stake-deal-4921670",
+    "title": "China automaker FAW to explore broader cooperation with GAC after JV stake deal",
+    "tokens": [
+      "automaker",
+      "broader",
+      "china",
+      "cooperation",
+      "deal",
+      "explore",
+      "faw",
+      "gac",
+      "stake"
+    ],
+    "ts": 1790667822.2902136
   }
 ]

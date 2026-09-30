@@ -1,47 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/cdw-completes-acquisition-of-data-and-ai-firm-lovelytics-93CH-4918238",
-    "title": "CDW completes acquisition of data and AI firm Lovelytics",
-    "tokens": [
-      "acquisition",
-      "cdw",
-      "completes",
-      "data",
-      "firm",
-      "lovelytics"
-    ],
-    "ts": 1790375211.838236
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/tidewater-enters-guarantee-agreement-for-bndes-construction-loans-93CH-4918228",
-    "title": "Tidewater enters guarantee agreement for BNDES construction loans",
-    "tokens": [
-      "agreement",
-      "bndes",
-      "construction",
-      "enters",
-      "guarantee",
-      "loans",
-      "tidewater"
-    ],
-    "ts": 1790375218.8315177
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/marygold-companies-enters-agreement-to-go-private-in-deal-with-madison-dearborn-93CH-4918226",
-    "title": "Marygold Companies enters agreement to go private in deal with Madison Dearborn",
-    "tokens": [
-      "agreement",
-      "companies",
-      "deal",
-      "dearborn",
-      "enters",
-      "madison",
-      "marygold",
-      "private"
-    ],
-    "ts": 1790375222.8485758
-  },
-  {
     "id": "fe3908e5-a758-4fce-b2a9-c1e7c6073eb9",
     "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
     "tokens": [
@@ -22962,5 +22920,58 @@
       "whopping"
     ],
     "ts": 1790758730.505305
+  },
+  {
+    "id": "WP-MKTW-0005261118",
+    "title": "There’s a new Wall Street TACO index — and this one is saying it’s time for Trump to strike a deal",
+    "tokens": [
+      "deal",
+      "index",
+      "one",
+      "saying",
+      "street",
+      "strike",
+      "taco",
+      "there",
+      "time",
+      "trump",
+      "wall"
+    ],
+    "ts": 1790759969.2351665
+  },
+  {
+    "id": "WP-MKTW-0005260936",
+    "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+    "tokens": [
+      "000",
+      "108",
+      "doing",
+      "earn",
+      "right",
+      "still",
+      "thing",
+      "working",
+      "year"
+    ],
+    "ts": 1790759977.2746327
+  },
+  {
+    "id": "WP-MKTW-0005255945",
+    "title": "Netflix stars Nick and Vanessa Lachey list $8.1 million L.A. home they bought from Naomi Osaka",
+    "tokens": [
+      "bought",
+      "home",
+      "lachey",
+      "list",
+      "million",
+      "naomi",
+      "netflix",
+      "nick",
+      "osaka",
+      "stars",
+      "they",
+      "vanessa"
+    ],
+    "ts": 1790759985.2357671
   }
 ]

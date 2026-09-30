@@ -1,90 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/ooma-stock-rating-held-at-market-perform-by-citizens-ahead-of-investor-day-93CH-4919626",
-    "title": "Ooma stock rating held at Market Perform by Citizens ahead of investor day",
-    "tokens": [
-      "ahead",
-      "citizens",
-      "day",
-      "held",
-      "investor",
-      "market",
-      "ooma",
-      "perform",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790588180.2404156
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nvidia-releases-aisafety-softwareit-says-could-have-stopped-hugging-face-hack-4919614",
-    "title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack",
-    "tokens": [
-      "could",
-      "face",
-      "hack",
-      "hugging",
-      "nvidia",
-      "releases",
-      "safety",
-      "software",
-      "stopped"
-    ],
-    "ts": 1790588188.8410017
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/totalenergies-rises-after-dividend-buyback-plans-and-output-target-through-2035-4919618",
-    "title": "TotalEnergies rises after dividend, buyback plans and output target through 2035",
-    "tokens": [
-      "2035",
-      "buyback",
-      "dividend",
-      "output",
-      "plans",
-      "rises",
-      "target",
-      "through",
-      "totalenergies"
-    ],
-    "ts": 1790588196.7433622
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tullow-oil-reports-strong-firsthalf-production-upgrades-cash-flow-guidance-93CH-4919613",
-    "title": "Tullow Oil reports strong first-half production, upgrades cash flow guidance",
-    "tokens": [
-      "cash",
-      "first",
-      "flow",
-      "guidance",
-      "half",
-      "oil",
-      "production",
-      "reports",
-      "strong",
-      "tullow",
-      "upgrades"
-    ],
-    "ts": 1790588204.8356037
-  },
-  {
-    "id": "3c6eb129-ebf3-4e00-944a-9add2c9748ab",
-    "title": "Bitcoin bears pay to bet on further declines as futures positions near yearly lows",
-    "tokens": [
-      "bears",
-      "bet",
-      "bitcoin",
-      "declines",
-      "further",
-      "futures",
-      "lows",
-      "near",
-      "pay",
-      "positions",
-      "yearly"
-    ],
-    "ts": 1790588215.2455635
-  },
-  {
     "id": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth",
     "title": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
     "tokens": [
@@ -22907,5 +22822,87 @@
       "trading"
     ],
     "ts": 1790807453.7021484
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-918830-in-stock-in-late-september-93CH-4926042",
+    "title": "Fastly CTO Artur Bergman sells $918,830 in stock in late September",
+    "tokens": [
+      "830",
+      "918",
+      "artur",
+      "bergman",
+      "cto",
+      "fastly",
+      "late",
+      "sells",
+      "september",
+      "stock"
+    ],
+    "ts": 1790808430.7166219
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sound-financial-bancorp-ceo-laura-stewart-sells-41391-common-stock-93CH-4926041",
+    "title": "Sound financial Bancorp CEO Laura Stewart sells $41,391 common stock",
+    "tokens": [
+      "391",
+      "bancorp",
+      "ceo",
+      "common",
+      "financial",
+      "laura",
+      "sells",
+      "sound",
+      "stewart",
+      "stock"
+    ],
+    "ts": 1790808438.8435733
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/related-nextera-plan-22b-texas-power-plant-for-data-center-93CH-4926032",
+    "title": "Related, NextEra plan $22B Texas power plant for data center",
+    "tokens": [
+      "22b",
+      "center",
+      "data",
+      "nextera",
+      "plan",
+      "plant",
+      "power",
+      "related",
+      "texas"
+    ],
+    "ts": 1790808446.7979658
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/progress-software-q3-2026-slides-eps-beats-domo-acquisition-detailed-93CH-4926030",
+    "title": "Progress Software Q3 2026 slides: EPS beats, Domo acquisition detailed",
+    "tokens": [
+      "2026",
+      "acquisition",
+      "beats",
+      "detailed",
+      "domo",
+      "eps",
+      "progress",
+      "slides",
+      "software"
+    ],
+    "ts": 1790808455.5148556
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/progress-q3-2026-slides-eps-beats-domo-acquisition-reshapes-outlook-93CH-4926028",
+    "title": "Progress Q3 2026 slides: EPS beats, Domo acquisition reshapes outlook",
+    "tokens": [
+      "2026",
+      "acquisition",
+      "beats",
+      "domo",
+      "eps",
+      "outlook",
+      "progress",
+      "reshapes",
+      "slides"
+    ],
+    "ts": 1790808459.5317497
   }
 ]

@@ -1,109 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/top-dividend-aristocrats-chevron-emerson-and-albemarle-lead-on-qualityadjusted-fundamentals-93CH-4917970",
-    "title": "Top dividend aristocrats: Chevron, Emerson, and Albemarle lead on quality-adjusted fundamentals",
-    "tokens": [
-      "adjusted",
-      "albemarle",
-      "aristocrats",
-      "chevron",
-      "dividend",
-      "emerson",
-      "fundamentals",
-      "lead",
-      "quality",
-      "top"
-    ],
-    "ts": 1790363374.268159
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/dycom-industries-stock-hits-52week-low-at-2720-usd-93CH-4917969",
-    "title": "Dycom Industries stock hits 52-week low at 272.0 USD",
-    "tokens": [
-      "272",
-      "dycom",
-      "hits",
-      "industries",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790363378.2843325
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/rivian-vs-lucid-which-ev-stock-has-the-stronger-riskreward-93CH-4917968",
-    "title": "Rivian vs Lucid: which EV stock has the stronger risk-reward",
-    "tokens": [
-      "lucid",
-      "reward",
-      "risk",
-      "rivian",
-      "stock",
-      "stronger",
-      "which"
-    ],
-    "ts": 1790363382.5718648
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/top-chip-stocks-axt-and-nvidia-lead-on-technical-signals-93CH-4917967",
-    "title": "Top chip stocks: AXT and NVIDIA lead on technical signals",
-    "tokens": [
-      "axt",
-      "chip",
-      "lead",
-      "nvidia",
-      "signals",
-      "stocks",
-      "technical",
-      "top"
-    ],
-    "ts": 1790363389.8720934
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/bending-spoons-prices-125-billion-term-loan-addon-93CH-4917966",
-    "title": "Bending Spoons prices $1.25 billion term loan add-on",
-    "tokens": [
-      "add",
-      "bending",
-      "billion",
-      "loan",
-      "prices",
-      "spoons",
-      "term"
-    ],
-    "ts": 1790363397.1096988
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-humana-stock-surging-today-93CH-4917965",
-    "title": "Why is Humana stock surging today?",
-    "tokens": [
-      "humana",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790363401.1243944
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/greystone-provides-35-4-million-in-freddie-mac-financing-for-multifamily-property-in-naperville-illinois-1036575418",
-    "title": "Greystone Provides $35.4 Million in Freddie Mac Financing for Multifamily Property in Naperville, Illinois",
-    "tokens": [
-      "financing",
-      "freddie",
-      "greystone",
-      "illinois",
-      "mac",
-      "million",
-      "multifamily",
-      "naperville",
-      "property",
-      "provides"
-    ],
-    "ts": 1790363406.2689087
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-deadline-alert-taboola.com-ltd.-tbla-investors-have-until-october-20-2026-to-seek-a-lead-plaintiff-role-1036575419",
     "title": "Kaplan Fox Deadline Alert: Taboola.com Ltd. (TBLA) Investors Have Until October 20, 2026 to Seek a Lead Plaintiff Role",
     "tokens": [
@@ -23019,5 +22915,105 @@
       "three"
     ],
     "ts": 1790735339.5023744
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/kkr-sells-japan-and-korea-storage-tank-assets-93CH-4924038",
+    "title": "KKR sells Japan and Korea storage tank assets",
+    "tokens": [
+      "assets",
+      "japan",
+      "kkr",
+      "korea",
+      "sells",
+      "storage",
+      "tank"
+    ],
+    "ts": 1790736304.092715
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/abeona-therapeutics-cco-madhav-sells-25272-in-stock-93CH-4924037",
+    "title": "Abeona Therapeutics CCO Madhav sells $25,272 in stock",
+    "tokens": [
+      "272",
+      "abeona",
+      "cco",
+      "madhav",
+      "sells",
+      "stock",
+      "therapeutics"
+    ],
+    "ts": 1790736314.6535869
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/abeona-therapeutics-svp-sells-34681-in-company-stock-93CH-4924036",
+    "title": "Abeona Therapeutics SVP sells $34,681 in company stock",
+    "tokens": [
+      "681",
+      "abeona",
+      "company",
+      "sells",
+      "stock",
+      "svp",
+      "therapeutics"
+    ],
+    "ts": 1790736322.9556675
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-nidec-stock-surging-today-93CH-4924033",
+    "title": "Why is Nidec stock surging today?",
+    "tokens": [
+      "nidec",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790736326.9674587
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/markets-slide-on-dollar-pressure--but-this-solar-name-just-jumped-1084-today-4924031",
+    "title": "Markets slide on dollar pressure - but this solar name just jumped 10.84% today",
+    "tokens": [
+      "dollar",
+      "jumped",
+      "just",
+      "markets",
+      "name",
+      "pressure",
+      "slide",
+      "solar",
+      "today"
+    ],
+    "ts": 1790736331.3112235
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/chinese-factory-activity-returns-to-growth-in-september-amid-ai-boom-4924030",
+    "title": "Chinese factory activity returns to growth in September amid AI boom",
+    "tokens": [
+      "activity",
+      "boom",
+      "chinese",
+      "factory",
+      "growth",
+      "returns",
+      "september"
+    ],
+    "ts": 1790736335.324043
+  },
+  {
+    "id": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan",
+    "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan",
+    "tokens": [
+      "binance",
+      "japan",
+      "lets",
+      "merchants",
+      "pay",
+      "paypay",
+      "spend",
+      "usdt",
+      "visitors"
+    ],
+    "ts": 1790736340.3263996
   }
 ]

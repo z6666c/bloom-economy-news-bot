@@ -1,26 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005254965",
-    "title": "These under-the-radar risk factors may explain why some older people are more vulnerable to scams",
-    "tokens": [
-      "explain",
-      "factors",
-      "may",
-      "more",
-      "older",
-      "people",
-      "radar",
-      "risk",
-      "scams",
-      "some",
-      "these",
-      "under",
-      "vulnerable",
-      "why"
-    ],
-    "ts": 1790367979.1778023
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/moodys-upgrades-cushman--wakefield-rating-to-ba3-on-debt-reduction-4918061",
     "title": "Moody’s upgrades Cushman & Wakefield rating to Ba3 on debt reduction",
     "tokens": [
@@ -22976,5 +22955,20 @@
       "xrp"
     ],
     "ts": 1790747028.6008153
+  },
+  {
+    "id": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters",
+    "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
+    "tokens": [
+      "40b",
+      "advanced",
+      "funding",
+      "kalshi",
+      "raise",
+      "reuters",
+      "talks",
+      "valuation"
+    ],
+    "ts": 1790747827.4250646
   }
 ]

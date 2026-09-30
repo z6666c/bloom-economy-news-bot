@@ -1,97 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-deadline-alert-taboola.com-ltd.-tbla-investors-have-until-october-20-2026-to-seek-a-lead-plaintiff-role-1036575419",
-    "title": "Kaplan Fox Deadline Alert: Taboola.com Ltd. (TBLA) Investors Have Until October 20, 2026 to Seek a Lead Plaintiff Role",
-    "tokens": [
-      "2026",
-      "alert",
-      "com",
-      "deadline",
-      "fox",
-      "investors",
-      "kaplan",
-      "lead",
-      "ltd",
-      "october",
-      "plaintiff",
-      "role",
-      "seek",
-      "taboola",
-      "tbla",
-      "until"
-    ],
-    "ts": 1790363413.9981346
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-encourages-bloom-energy-corporation-be-investors-to-take-immediate-action-in-the-securities-class-action-before-september-28-2026-1036575420",
-    "title": "Kaplan Fox Encourages Bloom Energy Corporation (BE) Investors to Take Immediate Action in the Securities Class Action Before September 28, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "before",
-      "bloom",
-      "class",
-      "corporation",
-      "encourages",
-      "energy",
-      "fox",
-      "immediate",
-      "investors",
-      "kaplan",
-      "securities",
-      "september",
-      "take"
-    ],
-    "ts": 1790363421.6690063
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-reminds-alarum-technologies-ltd.-alar-investors-of-an-approaching-securities-class-action-deadline-on-october-5-2026-1036575421",
-    "title": "Kaplan Fox Reminds Alarum Technologies Ltd. (ALAR) Investors of an Approaching Securities Class Action Deadline on October 5, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "alar",
-      "alarum",
-      "approaching",
-      "class",
-      "deadline",
-      "fox",
-      "investors",
-      "kaplan",
-      "ltd",
-      "october",
-      "reminds",
-      "securities",
-      "technologies"
-    ],
-    "ts": 1790363429.274399
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-encourages-alibaba-group-holding-limited-baba-investors-who-suffered-losses-to-seek-a-leadership-role-before-october-5-2026-1036575380",
-    "title": "Kaplan Fox Encourages Alibaba Group Holding Limited (BABA) Investors Who Suffered Losses to Seek a Leadership Role Before October 5, 2026",
-    "tokens": [
-      "2026",
-      "alibaba",
-      "baba",
-      "before",
-      "encourages",
-      "fox",
-      "group",
-      "holding",
-      "investors",
-      "kaplan",
-      "leadership",
-      "limited",
-      "losses",
-      "october",
-      "role",
-      "seek",
-      "suffered",
-      "who"
-    ],
-    "ts": 1790363436.586726
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/taiwan-excellence-s-galaxy-amusement-park-comes-to-life-at-taiwan-expo-usa-2026-1036575322",
     "title": "Taiwan Excellence’s “Galaxy Amusement Park” Comes to Life at Taiwan Expo USA 2026",
     "tokens": [
@@ -23015,5 +22923,64 @@
       "visitors"
     ],
     "ts": 1790736340.3263996
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/abeona-therapeutics-ceo-seshadri-sells-101091-in-shares-93CH-4924044",
+    "title": "Abeona Therapeutics CEO Seshadri sells $101,091 in shares",
+    "tokens": [
+      "091",
+      "101",
+      "abeona",
+      "ceo",
+      "sells",
+      "seshadri",
+      "shares",
+      "therapeutics"
+    ],
+    "ts": 1790737137.9196236
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/abeona-therapeutics-cfo-joseph-vazzano-sells-47385-in-company-stock-93CH-4924043",
+    "title": "Abeona Therapeutics CFO Joseph Vazzano sells $47,385 in company stock",
+    "tokens": [
+      "385",
+      "abeona",
+      "cfo",
+      "company",
+      "joseph",
+      "sells",
+      "stock",
+      "therapeutics",
+      "vazzano"
+    ],
+    "ts": 1790737145.3039472
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-cspc-pharmaceutical-stock-surging-today-93CH-4924042",
+    "title": "Why is CSPC Pharmaceutical stock surging today?",
+    "tokens": [
+      "cspc",
+      "pharmaceutical",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790737154.9159343
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/china-to-respond-with-strong-policy-toolbox-if-eu-steps-up-curbs-gt-reports-4924041",
+    "title": "China to respond with ’strong policy toolbox’ if EU steps up curbs, GT reports",
+    "tokens": [
+      "china",
+      "curbs",
+      "policy",
+      "reports",
+      "respond",
+      "steps",
+      "strong",
+      "toolbox"
+    ],
+    "ts": 1790737163.3977494
   }
 ]

@@ -1,116 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/moodys-upgrades-cushman--wakefield-rating-to-ba3-on-debt-reduction-4918061",
-    "title": "Moody’s upgrades Cushman & Wakefield rating to Ba3 on debt reduction",
-    "tokens": [
-      "ba3",
-      "cushman",
-      "debt",
-      "moody",
-      "rating",
-      "reduction",
-      "upgrades",
-      "wakefield"
-    ],
-    "ts": 1790367986.4447641
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/innovation-beverage-regains-nasdaq-compliance-faces-equity-issue-93CH-4918060",
-    "title": "Innovation Beverage regains Nasdaq compliance, faces equity issue",
-    "tokens": [
-      "beverage",
-      "compliance",
-      "equity",
-      "faces",
-      "innovation",
-      "issue",
-      "nasdaq",
-      "regains"
-    ],
-    "ts": 1790367993.4714968
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/circle-cfo-jeremy-foxgeen-to-step-down-after-5-years-93CH-4918059",
-    "title": "Circle CFO Jeremy Fox-Geen to step down after 5 years",
-    "tokens": [
-      "cfo",
-      "circle",
-      "fox",
-      "geen",
-      "jeremy",
-      "step",
-      "years"
-    ],
-    "ts": 1790368000.440568
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/fidelis-partnership-files-for-us-ipo-4918053",
-    "title": "Fidelis Partnership files for US IPO",
-    "tokens": [
-      "fidelis",
-      "files",
-      "ipo",
-      "partnership"
-    ],
-    "ts": 1790368007.3058145
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/moodys-upgrades-brinker-to-ba1-on-chilis-growth-and-debt-reduction-4918050",
-    "title": "Moody’s upgrades Brinker to Ba1 on Chili’s growth and debt reduction",
-    "tokens": [
-      "ba1",
-      "brinker",
-      "chili",
-      "debt",
-      "growth",
-      "moody",
-      "reduction",
-      "upgrades"
-    ],
-    "ts": 1790368014.4130616
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/freedom-broker-initiates-autoliv-stock-coverage-with-buy-rating-93CH-4918049",
-    "title": "Freedom Broker initiates Autoliv stock coverage with buy rating",
-    "tokens": [
-      "autoliv",
-      "broker",
-      "buy",
-      "coverage",
-      "freedom",
-      "initiates",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790368023.7888412
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/klx-energy-services-raises-372m-in-rights-offering-93CH-4918048",
-    "title": "KLX Energy Services raises $37.2M in rights offering",
-    "tokens": [
-      "energy",
-      "klx",
-      "offering",
-      "raises",
-      "rights",
-      "services"
-    ],
-    "ts": 1790368031.2244995
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/sysco-closes-c15-billion-senior-notes-offering-93CH-4918047",
-    "title": "Sysco closes C$1.5 billion senior notes offering",
-    "tokens": [
-      "billion",
-      "closes",
-      "notes",
-      "offering",
-      "senior",
-      "sysco"
-    ],
-    "ts": 1790368035.2395751
-  },
-  {
     "id": "https://www.investing.com/news/company-news/hub-cyber-security-receives-nasdaq-delisting-warning-93CH-4918046",
     "title": "HUB Cyber Security receives Nasdaq delisting warning",
     "tokens": [
@@ -22970,5 +22859,129 @@
       "valuation"
     ],
     "ts": 1790747827.4250646
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/uk-business-confidence-hits-17month-low-as-middle-east-tensions-lift-costs-93CH-4924127",
+    "title": "UK business confidence hits 17-month low as Middle East tensions lift costs",
+    "tokens": [
+      "business",
+      "confidence",
+      "costs",
+      "east",
+      "hits",
+      "lift",
+      "low",
+      "middle",
+      "month",
+      "tensions"
+    ],
+    "ts": 1790749138.075285
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/skistar-fy-operating-profit-rises-11-as-mountain-demand-grows-4924126",
+    "title": "SkiStar FY operating profit rises 11% as mountain demand grows",
+    "tokens": [
+      "demand",
+      "grows",
+      "mountain",
+      "operating",
+      "profit",
+      "rises",
+      "skistar"
+    ],
+    "ts": 1790749146.7489102
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/top-china-biopharma-stocks-to-watch-according-to-bernstein-4924125",
+    "title": "Top China Biopharma Stocks to Watch, According to Bernstein",
+    "tokens": [
+      "according",
+      "bernstein",
+      "biopharma",
+      "china",
+      "stocks",
+      "top",
+      "watch"
+    ],
+    "ts": 1790749156.1677883
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australias-metrics-freezes-some-fund-redemptions-in-sign-of-private-credit-market-stress-4924093",
+    "title": "Australia’s Metrics freezes some fund redemptions in sign of private credit market stress",
+    "tokens": [
+      "australia",
+      "credit",
+      "freezes",
+      "fund",
+      "market",
+      "metrics",
+      "private",
+      "redemptions",
+      "sign",
+      "some",
+      "stress"
+    ],
+    "ts": 1790749164.718603
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-britain-should-consider-rejoining-european-union-93CH-4924088",
+    "title": "UK PM Burnham says Britain should consider rejoining European Union",
+    "tokens": [
+      "britain",
+      "burnham",
+      "consider",
+      "european",
+      "rejoining",
+      "should",
+      "union"
+    ],
+    "ts": 1790749172.6441479
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/abbvies-zumilokibart-meets-phase-2-atopic-dermatitis-endpoint-93CH-4924087",
+    "title": "AbbVie’s zumilokibart meets phase 2 atopic dermatitis endpoint",
+    "tokens": [
+      "abbvie",
+      "atopic",
+      "dermatitis",
+      "endpoint",
+      "meets",
+      "phase",
+      "zumilokibart"
+    ],
+    "ts": 1790749182.4735036
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/deepseek-partners-with-huawei-on-chip-programming-tools-amid-pivot-from-nvidia-4924086",
+    "title": "DeepSeek ties up with Huawei on chip programming tools amid pivot from Nvidia",
+    "tokens": [
+      "chip",
+      "deepseek",
+      "huawei",
+      "nvidia",
+      "pivot",
+      "programming",
+      "ties",
+      "tools"
+    ],
+    "ts": 1790749190.6088152
+  },
+  {
+    "id": "ca7c5726-b83c-4cc8-a5e2-461fdcac00e0",
+    "title": "Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps",
+    "tokens": [
+      "10x",
+      "agent",
+      "announces",
+      "around",
+      "clock",
+      "crypto",
+      "customers",
+      "perps",
+      "plus",
+      "robinhood",
+      "trades"
+    ],
+    "ts": 1790749199.4592333
   }
 ]

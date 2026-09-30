@@ -1,39 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/australias-ingenia-jumps-on-improved-15-bln-warburg-pincus-bid-4919330",
-    "title": "Australia’s Ingenia jumps on improved $1.5 bln Warburg Pincus bid",
-    "tokens": [
-      "australia",
-      "bid",
-      "bln",
-      "improved",
-      "ingenia",
-      "jumps",
-      "pincus",
-      "warburg"
-    ],
-    "ts": 1790574424.4158468
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/major-australian-private-lender-suspends-three-asx-funds-cuts-asset-values-after-audit-4919329",
-    "title": "Major Australian private lender suspends three ASX funds, cuts asset values after audit",
-    "tokens": [
-      "asset",
-      "asx",
-      "audit",
-      "australian",
-      "cuts",
-      "funds",
-      "lender",
-      "major",
-      "private",
-      "suspends",
-      "three",
-      "values"
-    ],
-    "ts": 1790574431.418835
-  },
-  {
     "id": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg",
     "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
     "tokens": [
@@ -22939,5 +22905,41 @@
       "top"
     ],
     "ts": 1790797345.1935234
+  },
+  {
+    "id": "WP-MKTW-0005260210",
+    "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+    "tokens": [
+      "biggest",
+      "bond",
+      "generation",
+      "global",
+      "investors",
+      "jump",
+      "post",
+      "rattles",
+      "rout",
+      "yields"
+    ],
+    "ts": 1790798102.0611093
+  },
+  {
+    "id": "WP-MKTW-0005262761",
+    "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
+    "tokens": [
+      "america",
+      "bond",
+      "corporate",
+      "debt",
+      "higher",
+      "how",
+      "mega",
+      "paramount",
+      "reveals",
+      "sale",
+      "squeezing",
+      "yields"
+    ],
+    "ts": 1790798110.237535
   }
 ]

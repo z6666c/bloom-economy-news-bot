@@ -1,213 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/nvidia-evp-timothy-teter-sells-678m-in-shares-93CH-4918697",
-    "title": "NVIDIA EVP Timothy Teter sells $6.78m in shares",
-    "tokens": [
-      "78m",
-      "evp",
-      "nvidia",
-      "sells",
-      "shares",
-      "teter",
-      "timothy"
-    ],
-    "ts": 1790473987.6419601
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/hershey-trust-co-sells-505-million-in-hershey-co-stock-93CH-4918695",
-    "title": "Hershey Trust Co. sells $5.05 million in Hershey Co. stock",
-    "tokens": [
-      "hershey",
-      "million",
-      "sells",
-      "stock",
-      "trust"
-    ],
-    "ts": 1790473995.3464441
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/onkure-therapeutics-president-and-ceo-saccomano-sells-258-in-stock-93CH-4918696",
-    "title": "OnKure Therapeutics president and CEO Saccomano sells $258 in stock",
-    "tokens": [
-      "258",
-      "ceo",
-      "onkure",
-      "president",
-      "saccomano",
-      "sells",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1790474002.4094043
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/onkure-therapeutics-cfo-jason-leverone-sells-898-in-stock-93CH-4918690",
-    "title": "OnKure Therapeutics CFO Jason Leverone sells $898 in stock",
-    "tokens": [
-      "898",
-      "cfo",
-      "jason",
-      "leverone",
-      "onkure",
-      "sells",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1790474009.2709773
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/openai-agents-aggressively-accessed-un-data-website-more-than-16000-times-4918688",
-    "title": "OpenAI agents aggressively accessed UN data website more than 16,000 times",
-    "tokens": [
-      "000",
-      "accessed",
-      "agents",
-      "aggressively",
-      "data",
-      "more",
-      "openai",
-      "times",
-      "website"
-    ],
-    "ts": 1790474016.288683
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/hims--hers-cfo-okupe-sells-876846-of-hims-stock-93CH-4918738",
-    "title": "Hims & Hers CFO Okupe sells $876,846 of HIMS stock",
-    "tokens": [
-      "846",
-      "876",
-      "cfo",
-      "hers",
-      "hims",
-      "okupe",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790478689.4642518
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dorian-lpg-director-oivind-lorentzen-sells-114m-in-shares-93CH-4918737",
-    "title": "Dorian LPG director Oivind Lorentzen sells $1.14m in shares",
-    "tokens": [
-      "14m",
-      "director",
-      "dorian",
-      "lorentzen",
-      "lpg",
-      "oivind",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790478696.472276
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/infinity-natural-resources-director-buys-363777-in-stock-93CH-4918736",
-    "title": "Infinity Natural Resources director buys $363,777 in stock",
-    "tokens": [
-      "363",
-      "777",
-      "buys",
-      "director",
-      "infinity",
-      "natural",
-      "resources",
-      "stock"
-    ],
-    "ts": 1790478703.637758
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-212m-in-company-stock-93CH-4918725",
-    "title": "Fastly CTO Artur Bergman sells $2.12m in company stock",
-    "tokens": [
-      "12m",
-      "artur",
-      "bergman",
-      "company",
-      "cto",
-      "fastly",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790478710.5202372
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/grail-cfo-aaron-freidin-sells-382679-in-company-stock-93CH-4918724",
-    "title": "Grail CFO Aaron Freidin sells $382,679 in company stock",
-    "tokens": [
-      "382",
-      "679",
-      "aaron",
-      "cfo",
-      "company",
-      "freidin",
-      "grail",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790478717.5164177
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/alpha-compute-corp-president-villani-buys-44047-in-shares-93CH-4918723",
-    "title": "Alpha Compute Corp president Villani buys $44,047 in shares",
-    "tokens": [
-      "047",
-      "alpha",
-      "buys",
-      "compute",
-      "corp",
-      "president",
-      "shares",
-      "villani"
-    ],
-    "ts": 1790478725.8206105
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/grail-ceo-joshua-ofman-sells-60m-in-company-stock-on-sept-21-93CH-4918722",
-    "title": "Grail CEO Joshua Ofman sells $6.0m in company stock on Sept. 21",
-    "tokens": [
-      "ceo",
-      "company",
-      "grail",
-      "joshua",
-      "ofman",
-      "sells",
-      "sept",
-      "stock"
-    ],
-    "ts": 1790478732.8500984
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/swarmer-president-alexander-fink-sells-136m-in-stock-for-tax-obligation-93CH-4918719",
-    "title": "Swarmer president Alexander Fink sells $1.36m in stock for tax obligation",
-    "tokens": [
-      "36m",
-      "alexander",
-      "fink",
-      "obligation",
-      "president",
-      "sells",
-      "stock",
-      "swarmer",
-      "tax"
-    ],
-    "ts": 1790478741.091313
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/coinbase-director-marc-andreessen-sold-14-million-in-stock-93CH-4918750",
-    "title": "Coinbase director Marc Andreessen sold $1.4 million in stock",
-    "tokens": [
-      "andreessen",
-      "coinbase",
-      "director",
-      "marc",
-      "million",
-      "sold",
-      "stock"
-    ],
-    "ts": 1790479703.9789608
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/coinbase-cfo-alesia-haas-sells-801-million-in-class-a-common-stock-93CH-4918749",
     "title": "Coinbase CFO Alesia Haas sells $8.01 million in class a common stock",
     "tokens": [
@@ -22936,5 +22728,223 @@
       "tools"
     ],
     "ts": 1790772714.3352046
+  },
+  {
+    "id": "WP-MKTW-0005258959",
+    "title": "Here’s the most you should be spending on your car payment, whether you make $60,000 or over $150,000",
+    "tokens": [
+      "000",
+      "150",
+      "car",
+      "here",
+      "make",
+      "most",
+      "payment",
+      "should",
+      "spending",
+      "whether",
+      "you",
+      "your"
+    ],
+    "ts": 1790774079.9227164
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-santhera-h1-2026-meets-forecasts-as-sales-surge-93CH-4925249",
+    "title": "Earnings call transcript: Santhera H1 2026 meets forecasts as sales surge",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "forecasts",
+      "meets",
+      "sales",
+      "santhera",
+      "surge",
+      "transcript"
+    ],
+    "ts": 1790774088.034063
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/doordash-launches-dashos-platform-to-connect-restaurant-services-93CH-4925247",
+    "title": "DoorDash launches DashOS platform to connect restaurant services",
+    "tokens": [
+      "connect",
+      "dashos",
+      "doordash",
+      "launches",
+      "platform",
+      "restaurant",
+      "services"
+    ],
+    "ts": 1790774095.4762821
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/doordash-launches-text-ordering-and-drone-delivery-system-93CH-4925248",
+    "title": "DoorDash launches text ordering and drone delivery system",
+    "tokens": [
+      "delivery",
+      "doordash",
+      "drone",
+      "launches",
+      "ordering",
+      "system",
+      "text"
+    ],
+    "ts": 1790774103.4366438
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/medtronic-gains-regulatory-clearances-for-cardiac-software-93CH-4925246",
+    "title": "Medtronic gains regulatory clearances for cardiac software",
+    "tokens": [
+      "cardiac",
+      "clearances",
+      "gains",
+      "medtronic",
+      "regulatory",
+      "software"
+    ],
+    "ts": 1790774111.1506453
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/soundhound-ai-technology-deployed-in-kia-sorento-in-india-93CH-4925245",
+    "title": "SoundHound AI technology deployed in Kia Sorento in India",
+    "tokens": [
+      "deployed",
+      "india",
+      "kia",
+      "sorento",
+      "soundhound",
+      "technology"
+    ],
+    "ts": 1790774119.2537591
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/coreweave-launches-partner-network-for-ai-infrastructure-93CH-4925244",
+    "title": "CoreWeave launches partner network for AI infrastructure",
+    "tokens": [
+      "coreweave",
+      "infrastructure",
+      "launches",
+      "network",
+      "partner"
+    ],
+    "ts": 1790774128.243079
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ups-launches-supply-chain-risk-management-suite-93CH-4925243",
+    "title": "UPS launches supply chain risk management suite",
+    "tokens": [
+      "chain",
+      "launches",
+      "management",
+      "risk",
+      "suite",
+      "supply",
+      "ups"
+    ],
+    "ts": 1790774135.3826566
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/yiren-digital-q2-2026-slides-ai-gains-clash-with-widening-losses-93CH-4925242",
+    "title": "Yiren Digital Q2 2026 slides: AI gains clash with widening losses",
+    "tokens": [
+      "2026",
+      "clash",
+      "digital",
+      "gains",
+      "losses",
+      "slides",
+      "widening",
+      "yiren"
+    ],
+    "ts": 1790774145.165994
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/synopsys-amazon-web-services-sign-chip-design-licensing-deal-worth-more-than-1-billion-4925241",
+    "title": "Synopsys, Amazon Web Services sign chip design licensing deal worth more than $1 billion",
+    "tokens": [
+      "amazon",
+      "billion",
+      "chip",
+      "deal",
+      "design",
+      "licensing",
+      "more",
+      "services",
+      "sign",
+      "synopsys",
+      "web",
+      "worth"
+    ],
+    "ts": 1790774153.6715207
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/yiren-digital-q2-2026-slides-ai-gains-amid-transformation-losses-93CH-4925237",
+    "title": "Yiren Digital Q2 2026 slides: AI gains amid transformation losses",
+    "tokens": [
+      "2026",
+      "digital",
+      "gains",
+      "losses",
+      "slides",
+      "transformation",
+      "yiren"
+    ],
+    "ts": 1790774157.6881926
+  },
+  {
+    "id": "3ef1b591-c99d-4ff6-a3eb-dd83614698bb",
+    "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
+    "tokens": [
+      "brazil",
+      "cardano",
+      "cleaner",
+      "diesel",
+      "fuel",
+      "giant",
+      "jet",
+      "oil",
+      "state",
+      "tapped",
+      "track"
+    ],
+    "ts": 1790774162.2237344
+  },
+  {
+    "id": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis",
+    "title": "Singapore crypto activity grows 55% as broader region contracts",
+    "tokens": [
+      "activity",
+      "broader",
+      "contracts",
+      "crypto",
+      "grows",
+      "region",
+      "singapore"
+    ],
+    "ts": 1790774170.7020142
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+    "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+    "tokens": [
+      "accountability",
+      "board",
+      "capital",
+      "changes",
+      "enhance",
+      "federal",
+      "finalizes",
+      "public",
+      "reduce",
+      "related",
+      "requirements",
+      "reserve",
+      "stress",
+      "test",
+      "transparency",
+      "volatility"
+    ],
+    "ts": 1790774177.813331
   }
 ]

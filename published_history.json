@@ -1,84 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-roblox-stock-sliding-today-93CH-4917973",
-    "title": "Why is Roblox stock sliding today?",
-    "tokens": [
-      "roblox",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790364342.777667
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/best-large-us-bank-stocks-bac-leads-on-valuation-and-riskreward-93CH-4917972",
-    "title": "Best large U.S. bank stocks: BAC leads on valuation and risk/reward",
-    "tokens": [
-      "bac",
-      "bank",
-      "best",
-      "large",
-      "leads",
-      "reward",
-      "risk",
-      "stocks",
-      "valuation"
-    ],
-    "ts": 1790364346.422707
-  },
-  {
-    "id": "WP-MKTW-0005254238",
-    "title": "Trump’s ban on Canadian alcohol starts Tuesday, but these well-known brands will avoid it",
-    "tokens": [
-      "alcohol",
-      "avoid",
-      "ban",
-      "brands",
-      "canadian",
-      "known",
-      "starts",
-      "these",
-      "trump",
-      "tuesday",
-      "well"
-    ],
-    "ts": 1790365960.2001228
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/smart-ring-maker-ouras-ipo-is-about-four-times-oversubscribed--bloomberg-432SI-4918013",
-    "title": "Smart Ring Maker Oura’s IPO Is About Four Times Oversubscribed - Bloomberg",
-    "tokens": [
-      "about",
-      "bloomberg",
-      "four",
-      "ipo",
-      "maker",
-      "oura",
-      "oversubscribed",
-      "ring",
-      "smart",
-      "times"
-    ],
-    "ts": 1790365967.2808847
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/oura-ipo-said-to-draw-four-times-demand-as-orders-near-close-4918021",
-    "title": "Oura IPO said to draw four times demand as orders near close",
-    "tokens": [
-      "close",
-      "demand",
-      "draw",
-      "four",
-      "ipo",
-      "near",
-      "orders",
-      "oura",
-      "times"
-    ],
-    "ts": 1790365974.7676284
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/crispr-therapeutics-stock-analysis-pipeline-catalysts-vs-financial-reality-93CH-4918020",
     "title": "CRISPR Therapeutics stock analysis: pipeline catalysts vs. financial reality",
     "tokens": [
@@ -22981,5 +22902,84 @@
       "treatment"
     ],
     "ts": 1790743422.1231961
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/japans-tdk-taiyo-yuden-shares-rise-on-ai-electronics-partnership-4924064",
+    "title": "Japan’s TDK, Taiyo Yuden shares rise on AI electronics partnership",
+    "tokens": [
+      "electronics",
+      "japan",
+      "partnership",
+      "rise",
+      "shares",
+      "taiyo",
+      "tdk",
+      "yuden"
+    ],
+    "ts": 1790744290.554154
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/fed-rate-hike-bets-for-oct-fall-sharply-on-soft-data-dovish-comments-4924063",
+    "title": "Fed rate hike bets for Oct fall sharply on soft data, dovish comments",
+    "tokens": [
+      "bets",
+      "comments",
+      "data",
+      "dovish",
+      "fall",
+      "fed",
+      "hike",
+      "oct",
+      "rate",
+      "sharply",
+      "soft"
+    ],
+    "ts": 1790744298.9387934
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/morning-bid-a-cruel-quarter-for-bonds-4924062",
+    "title": "Morning Bid: A cruel quarter for bonds",
+    "tokens": [
+      "bid",
+      "bonds",
+      "cruel",
+      "morning",
+      "quarter"
+    ],
+    "ts": 1790744307.1638026
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
+    "title": "Asian currencies mixed as yen rebounds, dollar stays near two-month high",
+    "tokens": [
+      "asian",
+      "currencies",
+      "dollar",
+      "high",
+      "mixed",
+      "month",
+      "near",
+      "rebounds",
+      "stays",
+      "two",
+      "yen"
+    ],
+    "ts": 1790744315.32543
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-ahead-of-us-pce-inflation-regional-data-in-focus-4924060",
+    "title": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
+    "tokens": [
+      "ahead",
+      "asia",
+      "data",
+      "focus",
+      "inflation",
+      "mixed",
+      "pce",
+      "regional",
+      "stocks"
+    ],
+    "ts": 1790744323.0168443
   }
 ]

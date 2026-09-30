@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/heartflow-cfo-vikram-verghese-sells-123m-in-company-stock-93CH-4919258",
-    "title": "Heartflow CFO Vikram Verghese sells $1.23m in company stock",
-    "tokens": [
-      "23m",
-      "cfo",
-      "company",
-      "heartflow",
-      "sells",
-      "stock",
-      "verghese",
-      "vikram"
-    ],
-    "ts": 1790561455.3633015
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/tempus-ai-evp-andrew-polovin-sells-2951-shares-for-221325-93CH-4919256",
     "title": "Tempus AI EVP Andrew Polovin sells 2,951 shares for $221,325",
     "tokens": [
@@ -22945,5 +22930,22 @@
       "uses"
     ],
     "ts": 1790790188.473758
+  },
+  {
+    "id": "WP-MKTW-0005262591",
+    "title": "Why the ‘Halloween Indicator’ isn’t working — and what smart investors are doing instead",
+    "tokens": [
+      "doing",
+      "halloween",
+      "indicator",
+      "instead",
+      "investors",
+      "isn",
+      "smart",
+      "what",
+      "why",
+      "working"
+    ],
+    "ts": 1790790976.3922498
   }
 ]

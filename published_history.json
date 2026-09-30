@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex",
-    "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-    "tokens": [
-      "84m",
-      "bank",
-      "exposure",
-      "limited",
-      "linked",
-      "seizure",
-      "tether"
-    ],
-    "ts": 1790363480.2252781
-  },
-  {
     "id": "WP-MKTW-0005254461",
     "title": "Microsoft’s stock has roared back to life and is now headed for its highest close of the year",
     "tokens": [
@@ -22976,5 +22962,21 @@
       "stubbornly"
     ],
     "ts": 1790738414.5765016
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/chinas-weak-soybean-demand-dims-prospects-for-us-cargoes-after-tariff-snub-4924053",
+    "title": "China’s weak soybean demand dims prospects for US cargoes after tariff snub",
+    "tokens": [
+      "cargoes",
+      "china",
+      "demand",
+      "dims",
+      "prospects",
+      "snub",
+      "soybean",
+      "tariff",
+      "weak"
+    ],
+    "ts": 1790739844.0290017
   }
 ]

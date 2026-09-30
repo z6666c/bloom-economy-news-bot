@@ -1,136 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economic-indicators/china-industrial-profits-rise-157-in-januaryaugust-4919250",
-    "title": "China’s industrial profit growth slows further as economic imbalances deepen",
-    "tokens": [
-      "china",
-      "deepen",
-      "economic",
-      "further",
-      "growth",
-      "imbalances",
-      "industrial",
-      "profit",
-      "slows"
-    ],
-    "ts": 1790561476.9183154
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ubs-raises-house-foods-pt-on-ichibanya-sale-capital-reforms-4919249",
-    "title": "UBS raises House Foods PT on Ichibanya sale, capital reforms",
-    "tokens": [
-      "capital",
-      "foods",
-      "house",
-      "ichibanya",
-      "raises",
-      "reforms",
-      "sale",
-      "ubs"
-    ],
-    "ts": 1790561483.6847162
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/td-synnex-morgan-stanley-lifts-price-target-after-strong-quarter-4919274",
-    "title": "TD Synnex: Morgan Stanley lifts price target after strong quarter",
-    "tokens": [
-      "lifts",
-      "morgan",
-      "price",
-      "quarter",
-      "stanley",
-      "strong",
-      "synnex",
-      "target"
-    ],
-    "ts": 1790562505.854736
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/fold-holdings-director-young-buys-11049-in-shares-93CH-4919271",
-    "title": "Fold Holdings director Young buys $11,049 in shares",
-    "tokens": [
-      "049",
-      "buys",
-      "director",
-      "fold",
-      "holdings",
-      "shares",
-      "young"
-    ],
-    "ts": 1790562513.684645
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/neonc-technologies-cfo-garnett-sells-16809-stock-93CH-4919270",
-    "title": "Neonc Technologies CFO Garnett sells $16,809 stock",
-    "tokens": [
-      "809",
-      "cfo",
-      "garnett",
-      "neonc",
-      "sells",
-      "stock",
-      "technologies"
-    ],
-    "ts": 1790562521.1493237
-  },
-  {
-    "id": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins",
-    "title": "Newsom signs California ban on public officials issuing memecoins",
-    "tokens": [
-      "ban",
-      "california",
-      "issuing",
-      "memecoins",
-      "newsom",
-      "officials",
-      "public",
-      "signs"
-    ],
-    "ts": 1790563546.283274
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4919292",
-    "title": "Why is SK Hynix stock sliding today?",
-    "tokens": [
-      "hynix",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790565111.1496725
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/hong-kong-home-prices-largely-flat-in-august-4919291",
-    "title": "Hong Kong home prices largely flat in August",
-    "tokens": [
-      "august",
-      "flat",
-      "home",
-      "hong",
-      "kong",
-      "largely",
-      "prices"
-    ],
-    "ts": 1790565118.3299174
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/what-drove-this-chipequipment-stocks-18-surge--and-why-ai-saw-it-first-4919290",
-    "title": "What drove this chip-equipment stock’s 18% surge - and why AI saw it first",
-    "tokens": [
-      "chip",
-      "drove",
-      "equipment",
-      "first",
-      "saw",
-      "stock",
-      "surge",
-      "what",
-      "why"
-    ],
-    "ts": 1790565125.981675
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/tsmc-2nm-wafer-capacity-to-exceed-earlier-estimates-edn-reports-4919289",
     "title": "TSMC 2nm wafer capacity to exceed earlier estimates, EDN reports",
     "tokens": [
@@ -22945,5 +22814,138 @@
       "volatility"
     ],
     "ts": 1790792139.43319
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cch-holdings-closes-104m-second-tranche-of-financing-93CH-4925724",
+    "title": "CCH Holdings closes $1.04m second tranche of financing",
+    "tokens": [
+      "04m",
+      "cch",
+      "closes",
+      "financing",
+      "holdings",
+      "second",
+      "tranche"
+    ],
+    "ts": 1790793464.7803087
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/cigna-options-flow-turns-bullish-even-as-technicals-signal-sell-93CH-4925723",
+    "title": "Cigna options flow turns bullish even as technicals signal sell",
+    "tokens": [
+      "bullish",
+      "cigna",
+      "even",
+      "flow",
+      "options",
+      "sell",
+      "signal",
+      "technicals",
+      "turns"
+    ],
+    "ts": 1790793471.8882468
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/middleby-stock-hits-52week-low-at-10423-usd-93CH-4925722",
+    "title": "Middleby stock hits 52-week low at 104.23 USD",
+    "tokens": [
+      "104",
+      "hits",
+      "low",
+      "middleby",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790793475.90438
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/freedom-broker-initiates-matson-stock-coverage-with-buy-rating-93CH-4925721",
+    "title": "Freedom Broker initiates Matson stock coverage with buy rating",
+    "tokens": [
+      "broker",
+      "buy",
+      "coverage",
+      "freedom",
+      "initiates",
+      "matson",
+      "rating",
+      "stock"
+    ],
+    "ts": 1790793480.0666523
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/brazil-us-set-up-working-group-to-discuss-potential-trade-agreement-4925720",
+    "title": "Brazil, US set up working group to discuss potential trade agreement",
+    "tokens": [
+      "agreement",
+      "brazil",
+      "discuss",
+      "group",
+      "potential",
+      "set",
+      "trade",
+      "working"
+    ],
+    "ts": 1790793489.1400619
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/alliancebernstein-stock-hits-52week-low-at-3491-usd-93CH-4925717",
+    "title": "AllianceBernstein stock hits 52-week low at 34.91 USD",
+    "tokens": [
+      "alliancebernstein",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790793493.1552737
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/disc-medicine-options-activity-points-to-phase-3-bitopertin-catalyst-bet-93CH-4925716",
+    "title": "Disc Medicine options activity points to Phase 3 bitopertin catalyst bet",
+    "tokens": [
+      "activity",
+      "bet",
+      "bitopertin",
+      "catalyst",
+      "disc",
+      "medicine",
+      "options",
+      "phase",
+      "points"
+    ],
+    "ts": 1790793497.373894
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/us-senators-hit-deal-on-energy-project-permitting-bill-vote-seen-after-november-4925715",
+    "title": "US senators hit deal on energy project permitting bill, vote seen after November",
+    "tokens": [
+      "bill",
+      "deal",
+      "energy",
+      "hit",
+      "november",
+      "permitting",
+      "project",
+      "seen",
+      "senators",
+      "vote"
+    ],
+    "ts": 1790793506.74485
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/newgenivf-closes-125m-public-offering-at-007share-93CH-4925714",
+    "title": "NewGenIvf closes $1.25M public offering at $0.07/share",
+    "tokens": [
+      "25m",
+      "closes",
+      "newgenivf",
+      "offering",
+      "public",
+      "share"
+    ],
+    "ts": 1790793510.7603803
   }
 ]

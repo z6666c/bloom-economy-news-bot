@@ -1,76 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/sellas-reports-preclinical-data-on-cdk9-inhibitor-sls009-93CH-4917902",
-    "title": "Sellas reports preclinical data on CDK9 inhibitor SLS009",
-    "tokens": [
-      "cdk9",
-      "data",
-      "inhibitor",
-      "preclinical",
-      "reports",
-      "sellas",
-      "sls009"
-    ],
-    "ts": 1790357236.541297
-  },
-  {
-    "id": "oilprice-article-45618",
-    "title": "U.S. Oil, Gas Drilling Perks Up As Pressure Mounts",
-    "tokens": [
-      "drilling",
-      "gas",
-      "mounts",
-      "oil",
-      "perks",
-      "pressure"
-    ],
-    "ts": 1790357244.2743642
-  },
-  {
-    "id": "oilprice-news-45618",
-    "title": "BP Eyes Bigger U.S. Shale Footprint After Devon Deal Talks",
-    "tokens": [
-      "bigger",
-      "deal",
-      "devon",
-      "eyes",
-      "footprint",
-      "shale",
-      "talks"
-    ],
-    "ts": 1790357248.2910988
-  },
-  {
-    "id": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach",
-    "title": "Bitget clarifies $388M in assets affected by security breach",
-    "tokens": [
-      "388m",
-      "affected",
-      "assets",
-      "bitget",
-      "breach",
-      "clarifies",
-      "security"
-    ],
-    "ts": 1790357251.5074525
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/meta-misled-consumers-in-case-over-cambridge-analytica-scandal-new-mexico-jury-says-4917926",
-    "title": "Meta misled consumers in case over Cambridge Analytica scandal, New Mexico jury says",
-    "tokens": [
-      "analytica",
-      "cambridge",
-      "case",
-      "consumers",
-      "jury",
-      "meta",
-      "mexico",
-      "misled",
-      "scandal"
-    ],
-    "ts": 1790358125.6258965
-  },
-  {
     "id": "https://www.investing.com/news/company-news/leaders-advantage-completes-150-million-spac-ipo-on-nasdaq-93CH-4917927",
     "title": "Leader’s Advantage completes $150 million SPAC IPO on Nasdaq",
     "tokens": [
@@ -22997,5 +22926,84 @@
       "sheet"
     ],
     "ts": 1790730750.2953947
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/gold-steadies-after-16-gain-as-oil-drop-offsets-elevated-treasury-yields-4923962",
+    "title": "Gold steadies after 1.6% gain as oil drop offsets elevated Treasury yields",
+    "tokens": [
+      "drop",
+      "elevated",
+      "gain",
+      "gold",
+      "offsets",
+      "oil",
+      "steadies",
+      "treasury",
+      "yields"
+    ],
+    "ts": 1790731780.728501
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nidec-in-talks-to-sell-components-unit-to-carlyle-for-636-mln-nikkei-4923961",
+    "title": "Nidec in talks to sell components unit to Carlyle for $636 mln- Nikkei",
+    "tokens": [
+      "636",
+      "carlyle",
+      "components",
+      "mln",
+      "nidec",
+      "nikkei",
+      "sell",
+      "talks",
+      "unit"
+    ],
+    "ts": 1790731788.2228053
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/draganfly-closes-10-million-registered-direct-offering-93CH-4923957",
+    "title": "Draganfly closes $10 million registered direct offering",
+    "tokens": [
+      "closes",
+      "direct",
+      "draganfly",
+      "million",
+      "offering",
+      "registered"
+    ],
+    "ts": 1790731795.5524418
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/kura-oncology-coo-kathleen-ford-sells-111930-in-company-stock-93CH-4923956",
+    "title": "Kura Oncology COO Kathleen Ford sells $111,930 in company stock",
+    "tokens": [
+      "111",
+      "930",
+      "company",
+      "coo",
+      "ford",
+      "kathleen",
+      "kura",
+      "oncology",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790731803.5023282
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/kura-oncology-cmo-mollie-leoni-reports-440236-stock-sales-93CH-4923955",
+    "title": "Kura Oncology CMO Mollie Leoni reports $440,236 stock sales",
+    "tokens": [
+      "236",
+      "440",
+      "cmo",
+      "kura",
+      "leoni",
+      "mollie",
+      "oncology",
+      "reports",
+      "sales",
+      "stock"
+    ],
+    "ts": 1790731810.9181755
   }
 ]

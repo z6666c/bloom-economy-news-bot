@@ -1,117 +1,5 @@
 [
   {
-    "id": "oilprice-news-45616",
-    "title": "Oil Moves Higher on Rekindled War Fears",
-    "tokens": [
-      "fears",
-      "higher",
-      "moves",
-      "oil",
-      "rekindled",
-      "war"
-    ],
-    "ts": 1790586975.9636905
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-drops-under-83k-as-liquidity-hunting-keeps-bulls-from-targeting-yearly-open",
-    "title": "Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open",
-    "tokens": [
-      "83k",
-      "bitcoin",
-      "bulls",
-      "drops",
-      "hunting",
-      "keeps",
-      "liquidity",
-      "open",
-      "targeting",
-      "under",
-      "yearly"
-    ],
-    "ts": 1790586983.513689
-  },
-  {
-    "id": "WP-MKTW-0005256217",
-    "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
-    "tokens": [
-      "according",
-      "ban",
-      "diesel",
-      "export",
-      "goldman",
-      "how",
-      "play",
-      "sachs",
-      "would"
-    ],
-    "ts": 1790588140.9512231
-  },
-  {
-    "id": "WP-MKTW-0005256055",
-    "title": "‘I feel like he’s holding me back’: I have $8 million. My husband resents my success. Should I pay for more things?",
-    "tokens": [
-      "back",
-      "feel",
-      "holding",
-      "husband",
-      "like",
-      "million",
-      "more",
-      "pay",
-      "resents",
-      "should",
-      "success",
-      "things"
-    ],
-    "ts": 1790588148.682665
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-prime-medicine-stock-rating-on-gene-editing-capabilities-93CH-4919631",
-    "title": "Citizens reiterates Prime Medicine stock rating on gene editing capabilities",
-    "tokens": [
-      "capabilities",
-      "citizens",
-      "editing",
-      "gene",
-      "medicine",
-      "prime",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790588156.3945954
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/european-shares-rise-as-uk-homebuilder-rally-offsets-oil-bond-pressures-4919628",
-    "title": "European shares rise as UK homebuilder rally offsets oil, bond pressures",
-    "tokens": [
-      "bond",
-      "european",
-      "homebuilder",
-      "offsets",
-      "oil",
-      "pressures",
-      "rally",
-      "rise",
-      "shares"
-    ],
-    "ts": 1790588164.8589747
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/crispr-therapeutics-stock-price-target-reaffirmed-at-80-by-citizens-93CH-4919627",
-    "title": "CRISPR Therapeutics stock price target reaffirmed at $80 by Citizens",
-    "tokens": [
-      "citizens",
-      "crispr",
-      "price",
-      "reaffirmed",
-      "stock",
-      "target",
-      "therapeutics"
-    ],
-    "ts": 1790588172.6417959
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/ooma-stock-rating-held-at-market-perform-by-citizens-ahead-of-investor-day-93CH-4919626",
     "title": "Ooma stock rating held at Market Perform by Citizens ahead of investor day",
     "tokens": [
@@ -22918,5 +22806,106 @@
       "volatility"
     ],
     "ts": 1790806319.1971087
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/lillys-foundayo-shows-cardiovascular-safety-in-diabetes-trial-93CH-4926022",
+    "title": "Lilly’s Foundayo shows cardiovascular safety in diabetes trial",
+    "tokens": [
+      "cardiovascular",
+      "diabetes",
+      "foundayo",
+      "lilly",
+      "safety",
+      "shows",
+      "trial"
+    ],
+    "ts": 1790807413.2885606
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tempramed-closes-118m-financing-with-debentures-and-units-93CH-4926021",
+    "title": "TempraMed closes $1.18M financing with debentures and units",
+    "tokens": [
+      "18m",
+      "closes",
+      "debentures",
+      "financing",
+      "tempramed",
+      "units"
+    ],
+    "ts": 1790807421.5367594
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/trinity-capital-prices-350-million-notes-offering-at-750-93CH-4926020",
+    "title": "Trinity Capital prices $350 million notes offering at 7.50%",
+    "tokens": [
+      "350",
+      "capital",
+      "million",
+      "notes",
+      "offering",
+      "prices",
+      "trinity"
+    ],
+    "ts": 1790807429.1906967
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/progress-earnings-beat-by-017-revenue-fell-short-of-estimates-4926017",
+    "title": "Progress earnings beat by $0.17, revenue fell short of estimates",
+    "tokens": [
+      "beat",
+      "earnings",
+      "estimates",
+      "fell",
+      "progress",
+      "revenue",
+      "short"
+    ],
+    "ts": 1790807433.2037165
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tech-ceos-questioned-anthropic-leader-over-ai-safety-warnings-wsj-reports-4926016",
+    "title": "Tech CEOs questioned Anthropic leader over AI safety warnings, WSJ reports",
+    "tokens": [
+      "anthropic",
+      "ceos",
+      "leader",
+      "questioned",
+      "reports",
+      "safety",
+      "tech",
+      "warnings",
+      "wsj"
+    ],
+    "ts": 1790807438.1078832
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-progress-software-beats-q3-2026-eps-shares-slip-after-hours-93CH-4926014",
+    "title": "Earnings call transcript: Progress Software beats Q3 2026 EPS, shares slip after hours",
+    "tokens": [
+      "2026",
+      "beats",
+      "call",
+      "earnings",
+      "eps",
+      "hours",
+      "progress",
+      "shares",
+      "slip",
+      "software",
+      "transcript"
+    ],
+    "ts": 1790807445.8297036
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/robinhood-at-hood-summit-26-pushing-247-trading-93CH-4926013",
+    "title": "Robinhood at Hood Summit ’26: pushing 24/7 trading",
+    "tokens": [
+      "hood",
+      "pushing",
+      "robinhood",
+      "summit",
+      "trading"
+    ],
+    "ts": 1790807453.7021484
   }
 ]

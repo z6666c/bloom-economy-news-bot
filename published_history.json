@@ -1,205 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information-reports-4919047",
-    "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
-    "tokens": [
-      "alibaba",
-      "allowing",
-      "buy",
-      "bytedance",
-      "china",
-      "chips",
-      "information",
-      "nvidia",
-      "reports",
-      "weighs"
-    ],
-    "ts": 1790524365.6431098
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/neostellar-capital-chairman-klein-buys-39550-in-common-stock-93CH-4919056",
-    "title": "Neostellar capital chairman Klein buys $39,550 in common stock",
-    "tokens": [
-      "550",
-      "buys",
-      "capital",
-      "chairman",
-      "common",
-      "klein",
-      "neostellar",
-      "stock"
-    ],
-    "ts": 1790526464.952978
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/bcb-bancorp-ceo-thomas-obrien-purchases-124m-in-company-stock-93CH-4919051",
-    "title": "BCB Bancorp CEO Thomas O’Brien purchases $1.24m in company stock",
-    "tokens": [
-      "24m",
-      "bancorp",
-      "bcb",
-      "brien",
-      "ceo",
-      "company",
-      "purchases",
-      "stock",
-      "thomas"
-    ],
-    "ts": 1790526471.9316895
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bill-gates-joins-calls-for-ai-safeguards-including-legislation-4919049",
-    "title": "Bill Gates joins calls for AI safeguards, including legislation",
-    "tokens": [
-      "bill",
-      "calls",
-      "gates",
-      "including",
-      "joins",
-      "legislation",
-      "safeguards"
-    ],
-    "ts": 1790526479.3763187
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/china-may-permit-alibaba-bytedance-to-buy-new-nvidia-chips--the-information-4919061",
-    "title": "China may permit Alibaba, ByteDance to buy new Nvidia chips – The Information",
-    "tokens": [
-      "alibaba",
-      "buy",
-      "bytedance",
-      "china",
-      "chips",
-      "information",
-      "may",
-      "nvidia",
-      "permit"
-    ],
-    "ts": 1790528980.6996078
-  },
-  {
-    "id": "oilprice-article-45619",
-    "title": "The AI Data Center Boom Faces a New Reality Check",
-    "tokens": [
-      "boom",
-      "center",
-      "check",
-      "data",
-      "faces",
-      "reality"
-    ],
-    "ts": 1790528989.0525014
-  },
-  {
-    "id": "oilprice-news-45619",
-    "title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
-    "tokens": [
-      "failed",
-      "gas",
-      "heat",
-      "lift",
-      "natural",
-      "prices",
-      "record",
-      "why"
-    ],
-    "ts": 1790528996.5758166
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/foreign-banks-have-expressed-ubs-merger-interest-swiss-newspaper-reports-4919063",
-    "title": "Foreign banks have expressed UBS merger interest, Swiss newspaper reports",
-    "tokens": [
-      "banks",
-      "expressed",
-      "foreign",
-      "interest",
-      "merger",
-      "newspaper",
-      "reports",
-      "swiss",
-      "ubs"
-    ],
-    "ts": 1790530759.1257246
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/what-are-the-bond-yield-effects-on-european-equities-ubs-answers-4919062",
-    "title": "What are the bond yield effects on European equities? UBS answers",
-    "tokens": [
-      "answers",
-      "bond",
-      "effects",
-      "equities",
-      "european",
-      "ubs",
-      "what",
-      "yield"
-    ],
-    "ts": 1790530766.6645694
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/stock-yards-bancorp-sr-vp-michael-woods-sells-10983-in-shares-93CH-4919075",
-    "title": "Stock yards bancorp Sr. VP Michael Woods sells $10,983 in shares",
-    "tokens": [
-      "983",
-      "bancorp",
-      "michael",
-      "sells",
-      "shares",
-      "stock",
-      "woods",
-      "yards"
-    ],
-    "ts": 1790532740.2955875
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/exponent-group-vp-souri-buys-12593-in-expo-common-stock-93CH-4919069",
-    "title": "Exponent group VP Souri buys $12,593 in EXPO common stock",
-    "tokens": [
-      "593",
-      "buys",
-      "common",
-      "expo",
-      "exponent",
-      "group",
-      "souri",
-      "stock"
-    ],
-    "ts": 1790532748.1131604
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/kaltura-officer-eynav-azaria-sells-5771-in-common-stock-93CH-4919078",
-    "title": "Kaltura officer Eynav Azaria sells $5,771 in common stock",
-    "tokens": [
-      "771",
-      "azaria",
-      "common",
-      "eynav",
-      "kaltura",
-      "officer",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790533866.3505414
-  },
-  {
-    "id": "WP-MKTW-0005256076",
-    "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-    "tokens": [
-      "died",
-      "divorc",
-      "executor",
-      "file",
-      "her",
-      "make",
-      "mother",
-      "need",
-      "probate",
-      "proud",
-      "want"
-    ],
-    "ts": 1790535274.044293
-  },
-  {
     "id": "https://seekingalpha.com/news/4647407-california-gov-newsom-signs-bill-restricting-meme-coins-tied-to-public-officials?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
     "title": "California Gov. Newsom signs bill restricting meme coins tied to public officials",
     "tokens": [
@@ -22958,5 +22758,193 @@
       "scooter"
     ],
     "ts": 1790783994.0913985
+  },
+  {
+    "id": "WP-MKTW-0005260695",
+    "title": "Saving your retirement could come down to this simple writing exercise",
+    "tokens": [
+      "come",
+      "could",
+      "exercise",
+      "retirement",
+      "saving",
+      "simple",
+      "writing",
+      "your"
+    ],
+    "ts": 1790785126.1112542
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/price-expectations-and-demand-key-in-ecbs-next-move-schnabel-says-4925573",
+    "title": "Price expectations and demand key in ECB’s next move, Schnabel says",
+    "tokens": [
+      "demand",
+      "ecb",
+      "expectations",
+      "key",
+      "move",
+      "next",
+      "price",
+      "schnabel"
+    ],
+    "ts": 1790785133.4947917
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/duke-energy-stock-hits-52week-low-at-1984-usd-93CH-4925572",
+    "title": "Duke Energy stock hits 52-week low at 19.84 USD",
+    "tokens": [
+      "duke",
+      "energy",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790785137.505189
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/general-mills-names-insider-mcnabb-as-ceo-succeeding-veteran-harmening-4925571",
+    "title": "General Mills names insider McNabb as CEO, succeeding veteran Harmening",
+    "tokens": [
+      "ceo",
+      "general",
+      "harmening",
+      "insider",
+      "mcnabb",
+      "mills",
+      "names",
+      "succeeding",
+      "veteran"
+    ],
+    "ts": 1790785142.1398985
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hsbc-indonesia-etf-to-hold-vote-on-index-change-93CH-4925570",
+    "title": "HSBC Indonesia ETF to hold vote on index change",
+    "tokens": [
+      "change",
+      "etf",
+      "hold",
+      "hsbc",
+      "index",
+      "indonesia",
+      "vote"
+    ],
+    "ts": 1790785152.6185486
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/praxis-precision-medicine-options-signal-ahead-of-two-fda-decisions-93CH-4925567",
+    "title": "Praxis Precision Medicine options signal ahead of two FDA decisions",
+    "tokens": [
+      "ahead",
+      "decisions",
+      "fda",
+      "medicine",
+      "options",
+      "praxis",
+      "precision",
+      "signal",
+      "two"
+    ],
+    "ts": 1790785161.62876
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/hb-fuller-director-daniel-l-florness-buys-100160-in-stock-93CH-4925566",
+    "title": "H.B. Fuller director Daniel L. Florness buys $100,160 in stock",
+    "tokens": [
+      "100",
+      "160",
+      "buys",
+      "daniel",
+      "director",
+      "florness",
+      "fuller",
+      "stock"
+    ],
+    "ts": 1790785169.0468006
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-1874-usd-93CH-4925561",
+    "title": "Cms Energy stock hits 52-week low at 18.74 USD",
+    "tokens": [
+      "cms",
+      "energy",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790785173.0570078
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/beximco-pharmaceuticals-settles-dispute-with-bangladesh-regulator-93CH-4925560",
+    "title": "Beximco Pharmaceuticals settles dispute with Bangladesh regulator",
+    "tokens": [
+      "bangladesh",
+      "beximco",
+      "dispute",
+      "pharmaceuticals",
+      "regulator",
+      "settles"
+    ],
+    "ts": 1790785175.7750137
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/hb-fuller-director-charles-lauber-purchases-99984-of-stock-93CH-4925557",
+    "title": "H.B. Fuller director Charles Lauber purchases $99,984 of stock",
+    "tokens": [
+      "984",
+      "charles",
+      "director",
+      "fuller",
+      "lauber",
+      "purchases",
+      "stock"
+    ],
+    "ts": 1790785182.8807094
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/hb-fuller-director-thomas-handley-buys-98820-in-stock-93CH-4925558",
+    "title": "H.B. Fuller director Thomas Handley buys $98,820 in stock",
+    "tokens": [
+      "820",
+      "buys",
+      "director",
+      "fuller",
+      "handley",
+      "stock",
+      "thomas"
+    ],
+    "ts": 1790785190.5985112
+  },
+  {
+    "id": "oilprice-article-45643",
+    "title": "Oil Price Forecasts Jump as Hormuz Disruption Drags On",
+    "tokens": [
+      "disruption",
+      "drags",
+      "forecasts",
+      "hormuz",
+      "jump",
+      "oil",
+      "price"
+    ],
+    "ts": 1790785198.9709125
+  },
+  {
+    "id": "oilprice-news-45643",
+    "title": "Germany Orders SEFE to Add 8 TWh of Gas to Storage",
+    "tokens": [
+      "add",
+      "gas",
+      "germany",
+      "orders",
+      "sefe",
+      "storage",
+      "twh"
+    ],
+    "ts": 1790785202.9816635
   }
 ]

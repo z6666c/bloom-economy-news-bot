@@ -1,89 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/taiwan-excellence-s-galaxy-amusement-park-comes-to-life-at-taiwan-expo-usa-2026-1036575322",
-    "title": "Taiwan Excellence’s “Galaxy Amusement Park” Comes to Life at Taiwan Expo USA 2026",
-    "tokens": [
-      "2026",
-      "amusement",
-      "comes",
-      "excellence",
-      "expo",
-      "galaxy",
-      "life",
-      "park",
-      "taiwan",
-      "usa"
-    ],
-    "ts": 1790363443.556152
-  },
-  {
-    "id": "https://seekingalpha.com/news/4647054-evonik-gains-after-report-of-basf-takeover-approach?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Evonik gains after report of BASF takeover approach (update)",
-    "tokens": [
-      "approach",
-      "basf",
-      "evonik",
-      "gains",
-      "report",
-      "takeover",
-      "update"
-    ],
-    "ts": 1790363450.8794644
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-reminds-pentair-plc-pnr-investors-that-they-have-until-october-2-2026-to-move-for-lead-plaintiff-1036575324",
-    "title": "Kaplan Fox Reminds Pentair plc (PNR) Investors That They Have Until October 2, 2026 to Move for Lead Plaintiff",
-    "tokens": [
-      "2026",
-      "fox",
-      "investors",
-      "kaplan",
-      "lead",
-      "move",
-      "october",
-      "pentair",
-      "plaintiff",
-      "plc",
-      "pnr",
-      "reminds",
-      "they",
-      "until"
-    ],
-    "ts": 1790363458.0650074
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/currencies/cybr-international-launches-reg-cf-raise-to-expand-its-cyber-and-physical-security-business-1036575377",
-    "title": "CYBR International Launches Reg CF Raise to Expand Its Cyber and Physical Security Business",
-    "tokens": [
-      "business",
-      "cyber",
-      "cybr",
-      "expand",
-      "international",
-      "launches",
-      "physical",
-      "raise",
-      "reg",
-      "security"
-    ],
-    "ts": 1790363465.1428835
-  },
-  {
-    "id": "https://seekingalpha.com/news/4647276-biggest-risk-is-of-an-inflationary-mindset-setting-in-says-cleveland-feds-hammack?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Biggest risk is of an inflationary mindset setting in, says Cleveland Fed's Hammack",
-    "tokens": [
-      "biggest",
-      "cleveland",
-      "fed",
-      "hammack",
-      "inflationary",
-      "mindset",
-      "risk",
-      "setting"
-    ],
-    "ts": 1790363471.9975824
-  },
-  {
     "id": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex",
     "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
     "tokens": [
@@ -22982,5 +22898,83 @@
       "toolbox"
     ],
     "ts": 1790737163.3977494
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/dollar-set-for-september-rise-mainly-at-euros-expense-4923987",
+    "title": "Dollar set for large rise in September, mainly at euro’s expense",
+    "tokens": [
+      "dollar",
+      "euro",
+      "expense",
+      "large",
+      "mainly",
+      "rise",
+      "september",
+      "set"
+    ],
+    "ts": 1790738378.850295
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/deepseek-partners-with-huawei-to-develop-chip-programming-tools-reducing-reliance-on-nvidia-4924051",
+    "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia",
+    "tokens": [
+      "chip",
+      "deepseek",
+      "develop",
+      "huawei",
+      "nvidia",
+      "partners",
+      "programming",
+      "reducing",
+      "reliance",
+      "tools"
+    ],
+    "ts": 1790738388.3346417
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/australia-august-inflation-rises-to-4-below-forecasts-as-rba-weighs-hikes-4924012",
+    "title": "Australia CPI inflation rises to 4% in August, below forecasts after RBA hike",
+    "tokens": [
+      "august",
+      "australia",
+      "below",
+      "cpi",
+      "forecasts",
+      "hike",
+      "inflation",
+      "rba",
+      "rises"
+    ],
+    "ts": 1790738396.6131573
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/iran-appeals-to-us-voters-as-american-troops-leave-iraq-4924049",
+    "title": "Iran appeals to US voters as American troops leave Iraq",
+    "tokens": [
+      "american",
+      "appeals",
+      "iran",
+      "iraq",
+      "leave",
+      "troops",
+      "voters"
+    ],
+    "ts": 1790738405.3647003
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/australia-inflation-stubbornly-high-in-august-defying-run-of-rate-hikes-4924048",
+    "title": "Australia inflation stubbornly high in August, defying run of rate hikes",
+    "tokens": [
+      "august",
+      "australia",
+      "defying",
+      "high",
+      "hikes",
+      "inflation",
+      "rate",
+      "run",
+      "stubbornly"
+    ],
+    "ts": 1790738414.5765016
   }
 ]

@@ -1,136 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/hub-cyber-security-receives-nasdaq-delisting-warning-93CH-4918046",
-    "title": "HUB Cyber Security receives Nasdaq delisting warning",
-    "tokens": [
-      "cyber",
-      "delisting",
-      "hub",
-      "nasdaq",
-      "receives",
-      "security",
-      "warning"
-    ],
-    "ts": 1790368037.6983519
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hafnia-files-prospectus-for-300-million-share-offering-93CH-4918105",
-    "title": "Hafnia files prospectus for $300 million share offering",
-    "tokens": [
-      "300",
-      "files",
-      "hafnia",
-      "million",
-      "offering",
-      "prospectus",
-      "share"
-    ],
-    "ts": 1790368914.7014065
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/circle-stock-dips-as-cfo-foxgeen-steps-down-and-cofounder-leaves-board-4918104",
-    "title": "Circle stock dips as CFO Fox-Geen steps down and co-founder leaves board",
-    "tokens": [
-      "board",
-      "cfo",
-      "circle",
-      "dips",
-      "founder",
-      "fox",
-      "geen",
-      "leaves",
-      "steps",
-      "stock"
-    ],
-    "ts": 1790368922.2040908
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/clipper-realty-director-sam-levinson-buys-77434-in-common-stock-93CH-4918099",
-    "title": "Clipper Realty director Sam Levinson buys $77,434 in common stock",
-    "tokens": [
-      "434",
-      "buys",
-      "clipper",
-      "common",
-      "director",
-      "levinson",
-      "realty",
-      "sam",
-      "stock"
-    ],
-    "ts": 1790368928.7419655
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-093-4918098",
-    "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.93%",
-    "tokens": [
-      "average",
-      "close",
-      "dow",
-      "higher",
-      "industrial",
-      "jones",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790368935.867502
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-026-4918097",
-    "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.26%",
-    "tokens": [
-      "canada",
-      "close",
-      "composite",
-      "higher",
-      "stocks",
-      "trade",
-      "tsx"
-    ],
-    "ts": 1790368943.411217
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-027-4918088",
-    "title": "Brazil stocks lower at close of trade; Bovespa down 0.27%",
-    "tokens": [
-      "bovespa",
-      "brazil",
-      "close",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790368949.961014
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/b-riley-securities-names-top-pick-in-financial-services-sector-4918087",
-    "title": "B. Riley Securities Names Top Pick in Financial Services Sector",
-    "tokens": [
-      "financial",
-      "names",
-      "pick",
-      "riley",
-      "sector",
-      "securities",
-      "services",
-      "top"
-    ],
-    "ts": 1790368957.143778
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-mirum-pharmaceuticals-stock-gaining-today-93CH-4918084",
-    "title": "Why is Mirum Pharmaceuticals stock gaining today?",
-    "tokens": [
-      "gaining",
-      "mirum",
-      "pharmaceuticals",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790368963.8607924
-  },
-  {
     "id": "https://www.investing.com/news/company-news/klx-energy-narrows-q3-revenue-guidance-to-180185-million-93CH-4918082",
     "title": "KLX Energy narrows Q3 revenue guidance to $180-185 million",
     "tokens": [
@@ -22983,5 +22852,135 @@
       "trades"
     ],
     "ts": 1790749199.4592333
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/uk-economy-grew-by-05-in-q2-2026-ons-says-4924135",
+    "title": "UK economic output revised up to show stronger Q2 growth",
+    "tokens": [
+      "economic",
+      "growth",
+      "output",
+      "revised",
+      "show",
+      "stronger"
+    ],
+    "ts": 1790750852.0685601
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/manx-financial-grants-stock-units-to-executives-and-management-93CH-4924195",
+    "title": "Manx Financial grants stock units to executives and management",
+    "tokens": [
+      "executives",
+      "financial",
+      "grants",
+      "management",
+      "manx",
+      "stock",
+      "units"
+    ],
+    "ts": 1790750861.2869058
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/europa-extends-eg08-farmout-completion-deadline-to-oct-30-93CH-4924181",
+    "title": "Europa extends EG-08 farm-out completion deadline to Oct. 30",
+    "tokens": [
+      "completion",
+      "deadline",
+      "europa",
+      "extends",
+      "farm",
+      "oct"
+    ],
+    "ts": 1790750868.9498541
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/hungary-posts-4809-million-trade-deficit-in-august-93CH-4924180",
+    "title": "Hungary posts €480.9 million trade deficit in August",
+    "tokens": [
+      "480",
+      "august",
+      "deficit",
+      "hungary",
+      "million",
+      "posts",
+      "trade"
+    ],
+    "ts": 1790750877.4089396
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/golden-rock-global-reports-656355-loss-appoints-advisor-93CH-4924168",
+    "title": "Golden Rock Global reports £656,355 loss, appoints advisor",
+    "tokens": [
+      "355",
+      "656",
+      "advisor",
+      "appoints",
+      "global",
+      "golden",
+      "loss",
+      "reports",
+      "rock"
+    ],
+    "ts": 1790750885.2322104
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/german-import-prices-rise-83-in-august-above-forecasts-93CH-4924167",
+    "title": "German import prices rise 8.3% in August, above forecasts",
+    "tokens": [
+      "above",
+      "august",
+      "forecasts",
+      "german",
+      "import",
+      "prices",
+      "rise"
+    ],
+    "ts": 1790750893.9440014
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/japan-pm-takaichi-to-vow-nimble-response-to-unexpected-market-moves-nikkei-says-4924166",
+    "title": "Japan PM Takaichi to vow nimble response to unexpected market moves, Nikkei says",
+    "tokens": [
+      "japan",
+      "market",
+      "moves",
+      "nikkei",
+      "nimble",
+      "response",
+      "takaichi",
+      "unexpected",
+      "vow"
+    ],
+    "ts": 1790750903.0549707
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/pinewood-technologies-reports-wider-h1-loss-as-north-america-investment-weighs-4924165",
+    "title": "Pinewood Technologies reports wider H1 loss as North America investment weighs",
+    "tokens": [
+      "america",
+      "investment",
+      "loss",
+      "north",
+      "pinewood",
+      "reports",
+      "technologies",
+      "weighs",
+      "wider"
+    ],
+    "ts": 1790750911.7442787
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-092-4924164",
+    "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.92%",
+    "tokens": [
+      "200",
+      "asx",
+      "australia",
+      "close",
+      "higher",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790750915.7598
   }
 ]

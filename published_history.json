@@ -1,133 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/leaders-advantage-completes-150-million-spac-ipo-on-nasdaq-93CH-4917927",
-    "title": "Leader’s Advantage completes $150 million SPAC IPO on Nasdaq",
-    "tokens": [
-      "150",
-      "advantage",
-      "completes",
-      "ipo",
-      "leader",
-      "million",
-      "nasdaq",
-      "spac"
-    ],
-    "ts": 1790358132.693109
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-alten-h1-2026-revenue-beats-forecast-as-shares-rise-65-93CH-4917925",
-    "title": "Earnings call transcript: Alten H1 2026 revenue beats forecast as shares rise 6.5%",
-    "tokens": [
-      "2026",
-      "alten",
-      "beats",
-      "call",
-      "earnings",
-      "forecast",
-      "revenue",
-      "rise",
-      "shares",
-      "transcript"
-    ],
-    "ts": 1790358139.991136
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/crowdstrike-probe-closed-by-us-prosecutors-without-charges-4917924",
-    "title": "CrowdStrike probe closed by US prosecutors without charges",
-    "tokens": [
-      "charges",
-      "closed",
-      "crowdstrike",
-      "probe",
-      "prosecutors",
-      "without"
-    ],
-    "ts": 1790358146.9285572
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fmc-stock-hits-52week-low-at-948-usd-93CH-4917917",
-    "title": "FMC stock hits 52-week low at 9.48 USD",
-    "tokens": [
-      "fmc",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790358150.9435568
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/alten-h1-2026-slides-margins-expand-as-growth-returns-93CH-4917932",
-    "title": "ALTEN H1 2026 slides: margins expand as growth returns",
-    "tokens": [
-      "2026",
-      "alten",
-      "expand",
-      "growth",
-      "margins",
-      "returns",
-      "slides"
-    ],
-    "ts": 1790359932.730545
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/meta-jury-finds-company-misled-new-mexico-residents-4917930",
-    "title": "Meta jury finds company misled New Mexico residents",
-    "tokens": [
-      "company",
-      "finds",
-      "jury",
-      "meta",
-      "mexico",
-      "misled",
-      "residents"
-    ],
-    "ts": 1790359939.815925
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/leaders-advantage-acquisition-corp-closes-150m-ipo-on-nasdaq-432SI-4917923",
-    "title": "Leader’s Advantage Acquisition Corp. closes $150M IPO on Nasdaq",
-    "tokens": [
-      "150m",
-      "acquisition",
-      "advantage",
-      "closes",
-      "corp",
-      "ipo",
-      "leader",
-      "nasdaq"
-    ],
-    "ts": 1790359946.9093866
-  },
-  {
-    "id": "oilprice-article-45604",
-    "title": "Venezuela Oil Output Could Hit 1.8 Million Bpd By 2030, Rystad Says",
-    "tokens": [
-      "2030",
-      "bpd",
-      "could",
-      "hit",
-      "million",
-      "oil",
-      "output",
-      "rystad",
-      "venezuela"
-    ],
-    "ts": 1790359954.588
-  },
-  {
-    "id": "WP-MKTW-0005254676",
-    "title": "A 10% risk-free yield? For some, yes.",
-    "tokens": [
-      "free",
-      "risk",
-      "some",
-      "yield"
-    ],
-    "ts": 1790361023.5102866
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-cvs-health-stock-rallying-today-93CH-4917952",
     "title": "Why is CVS Health stock rallying today?",
     "tokens": [
@@ -23005,5 +22877,148 @@
       "stock"
     ],
     "ts": 1790731810.9181755
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/kura-oncology-svp-sells-48360-of-stock-93CH-4923986",
+    "title": "Kura Oncology SVP sells $48,360 of stock",
+    "tokens": [
+      "360",
+      "kura",
+      "oncology",
+      "sells",
+      "stock",
+      "svp"
+    ],
+    "ts": 1790732810.4913266
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/kura-oncology-chief-legal-officer-sells-88618-in-shares-93CH-4923985",
+    "title": "Kura Oncology chief legal officer sells $88,618 in shares",
+    "tokens": [
+      "618",
+      "chief",
+      "kura",
+      "legal",
+      "officer",
+      "oncology",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790732819.2833111
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-prices-edge-higher-after-sharp-drop-as-middle-east-supply-recovers-4923978",
+    "title": "Oil prices edge higher after sharp drop as Middle East supply recovers",
+    "tokens": [
+      "drop",
+      "east",
+      "edge",
+      "higher",
+      "middle",
+      "oil",
+      "prices",
+      "recovers",
+      "sharp",
+      "supply"
+    ],
+    "ts": 1790732827.6990302
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/definium-therapeutics-clo-mark-sullivan-sells-513845-in-shares-93CH-4923976",
+    "title": "Definium Therapeutics CLO Mark Sullivan sells $513,845 in shares",
+    "tokens": [
+      "513",
+      "845",
+      "clo",
+      "definium",
+      "mark",
+      "sells",
+      "shares",
+      "sullivan",
+      "therapeutics"
+    ],
+    "ts": 1790732836.252993
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/definium-therapeutics-cco-matthew-wiley-sells-113257-in-common-shares-93CH-4923977",
+    "title": "Definium Therapeutics CCO Matthew Wiley sells $113,257 in common shares",
+    "tokens": [
+      "113",
+      "257",
+      "cco",
+      "common",
+      "definium",
+      "matthew",
+      "sells",
+      "shares",
+      "therapeutics",
+      "wiley"
+    ],
+    "ts": 1790732844.1900995
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/stem-president-michael-carlson-sells-681-in-company-stock-93CH-4923975",
+    "title": "STEM president Michael Carlson sells $681 in company stock",
+    "tokens": [
+      "681",
+      "carlson",
+      "company",
+      "michael",
+      "president",
+      "sells",
+      "stem",
+      "stock"
+    ],
+    "ts": 1790732852.3878725
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/definium-therapeutics-cfo-brandi-roberts-sells-123496-in-shares-93CH-4923974",
+    "title": "Definium therapeutics CFO Brandi Roberts sells $123,496 in shares",
+    "tokens": [
+      "123",
+      "496",
+      "brandi",
+      "cfo",
+      "definium",
+      "roberts",
+      "sells",
+      "shares",
+      "therapeutics"
+    ],
+    "ts": 1790732860.5510497
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/basel-chief-says-risks-becoming-more-interconnected-as-international-cooperation-wanes-4923973",
+    "title": "Basel chief says risks becoming more interconnected as international cooperation wanes",
+    "tokens": [
+      "basel",
+      "becoming",
+      "chief",
+      "cooperation",
+      "interconnected",
+      "international",
+      "more",
+      "risks",
+      "wanes"
+    ],
+    "ts": 1790732868.8168192
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/horse-heaven-resources-at-jmm-gold-forum-2026-scale-grade-and-critical-metals-93CH-4923970",
+    "title": "Horse Heaven Resources at JMM Gold Forum 2026: scale, grade and critical metals",
+    "tokens": [
+      "2026",
+      "critical",
+      "forum",
+      "gold",
+      "grade",
+      "heaven",
+      "horse",
+      "jmm",
+      "metals",
+      "resources",
+      "scale"
+    ],
+    "ts": 1790732876.7053802
   }
 ]

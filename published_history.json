@@ -1,60 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/kremlin-says-russiaus-arms-control-talks-should-have-resumed-yesterday-4919647",
-    "title": "Kremlin says Russia-US arms control talks should have resumed ’yesterday’",
-    "tokens": [
-      "arms",
-      "control",
-      "kremlin",
-      "resumed",
-      "russia",
-      "should",
-      "talks",
-      "yesterday"
-    ],
-    "ts": 1790589416.1349158
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/older-supertanker-prices-top-new-builds-on-high-freight-rates-93CH-4919646",
-    "title": "Older supertanker prices top new builds on high freight rates",
-    "tokens": [
-      "builds",
-      "freight",
-      "high",
-      "older",
-      "prices",
-      "rates",
-      "supertanker",
-      "top"
-    ],
-    "ts": 1790589423.5356
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-first-solar-stock-climbing-today-93CH-4919645",
-    "title": "Why is First Solar stock climbing today?",
-    "tokens": [
-      "climbing",
-      "first",
-      "solar",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790589431.1852515
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-roblox-stock-sliding-4-today-93CH-4919644",
-    "title": "Why is Roblox stock sliding 4% today?",
-    "tokens": [
-      "roblox",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790589435.2007437
-  },
-  {
     "id": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-us-data-tests-dollar-rally-4919636",
     "title": "Sterling today: Pound edges higher as U.S. data tests dollar rally",
     "tokens": [
@@ -22900,5 +22845,67 @@
       "volatility"
     ],
     "ts": 1790809825.2056644
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/micron-fq4-2026-slides-record-revenue-ai-demand-drives-supply-tightness-93CH-4926074",
+    "title": "Micron FQ4 2026 slides: record revenue, AI demand drives supply tightness",
+    "tokens": [
+      "2026",
+      "demand",
+      "drives",
+      "fq4",
+      "micron",
+      "record",
+      "revenue",
+      "slides",
+      "supply",
+      "tightness"
+    ],
+    "ts": 1790810799.6770608
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/rocket-lab-secures-20mission-contract-with-synspective-93CH-4926073",
+    "title": "Rocket Lab secures 20-mission contract with Synspective",
+    "tokens": [
+      "contract",
+      "lab",
+      "mission",
+      "rocket",
+      "secures",
+      "synspective"
+    ],
+    "ts": 1790810806.848452
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/feds-kashkari-says-central-bank-must-lower-inflation-pressures-4926070",
+    "title": "Fed’s Kashkari says central bank must lower inflation pressures",
+    "tokens": [
+      "bank",
+      "central",
+      "fed",
+      "inflation",
+      "kashkari",
+      "lower",
+      "must",
+      "pressures"
+    ],
+    "ts": 1790810816.7650332
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-micron-tops-q4-2026-estimates-as-ai-demand-stays-hot-93CH-4926057",
+    "title": "Earnings call transcript: Micron tops Q4 2026 estimates as AI demand stays hot",
+    "tokens": [
+      "2026",
+      "call",
+      "demand",
+      "earnings",
+      "estimates",
+      "hot",
+      "micron",
+      "stays",
+      "tops",
+      "transcript"
+    ],
+    "ts": 1790810820.781923
   }
 ]

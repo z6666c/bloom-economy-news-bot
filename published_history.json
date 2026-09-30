@@ -1,82 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005253042",
-    "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-    "tokens": [
-      "choosing",
-      "college",
-      "could",
-      "dent",
-      "exposed",
-      "job",
-      "lower",
-      "majors",
-      "pay",
-      "prospects",
-      "these",
-      "your"
-    ],
-    "ts": 1790357207.574307
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anthropic-supplychain-designation-upheld-in-ai-military-dispute-4917913",
-    "title": "Anthropic supply-chain designation upheld in AI military dispute",
-    "tokens": [
-      "anthropic",
-      "chain",
-      "designation",
-      "dispute",
-      "military",
-      "supply",
-      "upheld"
-    ],
-    "ts": 1790357214.6946821
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/moleculin-presents-preclinical-pancreatic-cancer-data-at-aacr-93CH-4917906",
-    "title": "Moleculin presents preclinical pancreatic cancer data at AACR",
-    "tokens": [
-      "aacr",
-      "cancer",
-      "data",
-      "moleculin",
-      "pancreatic",
-      "preclinical",
-      "presents"
-    ],
-    "ts": 1790357221.7322683
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/honeywell-declares-070-quarterly-dividend-per-share-93CH-4917905",
-    "title": "Honeywell declares $0.70 quarterly dividend per share",
-    "tokens": [
-      "declares",
-      "dividend",
-      "honeywell",
-      "per",
-      "quarterly",
-      "share"
-    ],
-    "ts": 1790357225.7483327
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/reuters-next-ftc-chair-pushes-back-on-treating-ai-agents-as-independent-actors-4917904",
-    "title": "REUTERS NEXT- FTC chair pushes back on treating AI agents as independent actors",
-    "tokens": [
-      "actors",
-      "agents",
-      "back",
-      "chair",
-      "ftc",
-      "independent",
-      "next",
-      "pushes",
-      "reuters",
-      "treating"
-    ],
-    "ts": 1790357229.5735562
-  },
-  {
     "id": "https://www.investing.com/news/company-news/sellas-reports-preclinical-data-on-cdk9-inhibitor-sls009-93CH-4917902",
     "title": "Sellas reports preclinical data on CDK9 inhibitor SLS009",
     "tokens": [
@@ -22996,5 +22919,83 @@
       "trump"
     ],
     "ts": 1790729345.990128
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/black-pine-at-mining-forum-americas-2026-simple-mine-big-leverage-93CH-4923948",
+    "title": "Black Pine at Mining Forum Americas 2026: simple mine, big leverage",
+    "tokens": [
+      "2026",
+      "americas",
+      "big",
+      "black",
+      "forum",
+      "leverage",
+      "mine",
+      "mining",
+      "pine",
+      "simple"
+    ],
+    "ts": 1790730715.8213353
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/samsara-evp-adam-eltoukhy-sells-285432-in-company-shares-93CH-4923946",
+    "title": "Samsara EVP Adam Eltoukhy sells $285,432 in company shares",
+    "tokens": [
+      "285",
+      "432",
+      "adam",
+      "company",
+      "eltoukhy",
+      "evp",
+      "samsara",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790730724.806741
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-as-yields-pause-oil-prices-slide-4923936",
+    "title": "U.S. stock futures drift higher as yields pause, oil prices slide",
+    "tokens": [
+      "drift",
+      "futures",
+      "higher",
+      "oil",
+      "pause",
+      "prices",
+      "slide",
+      "stock",
+      "yields"
+    ],
+    "ts": 1790730732.9064817
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/judge-orders-new-york-city-to-restart-secondaryhome-tax-rollout-4923935",
+    "title": "Judge orders New York City to restart secondary-home tax rollout",
+    "tokens": [
+      "city",
+      "home",
+      "judge",
+      "orders",
+      "restart",
+      "rollout",
+      "secondary",
+      "tax",
+      "york"
+    ],
+    "ts": 1790730741.5552368
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/apollo-completes-acquisition-of-nippon-sheet-glass-93CH-4923934",
+    "title": "Apollo completes acquisition of Nippon Sheet Glass",
+    "tokens": [
+      "acquisition",
+      "apollo",
+      "completes",
+      "glass",
+      "nippon",
+      "sheet"
+    ],
+    "ts": 1790730750.2953947
   }
 ]

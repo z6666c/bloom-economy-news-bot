@@ -1,38 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-notes-boat-registrations-fall-as-marine-demand-weakens-93CH-4917977",
-    "title": "Raymond James notes boat registrations fall as marine demand weakens",
-    "tokens": [
-      "boat",
-      "demand",
-      "fall",
-      "james",
-      "marine",
-      "notes",
-      "raymond",
-      "registrations",
-      "weakens"
-    ],
-    "ts": 1790364331.0761914
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/defi-development-corp-director-parker-white-buys-89567-in-preferred-stock-93CH-4917976",
-    "title": "DeFi development corp. director Parker White buys $89,567 in preferred stock",
-    "tokens": [
-      "567",
-      "buys",
-      "corp",
-      "defi",
-      "development",
-      "director",
-      "parker",
-      "preferred",
-      "stock",
-      "white"
-    ],
-    "ts": 1790364338.7656558
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-roblox-stock-sliding-today-93CH-4917973",
     "title": "Why is Roblox stock sliding today?",
     "tokens": [
@@ -22980,5 +22947,39 @@
       "stock"
     ],
     "ts": 1790741988.3764224
+  },
+  {
+    "id": "2068bd0a-7c48-4549-bc65-90f013c5f851",
+    "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
+    "tokens": [
+      "bitcoin",
+      "bull",
+      "cooling",
+      "even",
+      "gauge",
+      "nears",
+      "perfect",
+      "rally",
+      "score",
+      "shows",
+      "signs"
+    ],
+    "ts": 1790743412.576512
+  },
+  {
+    "id": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins",
+    "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
+    "tokens": [
+      "crypto",
+      "defi",
+      "detail",
+      "draft",
+      "illinois",
+      "rules",
+      "stablecoin",
+      "tax",
+      "treatment"
+    ],
+    "ts": 1790743422.1231961
   }
 ]

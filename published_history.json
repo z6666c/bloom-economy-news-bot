@@ -1,123 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/stirling-water-seafield-finance-redeems-4m-in-bonds-93CH-4919379",
-    "title": "Stirling Water Seafield Finance redeems £4m in bonds",
-    "tokens": [
-      "bonds",
-      "finance",
-      "redeems",
-      "seafield",
-      "stirling",
-      "water"
-    ],
-    "ts": 1790577788.0712073
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/evercore-sees-yieldcurve-inversiaion-risk-rising-as-ai-bull-market-holds-firm-4919378",
-    "title": "Evercore sees yield-curve inversiaion risk rising as AI bull market holds firm",
-    "tokens": [
-      "bull",
-      "curve",
-      "evercore",
-      "firm",
-      "holds",
-      "inversiaion",
-      "market",
-      "rising",
-      "risk",
-      "sees",
-      "yield"
-    ],
-    "ts": 1790577795.6779013
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-absci-stock-rating-on-endometriosis-trial-delay-93CH-4919377",
-    "title": "Guggenheim reiterates Absci stock rating on endometriosis trial delay",
-    "tokens": [
-      "absci",
-      "delay",
-      "endometriosis",
-      "guggenheim",
-      "rating",
-      "reiterates",
-      "stock",
-      "trial"
-    ],
-    "ts": 1790577803.4269452
-  },
-  {
-    "id": "aca89014-729f-4f9f-88af-1b8fc2d3dfd0",
-    "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
-    "tokens": [
-      "ban",
-      "california",
-      "calls",
-      "memecoin",
-      "newsom",
-      "opposite",
-      "signs",
-      "trump"
-    ],
-    "ts": 1790577811.7025163
-  },
-  {
-    "id": "bebf864f-7863-478f-b83f-1d6acd333f77",
-    "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
-    "tokens": [
-      "188",
-      "bitwise",
-      "draw",
-      "etfs",
-      "inflows",
-      "million",
-      "record",
-      "solana",
-      "takes",
-      "thirds",
-      "two",
-      "week"
-    ],
-    "ts": 1790577819.2275796
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/4basebio-reports-210-rise-in-h1-sales-orders-amid-revenue-decline-93CH-4919407",
-    "title": "4basebio reports 210% rise in H1 sales orders amid revenue decline",
-    "tokens": [
-      "210",
-      "4basebio",
-      "decline",
-      "orders",
-      "reports",
-      "revenue",
-      "rise",
-      "sales"
-    ],
-    "ts": 1790578827.8544579
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/take-five-its-q4-already-4919408",
-    "title": "Take Five: It’s Q4 already?",
-    "tokens": [
-      "already",
-      "five",
-      "take"
-    ],
-    "ts": 1790578835.5715244
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/bodycote-publishes-scheme-document-for-veritas-acquisition-93CH-4919406",
-    "title": "Bodycote publishes scheme document for Veritas acquisition",
-    "tokens": [
-      "acquisition",
-      "bodycote",
-      "document",
-      "publishes",
-      "scheme",
-      "veritas"
-    ],
-    "ts": 1790578843.5078166
-  },
-  {
     "id": "https://www.investing.com/news/company-news/gresham-house-renewable-energy-vct2-shares-suspended-from-trading-93CH-4919405",
     "title": "Gresham House Renewable Energy VCT2 shares suspended from trading",
     "tokens": [
@@ -22937,5 +22819,114 @@
       "volatility"
     ],
     "ts": 1790799258.754524
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/trump-says-he-has-done-a-bad-job-explaining-his-economic-record-4925857",
+    "title": "Trump says he has done a ’bad job’ explaining his economic record",
+    "tokens": [
+      "bad",
+      "done",
+      "economic",
+      "explaining",
+      "his",
+      "job",
+      "record",
+      "trump"
+    ],
+    "ts": 1790800289.0436993
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/micron-forecasts-quarterly-revenue-above-estimates-4925856",
+    "title": "Micron forecasts quarterly revenue above estimates",
+    "tokens": [
+      "above",
+      "estimates",
+      "forecasts",
+      "micron",
+      "quarterly",
+      "revenue"
+    ],
+    "ts": 1790800297.4056337
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/synopsys-projects-15-revenue-growth-1b-buyback-planned-93CH-4925854",
+    "title": "Synopsys projects 15% revenue growth, $1B buyback planned",
+    "tokens": [
+      "buyback",
+      "growth",
+      "planned",
+      "projects",
+      "revenue",
+      "synopsys"
+    ],
+    "ts": 1790800305.4622946
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/paramount-names-ynon-kreiz-as-coceo-ahead-of-wbd-merger-93CH-4925853",
+    "title": "Paramount names Ynon Kreiz as co-CEO ahead of WBD merger",
+    "tokens": [
+      "ahead",
+      "ceo",
+      "kreiz",
+      "merger",
+      "names",
+      "paramount",
+      "wbd",
+      "ynon"
+    ],
+    "ts": 1790800313.4808054
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/albertsons-appoints-three-directors-to-expanded-board-93CH-4925852",
+    "title": "Albertsons appoints three directors to expanded board",
+    "tokens": [
+      "albertsons",
+      "appoints",
+      "board",
+      "directors",
+      "expanded",
+      "three"
+    ],
+    "ts": 1790800320.9522762
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/inogen-to-sell-us-oxygen-rental-business-to-rotech-for-25m-93CH-4925851",
+    "title": "Inogen to sell U.S. oxygen rental business to Rotech for $25M",
+    "tokens": [
+      "25m",
+      "business",
+      "inogen",
+      "oxygen",
+      "rental",
+      "rotech",
+      "sell"
+    ],
+    "ts": 1790800328.5909538
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/halozyme-appoints-jim-daly-to-board-of-directors-93CH-4925847",
+    "title": "Halozyme appoints Jim Daly to board of directors",
+    "tokens": [
+      "appoints",
+      "board",
+      "daly",
+      "directors",
+      "halozyme",
+      "jim"
+    ],
+    "ts": 1790800335.6869168
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/albertsons-names-cody-perdue-interim-cfo-93CH-4925848",
+    "title": "Albertsons names Cody Perdue interim CFO",
+    "tokens": [
+      "albertsons",
+      "cfo",
+      "cody",
+      "interim",
+      "names",
+      "perdue"
+    ],
+    "ts": 1790800343.947332
   }
 ]

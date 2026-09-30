@@ -1,82 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth",
-    "title": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
-    "tokens": [
-      "dyorswap",
-      "eth",
-      "fake",
-      "fools",
-      "giwa",
-      "network",
-      "scammers",
-      "steal"
-    ],
-    "ts": 1790588223.4432573
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/analysistrump-and-xis-stalemate-summit-was-a-glitzy-gift-to-china-4919638",
-    "title": "Analysis-Trump and Xi’s ’stalemate’ summit was a glitzy gift to China",
-    "tokens": [
-      "analysis",
-      "china",
-      "gift",
-      "glitzy",
-      "stalemate",
-      "summit",
-      "trump"
-    ],
-    "ts": 1790589385.606626
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australian-developer-axes-sydney-suburban-data-centre-plan-after-local-opposition-4919650",
-    "title": "Australian developer axes Sydney suburban data centre plan after local opposition",
-    "tokens": [
-      "australian",
-      "axes",
-      "centre",
-      "data",
-      "developer",
-      "local",
-      "opposition",
-      "plan",
-      "suburban",
-      "sydney"
-    ],
-    "ts": 1790589393.0756083
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/global-fuel-subsidies-surge-as-oil-prices-climb-on-middle-east-conflict-93CH-4919649",
-    "title": "Global fuel subsidies surge as oil prices climb on Middle East conflict",
-    "tokens": [
-      "climb",
-      "conflict",
-      "east",
-      "fuel",
-      "global",
-      "middle",
-      "oil",
-      "prices",
-      "subsidies",
-      "surge"
-    ],
-    "ts": 1790589401.2198966
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ming-yang-completes-nontrading-transfer-of-366m-shares-93CH-4919648",
-    "title": "Ming Yang completes non-trading transfer of 36.6m shares",
-    "tokens": [
-      "completes",
-      "ming",
-      "non",
-      "shares",
-      "trading",
-      "transfer",
-      "yang"
-    ],
-    "ts": 1790589408.7566879
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/kremlin-says-russiaus-arms-control-talks-should-have-resumed-yesterday-4919647",
     "title": "Kremlin says Russia-US arms control talks should have resumed ’yesterday’",
     "tokens": [
@@ -22904,5 +22827,78 @@
       "slides"
     ],
     "ts": 1790808459.5317497
+  },
+  {
+    "id": "WP-MKTW-0005263659",
+    "title": "Google shows it’s not out of the AI race just yet",
+    "tokens": [
+      "google",
+      "just",
+      "race",
+      "shows",
+      "yet"
+    ],
+    "ts": 1790809796.673432
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bank-of-america-to-pay-39-million-to-settle-customer-claims-over-low-interest-rates-on-cash-4926055",
+    "title": "Bank of America to pay $39 million to settle customer claims over low interest rates on cash",
+    "tokens": [
+      "america",
+      "bank",
+      "cash",
+      "claims",
+      "customer",
+      "interest",
+      "low",
+      "million",
+      "pay",
+      "rates",
+      "settle"
+    ],
+    "ts": 1790809805.510713
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/meta-coo-javier-olivan-sells-118-million-in-company-stock-93CH-4926054",
+    "title": "Meta COO Javier Olivan sells $1.18 million in company stock",
+    "tokens": [
+      "company",
+      "coo",
+      "javier",
+      "meta",
+      "million",
+      "olivan",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790809812.3070405
+  },
+  {
+    "id": "oilprice-article-45651",
+    "title": "EU Gas Crunch Forces Rethink of Methane Rules",
+    "tokens": [
+      "crunch",
+      "forces",
+      "gas",
+      "methane",
+      "rethink",
+      "rules"
+    ],
+    "ts": 1790809821.1937926
+  },
+  {
+    "id": "oilprice-news-45651",
+    "title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility",
+    "tokens": [
+      "climbs",
+      "despite",
+      "extreme",
+      "gas",
+      "oil",
+      "price",
+      "production",
+      "volatility"
+    ],
+    "ts": 1790809825.2056644
   }
 ]

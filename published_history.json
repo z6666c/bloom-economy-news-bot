@@ -1,196 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/china-says-us-trade-truce-extension-creates-space-to-advance-talks-4919293",
-    "title": "China says US trade truce extension creates space to advance talks",
-    "tokens": [
-      "advance",
-      "china",
-      "creates",
-      "extension",
-      "space",
-      "talks",
-      "trade",
-      "truce"
-    ],
-    "ts": 1790566282.8953857
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-sliding-today-93CH-4919299",
-    "title": "Why is Samsung Electronics stock sliding today?",
-    "tokens": [
-      "electronics",
-      "samsung",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790567732.641705
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/gift-nifty-50-oversold-at-22944-amid-bear-trend-live-levels-93CH-4919304",
-    "title": "Gift Nifty 50 oversold at 22,944 amid bear trend: Live levels",
-    "tokens": [
-      "944",
-      "bear",
-      "gift",
-      "levels",
-      "live",
-      "nifty",
-      "oversold",
-      "trend"
-    ],
-    "ts": 1790568718.7778983
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nissan-to-launch-hybrid-rogue-in-us-in-november-americas-chairman-says-4919301",
-    "title": "Nissan to launch hybrid Rogue in US in November, Americas chairman says",
-    "tokens": [
-      "americas",
-      "chairman",
-      "hybrid",
-      "launch",
-      "nissan",
-      "november",
-      "rogue"
-    ],
-    "ts": 1790568726.313709
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/openai-training-pause-these-stocks-and-sectors-are-at-risk-93CH-4919300",
-    "title": "OpenAI training pause: These stocks and sectors are at risk",
-    "tokens": [
-      "openai",
-      "pause",
-      "risk",
-      "sectors",
-      "stocks",
-      "these",
-      "training"
-    ],
-    "ts": 1790568733.6700768
-  },
-  {
-    "id": "fcf30766-17ca-43a6-bafc-1f1bc6938b05",
-    "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
-    "tokens": [
-      "bitcoin",
-      "decline",
-      "futures",
-      "iran",
-      "more",
-      "nasdaq",
-      "rule",
-      "strikes",
-      "trump",
-      "won"
-    ],
-    "ts": 1790568743.0141084
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/japans-nidec-slumps-18-on-report-of-63-bln-impairment-4919306",
-    "title": "Japan’s Nidec slumps 18% on report of $6.3 bln impairment",
-    "tokens": [
-      "bln",
-      "impairment",
-      "japan",
-      "nidec",
-      "report",
-      "slumps"
-    ],
-    "ts": 1790569880.2592397
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/innsuites-hospitality-evp-marc-berg-sells-3615m-in-stock-93CH-4919320",
-    "title": "Innsuites Hospitality EVP Marc Berg sells $361.5m in stock",
-    "tokens": [
-      "361",
-      "berg",
-      "evp",
-      "hospitality",
-      "innsuites",
-      "marc",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790571338.155179
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-slip-as-oil-yields-rise-chipmakers-hit-by-openai-pause-4919316",
-    "title": "Asia stocks slip as oil, yields rise; chipmakers hit by OpenAI pause",
-    "tokens": [
-      "asia",
-      "chipmakers",
-      "hit",
-      "oil",
-      "openai",
-      "pause",
-      "rise",
-      "slip",
-      "stocks",
-      "yields"
-    ],
-    "ts": 1790571346.0090024
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/morning-bid-a-new-neutral-rate-much-like-a-decadesold-one-4919315",
-    "title": "Morning Bid: A new neutral rate, much like a decades-old one",
-    "tokens": [
-      "bid",
-      "decades",
-      "like",
-      "morning",
-      "much",
-      "neutral",
-      "old",
-      "one",
-      "rate"
-    ],
-    "ts": 1790571354.2332993
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-goto-gojek-tokopedia-stock-plunging-today-93CH-4919313",
-    "title": "Why is GoTo Gojek Tokopedia stock plunging today?",
-    "tokens": [
-      "gojek",
-      "goto",
-      "plunging",
-      "stock",
-      "today",
-      "tokopedia",
-      "why"
-    ],
-    "ts": 1790571361.4517422
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/corcept-therapeutics-oncology-president-sells-29842-in-stock-93CH-4919312",
-    "title": "Corcept Therapeutics’ oncology president sells $29,842 in stock",
-    "tokens": [
-      "842",
-      "corcept",
-      "oncology",
-      "president",
-      "sells",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1790571368.5203538
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/china-says-to-cut-tariffs-on-us-farm-goods-but-soybeans-excluded-4919307",
-    "title": "China says to cut tariffs on US farm goods, but soybeans excluded",
-    "tokens": [
-      "china",
-      "cut",
-      "excluded",
-      "farm",
-      "goods",
-      "soybeans",
-      "tariffs"
-    ],
-    "ts": 1790571375.8186324
-  },
-  {
     "id": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork",
     "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
     "tokens": [
@@ -22944,5 +22753,202 @@
       "terminal"
     ],
     "ts": 1790794792.3005643
+  },
+  {
+    "id": "WP-MKTW-0005248264",
+    "title": "My friend’s pet-sitting business grosses $300,000 a year, but she pays herself $50,000. Should I start one too?",
+    "tokens": [
+      "000",
+      "300",
+      "business",
+      "friend",
+      "grosses",
+      "herself",
+      "one",
+      "pays",
+      "pet",
+      "she",
+      "should",
+      "sitting",
+      "start",
+      "too",
+      "year"
+    ],
+    "ts": 1790795972.0653527
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/bunker-hill-at-mining-forum-americas-2026-silver-push-gains-scale-93CH-4925755",
+    "title": "Bunker Hill at Mining Forum Americas 2026: silver push gains scale",
+    "tokens": [
+      "2026",
+      "americas",
+      "bunker",
+      "forum",
+      "gains",
+      "hill",
+      "mining",
+      "push",
+      "scale",
+      "silver"
+    ],
+    "ts": 1790795979.5935752
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/roxmore-resources-at-mining-forum-americas-2026-growth-silver-and-scale-93CH-4925753",
+    "title": "Roxmore Resources at Mining Forum Americas 2026: growth, silver and scale",
+    "tokens": [
+      "2026",
+      "americas",
+      "forum",
+      "growth",
+      "mining",
+      "resources",
+      "roxmore",
+      "scale",
+      "silver"
+    ],
+    "ts": 1790795988.2572696
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/city-holding-declares-100-quarterly-dividend-up-15-93CH-4925751",
+    "title": "City Holding declares $1.00 quarterly dividend, up 15%",
+    "tokens": [
+      "city",
+      "declares",
+      "dividend",
+      "holding",
+      "quarterly"
+    ],
+    "ts": 1790795995.8334606
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/synopsys-openai-strike-deal-to-develop-ai-model-for-chip-design-work-4925750",
+    "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work",
+    "tokens": [
+      "chip",
+      "deal",
+      "design",
+      "develop",
+      "model",
+      "openai",
+      "strike",
+      "synopsys",
+      "work"
+    ],
+    "ts": 1790796004.2996204
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/goldman-pushes-fed-rate-hike-to-december-after-cooler-inflation-4925743",
+    "title": "Goldman pushes Fed rate hike to December after cooler inflation",
+    "tokens": [
+      "cooler",
+      "december",
+      "fed",
+      "goldman",
+      "hike",
+      "inflation",
+      "pushes",
+      "rate"
+    ],
+    "ts": 1790796011.4855123
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/jefferies-highlights-three-biotech-stocks-with-blockbuster-potential-4925748",
+    "title": "Jefferies Highlights Three Biotech Stocks With Blockbuster Potential",
+    "tokens": [
+      "biotech",
+      "blockbuster",
+      "highlights",
+      "jefferies",
+      "potential",
+      "stocks",
+      "three"
+    ],
+    "ts": 1790796019.0558727
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-wants-to-speed-certification-of-new-airplanes-4925747",
+    "title": "US wants to speed certification of new airplanes",
+    "tokens": [
+      "airplanes",
+      "certification",
+      "speed",
+      "wants"
+    ],
+    "ts": 1790796026.1245203
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sndk-mrna-twst-top-largecap-momentum-stocks-93CH-4925742",
+    "title": "SNDK, MRNA, TWST: top large-cap momentum stocks",
+    "tokens": [
+      "cap",
+      "large",
+      "momentum",
+      "mrna",
+      "sndk",
+      "stocks",
+      "top",
+      "twst"
+    ],
+    "ts": 1790796033.4426873
+  },
+  {
+    "id": "oilprice-article-45647",
+    "title": "Guyana’s Oil Riches Are Transforming Its Economy at Breakneck Speed",
+    "tokens": [
+      "breakneck",
+      "economy",
+      "guyana",
+      "oil",
+      "riches",
+      "speed",
+      "transforming"
+    ],
+    "ts": 1790796042.3462257
+  },
+  {
+    "id": "oilprice-news-45647",
+    "title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility",
+    "tokens": [
+      "climbs",
+      "despite",
+      "extreme",
+      "gas",
+      "oil",
+      "price",
+      "production",
+      "volatility"
+    ],
+    "ts": 1790796046.3594306
+  },
+  {
+    "id": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms",
+    "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
+    "tokens": [
+      "advocacy",
+      "announces",
+      "congress",
+      "crypto",
+      "group",
+      "loom",
+      "midterms",
+      "picks"
+    ],
+    "ts": 1790796051.6677425
+  },
+  {
+    "id": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc",
+    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+    "tokens": [
+      "adds",
+      "assets",
+      "base",
+      "cobalt",
+      "completes",
+      "tokenized",
+      "tools",
+      "upgrade"
+    ],
+    "ts": 1790796059.2780836
   }
 ]

@@ -1,212 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiveopenai-works-to-understand-full-scope-of-agent-activity-as-user-data-leak-emerges-4919229",
-    "title": "Exclusive-OpenAI works to understand full scope of agent activity as user data leak emerges",
-    "tokens": [
-      "activity",
-      "agent",
-      "data",
-      "emerges",
-      "exclusive",
-      "full",
-      "leak",
-      "openai",
-      "scope",
-      "understand",
-      "user",
-      "works"
-    ],
-    "ts": 1790558849.5592048
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nikkei-225-trapped-in-6520067100-range-live-levels-93CH-4919228",
-    "title": "Nikkei 225 trapped in 65,200-67,100 range: Live levels",
-    "tokens": [
-      "100",
-      "200",
-      "225",
-      "levels",
-      "live",
-      "nikkei",
-      "range",
-      "trapped"
-    ],
-    "ts": 1790558857.3990428
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sk-hynix-doji-at-fibonacci-inflection-1808000-live-levels-93CH-4919227",
-    "title": "SK Hynix doji at Fibonacci inflection ₩1,808,000: Live levels",
-    "tokens": [
-      "000",
-      "808",
-      "doji",
-      "fibonacci",
-      "hynix",
-      "inflection",
-      "levels",
-      "live"
-    ],
-    "ts": 1790558864.6370034
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/boeing-flags-737-max-software-glitch-affecting-landing-navigation-feature-wsj-reports-4919226",
-    "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports",
-    "tokens": [
-      "737",
-      "affecting",
-      "boeing",
-      "feature",
-      "flags",
-      "glitch",
-      "landing",
-      "max",
-      "navigation",
-      "reports",
-      "software",
-      "wsj"
-    ],
-    "ts": 1790558868.6520903
-  },
-  {
-    "id": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit",
-    "title": "Zano rolls blockchain back a month after Gateway Address exploit",
-    "tokens": [
-      "address",
-      "back",
-      "blockchain",
-      "exploit",
-      "gateway",
-      "month",
-      "rolls",
-      "zano"
-    ],
-    "ts": 1790558873.150494
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/dollar-firms-as-usiran-tensions-lift-oil-hawkish-fed-bets-build-4919239",
-    "title": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build",
-    "tokens": [
-      "bets",
-      "build",
-      "dollar",
-      "fed",
-      "firms",
-      "hawkish",
-      "iran",
-      "lift",
-      "oil",
-      "tensions"
-    ],
-    "ts": 1790560500.6566367
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-iran-us-remain-at-odds-over-hormuz-reopening-4919238",
-    "title": "Oil prices rise as Iran, U.S. remain at odds over Hormuz reopening",
-    "tokens": [
-      "hormuz",
-      "iran",
-      "odds",
-      "oil",
-      "prices",
-      "remain",
-      "reopening",
-      "rise"
-    ],
-    "ts": 1790560507.5544581
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/culp-inc-ceo-robert-culp-iv-buys-18423-in-company-stock-93CH-4919234",
-    "title": "Culp Inc CEO Robert Culp IV buys $18,423 in company stock",
-    "tokens": [
-      "423",
-      "buys",
-      "ceo",
-      "company",
-      "culp",
-      "inc",
-      "robert",
-      "stock"
-    ],
-    "ts": 1790560514.2974782
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/saba-capital-a-10-owner-sells-719k-in-blackrock-ecat-shares-93CH-4919233",
-    "title": "Saba capital, a 10% owner, sells $719k in BlackRock ECAT shares",
-    "tokens": [
-      "719k",
-      "blackrock",
-      "capital",
-      "ecat",
-      "owner",
-      "saba",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790560522.2368655
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/brady-corp-coo-thomas-debruine-sells-482k-in-stock-93CH-4919232",
-    "title": "Brady Corp COO Thomas DeBruine sells $482k in stock",
-    "tokens": [
-      "482k",
-      "brady",
-      "coo",
-      "corp",
-      "debruine",
-      "sells",
-      "stock",
-      "thomas"
-    ],
-    "ts": 1790560529.3977218
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/gold-falls-below-4300-as-oil-fed-hike-bets-keep-pressure-on-bullion-4919230",
-    "title": "Gold falls below $4,300 as oil, Fed hike bets keep pressure on bullion",
-    "tokens": [
-      "300",
-      "below",
-      "bets",
-      "bullion",
-      "falls",
-      "fed",
-      "gold",
-      "hike",
-      "keep",
-      "oil",
-      "pressure"
-    ],
-    "ts": 1790560536.9465191
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hang-seng-stuck-below-24800-resistance-live-levels-93CH-4919260",
-    "title": "Hang Seng stuck below 24,800 resistance: Live levels",
-    "tokens": [
-      "800",
-      "below",
-      "hang",
-      "levels",
-      "live",
-      "resistance",
-      "seng",
-      "stuck"
-    ],
-    "ts": 1790561440.98734
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-northern-star-resources-stock-surging-today-93CH-4919259",
-    "title": "Why is Northern Star Resources stock surging today?",
-    "tokens": [
-      "northern",
-      "resources",
-      "star",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790561448.6473956
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/heartflow-cfo-vikram-verghese-sells-123m-in-company-stock-93CH-4919258",
     "title": "Heartflow CFO Vikram Verghese sells $1.23m in company stock",
     "tokens": [
@@ -22949,5 +22742,208 @@
       "who"
     ],
     "ts": 1790788848.6062205
+  },
+  {
+    "id": "WP-MKTW-0005262556",
+    "title": "These bond strategies can help you get a safe 5% return on your cash",
+    "tokens": [
+      "bond",
+      "can",
+      "cash",
+      "get",
+      "help",
+      "return",
+      "safe",
+      "strategies",
+      "these",
+      "you",
+      "your"
+    ],
+    "ts": 1790790103.041685
+  },
+  {
+    "id": "WP-MKTW-0005262142",
+    "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
+    "tokens": [
+      "alaskan",
+      "battleground",
+      "billion",
+      "closer",
+      "draw",
+      "economic",
+      "like",
+      "midterms",
+      "pipeline",
+      "states",
+      "touts",
+      "trump",
+      "wins"
+    ],
+    "ts": 1790790110.7617188
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/pemex-crude-oil-exports-fall-45-in-august-amid-refining-push-93CH-4925674",
+    "title": "Pemex crude oil exports fall 45% in August amid refining push",
+    "tokens": [
+      "august",
+      "crude",
+      "exports",
+      "fall",
+      "oil",
+      "pemex",
+      "push",
+      "refining"
+    ],
+    "ts": 1790790119.9957197
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/dte-energy-stock-hits-52week-low-at-1785-usd-93CH-4925673",
+    "title": "DTE Energy stock hits 52-week low at 17.85 USD",
+    "tokens": [
+      "dte",
+      "energy",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790790124.0080996
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/btig-cuts-connect-biopharma-stock-price-target-on-trial-timeline-93CH-4925672",
+    "title": "BTIG cuts Connect Biopharma stock price target on trial timeline",
+    "tokens": [
+      "biopharma",
+      "btig",
+      "connect",
+      "cuts",
+      "price",
+      "stock",
+      "target",
+      "timeline",
+      "trial"
+    ],
+    "ts": 1790790128.035852
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/liquidia-loses-patent-infringement-case-on-two-claims-93CH-4925671",
+    "title": "Liquidia loses patent infringement case on two claims",
+    "tokens": [
+      "case",
+      "claims",
+      "infringement",
+      "liquidia",
+      "loses",
+      "patent",
+      "two"
+    ],
+    "ts": 1790790135.3587663
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/euronext-wheat-edges-lower-as-us-corn-stocks-weigh-on-grains-93CH-4925669",
+    "title": "Euronext wheat edges lower as US corn stocks weigh on grains",
+    "tokens": [
+      "corn",
+      "edges",
+      "euronext",
+      "grains",
+      "lower",
+      "stocks",
+      "weigh",
+      "wheat"
+    ],
+    "ts": 1790790143.6790335
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/hsbc-upgrades-target-stock-rating-on-earnings-recovery-potential-93CH-4925668",
+    "title": "HSBC upgrades Target stock rating on earnings recovery potential",
+    "tokens": [
+      "earnings",
+      "hsbc",
+      "potential",
+      "rating",
+      "recovery",
+      "stock",
+      "target",
+      "upgrades"
+    ],
+    "ts": 1790790150.217354
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/morgan-stanley-direct-lending-fund-stock-hits-52week-low-at-1365-usd-93CH-4925667",
+    "title": "Morgan Stanley Direct Lending Fund stock hits 52-week low at 13.65 USD",
+    "tokens": [
+      "direct",
+      "fund",
+      "hits",
+      "lending",
+      "low",
+      "morgan",
+      "stanley",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790790157.823727
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ecbs-lagarde-rules-out-2027-french-presidential-bid-93CH-4925666",
+    "title": "ECB’s Lagarde rules out 2027 French presidential bid",
+    "tokens": [
+      "2027",
+      "bid",
+      "ecb",
+      "french",
+      "lagarde",
+      "presidential",
+      "rules"
+    ],
+    "ts": 1790790164.674386
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/commerce-secretary-lutnick-reports-250-million-in-2025-income-4925665",
+    "title": "Commerce Secretary Lutnick reports $250 million in 2025 income",
+    "tokens": [
+      "2025",
+      "250",
+      "commerce",
+      "income",
+      "lutnick",
+      "million",
+      "reports",
+      "secretary"
+    ],
+    "ts": 1790790172.431615
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/israel-to-ramp-up-pilot-checks-after-flydubai-scare-4925664",
+    "title": "Israel to ramp up pilot checks after flydubai scare",
+    "tokens": [
+      "checks",
+      "flydubai",
+      "israel",
+      "pilot",
+      "ramp",
+      "scare"
+    ],
+    "ts": 1790790179.3127136
+  },
+  {
+    "id": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel",
+    "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+    "tokens": [
+      "aviation",
+      "brazil",
+      "cardano",
+      "diesel",
+      "fuel",
+      "petrobras",
+      "renewable",
+      "sustainable",
+      "track",
+      "uses"
+    ],
+    "ts": 1790790188.473758
   }
 ]

@@ -1,220 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/morgan-stanley-public-finance-cohead-zach-solomon-leaves-for-td--bloomberg-4918353",
-    "title": "Morgan Stanley public finance co-head Zach Solomon leaves for TD - Bloomberg",
-    "tokens": [
-      "bloomberg",
-      "finance",
-      "head",
-      "leaves",
-      "morgan",
-      "public",
-      "solomon",
-      "stanley",
-      "zach"
-    ],
-    "ts": 1790384143.5713332
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/first-us-trial-against-tiktok-to-test-claims-platform-fueled-teen-mental-health-crisis-4917073",
-    "title": "TikTok reaches first state settlement over teen safety claims, agrees to user limits",
-    "tokens": [
-      "agrees",
-      "claims",
-      "first",
-      "limits",
-      "reaches",
-      "safety",
-      "settlement",
-      "state",
-      "teen",
-      "tiktok",
-      "user"
-    ],
-    "ts": 1790384151.2680671
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/berkshire-hathaway-buys-136m-in-lennar-shares-93CH-4918348",
-    "title": "Berkshire Hathaway buys $136m in Lennar shares",
-    "tokens": [
-      "136m",
-      "berkshire",
-      "buys",
-      "hathaway",
-      "lennar",
-      "shares"
-    ],
-    "ts": 1790384158.5220032
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/nextnav-coo-susan-brasse-sells-33701-in-company-stock-93CH-4918347",
-    "title": "Nextnav COO Susan Brasse sells $33,701 in company stock",
-    "tokens": [
-      "701",
-      "brasse",
-      "company",
-      "coo",
-      "nextnav",
-      "sells",
-      "stock",
-      "susan"
-    ],
-    "ts": 1790384165.2384393
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/nextnav-cfo-timothy-gray-sells-162538-in-stock-93CH-4918346",
-    "title": "NextNav CFO Timothy Gray sells $162,538 in stock",
-    "tokens": [
-      "162",
-      "538",
-      "cfo",
-      "gray",
-      "nextnav",
-      "sells",
-      "stock",
-      "timothy"
-    ],
-    "ts": 1790384172.166556
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/goldcana-closes-c2m-private-placement-for-exploration-93CH-4918364",
-    "title": "Goldcana closes C$2M private placement for exploration",
-    "tokens": [
-      "closes",
-      "exploration",
-      "goldcana",
-      "placement",
-      "private"
-    ],
-    "ts": 1790385916.693777
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/lyft-cfo-erin-brewer-sells-219631-in-company-stock-93CH-4918390",
-    "title": "Lyft CFO Erin Brewer sells $219,631 in company stock",
-    "tokens": [
-      "219",
-      "631",
-      "brewer",
-      "cfo",
-      "company",
-      "erin",
-      "lyft",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790388630.565837
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-cfo-burt-podbere-sells-1255m-in-crwd-shares-93CH-4918388",
-    "title": "Crowdstrike CFO Burt Podbere sells $125.5m in CRWD shares",
-    "tokens": [
-      "125",
-      "burt",
-      "cfo",
-      "crowdstrike",
-      "crwd",
-      "podbere",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790388639.1838768
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/natera-director-sheenas-trusts-dispose-of-70m-in-ntra-stock-93CH-4918389",
-    "title": "Natera director Sheena’s trusts dispose of $7.0m in NTRA stock",
-    "tokens": [
-      "director",
-      "dispose",
-      "natera",
-      "ntra",
-      "sheena",
-      "stock",
-      "trusts"
-    ],
-    "ts": 1790388645.8228507
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/lumentum-president-wupen-yuen-sells-928k-in-company-stock-93CH-4918378",
-    "title": "Lumentum president Wupen Yuen sells $928k in company stock",
-    "tokens": [
-      "928k",
-      "company",
-      "lumentum",
-      "president",
-      "sells",
-      "stock",
-      "wupen",
-      "yuen"
-    ],
-    "ts": 1790388652.9891005
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bofa-explains-how-telecom-companies-can-evolve-to-be-ai-winners-4918374",
-    "title": "BofA explains how telecom companies can evolve to be AI winners",
-    "tokens": [
-      "bofa",
-      "can",
-      "companies",
-      "evolve",
-      "explains",
-      "how",
-      "telecom",
-      "winners"
-    ],
-    "ts": 1790388660.347936
-  },
-  {
-    "id": "a5ca0471-ae18-4e87-b3eb-2470edec7974",
-    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-    "tokens": [
-      "bitcoin",
-      "changing",
-      "could",
-      "get",
-      "privacy",
-      "rules",
-      "shielded",
-      "soon",
-      "style",
-      "without",
-      "zcash"
-    ],
-    "ts": 1790395838.7314868
-  },
-  {
-    "id": "4e3afdfc-0e98-4569-adc2-020b5762a762",
-    "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
-    "tokens": [
-      "batch",
-      "ledger",
-      "oct",
-      "resets",
-      "slips",
-      "support",
-      "upgrade",
-      "validator",
-      "xrp"
-    ],
-    "ts": 1790397715.7327805
-  },
-  {
-    "id": "100b2cba-7e49-4f89-8113-588b5b53e894",
-    "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-    "tokens": [
-      "150",
-      "millisecond",
-      "network",
-      "public",
-      "reaches",
-      "second",
-      "settlement",
-      "solana",
-      "test",
-      "upgrade"
-    ],
-    "ts": 1790399416.169552
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/iran-awaits-us-response-to-hormuz-peace-plan-as-trump-reportedly-rejects-deal-4918476",
     "title": "Iran awaits US response to Hormuz peace plan as Trump reportedly rejects deal",
     "tokens": [
@@ -22979,5 +22764,214 @@
       "truist"
     ],
     "ts": 1790762446.6701615
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/portugal-consumer-prices-rise-36-in-september-on-fuel-costs-93CH-4924558",
+    "title": "Portugal consumer prices rise 3.6% in September on fuel costs",
+    "tokens": [
+      "consumer",
+      "costs",
+      "fuel",
+      "portugal",
+      "prices",
+      "rise",
+      "september"
+    ],
+    "ts": 1790763660.189424
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-trulieve-cannabis-stock-sliding-today-93CH-4924557",
+    "title": "Why is Trulieve Cannabis stock sliding today?",
+    "tokens": [
+      "cannabis",
+      "sliding",
+      "stock",
+      "today",
+      "trulieve",
+      "why"
+    ],
+    "ts": 1790763668.0412142
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-concentrix-stock-sliding-today-93CH-4924555",
+    "title": "Why is Concentrix stock sliding today?",
+    "tokens": [
+      "concentrix",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790763672.0581374
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-trade-court-to-weigh-challenge-to-trumps-forced-labor-tariffs-4924535",
+    "title": "US trade court to weigh challenge to Trump’s forced labor tariffs",
+    "tokens": [
+      "challenge",
+      "court",
+      "forced",
+      "labor",
+      "tariffs",
+      "trade",
+      "trump",
+      "weigh"
+    ],
+    "ts": 1790763675.2427046
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/wall-st-regulator-to-unveil-new-retail-investor-proposals-for-private-assets-4924538",
+    "title": "Wall St regulator to unveil new retail investor proposals for private assets",
+    "tokens": [
+      "assets",
+      "investor",
+      "private",
+      "proposals",
+      "regulator",
+      "retail",
+      "unveil",
+      "wall"
+    ],
+    "ts": 1790763683.5607624
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/facing-climate-lawsuits-big-oil-again-turns-to-us-supreme-court-4924551",
+    "title": "Facing climate lawsuits, Big Oil again turns to US Supreme Court",
+    "tokens": [
+      "again",
+      "big",
+      "climate",
+      "court",
+      "facing",
+      "lawsuits",
+      "oil",
+      "supreme",
+      "turns"
+    ],
+    "ts": 1790763691.4561093
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stephens-initiates-smithfield-foods-stock-coverage-with-22-target-93CH-4924550",
+    "title": "Stephens initiates Smithfield Foods stock coverage with $22 target",
+    "tokens": [
+      "coverage",
+      "foods",
+      "initiates",
+      "smithfield",
+      "stephens",
+      "stock",
+      "target"
+    ],
+    "ts": 1790763699.4401798
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/kenon-to-acquire-25-stake-in-vicinity-for-about-450-million-93CH-4924549",
+    "title": "Kenon to acquire 25% stake in Vicinity for about $450 million",
+    "tokens": [
+      "450",
+      "about",
+      "acquire",
+      "kenon",
+      "million",
+      "stake",
+      "vicinity"
+    ],
+    "ts": 1790763706.9585505
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/wouldbe-taylor-swift-concert-attacker-loses-privacy-case-against-disney-4924548",
+    "title": "Would-be Taylor Swift concert attacker loses privacy case against Disney",
+    "tokens": [
+      "against",
+      "attacker",
+      "case",
+      "concert",
+      "disney",
+      "loses",
+      "privacy",
+      "swift",
+      "taylor",
+      "would"
+    ],
+    "ts": 1790763714.3762069
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/bca-raises-dollar-target-on-widening-realrate-gap-and-resilient-growth-4924547",
+    "title": "BCA raises dollar target on widening real-rate gap and resilient growth",
+    "tokens": [
+      "bca",
+      "dollar",
+      "gap",
+      "growth",
+      "raises",
+      "rate",
+      "real",
+      "resilient",
+      "target",
+      "widening"
+    ],
+    "ts": 1790763721.2746727
+  },
+  {
+    "id": "852d952c-97c0-4ced-8aa7-3f6d6fefef14",
+    "title": "Live updates: Bitcoin below $84,000 ahead of PCE inflation data, Micron earnings",
+    "tokens": [
+      "000",
+      "ahead",
+      "below",
+      "bitcoin",
+      "data",
+      "earnings",
+      "inflation",
+      "live",
+      "micron",
+      "pce",
+      "updates"
+    ],
+    "ts": 1790763729.7442698
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red",
+    "title": "Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red",
+    "tokens": [
+      "bitcoin",
+      "etfs",
+      "ether",
+      "funds",
+      "inflow",
+      "red",
+      "streak",
+      "stretch",
+      "turn"
+    ],
+    "ts": 1790763737.0576515
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026",
+    "title": "Crypto hardware wallets compared for 2026",
+    "tokens": [
+      "2026",
+      "compared",
+      "crypto",
+      "hardware",
+      "wallets"
+    ],
+    "ts": 1790763744.6374688
+  },
+  {
+    "id": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation",
+    "title": "SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit",
+    "tokens": [
+      "activity",
+      "aug",
+      "bitget",
+      "day",
+      "exploit",
+      "hack",
+      "slowmist",
+      "traces",
+      "zero"
+    ],
+    "ts": 1790763751.5978875
   }
 ]

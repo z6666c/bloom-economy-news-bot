@@ -1,114 +1,5 @@
 [
   {
-    "id": "oilprice-article-45609",
-    "title": "The Next Global Energy Crisis Won’t Come From Just One Direction",
-    "tokens": [
-      "come",
-      "crisis",
-      "direction",
-      "energy",
-      "global",
-      "just",
-      "next",
-      "one",
-      "won"
-    ],
-    "ts": 1790536223.2448916
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anthropic-ceo-amodei-to-meet-trump-privately-ahead-of-ai-summit-4919089",
-    "title": "Anthropic CEO Amodei to meet Trump privately ahead of AI summit",
-    "tokens": [
-      "ahead",
-      "amodei",
-      "anthropic",
-      "ceo",
-      "meet",
-      "privately",
-      "summit",
-      "trump"
-    ],
-    "ts": 1790537898.8827705
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/medpace-holdings-ceo-august-j-troendle-sells-675m-in-stock-93CH-4919117",
-    "title": "Medpace Holdings CEO August J. Troendle sells $6.75m in stock",
-    "tokens": [
-      "75m",
-      "august",
-      "ceo",
-      "holdings",
-      "medpace",
-      "sells",
-      "stock",
-      "troendle"
-    ],
-    "ts": 1790542346.7360413
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/redwood-trust-chro-macomber-buys-19967-in-common-stock-93CH-4919134",
-    "title": "Redwood Trust CHRO Macomber buys $19,967 in common stock",
-    "tokens": [
-      "967",
-      "buys",
-      "chro",
-      "common",
-      "macomber",
-      "redwood",
-      "stock",
-      "trust"
-    ],
-    "ts": 1790543419.4018886
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/butler-national-corp-director-joseph-daly-buys-16400-in-shares-93CH-4919135",
-    "title": "Butler National Corp director Joseph Daly buys $16,400 in shares",
-    "tokens": [
-      "400",
-      "butler",
-      "buys",
-      "corp",
-      "daly",
-      "director",
-      "joseph",
-      "national",
-      "shares"
-    ],
-    "ts": 1790543426.386401
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/barclays-sees-lasting-labormarket-pressures-as-immigration-slows-population-ages-4919127",
-    "title": "Barclays sees lasting labor-market pressures as immigration slows, population ages",
-    "tokens": [
-      "ages",
-      "barclays",
-      "immigration",
-      "labor",
-      "lasting",
-      "market",
-      "population",
-      "pressures",
-      "sees",
-      "slows"
-    ],
-    "ts": 1790543433.9465792
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4919147",
-    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-    "tokens": [
-      "close",
-      "index",
-      "lower",
-      "moex",
-      "russia",
-      "stocks",
-      "trade",
-      "unchanged"
-    ],
-    "ts": 1790545216.626216
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/real-remax-director-liniger-sells-101-million-of-company-stock-93CH-4919145",
     "title": "Real REMAX director Liniger sells $1.01 million of company stock",
     "tokens": [
@@ -22911,5 +22802,115 @@
       "usual"
     ],
     "ts": 1790786658.6138158
+  },
+  {
+    "id": "WP-MKTW-0005259918",
+    "title": "Gold is supposed to be a safe haven when inflation surges. So why isn’t it working that way now?",
+    "tokens": [
+      "gold",
+      "haven",
+      "inflation",
+      "isn",
+      "now",
+      "safe",
+      "supposed",
+      "surges",
+      "way",
+      "when",
+      "why",
+      "working"
+    ],
+    "ts": 1790787493.5383132
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/magic-empire-global-closes-3m-registered-direct-offering-93CH-4925625",
+    "title": "Magic Empire Global closes $3M registered direct offering",
+    "tokens": [
+      "closes",
+      "direct",
+      "empire",
+      "global",
+      "magic",
+      "offering",
+      "registered"
+    ],
+    "ts": 1790787497.6820176
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/mineralys-at-stifel-cardiometabolic-forum-launch-plan-takes-shape-93CH-4925623",
+    "title": "Mineralys at Stifel cardiometabolic forum: launch plan takes shape",
+    "tokens": [
+      "cardiometabolic",
+      "forum",
+      "launch",
+      "mineralys",
+      "plan",
+      "shape",
+      "stifel",
+      "takes"
+    ],
+    "ts": 1790787501.7890222
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/elevenlabs-valuation-doubles-to-22-billion-on-surging-ai-voiceagent-demand-4925621",
+    "title": "ElevenLabs’ valuation doubles to $22 billion on surging AI voice-agent demand",
+    "tokens": [
+      "agent",
+      "billion",
+      "demand",
+      "doubles",
+      "elevenlabs",
+      "surging",
+      "valuation",
+      "voice"
+    ],
+    "ts": 1790787509.246887
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/mattel-names-roger-lynch-ceo-4925046",
+    "title": "Mattel taps Condé Nast’s Lynch as CEO Kreiz, who led brand revival, departs",
+    "tokens": [
+      "brand",
+      "ceo",
+      "cond",
+      "departs",
+      "kreiz",
+      "led",
+      "lynch",
+      "mattel",
+      "nast",
+      "revival",
+      "taps",
+      "who"
+    ],
+    "ts": 1790787517.3165946
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ag-barr-h1-2627-slides-85-revenue-growth-despite-supply-disruption-93CH-4925618",
+    "title": "AG Barr H1 26/27 slides: 8.5% revenue growth despite supply disruption",
+    "tokens": [
+      "barr",
+      "despite",
+      "disruption",
+      "growth",
+      "revenue",
+      "slides",
+      "supply"
+    ],
+    "ts": 1790787524.1742892
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ag-barr-h1-2627-slides-supply-issues-resolved-85-revenue-growth-93CH-4925617",
+    "title": "AG Barr H1 26/27 slides: supply issues resolved, 8.5% revenue growth",
+    "tokens": [
+      "barr",
+      "growth",
+      "issues",
+      "resolved",
+      "revenue",
+      "slides",
+      "supply"
+    ],
+    "ts": 1790787532.0277047
   }
 ]

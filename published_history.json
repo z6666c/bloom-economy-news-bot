@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/dentsply-sirona-stock-hits-52week-low-at-935-usd-93CH-4917981",
-    "title": "Dentsply Sirona stock hits 52-week low at 9.35 USD",
-    "tokens": [
-      "dentsply",
-      "hits",
-      "low",
-      "sirona",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790364320.8473635
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/feds-hammack-says-bond-yield-surge-not-about-lost-inflation-confidence-4917980",
-    "title": "Fed’s Hammack says bond yield surge not about lost inflation confidence",
-    "tokens": [
-      "about",
-      "bond",
-      "confidence",
-      "fed",
-      "hammack",
-      "inflation",
-      "lost",
-      "surge",
-      "yield"
-    ],
-    "ts": 1790364324.4984305
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/raymond-james-notes-boat-registrations-fall-as-marine-demand-weakens-93CH-4917977",
     "title": "Raymond James notes boat registrations fall as marine demand weakens",
     "tokens": [
@@ -22983,5 +22953,32 @@
       "super"
     ],
     "ts": 1790740722.9024715
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/china-adds-55-tariff-to-brazil-beef-imports-4924059",
+    "title": "China adds 55% tariff to Brazil beef imports",
+    "tokens": [
+      "adds",
+      "beef",
+      "brazil",
+      "china",
+      "imports",
+      "tariff"
+    ],
+    "ts": 1790741979.1421623
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pale-fire-capital-buys-113m-in-coursera-cour-stock-93CH-4924057",
+    "title": "Pale fire capital buys $11.3m in Coursera (COUR) stock",
+    "tokens": [
+      "buys",
+      "capital",
+      "cour",
+      "coursera",
+      "fire",
+      "pale",
+      "stock"
+    ],
+    "ts": 1790741988.3764224
   }
 ]

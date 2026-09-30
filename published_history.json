@@ -1,98 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/costco-options-flow-analysis-after-earnings-beat-93CH-4917887",
-    "title": "Costco options flow analysis after earnings beat",
-    "tokens": [
-      "analysis",
-      "beat",
-      "costco",
-      "earnings",
-      "flow",
-      "options"
-    ],
-    "ts": 1790356226.5185874
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/unions-at-chiles-escondida-mine-reject-bid-to-pause-contract-talks-after-workers-death-4917884",
-    "title": "Unions at Chile’s Escondida mine reject bid to pause contract talks after worker’s death",
-    "tokens": [
-      "bid",
-      "chile",
-      "contract",
-      "death",
-      "escondida",
-      "mine",
-      "pause",
-      "reject",
-      "talks",
-      "unions",
-      "worker"
-    ],
-    "ts": 1790356234.306189
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/accsys-technologies-shareholders-approve-all-agm-resolutions-93CH-4917881",
-    "title": "Accsys Technologies shareholders approve all AGM resolutions",
-    "tokens": [
-      "accsys",
-      "agm",
-      "all",
-      "approve",
-      "resolutions",
-      "shareholders",
-      "technologies"
-    ],
-    "ts": 1790356241.119936
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/coal-india-unit-secl-selects-banks-for-800-million-mumbai-ipo--bloomberg-4917880",
-    "title": "Coal India unit SECL selects banks for $800 million Mumbai IPO - Bloomberg",
-    "tokens": [
-      "800",
-      "banks",
-      "bloomberg",
-      "coal",
-      "india",
-      "ipo",
-      "million",
-      "mumbai",
-      "secl",
-      "selects",
-      "unit"
-    ],
-    "ts": 1790356248.484614
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/microsoft-options-flow-shows-bullish-positioning-with-2531-calltoput-ratio-93CH-4917876",
-    "title": "Microsoft options flow shows bullish positioning with 2.53:1 call-to-put ratio",
-    "tokens": [
-      "bullish",
-      "call",
-      "flow",
-      "microsoft",
-      "options",
-      "positioning",
-      "put",
-      "ratio",
-      "shows"
-    ],
-    "ts": 1790356256.433749
-  },
-  {
-    "id": "WP-MKTW-0005253860",
-    "title": "This is why you might see 8% mortgage rates soon",
-    "tokens": [
-      "might",
-      "mortgage",
-      "rates",
-      "see",
-      "soon",
-      "why",
-      "you"
-    ],
-    "ts": 1790357199.6837301
-  },
-  {
     "id": "WP-MKTW-0005253042",
     "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
     "tokens": [
@@ -22993,5 +22900,101 @@
       "third"
     ],
     "ts": 1790727453.8707857
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-amd-stock-buys-nvidia-and-tesla-93CH-4923926",
+    "title": "Cathie Wood’s ARK sells AMD stock, buys Nvidia and Tesla",
+    "tokens": [
+      "amd",
+      "ark",
+      "buys",
+      "cathie",
+      "nvidia",
+      "sells",
+      "stock",
+      "tesla",
+      "wood"
+    ],
+    "ts": 1790729301.9692497
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pagaya-technologies-president-sanjiv-das-sells-243672-in-shares-93CH-4923925",
+    "title": "Pagaya Technologies president Sanjiv Das sells $243,672 in shares",
+    "tokens": [
+      "243",
+      "672",
+      "das",
+      "pagaya",
+      "president",
+      "sanjiv",
+      "sells",
+      "shares",
+      "technologies"
+    ],
+    "ts": 1790729311.1302745
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/japan-industrial-production-unexpectedly-falls-in-august-retail-sales-slow-4923919",
+    "title": "Japan industrial production unexpectedly falls in August, retail sales slow",
+    "tokens": [
+      "august",
+      "falls",
+      "industrial",
+      "japan",
+      "production",
+      "retail",
+      "sales",
+      "slow",
+      "unexpectedly"
+    ],
+    "ts": 1790729318.6866996
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/standard-lithium-at-lytham-partners-fall-2026-derisked-push-toward-2029-93CH-4923918",
+    "title": "Standard Lithium at Lytham Partners fall 2026: de-risked push toward 2029",
+    "tokens": [
+      "2026",
+      "2029",
+      "fall",
+      "lithium",
+      "lytham",
+      "partners",
+      "push",
+      "risked",
+      "standard",
+      "toward"
+    ],
+    "ts": 1790729326.371532
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/uranium-energy-earnings-missed-by-008-revenue-topped-estimates-4923917",
+    "title": "Uranium Energy earnings missed by $0.08, revenue topped estimates",
+    "tokens": [
+      "earnings",
+      "energy",
+      "estimates",
+      "missed",
+      "revenue",
+      "topped",
+      "uranium"
+    ],
+    "ts": 1790729336.4659925
+  },
+  {
+    "id": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai",
+    "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
+    "tokens": [
+      "accord",
+      "calls",
+      "firms",
+      "frontier",
+      "own",
+      "police",
+      "self",
+      "tech",
+      "their",
+      "trump"
+    ],
+    "ts": 1790729345.990128
   }
 ]

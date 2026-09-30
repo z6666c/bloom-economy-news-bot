@@ -1,179 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-073-4917861",
-    "title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.73%",
-    "tokens": [
-      "close",
-      "higher",
-      "omx",
-      "stockholm",
-      "stocks",
-      "sweden",
-      "trade"
-    ],
-    "ts": 1790353952.919788
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-065-4917860",
-    "title": "Spain stocks higher at close of trade; IBEX 35 up 0.65%",
-    "tokens": [
-      "close",
-      "higher",
-      "ibex",
-      "spain",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790353959.4477167
-  },
-  {
-    "id": "oilprice-news-45617",
-    "title": "BP Eyes Bigger U.S. Shale Footprint After Devon Deal Talks",
-    "tokens": [
-      "bigger",
-      "deal",
-      "devon",
-      "eyes",
-      "footprint",
-      "shale",
-      "talks"
-    ],
-    "ts": 1790353968.1633372
-  },
-  {
-    "id": "oilprice-article-45617",
-    "title": "Why WTI Is Suddenly Trading $12 Below Brent",
-    "tokens": [
-      "below",
-      "brent",
-      "suddenly",
-      "trading",
-      "why",
-      "wti"
-    ],
-    "ts": 1790353976.3798738
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
-    "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-    "tokens": [
-      "agencies",
-      "bank",
-      "comment",
-      "community",
-      "core",
-      "engagement",
-      "guidance",
-      "issue",
-      "management",
-      "party",
-      "proposed",
-      "providers",
-      "risk",
-      "seek",
-      "service",
-      "statement",
-      "third"
-    ],
-    "ts": 1790353984.103928
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/oaktreebacked-utmost-delays-london-ipo-plans-bloomberg-reports-4917873",
-    "title": "Oaktree-backed Utmost delays London IPO plans, Bloomberg reports",
-    "tokens": [
-      "backed",
-      "bloomberg",
-      "delays",
-      "ipo",
-      "london",
-      "oaktree",
-      "plans",
-      "reports",
-      "utmost"
-    ],
-    "ts": 1790355247.6050127
-  },
-  {
-    "id": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends",
-    "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
-    "tokens": [
-      "approval",
-      "daily",
-      "dividends",
-      "preferred",
-      "seeks",
-      "shareholder",
-      "stock",
-      "strategy"
-    ],
-    "ts": 1790355255.9024632
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sk-hynixs-solidigm-eyes-2027-ipo-at-value-up-to-150-billion--reuters-432SI-4917882",
-    "title": "SK Hynix’s Solidigm eyes 2027 IPO at value up to $150 billion - Reuters",
-    "tokens": [
-      "150",
-      "2027",
-      "billion",
-      "eyes",
-      "hynix",
-      "ipo",
-      "reuters",
-      "solidigm",
-      "value"
-    ],
-    "ts": 1790356197.284529
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusivesk-hynixs-solidigm-weighs-ipo-that-could-value-theunit-at-up-to-150-billion-sources-say-4917883",
-    "title": "Exclusive-SK Hynix’s Solidigm weighs IPO that could value the unit at up to $150 billion, sources say",
-    "tokens": [
-      "150",
-      "billion",
-      "could",
-      "exclusive",
-      "hynix",
-      "ipo",
-      "say",
-      "solidigm",
-      "sources",
-      "unit",
-      "value",
-      "weighs"
-    ],
-    "ts": 1790356204.1604085
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/france-cant-count-on-ecb-to-fix-debt-woes-central-bank-chief-says-4917889",
-    "title": "France can’t count on ECB to fix debt woes, central bank chief says",
-    "tokens": [
-      "bank",
-      "can",
-      "central",
-      "chief",
-      "count",
-      "debt",
-      "ecb",
-      "fix",
-      "france",
-      "woes"
-    ],
-    "ts": 1790356211.085114
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/together-housing-delays-audited-accounts-publication-93CH-4917888",
-    "title": "Together Housing delays audited accounts publication",
-    "tokens": [
-      "accounts",
-      "audited",
-      "delays",
-      "housing",
-      "publication",
-      "together"
-    ],
-    "ts": 1790356219.0955164
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/costco-options-flow-analysis-after-earnings-beat-93CH-4917887",
     "title": "Costco options flow analysis after earnings beat",
     "tokens": [
@@ -23003,5 +22829,169 @@
       "tsa"
     ],
     "ts": 1790726028.1480205
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/concentrix-earnings-beat-by-021-revenue-fell-short-of-estimates-4923916",
+    "title": "Concentrix earnings beat by $0.21, revenue fell short of estimates",
+    "tokens": [
+      "beat",
+      "concentrix",
+      "earnings",
+      "estimates",
+      "fell",
+      "revenue",
+      "short"
+    ],
+    "ts": 1790727381.2876654
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/robinhood-unveils-ai-agents-for-automated-trading-4923915",
+    "title": "Robinhood unveils AI agents for automated trading",
+    "tokens": [
+      "agents",
+      "automated",
+      "robinhood",
+      "trading",
+      "unveils"
+    ],
+    "ts": 1790727389.36607
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/trekor-metals-at-lytham-partners-florence-ramps-up-as-copper-stays-tight-93CH-4923913",
+    "title": "Trekor Metals at Lytham Partners: Florence ramps up as copper stays tight",
+    "tokens": [
+      "copper",
+      "florence",
+      "lytham",
+      "metals",
+      "partners",
+      "ramps",
+      "stays",
+      "tight",
+      "trekor"
+    ],
+    "ts": 1790727398.097225
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/japan-august-factory-output-falls-17-monthonmonth-4923906",
+    "title": "Japan August factory output falls 1.7% month-on-month",
+    "tokens": [
+      "august",
+      "factory",
+      "falls",
+      "japan",
+      "month",
+      "output"
+    ],
+    "ts": 1790727405.0724747
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/aquafil-at-lytham-partners-costs-fall-as-econyl-gains-traction-93CH-4923901",
+    "title": "Aquafil at Lytham Partners: costs fall as ECONYL gains traction",
+    "tokens": [
+      "aquafil",
+      "costs",
+      "econyl",
+      "fall",
+      "gains",
+      "lytham",
+      "partners",
+      "traction"
+    ],
+    "ts": 1790727412.918085
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/franconevada-at-mining-forum-americas-2026-growth-levers-in-view-93CH-4923900",
+    "title": "Franco-Nevada at Mining Forum Americas 2026: growth levers in view",
+    "tokens": [
+      "2026",
+      "americas",
+      "forum",
+      "franco",
+      "growth",
+      "levers",
+      "mining",
+      "nevada",
+      "view"
+    ],
+    "ts": 1790727420.3860953
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/google-pays-100-publishers-for-aipowered-search-content-the-information-93CH-4923899",
+    "title": "Google pays 100 publishers for AI-powered search content- The Information",
+    "tokens": [
+      "100",
+      "content",
+      "google",
+      "information",
+      "pays",
+      "powered",
+      "publishers",
+      "search"
+    ],
+    "ts": 1790727427.854492
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/sba-communications-at-rbc-conference-eyes-6g-buybacks-and-growth-93CH-4923898",
+    "title": "SBA Communications at RBC conference: eyes 6g, buybacks and growth",
+    "tokens": [
+      "buybacks",
+      "communications",
+      "conference",
+      "eyes",
+      "growth",
+      "rbc",
+      "sba"
+    ],
+    "ts": 1790727435.516767
+  },
+  {
+    "id": "oilprice-article-45639",
+    "title": "Oil's New Normal Is Higher Prices",
+    "tokens": [
+      "higher",
+      "normal",
+      "oil",
+      "prices"
+    ],
+    "ts": 1790727445.310271
+  },
+  {
+    "id": "oilprice-news-45639",
+    "title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
+    "tokens": [
+      "again",
+      "diesel",
+      "oil",
+      "reserve",
+      "strategic",
+      "taps",
+      "tops"
+    ],
+    "ts": 1790727449.3273382
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+    "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+    "tokens": [
+      "agencies",
+      "bank",
+      "comment",
+      "community",
+      "core",
+      "engagement",
+      "guidance",
+      "issue",
+      "management",
+      "party",
+      "proposed",
+      "providers",
+      "risk",
+      "seek",
+      "service",
+      "statement",
+      "third"
+    ],
+    "ts": 1790727453.8707857
   }
 ]

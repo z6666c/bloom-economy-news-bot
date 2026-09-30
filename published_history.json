@@ -1,140 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/krait-critical-minerals-closes-first-tranche-of-private-placement-93CH-4918335",
-    "title": "Krait Critical Minerals closes first tranche of private placement",
-    "tokens": [
-      "closes",
-      "critical",
-      "first",
-      "krait",
-      "minerals",
-      "placement",
-      "private",
-      "tranche"
-    ],
-    "ts": 1790382996.3837676
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/marygold-companies-to-go-private-in-agreement-with-madison-dearborn-partners-93CH-4918334",
-    "title": "Marygold Companies to go private in agreement with Madison Dearborn Partners",
-    "tokens": [
-      "agreement",
-      "companies",
-      "dearborn",
-      "madison",
-      "marygold",
-      "partners",
-      "private"
-    ],
-    "ts": 1790383000.4008977
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/larry-ellison-adds-92-billion-in-oracle-shares-as-loan-collateral-4918330",
-    "title": "Larry Ellison adds $9.2 billion in Oracle shares as loan collateral",
-    "tokens": [
-      "adds",
-      "billion",
-      "collateral",
-      "ellison",
-      "larry",
-      "loan",
-      "oracle",
-      "shares"
-    ],
-    "ts": 1790383003.81502
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/mediaalpha-cto-kuanling-amy-yeh-sells-28200-of-max-shares-93CH-4918325",
-    "title": "MediaAlpha CTO Kuanling Amy Yeh sells $28,200 of Max shares",
-    "tokens": [
-      "200",
-      "amy",
-      "cto",
-      "kuanling",
-      "max",
-      "mediaalpha",
-      "sells",
-      "shares",
-      "yeh"
-    ],
-    "ts": 1790383010.7621489
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/doubleline-vp-jeffrey-sherman-buys-130300-in-fund-shares-93CH-4918324",
-    "title": "DoubleLine VP Jeffrey Sherman buys $130,300 in fund shares",
-    "tokens": [
-      "130",
-      "300",
-      "buys",
-      "doubleline",
-      "fund",
-      "jeffrey",
-      "shares",
-      "sherman"
-    ],
-    "ts": 1790383017.4921741
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/citigroup-targets-over-3-billion-banamex-ipo-for-january--bloomberg-4918315",
-    "title": "Citigroup targets over $3 billion Banamex IPO for January - Bloomberg",
-    "tokens": [
-      "banamex",
-      "billion",
-      "bloomberg",
-      "citigroup",
-      "ipo",
-      "january",
-      "targets"
-    ],
-    "ts": 1790383024.8073492
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/pubmatic-ceo-rajeev-goel-sells-930633-in-company-stock-93CH-4918314",
-    "title": "PubMatic CEO Rajeev Goel sells $930,633 in company stock",
-    "tokens": [
-      "633",
-      "930",
-      "ceo",
-      "company",
-      "goel",
-      "pubmatic",
-      "rajeev",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790383031.7727418
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-10-owner-buys-18523-in-jctc-stock-93CH-4918360",
-    "title": "AJB Investment Fund II, 10% owner, buys $18,523 in JCTC stock",
-    "tokens": [
-      "523",
-      "ajb",
-      "buys",
-      "fund",
-      "investment",
-      "jctc",
-      "owner",
-      "stock"
-    ],
-    "ts": 1790384129.5999665
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/sinclair-vp-frederick-smith-sells-16098-in-class-a-common-stock-93CH-4918359",
-    "title": "Sinclair VP Frederick Smith sells $16,098 in class a common stock",
-    "tokens": [
-      "098",
-      "class",
-      "common",
-      "frederick",
-      "sells",
-      "sinclair",
-      "smith",
-      "stock"
-    ],
-    "ts": 1790384136.49563
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/morgan-stanley-public-finance-cohead-zach-solomon-leaves-for-td--bloomberg-4918353",
     "title": "Morgan Stanley public finance co-head Zach Solomon leaves for TD - Bloomberg",
     "tokens": [
@@ -22981,5 +22846,138 @@
       "stocks"
     ],
     "ts": 1790761569.478041
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-skistar-q4-2026-stock-rises-on-record-profit-93CH-4924464",
+    "title": "Earnings call transcript: SkiStar Q4 2026 stock rises on record profit",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "profit",
+      "record",
+      "rises",
+      "skistar",
+      "stock",
+      "transcript"
+    ],
+    "ts": 1790762383.8088183
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/dfi-retail-to-acquire-maxims-starbucks-business-for-340m-93CH-4924463",
+    "title": "DFI Retail to acquire Maxim’s Starbucks business for $340m",
+    "tokens": [
+      "340m",
+      "acquire",
+      "business",
+      "dfi",
+      "maxim",
+      "retail",
+      "starbucks"
+    ],
+    "ts": 1790762391.5034943
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/japanese-economic-panel-members-emphasise-bojs-independence-4924462",
+    "title": "Japanese economic panel members emphasise BOJ’s independence",
+    "tokens": [
+      "boj",
+      "economic",
+      "emphasise",
+      "independence",
+      "japanese",
+      "members",
+      "panel"
+    ],
+    "ts": 1790762398.7823486
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bank-of-england-sees-growing-risk-that-dangers-from-ai-and-debt-will-materialise-4924457",
+    "title": "Bank of England sees growing risk that dangers from AI and debt will materialise",
+    "tokens": [
+      "bank",
+      "dangers",
+      "debt",
+      "england",
+      "growing",
+      "materialise",
+      "risk",
+      "sees"
+    ],
+    "ts": 1790762406.40136
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/jefferies-sees-senate-permitting-deal-as-positive-for-nextera-93CH-4924461",
+    "title": "Jefferies sees Senate permitting deal as positive for NextEra",
+    "tokens": [
+      "deal",
+      "jefferies",
+      "nextera",
+      "permitting",
+      "positive",
+      "sees",
+      "senate"
+    ],
+    "ts": 1790762414.9222808
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/porsche-ceo-defends-shift-back-to-petrol-amid-ev-concerns-93CH-4924460",
+    "title": "Porsche CEO defends shift back to petrol amid EV concerns",
+    "tokens": [
+      "back",
+      "ceo",
+      "concerns",
+      "defends",
+      "petrol",
+      "porsche",
+      "shift"
+    ],
+    "ts": 1790762422.1103227
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-redcentric-tops-eps-forecast-in-h2-2026-revenue-misses-93CH-4924459",
+    "title": "Earnings call transcript: Redcentric tops EPS forecast in H2 2026, revenue misses",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "eps",
+      "forecast",
+      "misses",
+      "redcentric",
+      "revenue",
+      "tops",
+      "transcript"
+    ],
+    "ts": 1790762430.4963918
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/german-unemployment-rises-much-more-than-expected-in-september-4924280",
+    "title": "German unemployment and state inflation rise in September",
+    "tokens": [
+      "german",
+      "inflation",
+      "rise",
+      "september",
+      "state",
+      "unemployment"
+    ],
+    "ts": 1790762438.7776082
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/metas-muse-ai-agent-pressures-online-travel-stocks-truist-comments-93CH-4924456",
+    "title": "Meta’s Muse AI agent pressures online travel stocks, Truist comments",
+    "tokens": [
+      "agent",
+      "comments",
+      "meta",
+      "muse",
+      "online",
+      "pressures",
+      "stocks",
+      "travel",
+      "truist"
+    ],
+    "ts": 1790762446.6701615
   }
 ]

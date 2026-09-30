@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/ibotta-cto-luke-swanson-sells-661216-of-ibta-shares-93CH-4918239",
-    "title": "Ibotta CTO Luke Swanson sells $661,216 of IBTA shares",
-    "tokens": [
-      "216",
-      "661",
-      "cto",
-      "ibotta",
-      "ibta",
-      "luke",
-      "sells",
-      "shares",
-      "swanson"
-    ],
-    "ts": 1790375204.6073651
-  },
-  {
     "id": "https://www.investing.com/news/company-news/cdw-completes-acquisition-of-data-and-ai-firm-lovelytics-93CH-4918238",
     "title": "CDW completes acquisition of data and AI firm Lovelytics",
     "tokens": [
@@ -22963,5 +22947,20 @@
       "without"
     ],
     "ts": 1790757950.171105
+  },
+  {
+    "id": "84fe70e6-3668-470e-be75-93c8dce5244c",
+    "title": "OpenAI seeks $30 in funding at whopping $1.4 trillion valuation after delaying IPO",
+    "tokens": [
+      "delaying",
+      "funding",
+      "ipo",
+      "openai",
+      "seeks",
+      "trillion",
+      "valuation",
+      "whopping"
+    ],
+    "ts": 1790758730.505305
   }
 ]

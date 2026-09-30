@@ -1,36 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/tempus-ai-evp-andrew-polovin-sells-2951-shares-for-221325-93CH-4919256",
-    "title": "Tempus AI EVP Andrew Polovin sells 2,951 shares for $221,325",
-    "tokens": [
-      "221",
-      "325",
-      "951",
-      "andrew",
-      "evp",
-      "polovin",
-      "sells",
-      "shares",
-      "tempus"
-    ],
-    "ts": 1790561462.4174469
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/viant-technology-cfo-larry-madden-sells-390k-in-stock-93CH-4919257",
-    "title": "Viant technology CFO Larry Madden sells $390k in stock",
-    "tokens": [
-      "390k",
-      "cfo",
-      "larry",
-      "madden",
-      "sells",
-      "stock",
-      "technology",
-      "viant"
-    ],
-    "ts": 1790561469.700799
-  },
-  {
     "id": "https://www.investing.com/news/economic-indicators/china-industrial-profits-rise-157-in-januaryaugust-4919250",
     "title": "China’s industrial profit growth slows further as economic imbalances deepen",
     "tokens": [
@@ -22947,5 +22916,34 @@
       "working"
     ],
     "ts": 1790790976.3922498
+  },
+  {
+    "id": "oilprice-article-45646",
+    "title": "The World’s Diesel Problem Runs Deeper Than the Iran War",
+    "tokens": [
+      "deeper",
+      "diesel",
+      "iran",
+      "problem",
+      "runs",
+      "war",
+      "world"
+    ],
+    "ts": 1790792131.6161597
+  },
+  {
+    "id": "oilprice-news-45646",
+    "title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility",
+    "tokens": [
+      "climbs",
+      "despite",
+      "extreme",
+      "gas",
+      "oil",
+      "price",
+      "production",
+      "volatility"
+    ],
+    "ts": 1790792139.43319
   }
 ]

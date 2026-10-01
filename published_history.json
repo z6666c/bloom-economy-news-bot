@@ -1,165 +1,5 @@
 [
   {
-    "id": "oilprice-article-45622",
-    "title": "What’s Putin’s Secret Post-Election Strategy To Test NATO?",
-    "tokens": [
-      "election",
-      "nato",
-      "post",
-      "putin",
-      "secret",
-      "strategy",
-      "test",
-      "what"
-    ],
-    "ts": 1790612177.6223679
-  },
-  {
-    "id": "oilprice-news-45622",
-    "title": "High Freight Costs Push More U.S. LNG Toward Europe",
-    "tokens": [
-      "costs",
-      "europe",
-      "freight",
-      "high",
-      "lng",
-      "more",
-      "push",
-      "toward"
-    ],
-    "ts": 1790612185.5470805
-  },
-  {
-    "id": "WP-MKTW-0005256807",
-    "title": "Nvidia is right: Its stock is a bargain",
-    "tokens": [
-      "bargain",
-      "nvidia",
-      "right",
-      "stock"
-    ],
-    "ts": 1790613299.948069
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/volkswagen-gotion-deepen-battery-ties-in-europe-as-vw-sells-53-stake-4920541",
-    "title": "China’s Gotion invests $1.25 billion in Volkswagen battery plant in Spain",
-    "tokens": [
-      "battery",
-      "billion",
-      "china",
-      "gotion",
-      "invests",
-      "plant",
-      "spain",
-      "volkswagen"
-    ],
-    "ts": 1790613309.495849
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/fresnillo-at-mining-forum-americas-2026-growth-pipeline-in-focus-93CH-4920886",
-    "title": "Fresnillo at Mining Forum Americas 2026: growth pipeline in focus",
-    "tokens": [
-      "2026",
-      "americas",
-      "focus",
-      "forum",
-      "fresnillo",
-      "growth",
-      "mining",
-      "pipeline"
-    ],
-    "ts": 1790613316.9034142
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/rh-director-mark-demilio-sells-132000-in-company-shares-93CH-4920884",
-    "title": "RH director Mark Demilio sells $132,000 in company shares",
-    "tokens": [
-      "000",
-      "132",
-      "company",
-      "demilio",
-      "director",
-      "mark",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790613324.130298
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/amc-stock-hits-52week-high-at-319-usd-93CH-4920875",
-    "title": "AMC stock hits 52-week high at 3.19 USD",
-    "tokens": [
-      "amc",
-      "high",
-      "hits",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790613331.4215226
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/hochschild-mining-at-mining-forum-americas-2026-growth-plan-lifts-output-93CH-4920874",
-    "title": "Hochschild Mining at Mining Forum Americas 2026: growth plan lifts output",
-    "tokens": [
-      "2026",
-      "americas",
-      "forum",
-      "growth",
-      "hochschild",
-      "lifts",
-      "mining",
-      "output",
-      "plan"
-    ],
-    "ts": 1790613339.1885765
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-011-4920873",
-    "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.11%",
-    "tokens": [
-      "100",
-      "close",
-      "com",
-      "investing",
-      "kingdom",
-      "lower",
-      "stocks",
-      "trade",
-      "united"
-    ],
-    "ts": 1790613346.1892986
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-051-4920872",
-    "title": "Spain stocks lower at close of trade; IBEX 35 down 0.51%",
-    "tokens": [
-      "close",
-      "ibex",
-      "lower",
-      "spain",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790613353.1208265
-  },
-  {
-    "id": "https://www.businessinsider.com/mongodb-stock-meta-ceo-enterprise-meta-zuckerberg-mdb-net-now-2026-9",
-    "title": "Meta the conqueror: The AI titan just poached MongoDB’s CEO and sent its stock down 27%",
-    "tokens": [
-      "ceo",
-      "conqueror",
-      "just",
-      "meta",
-      "mongodb",
-      "poached",
-      "sent",
-      "stock",
-      "titan"
-    ],
-    "ts": 1790613360.6173835
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/globaltech-corporation-resumes-trading-under-ticker-symbol-gltk-1036578605",
     "title": "Globaltech Corporation Resumes Trading Under Ticker Symbol “GLTK”",
     "tokens": [
@@ -22918,5 +22758,181 @@
       "target"
     ],
     "ts": 1790848839.2326388
+  },
+  {
+    "id": "WP-MKTW-0005256055",
+    "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+    "tokens": [
+      "bali",
+      "beach",
+      "his",
+      "husband",
+      "million",
+      "net",
+      "pay",
+      "rather",
+      "resents",
+      "retirement",
+      "should",
+      "worth"
+    ],
+    "ts": 1790850104.363807
+  },
+  {
+    "id": "WP-MKTW-0005263990",
+    "title": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
+    "tokens": [
+      "billion",
+      "could",
+      "deal",
+      "oracle",
+      "provide",
+      "relief",
+      "reportedly",
+      "signed",
+      "stock",
+      "tencent",
+      "troubled"
+    ],
+    "ts": 1790850112.1587229
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/bofa-raises-longterm-copper-forecast-to-12000-per-ton-93CH-4926786",
+    "title": "BofA raises long-term copper forecast to $12,000 per ton",
+    "tokens": [
+      "000",
+      "bofa",
+      "copper",
+      "forecast",
+      "long",
+      "per",
+      "raises",
+      "term",
+      "ton"
+    ],
+    "ts": 1790850120.306633
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/magnolia-oil--gas-posts-operational-update-after-wildfire-deal-93CH-4926785",
+    "title": "Magnolia Oil & Gas posts operational update after WildFire deal",
+    "tokens": [
+      "deal",
+      "gas",
+      "magnolia",
+      "oil",
+      "operational",
+      "posts",
+      "update",
+      "wildfire"
+    ],
+    "ts": 1790850127.6212778
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-seascape-energy-asia-h1-2026-shares-project-progress-93CH-4926774",
+    "title": "Earnings call transcript: Seascape Energy Asia H1 2026 shares project progress",
+    "tokens": [
+      "2026",
+      "asia",
+      "call",
+      "earnings",
+      "energy",
+      "progress",
+      "project",
+      "seascape",
+      "shares",
+      "transcript"
+    ],
+    "ts": 1790850135.4875848
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/citi-reiterates-micron-technology-stock-buy-rating-on-dram-outlook-93CH-4926769",
+    "title": "Citi reiterates Micron Technology stock Buy rating on DRAM outlook",
+    "tokens": [
+      "buy",
+      "citi",
+      "dram",
+      "micron",
+      "outlook",
+      "rating",
+      "reiterates",
+      "stock",
+      "technology"
+    ],
+    "ts": 1790850143.5966277
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/citi-reiterates-sandisk-stock-rating-after-micron-results-93CH-4926768",
+    "title": "Citi reiterates SanDisk stock rating after Micron results",
+    "tokens": [
+      "citi",
+      "micron",
+      "rating",
+      "reiterates",
+      "results",
+      "sandisk",
+      "stock"
+    ],
+    "ts": 1790850153.4545193
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/citi-sees-frontier-ai-models-widening-lead-over-openweight-rivals-93CH-4926767",
+    "title": "Citi sees frontier AI models widening lead over open-weight rivals",
+    "tokens": [
+      "citi",
+      "frontier",
+      "lead",
+      "models",
+      "open",
+      "rivals",
+      "sees",
+      "weight",
+      "widening"
+    ],
+    "ts": 1790850160.6417375
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/jefferies-cuts-ai-sector-view-as-price-war-intensifies-uschina-gap-widens-93CH-4926764",
+    "title": "Jefferies cuts AI sector view as price war intensifies, US-China gap widens",
+    "tokens": [
+      "china",
+      "cuts",
+      "gap",
+      "intensifies",
+      "jefferies",
+      "price",
+      "sector",
+      "view",
+      "war",
+      "widens"
+    ],
+    "ts": 1790850169.8123689
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/doordash-coo-prabir-adarkar-sells-158m-in-stock-93CH-4926758",
+    "title": "DoorDash COO Prabir Adarkar sells $1.58m in stock",
+    "tokens": [
+      "58m",
+      "adarkar",
+      "coo",
+      "doordash",
+      "prabir",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790850176.6827993
+  },
+  {
+    "id": "https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight",
+    "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
+    "tokens": [
+      "binance",
+      "exemption",
+      "face",
+      "licensing",
+      "report",
+      "scrutiny",
+      "services"
+    ],
+    "ts": 1790850185.2440944
   }
 ]

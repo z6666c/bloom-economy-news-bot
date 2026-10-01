@@ -1,80 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-incyte-stock-price-target-on-atebrioz-approval-93CH-4920049",
-    "title": "H.C. Wainwright raises Incyte stock price target on Atebrioz approval",
-    "tokens": [
-      "approval",
-      "atebrioz",
-      "incyte",
-      "price",
-      "raises",
-      "stock",
-      "target",
-      "wainwright"
-    ],
-    "ts": 1790596535.876235
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/william-blair-downgrades-acuity-brands-stock-rating-on-muted-lighting-market-93CH-4920050",
-    "title": "William Blair downgrades Acuity Brands stock rating on muted lighting market",
-    "tokens": [
-      "acuity",
-      "blair",
-      "brands",
-      "downgrades",
-      "lighting",
-      "market",
-      "muted",
-      "rating",
-      "stock",
-      "william"
-    ],
-    "ts": 1790596544.1107142
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-legend-biotech-stock-rating-on-durability-data-93CH-4920048",
-    "title": "H.C. Wainwright reiterates Legend Biotech stock rating on durability data",
-    "tokens": [
-      "biotech",
-      "data",
-      "durability",
-      "legend",
-      "rating",
-      "reiterates",
-      "stock",
-      "wainwright"
-    ],
-    "ts": 1790596551.5173414
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/acadia-pharmaceuticals-stock-price-target-lowered-to-33-by-hc-wainwright-93CH-4920047",
-    "title": "Acadia Pharmaceuticals stock price target lowered to $33 by H.C. Wainwright",
-    "tokens": [
-      "acadia",
-      "lowered",
-      "pharmaceuticals",
-      "price",
-      "stock",
-      "target",
-      "wainwright"
-    ],
-    "ts": 1790596559.19169
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/northland-initiates-mbody-ai-stock-coverage-with-outperform-rating-93CH-4920045",
-    "title": "Northland initiates MBody AI stock coverage with outperform rating",
-    "tokens": [
-      "coverage",
-      "initiates",
-      "mbody",
-      "northland",
-      "outperform",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790596567.0590744
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-tyler-technologies-stock-price-target-on-valuation-93CH-4920044",
     "title": "Piper Sandler cuts Tyler Technologies stock price target on valuation",
     "tokens": [
@@ -22912,5 +22837,75 @@
       "urges"
     ],
     "ts": 1790825529.4303246
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/micron-capacity-buildout-these-equipment-suppliers-stand-to-benefit-93CH-4926212",
+    "title": "Micron capacity buildout: These equipment suppliers stand to benefit",
+    "tokens": [
+      "benefit",
+      "buildout",
+      "capacity",
+      "equipment",
+      "micron",
+      "stand",
+      "suppliers",
+      "these"
+    ],
+    "ts": 1790827026.542896
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/linkhome-cfo-li-na-disposes-of-45000-in-shares-93CH-4926211",
+    "title": "Linkhome CFO Li Na disposes of $45,000 in shares",
+    "tokens": [
+      "000",
+      "cfo",
+      "disposes",
+      "linkhome",
+      "shares"
+    ],
+    "ts": 1790827034.1724668
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-rallying-today-93CH-4926210",
+    "title": "Why is Kioxia stock rallying today?",
+    "tokens": [
+      "kioxia",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790827038.1873994
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tencent-leases-100000-chips-from-oracle-for-7-bln-ft-4926203",
+    "title": "Tencent leases 100,000 chips from Oracle for $7 bln- FT",
+    "tokens": [
+      "000",
+      "100",
+      "bln",
+      "chips",
+      "leases",
+      "oracle",
+      "tencent"
+    ],
+    "ts": 1790827041.3962326
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/chinas-tencent-leases-100000-chips-from-oracle-to-accelerate-ai-push-ft-reports-4926202",
+    "title": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
+    "tokens": [
+      "000",
+      "100",
+      "accelerate",
+      "china",
+      "chips",
+      "leases",
+      "oracle",
+      "push",
+      "reports",
+      "tencent"
+    ],
+    "ts": 1790827049.088772
   }
 ]

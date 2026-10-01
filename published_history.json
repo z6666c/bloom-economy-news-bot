@@ -1,236 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-007-4921269",
-    "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.07%",
-    "tokens": [
-      "bmv",
-      "close",
-      "ipc",
-      "lower",
-      "mexico",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790631692.148971
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/trading-day-blue-monday-4921268",
-    "title": "Trading Day: Blue Monday",
-    "tokens": [
-      "blue",
-      "day",
-      "monday",
-      "trading"
-    ],
-    "ts": 1790631700.4187367
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/pentagon-awardsrtxs-raytheon-207-billion-contract-for-amraam-missiles-amid-stockpile-concerns-4921266",
-    "title": "Pentagon awards RTX’s Raytheon $20.7 billion contract for AMRAAM missiles amid stockpile concerns",
-    "tokens": [
-      "amraam",
-      "awards",
-      "billion",
-      "concerns",
-      "contract",
-      "missiles",
-      "pentagon",
-      "raytheon",
-      "rtx",
-      "stockpile"
-    ],
-    "ts": 1790631708.3361664
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-019-4921262",
-    "title": "Colombia stocks lower at close of trade; COLCAP down 0.19%",
-    "tokens": [
-      "close",
-      "colcap",
-      "colombia",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790631716.5163891
-  },
-  {
-    "id": "WP-MKTW-0005257699",
-    "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
-    "tokens": [
-      "analysts",
-      "big",
-      "engine",
-      "growth",
-      "isn",
-      "next",
-      "play",
-      "power",
-      "rockets",
-      "say",
-      "spacex"
-    ],
-    "ts": 1790633465.2395613
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/exclusivecolombia-has-held-discussions-with-imf-including-on-securing-financing-sources-4921006",
-    "title": "Exclusive-Colombia has held discussions with IMF, including on securing financing: sources",
-    "tokens": [
-      "colombia",
-      "discussions",
-      "exclusive",
-      "financing",
-      "held",
-      "imf",
-      "including",
-      "securing",
-      "sources"
-    ],
-    "ts": 1790633472.9245791
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/trump-denies-report-claiming-us-offered-iran-sanctions-relief-4921291",
-    "title": "Trump denies report claiming U.S. offered Iran sanctions relief",
-    "tokens": [
-      "claiming",
-      "denies",
-      "iran",
-      "offered",
-      "relief",
-      "report",
-      "sanctions",
-      "trump"
-    ],
-    "ts": 1790633480.3929086
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/brc-to-acquire-sangoma-technologies-for-204-million-93CH-4921290",
-    "title": "BRC to acquire Sangoma Technologies for $204 million",
-    "tokens": [
-      "204",
-      "acquire",
-      "brc",
-      "million",
-      "sangoma",
-      "technologies"
-    ],
-    "ts": 1790633487.5153387
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/brc-to-acquire-sangoma-for-204-million-enterprise-value-93CH-4921289",
-    "title": "BRC to acquire Sangoma for $204 million enterprise value",
-    "tokens": [
-      "204",
-      "acquire",
-      "brc",
-      "enterprise",
-      "million",
-      "sangoma",
-      "value"
-    ],
-    "ts": 1790633491.5276678
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
-    "title": "Bitcoin falls over 1% as risk sentiment takes a hit from bond rout, Iran tensions",
-    "tokens": [
-      "bitcoin",
-      "bond",
-      "falls",
-      "hit",
-      "iran",
-      "risk",
-      "rout",
-      "sentiment",
-      "takes",
-      "tensions"
-    ],
-    "ts": 1790633496.570075
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/orvana-minerals-at-mining-forum-americas-2026-growth-rests-on-bolivia-and-taguas-93CH-4921283",
-    "title": "Orvana Minerals at Mining Forum Americas 2026: growth rests on Bolivia and Taguas",
-    "tokens": [
-      "2026",
-      "americas",
-      "bolivia",
-      "forum",
-      "growth",
-      "minerals",
-      "mining",
-      "orvana",
-      "rests",
-      "taguas"
-    ],
-    "ts": 1790633503.8940392
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/kevin-hern-from-oklahomas-1st-congressional-district-makes-multiple-trades-in-apple-and-boston-scientific-93CH-4921282",
-    "title": "Kevin Hern from Oklahoma’s 1st congressional district makes multiple trades in Apple and Boston Scientific",
-    "tokens": [
-      "1st",
-      "apple",
-      "boston",
-      "congressional",
-      "district",
-      "hern",
-      "kevin",
-      "makes",
-      "multiple",
-      "oklahoma",
-      "scientific",
-      "trades"
-    ],
-    "ts": 1790633511.1361942
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/anglogold-ashanti-at-mining-forum-americas-2026-growth-and-cash-flow-93CH-4921281",
-    "title": "AngloGold Ashanti at Mining Forum Americas 2026: growth and cash flow",
-    "tokens": [
-      "2026",
-      "americas",
-      "anglogold",
-      "ashanti",
-      "cash",
-      "flow",
-      "forum",
-      "growth",
-      "mining"
-    ],
-    "ts": 1790633515.148692
-  },
-  {
-    "id": "oilprice-article-45629",
-    "title": "Standard Chartered: Record CTA Long Bets Are Capping Oil's Upside",
-    "tokens": [
-      "bets",
-      "capping",
-      "chartered",
-      "cta",
-      "long",
-      "oil",
-      "record",
-      "standard",
-      "upside"
-    ],
-    "ts": 1790633520.2914321
-  },
-  {
-    "id": "oilprice-news-45629",
-    "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
-    "tokens": [
-      "1982",
-      "falls",
-      "level",
-      "lowest",
-      "petroleum",
-      "reserve",
-      "since",
-      "strategic"
-    ],
-    "ts": 1790633524.3041182
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/openai-shelves-new-ai-model-after-internal-safety-tests-wsj-reports-4921332",
     "title": "OpenAI shelves new AI model after internal safety tests, WSJ reports",
     "tokens": [
@@ -22900,5 +22669,234 @@
       "reserve"
     ],
     "ts": 1790868191.0618992
+  },
+  {
+    "id": "WP-MKTW-0005262917",
+    "title": "Tesla’s delivery report is just around the corner. Expect a sales drop.",
+    "tokens": [
+      "around",
+      "corner",
+      "delivery",
+      "drop",
+      "expect",
+      "just",
+      "report",
+      "sales",
+      "tesla"
+    ],
+    "ts": 1790870348.9311042
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/first-phosphate-at-ai--technology-virtual-investor-conference-onshoring-lfp-93CH-4927909",
+    "title": "First Phosphate at AI & Technology Virtual Investor Conference: onshoring LFP",
+    "tokens": [
+      "conference",
+      "first",
+      "investor",
+      "lfp",
+      "onshoring",
+      "phosphate",
+      "technology",
+      "virtual"
+    ],
+    "ts": 1790870356.650584
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/kb-securities-names-top-solar-stocks-amid-rising-power-demand-4927908",
+    "title": "KB Securities names top solar stocks amid rising power demand",
+    "tokens": [
+      "demand",
+      "names",
+      "power",
+      "rising",
+      "securities",
+      "solar",
+      "stocks",
+      "top"
+    ],
+    "ts": 1790870364.1671576
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/alpha-modus-holdings-completes-250-million-bitcoin-pipe-transaction-regains-nasdaq-compliance-93CH-4927907",
+    "title": "Alpha Modus Holdings completes $250 million bitcoin PIPE transaction, regains Nasdaq compliance",
+    "tokens": [
+      "250",
+      "alpha",
+      "bitcoin",
+      "completes",
+      "compliance",
+      "holdings",
+      "million",
+      "modus",
+      "nasdaq",
+      "pipe",
+      "regains",
+      "transaction"
+    ],
+    "ts": 1790870371.3591998
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/centrus-energy-stock-hits-52week-low-at-13575-usd-93CH-4927906",
+    "title": "Centrus Energy stock hits 52-week low at 135.75 USD",
+    "tokens": [
+      "135",
+      "centrus",
+      "energy",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790870375.3744576
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/msgs-options-activity-put-buyers-dominate-ahead-of-rangers-spinoff-93CH-4927902",
+    "title": "MSGS options activity: put buyers dominate ahead of Rangers spin-off",
+    "tokens": [
+      "activity",
+      "ahead",
+      "buyers",
+      "dominate",
+      "msgs",
+      "off",
+      "options",
+      "put",
+      "rangers",
+      "spin"
+    ],
+    "ts": 1790870379.1196222
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/spacex-launches-13th-longduration-astronaut-crew-to-international-space-station-4927867",
+    "title": "SpaceX launches 13th long-duration astronaut crew to International Space Station",
+    "tokens": [
+      "13th",
+      "astronaut",
+      "crew",
+      "duration",
+      "international",
+      "launches",
+      "long",
+      "space",
+      "spacex",
+      "station"
+    ],
+    "ts": 1790870386.5232697
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/aqnb-stock-hits-52week-high-at-2669-usd-93CH-4927899",
+    "title": "AQNB stock hits 52-week high at 26.69 USD",
+    "tokens": [
+      "aqnb",
+      "high",
+      "hits",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790870390.5388083
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/democratic-lawmakers-seek-probe-of-us-government-ads-featuring-trump-4926595",
+    "title": "Democratic lawmakers seek probe of US government ads featuring Trump",
+    "tokens": [
+      "ads",
+      "democratic",
+      "featuring",
+      "government",
+      "lawmakers",
+      "probe",
+      "seek",
+      "trump"
+    ],
+    "ts": 1790870395.1049938
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/regeneron-reports-73-response-rate-for-ovarian-cancer-drug-trial-93CH-4927898",
+    "title": "Regeneron reports 73% response rate for ovarian cancer drug trial",
+    "tokens": [
+      "cancer",
+      "drug",
+      "ovarian",
+      "rate",
+      "regeneron",
+      "reports",
+      "response",
+      "trial"
+    ],
+    "ts": 1790870403.4247603
+  },
+  {
+    "id": "oilprice-article-45655",
+    "title": "Historic Superconductor Deal Brings Commercial Fusion a Step Closer",
+    "tokens": [
+      "brings",
+      "closer",
+      "commercial",
+      "deal",
+      "fusion",
+      "historic",
+      "step",
+      "superconductor"
+    ],
+    "ts": 1790870411.905656
+  },
+  {
+    "id": "oilprice-article-45654",
+    "title": "Burnham Promises “Pragmatic” North Sea Approach",
+    "tokens": [
+      "approach",
+      "burnham",
+      "north",
+      "pragmatic",
+      "promises",
+      "sea"
+    ],
+    "ts": 1790870419.554329
+  },
+  {
+    "id": "oilprice-news-45655",
+    "title": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices",
+    "tokens": [
+      "chaos",
+      "driving",
+      "emphasizes",
+      "high",
+      "india",
+      "oil",
+      "prices",
+      "shipping",
+      "supply"
+    ],
+    "ts": 1790870428.5215728
+  },
+  {
+    "id": "oilprice-news-45654",
+    "title": "India's Power Shortages Jump to Three-Year High",
+    "tokens": [
+      "high",
+      "india",
+      "jump",
+      "power",
+      "shortages",
+      "three",
+      "year"
+    ],
+    "ts": 1790870432.538018
+  },
+  {
+    "id": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
+    "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+    "tokens": [
+      "assistance",
+      "bitget",
+      "breach",
+      "exploit",
+      "intents",
+      "near",
+      "suffers"
+    ],
+    "ts": 1790870438.1942644
   }
 ]

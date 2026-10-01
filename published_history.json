@@ -1,192 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/dollar-hold-near-twomonth-peak-as-yields-rise-fed-data-looms-4921499",
-    "title": "Dollar hold near two-month peak as yields rise, Fed data looms",
-    "tokens": [
-      "data",
-      "dollar",
-      "fed",
-      "hold",
-      "looms",
-      "month",
-      "near",
-      "peak",
-      "rise",
-      "two",
-      "yields"
-    ],
-    "ts": 1790648890.866792
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/investors-are-watching-the-fed--but-one-restaurant-stock-is-up-1866-this-week-4921498",
-    "title": "Investors are watching the Fed - but one restaurant stock is up 18.66% this week",
-    "tokens": [
-      "fed",
-      "investors",
-      "one",
-      "restaurant",
-      "stock",
-      "watching",
-      "week"
-    ],
-    "ts": 1790648898.9853652
-  },
-  {
-    "id": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents",
-    "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
-    "tokens": [
-      "agents",
-      "nvidia",
-      "platform",
-      "rein",
-      "rogue",
-      "safety",
-      "unveils"
-    ],
-    "ts": 1790649816.2687037
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/mideast-oil-exports-rebound-in-september-as-saudi-arabia-boosts-shipments-4921507",
-    "title": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments",
-    "tokens": [
-      "arabia",
-      "boosts",
-      "exports",
-      "mideast",
-      "oil",
-      "rebound",
-      "saudi",
-      "september",
-      "shipments"
-    ],
-    "ts": 1790650599.6381552
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/newgenivf-prices-125m-public-offering-at-007-per-share-93CH-4921506",
-    "title": "NewGenIvf prices $1.25M public offering at $0.07 per share",
-    "tokens": [
-      "25m",
-      "newgenivf",
-      "offering",
-      "per",
-      "prices",
-      "public",
-      "share"
-    ],
-    "ts": 1790650604.2827494
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/c1-fund-cio-elliot-han-buys-24049-in-company-stock-93CH-4921503",
-    "title": "C1 fund CIO Elliot Han buys $24,049 in company stock",
-    "tokens": [
-      "049",
-      "buys",
-      "cio",
-      "company",
-      "elliot",
-      "fund",
-      "han",
-      "stock"
-    ],
-    "ts": 1790650611.893822
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/canadian-pacific-kansas-city-subsidiary-issues-c18-billion-notes-93CH-4921516",
-    "title": "Canadian Pacific Kansas City subsidiary issues C$1.8 billion notes",
-    "tokens": [
-      "billion",
-      "canadian",
-      "city",
-      "issues",
-      "kansas",
-      "notes",
-      "pacific",
-      "subsidiary"
-    ],
-    "ts": 1790651655.7676702
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/openai-to-create-australian-taskforce-after-government-website-incidents-4921515",
-    "title": "OpenAI to create Australian taskforce after government website incidents",
-    "tokens": [
-      "australian",
-      "create",
-      "government",
-      "incidents",
-      "openai",
-      "taskforce",
-      "website"
-    ],
-    "ts": 1790651664.2358322
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/angel-oak-mortgage-reit-director-fierman-acquires-290510-in-stock-93CH-4921510",
-    "title": "Angel Oak Mortgage REIT director Fierman acquires $290,510 in stock",
-    "tokens": [
-      "290",
-      "510",
-      "acquires",
-      "angel",
-      "director",
-      "fierman",
-      "mortgage",
-      "oak",
-      "reit",
-      "stock"
-    ],
-    "ts": 1790651671.6359985
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/with-national-holidays-approaching-chinese-workers-demand-a-proper-break-4921517",
-    "title": "With national holidays approaching, Chinese workers demand a proper break",
-    "tokens": [
-      "approaching",
-      "break",
-      "chinese",
-      "demand",
-      "holidays",
-      "national",
-      "proper",
-      "workers"
-    ],
-    "ts": 1790652793.392834
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/un-agency-warns-funding-crisis-could-leave-83-million-people-without-aid-4921520",
-    "title": "UN agency warns funding crisis could leave 8.3 million people without aid",
-    "tokens": [
-      "agency",
-      "aid",
-      "could",
-      "crisis",
-      "funding",
-      "leave",
-      "million",
-      "people",
-      "warns",
-      "without"
-    ],
-    "ts": 1790652802.0886798
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
-    "title": "Asian currencies mixed as dollar holds two-month high, RBA decision looms",
-    "tokens": [
-      "asian",
-      "currencies",
-      "decision",
-      "dollar",
-      "high",
-      "holds",
-      "looms",
-      "mixed",
-      "month",
-      "rba",
-      "two"
-    ],
-    "ts": 1790652813.0826106
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/cnn-ms-now-politico-ask-judge-to-extend-block-on-white-house-ban-4921534",
     "title": "CNN, MS NOW, Politico ask judge to extend block on White House ban",
     "tokens": [
@@ -22941,5 +22754,189 @@
       "under"
     ],
     "ts": 1790877595.7396324
+  },
+  {
+    "id": "WP-MKTW-0005265145",
+    "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
+    "tokens": [
+      "alarm",
+      "avoid",
+      "bond",
+      "buy",
+      "market",
+      "silent",
+      "stocks",
+      "tells",
+      "which",
+      "you"
+    ],
+    "ts": 1790879010.320373
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-canadian-natural-resources-stock-climbing-today-93CH-4928063",
+    "title": "Why is Canadian Natural Resources stock climbing today?",
+    "tokens": [
+      "canadian",
+      "climbing",
+      "natural",
+      "resources",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790879018.0723379
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-aecon-stock-surging-today-93CH-4928062",
+    "title": "Why is Aecon stock surging today?",
+    "tokens": [
+      "aecon",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790879022.0881846
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/duke-energy-declares-quarterly-dividend-of-1085-per-share-93CH-4928061",
+    "title": "Duke Energy declares quarterly dividend of $1.085 per share",
+    "tokens": [
+      "085",
+      "declares",
+      "dividend",
+      "duke",
+      "energy",
+      "per",
+      "quarterly",
+      "share"
+    ],
+    "ts": 1790879027.2339199
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/treasury-yields-reach-multidecade-highs-on-economic-data-93CH-4928060",
+    "title": "Treasury yields reach multi-decade highs on economic data",
+    "tokens": [
+      "data",
+      "decade",
+      "economic",
+      "highs",
+      "multi",
+      "reach",
+      "treasury",
+      "yields"
+    ],
+    "ts": 1790879035.3846843
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/factboxus-states-take-steps-to-curb-diesel-and-gasoline-prices-4928059",
+    "title": "Factbox-US states take steps to curb diesel and gasoline prices",
+    "tokens": [
+      "curb",
+      "diesel",
+      "factbox",
+      "gasoline",
+      "prices",
+      "states",
+      "steps",
+      "take"
+    ],
+    "ts": 1790879043.4525473
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nonfarm-payrolls-unemployment-rate-and-hourly-earnings-due-friday-93CH-4928058",
+    "title": "Nonfarm payrolls, unemployment rate and hourly earnings due Friday",
+    "tokens": [
+      "due",
+      "earnings",
+      "friday",
+      "hourly",
+      "nonfarm",
+      "payrolls",
+      "rate",
+      "unemployment"
+    ],
+    "ts": 1790879051.3434737
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/analysisdavid-ellisons-appointment-ofkreiz-bringscostcutter-to-paramountwarner-bros-discovery-4928056",
+    "title": "Analysis-David Ellison’s appointment of Kreiz brings cost-cutter to Paramount-Warner Bros Discovery",
+    "tokens": [
+      "analysis",
+      "appointment",
+      "brings",
+      "bros",
+      "cost",
+      "cutter",
+      "david",
+      "discovery",
+      "ellison",
+      "kreiz",
+      "paramount",
+      "warner"
+    ],
+    "ts": 1790879059.2673585
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/trump-medicare-drug-pricing-model-may-apply-to-only-four-companies-after-exemptions-4928054",
+    "title": "Trump Medicare drug pricing model may apply to only four companies after exemptions",
+    "tokens": [
+      "apply",
+      "companies",
+      "drug",
+      "exemptions",
+      "four",
+      "may",
+      "medicare",
+      "model",
+      "only",
+      "pricing",
+      "trump"
+    ],
+    "ts": 1790879067.3363848
+  },
+  {
+    "id": "oilprice-article-45656",
+    "title": "Amazon Secures 20 Years of Nuclear Power From Constellation",
+    "tokens": [
+      "amazon",
+      "constellation",
+      "nuclear",
+      "power",
+      "secures",
+      "years"
+    ],
+    "ts": 1790879076.3706627
+  },
+  {
+    "id": "oilprice-news-45656",
+    "title": "BLM Opens 35,000 California Acres to December Oil and Gas Lease Sale",
+    "tokens": [
+      "000",
+      "acres",
+      "blm",
+      "california",
+      "december",
+      "gas",
+      "lease",
+      "oil",
+      "opens",
+      "sale"
+    ],
+    "ts": 1790879085.4555125
+  },
+  {
+    "id": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit",
+    "title": "Illinois will postpone implementation of crypto tax following lawsuit",
+    "tokens": [
+      "crypto",
+      "following",
+      "illinois",
+      "implementation",
+      "lawsuit",
+      "postpone",
+      "tax"
+    ],
+    "ts": 1790879092.980667
   }
 ]

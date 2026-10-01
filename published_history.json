@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-updates-networking-sector-outlook-on-ai-demand-93CH-4919713",
-    "title": "Goldman Sachs updates networking sector outlook on AI demand",
-    "tokens": [
-      "demand",
-      "goldman",
-      "networking",
-      "outlook",
-      "sachs",
-      "sector",
-      "updates"
-    ],
-    "ts": 1790590487.35322
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-costco-stock-rating-on-membership-trends-93CH-4919712",
-    "title": "Evercore ISI maintains Costco stock rating on membership trends",
-    "tokens": [
-      "costco",
-      "evercore",
-      "isi",
-      "maintains",
-      "membership",
-      "rating",
-      "stock",
-      "trends"
-    ],
-    "ts": 1790590494.9594133
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-disney-stock-price-target-to-140-on-ebitda-93CH-4919711",
-    "title": "Goldman Sachs lowers Disney stock price target to $140 on EBITDA",
-    "tokens": [
-      "140",
-      "disney",
-      "ebitda",
-      "goldman",
-      "lowers",
-      "price",
-      "sachs",
-      "stock",
-      "target"
-    ],
-    "ts": 1790590503.8901694
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/prediction-markets-push-into-us-stocks-raises-regulatory-alarm-bells-4919710",
     "title": "Prediction markets’ push into US stocks raises regulatory alarm bells",
     "tokens": [
@@ -22901,5 +22856,49 @@
       "shares"
     ],
     "ts": 1790811737.3845143
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/clipper-realty-coo-jacob-bistricer-buys-246k-in-stock-93CH-4926108",
+    "title": "Clipper Realty COO Jacob Bistricer buys $246k in stock",
+    "tokens": [
+      "246k",
+      "bistricer",
+      "buys",
+      "clipper",
+      "coo",
+      "jacob",
+      "realty",
+      "stock"
+    ],
+    "ts": 1790813834.0523968
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/costco-senior-evp-caton-frates-disposes-of-733328-in-stock-93CH-4926107",
+    "title": "Costco senior EVP Caton Frates disposes of $733,328 in stock",
+    "tokens": [
+      "328",
+      "733",
+      "caton",
+      "costco",
+      "disposes",
+      "evp",
+      "frates",
+      "senior",
+      "stock"
+    ],
+    "ts": 1790813841.3780334
+  },
+  {
+    "id": "oilprice-article-45648",
+    "title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
+    "tokens": [
+      "becoming",
+      "disappearing",
+      "everyone",
+      "iran",
+      "oil",
+      "problem"
+    ],
+    "ts": 1790813851.5255308
   }
 ]

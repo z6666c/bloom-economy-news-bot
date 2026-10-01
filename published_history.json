@@ -1,100 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/finland-stocks-lower-at-close-of-trade-omx-helsinki-25-down-044-4920857",
-    "title": "Finland stocks lower at close of trade; OMX Helsinki 25 down 0.44%",
-    "tokens": [
-      "close",
-      "finland",
-      "helsinki",
-      "lower",
-      "omx",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790612136.7776868
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/wafd-stock-hits-52week-low-at-1593-usd-93CH-4920856",
-    "title": "Wafd stock hits 52-week low at 15.93 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "wafd",
-      "week"
-    ],
-    "ts": 1790612140.7930353
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/akropole-alfa-shopping-center-upgrades-sustainability-rating-93CH-4920855",
-    "title": "Akropole Alfa shopping center upgrades sustainability rating",
-    "tokens": [
-      "akropole",
-      "alfa",
-      "center",
-      "rating",
-      "shopping",
-      "sustainability",
-      "upgrades"
-    ],
-    "ts": 1790612144.644881
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/goldman-warns-highyield-bond-supply-surge-pressuring-markets-4920854",
-    "title": "Goldman warns high-yield bond supply surge pressuring markets",
-    "tokens": [
-      "bond",
-      "goldman",
-      "high",
-      "markets",
-      "pressuring",
-      "supply",
-      "surge",
-      "warns",
-      "yield"
-    ],
-    "ts": 1790612152.9110224
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-lexicon-pharmaceuticals-stock-surging-today-93CH-4920853",
-    "title": "Why is Lexicon Pharmaceuticals stock surging today?",
-    "tokens": [
-      "lexicon",
-      "pharmaceuticals",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790612161.811114
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-buda-juice-stock-rallying-today-93CH-4920852",
-    "title": "Why is Buda Juice stock rallying today?",
-    "tokens": [
-      "buda",
-      "juice",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790612169.089763
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-cango-stock-surging-today-93CH-4920851",
-    "title": "Why is Cango stock surging today?",
-    "tokens": [
-      "cango",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790612173.1059058
-  },
-  {
     "id": "oilprice-article-45622",
     "title": "What’s Putin’s Secret Post-Election Strategy To Test NATO?",
     "tokens": [
@@ -22898,5 +22803,120 @@
       "survives"
     ],
     "ts": 1790847873.078547
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/goldman-sachs-adds-amazon-stock-and-four-others-to-directors-cut-list-for-october-93CH-4926707",
+    "title": "Goldman Sachs adds Amazon stock and four others to Director’s Cut list for October",
+    "tokens": [
+      "adds",
+      "amazon",
+      "cut",
+      "director",
+      "four",
+      "goldman",
+      "list",
+      "october",
+      "others",
+      "sachs",
+      "stock"
+    ],
+    "ts": 1790848791.7413912
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/our-ai-models-flagged-six-winners-up-4087--a-storage-stock-leads-them-all-4926706",
+    "title": "Our AI models flagged six winners up 40%–87% - a storage stock leads them all",
+    "tokens": [
+      "all",
+      "flagged",
+      "leads",
+      "models",
+      "our",
+      "six",
+      "stock",
+      "storage",
+      "them",
+      "winners"
+    ],
+    "ts": 1790848799.2169266
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/mizuho-sees-pennsylvania-election-as-key-for-utility-stock-regulation-93CH-4926704",
+    "title": "Mizuho sees Pennsylvania election as key for utility stock regulation",
+    "tokens": [
+      "election",
+      "key",
+      "mizuho",
+      "pennsylvania",
+      "regulation",
+      "sees",
+      "stock",
+      "utility"
+    ],
+    "ts": 1790848806.813117
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/dow-futures-hit-threemonth-low-as-yields-surge-micron-earnings-offer-support-4926657",
+    "title": "Dow futures hit three-month low as yields surge, Micron earnings offer support",
+    "tokens": [
+      "dow",
+      "earnings",
+      "futures",
+      "hit",
+      "low",
+      "micron",
+      "month",
+      "offer",
+      "support",
+      "surge",
+      "three",
+      "yields"
+    ],
+    "ts": 1790848814.5030184
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/analysisinvestors-wary-of-slowdown-in-us-corporate-profit-boom-4926701",
+    "title": "Analysis-Investors wary of slowdown in US corporate profit boom",
+    "tokens": [
+      "analysis",
+      "boom",
+      "corporate",
+      "investors",
+      "profit",
+      "slowdown",
+      "wary"
+    ],
+    "ts": 1790848822.3861074
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-overweight-on-micron-stock-1200-target-93CH-4926687",
+    "title": "Morgan Stanley reiterates Overweight on Micron stock, $1,200 target",
+    "tokens": [
+      "200",
+      "micron",
+      "morgan",
+      "overweight",
+      "reiterates",
+      "stanley",
+      "stock",
+      "target"
+    ],
+    "ts": 1790848830.3640893
+  },
+  {
+    "id": "0696ac93-4b11-4e02-8f74-943a27d2e919",
+    "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+    "tokens": [
+      "000",
+      "113",
+      "bitcoin",
+      "citigroup",
+      "etf",
+      "inflows",
+      "month",
+      "raises",
+      "resume",
+      "target"
+    ],
+    "ts": 1790848839.2326388
   }
 ]

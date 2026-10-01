@@ -1,106 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/resideo-technologies-stock-hits-52week-low-at-1812-usd-93CH-4920559",
-    "title": "Resideo Technologies stock hits 52-week low at 18.12 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "resideo",
-      "stock",
-      "technologies",
-      "usd",
-      "week"
-    ],
-    "ts": 1790603141.2486777
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/opendoor-technologies-stock-hits-52week-low-at-252-usd-93CH-4920557",
-    "title": "Opendoor Technologies stock hits 52-week low at 2.52 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "opendoor",
-      "stock",
-      "technologies",
-      "usd",
-      "week"
-    ],
-    "ts": 1790603145.2582753
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time",
-    "title": "Altseason is coming — and traders are more discerning this time",
-    "tokens": [
-      "altseason",
-      "coming",
-      "discerning",
-      "more",
-      "time",
-      "traders"
-    ],
-    "ts": 1790603153.7204125
-  },
-  {
-    "id": "WP-MKTW-0005256627",
-    "title": "MongoDB’s stock is down more than 20% as CEO decamps to Meta",
-    "tokens": [
-      "ceo",
-      "decamps",
-      "meta",
-      "mongodb",
-      "more",
-      "stock"
-    ],
-    "ts": 1790604018.690338
-  },
-  {
-    "id": "WP-MKTW-0005256516",
-    "title": "The stock market usually booms in the November-to-April stretch. This indicator suggests otherwise.",
-    "tokens": [
-      "april",
-      "booms",
-      "indicator",
-      "market",
-      "november",
-      "otherwise",
-      "stock",
-      "stretch",
-      "suggests",
-      "usually"
-    ],
-    "ts": 1790604027.8318276
-  },
-  {
-    "id": "oilprice-article-45620",
-    "title": "Zelenskyy Warns Russia Wants to Widen War Beyond Ukraine",
-    "tokens": [
-      "beyond",
-      "russia",
-      "ukraine",
-      "wants",
-      "war",
-      "warns",
-      "widen",
-      "zelenskyy"
-    ],
-    "ts": 1790604039.3672848
-  },
-  {
-    "id": "oilprice-news-45620",
-    "title": "Indonesia's Coal Exports Sink 23% as Global Demand Heads for a Record",
-    "tokens": [
-      "coal",
-      "demand",
-      "exports",
-      "global",
-      "heads",
-      "indonesia",
-      "record",
-      "sink"
-    ],
-    "ts": 1790604054.7929037
-  },
-  {
     "id": "WP-MKTW-0005256120",
     "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
     "tokens": [
@@ -22906,5 +22805,112 @@
       "staking"
     ],
     "ts": 1790838802.3247218
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/australian-businesses-raise-prices-as-card-surcharge-ban-takes-effect-4926408",
+    "title": "Australian businesses raise prices as card surcharge ban takes effect",
+    "tokens": [
+      "australian",
+      "ban",
+      "businesses",
+      "card",
+      "effect",
+      "prices",
+      "raise",
+      "surcharge",
+      "takes"
+    ],
+    "ts": 1790840074.8309708
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/uks-nest-pension-picks-wellington-in-35-billion-emerging-market-active-equity-shift-4926407",
+    "title": "UK’s Nest pension picks Wellington in £3.5 billion emerging market active equity shift",
+    "tokens": [
+      "active",
+      "billion",
+      "emerging",
+      "equity",
+      "market",
+      "nest",
+      "pension",
+      "picks",
+      "shift",
+      "wellington"
+    ],
+    "ts": 1790840083.0895703
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/natural-gas-trapped-in-30813203-range-live-levels-93CH-4919473",
+    "title": "Natural Gas tests Fib support at $2.966 after double top: Live",
+    "tokens": [
+      "966",
+      "double",
+      "fib",
+      "gas",
+      "live",
+      "natural",
+      "support",
+      "tests",
+      "top"
+    ],
+    "ts": 1790840090.7784607
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-95609773-resistance-wall-live-levels-93CH-4919472",
+    "title": "Crude Oil WTI squeezed at $91 with bear flag forming: Live levels",
+    "tokens": [
+      "bear",
+      "crude",
+      "flag",
+      "forming",
+      "levels",
+      "live",
+      "oil",
+      "squeezed",
+      "wti"
+    ],
+    "ts": 1790840099.6105506
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+    "title": "Bitcoin stuck in $82,800-$85,000 range: Live levels",
+    "tokens": [
+      "000",
+      "800",
+      "bitcoin",
+      "levels",
+      "live",
+      "range",
+      "stuck"
+    ],
+    "ts": 1790840107.3469334
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/airtel-money-sets-ipo-price-at-196-per-share-93CH-4926406",
+    "title": "Airtel Money sets IPO price at £1.96 per share",
+    "tokens": [
+      "airtel",
+      "ipo",
+      "money",
+      "per",
+      "price",
+      "sets",
+      "share"
+    ],
+    "ts": 1790840114.411711
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/brent-oil-breaks-10150-neckline-eyes-9749-support-live-93CH-4919470",
+    "title": "Brent Oil consolidates at $98.59 in tight range: Live levels",
+    "tokens": [
+      "brent",
+      "consolidates",
+      "levels",
+      "live",
+      "oil",
+      "range",
+      "tight"
+    ],
+    "ts": 1790840121.79265
   }
 ]

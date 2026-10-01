@@ -1,152 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/photronics-director-lee-sells-221250-in-company-stock-93CH-4921476",
-    "title": "Photronics director Lee sells $221,250 in company stock",
-    "tokens": [
-      "221",
-      "250",
-      "company",
-      "director",
-      "lee",
-      "photronics",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790645271.0706089
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/south-korean-exports-seen-rising-for-16th-month-on-solid-ai-chip-demand-reuters-poll-4921475",
-    "title": "South Korean exports seen rising for 16th month on solid AI chip demand: Reuters poll",
-    "tokens": [
-      "16th",
-      "chip",
-      "demand",
-      "exports",
-      "korean",
-      "month",
-      "poll",
-      "reuters",
-      "rising",
-      "seen",
-      "solid",
-      "south"
-    ],
-    "ts": 1790645279.7535574
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/csl-partners-with-aws-on-ai-for-drug-research-and-development-93CH-4921474",
-    "title": "CSL partners with AWS on AI for drug research and development",
-    "tokens": [
-      "aws",
-      "csl",
-      "development",
-      "drug",
-      "partners",
-      "research"
-    ],
-    "ts": 1790645287.6763034
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-after-soaring-yields-ai-jitters-dent-wall-st-4921473",
-    "title": "U.S. stock futures flat after soaring yields, AI jitters dent Wall St",
-    "tokens": [
-      "dent",
-      "flat",
-      "futures",
-      "jitters",
-      "soaring",
-      "stock",
-      "wall",
-      "yields"
-    ],
-    "ts": 1790645296.0655625
-  },
-  {
-    "id": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers",
-    "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
-    "tokens": [
-      "50m",
-      "bitget",
-      "blocked",
-      "hackers",
-      "intents",
-      "near",
-      "tied"
-    ],
-    "ts": 1790645305.4465363
-  },
-  {
-    "id": "WP-MKTW-0005258150",
-    "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
-    "tokens": [
-      "anthropic",
-      "comes",
-      "fine",
-      "following",
-      "ipo",
-      "potential",
-      "print",
-      "trillion"
-    ],
-    "ts": 1790646194.0306566
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/openai-says-ai-models-accessed-australian-government-systems-without-authorisation-4921486",
-    "title": "OpenAI says AI models accessed Australian government systems without authorisation",
-    "tokens": [
-      "accessed",
-      "australian",
-      "authorisation",
-      "government",
-      "models",
-      "openai",
-      "systems",
-      "without"
-    ],
-    "ts": 1790646991.783758
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-extends-gains-as-usiran-stalemate-overshadows-saudi-flows-4921487",
-    "title": "Oil extends gains as U.S.-Iran stalemate overshadows Saudi flows",
-    "tokens": [
-      "extends",
-      "flows",
-      "gains",
-      "iran",
-      "oil",
-      "overshadows",
-      "saudi",
-      "stalemate"
-    ],
-    "ts": 1790646999.665077
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-megaport-stock-surging-today-93CH-4921482",
-    "title": "Why is Megaport stock surging today?",
-    "tokens": [
-      "megaport",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790647003.6807885
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/astrazeneca-seeks-us-fda-approval-for-lung-cancer-treatment-93CH-4921481",
-    "title": "AstraZeneca seeks U.S. FDA approval for lung cancer treatment",
-    "tokens": [
-      "approval",
-      "astrazeneca",
-      "cancer",
-      "fda",
-      "lung",
-      "seeks",
-      "treatment"
-    ],
-    "ts": 1790647008.849625
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/samsung-electronics-commits-1-billion-to-kkrbacked-helix-digital-aibuildout-4921434",
     "title": "Samsung, affiliates commit $1 billion to KKR-backed Helix Digital AI buildout",
     "tokens": [
@@ -22916,5 +22769,163 @@
       "together"
     ],
     "ts": 1790875099.852734
+  },
+  {
+    "id": "WP-MKTW-0005264242",
+    "title": "Trump’s SEC wants to allow fund managers to charge extra fees for better performance. Here’s why it’s a terrible idea.",
+    "tokens": [
+      "allow",
+      "better",
+      "charge",
+      "extra",
+      "fees",
+      "fund",
+      "here",
+      "idea",
+      "managers",
+      "performance",
+      "sec",
+      "terrible",
+      "trump",
+      "wants",
+      "why"
+    ],
+    "ts": 1790876603.8594646
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/liquidity-services-stock-hits-52week-high-at-4425-93CH-4928014",
+    "title": "Liquidity Services stock hits 52-week high at $44.25",
+    "tokens": [
+      "high",
+      "hits",
+      "liquidity",
+      "services",
+      "stock",
+      "week"
+    ],
+    "ts": 1790876612.0548155
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusiveus-slows-aircraftpart-exports-to-china-as-trump-seeks-leverage-in-trade-negotiations-sources-say-4926850",
+    "title": "Exclusive-US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say",
+    "tokens": [
+      "aircraft",
+      "china",
+      "exclusive",
+      "exports",
+      "leverage",
+      "negotiations",
+      "part",
+      "say",
+      "seeks",
+      "slows",
+      "sources",
+      "trade",
+      "trump"
+    ],
+    "ts": 1790876619.8325815
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/unicaja-chairman-to-step-down-after-next-shareholder-meeting-93CH-4928012",
+    "title": "Unicaja chairman to step down after next shareholder meeting",
+    "tokens": [
+      "chairman",
+      "meeting",
+      "next",
+      "shareholder",
+      "step",
+      "unicaja"
+    ],
+    "ts": 1790876627.0108597
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/legal--general-admits-88525-shares-to-london-stock-exchange-93CH-4928011",
+    "title": "Legal & General admits 88,525 shares to London Stock Exchange",
+    "tokens": [
+      "525",
+      "admits",
+      "exchange",
+      "general",
+      "legal",
+      "london",
+      "shares",
+      "stock"
+    ],
+    "ts": 1790876634.9856403
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/microsofts-evp-of-m365-apps-ryan-roslansky-to-leave-company-93CH-4928005",
+    "title": "Microsoft’s EVP of M365 apps Ryan Roslansky to leave company",
+    "tokens": [
+      "apps",
+      "company",
+      "evp",
+      "leave",
+      "m365",
+      "microsoft",
+      "roslansky",
+      "ryan"
+    ],
+    "ts": 1790876643.1700838
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/florida-attorney-general-sues-pfizer-and-ceo-over-covid19-vaccine-claims-4927994",
+    "title": "Florida Attorney General sues Pfizer and CEO over COVID-19 vaccine claims",
+    "tokens": [
+      "attorney",
+      "ceo",
+      "claims",
+      "covid",
+      "florida",
+      "general",
+      "pfizer",
+      "sues",
+      "vaccine"
+    ],
+    "ts": 1790876650.6939487
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/italys-state-budget-deficit-widens-to-27-billion-in-september-93CH-4927998",
+    "title": "Italy’s state budget deficit widens to €27 billion in September",
+    "tokens": [
+      "billion",
+      "budget",
+      "deficit",
+      "italy",
+      "september",
+      "state",
+      "widens"
+    ],
+    "ts": 1790876658.1192634
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/toyota-opens-battery-development-center-in-michigan-93CH-4927997",
+    "title": "Toyota opens battery development center in Michigan",
+    "tokens": [
+      "battery",
+      "center",
+      "development",
+      "michigan",
+      "opens",
+      "toyota"
+    ],
+    "ts": 1790876666.4624841
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/morgan-stanley-starts-homebuilders-with-cautious-view-toll-brothers-only-buy-4927996",
+    "title": "Morgan Stanley starts homebuilders with cautious view, Toll Brothers only Buy",
+    "tokens": [
+      "brothers",
+      "buy",
+      "cautious",
+      "homebuilders",
+      "morgan",
+      "only",
+      "stanley",
+      "starts",
+      "toll",
+      "view"
+    ],
+    "ts": 1790876674.0464694
   }
 ]

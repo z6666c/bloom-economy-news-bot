@@ -1,107 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/sec-filings/core-molding-technologies-appoints-michael-j-gayford-as-chief-operating-officer-93CH-4920459",
-    "title": "Core Molding Technologies appoints Michael J. Gayford as chief operating officer",
-    "tokens": [
-      "appoints",
-      "chief",
-      "core",
-      "gayford",
-      "michael",
-      "molding",
-      "officer",
-      "operating",
-      "technologies"
-    ],
-    "ts": 1790601630.9098341
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-medicinova-stock-sliding-today-93CH-4920453",
-    "title": "Why is MediciNova stock sliding today?",
-    "tokens": [
-      "medicinova",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790601634.9218876
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-gold-fields-stock-plunging-today-93CH-4920452",
-    "title": "Why is Gold Fields stock plunging today?",
-    "tokens": [
-      "fields",
-      "gold",
-      "plunging",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790601642.6882539
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-beiersdorf-stock-price-target-on-nivea-concerns-93CH-4920446",
-    "title": "Jefferies cuts Beiersdorf stock price target on Nivea concerns",
-    "tokens": [
-      "beiersdorf",
-      "concerns",
-      "cuts",
-      "jefferies",
-      "nivea",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1790601650.9976547
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/park-aerospace-increases-president-and-coo-mark-esquivels-base-salary-93CH-4920445",
-    "title": "Park Aerospace increases president and COO Mark Esquivel’s base salary",
-    "tokens": [
-      "aerospace",
-      "base",
-      "coo",
-      "esquivel",
-      "increases",
-      "mark",
-      "park",
-      "president",
-      "salary"
-    ],
-    "ts": 1790601659.14421
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/top-insider-buys-and-sells-disclosed-for-friday-93CH-4920443",
-    "title": "Top insider buys and sells disclosed for Friday",
-    "tokens": [
-      "buys",
-      "disclosed",
-      "friday",
-      "insider",
-      "sells",
-      "top"
-    ],
-    "ts": 1790601666.6728482
-  },
-  {
-    "id": "c0fb35e0-1db2-4a5b-82bf-8cb9562a15db",
-    "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
-    "tokens": [
-      "agents",
-      "apollo",
-      "bank",
-      "cheap",
-      "could",
-      "deposits",
-      "drain",
-      "slok",
-      "torsten",
-      "warns"
-    ],
-    "ts": 1790601678.7301922
-  },
-  {
     "id": "https://www.investing.com/news/earnings/carmax-earnings-in-focus-as-turnaround-strategy-faces-test-93CH-4920569",
     "title": "CarMax earnings in focus as turnaround strategy faces test",
     "tokens": [
@@ -22902,5 +22800,110 @@
       "worth"
     ],
     "ts": 1790834372.1287174
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/california-six-other-states-sue-trump-administration-over-federal-funds-4926278",
+    "title": "California, six other states sue Trump administration over federal funds",
+    "tokens": [
+      "administration",
+      "california",
+      "federal",
+      "funds",
+      "other",
+      "six",
+      "states",
+      "sue",
+      "trump"
+    ],
+    "ts": 1790835972.9922955
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/landsec-acquires-metrocentre-shopping-center-for-516m-93CH-4926308",
+    "title": "Landsec acquires Metrocentre shopping center for £516m",
+    "tokens": [
+      "516m",
+      "acquires",
+      "center",
+      "landsec",
+      "metrocentre",
+      "shopping"
+    ],
+    "ts": 1790835981.3096747
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/royce-smallcap-trust-ceo-clark-buys-20472-in-rvt-stock-93CH-4926306",
+    "title": "Royce Small-Cap Trust CEO Clark buys $20,472 in RVT stock",
+    "tokens": [
+      "472",
+      "buys",
+      "cap",
+      "ceo",
+      "clark",
+      "royce",
+      "rvt",
+      "small",
+      "stock",
+      "trust"
+    ],
+    "ts": 1790835988.8081954
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/verisign-ceo-bidzos-sells-919975-in-company-stock-93CH-4926305",
+    "title": "Verisign CEO Bidzos sells $919,975 in company stock",
+    "tokens": [
+      "919",
+      "975",
+      "bidzos",
+      "ceo",
+      "company",
+      "sells",
+      "stock",
+      "verisign"
+    ],
+    "ts": 1790835995.931512
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-071-4926299",
+    "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.71%",
+    "tokens": [
+      "close",
+      "higher",
+      "stocks",
+      "taiwan",
+      "trade",
+      "weighted"
+    ],
+    "ts": 1790836003.2902591
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/blackstoneaffiliated-entities-sell-111-million-of-bumble-stock-93CH-4926277",
+    "title": "Blackstone-affiliated entities sell $11.1 million of Bumble stock",
+    "tokens": [
+      "affiliated",
+      "blackstone",
+      "bumble",
+      "entities",
+      "million",
+      "sell",
+      "stock"
+    ],
+    "ts": 1790836010.7304964
+  },
+  {
+    "id": "https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi",
+    "title": "Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule",
+    "tokens": [
+      "bitcoin",
+      "committee",
+      "invisible",
+      "metaplanet",
+      "msci",
+      "questions",
+      "rule",
+      "strategy",
+      "tank",
+      "think"
+    ],
+    "ts": 1790836019.7689426
   }
 ]

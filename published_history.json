@@ -1,82 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc",
-    "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
-    "tokens": [
-      "143m",
-      "665",
-      "666",
-      "847",
-      "bitcoin",
-      "btc",
-      "buys",
-      "hits",
-      "stack",
-      "strategy"
-    ],
-    "ts": 1790600406.3555434
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-finalizes-new-lower-fuel-economy-standards-4920407",
-    "title": "US finalizes new lower fuel economy standards",
-    "tokens": [
-      "economy",
-      "finalizes",
-      "fuel",
-      "lower",
-      "standards"
-    ],
-    "ts": 1790601592.7738965
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/in-run-for-brazils-presidencyflavio-bolsonaro-tests-staying-power-of-his-fathers-legacy-4920462",
-    "title": "In run for Brazil’s presidency, Flavio Bolsonaro tests staying power of his father’s legacy",
-    "tokens": [
-      "bolsonaro",
-      "brazil",
-      "father",
-      "flavio",
-      "his",
-      "legacy",
-      "power",
-      "presidency",
-      "run",
-      "staying",
-      "tests"
-    ],
-    "ts": 1790601601.4278364
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/biontech-to-close-germany-and-singapore-sites-after-sale-fails-93CH-4920461",
-    "title": "BioNTech to close Germany and Singapore sites after sale fails",
-    "tokens": [
-      "biontech",
-      "close",
-      "fails",
-      "germany",
-      "sale",
-      "singapore",
-      "sites"
-    ],
-    "ts": 1790601611.7253983
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/seligman-ventures-doubles-capitalto-1-billion-as-ai-boom-revives-hardware-bets-4920460",
-    "title": "Seligman Ventures doubles capital to $1 billion as AI boom revives hardware bets",
-    "tokens": [
-      "bets",
-      "billion",
-      "boom",
-      "capital",
-      "doubles",
-      "hardware",
-      "revives",
-      "seligman",
-      "ventures"
-    ],
-    "ts": 1790601622.2261314
-  },
-  {
     "id": "https://www.investing.com/news/sec-filings/core-molding-technologies-appoints-michael-j-gayford-as-chief-operating-officer-93CH-4920459",
     "title": "Core Molding Technologies appoints Michael J. Gayford as chief operating officer",
     "tokens": [
@@ -22903,5 +22826,81 @@
       "upfront"
     ],
     "ts": 1790833424.9483814
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/malaysia-aviation-group-to-buy-airbus-sepang-aircraft-engineering-unit-93CH-4926270",
+    "title": "Malaysia Aviation Group to buy Airbus’ Sepang Aircraft Engineering unit",
+    "tokens": [
+      "airbus",
+      "aircraft",
+      "aviation",
+      "buy",
+      "engineering",
+      "group",
+      "malaysia",
+      "sepang",
+      "unit"
+    ],
+    "ts": 1790834341.0276384
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/trump-praises-boeing-737-max-after-flydubai-incident-4926269",
+    "title": "Trump praises Boeing 737 Max after Flydubai incident",
+    "tokens": [
+      "737",
+      "boeing",
+      "flydubai",
+      "incident",
+      "max",
+      "praises",
+      "trump"
+    ],
+    "ts": 1790834348.9734821
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/guidewire-ceo-michael-rosenbaum-sells-171180-in-company-stock-93CH-4926266",
+    "title": "Guidewire CEO Michael Rosenbaum sells $171,180 in company stock",
+    "tokens": [
+      "171",
+      "180",
+      "ceo",
+      "company",
+      "guidewire",
+      "michael",
+      "rosenbaum",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790834356.7024434
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/armour-residential-reit-cocio-sergey-losyev-buys-10084-in-stock-93CH-4926265",
+    "title": "Armour Residential REIT: Co-CIO Sergey Losyev buys $10,084 in stock",
+    "tokens": [
+      "084",
+      "armour",
+      "buys",
+      "cio",
+      "losyev",
+      "reit",
+      "residential",
+      "sergey",
+      "stock"
+    ],
+    "ts": 1790834364.450264
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sanofi-regeneron-expand-partnership-in-deal-worth-up-to-8-billion-4926264",
+    "title": "Sanofi, Regeneron expand partnership in deal worth up to $8 billion",
+    "tokens": [
+      "billion",
+      "deal",
+      "expand",
+      "partnership",
+      "regeneron",
+      "sanofi",
+      "worth"
+    ],
+    "ts": 1790834372.1287174
   }
 ]

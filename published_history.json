@@ -1,223 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/commercial-bancgroup-executive-chairperson-john-robertson-buys-2287-in-stock-93CH-4921424",
-    "title": "Commercial bancgroup executive chairperson John Robertson buys $2,287 in stock",
-    "tokens": [
-      "287",
-      "bancgroup",
-      "buys",
-      "chairperson",
-      "commercial",
-      "executive",
-      "john",
-      "robertson",
-      "stock"
-    ],
-    "ts": 1790640955.3006923
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/openai-scraps-release-of-new-model-on-safety-concerns-wsj-4921415",
-    "title": "OpenAI scraps release of new model on safety concerns- WSJ",
-    "tokens": [
-      "concerns",
-      "model",
-      "openai",
-      "release",
-      "safety",
-      "scraps",
-      "wsj"
-    ],
-    "ts": 1790640963.1559122
-  },
-  {
-    "id": "oilprice-article-45630",
-    "title": "Hormuz Rerouting Doubles Cape Traffic Without Delivering a Windfall",
-    "tokens": [
-      "cape",
-      "delivering",
-      "doubles",
-      "hormuz",
-      "rerouting",
-      "traffic",
-      "windfall",
-      "without"
-    ],
-    "ts": 1790640971.8109286
-  },
-  {
-    "id": "oilprice-news-45630",
-    "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
-    "tokens": [
-      "1982",
-      "falls",
-      "level",
-      "lowest",
-      "petroleum",
-      "reserve",
-      "since",
-      "strategic"
-    ],
-    "ts": 1790640975.827728
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-prices-rise-for-second-session-on-continued-middle-east-supply-concern-4921465",
-    "title": "Oil prices rise for second session on continued Middle East supply concern",
-    "tokens": [
-      "concern",
-      "continued",
-      "east",
-      "middle",
-      "oil",
-      "prices",
-      "rise",
-      "second",
-      "session",
-      "supply"
-    ],
-    "ts": 1790642800.6137729
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/julong-announces-897750-private-placement-of-shares-and-warrants-93CH-4921464",
-    "title": "Julong announces $897,750 private placement of shares and warrants",
-    "tokens": [
-      "750",
-      "897",
-      "announces",
-      "julong",
-      "placement",
-      "private",
-      "shares",
-      "warrants"
-    ],
-    "ts": 1790642810.3793435
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/virtuix-holdings-director-brett-moyer-sells-10353-in-stock-93CH-4921461",
-    "title": "Virtuix Holdings director Brett Moyer sells $10,353 in stock",
-    "tokens": [
-      "353",
-      "brett",
-      "director",
-      "holdings",
-      "moyer",
-      "sells",
-      "stock",
-      "virtuix"
-    ],
-    "ts": 1790642817.9028492
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-516m-in-shares-93CH-4921459",
-    "title": "Crowdstrike CEO George Kurtz sells $5.16m in shares",
-    "tokens": [
-      "16m",
-      "ceo",
-      "crowdstrike",
-      "george",
-      "kurtz",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790642825.365834
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/samsung-affiliates-to-invest-1-billion-in-ai-infrastructure-firm-helix-4921450",
-    "title": "Samsung, affiliates to invest $1 billion in AI infrastructure firm Helix",
-    "tokens": [
-      "affiliates",
-      "billion",
-      "firm",
-      "helix",
-      "infrastructure",
-      "invest",
-      "samsung"
-    ],
-    "ts": 1790642833.6149757
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-leaders-to-control-ai-lab-via-founder-llc-to-promote-public-good-over-market-forces-4921448",
-    "title": "Exclusive-Anthropic leaders to control AI lab via ’Founder LLC’ to promote public good over market forces",
-    "tokens": [
-      "anthropic",
-      "control",
-      "exclusive",
-      "forces",
-      "founder",
-      "good",
-      "lab",
-      "leaders",
-      "llc",
-      "market",
-      "promote",
-      "public",
-      "via"
-    ],
-    "ts": 1790642841.071472
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-warns-ai-may-pose-existential-risks-to-humanity-in-ipo-filing-4921447",
-    "title": "Exclusive-Anthropic warns AI may pose ’existential risks to humanity’ in IPO filing",
-    "tokens": [
-      "anthropic",
-      "exclusive",
-      "existential",
-      "filing",
-      "humanity",
-      "ipo",
-      "may",
-      "pose",
-      "risks",
-      "warns"
-    ],
-    "ts": 1790642849.5082698
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/meta-platforms-ceo-mark-zuckerberg-sells-2136m-in-stock-93CH-4921446",
-    "title": "Meta platforms CEO Mark Zuckerberg sells $21.36m in stock",
-    "tokens": [
-      "36m",
-      "ceo",
-      "mark",
-      "meta",
-      "platforms",
-      "sells",
-      "stock",
-      "zuckerberg"
-    ],
-    "ts": 1790642856.6098797
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/gold-steadies-near-sevenweek-low-after-4-plunge-as-fed-hike-bets-rise-4921480",
-    "title": "Gold steadies near seven-week low after 4% plunge as Fed hike bets rise",
-    "tokens": [
-      "bets",
-      "fed",
-      "gold",
-      "hike",
-      "low",
-      "near",
-      "plunge",
-      "rise",
-      "seven",
-      "steadies",
-      "week"
-    ],
-    "ts": 1790645255.865569
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/monopar-therapeutics-ceo-robinson-sells-25m-in-stock-93CH-4921477",
-    "title": "Monopar Therapeutics CEO Robinson sells $2.5m in stock",
-    "tokens": [
-      "ceo",
-      "monopar",
-      "robinson",
-      "sells",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1790645263.5632277
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/photronics-director-lee-sells-221250-in-company-stock-93CH-4921476",
     "title": "Photronics director Lee sells $221,250 in company stock",
     "tokens": [
@@ -22890,5 +22672,249 @@
       "worked"
     ],
     "ts": 1790873865.1398244
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/european-stocks-start-quarter-lower-as-global-yields-hit-multiyear-highs-4926446",
+    "title": "European stocks close at three-month lows as surging bond yields hammer banks",
+    "tokens": [
+      "banks",
+      "bond",
+      "close",
+      "european",
+      "hammer",
+      "lows",
+      "month",
+      "stocks",
+      "surging",
+      "three",
+      "yields"
+    ],
+    "ts": 1790874999.5296652
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/brinks-declares-quarterly-dividend-of-0255-per-share-93CH-4927972",
+    "title": "Brink’s declares quarterly dividend of $0.255 per share",
+    "tokens": [
+      "255",
+      "brink",
+      "declares",
+      "dividend",
+      "per",
+      "quarterly",
+      "share"
+    ],
+    "ts": 1790875007.3910558
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/liontrust-reduces-stake-in-everplay-group-to-493-93CH-4927971",
+    "title": "Liontrust reduces stake in Everplay Group to 4.93%",
+    "tokens": [
+      "everplay",
+      "group",
+      "liontrust",
+      "reduces",
+      "stake"
+    ],
+    "ts": 1790875014.4117396
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tata-steel-receives-tribunal-approval-for-subsidiary-merger-93CH-4927966",
+    "title": "Tata Steel receives tribunal approval for subsidiary merger",
+    "tokens": [
+      "approval",
+      "merger",
+      "receives",
+      "steel",
+      "subsidiary",
+      "tata",
+      "tribunal"
+    ],
+    "ts": 1790875021.8223367
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/del-taco-brings-back-tacoberfest-a-monthlong-celebration-of-tacos-including-a-free-taco-for-national-taco-day-1036590544",
+    "title": "Del Taco Brings Back Tacoberfest®,  a Monthlong Celebration of Tacos Including a Free Taco for National Taco Day",
+    "tokens": [
+      "back",
+      "brings",
+      "celebration",
+      "day",
+      "del",
+      "free",
+      "including",
+      "monthlong",
+      "national",
+      "taco",
+      "tacoberfest",
+      "tacos"
+    ],
+    "ts": 1790875029.5981913
+  },
+  {
+    "id": "https://seekingalpha.com/news/4649190-kbwb-hits-most-oversold-rsi-since-the-2023-regional-banking-crisis?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "KBWB hits most oversold RSI since the 2023 regional-banking crisis",
+    "tokens": [
+      "2023",
+      "banking",
+      "crisis",
+      "hits",
+      "kbwb",
+      "most",
+      "oversold",
+      "regional",
+      "rsi",
+      "since"
+    ],
+    "ts": 1790875037.4397502
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/avex-shareholder-notice-faruqi-faruqi-llp-reminds-aevex-investors-of-securities-class-action-lawsuit-deadline-on-october-20-2026-1036499087",
+    "title": "AVEX SHAREHOLDER NOTICE: Faruqi & Faruqi, LLP Reminds AEVEX Investors of Securities Class Action Lawsuit Deadline on October 20, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "aevex",
+      "avex",
+      "class",
+      "deadline",
+      "faruqi",
+      "investors",
+      "lawsuit",
+      "llp",
+      "notice",
+      "october",
+      "reminds",
+      "securities",
+      "shareholder"
+    ],
+    "ts": 1790875045.8550904
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/josephine-moran-named-one-of-american-banker-s-2026-most-powerful-women-in-banking-to-watch-1036590541",
+    "title": "Josephine Moran Named One of American Banker’s 2026 Most Powerful Women in Banking to Watch",
+    "tokens": [
+      "2026",
+      "american",
+      "banker",
+      "banking",
+      "josephine",
+      "moran",
+      "most",
+      "named",
+      "one",
+      "powerful",
+      "watch",
+      "women"
+    ],
+    "ts": 1790875053.7366717
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/yfcon-2026-exhibitor-fypro-ai-helps-creators-turn-bfcm-product-partnerships-into-content-that-sells-1036590536",
+    "title": "YFCon 2026 Exhibitor Fypro.ai Helps Creators Turn BFCM Product Partnerships into Content That Sells",
+    "tokens": [
+      "2026",
+      "bfcm",
+      "content",
+      "creators",
+      "exhibitor",
+      "fypro",
+      "helps",
+      "partnerships",
+      "product",
+      "sells",
+      "turn",
+      "yfcon"
+    ],
+    "ts": 1790875063.0633268
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/spur-evolves-executive-leadership-to-support-next-phase-of-growth-1036590535",
+    "title": "Spur Evolves Executive Leadership to Support Next Phase of Growth",
+    "tokens": [
+      "evolves",
+      "executive",
+      "growth",
+      "leadership",
+      "next",
+      "phase",
+      "spur",
+      "support"
+    ],
+    "ts": 1790875070.2177382
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/intertape-polymer-group-backed-by-clearlake-capital-group-acquires-clysar-1036590539",
+    "title": "Intertape Polymer Group, Backed by Clearlake Capital Group, Acquires Clysar",
+    "tokens": [
+      "acquires",
+      "backed",
+      "capital",
+      "clearlake",
+      "clysar",
+      "group",
+      "intertape",
+      "polymer"
+    ],
+    "ts": 1790875077.6337104
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/mcgruff-cyber-watch-exposes-social-media-threats-each-week-1036590540",
+    "title": "“McGruff® Cyber Watch” Exposes Social Media Threats Each Week",
+    "tokens": [
+      "cyber",
+      "each",
+      "exposes",
+      "mcgruff",
+      "media",
+      "social",
+      "threats",
+      "watch",
+      "week"
+    ],
+    "ts": 1790875085.189777
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/crypto-news-remittix-opens-payfi-testing-to-1-000-users-as-xrp-faces-a-1-billion-token-escrow-unlock-and-sui-adds-bitwise-rwa-vault-1036590537",
+    "title": "Crypto News: Remittix Opens PayFi Testing to 1,000 Users as XRP Faces a 1 Billion Token Escrow Unlock and Sui Adds Bitwise RWA Vault",
+    "tokens": [
+      "000",
+      "adds",
+      "billion",
+      "bitwise",
+      "crypto",
+      "escrow",
+      "faces",
+      "news",
+      "opens",
+      "payfi",
+      "remittix",
+      "rwa",
+      "sui",
+      "testing",
+      "token",
+      "unlock",
+      "users",
+      "vault",
+      "xrp"
+    ],
+    "ts": 1790875092.6791494
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/supplyside-global-brings-together-ingredient-and-supplement-ecosystem-for-discovery-education-and-business-acceleration-1036590538",
+    "title": "SupplySide Global Brings Together Ingredient and Supplement Ecosystem for Discovery, Education and Business Acceleration",
+    "tokens": [
+      "acceleration",
+      "brings",
+      "business",
+      "discovery",
+      "ecosystem",
+      "education",
+      "global",
+      "ingredient",
+      "supplement",
+      "supplyside",
+      "together"
+    ],
+    "ts": 1790875099.852734
   }
 ]

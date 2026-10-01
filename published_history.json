@@ -1,141 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/gitlab-cto-sivaprasad-sells-238m-in-gtlb-shares-93CH-4921378",
-    "title": "Gitlab CTO Sivaprasad sells $2.38m in GTLB shares",
-    "tokens": [
-      "38m",
-      "cto",
-      "gitlab",
-      "gtlb",
-      "sells",
-      "shares",
-      "sivaprasad"
-    ],
-    "ts": 1790638037.4329321
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/sonos-director-karen-boone-sells-847636-in-company-stock-93CH-4921376",
-    "title": "Sonos director Karen Boone sells $847,636 in company stock",
-    "tokens": [
-      "636",
-      "847",
-      "boone",
-      "company",
-      "director",
-      "karen",
-      "sells",
-      "sonos",
-      "stock"
-    ],
-    "ts": 1790638044.48724
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/gitlab-director-sytse-sijbrandij-sells-101m-in-stock-93CH-4921375",
-    "title": "Gitlab director Sytse Sijbrandij sells $101m in stock",
-    "tokens": [
-      "101m",
-      "director",
-      "gitlab",
-      "sells",
-      "sijbrandij",
-      "stock",
-      "sytse"
-    ],
-    "ts": 1790638053.2016656
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/hut-8-director-mayo-shattuck-iii-sells-2-million-in-stock-93CH-4921374",
-    "title": "Hut 8 director Mayo Shattuck III sells $2 million in stock",
-    "tokens": [
-      "director",
-      "hut",
-      "iii",
-      "mayo",
-      "million",
-      "sells",
-      "shattuck",
-      "stock"
-    ],
-    "ts": 1790638060.078995
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/company-at-mining-forum-americas-2026-cash-flow-fuels-growth-93CH-4921371",
-    "title": "Company at Mining Forum Americas 2026: cash flow fuels growth",
-    "tokens": [
-      "2026",
-      "americas",
-      "cash",
-      "company",
-      "flow",
-      "forum",
-      "fuels",
-      "growth",
-      "mining"
-    ],
-    "ts": 1790638064.0938673
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/hennessy-advisors-director-thomas-seavey-sells-19031-in-shares-93CH-4921414",
-    "title": "Hennessy Advisors director Thomas Seavey sells $19,031 in shares",
-    "tokens": [
-      "031",
-      "advisors",
-      "director",
-      "hennessy",
-      "seavey",
-      "sells",
-      "shares",
-      "thomas"
-    ],
-    "ts": 1790639676.41319
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/first-atlantic-nickel-closes-38m-financing-for-drilling-93CH-4921403",
-    "title": "First Atlantic Nickel closes $3.8M financing for drilling",
-    "tokens": [
-      "atlantic",
-      "closes",
-      "drilling",
-      "financing",
-      "first",
-      "nickel"
-    ],
-    "ts": 1790639684.3234184
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/ivanhoe-mines-at-mining-forum-americas-2026-copper-critical-metals-93CH-4921402",
-    "title": "Ivanhoe Mines at Mining Forum Americas 2026: copper, critical metals",
-    "tokens": [
-      "2026",
-      "americas",
-      "copper",
-      "critical",
-      "forum",
-      "ivanhoe",
-      "metals",
-      "mines",
-      "mining"
-    ],
-    "ts": 1790639691.851045
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/goldman-sachs-board-discussed-plan-to-name-waldron-as-next-ceo-wsj-4921389",
-    "title": "Goldman Sachs board discussed plan to name Waldron as next CEO- WSJ",
-    "tokens": [
-      "board",
-      "ceo",
-      "discussed",
-      "goldman",
-      "name",
-      "next",
-      "plan",
-      "sachs",
-      "waldron",
-      "wsj"
-    ],
-    "ts": 1790639699.4212718
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/pimco-dynamic-income-director-alan-rappaport-buys-75654-in-stock-93CH-4921425",
     "title": "Pimco Dynamic Income director Alan Rappaport buys $75,654 in stock",
     "tokens": [
@@ -22892,5 +22756,138 @@
       "yields"
     ],
     "ts": 1790871724.8315642
+  },
+  {
+    "id": "WP-MKTW-0005264310",
+    "title": "Meta’s Mark Zuckerberg is coming for Apple’s empire",
+    "tokens": [
+      "apple",
+      "coming",
+      "empire",
+      "mark",
+      "meta",
+      "zuckerberg"
+    ],
+    "ts": 1790872944.1710486
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/openai-fires-three-safety-researchers-for-sharing-sensitive-data-wsj-reports-4927954",
+    "title": "OpenAI fires three safety researchers for sharing sensitive data, WSJ reports",
+    "tokens": [
+      "data",
+      "fires",
+      "openai",
+      "reports",
+      "researchers",
+      "safety",
+      "sensitive",
+      "sharing",
+      "three",
+      "wsj"
+    ],
+    "ts": 1790872952.3496802
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-carscom-stock-sliding-today-93CH-4927963",
+    "title": "Why is Cars.com stock sliding today?",
+    "tokens": [
+      "cars",
+      "com",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790872959.758656
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/synopsys-shares-jump-on-robust-growth-outlook-openai-and-aws-deals-4927953",
+    "title": "Synopsys shares jump on robust growth outlook, OpenAI and AWS deals",
+    "tokens": [
+      "aws",
+      "deals",
+      "growth",
+      "jump",
+      "openai",
+      "outlook",
+      "robust",
+      "shares",
+      "synopsys"
+    ],
+    "ts": 1790872967.823958
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/interactive-brokers-reports-september-metrics-client-accounts-up-35-93CH-4927952",
+    "title": "Interactive Brokers reports September metrics, client accounts up 35%",
+    "tokens": [
+      "accounts",
+      "brokers",
+      "client",
+      "interactive",
+      "metrics",
+      "reports",
+      "september"
+    ],
+    "ts": 1790872975.180728
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/trumps-500-obamacare-rebate-checks-land-in-prime-political-battlegrounds-4927951",
+    "title": "Trump’s $500 Obamacare ’rebate’ checks land in prime political battlegrounds",
+    "tokens": [
+      "500",
+      "battlegrounds",
+      "checks",
+      "land",
+      "obamacare",
+      "political",
+      "prime",
+      "rebate",
+      "trump"
+    ],
+    "ts": 1790872982.9426038
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/carscom-tumbles-as-company-names-new-cfo-4927950",
+    "title": "Cars.com tumbles as company names new CFO",
+    "tokens": [
+      "cars",
+      "cfo",
+      "com",
+      "company",
+      "names",
+      "tumbles"
+    ],
+    "ts": 1790872989.5884771
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/samsung-raises-galaxy-s26-prices-by-100-amid-chip-shortage-93CH-4927946",
+    "title": "Samsung raises Galaxy S26 prices by $100 amid chip shortage",
+    "tokens": [
+      "100",
+      "chip",
+      "galaxy",
+      "prices",
+      "raises",
+      "s26",
+      "samsung",
+      "shortage"
+    ],
+    "ts": 1790872997.3820426
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/silicon-laboratories-stock-hits-alltime-high-at-22251-usd-93CH-4927945",
+    "title": "Silicon Laboratories stock hits all-time high at 222.51 USD",
+    "tokens": [
+      "222",
+      "all",
+      "high",
+      "hits",
+      "laboratories",
+      "silicon",
+      "stock",
+      "time",
+      "usd"
+    ],
+    "ts": 1790873001.3945098
   }
 ]

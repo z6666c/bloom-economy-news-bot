@@ -1,132 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/trump-denies-offering-iran-sanctions-relief-tehran-says-ready-for-talks-4921647",
-    "title": "Trump denies offering Iran sanctions relief, Tehran says ready for talks",
-    "tokens": [
-      "denies",
-      "iran",
-      "offering",
-      "ready",
-      "relief",
-      "sanctions",
-      "talks",
-      "tehran",
-      "trump"
-    ],
-    "ts": 1790665147.030513
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/beowulf-minings-43m-financing-faces-uncertainty-93CH-4921651",
-    "title": "Beowulf Mining’s £4.3m financing faces uncertainty",
-    "tokens": [
-      "beowulf",
-      "faces",
-      "financing",
-      "mining",
-      "uncertainty"
-    ],
-    "ts": 1790665154.8958118
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/close-brothers-reports-fy26-loss-suspends-dividend-on-motorfinance-uncertainty-4921650",
-    "title": "Close Brothers reports FY26 loss, suspends dividend on motor-finance uncertainty",
-    "tokens": [
-      "brothers",
-      "close",
-      "dividend",
-      "finance",
-      "fy26",
-      "loss",
-      "motor",
-      "reports",
-      "suspends",
-      "uncertainty"
-    ],
-    "ts": 1790665162.5064328
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
-    "title": "Bitcoin flat at $83.4k as markets weigh soaring yields, Iran tensions",
-    "tokens": [
-      "bitcoin",
-      "flat",
-      "iran",
-      "markets",
-      "soaring",
-      "tensions",
-      "weigh",
-      "yields"
-    ],
-    "ts": 1790665169.8514326
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/diamond-drilling-program-to-begin-at-elizabeth-hill-silver-project-93CH-4921648",
-    "title": "Diamond drilling program to begin at Elizabeth Hill silver project",
-    "tokens": [
-      "begin",
-      "diamond",
-      "drilling",
-      "elizabeth",
-      "hill",
-      "program",
-      "project",
-      "silver"
-    ],
-    "ts": 1790665178.4594417
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/swedish-household-confidence-hits-highest-since-2021-as-economic-sentiment-rises-93CH-4921646",
-    "title": "Swedish household confidence hits highest since 2021 as economic sentiment rises",
-    "tokens": [
-      "2021",
-      "confidence",
-      "economic",
-      "highest",
-      "hits",
-      "household",
-      "rises",
-      "sentiment",
-      "since",
-      "swedish"
-    ],
-    "ts": 1790665186.6415408
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-hornbach-group-posts-solid-q2-2026-sales-growth-93CH-4921682",
-    "title": "Earnings call transcript: HORNBACH Group posts solid Q2 2026 sales growth",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "group",
-      "growth",
-      "hornbach",
-      "posts",
-      "sales",
-      "solid",
-      "transcript"
-    ],
-    "ts": 1790667778.4246259
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-hornbach-posts-solid-h1-2026-results-keeps-guidance-cautious-93CH-4921681",
-    "title": "Earnings call transcript: HORNBACH posts solid H1 2026 results, keeps guidance cautious",
-    "tokens": [
-      "2026",
-      "call",
-      "cautious",
-      "earnings",
-      "guidance",
-      "hornbach",
-      "keeps",
-      "posts",
-      "results",
-      "solid",
-      "transcript"
-    ],
-    "ts": 1790667786.9793947
-  },
-  {
     "id": "https://www.investing.com/news/company-news/defence-therapeutics-appoints-sherry-aulin-to-board-93CH-4921678",
     "title": "Defence Therapeutics appoints Sherry Aulin to board",
     "tokens": [
@@ -22951,5 +22824,125 @@
       "sec"
     ],
     "ts": 1790886787.2090006
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/feds-cook-sees-ai-inflationary-push-as-a-top-2027-risk-4928392",
+    "title": "Fed’s Cook sees AI inflationary push as a top 2027 risk",
+    "tokens": [
+      "2027",
+      "cook",
+      "fed",
+      "inflationary",
+      "push",
+      "risk",
+      "sees",
+      "top"
+    ],
+    "ts": 1790888098.052538
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/quaker-houghton-closes-550-million-term-loan-b-facility-93CH-4928391",
+    "title": "Quaker Houghton closes $550 million term loan B facility",
+    "tokens": [
+      "550",
+      "closes",
+      "facility",
+      "houghton",
+      "loan",
+      "million",
+      "quaker",
+      "term"
+    ],
+    "ts": 1790888105.4806495
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/alight-acquires-benefits-data-firm-abett-for-undisclosed-sum-93CH-4928390",
+    "title": "Alight acquires benefits data firm Abett for undisclosed sum",
+    "tokens": [
+      "abett",
+      "acquires",
+      "alight",
+      "benefits",
+      "data",
+      "firm",
+      "sum",
+      "undisclosed"
+    ],
+    "ts": 1790888113.5196302
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sagimet-closes-115-million-stock-offering-for-drug-development-93CH-4928389",
+    "title": "Sagimet closes $115 million stock offering for drug development",
+    "tokens": [
+      "115",
+      "closes",
+      "development",
+      "drug",
+      "million",
+      "offering",
+      "sagimet",
+      "stock"
+    ],
+    "ts": 1790888120.265365
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/granite-joint-venture-wins-3248m-cleveland-tunnel-contract-93CH-4928388",
+    "title": "Granite joint venture wins $324.8M Cleveland tunnel contract",
+    "tokens": [
+      "324",
+      "cleveland",
+      "contract",
+      "granite",
+      "joint",
+      "tunnel",
+      "venture",
+      "wins"
+    ],
+    "ts": 1790888128.1116881
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/coinshares-appoints-matt-morris-as-chief-financial-officer-93CH-4928387",
+    "title": "CoinShares appoints Matt Morris as chief financial officer",
+    "tokens": [
+      "appoints",
+      "chief",
+      "coinshares",
+      "financial",
+      "matt",
+      "morris",
+      "officer"
+    ],
+    "ts": 1790888135.0023735
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/venture-global-signs-20year-lng-supply-deal-with-conocophillips-93CH-4928386",
+    "title": "Venture Global signs 20-year LNG supply deal with ConocoPhillips",
+    "tokens": [
+      "conocophillips",
+      "deal",
+      "global",
+      "lng",
+      "signs",
+      "supply",
+      "venture",
+      "year"
+    ],
+    "ts": 1790888142.533454
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/ashford-hospitality-trust-completes-435-million-sale-of-las-vegas-hotel-93CH-4928383",
+    "title": "Ashford Hospitality Trust completes $43.5 million sale of Las Vegas hotel",
+    "tokens": [
+      "ashford",
+      "completes",
+      "hospitality",
+      "hotel",
+      "las",
+      "million",
+      "sale",
+      "trust",
+      "vegas"
+    ],
+    "ts": 1790888149.469716
   }
 ]

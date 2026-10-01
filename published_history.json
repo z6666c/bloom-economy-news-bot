@@ -1,141 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005256120",
-    "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-    "tokens": [
-      "bitcoin",
-      "buy",
-      "crazy",
-      "dollar",
-      "earn",
-      "every",
-      "never",
-      "selling"
-    ],
-    "ts": 1790605388.5894618
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/putin-signs-decree-limiting-energy-export-data-disclosure-93CH-4920681",
-    "title": "Putin signs decree limiting energy export data disclosure",
-    "tokens": [
-      "data",
-      "decree",
-      "disclosure",
-      "energy",
-      "export",
-      "limiting",
-      "putin",
-      "signs"
-    ],
-    "ts": 1790605397.6643765
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-netease-stock-surging-today-93CH-4920677",
-    "title": "Why is NetEase stock surging today?",
-    "tokens": [
-      "netease",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790605413.054215
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-marvell-stock-rating-on-ai-growth-outlook-93CH-4920674",
-    "title": "RBC Capital reiterates Marvell stock rating on AI growth outlook",
-    "tokens": [
-      "capital",
-      "growth",
-      "marvell",
-      "outlook",
-      "rating",
-      "rbc",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790605424.1947775
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-keeps-on-holding-stock-rating-at-underperform-after-mbappe-injury-93CH-4920673",
-    "title": "Jefferies keeps On Holding stock rating at underperform after Mbappe injury",
-    "tokens": [
-      "holding",
-      "injury",
-      "jefferies",
-      "keeps",
-      "mbappe",
-      "rating",
-      "stock",
-      "underperform"
-    ],
-    "ts": 1790605434.1785305
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-cuts-karman-holdings-stock-price-target-on-nearterm-caution-93CH-4920671",
-    "title": "RBC cuts Karman Holdings stock price target on near-term caution",
-    "tokens": [
-      "caution",
-      "cuts",
-      "holdings",
-      "karman",
-      "near",
-      "price",
-      "rbc",
-      "stock",
-      "target",
-      "term"
-    ],
-    "ts": 1790605442.5534017
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-outperform-on-aar-stock-ahead-of-earnings-93CH-4920672",
-    "title": "RBC Capital reiterates Outperform on AAR stock ahead of earnings",
-    "tokens": [
-      "aar",
-      "ahead",
-      "capital",
-      "earnings",
-      "outperform",
-      "rbc",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790605450.5877433
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-darden-stock-rating-on-improving-sales-trends-93CH-4920670",
-    "title": "Bernstein reiterates Darden stock rating on improving sales trends",
-    "tokens": [
-      "bernstein",
-      "darden",
-      "improving",
-      "rating",
-      "reiterates",
-      "sales",
-      "stock",
-      "trends"
-    ],
-    "ts": 1790605460.4709907
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-biorad-labs-stock-rating-on-transformation-outlook-93CH-4920669",
-    "title": "RBC Capital reiterates Bio-Rad Labs stock rating on transformation outlook",
-    "tokens": [
-      "bio",
-      "capital",
-      "labs",
-      "outlook",
-      "rad",
-      "rating",
-      "rbc",
-      "reiterates",
-      "stock",
-      "transformation"
-    ],
-    "ts": 1790605470.7437737
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/measured-ecb-hikes-to-quell-inflation-remain-appropriate-lagarde-says-4920668",
     "title": "Measured ECB hikes to quell inflation remain appropriate, Lagarde says",
     "tokens": [
@@ -22912,5 +22776,137 @@
       "tight"
     ],
     "ts": 1790840121.79265
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-spyre-stock-with-overweight-on-ibd-pipeline-93CH-4926445",
+    "title": "JPMorgan initiates Spyre stock with Overweight on IBD pipeline",
+    "tokens": [
+      "ibd",
+      "initiates",
+      "jpmorgan",
+      "overweight",
+      "pipeline",
+      "spyre",
+      "stock"
+    ],
+    "ts": 1790841375.6592839
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-kura-oncology-stock-with-overweight-rating-93CH-4926444",
+    "title": "JPMorgan initiates Kura Oncology stock with overweight rating",
+    "tokens": [
+      "initiates",
+      "jpmorgan",
+      "kura",
+      "oncology",
+      "overweight",
+      "rating",
+      "stock"
+    ],
+    "ts": 1790841385.0472207
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/enliven-therapeutics-stock-initiated-at-overweight-by-jpmorgan-93CH-4926443",
+    "title": "Enliven Therapeutics stock initiated at Overweight by JPMorgan",
+    "tokens": [
+      "enliven",
+      "initiated",
+      "jpmorgan",
+      "overweight",
+      "stock",
+      "therapeutics"
+    ],
+    "ts": 1790841392.1410766
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/arqiva-appoints-simon-duffy-as-board-chair-93CH-4926442",
+    "title": "Arqiva appoints Simon Duffy as board chair",
+    "tokens": [
+      "appoints",
+      "arqiva",
+      "board",
+      "chair",
+      "duffy",
+      "simon"
+    ],
+    "ts": 1790841400.0312395
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/active-energy-group-secures-13m-uae-funding-facility-93CH-4926436",
+    "title": "Active Energy Group secures £1.3M UAE funding facility",
+    "tokens": [
+      "active",
+      "energy",
+      "facility",
+      "funding",
+      "group",
+      "secures",
+      "uae"
+    ],
+    "ts": 1790841407.2488332
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/sse-expects-higher-interim-eps-as-networks-investment-jumps-and-renewables-output-4926435",
+    "title": "SSE expects higher interim EPS as networks investment jumps and renewables output",
+    "tokens": [
+      "eps",
+      "expects",
+      "higher",
+      "interim",
+      "investment",
+      "jumps",
+      "networks",
+      "output",
+      "renewables",
+      "sse"
+    ],
+    "ts": 1790841414.7544403
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sanofi-to-pay-regeneron-up-to-8-billion-to-add-new-antibodies-underdupixent-partnership-4926434",
+    "title": "Sanofi to pay Regeneron up to $8 billion to add new antibodies under Dupixent partnership",
+    "tokens": [
+      "add",
+      "antibodies",
+      "billion",
+      "dupixent",
+      "partnership",
+      "pay",
+      "regeneron",
+      "sanofi",
+      "under"
+    ],
+    "ts": 1790841423.034072
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bmo-initiates-national-energy-services-stock-at-outperform-on-middle-east-growth-93CH-4926433",
+    "title": "BMO initiates National Energy Services stock at Outperform on Middle East growth",
+    "tokens": [
+      "bmo",
+      "east",
+      "energy",
+      "growth",
+      "initiates",
+      "middle",
+      "national",
+      "outperform",
+      "services",
+      "stock"
+    ],
+    "ts": 1790841430.0017085
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43",
+    "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
+    "tokens": [
+      "bitcoin",
+      "btc",
+      "draw",
+      "etfs",
+      "nearly",
+      "price",
+      "rises"
+    ],
+    "ts": 1790841438.9895828
   }
 ]

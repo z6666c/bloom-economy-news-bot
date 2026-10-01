@@ -1,96 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-neutral-rating-on-rivian-stock-at-19-93CH-4920136",
-    "title": "Cantor Fitzgerald reiterates Neutral rating on Rivian stock at $19",
-    "tokens": [
-      "cantor",
-      "fitzgerald",
-      "neutral",
-      "rating",
-      "reiterates",
-      "rivian",
-      "stock"
-    ],
-    "ts": 1790597704.6596408
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-lucid-stock-rating-on-saudi-plant-progress-93CH-4920135",
-    "title": "Cantor Fitzgerald reiterates Lucid stock rating on Saudi plant progress",
-    "tokens": [
-      "cantor",
-      "fitzgerald",
-      "lucid",
-      "plant",
-      "progress",
-      "rating",
-      "reiterates",
-      "saudi",
-      "stock"
-    ],
-    "ts": 1790597712.804922
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/brookline-initiates-revolution-medicines-stock-with-buy-rating-93CH-4920134",
-    "title": "Brookline initiates Revolution Medicines stock with buy rating",
-    "tokens": [
-      "brookline",
-      "buy",
-      "initiates",
-      "medicines",
-      "rating",
-      "revolution",
-      "stock"
-    ],
-    "ts": 1790597721.0647573
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-tesla-stock-rating-on-trucking-outlook-93CH-4920133",
-    "title": "Cantor Fitzgerald reiterates Tesla stock rating on trucking outlook",
-    "tokens": [
-      "cantor",
-      "fitzgerald",
-      "outlook",
-      "rating",
-      "reiterates",
-      "stock",
-      "tesla",
-      "trucking"
-    ],
-    "ts": 1790597729.2893858
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fermi-selects-naes-to-operate-natural-gas-turbine-fleet-93CH-4920132",
-    "title": "Fermi selects NAES to operate natural gas turbine fleet",
-    "tokens": [
-      "fermi",
-      "fleet",
-      "gas",
-      "naes",
-      "natural",
-      "operate",
-      "selects",
-      "turbine"
-    ],
-    "ts": 1790597736.9470844
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nvidia-adds-150-billion-to-existing-share-repurchase-plan-4919956",
-    "title": "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth",
-    "tokens": [
-      "150",
-      "billion",
-      "boom",
-      "boosts",
-      "buyback",
-      "fuels",
-      "growth",
-      "nvidia",
-      "record",
-      "share"
-    ],
-    "ts": 1790597745.1406064
-  },
-  {
     "id": "https://www.investing.com/news/company-news/winnebago-names-silva-to-lead-aftermarket-business-93CH-4920109",
     "title": "Winnebago names Silva to lead aftermarket business",
     "tokens": [
@@ -22904,5 +22813,94 @@
       "yields"
     ],
     "ts": 1790828206.9325922
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/japanese-chipmakers-rally-as-micron-earnings-boost-ai-trade-4926236",
+    "title": "Japanese chipmakers rally as Micron earnings boost AI trade",
+    "tokens": [
+      "boost",
+      "chipmakers",
+      "earnings",
+      "japanese",
+      "micron",
+      "rally",
+      "trade"
+    ],
+    "ts": 1790829888.934866
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nio-reports-37408-vehicle-deliveries-in-september-up-77-yoy-93CH-4926235",
+    "title": "NIO reports 37,408 vehicle deliveries in September, up 7.7% YoY",
+    "tokens": [
+      "408",
+      "deliveries",
+      "nio",
+      "reports",
+      "september",
+      "vehicle",
+      "yoy"
+    ],
+    "ts": 1790829896.1830359
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/collplant-adr-earnings-beat-by-056-revenue-fell-short-of-estimates-4926233",
+    "title": "Collplant ADR earnings beat by $0.56, revenue fell short of estimates",
+    "tokens": [
+      "adr",
+      "beat",
+      "collplant",
+      "earnings",
+      "estimates",
+      "fell",
+      "revenue",
+      "short"
+    ],
+    "ts": 1790829900.1929178
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/indian-stock-market-slump-buying-opportunity-or-falling-knife-93CH-4926232",
+    "title": "Indian stock market slump: buying opportunity or falling knife?",
+    "tokens": [
+      "buying",
+      "falling",
+      "indian",
+      "knife",
+      "market",
+      "opportunity",
+      "slump",
+      "stock"
+    ],
+    "ts": 1790829903.8094482
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-chipmaker-gains-soft-us-inflation-nikkei-outperforms-4926231",
+    "title": "Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms",
+    "tokens": [
+      "asia",
+      "chipmaker",
+      "gains",
+      "inflation",
+      "nikkei",
+      "outperforms",
+      "rise",
+      "soft",
+      "stocks"
+    ],
+    "ts": 1790829912.9629407
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/a-12b-ai-order-landed-september-30--our-models-had-this-it-stock-since-july-4926229",
+    "title": "A $1.2B AI order landed September 30 - our models had this IT stock since July",
+    "tokens": [
+      "july",
+      "landed",
+      "models",
+      "order",
+      "our",
+      "september",
+      "since",
+      "stock"
+    ],
+    "ts": 1790829920.2807405
   }
 ]

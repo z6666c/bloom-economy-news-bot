@@ -1,216 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-026-4921146",
-    "title": "Brazil stocks lower at close of trade; Bovespa down 0.26%",
-    "tokens": [
-      "bovespa",
-      "brazil",
-      "close",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790628317.3714523
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/jefferies-financial-earnings-beat-by-008-revenue-topped-estimates-4921145",
-    "title": "Jefferies Financial earnings beat by $0.08, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "earnings",
-      "estimates",
-      "financial",
-      "jefferies",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1790628324.934372
-  },
-  {
-    "id": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports",
-    "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
-    "tokens": [
-      "500m",
-      "blockchain",
-      "capital",
-      "com",
-      "crypto",
-      "eyes",
-      "ipo",
-      "markets",
-      "report",
-      "thaw"
-    ],
-    "ts": 1790628333.015519
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
-    "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-    "tokens": [
-      "action",
-      "bank",
-      "board",
-      "employee",
-      "enforcement",
-      "federal",
-      "former",
-      "issues",
-      "reserve",
-      "sandy",
-      "spring"
-    ],
-    "ts": 1790628340.9398024
-  },
-  {
-    "id": "WP-MKTW-0005256894",
-    "title": "Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take",
-    "tokens": [
-      "bond",
-      "can",
-      "higher",
-      "how",
-      "more",
-      "move",
-      "much",
-      "relentlessly",
-      "stocks",
-      "street",
-      "take",
-      "tech",
-      "wall",
-      "wonders",
-      "yields"
-    ],
-    "ts": 1790629145.3795235
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jefferies-quarterly-profit-jumps-on-deal-surge-equities-trading-strength-4921143",
-    "title": "Jefferies beats profit estimates on deal surge, equities trading strength",
-    "tokens": [
-      "beats",
-      "deal",
-      "equities",
-      "estimates",
-      "jefferies",
-      "profit",
-      "strength",
-      "surge",
-      "trading"
-    ],
-    "ts": 1790629153.0897207
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/gain-therapeutics-announces-cfo-resignation-and-interim-appointment-93CH-4921204",
-    "title": "Gain Therapeutics announces CFO resignation and interim appointment",
-    "tokens": [
-      "announces",
-      "appointment",
-      "cfo",
-      "gain",
-      "interim",
-      "resignation",
-      "therapeutics"
-    ],
-    "ts": 1790629161.1957927
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-vail-resorts-stock-sliding-today-93CH-4921203",
-    "title": "Why is Vail Resorts stock sliding today?",
-    "tokens": [
-      "resorts",
-      "sliding",
-      "stock",
-      "today",
-      "vail",
-      "why"
-    ],
-    "ts": 1790629168.5812318
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-jefferies-financial-stock-sliding-today-93CH-4921192",
-    "title": "Why is Jefferies Financial stock sliding today?",
-    "tokens": [
-      "financial",
-      "jefferies",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790629175.6694899
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/american-healthcare-reit-evp-mark-foster-sells-78090-in-stock-93CH-4921187",
-    "title": "American healthcare REIT EVP Mark Foster sells $78,090 in stock",
-    "tokens": [
-      "090",
-      "american",
-      "evp",
-      "foster",
-      "healthcare",
-      "mark",
-      "reit",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790629182.7348433
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/source-agriventures-files-for-nasdaq-ipo-under-srav-4921185",
-    "title": "Source Agriventures files for Nasdaq IPO under ’SRAV’",
-    "tokens": [
-      "agriventures",
-      "files",
-      "ipo",
-      "nasdaq",
-      "source",
-      "srav",
-      "under"
-    ],
-    "ts": 1790629190.602223
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/adaptogenics-health-closes-oversubscribed-private-placement-93CH-4921182",
-    "title": "Adaptogenics Health closes oversubscribed private placement",
-    "tokens": [
-      "adaptogenics",
-      "closes",
-      "health",
-      "oversubscribed",
-      "placement",
-      "private"
-    ],
-    "ts": 1790629197.6173482
-  },
-  {
-    "id": "oilprice-article-45625",
-    "title": "How AI Could Upend the Secretive World of Fuel Trading",
-    "tokens": [
-      "could",
-      "fuel",
-      "how",
-      "secretive",
-      "trading",
-      "upend",
-      "world"
-    ],
-    "ts": 1790629205.7063322
-  },
-  {
-    "id": "oilprice-news-45625",
-    "title": "SpaceX Sends Starship to Orbit and Deploys 26 Starlink V3 Satellites",
-    "tokens": [
-      "deploys",
-      "orbit",
-      "satellites",
-      "sends",
-      "spacex",
-      "starlink",
-      "starship"
-    ],
-    "ts": 1790629209.7178004
-  },
-  {
     "id": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto",
     "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
     "tokens": [
@@ -22894,5 +22683,213 @@
       "stock"
     ],
     "ts": 1790865974.5016615
+  },
+  {
+    "id": "WP-MKTW-0005262082",
+    "title": "September jobs report may show labor market is on the mend — but it’s far from cured",
+    "tokens": [
+      "cured",
+      "far",
+      "jobs",
+      "labor",
+      "market",
+      "may",
+      "mend",
+      "report",
+      "september",
+      "show"
+    ],
+    "ts": 1790866810.3161492
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/dht-holdings-stock-hits-52week-high-at-2357-usd-93CH-4927819",
+    "title": "DHT Holdings stock hits 52-week high at 23.57 USD",
+    "tokens": [
+      "dht",
+      "high",
+      "hits",
+      "holdings",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790866817.7259533
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/euronet-worldwide-stock-hits-52week-low-at-6245-usd-93CH-4927818",
+    "title": "Euronet Worldwide stock hits 52-week low at 62.45 USD",
+    "tokens": [
+      "euronet",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week",
+      "worldwide"
+    ],
+    "ts": 1790866821.7399106
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/borders--southern-admits-shares-following-warrant-exercise-93CH-4927817",
+    "title": "Borders & Southern admits shares following warrant exercise",
+    "tokens": [
+      "admits",
+      "borders",
+      "exercise",
+      "following",
+      "shares",
+      "southern",
+      "warrant"
+    ],
+    "ts": 1790866824.9499617
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/everest-group-completes-sale-of-canadian-retail-unit-93CH-4927816",
+    "title": "Everest Group completes sale of Canadian retail unit",
+    "tokens": [
+      "canadian",
+      "completes",
+      "everest",
+      "group",
+      "retail",
+      "sale",
+      "unit"
+    ],
+    "ts": 1790866833.3262153
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/articore-at-ai--technology-virtual-investor-conference-margins-rise-93CH-4927815",
+    "title": "Articore at AI & Technology Virtual Investor Conference: margins rise",
+    "tokens": [
+      "articore",
+      "conference",
+      "investor",
+      "margins",
+      "rise",
+      "technology",
+      "virtual"
+    ],
+    "ts": 1790866841.11043
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/mccormick--co-stock-hits-52week-low-at-4481-usd-93CH-4927813",
+    "title": "Mccormick & Co stock hits 52-week low at 44.81 USD",
+    "tokens": [
+      "hits",
+      "low",
+      "mccormick",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790866845.1284733
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ashland-call-butterfly-targets-75-strike-ahead-of-oct-16-expiry-93CH-4927811",
+    "title": "Ashland call butterfly targets $75 strike ahead of Oct 16 expiry",
+    "tokens": [
+      "ahead",
+      "ashland",
+      "butterfly",
+      "call",
+      "expiry",
+      "oct",
+      "strike",
+      "targets"
+    ],
+    "ts": 1790866848.9536958
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-250-4927810",
+    "title": "Greece stocks lower at close of trade; Athens General Composite down 2.50%",
+    "tokens": [
+      "athens",
+      "close",
+      "composite",
+      "general",
+      "greece",
+      "lower",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790866852.968296
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/synopsys-options-flow-turns-bullish-on-aws-deal-and-openai-partnership-93CH-4927807",
+    "title": "Synopsys options flow turns bullish on AWS deal and OpenAI partnership",
+    "tokens": [
+      "aws",
+      "bullish",
+      "deal",
+      "flow",
+      "openai",
+      "options",
+      "partnership",
+      "synopsys",
+      "turns"
+    ],
+    "ts": 1790866856.4353628
+  },
+  {
+    "id": "oilprice-article-45652",
+    "title": "Uranium Hits Record High While Nuclear Stocks Slide",
+    "tokens": [
+      "high",
+      "hits",
+      "nuclear",
+      "record",
+      "slide",
+      "stocks",
+      "uranium",
+      "while"
+    ],
+    "ts": 1790866866.203956
+  },
+  {
+    "id": "oilprice-news-45652",
+    "title": "India's Power Shortages Jump to Three-Year High",
+    "tokens": [
+      "high",
+      "india",
+      "jump",
+      "power",
+      "shortages",
+      "three",
+      "year"
+    ],
+    "ts": 1790866870.2197366
+  },
+  {
+    "id": "61279dbc-4972-4d97-a8ff-8f57859ce3b1",
+    "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
+    "tokens": [
+      "act",
+      "advisors",
+      "anyway",
+      "came",
+      "clarity",
+      "crypto",
+      "failed",
+      "rules"
+    ],
+    "ts": 1790866873.996618
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+    "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+    "tokens": [
+      "action",
+      "bank",
+      "board",
+      "employee",
+      "enforcement",
+      "federal",
+      "former",
+      "issues",
+      "reserve",
+      "sandy",
+      "spring"
+    ],
+    "ts": 1790866881.5588362
   }
 ]

@@ -1,216 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/defence-therapeutics-appoints-sherry-aulin-to-board-93CH-4921678",
-    "title": "Defence Therapeutics appoints Sherry Aulin to board",
-    "tokens": [
-      "appoints",
-      "aulin",
-      "board",
-      "defence",
-      "sherry",
-      "therapeutics"
-    ],
-    "ts": 1790667794.865563
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-uk-shop-price-inflation-slows-4921672",
-    "title": "FTSE 100 today: Stocks edge up as UK shop price inflation slows",
-    "tokens": [
-      "100",
-      "edge",
-      "ftse",
-      "inflation",
-      "price",
-      "shop",
-      "slows",
-      "stocks",
-      "today"
-    ],
-    "ts": 1790667804.1956146
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bernstein-downgrades-pan-pacific-international-stock-rating-on-margin-pressure-93CH-4921671",
-    "title": "Bernstein downgrades Pan Pacific International stock rating on margin pressure",
-    "tokens": [
-      "bernstein",
-      "downgrades",
-      "international",
-      "margin",
-      "pacific",
-      "pan",
-      "pressure",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790667813.989967
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/china-automaker-faw-to-explore-broader-cooperation-with-gac-after-jv-stake-deal-4921670",
-    "title": "China automaker FAW to explore broader cooperation with GAC after JV stake deal",
-    "tokens": [
-      "automaker",
-      "broader",
-      "china",
-      "cooperation",
-      "deal",
-      "explore",
-      "faw",
-      "gac",
-      "stake"
-    ],
-    "ts": 1790667822.2902136
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dave--busters-interim-cfo-cory-hatton-buys-25999-in-stock-93CH-4921710",
-    "title": "Dave & Buster’s interim CFO Cory Hatton buys $25,999 in stock",
-    "tokens": [
-      "999",
-      "buster",
-      "buys",
-      "cfo",
-      "cory",
-      "dave",
-      "hatton",
-      "interim",
-      "stock"
-    ],
-    "ts": 1790668643.820939
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/us-treasury-yields-hold-while-aussie-yields-retreat--after-2011era-peak-run-up-4921704",
-    "title": "U.S. Treasury yields hold while Aussie yields retreat  after 2011-era peak run up",
-    "tokens": [
-      "2011",
-      "aussie",
-      "era",
-      "hold",
-      "peak",
-      "retreat",
-      "run",
-      "treasury",
-      "while",
-      "yields"
-    ],
-    "ts": 1790668652.2947338
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-closes-probe-into-over-1-million-chrysler-vehicles-over-underhood-fire-risk-4921706",
-    "title": "US closes probe into over 1 million Chrysler vehicles over underhood fire risk",
-    "tokens": [
-      "chrysler",
-      "closes",
-      "fire",
-      "million",
-      "probe",
-      "risk",
-      "underhood",
-      "vehicles"
-    ],
-    "ts": 1790668661.338224
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/safety-group-urges-eu-to-reject-tesla-fsd-over-speed-offset-4921705",
-    "title": "Safety group urges EU to reject Tesla FSD over speed offset",
-    "tokens": [
-      "fsd",
-      "group",
-      "offset",
-      "reject",
-      "safety",
-      "speed",
-      "tesla",
-      "urges"
-    ],
-    "ts": 1790668669.627363
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/chinas-golden-week-travel-surge-masks-cautious-consumer-spending-4921703",
-    "title": "China’s Golden Week travel surge masks cautious consumer spending",
-    "tokens": [
-      "cautious",
-      "china",
-      "consumer",
-      "golden",
-      "masks",
-      "spending",
-      "surge",
-      "travel",
-      "week"
-    ],
-    "ts": 1790668677.3291311
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/barclays-reiterates-robinhood-stock-rating-on-strong-q3-volumes-93CH-4921702",
-    "title": "Barclays reiterates Robinhood stock rating on strong Q3 volumes",
-    "tokens": [
-      "barclays",
-      "rating",
-      "reiterates",
-      "robinhood",
-      "stock",
-      "strong",
-      "volumes"
-    ],
-    "ts": 1790668686.030943
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/blackstone-to-launch-investment-platform-for-nordics-warehouses-4921699",
-    "title": "Blackstone to launch investment platform for Nordics warehouses",
-    "tokens": [
-      "blackstone",
-      "investment",
-      "launch",
-      "nordics",
-      "platform",
-      "warehouses"
-    ],
-    "ts": 1790668694.9987133
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/genfit-shares-jump-4-on-tripled-iqirvo-royalties-cash-runway-beyond-2028-93CH-4921701",
-    "title": "Genfit shares jump 4% on tripled Iqirvo royalties, cash runway beyond 2028",
-    "tokens": [
-      "2028",
-      "beyond",
-      "cash",
-      "genfit",
-      "iqirvo",
-      "jump",
-      "royalties",
-      "runway",
-      "shares",
-      "tripled"
-    ],
-    "ts": 1790668703.2977717
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-genfit-stock-gaining-today-93CH-4921700",
-    "title": "Why is Genfit stock gaining today?",
-    "tokens": [
-      "gaining",
-      "genfit",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790668711.1659482
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/glencore-stock-maintains-outperform-rating-ahead-of-asx-listing-93CH-4921713",
-    "title": "Glencore stock maintains Outperform rating ahead of ASX listing",
-    "tokens": [
-      "ahead",
-      "asx",
-      "glencore",
-      "listing",
-      "maintains",
-      "outperform",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790669857.8975725
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/legrand-jumps-7-on-raising-2030-growth-margin-targets-on-ai-data-centre-demand-4921762",
     "title": "Legrand jumps 7% on raising 2030 growth, margin targets on AI data centre demand",
     "tokens": [
@@ -22944,5 +22733,229 @@
       "vegas"
     ],
     "ts": 1790888149.469716
+  },
+  {
+    "id": "WP-MKTW-0005264650",
+    "title": "The stock market is anything but normal right now — and these charts show it",
+    "tokens": [
+      "anything",
+      "charts",
+      "market",
+      "normal",
+      "now",
+      "right",
+      "show",
+      "stock",
+      "these"
+    ],
+    "ts": 1790889073.3869114
+  },
+  {
+    "id": "WP-MKTW-0005265338",
+    "title": "Here’s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
+    "tokens": [
+      "appliances",
+      "clothing",
+      "cost",
+      "could",
+      "diesel",
+      "groceries",
+      "here",
+      "household",
+      "how",
+      "keep",
+      "more",
+      "much",
+      "prices",
+      "surging"
+    ],
+    "ts": 1790889081.046835
+  },
+  {
+    "id": "WP-MKTW-0005265694",
+    "title": "Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?",
+    "tokens": [
+      "bill",
+      "congress",
+      "own",
+      "people",
+      "prevent",
+      "republicans",
+      "sabotaged",
+      "stocks",
+      "their",
+      "trading",
+      "why"
+    ],
+    "ts": 1790889090.3003242
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nike-quarterly-sales-miss-estimates-as-china-weakness-competition-weigh-4928306",
+    "title": "Nike plans more job cuts, geographic changes after quarterly sales miss",
+    "tokens": [
+      "changes",
+      "cuts",
+      "geographic",
+      "job",
+      "miss",
+      "more",
+      "nike",
+      "plans",
+      "quarterly",
+      "sales"
+    ],
+    "ts": 1790889098.4789863
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/national-bank-holdings-announces-468-million-in-loan-chargeoffs-and-new-401-million-stock-buyback-93CH-4928448",
+    "title": "National Bank Holdings announces $46.8 million in loan charge-offs and new $40.1 million stock buyback",
+    "tokens": [
+      "announces",
+      "bank",
+      "buyback",
+      "charge",
+      "holdings",
+      "loan",
+      "million",
+      "national",
+      "offs",
+      "stock"
+    ],
+    "ts": 1790889106.181931
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-aurora-innovation-stock-rating-at-outperform-93CH-4928447",
+    "title": "Evercore ISI maintains Aurora Innovation stock rating at outperform",
+    "tokens": [
+      "aurora",
+      "evercore",
+      "innovation",
+      "isi",
+      "maintains",
+      "outperform",
+      "rating",
+      "stock"
+    ],
+    "ts": 1790889114.776833
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/elutia-receives-8-million-escrow-from-boston-scientific-sale-93CH-4928446",
+    "title": "Elutia receives $8 million escrow from Boston Scientific sale",
+    "tokens": [
+      "boston",
+      "elutia",
+      "escrow",
+      "million",
+      "receives",
+      "sale",
+      "scientific"
+    ],
+    "ts": 1790889121.8723495
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/onsemi-revises-synaptics-deal-to-123sh-allcash-shares-of-both-soar-4928445",
+    "title": "Onsemi revises Synaptics deal to $123/sh all-cash, shares of both soar",
+    "tokens": [
+      "123",
+      "all",
+      "both",
+      "cash",
+      "deal",
+      "onsemi",
+      "revises",
+      "shares",
+      "soar",
+      "synaptics"
+    ],
+    "ts": 1790889129.2173038
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/site-centers-sells-chicago-property-for-153-million-93CH-4928444",
+    "title": "SITE Centers sells Chicago property for $15.3 million",
+    "tokens": [
+      "centers",
+      "chicago",
+      "million",
+      "property",
+      "sells",
+      "site"
+    ],
+    "ts": 1790889136.285353
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/nextdecade-director-giovanni-oddo-resigns-from-board-nic-to-designate-replacement-93CH-4928435",
+    "title": "NextDecade director Giovanni Oddo resigns from board, NIC to designate replacement",
+    "tokens": [
+      "board",
+      "designate",
+      "director",
+      "giovanni",
+      "nextdecade",
+      "nic",
+      "oddo",
+      "replacement",
+      "resigns"
+    ],
+    "ts": 1790889143.4779253
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/first-solar-files-patent-suit-against-ja-solar-over-topcon-tech-93CH-4928433",
+    "title": "First Solar files patent suit against JA Solar over TOPCon tech",
+    "tokens": [
+      "against",
+      "files",
+      "first",
+      "patent",
+      "solar",
+      "suit",
+      "tech",
+      "topcon"
+    ],
+    "ts": 1790889151.6654403
+  },
+  {
+    "id": "oilprice-article-45661",
+    "title": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
+    "tokens": [
+      "bite",
+      "costs",
+      "drop",
+      "exports",
+      "freight",
+      "oil",
+      "venezuela"
+    ],
+    "ts": 1790889160.8319545
+  },
+  {
+    "id": "oilprice-news-45661",
+    "title": "China Halts October Fuel Exports as Global Diesel Crunch Deepens",
+    "tokens": [
+      "china",
+      "crunch",
+      "deepens",
+      "diesel",
+      "exports",
+      "fuel",
+      "global",
+      "halts",
+      "october"
+    ],
+    "ts": 1790889168.4818048
+  },
+  {
+    "id": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims",
+    "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
+    "tokens": [
+      "3rd",
+      "claims",
+      "corruption",
+      "event",
+      "exclusive",
+      "host",
+      "memecoin",
+      "trump"
+    ],
+    "ts": 1790889176.1166453
   }
 ]

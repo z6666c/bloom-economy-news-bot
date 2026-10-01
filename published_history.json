@@ -1,112 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-tyler-technologies-stock-price-target-on-valuation-93CH-4920044",
-    "title": "Piper Sandler cuts Tyler Technologies stock price target on valuation",
-    "tokens": [
-      "cuts",
-      "piper",
-      "price",
-      "sandler",
-      "stock",
-      "target",
-      "technologies",
-      "tyler",
-      "valuation"
-    ],
-    "ts": 1790596575.0194228
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/slate-grocery-reit-agrees-to-23-billion-buyout-at-13-per-unit-93CH-4920043",
-    "title": "Slate Grocery REIT agrees to $2.3 billion buyout at $13 per unit",
-    "tokens": [
-      "agrees",
-      "billion",
-      "buyout",
-      "grocery",
-      "per",
-      "reit",
-      "slate",
-      "unit"
-    ],
-    "ts": 1790596582.2757847
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/transdigm-completes-107-billion-prince--izant-acquisition-93CH-4920042",
-    "title": "TransDigm completes $1.07 billion Prince & Izant acquisition",
-    "tokens": [
-      "acquisition",
-      "billion",
-      "completes",
-      "izant",
-      "prince",
-      "transdigm"
-    ],
-    "ts": 1790596590.6449382
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/canadian-stock-futures-slip-as-markets-gear-up-for-heavydata-week-4920037",
-    "title": "Canadian stock futures slip as markets gear up for heavy-data week",
-    "tokens": [
-      "canadian",
-      "data",
-      "futures",
-      "gear",
-      "heavy",
-      "markets",
-      "slip",
-      "stock",
-      "week"
-    ],
-    "ts": 1790596597.9051602
-  },
-  {
-    "id": "b32182ee-a497-4031-8e0f-3f3156a1dc2f",
-    "title": "Traders aren't panicking yet despite cooling crypto sentiment",
-    "tokens": [
-      "aren",
-      "cooling",
-      "crypto",
-      "despite",
-      "panicking",
-      "sentiment",
-      "traders",
-      "yet"
-    ],
-    "ts": 1790596607.5588906
-  },
-  {
-    "id": "9b64acb6-ebeb-44bf-b40f-0b033b2ebf54",
-    "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
-    "tokens": [
-      "brings",
-      "bybit",
-      "collateral",
-      "crypto",
-      "franklin",
-      "friendly",
-      "institution",
-      "service",
-      "templeton",
-      "tokenized"
-    ],
-    "ts": 1790596614.5393288
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/alx-oncology-reports-trial-data-for-gastric-cancer-drug-93CH-4920151",
-    "title": "ALX Oncology reports trial data for gastric cancer drug",
-    "tokens": [
-      "alx",
-      "cancer",
-      "data",
-      "drug",
-      "gastric",
-      "oncology",
-      "reports",
-      "trial"
-    ],
-    "ts": 1790597696.555426
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-neutral-rating-on-rivian-stock-at-19-93CH-4920136",
     "title": "Cantor Fitzgerald reiterates Neutral rating on Rivian stock at $19",
     "tokens": [
@@ -22907,5 +22800,109 @@
       "tencent"
     ],
     "ts": 1790827049.088772
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-phc-holdings-stock-surging-today-93CH-4926230",
+    "title": "Why is PHC Holdings stock surging today?",
+    "tokens": [
+      "holdings",
+      "phc",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790828171.5406308
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-toho-stock-volatile-today-93CH-4926228",
+    "title": "Why is Toho stock volatile today?",
+    "tokens": [
+      "stock",
+      "today",
+      "toho",
+      "volatile",
+      "why"
+    ],
+    "ts": 1790828175.3771327
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/gift-nifty-50-oversold-at-22944-amid-bear-trend-live-levels-93CH-4919304",
+    "title": "Gift Nifty 50 nears oversold support at 22,442: Live levels",
+    "tokens": [
+      "442",
+      "gift",
+      "levels",
+      "live",
+      "nears",
+      "nifty",
+      "oversold",
+      "support"
+    ],
+    "ts": 1790828182.9428065
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
+    "title": "Asian currencies mixed as dollar holds highs, yen slips on BOJ signals",
+    "tokens": [
+      "asian",
+      "boj",
+      "currencies",
+      "dollar",
+      "highs",
+      "holds",
+      "mixed",
+      "signals",
+      "slips",
+      "yen"
+    ],
+    "ts": 1790828190.4513915
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/goldman-sachs-pushes-fed-rate-hike-forecast-to-december-4926222",
+    "title": "Goldman Sachs pushes Fed rate hike forecast to December",
+    "tokens": [
+      "december",
+      "fed",
+      "forecast",
+      "goldman",
+      "hike",
+      "pushes",
+      "rate",
+      "sachs"
+    ],
+    "ts": 1790828194.4677136
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/blackstone-holdings-iii-gp-management-sells-1107-million-in-bumble-stock-93CH-4926219",
+    "title": "Blackstone Holdings III GP Management sells $11.07 million in Bumble stock",
+    "tokens": [
+      "blackstone",
+      "bumble",
+      "holdings",
+      "iii",
+      "management",
+      "million",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790828197.6327243
+  },
+  {
+    "id": "884fd3eb-1334-47ba-a56f-b99aafd22c2c",
+    "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+    "tokens": [
+      "500",
+      "bitcoin",
+      "bond",
+      "fades",
+      "fall",
+      "inflation",
+      "pop",
+      "refuse",
+      "soft",
+      "yields"
+    ],
+    "ts": 1790828206.9325922
   }
 ]

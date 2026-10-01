@@ -1,173 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/measured-ecb-hikes-to-quell-inflation-remain-appropriate-lagarde-says-4920668",
-    "title": "Measured ECB hikes to quell inflation remain appropriate, Lagarde says",
-    "tokens": [
-      "appropriate",
-      "ecb",
-      "hikes",
-      "inflation",
-      "lagarde",
-      "measured",
-      "quell",
-      "remain"
-    ],
-    "ts": 1790605479.7546265
-  },
-  {
-    "id": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair",
-    "title": "MiCA focus shifts from rulemaking to supervision, ESMA chair says",
-    "tokens": [
-      "chair",
-      "esma",
-      "focus",
-      "mica",
-      "rulemaking",
-      "shifts",
-      "supervision"
-    ],
-    "ts": 1790605489.2670152
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-buy-on-mbx-biosciences-stock-ahead-of-q4-obesity-data-93CH-4920722",
-    "title": "UBS reiterates Buy on MBX Biosciences stock ahead of Q4 obesity data",
-    "tokens": [
-      "ahead",
-      "biosciences",
-      "buy",
-      "data",
-      "mbx",
-      "obesity",
-      "reiterates",
-      "stock",
-      "ubs"
-    ],
-    "ts": 1790606668.7519906
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/trump-to-unveil-planned-15-billion-iowa-steel-project-4920589",
-    "title": "Trump to unveil planned $15 billion Iowa steel project",
-    "tokens": [
-      "billion",
-      "iowa",
-      "planned",
-      "project",
-      "steel",
-      "trump",
-      "unveil"
-    ],
-    "ts": 1790606678.1440713
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-raises-vertex-stock-price-target-to-615-on-kidney-drug-trial-93CH-4920721",
-    "title": "UBS raises Vertex stock price target to $615 on kidney drug trial",
-    "tokens": [
-      "615",
-      "drug",
-      "kidney",
-      "price",
-      "raises",
-      "stock",
-      "target",
-      "trial",
-      "ubs",
-      "vertex"
-    ],
-    "ts": 1790606687.1837444
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-darling-ingredients-stock-buy-rating-at-88-93CH-4920720",
-    "title": "UBS reiterates Darling Ingredients stock Buy rating at $88",
-    "tokens": [
-      "buy",
-      "darling",
-      "ingredients",
-      "rating",
-      "reiterates",
-      "stock",
-      "ubs"
-    ],
-    "ts": 1790606695.6301246
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/aster-launches-perpetual-grid-trading-20-with-up-to-140000-aster-liquidity-mining-campaign-4920719",
-    "title": "Aster Launches Perpetual Grid Trading 2.0 with Up to 140,000 $ASTER Liquidity Mining Campaign",
-    "tokens": [
-      "000",
-      "140",
-      "aster",
-      "campaign",
-      "grid",
-      "launches",
-      "liquidity",
-      "mining",
-      "perpetual",
-      "trading"
-    ],
-    "ts": 1790606704.5537848
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/oxford-biomedica-director-purchases-shares-on-london-exchange-93CH-4920713",
-    "title": "Oxford Biomedica director purchases shares on London exchange",
-    "tokens": [
-      "biomedica",
-      "director",
-      "exchange",
-      "london",
-      "oxford",
-      "purchases",
-      "shares"
-    ],
-    "ts": 1790606713.9225757
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/top-ai-researchers-warn-of-intelligence-explosion-urge-policy-oversight-4920712",
-    "title": "Top AI researchers warn of ’intelligence explosion’, urge policy oversight",
-    "tokens": [
-      "explosion",
-      "intelligence",
-      "oversight",
-      "policy",
-      "researchers",
-      "top",
-      "urge",
-      "warn"
-    ],
-    "ts": 1790606722.37617
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/us-iran-set-to-hold-separate-talks-with-mediators-on-monday-or-tuesday-official-says-4920603",
-    "title": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says",
-    "tokens": [
-      "hold",
-      "iran",
-      "mediators",
-      "monday",
-      "official",
-      "separate",
-      "set",
-      "talks",
-      "tuesday"
-    ],
-    "ts": 1790606738.2826915
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/fed-ig-flags-incident-of-employee-who-may-have-left-fed-with-confidential-information-4920711",
-    "title": "Fed IG flags incident of employee who may have left Fed with confidential information",
-    "tokens": [
-      "confidential",
-      "employee",
-      "fed",
-      "flags",
-      "incident",
-      "information",
-      "left",
-      "may",
-      "who"
-    ],
-    "ts": 1790606747.0815248
-  },
-  {
     "id": "https://www.investing.com/news/company-news/firstservice-residential-to-manage-4500home-orlando-community-93CH-4920754",
     "title": "FirstService Residential to manage 4,500-home Orlando community",
     "tokens": [
@@ -22908,5 +22740,172 @@
       "rises"
     ],
     "ts": 1790841438.9895828
+  },
+  {
+    "id": "WP-MKTW-0005256120",
+    "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+    "tokens": [
+      "bitcoin",
+      "buy",
+      "crazy",
+      "dollar",
+      "earn",
+      "every",
+      "never",
+      "selling"
+    ],
+    "ts": 1790842594.7452798
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/citi-downgrades-allegro-to-neutral-after-63-rally-raises-price-target-4926480",
+    "title": "Citi downgrades Allegro to Neutral after 63% rally, raises price target",
+    "tokens": [
+      "allegro",
+      "citi",
+      "downgrades",
+      "neutral",
+      "price",
+      "raises",
+      "rally",
+      "target"
+    ],
+    "ts": 1790842602.4039717
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/france-manufacturing-growth-slows-as-demand-falls-93CH-4926479",
+    "title": "France manufacturing growth slows as demand falls",
+    "tokens": [
+      "demand",
+      "falls",
+      "france",
+      "growth",
+      "manufacturing",
+      "slows"
+    ],
+    "ts": 1790842610.6872785
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/exclusiveus-tells-france-and-germany-to-release-diesel-stocks-or-face-us-export-ban-sources-say-4926478",
+    "title": "Exclusive-US tells France and Germany to release diesel stocks or face US export ban, sources say",
+    "tokens": [
+      "ban",
+      "diesel",
+      "exclusive",
+      "export",
+      "face",
+      "france",
+      "germany",
+      "release",
+      "say",
+      "sources",
+      "stocks",
+      "tells"
+    ],
+    "ts": 1790842618.3460162
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/italy-manufacturing-sector-shows-marginal-improvement-in-september-93CH-4926477",
+    "title": "Italy manufacturing sector shows marginal improvement in September",
+    "tokens": [
+      "improvement",
+      "italy",
+      "manufacturing",
+      "marginal",
+      "sector",
+      "september",
+      "shows"
+    ],
+    "ts": 1790842626.847984
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/italy-manufacturing-sector-shows-marginal-improvement-in-september-93CH-4926476",
+    "title": "Italy manufacturing sector shows marginal improvement in September",
+    "tokens": [
+      "improvement",
+      "italy",
+      "manufacturing",
+      "marginal",
+      "sector",
+      "september",
+      "shows"
+    ],
+    "ts": 1790842630.864924
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/mizuho-raises-micron-stock-price-target-to-1400-on-ai-strength-93CH-4926467",
+    "title": "Mizuho raises Micron stock price target to $1,400 on AI strength",
+    "tokens": [
+      "400",
+      "micron",
+      "mizuho",
+      "price",
+      "raises",
+      "stock",
+      "strength",
+      "target"
+    ],
+    "ts": 1790842634.362771
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-micron-stock-rating-on-strong-demand-outlook-93CH-4926466",
+    "title": "Raymond James reiterates Micron stock rating on strong demand outlook",
+    "tokens": [
+      "demand",
+      "james",
+      "micron",
+      "outlook",
+      "rating",
+      "raymond",
+      "reiterates",
+      "stock",
+      "strong"
+    ],
+    "ts": 1790842641.6649644
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/melius-reiterates-micron-stock-buy-rating-on-tighter-supply-outlook-93CH-4926465",
+    "title": "Melius reiterates Micron stock Buy rating on tighter supply outlook",
+    "tokens": [
+      "buy",
+      "melius",
+      "micron",
+      "outlook",
+      "rating",
+      "reiterates",
+      "stock",
+      "supply",
+      "tighter"
+    ],
+    "ts": 1790842649.7423565
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-micron-stock-rating-on-supply-outlook-93CH-4926464",
+    "title": "RBC Capital reiterates Micron stock rating on supply outlook",
+    "tokens": [
+      "capital",
+      "micron",
+      "outlook",
+      "rating",
+      "rbc",
+      "reiterates",
+      "stock",
+      "supply"
+    ],
+    "ts": 1790842657.5958943
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/microns-aidriven-outlook-nike-to-report--whats-moving-markets-4926463",
+    "title": "Micron’s AI-driven outlook; Nike to report - what’s moving markets",
+    "tokens": [
+      "driven",
+      "markets",
+      "micron",
+      "moving",
+      "nike",
+      "outlook",
+      "report",
+      "what"
+    ],
+    "ts": 1790842665.5336628
   }
 ]

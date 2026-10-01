@@ -1,79 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/sp-500-breadth-hits-lowest-level-since-dotcom-bubble-goldman-says-4919770",
-    "title": "S&P 500 breadth hits lowest level since dot-com bubble, Goldman says",
-    "tokens": [
-      "500",
-      "breadth",
-      "bubble",
-      "com",
-      "dot",
-      "goldman",
-      "hits",
-      "level",
-      "lowest",
-      "since"
-    ],
-    "ts": 1790592936.6374269
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/netease-shares-climb-in-hong-kong-after-morgan-stanley-top-pick-designation-93CH-4919769",
-    "title": "NetEase shares climb in Hong Kong after Morgan Stanley Top Pick designation",
-    "tokens": [
-      "climb",
-      "designation",
-      "hong",
-      "kong",
-      "morgan",
-      "netease",
-      "pick",
-      "shares",
-      "stanley",
-      "top"
-    ],
-    "ts": 1790592944.4979098
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/xp-factory-sells-boom-battle-bar-for-up-to-11m-93CH-4919768",
-    "title": "XP Factory sells Boom Battle Bar for up to £11m",
-    "tokens": [
-      "11m",
-      "bar",
-      "battle",
-      "boom",
-      "factory",
-      "sells"
-    ],
-    "ts": 1790592951.5262585
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/superx-launches-ai-token-platform-and-apps-in-singapore-93CH-4919767",
-    "title": "SuperX launches AI token platform and apps in Singapore",
-    "tokens": [
-      "apps",
-      "launches",
-      "platform",
-      "singapore",
-      "superx",
-      "token"
-    ],
-    "ts": 1790592958.8560443
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/perpetua-resources-advances-construction-at-idaho-gold-project-93CH-4919766",
-    "title": "Perpetua Resources advances construction at Idaho gold project",
-    "tokens": [
-      "advances",
-      "construction",
-      "gold",
-      "idaho",
-      "perpetua",
-      "project",
-      "resources"
-    ],
-    "ts": 1790592967.1152143
-  },
-  {
     "id": "https://www.investing.com/news/company-news/nationwide-building-society-buys-back-72-of-at1-securities-93CH-4919754",
     "title": "Nationwide Building Society buys back 72% of AT1 securities",
     "tokens": [
@@ -22899,5 +22825,82 @@
       "validators"
     ],
     "ts": 1790815848.6200945
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/contract-vote-looms-for-boeing-workers-after-improved-offer-4925684",
+    "title": "Contract vote looms for Boeing workers after improved offer",
+    "tokens": [
+      "boeing",
+      "contract",
+      "improved",
+      "looms",
+      "offer",
+      "vote",
+      "workers"
+    ],
+    "ts": 1790817195.685998
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-following-upbeat-micron-earnings-4926147",
+    "title": "U.S. stock futures rise following upbeat Micron earnings",
+    "tokens": [
+      "earnings",
+      "following",
+      "futures",
+      "micron",
+      "rise",
+      "stock",
+      "upbeat"
+    ],
+    "ts": 1790817203.2427204
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/japan-september-factory-growth-slows-to-6month-low-pmi-shows-4926146",
+    "title": "Japan September factory growth slows to 6-month low, PMI shows",
+    "tokens": [
+      "factory",
+      "growth",
+      "japan",
+      "low",
+      "month",
+      "pmi",
+      "september",
+      "shows",
+      "slows"
+    ],
+    "ts": 1790817210.2493305
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tsmc-evaluates-potential-texas-investment-sources-say-4924436",
+    "title": "TSMC evaluates potential Texas investment, sources say",
+    "tokens": [
+      "evaluates",
+      "investment",
+      "potential",
+      "say",
+      "sources",
+      "texas",
+      "tsmc"
+    ],
+    "ts": 1790817217.4016473
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/south-korea-factory-growth-hits-4month-high-as-export-orders-boom-pmi-shows-4926145",
+    "title": "South Korea factory growth hits 4-month high as export orders boom, PMI shows",
+    "tokens": [
+      "boom",
+      "export",
+      "factory",
+      "growth",
+      "high",
+      "hits",
+      "korea",
+      "month",
+      "orders",
+      "pmi",
+      "shows",
+      "south"
+    ],
+    "ts": 1790817224.4542809
   }
 ]

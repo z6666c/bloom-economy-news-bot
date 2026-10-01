@@ -1,128 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/firstservice-residential-to-manage-4500home-orlando-community-93CH-4920754",
-    "title": "FirstService Residential to manage 4,500-home Orlando community",
-    "tokens": [
-      "500",
-      "community",
-      "firstservice",
-      "home",
-      "manage",
-      "orlando",
-      "residential"
-    ],
-    "ts": 1790607681.4518588
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-addex-therapeutics-falls-on-h1-2026-update-and-funding-focus-93CH-4920753",
-    "title": "Earnings call transcript: Addex Therapeutics falls on H1 2026 update and funding focus",
-    "tokens": [
-      "2026",
-      "addex",
-      "call",
-      "earnings",
-      "falls",
-      "focus",
-      "funding",
-      "therapeutics",
-      "transcript",
-      "update"
-    ],
-    "ts": 1790607691.2111766
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/mongodb-options-volume-surges-to-75312-contracts-amid-20-intraday-drop-93CH-4920752",
-    "title": "MongoDB options volume surges to 75,312 contracts amid 20% intraday drop",
-    "tokens": [
-      "312",
-      "contracts",
-      "drop",
-      "intraday",
-      "mongodb",
-      "options",
-      "surges",
-      "volume"
-    ],
-    "ts": 1790607703.3951676
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-157-4920751",
-    "title": "Greece stocks higher at close of trade; Athens General Composite up 1.57%",
-    "tokens": [
-      "athens",
-      "close",
-      "composite",
-      "general",
-      "greece",
-      "higher",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790607712.4248095
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiveactivist-jana-pushes-fiserv-to-accelerate-cost-cuts-and-tap-palantir-4920361",
-    "title": "Exclusive-Activist Jana pushes Fiserv to accelerate cost cuts and tap Palantir",
-    "tokens": [
-      "accelerate",
-      "activist",
-      "cost",
-      "cuts",
-      "exclusive",
-      "fiserv",
-      "jana",
-      "palantir",
-      "pushes",
-      "tap"
-    ],
-    "ts": 1790607722.302356
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/meta-taps-mongodb-ceo-desai-to-drive-enterprise-ai-push-4920750",
-    "title": "Meta taps MongoDB CEO Desai to drive enterprise AI push",
-    "tokens": [
-      "ceo",
-      "desai",
-      "drive",
-      "enterprise",
-      "meta",
-      "mongodb",
-      "push",
-      "taps"
-    ],
-    "ts": 1790607733.7850904
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/basf-103bn-bid-rejected-by-chemical-rival-evonik-ft-reports-4920749",
-    "title": "BASF €10.3bn bid rejected by chemical rival Evonik, FT reports",
-    "tokens": [
-      "3bn",
-      "basf",
-      "bid",
-      "chemical",
-      "evonik",
-      "rejected",
-      "reports",
-      "rival"
-    ],
-    "ts": 1790607747.3328516
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/wt-offshore-a-small-oil-turnaround-with-123-yeartodate-gains-93CH-4920747",
-    "title": "WT Offshore: a small oil turnaround with 123% year-to-date gains",
-    "tokens": [
-      "123",
-      "date",
-      "gains",
-      "offshore",
-      "oil",
-      "small",
-      "turnaround",
-      "year"
-    ],
-    "ts": 1790607756.3812203
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/vox-at-mining-forum-americas-2026-growth-cash-flow-and-a-valuation-gap-93CH-4920746",
     "title": "Vox at Mining Forum Americas 2026: growth, cash flow and a valuation gap",
     "tokens": [
@@ -22907,5 +22784,115 @@
       "what"
     ],
     "ts": 1790842665.5336628
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/alphabet-shares-up-in-premarket-trade-after-gemini-4-argon-launch-4926548",
+    "title": "Alphabet shares up in premarket trade after Gemini 4 Argon launch",
+    "tokens": [
+      "alphabet",
+      "argon",
+      "gemini",
+      "launch",
+      "premarket",
+      "shares",
+      "trade"
+    ],
+    "ts": 1790843846.4207704
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/proxy-adviser-calls-for-australias-asx-shareholders-to-reject-pay-report-4926529",
+    "title": "Proxy adviser calls for Australia’s ASX shareholders to reject pay report",
+    "tokens": [
+      "adviser",
+      "asx",
+      "australia",
+      "calls",
+      "pay",
+      "proxy",
+      "reject",
+      "report",
+      "shareholders"
+    ],
+    "ts": 1790843854.20652
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/japan-pm-vows-to-underpin-yen-by-boosting-economic-competitiveness-4926511",
+    "title": "Japan PM vows to underpin yen by boosting economic competitiveness",
+    "tokens": [
+      "boosting",
+      "competitiveness",
+      "economic",
+      "japan",
+      "underpin",
+      "vows",
+      "yen"
+    ],
+    "ts": 1790843861.886555
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/persimmon-issues-37736-shares-for-employee-schemes-93CH-4926547",
+    "title": "Persimmon issues 37,736 shares for employee schemes",
+    "tokens": [
+      "736",
+      "employee",
+      "issues",
+      "persimmon",
+      "schemes",
+      "shares"
+    ],
+    "ts": 1790843868.9137797
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/italys-unemployment-rate-climbs-to-62-in-august-93CH-4926545",
+    "title": "Italy’s unemployment rate climbs to 6.2% in August",
+    "tokens": [
+      "august",
+      "climbs",
+      "italy",
+      "rate",
+      "unemployment"
+    ],
+    "ts": 1790843876.6303604
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/10-year-us-treasury-yield-hits-highest-since-2002-4926542",
+    "title": "10 year US Treasury yield hits highest since 2002",
+    "tokens": [
+      "2002",
+      "highest",
+      "hits",
+      "since",
+      "treasury",
+      "year",
+      "yield"
+    ],
+    "ts": 1790843884.05802
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/rothschild-redburn-downgrades-hermes-stock-rating-on-china-concerns-93CH-4926541",
+    "title": "Rothschild Redburn downgrades Hermes stock rating on China concerns",
+    "tokens": [
+      "china",
+      "concerns",
+      "downgrades",
+      "hermes",
+      "rating",
+      "redburn",
+      "rothschild",
+      "stock"
+    ],
+    "ts": 1790843890.8241966
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-vicor-stock-surging-today-93CH-4926539",
+    "title": "Why is Vicor stock surging today?",
+    "tokens": [
+      "stock",
+      "surging",
+      "today",
+      "vicor",
+      "why"
+    ],
+    "ts": 1790843894.8387187
   }
 ]

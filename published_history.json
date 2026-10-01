@@ -1,111 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/meta-stock-cuts-losses-after-major-executive-hire-confirmed-93CH-4920395",
-    "title": "Meta stock cuts losses after major executive hire confirmed",
-    "tokens": [
-      "confirmed",
-      "cuts",
-      "executive",
-      "hire",
-      "losses",
-      "major",
-      "meta",
-      "stock"
-    ],
-    "ts": 1790600351.4890294
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/copper-prices-could-reach-22050-per-ton-by-mid2027-93CH-4920393",
-    "title": "Copper prices could reach $22,050 per ton by mid-2027",
-    "tokens": [
-      "050",
-      "2027",
-      "copper",
-      "could",
-      "mid",
-      "per",
-      "prices",
-      "reach",
-      "ton"
-    ],
-    "ts": 1790600360.3567815
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/argus-initiates-10x-genomics-stock-coverage-with-buy-on-atera-demand-93CH-4920392",
-    "title": "Argus initiates 10X Genomics stock coverage with buy on Atera demand",
-    "tokens": [
-      "10x",
-      "argus",
-      "atera",
-      "buy",
-      "coverage",
-      "demand",
-      "genomics",
-      "initiates",
-      "stock"
-    ],
-    "ts": 1790600370.0951464
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/kodiak-sciences-stock-soars-on-positive-amd-trial-data-4920391",
-    "title": "Kodiak Sciences stock soars on positive AMD trial data",
-    "tokens": [
-      "amd",
-      "data",
-      "kodiak",
-      "positive",
-      "sciences",
-      "soars",
-      "stock",
-      "trial"
-    ],
-    "ts": 1790600377.7881267
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-096-4920386",
-    "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.96%",
-    "tokens": [
-      "all",
-      "arabia",
-      "close",
-      "lower",
-      "saudi",
-      "share",
-      "stocks",
-      "tadawul",
-      "trade"
-    ],
-    "ts": 1790600381.8037071
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/maxlinear-unveils-puma-9-docsis-platform-with-cost-reductions-93CH-4920385",
-    "title": "MaxLinear unveils Puma 9 DOCSIS platform with cost reductions",
-    "tokens": [
-      "cost",
-      "docsis",
-      "maxlinear",
-      "platform",
-      "puma",
-      "reductions",
-      "unveils"
-    ],
-    "ts": 1790600386.530086
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/gri-bio-executives-to-present-at-ipf-summit-this-week-93CH-4920383",
-    "title": "GRI Bio executives to present at IPF Summit this week",
-    "tokens": [
-      "bio",
-      "executives",
-      "gri",
-      "ipf",
-      "present",
-      "summit",
-      "week"
-    ],
-    "ts": 1790600395.7810004
-  },
-  {
     "id": "https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc",
     "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
     "tokens": [
@@ -22903,5 +22797,111 @@
       "winners"
     ],
     "ts": 1790832026.4503434
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/iran-says-it-receives-us-response-to-latest-proposal-as-washington-pulls-out-of-iraq-4926259",
+    "title": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq",
+    "tokens": [
+      "iran",
+      "iraq",
+      "latest",
+      "proposal",
+      "pulls",
+      "receives",
+      "response",
+      "washington"
+    ],
+    "ts": 1790833379.6749122
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/treasurys-smallerthanexpected-buybacks-fuel-debate-over-aims-4926250",
+    "title": "Treasury’s smaller-than-expected buybacks fuel debate over aims",
+    "tokens": [
+      "aims",
+      "buybacks",
+      "debate",
+      "expected",
+      "fuel",
+      "smaller",
+      "treasury"
+    ],
+    "ts": 1790833388.1792471
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/xpeng-reports-september-deliveries-of-41256-vehicles-93CH-4926258",
+    "title": "XPeng reports September deliveries of 41,256 vehicles",
+    "tokens": [
+      "256",
+      "deliveries",
+      "reports",
+      "september",
+      "vehicles",
+      "xpeng"
+    ],
+    "ts": 1790833395.606408
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/indias-factory-growth-climbs-to-7month-high-on-surging-demand-pmi-shows-4926254",
+    "title": "India’s factory growth climbs to 7-month high on surging demand, PMI shows",
+    "tokens": [
+      "climbs",
+      "demand",
+      "factory",
+      "growth",
+      "high",
+      "india",
+      "month",
+      "pmi",
+      "shows",
+      "surging"
+    ],
+    "ts": 1790833402.4543495
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/india-flags-risks-to-economic-outlook-from-climate-monetary-pressures-4926253",
+    "title": "India flags risks to economic outlook from climate, monetary pressures",
+    "tokens": [
+      "climate",
+      "economic",
+      "flags",
+      "india",
+      "monetary",
+      "outlook",
+      "pressures",
+      "risks"
+    ],
+    "ts": 1790833409.9366019
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ai-adoption-stalls-as-companies-struggle-to-scale-projects-despite-strong-returns-study-shows-4926252",
+    "title": "AI adoption stalls as companies struggle to scale projects despite strong returns, study shows",
+    "tokens": [
+      "adoption",
+      "companies",
+      "despite",
+      "projects",
+      "returns",
+      "scale",
+      "shows",
+      "stalls",
+      "strong",
+      "struggle",
+      "study"
+    ],
+    "ts": 1790833417.800618
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/regeneron-sanofi-expand-alliance-with-1-billion-upfront-deal-93CH-4926249",
+    "title": "Regeneron, Sanofi expand alliance with $1 billion upfront deal",
+    "tokens": [
+      "alliance",
+      "billion",
+      "deal",
+      "expand",
+      "regeneron",
+      "sanofi",
+      "upfront"
+    ],
+    "ts": 1790833424.9483814
   }
 ]

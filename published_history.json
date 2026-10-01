@@ -1,92 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-initiates-fortive-stock-coverage-with-in-line-rating-93CH-4919829",
-    "title": "Evercore ISI initiates Fortive stock coverage with In Line rating",
-    "tokens": [
-      "coverage",
-      "evercore",
-      "fortive",
-      "initiates",
-      "isi",
-      "line",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790593906.554153
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-initiates-adi-global-distribution-stock-at-in-line-93CH-4919828",
-    "title": "Evercore ISI initiates ADI Global Distribution stock at In Line",
-    "tokens": [
-      "adi",
-      "distribution",
-      "evercore",
-      "global",
-      "initiates",
-      "isi",
-      "line",
-      "stock"
-    ],
-    "ts": 1790593914.6409414
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/lucid-capital-markets-initiates-lensar-stock-with-buy-rating-93CH-4919827",
-    "title": "Lucid Capital Markets initiates Lensar stock with buy rating",
-    "tokens": [
-      "buy",
-      "capital",
-      "initiates",
-      "lensar",
-      "lucid",
-      "markets",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790593922.043988
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/td-cowen-cuts-pepsico-stock-price-target-on-affordability-concerns-93CH-4919825",
-    "title": "TD Cowen cuts Pepsico stock price target on affordability concerns",
-    "tokens": [
-      "affordability",
-      "concerns",
-      "cowen",
-      "cuts",
-      "pepsico",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1790593929.3851285
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/truist-reiterates-hold-on-oklo-stock-keeps-51-price-target-93CH-4919826",
-    "title": "Truist reiterates Hold on Oklo stock, keeps $51 price target",
-    "tokens": [
-      "hold",
-      "keeps",
-      "oklo",
-      "price",
-      "reiterates",
-      "stock",
-      "target",
-      "truist"
-    ],
-    "ts": 1790593937.001767
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/eton-pharmaceuticals-launches-impavido-for-leishmaniasis-93CH-4919824",
-    "title": "Eton Pharmaceuticals launches IMPAVIDO for leishmaniasis",
-    "tokens": [
-      "eton",
-      "impavido",
-      "launches",
-      "leishmaniasis",
-      "pharmaceuticals"
-    ],
-    "ts": 1790593945.1701827
-  },
-  {
     "id": "https://www.investing.com/news/commodities-news/european-gas-jumps-3-as-middleeast-talks-hits-stalemate-4919821",
     "title": "European gas jumps 3% as Middle-East talks hits stalemate",
     "tokens": [
@@ -22901,5 +22814,98 @@
       "swaps"
     ],
     "ts": 1790818275.7081118
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/australia-trade-surplus-shrinks-to-a495-million-in-august-misses-forecasts-4926171",
+    "title": "Australia trade surplus shrinks to A$495 million in August, misses forecasts",
+    "tokens": [
+      "495",
+      "august",
+      "australia",
+      "forecasts",
+      "million",
+      "misses",
+      "shrinks",
+      "surplus",
+      "trade"
+    ],
+    "ts": 1790819701.810813
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tsmc-weighs-investment-in-texas-to-expand-us-chip-production-reuters-reports-4926170",
+    "title": "TSMC weighs investment in Texas to expand U.S. chip production, Reuters reports",
+    "tokens": [
+      "chip",
+      "expand",
+      "investment",
+      "production",
+      "reports",
+      "reuters",
+      "texas",
+      "tsmc",
+      "weighs"
+    ],
+    "ts": 1790819709.7294822
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/gold-little-changed-after-6-september-slide-as-softer-us-pce-cuts-fed-hike-bets-4926166",
+    "title": "Gold little changed after 6% September slide as softer U.S. PCE cuts Fed hike bets",
+    "tokens": [
+      "bets",
+      "changed",
+      "cuts",
+      "fed",
+      "gold",
+      "hike",
+      "little",
+      "pce",
+      "september",
+      "slide",
+      "softer"
+    ],
+    "ts": 1790819716.9968262
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/conifer-management-buys-663m-in-group-1-automotive-stock-93CH-4926165",
+    "title": "Conifer management buys $66.3m in Group 1 Automotive stock",
+    "tokens": [
+      "automotive",
+      "buys",
+      "conifer",
+      "group",
+      "management",
+      "stock"
+    ],
+    "ts": 1790819723.9443715
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/dollar-gets-lift-from-higher-yields-4926161",
+    "title": "Dollar gets lift from higher yields",
+    "tokens": [
+      "dollar",
+      "gets",
+      "higher",
+      "lift",
+      "yields"
+    ],
+    "ts": 1790819731.6068473
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-prices-barely-changed-as-investors-assess-usiran-peace-talks-and-gulf-exports-4926160",
+    "title": "Oil prices barely changed as investors assess US-Iran peace talks and Gulf exports",
+    "tokens": [
+      "assess",
+      "barely",
+      "changed",
+      "exports",
+      "gulf",
+      "investors",
+      "iran",
+      "oil",
+      "peace",
+      "prices",
+      "talks"
+    ],
+    "ts": 1790819738.9805021
   }
 ]

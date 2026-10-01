@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/pimco-dynamic-income-director-alan-rappaport-buys-75654-in-stock-93CH-4921425",
-    "title": "Pimco Dynamic Income director Alan Rappaport buys $75,654 in stock",
-    "tokens": [
-      "654",
-      "alan",
-      "buys",
-      "director",
-      "dynamic",
-      "income",
-      "pimco",
-      "rappaport",
-      "stock"
-    ],
-    "ts": 1790640947.9342554
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/commercial-bancgroup-executive-chairperson-john-robertson-buys-2287-in-stock-93CH-4921424",
     "title": "Commercial bancgroup executive chairperson John Robertson buys $2,287 in stock",
     "tokens": [
@@ -22889,5 +22873,22 @@
       "usd"
     ],
     "ts": 1790873001.3945098
+  },
+  {
+    "id": "WP-MKTW-0005263576",
+    "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here’s how it worked out.",
+    "tokens": [
+      "adjustable",
+      "couple",
+      "here",
+      "how",
+      "mortgage",
+      "rate",
+      "rates",
+      "took",
+      "when",
+      "worked"
+    ],
+    "ts": 1790873865.1398244
   }
 ]

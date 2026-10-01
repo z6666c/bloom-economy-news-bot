@@ -1,122 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/astrazeneca-invests-2b-in-summit-therapeutics-for-adc-trials-93CH-4921630",
-    "title": "AstraZeneca invests $2B in Summit Therapeutics for ADC trials",
-    "tokens": [
-      "adc",
-      "astrazeneca",
-      "invests",
-      "summit",
-      "therapeutics",
-      "trials"
-    ],
-    "ts": 1790663920.6417696
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/akamai-evp-mani-sundaram-sells-882k-in-company-stock-93CH-4921629",
-    "title": "Akamai EVP Mani Sundaram sells $882k in company stock",
-    "tokens": [
-      "882k",
-      "akamai",
-      "company",
-      "evp",
-      "mani",
-      "sells",
-      "stock",
-      "sundaram"
-    ],
-    "ts": 1790663927.8808007
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-034-4921626",
-    "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.34%",
-    "tokens": [
-      "200",
-      "asx",
-      "australia",
-      "close",
-      "higher",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790663931.8927896
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/ag-barr-keeps-2026-outlook-as-firsthalf-revenue-rises-85-4921623",
-    "title": "A.G. Barr keeps 2026 outlook as first-half revenue rises 8.5%",
-    "tokens": [
-      "2026",
-      "barr",
-      "first",
-      "half",
-      "keeps",
-      "outlook",
-      "revenue",
-      "rises"
-    ],
-    "ts": 1790663935.171115
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/meridian-mining-to-join-ftse-250-index-on-october-1-93CH-4921622",
-    "title": "Meridian Mining to join FTSE 250 index on October 1",
-    "tokens": [
-      "250",
-      "ftse",
-      "index",
-      "join",
-      "meridian",
-      "mining",
-      "october"
-    ],
-    "ts": 1790663942.1545055
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/goldstone-resources-secures-gold-loan-interest-waiver-extension-93CH-4921618",
-    "title": "Goldstone Resources secures gold loan interest waiver extension",
-    "tokens": [
-      "extension",
-      "gold",
-      "goldstone",
-      "interest",
-      "loan",
-      "resources",
-      "secures",
-      "waiver"
-    ],
-    "ts": 1790663949.8899891
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tap-global-buys-3-bitcoin-for-balance-sheet-reserve-strategy-93CH-4921617",
-    "title": "Tap Global buys 3 bitcoin for balance sheet reserve strategy",
-    "tokens": [
-      "balance",
-      "bitcoin",
-      "buys",
-      "global",
-      "reserve",
-      "sheet",
-      "strategy",
-      "tap"
-    ],
-    "ts": 1790663958.480408
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/pepco-raises-fy26-earnings-outlook-announces-new-400-million-buyback-4921613",
-    "title": "Pepco raises FY26 earnings outlook, announces new €400 million buyback",
-    "tokens": [
-      "400",
-      "announces",
-      "buyback",
-      "earnings",
-      "fy26",
-      "million",
-      "outlook",
-      "pepco",
-      "raises"
-    ],
-    "ts": 1790663966.0725648
-  },
-  {
     "id": "https://www.investing.com/news/company-news/abingdon-healths-lab-receives-isoiec-17025-accreditation-93CH-4921612",
     "title": "Abingdon Health’s lab receives ISO/IEC 17025 accreditation",
     "tokens": [
@@ -22944,5 +22827,122 @@
       "week"
     ],
     "ts": 1790884503.136467
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/replimune-launches-melanoma-therapy-in-us-market-93CH-4928220",
+    "title": "Replimune launches melanoma therapy in US market",
+    "tokens": [
+      "launches",
+      "market",
+      "melanoma",
+      "replimune",
+      "therapy"
+    ],
+    "ts": 1790885513.599217
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/medtronic-receives-category-i-cpt-code-approvals-for-two-devices-93CH-4928218",
+    "title": "Medtronic receives Category I CPT code approvals for two devices",
+    "tokens": [
+      "approvals",
+      "category",
+      "code",
+      "cpt",
+      "devices",
+      "medtronic",
+      "receives",
+      "two"
+    ],
+    "ts": 1790885521.0863833
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nayax-completes-350m-acquisition-of-ips-group-93CH-4928219",
+    "title": "Nayax completes $350M acquisition of IPS Group",
+    "tokens": [
+      "350m",
+      "acquisition",
+      "completes",
+      "group",
+      "ips",
+      "nayax"
+    ],
+    "ts": 1790885528.3081117
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/arvinas-to-present-arv102-parkinsons-data-at-mds-congress-93CH-4928217",
+    "title": "Arvinas to present ARV-102 Parkinson’s data at MDS congress",
+    "tokens": [
+      "102",
+      "arv",
+      "arvinas",
+      "congress",
+      "data",
+      "mds",
+      "parkinson",
+      "present"
+    ],
+    "ts": 1790885537.2104378
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/pritzker-private-capital-weighs-sale-of-propane-distributor-edp--bloomberg-4928213",
+    "title": "Pritzker Private Capital weighs sale of propane distributor EDP - Bloomberg",
+    "tokens": [
+      "bloomberg",
+      "capital",
+      "distributor",
+      "edp",
+      "pritzker",
+      "private",
+      "propane",
+      "sale",
+      "weighs"
+    ],
+    "ts": 1790885544.8095615
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/simon-property-group-director-marta-stewart-buys-40353-in-stock-93CH-4928206",
+    "title": "Simon Property Group director Marta Stewart buys $40,353 in stock",
+    "tokens": [
+      "353",
+      "buys",
+      "director",
+      "group",
+      "marta",
+      "property",
+      "simon",
+      "stewart",
+      "stock"
+    ],
+    "ts": 1790885552.7600808
+  },
+  {
+    "id": "oilprice-article-45660",
+    "title": "UK Holds Emergency Talks With U.S. as Diesel Crisis Escalates",
+    "tokens": [
+      "crisis",
+      "diesel",
+      "emergency",
+      "escalates",
+      "holds",
+      "talks"
+    ],
+    "ts": 1790885561.2763236
+  },
+  {
+    "id": "oilprice-news-45660",
+    "title": "BLM Opens 35,000 California Acres to December Oil and Gas Lease Sale",
+    "tokens": [
+      "000",
+      "acres",
+      "blm",
+      "california",
+      "december",
+      "gas",
+      "lease",
+      "oil",
+      "opens",
+      "sale"
+    ],
+    "ts": 1790885565.2931976
   }
 ]

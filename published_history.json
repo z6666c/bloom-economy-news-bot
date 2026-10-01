@@ -1,51 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005254307",
-    "title": "Taking Ozempic? A routine eye exam could help you understand your risk for vision loss.",
-    "tokens": [
-      "could",
-      "exam",
-      "eye",
-      "help",
-      "loss",
-      "ozempic",
-      "risk",
-      "routine",
-      "taking",
-      "understand",
-      "vision",
-      "you",
-      "your"
-    ],
-    "ts": 1790600325.2772748
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/webster-equity-partners-to-acquire-lifecore-for-up-to-6637m-93CH-4920397",
-    "title": "Webster Equity Partners to acquire Lifecore for up to $663.7m",
-    "tokens": [
-      "663",
-      "acquire",
-      "equity",
-      "lifecore",
-      "partners",
-      "webster"
-    ],
-    "ts": 1790600333.5834212
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/telos-wins-137m-hhs-contract-for-cybersecurity-modernization-93CH-4920396",
-    "title": "Telos wins $13.7m HHS contract for cybersecurity modernization",
-    "tokens": [
-      "contract",
-      "cybersecurity",
-      "hhs",
-      "modernization",
-      "telos",
-      "wins"
-    ],
-    "ts": 1790600341.709031
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/meta-stock-cuts-losses-after-major-executive-hire-confirmed-93CH-4920395",
     "title": "Meta stock cuts losses after major executive hire confirmed",
     "tokens": [
@@ -22907,5 +22861,47 @@
       "worst"
     ],
     "ts": 1790830833.6077914
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-mahindra--mahindra-stock-sliding-today-93CH-4926244",
+    "title": "Why is Mahindra & Mahindra stock sliding today?",
+    "tokens": [
+      "mahindra",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790832014.222072
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-bajaj-auto-stock-tumbling-today-93CH-4926243",
+    "title": "Why is Bajaj Auto stock tumbling today?",
+    "tokens": [
+      "auto",
+      "bajaj",
+      "stock",
+      "today",
+      "tumbling",
+      "why"
+    ],
+    "ts": 1790832018.7695708
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/our-ai-models-flagged-six-midcap-winners-up-3087--octobers-list-is-live-4926242",
+    "title": "Our AI models flagged six mid-cap winners up 30%-87% - October’s list is live",
+    "tokens": [
+      "cap",
+      "flagged",
+      "list",
+      "live",
+      "mid",
+      "models",
+      "october",
+      "our",
+      "six",
+      "winners"
+    ],
+    "ts": 1790832026.4503434
   }
 ]

@@ -1,76 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/equinox-gold-reports-drilling-results-from-canadian-operations-93CH-4922111",
-    "title": "Equinox Gold reports drilling results from Canadian operations",
-    "tokens": [
-      "canadian",
-      "drilling",
-      "equinox",
-      "gold",
-      "operations",
-      "reports",
-      "results"
-    ],
-    "ts": 1790678658.396658
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hyperscale-data-reports-56m-in-bitcoin-and-cash-holdings-93CH-4922110",
-    "title": "Hyperscale Data reports $56M in bitcoin and cash holdings",
-    "tokens": [
-      "56m",
-      "bitcoin",
-      "cash",
-      "data",
-      "holdings",
-      "hyperscale",
-      "reports"
-    ],
-    "ts": 1790678665.689805
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/wyndham-hotels-board-approves-400m-buyback-increase-93CH-4922107",
-    "title": "Wyndham Hotels board approves $400M buyback increase",
-    "tokens": [
-      "400m",
-      "approves",
-      "board",
-      "buyback",
-      "hotels",
-      "increase",
-      "wyndham"
-    ],
-    "ts": 1790678672.732809
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/parsons-wins-85m-contract-for-space-command-headquarters-93CH-4922108",
-    "title": "Parsons wins $85M contract for Space Command headquarters",
-    "tokens": [
-      "85m",
-      "command",
-      "contract",
-      "headquarters",
-      "parsons",
-      "space",
-      "wins"
-    ],
-    "ts": 1790678679.9569504
-  },
-  {
-    "id": "oilprice-news-45626",
-    "title": "Oil Extends Rally Despite Higher Hormuz Volume Reports",
-    "tokens": [
-      "despite",
-      "extends",
-      "higher",
-      "hormuz",
-      "oil",
-      "rally",
-      "reports",
-      "volume"
-    ],
-    "ts": 1790678688.3038785
-  },
-  {
     "id": "3006a094-875f-4d58-8f04-4bc973d79d33",
     "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
     "tokens": [
@@ -22936,5 +22865,78 @@
       "stock"
     ],
     "ts": 1790898145.1047015
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/feds-logan-calls-for-50-bps-or-more-in-rate-hikes-4928682",
+    "title": "Fed’s Logan calls for ’50 bps or more’ in rate hikes",
+    "tokens": [
+      "bps",
+      "calls",
+      "fed",
+      "hikes",
+      "logan",
+      "more",
+      "rate"
+    ],
+    "ts": 1790898888.4098477
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cullinan-initiates-fda-filing-for-lung-cancer-drug-zipalertinib-93CH-4928687",
+    "title": "Cullinan initiates FDA filing for lung cancer drug zipalertinib",
+    "tokens": [
+      "cancer",
+      "cullinan",
+      "drug",
+      "fda",
+      "filing",
+      "initiates",
+      "lung",
+      "zipalertinib"
+    ],
+    "ts": 1790898895.5793211
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
+    "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity",
+    "tokens": [
+      "capacity",
+      "chiefs",
+      "coercion",
+      "denounce",
+      "excess",
+      "factory",
+      "food",
+      "g20",
+      "trade"
+    ],
+    "ts": 1790898902.8419142
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-director-sells-97504-in-shares-93CH-4928683",
+    "title": "Kestra Medical Technologies director sells $97,504 in shares",
+    "tokens": [
+      "504",
+      "director",
+      "kestra",
+      "medical",
+      "sells",
+      "shares",
+      "technologies"
+    ],
+    "ts": 1790898910.5387702
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/south-korea-cpi-inflation-eases-slightly-in-september-4928671",
+    "title": "South Korea CPI inflation eases slightly in September",
+    "tokens": [
+      "cpi",
+      "eases",
+      "inflation",
+      "korea",
+      "september",
+      "slightly",
+      "south"
+    ],
+    "ts": 1790898918.507881
   }
 ]

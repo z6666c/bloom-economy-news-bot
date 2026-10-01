@@ -1,299 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/feds-cook-sees-further-inflationary-pressures-ahead-4920948",
-    "title": "Fed’s Cook sees further inflationary pressures ahead",
-    "tokens": [
-      "ahead",
-      "cook",
-      "fed",
-      "further",
-      "inflationary",
-      "pressures",
-      "sees"
-    ],
-    "ts": 1790618108.2212548
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-price-gains-pared-as-qatarusiran-talks-loom-4920947",
-    "title": "Oil price gains pared as Qatar-US-Iran talks loom",
-    "tokens": [
-      "gains",
-      "iran",
-      "loom",
-      "oil",
-      "pared",
-      "price",
-      "qatar",
-      "talks"
-    ],
-    "ts": 1790618115.85894
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/tether-usdt-aids-iran-funding-senate-report-says-4920946",
-    "title": "Tether USDT aids Iran funding, Senate report says",
-    "tokens": [
-      "aids",
-      "funding",
-      "iran",
-      "report",
-      "senate",
-      "tether",
-      "usdt"
-    ],
-    "ts": 1790618123.5467715
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/getty-images-in-talks-with-lenders-on-rescue-financing--report-4920944",
-    "title": "Getty Images in talks with lenders on rescue financing - report",
-    "tokens": [
-      "financing",
-      "getty",
-      "images",
-      "lenders",
-      "report",
-      "rescue",
-      "talks"
-    ],
-    "ts": 1790618130.872473
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trump-administration-asks-supreme-court-to-allow-restrictions-on-transgender-inmates-4920940",
-    "title": "Trump administration asks Supreme Court to allow restrictions on transgender inmates",
-    "tokens": [
-      "administration",
-      "allow",
-      "asks",
-      "court",
-      "inmates",
-      "restrictions",
-      "supreme",
-      "transgender",
-      "trump"
-    ],
-    "ts": 1790618138.0437403
-  },
-  {
-    "id": "strive-ceo-bitcoin-could-infinity-015100441.html",
-    "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
-    "tokens": [
-      "bitcoin",
-      "breaks",
-      "ceo",
-      "could",
-      "crisis",
-      "debt",
-      "dollar",
-      "infinity",
-      "strive"
-    ],
-    "ts": 1790618145.5800478
-  },
-  {
-    "id": "little-known-ai-chip-stock-042916921.html",
-    "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
-    "tokens": [
-      "chip",
-      "chips",
-      "double",
-      "doubled",
-      "known",
-      "little",
-      "now",
-      "optical",
-      "speed",
-      "stock"
-    ],
-    "ts": 1790618152.6489701
-  },
-  {
-    "id": "may-mobilitys-spac-merger-road-015000118.html",
-    "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?",
-    "tokens": [
-      "investors",
-      "may",
-      "merger",
-      "mobility",
-      "nowhere",
-      "road",
-      "spac"
-    ],
-    "ts": 1790618161.2957575
-  },
-  {
-    "id": "sk-hynix-eyeing-intel-intc-043316388.html",
-    "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-    "tokens": [
-      "attention",
-      "eyeing",
-      "hynix",
-      "intc",
-      "intel",
-      "micron",
-      "ohio",
-      "pay",
-      "should",
-      "site",
-      "why"
-    ],
-    "ts": 1790618168.8845038
-  },
-  {
-    "id": "pat-gelsinger-just-backed-100-042433352.html",
-    "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-    "tokens": [
-      "100",
-      "amd",
-      "backed",
-      "benefit",
-      "challenge",
-      "could",
-      "gelsinger",
-      "just",
-      "million",
-      "moat",
-      "networking",
-      "nvidia",
-      "pat"
-    ],
-    "ts": 1790618176.5170982
-  },
-  {
-    "id": "lumentum-jumped-nearly-10-while-041957023.html",
-    "title": "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?",
-    "tokens": [
-      "apart",
-      "barely",
-      "corning",
-      "jumped",
-      "lumentum",
-      "moved",
-      "nearly",
-      "optics",
-      "splitting",
-      "trade",
-      "while"
-    ],
-    "ts": 1790618184.3741636
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/chipotle-options-show-10to1-calltoput-ratio-as-stock-rises-4-93CH-4920966",
-    "title": "Chipotle options show 10-to-1 call-to-put ratio as stock rises 4%",
-    "tokens": [
-      "call",
-      "chipotle",
-      "options",
-      "put",
-      "ratio",
-      "rises",
-      "show",
-      "stock"
-    ],
-    "ts": 1790619214.4967506
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/friedman-industries-shareholders-elect-directors-and-vote-on-key-proposals-93CH-4920965",
-    "title": "Friedman Industries shareholders elect directors and vote on key proposals",
-    "tokens": [
-      "directors",
-      "elect",
-      "friedman",
-      "industries",
-      "key",
-      "proposals",
-      "shareholders",
-      "vote"
-    ],
-    "ts": 1790619221.7711134
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/doordash-options-show-bullish-skew-despite-645-stock-decline-93CH-4920960",
-    "title": "DoorDash options show bullish skew despite 6.45% stock decline",
-    "tokens": [
-      "bullish",
-      "decline",
-      "despite",
-      "doordash",
-      "options",
-      "show",
-      "skew",
-      "stock"
-    ],
-    "ts": 1790619229.0323834
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/golds-lustre-dims-as-treasury-yields-surge-markets-bet-on-higher-fed-rates-4920959",
-    "title": "Gold’s lustre dims as Treasury yields surge, markets bet on higher Fed rates",
-    "tokens": [
-      "bet",
-      "dims",
-      "fed",
-      "gold",
-      "higher",
-      "lustre",
-      "markets",
-      "rates",
-      "surge",
-      "treasury",
-      "yields"
-    ],
-    "ts": 1790619236.441907
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bluerock-acquisition-corp-ii-closes-1725m-ipo-on-nasdaq-432SI-4920956",
-    "title": "Bluerock Acquisition Corp. II closes $172.5M IPO on Nasdaq",
-    "tokens": [
-      "172",
-      "acquisition",
-      "bluerock",
-      "closes",
-      "corp",
-      "ipo",
-      "nasdaq"
-    ],
-    "ts": 1790619243.6071713
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/td-cowen-highlights-top-oil-stocks-ahead-of-earnings-season-4920958",
-    "title": "TD Cowen highlights top oil stocks ahead of earnings season",
-    "tokens": [
-      "ahead",
-      "cowen",
-      "earnings",
-      "highlights",
-      "oil",
-      "season",
-      "stocks",
-      "top"
-    ],
-    "ts": 1790619250.2735028
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-sweetgreen-stock-climbing-today-93CH-4920957",
-    "title": "Why is Sweetgreen stock climbing today?",
-    "tokens": [
-      "climbing",
-      "stock",
-      "sweetgreen",
-      "today",
-      "why"
-    ],
-    "ts": 1790619254.2839882
-  },
-  {
-    "id": "oilprice-article-45624",
-    "title": "Record Diesel Costs Add Fresh Pressure on UK Economy",
-    "tokens": [
-      "add",
-      "costs",
-      "diesel",
-      "economy",
-      "fresh",
-      "pressure",
-      "record"
-    ],
-    "ts": 1790619257.473563
-  },
-  {
     "id": "oilprice-news-45624",
     "title": "Russia Tightens Secrecy On Energy Exports",
     "tokens": [
@@ -22927,5 +22633,313 @@
       "while"
     ],
     "ts": 1790855074.3407493
+  },
+  {
+    "id": "WP-MKTW-0005263767",
+    "title": "Meta, ServiceNow and these 7 other tech stocks could lead the next leg of the AI trade",
+    "tokens": [
+      "could",
+      "lead",
+      "leg",
+      "meta",
+      "next",
+      "other",
+      "servicenow",
+      "stocks",
+      "tech",
+      "these",
+      "trade"
+    ],
+    "ts": 1790855902.1842234
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/northland-initiates-civeo-stock-with-outperform-rating-on-infrastructure-demand-93CH-4927231",
+    "title": "Northland initiates Civeo stock with Outperform rating on infrastructure demand",
+    "tokens": [
+      "civeo",
+      "demand",
+      "infrastructure",
+      "initiates",
+      "northland",
+      "outperform",
+      "rating",
+      "stock"
+    ],
+    "ts": 1790855909.7362158
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-micron-stock-rating-on-supply-outlook-93CH-4927232",
+    "title": "Cantor Fitzgerald reiterates Micron stock rating on supply outlook",
+    "tokens": [
+      "cantor",
+      "fitzgerald",
+      "micron",
+      "outlook",
+      "rating",
+      "reiterates",
+      "stock",
+      "supply"
+    ],
+    "ts": 1790855913.7494416
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/canaccord-cuts-hillman-solutions-stock-price-target-on-housing-headwinds-93CH-4927233",
+    "title": "Canaccord cuts Hillman Solutions stock price target on housing headwinds",
+    "tokens": [
+      "canaccord",
+      "cuts",
+      "headwinds",
+      "hillman",
+      "housing",
+      "price",
+      "solutions",
+      "stock",
+      "target"
+    ],
+    "ts": 1790855916.971066
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-jade-biosciences-stock-rating-at-buy-93CH-4927234",
+    "title": "H.C. Wainwright reiterates Jade Biosciences stock rating at buy",
+    "tokens": [
+      "biosciences",
+      "buy",
+      "jade",
+      "rating",
+      "reiterates",
+      "stock",
+      "wainwright"
+    ],
+    "ts": 1790855923.9858644
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-nvidia-stock-rating-on-ai-demand-growth-93CH-4927230",
+    "title": "Cantor Fitzgerald reiterates Nvidia stock rating on AI demand growth",
+    "tokens": [
+      "cantor",
+      "demand",
+      "fitzgerald",
+      "growth",
+      "nvidia",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1790855932.3422666
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stephens-cuts-calmaine-foods-stock-price-target-on-weak-margins-93CH-4927229",
+    "title": "Stephens cuts Cal-Maine Foods stock price target on weak margins",
+    "tokens": [
+      "cal",
+      "cuts",
+      "foods",
+      "maine",
+      "margins",
+      "price",
+      "stephens",
+      "stock",
+      "target",
+      "weak"
+    ],
+    "ts": 1790855939.6513944
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-cuts-proqr-stock-price-target-on-execution-risks-93CH-4927228",
+    "title": "H.C. Wainwright cuts ProQR stock price target on execution risks",
+    "tokens": [
+      "cuts",
+      "execution",
+      "price",
+      "proqr",
+      "risks",
+      "stock",
+      "target",
+      "wainwright"
+    ],
+    "ts": 1790855946.7794163
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-syndax-stock-buy-rating-at-38-target-93CH-4927227",
+    "title": "H.C. Wainwright reiterates Syndax stock Buy rating at $38 target",
+    "tokens": [
+      "buy",
+      "rating",
+      "reiterates",
+      "stock",
+      "syndax",
+      "target",
+      "wainwright"
+    ],
+    "ts": 1790855953.5435483
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nektar-presents-longterm-data-on-alopecia-areata-drug-candidate-93CH-4927226",
+    "title": "Nektar presents long-term data on alopecia areata drug candidate",
+    "tokens": [
+      "alopecia",
+      "areata",
+      "candidate",
+      "data",
+      "drug",
+      "long",
+      "nektar",
+      "presents",
+      "term"
+    ],
+    "ts": 1790855960.7005153
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-cognizant-technology-solutions-stock-surging-today-93CH-4927225",
+    "title": "Why is Cognizant Technology Solutions stock surging today?",
+    "tokens": [
+      "cognizant",
+      "solutions",
+      "stock",
+      "surging",
+      "technology",
+      "today",
+      "why"
+    ],
+    "ts": 1790855967.869023
+  },
+  {
+    "id": "strive-ceo-bitcoin-could-infinity-015100441.html",
+    "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+    "tokens": [
+      "bitcoin",
+      "breaks",
+      "ceo",
+      "could",
+      "crisis",
+      "debt",
+      "dollar",
+      "infinity",
+      "strive"
+    ],
+    "ts": 1790855975.3300893
+  },
+  {
+    "id": "little-known-ai-chip-stock-042916921.html",
+    "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+    "tokens": [
+      "chip",
+      "chips",
+      "double",
+      "doubled",
+      "known",
+      "little",
+      "now",
+      "optical",
+      "speed",
+      "stock"
+    ],
+    "ts": 1790855982.1954014
+  },
+  {
+    "id": "may-mobilitys-spac-merger-road-015000118.html",
+    "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?",
+    "tokens": [
+      "investors",
+      "may",
+      "merger",
+      "mobility",
+      "nowhere",
+      "road",
+      "spac"
+    ],
+    "ts": 1790855989.8149166
+  },
+  {
+    "id": "sk-hynix-eyeing-intel-intc-043316388.html",
+    "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+    "tokens": [
+      "attention",
+      "eyeing",
+      "hynix",
+      "intc",
+      "intel",
+      "micron",
+      "ohio",
+      "pay",
+      "should",
+      "site",
+      "why"
+    ],
+    "ts": 1790855996.8259485
+  },
+  {
+    "id": "pat-gelsinger-just-backed-100-042433352.html",
+    "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+    "tokens": [
+      "100",
+      "amd",
+      "backed",
+      "benefit",
+      "challenge",
+      "could",
+      "gelsinger",
+      "just",
+      "million",
+      "moat",
+      "networking",
+      "nvidia",
+      "pat"
+    ],
+    "ts": 1790856004.2390788
+  },
+  {
+    "id": "lumentum-jumped-nearly-10-while-041957023.html",
+    "title": "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?",
+    "tokens": [
+      "apart",
+      "barely",
+      "corning",
+      "jumped",
+      "lumentum",
+      "moved",
+      "nearly",
+      "optics",
+      "splitting",
+      "trade",
+      "while"
+    ],
+    "ts": 1790856012.1070395
+  },
+  {
+    "id": "2a95b7d3-7eb7-42c9-97fe-c93eedb12b0e",
+    "title": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
+    "tokens": [
+      "000",
+      "2024",
+      "best",
+      "bitcoin",
+      "closing",
+      "flat",
+      "live",
+      "near",
+      "quarter",
+      "since",
+      "updates"
+    ],
+    "ts": 1790856020.9963584
+  },
+  {
+    "id": "4492d7c6-344c-4e94-a01f-189070b6490f",
+    "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
+    "tokens": [
+      "agrees",
+      "battle",
+      "continues",
+      "court",
+      "crypto",
+      "delay",
+      "illinois",
+      "industry",
+      "month",
+      "six",
+      "tax"
+    ],
+    "ts": 1790856028.677363
   }
 ]

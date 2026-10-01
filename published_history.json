@@ -1,52 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/european-gas-jumps-3-as-middleeast-talks-hits-stalemate-4919821",
-    "title": "European gas jumps 3% as Middle-East talks hits stalemate",
-    "tokens": [
-      "east",
-      "european",
-      "gas",
-      "hits",
-      "jumps",
-      "middle",
-      "stalemate",
-      "talks"
-    ],
-    "ts": 1790593952.5253544
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/adicet-bio-reports-lupus-trial-results-plans-pivotal-study-93CH-4919820",
-    "title": "Adicet Bio reports lupus trial results, plans pivotal study",
-    "tokens": [
-      "adicet",
-      "bio",
-      "lupus",
-      "pivotal",
-      "plans",
-      "reports",
-      "results",
-      "study",
-      "trial"
-    ],
-    "ts": 1790593960.030122
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bofa-cuts-makemytrip-stock-price-target-on-weak-travel-demand-93CH-4919818",
-    "title": "BofA cuts MakeMyTrip stock price target on weak travel demand",
-    "tokens": [
-      "bofa",
-      "cuts",
-      "demand",
-      "makemytrip",
-      "price",
-      "stock",
-      "target",
-      "travel",
-      "weak"
-    ],
-    "ts": 1790593970.62847
-  },
-  {
     "id": "WP-MKTW-0005256362",
     "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
     "tokens": [
@@ -22907,5 +22860,51 @@
       "talks"
     ],
     "ts": 1790819738.9805021
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/hang-seng-stuck-below-24800-resistance-live-levels-93CH-4919260",
+    "title": "Hang Seng bears eye breakdown below HKD 24,260: Live levels",
+    "tokens": [
+      "260",
+      "bears",
+      "below",
+      "breakdown",
+      "eye",
+      "hang",
+      "hkd",
+      "levels",
+      "live",
+      "seng"
+    ],
+    "ts": 1790821770.2258801
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/asian-stocks-dip-bonds-in-focus-after-torrid-september-4926176",
+    "title": "Asian stocks dip, bonds in focus after torrid September",
+    "tokens": [
+      "asian",
+      "bonds",
+      "dip",
+      "focus",
+      "september",
+      "stocks",
+      "torrid"
+    ],
+    "ts": 1790821777.382794
+  },
+  {
+    "id": "https://www.investing.com/news/investment-ideas/35-33-ai-chip-and-infrastructure-stocks-cap-a-blockbuster-sep-heres-why-4926172",
+    "title": "+35%, +33%: AI chip and infrastructure stocks cap a blockbuster Sep, here’s why",
+    "tokens": [
+      "blockbuster",
+      "cap",
+      "chip",
+      "here",
+      "infrastructure",
+      "sep",
+      "stocks",
+      "why"
+    ],
+    "ts": 1790821785.2725537
   }
 ]

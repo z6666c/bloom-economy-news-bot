@@ -1,116 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/zoomlion-signs-300m-credit-insurance-50m-factoring-deal-93CH-4921577",
-    "title": "Zoomlion signs $300M credit insurance, $50M factoring deal",
-    "tokens": [
-      "300m",
-      "50m",
-      "credit",
-      "deal",
-      "factoring",
-      "insurance",
-      "signs",
-      "zoomlion"
-    ],
-    "ts": 1790659728.2284915
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/analysiseuros-dollar-resilience-faces-energy-price-political-risk-tests-4921576",
-    "title": "Analysis-Euro’s dollar resilience faces energy price, political risk tests",
-    "tokens": [
-      "analysis",
-      "dollar",
-      "energy",
-      "euro",
-      "faces",
-      "political",
-      "price",
-      "resilience",
-      "risk",
-      "tests"
-    ],
-    "ts": 1790659735.6947682
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pharming-ceo-fabrice-chouraqui-steps-down-immediately-93CH-4921575",
-    "title": "Pharming CEO Fabrice Chouraqui steps down immediately",
-    "tokens": [
-      "ceo",
-      "chouraqui",
-      "fabrice",
-      "immediately",
-      "pharming",
-      "steps"
-    ],
-    "ts": 1790659742.6751654
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/samsung-electromechanics-wins-210-mln-mlcc-supply-contract-4921573",
-    "title": "Samsung Electro-Mechanics wins $210 mln MLCC supply contract",
-    "tokens": [
-      "210",
-      "contract",
-      "electro",
-      "mechanics",
-      "mlcc",
-      "mln",
-      "samsung",
-      "supply",
-      "wins"
-    ],
-    "ts": 1790659750.250532
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/china-factories-seen-rebounding-in-september-as-beijing-signals-more-aid-reuters-poll-4921583",
-    "title": "China factories seen rebounding in September as Beijing signals more aid: Reuters poll",
-    "tokens": [
-      "aid",
-      "beijing",
-      "china",
-      "factories",
-      "more",
-      "poll",
-      "rebounding",
-      "reuters",
-      "seen",
-      "september",
-      "signals"
-    ],
-    "ts": 1790660891.2829967
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/australias-central-bank-raises-cash-rate-to-15year-peak-4921581",
-    "title": "Australia’s central bank raises cash rate to 15-year peak",
-    "tokens": [
-      "australia",
-      "bank",
-      "cash",
-      "central",
-      "peak",
-      "raises",
-      "rate",
-      "year"
-    ],
-    "ts": 1790660899.0938468
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hengrui-pharma-shares-rise-as-novo-nordisk-signs-26-billion-drug-deal-4921580",
-    "title": "Hengrui Pharma shares rise as Novo Nordisk signs $2.6 billion drug deal",
-    "tokens": [
-      "billion",
-      "deal",
-      "drug",
-      "hengrui",
-      "nordisk",
-      "novo",
-      "pharma",
-      "rise",
-      "shares",
-      "signs"
-    ],
-    "ts": 1790660906.4274623
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/dolphin-entertainment-ceo-odowd-buys-4884-in-dlpn-stock-93CH-4921579",
     "title": "Dolphin entertainment CEO O’Dowd buys $4,884 in DLPN stock",
     "tokens": [
@@ -22956,5 +22845,110 @@
       "stablecoin"
     ],
     "ts": 1790881992.9113555
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-mattel-stock-surging-today-93CH-4928160",
+    "title": "Why is Mattel stock surging today?",
+    "tokens": [
+      "mattel",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790883046.627937
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/alphabet-c-tests-33690-support-below-ichimoku-cloud-live-levels-93CH-4920694",
+    "title": "Alphabet C trapped between $325 support and $340 resistance: Live",
+    "tokens": [
+      "325",
+      "340",
+      "alphabet",
+      "between",
+      "live",
+      "resistance",
+      "support",
+      "trapped"
+    ],
+    "ts": 1790883050.3110836
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nasdaq-100-rangebound-between-30548-and-30787-live-levels-93CH-4920692",
+    "title": "Nasdaq 100 double top at 30,805 pressures bulls: Live levels",
+    "tokens": [
+      "100",
+      "805",
+      "bulls",
+      "double",
+      "levels",
+      "live",
+      "nasdaq",
+      "pressures",
+      "top"
+    ],
+    "ts": 1790883058.137893
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tesla-teeters-above-support-at-361-live-levels-93CH-4920695",
+    "title": "Tesla holds $355 below bearish resistance: Live levels",
+    "tokens": [
+      "355",
+      "bearish",
+      "below",
+      "holds",
+      "levels",
+      "live",
+      "resistance",
+      "tesla"
+    ],
+    "ts": 1790883066.0839663
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1400-support-in-distribution-range-live-93CH-4921028",
+    "title": "London Gas Oil trapped in $1,380-$1,491 range: Live levels",
+    "tokens": [
+      "380",
+      "491",
+      "gas",
+      "levels",
+      "live",
+      "london",
+      "oil",
+      "range",
+      "trapped"
+    ],
+    "ts": 1790883073.294864
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/dow-jones-trapped-at-51913-between-double-bottom-and-downtrend-live-93CH-4920690",
+    "title": "Dow Jones near support at 51,226 with oversold bounce: Live levels",
+    "tokens": [
+      "226",
+      "bounce",
+      "dow",
+      "jones",
+      "levels",
+      "live",
+      "near",
+      "oversold",
+      "support"
+    ],
+    "ts": 1790883080.4765866
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/copper-tests-200period-sma-at-663-live-levels-93CH-4919468",
+    "title": "Copper bounces to $6.578 but bears stay in control: Live levels",
+    "tokens": [
+      "578",
+      "bears",
+      "bounces",
+      "control",
+      "copper",
+      "levels",
+      "live",
+      "stay"
+    ],
+    "ts": 1790883087.5687664
   }
 ]

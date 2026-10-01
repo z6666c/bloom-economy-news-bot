@@ -1,96 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde",
-    "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
-    "tokens": [
-      "binance",
-      "claim",
-      "denies",
-      "entrants",
-      "first",
-      "gets",
-      "greece",
-      "lagarde",
-      "mica",
-      "watchdog"
-    ],
-    "ts": 1790675925.7123213
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/close-brothers-fy26-slides-cost-cuts-deliver-as-profit-falls-17-93CH-4921936",
-    "title": "Close Brothers FY26 slides: cost cuts deliver as profit falls 17%",
-    "tokens": [
-      "brothers",
-      "close",
-      "cost",
-      "cuts",
-      "deliver",
-      "falls",
-      "fy26",
-      "profit",
-      "slides"
-    ],
-    "ts": 1790677120.1135612
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/hartree-partners-buys-604k-of-hudson-technologies-stock-93CH-4921933",
-    "title": "Hartree Partners buys $604k of Hudson Technologies stock",
-    "tokens": [
-      "604k",
-      "buys",
-      "hartree",
-      "hudson",
-      "partners",
-      "stock",
-      "technologies"
-    ],
-    "ts": 1790677127.982676
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-stock-futures-flat-as-tech-bounce-meets-crudedriven-caution-4921932",
-    "title": "US stock futures flat as tech bounce meets crude-driven caution",
-    "tokens": [
-      "bounce",
-      "caution",
-      "crude",
-      "driven",
-      "flat",
-      "futures",
-      "meets",
-      "stock",
-      "tech"
-    ],
-    "ts": 1790677135.6364396
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-bloomin-brands-stock-rallying-today-93CH-4921927",
-    "title": "Why is Bloomin’ Brands stock rallying today?",
-    "tokens": [
-      "bloomin",
-      "brands",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790677144.3067245
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-maintains-outperform-on-akamai-stock-after-anthropic-deal-93CH-4921926",
-    "title": "Raymond James maintains Outperform on Akamai stock after Anthropic deal",
-    "tokens": [
-      "akamai",
-      "anthropic",
-      "deal",
-      "james",
-      "maintains",
-      "outperform",
-      "raymond",
-      "stock"
-    ],
-    "ts": 1790677152.2028365
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/susquehanna-reiterates-circle-internet-stock-rating-at-neutral-93CH-4921925",
     "title": "Susquehanna reiterates Circle Internet stock rating at Neutral",
     "tokens": [
@@ -22934,5 +22843,92 @@
       "vertex"
     ],
     "ts": 1790894668.7920935
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cracker-barrel-svp-roberts-sells-182280-in-shares-93CH-4928638",
+    "title": "Cracker Barrel SVP Roberts sells $182,280 in shares",
+    "tokens": [
+      "182",
+      "280",
+      "barrel",
+      "cracker",
+      "roberts",
+      "sells",
+      "shares",
+      "svp"
+    ],
+    "ts": 1790895391.4686923
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/presurance-holdings-ceo-brian-roney-buys-50622-in-stock-93CH-4928637",
+    "title": "Presurance Holdings CEO Brian Roney buys $50,622 in stock",
+    "tokens": [
+      "622",
+      "brian",
+      "buys",
+      "ceo",
+      "holdings",
+      "presurance",
+      "roney",
+      "stock"
+    ],
+    "ts": 1790895399.5323153
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/comcasts-nbcuniversal-cuts-streaming-technology-jobs-4928630",
+    "title": "Comcast’s NBCUniversal cuts streaming technology jobs",
+    "tokens": [
+      "comcast",
+      "cuts",
+      "jobs",
+      "nbcuniversal",
+      "streaming",
+      "technology"
+    ],
+    "ts": 1790895406.5025384
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/playstudios-enacts-1for10-reverse-stock-split-shares-begin-trading-on-splitadjusted-basis-93CH-4928625",
+    "title": "Playstudios enacts 1-for-10 reverse stock split, shares begin trading on split-adjusted basis",
+    "tokens": [
+      "adjusted",
+      "basis",
+      "begin",
+      "enacts",
+      "playstudios",
+      "reverse",
+      "shares",
+      "split",
+      "stock",
+      "trading"
+    ],
+    "ts": 1790895413.5152264
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/revolution-medicines-cdo-sandler-sells-12m-in-stock-93CH-4928624",
+    "title": "Revolution Medicines’ CDO Sandler sells $1.2m in stock",
+    "tokens": [
+      "cdo",
+      "medicines",
+      "revolution",
+      "sandler",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790895420.402051
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-133-million-in-stock-93CH-4928622",
+    "title": "Block director Anthony Eisen sells $1.33 million in stock",
+    "tokens": [
+      "anthony",
+      "block",
+      "director",
+      "eisen",
+      "million",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790895428.6778286
   }
 ]

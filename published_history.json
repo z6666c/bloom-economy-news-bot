@@ -1,164 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/cnn-ms-now-politico-ask-judge-to-extend-block-on-white-house-ban-4921534",
-    "title": "CNN, MS NOW, Politico ask judge to extend block on White House ban",
-    "tokens": [
-      "ask",
-      "ban",
-      "block",
-      "cnn",
-      "extend",
-      "house",
-      "judge",
-      "now",
-      "politico",
-      "white"
-    ],
-    "ts": 1790654131.420816
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-cochlear-stock-sliding-today-93CH-4921530",
-    "title": "Why is Cochlear stock sliding today?",
-    "tokens": [
-      "cochlear",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790654135.4363809
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-nidec-stock-sliding-today-93CH-4921529",
-    "title": "Why is Nidec stock sliding today?",
-    "tokens": [
-      "nidec",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790654135.4514666
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-rising-yields-oil-weigh-on-risk-appetite-rba-decision-ahead-4921528",
-    "title": "Asia stocks fall as rising yields, oil weigh on risk appetite; RBA decision ahead",
-    "tokens": [
-      "ahead",
-      "appetite",
-      "asia",
-      "decision",
-      "fall",
-      "oil",
-      "rba",
-      "rising",
-      "risk",
-      "stocks",
-      "weigh",
-      "yields"
-    ],
-    "ts": 1790654140.6835692
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ambarella-director-christopher-paisley-sells-17690-in-shares-93CH-4921526",
-    "title": "Ambarella director Christopher Paisley sells $17,690 in shares",
-    "tokens": [
-      "690",
-      "ambarella",
-      "christopher",
-      "director",
-      "paisley",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790654148.3507743
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/shein-shares-hit-record-low-as-quarterly-profit-slumps-67-4921542",
-    "title": "Shein shares hit record low as quarterly profit slumps 67%",
-    "tokens": [
-      "hit",
-      "low",
-      "profit",
-      "quarterly",
-      "record",
-      "shares",
-      "shein",
-      "slumps"
-    ],
-    "ts": 1790655109.8435168
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-chugai-pharmaceutical-stock-sliding-today-93CH-4921541",
-    "title": "Why is Chugai Pharmaceutical stock sliding today?",
-    "tokens": [
-      "chugai",
-      "pharmaceutical",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790655117.4196727
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-goodman-stock-sliding-today-93CH-4921540",
-    "title": "Why is Goodman stock sliding today?",
-    "tokens": [
-      "goodman",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790655121.4351416
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/finward-bancorp-evp-robert-lowry-buys-1829-in-company-stock-93CH-4921538",
-    "title": "Finward Bancorp EVP Robert Lowry buys $1,829 in company stock",
-    "tokens": [
-      "829",
-      "bancorp",
-      "buys",
-      "company",
-      "evp",
-      "finward",
-      "lowry",
-      "robert",
-      "stock"
-    ],
-    "ts": 1790655125.191834
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-navigator-global-investments-stock-surging-today-93CH-4921543",
-    "title": "Why is Navigator Global Investments stock surging today?",
-    "tokens": [
-      "global",
-      "investments",
-      "navigator",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790656214.8455682
-  },
-  {
-    "id": "478d80da-1c9f-4338-aa4f-069d64391aa0",
-    "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
-    "tokens": [
-      "000",
-      "again",
-      "bitcoin",
-      "climbs",
-      "drops",
-      "holds",
-      "oil",
-      "zec"
-    ],
-    "ts": 1790656223.7216156
-  },
-  {
     "id": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse",
     "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
     "tokens": [
@@ -22938,5 +22779,170 @@
       "tax"
     ],
     "ts": 1790879092.980667
+  },
+  {
+    "id": "WP-MKTW-0005265073",
+    "title": "Financial stocks are falling below a key chart level to warn the worst is yet to come",
+    "tokens": [
+      "below",
+      "chart",
+      "come",
+      "falling",
+      "financial",
+      "key",
+      "level",
+      "stocks",
+      "warn",
+      "worst",
+      "yet"
+    ],
+    "ts": 1790880400.6705909
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/mattel-attracts-takeover-interest-from-authentic-brands-group-the-wall-street-journal-reports-4928092",
+    "title": "Mattel attracts takeover interest from Authentic Brands Group, the Wall Street Journal reports",
+    "tokens": [
+      "attracts",
+      "authentic",
+      "brands",
+      "group",
+      "interest",
+      "journal",
+      "mattel",
+      "reports",
+      "street",
+      "takeover",
+      "wall"
+    ],
+    "ts": 1790880409.148867
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/rogers-completes-acquisition-of-remaining-25-stake-in-mlse-93CH-4928091",
+    "title": "Rogers completes acquisition of remaining 25% stake in MLSE",
+    "tokens": [
+      "acquisition",
+      "completes",
+      "mlse",
+      "remaining",
+      "rogers",
+      "stake"
+    ],
+    "ts": 1790880417.527997
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/putin-says-the-world-is-living-through-a-dangerous-moment-warns-west-not-to-escalate-4928087",
+    "title": "Putin says the world is living through a dangerous moment, warns West not to escalate",
+    "tokens": [
+      "dangerous",
+      "escalate",
+      "living",
+      "moment",
+      "putin",
+      "through",
+      "warns",
+      "west",
+      "world"
+    ],
+    "ts": 1790880425.2918813
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/xom-vs-cvx-scale-value-and-income-compared-93CH-4928078",
+    "title": "XOM vs CVX: scale, value, and income compared",
+    "tokens": [
+      "compared",
+      "cvx",
+      "income",
+      "scale",
+      "value",
+      "xom"
+    ],
+    "ts": 1790880433.12188
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/lebanon-needs-reforms-to-secure-new-imf-program-fund-says-93CH-4928076",
+    "title": "Lebanon needs reforms to secure new IMF program, fund says",
+    "tokens": [
+      "fund",
+      "imf",
+      "lebanon",
+      "needs",
+      "program",
+      "reforms",
+      "secure"
+    ],
+    "ts": 1790880440.6076174
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/cnbx-pharmaceuticals-appoints-new-auditor-replaces-elkana-amitai-cpa-93CH-4928075",
+    "title": "CNBX Pharmaceuticals appoints new auditor, replaces Elkana Amitai CPA",
+    "tokens": [
+      "amitai",
+      "appoints",
+      "auditor",
+      "cnbx",
+      "cpa",
+      "elkana",
+      "pharmaceuticals",
+      "replaces"
+    ],
+    "ts": 1790880448.0035143
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/california-attorney-general-issues-investigative-subpoena-to-openai-4928074",
+    "title": "California attorney general issues investigative subpoena to OpenAI",
+    "tokens": [
+      "attorney",
+      "california",
+      "general",
+      "investigative",
+      "issues",
+      "openai",
+      "subpoena"
+    ],
+    "ts": 1790880455.8178842
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-maple-leaf-foods-stock-sliding-today-93CH-4928073",
+    "title": "Why is Maple Leaf Foods stock sliding today?",
+    "tokens": [
+      "foods",
+      "leaf",
+      "maple",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790880464.3877616
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/mara-vs-riot-comparing-two-bitcoin-miners-on-fundamentals-and-technicals-93CH-4928072",
+    "title": "MARA vs RIOT: comparing two bitcoin miners on fundamentals and technicals",
+    "tokens": [
+      "bitcoin",
+      "comparing",
+      "fundamentals",
+      "mara",
+      "miners",
+      "riot",
+      "technicals",
+      "two"
+    ],
+    "ts": 1790880472.5050306
+  },
+  {
+    "id": "c1473acf-270d-4eae-a62a-d6d7559fa1da",
+    "title": "Another Trump memecoin dinner advertised for token's top investors",
+    "tokens": [
+      "advertised",
+      "another",
+      "dinner",
+      "investors",
+      "memecoin",
+      "token",
+      "top",
+      "trump"
+    ],
+    "ts": 1790880481.3641365
   }
 ]

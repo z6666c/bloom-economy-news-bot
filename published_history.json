@@ -1,161 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005256959",
-    "title": "PepsiCo plans to raise prices on sodas, chips and dip — and that has Wall Street worried",
-    "tokens": [
-      "chips",
-      "dip",
-      "pepsico",
-      "plans",
-      "prices",
-      "raise",
-      "sodas",
-      "street",
-      "wall",
-      "worried"
-    ],
-    "ts": 1790625269.0581243
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/transportation-secretary-urges-congress-to-approve-30bn-in-aviation-funding-93CH-4921029",
-    "title": "Transportation secretary urges Congress to approve $30bn in aviation funding",
-    "tokens": [
-      "30bn",
-      "approve",
-      "aviation",
-      "congress",
-      "funding",
-      "secretary",
-      "transportation",
-      "urges"
-    ],
-    "ts": 1790625276.721246
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dow-jones-trapped-at-51913-between-double-bottom-and-downtrend-live-93CH-4920690",
-    "title": "Dow Jones stalls below 52,200 resistance: Live levels",
-    "tokens": [
-      "200",
-      "below",
-      "dow",
-      "jones",
-      "levels",
-      "live",
-      "resistance",
-      "stalls"
-    ],
-    "ts": 1790625283.5313613
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/alphabet-c-tests-33690-support-below-ichimoku-cloud-live-levels-93CH-4920694",
-    "title": "Alphabet C stuck in range below $342 resistance: Live levels",
-    "tokens": [
-      "342",
-      "alphabet",
-      "below",
-      "levels",
-      "live",
-      "range",
-      "resistance",
-      "stuck"
-    ],
-    "ts": 1790625290.7448125
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1400-support-in-distribution-range-live-93CH-4921028",
-    "title": "London Gas Oil tests $1,400 support in distribution range: Live",
-    "tokens": [
-      "400",
-      "distribution",
-      "gas",
-      "live",
-      "london",
-      "oil",
-      "range",
-      "support",
-      "tests"
-    ],
-    "ts": 1790625297.5656543
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nasdaq-100-rangebound-between-30548-and-30787-live-levels-93CH-4920692",
-    "title": "Nasdaq 100 clings to SuperTrend support at 30,548: Live levels",
-    "tokens": [
-      "100",
-      "548",
-      "clings",
-      "levels",
-      "live",
-      "nasdaq",
-      "supertrend",
-      "support"
-    ],
-    "ts": 1790625304.4564192
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tesla-teeters-above-support-at-361-live-levels-93CH-4920695",
-    "title": "Tesla breaks below Ichimoku cloud at $357.91: Live levels",
-    "tokens": [
-      "357",
-      "below",
-      "breaks",
-      "cloud",
-      "ichimoku",
-      "levels",
-      "live",
-      "tesla"
-    ],
-    "ts": 1790625311.551428
-  },
-  {
-    "id": "WP-MKTW-0005257172",
-    "title": "Before you invest in the Oura IPO, understand what you’re buying",
-    "tokens": [
-      "before",
-      "buying",
-      "invest",
-      "ipo",
-      "oura",
-      "understand",
-      "what",
-      "you"
-    ],
-    "ts": 1790626205.9715483
-  },
-  {
-    "id": "WP-MKTW-0005257414",
-    "title": "October is historically the most volatile month for stocks. But why? These 4 popular theories fail to hold up.",
-    "tokens": [
-      "fail",
-      "historically",
-      "hold",
-      "month",
-      "most",
-      "october",
-      "popular",
-      "stocks",
-      "theories",
-      "these",
-      "volatile",
-      "why"
-    ],
-    "ts": 1790626212.4842854
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/manus-launches-ai-agent-platform-as-startup-expands-tools-93CH-4921041",
-    "title": "Manus launches AI agent platform as startup expands tools",
-    "tokens": [
-      "agent",
-      "expands",
-      "launches",
-      "manus",
-      "platform",
-      "startup",
-      "tools"
-    ],
-    "ts": 1790626219.3533416
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/blockchaincom-eyes-500m-ipo-at-up-to-6b-valuation-bloomberg-reports-4921038",
     "title": "Blockchain.com eyes $500M IPO at up to $6B valuation, Bloomberg reports",
     "tokens": [
@@ -22899,5 +22743,153 @@
       "stablecoins"
     ],
     "ts": 1790861927.0569391
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/land-securities-prices-500m-share-placing-at-600-pence-93CH-4927650",
+    "title": "Land Securities prices £500m share placing at 600 pence",
+    "tokens": [
+      "500m",
+      "600",
+      "land",
+      "pence",
+      "placing",
+      "prices",
+      "securities",
+      "share"
+    ],
+    "ts": 1790863089.0076706
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/karman-holdings-stock-hits-52week-low-at-3215-usd-93CH-4927649",
+    "title": "Karman Holdings stock hits 52-week low at 32.15 USD",
+    "tokens": [
+      "hits",
+      "holdings",
+      "karman",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790863093.023096
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/eos-energy-enterprises-stock-hits-52week-low-at-299-usd-93CH-4927647",
+    "title": "Eos Energy Enterprises stock hits 52-week low at 2.99 USD",
+    "tokens": [
+      "energy",
+      "enterprises",
+      "eos",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790863093.0380611
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/atmos-energy-stock-hits-52week-low-at-15495-usd-93CH-4927646",
+    "title": "Atmos Energy stock hits 52-week low at 154.95 USD",
+    "tokens": [
+      "154",
+      "atmos",
+      "energy",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790863093.05278
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pony-ai-stock-hits-52week-low-at-636-usd-93CH-4927642",
+    "title": "Pony Ai stock hits 52-week low at 6.36 USD",
+    "tokens": [
+      "hits",
+      "low",
+      "pony",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790863093.0676954
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nextera-energy-stock-hits-52week-low-at-7474-usd-93CH-4927641",
+    "title": "Nextera Energy stock hits 52-week low at 74.74 USD",
+    "tokens": [
+      "energy",
+      "hits",
+      "low",
+      "nextera",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790863093.0822172
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stocks-open-higher-as-software-strength-offsets-bondmarket-pressure-4927639",
+    "title": "US stocks open higher as software strength offsets bond-market pressure",
+    "tokens": [
+      "bond",
+      "higher",
+      "market",
+      "offsets",
+      "open",
+      "pressure",
+      "software",
+      "stocks",
+      "strength"
+    ],
+    "ts": 1790863096.83887
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-wisekey-h1-2026-revenue-jumps-116-as-losses-widen-93CH-4927638",
+    "title": "Earnings call transcript: WISeKey H1 2026 revenue jumps 116% as losses widen",
+    "tokens": [
+      "116",
+      "2026",
+      "call",
+      "earnings",
+      "jumps",
+      "losses",
+      "revenue",
+      "transcript",
+      "widen",
+      "wisekey"
+    ],
+    "ts": 1790863104.7034183
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/rb-global-inc-stock-hits-52week-low-at-7957-usd-93CH-4927637",
+    "title": "RB Global Inc stock hits 52-week low at 79.57 USD",
+    "tokens": [
+      "global",
+      "hits",
+      "inc",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790863108.7185826
+  },
+  {
+    "id": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion",
+    "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
+    "tokens": [
+      "388m",
+      "bitget",
+      "crypto",
+      "hack",
+      "losses",
+      "past",
+      "pushes",
+      "security"
+    ],
+    "ts": 1790863114.0936224
   }
 ]

@@ -1,94 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/earnings/carmax-earnings-in-focus-as-turnaround-strategy-faces-test-93CH-4920569",
-    "title": "CarMax earnings in focus as turnaround strategy faces test",
-    "tokens": [
-      "carmax",
-      "earnings",
-      "faces",
-      "focus",
-      "strategy",
-      "test",
-      "turnaround"
-    ],
-    "ts": 1790603079.7634358
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/uranium-energy-faces-fiscal-year-test-as-spot-strategy-plays-out-93CH-4920568",
-    "title": "Uranium Energy faces fiscal year test as spot strategy plays out",
-    "tokens": [
-      "energy",
-      "faces",
-      "fiscal",
-      "plays",
-      "spot",
-      "strategy",
-      "test",
-      "uranium",
-      "year"
-    ],
-    "ts": 1790603088.6142156
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/one-gas-inc-stock-hits-52week-low-at-7126-usd-93CH-4920567",
-    "title": "One Gas Inc stock hits 52-week low at 71.26 USD",
-    "tokens": [
-      "gas",
-      "hits",
-      "inc",
-      "low",
-      "one",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790603097.308255
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/molson-coors-brewing-stock-hits-52week-low-at-3561-usd-93CH-4920563",
-    "title": "Molson Coors Brewing stock hits 52-week low at 35.61 USD",
-    "tokens": [
-      "brewing",
-      "coors",
-      "hits",
-      "low",
-      "molson",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790603105.9828887
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/dutch-bros-stock-hits-52week-low-at-3772-usd-93CH-4920562",
-    "title": "Dutch Bros stock hits 52-week low at 37.72 USD",
-    "tokens": [
-      "bros",
-      "dutch",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790603114.5733004
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/constellation-brands-stock-hits-52week-low-at-11316-usd-93CH-4920561",
-    "title": "Constellation Brands stock hits 52-week low at 113.16 USD",
-    "tokens": [
-      "113",
-      "brands",
-      "constellation",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790603124.1731212
-  },
-  {
     "id": "https://www.investing.com/news/sec-filings/greenpro-capital-completes-sale-of-subsidiaries-for-hk35-million-93CH-4920560",
     "title": "Greenpro Capital completes sale of subsidiaries for HK$3.5 million",
     "tokens": [
@@ -22905,5 +22816,92 @@
       "think"
     ],
     "ts": 1790836019.7689426
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pfizer-reports-positive-phase-2-results-for-atopic-dermatitis-drug-93CH-4926357",
+    "title": "Pfizer reports positive phase 2 results for atopic dermatitis drug",
+    "tokens": [
+      "atopic",
+      "dermatitis",
+      "drug",
+      "pfizer",
+      "phase",
+      "positive",
+      "reports",
+      "results"
+    ],
+    "ts": 1790837386.5373883
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/russia-manufacturing-slips-again-in-september-as-demand-stays-weak-93CH-4926356",
+    "title": "Russia manufacturing slips again in September as demand stays weak",
+    "tokens": [
+      "again",
+      "demand",
+      "manufacturing",
+      "russia",
+      "september",
+      "slips",
+      "stays",
+      "weak"
+    ],
+    "ts": 1790837393.9172788
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/fca-suspends-notting-hill-genesis-bond-listings-93CH-4926351",
+    "title": "FCA suspends Notting Hill Genesis bond listings",
+    "tokens": [
+      "bond",
+      "fca",
+      "genesis",
+      "hill",
+      "listings",
+      "notting",
+      "suspends"
+    ],
+    "ts": 1790837401.7180743
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/advanced-flower-capital-director-tannenbaum-buys-344k-in-shares-93CH-4926350",
+    "title": "Advanced flower capital director Tannenbaum buys $344k in shares",
+    "tokens": [
+      "344k",
+      "advanced",
+      "buys",
+      "capital",
+      "director",
+      "flower",
+      "shares",
+      "tannenbaum"
+    ],
+    "ts": 1790837409.0946913
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bonds-teeter-after-us-treasuries-worst-quarter-since-1994-4926346",
+    "title": "Bonds teeter after US Treasuries’ worst quarter since 1994",
+    "tokens": [
+      "1994",
+      "bonds",
+      "quarter",
+      "since",
+      "teeter",
+      "treasuries",
+      "worst"
+    ],
+    "ts": 1790837417.033355
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-199-4926337",
+    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 1.99%",
+    "tokens": [
+      "200",
+      "asx",
+      "australia",
+      "close",
+      "lower",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790837421.0487564
   }
 ]

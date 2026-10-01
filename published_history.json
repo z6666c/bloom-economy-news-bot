@@ -1,110 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/winnebago-names-silva-to-lead-aftermarket-business-93CH-4920109",
-    "title": "Winnebago names Silva to lead aftermarket business",
-    "tokens": [
-      "aftermarket",
-      "business",
-      "lead",
-      "names",
-      "silva",
-      "winnebago"
-    ],
-    "ts": 1790597752.7335458
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-snowflake-stock-sliding-today-93CH-4920105",
-    "title": "Why is Snowflake stock sliding today?",
-    "tokens": [
-      "sliding",
-      "snowflake",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790597756.7491248
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-kodiak-ai-stock-rating-at-overweight-93CH-4920104",
-    "title": "Cantor Fitzgerald reiterates Kodiak AI stock rating at Overweight",
-    "tokens": [
-      "cantor",
-      "fitzgerald",
-      "kodiak",
-      "overweight",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1790597761.398792
-  },
-  {
-    "id": "eed4895b-8246-409f-b7f9-dcc917fa8a54",
-    "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
-    "tokens": [
-      "bitcoin",
-      "bitget",
-      "block",
-      "hacker",
-      "million",
-      "moves",
-      "rejects",
-      "request",
-      "thorchain"
-    ],
-    "ts": 1790597771.5868216
-  },
-  {
-    "id": "WP-MKTW-0005256393",
-    "title": "SpaceX is moments away from monumental Starship launch",
-    "tokens": [
-      "away",
-      "launch",
-      "moments",
-      "monumental",
-      "spacex",
-      "starship"
-    ],
-    "ts": 1790599244.118201
-  },
-  {
-    "id": "52a47b17-2e1a-4fd7-a536-6ed4e8db823b",
-    "title": "Chainlink updates its crypto bridge tech months after a $292 million hack at a rival exposed risks",
-    "tokens": [
-      "292",
-      "bridge",
-      "chainlink",
-      "crypto",
-      "exposed",
-      "hack",
-      "million",
-      "months",
-      "risks",
-      "rival",
-      "tech",
-      "updates"
-    ],
-    "ts": 1790599254.426161
-  },
-  {
-    "id": "https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week",
-    "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
-    "tokens": [
-      "best",
-      "bitcoin",
-      "btc",
-      "eyes",
-      "know",
-      "nine",
-      "price",
-      "things",
-      "three",
-      "week",
-      "years"
-    ],
-    "ts": 1790599262.7946105
-  },
-  {
     "id": "WP-MKTW-0005254307",
     "title": "Taking Ozempic? A routine eye exam could help you understand your risk for vision loss.",
     "tokens": [
@@ -22902,5 +22797,115 @@
       "stock"
     ],
     "ts": 1790829920.2807405
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/phc-holdings-surge-to-near-4year-high-after-toho-takeover-proposal-confirmed-4926241",
+    "title": "PHC Holdings surge to near 4-year high after Toho takeover proposal confirmed",
+    "tokens": [
+      "confirmed",
+      "high",
+      "holdings",
+      "near",
+      "phc",
+      "proposal",
+      "surge",
+      "takeover",
+      "toho",
+      "year"
+    ],
+    "ts": 1790830786.5291367
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/a-55b-buyback-and-a-10-gain--our-ai-flagged-this-wealth-manager-first-4926240",
+    "title": "A $5.5B buyback and a 10% gain - our AI flagged this wealth manager first",
+    "tokens": [
+      "buyback",
+      "first",
+      "flagged",
+      "gain",
+      "manager",
+      "our",
+      "wealth"
+    ],
+    "ts": 1790830793.563691
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/tighter-new-zealand-election-race-stokes-investor-fears-on-policy-backflips-4926237",
+    "title": "Tighter New Zealand election race stokes investor fears on policy backflips",
+    "tokens": [
+      "backflips",
+      "election",
+      "fears",
+      "investor",
+      "policy",
+      "race",
+      "stokes",
+      "tighter",
+      "zealand"
+    ],
+    "ts": 1790830801.3163662
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/morning-bid-inflation-relief-gives-bonds-little-reprieve-4926239",
+    "title": "Morning Bid: Inflation relief gives bonds little reprieve",
+    "tokens": [
+      "bid",
+      "bonds",
+      "gives",
+      "inflation",
+      "little",
+      "morning",
+      "relief",
+      "reprieve"
+    ],
+    "ts": 1790830808.7966473
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/up-10-since-july--an-alternative-asset-manager-on-our-ai-list-keeps-climbing-4926238",
+    "title": "Up 10%+ since July - an alternative asset manager on our AI list keeps climbing",
+    "tokens": [
+      "alternative",
+      "asset",
+      "climbing",
+      "july",
+      "keeps",
+      "list",
+      "manager",
+      "our",
+      "since"
+    ],
+    "ts": 1790830817.5408053
+  },
+  {
+    "id": "b72a213f-1eab-435f-95d6-bc06152c2a2d",
+    "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+    "tokens": [
+      "apps",
+      "bets",
+      "defi",
+      "dogecoin",
+      "dogeos",
+      "eventually",
+      "gets",
+      "miners",
+      "secure",
+      "testnet"
+    ],
+    "ts": 1790830826.2273216
+  },
+  {
+    "id": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield",
+    "title": "Crypto hacks top $768M in September, worst month of 2026",
+    "tokens": [
+      "2026",
+      "768m",
+      "crypto",
+      "hacks",
+      "month",
+      "september",
+      "top",
+      "worst"
+    ],
+    "ts": 1790830833.6077914
   }
 ]

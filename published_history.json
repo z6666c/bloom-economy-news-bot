@@ -1,112 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/susquehanna-reiterates-circle-internet-stock-rating-at-neutral-93CH-4921925",
-    "title": "Susquehanna reiterates Circle Internet stock rating at Neutral",
-    "tokens": [
-      "circle",
-      "internet",
-      "neutral",
-      "rating",
-      "reiterates",
-      "stock",
-      "susquehanna"
-    ],
-    "ts": 1790677160.1855924
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-uniti-group-stock-rating-on-ma-potential-93CH-4921923",
-    "title": "Raymond James reiterates Uniti Group stock rating on M&A potential",
-    "tokens": [
-      "group",
-      "james",
-      "potential",
-      "rating",
-      "raymond",
-      "reiterates",
-      "stock",
-      "uniti"
-    ],
-    "ts": 1790677167.6654246
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-best-buy-stock-keeps-100-price-target-93CH-4921924",
-    "title": "Truist reiterates Buy on Best Buy stock, keeps $100 price target",
-    "tokens": [
-      "100",
-      "best",
-      "buy",
-      "keeps",
-      "price",
-      "reiterates",
-      "stock",
-      "target",
-      "truist"
-    ],
-    "ts": 1790677175.4843135
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/close-brothers-fy26-slides-turnaround-advances-amid-motor-finance-drag-93CH-4921922",
-    "title": "Close Brothers FY26 slides: turnaround advances amid motor finance drag",
-    "tokens": [
-      "advances",
-      "brothers",
-      "close",
-      "drag",
-      "finance",
-      "fy26",
-      "motor",
-      "slides",
-      "turnaround"
-    ],
-    "ts": 1790677183.0321746
-  },
-  {
-    "id": "92388611-f17c-4bda-845a-2aed8a9505d9",
-    "title": "Live updates: Bitcoin rebounds above $84,000 as Treasury yields steady",
-    "tokens": [
-      "000",
-      "above",
-      "bitcoin",
-      "live",
-      "rebounds",
-      "steady",
-      "treasury",
-      "updates",
-      "yields"
-    ],
-    "ts": 1790677192.3135512
-  },
-  {
-    "id": "f82b3191-01b0-41c6-aa32-acc87e07bdeb",
-    "title": "Blockchain.com targets $500 million IPO at up to $6 billion valuation",
-    "tokens": [
-      "500",
-      "billion",
-      "blockchain",
-      "com",
-      "ipo",
-      "million",
-      "targets",
-      "valuation"
-    ],
-    "ts": 1790677199.4143167
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high",
-    "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
-    "tokens": [
-      "84k",
-      "bitcoin",
-      "bond",
-      "bounces",
-      "high",
-      "sets",
-      "year",
-      "yield"
-    ],
-    "ts": 1790677207.243642
-  },
-  {
     "id": "https://www.investing.com/news/company-news/pearson-to-acquire-ai-skills-assessment-platform-workera-93CH-4921724",
     "title": "Pearson to acquire AI skills assessment platform Workera",
     "tokens": [
@@ -22930,5 +22823,112 @@
       "stock"
     ],
     "ts": 1790895428.6778286
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/presurance-holdings-director-smith-buys-48935-in-company-stock-93CH-4928654",
+    "title": "Presurance Holdings director Smith buys $48,935 in company stock",
+    "tokens": [
+      "935",
+      "buys",
+      "company",
+      "director",
+      "holdings",
+      "presurance",
+      "smith",
+      "stock"
+    ],
+    "ts": 1790896275.6024568
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/oracle-director-stephen-rusckowski-buys-348m-in-common-stock-93CH-4928653",
+    "title": "Oracle director Stephen Rusckowski buys $3.48m in common stock",
+    "tokens": [
+      "48m",
+      "buys",
+      "common",
+      "director",
+      "oracle",
+      "rusckowski",
+      "stephen",
+      "stock"
+    ],
+    "ts": 1790896283.6335034
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-806495-in-aapl-stock-93CH-4928652",
+    "title": "Apple SVP Jennifer Newstead sells $806,495 in AAPL stock",
+    "tokens": [
+      "495",
+      "806",
+      "aapl",
+      "apple",
+      "jennifer",
+      "newstead",
+      "sells",
+      "stock",
+      "svp"
+    ],
+    "ts": 1790896291.476174
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/pilots-of-crashed-amazon-cargo-plane-were-unaware-of-wind-conditions-4928643",
+    "title": "Pilots of crashed Amazon cargo plane were unaware of wind conditions",
+    "tokens": [
+      "amazon",
+      "cargo",
+      "conditions",
+      "crashed",
+      "pilots",
+      "plane",
+      "unaware",
+      "wind"
+    ],
+    "ts": 1790896299.6558504
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/gap-director-william-fisher-sells-153-million-in-company-stock-93CH-4928639",
+    "title": "Gap director William Fisher sells $1.53 million in company stock",
+    "tokens": [
+      "company",
+      "director",
+      "fisher",
+      "gap",
+      "million",
+      "sells",
+      "stock",
+      "william"
+    ],
+    "ts": 1790896307.8946054
+  },
+  {
+    "id": "oilprice-article-45659",
+    "title": "China Targets Solid-State Battery Dominance by 2030",
+    "tokens": [
+      "2030",
+      "battery",
+      "china",
+      "dominance",
+      "solid",
+      "state",
+      "targets"
+    ],
+    "ts": 1790896317.0769846
+  },
+  {
+    "id": "oilprice-news-45659",
+    "title": "Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia",
+    "tokens": [
+      "asia",
+      "bpd",
+      "canada",
+      "fast",
+      "link",
+      "million",
+      "oil",
+      "pacific",
+      "pipeline",
+      "tracks"
+    ],
+    "ts": 1790896325.4866066
   }
 ]

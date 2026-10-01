@@ -1,106 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005256362",
-    "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
-    "tokens": [
-      "150",
-      "announcement",
-      "billion",
-      "buyback",
-      "historic",
-      "makes",
-      "nvidia",
-      "statement"
-    ],
-    "ts": 1790595037.2047944
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/october-fed-meeting-hinges-on-this-key-economic-data-citi-says-4919953",
-    "title": "October Fed meeting hinges on this key economic data, Citi says",
-    "tokens": [
-      "citi",
-      "data",
-      "economic",
-      "fed",
-      "hinges",
-      "key",
-      "meeting",
-      "october"
-    ],
-    "ts": 1790595045.2524004
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/qinetiq-launches-fourth-50m-tranche-of-share-buyback-program-93CH-4919928",
-    "title": "QinetiQ launches fourth £50m tranche of share buyback program",
-    "tokens": [
-      "50m",
-      "buyback",
-      "fourth",
-      "launches",
-      "program",
-      "qinetiq",
-      "share",
-      "tranche"
-    ],
-    "ts": 1790595052.4644094
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/bruker-unveils-proteomics-workflows-at-hupo-congress-93CH-4919929",
-    "title": "Bruker unveils proteomics workflows at HUPO congress",
-    "tokens": [
-      "bruker",
-      "congress",
-      "hupo",
-      "proteomics",
-      "unveils",
-      "workflows"
-    ],
-    "ts": 1790595060.5284765
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/brewdog-names-four-executives-to-senior-leadership-roles-93CH-4919925",
-    "title": "BrewDog names four executives to senior leadership roles",
-    "tokens": [
-      "brewdog",
-      "executives",
-      "four",
-      "leadership",
-      "names",
-      "roles",
-      "senior"
-    ],
-    "ts": 1790595070.579538
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/metatek-completes-japan-survey-advances-azerbaijan-projects-93CH-4919926",
-    "title": "Metatek completes Japan survey, advances Azerbaijan projects",
-    "tokens": [
-      "advances",
-      "azerbaijan",
-      "completes",
-      "japan",
-      "metatek",
-      "projects",
-      "survey"
-    ],
-    "ts": 1790595078.93517
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/psyence-biomed-unit-signs-term-sheet-for-us-ibogaine-rights-93CH-4919927",
-    "title": "Psyence BioMed unit signs term sheet for U.S. ibogaine rights",
-    "tokens": [
-      "biomed",
-      "ibogaine",
-      "psyence",
-      "rights",
-      "sheet",
-      "signs",
-      "term",
-      "unit"
-    ],
-    "ts": 1790595087.3071651
-  },
-  {
     "id": "https://www.investing.com/news/company-news/an2-gets-gates-foundation-funding-for-tuberculosis-research-93CH-4919924",
     "title": "AN2 gets Gates Foundation funding for tuberculosis research",
     "tokens": [
@@ -22906,5 +22805,105 @@
       "why"
     ],
     "ts": 1790821785.2725537
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/walgreens-owner-nears-9-billion-deal-to-sell-boots-chain-wsj-93CH-4926191",
+    "title": "Walgreens owner nears $9 billion deal to sell Boots chain- WSJ",
+    "tokens": [
+      "billion",
+      "boots",
+      "chain",
+      "deal",
+      "nears",
+      "owner",
+      "sell",
+      "walgreens",
+      "wsj"
+    ],
+    "ts": 1790822904.8347764
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/asian-factory-activity-expands-thanks-to-global-ai-boom-4926190",
+    "title": "Asian factory activity expands thanks to global AI boom",
+    "tokens": [
+      "activity",
+      "asian",
+      "boom",
+      "expands",
+      "factory",
+      "global",
+      "thanks"
+    ],
+    "ts": 1790822912.342203
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-lynas-rare-earths-stock-sliding-today-93CH-4926189",
+    "title": "Why is Lynas Rare Earths stock sliding today?",
+    "tokens": [
+      "earths",
+      "lynas",
+      "rare",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790822919.3883579
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-nidec-stock-plunging-today-93CH-4926188",
+    "title": "Why is Nidec stock plunging today?",
+    "tokens": [
+      "nidec",
+      "plunging",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790822923.4031029
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/li-auto-delivers-31817-vehicles-in-september-2026-93CH-4926186",
+    "title": "Li Auto delivers 31,817 vehicles in September 2026",
+    "tokens": [
+      "2026",
+      "817",
+      "auto",
+      "delivers",
+      "september",
+      "vehicles"
+    ],
+    "ts": 1790822926.4100437
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nidec-corp-shares-slump-after-auditor-declines-to-sign-off-on-earnings-4926185",
+    "title": "Nidec Corp shares slump after auditor declines to sign off on earnings",
+    "tokens": [
+      "auditor",
+      "corp",
+      "declines",
+      "earnings",
+      "nidec",
+      "off",
+      "shares",
+      "sign",
+      "slump"
+    ],
+    "ts": 1790822933.6110287
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/10-owner-bx-buzz-ml1-gp-llc-sells-1107m-of-bumble-bmbl-stock-93CH-4926184",
+    "title": "10% owner BX Buzz ML-1 GP LLC sells $11.07m of Bumble (BMBL) stock",
+    "tokens": [
+      "07m",
+      "bmbl",
+      "bumble",
+      "buzz",
+      "llc",
+      "owner",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790822941.064438
   }
 ]

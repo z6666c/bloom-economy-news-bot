@@ -1,215 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/blockchaincom-eyes-500m-ipo-at-up-to-6b-valuation-bloomberg-reports-4921038",
-    "title": "Blockchain.com eyes $500M IPO at up to $6B valuation, Bloomberg reports",
-    "tokens": [
-      "500m",
-      "blockchain",
-      "bloomberg",
-      "com",
-      "eyes",
-      "ipo",
-      "reports",
-      "valuation"
-    ],
-    "ts": 1790626227.5345726
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/corn-futures-fall-on-soybean-weakness-and-stronger-dollar-93CH-4921037",
-    "title": "Corn futures fall on soybean weakness and stronger dollar",
-    "tokens": [
-      "corn",
-      "dollar",
-      "fall",
-      "futures",
-      "soybean",
-      "stronger",
-      "weakness"
-    ],
-    "ts": 1790626234.4855876
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/soybean-futures-fall-as-uschina-deal-excludes-key-crop-93CH-4921036",
-    "title": "Soybean futures fall as US-China deal excludes key crop",
-    "tokens": [
-      "china",
-      "crop",
-      "deal",
-      "excludes",
-      "fall",
-      "futures",
-      "key",
-      "soybean"
-    ],
-    "ts": 1790626241.7984247
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/pfizer-biontech-and-moderna-lose-bid-to-dismiss-bayer-patent-case-93CH-4921035",
-    "title": "Pfizer, BioNTech and Moderna lose bid to dismiss Bayer patent case",
-    "tokens": [
-      "bayer",
-      "bid",
-      "biontech",
-      "case",
-      "dismiss",
-      "lose",
-      "moderna",
-      "patent",
-      "pfizer"
-    ],
-    "ts": 1790626248.902514
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/equinox-gold-at-mining-forum-americas-2026-focus-shifts-to-execution-93CH-4921034",
-    "title": "Equinox Gold at Mining Forum Americas 2026: focus shifts to execution",
-    "tokens": [
-      "2026",
-      "americas",
-      "equinox",
-      "execution",
-      "focus",
-      "forum",
-      "gold",
-      "mining",
-      "shifts"
-    ],
-    "ts": 1790626255.9305105
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/resolute-mining-at-mining-forum-americas-2026-growth-shifts-west-93CH-4921033",
-    "title": "Resolute Mining at Mining Forum Americas 2026: growth shifts west",
-    "tokens": [
-      "2026",
-      "americas",
-      "forum",
-      "growth",
-      "mining",
-      "resolute",
-      "shifts",
-      "west"
-    ],
-    "ts": 1790626262.80831
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/clevelandcliffs-slides-as-report-shows-stelco-idling-plant-over-us-tariffs-4921032",
-    "title": "Cleveland-Cliffs slides as report shows Stelco idling plant over US tariffs",
-    "tokens": [
-      "cleveland",
-      "cliffs",
-      "idling",
-      "plant",
-      "report",
-      "shows",
-      "slides",
-      "stelco",
-      "tariffs"
-    ],
-    "ts": 1790626270.957426
-  },
-  {
-    "id": "oilprice-article-45628",
-    "title": "The World Is Entering a New Era of Energy Security",
-    "tokens": [
-      "energy",
-      "entering",
-      "era",
-      "security",
-      "world"
-    ],
-    "ts": 1790626279.079219
-  },
-  {
-    "id": "oilprice-news-45628",
-    "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
-    "tokens": [
-      "1982",
-      "falls",
-      "level",
-      "lowest",
-      "petroleum",
-      "reserve",
-      "since",
-      "strategic"
-    ],
-    "ts": 1790626283.0943449
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/amds-82b-bet-on-world-labs-is-a-direct-shot-at-nvidias-ai-dominance-4921111",
-    "title": "AMD’s $8.2B bet on World Labs is a direct shot at Nvidia’s AI dominance",
-    "tokens": [
-      "amd",
-      "bet",
-      "direct",
-      "dominance",
-      "labs",
-      "nvidia",
-      "shot",
-      "world"
-    ],
-    "ts": 1790627244.4419544
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/skinhealth-systems-shareholders-approve-reverse-stock-split-and-adjournment-measures-93CH-4921124",
-    "title": "SkinHealth Systems shareholders approve reverse stock split and adjournment measures",
-    "tokens": [
-      "adjournment",
-      "approve",
-      "measures",
-      "reverse",
-      "shareholders",
-      "skinhealth",
-      "split",
-      "stock",
-      "systems"
-    ],
-    "ts": 1790627251.7335393
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/aar-buys-18-billion-controlling-stake-in-mro-holdings-wsj-reports-4921112",
-    "title": "AAR buys $1.8 billion controlling stake in MRO Holdings, WSJ reports",
-    "tokens": [
-      "aar",
-      "billion",
-      "buys",
-      "controlling",
-      "holdings",
-      "mro",
-      "reports",
-      "stake",
-      "wsj"
-    ],
-    "ts": 1790627259.08847
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/astral-resources-at-mining-forum-americas-2026-mandilla-advances-93CH-4921105",
-    "title": "Astral Resources at Mining Forum Americas 2026: mandilla advances",
-    "tokens": [
-      "2026",
-      "advances",
-      "americas",
-      "astral",
-      "forum",
-      "mandilla",
-      "mining",
-      "resources"
-    ],
-    "ts": 1790627266.1716228
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/pope-leo-says-concerns-about-ai-doom-are-not-fake-news-4921104",
-    "title": "Pope Leo says concerns about AI doom are not ’fake news’",
-    "tokens": [
-      "about",
-      "concerns",
-      "doom",
-      "fake",
-      "leo",
-      "news",
-      "pope"
-    ],
-    "ts": 1790627274.5837626
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/westgold-resources-at-mining-forum-americas-2026-growth-plan-takes-shape-93CH-4921101",
     "title": "Westgold Resources at Mining Forum Americas 2026: growth plan takes shape",
     "tokens": [
@@ -22891,5 +22681,223 @@
       "security"
     ],
     "ts": 1790863114.0936224
+  },
+  {
+    "id": "WP-MKTW-0005263087",
+    "title": "More than 10 million older adults are now living in poverty as Social Security cuts loom: ‘I don’t know how anyone is making it’",
+    "tokens": [
+      "adults",
+      "anyone",
+      "cuts",
+      "don",
+      "how",
+      "know",
+      "living",
+      "loom",
+      "making",
+      "million",
+      "more",
+      "now",
+      "older",
+      "poverty",
+      "security",
+      "social"
+    ],
+    "ts": 1790864425.6250978
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/us-manufacturing-steady-in-september-input-prices-increase-4927718",
+    "title": "US manufacturing steady in September, input prices increase",
+    "tokens": [
+      "increase",
+      "input",
+      "manufacturing",
+      "prices",
+      "september",
+      "steady"
+    ],
+    "ts": 1790864433.8794367
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-cigna-stock-buy-rating-on-20262030-outlook-93CH-4927717",
+    "title": "UBS reiterates Cigna stock buy rating on 2026-2030 outlook",
+    "tokens": [
+      "2026",
+      "2030",
+      "buy",
+      "cigna",
+      "outlook",
+      "rating",
+      "reiterates",
+      "stock",
+      "ubs"
+    ],
+    "ts": 1790864442.2084944
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-dave-inc-stock-rating-on-strong-execution-outlook-93CH-4927715",
+    "title": "UBS reiterates Dave Inc stock rating on strong execution outlook",
+    "tokens": [
+      "dave",
+      "execution",
+      "inc",
+      "outlook",
+      "rating",
+      "reiterates",
+      "stock",
+      "strong",
+      "ubs"
+    ],
+    "ts": 1790864449.7796392
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-vistra-energy-stock-rating-citing-hedging-strength-93CH-4927716",
+    "title": "Bernstein reiterates Vistra Energy stock rating citing hedging strength",
+    "tokens": [
+      "bernstein",
+      "citing",
+      "energy",
+      "hedging",
+      "rating",
+      "reiterates",
+      "stock",
+      "strength",
+      "vistra"
+    ],
+    "ts": 1790864457.391073
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-amneal-pharmaceuticals-stock-buy-rating-on-hrt-growth-93CH-4927714",
+    "title": "UBS reiterates Amneal Pharmaceuticals stock Buy rating on HRT growth",
+    "tokens": [
+      "amneal",
+      "buy",
+      "growth",
+      "hrt",
+      "pharmaceuticals",
+      "rating",
+      "reiterates",
+      "stock",
+      "ubs"
+    ],
+    "ts": 1790864464.7508535
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-raises-dynatrace-stock-price-target-to-74-on-ai-demand-93CH-4927713",
+    "title": "UBS raises Dynatrace stock price target to $74 on AI demand",
+    "tokens": [
+      "demand",
+      "dynatrace",
+      "price",
+      "raises",
+      "stock",
+      "target",
+      "ubs"
+    ],
+    "ts": 1790864473.9643593
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-marathon-petroleum-stock-buy-rating-on-tight-product-markets-93CH-4927711",
+    "title": "UBS reiterates Marathon Petroleum stock Buy rating on tight product markets",
+    "tokens": [
+      "buy",
+      "marathon",
+      "markets",
+      "petroleum",
+      "product",
+      "rating",
+      "reiterates",
+      "stock",
+      "tight",
+      "ubs"
+    ],
+    "ts": 1790864483.718872
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/social-media-harms-democracy-by-spreading-rumors-survey-shows-4927712",
+    "title": "Social media harms democracy by spreading rumors, survey shows",
+    "tokens": [
+      "democracy",
+      "harms",
+      "media",
+      "rumors",
+      "shows",
+      "social",
+      "spreading",
+      "survey"
+    ],
+    "ts": 1790864490.918099
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-occidental-petroleum-stock-rallying-today-93CH-4927710",
+    "title": "Why is Occidental Petroleum stock rallying today?",
+    "tokens": [
+      "occidental",
+      "petroleum",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790864498.570835
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-kodiak-sciences-stock-rallying-today-93CH-4927709",
+    "title": "Why is Kodiak Sciences stock rallying today?",
+    "tokens": [
+      "kodiak",
+      "rallying",
+      "sciences",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790864506.2748141
+  },
+  {
+    "id": "oilprice-article-45653",
+    "title": "U.S. Threatens Diesel Export Ban Unless Europe Releases Stockpiles",
+    "tokens": [
+      "ban",
+      "diesel",
+      "europe",
+      "export",
+      "releases",
+      "stockpiles",
+      "threatens",
+      "unless"
+    ],
+    "ts": 1790864515.1415083
+  },
+  {
+    "id": "oilprice-news-45653",
+    "title": "India's Power Shortages Jump to Three-Year High",
+    "tokens": [
+      "high",
+      "india",
+      "jump",
+      "power",
+      "shortages",
+      "three",
+      "year"
+    ],
+    "ts": 1790864522.6766264
+  },
+  {
+    "id": "14dc8d40-cbf4-4f69-bea6-e56414ccbd44",
+    "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+    "tokens": [
+      "continues",
+      "crypto",
+      "exploit",
+      "hacks",
+      "hit",
+      "intents",
+      "million",
+      "near",
+      "rough",
+      "year"
+    ],
+    "ts": 1790864530.4862394
   }
 ]

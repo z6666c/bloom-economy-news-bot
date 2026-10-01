@@ -1,177 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse",
-    "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
-    "tokens": [
-      "approval",
-      "cftc",
-      "clearinghouse",
-      "coinbase",
-      "derivatives",
-      "gets"
-    ],
-    "ts": 1790656231.3487148
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nvidia-turns-to-insurers-to-spread-risk-of-ai-buildout--ft-4921570",
-    "title": "Nvidia turns to insurers to spread risk of AI build-out - FT",
-    "tokens": [
-      "build",
-      "insurers",
-      "nvidia",
-      "risk",
-      "spread",
-      "turns"
-    ],
-    "ts": 1790658651.8067667
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/battered-bond-market-braces-for-a-new-era-of-interest-rates-4921569",
-    "title": "Battered bond market braces for a new era of interest rates",
-    "tokens": [
-      "battered",
-      "bond",
-      "braces",
-      "era",
-      "interest",
-      "market",
-      "rates"
-    ],
-    "ts": 1790658661.7509515
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-united-nova-technology-stock-rising-today-93CH-4921568",
-    "title": "Why is United Nova Technology stock rising today?",
-    "tokens": [
-      "nova",
-      "rising",
-      "stock",
-      "technology",
-      "today",
-      "united",
-      "why"
-    ],
-    "ts": 1790658669.5171416
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-akeso-stock-surging-today-93CH-4921567",
-    "title": "Why is Akeso stock surging today?",
-    "tokens": [
-      "akeso",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790658673.5281074
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-guangzhou-automobile-stock-rallying-today-93CH-4921566",
-    "title": "Why is Guangzhou Automobile stock rallying today?",
-    "tokens": [
-      "automobile",
-      "guangzhou",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790658677.3334618
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/rba-raises-interest-rates-by-25-bps-sees-more-hikes-as-inflationary-risks-mount-4921561",
-    "title": "RBA raises interest rates by 25 bps; sees more hikes as inflationary risks mount",
-    "tokens": [
-      "bps",
-      "hikes",
-      "inflationary",
-      "interest",
-      "more",
-      "mount",
-      "raises",
-      "rates",
-      "rba",
-      "risks",
-      "sees"
-    ],
-    "ts": 1790658684.705857
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/china-stocks-edge-up-on-policy-support-pledge-4921560",
-    "title": "China stocks edge up on policy support pledge",
-    "tokens": [
-      "china",
-      "edge",
-      "pledge",
-      "policy",
-      "stocks",
-      "support"
-    ],
-    "ts": 1790658692.102197
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/toyota-august-sales-production-fall-for-second-straight-month-4921559",
-    "title": "Toyota August sales, production fall for second straight month",
-    "tokens": [
-      "august",
-      "fall",
-      "month",
-      "production",
-      "sales",
-      "second",
-      "straight",
-      "toyota"
-    ],
-    "ts": 1790658699.7239232
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/morning-bid-our-products-could-end-all-human-life-buy-our-shares-4921558",
-    "title": "Morning Bid: Our products could end all human life, buy our shares",
-    "tokens": [
-      "all",
-      "bid",
-      "buy",
-      "could",
-      "end",
-      "human",
-      "life",
-      "morning",
-      "our",
-      "products",
-      "shares"
-    ],
-    "ts": 1790658706.7721124
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/finward-bancorp-director-anthony-puntillo-acquires-233-in-stock-93CH-4921555",
-    "title": "Finward Bancorp director Anthony Puntillo acquires $233 in stock",
-    "tokens": [
-      "233",
-      "acquires",
-      "anthony",
-      "bancorp",
-      "director",
-      "finward",
-      "puntillo",
-      "stock"
-    ],
-    "ts": 1790658714.1879313
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/google-challenges-eu-orders-to-open-up-to-ai-searchengine-rivals-4921578",
-    "title": "Google challenges EU orders to open up to AI, search-engine rivals",
-    "tokens": [
-      "challenges",
-      "engine",
-      "google",
-      "open",
-      "orders",
-      "rivals",
-      "search"
-    ],
-    "ts": 1790659720.7650363
-  },
-  {
     "id": "https://www.investing.com/news/company-news/zoomlion-signs-300m-credit-insurance-50m-factoring-deal-93CH-4921577",
     "title": "Zoomlion signs $300M credit insurance, $50M factoring deal",
     "tokens": [
@@ -22944,5 +22772,189 @@
       "trump"
     ],
     "ts": 1790880481.3641365
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide-4928141",
+    "title": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
+    "tokens": [
+      "400",
+      "announces",
+      "atms",
+      "bitcoin",
+      "fee",
+      "launch",
+      "lowest",
+      "more",
+      "nationwide"
+    ],
+    "ts": 1790881921.3304756
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/us-energy-secretary-wright-highly-confident-europe-will-release-diesel-stocks-4928140",
+    "title": "US Energy Secretary Wright ’highly confident’ Europe will release diesel stocks",
+    "tokens": [
+      "confident",
+      "diesel",
+      "energy",
+      "europe",
+      "highly",
+      "release",
+      "secretary",
+      "stocks",
+      "wright"
+    ],
+    "ts": 1790881929.4828186
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/accenture-earnings-analysis-questions-answered-and-next-catalysts-93CH-4928129",
+    "title": "Accenture earnings analysis: questions answered and next catalysts",
+    "tokens": [
+      "accenture",
+      "analysis",
+      "answered",
+      "catalysts",
+      "earnings",
+      "next",
+      "questions"
+    ],
+    "ts": 1790881933.4977403
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-mortgage-rates-jump-by-most-in-4-years-in-latest-week-4928128",
+    "title": "US mortgage rates jump by most in 4 years in latest week",
+    "tokens": [
+      "jump",
+      "latest",
+      "mortgage",
+      "most",
+      "rates",
+      "week",
+      "years"
+    ],
+    "ts": 1790881937.6293063
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/wintrust-financial-corp-adr-stock-hits-52week-low-at-2549-93CH-4928127",
+    "title": "Wintrust Financial Corp ADR stock hits 52-week low at $25.49",
+    "tokens": [
+      "adr",
+      "corp",
+      "financial",
+      "hits",
+      "low",
+      "stock",
+      "week",
+      "wintrust"
+    ],
+    "ts": 1790881941.6455033
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/calmaine-foods-earnings-analysis-questions-answered-and-next-catalysts-93CH-4928126",
+    "title": "Cal-Maine Foods earnings analysis: questions answered and next catalysts",
+    "tokens": [
+      "analysis",
+      "answered",
+      "cal",
+      "catalysts",
+      "earnings",
+      "foods",
+      "maine",
+      "next",
+      "questions"
+    ],
+    "ts": 1790881941.6604736
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-faa-set-to-convene-review-of-boeing-737-max-software-issue-on-friday-4928125",
+    "title": "US FAA set to convene review of Boeing 737 max software issue on Friday",
+    "tokens": [
+      "737",
+      "boeing",
+      "convene",
+      "faa",
+      "friday",
+      "issue",
+      "max",
+      "review",
+      "set",
+      "software"
+    ],
+    "ts": 1790881966.7862494
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/micron-earnings-analysis-questions-answered-and-next-catalysts-93CH-4928124",
+    "title": "Micron earnings analysis: questions answered and next catalysts",
+    "tokens": [
+      "analysis",
+      "answered",
+      "catalysts",
+      "earnings",
+      "micron",
+      "next",
+      "questions"
+    ],
+    "ts": 1790881970.8010533
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/chemung-canal-trust-company-completes-conversion-to-national-bank-93CH-4928123",
+    "title": "Chemung Canal Trust Company completes conversion to national bank",
+    "tokens": [
+      "bank",
+      "canal",
+      "chemung",
+      "company",
+      "completes",
+      "conversion",
+      "national",
+      "trust"
+    ],
+    "ts": 1790881974.189509
+  },
+  {
+    "id": "oilprice-article-45658",
+    "title": "Middle East Oil Exports Stage a Remarkable Comeback",
+    "tokens": [
+      "comeback",
+      "east",
+      "exports",
+      "middle",
+      "oil",
+      "remarkable",
+      "stage"
+    ],
+    "ts": 1790881982.630605
+  },
+  {
+    "id": "oilprice-news-45658",
+    "title": "BLM Opens 35,000 California Acres to December Oil and Gas Lease Sale",
+    "tokens": [
+      "000",
+      "acres",
+      "blm",
+      "california",
+      "december",
+      "gas",
+      "lease",
+      "oil",
+      "opens",
+      "sale"
+    ],
+    "ts": 1790881986.6492221
+  },
+  {
+    "id": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
+    "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
+    "tokens": [
+      "000",
+      "call",
+      "ease",
+      "europeans",
+      "mica",
+      "restrictions",
+      "review",
+      "rewards",
+      "stablecoin"
+    ],
+    "ts": 1790881992.9113555
   }
 ]

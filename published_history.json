@@ -1,202 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/jpmorgan-appoints-mark-odonovan-as-head-of-human-resources-memo-says-4923189",
-    "title": "JPMorgan appoints Mark O’Donovan as head of human resources, memo says",
-    "tokens": [
-      "appoints",
-      "donovan",
-      "head",
-      "human",
-      "jpmorgan",
-      "mark",
-      "memo",
-      "resources"
-    ],
-    "ts": 1790701191.4808505
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/bayfirst-financial-revises-executive-contracts-for-coo-and-cfo-93CH-4923188",
-    "title": "BayFirst Financial revises executive contracts for COO and CFO",
-    "tokens": [
-      "bayfirst",
-      "cfo",
-      "contracts",
-      "coo",
-      "executive",
-      "financial",
-      "revises"
-    ],
-    "ts": 1790701199.0721407
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/boes-taylor-urges-caution-on-rate-hikes-as-secondround-inflation-risks-lag-4923177",
-    "title": "BOE’s Taylor urges caution on rate hikes as second-round inflation risks lag",
-    "tokens": [
-      "boe",
-      "caution",
-      "hikes",
-      "inflation",
-      "lag",
-      "rate",
-      "risks",
-      "round",
-      "second",
-      "taylor",
-      "urges"
-    ],
-    "ts": 1790701207.648906
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/feds-barr-says-more-rate-hikes-likely-to-be-needed-to-curb-inflation-4923176",
-    "title": "Fed’s Barr says more rate hikes likely to be needed to curb inflation",
-    "tokens": [
-      "barr",
-      "curb",
-      "fed",
-      "hikes",
-      "inflation",
-      "likely",
-      "more",
-      "needed",
-      "rate"
-    ],
-    "ts": 1790701215.4370008
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/bwxt-stock-hits-52week-low-at-13366-usd-93CH-4923175",
-    "title": "Bwxt stock hits 52-week low at 133.66 USD",
-    "tokens": [
-      "133",
-      "bwxt",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790701219.4538877
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/agronomics-portfolio-company-liberation-bioindustries-seeks-25m-93CH-4923171",
-    "title": "Agronomics portfolio company Liberation Bioindustries seeks $25m",
-    "tokens": [
-      "25m",
-      "agronomics",
-      "bioindustries",
-      "company",
-      "liberation",
-      "portfolio",
-      "seeks"
-    ],
-    "ts": 1790701223.6020002
-  },
-  {
-    "id": "oilprice-article-45632",
-    "title": "World's Tallest Dam Project Gets New Life With Fresh World Bank Funding",
-    "tokens": [
-      "bank",
-      "dam",
-      "fresh",
-      "funding",
-      "gets",
-      "life",
-      "project",
-      "tallest",
-      "world"
-    ],
-    "ts": 1790701231.919966
-  },
-  {
-    "id": "oilprice-news-45632",
-    "title": "Dangote Targets 10 Million Investors in Africa’s Biggest IPO",
-    "tokens": [
-      "africa",
-      "biggest",
-      "dangote",
-      "investors",
-      "ipo",
-      "million",
-      "targets"
-    ],
-    "ts": 1790701235.9379761
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-    "title": "Federal Reserve issues FOMC statement",
-    "tokens": [
-      "federal",
-      "fomc",
-      "issues",
-      "reserve",
-      "statement"
-    ],
-    "ts": 1790701239.793816
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-    "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-    "tokens": [
-      "board",
-      "committee",
-      "economic",
-      "federal",
-      "fomc",
-      "market",
-      "meeting",
-      "open",
-      "projections",
-      "release",
-      "reserve",
-      "september"
-    ],
-    "ts": 1790701247.6518035
-  },
-  {
-    "id": "WP-MKTW-0005258646",
-    "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
-    "tokens": [
-      "citi",
-      "closer",
-      "could",
-      "day",
-      "gets",
-      "one",
-      "spacex",
-      "starship",
-      "step",
-      "trillion",
-      "worth"
-    ],
-    "ts": 1790702285.6424656
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-2009-usd-93CH-4923247",
-    "title": "Cms Energy stock hits 52-week low at 20.09 USD",
-    "tokens": [
-      "cms",
-      "energy",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790703767.336187
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/copart-stock-hits-52week-low-at-268-usd-93CH-4923243",
-    "title": "Copart stock hits 52-week low at 26.8 USD",
-    "tokens": [
-      "copart",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790703767.3480127
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/canadian-institutions-should-not-fear-using-liquidity-facility-says-bank-of-canada-4923242",
     "title": "Canadian institutions should not fear using liquidity facility, says Bank of Canada",
     "tokens": [
@@ -22938,5 +22741,211 @@
       "why"
     ],
     "ts": 1790932667.5433347
+  },
+  {
+    "id": "WP-MKTW-0005266251",
+    "title": "Another viral AI doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
+    "tokens": [
+      "another",
+      "based",
+      "claims",
+      "could",
+      "disappear",
+      "doomsday",
+      "hit",
+      "home",
+      "jobs",
+      "prices",
+      "report",
+      "screen",
+      "take",
+      "viral",
+      "why"
+    ],
+    "ts": 1790934223.4540167
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/netflix-stock-analysis-is-it-a-buy-into-earnings-this-month-93CH-4929248",
+    "title": "Netflix stock analysis: Is it a buy into earnings this month?",
+    "tokens": [
+      "analysis",
+      "buy",
+      "earnings",
+      "month",
+      "netflix",
+      "stock"
+    ],
+    "ts": 1790934233.223571
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/wall-st-futures-gain-as-yields-oil-prices-ease-ahead-of-jobs-report-4929250",
+    "title": "Wall St futures gain as yields, oil prices ease ahead of jobs report",
+    "tokens": [
+      "ahead",
+      "ease",
+      "futures",
+      "gain",
+      "jobs",
+      "oil",
+      "prices",
+      "report",
+      "wall",
+      "yields"
+    ],
+    "ts": 1790934242.907018
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/brazil-next-usmidterms-coming-in-impactful-global-election-year-4929244",
+    "title": "Brazil next, US midterms coming, in impactful global election year",
+    "tokens": [
+      "brazil",
+      "coming",
+      "election",
+      "global",
+      "impactful",
+      "midterms",
+      "next",
+      "year"
+    ],
+    "ts": 1790934251.4225276
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/hedge-funds-struggle-for-september-gains-as-rate-ai-swings-bite-4929243",
+    "title": "Hedge funds struggle for September gains as rate, AI swings bite",
+    "tokens": [
+      "bite",
+      "funds",
+      "gains",
+      "hedge",
+      "rate",
+      "september",
+      "struggle",
+      "swings"
+    ],
+    "ts": 1790934259.6838481
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/clsa-raises-micron-stock-price-target-on-strong-memory-pricing-outlook-93CH-4929242",
+    "title": "CLSA raises Micron stock price target on strong memory pricing outlook",
+    "tokens": [
+      "clsa",
+      "memory",
+      "micron",
+      "outlook",
+      "price",
+      "pricing",
+      "raises",
+      "stock",
+      "strong",
+      "target"
+    ],
+    "ts": 1790934268.910239
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-liquidia-stock-rating-on-patent-ruling-concerns-93CH-4929241",
+    "title": "Wells Fargo cuts Liquidia stock rating on patent ruling concerns",
+    "tokens": [
+      "concerns",
+      "cuts",
+      "fargo",
+      "liquidia",
+      "patent",
+      "rating",
+      "ruling",
+      "stock",
+      "wells"
+    ],
+    "ts": 1790934278.0006428
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tanker-struck-by-projectile-in-strait-of-hormuz-93CH-4929240",
+    "title": "Tanker struck by projectile in Strait of Hormuz",
+    "tokens": [
+      "hormuz",
+      "projectile",
+      "strait",
+      "struck",
+      "tanker"
+    ],
+    "ts": 1790934287.1722395
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/europe-discussing-plan-for-diesel-stock-releases-after-us-pressure-source-says-4929100",
+    "title": "Exclusive-Europe weighs new diesel stocks release after US pressure, sources say",
+    "tokens": [
+      "diesel",
+      "europe",
+      "exclusive",
+      "pressure",
+      "release",
+      "say",
+      "sources",
+      "stocks",
+      "weighs"
+    ],
+    "ts": 1790934295.732477
+  },
+  {
+    "id": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k",
+    "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+    "tokens": [
+      "305k",
+      "aave",
+      "adapter",
+      "drains",
+      "exploit",
+      "founder",
+      "party",
+      "third",
+      "unaffected"
+    ],
+    "ts": 1790934304.758637
+  },
+  {
+    "id": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft",
+    "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
+    "tokens": [
+      "ends",
+      "four",
+      "haul",
+      "less",
+      "long",
+      "porsche",
+      "project",
+      "web3",
+      "years"
+    ],
+    "ts": 1790934312.8256817
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "title": "Federal Reserve issues FOMC statement",
+    "tokens": [
+      "federal",
+      "fomc",
+      "issues",
+      "reserve",
+      "statement"
+    ],
+    "ts": 1790934320.639686
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+    "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "tokens": [
+      "board",
+      "committee",
+      "economic",
+      "federal",
+      "fomc",
+      "market",
+      "meeting",
+      "open",
+      "projections",
+      "release",
+      "reserve",
+      "september"
+    ],
+    "ts": 1790934328.3347466
   }
 ]

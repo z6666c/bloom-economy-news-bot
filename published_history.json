@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/canadian-institutions-should-not-fear-using-liquidity-facility-says-bank-of-canada-4923242",
-    "title": "Canadian institutions should not fear using liquidity facility, says Bank of Canada",
-    "tokens": [
-      "bank",
-      "canada",
-      "canadian",
-      "facility",
-      "fear",
-      "institutions",
-      "liquidity",
-      "should",
-      "using"
-    ],
-    "ts": 1790703771.934954
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/onceiconic-nyc-wine-seller-sherrylehmann-loses-lawsuit-over-alleged-smear-campaign-4923218",
     "title": "Once-iconic NYC wine seller Sherry-Lehmann loses lawsuit over alleged smear campaign",
     "tokens": [
@@ -22947,5 +22931,19 @@
       "september"
     ],
     "ts": 1790934328.3347466
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher",
+    "title": "Bitcoin reaches for $87K as short liquidations top $120M",
+    "tokens": [
+      "120m",
+      "87k",
+      "bitcoin",
+      "liquidations",
+      "reaches",
+      "short",
+      "top"
+    ],
+    "ts": 1790935072.8125567
   }
 ]

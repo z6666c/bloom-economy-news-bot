@@ -1,38 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/japans-tdk-taiyo-yuden-shares-rise-on-ai-electronics-partnership-4924064",
-    "title": "Japan’s TDK, Taiyo Yuden shares rise on AI electronics partnership",
-    "tokens": [
-      "electronics",
-      "japan",
-      "partnership",
-      "rise",
-      "shares",
-      "taiyo",
-      "tdk",
-      "yuden"
-    ],
-    "ts": 1790744290.554154
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/fed-rate-hike-bets-for-oct-fall-sharply-on-soft-data-dovish-comments-4924063",
-    "title": "Fed rate hike bets for Oct fall sharply on soft data, dovish comments",
-    "tokens": [
-      "bets",
-      "comments",
-      "data",
-      "dovish",
-      "fall",
-      "fed",
-      "hike",
-      "oct",
-      "rate",
-      "sharply",
-      "soft"
-    ],
-    "ts": 1790744298.9387934
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/morning-bid-a-cruel-quarter-for-bonds-4924062",
     "title": "Morning Bid: A cruel quarter for bonds",
     "tokens": [
@@ -22844,5 +22811,35 @@
       "shield"
     ],
     "ts": 1790968601.653103
+  },
+  {
+    "id": "WP-MKTW-0005267516",
+    "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
+    "tokens": [
+      "anthropic",
+      "clash",
+      "does",
+      "leo",
+      "pope",
+      "soul"
+    ],
+    "ts": 1790970219.0039876
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/fitch-revises-lkq-outlook-to-stable-on-sluggish-claims-volume-and-share-buybacks-4930337",
+    "title": "Fitch revises LKQ outlook to stable on sluggish claims volume and share buybacks",
+    "tokens": [
+      "buybacks",
+      "claims",
+      "fitch",
+      "lkq",
+      "outlook",
+      "revises",
+      "share",
+      "sluggish",
+      "stable",
+      "volume"
+    ],
+    "ts": 1790970228.9843109
   }
 ]

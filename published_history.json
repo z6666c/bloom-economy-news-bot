@@ -1,96 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/transdigm-acquires-prince--izant-for-1066-billion-93CH-4922814",
-    "title": "TransDigm acquires Prince & Izant for $1.066 billion",
-    "tokens": [
-      "066",
-      "acquires",
-      "billion",
-      "izant",
-      "prince",
-      "transdigm"
-    ],
-    "ts": 1790689056.6584306
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/10x-genomics-launches-sentira-cloud-analysis-platform-93CH-4922812",
-    "title": "10x Genomics launches Sentira cloud analysis platform",
-    "tokens": [
-      "10x",
-      "analysis",
-      "cloud",
-      "genomics",
-      "launches",
-      "platform",
-      "sentira"
-    ],
-    "ts": 1790689063.7012444
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin",
-    "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
-    "tokens": [
-      "2029",
-      "600k",
-      "bitcoin",
-      "brandt",
-      "calls",
-      "coin",
-      "fool",
-      "hit",
-      "may",
-      "peter",
-      "xrp"
-    ],
-    "ts": 1790689074.3102067
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/affiliated-managers-group-stock-hits-52week-low-at-1907-usd-93CH-4922928",
-    "title": "Affiliated Managers Group stock hits 52-week low at 19.07 USD",
-    "tokens": [
-      "affiliated",
-      "group",
-      "hits",
-      "low",
-      "managers",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790690255.191634
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/explainersenegals-44-billion-debt-dilemma-to-whom-does-it-owe-money-and-why-it-matters-4922665",
-    "title": "Senegal’s $44 billion debt dilemma: To whom does it owe money and why it matters",
-    "tokens": [
-      "billion",
-      "debt",
-      "dilemma",
-      "does",
-      "matters",
-      "money",
-      "owe",
-      "senegal",
-      "whom",
-      "why"
-    ],
-    "ts": 1790690264.9387894
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sp-nasdaq-open-higher-on-oil-retreat-tech-optimism-4922926",
-    "title": "S&P, Nasdaq open higher on oil retreat, tech optimism",
-    "tokens": [
-      "higher",
-      "nasdaq",
-      "oil",
-      "open",
-      "optimism",
-      "retreat",
-      "tech"
-    ],
-    "ts": 1790690273.2822921
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/repligen-stock-price-target-reaffirmed-at-225-by-ubs-on-growth-outlook-93CH-4922925",
     "title": "Repligen stock price target reaffirmed at $225 by UBS on growth outlook",
     "tokens": [
@@ -22937,5 +22846,92 @@
       "seeks"
     ],
     "ts": 1790916988.015226
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-li-ning-stock-falling-today-93CH-4928887",
+    "title": "Why is Li Ning stock falling today?",
+    "tokens": [
+      "falling",
+      "ning",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790917955.8555682
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/monzo-explores-private-equity-options-after-nubank-deal-falls-through-ft-93CH-4928886",
+    "title": "Monzo explores private equity options after Nubank deal falls through- FT",
+    "tokens": [
+      "deal",
+      "equity",
+      "explores",
+      "falls",
+      "monzo",
+      "nubank",
+      "options",
+      "private",
+      "through"
+    ],
+    "ts": 1790917964.1984308
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-energy-stocks-rise-as-middle-east-tensions-lift-oil-4928883",
+    "title": "Asia energy stocks rise as Middle East tensions lift oil",
+    "tokens": [
+      "asia",
+      "east",
+      "energy",
+      "lift",
+      "middle",
+      "oil",
+      "rise",
+      "stocks",
+      "tensions"
+    ],
+    "ts": 1790917971.6239703
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/broadcom-starts-amassing-60-bln-to-fund-chips-for-anthropic-bloomberg-4928882",
+    "title": "Broadcom starts amassing $60 bln to fund chips for Anthropic- Bloomberg",
+    "tokens": [
+      "amassing",
+      "anthropic",
+      "bln",
+      "bloomberg",
+      "broadcom",
+      "chips",
+      "fund",
+      "starts"
+    ],
+    "ts": 1790917979.1401758
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/morning-bid-can-treasuries-rally-for-a-second-day-4928881",
+    "title": "Morning Bid: Can Treasuries rally for a second day?",
+    "tokens": [
+      "bid",
+      "can",
+      "day",
+      "morning",
+      "rally",
+      "second",
+      "treasuries"
+    ],
+    "ts": 1790917986.8231587
+  },
+  {
+    "id": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback",
+    "title": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
+    "tokens": [
+      "before",
+      "blockchain",
+      "created",
+      "exploiter",
+      "rollback",
+      "unauthorized",
+      "zano"
+    ],
+    "ts": 1790917996.1674056
   }
 ]

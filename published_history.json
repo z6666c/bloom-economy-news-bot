@@ -1,63 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/jpmorgan-cuts-mondaycom-to-neutral-on-slowing-growth-4922703",
-    "title": "JPMorgan cuts Monday.com to Neutral on slowing growth",
-    "tokens": [
-      "com",
-      "cuts",
-      "growth",
-      "jpmorgan",
-      "monday",
-      "neutral",
-      "slowing"
-    ],
-    "ts": 1790687644.2357273
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/vivos-therapeutics-plans-36m-annual-cost-reduction-93CH-4922702",
-    "title": "Vivos Therapeutics plans $3.6M annual cost reduction",
-    "tokens": [
-      "annual",
-      "cost",
-      "plans",
-      "reduction",
-      "therapeutics",
-      "vivos"
-    ],
-    "ts": 1790687651.7764034
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-aar-tops-q1-2026-estimates-as-shares-rise-premarket-93CH-4922701",
-    "title": "Earnings call transcript: AAR tops Q1 2026 estimates as shares rise premarket",
-    "tokens": [
-      "2026",
-      "aar",
-      "call",
-      "earnings",
-      "estimates",
-      "premarket",
-      "rise",
-      "shares",
-      "tops",
-      "transcript"
-    ],
-    "ts": 1790687660.2254398
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/moleculin-completes-enrollment-in-annamycin-aml-trial-part-a-93CH-4922700",
-    "title": "Moleculin completes enrollment in Annamycin AML trial Part A",
-    "tokens": [
-      "aml",
-      "annamycin",
-      "completes",
-      "enrollment",
-      "moleculin",
-      "part",
-      "trial"
-    ],
-    "ts": 1790687668.115122
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/us-cdc-confirms-two-measlesrelated-deaths-in-2026-4922699",
     "title": "US CDC confirms two measles-related deaths in 2026",
     "tokens": [
@@ -22930,5 +22872,68 @@
       "technology"
     ],
     "ts": 1790910755.0821335
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-ahead-of-us-jobs-data-hong-kong-shares-drop-3-4928868",
+    "title": "Asia stocks mixed ahead of U.S. jobs data; Hong Kong shares drop 3%",
+    "tokens": [
+      "ahead",
+      "asia",
+      "data",
+      "drop",
+      "hong",
+      "jobs",
+      "kong",
+      "mixed",
+      "shares",
+      "stocks"
+    ],
+    "ts": 1790913360.3716214
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/japan-does-not-need-excessively-loose-monetary-policy-economy-minister-says-4928867",
+    "title": "Japan does not need excessively loose monetary policy, economy minister says",
+    "tokens": [
+      "does",
+      "economy",
+      "excessively",
+      "japan",
+      "loose",
+      "minister",
+      "monetary",
+      "need",
+      "policy"
+    ],
+    "ts": 1790913368.3817077
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/refining-stocks-rallied-this-week-one-aipicked-energy-name-is-up-1069-4928856",
+    "title": "Refining stocks rallied this week, one AI-picked energy name is up 10.69%",
+    "tokens": [
+      "energy",
+      "name",
+      "one",
+      "picked",
+      "rallied",
+      "refining",
+      "stocks",
+      "week"
+    ],
+    "ts": 1790913375.5297787
+  },
+  {
+    "id": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet",
+    "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+    "tokens": [
+      "api",
+      "brings",
+      "ethereum",
+      "mainnet",
+      "payments",
+      "preserving",
+      "privacy",
+      "zkapi"
+    ],
+    "ts": 1790913385.0799012
   }
 ]

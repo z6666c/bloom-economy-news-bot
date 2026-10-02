@@ -1,188 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-alerts-dicks-sporting-goods-inc.-dks-investors-to-an-approaching-lead-plaintiff-deadline-on-november-3-2026-1036583102",
-    "title": "Kaplan Fox Alerts DICK's Sporting Goods, Inc. (DKS) Investors to an Approaching Lead Plaintiff Deadline on November 3, 2026",
-    "tokens": [
-      "2026",
-      "alerts",
-      "approaching",
-      "deadline",
-      "dick",
-      "dks",
-      "fox",
-      "goods",
-      "inc",
-      "investors",
-      "kaplan",
-      "lead",
-      "november",
-      "plaintiff",
-      "sporting"
-    ],
-    "ts": 1790710340.2092555
-  },
-  {
-    "id": "https://seekingalpha.com/news/4648184-jabil-q4-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Jabil Q4 2026 Earnings Preview",
-    "tokens": [
-      "2026",
-      "earnings",
-      "jabil",
-      "preview"
-    ],
-    "ts": 1790710347.7394204
-  },
-  {
-    "id": "https://seekingalpha.com/news/4648182-factset-research-systems-q4-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "FactSet Research Systems Q4 2026 Earnings Preview",
-    "tokens": [
-      "2026",
-      "earnings",
-      "factset",
-      "preview",
-      "research",
-      "systems"
-    ],
-    "ts": 1790710355.155507
-  },
-  {
-    "id": "WP-MKTW-0005258446",
-    "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
-    "tokens": [
-      "acquisition",
-      "amd",
-      "billion",
-      "isn",
-      "labs",
-      "prize",
-      "real",
-      "think",
-      "what",
-      "world",
-      "you"
-    ],
-    "ts": 1790711702.817626
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/entertainment-sector-stock-outlook-disney-leads-amid-streaming-and-livesports-tailwinds-93CH-4923375",
-    "title": "Entertainment sector stock outlook: Disney leads amid streaming and live-sports tailwinds",
-    "tokens": [
-      "disney",
-      "entertainment",
-      "leads",
-      "live",
-      "outlook",
-      "sector",
-      "sports",
-      "stock",
-      "streaming",
-      "tailwinds"
-    ],
-    "ts": 1790711710.861302
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/lmt-gd-and-rtx-value-quality-and-pairs-trade-opportunities-compared-93CH-4923374",
-    "title": "LMT, GD and RTX: value, quality and pairs trade opportunities compared",
-    "tokens": [
-      "compared",
-      "lmt",
-      "opportunities",
-      "pairs",
-      "quality",
-      "rtx",
-      "trade",
-      "value"
-    ],
-    "ts": 1790711719.3967695
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/atico-mining-secures-95m-financing-for-la-plata-project-93CH-4923373",
-    "title": "Atico Mining secures $95M financing for La Plata project",
-    "tokens": [
-      "95m",
-      "atico",
-      "financing",
-      "mining",
-      "plata",
-      "project",
-      "secures"
-    ],
-    "ts": 1790711726.965324
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hii-achieves-preliminary-acceptance-of-aircraft-carrier-cvn-79-93CH-4923395",
-    "title": "HII achieves preliminary acceptance of aircraft carrier CVN 79",
-    "tokens": [
-      "acceptance",
-      "achieves",
-      "aircraft",
-      "carrier",
-      "cvn",
-      "hii",
-      "preliminary"
-    ],
-    "ts": 1790712741.346743
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/lundbeck-approaches-xeris-biopharma-over-potential-takeover-bloomberg-reports-4923390",
-    "title": "Lundbeck approaches Xeris Biopharma over potential takeover, Bloomberg reports",
-    "tokens": [
-      "approaches",
-      "biopharma",
-      "bloomberg",
-      "lundbeck",
-      "potential",
-      "reports",
-      "takeover",
-      "xeris"
-    ],
-    "ts": 1790712750.8910944
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/kratos-defense-stock-hits-52week-low-at-4308-93CH-4923388",
-    "title": "Kratos Defense stock hits 52-week low at $43.08",
-    "tokens": [
-      "defense",
-      "hits",
-      "kratos",
-      "low",
-      "stock",
-      "week"
-    ],
-    "ts": 1790712758.8262162
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/netflix-stock-analysis-is-todays-deutsche-bank-upgrade-justified-93CH-4923386",
-    "title": "Netflix stock analysis: is today’s Deutsche Bank upgrade justified?",
-    "tokens": [
-      "analysis",
-      "bank",
-      "deutsche",
-      "justified",
-      "netflix",
-      "stock",
-      "today",
-      "upgrade"
-    ],
-    "ts": 1790712767.2866526
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/index-rebalance-arbitrage-how-traders-profit-from-passive-fund-mechanics-93CH-4923385",
-    "title": "Index rebalance arbitrage: how traders profit from passive fund mechanics",
-    "tokens": [
-      "arbitrage",
-      "fund",
-      "how",
-      "index",
-      "mechanics",
-      "passive",
-      "profit",
-      "rebalance",
-      "traders"
-    ],
-    "ts": 1790712775.2224476
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/china-tech-picks-pdd-jdcom-alibaba-and-baidu-compared-93CH-4923384",
     "title": "China tech picks: PDD, JD.com, Alibaba, and Baidu compared",
     "tokens": [
@@ -22871,5 +22688,174 @@
       "tokenized"
     ],
     "ts": 1790942255.2728212
+  },
+  {
+    "id": "WP-MKTW-0005257658",
+    "title": "To win the humanoid-robots race, the U.S. needs this critical machine component that’s hard to find",
+    "tokens": [
+      "component",
+      "critical",
+      "find",
+      "hard",
+      "humanoid",
+      "machine",
+      "needs",
+      "race",
+      "robots",
+      "win"
+    ],
+    "ts": 1790944852.7038007
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ruanyun-edai-expects-firsthalf-revenue-of-up-to-95-million-93CH-4929796",
+    "title": "Ruanyun Edai expects first-half revenue of up to $9.5 million",
+    "tokens": [
+      "edai",
+      "expects",
+      "first",
+      "half",
+      "million",
+      "revenue",
+      "ruanyun"
+    ],
+    "ts": 1790944860.598181
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/rivian-deliveries-hit-record-high-as-r2-rollout-gains-momentum-4929797",
+    "title": "Rivian deliveries hit record high as R2 rollout gains momentum",
+    "tokens": [
+      "deliveries",
+      "gains",
+      "high",
+      "hit",
+      "momentum",
+      "record",
+      "rivian",
+      "rollout"
+    ],
+    "ts": 1790944869.1775465
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-ast-spacemobile-stock-gaining-today-93CH-4929795",
+    "title": "Why is AST SpaceMobile stock gaining today?",
+    "tokens": [
+      "ast",
+      "gaining",
+      "spacemobile",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790944877.7546895
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/su-group-announces-1for6-reverse-stock-split-effective-oct-7-93CH-4929792",
+    "title": "SU Group announces 1-for-6 reverse stock split effective Oct. 7",
+    "tokens": [
+      "announces",
+      "effective",
+      "group",
+      "oct",
+      "reverse",
+      "split",
+      "stock"
+    ],
+    "ts": 1790944885.4496627
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/powerus-completes-merger-begins-trading-on-nasdaq-93CH-4929793",
+    "title": "Powerus completes merger, begins trading on Nasdaq",
+    "tokens": [
+      "begins",
+      "completes",
+      "merger",
+      "nasdaq",
+      "powerus",
+      "trading"
+    ],
+    "ts": 1790944889.4587367
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/flux-power-rejects-solidion-acquisition-proposal-93CH-4929794",
+    "title": "Flux Power rejects Solidion acquisition proposal",
+    "tokens": [
+      "acquisition",
+      "flux",
+      "power",
+      "proposal",
+      "rejects",
+      "solidion"
+    ],
+    "ts": 1790944897.9106882
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cycurion-regains-nasdaq-minimum-bid-price-compliance-93CH-4929789",
+    "title": "Cycurion regains Nasdaq minimum bid price compliance",
+    "tokens": [
+      "bid",
+      "compliance",
+      "cycurion",
+      "minimum",
+      "nasdaq",
+      "price",
+      "regains"
+    ],
+    "ts": 1790944907.3355813
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cleveland-hopkins-airport-to-deploy-liberty-defense-screening-systems-93CH-4929790",
+    "title": "Cleveland Hopkins airport to deploy Liberty Defense screening systems",
+    "tokens": [
+      "airport",
+      "cleveland",
+      "defense",
+      "deploy",
+      "hopkins",
+      "liberty",
+      "screening",
+      "systems"
+    ],
+    "ts": 1790944915.9926388
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/verra-mobility-names-jon-newhard-as-new-ceo-93CH-4929791",
+    "title": "Verra Mobility names Jon Newhard as new CEO",
+    "tokens": [
+      "ceo",
+      "jon",
+      "mobility",
+      "names",
+      "newhard",
+      "verra"
+    ],
+    "ts": 1790944925.9955673
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/5e-advanced-materials-completes-searles-valley-acquisition-93CH-4929786",
+    "title": "5E Advanced Materials completes Searles Valley acquisition",
+    "tokens": [
+      "acquisition",
+      "advanced",
+      "completes",
+      "materials",
+      "searles",
+      "valley"
+    ],
+    "ts": 1790944934.552164
+  },
+  {
+    "id": "a2305041-eb99-4205-8c7a-0d5f0eeffd61",
+    "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
+    "tokens": [
+      "000",
+      "added",
+      "jobs",
+      "just",
+      "rate",
+      "rising",
+      "september",
+      "unemployment"
+    ],
+    "ts": 1790944944.9333506
   }
 ]

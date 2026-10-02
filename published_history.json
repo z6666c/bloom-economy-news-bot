@@ -1,188 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/sec-filings/angel-oak-mortgage-reit-extends-financing-facility-lowers-interest-rate-spread-93CH-4923770",
-    "title": "Angel Oak Mortgage REIT extends financing facility, lowers interest rate spread",
-    "tokens": [
-      "angel",
-      "extends",
-      "facility",
-      "financing",
-      "interest",
-      "lowers",
-      "mortgage",
-      "oak",
-      "rate",
-      "reit",
-      "spread"
-    ],
-    "ts": 1790721166.7490222
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-cuts-stryker-stock-price-target-on-revenue-pressures-93CH-4923769",
-    "title": "Stifel cuts Stryker stock price target on revenue pressures",
-    "tokens": [
-      "cuts",
-      "pressures",
-      "price",
-      "revenue",
-      "stifel",
-      "stock",
-      "stryker",
-      "target"
-    ],
-    "ts": 1790721176.382518
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-    "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-    "tokens": [
-      "actions",
-      "american",
-      "bank",
-      "board",
-      "company",
-      "employee",
-      "enforcement",
-      "express",
-      "federal",
-      "former",
-      "inc",
-      "issues",
-      "northstar",
-      "regions",
-      "related",
-      "reserve",
-      "services",
-      "travel"
-    ],
-    "ts": 1790721186.0077055
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-    "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-    "tokens": [
-      "action",
-      "announces",
-      "bancshares",
-      "bank",
-      "board",
-      "enforcement",
-      "eufaula",
-      "federal",
-      "reserve",
-      "snb",
-      "termination"
-    ],
-    "ts": 1790721194.5556135
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/newmont-at-mining-forum-americas-2026-cash-flow-buybacks-and-growth-93CH-4923805",
-    "title": "Newmont at Mining Forum Americas 2026: cash flow, buybacks and growth",
-    "tokens": [
-      "2026",
-      "americas",
-      "buybacks",
-      "cash",
-      "flow",
-      "forum",
-      "growth",
-      "mining",
-      "newmont"
-    ],
-    "ts": 1790722397.7631166
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/omai-gold-mines-at-mining-forum-americas-2026-scale-drives-growth-93CH-4923804",
-    "title": "Omai Gold Mines at Mining Forum Americas 2026: scale drives growth",
-    "tokens": [
-      "2026",
-      "americas",
-      "drives",
-      "forum",
-      "gold",
-      "growth",
-      "mines",
-      "mining",
-      "omai",
-      "scale"
-    ],
-    "ts": 1790722402.8445365
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/rezolve-ai-at-lytham-partners-betting-on-agentic-commerce-93CH-4923803",
-    "title": "Rezolve AI at Lytham Partners: betting on agentic commerce",
-    "tokens": [
-      "agentic",
-      "betting",
-      "commerce",
-      "lytham",
-      "partners",
-      "rezolve"
-    ],
-    "ts": 1790722410.28277
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/stablecoin-development-corp-addresses-unusual-trading-activity-reports-no-new-developments-93CH-4923802",
-    "title": "Stablecoin Development Corp addresses unusual trading activity, reports no new developments",
-    "tokens": [
-      "activity",
-      "addresses",
-      "corp",
-      "development",
-      "developments",
-      "reports",
-      "stablecoin",
-      "trading",
-      "unusual"
-    ],
-    "ts": 1790722418.063241
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/goldman-private-credit-fund-defies-industry-elevated-withdrawal-trend-again-yet-again-4923801",
-    "title": "Goldman private credit fund defies industry elevated withdrawal trend again yet again",
-    "tokens": [
-      "again",
-      "credit",
-      "defies",
-      "elevated",
-      "fund",
-      "goldman",
-      "industry",
-      "private",
-      "trend",
-      "withdrawal",
-      "yet"
-    ],
-    "ts": 1790722426.7619975
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trump-releases-ai-accord-with-tech-executives-4923759",
-    "title": "Trump releases AI accord with tech executives",
-    "tokens": [
-      "accord",
-      "executives",
-      "releases",
-      "tech",
-      "trump"
-    ],
-    "ts": 1790722435.1027157
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/boeing-wins-us-navys-nextgeneration-fighter-contract-sources-say-4923747",
-    "title": "Boeing wins US Navy’s next-generation fighter contract, Pentagon says",
-    "tokens": [
-      "boeing",
-      "contract",
-      "fighter",
-      "generation",
-      "navy",
-      "next",
-      "pentagon",
-      "wins"
-    ],
-    "ts": 1790722442.2938526
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/company-at-mining-forum-americas-2026-growth-cash-flow-and-new-assets-93CH-4923797",
     "title": "Company at Mining Forum Americas 2026: growth, cash flow and new assets",
     "tokens": [
@@ -22833,5 +22650,183 @@
       "reserve"
     ],
     "ts": 1790953355.185262
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/dutch-eyewear-chain-hans-anders-halts-sale-of-meta-glasses-citing-privacy-concerns-4930121",
+    "title": "Dutch eyewear chain Hans Anders halts sale of Meta glasses, citing privacy concerns",
+    "tokens": [
+      "anders",
+      "chain",
+      "citing",
+      "concerns",
+      "dutch",
+      "eyewear",
+      "glasses",
+      "halts",
+      "hans",
+      "meta",
+      "privacy",
+      "sale"
+    ],
+    "ts": 1790955129.6803944
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-allegro-microsystems-stock-surging-today-93CH-4930120",
+    "title": "Why is Allegro Microsystems stock surging today?",
+    "tokens": [
+      "allegro",
+      "microsystems",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790955139.6021526
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/amentum-holdings-stock-hits-52week-low-at-1788-usd-93CH-4930119",
+    "title": "Amentum Holdings stock hits 52-week low at 17.88 USD",
+    "tokens": [
+      "amentum",
+      "hits",
+      "holdings",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790955143.6167088
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-094-4930116",
+    "title": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.94%",
+    "tokens": [
+      "all",
+      "close",
+      "lower",
+      "moroccan",
+      "morocco",
+      "shares",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790955143.6334972
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nhpbp-stock-hits-52week-high-at-2546-usd-93CH-4930115",
+    "title": "NHPBP stock hits 52-week high at 25.46 USD",
+    "tokens": [
+      "high",
+      "hits",
+      "nhpbp",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790955143.6597652
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/chinese-auto-show-debuts-in-argentina-as-their-sales-surge-4930114",
+    "title": "Chinese auto show debuts in Argentina as their sales surge",
+    "tokens": [
+      "argentina",
+      "auto",
+      "chinese",
+      "debuts",
+      "sales",
+      "show",
+      "surge",
+      "their"
+    ],
+    "ts": 1790955150.4014122
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/uranium-energy-corp-ticks-up-as-rbc-highlights-domestic-supply-chain-ambitions-4930113",
+    "title": "Uranium Energy Corp. ticks up as RBC highlights domestic supply chain ambitions",
+    "tokens": [
+      "ambitions",
+      "chain",
+      "corp",
+      "domestic",
+      "energy",
+      "highlights",
+      "rbc",
+      "supply",
+      "ticks",
+      "uranium"
+    ],
+    "ts": 1790955159.8515935
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/biomarin-presents-fiveyear-data-on-pompe-disease-treatment-93CH-4930112",
+    "title": "BioMarin presents five-year data on Pompe disease treatment",
+    "tokens": [
+      "biomarin",
+      "data",
+      "disease",
+      "five",
+      "pompe",
+      "presents",
+      "treatment",
+      "year"
+    ],
+    "ts": 1790955168.626665
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/iag-launches-final-500m-share-buyback-program-93CH-4930111",
+    "title": "IAG launches final €500m share buyback program",
+    "tokens": [
+      "500m",
+      "buyback",
+      "final",
+      "iag",
+      "launches",
+      "program",
+      "share"
+    ],
+    "ts": 1790955178.1662626
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+    "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+    "tokens": [
+      "action",
+      "announces",
+      "bancshares",
+      "bank",
+      "board",
+      "enforcement",
+      "eufaula",
+      "federal",
+      "reserve",
+      "snb",
+      "termination"
+    ],
+    "ts": 1790955188.7350585
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+    "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+    "tokens": [
+      "actions",
+      "american",
+      "bank",
+      "board",
+      "company",
+      "employee",
+      "enforcement",
+      "express",
+      "federal",
+      "former",
+      "inc",
+      "issues",
+      "northstar",
+      "regions",
+      "related",
+      "reserve",
+      "services",
+      "travel"
+    ],
+    "ts": 1790955196.6577768
   }
 ]

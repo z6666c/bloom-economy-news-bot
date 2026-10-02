@@ -1,65 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/un-expands-list-of-companies-linked-to-israeli-settlements-4922915",
-    "title": "UN expands list of companies linked to Israeli settlements",
-    "tokens": [
-      "companies",
-      "expands",
-      "israeli",
-      "linked",
-      "list",
-      "settlements"
-    ],
-    "ts": 1790690310.4791665
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/aurora-at-evercore-forum-driverless-trucking-moves-toward-scale-93CH-4922914",
-    "title": "Aurora at Evercore forum: driverless trucking moves toward scale",
-    "tokens": [
-      "aurora",
-      "driverless",
-      "evercore",
-      "forum",
-      "moves",
-      "scale",
-      "toward",
-      "trucking"
-    ],
-    "ts": 1790690317.8996556
-  },
-  {
-    "id": "WP-MKTW-0005258594",
-    "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
-    "tokens": [
-      "according",
-      "beginners",
-      "cards",
-      "guy",
-      "make",
-      "mistake",
-      "points",
-      "travel"
-    ],
-    "ts": 1790691416.6291518
-  },
-  {
-    "id": "WP-MKTW-0005257167",
-    "title": "My kids don’t want my decades’ worth of stuff. Here’s how I’m learning to let go of it.",
-    "tokens": [
-      "decades",
-      "don",
-      "here",
-      "how",
-      "kids",
-      "learning",
-      "let",
-      "stuff",
-      "want",
-      "worth"
-    ],
-    "ts": 1790691425.1781473
-  },
-  {
     "id": "WP-MKTW-0005257623",
     "title": "Junk bonds are heading for worst month since 2022 after punishing global selloff",
     "tokens": [
@@ -22937,5 +22877,62 @@
       "tokenized"
     ],
     "ts": 1790919085.7049165
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
+    "title": "Bitcoin rises to $86.5k with ‘uptober’ hopes, nonfarm payrolls in focus",
+    "tokens": [
+      "bitcoin",
+      "focus",
+      "hopes",
+      "nonfarm",
+      "payrolls",
+      "rises",
+      "uptober"
+    ],
+    "ts": 1790920520.2371132
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/softbank-shares-slide-after-completing-final-tranche-of-openai-investment-4928896",
+    "title": "SoftBank shares slide after completing final tranche of OpenAI investment",
+    "tokens": [
+      "completing",
+      "final",
+      "investment",
+      "openai",
+      "shares",
+      "slide",
+      "softbank",
+      "tranche"
+    ],
+    "ts": 1790920527.843446
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-congressman-demands-starbucks-close-its-first-stores-in-chinas-xinjiang-4928893",
+    "title": "US congressman demands Starbucks close its first stores in China’s Xinjiang",
+    "tokens": [
+      "china",
+      "close",
+      "congressman",
+      "demands",
+      "first",
+      "starbucks",
+      "stores",
+      "xinjiang"
+    ],
+    "ts": 1790920535.304983
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-sliding-today-93CH-4928892",
+    "title": "Why is SoftBank Group stock sliding today?",
+    "tokens": [
+      "group",
+      "sliding",
+      "softbank",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790920544.209968
   }
 ]

@@ -1,18 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/fingermotion-to-acquire-alberta-power-site-for-23-million-93CH-4923440",
-    "title": "FingerMotion to acquire Alberta power site for $2.3 million",
-    "tokens": [
-      "acquire",
-      "alberta",
-      "fingermotion",
-      "million",
-      "power",
-      "site"
-    ],
-    "ts": 1790713931.605892
-  },
-  {
     "id": "https://www.investing.com/news/company-news/dyne-reports-12month-data-for-dm1-drug-zbasivarsen-93CH-4923441",
     "title": "Dyne reports 12-month data for DM1 drug z-basivarsen",
     "tokens": [
@@ -22852,5 +22839,21 @@
       "resolution"
     ],
     "ts": 1790946065.806641
+  },
+  {
+    "id": "WP-MKTW-0005266734",
+    "title": "Why Western Digital and Seagate are seeing big stock drops today",
+    "tokens": [
+      "big",
+      "digital",
+      "drops",
+      "seagate",
+      "seeing",
+      "stock",
+      "today",
+      "western",
+      "why"
+    ],
+    "ts": 1790947281.4669206
   }
 ]

@@ -1,78 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/repligen-stock-price-target-reaffirmed-at-225-by-ubs-on-growth-outlook-93CH-4922925",
-    "title": "Repligen stock price target reaffirmed at $225 by UBS on growth outlook",
-    "tokens": [
-      "225",
-      "growth",
-      "outlook",
-      "price",
-      "reaffirmed",
-      "repligen",
-      "stock",
-      "target",
-      "ubs"
-    ],
-    "ts": 1790690280.390626
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-carvana-stock-rallying-today-93CH-4922924",
-    "title": "Why is Carvana stock rallying today?",
-    "tokens": [
-      "carvana",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790690284.4065049
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/qumulusai-stock-surges-on-2409m-nvidia-gpu-contracts-4922854",
-    "title": "QumulusAI stock falls amid $240.9M Nvidia GPU contracts",
-    "tokens": [
-      "240",
-      "contracts",
-      "falls",
-      "gpu",
-      "nvidia",
-      "qumulusai",
-      "stock"
-    ],
-    "ts": 1790690288.396803
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/gaia-director-paul-sutherland-buys-2610-in-class-a-common-stock-93CH-4922923",
-    "title": "Gaia director Paul Sutherland buys $2,610 in class a common stock",
-    "tokens": [
-      "610",
-      "buys",
-      "class",
-      "common",
-      "director",
-      "gaia",
-      "paul",
-      "stock",
-      "sutherland"
-    ],
-    "ts": 1790690295.5037334
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/scotts-miraclegro-stock-hits-52week-low-at-4802-usd-93CH-4922917",
-    "title": "Scotts Miracle-Gro stock hits 52-week low at 48.02 USD",
-    "tokens": [
-      "gro",
-      "hits",
-      "low",
-      "miracle",
-      "scotts",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790690303.1482751
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/un-expands-list-of-companies-linked-to-israeli-settlements-4922915",
     "title": "UN expands list of companies linked to Israeli settlements",
     "tokens": [
@@ -22933,5 +22860,82 @@
       "zano"
     ],
     "ts": 1790917996.1674056
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/evacuated-in-an-incubator-now-back-in-gaza-getting-to-know-mama-4928891",
+    "title": "Evacuated in an incubator, now back in Gaza getting to know mama",
+    "tokens": [
+      "back",
+      "evacuated",
+      "gaza",
+      "getting",
+      "incubator",
+      "know",
+      "mama",
+      "now"
+    ],
+    "ts": 1790919051.7317016
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/gold-steadies-as-stronger-dollar-higher-yields-weigh-us-jobs-data-awaited-4928890",
+    "title": "Gold steadies as stronger dollar, higher yields weigh; U.S. jobs data awaited",
+    "tokens": [
+      "awaited",
+      "data",
+      "dollar",
+      "gold",
+      "higher",
+      "jobs",
+      "steadies",
+      "stronger",
+      "weigh",
+      "yields"
+    ],
+    "ts": 1790919060.3454823
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/foiled-flydubai-attack-clouds-regional-airline-revival-4928889",
+    "title": "Foiled flydubai attack clouds regional airline revival",
+    "tokens": [
+      "airline",
+      "attack",
+      "clouds",
+      "flydubai",
+      "foiled",
+      "regional",
+      "revival"
+    ],
+    "ts": 1790919068.6567183
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bitcoin-uptober-outlook-will-seasonal-trends-hold-or-is-a-pullback-on-tap-93CH-4928888",
+    "title": "Bitcoin ’uptober’ outlook: will seasonal trends hold, or is a pullback on tap?",
+    "tokens": [
+      "bitcoin",
+      "hold",
+      "outlook",
+      "pullback",
+      "seasonal",
+      "tap",
+      "trends",
+      "uptober"
+    ],
+    "ts": 1790919076.444237
+  },
+  {
+    "id": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027",
+    "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
+    "tokens": [
+      "2027",
+      "advances",
+      "ahead",
+      "korea",
+      "rollout",
+      "rules",
+      "securities",
+      "south",
+      "tokenized"
+    ],
+    "ts": 1790919085.7049165
   }
 ]

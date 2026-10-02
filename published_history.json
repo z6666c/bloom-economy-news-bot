@@ -1,77 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/northern-venture-trust-opens-share-subscription-offer-93CH-4924241",
-    "title": "Northern Venture Trust opens share subscription offer",
-    "tokens": [
-      "northern",
-      "offer",
-      "opens",
-      "share",
-      "subscription",
-      "trust",
-      "venture"
-    ],
-    "ts": 1790753689.5838459
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/harvest-minerals-reports-wider-loss-completes-rare-earth-acquisition-93CH-4924240",
-    "title": "Harvest Minerals reports wider loss, completes rare earth acquisition",
-    "tokens": [
-      "acquisition",
-      "completes",
-      "earth",
-      "harvest",
-      "loss",
-      "minerals",
-      "rare",
-      "reports",
-      "wider"
-    ],
-    "ts": 1790753694.0984445
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bmw-targets-margin-recovery-with-cuts-and-local-production-4924274",
-    "title": "BMW targets margin recovery with cuts and local production",
-    "tokens": [
-      "bmw",
-      "cuts",
-      "local",
-      "margin",
-      "production",
-      "recovery",
-      "targets"
-    ],
-    "ts": 1790756156.8237946
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/frances-inflation-climbs-to-34-in-september-on-energy-costs-93CH-4924273",
-    "title": "France’s inflation climbs to 3.4% in September on energy costs",
-    "tokens": [
-      "climbs",
-      "costs",
-      "energy",
-      "france",
-      "inflation",
-      "september"
-    ],
-    "ts": 1790756165.8040557
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-emotion-is-the-biggest-risk-in-your-portfolio--and-how-to-mitigate-it-4924272",
-    "title": "Why emotion is the biggest risk in your portfolio - and how to mitigate it",
-    "tokens": [
-      "biggest",
-      "emotion",
-      "how",
-      "mitigate",
-      "portfolio",
-      "risk",
-      "why",
-      "your"
-    ],
-    "ts": 1790756174.133739
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/french-preliminary-inflation-up-at-34-in-september-4924271",
     "title": "French preliminary inflation up at 3.4% in September",
     "tokens": [
@@ -22864,5 +22792,81 @@
       "teck"
     ],
     "ts": 1790982562.0205584
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/apple-to-flag-ai-requests-for-mac-data-after-metas-muse-complaints-4930526",
+    "title": "Apple to flag AI requests for Mac data after Meta’s Muse complaints",
+    "tokens": [
+      "apple",
+      "complaints",
+      "data",
+      "flag",
+      "mac",
+      "meta",
+      "muse",
+      "requests"
+    ],
+    "ts": 1790983518.2052832
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/david-j-taylor-purchases-amgen-and-home-depot-stocks-sells-marathon-petroleum-93CH-4930525",
+    "title": "David J. Taylor Purchases Amgen and Home Depot Stocks, Sells Marathon Petroleum",
+    "tokens": [
+      "amgen",
+      "david",
+      "depot",
+      "home",
+      "marathon",
+      "petroleum",
+      "purchases",
+      "sells",
+      "stocks",
+      "taylor"
+    ],
+    "ts": 1790983531.5696795
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cleo-fields-from-louisianas-6th-district-invests-in-tech-giants-93CH-4930524",
+    "title": "Cleo Fields from Louisiana’s 6th District Invests in Tech Giants",
+    "tokens": [
+      "6th",
+      "cleo",
+      "district",
+      "fields",
+      "giants",
+      "invests",
+      "louisiana",
+      "tech"
+    ],
+    "ts": 1790983542.223066
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/donald-sternoff-beyer-jr-trades-in-government-securities-impacting-curators-univ-mo-and-indiana-st-93CH-4930523",
+    "title": "Donald Sternoff Beyer Jr trades in government securities, impacting Curators Univ Mo and Indiana ST",
+    "tokens": [
+      "beyer",
+      "curators",
+      "donald",
+      "government",
+      "impacting",
+      "indiana",
+      "securities",
+      "sternoff",
+      "trades",
+      "univ"
+    ],
+    "ts": 1790983551.5958302
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/yorkton-equity-completes-acquisition-of-yorkton-management-93CH-4930520",
+    "title": "Yorkton Equity completes acquisition of Yorkton Management",
+    "tokens": [
+      "acquisition",
+      "completes",
+      "equity",
+      "management",
+      "yorkton"
+    ],
+    "ts": 1790983559.7765388
   }
 ]

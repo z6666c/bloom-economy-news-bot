@@ -1,31 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/capitec-h1-2026-slides-earnings-up-19-on-diversified-income-growth-93CH-4924247",
-    "title": "Capitec H1 2026 slides: earnings up 19% on diversified income growth",
-    "tokens": [
-      "2026",
-      "capitec",
-      "diversified",
-      "earnings",
-      "growth",
-      "income",
-      "slides"
-    ],
-    "ts": 1790753652.1890743
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-saga-stock-surging-today-93CH-4924246",
-    "title": "Why is Saga stock surging today?",
-    "tokens": [
-      "saga",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790753656.2042687
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-greggs-stock-surging-today-93CH-4924245",
     "title": "Why is Greggs stock surging today?",
     "tokens": [
@@ -22859,5 +22833,33 @@
       "reserve"
     ],
     "ts": 1790979106.3620806
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cardlytics-ceo-amit-gupta-sells-46749-in-common-stock-93CH-4930471",
+    "title": "Cardlytics CEO Amit Gupta sells $46,749 in common stock",
+    "tokens": [
+      "749",
+      "amit",
+      "cardlytics",
+      "ceo",
+      "common",
+      "gupta",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790980118.323179
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/perseverance-metals-closes-118-million-private-placement-93CH-4930470",
+    "title": "Perseverance Metals closes $11.8 million private placement",
+    "tokens": [
+      "closes",
+      "metals",
+      "million",
+      "perseverance",
+      "placement",
+      "private"
+    ],
+    "ts": 1790980126.7767432
   }
 ]

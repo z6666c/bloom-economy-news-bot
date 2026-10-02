@@ -1,172 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/mcewen-mining-at-mining-forum-americas-2026-copper-value-in-focus-93CH-4923860",
-    "title": "McEwen Mining at Mining Forum Americas 2026: copper value in focus",
-    "tokens": [
-      "2026",
-      "americas",
-      "copper",
-      "focus",
-      "forum",
-      "mcewen",
-      "mining",
-      "value"
-    ],
-    "ts": 1790725234.489422
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/robinhood-at-hood-summit-26-pushes-trading-into-living-hours-93CH-4923894",
-    "title": "Robinhood at HOOD Summit ’26: pushes trading into living hours",
-    "tokens": [
-      "hood",
-      "hours",
-      "living",
-      "pushes",
-      "robinhood",
-      "summit",
-      "trading"
-    ],
-    "ts": 1790725973.0517828
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/arista-networks-ceo-ullal-sells-132m-in-shares-from-trusts-93CH-4923893",
-    "title": "Arista Networks CEO Ullal sells $13.2m in shares from trusts",
-    "tokens": [
-      "arista",
-      "ceo",
-      "networks",
-      "sells",
-      "shares",
-      "trusts",
-      "ullal"
-    ],
-    "ts": 1790725981.0988774
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/zedge-director-howard-jonas-acquires-over-22m-class-b-shares-93CH-4923892",
-    "title": "Zedge director Howard Jonas acquires over 2.2m class B shares",
-    "tokens": [
-      "acquires",
-      "class",
-      "director",
-      "howard",
-      "jonas",
-      "shares",
-      "zedge"
-    ],
-    "ts": 1790725989.0253813
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/oric-pharma-cfo-sells-181k-in-shares-93CH-4923891",
-    "title": "Oric Pharma CFO sells $181k in shares",
-    "tokens": [
-      "181k",
-      "cfo",
-      "oric",
-      "pharma",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790725996.9146206
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/gatekeeper-systems-at-lytham-partners-recurring-revenue-gains-traction-93CH-4923885",
-    "title": "Gatekeeper Systems at Lytham Partners: recurring revenue gains traction",
-    "tokens": [
-      "gains",
-      "gatekeeper",
-      "lytham",
-      "partners",
-      "recurring",
-      "revenue",
-      "systems",
-      "traction"
-    ],
-    "ts": 1790726005.04113
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-vanda-pharmaceuticals-stock-surging-today-93CH-4923882",
-    "title": "Why is Vanda Pharmaceuticals stock surging today?",
-    "tokens": [
-      "pharmaceuticals",
-      "stock",
-      "surging",
-      "today",
-      "vanda",
-      "why"
-    ],
-    "ts": 1790726009.0564756
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/kodiak-robotics-at-evercore-forum-driverless-trucking-nears-launch-93CH-4923881",
-    "title": "Kodiak Robotics at Evercore forum: driverless trucking nears launch",
-    "tokens": [
-      "driverless",
-      "evercore",
-      "forum",
-      "kodiak",
-      "launch",
-      "nears",
-      "robotics",
-      "trucking"
-    ],
-    "ts": 1790726013.177825
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/flexsteel-industries-at-lytham-partners-share-gains-and-margin-gains-93CH-4923880",
-    "title": "Flexsteel Industries at Lytham Partners: share gains and margin gains",
-    "tokens": [
-      "flexsteel",
-      "gains",
-      "industries",
-      "lytham",
-      "margin",
-      "partners",
-      "share"
-    ],
-    "ts": 1790726020.6594765
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tsa-officers-will-not-be-allowed-to-sit-during-id-checks-at-us-airports-4923879",
-    "title": "TSA officers will not be allowed to sit during ID checks at US airports",
-    "tokens": [
-      "airports",
-      "allowed",
-      "checks",
-      "during",
-      "officers",
-      "sit",
-      "tsa"
-    ],
-    "ts": 1790726028.1480205
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/concentrix-earnings-beat-by-021-revenue-fell-short-of-estimates-4923916",
-    "title": "Concentrix earnings beat by $0.21, revenue fell short of estimates",
-    "tokens": [
-      "beat",
-      "concentrix",
-      "earnings",
-      "estimates",
-      "fell",
-      "revenue",
-      "short"
-    ],
-    "ts": 1790727381.2876654
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/robinhood-unveils-ai-agents-for-automated-trading-4923915",
-    "title": "Robinhood unveils AI agents for automated trading",
-    "tokens": [
-      "agents",
-      "automated",
-      "robinhood",
-      "trading",
-      "unveils"
-    ],
-    "ts": 1790727389.36607
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/trekor-metals-at-lytham-partners-florence-ramps-up-as-copper-stays-tight-93CH-4923913",
     "title": "Trekor Metals at Lytham Partners: Florence ramps up as copper stays tight",
     "tokens": [
@@ -22791,5 +22624,189 @@
       "tokenization"
     ],
     "ts": 1790958970.234539
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/gpi-h1-2026-slides-software-margins-rise-as-transition-year-pressures-revenue-93CH-4930210",
+    "title": "GPI H1 2026 slides: software margins rise as transition year pressures revenue",
+    "tokens": [
+      "2026",
+      "gpi",
+      "margins",
+      "pressures",
+      "revenue",
+      "rise",
+      "slides",
+      "software",
+      "transition",
+      "year"
+    ],
+    "ts": 1790960190.4487348
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-ero-copper-stock-rallying-today-93CH-4930209",
+    "title": "Why is Ero Copper stock rallying today?",
+    "tokens": [
+      "copper",
+      "ero",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790960200.8720205
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/jefferies-tracks-september-weather-impact-on-construction-sector-93CH-4930208",
+    "title": "Jefferies tracks September weather impact on construction sector",
+    "tokens": [
+      "construction",
+      "impact",
+      "jefferies",
+      "sector",
+      "september",
+      "tracks",
+      "weather"
+    ],
+    "ts": 1790960217.9907565
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/reaction-roundup-experts-analysts-weigh-in-on-september-jobs-report-4930206",
+    "title": "Reaction roundup: Experts, analysts weigh in on September jobs report",
+    "tokens": [
+      "analysts",
+      "experts",
+      "jobs",
+      "reaction",
+      "report",
+      "roundup",
+      "september",
+      "weigh"
+    ],
+    "ts": 1790960227.4156232
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-stepstone-stock-climbing-today-93CH-4930205",
+    "title": "Why is Stepstone stock climbing today?",
+    "tokens": [
+      "climbing",
+      "stepstone",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790960237.7439406
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-allied-properties-reit-stock-sliding-today-93CH-4930204",
+    "title": "Why is Allied Properties REIT stock sliding today?",
+    "tokens": [
+      "allied",
+      "properties",
+      "reit",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790960246.616675
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/iea-announces-100-million-barrel-oil-reserve-release-93CH-4930203",
+    "title": "IEA announces 100 million barrel oil reserve release",
+    "tokens": [
+      "100",
+      "announces",
+      "barrel",
+      "iea",
+      "million",
+      "oil",
+      "release",
+      "reserve"
+    ],
+    "ts": 1790960258.609614
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-gpi-h1-2026-margins-rise-as-revenue-slips-1-93CH-4930202",
+    "title": "Earnings call transcript: GPI H1 2026 margins rise as revenue slips 1%",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "gpi",
+      "margins",
+      "revenue",
+      "rise",
+      "slips",
+      "transcript"
+    ],
+    "ts": 1790960269.7301025
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/umia-opens-its-platform-to-outside-projects-with-slop-cash-from-elizaos-creator-shaw-walters-the-first-to-be-announced-4930199",
+    "title": "Umia Opens Its Platform to Outside Projects, With Slop Cash From elizaOS Creator Shaw Walters the First to Be Announced",
+    "tokens": [
+      "announced",
+      "cash",
+      "creator",
+      "elizaos",
+      "first",
+      "opens",
+      "outside",
+      "platform",
+      "projects",
+      "shaw",
+      "slop",
+      "umia",
+      "walters"
+    ],
+    "ts": 1790960280.1312523
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/coinpayments-founder-alex-alexandrov-appointed-group-ceo-as-company-strengthens-executive-team-4930200",
+    "title": "COINPAYMENTS founder Alex Alexandrov appointed Group CEO as company strengthens executive team",
+    "tokens": [
+      "alex",
+      "alexandrov",
+      "appointed",
+      "ceo",
+      "coinpayments",
+      "company",
+      "executive",
+      "founder",
+      "group",
+      "strengthens",
+      "team"
+    ],
+    "ts": 1790960290.1168737
+  },
+  {
+    "id": "oilprice-article-45669",
+    "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze",
+    "tokens": [
+      "120",
+      "above",
+      "brent",
+      "dated",
+      "oil",
+      "serious",
+      "signals",
+      "squeeze"
+    ],
+    "ts": 1790960303.3661966
+  },
+  {
+    "id": "oilprice-news-45669",
+    "title": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
+    "tokens": [
+      "100",
+      "barrels",
+      "counter",
+      "crisis",
+      "diesel",
+      "million",
+      "moves",
+      "release"
+    ],
+    "ts": 1790960313.5729334
   }
 ]

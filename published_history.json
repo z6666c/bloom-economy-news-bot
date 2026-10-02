@@ -1,191 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/eversource-and-dartmouth-engineering-selected-for-u-s-department-of-energy-spark-award-to-expand-grid-capacity-and-deliver-customer-benefits-through-grid-enhancing-technology-1036582950",
-    "title": "Eversource and Dartmouth Engineering selected for U.S. Department of Energy SPARK Award to expand grid capacity and deliver customer benefits through grid-enhancing technology",
-    "tokens": [
-      "award",
-      "benefits",
-      "capacity",
-      "customer",
-      "dartmouth",
-      "deliver",
-      "department",
-      "energy",
-      "engineering",
-      "enhancing",
-      "eversource",
-      "expand",
-      "grid",
-      "selected",
-      "spark",
-      "technology",
-      "through"
-    ],
-    "ts": 1790709199.6756866
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-alerts-investors-of-pentair-plc-pnr-to-a-federal-securities-class-action-deadline-is-october-2-2026-1036582949",
-    "title": "Kaplan Fox Alerts Investors of Pentair plc (PNR) to a Federal Securities Class Action - Deadline is October 2, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "alerts",
-      "class",
-      "deadline",
-      "federal",
-      "fox",
-      "investors",
-      "kaplan",
-      "october",
-      "pentair",
-      "plc",
-      "pnr",
-      "securities"
-    ],
-    "ts": 1790709207.1553738
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/smx-is-proving-made-in-america-is-great-again-1036582947",
-    "title": "SMX is Proving \"Made in America\" is Great Again",
-    "tokens": [
-      "again",
-      "america",
-      "great",
-      "made",
-      "proving",
-      "smx"
-    ],
-    "ts": 1790709214.7330768
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/currencies/tandoor-morni-brings-himalayan-clay-craftsmanship-and-modern-commercial-performance-to-north-america-1036583021",
-    "title": "Tandoor Morni Brings Himalayan Clay Craftsmanship and Modern Commercial Performance to North America",
-    "tokens": [
-      "america",
-      "brings",
-      "clay",
-      "commercial",
-      "craftsmanship",
-      "himalayan",
-      "modern",
-      "morni",
-      "north",
-      "performance",
-      "tandoor"
-    ],
-    "ts": 1790709222.0306747
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/endvr-energy-brings-canada-s-first-spotlite-treeguard-satellite-and-ai-powered-vegetation-risk-management-implementation-to-milton-hydro-1036582870",
-    "title": "ENDVR Energy Brings Canada's First Spotlite TreeGuard™ Satellite and AI-Powered Vegetation Risk Management Implementation to Milton Hydro",
-    "tokens": [
-      "brings",
-      "canada",
-      "endvr",
-      "energy",
-      "first",
-      "hydro",
-      "implementation",
-      "management",
-      "milton",
-      "powered",
-      "risk",
-      "satellite",
-      "spotlite",
-      "treeguard",
-      "vegetation"
-    ],
-    "ts": 1790709230.2390268
-  },
-  {
-    "id": "oilprice-article-45638",
-    "title": "Iran Threatens Middle East Energy Infrastructure as Hormuz Standoff Deepens",
-    "tokens": [
-      "deepens",
-      "east",
-      "energy",
-      "hormuz",
-      "infrastructure",
-      "iran",
-      "middle",
-      "standoff",
-      "threatens"
-    ],
-    "ts": 1790709238.2270353
-  },
-  {
-    "id": "oilprice-news-45638",
-    "title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
-    "tokens": [
-      "again",
-      "diesel",
-      "oil",
-      "reserve",
-      "strategic",
-      "taps",
-      "tops"
-    ],
-    "ts": 1790709245.7429855
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-canadian-solar-stock-surging-10-today-93CH-4923364",
-    "title": "Why is Canadian Solar stock surging 10% today?",
-    "tokens": [
-      "canadian",
-      "solar",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790710239.9598267
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/argentina-posts-221-billion-current-account-surplus-for-second-quarter-4923362",
-    "title": "Argentina posts $2.21 billion current account surplus for second quarter",
-    "tokens": [
-      "account",
-      "argentina",
-      "billion",
-      "current",
-      "posts",
-      "quarter",
-      "second",
-      "surplus"
-    ],
-    "ts": 1790710248.502731
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/equities-dip-as-bond-yields-hold-near-multidecade-highs-4923360",
-    "title": "Equities dip as bond yields hold near multi-decade highs",
-    "tokens": [
-      "bond",
-      "decade",
-      "dip",
-      "equities",
-      "highs",
-      "hold",
-      "multi",
-      "near",
-      "yields"
-    ],
-    "ts": 1790710256.2128625
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/carmax-earnings-analysis-questions-answered-and-next-catalysts-93CH-4923359",
-    "title": "CarMax earnings analysis: questions answered and next catalysts",
-    "tokens": [
-      "analysis",
-      "answered",
-      "carmax",
-      "catalysts",
-      "earnings",
-      "next",
-      "questions"
-    ],
-    "ts": 1790710264.7419884
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/aar-corp-earnings-analysis-questions-answered-and-next-catalysts-93CH-4923358",
     "title": "AAR Corp earnings analysis: questions answered and next catalysts",
     "tokens": [
@@ -22892,5 +22706,179 @@
       "treasuries"
     ],
     "ts": 1790939714.313339
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/lucid-capital-markets-initiates-service-properties-trust-stock-with-buy-rating-93CH-4929510",
+    "title": "Lucid Capital Markets initiates Service Properties Trust stock with buy rating",
+    "tokens": [
+      "buy",
+      "capital",
+      "initiates",
+      "lucid",
+      "markets",
+      "properties",
+      "rating",
+      "service",
+      "stock",
+      "trust"
+    ],
+    "ts": 1790940715.2074552
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/clear-street-maintains-hold-on-mara-holdings-stock-10-target-93CH-4929509",
+    "title": "Clear Street maintains Hold on MARA Holdings stock, $10 target",
+    "tokens": [
+      "clear",
+      "hold",
+      "holdings",
+      "maintains",
+      "mara",
+      "stock",
+      "street",
+      "target"
+    ],
+    "ts": 1790940727.3770094
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hub-group-board-undergoes-major-restructuring-amid-delisting-appeal-93CH-4929508",
+    "title": "Hub Group board undergoes major restructuring amid delisting appeal",
+    "tokens": [
+      "appeal",
+      "board",
+      "delisting",
+      "group",
+      "hub",
+      "major",
+      "restructuring",
+      "undergoes"
+    ],
+    "ts": 1790940736.1809244
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/exclusiveopec-delays-oil-capacity-review-after-iran-war-disrupts-expansion-plans-sources-say-4929507",
+    "title": "Exclusive-OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say",
+    "tokens": [
+      "capacity",
+      "delays",
+      "disrupts",
+      "exclusive",
+      "expansion",
+      "iran",
+      "oil",
+      "opec",
+      "plans",
+      "review",
+      "say",
+      "sources",
+      "war"
+    ],
+    "ts": 1790940744.9430974
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/morgan-stanley-raises-legrand-pt-keeps-stock-as-top-pick-on-growth-4929506",
+    "title": "Morgan Stanley raises Legrand PT, keeps stock as top pick on growth",
+    "tokens": [
+      "growth",
+      "keeps",
+      "legrand",
+      "morgan",
+      "pick",
+      "raises",
+      "stanley",
+      "stock",
+      "top"
+    ],
+    "ts": 1790940753.4790285
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/blackrock-expects-to-sustain-asset-growth-in-brazil-regardless-of-election-outcome-4929480",
+    "title": "BlackRock expects to sustain asset growth in Brazil regardless of election outcome",
+    "tokens": [
+      "asset",
+      "blackrock",
+      "brazil",
+      "election",
+      "expects",
+      "growth",
+      "outcome",
+      "regardless",
+      "sustain"
+    ],
+    "ts": 1790940762.2732265
+  },
+  {
+    "id": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-nails-65-gain-on-similarweb-stock-93CH-4929490",
+    "title": "InvestingPro Fair Value nails 65% gain on Similarweb stock",
+    "tokens": [
+      "fair",
+      "gain",
+      "investingpro",
+      "nails",
+      "similarweb",
+      "stock",
+      "value"
+    ],
+    "ts": 1790940772.0004194
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/premarket-movers-ike-tumbles-10-synaptics-jumps-on-57b-deal-4929481",
+    "title": "Premarket movers: ike tumbles 10%, Synaptics jumps on $5.7B deal",
+    "tokens": [
+      "deal",
+      "ike",
+      "jumps",
+      "movers",
+      "premarket",
+      "synaptics",
+      "tumbles"
+    ],
+    "ts": 1790940784.2340872
+  },
+  {
+    "id": "fbd0c6dd-34d3-45dc-ae88-fc2e8ad69ed0",
+    "title": "Cboe wants to turn VIX into a never-ending trade",
+    "tokens": [
+      "cboe",
+      "ending",
+      "never",
+      "trade",
+      "turn",
+      "vix",
+      "wants"
+    ],
+    "ts": 1790940793.9865363
+  },
+  {
+    "id": "fd7e28fa-2b6e-4335-a513-55e0fbabb49d",
+    "title": "Live updates: Bitcoin, gold and tech futures edge higher as markets await U.S. jobs report",
+    "tokens": [
+      "await",
+      "bitcoin",
+      "edge",
+      "futures",
+      "gold",
+      "higher",
+      "jobs",
+      "live",
+      "markets",
+      "report",
+      "tech",
+      "updates"
+    ],
+    "ts": 1790940802.5201087
+  },
+  {
+    "id": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous",
+    "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
+    "tokens": [
+      "ammous",
+      "bitcoin",
+      "match",
+      "may",
+      "strategy",
+      "struggle",
+      "treasuries"
+    ],
+    "ts": 1790940806.6140535
   }
 ]

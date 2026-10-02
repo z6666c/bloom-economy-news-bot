@@ -1,61 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiveexus-acquires-large-us-solar-projects-fromibv-energy-in-data-center-hot-spots-louisiana-and-wisconsin-4922641",
-    "title": "Exclusive-Exus acquires large US solar projects from ibV Energy in data center hot spots Louisiana and Wisconsin",
-    "tokens": [
-      "acquires",
-      "center",
-      "data",
-      "energy",
-      "exclusive",
-      "exus",
-      "hot",
-      "ibv",
-      "large",
-      "louisiana",
-      "projects",
-      "solar",
-      "spots",
-      "wisconsin"
-    ],
-    "ts": 1790686139.343739
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/texas-diesel-hits-record-597-as-abbott-disaster-declaration-rattles-vlo-psx-premarket-93CH-4922640",
-    "title": "Texas diesel hits record $5.97 as Abbott disaster declaration rattles VLO, PSX pre-market",
-    "tokens": [
-      "abbott",
-      "declaration",
-      "diesel",
-      "disaster",
-      "hits",
-      "market",
-      "pre",
-      "psx",
-      "rattles",
-      "record",
-      "texas",
-      "vlo"
-    ],
-    "ts": 1790686147.235391
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/iovance-shares-jump-in-premarket-as-raised-outlook-clears-consensus-views-4922704",
-    "title": "Iovance shares jump in premarket as raised outlook clears consensus views",
-    "tokens": [
-      "clears",
-      "consensus",
-      "iovance",
-      "jump",
-      "outlook",
-      "premarket",
-      "raised",
-      "shares",
-      "views"
-    ],
-    "ts": 1790687637.0879831
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/jpmorgan-cuts-mondaycom-to-neutral-on-slowing-growth-4922703",
     "title": "JPMorgan cuts Monday.com to Neutral on slowing growth",
     "tokens": [
@@ -22943,5 +22887,48 @@
       "stock"
     ],
     "ts": 1790909201.2982056
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/new-york-attorney-general-named-special-prosecutor-in-cornell-rape-probe-4928851",
+    "title": "New York attorney general named special prosecutor in Cornell rape probe",
+    "tokens": [
+      "attorney",
+      "cornell",
+      "general",
+      "named",
+      "probe",
+      "prosecutor",
+      "rape",
+      "special",
+      "york"
+    ],
+    "ts": 1790910740.3973882
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/markets-slip-on-dollar-pressure-but-this-it-stock-is-up-10-today-4928853",
+    "title": "Markets slip on dollar pressure, but this IT stock is up 10% today",
+    "tokens": [
+      "dollar",
+      "markets",
+      "pressure",
+      "slip",
+      "stock",
+      "today"
+    ],
+    "ts": 1790910748.0104313
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/marvell-technology-president--coo-koopmans-sells-26m-in-stock-93CH-4928850",
+    "title": "Marvell technology president & COO Koopmans sells $2.6m in stock",
+    "tokens": [
+      "coo",
+      "koopmans",
+      "marvell",
+      "president",
+      "sells",
+      "stock",
+      "technology"
+    ],
+    "ts": 1790910755.0821335
   }
 ]

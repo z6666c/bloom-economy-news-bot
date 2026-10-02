@@ -1,90 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/morning-bid-a-cruel-quarter-for-bonds-4924062",
-    "title": "Morning Bid: A cruel quarter for bonds",
-    "tokens": [
-      "bid",
-      "bonds",
-      "cruel",
-      "morning",
-      "quarter"
-    ],
-    "ts": 1790744307.1638026
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
-    "title": "Asian currencies mixed as yen rebounds, dollar stays near two-month high",
-    "tokens": [
-      "asian",
-      "currencies",
-      "dollar",
-      "high",
-      "mixed",
-      "month",
-      "near",
-      "rebounds",
-      "stays",
-      "two",
-      "yen"
-    ],
-    "ts": 1790744315.32543
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-ahead-of-us-pce-inflation-regional-data-in-focus-4924060",
-    "title": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
-    "tokens": [
-      "ahead",
-      "asia",
-      "data",
-      "focus",
-      "inflation",
-      "mixed",
-      "pce",
-      "regional",
-      "stocks"
-    ],
-    "ts": 1790744323.0168443
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-sumco-stock-surging-today-93CH-4924066",
-    "title": "Why is SUMCO stock surging today?",
-    "tokens": [
-      "stock",
-      "sumco",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790745471.0176666
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-taiyo-yuden-stock-rising-today-93CH-4924065",
-    "title": "Why is Taiyo Yuden stock rising today?",
-    "tokens": [
-      "rising",
-      "stock",
-      "taiyo",
-      "today",
-      "why",
-      "yuden"
-    ],
-    "ts": 1790745474.810122
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/singapore-electricity-tariff-to-fall-104-on-lower-energy-costs-93CH-4924084",
-    "title": "Singapore electricity tariff to fall 10.4% on lower energy costs",
-    "tokens": [
-      "costs",
-      "electricity",
-      "energy",
-      "fall",
-      "lower",
-      "singapore",
-      "tariff"
-    ],
-    "ts": 1790746971.975824
-  },
-  {
     "id": "https://www.investing.com/news/commodities-news/trump-weighs-diesel-export-ban-to-contain-us-fuel-prices-ft-reports-4924082",
     "title": "Trump weighs diesel export ban to contain U.S. fuel prices, FT reports",
     "tokens": [
@@ -22841,5 +22756,94 @@
       "volume"
     ],
     "ts": 1790970228.9843109
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-foghorn-therapeutics-stock-plunging-today-93CH-4930349",
+    "title": "Why is Foghorn Therapeutics stock plunging today?",
+    "tokens": [
+      "foghorn",
+      "plunging",
+      "stock",
+      "therapeutics",
+      "today",
+      "why"
+    ],
+    "ts": 1790971061.1633976
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nscale-hires-meta-veteran-justin-osofsky-as-coo-ahead-of-planned-ipo--bloomberg-4930345",
+    "title": "Nscale hires Meta veteran Justin Osofsky as COO ahead of planned IPO - Bloomberg",
+    "tokens": [
+      "ahead",
+      "bloomberg",
+      "coo",
+      "hires",
+      "ipo",
+      "justin",
+      "meta",
+      "nscale",
+      "osofsky",
+      "planned",
+      "veteran"
+    ],
+    "ts": 1790971067.3158932
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nexstar-media-group-stock-hits-52week-low-at-15435-usd-93CH-4930344",
+    "title": "Nexstar Media Group stock hits 52-week low at 154.35 USD",
+    "tokens": [
+      "154",
+      "group",
+      "hits",
+      "low",
+      "media",
+      "nexstar",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1790971075.7902577
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/community-banks-sue-usregulator-over-crypto-firm-charters-4930343",
+    "title": "Community banks sue US regulator over crypto firm charters",
+    "tokens": [
+      "banks",
+      "charters",
+      "community",
+      "crypto",
+      "firm",
+      "regulator",
+      "sue"
+    ],
+    "ts": 1790971086.071022
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bayer-to-invest-22-billion-in-new-ohio-manufacturing-site-93CH-4930339",
+    "title": "Bayer to invest $2.2 billion in new Ohio manufacturing site",
+    "tokens": [
+      "bayer",
+      "billion",
+      "invest",
+      "manufacturing",
+      "ohio",
+      "site"
+    ],
+    "ts": 1790971094.9498587
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/vistra-shares-bounce-off-lows-on-report-of-4b-nuclear-loan-4930338",
+    "title": "Vistra shares bounce off lows on report of $4B nuclear loan",
+    "tokens": [
+      "bounce",
+      "loan",
+      "lows",
+      "nuclear",
+      "off",
+      "report",
+      "shares",
+      "vistra"
+    ],
+    "ts": 1790971103.2346594
   }
 ]

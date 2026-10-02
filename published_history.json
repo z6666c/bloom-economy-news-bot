@@ -1,98 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/samsara-evp-adam-eltoukhy-sells-285432-in-company-shares-93CH-4923946",
-    "title": "Samsara EVP Adam Eltoukhy sells $285,432 in company shares",
-    "tokens": [
-      "285",
-      "432",
-      "adam",
-      "company",
-      "eltoukhy",
-      "evp",
-      "samsara",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790730724.806741
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-as-yields-pause-oil-prices-slide-4923936",
-    "title": "U.S. stock futures drift higher as yields pause, oil prices slide",
-    "tokens": [
-      "drift",
-      "futures",
-      "higher",
-      "oil",
-      "pause",
-      "prices",
-      "slide",
-      "stock",
-      "yields"
-    ],
-    "ts": 1790730732.9064817
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/judge-orders-new-york-city-to-restart-secondaryhome-tax-rollout-4923935",
-    "title": "Judge orders New York City to restart secondary-home tax rollout",
-    "tokens": [
-      "city",
-      "home",
-      "judge",
-      "orders",
-      "restart",
-      "rollout",
-      "secondary",
-      "tax",
-      "york"
-    ],
-    "ts": 1790730741.5552368
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/apollo-completes-acquisition-of-nippon-sheet-glass-93CH-4923934",
-    "title": "Apollo completes acquisition of Nippon Sheet Glass",
-    "tokens": [
-      "acquisition",
-      "apollo",
-      "completes",
-      "glass",
-      "nippon",
-      "sheet"
-    ],
-    "ts": 1790730750.2953947
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/gold-steadies-after-16-gain-as-oil-drop-offsets-elevated-treasury-yields-4923962",
-    "title": "Gold steadies after 1.6% gain as oil drop offsets elevated Treasury yields",
-    "tokens": [
-      "drop",
-      "elevated",
-      "gain",
-      "gold",
-      "offsets",
-      "oil",
-      "steadies",
-      "treasury",
-      "yields"
-    ],
-    "ts": 1790731780.728501
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nidec-in-talks-to-sell-components-unit-to-carlyle-for-636-mln-nikkei-4923961",
-    "title": "Nidec in talks to sell components unit to Carlyle for $636 mln- Nikkei",
-    "tokens": [
-      "636",
-      "carlyle",
-      "components",
-      "mln",
-      "nidec",
-      "nikkei",
-      "sell",
-      "talks",
-      "unit"
-    ],
-    "ts": 1790731788.2228053
-  },
-  {
     "id": "https://www.investing.com/news/company-news/draganfly-closes-10-million-registered-direct-offering-93CH-4923957",
     "title": "Draganfly closes $10 million registered direct offering",
     "tokens": [
@@ -22822,5 +22729,89 @@
       "sec"
     ],
     "ts": 1790961341.473828
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/feds-goolsbee-says-rate-hike-and-pause-both-on-the-table-4930242",
+    "title": "Fed’s Goolsbee says rate hike and pause both ’on the table’",
+    "tokens": [
+      "both",
+      "fed",
+      "goolsbee",
+      "hike",
+      "pause",
+      "rate",
+      "table"
+    ],
+    "ts": 1790962335.7768667
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/harworth-replaces-entire-board-following-peel-group-takeover-93CH-4930241",
+    "title": "Harworth replaces entire board following Peel Group takeover",
+    "tokens": [
+      "board",
+      "entire",
+      "following",
+      "group",
+      "harworth",
+      "peel",
+      "replaces",
+      "takeover"
+    ],
+    "ts": 1790962344.3041513
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/teradyne-director-johnson-sells-67284-in-shares-93CH-4930239",
+    "title": "Teradyne director Johnson sells $67,284 in shares",
+    "tokens": [
+      "284",
+      "director",
+      "johnson",
+      "sells",
+      "shares",
+      "teradyne"
+    ],
+    "ts": 1790962352.5850701
+  },
+  {
+    "id": "oilprice-article-45672",
+    "title": "U.S. Oil Drilling Inches Up As Prices Fall",
+    "tokens": [
+      "drilling",
+      "fall",
+      "inches",
+      "oil",
+      "prices"
+    ],
+    "ts": 1790962362.0682728
+  },
+  {
+    "id": "oilprice-news-45672",
+    "title": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
+    "tokens": [
+      "100",
+      "barrels",
+      "counter",
+      "crisis",
+      "diesel",
+      "million",
+      "moves",
+      "release"
+    ],
+    "ts": 1790962366.0841706
+  },
+  {
+    "id": "222c482a-168d-45e6-9e66-422f00f149cd",
+    "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
+    "tokens": [
+      "assets",
+      "billion",
+      "blast",
+      "ethereum",
+      "layer",
+      "once",
+      "plunge",
+      "shutting"
+    ],
+    "ts": 1790962370.970129
   }
 ]

@@ -1,65 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-arm-stock-rallying-today-93CH-4923030",
-    "title": "Why is Arm stock rallying today?",
-    "tokens": [
-      "arm",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790693123.101532
-  },
-  {
-    "id": "WP-MKTW-0005257823",
-    "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
-    "tokens": [
-      "better",
-      "get",
-      "hiring",
-      "job",
-      "labor",
-      "low",
-      "market",
-      "openings",
-      "soon",
-      "weak",
-      "why",
-      "won"
-    ],
-    "ts": 1790695893.3739474
-  },
-  {
-    "id": "WP-MKTW-0005258763",
-    "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
-    "tokens": [
-      "advantage",
-      "cheaper",
-      "cost",
-      "here",
-      "medicare",
-      "next",
-      "plans",
-      "year"
-    ],
-    "ts": 1790695901.5223577
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/truist-says-coreweave-stock-financing-position-comfortable-for-2026-93CH-4923109",
-    "title": "Truist says CoreWeave stock financing position comfortable for 2026",
-    "tokens": [
-      "2026",
-      "comfortable",
-      "coreweave",
-      "financing",
-      "position",
-      "stock",
-      "truist"
-    ],
-    "ts": 1790695910.1035125
-  },
-  {
     "id": "https://www.investing.com/news/company-news/hershey-stock-hits-52week-low-at-1614-usd-93CH-4923108",
     "title": "Hershey stock hits 52-week low at 161.4 USD",
     "tokens": [
@@ -22940,5 +22880,64 @@
       "trust"
     ],
     "ts": 1790923245.1855137
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/astrazeneca-daiichi-sankyo-partner-with-summit-on-cancer-trial-93CH-4928939",
+    "title": "AstraZeneca, Daiichi Sankyo partner with Summit on cancer trial",
+    "tokens": [
+      "astrazeneca",
+      "cancer",
+      "daiichi",
+      "partner",
+      "sankyo",
+      "summit",
+      "trial"
+    ],
+    "ts": 1790924364.4120412
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ig-group-expects-q3-revenue-to-fall-14-as-otc-retention-weakens-4928936",
+    "title": "IG Group expects Q3 revenue to fall 14% as OTC retention weakens",
+    "tokens": [
+      "expects",
+      "fall",
+      "group",
+      "otc",
+      "retention",
+      "revenue",
+      "weakens"
+    ],
+    "ts": 1790924372.2897625
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-079-4928934",
+    "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.79%",
+    "tokens": [
+      "200",
+      "asx",
+      "australia",
+      "close",
+      "higher",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790924376.3057086
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/six-ai-picks-are-up-34106-since-picked-the-software-name-leads-them-all-4928927",
+    "title": "Six AI picks are up 34%-106% since picked, the software name leads them all",
+    "tokens": [
+      "106",
+      "all",
+      "leads",
+      "name",
+      "picked",
+      "picks",
+      "since",
+      "six",
+      "software",
+      "them"
+    ],
+    "ts": 1790924380.0372434
   }
 ]

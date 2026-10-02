@@ -1,90 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/silexion-raises-837000-through-warrant-exercise-at-reduced-price-93CH-4922553",
-    "title": "Silexion raises $837,000 through warrant exercise at reduced price",
-    "tokens": [
-      "000",
-      "837",
-      "exercise",
-      "price",
-      "raises",
-      "reduced",
-      "silexion",
-      "through",
-      "warrant"
-    ],
-    "ts": 1790684355.1199014
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/arlo-launches-solarpowered-security-camera-for-9999-93CH-4922551",
-    "title": "Arlo launches solar-powered security camera for $99.99",
-    "tokens": [
-      "arlo",
-      "camera",
-      "launches",
-      "powered",
-      "security",
-      "solar"
-    ],
-    "ts": 1790684362.7967956
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/apyx-medical-reports-study-results-on-renuvion-skin-treatment-93CH-4922552",
-    "title": "Apyx Medical reports study results on Renuvion skin treatment",
-    "tokens": [
-      "apyx",
-      "medical",
-      "renuvion",
-      "reports",
-      "results",
-      "skin",
-      "study",
-      "treatment"
-    ],
-    "ts": 1790684370.3231199
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/agilent-launches-ai-cell-identification-software-module-93CH-4922546",
-    "title": "Agilent launches AI cell identification software module",
-    "tokens": [
-      "agilent",
-      "cell",
-      "identification",
-      "launches",
-      "module",
-      "software"
-    ],
-    "ts": 1790684378.1339612
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/keros-therapeutics-to-receive-20m-milestone-from-takeda-93CH-4922547",
-    "title": "Keros Therapeutics to receive $20M milestone from Takeda",
-    "tokens": [
-      "20m",
-      "keros",
-      "milestone",
-      "receive",
-      "takeda",
-      "therapeutics"
-    ],
-    "ts": 1790684386.8590267
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/horizon-aircraft-signs-letter-of-intent-with-great-lakes-helicopter-93CH-4922548",
-    "title": "Horizon Aircraft signs letter of intent with Great Lakes Helicopter",
-    "tokens": [
-      "aircraft",
-      "great",
-      "helicopter",
-      "horizon",
-      "intent",
-      "lakes",
-      "letter",
-      "signs"
-    ],
-    "ts": 1790684393.7666335
-  },
-  {
     "id": "https://www.investing.com/news/company-news/atossa-plans-cvr-issuance-tied-to-priority-review-voucher-93CH-4922549",
     "title": "Atossa plans CVR issuance tied to priority review voucher",
     "tokens": [
@@ -22927,5 +22842,95 @@
       "stock"
     ],
     "ts": 1790905637.92072
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/dollar-at-17month-high-as-global-bond-rout-hits-euro-4928797",
+    "title": "Dollar at 17-month high as global bond rout hits euro",
+    "tokens": [
+      "bond",
+      "dollar",
+      "euro",
+      "global",
+      "high",
+      "hits",
+      "month",
+      "rout"
+    ],
+    "ts": 1790907100.3058145
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-holds-gains-as-us-weighs-more-middle-east-military-presence-4928800",
+    "title": "Oil holds gains as U.S. weighs more Middle East military presence",
+    "tokens": [
+      "east",
+      "gains",
+      "holds",
+      "middle",
+      "military",
+      "more",
+      "oil",
+      "presence",
+      "weighs"
+    ],
+    "ts": 1790907107.5500531
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/samsara-ceo-sanjit-biswas-sells-10m-in-iot-shares-93CH-4928795",
+    "title": "Samsara CEO Sanjit Biswas sells $10m in IoT shares",
+    "tokens": [
+      "10m",
+      "biswas",
+      "ceo",
+      "iot",
+      "samsara",
+      "sanjit",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790907115.0018775
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/samsara-cto-john-bicket-sells-shares-worth-over-10-million-93CH-4928794",
+    "title": "Samsara CTO John Bicket sells shares worth over $10 million",
+    "tokens": [
+      "bicket",
+      "cto",
+      "john",
+      "million",
+      "samsara",
+      "sells",
+      "shares",
+      "worth"
+    ],
+    "ts": 1790907122.7090719
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/lipocine-director-john-higuchi-buys-55042-in-company-stock-93CH-4928793",
+    "title": "Lipocine director John Higuchi buys $55,042 in company stock",
+    "tokens": [
+      "042",
+      "buys",
+      "company",
+      "director",
+      "higuchi",
+      "john",
+      "lipocine",
+      "stock"
+    ],
+    "ts": 1790907126.7250469
+  },
+  {
+    "id": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
+    "title": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
+    "tokens": [
+      "gives",
+      "hacker",
+      "hour",
+      "identified",
+      "intents",
+      "near",
+      "ultimatum"
+    ],
+    "ts": 1790907131.7535427
   }
 ]

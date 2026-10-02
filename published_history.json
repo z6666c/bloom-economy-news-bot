@@ -1,47 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/us-cdc-confirms-two-measlesrelated-deaths-in-2026-4922699",
-    "title": "US CDC confirms two measles-related deaths in 2026",
-    "tokens": [
-      "2026",
-      "cdc",
-      "confirms",
-      "deaths",
-      "measles",
-      "related",
-      "two"
-    ],
-    "ts": 1790687675.5273895
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/corning-stock-rises-on-3b-att-fiber-deal-4922696",
-    "title": "Corning stock rises on $3B AT&T fiber deal",
-    "tokens": [
-      "corning",
-      "deal",
-      "fiber",
-      "rises",
-      "stock"
-    ],
-    "ts": 1790687682.9654448
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/fuelcell-energy-jumps-on-oppenheimer-initiation-citing-data-center-demand-4922680",
-    "title": "FuelCell Energy jumps on Oppenheimer initiation, citing data center demand",
-    "tokens": [
-      "center",
-      "citing",
-      "data",
-      "demand",
-      "energy",
-      "fuelcell",
-      "initiation",
-      "jumps",
-      "oppenheimer"
-    ],
-    "ts": 1790687691.1282835
-  },
-  {
     "id": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares",
     "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
     "tokens": [
@@ -22935,5 +22893,51 @@
       "zkapi"
     ],
     "ts": 1790913385.0799012
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/three-northern-japan-regional-banks-set-to-begin-merger-talks--reports-4928873",
+    "title": "Three northern Japan regional banks set to begin merger talks - reports",
+    "tokens": [
+      "banks",
+      "begin",
+      "japan",
+      "merger",
+      "northern",
+      "regional",
+      "reports",
+      "set",
+      "talks",
+      "three"
+    ],
+    "ts": 1790914379.299507
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-advantest-stock-surging-today-93CH-4928872",
+    "title": "Why is Advantest stock surging today?",
+    "tokens": [
+      "advantest",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790914383.314929
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
+    "title": "Japanese yen firms on strong inflation, dollar muted before payrolls test",
+    "tokens": [
+      "before",
+      "dollar",
+      "firms",
+      "inflation",
+      "japanese",
+      "muted",
+      "payrolls",
+      "strong",
+      "test",
+      "yen"
+    ],
+    "ts": 1790914387.0444317
   }
 ]

@@ -1,65 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares",
-    "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
-    "tokens": [
-      "bitcoin",
-      "coinshares",
-      "demand",
-      "etf",
-      "inflows",
-      "institutional",
-      "leave",
-      "unclear"
-    ],
-    "ts": 1790687699.5518281
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bat-stock-falls-after-cutting-2026-growth-outlook-4921819",
-    "title": "BAT FY2026 growth seen at lower end of range; shares fall",
-    "tokens": [
-      "bat",
-      "end",
-      "fall",
-      "fy2026",
-      "growth",
-      "lower",
-      "range",
-      "seen",
-      "shares"
-    ],
-    "ts": 1790688991.3650877
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/airbus-commercial-chief-expresses-confidence-in-2026-targets-93CH-4922820",
-    "title": "Airbus commercial chief expresses confidence in 2026 targets",
-    "tokens": [
-      "2026",
-      "airbus",
-      "chief",
-      "commercial",
-      "confidence",
-      "expresses",
-      "targets"
-    ],
-    "ts": 1790688999.8363423
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/citadels-rubner-sees-october-turning-equity-market-dynamics-93CH-4922819",
-    "title": "Citadel’s Rubner sees October turning equity market dynamics",
-    "tokens": [
-      "citadel",
-      "dynamics",
-      "equity",
-      "market",
-      "october",
-      "rubner",
-      "sees",
-      "turning"
-    ],
-    "ts": 1790689007.6917303
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/india-central-bank-recommends-raising-advances-limits-for-state-governments-4922818",
     "title": "India central bank recommends raising advances limits for state governments",
     "tokens": [
@@ -22939,5 +22879,65 @@
       "yen"
     ],
     "ts": 1790914387.0444317
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/developing-countries-hit-by-overlapping-crises-undp-chief-warns-4928876",
+    "title": "Developing countries hit by overlapping crises, UNDP chief warns",
+    "tokens": [
+      "chief",
+      "countries",
+      "crises",
+      "developing",
+      "hit",
+      "overlapping",
+      "undp",
+      "warns"
+    ],
+    "ts": 1790915539.892246
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-job-growth-expected-to-slow-in-september-unemployment-rate-likely-steady-4928875",
+    "title": "US job growth expected to slow in September; unemployment rate likely steady",
+    "tokens": [
+      "expected",
+      "growth",
+      "job",
+      "likely",
+      "rate",
+      "september",
+      "slow",
+      "steady",
+      "unemployment"
+    ],
+    "ts": 1790915548.401207
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/more-aggressive-china-stimulus-unlikely-for-now-bofa-says-4928874",
+    "title": "More aggressive China stimulus unlikely for now, BofA says",
+    "tokens": [
+      "aggressive",
+      "bofa",
+      "china",
+      "more",
+      "now",
+      "stimulus",
+      "unlikely"
+    ],
+    "ts": 1790915555.9090648
+  },
+  {
+    "id": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes",
+    "title": "Core Lightning warns attackers are targeting unpatched Bitcoin nodes",
+    "tokens": [
+      "attackers",
+      "bitcoin",
+      "core",
+      "lightning",
+      "nodes",
+      "targeting",
+      "unpatched",
+      "warns"
+    ],
+    "ts": 1790915565.6076496
   }
 ]

@@ -1,133 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/hershey-stock-hits-52week-low-at-1614-usd-93CH-4923108",
-    "title": "Hershey stock hits 52-week low at 161.4 USD",
-    "tokens": [
-      "161",
-      "hershey",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790695914.119486
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exxon-veteran-liam-mallon-joins-tmc-board-ahead-of-seabed-mining-push-4923107",
-    "title": "Exxon veteran Liam Mallon joins TMC board ahead of seabed mining push",
-    "tokens": [
-      "ahead",
-      "board",
-      "exxon",
-      "joins",
-      "liam",
-      "mallon",
-      "mining",
-      "push",
-      "seabed",
-      "tmc",
-      "veteran"
-    ],
-    "ts": 1790695917.0444002
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/santander-approves-interim-dividend-with-10-increase-93CH-4923106",
-    "title": "Santander approves interim dividend with 10% increase",
-    "tokens": [
-      "approves",
-      "dividend",
-      "increase",
-      "interim",
-      "santander"
-    ],
-    "ts": 1790695924.5679393
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-bce-stock-sliding-today-93CH-4923105",
-    "title": "Why is BCE stock sliding today?",
-    "tokens": [
-      "bce",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790695928.5833282
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/baird-lowers-ryder-to-neutral-warning-consensus-forecasts-are-too-high-4923104",
-    "title": "Baird lowers Ryder to Neutral, warning consensus forecasts are too high",
-    "tokens": [
-      "baird",
-      "consensus",
-      "forecasts",
-      "high",
-      "lowers",
-      "neutral",
-      "ryder",
-      "too",
-      "warning"
-    ],
-    "ts": 1790695932.5306966
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-staar-surgical-stock-surging-today-93CH-4923103",
-    "title": "Why is STAAR Surgical stock surging today?",
-    "tokens": [
-      "staar",
-      "stock",
-      "surgical",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790695939.954754
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/banxico-can-chart-rate-path-independently-of-fed-governor-says--bloomberg-4923102",
-    "title": "Banxico can chart rate path independently of Fed, Governor says - Bloomberg",
-    "tokens": [
-      "banxico",
-      "bloomberg",
-      "can",
-      "chart",
-      "fed",
-      "governor",
-      "independently",
-      "path",
-      "rate"
-    ],
-    "ts": 1790695948.1377358
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-air-canada-stock-climbing-today-93CH-4923101",
-    "title": "Why is Air Canada stock climbing today?",
-    "tokens": [
-      "air",
-      "canada",
-      "climbing",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790695956.6393204
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/xeris-biopharma-stock-hits-52week-high-at-1008-usd-93CH-4923099",
-    "title": "Xeris Biopharma stock hits 52-week high at 10.08 USD",
-    "tokens": [
-      "biopharma",
-      "high",
-      "hits",
-      "stock",
-      "usd",
-      "week",
-      "xeris"
-    ],
-    "ts": 1790695960.6550765
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/rm-plc-strategic-sale-of-tts-business-1036582090",
     "title": "RM plc: Strategic sale of TTS business",
     "tokens": [
@@ -22939,5 +22811,139 @@
       "them"
     ],
     "ts": 1790924380.0372434
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/bernstein-initiates-forgent-power-solutions-stock-with-outperform-93CH-4928982",
+    "title": "Bernstein initiates Forgent Power Solutions stock with outperform",
+    "tokens": [
+      "bernstein",
+      "forgent",
+      "initiates",
+      "outperform",
+      "power",
+      "solutions",
+      "stock"
+    ],
+    "ts": 1790925657.601899
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-initiates-uranium-energy-stock-with-sector-perform-rating-93CH-4928981",
+    "title": "RBC Capital initiates Uranium Energy stock with sector perform rating",
+    "tokens": [
+      "capital",
+      "energy",
+      "initiates",
+      "perform",
+      "rating",
+      "rbc",
+      "sector",
+      "stock",
+      "uranium"
+    ],
+    "ts": 1790925665.6288602
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/airbus-deliveries-top-70-aircraft-in-september-sources-say-4928979",
+    "title": "Airbus deliveries top 70 aircraft in September, sources say",
+    "tokens": [
+      "airbus",
+      "aircraft",
+      "deliveries",
+      "say",
+      "september",
+      "sources",
+      "top"
+    ],
+    "ts": 1790925673.5152323
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-resumes-pattersonuti-energy-stock-coverage-with-neutral-rating-93CH-4928980",
+    "title": "UBS resumes Patterson-UTI Energy stock coverage with neutral rating",
+    "tokens": [
+      "coverage",
+      "energy",
+      "neutral",
+      "patterson",
+      "rating",
+      "resumes",
+      "stock",
+      "ubs",
+      "uti"
+    ],
+    "ts": 1790925681.71997
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/ubs-resumes-helmerich--payne-stock-coverage-with-buy-rating-93CH-4928978",
+    "title": "UBS resumes Helmerich & Payne stock coverage with buy rating",
+    "tokens": [
+      "buy",
+      "coverage",
+      "helmerich",
+      "payne",
+      "rating",
+      "resumes",
+      "stock",
+      "ubs"
+    ],
+    "ts": 1790925690.2092762
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-cuts-sigma-lithium-stock-rating-on-mining-suspension-93CH-4928973",
+    "title": "JPMorgan cuts Sigma Lithium stock rating on mining suspension",
+    "tokens": [
+      "cuts",
+      "jpmorgan",
+      "lithium",
+      "mining",
+      "rating",
+      "sigma",
+      "stock",
+      "suspension"
+    ],
+    "ts": 1790925698.6070156
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/volvo-cars-warns-of-weaker-sales-cash-flow-4928968",
+    "title": "Volvo Cars warns of weaker sales, cash flow",
+    "tokens": [
+      "cars",
+      "cash",
+      "flow",
+      "sales",
+      "volvo",
+      "warns",
+      "weaker"
+    ],
+    "ts": 1790925706.2065303
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/capita-to-face-uk-audit-review-over-civil-service-pension-contract-93CH-4928971",
+    "title": "Capita to face UK audit review over Civil Service pension contract",
+    "tokens": [
+      "audit",
+      "capita",
+      "civil",
+      "contract",
+      "face",
+      "pension",
+      "review",
+      "service"
+    ],
+    "ts": 1790925714.4371226
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/wizz-air-sees-september-passengers-jump-24-on-higher-capacity-93CH-4928970",
+    "title": "Wizz Air sees September passengers jump 24% on higher capacity",
+    "tokens": [
+      "air",
+      "capacity",
+      "higher",
+      "jump",
+      "passengers",
+      "sees",
+      "september",
+      "wizz"
+    ],
+    "ts": 1790925722.8565898
   }
 ]

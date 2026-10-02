@@ -1,114 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/trump-weighs-diesel-export-ban-to-contain-us-fuel-prices-ft-reports-4924082",
-    "title": "Trump weighs diesel export ban to contain U.S. fuel prices, FT reports",
-    "tokens": [
-      "ban",
-      "contain",
-      "diesel",
-      "export",
-      "fuel",
-      "prices",
-      "reports",
-      "trump",
-      "weighs"
-    ],
-    "ts": 1790746981.1177232
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pyxis-oncology-prices-110-million-public-offering-93CH-4924080",
-    "title": "Pyxis Oncology prices $110 million public offering",
-    "tokens": [
-      "110",
-      "million",
-      "offering",
-      "oncology",
-      "prices",
-      "public",
-      "pyxis"
-    ],
-    "ts": 1790746989.5288212
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ibex-ceo-robert-dechant-sells-225095-in-company-shares-93CH-4924079",
-    "title": "Ibex CEO Robert Dechant sells $225,095 in company shares",
-    "tokens": [
-      "095",
-      "225",
-      "ceo",
-      "company",
-      "dechant",
-      "ibex",
-      "robert",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790746997.8326936
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/apple-iphone-18-pro-sales-rise-12-in-china-launch-week--counterpoint-4924078",
-    "title": "Apple iPhone 18 Pro sales rise 12% in China launch week - Counterpoint",
-    "tokens": [
-      "apple",
-      "china",
-      "counterpoint",
-      "iphone",
-      "launch",
-      "pro",
-      "rise",
-      "sales",
-      "week"
-    ],
-    "ts": 1790747008.2248557
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-q3-roundup-singapore-leads-gains-skorea-lags-93CH-4924074",
-    "title": "Asia stocks Q3 roundup: Singapore leads gains, S.Korea lags",
-    "tokens": [
-      "asia",
-      "gains",
-      "korea",
-      "lags",
-      "leads",
-      "roundup",
-      "singapore",
-      "stocks"
-    ],
-    "ts": 1790747018.1218612
-  },
-  {
-    "id": "5a7fa3f6-8747-48b8-a38a-bb18bb921809",
-    "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
-    "tokens": [
-      "brazil",
-      "carrying",
-      "fund",
-      "ledger",
-      "operator",
-      "overseeing",
-      "records",
-      "starts",
-      "trillion",
-      "xrp"
-    ],
-    "ts": 1790747028.6008153
-  },
-  {
-    "id": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters",
-    "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
-    "tokens": [
-      "40b",
-      "advanced",
-      "funding",
-      "kalshi",
-      "raise",
-      "reuters",
-      "talks",
-      "valuation"
-    ],
-    "ts": 1790747827.4250646
-  },
-  {
     "id": "https://www.investing.com/news/economic-indicators/uk-business-confidence-hits-17month-low-as-middle-east-tensions-lift-costs-93CH-4924127",
     "title": "UK business confidence hits 17-month low as Middle East tensions lift costs",
     "tokens": [
@@ -22845,5 +22736,115 @@
       "vistra"
     ],
     "ts": 1790971103.2346594
+  },
+  {
+    "id": "WP-MKTW-0005267935",
+    "title": "The best industry to change jobs to get paid more money — and the worst",
+    "tokens": [
+      "best",
+      "change",
+      "get",
+      "industry",
+      "jobs",
+      "money",
+      "more",
+      "paid",
+      "worst"
+    ],
+    "ts": 1790972130.9895399
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cme-group-suspends-launch-of-10barrel-crude-oil-futures-93CH-4930361",
+    "title": "CME Group suspends launch of 10-barrel crude oil futures",
+    "tokens": [
+      "barrel",
+      "cme",
+      "crude",
+      "futures",
+      "group",
+      "launch",
+      "oil",
+      "suspends"
+    ],
+    "ts": 1790972140.4979758
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/cameroon-secures-630m-in-loans-for-infrastructure-projects-93CH-4930359",
+    "title": "Cameroon secures $630m in loans for infrastructure projects",
+    "tokens": [
+      "630m",
+      "cameroon",
+      "infrastructure",
+      "loans",
+      "projects",
+      "secures"
+    ],
+    "ts": 1790972149.6266298
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/westjet-first-told-boeing-about-737-max-software-glitch-cleared-by-faa-memo-says-4930353",
+    "title": "WestJet first told Boeing about 737 MAX software glitch cleared by FAA, memo says",
+    "tokens": [
+      "737",
+      "about",
+      "boeing",
+      "cleared",
+      "faa",
+      "first",
+      "glitch",
+      "max",
+      "memo",
+      "software",
+      "told",
+      "westjet"
+    ],
+    "ts": 1790972159.8324049
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/germany-may-grow-twice-as-fast-this-year-as-earlier-thought-bundesbank-says-4930352",
+    "title": "Germany may grow twice as fast this year as earlier thought, Bundesbank says",
+    "tokens": [
+      "bundesbank",
+      "earlier",
+      "fast",
+      "germany",
+      "grow",
+      "may",
+      "thought",
+      "twice",
+      "year"
+    ],
+    "ts": 1790972169.3842583
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/icybox-expands-from-luxury-watches-into-handbags-4930350",
+    "title": "IcyBox Expands From Luxury Watches Into Handbags",
+    "tokens": [
+      "expands",
+      "handbags",
+      "icybox",
+      "luxury",
+      "watches"
+    ],
+    "ts": 1790972177.7033956
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+    "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+    "tokens": [
+      "announces",
+      "board",
+      "comment",
+      "extend",
+      "federal",
+      "modernize",
+      "november",
+      "period",
+      "proposal",
+      "regulation",
+      "reserve",
+      "until"
+    ],
+    "ts": 1790972188.9254813
   }
 ]

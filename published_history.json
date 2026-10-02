@@ -1,60 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005257623",
-    "title": "Junk bonds are heading for worst month since 2022 after punishing global selloff",
-    "tokens": [
-      "2022",
-      "bonds",
-      "global",
-      "heading",
-      "junk",
-      "month",
-      "punishing",
-      "selloff",
-      "since",
-      "worst"
-    ],
-    "ts": 1790691432.3938007
-  },
-  {
-    "id": "oilprice-article-45631",
-    "title": "The Hidden Tradeoffs of a U.S. Diesel Export Ban",
-    "tokens": [
-      "ban",
-      "diesel",
-      "export",
-      "hidden",
-      "tradeoffs"
-    ],
-    "ts": 1790691441.7011852
-  },
-  {
-    "id": "oilprice-news-45631",
-    "title": "LNG Canada to Double Export Capacity After Shell Approves Phase 2",
-    "tokens": [
-      "approves",
-      "canada",
-      "capacity",
-      "double",
-      "export",
-      "lng",
-      "phase",
-      "shell"
-    ],
-    "ts": 1790691449.5171914
-  },
-  {
-    "id": "4c95ef4f-466c-4d15-ac8b-c70c02e2bb86",
-    "title": "Democrats killed the Clarity Act",
-    "tokens": [
-      "act",
-      "clarity",
-      "democrats",
-      "killed"
-    ],
-    "ts": 1790691457.5925694
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/wells-fargo-raises-oil-price-targets-citing-ongoing-supply-risks-4923041",
     "title": "Wells Fargo raises oil price targets citing ongoing supply risks",
     "tokens": [
@@ -22934,5 +22879,65 @@
       "why"
     ],
     "ts": 1790920544.209968
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/partners-group-to-split-66-bln-fund-into-growth-payout-portfolios-93CH-4928900",
+    "title": "Partners Group to split €6.6 bln fund into growth, payout portfolios",
+    "tokens": [
+      "bln",
+      "fund",
+      "group",
+      "growth",
+      "partners",
+      "payout",
+      "portfolios",
+      "split"
+    ],
+    "ts": 1790921663.907623
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/softbanks-openai-bet-the-risks-behind-a-646b-leveraged-stake-93CH-4928898",
+    "title": "SoftBank’s OpenAI bet: the risks behind a $64.6B leveraged stake",
+    "tokens": [
+      "behind",
+      "bet",
+      "leveraged",
+      "openai",
+      "risks",
+      "softbank",
+      "stake"
+    ],
+    "ts": 1790921672.7013829
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/julius-baer-to-buy-back-up-to-chf600-mln-in-shares-after-regulatory-scrutiny-4928897",
+    "title": "Julius Baer to buy back up to CHF600 mln in shares after regulatory scrutiny",
+    "tokens": [
+      "back",
+      "baer",
+      "buy",
+      "chf600",
+      "julius",
+      "mln",
+      "regulatory",
+      "scrutiny",
+      "shares"
+    ],
+    "ts": 1790921681.3515399
+  },
+  {
+    "id": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent",
+    "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
+    "tokens": [
+      "crypto",
+      "exchange",
+      "fall",
+      "korea",
+      "profits",
+      "slump",
+      "south",
+      "trading"
+    ],
+    "ts": 1790921690.5676117
   }
 ]

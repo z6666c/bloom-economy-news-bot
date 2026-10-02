@@ -1,77 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/india-central-bank-recommends-raising-advances-limits-for-state-governments-4922818",
-    "title": "India central bank recommends raising advances limits for state governments",
-    "tokens": [
-      "advances",
-      "bank",
-      "central",
-      "governments",
-      "india",
-      "limits",
-      "raising",
-      "recommends",
-      "state"
-    ],
-    "ts": 1790689015.8106766
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/braze-signs-strategic-collaboration-deal-with-amazon-web-services-93CH-4922816",
-    "title": "Braze signs strategic collaboration deal with Amazon Web Services",
-    "tokens": [
-      "amazon",
-      "braze",
-      "collaboration",
-      "deal",
-      "services",
-      "signs",
-      "strategic",
-      "web"
-    ],
-    "ts": 1790689024.3388574
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/10x-genomics-begins-shipping-atera-spatial-biology-platform-93CH-4922817",
-    "title": "10x Genomics begins shipping Atera spatial biology platform",
-    "tokens": [
-      "10x",
-      "atera",
-      "begins",
-      "biology",
-      "genomics",
-      "platform",
-      "shipping",
-      "spatial"
-    ],
-    "ts": 1790689032.9143007
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/teradyne-launches-memory-test-system-for-advanced-chips-93CH-4922815",
-    "title": "Teradyne launches memory test system for advanced chips",
-    "tokens": [
-      "advanced",
-      "chips",
-      "launches",
-      "memory",
-      "system",
-      "teradyne",
-      "test"
-    ],
-    "ts": 1790689041.089342
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/qumulusai-secures-2409m-in-ai-infrastructure-contracts-93CH-4922813",
-    "title": "QumulusAI secures $240.9M in AI infrastructure contracts",
-    "tokens": [
-      "240",
-      "contracts",
-      "infrastructure",
-      "qumulusai",
-      "secures"
-    ],
-    "ts": 1790689048.8089685
-  },
-  {
     "id": "https://www.investing.com/news/company-news/transdigm-acquires-prince--izant-for-1066-billion-93CH-4922814",
     "title": "TransDigm acquires Prince & Izant for $1.066 billion",
     "tokens": [
@@ -22939,5 +22867,75 @@
       "warns"
     ],
     "ts": 1790915565.6076496
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/three-ai-picks-are-up-22106-since-july-the-hr-stock-leading-them-4928880",
+    "title": "Three AI picks are up 22%-106% since July, the HR stock leading them",
+    "tokens": [
+      "106",
+      "july",
+      "leading",
+      "picks",
+      "since",
+      "stock",
+      "them",
+      "three"
+    ],
+    "ts": 1790916968.4864886
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/amazon-seeks-to-offload-8-billion-of-nvidia-chips-to-investors-ft-reports-4928877",
+    "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports",
+    "tokens": [
+      "amazon",
+      "billion",
+      "chips",
+      "investors",
+      "nvidia",
+      "offload",
+      "reports",
+      "seeks"
+    ],
+    "ts": 1790916975.867107
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/softbank-completes-final-phase-of-30-billion-investment-in-openai-4928149",
+    "title": "SoftBank completes final phase of $30 billion investment in OpenAI",
+    "tokens": [
+      "billion",
+      "completes",
+      "final",
+      "investment",
+      "openai",
+      "phase",
+      "softbank"
+    ],
+    "ts": 1790916983.9895487
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-procrea-stock-surging-today-93CH-4928879",
+    "title": "Why is Procrea stock surging today?",
+    "tokens": [
+      "procrea",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790916988.0020204
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/amazon-seeks-to-offload-8-bln-of-nvidia-chips-to-investors-ft-4928878",
+    "title": "Amazon seeks to offload $8 bln of Nvidia chips to investors- FT",
+    "tokens": [
+      "amazon",
+      "bln",
+      "chips",
+      "investors",
+      "nvidia",
+      "offload",
+      "seeks"
+    ],
+    "ts": 1790916988.015226
   }
 ]

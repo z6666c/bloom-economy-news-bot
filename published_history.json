@@ -1,142 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economic-indicators/chinese-factory-activity-returns-to-growth-in-september-amid-ai-boom-4924030",
-    "title": "Chinese factory activity returns to growth in September amid AI boom",
-    "tokens": [
-      "activity",
-      "boom",
-      "chinese",
-      "factory",
-      "growth",
-      "returns",
-      "september"
-    ],
-    "ts": 1790736335.324043
-  },
-  {
-    "id": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan",
-    "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan",
-    "tokens": [
-      "binance",
-      "japan",
-      "lets",
-      "merchants",
-      "pay",
-      "paypay",
-      "spend",
-      "usdt",
-      "visitors"
-    ],
-    "ts": 1790736340.3263996
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/abeona-therapeutics-ceo-seshadri-sells-101091-in-shares-93CH-4924044",
-    "title": "Abeona Therapeutics CEO Seshadri sells $101,091 in shares",
-    "tokens": [
-      "091",
-      "101",
-      "abeona",
-      "ceo",
-      "sells",
-      "seshadri",
-      "shares",
-      "therapeutics"
-    ],
-    "ts": 1790737137.9196236
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/abeona-therapeutics-cfo-joseph-vazzano-sells-47385-in-company-stock-93CH-4924043",
-    "title": "Abeona Therapeutics CFO Joseph Vazzano sells $47,385 in company stock",
-    "tokens": [
-      "385",
-      "abeona",
-      "cfo",
-      "company",
-      "joseph",
-      "sells",
-      "stock",
-      "therapeutics",
-      "vazzano"
-    ],
-    "ts": 1790737145.3039472
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-cspc-pharmaceutical-stock-surging-today-93CH-4924042",
-    "title": "Why is CSPC Pharmaceutical stock surging today?",
-    "tokens": [
-      "cspc",
-      "pharmaceutical",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790737154.9159343
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/china-to-respond-with-strong-policy-toolbox-if-eu-steps-up-curbs-gt-reports-4924041",
-    "title": "China to respond with ’strong policy toolbox’ if EU steps up curbs, GT reports",
-    "tokens": [
-      "china",
-      "curbs",
-      "policy",
-      "reports",
-      "respond",
-      "steps",
-      "strong",
-      "toolbox"
-    ],
-    "ts": 1790737163.3977494
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/dollar-set-for-september-rise-mainly-at-euros-expense-4923987",
-    "title": "Dollar set for large rise in September, mainly at euro’s expense",
-    "tokens": [
-      "dollar",
-      "euro",
-      "expense",
-      "large",
-      "mainly",
-      "rise",
-      "september",
-      "set"
-    ],
-    "ts": 1790738378.850295
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/deepseek-partners-with-huawei-to-develop-chip-programming-tools-reducing-reliance-on-nvidia-4924051",
-    "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia",
-    "tokens": [
-      "chip",
-      "deepseek",
-      "develop",
-      "huawei",
-      "nvidia",
-      "partners",
-      "programming",
-      "reducing",
-      "reliance",
-      "tools"
-    ],
-    "ts": 1790738388.3346417
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/australia-august-inflation-rises-to-4-below-forecasts-as-rba-weighs-hikes-4924012",
-    "title": "Australia CPI inflation rises to 4% in August, below forecasts after RBA hike",
-    "tokens": [
-      "august",
-      "australia",
-      "below",
-      "cpi",
-      "forecasts",
-      "hike",
-      "inflation",
-      "rba",
-      "rises"
-    ],
-    "ts": 1790738396.6131573
-  },
-  {
     "id": "https://www.investing.com/news/commodities-news/iran-appeals-to-us-voters-as-american-troops-leave-iraq-4924049",
     "title": "Iran appeals to US voters as American troops leave Iraq",
     "tokens": [
@@ -22841,5 +22704,146 @@
       "wind"
     ],
     "ts": 1790966333.380148
+  },
+  {
+    "id": "WP-MKTW-0005267602",
+    "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
+    "tokens": [
+      "benefits",
+      "can",
+      "government",
+      "loans",
+      "proposals",
+      "repay",
+      "security",
+      "seek",
+      "social",
+      "stop",
+      "student",
+      "take",
+      "these"
+    ],
+    "ts": 1790967446.9725666
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/russian-airstrikes-choke-bridges-across-dnipro-river-in-kyiv-4930294",
+    "title": "Russian airstrikes choke bridges across Dnipro River in Kyiv",
+    "tokens": [
+      "across",
+      "airstrikes",
+      "bridges",
+      "choke",
+      "dnipro",
+      "kyiv",
+      "river",
+      "russian"
+    ],
+    "ts": 1790967467.3366404
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/birchtech-at-noble-capital-markets-virtual-equity-investor-conference-water-pivot-93CH-4930300",
+    "title": "Birchtech at noble capital markets virtual equity investor conference: water pivot",
+    "tokens": [
+      "birchtech",
+      "capital",
+      "conference",
+      "equity",
+      "investor",
+      "markets",
+      "noble",
+      "pivot",
+      "virtual",
+      "water"
+    ],
+    "ts": 1790967478.1748686
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/mexico-needs-more-effort-to-lower-debt-imf-says-4930296",
+    "title": "Mexico needs more effort to lower debt, IMF says",
+    "tokens": [
+      "debt",
+      "effort",
+      "imf",
+      "lower",
+      "mexico",
+      "more",
+      "needs"
+    ],
+    "ts": 1790967487.8495548
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/imf-calls-for-more-action-to-reduce-mexicos-debt-trajectory-93CH-4930295",
+    "title": "IMF calls for more action to reduce Mexico’s debt trajectory",
+    "tokens": [
+      "action",
+      "calls",
+      "debt",
+      "imf",
+      "mexico",
+      "more",
+      "reduce",
+      "trajectory"
+    ],
+    "ts": 1790967500.8759773
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/synopsys-vs-cadence-valuation-cash-flow-and-pairs-trade-compared-93CH-4930292",
+    "title": "Synopsys vs Cadence: valuation, cash flow, and pairs trade compared",
+    "tokens": [
+      "cadence",
+      "cash",
+      "compared",
+      "flow",
+      "pairs",
+      "synopsys",
+      "trade",
+      "valuation"
+    ],
+    "ts": 1790967509.984816
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/largecap-turnaround-stocks-with-3month-gains-above-10-93CH-4930291",
+    "title": "Large-cap turnaround stocks with 3-month gains above 10%",
+    "tokens": [
+      "above",
+      "cap",
+      "gains",
+      "large",
+      "month",
+      "stocks",
+      "turnaround"
+    ],
+    "ts": 1790967520.1486366
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/power-solution-options-flow-shows-diagonal-spread-rolling-50-calls-to-60-strike-93CH-4930290",
+    "title": "Power Solution options flow shows diagonal spread rolling $50 calls to $60 strike",
+    "tokens": [
+      "calls",
+      "diagonal",
+      "flow",
+      "options",
+      "power",
+      "rolling",
+      "shows",
+      "solution",
+      "spread",
+      "strike"
+    ],
+    "ts": 1790967528.9682934
+  },
+  {
+    "id": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report",
+    "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+    "tokens": [
+      "anchorage",
+      "bank",
+      "crypto",
+      "cuts",
+      "digital",
+      "report",
+      "workforce"
+    ],
+    "ts": 1790967538.33311
   }
 ]

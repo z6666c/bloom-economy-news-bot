@@ -1,161 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/iran-appeals-to-us-voters-as-american-troops-leave-iraq-4924049",
-    "title": "Iran appeals to US voters as American troops leave Iraq",
-    "tokens": [
-      "american",
-      "appeals",
-      "iran",
-      "iraq",
-      "leave",
-      "troops",
-      "voters"
-    ],
-    "ts": 1790738405.3647003
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/australia-inflation-stubbornly-high-in-august-defying-run-of-rate-hikes-4924048",
-    "title": "Australia inflation stubbornly high in August, defying run of rate hikes",
-    "tokens": [
-      "august",
-      "australia",
-      "defying",
-      "high",
-      "hikes",
-      "inflation",
-      "rate",
-      "run",
-      "stubbornly"
-    ],
-    "ts": 1790738414.5765016
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/chinas-weak-soybean-demand-dims-prospects-for-us-cargoes-after-tariff-snub-4924053",
-    "title": "China’s weak soybean demand dims prospects for US cargoes after tariff snub",
-    "tokens": [
-      "cargoes",
-      "china",
-      "demand",
-      "dims",
-      "prospects",
-      "snub",
-      "soybean",
-      "tariff",
-      "weak"
-    ],
-    "ts": 1790739844.0290017
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/droneshield-shares-surge-9-to-1month-high-on-500-million-us-deal-4924055",
-    "title": "DroneShield shares surge 9% to 1-month high on $500 million U.S. deal",
-    "tokens": [
-      "500",
-      "deal",
-      "droneshield",
-      "high",
-      "million",
-      "month",
-      "shares",
-      "surge"
-    ],
-    "ts": 1790740704.6008658
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/china-stimulus-picks-tech-and-consumer-names-tied-to-new-credit-flows-93CH-4924052",
-    "title": "China stimulus picks: tech and consumer names tied to new credit flows",
-    "tokens": [
-      "china",
-      "consumer",
-      "credit",
-      "flows",
-      "names",
-      "picks",
-      "stimulus",
-      "tech",
-      "tied"
-    ],
-    "ts": 1790740712.794046
-  },
-  {
-    "id": "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut",
-    "title": "Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut",
-    "tokens": [
-      "agent",
-      "bowl",
-      "com",
-      "crypto",
-      "debut",
-      "mode",
-      "months",
-      "nearly",
-      "stealth",
-      "still",
-      "super"
-    ],
-    "ts": 1790740722.9024715
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/china-adds-55-tariff-to-brazil-beef-imports-4924059",
-    "title": "China adds 55% tariff to Brazil beef imports",
-    "tokens": [
-      "adds",
-      "beef",
-      "brazil",
-      "china",
-      "imports",
-      "tariff"
-    ],
-    "ts": 1790741979.1421623
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/pale-fire-capital-buys-113m-in-coursera-cour-stock-93CH-4924057",
-    "title": "Pale fire capital buys $11.3m in Coursera (COUR) stock",
-    "tokens": [
-      "buys",
-      "capital",
-      "cour",
-      "coursera",
-      "fire",
-      "pale",
-      "stock"
-    ],
-    "ts": 1790741988.3764224
-  },
-  {
-    "id": "2068bd0a-7c48-4549-bc65-90f013c5f851",
-    "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
-    "tokens": [
-      "bitcoin",
-      "bull",
-      "cooling",
-      "even",
-      "gauge",
-      "nears",
-      "perfect",
-      "rally",
-      "score",
-      "shows",
-      "signs"
-    ],
-    "ts": 1790743412.576512
-  },
-  {
-    "id": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins",
-    "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
-    "tokens": [
-      "crypto",
-      "defi",
-      "detail",
-      "draft",
-      "illinois",
-      "rules",
-      "stablecoin",
-      "tax",
-      "treatment"
-    ],
-    "ts": 1790743422.1231961
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/japans-tdk-taiyo-yuden-shares-rise-on-ai-electronics-partnership-4924064",
     "title": "Japan’s TDK, Taiyo Yuden shares rise on AI electronics partnership",
     "tokens": [
@@ -22845,5 +22689,160 @@
       "workforce"
     ],
     "ts": 1790967538.33311
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/italy-raises-growth-forecast-deficit-to-fall-below-eu-limit-93CH-4930320",
+    "title": "Italy raises growth forecast, deficit to fall below EU limit",
+    "tokens": [
+      "below",
+      "deficit",
+      "fall",
+      "forecast",
+      "growth",
+      "italy",
+      "limit",
+      "raises"
+    ],
+    "ts": 1790968543.5097954
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/the-chefs-warehouse-stock-hits-alltime-high-at-11767-usd-93CH-4930310",
+    "title": "The Chefs Warehouse stock hits all-time high at 117.67 USD",
+    "tokens": [
+      "117",
+      "all",
+      "chefs",
+      "high",
+      "hits",
+      "stock",
+      "time",
+      "usd",
+      "warehouse"
+    ],
+    "ts": 1790968547.5229776
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/urenergy-at-mining-forum-americas-2026-growth-meets-supply-security-93CH-4930308",
+    "title": "Ur-Energy at Mining Forum Americas 2026: growth meets supply security",
+    "tokens": [
+      "2026",
+      "americas",
+      "energy",
+      "forum",
+      "growth",
+      "meets",
+      "mining",
+      "security",
+      "supply"
+    ],
+    "ts": 1790968553.3590772
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-faa-finds-boeing-737-max-software-glitch-does-not-pose-safety-issue-4930307",
+    "title": "US FAA finds Boeing 737 MAX software glitch does not pose safety issue",
+    "tokens": [
+      "737",
+      "boeing",
+      "does",
+      "faa",
+      "finds",
+      "glitch",
+      "issue",
+      "max",
+      "pose",
+      "safety",
+      "software"
+    ],
+    "ts": 1790968562.6583164
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/boeing-shares-gain-as-faa-finds-no-safety-issue-with-737-max-software-glitch-4930306",
+    "title": "Boeing shares gain as FAA finds no safety issue with 737 MAX software glitch",
+    "tokens": [
+      "737",
+      "boeing",
+      "faa",
+      "finds",
+      "gain",
+      "glitch",
+      "issue",
+      "max",
+      "safety",
+      "shares",
+      "software"
+    ],
+    "ts": 1790968566.6714485
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/how-to-manage-stock-losses-a-framework-for-cutting-or-holding-93CH-4930305",
+    "title": "How to manage stock losses: a framework for cutting or holding",
+    "tokens": [
+      "cutting",
+      "framework",
+      "holding",
+      "how",
+      "losses",
+      "manage",
+      "stock"
+    ],
+    "ts": 1790968571.0012429
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/five-largecap-biotech-stocks-with-upcoming-catalysts-93CH-4930304",
+    "title": "Five large-cap biotech stocks with upcoming catalysts",
+    "tokens": [
+      "biotech",
+      "cap",
+      "catalysts",
+      "five",
+      "large",
+      "stocks",
+      "upcoming"
+    ],
+    "ts": 1790968578.8066063
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/pltr-and-mstr-as-a-pairs-trade-what-the-data-shows-93CH-4930303",
+    "title": "PLTR and MSTR as a pairs trade: what the data shows",
+    "tokens": [
+      "data",
+      "mstr",
+      "pairs",
+      "pltr",
+      "shows",
+      "trade",
+      "what"
+    ],
+    "ts": 1790968587.194383
+  },
+  {
+    "id": "oilprice-article-45670",
+    "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
+    "tokens": [
+      "despite",
+      "flowing",
+      "iranian",
+      "oil",
+      "risk",
+      "sanctions",
+      "starts",
+      "tajikistan"
+    ],
+    "ts": 1790968597.6393166
+  },
+  {
+    "id": "oilprice-news-45670",
+    "title": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
+    "tokens": [
+      "deploys",
+      "facilities",
+      "gas",
+      "oil",
+      "patriots",
+      "qatari",
+      "saudi",
+      "shield"
+    ],
+    "ts": 1790968601.653103
   }
 ]

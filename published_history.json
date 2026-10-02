@@ -1,105 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/david-s-marriott-sells-123m-in-marriott-international-stock-93CH-4924016",
-    "title": "David S. Marriott sells $1.23m in Marriott International stock",
-    "tokens": [
-      "23m",
-      "david",
-      "international",
-      "marriott",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790735331.2668715
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/china-services-growth-hits-threemonth-high-private-pmi-shows-4924010",
-    "title": "China services growth hits three-month high, private PMI shows",
-    "tokens": [
-      "china",
-      "growth",
-      "high",
-      "hits",
-      "month",
-      "pmi",
-      "private",
-      "services",
-      "shows",
-      "three"
-    ],
-    "ts": 1790735339.5023744
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/kkr-sells-japan-and-korea-storage-tank-assets-93CH-4924038",
-    "title": "KKR sells Japan and Korea storage tank assets",
-    "tokens": [
-      "assets",
-      "japan",
-      "kkr",
-      "korea",
-      "sells",
-      "storage",
-      "tank"
-    ],
-    "ts": 1790736304.092715
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/abeona-therapeutics-cco-madhav-sells-25272-in-stock-93CH-4924037",
-    "title": "Abeona Therapeutics CCO Madhav sells $25,272 in stock",
-    "tokens": [
-      "272",
-      "abeona",
-      "cco",
-      "madhav",
-      "sells",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1790736314.6535869
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/abeona-therapeutics-svp-sells-34681-in-company-stock-93CH-4924036",
-    "title": "Abeona Therapeutics SVP sells $34,681 in company stock",
-    "tokens": [
-      "681",
-      "abeona",
-      "company",
-      "sells",
-      "stock",
-      "svp",
-      "therapeutics"
-    ],
-    "ts": 1790736322.9556675
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-nidec-stock-surging-today-93CH-4924033",
-    "title": "Why is Nidec stock surging today?",
-    "tokens": [
-      "nidec",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790736326.9674587
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/markets-slide-on-dollar-pressure--but-this-solar-name-just-jumped-1084-today-4924031",
-    "title": "Markets slide on dollar pressure - but this solar name just jumped 10.84% today",
-    "tokens": [
-      "dollar",
-      "jumped",
-      "just",
-      "markets",
-      "name",
-      "pressure",
-      "slide",
-      "solar",
-      "today"
-    ],
-    "ts": 1790736331.3112235
-  },
-  {
     "id": "https://www.investing.com/news/economic-indicators/chinese-factory-activity-returns-to-growth-in-september-amid-ai-boom-4924030",
     "title": "Chinese factory activity returns to growth in September amid AI boom",
     "tokens": [
@@ -22831,5 +22731,115 @@
       "season"
     ],
     "ts": 1790965003.267693
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/bridger-aerospace-at-noble-capital-markets-virtual-equity-investor-conference-growth-in-a-scarce-market-93CH-4930288",
+    "title": "Bridger Aerospace at Noble Capital Markets Virtual Equity Investor Conference: growth in a scarce market",
+    "tokens": [
+      "aerospace",
+      "bridger",
+      "capital",
+      "conference",
+      "equity",
+      "growth",
+      "investor",
+      "market",
+      "markets",
+      "noble",
+      "scarce",
+      "virtual"
+    ],
+    "ts": 1790966285.1195734
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nvidia-breaks-to-alltime-high-of-23787-driven-by-buyback-analyst-upgrade-and-ai-demand-93CH-4930287",
+    "title": "Nvidia breaks to all-time high of $237.87, driven by buyback, analyst upgrade, and AI demand",
+    "tokens": [
+      "237",
+      "all",
+      "analyst",
+      "breaks",
+      "buyback",
+      "demand",
+      "driven",
+      "high",
+      "nvidia",
+      "time",
+      "upgrade"
+    ],
+    "ts": 1790966295.3657067
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/electrical-oem-sector-strong-demand-high-valuation-risk-93CH-4930286",
+    "title": "Electrical OEM sector: strong demand, high valuation risk",
+    "tokens": [
+      "demand",
+      "electrical",
+      "high",
+      "oem",
+      "risk",
+      "sector",
+      "strong",
+      "valuation"
+    ],
+    "ts": 1790966304.5657594
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/starbucks-loses-bid-to-dismiss-union-trademark-lawsuit-93CH-4930285",
+    "title": "Starbucks loses bid to dismiss union trademark lawsuit",
+    "tokens": [
+      "bid",
+      "dismiss",
+      "lawsuit",
+      "loses",
+      "starbucks",
+      "trademark",
+      "union"
+    ],
+    "ts": 1790966314.4823651
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nike-earnings-analysis-questions-answered-and-next-catalysts-93CH-4930284",
+    "title": "Nike earnings analysis: questions answered and next catalysts",
+    "tokens": [
+      "analysis",
+      "answered",
+      "catalysts",
+      "earnings",
+      "next",
+      "nike",
+      "questions"
+    ],
+    "ts": 1790966318.498027
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/wms-options-activity-points-to-possible-hedge-roll-near-52week-low-93CH-4930283",
+    "title": "WMS options activity points to possible hedge roll near 52-week low",
+    "tokens": [
+      "activity",
+      "hedge",
+      "low",
+      "near",
+      "options",
+      "points",
+      "possible",
+      "roll",
+      "week",
+      "wms"
+    ],
+    "ts": 1790966323.3227577
+  },
+  {
+    "id": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue",
+    "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
+    "tokens": [
+      "blast",
+      "costs",
+      "ethereum",
+      "outpace",
+      "revenue",
+      "wind"
+    ],
+    "ts": 1790966333.380148
   }
 ]

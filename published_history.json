@@ -1,121 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/openais-annual-recurring-revenue-nears-70-billion-axios-reports-4923088",
-    "title": "OpenAI’s annualized recurring revenue nears $70 billion, source says",
-    "tokens": [
-      "annualized",
-      "billion",
-      "nears",
-      "openai",
-      "recurring",
-      "revenue",
-      "source"
-    ],
-    "ts": 1790698653.0446181
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-018-4923143",
-    "title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.18%",
-    "tokens": [
-      "close",
-      "higher",
-      "omx",
-      "stockholm",
-      "stocks",
-      "sweden",
-      "trade"
-    ],
-    "ts": 1790698657.060219
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/finland-stocks-lower-at-close-of-trade-omx-helsinki-25-down-051-4923137",
-    "title": "Finland stocks lower at close of trade; OMX Helsinki 25 down 0.51%",
-    "tokens": [
-      "close",
-      "finland",
-      "helsinki",
-      "lower",
-      "omx",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790698657.0754683
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-hardlines-retailers-to-watch-as-ai-agents-reshape-shopping-landscape-4923136",
-    "title": "U.S. Hardlines Retailers to Watch as AI Agents Reshape Shopping Landscape",
-    "tokens": [
-      "agents",
-      "hardlines",
-      "landscape",
-      "reshape",
-      "retailers",
-      "shopping",
-      "watch"
-    ],
-    "ts": 1790698661.061472
-  },
-  {
-    "id": "d477854d-f801-4054-bd25-323ac968793e",
-    "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
-    "tokens": [
-      "another",
-      "ethereum",
-      "get",
-      "money",
-      "pay",
-      "privately",
-      "returns",
-      "three",
-      "users",
-      "way",
-      "years"
-    ],
-    "ts": 1790698668.8933096
-  },
-  {
-    "id": "WP-MKTW-0005258457",
-    "title": "You might be shocked by how many stocks are in a bear market right now",
-    "tokens": [
-      "bear",
-      "how",
-      "many",
-      "market",
-      "might",
-      "now",
-      "right",
-      "shocked",
-      "stocks",
-      "you"
-    ],
-    "ts": 1790700257.4700835
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/blackrock-stake-in-public-policy-holding-falls-to-404-93CH-4923166",
-    "title": "BlackRock stake in Public Policy Holding falls to 4.04%",
-    "tokens": [
-      "blackrock",
-      "falls",
-      "holding",
-      "policy",
-      "public",
-      "stake"
-    ],
-    "ts": 1790700265.6520755
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trump-to-host-zuckerberg-anthropics-amodei-and-other-ai-titans-tuesday-4922037",
-    "title": "Trump says working with Xi on AI would hurt US companies",
-    "tokens": [
-      "companies",
-      "hurt",
-      "trump",
-      "working",
-      "would"
-    ],
-    "ts": 1790700272.8314016
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/gm-lg-to-make-lowercost-ev-battery-cells-in-tennessee-4923161",
     "title": "GM, LG to make lower-cost EV battery cells in Tennessee",
     "tokens": [
@@ -22930,5 +22814,117 @@
       "uptober"
     ],
     "ts": 1790930628.2659156
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-nike-stock-tumbling-today-93CH-4929129",
+    "title": "Why is Nike stock tumbling today?",
+    "tokens": [
+      "nike",
+      "stock",
+      "today",
+      "tumbling",
+      "why"
+    ],
+    "ts": 1790931434.8159258
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/gurit-stock-tumbles-after-ubs-downgrade-on-slowing-growth-93CH-4929128",
+    "title": "Gurit stock tumbles after UBS downgrade on slowing growth",
+    "tokens": [
+      "downgrade",
+      "growth",
+      "gurit",
+      "slowing",
+      "stock",
+      "tumbles",
+      "ubs"
+    ],
+    "ts": 1790931442.9020894
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/world-food-prices-near-fouryear-high-in-september-un-says-4929127",
+    "title": "World food prices near four-year high in September, UN says",
+    "tokens": [
+      "food",
+      "four",
+      "high",
+      "near",
+      "prices",
+      "september",
+      "world",
+      "year"
+    ],
+    "ts": 1790931451.5880556
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-capita-stock-sliding-today-93CH-4929123",
+    "title": "Why is Capita stock sliding today?",
+    "tokens": [
+      "capita",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790931455.599793
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/glencore-raises-2026-marketing-profit-outlook-sets-asx-debut-93CH-4929120",
+    "title": "Glencore raises 2026 marketing profit outlook, sets ASX debut",
+    "tokens": [
+      "2026",
+      "asx",
+      "debut",
+      "glencore",
+      "marketing",
+      "outlook",
+      "profit",
+      "raises",
+      "sets"
+    ],
+    "ts": 1790931461.0679839
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/italy-to-raise-2026-growth-forecast-cut-defense-plans--report-93CH-4929119",
+    "title": "Italy to raise 2026 growth forecast, cut defense plans - report",
+    "tokens": [
+      "2026",
+      "cut",
+      "defense",
+      "forecast",
+      "growth",
+      "italy",
+      "plans",
+      "raise",
+      "report"
+    ],
+    "ts": 1790931469.5180793
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-synaptics-stock-surging-today-93CH-4929110",
+    "title": "Why is Synaptics stock surging today?",
+    "tokens": [
+      "stock",
+      "surging",
+      "synaptics",
+      "today",
+      "why"
+    ],
+    "ts": 1790931473.530412
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-050-4929108",
+    "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.50%",
+    "tokens": [
+      "close",
+      "composite",
+      "higher",
+      "idx",
+      "index",
+      "indonesia",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1790931477.556416
   }
 ]

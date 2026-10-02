@@ -1,192 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/rtx-leads-defense-stocks-as-the-top-nearterm-watchlist-candidate-93CH-4923337",
-    "title": "RTX leads defense stocks as the top near-term watchlist candidate",
-    "tokens": [
-      "candidate",
-      "defense",
-      "leads",
-      "near",
-      "rtx",
-      "stocks",
-      "term",
-      "top",
-      "watchlist"
-    ],
-    "ts": 1790709121.805907
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-walmart-stock-sliding-today-93CH-4923336",
-    "title": "Why is Walmart stock sliding today?",
-    "tokens": [
-      "sliding",
-      "stock",
-      "today",
-      "walmart",
-      "why"
-    ],
-    "ts": 1790709125.8178024
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/eversource-dartmouth-win-477m-doe-grant-for-grid-project-93CH-4923334",
-    "title": "Eversource, Dartmouth win $47.7M DOE grant for grid project",
-    "tokens": [
-      "dartmouth",
-      "doe",
-      "eversource",
-      "grant",
-      "grid",
-      "project",
-      "win"
-    ],
-    "ts": 1790709129.7186499
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/reynaldos-mexican-food-company-appoints-new-ceo-and-changes-auditor-93CH-4923333",
-    "title": "Reynaldo’s Mexican Food Company appoints new CEO and changes auditor",
-    "tokens": [
-      "appoints",
-      "auditor",
-      "ceo",
-      "changes",
-      "company",
-      "food",
-      "mexican",
-      "reynaldo"
-    ],
-    "ts": 1790709138.027904
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/at-un-developing-nations-call-for-bigger-say-in-shaping-ai-future-4923327",
-    "title": "At UN, developing nations call for bigger say in shaping AI future",
-    "tokens": [
-      "bigger",
-      "call",
-      "developing",
-      "future",
-      "nations",
-      "say",
-      "shaping"
-    ],
-    "ts": 1790709146.7024148
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/spacexs-starship-engine-failure-could-impact-nasas-moon-mission-objectives-4922033",
-    "title": "SpaceX’s Starship engine failure could impact NASA’s moon mission objectives",
-    "tokens": [
-      "could",
-      "engine",
-      "failure",
-      "impact",
-      "mission",
-      "moon",
-      "nasa",
-      "objectives",
-      "spacex",
-      "starship"
-    ],
-    "ts": 1790709154.0297906
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/qc-capital-announces-cruz-express-oil-expanding-its-car-care-platform-into-express-oil-change-1036583022",
-    "title": "QC Capital Announces Cruz Express Oil, Expanding Its Car Care Platform Into Express Oil Change",
-    "tokens": [
-      "announces",
-      "capital",
-      "car",
-      "care",
-      "change",
-      "cruz",
-      "expanding",
-      "express",
-      "oil",
-      "platform"
-    ],
-    "ts": 1790709161.604488
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/award-winning-author-and-former-ceo-tracy-doyle-unveils-the-aurora-method-to-combat-the-true-casualty-of-executive-burnout-relationships-1036580396",
-    "title": "Award-Winning Author and Former CEO Tracy Doyle Unveils the Aurora Method to Combat the True Casualty of Executive Burnout: Relationships",
-    "tokens": [
-      "aurora",
-      "author",
-      "award",
-      "burnout",
-      "casualty",
-      "ceo",
-      "combat",
-      "doyle",
-      "executive",
-      "former",
-      "method",
-      "relationships",
-      "tracy",
-      "true",
-      "unveils",
-      "winning"
-    ],
-    "ts": 1790709169.5429223
-  },
-  {
-    "id": "https://seekingalpha.com/news/4648173-inspired-entertainment-slides-after-brazils-ban-on-online-betting-and-gambling?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Inspired Entertainment slides after Brazil's ban on online betting and gambling",
-    "tokens": [
-      "ban",
-      "betting",
-      "brazil",
-      "entertainment",
-      "gambling",
-      "inspired",
-      "online",
-      "slides"
-    ],
-    "ts": 1790709176.7994037
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/hyln-deadline-notice-rosen-skilled-investor-counsel-encourages-hyliion-holdings-corp.-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-deadline-in-securities-class-action-hyln-1036582948",
-    "title": "HYLN DEADLINE NOTICE: ROSEN, SKILLED INVESTOR COUNSEL, Encourages Hyliion Holdings Corp. Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class...",
-    "tokens": [
-      "100k",
-      "before",
-      "class",
-      "corp",
-      "counsel",
-      "deadline",
-      "encourages",
-      "excess",
-      "holdings",
-      "hyliion",
-      "hyln",
-      "important",
-      "investor",
-      "investors",
-      "losses",
-      "notice",
-      "rosen",
-      "secure",
-      "securities",
-      "skilled"
-    ],
-    "ts": 1790709184.2039518
-  },
-  {
-    "id": "https://www.businessinsider.com/amazon-new-york-city-delivery-vans-violations-2026-9",
-    "title": "Amazon vans may be New York City's latest target in a crackdown on delivery services",
-    "tokens": [
-      "amazon",
-      "city",
-      "crackdown",
-      "delivery",
-      "latest",
-      "may",
-      "services",
-      "target",
-      "vans",
-      "york"
-    ],
-    "ts": 1790709192.0418012
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/eversource-and-dartmouth-engineering-selected-for-u-s-department-of-energy-spark-award-to-expand-grid-capacity-and-deliver-customer-benefits-through-grid-enhancing-technology-1036582950",
     "title": "Eversource and Dartmouth Engineering selected for U.S. Department of Energy SPARK Award to expand grid capacity and deliver customer benefits through grid-enhancing technology",
     "tokens": [
@@ -22924,5 +22737,160 @@
       "startup"
     ],
     "ts": 1790938701.4682074
+  },
+  {
+    "id": "WP-MKTW-0005263186",
+    "title": "TV dinner overload? The frozen-food aisle may be too crowded for its own good.",
+    "tokens": [
+      "aisle",
+      "crowded",
+      "dinner",
+      "food",
+      "frozen",
+      "good",
+      "may",
+      "overload",
+      "own",
+      "too"
+    ],
+    "ts": 1790939632.9615316
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/netstreit-secures-550-million-in-financing-commitments-93CH-4929477",
+    "title": "NETSTREIT secures $550 million in financing commitments",
+    "tokens": [
+      "550",
+      "commitments",
+      "financing",
+      "million",
+      "netstreit",
+      "secures"
+    ],
+    "ts": 1790939640.291788
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pyxis-oncology-closes-110-million-public-offering-93CH-4929476",
+    "title": "Pyxis Oncology closes $110 million public offering",
+    "tokens": [
+      "110",
+      "closes",
+      "million",
+      "offering",
+      "oncology",
+      "public",
+      "pyxis"
+    ],
+    "ts": 1790939647.774008
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/prospect-ridge-announces-c15m-flowthrough-private-placement-93CH-4929475",
+    "title": "Prospect Ridge announces C$1.5M flow-through private placement",
+    "tokens": [
+      "announces",
+      "flow",
+      "placement",
+      "private",
+      "prospect",
+      "ridge",
+      "through"
+    ],
+    "ts": 1790939656.385527
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ceco-environmental-to-transfer-listing-to-texas-exchange-93CH-4929474",
+    "title": "CECO Environmental to transfer listing to Texas exchange",
+    "tokens": [
+      "ceco",
+      "environmental",
+      "exchange",
+      "listing",
+      "texas",
+      "transfer"
+    ],
+    "ts": 1790939664.563924
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-looks-to-expand-use-of-canoesized-drones-to-deter-migrant-crossings-4929345",
+    "title": "US looks to expand use of canoe-sized drones to deter migrant crossings",
+    "tokens": [
+      "canoe",
+      "crossings",
+      "deter",
+      "drones",
+      "expand",
+      "looks",
+      "migrant",
+      "sized",
+      "use"
+    ],
+    "ts": 1790939672.4104292
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/forterra-employee-trust-buys-75000-shares-at-1532-93CH-4929472",
+    "title": "Forterra employee trust buys 75,000 shares at £1.532",
+    "tokens": [
+      "000",
+      "532",
+      "buys",
+      "employee",
+      "forterra",
+      "shares",
+      "trust"
+    ],
+    "ts": 1790939680.7401485
+  },
+  {
+    "id": "https://www.investing.com/news/investment-ideas/rocket-labs-43-plunge-validates-investingpros-overvalued-call-93CH-4929471",
+    "title": "Rocket Lab’s 43% plunge validates InvestingPro’s overvalued call",
+    "tokens": [
+      "call",
+      "investingpro",
+      "lab",
+      "overvalued",
+      "plunge",
+      "rocket",
+      "validates"
+    ],
+    "ts": 1790939688.5430117
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/germany-mulls-tougher-takeover-rules-after-unicredit-deal--report-93CH-4929469",
+    "title": "Germany mulls tougher takeover rules after UniCredit deal - report",
+    "tokens": [
+      "deal",
+      "germany",
+      "mulls",
+      "report",
+      "rules",
+      "takeover",
+      "tougher",
+      "unicredit"
+    ],
+    "ts": 1790939696.3001432
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/morning-bid-yield-to-worst-4929468",
+    "title": "Morning Bid: Yield to worst",
+    "tokens": [
+      "bid",
+      "morning",
+      "worst",
+      "yield"
+    ],
+    "ts": 1790939704.5220695
+  },
+  {
+    "id": "https://cointelegraph.com/interview/bitcoin-treasuries-struggle-strategy-says-ammous",
+    "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
+    "tokens": [
+      "ammous",
+      "bitcoin",
+      "match",
+      "may",
+      "strategy",
+      "struggle",
+      "treasuries"
+    ],
+    "ts": 1790939714.313339
   }
 ]

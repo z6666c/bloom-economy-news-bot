@@ -1,76 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/arrow-exploration-directors-exercise-51-million-stock-options-93CH-4924214",
-    "title": "Arrow Exploration directors exercise 5.1 million stock options",
-    "tokens": [
-      "arrow",
-      "directors",
-      "exercise",
-      "exploration",
-      "million",
-      "options",
-      "stock"
-    ],
-    "ts": 1790752448.387626
-  },
-  {
-    "id": "c5f362f2-0b9c-4bbd-9e7f-eb49df7aa97b",
-    "title": "Bitcoin bulls have one price level to defend",
-    "tokens": [
-      "bitcoin",
-      "bulls",
-      "defend",
-      "level",
-      "one",
-      "price"
-    ],
-    "ts": 1790752457.2902474
-  },
-  {
-    "id": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau",
-    "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
-    "tokens": [
-      "allunity",
-      "european",
-      "issuer",
-      "launches",
-      "stablecoin",
-      "usd",
-      "usdau"
-    ],
-    "ts": 1790752465.9357224
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-    "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-    "tokens": [
-      "announces",
-      "application",
-      "approval",
-      "bancorp",
-      "board",
-      "federal",
-      "inc",
-      "peoples",
-      "reserve"
-    ],
-    "ts": 1790752473.4694366
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/nasus-pharma-stock-reiterated-at-market-outperform-by-citizens-93CH-4924248",
-    "title": "Nasus Pharma stock reiterated at Market Outperform by Citizens",
-    "tokens": [
-      "citizens",
-      "market",
-      "nasus",
-      "outperform",
-      "pharma",
-      "reiterated",
-      "stock"
-    ],
-    "ts": 1790753644.2110703
-  },
-  {
     "id": "https://www.investing.com/news/company-news/capitec-h1-2026-slides-earnings-up-19-on-diversified-income-growth-93CH-4924247",
     "title": "Capitec H1 2026 slides: earnings up 19% on diversified income growth",
     "tokens": [
@@ -22849,5 +22778,86 @@
       "trust"
     ],
     "ts": 1790977414.1795413
+  },
+  {
+    "id": "WP-MKTW-0005268201",
+    "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+    "tokens": [
+      "1970s",
+      "beginning",
+      "energy",
+      "falling",
+      "inflation",
+      "like",
+      "look",
+      "lot",
+      "prices",
+      "soaring",
+      "wages"
+    ],
+    "ts": 1790979067.4898796
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ceribell-cto-raymond-woo-sells-119145-in-company-stock-93CH-4930457",
+    "title": "Ceribell CTO Raymond Woo sells $119,145 in company stock",
+    "tokens": [
+      "119",
+      "145",
+      "ceribell",
+      "company",
+      "cto",
+      "raymond",
+      "sells",
+      "stock",
+      "woo"
+    ],
+    "ts": 1790979077.677396
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/oramed-pharmaceuticals-cfo-avraham-gabay-sells-90200-in-stock-93CH-4930456",
+    "title": "Oramed Pharmaceuticals CFO Avraham Gabay sells $90,200 in stock",
+    "tokens": [
+      "200",
+      "avraham",
+      "cfo",
+      "gabay",
+      "oramed",
+      "pharmaceuticals",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790979085.7969985
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/oramed-coo--cbo-joshua-hexter-sells-135330-in-shares-93CH-4930455",
+    "title": "Oramed COO & CBO Joshua Hexter sells $135,330 in shares",
+    "tokens": [
+      "135",
+      "330",
+      "cbo",
+      "coo",
+      "hexter",
+      "joshua",
+      "oramed",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790979095.4397206
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+    "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+    "tokens": [
+      "announces",
+      "application",
+      "approval",
+      "bancorp",
+      "board",
+      "federal",
+      "inc",
+      "peoples",
+      "reserve"
+    ],
+    "ts": 1790979106.3620806
   }
 ]

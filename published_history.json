@@ -1,66 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/technologies-new-energy-reports-25-revenue-rise-widening-losses-93CH-4924244",
-    "title": "Technologies New Energy reports 25% revenue rise, widening losses",
-    "tokens": [
-      "energy",
-      "losses",
-      "reports",
-      "revenue",
-      "rise",
-      "technologies",
-      "widening"
-    ],
-    "ts": 1790753661.1198597
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/doordash-to-create-3000-jobs-at-global-techcentre-in-india-4924243",
-    "title": "DoorDash to create 3,000 jobs at global tech centre in India",
-    "tokens": [
-      "000",
-      "centre",
-      "create",
-      "doordash",
-      "global",
-      "india",
-      "jobs",
-      "tech"
-    ],
-    "ts": 1790753669.2120655
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-uk-gdp-beats-forecasts-miners-lead-4924242",
-    "title": "FTSE 100 today: Stocks rise as UK GDP beats forecasts, miners lead",
-    "tokens": [
-      "100",
-      "beats",
-      "forecasts",
-      "ftse",
-      "gdp",
-      "lead",
-      "miners",
-      "rise",
-      "stocks",
-      "today"
-    ],
-    "ts": 1790753677.7094605
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/european-equities-gain-as-tech-listings-track-us-ai-expansion-signals-4924144",
-    "title": "European equities gain as tech listings track U.S. AI expansion signals",
-    "tokens": [
-      "equities",
-      "european",
-      "expansion",
-      "gain",
-      "listings",
-      "signals",
-      "tech",
-      "track"
-    ],
-    "ts": 1790753685.5676196
-  },
-  {
     "id": "https://www.investing.com/news/company-news/northern-venture-trust-opens-share-subscription-offer-93CH-4924241",
     "title": "Northern Venture Trust opens share subscription offer",
     "tokens": [
@@ -22862,5 +22801,68 @@
       "trump"
     ],
     "ts": 1790981147.341071
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/global-compliance-applications-closes-first-tranche-of-placement-93CH-4930506",
+    "title": "Global Compliance Applications closes first tranche of placement",
+    "tokens": [
+      "applications",
+      "closes",
+      "compliance",
+      "first",
+      "global",
+      "placement",
+      "tranche"
+    ],
+    "ts": 1790982535.6706316
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/apple-says-it-will-flag-ai-requests-for-mac-data-after-metas-muse-draws-complaints-4930505",
+    "title": "Apple says it will flag AI requests for Mac data after Meta’s Muse draws complaints",
+    "tokens": [
+      "apple",
+      "complaints",
+      "data",
+      "draws",
+      "flag",
+      "mac",
+      "meta",
+      "muse",
+      "requests"
+    ],
+    "ts": 1790982545.3844619
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/roblox-director-gregory-baszucki-sells-over-714k-in-shares-93CH-4930503",
+    "title": "Roblox director Gregory Baszucki sells over $714k in shares",
+    "tokens": [
+      "714k",
+      "baszucki",
+      "director",
+      "gregory",
+      "roblox",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790982554.3324566
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusivechina-demands-copper-supply-commitments-for-anglo-teck-merger-approval-sources-say-4929672",
+    "title": "Exclusive-China demands copper supply commitments for Anglo Teck merger approval, sources say",
+    "tokens": [
+      "anglo",
+      "approval",
+      "china",
+      "commitments",
+      "copper",
+      "demands",
+      "exclusive",
+      "merger",
+      "say",
+      "sources",
+      "supply",
+      "teck"
+    ],
+    "ts": 1790982562.0205584
   }
 ]

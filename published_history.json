@@ -1,99 +1,5 @@
 [
   {
-    "id": "oilprice-article-45635",
-    "title": "Iran Talks Take the Heat Out of the Oil Rally",
-    "tokens": [
-      "heat",
-      "iran",
-      "oil",
-      "rally",
-      "take",
-      "talks"
-    ],
-    "ts": 1790696042.5630972
-  },
-  {
-    "id": "oilprice-news-45635",
-    "title": "Dangote Targets 10 Million Investors in Africa’s Biggest IPO",
-    "tokens": [
-      "africa",
-      "biggest",
-      "dangote",
-      "investors",
-      "ipo",
-      "million",
-      "targets"
-    ],
-    "ts": 1790696050.8741198
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/prudential-financial-inc-preferred-stock-hits-52week-low-at-1473-usd-93CH-4923130",
-    "title": "Prudential Financial Inc preferred stock hits 52-week low at 14.73 USD",
-    "tokens": [
-      "financial",
-      "hits",
-      "inc",
-      "low",
-      "preferred",
-      "prudential",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790697436.636699
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/gpn-options-flow-shows-heavily-lopsided-call-activity-ahead-of-october-expiry-93CH-4923129",
-    "title": "GPN options flow shows heavily lopsided call activity ahead of October expiry",
-    "tokens": [
-      "activity",
-      "ahead",
-      "call",
-      "expiry",
-      "flow",
-      "gpn",
-      "heavily",
-      "lopsided",
-      "october",
-      "options",
-      "shows"
-    ],
-    "ts": 1790697444.7041304
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jpmorgan-banker-renews-defamation-countersuit-against-sexual-assault-accuser-rana-4923128",
-    "title": "JPMorgan banker renews defamation countersuit against sexual assault accuser Rana",
-    "tokens": [
-      "accuser",
-      "against",
-      "assault",
-      "banker",
-      "countersuit",
-      "defamation",
-      "jpmorgan",
-      "rana",
-      "renews",
-      "sexual"
-    ],
-    "ts": 1790697452.0327358
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/treasure-global-reduces-software-agreement-scope-and-fees-with-mestiz-technology-93CH-4923127",
-    "title": "Treasure Global reduces software agreement scope and fees with Mestiz Technology",
-    "tokens": [
-      "agreement",
-      "fees",
-      "global",
-      "mestiz",
-      "reduces",
-      "scope",
-      "software",
-      "technology",
-      "treasure"
-    ],
-    "ts": 1790697459.759534
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/aehr-test-systems-shares-may-move-84-on-earnings-release-93CH-4923126",
     "title": "Aehr Test Systems shares may move 8.4% on earnings release",
     "tokens": [
@@ -22935,5 +22841,92 @@
       "upgrades"
     ],
     "ts": 1790927098.5110176
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/volvo-cars-falls-as-q3-sales-slump-11-on-china-us-weakness-4929070",
+    "title": "Volvo Cars falls as Q3 sales slump 11% on China, U.S. weakness",
+    "tokens": [
+      "cars",
+      "china",
+      "falls",
+      "sales",
+      "slump",
+      "volvo",
+      "weakness"
+    ],
+    "ts": 1790929247.7244258
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/novartis-signs-mrna-deal-for-about-78-billion-with-chinas-abogen-4929069",
+    "title": "Novartis signs mRNA deal for about $7.8 billion with China’s Abogen",
+    "tokens": [
+      "abogen",
+      "about",
+      "billion",
+      "china",
+      "deal",
+      "mrna",
+      "novartis",
+      "signs"
+    ],
+    "ts": 1790929256.3812373
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/nonfarm-payrolls-loom-large-bond-market-volatility--whats-moving-markets-4929052",
+    "title": "Nonfarm payrolls loom large; bond market volatility - what’s moving markets",
+    "tokens": [
+      "bond",
+      "large",
+      "loom",
+      "market",
+      "markets",
+      "moving",
+      "nonfarm",
+      "payrolls",
+      "volatility",
+      "what"
+    ],
+    "ts": 1790929265.250371
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/106-38-37-see-which-stocks-are-in-and-out-of-our-aipicks-for-october-4929051",
+    "title": "+106%, +38%, +37%, see which stocks are in and out of our AI-picks for October",
+    "tokens": [
+      "106",
+      "october",
+      "our",
+      "picks",
+      "see",
+      "stocks",
+      "which"
+    ],
+    "ts": 1790929273.4465005
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/berenberg-initiates-vodafone-stock-coverage-with-buy-rating-93CH-4929048",
+    "title": "Berenberg initiates Vodafone stock coverage with buy rating",
+    "tokens": [
+      "berenberg",
+      "buy",
+      "coverage",
+      "initiates",
+      "rating",
+      "stock",
+      "vodafone"
+    ],
+    "ts": 1790929281.0298035
+  },
+  {
+    "id": "7d3f6176-38a9-407a-a4f7-8f391e347272",
+    "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
+    "tokens": [
+      "000",
+      "ahead",
+      "bitcoin",
+      "jobs",
+      "report",
+      "tops"
+    ],
+    "ts": 1790929291.3323772
   }
 ]

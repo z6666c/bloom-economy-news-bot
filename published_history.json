@@ -1,189 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/china-tech-picks-pdd-jdcom-alibaba-and-baidu-compared-93CH-4923384",
-    "title": "China tech picks: PDD, JD.com, Alibaba, and Baidu compared",
-    "tokens": [
-      "alibaba",
-      "baidu",
-      "china",
-      "com",
-      "compared",
-      "pdd",
-      "picks",
-      "tech"
-    ],
-    "ts": 1790712782.7690437
-  },
-  {
-    "id": "oilprice-article-45633",
-    "title": "California and the EU Move to Rein In the Environmental Cost of AI",
-    "tokens": [
-      "california",
-      "cost",
-      "environmental",
-      "move",
-      "rein"
-    ],
-    "ts": 1790712792.436424
-  },
-  {
-    "id": "oilprice-news-45633",
-    "title": "Three EU Nations Call for New 2040 Renewable Energy Goal",
-    "tokens": [
-      "2040",
-      "call",
-      "energy",
-      "goal",
-      "nations",
-      "renewable",
-      "three"
-    ],
-    "ts": 1790712800.1894531
-  },
-  {
-    "id": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners",
-    "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
-    "tokens": [
-      "cftc",
-      "come",
-      "commissioners",
-      "crypto",
-      "following",
-      "key",
-      "regulation",
-      "resignation",
-      "sec"
-    ],
-    "ts": 1790712808.962716
-  },
-  {
-    "id": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation",
-    "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
-    "tokens": [
-      "could",
-      "funding",
-      "hit",
-      "openai",
-      "report",
-      "round",
-      "valuation"
-    ],
-    "ts": 1790712816.8726487
-  },
-  {
-    "id": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push",
-    "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
-    "tokens": [
-      "dinari",
-      "explore",
-      "kakaopay",
-      "korean",
-      "ondo",
-      "partners",
-      "stocks",
-      "tokenized"
-    ],
-    "ts": 1790712824.6927907
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-    "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-    "tokens": [
-      "agencies",
-      "banking",
-      "feedback",
-      "letters",
-      "organizations",
-      "plan",
-      "publish",
-      "resolution"
-    ],
-    "ts": 1790712831.9427352
-  },
-  {
-    "id": "WP-MKTW-0005259889",
-    "title": "Traders expecting a back-to-back rate hike from the Fed in October may have gotten ahead of themselves",
-    "tokens": [
-      "ahead",
-      "back",
-      "expecting",
-      "fed",
-      "gotten",
-      "hike",
-      "may",
-      "october",
-      "rate",
-      "themselves",
-      "traders"
-    ],
-    "ts": 1790713892.0864074
-  },
-  {
-    "id": "WP-MKTW-0005253840",
-    "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-    "tokens": [
-      "going",
-      "help",
-      "homeless",
-      "hungry",
-      "live",
-      "many",
-      "off",
-      "pay",
-      "people",
-      "rent",
-      "security",
-      "social",
-      "why"
-    ],
-    "ts": 1790713900.041208
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trump-tech-executives-sign-morally-binding-ai-document-4923415",
-    "title": "Trump, tech executives sign ’morally binding’ AI document",
-    "tokens": [
-      "binding",
-      "document",
-      "executives",
-      "morally",
-      "sign",
-      "tech",
-      "trump"
-    ],
-    "ts": 1790713908.4017842
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/cadrenal-therapeutics-shareholders-approve-equity-plan-amendment-and-warrant-issuance-93CH-4923443",
-    "title": "Cadrenal Therapeutics shareholders approve equity plan amendment and warrant issuance",
-    "tokens": [
-      "amendment",
-      "approve",
-      "cadrenal",
-      "equity",
-      "issuance",
-      "plan",
-      "shareholders",
-      "therapeutics",
-      "warrant"
-    ],
-    "ts": 1790713916.563662
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/agility-robotics-names-three-directors-ahead-of-spac-merger-93CH-4923442",
-    "title": "Agility Robotics names three directors ahead of SPAC merger",
-    "tokens": [
-      "agility",
-      "ahead",
-      "directors",
-      "merger",
-      "names",
-      "robotics",
-      "spac",
-      "three"
-    ],
-    "ts": 1790713924.0851552
-  },
-  {
     "id": "https://www.investing.com/news/company-news/fingermotion-to-acquire-alberta-power-site-for-23-million-93CH-4923440",
     "title": "FingerMotion to acquire Alberta power site for $2.3 million",
     "tokens": [
@@ -22857,5 +22673,184 @@
       "unemployment"
     ],
     "ts": 1790944944.9333506
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/portugals-galp-explores-options-for-renewable-assets-bloomberg-reports-4929854",
+    "title": "Portugal’s Galp explores options for renewable assets, Bloomberg reports",
+    "tokens": [
+      "assets",
+      "bloomberg",
+      "explores",
+      "galp",
+      "options",
+      "portugal",
+      "renewable",
+      "reports"
+    ],
+    "ts": 1790945971.8422835
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/trump-says-us-deal-with-south-korea-includes-84-billionfor-oil-recovery-4929853",
+    "title": "Trump says US deal with South Korea includes $8.4 billion for oil recovery",
+    "tokens": [
+      "billion",
+      "deal",
+      "includes",
+      "korea",
+      "oil",
+      "recovery",
+      "south",
+      "trump"
+    ],
+    "ts": 1790945979.705448
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-hold-on-resmed-stock-amid-market-share-concerns-93CH-4929852",
+    "title": "Stifel reiterates Hold on ResMed stock amid market share concerns",
+    "tokens": [
+      "concerns",
+      "hold",
+      "market",
+      "reiterates",
+      "resmed",
+      "share",
+      "stifel",
+      "stock"
+    ],
+    "ts": 1790945988.678425
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-servicetitan-stock-ahead-of-conference-93CH-4929851",
+    "title": "Stifel reiterates Buy on ServiceTitan stock ahead of conference",
+    "tokens": [
+      "ahead",
+      "buy",
+      "conference",
+      "reiterates",
+      "servicetitan",
+      "stifel",
+      "stock"
+    ],
+    "ts": 1790945996.7355003
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-spyglass-pharma-stock-buy-rating-on-acquisition-93CH-4929850",
+    "title": "Stifel reiterates SpyGlass Pharma stock Buy rating on acquisition",
+    "tokens": [
+      "acquisition",
+      "buy",
+      "pharma",
+      "rating",
+      "reiterates",
+      "spyglass",
+      "stifel",
+      "stock"
+    ],
+    "ts": 1790946005.7157745
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/us-economy-adds-29000-jobs-in-september-4929771",
+    "title": "U.S. economy adds fewer jobs than expected as unemployment rate ticks higher",
+    "tokens": [
+      "adds",
+      "economy",
+      "expected",
+      "fewer",
+      "higher",
+      "jobs",
+      "rate",
+      "ticks",
+      "unemployment"
+    ],
+    "ts": 1790946013.883741
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/soft-september-jobs-report-sends-markets-higher-4929845",
+    "title": "Soft September jobs report sends markets higher",
+    "tokens": [
+      "higher",
+      "jobs",
+      "markets",
+      "report",
+      "sends",
+      "september",
+      "soft"
+    ],
+    "ts": 1790946023.1356413
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/keybanc-bullish-on-airbnb-sees-hotels-as-second-growth-engine-4929844",
+    "title": "KeyBanc bullish on Airbnb, sees hotels as second growth engine",
+    "tokens": [
+      "airbnb",
+      "bullish",
+      "engine",
+      "growth",
+      "hotels",
+      "keybanc",
+      "second",
+      "sees"
+    ],
+    "ts": 1790946031.9417062
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-glaukos-stock-rating-on-strong-epioxa-survey-93CH-4929830",
+    "title": "Stifel reiterates Glaukos stock rating on strong Epioxa survey",
+    "tokens": [
+      "epioxa",
+      "glaukos",
+      "rating",
+      "reiterates",
+      "stifel",
+      "stock",
+      "strong",
+      "survey"
+    ],
+    "ts": 1790946040.0093493
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-federal-realty-stock-hold-rating-after-acquisition-93CH-4929829",
+    "title": "Stifel reiterates Federal Realty stock Hold rating after acquisition",
+    "tokens": [
+      "acquisition",
+      "federal",
+      "hold",
+      "rating",
+      "realty",
+      "reiterates",
+      "stifel",
+      "stock"
+    ],
+    "ts": 1790946048.3981028
+  },
+  {
+    "id": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
+    "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+    "tokens": [
+      "circle",
+      "mica",
+      "reserve",
+      "review",
+      "revise",
+      "rules",
+      "stablecoin",
+      "urges"
+    ],
+    "ts": 1790946057.6495624
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+    "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+    "tokens": [
+      "agencies",
+      "banking",
+      "feedback",
+      "letters",
+      "organizations",
+      "plan",
+      "publish",
+      "resolution"
+    ],
+    "ts": 1790946065.806641
   }
 ]

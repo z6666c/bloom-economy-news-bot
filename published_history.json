@@ -1,82 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economic-indicators/uk-business-confidence-hits-17month-low-as-middle-east-tensions-lift-costs-93CH-4924127",
-    "title": "UK business confidence hits 17-month low as Middle East tensions lift costs",
-    "tokens": [
-      "business",
-      "confidence",
-      "costs",
-      "east",
-      "hits",
-      "lift",
-      "low",
-      "middle",
-      "month",
-      "tensions"
-    ],
-    "ts": 1790749138.075285
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/skistar-fy-operating-profit-rises-11-as-mountain-demand-grows-4924126",
-    "title": "SkiStar FY operating profit rises 11% as mountain demand grows",
-    "tokens": [
-      "demand",
-      "grows",
-      "mountain",
-      "operating",
-      "profit",
-      "rises",
-      "skistar"
-    ],
-    "ts": 1790749146.7489102
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/top-china-biopharma-stocks-to-watch-according-to-bernstein-4924125",
-    "title": "Top China Biopharma Stocks to Watch, According to Bernstein",
-    "tokens": [
-      "according",
-      "bernstein",
-      "biopharma",
-      "china",
-      "stocks",
-      "top",
-      "watch"
-    ],
-    "ts": 1790749156.1677883
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australias-metrics-freezes-some-fund-redemptions-in-sign-of-private-credit-market-stress-4924093",
-    "title": "Australia’s Metrics freezes some fund redemptions in sign of private credit market stress",
-    "tokens": [
-      "australia",
-      "credit",
-      "freezes",
-      "fund",
-      "market",
-      "metrics",
-      "private",
-      "redemptions",
-      "sign",
-      "some",
-      "stress"
-    ],
-    "ts": 1790749164.718603
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-britain-should-consider-rejoining-european-union-93CH-4924088",
-    "title": "UK PM Burnham says Britain should consider rejoining European Union",
-    "tokens": [
-      "britain",
-      "burnham",
-      "consider",
-      "european",
-      "rejoining",
-      "should",
-      "union"
-    ],
-    "ts": 1790749172.6441479
-  },
-  {
     "id": "https://www.investing.com/news/company-news/abbvies-zumilokibart-meets-phase-2-atopic-dermatitis-endpoint-93CH-4924087",
     "title": "AbbVie’s zumilokibart meets phase 2 atopic dermatitis endpoint",
     "tokens": [
@@ -22846,5 +22769,81 @@
       "until"
     ],
     "ts": 1790972188.9254813
+  },
+  {
+    "id": "WP-MKTW-0005267942",
+    "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
+    "tokens": [
+      "asking",
+      "attract",
+      "buyers",
+      "city",
+      "home",
+      "price",
+      "reluctant",
+      "saw",
+      "sellers",
+      "september",
+      "slash",
+      "their"
+    ],
+    "ts": 1790973786.5148332
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pasqal-appoints-roger-chuchen-as-head-of-investor-relations-93CH-4930371",
+    "title": "Pasqal appoints Roger Chuchen as head of investor relations",
+    "tokens": [
+      "appoints",
+      "chuchen",
+      "head",
+      "investor",
+      "pasqal",
+      "relations",
+      "roger"
+    ],
+    "ts": 1790973796.0282388
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pluristyx-completes-fda-drug-master-file-for-plurifreeze-system-93CH-4930369",
+    "title": "Pluristyx completes FDA drug master file for PluriFreeze system",
+    "tokens": [
+      "completes",
+      "drug",
+      "fda",
+      "file",
+      "master",
+      "plurifreeze",
+      "pluristyx",
+      "system"
+    ],
+    "ts": 1790973805.7130756
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/integer-noteholders-can-convert-bonds-through-december-31-93CH-4930368",
+    "title": "Integer noteholders can convert bonds through December 31",
+    "tokens": [
+      "bonds",
+      "can",
+      "convert",
+      "december",
+      "integer",
+      "noteholders",
+      "through"
+    ],
+    "ts": 1790973814.0575135
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/allison-transmission-redeems-100m-of-2027-senior-notes-93CH-4930367",
+    "title": "Allison Transmission redeems $100m of 2027 senior notes",
+    "tokens": [
+      "100m",
+      "2027",
+      "allison",
+      "notes",
+      "redeems",
+      "senior",
+      "transmission"
+    ],
+    "ts": 1790973823.254795
   }
 ]

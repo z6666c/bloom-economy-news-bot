@@ -1,61 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/french-preliminary-inflation-up-at-34-in-september-4924271",
-    "title": "French preliminary inflation up at 3.4% in September",
-    "tokens": [
-      "french",
-      "inflation",
-      "preliminary",
-      "september"
-    ],
-    "ts": 1790756182.374401
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-downgrades-assicurazioni-generali-stock-rating-on-valuation-93CH-4924270",
-    "title": "Jefferies downgrades Assicurazioni Generali stock rating on valuation",
-    "tokens": [
-      "assicurazioni",
-      "downgrades",
-      "generali",
-      "jefferies",
-      "rating",
-      "stock",
-      "valuation"
-    ],
-    "ts": 1790756189.5804229
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/goodwin-shares-fall-4-as-duvelco-production-issues-overshadow-refractory-grow-4924266",
-    "title": "Goodwin shares fall 4% as Duvelco production issues overshadow refractory grow",
-    "tokens": [
-      "duvelco",
-      "fall",
-      "goodwin",
-      "grow",
-      "issues",
-      "overshadow",
-      "production",
-      "refractory",
-      "shares"
-    ],
-    "ts": 1790756197.2228398
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hargreave-hale-aim-vct-appoints-duncan-neale-to-board-93CH-4924265",
-    "title": "Hargreave Hale AIM VCT appoints Duncan Neale to board",
-    "tokens": [
-      "aim",
-      "appoints",
-      "board",
-      "duncan",
-      "hale",
-      "hargreave",
-      "neale",
-      "vct"
-    ],
-    "ts": 1790756205.5480003
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/european-shares-set-for-first-monthly-loss-in-six-as-bond-yields-weigh-4924254",
     "title": "European shares set for first monthly loss in six as bond yields weigh",
     "tokens": [
@@ -22868,5 +22812,65 @@
       "yorkton"
     ],
     "ts": 1790983559.7765388
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-53m-in-shares-93CH-4930547",
+    "title": "Crowdstrike CEO George Kurtz sells $5.3m in shares",
+    "tokens": [
+      "ceo",
+      "crowdstrike",
+      "george",
+      "kurtz",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790984408.2311332
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/transunion-president-todd-skinner-sells-62290-in-stock-93CH-4930545",
+    "title": "TransUnion president Todd Skinner sells $62,290 in stock",
+    "tokens": [
+      "290",
+      "president",
+      "sells",
+      "skinner",
+      "stock",
+      "todd",
+      "transunion"
+    ],
+    "ts": 1790984417.2983022
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/transunion-evp-abdelsadek-sells-15572-in-common-stock-93CH-4930544",
+    "title": "TransUnion EVP Abdelsadek sells $15,572 in common stock",
+    "tokens": [
+      "572",
+      "abdelsadek",
+      "common",
+      "evp",
+      "sells",
+      "stock",
+      "transunion"
+    ],
+    "ts": 1790984425.4777832
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/feds-hammack-tells-pbs-theres-still-time-to-weigh-next-monetary-policy-move-4930538",
+    "title": "Fed’s Hammack tells PBS there’s still time to weigh next monetary policy move",
+    "tokens": [
+      "fed",
+      "hammack",
+      "monetary",
+      "move",
+      "next",
+      "pbs",
+      "policy",
+      "still",
+      "tells",
+      "there",
+      "time",
+      "weigh"
+    ],
+    "ts": 1790984436.6757867
   }
 ]

@@ -1,256 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/trekor-metals-at-lytham-partners-florence-ramps-up-as-copper-stays-tight-93CH-4923913",
-    "title": "Trekor Metals at Lytham Partners: Florence ramps up as copper stays tight",
-    "tokens": [
-      "copper",
-      "florence",
-      "lytham",
-      "metals",
-      "partners",
-      "ramps",
-      "stays",
-      "tight",
-      "trekor"
-    ],
-    "ts": 1790727398.097225
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/japan-august-factory-output-falls-17-monthonmonth-4923906",
-    "title": "Japan August factory output falls 1.7% month-on-month",
-    "tokens": [
-      "august",
-      "factory",
-      "falls",
-      "japan",
-      "month",
-      "output"
-    ],
-    "ts": 1790727405.0724747
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/aquafil-at-lytham-partners-costs-fall-as-econyl-gains-traction-93CH-4923901",
-    "title": "Aquafil at Lytham Partners: costs fall as ECONYL gains traction",
-    "tokens": [
-      "aquafil",
-      "costs",
-      "econyl",
-      "fall",
-      "gains",
-      "lytham",
-      "partners",
-      "traction"
-    ],
-    "ts": 1790727412.918085
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/franconevada-at-mining-forum-americas-2026-growth-levers-in-view-93CH-4923900",
-    "title": "Franco-Nevada at Mining Forum Americas 2026: growth levers in view",
-    "tokens": [
-      "2026",
-      "americas",
-      "forum",
-      "franco",
-      "growth",
-      "levers",
-      "mining",
-      "nevada",
-      "view"
-    ],
-    "ts": 1790727420.3860953
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/google-pays-100-publishers-for-aipowered-search-content-the-information-93CH-4923899",
-    "title": "Google pays 100 publishers for AI-powered search content- The Information",
-    "tokens": [
-      "100",
-      "content",
-      "google",
-      "information",
-      "pays",
-      "powered",
-      "publishers",
-      "search"
-    ],
-    "ts": 1790727427.854492
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/sba-communications-at-rbc-conference-eyes-6g-buybacks-and-growth-93CH-4923898",
-    "title": "SBA Communications at RBC conference: eyes 6g, buybacks and growth",
-    "tokens": [
-      "buybacks",
-      "communications",
-      "conference",
-      "eyes",
-      "growth",
-      "rbc",
-      "sba"
-    ],
-    "ts": 1790727435.516767
-  },
-  {
-    "id": "oilprice-article-45639",
-    "title": "Oil's New Normal Is Higher Prices",
-    "tokens": [
-      "higher",
-      "normal",
-      "oil",
-      "prices"
-    ],
-    "ts": 1790727445.310271
-  },
-  {
-    "id": "oilprice-news-45639",
-    "title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
-    "tokens": [
-      "again",
-      "diesel",
-      "oil",
-      "reserve",
-      "strategic",
-      "taps",
-      "tops"
-    ],
-    "ts": 1790727449.3273382
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
-    "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-    "tokens": [
-      "agencies",
-      "bank",
-      "comment",
-      "community",
-      "core",
-      "engagement",
-      "guidance",
-      "issue",
-      "management",
-      "party",
-      "proposed",
-      "providers",
-      "risk",
-      "seek",
-      "service",
-      "statement",
-      "third"
-    ],
-    "ts": 1790727453.8707857
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-amd-stock-buys-nvidia-and-tesla-93CH-4923926",
-    "title": "Cathie Wood’s ARK sells AMD stock, buys Nvidia and Tesla",
-    "tokens": [
-      "amd",
-      "ark",
-      "buys",
-      "cathie",
-      "nvidia",
-      "sells",
-      "stock",
-      "tesla",
-      "wood"
-    ],
-    "ts": 1790729301.9692497
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/pagaya-technologies-president-sanjiv-das-sells-243672-in-shares-93CH-4923925",
-    "title": "Pagaya Technologies president Sanjiv Das sells $243,672 in shares",
-    "tokens": [
-      "243",
-      "672",
-      "das",
-      "pagaya",
-      "president",
-      "sanjiv",
-      "sells",
-      "shares",
-      "technologies"
-    ],
-    "ts": 1790729311.1302745
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/japan-industrial-production-unexpectedly-falls-in-august-retail-sales-slow-4923919",
-    "title": "Japan industrial production unexpectedly falls in August, retail sales slow",
-    "tokens": [
-      "august",
-      "falls",
-      "industrial",
-      "japan",
-      "production",
-      "retail",
-      "sales",
-      "slow",
-      "unexpectedly"
-    ],
-    "ts": 1790729318.6866996
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/standard-lithium-at-lytham-partners-fall-2026-derisked-push-toward-2029-93CH-4923918",
-    "title": "Standard Lithium at Lytham Partners fall 2026: de-risked push toward 2029",
-    "tokens": [
-      "2026",
-      "2029",
-      "fall",
-      "lithium",
-      "lytham",
-      "partners",
-      "push",
-      "risked",
-      "standard",
-      "toward"
-    ],
-    "ts": 1790729326.371532
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/uranium-energy-earnings-missed-by-008-revenue-topped-estimates-4923917",
-    "title": "Uranium Energy earnings missed by $0.08, revenue topped estimates",
-    "tokens": [
-      "earnings",
-      "energy",
-      "estimates",
-      "missed",
-      "revenue",
-      "topped",
-      "uranium"
-    ],
-    "ts": 1790729336.4659925
-  },
-  {
-    "id": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai",
-    "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
-    "tokens": [
-      "accord",
-      "calls",
-      "firms",
-      "frontier",
-      "own",
-      "police",
-      "self",
-      "tech",
-      "their",
-      "trump"
-    ],
-    "ts": 1790729345.990128
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/black-pine-at-mining-forum-americas-2026-simple-mine-big-leverage-93CH-4923948",
-    "title": "Black Pine at Mining Forum Americas 2026: simple mine, big leverage",
-    "tokens": [
-      "2026",
-      "americas",
-      "big",
-      "black",
-      "forum",
-      "leverage",
-      "mine",
-      "mining",
-      "pine",
-      "simple"
-    ],
-    "ts": 1790730715.8213353
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/samsara-evp-adam-eltoukhy-sells-285432-in-company-shares-93CH-4923946",
     "title": "Samsara EVP Adam Eltoukhy sells $285,432 in company shares",
     "tokens": [
@@ -22808,5 +22557,270 @@
       "release"
     ],
     "ts": 1790960313.5729334
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/southern-glazers-agrees-to-pricing-restrictions-in-ftc-settlement-official-says-4930233",
+    "title": "Southern Glazer’s agrees to pricing restrictions in FTC settlement, official says",
+    "tokens": [
+      "agrees",
+      "ftc",
+      "glazer",
+      "official",
+      "pricing",
+      "restrictions",
+      "settlement",
+      "southern"
+    ],
+    "ts": 1790961225.0837796
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-hudbay-minerals-stock-rallying-today-93CH-4930229",
+    "title": "Why is HudBay Minerals stock rallying today?",
+    "tokens": [
+      "hudbay",
+      "minerals",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790961234.378214
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/williams-companies-svp-terrance-wilson-sells-135700-in-stock-93CH-4930228",
+    "title": "Williams companies SVP Terrance Wilson sells $135,700 in stock",
+    "tokens": [
+      "135",
+      "700",
+      "companies",
+      "sells",
+      "stock",
+      "svp",
+      "terrance",
+      "williams",
+      "wilson"
+    ],
+    "ts": 1790961244.2830036
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nordic-american-tankers-stock-hits-52week-high-at-833-usd-93CH-4930223",
+    "title": "Nordic American Tankers stock hits 52-week high at 8.33 USD",
+    "tokens": [
+      "american",
+      "high",
+      "hits",
+      "nordic",
+      "stock",
+      "tankers",
+      "usd",
+      "week"
+    ],
+    "ts": 1790961254.952991
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/toshiba-plans-to-double-ai-data-center-hard-drive-production-evercore-comments-93CH-4930219",
+    "title": "Toshiba plans to double AI data center hard drive production, Evercore comments",
+    "tokens": [
+      "center",
+      "comments",
+      "data",
+      "double",
+      "drive",
+      "evercore",
+      "hard",
+      "plans",
+      "production",
+      "toshiba"
+    ],
+    "ts": 1790961265.1505296
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-first-quantum-minerals-stock-rallying-today-93CH-4930218",
+    "title": "Why is First Quantum Minerals stock rallying today?",
+    "tokens": [
+      "first",
+      "minerals",
+      "quantum",
+      "rallying",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790961269.1685803
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-leading-law-firm-encourages-blackrock-inc.-mutual-fund-investors-to-inquire-about-securities-class-action-investigation-1036363792",
+    "title": "ROSEN, A LEADING LAW FIRM, Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
+    "tokens": [
+      "about",
+      "action",
+      "blackrock",
+      "class",
+      "encourages",
+      "firm",
+      "fund",
+      "inc",
+      "inquire",
+      "investigation",
+      "investors",
+      "law",
+      "leading",
+      "mutual",
+      "rosen",
+      "securities"
+    ],
+    "ts": 1790961275.252483
+  },
+  {
+    "id": "https://seekingalpha.com/news/4649930-pnc-financial-declares-2_00-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "PNC Financial declares $2.00 dividend",
+    "tokens": [
+      "declares",
+      "dividend",
+      "financial",
+      "pnc"
+    ],
+    "ts": 1790961285.6400642
+  },
+  {
+    "id": "https://seekingalpha.com/news/4649929-ishares-ibonds-1-5-year-tips-ladder-etf-declares-quarterly-distribution-of-01218?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "iShares iBonds 1-5 Year TIPS Ladder ETF declares quarterly distribution of $0.1218",
+    "tokens": [
+      "1218",
+      "declares",
+      "distribution",
+      "etf",
+      "ibonds",
+      "ishares",
+      "ladder",
+      "quarterly",
+      "tips",
+      "year"
+    ],
+    "ts": 1790961294.5265777
+  },
+  {
+    "id": "https://seekingalpha.com/news/4649928-ishares-core-growth-allocation-etf-declares-quarterly-distribution-of-03147?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "iShares Core Growth Allocation ETF declares quarterly distribution of $0.3147",
+    "tokens": [
+      "3147",
+      "allocation",
+      "core",
+      "declares",
+      "distribution",
+      "etf",
+      "growth",
+      "ishares",
+      "quarterly"
+    ],
+    "ts": 1790961304.8125114
+  },
+  {
+    "id": "https://seekingalpha.com/news/4649927-ishares-core-moderate-allocation-etf-declares-quarterly-distribution-of-02987?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "iShares Core Moderate Allocation ETF declares quarterly distribution of $0.2987",
+    "tokens": [
+      "2987",
+      "allocation",
+      "core",
+      "declares",
+      "distribution",
+      "etf",
+      "ishares",
+      "moderate",
+      "quarterly"
+    ],
+    "ts": 1790961308.825448
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/qci-introduces-ai-powered-revenue-forecasting-for-casino-resorts-1036594188",
+    "title": "QCI Introduces AI-Powered Revenue Forecasting for Casino Resorts",
+    "tokens": [
+      "casino",
+      "forecasting",
+      "introduces",
+      "powered",
+      "qci",
+      "resorts",
+      "revenue"
+    ],
+    "ts": 1790961313.7494316
+  },
+  {
+    "id": "https://seekingalpha.com/news/4649926-ishares-core-aggressive-allocation-etf-declares-quarterly-distribution-of-02974?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "iShares Core Aggressive Allocation ETF declares quarterly distribution of $0.2974",
+    "tokens": [
+      "2974",
+      "aggressive",
+      "allocation",
+      "core",
+      "declares",
+      "distribution",
+      "etf",
+      "ishares",
+      "quarterly"
+    ],
+    "ts": 1790961317.7623537
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/remittix-reveals-november-24-rtx-launch-as-bnb-price-prediction-explores-1-000-and-hedera-hbar-contributes-clpr-to-linux-foundation-1036594182",
+    "title": "Remittix Reveals November 24 RTX Launch as BNB Price Prediction Explores $1,000 and Hedera (HBAR) Contributes CLPR to Linux Foundation",
+    "tokens": [
+      "000",
+      "bnb",
+      "clpr",
+      "contributes",
+      "explores",
+      "foundation",
+      "hbar",
+      "hedera",
+      "launch",
+      "linux",
+      "november",
+      "prediction",
+      "price",
+      "remittix",
+      "reveals",
+      "rtx"
+    ],
+    "ts": 1790961322.6109376
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-advises-ast-spacemobile-inc.-asts-investors-to-act-before-the-lead-plaintiff-deadline-on-november-13-2026-1036594196",
+    "title": "Kaplan Fox Advises AST SpaceMobile, Inc. (ASTS) Investors to Act Before the Lead Plaintiff Deadline on November 13, 2026",
+    "tokens": [
+      "2026",
+      "act",
+      "advises",
+      "ast",
+      "asts",
+      "before",
+      "deadline",
+      "fox",
+      "inc",
+      "investors",
+      "kaplan",
+      "lead",
+      "november",
+      "plaintiff",
+      "spacemobile"
+    ],
+    "ts": 1790961332.4521742
+  },
+  {
+    "id": "ca5e5500-b8f6-4275-805b-60265a8fb9b9",
+    "title": "Possible next crypto czar, Jay Clayton, began crypto's regulation-by-enforcement at SEC",
+    "tokens": [
+      "began",
+      "clayton",
+      "crypto",
+      "czar",
+      "enforcement",
+      "jay",
+      "next",
+      "possible",
+      "regulation",
+      "sec"
+    ],
+    "ts": 1790961341.473828
   }
 ]

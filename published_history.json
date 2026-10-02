@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/acurx-enrolls-first-patient-in-recurrent-c-difficile-trial-93CH-4922554",
-    "title": "Acurx enrolls first patient in recurrent C. difficile trial",
-    "tokens": [
-      "acurx",
-      "difficile",
-      "enrolls",
-      "first",
-      "patient",
-      "recurrent",
-      "trial"
-    ],
-    "ts": 1790684347.964993
-  },
-  {
     "id": "https://www.investing.com/news/company-news/silexion-raises-837000-through-warrant-exercise-at-reduced-price-93CH-4922553",
     "title": "Silexion raises $837,000 through warrant exercise at reduced price",
     "tokens": [
@@ -22928,5 +22914,18 @@
       "sec"
     ],
     "ts": 1790904636.079626
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/coreweave-ceo-michael-intrator-sells-267m-in-stock-93CH-4928784",
+    "title": "CoreWeave CEO Michael Intrator sells $26.7m in stock",
+    "tokens": [
+      "ceo",
+      "coreweave",
+      "intrator",
+      "michael",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790905637.92072
   }
 ]

@@ -1,158 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/richardson-electronics-at-lytham-partners-growth-broadens-beyond-semis-93CH-4923574",
-    "title": "Richardson Electronics at Lytham Partners: growth broadens beyond semis",
-    "tokens": [
-      "beyond",
-      "broadens",
-      "electronics",
-      "growth",
-      "lytham",
-      "partners",
-      "richardson",
-      "semis"
-    ],
-    "ts": 1790716312.2743313
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/metals-exploration-at-mining-forum-americas-2026-shift-to-nicaragua-93CH-4923572",
-    "title": "Metals Exploration at Mining Forum Americas 2026: shift to Nicaragua",
-    "tokens": [
-      "2026",
-      "americas",
-      "exploration",
-      "forum",
-      "metals",
-      "mining",
-      "nicaragua",
-      "shift"
-    ],
-    "ts": 1790716320.4937732
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/blackstone-infrastructure-strategies-raises-366-million-through-unit-sales-93CH-4923571",
-    "title": "Blackstone Infrastructure Strategies raises $366 million through unit sales",
-    "tokens": [
-      "366",
-      "blackstone",
-      "infrastructure",
-      "million",
-      "raises",
-      "sales",
-      "strategies",
-      "through",
-      "unit"
-    ],
-    "ts": 1790716328.2093537
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/pyxis-oncology-stock-falls-on-public-offering-announcement-4923564",
-    "title": "Pyxis Oncology stock falls on public offering announcement",
-    "tokens": [
-      "announcement",
-      "falls",
-      "offering",
-      "oncology",
-      "public",
-      "pyxis",
-      "stock"
-    ],
-    "ts": 1790716335.6727355
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/alliance-entertainment-at-lytham-partners-physical-media-and-ai-drive-growth-93CH-4923563",
-    "title": "Alliance Entertainment at Lytham Partners: physical media and AI drive growth",
-    "tokens": [
-      "alliance",
-      "drive",
-      "entertainment",
-      "growth",
-      "lytham",
-      "media",
-      "partners",
-      "physical"
-    ],
-    "ts": 1790716344.6593943
-  },
-  {
-    "id": "oilprice-article-45634",
-    "title": "White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar",
-    "tokens": [
-      "diesel",
-      "dyed",
-      "fuel",
-      "house",
-      "prices",
-      "red",
-      "relief",
-      "soar",
-      "weighs",
-      "white"
-    ],
-    "ts": 1790716353.7728302
-  },
-  {
-    "id": "oilprice-news-45634",
-    "title": "Dangote Targets 10 Million Investors in Africa’s Biggest IPO",
-    "tokens": [
-      "africa",
-      "biggest",
-      "dangote",
-      "investors",
-      "ipo",
-      "million",
-      "targets"
-    ],
-    "ts": 1790716357.7900953
-  },
-  {
-    "id": "WP-MKTW-0005260113",
-    "title": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
-    "tokens": [
-      "biggest",
-      "gain",
-      "microsoft",
-      "post",
-      "quarterly",
-      "stock",
-      "track",
-      "years"
-    ],
-    "ts": 1790717341.5262625
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/americas-gold-and-silver-at-mining-forum-americas-2026-turnaround-gains-93CH-4923655",
-    "title": "Americas Gold and Silver at Mining Forum Americas 2026: turnaround gains",
-    "tokens": [
-      "2026",
-      "americas",
-      "forum",
-      "gains",
-      "gold",
-      "mining",
-      "silver",
-      "turnaround"
-    ],
-    "ts": 1790717349.364944
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/erock-stock-initiated-with-buy-rating-at-clear-street-on-power-generation-speed-93CH-4923651",
-    "title": "ERock stock initiated with buy rating at Clear Street on power generation speed",
-    "tokens": [
-      "buy",
-      "clear",
-      "erock",
-      "generation",
-      "initiated",
-      "power",
-      "rating",
-      "speed",
-      "stock",
-      "street"
-    ],
-    "ts": 1790717357.6361272
-  },
-  {
     "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-the-warehouse-group-posts-fy2026-turnaround-gains-93CH-4923650",
     "title": "Earnings call transcript: The Warehouse Group posts FY2026 turnaround gains",
     "tokens": [
@@ -22864,5 +22711,150 @@
       "storage"
     ],
     "ts": 1790949649.2741024
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/baltic-dry-bulk-freight-index-edges-up-on-capesize-gains-93CH-4930064",
+    "title": "Baltic dry bulk freight index edges up on capesize gains",
+    "tokens": [
+      "baltic",
+      "bulk",
+      "capesize",
+      "dry",
+      "edges",
+      "freight",
+      "gains",
+      "index"
+    ],
+    "ts": 1790950944.3985646
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/factboxtop-cases-on-the-us-supreme-courts-docket-4930062",
+    "title": "Factbox-Top cases on the US Supreme Court’s docket",
+    "tokens": [
+      "cases",
+      "court",
+      "docket",
+      "factbox",
+      "supreme",
+      "top"
+    ],
+    "ts": 1790950954.3740964
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/paramount-to-adopt-skydance-name-as-landmark-warner-bros-merger-nears-close-4930061",
+    "title": "Paramount to adopt Skydance name as landmark Warner Bros. merger nears close",
+    "tokens": [
+      "adopt",
+      "bros",
+      "close",
+      "landmark",
+      "merger",
+      "name",
+      "nears",
+      "paramount",
+      "skydance",
+      "warner"
+    ],
+    "ts": 1790950962.9265816
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-robinhood-markets-stock-rallying-today-93CH-4930060",
+    "title": "Why is Robinhood Markets stock rallying today?",
+    "tokens": [
+      "markets",
+      "rallying",
+      "robinhood",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1790950972.8735971
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-iren-stock-surging-today-93CH-4930058",
+    "title": "Why is IREN stock surging today?",
+    "tokens": [
+      "iren",
+      "stock",
+      "surging",
+      "today",
+      "why"
+    ],
+    "ts": 1790950976.8843365
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/travere-to-present-filspari-data-at-asn-kidney-week-2026-93CH-4930056",
+    "title": "Travere to present FILSPARI data at ASN Kidney Week 2026",
+    "tokens": [
+      "2026",
+      "asn",
+      "data",
+      "filspari",
+      "kidney",
+      "present",
+      "travere",
+      "week"
+    ],
+    "ts": 1790950981.4407358
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/taylor-devices-earnings-missed-by-079-revenue-fell-short-of-estimates-4930054",
+    "title": "Taylor Devices earnings missed by $0.79, revenue fell short of estimates",
+    "tokens": [
+      "devices",
+      "earnings",
+      "estimates",
+      "fell",
+      "missed",
+      "revenue",
+      "short",
+      "taylor"
+    ],
+    "ts": 1790950990.209292
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/microsalt-shareholders-approve-share-allotment-resolutions-93CH-4930053",
+    "title": "MicroSalt shareholders approve share allotment resolutions",
+    "tokens": [
+      "allotment",
+      "approve",
+      "microsalt",
+      "resolutions",
+      "share",
+      "shareholders"
+    ],
+    "ts": 1790950998.3245218
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sky-harbour-group-cfo-francisco-gonzalez-buys-15040-in-stock-93CH-4930049",
+    "title": "Sky Harbour Group CFO Francisco Gonzalez buys $15,040 in stock",
+    "tokens": [
+      "040",
+      "buys",
+      "cfo",
+      "francisco",
+      "gonzalez",
+      "group",
+      "harbour",
+      "sky",
+      "stock"
+    ],
+    "ts": 1790951006.394079
+  },
+  {
+    "id": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens",
+    "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
+    "tokens": [
+      "case",
+      "enough",
+      "euro",
+      "isn",
+      "issuers",
+      "make",
+      "stablecoin",
+      "tokens",
+      "usd"
+    ],
+    "ts": 1790951015.8046293
   }
 ]

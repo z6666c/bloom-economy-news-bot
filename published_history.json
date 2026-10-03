@@ -1,21 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation",
-    "title": "SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit",
-    "tokens": [
-      "activity",
-      "aug",
-      "bitget",
-      "day",
-      "exploit",
-      "hack",
-      "slowmist",
-      "traces",
-      "zero"
-    ],
-    "ts": 1790763751.5978875
-  },
-  {
     "id": "WP-MKTW-0005261186",
     "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
     "tokens": [
@@ -22851,5 +22835,19 @@
       "split"
     ],
     "ts": 1791004226.311512
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/analysisais-race-to-transform-the-world-before-the-money-runs-out-4930760",
+    "title": "Analysis-AI’s race to transform the world before the money runs out",
+    "tokens": [
+      "analysis",
+      "before",
+      "money",
+      "race",
+      "runs",
+      "transform",
+      "world"
+    ],
+    "ts": 1791005850.6564465
   }
 ]

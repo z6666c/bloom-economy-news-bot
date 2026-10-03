@@ -1,49 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/cabral-gold-completes-first-dore-sale-from-brazil-project-93CH-4924621",
-    "title": "Cabral Gold completes first doré sale from Brazil project",
-    "tokens": [
-      "brazil",
-      "cabral",
-      "completes",
-      "dor",
-      "first",
-      "gold",
-      "project",
-      "sale"
-    ],
-    "ts": 1790765006.4999337
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/surf-air-mobility-signs-third-operatoros-customer-in-two-weeks-93CH-4924619",
-    "title": "Surf Air Mobility signs third OperatorOS customer in two weeks",
-    "tokens": [
-      "air",
-      "customer",
-      "mobility",
-      "operatoros",
-      "signs",
-      "surf",
-      "third",
-      "two",
-      "weeks"
-    ],
-    "ts": 1790765013.5526357
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hormel-foods-to-acquire-brakebush-for-1055-billion-93CH-4924620",
-    "title": "Hormel Foods to acquire Brakebush for $1.055 billion",
-    "tokens": [
-      "055",
-      "acquire",
-      "billion",
-      "brakebush",
-      "foods",
-      "hormel"
-    ],
-    "ts": 1790765020.8613317
-  },
-  {
     "id": "https://www.investing.com/news/company-news/niq-integrates-googles-meridian-into-cadence-platform-93CH-4924618",
     "title": "NIQ integrates Google’s Meridian into Cadence platform",
     "tokens": [
@@ -22846,5 +22802,47 @@
       "russian"
     ],
     "ts": 1791010630.009658
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/flydubai-copilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-4930768",
+    "title": "Flydubai co-pilot attacked pilot with axe, attempted ’terrorist’ attack, UAE says",
+    "tokens": [
+      "attack",
+      "attacked",
+      "attempted",
+      "axe",
+      "flydubai",
+      "pilot",
+      "terrorist",
+      "uae"
+    ],
+    "ts": 1791011847.1671264
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trump-says-us-will-send-90-payment-to-over-20-million-medicare-enrollees-4930767",
+    "title": "Trump says U.S. will send $90 payment to over 20 million Medicare enrollees",
+    "tokens": [
+      "enrollees",
+      "medicare",
+      "million",
+      "payment",
+      "send",
+      "trump"
+    ],
+    "ts": 1791011858.3995976
+  },
+  {
+    "id": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports",
+    "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+    "tokens": [
+      "appoint",
+      "clayton",
+      "czar",
+      "expected",
+      "jay",
+      "reports",
+      "trump"
+    ],
+    "ts": 1791011863.5746877
   }
 ]

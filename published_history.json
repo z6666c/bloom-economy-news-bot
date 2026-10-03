@@ -1,62 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/dfi-retail-to-acquire-maxims-starbucks-business-for-340m-93CH-4924463",
-    "title": "DFI Retail to acquire Maxim’s Starbucks business for $340m",
-    "tokens": [
-      "340m",
-      "acquire",
-      "business",
-      "dfi",
-      "maxim",
-      "retail",
-      "starbucks"
-    ],
-    "ts": 1790762391.5034943
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/japanese-economic-panel-members-emphasise-bojs-independence-4924462",
-    "title": "Japanese economic panel members emphasise BOJ’s independence",
-    "tokens": [
-      "boj",
-      "economic",
-      "emphasise",
-      "independence",
-      "japanese",
-      "members",
-      "panel"
-    ],
-    "ts": 1790762398.7823486
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bank-of-england-sees-growing-risk-that-dangers-from-ai-and-debt-will-materialise-4924457",
-    "title": "Bank of England sees growing risk that dangers from AI and debt will materialise",
-    "tokens": [
-      "bank",
-      "dangers",
-      "debt",
-      "england",
-      "growing",
-      "materialise",
-      "risk",
-      "sees"
-    ],
-    "ts": 1790762406.40136
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jefferies-sees-senate-permitting-deal-as-positive-for-nextera-93CH-4924461",
-    "title": "Jefferies sees Senate permitting deal as positive for NextEra",
-    "tokens": [
-      "deal",
-      "jefferies",
-      "nextera",
-      "permitting",
-      "positive",
-      "sees",
-      "senate"
-    ],
-    "ts": 1790762414.9222808
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/porsche-ceo-defends-shift-back-to-petrol-amid-ev-concerns-93CH-4924460",
     "title": "Porsche CEO defends shift back to petrol amid EV concerns",
     "tokens": [
@@ -22845,5 +22788,68 @@
       "therapeutics"
     ],
     "ts": 1790993518.0821736
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-85000-as-sec-custody-proposal-boosts-institutional-outlook-4930676",
+    "title": "Bitcoin holds below $85,000 as SEC custody proposal boosts institutional outlook",
+    "tokens": [
+      "000",
+      "below",
+      "bitcoin",
+      "boosts",
+      "custody",
+      "holds",
+      "institutional",
+      "outlook",
+      "proposal",
+      "sec"
+    ],
+    "ts": 1790994942.8896294
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/spyre-therapeutics-cfo-scott-burrows-sells-226m-in-stock-93CH-4930687",
+    "title": "Spyre Therapeutics CFO Scott Burrows sells $2.26m in stock",
+    "tokens": [
+      "26m",
+      "burrows",
+      "cfo",
+      "scott",
+      "sells",
+      "spyre",
+      "stock",
+      "therapeutics"
+    ],
+    "ts": 1790994951.7502208
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-438-in-company-stock-93CH-4930686",
+    "title": "CoreWeave CFO Nitin Agrawal sells $438 in company stock",
+    "tokens": [
+      "438",
+      "agrawal",
+      "cfo",
+      "company",
+      "coreweave",
+      "nitin",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790994960.4172854
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/spyre-therapeutics-ceo-cameron-turtle-sells-138m-in-syre-stock-93CH-4930685",
+    "title": "Spyre Therapeutics CEO Cameron Turtle sells $1.38m in SYRE stock",
+    "tokens": [
+      "38m",
+      "cameron",
+      "ceo",
+      "sells",
+      "spyre",
+      "stock",
+      "syre",
+      "therapeutics",
+      "turtle"
+    ],
+    "ts": 1790994969.4903193
   }
 ]

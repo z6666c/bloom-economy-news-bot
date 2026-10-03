@@ -1,30 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/morning-bid-october-doubts-4924623",
-    "title": "Morning Bid: October doubts",
-    "tokens": [
-      "bid",
-      "doubts",
-      "morning",
-      "october"
-    ],
-    "ts": 1790765898.69474
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hormel-foods-to-buy-brakebush-in-deal-valued-at-106-billion-4924642",
-    "title": "Hormel Foods to buy Brakebush in deal valued at $1.06 billion",
-    "tokens": [
-      "billion",
-      "brakebush",
-      "buy",
-      "deal",
-      "foods",
-      "hormel",
-      "valued"
-    ],
-    "ts": 1790765906.9193416
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/elf-beauty-stock-gains-on-strong-sales-data-from-canaccord-tracker-93CH-4924676",
     "title": "Elf Beauty stock gains on strong sales data from Canaccord tracker",
     "tokens": [
@@ -22834,5 +22809,37 @@
       "stock"
     ],
     "ts": 1791019927.8037443
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-debt-could-reach-160-of-gdp-within-decade-scope-warns-4930813",
+    "title": "U.S. debt could reach 160% of GDP within decade, Scope warns",
+    "tokens": [
+      "160",
+      "could",
+      "debt",
+      "decade",
+      "gdp",
+      "reach",
+      "scope",
+      "warns",
+      "within"
+    ],
+    "ts": 1791021242.8084018
+  },
+  {
+    "id": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms",
+    "title": "Community banks sue OCC over trust bank charters of crypto firms",
+    "tokens": [
+      "bank",
+      "banks",
+      "charters",
+      "community",
+      "crypto",
+      "firms",
+      "occ",
+      "sue",
+      "trust"
+    ],
+    "ts": 1791021253.0842543
   }
 ]

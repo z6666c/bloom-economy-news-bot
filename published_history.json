@@ -1,34 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-dyne-therapeutics-stock-rating-on-trial-data-93CH-4924615",
-    "title": "Jefferies reiterates Dyne Therapeutics stock rating on trial data",
-    "tokens": [
-      "data",
-      "dyne",
-      "jefferies",
-      "rating",
-      "reiterates",
-      "stock",
-      "therapeutics",
-      "trial"
-    ],
-    "ts": 1790765044.1919842
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/medpace-stock-coverage-resumed-at-ubs-with-neutral-rating-93CH-4924614",
-    "title": "Medpace stock coverage resumed at UBS with neutral rating",
-    "tokens": [
-      "coverage",
-      "medpace",
-      "neutral",
-      "rating",
-      "resumed",
-      "stock",
-      "ubs"
-    ],
-    "ts": 1790765051.8018398
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/equity-positioning-stays-overweight-but-summer-extremes-have-eased-barclays-4924613",
     "title": "Equity positioning stays overweight, but summer extremes have eased: Barclays",
     "tokens": [
@@ -22845,5 +22816,36 @@
       "what"
     ],
     "ts": 1791015547.6369367
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/bofa-sees-eurusd-at-115-by-yearend-amid-market-risks-93CH-4930789",
+    "title": "BofA sees EUR/USD at 1.15 by year-end amid market risks",
+    "tokens": [
+      "bofa",
+      "end",
+      "eur",
+      "market",
+      "risks",
+      "sees",
+      "usd",
+      "year"
+    ],
+    "ts": 1791018771.4925244
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/merz-to-meet-frontrunners-for-lagarde-job-as-ecb-race-heats-up--bloomberg-4930786",
+    "title": "Merz to meet frontrunners for Lagarde job as ECB race heats up - Bloomberg",
+    "tokens": [
+      "bloomberg",
+      "ecb",
+      "frontrunners",
+      "heats",
+      "job",
+      "lagarde",
+      "meet",
+      "merz",
+      "race"
+    ],
+    "ts": 1791018779.3977795
   }
 ]

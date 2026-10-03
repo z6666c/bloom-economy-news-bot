@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/oppenheimer-initiates-cavco-industries-stock-with-outperform-rating-93CH-4924658",
-    "title": "Oppenheimer initiates Cavco Industries stock with outperform rating",
-    "tokens": [
-      "cavco",
-      "industries",
-      "initiates",
-      "oppenheimer",
-      "outperform",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790765959.3216581
-  },
-  {
     "id": "WP-MKTW-0005261268",
     "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
     "tokens": [
@@ -22842,5 +22828,23 @@
       "see"
     ],
     "ts": 1791023275.4863253
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/usrussia-talks-on-ukraine-involve-multibillion-dollar-oil-deal-nyt-reports-4930830",
+    "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
+    "tokens": [
+      "billion",
+      "deal",
+      "dollar",
+      "involve",
+      "multi",
+      "nyt",
+      "oil",
+      "reports",
+      "russia",
+      "talks",
+      "ukraine"
+    ],
+    "ts": 1791025237.485469
   }
 ]

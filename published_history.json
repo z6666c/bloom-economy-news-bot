@@ -1,109 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/equity-positioning-stays-overweight-but-summer-extremes-have-eased-barclays-4924613",
-    "title": "Equity positioning stays overweight, but summer extremes have eased: Barclays",
-    "tokens": [
-      "barclays",
-      "eased",
-      "equity",
-      "extremes",
-      "overweight",
-      "positioning",
-      "stays",
-      "summer"
-    ],
-    "ts": 1790765059.002973
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/geo-and-swbi-decoding-five-election-cycles-of-wall-streets-most-politically-wire-93CH-4924612",
-    "title": "GEO and SWBI: Decoding Five Election Cycles of Wall Street’s Most Politically Wire",
-    "tokens": [
-      "cycles",
-      "decoding",
-      "election",
-      "five",
-      "geo",
-      "most",
-      "politically",
-      "street",
-      "swbi",
-      "wall",
-      "wire"
-    ],
-    "ts": 1790765066.375694
-  },
-  {
-    "id": "dbde1d54-3408-405b-8a2a-1d4d1de398f9",
-    "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
-    "tokens": [
-      "audits",
-      "deal",
-      "google",
-      "house",
-      "meta",
-      "openai",
-      "outside",
-      "pledge",
-      "under",
-      "voluntary",
-      "white"
-    ],
-    "ts": 1790765075.1883895
-  },
-  {
-    "id": "38148fb0-5563-4a6f-a638-df817a51504f",
-    "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
-    "tokens": [
-      "against",
-      "back",
-      "controversial",
-      "directors",
-      "executive",
-      "fury",
-      "metaplanet",
-      "payout",
-      "plan",
-      "push",
-      "shareholder"
-    ],
-    "ts": 1790765082.913613
-  },
-  {
-    "id": "8d52c064-d478-40f0-8b7d-623a937ac4cf",
-    "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
-    "tokens": [
-      "000",
-      "bitcoin",
-      "drops",
-      "lighter",
-      "near",
-      "perps",
-      "plan",
-      "robinhood",
-      "stalls",
-      "while"
-    ],
-    "ts": 1790765090.1131706
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lords-group-h1-2026-slides-flat-revenue-masks-weak-demand-margins-rise-93CH-4924680",
-    "title": "Lords Group H1 2026 slides: flat revenue masks weak demand, margins rise",
-    "tokens": [
-      "2026",
-      "demand",
-      "flat",
-      "group",
-      "lords",
-      "margins",
-      "masks",
-      "revenue",
-      "rise",
-      "slides",
-      "weak"
-    ],
-    "ts": 1790765889.6482592
-  },
-  {
     "id": "https://www.investing.com/news/commodities-news/morning-bid-october-doubts-4924623",
     "title": "Morning Bid: October doubts",
     "tokens": [
@@ -22847,5 +22743,96 @@
       "race"
     ],
     "ts": 1791018779.3977795
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/z-squared-cmo-christopher-schadel-buys-3920-in-stock-93CH-4930805",
+    "title": "Z squared CMO Christopher Schadel buys $3,920 in stock",
+    "tokens": [
+      "920",
+      "buys",
+      "christopher",
+      "cmo",
+      "schadel",
+      "squared",
+      "stock"
+    ],
+    "ts": 1791019886.0855744
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ehealth-director-francis-soistman-jr-sells-28174-in-common-stock-93CH-4930804",
+    "title": "eHealth director Francis Soistman Jr sells $28,174 in common stock",
+    "tokens": [
+      "174",
+      "common",
+      "director",
+      "ehealth",
+      "francis",
+      "sells",
+      "soistman",
+      "stock"
+    ],
+    "ts": 1791019894.7056847
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/oregon-community-foundation-sells-325611-of-jewett-cameron-stock-93CH-4930803",
+    "title": "Oregon community foundation sells $325,611 of Jewett Cameron stock",
+    "tokens": [
+      "325",
+      "611",
+      "cameron",
+      "community",
+      "foundation",
+      "jewett",
+      "oregon",
+      "sells",
+      "stock"
+    ],
+    "ts": 1791019903.6064775
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/amplitude-ceo-spenser-skates-sells-70996-in-company-stock-93CH-4930792",
+    "title": "Amplitude CEO Spenser Skates sells $70,996 in company stock",
+    "tokens": [
+      "996",
+      "amplitude",
+      "ceo",
+      "company",
+      "sells",
+      "skates",
+      "spenser",
+      "stock"
+    ],
+    "ts": 1791019912.2709227
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/auburn-national-bancorporation-svp-buys-743-in-aubn-stock-93CH-4930791",
+    "title": "Auburn National Bancorporation SVP buys $743 in AUBN stock",
+    "tokens": [
+      "743",
+      "aubn",
+      "auburn",
+      "bancorporation",
+      "buys",
+      "national",
+      "stock",
+      "svp"
+    ],
+    "ts": 1791019919.6463184
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/auburn-national-director-david-housel-buys-1401-in-company-stock-93CH-4930790",
+    "title": "Auburn national director David Housel buys $1,401 in company stock",
+    "tokens": [
+      "401",
+      "auburn",
+      "buys",
+      "company",
+      "david",
+      "director",
+      "housel",
+      "national",
+      "stock"
+    ],
+    "ts": 1791019927.8037443
   }
 ]

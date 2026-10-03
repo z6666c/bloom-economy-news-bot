@@ -1,24 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005261186",
-    "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
-    "tokens": [
-      "all",
-      "altogether",
-      "boeing",
-      "contract",
-      "fighter",
-      "jet",
-      "losing",
-      "navy",
-      "now",
-      "production",
-      "risk",
-      "stock"
-    ],
-    "ts": 1790764999.6177523
-  },
-  {
     "id": "https://www.investing.com/news/company-news/cabral-gold-completes-first-dore-sale-from-brazil-project-93CH-4924621",
     "title": "Cabral Gold completes first doré sale from Brazil project",
     "tokens": [
@@ -22849,5 +22830,21 @@
       "world"
     ],
     "ts": 1791005850.6564465
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bridge-across-dnipro-river-in-kyiv-hit-during-russian-attack-4930762",
+    "title": "Bridge across Dnipro river in Kyiv hit during Russian attack",
+    "tokens": [
+      "across",
+      "attack",
+      "bridge",
+      "dnipro",
+      "during",
+      "hit",
+      "kyiv",
+      "river",
+      "russian"
+    ],
+    "ts": 1791010630.009658
   }
 ]

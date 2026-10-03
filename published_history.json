@@ -1,315 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks",
-    "title": "Altcoin exchange deposit count jumps 160% in 2 weeks",
-    "tokens": [
-      "160",
-      "altcoin",
-      "count",
-      "deposit",
-      "exchange",
-      "jumps",
-      "weeks"
-    ],
-    "ts": 1790768648.1137927
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
-    "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
-    "tokens": [
-      "83k",
-      "bitcoin",
-      "jump",
-      "set",
-      "stalls"
-    ],
-    "ts": 1790769447.3617182
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jabil-shares-fall-despite-earnings-beat-and-strong-guidance-4924914",
-    "title": "Jabil shares fall despite earnings beat and strong guidance",
-    "tokens": [
-      "beat",
-      "despite",
-      "earnings",
-      "fall",
-      "guidance",
-      "jabil",
-      "shares",
-      "strong"
-    ],
-    "ts": 1790769456.0579276
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/conagra-brands-earnings-beat-by-013-revenue-topped-estimates-4924904",
-    "title": "Conagra Brands earnings beat by $0.13, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "brands",
-      "conagra",
-      "earnings",
-      "estimates",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1790769464.8466911
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/conagra-brands-stock-rises-3-on-earnings-beat-reaffirmed-guidance-4924903",
-    "title": "Conagra Brands stock rises 3% on earnings beat, reaffirmed guidance",
-    "tokens": [
-      "beat",
-      "brands",
-      "conagra",
-      "earnings",
-      "guidance",
-      "reaffirmed",
-      "rises",
-      "stock"
-    ],
-    "ts": 1790769473.7138011
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-sterling-construction-stock-rating-on-capacity-constraints-93CH-4924902",
-    "title": "Cantor Fitzgerald reiterates Sterling Construction stock rating on capacity constraints",
-    "tokens": [
-      "cantor",
-      "capacity",
-      "constraints",
-      "construction",
-      "fitzgerald",
-      "rating",
-      "reiterates",
-      "sterling",
-      "stock"
-    ],
-    "ts": 1790769481.4901314
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-ameren-stock-price-target-on-valuation-compression-93CH-4924901",
-    "title": "Mizuho cuts Ameren stock price target on valuation compression",
-    "tokens": [
-      "ameren",
-      "compression",
-      "cuts",
-      "mizuho",
-      "price",
-      "stock",
-      "target",
-      "valuation"
-    ],
-    "ts": 1790769488.776958
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/jabil-earnings-beat-by-034-revenue-topped-estimates-4924899",
-    "title": "Jabil earnings beat by $0.34, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "earnings",
-      "estimates",
-      "jabil",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1790769492.7877805
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/atlantic-hpc-acquires-29-mw-power-facility-in-tennessee-93CH-4924898",
-    "title": "Atlantic HPC acquires 29 MW power facility in Tennessee",
-    "tokens": [
-      "acquires",
-      "atlantic",
-      "facility",
-      "hpc",
-      "power",
-      "tennessee"
-    ],
-    "ts": 1790769496.3410978
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cytokinetics-launches-realworld-study-of-heart-drug-myqorzo-93CH-4924897",
-    "title": "Cytokinetics launches real-world study of heart drug MYQORZO",
-    "tokens": [
-      "cytokinetics",
-      "drug",
-      "heart",
-      "launches",
-      "myqorzo",
-      "real",
-      "study",
-      "world"
-    ],
-    "ts": 1790769504.1977344
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/green-circle-subsidiary-submits-tenders-worth-hk67-million-93CH-4924892",
-    "title": "Green Circle subsidiary submits tenders worth HK$67 million",
-    "tokens": [
-      "circle",
-      "green",
-      "million",
-      "submits",
-      "subsidiary",
-      "tenders",
-      "worth"
-    ],
-    "ts": 1790769512.6125312
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/norwegian-cruise-line-stock-rises-on-upbeat-q3-forecast-4924963",
-    "title": "Norwegian Cruise Line stock rises on upbeat Q3 forecast",
-    "tokens": [
-      "cruise",
-      "forecast",
-      "line",
-      "norwegian",
-      "rises",
-      "stock",
-      "upbeat"
-    ],
-    "ts": 1790771006.6046252
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-summit-therapeutics-stock-rating-as-neutral-93CH-4924962",
-    "title": "H.C. Wainwright reiterates Summit Therapeutics stock rating as Neutral",
-    "tokens": [
-      "neutral",
-      "rating",
-      "reiterates",
-      "stock",
-      "summit",
-      "therapeutics",
-      "wainwright"
-    ],
-    "ts": 1790771014.9141476
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-rexford-industrial-stock-rating-at-overweight-93CH-4924961",
-    "title": "Cantor Fitzgerald reiterates Rexford Industrial stock rating at Overweight",
-    "tokens": [
-      "cantor",
-      "fitzgerald",
-      "industrial",
-      "overweight",
-      "rating",
-      "reiterates",
-      "rexford",
-      "stock"
-    ],
-    "ts": 1790771021.8579574
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/target-upgraded-at-hsbc-as-footfall-points-to-turnaround-gaining-momentum-4924960",
-    "title": "Target upgraded at HSBC as footfall points to turnaround gaining momentum",
-    "tokens": [
-      "footfall",
-      "gaining",
-      "hsbc",
-      "momentum",
-      "points",
-      "target",
-      "turnaround",
-      "upgraded"
-    ],
-    "ts": 1790771029.4868917
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/analysts-raise-2026-oil-forecasts-on-prolonged-gulf-disruption-reuters-poll-4924959",
-    "title": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption: Reuters poll",
-    "tokens": [
-      "2026",
-      "analysts",
-      "disruption",
-      "forecasts",
-      "gulf",
-      "oil",
-      "poll",
-      "prolonged",
-      "raise",
-      "reuters"
-    ],
-    "ts": 1790771037.643733
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/conagra-brands-beats-firstquarter-profit-and-sales-estimates-4924958",
-    "title": "Conagra Brands beats first-quarter profit and sales estimates",
-    "tokens": [
-      "beats",
-      "brands",
-      "conagra",
-      "estimates",
-      "first",
-      "profit",
-      "quarter",
-      "sales"
-    ],
-    "ts": 1790771046.1527917
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hpe-raises-networking-revenue-outlook-reports-12b-order-93CH-4924950",
-    "title": "HPE raises networking revenue outlook, reports $1.2B order",
-    "tokens": [
-      "hpe",
-      "networking",
-      "order",
-      "outlook",
-      "raises",
-      "reports",
-      "revenue"
-    ],
-    "ts": 1790771054.150385
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hpe-secures-12b-order-from-vultr-for-ai-systems-93CH-4924951",
-    "title": "HPE secures $1.2B order from Vultr for AI systems",
-    "tokens": [
-      "hpe",
-      "order",
-      "secures",
-      "systems",
-      "vultr"
-    ],
-    "ts": 1790771061.837326
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/conduent-unveils-ascend-growth-strategy-through-2028-93CH-4924952",
-    "title": "Conduent unveils ASCEND growth strategy through 2028",
-    "tokens": [
-      "2028",
-      "ascend",
-      "conduent",
-      "growth",
-      "strategy",
-      "through",
-      "unveils"
-    ],
-    "ts": 1790771070.1008637
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-announces-a-securities-class-action-filed-against-ast-spacemobile-inc.-asts-lead-plaintiff-deadline-is-november-13-2026-1036585237",
-    "title": "Kaplan Fox Announces a Securities Class Action Filed Against AST SpaceMobile, Inc. (ASTS) - Lead Plaintiff Deadline is November 13, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "against",
-      "announces",
-      "ast",
-      "asts",
-      "class",
-      "deadline",
-      "filed",
-      "fox",
-      "inc",
-      "kaplan",
-      "lead",
-      "november",
-      "plaintiff",
-      "securities",
-      "spacemobile"
-    ],
-    "ts": 1790771078.221303
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/gocare-outageiq-earns-four-diamond-rating-in-lightwave-s-2026-diamond-technology-reviews-1036585240",
     "title": "GOCare OutageIQ Earns Four Diamond Rating in Lightwave's 2026 Diamond Technology Reviews",
     "tokens": [
@@ -22845,5 +22535,358 @@
       "ultimatum"
     ],
     "ts": 1791038396.5371542
+  },
+  {
+    "id": "WP-MKTW-0005258594",
+    "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
+    "tokens": [
+      "according",
+      "beginners",
+      "cards",
+      "guy",
+      "make",
+      "mistake",
+      "points",
+      "travel"
+    ],
+    "ts": 1791052768.0212352
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bessent-says-rising-treasury-yields-reflect-global-trend-not-cause-for-alarm-4930869",
+    "title": "Bessent says rising Treasury yields reflect global trend, not cause for alarm",
+    "tokens": [
+      "alarm",
+      "bessent",
+      "cause",
+      "global",
+      "reflect",
+      "rising",
+      "treasury",
+      "trend",
+      "yields"
+    ],
+    "ts": 1791052777.6127293
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/turkey-extends-lower-margin-trading-requirement-to-oct-30-93CH-4930868",
+    "title": "Turkey extends lower margin trading requirement to Oct. 30",
+    "tokens": [
+      "extends",
+      "lower",
+      "margin",
+      "oct",
+      "requirement",
+      "trading",
+      "turkey"
+    ],
+    "ts": 1791052785.9039943
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusivekey-shinyhunters-hacker-detained-in-jordan-is-cooperating-sources-say-4930864",
+    "title": "Exclusive-Key ShinyHunters hacker detained in Jordan, is cooperating, sources say",
+    "tokens": [
+      "cooperating",
+      "detained",
+      "exclusive",
+      "hacker",
+      "jordan",
+      "key",
+      "say",
+      "shinyhunters",
+      "sources"
+    ],
+    "ts": 1791052794.532844
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pennymac-mortgage-cao-hendry-disposes-of-19209-in-shares-93CH-4930860",
+    "title": "PennyMac Mortgage CAO Hendry disposes of $19,209 in shares",
+    "tokens": [
+      "209",
+      "cao",
+      "disposes",
+      "hendry",
+      "mortgage",
+      "pennymac",
+      "shares"
+    ],
+    "ts": 1791052803.1650724
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-skilled-investor-counsel-encourages-the-cooper-companies-inc.-investors-to-inquire-about-securities-class-action-investigation-coo-1036595321",
+    "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages The Cooper Companies, Inc. Investors to Inquire About Securities Class Action Investigation - COO",
+    "tokens": [
+      "about",
+      "action",
+      "class",
+      "companies",
+      "coo",
+      "cooper",
+      "counsel",
+      "encourages",
+      "inc",
+      "inquire",
+      "investigation",
+      "investor",
+      "investors",
+      "rosen",
+      "securities",
+      "skilled"
+    ],
+    "ts": 1791052812.2987335
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-skilled-investor-counsel-encourages-beneficient-investors-to-inquire-about-securities-class-action-investigation-benf-1036586138",
+    "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages Beneficient Investors to Inquire About Securities Class Action Investigation - BENF",
+    "tokens": [
+      "about",
+      "action",
+      "beneficient",
+      "benf",
+      "class",
+      "counsel",
+      "encourages",
+      "inquire",
+      "investigation",
+      "investor",
+      "investors",
+      "rosen",
+      "securities",
+      "skilled"
+    ],
+    "ts": 1791052816.3147874
+  },
+  {
+    "id": "https://www.businessinsider.com/elon-musk-tesla-trying-to-stop-robotaxis-from-hitting-cats-2026-10",
+    "title": "Elon Musk says Tesla is trying to prevent robotaxis from running over cats at night",
+    "tokens": [
+      "cats",
+      "elon",
+      "musk",
+      "night",
+      "prevent",
+      "robotaxis",
+      "running",
+      "tesla",
+      "trying"
+    ],
+    "ts": 1791052820.7910933
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-trusted-investor-counsel-encourages-netcapital-inc.-investors-to-inquire-about-securities-class-action-investigation-ncpl-1036595310",
+    "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Netcapital Inc. Investors to Inquire About Securities Class Action Investigation - NCPL",
+    "tokens": [
+      "about",
+      "action",
+      "class",
+      "counsel",
+      "encourages",
+      "inc",
+      "inquire",
+      "investigation",
+      "investor",
+      "investors",
+      "ncpl",
+      "netcapital",
+      "rosen",
+      "securities",
+      "trusted"
+    ],
+    "ts": 1791052824.8072517
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-trusted-investor-counsel-encourages-azenta-inc.-investors-to-inquire-about-securities-class-action-investigation-azta-1036595312",
+    "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Azenta, Inc. Investors to Inquire About Securities Class Action Investigation - AZTA",
+    "tokens": [
+      "about",
+      "action",
+      "azenta",
+      "azta",
+      "class",
+      "counsel",
+      "encourages",
+      "inc",
+      "inquire",
+      "investigation",
+      "investor",
+      "investors",
+      "rosen",
+      "securities",
+      "trusted"
+    ],
+    "ts": 1791052824.8225856
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-skilled-investor-counsel-encourages-j.b.-hunt-transport-services-inc.-investors-to-inquire-about-securities-class-action-investigation-jbht-1036595311",
+    "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages J.B. Hunt Transport Services, Inc. Investors to Inquire About Securities Class Action Investigation - JBHT",
+    "tokens": [
+      "about",
+      "action",
+      "class",
+      "counsel",
+      "encourages",
+      "hunt",
+      "inc",
+      "inquire",
+      "investigation",
+      "investor",
+      "investors",
+      "jbht",
+      "rosen",
+      "securities",
+      "services",
+      "skilled",
+      "transport"
+    ],
+    "ts": 1791052824.8378677
+  },
+  {
+    "id": "https://seekingalpha.com/news/4649212-energy-sector-overshadows-in-q3-as?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Energy sector overshadows in Q3 as",
+    "tokens": [
+      "energy",
+      "overshadows",
+      "sector"
+    ],
+    "ts": 1791052829.2718425
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/powernexu-highlights-crps3600t2-for-high-power-server-procurement-1036595307",
+    "title": "Powernexu Highlights CRPS3600T2 for High-Power Server Procurement",
+    "tokens": [
+      "crps3600t2",
+      "high",
+      "highlights",
+      "power",
+      "powernexu",
+      "procurement",
+      "server"
+    ],
+    "ts": 1791052838.5127966
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/vb-health-launches-public-seven-part-supplement-quality-standard-1036595306",
+    "title": "VB Health Launches Public Seven-Part Supplement Quality Standard",
+    "tokens": [
+      "health",
+      "launches",
+      "part",
+      "public",
+      "quality",
+      "seven",
+      "standard",
+      "supplement"
+    ],
+    "ts": 1791052847.8630197
+  },
+  {
+    "id": "https://seekingalpha.com/news/4650018-eni-repsol-seeking-partial-sale-venezuela-gas-field?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Eni and Repsol said to be weighing a partial sale of top Venezuela gas field",
+    "tokens": [
+      "eni",
+      "field",
+      "gas",
+      "partial",
+      "repsol",
+      "sale",
+      "top",
+      "venezuela",
+      "weighing"
+    ],
+    "ts": 1791052857.7371817
+  },
+  {
+    "id": "oilprice-article-45673",
+    "title": "New Research Strengthens the Link Between Warming and Extreme Weather",
+    "tokens": [
+      "between",
+      "extreme",
+      "link",
+      "research",
+      "strengthens",
+      "warming",
+      "weather"
+    ],
+    "ts": 1791052867.7132835
+  },
+  {
+    "id": "oilprice-article-45671",
+    "title": "Latin America Could Double Its Onshore Wind Capacity by 2035",
+    "tokens": [
+      "2035",
+      "america",
+      "capacity",
+      "could",
+      "double",
+      "latin",
+      "onshore",
+      "wind"
+    ],
+    "ts": 1791052877.119641
+  },
+  {
+    "id": "oilprice-news-45673",
+    "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
+    "tokens": [
+      "billion",
+      "deal",
+      "includes",
+      "korea",
+      "oil",
+      "project",
+      "south",
+      "trump"
+    ],
+    "ts": 1791052881.135074
+  },
+  {
+    "id": "81095c8a-ed91-4e91-9c0c-c85c83ad8c83",
+    "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+    "tokens": [
+      "acquisitions",
+      "end",
+      "expansion",
+      "firm",
+      "fund",
+      "listing",
+      "nasdaq",
+      "openpayd",
+      "payments",
+      "targets",
+      "year"
+    ],
+    "ts": 1791052885.6406338
+  },
+  {
+    "id": "9e758b83-a1e1-4ad5-8c5b-7599463e0fa9",
+    "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+    "tokens": [
+      "200",
+      "applications",
+      "crypto",
+      "fall",
+      "job",
+      "postings",
+      "september",
+      "triple"
+    ],
+    "ts": 1791052895.9915721
+  },
+  {
+    "id": "ecb3ed09-8960-4340-9ba8-3ed6321b321c",
+    "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+    "tokens": [
+      "agents",
+      "cathie",
+      "investors",
+      "money",
+      "need",
+      "smart",
+      "spend",
+      "start",
+      "watching",
+      "where",
+      "wood"
+    ],
+    "ts": 1791052905.871111
   }
 ]

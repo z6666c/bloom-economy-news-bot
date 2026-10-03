@@ -1,104 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/porsche-ceo-defends-shift-back-to-petrol-amid-ev-concerns-93CH-4924460",
-    "title": "Porsche CEO defends shift back to petrol amid EV concerns",
-    "tokens": [
-      "back",
-      "ceo",
-      "concerns",
-      "defends",
-      "petrol",
-      "porsche",
-      "shift"
-    ],
-    "ts": 1790762422.1103227
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-redcentric-tops-eps-forecast-in-h2-2026-revenue-misses-93CH-4924459",
-    "title": "Earnings call transcript: Redcentric tops EPS forecast in H2 2026, revenue misses",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "eps",
-      "forecast",
-      "misses",
-      "redcentric",
-      "revenue",
-      "tops",
-      "transcript"
-    ],
-    "ts": 1790762430.4963918
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/german-unemployment-rises-much-more-than-expected-in-september-4924280",
-    "title": "German unemployment and state inflation rise in September",
-    "tokens": [
-      "german",
-      "inflation",
-      "rise",
-      "september",
-      "state",
-      "unemployment"
-    ],
-    "ts": 1790762438.7776082
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/metas-muse-ai-agent-pressures-online-travel-stocks-truist-comments-93CH-4924456",
-    "title": "Meta’s Muse AI agent pressures online travel stocks, Truist comments",
-    "tokens": [
-      "agent",
-      "comments",
-      "meta",
-      "muse",
-      "online",
-      "pressures",
-      "stocks",
-      "travel",
-      "truist"
-    ],
-    "ts": 1790762446.6701615
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/portugal-consumer-prices-rise-36-in-september-on-fuel-costs-93CH-4924558",
-    "title": "Portugal consumer prices rise 3.6% in September on fuel costs",
-    "tokens": [
-      "consumer",
-      "costs",
-      "fuel",
-      "portugal",
-      "prices",
-      "rise",
-      "september"
-    ],
-    "ts": 1790763660.189424
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-trulieve-cannabis-stock-sliding-today-93CH-4924557",
-    "title": "Why is Trulieve Cannabis stock sliding today?",
-    "tokens": [
-      "cannabis",
-      "sliding",
-      "stock",
-      "today",
-      "trulieve",
-      "why"
-    ],
-    "ts": 1790763668.0412142
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-concentrix-stock-sliding-today-93CH-4924555",
-    "title": "Why is Concentrix stock sliding today?",
-    "tokens": [
-      "concentrix",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790763672.0581374
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/us-trade-court-to-weigh-challenge-to-trumps-forced-labor-tariffs-4924535",
     "title": "US trade court to weigh challenge to Trump’s forced labor tariffs",
     "tokens": [
@@ -22851,5 +22752,106 @@
       "turtle"
     ],
     "ts": 1790994969.4903193
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/coreweave-cso-brian-venturo-sells-575-million-in-shares-for-taxes-93CH-4930725",
+    "title": "CoreWeave CSO Brian Venturo sells $5.75 million in shares for taxes",
+    "tokens": [
+      "brian",
+      "coreweave",
+      "cso",
+      "million",
+      "sells",
+      "shares",
+      "taxes",
+      "venturo"
+    ],
+    "ts": 1790996653.1561494
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/coreweave-chief-development-officer-sells-496m-in-stock-93CH-4930718",
+    "title": "Coreweave chief development officer sells $4.96m in stock",
+    "tokens": [
+      "96m",
+      "chief",
+      "coreweave",
+      "development",
+      "officer",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790996663.7628543
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/coreweave-gc-mcveety-sells-438-in-shares-93CH-4930717",
+    "title": "CoreWeave GC McVeety sells $438 in shares",
+    "tokens": [
+      "438",
+      "coreweave",
+      "mcveety",
+      "sells",
+      "shares"
+    ],
+    "ts": 1790996672.6424272
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/coreweave-ceo-michael-intrator-sells-689m-in-stock-93CH-4930715",
+    "title": "CoreWeave CEO Michael Intrator sells $6.89m in stock",
+    "tokens": [
+      "89m",
+      "ceo",
+      "coreweave",
+      "intrator",
+      "michael",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790996676.6584365
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/coreweave-coo-sachin-jain-sells-350-in-company-stock-93CH-4930716",
+    "title": "CoreWeave COO Sachin Jain sells $350 in company stock",
+    "tokens": [
+      "350",
+      "company",
+      "coo",
+      "coreweave",
+      "jain",
+      "sachin",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790996682.7150257
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/xis-rest-breaks-cut-hours-from-trump-summit-schedule--wsj-4930713",
+    "title": "Xi’s rest breaks cut hours from Trump summit schedule - WSJ",
+    "tokens": [
+      "breaks",
+      "cut",
+      "hours",
+      "rest",
+      "schedule",
+      "summit",
+      "trump",
+      "wsj"
+    ],
+    "ts": 1790996695.0738642
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/beyond-air-director-lin-yichien-buys-56590-in-company-stock-93CH-4930711",
+    "title": "Beyond Air director Lin Yi-Chien buys $56,590 in company stock",
+    "tokens": [
+      "590",
+      "air",
+      "beyond",
+      "buys",
+      "chien",
+      "company",
+      "director",
+      "lin",
+      "stock"
+    ],
+    "ts": 1790996709.3608627
   }
 ]

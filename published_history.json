@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/us-trade-court-to-weigh-challenge-to-trumps-forced-labor-tariffs-4924535",
-    "title": "US trade court to weigh challenge to Trump’s forced labor tariffs",
-    "tokens": [
-      "challenge",
-      "court",
-      "forced",
-      "labor",
-      "tariffs",
-      "trade",
-      "trump",
-      "weigh"
-    ],
-    "ts": 1790763675.2427046
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/wall-st-regulator-to-unveil-new-retail-investor-proposals-for-private-assets-4924538",
     "title": "Wall St regulator to unveil new retail investor proposals for private assets",
     "tokens": [
@@ -22853,5 +22838,19 @@
       "stock"
     ],
     "ts": 1790996709.3608627
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/summit-midstream-executive-vp-johnston-sells-79326-in-stock-93CH-4930730",
+    "title": "Summit Midstream executive VP Johnston sells $79,326 in stock",
+    "tokens": [
+      "326",
+      "executive",
+      "johnston",
+      "midstream",
+      "sells",
+      "stock",
+      "summit"
+    ],
+    "ts": 1790998514.337479
   }
 ]

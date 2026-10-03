@@ -1,18 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/niq-integrates-googles-meridian-into-cadence-platform-93CH-4924618",
-    "title": "NIQ integrates Google’s Meridian into Cadence platform",
-    "tokens": [
-      "cadence",
-      "google",
-      "integrates",
-      "meridian",
-      "niq",
-      "platform"
-    ],
-    "ts": 1790765028.833907
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/ubs-resumes-certara-stock-coverage-with-neutral-rating-10-target-93CH-4924616",
     "title": "UBS resumes Certara stock coverage with neutral rating, $10 target",
     "tokens": [
@@ -22844,5 +22831,20 @@
       "trump"
     ],
     "ts": 1791011863.5746877
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/pressure-builds-on-iran-as-trump-expands-us-military-presence--bloomberg-4930769",
+    "title": "Pressure builds on Iran as Trump expands U.S. military presence - Bloomberg",
+    "tokens": [
+      "bloomberg",
+      "builds",
+      "expands",
+      "iran",
+      "military",
+      "presence",
+      "pressure",
+      "trump"
+    ],
+    "ts": 1791014313.071555
   }
 ]

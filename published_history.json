@@ -1,97 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/elf-beauty-stock-gains-on-strong-sales-data-from-canaccord-tracker-93CH-4924676",
-    "title": "Elf Beauty stock gains on strong sales data from Canaccord tracker",
-    "tokens": [
-      "beauty",
-      "canaccord",
-      "data",
-      "elf",
-      "gains",
-      "sales",
-      "stock",
-      "strong",
-      "tracker"
-    ],
-    "ts": 1790765913.901514
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/kenvue-brands-present-skin-and-hair-research-at-vienna-congress-93CH-4924675",
-    "title": "Kenvue brands present skin and hair research at Vienna congress",
-    "tokens": [
-      "brands",
-      "congress",
-      "hair",
-      "kenvue",
-      "present",
-      "research",
-      "skin",
-      "vienna"
-    ],
-    "ts": 1790765921.7370193
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/jacobs-wins-nvidia-contract-for-data-center-digital-twin-93CH-4924674",
-    "title": "Jacobs wins NVIDIA contract for data center digital twin",
-    "tokens": [
-      "center",
-      "contract",
-      "data",
-      "digital",
-      "jacobs",
-      "nvidia",
-      "twin",
-      "wins"
-    ],
-    "ts": 1790765929.1008985
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-mongodb-stock-rating-on-business-momentum-93CH-4924662",
-    "title": "Evercore ISI maintains MongoDB stock rating on business momentum",
-    "tokens": [
-      "business",
-      "evercore",
-      "isi",
-      "maintains",
-      "momentum",
-      "mongodb",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790765936.472277
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/goldman-sachs-says-these-telecom-stocks-are-defensive-buys-despite-ai-risk-4924661",
-    "title": "Goldman Sachs says these telecom stocks are defensive buys despite AI risk",
-    "tokens": [
-      "buys",
-      "defensive",
-      "despite",
-      "goldman",
-      "risk",
-      "sachs",
-      "stocks",
-      "telecom",
-      "these"
-    ],
-    "ts": 1790765943.8606615
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-tectonic-therapeutics-stock-rating-on-tx2100-data-93CH-4924660",
-    "title": "Oppenheimer reiterates Tectonic Therapeutics stock rating on TX2100 data",
-    "tokens": [
-      "data",
-      "oppenheimer",
-      "rating",
-      "reiterates",
-      "stock",
-      "tectonic",
-      "therapeutics",
-      "tx2100"
-    ],
-    "ts": 1790765952.0473692
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/oppenheimer-initiates-cavco-industries-stock-with-outperform-rating-93CH-4924658",
     "title": "Oppenheimer initiates Cavco Industries stock with outperform rating",
     "tokens": [
@@ -22841,5 +22749,98 @@
       "trust"
     ],
     "ts": 1791021253.0842543
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/trump-to-speak-at-ohio-rally-as-republicans-defend-senate-seat-in-close-race-4930828",
+    "title": "Trump to speak at Ohio rally as Republicans defend Senate seat in close race",
+    "tokens": [
+      "close",
+      "defend",
+      "ohio",
+      "race",
+      "rally",
+      "republicans",
+      "seat",
+      "senate",
+      "speak",
+      "trump"
+    ],
+    "ts": 1791023236.2805963
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/auburn-national-director-william-ham-jr-buys-1288-in-stock-93CH-4930827",
+    "title": "Auburn national director William Ham Jr. buys $1,288 in stock",
+    "tokens": [
+      "288",
+      "auburn",
+      "buys",
+      "director",
+      "ham",
+      "national",
+      "stock",
+      "william"
+    ],
+    "ts": 1791023244.1041548
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/as-public-fears-of-ai-grow-trump-digs-in-on-voluntary-safeguards-4930823",
+    "title": "As public fears of AI grow, Trump digs in on voluntary safeguards",
+    "tokens": [
+      "digs",
+      "fears",
+      "grow",
+      "public",
+      "safeguards",
+      "trump",
+      "voluntary"
+    ],
+    "ts": 1791023252.2176669
+  },
+  {
+    "id": "https://www.investing.com/news/press-releases/hexaware-technologies-highlights-the-next-wave-of-ai-in-financial-services-4930821",
+    "title": "Hexaware Technologies Highlights the Next Wave of AI in Financial Services",
+    "tokens": [
+      "financial",
+      "hexaware",
+      "highlights",
+      "next",
+      "services",
+      "technologies",
+      "wave"
+    ],
+    "ts": 1791023259.7115638
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/qualcomm-svp-patricia-grech-sells-18281-in-qcom-shares-93CH-4930820",
+    "title": "Qualcomm SVP Patricia Grech sells $18,281 in QCOM shares",
+    "tokens": [
+      "281",
+      "grech",
+      "patricia",
+      "qcom",
+      "qualcomm",
+      "sells",
+      "shares",
+      "svp"
+    ],
+    "ts": 1791023267.8353274
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hotel-giants-see-middle-east-demand-recovering-as-peak-season-nears--bloomberg-4930815",
+    "title": "Hotel giants see Middle East demand recovering as peak season nears - Bloomberg",
+    "tokens": [
+      "bloomberg",
+      "demand",
+      "east",
+      "giants",
+      "hotel",
+      "middle",
+      "nears",
+      "peak",
+      "recovering",
+      "season",
+      "see"
+    ],
+    "ts": 1791023275.4863253
   }
 ]

@@ -1,79 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-novacyt-h1-2025-revenue-rises-18-as-margin-slips-93CH-4924319",
-    "title": "Earnings call transcript: Novacyt H1 2025 revenue rises 18% as margin slips",
-    "tokens": [
-      "2025",
-      "call",
-      "earnings",
-      "margin",
-      "novacyt",
-      "revenue",
-      "rises",
-      "slips",
-      "transcript"
-    ],
-    "ts": 1790757887.8012109
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/inflation-up-in-five-german-states-in-september-pointing-to-national-rise-4924317",
-    "title": "Inflation up in five German states in September, pointing to national rise",
-    "tokens": [
-      "five",
-      "german",
-      "inflation",
-      "national",
-      "pointing",
-      "rise",
-      "september",
-      "states"
-    ],
-    "ts": 1790757896.9553313
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-040-4924316",
-    "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.40%",
-    "tokens": [
-      "close",
-      "composite",
-      "idx",
-      "index",
-      "indonesia",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790757900.9704123
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/italy-business-and-consumer-confidence-falls-in-september-4924315",
-    "title": "Italy business and consumer confidence falls in September",
-    "tokens": [
-      "business",
-      "confidence",
-      "consumer",
-      "falls",
-      "italy",
-      "september"
-    ],
-    "ts": 1790757906.4838116
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bojs-policy-pivot-opens-scope-for-faster-rate-hikes-4924313",
-    "title": "BOJ’s policy pivot opens scope for faster rate hikes",
-    "tokens": [
-      "boj",
-      "faster",
-      "hikes",
-      "opens",
-      "pivot",
-      "policy",
-      "rate",
-      "scope"
-    ],
-    "ts": 1790757914.405424
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/bmw-targets-35-auto-margin-by-2028-after-chinalinked-profit-warning-4924309",
     "title": "BMW targets 3%-5% auto margin by 2028 after China-linked profit warning",
     "tokens": [
@@ -22866,5 +22792,87 @@
       "through"
     ],
     "ts": 1790986524.0902288
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/newegg-chief-legal-officer-michael-chen-sells-884-of-stock-93CH-4930590",
+    "title": "Newegg chief legal officer Michael Chen sells $884 of stock",
+    "tokens": [
+      "884",
+      "chen",
+      "chief",
+      "legal",
+      "michael",
+      "newegg",
+      "officer",
+      "sells",
+      "stock"
+    ],
+    "ts": 1790988026.1877024
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/mara-holdings-ceo-fred-thiel-sells-308606-in-mara-shares-93CH-4930589",
+    "title": "Mara Holdings CEO Fred Thiel sells $308,606 in Mara shares",
+    "tokens": [
+      "308",
+      "606",
+      "ceo",
+      "fred",
+      "holdings",
+      "mara",
+      "sells",
+      "shares",
+      "thiel"
+    ],
+    "ts": 1790988040.2585425
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cathie-woods-ark-stock-trades-cerebras-and-bwx-technologies-lead-buys-93CH-4930580",
+    "title": "Cathie Wood’s ARK stock trades: Cerebras and BWX Technologies lead buys",
+    "tokens": [
+      "ark",
+      "buys",
+      "bwx",
+      "cathie",
+      "cerebras",
+      "lead",
+      "stock",
+      "technologies",
+      "trades",
+      "wood"
+    ],
+    "ts": 1790988053.2466877
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ez-newswire-launches-press-release-performance-reports-with-ai-visibility-tracking-4930578",
+    "title": "EZ Newswire Launches Press Release Performance Reports With AI Visibility Tracking",
+    "tokens": [
+      "launches",
+      "newswire",
+      "performance",
+      "press",
+      "release",
+      "reports",
+      "tracking",
+      "visibility"
+    ],
+    "ts": 1790988061.814025
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/azincourt-energy-completes-harrier-prospecting-program-and-commences-drilling-at-snegamook-uranium-deposit-4930579",
+    "title": "Azincourt Energy Completes Harrier Prospecting Program and Commences Drilling At Snegamook Uranium Deposit",
+    "tokens": [
+      "azincourt",
+      "commences",
+      "completes",
+      "deposit",
+      "drilling",
+      "energy",
+      "harrier",
+      "program",
+      "prospecting",
+      "snegamook",
+      "uranium"
+    ],
+    "ts": 1790988071.6147342
   }
 ]

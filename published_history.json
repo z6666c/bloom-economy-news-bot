@@ -1,302 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/synopsys-amazon-web-services-sign-chip-design-licensing-deal-worth-more-than-1-billion-4925241",
-    "title": "Synopsys, Amazon Web Services sign chip design licensing deal worth more than $1 billion",
-    "tokens": [
-      "amazon",
-      "billion",
-      "chip",
-      "deal",
-      "design",
-      "licensing",
-      "more",
-      "services",
-      "sign",
-      "synopsys",
-      "web",
-      "worth"
-    ],
-    "ts": 1790774153.6715207
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/yiren-digital-q2-2026-slides-ai-gains-amid-transformation-losses-93CH-4925237",
-    "title": "Yiren Digital Q2 2026 slides: AI gains amid transformation losses",
-    "tokens": [
-      "2026",
-      "digital",
-      "gains",
-      "losses",
-      "slides",
-      "transformation",
-      "yiren"
-    ],
-    "ts": 1790774157.6881926
-  },
-  {
-    "id": "3ef1b591-c99d-4ff6-a3eb-dd83614698bb",
-    "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-    "tokens": [
-      "brazil",
-      "cardano",
-      "cleaner",
-      "diesel",
-      "fuel",
-      "giant",
-      "jet",
-      "oil",
-      "state",
-      "tapped",
-      "track"
-    ],
-    "ts": 1790774162.2237344
-  },
-  {
-    "id": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis",
-    "title": "Singapore crypto activity grows 55% as broader region contracts",
-    "tokens": [
-      "activity",
-      "broader",
-      "contracts",
-      "crypto",
-      "grows",
-      "region",
-      "singapore"
-    ],
-    "ts": 1790774170.7020142
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-    "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-    "tokens": [
-      "accountability",
-      "board",
-      "capital",
-      "changes",
-      "enhance",
-      "federal",
-      "finalizes",
-      "public",
-      "reduce",
-      "related",
-      "requirements",
-      "reserve",
-      "stress",
-      "test",
-      "transparency",
-      "volatility"
-    ],
-    "ts": 1790774177.813331
-  },
-  {
-    "id": "WP-MKTW-0005260349",
-    "title": "Americans get back to their spending ways. Economy might be speeding up again.",
-    "tokens": [
-      "again",
-      "americans",
-      "back",
-      "economy",
-      "get",
-      "might",
-      "speeding",
-      "spending",
-      "their",
-      "ways"
-    ],
-    "ts": 1790775294.9102845
-  },
-  {
-    "id": "WP-MKTW-0005261317",
-    "title": "How Amazon’s stock can fight off the AI threat and soar 46%",
-    "tokens": [
-      "amazon",
-      "can",
-      "fight",
-      "how",
-      "off",
-      "soar",
-      "stock",
-      "threat"
-    ],
-    "ts": 1790775303.2449808
-  },
-  {
-    "id": "WP-MKTW-0005261409",
-    "title": "Major car rivals are teaming up to solve the biggest EV roadblock: Reliable charging",
-    "tokens": [
-      "biggest",
-      "car",
-      "charging",
-      "major",
-      "reliable",
-      "rivals",
-      "roadblock",
-      "solve",
-      "teaming"
-    ],
-    "ts": 1790776669.5739536
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-rallying-today-93CH-4925365",
-    "title": "Why is MongoDB stock rallying today?",
-    "tokens": [
-      "mongodb",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790776673.70288
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/india-approves-1942-billion-renewable-energy-program-93CH-4925364",
-    "title": "India approves $19.42 billion renewable energy program",
-    "tokens": [
-      "approves",
-      "billion",
-      "energy",
-      "india",
-      "program",
-      "renewable"
-    ],
-    "ts": 1790776679.308719
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/caterpillar-to-invest-1-billion-in-north-carolina-manufacturing-capacity-4925321",
-    "title": "Caterpillar to invest $1 billion in North Carolina manufacturing capacity",
-    "tokens": [
-      "billion",
-      "capacity",
-      "carolina",
-      "caterpillar",
-      "invest",
-      "manufacturing",
-      "north"
-    ],
-    "ts": 1790776688.1751173
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/chicago-pmi-surges-signals-robust-manufacturing-expansion-93CH-4925362",
-    "title": "Chicago PMI Surges, Signals Robust Manufacturing Expansion",
-    "tokens": [
-      "chicago",
-      "expansion",
-      "manufacturing",
-      "pmi",
-      "robust",
-      "signals",
-      "surges"
-    ],
-    "ts": 1790776696.3717325
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/vlypn-stock-hits-52week-low-at-2519-usd-93CH-4925361",
-    "title": "VLYPN stock hits 52-week low at 25.19 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "vlypn",
-      "week"
-    ],
-    "ts": 1790776700.388064
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/truist-cuts-booking-holdings-stock-price-target-on-sentiment-concerns-93CH-4925359",
-    "title": "Truist cuts Booking Holdings stock price target on sentiment concerns",
-    "tokens": [
-      "booking",
-      "concerns",
-      "cuts",
-      "holdings",
-      "price",
-      "sentiment",
-      "stock",
-      "target",
-      "truist"
-    ],
-    "ts": 1790776708.0433161
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/truist-cuts-expedia-stock-price-target-to-288-on-muse-entry-risks-93CH-4925358",
-    "title": "Truist cuts Expedia stock price target to $288 on Muse entry risks",
-    "tokens": [
-      "288",
-      "cuts",
-      "entry",
-      "expedia",
-      "muse",
-      "price",
-      "risks",
-      "stock",
-      "target",
-      "truist"
-    ],
-    "ts": 1790776716.2640276
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/cbot-corn-futures-rise-ahead-of-usda-quarterly-stocks-report-93CH-4925352",
-    "title": "CBOT corn futures rise ahead of USDA quarterly stocks report",
-    "tokens": [
-      "ahead",
-      "cbot",
-      "corn",
-      "futures",
-      "quarterly",
-      "report",
-      "rise",
-      "stocks",
-      "usda"
-    ],
-    "ts": 1790776725.0075178
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/opec-oil-producers-set-to-keep-output-targets-steady-at-sunday-meeting-sources-say-4924342",
-    "title": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say",
-    "tokens": [
-      "keep",
-      "meeting",
-      "oil",
-      "opec",
-      "output",
-      "producers",
-      "say",
-      "set",
-      "sources",
-      "steady",
-      "sunday",
-      "targets"
-    ],
-    "ts": 1790776735.7863145
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget",
-    "title": "Could THORChain face prosecution over stolen Bitget funds?",
-    "tokens": [
-      "bitget",
-      "could",
-      "face",
-      "funds",
-      "prosecution",
-      "stolen",
-      "thorchain"
-    ],
-    "ts": 1790776745.674485
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-spyre-therapeutics-stock-rallying-today-93CH-4925410",
-    "title": "Why is Spyre Therapeutics stock rallying today?",
-    "tokens": [
-      "rallying",
-      "spyre",
-      "stock",
-      "therapeutics",
-      "today",
-      "why"
-    ],
-    "ts": 1790777969.5302732
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/synopsys-signs-1b-multiyear-custom-silicon-ip-agreement-with-aws-4925293",
     "title": "Synopsys signs $1B+ multi-year custom silicon IP agreement with AWS",
     "tokens": [
@@ -22889,5 +22592,303 @@
       "wages"
     ],
     "ts": 1791111082.5236306
+  },
+  {
+    "id": "WP-MKTW-0005267908",
+    "title": "Corporate America has never been this upbeat about future profits",
+    "tokens": [
+      "about",
+      "america",
+      "corporate",
+      "future",
+      "never",
+      "profits",
+      "upbeat"
+    ],
+    "ts": 1791135378.6734266
+  },
+  {
+    "id": "WP-MKTW-0005268008",
+    "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
+    "tokens": [
+      "can",
+      "here",
+      "investors",
+      "month",
+      "need",
+      "october",
+      "scary",
+      "stocks",
+      "watch",
+      "what",
+      "year"
+    ],
+    "ts": 1791135386.8538234
+  },
+  {
+    "id": "WP-MKTW-0005268052",
+    "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+    "tokens": [
+      "about",
+      "clues",
+      "coming",
+      "could",
+      "fed",
+      "future",
+      "give",
+      "hikes",
+      "important",
+      "markets",
+      "minutes",
+      "rate",
+      "week"
+    ],
+    "ts": 1791135395.4338431
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/musk-says-he-will-rename-spacexai-to-spacexsi-4930944",
+    "title": "Musk says he will rename SpaceXAI to SpaceXSI",
+    "tokens": [
+      "musk",
+      "rename",
+      "spacexai",
+      "spacexsi"
+    ],
+    "ts": 1791135404.692721
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/head-of-yemens-presidential-council-announces-military-operations-to-retake-territory-4930932",
+    "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+    "tokens": [
+      "all",
+      "areas",
+      "backed",
+      "government",
+      "houthis",
+      "iran",
+      "launches",
+      "offensive",
+      "seize",
+      "yemeni"
+    ],
+    "ts": 1791135413.113009
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/woman-at-center-of-cornell-rape-allegations-targeted-with-threats-lawyer-says-4930942",
+    "title": "Woman at center of Cornell rape allegations targeted with threats, lawyer says",
+    "tokens": [
+      "allegations",
+      "center",
+      "cornell",
+      "lawyer",
+      "rape",
+      "targeted",
+      "threats",
+      "woman"
+    ],
+    "ts": 1791135421.1531272
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trump-adviser-hassett-urges-powell-to-leave-fed-board-after-renovation-report-4930943",
+    "title": "Trump adviser Hassett urges Powell to leave Fed board after renovation report",
+    "tokens": [
+      "adviser",
+      "board",
+      "fed",
+      "hassett",
+      "leave",
+      "powell",
+      "renovation",
+      "report",
+      "trump",
+      "urges"
+    ],
+    "ts": 1791135431.6815743
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/bosnia-votes-sunday-in-election-that-could-affect-eu-bid-4930905",
+    "title": "Bosnia votes Sunday in election that could affect EU bid",
+    "tokens": [
+      "affect",
+      "bid",
+      "bosnia",
+      "could",
+      "election",
+      "sunday",
+      "votes"
+    ],
+    "ts": 1791135439.0640388
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/dealhub-ai-named-1-among-2026-quotetobilling-platforms-4930940",
+    "title": "DealHub AI Named #1 Among 2026 Quote-to-Billing Platforms",
+    "tokens": [
+      "2026",
+      "among",
+      "billing",
+      "dealhub",
+      "named",
+      "platforms",
+      "quote"
+    ],
+    "ts": 1791135446.3429906
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/switzy-announces-expansion-of-switzyman-digital-brand-across-trading-entrepreneurship-and-lifestyle-4930941",
+    "title": "Switzy Announces Expansion of SwitzyMan Digital Brand Across Trading, Entrepreneurship and Lifestyle",
+    "tokens": [
+      "across",
+      "announces",
+      "brand",
+      "digital",
+      "entrepreneurship",
+      "expansion",
+      "lifestyle",
+      "switzy",
+      "switzyman",
+      "trading"
+    ],
+    "ts": 1791135454.2376149
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/explainerwho-are-the-houthis-irans-allies-in-yemen-4930937",
+    "title": "Explainer-Who are the Houthis, Iran’s allies in Yemen?",
+    "tokens": [
+      "allies",
+      "explainer",
+      "houthis",
+      "iran",
+      "who",
+      "yemen"
+    ],
+    "ts": 1791135461.8735688
+  },
+  {
+    "id": "oilprice-article-45677",
+    "title": "Floating Power Plants Are Opening a New Energy Frontier",
+    "tokens": [
+      "energy",
+      "floating",
+      "frontier",
+      "opening",
+      "plants",
+      "power"
+    ],
+    "ts": 1791135473.5511732
+  },
+  {
+    "id": "oilprice-article-45676",
+    "title": "Private Equity Firms Double Down on Fossil Fuels",
+    "tokens": [
+      "double",
+      "equity",
+      "firms",
+      "fossil",
+      "fuels",
+      "private"
+    ],
+    "ts": 1791135481.8336666
+  },
+  {
+    "id": "oilprice-news-45677",
+    "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
+    "tokens": [
+      "billion",
+      "deal",
+      "includes",
+      "korea",
+      "oil",
+      "project",
+      "south",
+      "trump"
+    ],
+    "ts": 1791135485.84697
+  },
+  {
+    "id": "79d90858-f028-4475-9654-37a0304d3528",
+    "title": "Crypto poured years into new products. The next challenge is keeping users",
+    "tokens": [
+      "challenge",
+      "crypto",
+      "keeping",
+      "next",
+      "poured",
+      "products",
+      "users",
+      "years"
+    ],
+    "ts": 1791135492.281643
+  },
+  {
+    "id": "55dd0cc5-eef8-4c58-bea5-389ec0b7c846",
+    "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+    "tokens": [
+      "act",
+      "aren",
+      "bankers",
+      "brakes",
+      "clarity",
+      "crypto",
+      "dealmaking",
+      "hitting",
+      "stalled",
+      "yet"
+    ],
+    "ts": 1791135500.4509468
+  },
+  {
+    "id": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force",
+    "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+    "tokens": [
+      "chief",
+      "clayton",
+      "force",
+      "intel",
+      "intelligence",
+      "jay",
+      "lead",
+      "super",
+      "taps",
+      "trump"
+    ],
+    "ts": 1791135510.4444525
+  },
+  {
+    "id": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war",
+    "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+    "tokens": [
+      "adds",
+      "garantex",
+      "japan",
+      "list",
+      "russia",
+      "sanctions",
+      "ukraine",
+      "war"
+    ],
+    "ts": 1791135518.4056706
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+    "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+    "tokens": [
+      "accountability",
+      "board",
+      "capital",
+      "changes",
+      "enhance",
+      "federal",
+      "finalizes",
+      "public",
+      "reduce",
+      "related",
+      "requirements",
+      "reserve",
+      "stress",
+      "test",
+      "transparency",
+      "volatility"
+    ],
+    "ts": 1791135525.78799
   }
 ]

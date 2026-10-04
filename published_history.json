@@ -1,297 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/synopsys-signs-1b-multiyear-custom-silicon-ip-agreement-with-aws-4925293",
-    "title": "Synopsys signs $1B+ multi-year custom silicon IP agreement with AWS",
-    "tokens": [
-      "agreement",
-      "aws",
-      "custom",
-      "multi",
-      "signs",
-      "silicon",
-      "synopsys",
-      "year"
-    ],
-    "ts": 1790777978.6031458
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/bruker-corporation-stock-hits-52week-high-at-6548-usd-93CH-4925409",
-    "title": "Bruker Corporation stock hits 52-week high at 65.48 USD",
-    "tokens": [
-      "bruker",
-      "corporation",
-      "high",
-      "hits",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790777982.6182442
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/barclays-downgrades-mobileye-cites-lack-of-progress-on-advanced-wins-4925408",
-    "title": "Barclays downgrades Mobileye, cites lack of progress on advanced wins",
-    "tokens": [
-      "advanced",
-      "barclays",
-      "cites",
-      "downgrades",
-      "lack",
-      "mobileye",
-      "progress",
-      "wins"
-    ],
-    "ts": 1790777987.2500331
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-firefly-aerospace-stock-surging-today-93CH-4925407",
-    "title": "Why is Firefly Aerospace stock surging today?",
-    "tokens": [
-      "aerospace",
-      "firefly",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790777996.151248
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/australian-home-prices-fall-for-sixth-straight-month-in-september-sales-tumble-4925406",
-    "title": "Australian home prices fall for sixth straight month in September, sales tumble",
-    "tokens": [
-      "australian",
-      "fall",
-      "home",
-      "month",
-      "prices",
-      "sales",
-      "september",
-      "sixth",
-      "straight",
-      "tumble"
-    ],
-    "ts": 1790778005.5809298
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-calmaine-foods-q1-2026-loss-widens-as-egg-prices-slump-93CH-4925405",
-    "title": "Earnings call transcript: Cal-Maine Foods Q1 2026 loss widens as egg prices slump",
-    "tokens": [
-      "2026",
-      "cal",
-      "call",
-      "earnings",
-      "egg",
-      "foods",
-      "loss",
-      "maine",
-      "prices",
-      "slump",
-      "transcript",
-      "widens"
-    ],
-    "ts": 1790778015.5677872
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/gerresheimer-q2-2026-slides-show-strong-recovery-ebitda-up-50-93CH-4925404",
-    "title": "Gerresheimer Q2 2026 slides show strong recovery, EBITDA up 50%",
-    "tokens": [
-      "2026",
-      "ebitda",
-      "gerresheimer",
-      "recovery",
-      "show",
-      "slides",
-      "strong"
-    ],
-    "ts": 1790778026.3150096
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/eversource-at-wolfe-research-utilities-conference-growth-plan-gains-traction-93CH-4925403",
-    "title": "Eversource at Wolfe Research utilities conference: growth plan gains traction",
-    "tokens": [
-      "conference",
-      "eversource",
-      "gains",
-      "growth",
-      "plan",
-      "research",
-      "traction",
-      "utilities",
-      "wolfe"
-    ],
-    "ts": 1790778034.9722517
-  },
-  {
-    "id": "oilprice-article-45641",
-    "title": "Iran Warns No Energy Infrastructure Will Be Safe If It Can't Sell Oil",
-    "tokens": [
-      "can",
-      "energy",
-      "infrastructure",
-      "iran",
-      "oil",
-      "safe",
-      "sell",
-      "warns"
-    ],
-    "ts": 1790778049.0426576
-  },
-  {
-    "id": "oilprice-news-45641",
-    "title": "OPEC+ Expected to Keep Oil Production Quotas Unchanged",
-    "tokens": [
-      "expected",
-      "keep",
-      "oil",
-      "opec",
-      "production",
-      "quotas",
-      "unchanged"
-    ],
-    "ts": 1790778059.3178735
-  },
-  {
-    "id": "2d29c1cb-c5be-414d-8cec-acb20725c217",
-    "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
-    "tokens": [
-      "application",
-      "clock",
-      "crypto",
-      "deadline",
-      "february",
-      "opens",
-      "regulatory",
-      "ticking",
-      "window"
-    ],
-    "ts": 1790778067.878976
-  },
-  {
-    "id": "WP-MKTW-0005259853",
-    "title": "Adding Lilly’s new drug to Zepbound helped people lose up to 23% of their weight. But there were more side effects.",
-    "tokens": [
-      "adding",
-      "drug",
-      "effects",
-      "helped",
-      "lilly",
-      "lose",
-      "more",
-      "people",
-      "side",
-      "their",
-      "there",
-      "weight",
-      "zepbound"
-    ],
-    "ts": 1790779541.815156
-  },
-  {
-    "id": "WP-MKTW-0005259780",
-    "title": "This is the big risk that stock investors should be watching as rising bond yields menace markets",
-    "tokens": [
-      "big",
-      "bond",
-      "investors",
-      "markets",
-      "menace",
-      "rising",
-      "risk",
-      "should",
-      "stock",
-      "watching",
-      "yields"
-    ],
-    "ts": 1790779550.6209292
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/analysisai-borrowers-face-tough-sell-in-risky-corners-of-us-credit-market-4925428",
-    "title": "Analysis-AI borrowers face tough sell in risky corners of US credit market",
-    "tokens": [
-      "analysis",
-      "borrowers",
-      "corners",
-      "credit",
-      "face",
-      "market",
-      "risky",
-      "sell",
-      "tough"
-    ],
-    "ts": 1790779561.0382354
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/nomad-compute-reports-strategic-shift-to-ai-infrastructure-93CH-4925455",
-    "title": "Nomad Compute reports strategic shift to AI infrastructure",
-    "tokens": [
-      "compute",
-      "infrastructure",
-      "nomad",
-      "reports",
-      "shift",
-      "strategic"
-    ],
-    "ts": 1790779570.5166113
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/fed-finalizes-bank-stress-test-overhaul-4925252",
-    "title": "Fed finalizes bank ’stress test’ overhaul",
-    "tokens": [
-      "bank",
-      "fed",
-      "finalizes",
-      "overhaul",
-      "stress",
-      "test"
-    ],
-    "ts": 1790779579.576887
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/jabil-fy2026-slides-ai-drives-54-growth-outlook-despite-stock-decline-93CH-4925454",
-    "title": "Jabil FY2026 slides: AI drives 54% growth outlook despite stock decline",
-    "tokens": [
-      "decline",
-      "despite",
-      "drives",
-      "fy2026",
-      "growth",
-      "jabil",
-      "outlook",
-      "slides",
-      "stock"
-    ],
-    "ts": 1790779588.6072278
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-rise-against-forecast-impacting-market-sentiment-93CH-4925453",
-    "title": "Crude Oil Inventories Rise Against Forecast, Impacting Market Sentiment",
-    "tokens": [
-      "against",
-      "crude",
-      "forecast",
-      "impacting",
-      "inventories",
-      "market",
-      "oil",
-      "rise",
-      "sentiment"
-    ],
-    "ts": 1790779598.518921
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-mosaic-stock-slipping-today-93CH-4925451",
-    "title": "Why is Mosaic stock slipping today?",
-    "tokens": [
-      "mosaic",
-      "slipping",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790779607.5693018
-  },
-  {
     "id": "https://www.investing.com/news/company-news/factset-q4-fy26-slides-ai-drives-7-growth-beats-guidance-93CH-4925450",
     "title": "FactSet Q4 FY26 slides: AI drives 7% growth, beats guidance",
     "tokens": [
@@ -22890,5 +22598,323 @@
       "volatility"
     ],
     "ts": 1791135525.78799
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/alaska-lng-shipping-savings-justifies-billions-in-investment-developer-says-4930951",
+    "title": "Alaska LNG shipping savings justifies billions in investment, developer says",
+    "tokens": [
+      "alaska",
+      "billions",
+      "developer",
+      "investment",
+      "justifies",
+      "lng",
+      "savings",
+      "shipping"
+    ],
+    "ts": 1791145680.5793386
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/frances-schneider-electric-nears-20-billion-deal-to-buy-us-software-group-ptc-ft-reports-4930950",
+    "title": "France’s Schneider Electric nears $20 billion deal to buy US software group PTC, FT reports",
+    "tokens": [
+      "billion",
+      "buy",
+      "deal",
+      "electric",
+      "france",
+      "group",
+      "nears",
+      "ptc",
+      "reports",
+      "schneider",
+      "software"
+    ],
+    "ts": 1791145689.5690439
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/akzonobel-could-sell-unit-to-nippon-paint-for-over-1-billion-ft-reports-4930948",
+    "title": "AkzoNobel to sell unit to Nippon Paint for over $1 billion, FT reports",
+    "tokens": [
+      "akzonobel",
+      "billion",
+      "nippon",
+      "paint",
+      "reports",
+      "sell",
+      "unit"
+    ],
+    "ts": 1791145697.6758342
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/akzonobel-nears-sale-of-southeast-asian-paints-unit-to-nippon-paint--report-4930949",
+    "title": "AkzoNobel nears sale of south-east Asian paints unit to Nippon Paint - report",
+    "tokens": [
+      "akzonobel",
+      "asian",
+      "east",
+      "nears",
+      "nippon",
+      "paint",
+      "paints",
+      "report",
+      "sale",
+      "south",
+      "unit"
+    ],
+    "ts": 1791145706.8436763
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/houthis-claim-strike-on-saudi-aramco-facility-as-yemen-fighting-intensifies-4930902",
+    "title": "Yemen govt launches offensive to retake Houthi-held areas",
+    "tokens": [
+      "areas",
+      "govt",
+      "held",
+      "houthi",
+      "launches",
+      "offensive",
+      "retake",
+      "yemen"
+    ],
+    "ts": 1791145714.6807323
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/how-brazils-election-winner-could-reshape-its-institutions-as-vacancies-mount-4930946",
+    "title": "How Brazil’s election winner could reshape its institutions as vacancies mount",
+    "tokens": [
+      "brazil",
+      "could",
+      "election",
+      "how",
+      "institutions",
+      "mount",
+      "reshape",
+      "vacancies",
+      "winner"
+    ],
+    "ts": 1791145726.8717196
+  },
+  {
+    "id": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+    "title": "Lina Khan says AI companies are following the same playbook that got Big Tech into trouble",
+    "tokens": [
+      "big",
+      "companies",
+      "following",
+      "got",
+      "khan",
+      "lina",
+      "playbook",
+      "same",
+      "tech",
+      "trouble"
+    ],
+    "ts": 1791145744.0121615
+  },
+  {
+    "id": "https://seekingalpha.com/news/4649479-ulta-beauty-tops-consumer-discretionary-gainers-in-q3-mgm-resorts-declines?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Ulta Beauty tops consumer discretionary gainers in Q3; MGM Resorts declines",
+    "tokens": [
+      "beauty",
+      "consumer",
+      "declines",
+      "discretionary",
+      "gainers",
+      "mgm",
+      "resorts",
+      "tops",
+      "ulta"
+    ],
+    "ts": 1791145753.1857016
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/the-best-event-opens-singapore-s-biggest-web3-and-f1-week-with-afterdark-1036595618",
+    "title": "The Best Event Opens Singapore's Biggest Web3 and F1 Week With AFTERDARK",
+    "tokens": [
+      "afterdark",
+      "best",
+      "biggest",
+      "event",
+      "opens",
+      "singapore",
+      "web3",
+      "week"
+    ],
+    "ts": 1791145762.008205
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/the-panda-adventure-to-air-on-two-major-greek-tv-channels-on-oct.-28-1036595617",
+    "title": "The Panda Adventure to Air on Two Major Greek TV Channels on Oct. 28",
+    "tokens": [
+      "adventure",
+      "air",
+      "channels",
+      "greek",
+      "major",
+      "oct",
+      "panda",
+      "two"
+    ],
+    "ts": 1791145770.8036861
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/pop-opens-and-jesus-hernandez-approach-two-year-milestone-for-live-open-house-show-1036595616",
+    "title": "POP OPENS and Jesus Hernandez Approach Two-Year Milestone for Live Open-House Show",
+    "tokens": [
+      "approach",
+      "hernandez",
+      "house",
+      "jesus",
+      "live",
+      "milestone",
+      "open",
+      "opens",
+      "pop",
+      "show",
+      "two",
+      "year"
+    ],
+    "ts": 1791145779.792025
+  },
+  {
+    "id": "https://seekingalpha.com/news/4650038-starknets-strk-coin-extends-surge-as-trading-volume-jumps?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Starknet's STRK coin extends surge as trading volume jumps",
+    "tokens": [
+      "coin",
+      "extends",
+      "jumps",
+      "starknet",
+      "strk",
+      "surge",
+      "trading",
+      "volume"
+    ],
+    "ts": 1791145788.0266764
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/datavault-ai-deadline-tomorrow-rosen-trusted-investor-counsel-encourages-datavault-ai-inc.-investors-to-secure-counsel-before-important-october-5-deadline-in-securities-class-action-dvlt-1036595610",
+    "title": "DATAVAULT AI DEADLINE TOMORROW: ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Datavault AI Inc. Investors to Secure Counsel Before Important October 5 Deadline in Securities Class Action - DVLT",
+    "tokens": [
+      "action",
+      "before",
+      "class",
+      "counsel",
+      "datavault",
+      "deadline",
+      "dvlt",
+      "encourages",
+      "important",
+      "inc",
+      "investor",
+      "investors",
+      "october",
+      "rosen",
+      "secure",
+      "securities",
+      "tomorrow",
+      "trusted"
+    ],
+    "ts": 1791145796.4467566
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/redule-ai-launches-agentic-ai-operating-system-for-customer-operations-in-consultancies-and-brokerages-1036595598",
+    "title": "Redule AI Launches Agentic AI Operating System for Customer Operations in Consultancies and Brokerages",
+    "tokens": [
+      "agentic",
+      "brokerages",
+      "consultancies",
+      "customer",
+      "launches",
+      "operating",
+      "operations",
+      "redule",
+      "system"
+    ],
+    "ts": 1791145804.8316822
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/integra-lifesciences-iart-investor-alert-johnson-fistel-investigates-following-floodingrelated-outlook-cuts-and-21-stock-decline-1036595597",
+    "title": "Integra LifeSciences (IART) Investor Alert: Johnson Fistel Investigates Following Flooding-Related Outlook Cuts and 21% Stock Decline",
+    "tokens": [
+      "alert",
+      "cuts",
+      "decline",
+      "fistel",
+      "flooding",
+      "following",
+      "iart",
+      "integra",
+      "investigates",
+      "investor",
+      "johnson",
+      "lifesciences",
+      "outlook",
+      "related",
+      "stock"
+    ],
+    "ts": 1791145812.7058213
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/currencies/one-homes-completes-one-canal-road-in-lahore-a-new-benchmark-for-luxury-real-estate-delivery-in-pakistan-1036595589",
+    "title": "One Homes Completes One Canal Road in Lahore, a New Benchmark for Luxury Real Estate Delivery in Pakistan",
+    "tokens": [
+      "benchmark",
+      "canal",
+      "completes",
+      "delivery",
+      "estate",
+      "homes",
+      "lahore",
+      "luxury",
+      "one",
+      "pakistan",
+      "real",
+      "road"
+    ],
+    "ts": 1791145820.8446805
+  },
+  {
+    "id": "oilprice-article-45678",
+    "title": "Pentagon Backs Ambitious Plan to Beam Solar Power From Space",
+    "tokens": [
+      "ambitious",
+      "backs",
+      "beam",
+      "pentagon",
+      "plan",
+      "power",
+      "solar",
+      "space"
+    ],
+    "ts": 1791145829.225087
+  },
+  {
+    "id": "oilprice-news-45678",
+    "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
+    "tokens": [
+      "billion",
+      "deal",
+      "includes",
+      "korea",
+      "oil",
+      "project",
+      "south",
+      "trump"
+    ],
+    "ts": 1791145833.2411942
+  },
+  {
+    "id": "a8ac0c6c-84da-46ff-998e-1eaf89a086bd",
+    "title": "There's an election next month: State of Crypto",
+    "tokens": [
+      "crypto",
+      "election",
+      "month",
+      "next",
+      "state",
+      "there"
+    ],
+    "ts": 1791145837.694449
   }
 ]

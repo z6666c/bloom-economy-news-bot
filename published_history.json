@@ -1,49 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/neurocrine-to-present-praderwilli-syndrome-research-at-fpwr-event-93CH-4925162",
-    "title": "Neurocrine to present Prader-Willi syndrome research at FPWR event",
-    "tokens": [
-      "event",
-      "fpwr",
-      "neurocrine",
-      "prader",
-      "present",
-      "research",
-      "syndrome",
-      "willi"
-    ],
-    "ts": 1790772665.2032952
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/powercompute-repays-2245m-bitcoinbacked-credit-facility-93CH-4925159",
-    "title": "PowerCompute repays $22.45M Bitcoin-backed credit facility",
-    "tokens": [
-      "45m",
-      "backed",
-      "bitcoin",
-      "credit",
-      "facility",
-      "powercompute",
-      "repays"
-    ],
-    "ts": 1790772673.1534595
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/trane-demonstrates-800volt-dc-cooling-system-for-data-centers-93CH-4925160",
-    "title": "Trane demonstrates 800-volt DC cooling system for data centers",
-    "tokens": [
-      "800",
-      "centers",
-      "cooling",
-      "data",
-      "demonstrates",
-      "system",
-      "trane",
-      "volt"
-    ],
-    "ts": 1790772681.987106
-  },
-  {
     "id": "https://www.investing.com/news/company-news/choice-hotels-to-acquire-rv-travel-network-harvest-hosts-for-130m-93CH-4925161",
     "title": "Choice Hotels to acquire RV travel network Harvest Hosts for $130M",
     "tokens": [
@@ -22866,5 +22822,51 @@
       "release"
     ],
     "ts": 1791080309.9506905
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trumps-new-ai-czar-outlines-us-strategy-for-ai-risks-and-leadership-wsj-says-4930900",
+    "title": "Trump’s new AI czar outlines U.S. strategy for AI risks and leadership, WSJ says",
+    "tokens": [
+      "czar",
+      "leadership",
+      "outlines",
+      "risks",
+      "strategy",
+      "trump",
+      "wsj"
+    ],
+    "ts": 1791087549.2883472
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/australias-chalmers-blames-usiran-war-for-higher-inflation-borrowing-costs-4930899",
+    "title": "Australia’s Chalmers blames U.S.-Iran war for higher inflation, borrowing costs",
+    "tokens": [
+      "australia",
+      "blames",
+      "borrowing",
+      "chalmers",
+      "costs",
+      "higher",
+      "inflation",
+      "iran",
+      "war"
+    ],
+    "ts": 1791087558.0375175
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ai-deal-boom-drives-hong-kong-fundraising-to-record-summer--bloomberg-4930898",
+    "title": "AI deal boom drives Hong Kong fundraising to record summer - Bloomberg",
+    "tokens": [
+      "bloomberg",
+      "boom",
+      "deal",
+      "drives",
+      "fundraising",
+      "hong",
+      "kong",
+      "record",
+      "summer"
+    ],
+    "ts": 1791087566.8350136
   }
 ]

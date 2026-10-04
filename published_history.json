@@ -1,191 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/choice-hotels-to-acquire-rv-travel-network-harvest-hosts-for-130m-93CH-4925161",
-    "title": "Choice Hotels to acquire RV travel network Harvest Hosts for $130M",
-    "tokens": [
-      "130m",
-      "acquire",
-      "choice",
-      "harvest",
-      "hosts",
-      "hotels",
-      "network",
-      "travel"
-    ],
-    "ts": 1790772690.1793025
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/skyworks-receives-regulatory-clearance-for-qorvo-merger-93CH-4925156",
-    "title": "Skyworks receives regulatory clearance for Qorvo merger",
-    "tokens": [
-      "clearance",
-      "merger",
-      "qorvo",
-      "receives",
-      "regulatory",
-      "skyworks"
-    ],
-    "ts": 1790772697.4672
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/uipath-expands-snowflake-partnership-with-zerocopy-integration-93CH-4925157",
-    "title": "UiPath expands Snowflake partnership with zero-copy integration",
-    "tokens": [
-      "copy",
-      "expands",
-      "integration",
-      "partnership",
-      "snowflake",
-      "uipath",
-      "zero"
-    ],
-    "ts": 1790772704.9223845
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/commvault-adds-backup-for-ai-agent-tools-on-employee-devices-93CH-4925158",
-    "title": "Commvault adds backup for AI agent tools on employee devices",
-    "tokens": [
-      "adds",
-      "agent",
-      "backup",
-      "commvault",
-      "devices",
-      "employee",
-      "tools"
-    ],
-    "ts": 1790772714.3352046
-  },
-  {
-    "id": "WP-MKTW-0005258959",
-    "title": "Here’s the most you should be spending on your car payment, whether you make $60,000 or over $150,000",
-    "tokens": [
-      "000",
-      "150",
-      "car",
-      "here",
-      "make",
-      "most",
-      "payment",
-      "should",
-      "spending",
-      "whether",
-      "you",
-      "your"
-    ],
-    "ts": 1790774079.9227164
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-santhera-h1-2026-meets-forecasts-as-sales-surge-93CH-4925249",
-    "title": "Earnings call transcript: Santhera H1 2026 meets forecasts as sales surge",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "forecasts",
-      "meets",
-      "sales",
-      "santhera",
-      "surge",
-      "transcript"
-    ],
-    "ts": 1790774088.034063
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/doordash-launches-dashos-platform-to-connect-restaurant-services-93CH-4925247",
-    "title": "DoorDash launches DashOS platform to connect restaurant services",
-    "tokens": [
-      "connect",
-      "dashos",
-      "doordash",
-      "launches",
-      "platform",
-      "restaurant",
-      "services"
-    ],
-    "ts": 1790774095.4762821
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/doordash-launches-text-ordering-and-drone-delivery-system-93CH-4925248",
-    "title": "DoorDash launches text ordering and drone delivery system",
-    "tokens": [
-      "delivery",
-      "doordash",
-      "drone",
-      "launches",
-      "ordering",
-      "system",
-      "text"
-    ],
-    "ts": 1790774103.4366438
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/medtronic-gains-regulatory-clearances-for-cardiac-software-93CH-4925246",
-    "title": "Medtronic gains regulatory clearances for cardiac software",
-    "tokens": [
-      "cardiac",
-      "clearances",
-      "gains",
-      "medtronic",
-      "regulatory",
-      "software"
-    ],
-    "ts": 1790774111.1506453
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/soundhound-ai-technology-deployed-in-kia-sorento-in-india-93CH-4925245",
-    "title": "SoundHound AI technology deployed in Kia Sorento in India",
-    "tokens": [
-      "deployed",
-      "india",
-      "kia",
-      "sorento",
-      "soundhound",
-      "technology"
-    ],
-    "ts": 1790774119.2537591
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/coreweave-launches-partner-network-for-ai-infrastructure-93CH-4925244",
-    "title": "CoreWeave launches partner network for AI infrastructure",
-    "tokens": [
-      "coreweave",
-      "infrastructure",
-      "launches",
-      "network",
-      "partner"
-    ],
-    "ts": 1790774128.243079
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ups-launches-supply-chain-risk-management-suite-93CH-4925243",
-    "title": "UPS launches supply chain risk management suite",
-    "tokens": [
-      "chain",
-      "launches",
-      "management",
-      "risk",
-      "suite",
-      "supply",
-      "ups"
-    ],
-    "ts": 1790774135.3826566
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/yiren-digital-q2-2026-slides-ai-gains-clash-with-widening-losses-93CH-4925242",
-    "title": "Yiren Digital Q2 2026 slides: AI gains clash with widening losses",
-    "tokens": [
-      "2026",
-      "clash",
-      "digital",
-      "gains",
-      "losses",
-      "slides",
-      "widening",
-      "yiren"
-    ],
-    "ts": 1790774145.165994
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/synopsys-amazon-web-services-sign-chip-design-licensing-deal-worth-more-than-1-billion-4925241",
     "title": "Synopsys, Amazon Web Services sign chip design licensing deal worth more than $1 billion",
     "tokens": [
@@ -22868,5 +22682,212 @@
       "summer"
     ],
     "ts": 1791087566.8350136
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-supreme-court-to-kick-off-term-with-bid-by-big-oil-to-toss-climate-suits-4930919",
+    "title": "US Supreme Court to kick off term with bid by Big Oil to toss climate suits",
+    "tokens": [
+      "bid",
+      "big",
+      "climate",
+      "court",
+      "kick",
+      "off",
+      "oil",
+      "suits",
+      "supreme",
+      "term",
+      "toss"
+    ],
+    "ts": 1791110989.6283488
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-to-keep-november-oil-output-targets-steady-sources-say-4930923",
+    "title": "OPEC+ agrees in principle to keep November oil output targets steady, sources say",
+    "tokens": [
+      "agrees",
+      "keep",
+      "november",
+      "oil",
+      "opec",
+      "output",
+      "principle",
+      "say",
+      "sources",
+      "steady",
+      "targets"
+    ],
+    "ts": 1791110998.293628
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/revoluts-rise-to-become-europes-115-billion-big-bank-rival-4930922",
+    "title": "Revolut’s rise to become Europe’s $115 billion big bank rival",
+    "tokens": [
+      "115",
+      "bank",
+      "become",
+      "big",
+      "billion",
+      "europe",
+      "revolut",
+      "rise",
+      "rival"
+    ],
+    "ts": 1791111007.0867171
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/like-a-vertical-roller-coaster-simulating-flight-fz1073s-sudden-plunge-4930921",
+    "title": "Like a ’vertical roller coaster’: Simulating flight FZ1073’s sudden plunge",
+    "tokens": [
+      "coaster",
+      "flight",
+      "fz1073",
+      "like",
+      "plunge",
+      "roller",
+      "simulating",
+      "sudden",
+      "vertical"
+    ],
+    "ts": 1791111014.814836
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-sep-28-to-oct-2-2026-93CH-4930886",
+    "title": "Street calls of the week: Sep 28 to Oct 2, 2026",
+    "tokens": [
+      "2026",
+      "calls",
+      "oct",
+      "sep",
+      "street",
+      "week"
+    ],
+    "ts": 1791111023.220539
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/russia-hits-kyiv-bridge-for-second-day-as-infrastructure-attacks-intensify-4930918",
+    "title": "Russia hits Kyiv bridge for second day as infrastructure attacks intensify",
+    "tokens": [
+      "attacks",
+      "bridge",
+      "day",
+      "hits",
+      "infrastructure",
+      "intensify",
+      "kyiv",
+      "russia",
+      "second"
+    ],
+    "ts": 1791111031.4030602
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915",
+    "title": "Germany’s Merz arrives in Kyiv to the sound of sirens and explosions",
+    "tokens": [
+      "arrives",
+      "explosions",
+      "germany",
+      "kyiv",
+      "merz",
+      "sirens",
+      "sound"
+    ],
+    "ts": 1791111039.8281922
+  },
+  {
+    "id": "https://www.investing.com/news/press-releases/transcure-expands-athenahealth-billing-services-to-help-healthcare-practices-strengthen-revenue-performance-4930916",
+    "title": "Transcure Expands athenahealth Billing Services to Help Healthcare Practices Strengthen Revenue Performance",
+    "tokens": [
+      "athenahealth",
+      "billing",
+      "expands",
+      "healthcare",
+      "help",
+      "performance",
+      "practices",
+      "revenue",
+      "services",
+      "strengthen",
+      "transcure"
+    ],
+    "ts": 1791111048.1725578
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/opec-set-to-hold-november-oil-quotas-steady-as-middle-east-conflict-hits-output-4930914",
+    "title": "OPEC+ set to hold November oil quotas steady as Middle East conflict hits output",
+    "tokens": [
+      "conflict",
+      "east",
+      "hits",
+      "hold",
+      "middle",
+      "november",
+      "oil",
+      "opec",
+      "output",
+      "quotas",
+      "set",
+      "steady"
+    ],
+    "ts": 1791111055.4848475
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/japan-pm-protests-to-us-after-marine-arrested-over-okinawa-murder-4930912",
+    "title": "Japan PM protests to U.S. after Marine arrested over Okinawa murder",
+    "tokens": [
+      "arrested",
+      "japan",
+      "marine",
+      "murder",
+      "okinawa",
+      "protests"
+    ],
+    "ts": 1791111065.2037485
+  },
+  {
+    "id": "oilprice-news-45674",
+    "title": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
+    "tokens": [
+      "100",
+      "barrels",
+      "counter",
+      "crisis",
+      "diesel",
+      "million",
+      "moves",
+      "release"
+    ],
+    "ts": 1791111070.4579933
+  },
+  {
+    "id": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
+    "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+    "tokens": [
+      "138",
+      "bitcoin",
+      "granted",
+      "imf",
+      "million",
+      "receives",
+      "salvador",
+      "waivers"
+    ],
+    "ts": 1791111074.9444249
+  },
+  {
+    "id": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time",
+    "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+    "tokens": [
+      "digital",
+      "finance",
+      "first",
+      "ministry",
+      "pays",
+      "rubles",
+      "russia",
+      "time",
+      "wages"
+    ],
+    "ts": 1791111082.5236306
   }
 ]

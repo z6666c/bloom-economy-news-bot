@@ -1,457 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-mongodb-stock-price-target-on-valuation-adjustment-93CH-4925507",
-    "title": "DA Davidson cuts MongoDB stock price target on valuation adjustment",
-    "tokens": [
-      "adjustment",
-      "cuts",
-      "davidson",
-      "mongodb",
-      "price",
-      "stock",
-      "target",
-      "valuation"
-    ],
-    "ts": 1790782676.498375
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/william-blair-bullish-on-coreweave-and-nebius-as-ai-buildout-accelerates-4925506",
-    "title": "William Blair bullish on CoreWeave and Nebius as AI buildout accelerates",
-    "tokens": [
-      "accelerates",
-      "blair",
-      "buildout",
-      "bullish",
-      "coreweave",
-      "nebius",
-      "william"
-    ],
-    "ts": 1790782684.8061104
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-026-4925505",
-    "title": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.26%",
-    "tokens": [
-      "all",
-      "close",
-      "higher",
-      "moroccan",
-      "morocco",
-      "shares",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790782692.5984206
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-sliding-today-93CH-4925504",
-    "title": "Why is Cerebras Systems stock sliding today?",
-    "tokens": [
-      "cerebras",
-      "sliding",
-      "stock",
-      "systems",
-      "today",
-      "why"
-    ],
-    "ts": 1790782700.5312831
-  },
-  {
-    "id": "d5f98956-4026-4243-bab7-f5cdaa22e868",
-    "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
-    "tokens": [
-      "building",
-      "circle",
-      "different",
-      "model",
-      "money",
-      "open",
-      "stablecoin",
-      "takes",
-      "tether",
-      "usd"
-    ],
-    "ts": 1790782709.0964706
-  },
-  {
-    "id": "0006ab07-3e4e-45ce-9014-348c995c8db0",
-    "title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
-    "tokens": [
-      "cftc",
-      "claims",
-      "contract",
-      "definitions",
-      "defy",
-      "event",
-      "gambling",
-      "may",
-      "seeks",
-      "states"
-    ],
-    "ts": 1790782716.8477063
-  },
-  {
-    "id": "WP-MKTW-0005259321",
-    "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
-    "tokens": [
-      "americans",
-      "bet",
-      "big",
-      "job",
-      "make",
-      "market",
-      "more",
-      "pushing",
-      "themselves",
-      "tough",
-      "young"
-    ],
-    "ts": 1790783859.717742
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-065-4925542",
-    "title": "Poland stocks higher at close of trade; WIG30 up 0.65%",
-    "tokens": [
-      "close",
-      "higher",
-      "poland",
-      "stocks",
-      "trade",
-      "wig30"
-    ],
-    "ts": 1790783863.8293738
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cms-energy-corp-stock-hits-52week-low-at-1977-usd-93CH-4925540",
-    "title": "Cms Energy Corp stock hits 52-week low at 19.77 USD",
-    "tokens": [
-      "cms",
-      "corp",
-      "energy",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790783863.8445415
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/partners-group-taps-bofa-for-potential-15-billion-parmaco-sale--bloomberg-4925539",
-    "title": "Partners Group taps BofA for potential €1.5 billion Parmaco sale - Bloomberg",
-    "tokens": [
-      "billion",
-      "bloomberg",
-      "bofa",
-      "group",
-      "parmaco",
-      "partners",
-      "potential",
-      "sale",
-      "taps"
-    ],
-    "ts": 1790783867.6024292
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pennpetro-energy-shareholders-approve-all-agm-resolutions-93CH-4925538",
-    "title": "Pennpetro Energy shareholders approve all AGM resolutions",
-    "tokens": [
-      "agm",
-      "all",
-      "approve",
-      "energy",
-      "pennpetro",
-      "resolutions",
-      "shareholders"
-    ],
-    "ts": 1790783874.453599
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/wimi-develops-quantum-computing-simulation-model-93CH-4925537",
-    "title": "WiMi develops quantum computing simulation model",
-    "tokens": [
-      "computing",
-      "develops",
-      "model",
-      "quantum",
-      "simulation",
-      "wimi"
-    ],
-    "ts": 1790783881.8752382
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/southern-co-stock-hits-52week-low-at-1729-usd-93CH-4925535",
-    "title": "Southern Co stock hits 52-week low at 17.29 USD",
-    "tokens": [
-      "hits",
-      "low",
-      "southern",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790783885.8903258
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/nwpx-director-keith-larson-sells-102195-in-company-stock-93CH-4925534",
-    "title": "Nwpx director Keith Larson sells $102,195 in company stock",
-    "tokens": [
-      "102",
-      "195",
-      "company",
-      "director",
-      "keith",
-      "larson",
-      "nwpx",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790783890.1597652
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/ternera-miner-at-mining-forum-americas-2026-reserve-grows-risks-remain-93CH-4925533",
-    "title": "Ternera miner at Mining Forum Americas 2026: reserve grows, risks remain",
-    "tokens": [
-      "2026",
-      "americas",
-      "forum",
-      "grows",
-      "miner",
-      "mining",
-      "remain",
-      "reserve",
-      "risks",
-      "ternera"
-    ],
-    "ts": 1790783901.623168
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-279-4925532",
-    "title": "Turkey stocks lower at close of trade; BIST 100 down 2.79%",
-    "tokens": [
-      "100",
-      "bist",
-      "close",
-      "lower",
-      "stocks",
-      "trade",
-      "turkey"
-    ],
-    "ts": 1790783909.35796
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-022-4925531",
-    "title": "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 0.22%",
-    "tokens": [
-      "close",
-      "copenhagen",
-      "denmark",
-      "lower",
-      "omx",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790783916.362732
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/world-tourism-day-and-beyond-jetour-s-global-practice-of-the-travel-strategy-1036586273",
-    "title": "World Tourism Day and Beyond: JETOUR’s Global Practice of the Travel+ Strategy",
-    "tokens": [
-      "beyond",
-      "day",
-      "global",
-      "jetour",
-      "practice",
-      "strategy",
-      "tourism",
-      "travel",
-      "world"
-    ],
-    "ts": 1790783924.6060364
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/two-lipidomics-excellence-awards-led-to-two-major-publications-1036586272",
-    "title": "Two Lipidomics Excellence Awards Led to Two Major Publications",
-    "tokens": [
-      "awards",
-      "excellence",
-      "led",
-      "lipidomics",
-      "major",
-      "publications",
-      "two"
-    ],
-    "ts": 1790783931.860491
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/legit-security-launches-agentic-remediation-for-open-source-dependency-vulnerabilities-1036586275",
-    "title": "Legit Security launches agentic remediation for open-source dependency vulnerabilities",
-    "tokens": [
-      "agentic",
-      "dependency",
-      "launches",
-      "legit",
-      "open",
-      "remediation",
-      "security",
-      "source",
-      "vulnerabilities"
-    ],
-    "ts": 1790783938.9712095
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/singnova-by-nanyang-singtech-showcases-full-stack-risc-v-and-ai-solutions-at-tech-week-singapore-2026-to-accelerate-industrial-intelligence-1036586274",
-    "title": "SingNova (by Nanyang Singtech) Showcases Full-Stack RISC-V and AI Solutions at Tech Week Singapore 2026 to Accelerate Industrial Intelligence",
-    "tokens": [
-      "2026",
-      "accelerate",
-      "full",
-      "industrial",
-      "intelligence",
-      "nanyang",
-      "risc",
-      "showcases",
-      "singapore",
-      "singnova",
-      "singtech",
-      "solutions",
-      "stack",
-      "tech",
-      "week"
-    ],
-    "ts": 1790783946.4863486
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-adhoc-viromed-medical-ag-study-on-cold-plasma-application-in-the-lung-accepted-for-publication-by-an-internationally-leading-medical-journal-1036586271",
-    "title": "EQS-Adhoc: Viromed Medical AG: Study on cold plasma application in the lung accepted for publication by an internationally leading medical journal",
-    "tokens": [
-      "accepted",
-      "adhoc",
-      "application",
-      "cold",
-      "eqs",
-      "internationally",
-      "journal",
-      "leading",
-      "lung",
-      "medical",
-      "plasma",
-      "publication",
-      "study",
-      "viromed"
-    ],
-    "ts": 1790783953.7973034
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/soti-achieves-94-nps-extending-five-year-streak-of-world-class-customer-service-1036586261",
-    "title": "SOTI Achieves 94 NPS, Extending Five-Year Streak of World-Class Customer Service",
-    "tokens": [
-      "achieves",
-      "class",
-      "customer",
-      "extending",
-      "five",
-      "nps",
-      "service",
-      "soti",
-      "streak",
-      "world",
-      "year"
-    ],
-    "ts": 1790783963.782048
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-hugo-boss-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036586266",
-    "title": "EQS-PVR: Hugo Boss AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
-    "tokens": [
-      "according",
-      "act",
-      "article",
-      "boss",
-      "distribution",
-      "eqs",
-      "europe",
-      "german",
-      "hugo",
-      "objective",
-      "pvr",
-      "release",
-      "section",
-      "securities",
-      "trading",
-      "wide",
-      "wphg"
-    ],
-    "ts": 1790783971.5837336
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-news-smag-mobile-antenna-masts-secures-a-contract-worth-eur-70-million-for-mission-critical-mobile-communication-infrastructure-1036586263",
-    "title": "EQS-News: SMAG Mobile Antenna Masts secures a contract worth EUR 70 million for mission-critical mobile communication infrastructure",
-    "tokens": [
-      "antenna",
-      "communication",
-      "contract",
-      "critical",
-      "eqs",
-      "eur",
-      "infrastructure",
-      "masts",
-      "million",
-      "mission",
-      "mobile",
-      "news",
-      "secures",
-      "smag",
-      "worth"
-    ],
-    "ts": 1790783978.3510473
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/powerus-to-complete-merger-with-aureus-greenway-holdings-october-1-and-trade-as-pusa-on-nasdaq-1036586216",
-    "title": "Powerus to Complete Merger with Aureus Greenway Holdings October 1 and Trade as PUSA on Nasdaq",
-    "tokens": [
-      "aureus",
-      "complete",
-      "greenway",
-      "holdings",
-      "merger",
-      "nasdaq",
-      "october",
-      "powerus",
-      "pusa",
-      "trade"
-    ],
-    "ts": 1790783986.8146534
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/roadhitter-redefine-off-road-electric-scooter-1036586199",
-    "title": "RoadHitter: Redefine Off-Road Electric Scooter",
-    "tokens": [
-      "electric",
-      "off",
-      "redefine",
-      "road",
-      "roadhitter",
-      "scooter"
-    ],
-    "ts": 1790783994.0913985
-  },
-  {
-    "id": "WP-MKTW-0005260695",
-    "title": "Saving your retirement could come down to this simple writing exercise",
-    "tokens": [
-      "come",
-      "could",
-      "exercise",
-      "retirement",
-      "saving",
-      "simple",
-      "writing",
-      "your"
-    ],
-    "ts": 1790785126.1112542
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/price-expectations-and-demand-key-in-ecbs-next-move-schnabel-says-4925573",
     "title": "Price expectations and demand key in ECB’s next move, Schnabel says",
     "tokens": [
@@ -22916,5 +22464,445 @@
       "zcash"
     ],
     "ts": 1791167150.4347365
+  },
+  {
+    "id": "WP-MKTW-0005269309",
+    "title": "The average U.S. stock is quietly getting crushed. Morgan Stanley says these ones are worth buying now.",
+    "tokens": [
+      "average",
+      "buying",
+      "crushed",
+      "getting",
+      "morgan",
+      "now",
+      "ones",
+      "quietly",
+      "stanley",
+      "stock",
+      "these",
+      "worth"
+    ],
+    "ts": 1791192504.8499343
+  },
+  {
+    "id": "WP-MKTW-0005269418",
+    "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
+    "tokens": [
+      "bessent",
+      "bond",
+      "didn",
+      "house",
+      "now",
+      "remark",
+      "rising",
+      "saying",
+      "stop",
+      "what",
+      "yields"
+    ],
+    "ts": 1791192516.4059474
+  },
+  {
+    "id": "WP-MKTW-0005268463",
+    "title": "Larry Ellison to list Palm Beach property for $165 million",
+    "tokens": [
+      "165",
+      "beach",
+      "ellison",
+      "larry",
+      "list",
+      "million",
+      "palm",
+      "property"
+    ],
+    "ts": 1791192525.2757616
+  },
+  {
+    "id": "WP-MKTW-0005268300",
+    "title": "Tyler Perry lists huge Beverly Hills mansion for $57 million: ‘Yep, moving to Puerto Rico’",
+    "tokens": [
+      "beverly",
+      "hills",
+      "huge",
+      "lists",
+      "mansion",
+      "million",
+      "moving",
+      "perry",
+      "puerto",
+      "rico",
+      "tyler",
+      "yep"
+    ],
+    "ts": 1791192535.258682
+  },
+  {
+    "id": "WP-MKTW-0005269333",
+    "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
+    "tokens": [
+      "billion",
+      "deal",
+      "decade",
+      "loser",
+      "low",
+      "software",
+      "struck",
+      "takes",
+      "valuation",
+      "winner"
+    ],
+    "ts": 1791192544.9267616
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/turkeys-inflation-drops-more-than-expected-in-september-93CH-4931347",
+    "title": "Turkey’s inflation drops more than expected in September",
+    "tokens": [
+      "drops",
+      "expected",
+      "inflation",
+      "more",
+      "september",
+      "turkey"
+    ],
+    "ts": 1791192554.183053
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-mediobanca-stock-sliding-today-93CH-4931346",
+    "title": "Why is Mediobanca stock sliding today?",
+    "tokens": [
+      "mediobanca",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1791192564.459185
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/estonia-moves-troops-closer-to-russian-border-in-defense-shift-93CH-4931342",
+    "title": "Estonia moves troops closer to Russian border in defense shift",
+    "tokens": [
+      "border",
+      "closer",
+      "defense",
+      "estonia",
+      "moves",
+      "russian",
+      "shift",
+      "troops"
+    ],
+    "ts": 1791192572.3118901
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/mizuho-initiates-regenxbio-stock-coverage-with-outperform-rating-93CH-4931341",
+    "title": "Mizuho initiates Regenxbio stock coverage with outperform rating",
+    "tokens": [
+      "coverage",
+      "initiates",
+      "mizuho",
+      "outperform",
+      "rating",
+      "regenxbio",
+      "stock"
+    ],
+    "ts": 1791192580.9016867
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-braze-stock-rating-citing-customer-growth-93CH-4931340",
+    "title": "Citizens reiterates Braze stock rating citing customer growth",
+    "tokens": [
+      "braze",
+      "citing",
+      "citizens",
+      "customer",
+      "growth",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1791192588.743488
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-lpl-financial-stock-rating-on-growth-outlook-93CH-4931339",
+    "title": "Citizens reiterates LPL Financial stock rating on growth outlook",
+    "tokens": [
+      "citizens",
+      "financial",
+      "growth",
+      "lpl",
+      "outlook",
+      "rating",
+      "reiterates",
+      "stock"
+    ],
+    "ts": 1791192596.5095446
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/goldman-sachs-sees-brazilian-real-gains-on-election-results-93CH-4931333",
+    "title": "Goldman Sachs sees Brazilian real gains on election results",
+    "tokens": [
+      "brazilian",
+      "election",
+      "gains",
+      "goldman",
+      "real",
+      "results",
+      "sachs",
+      "sees"
+    ],
+    "ts": 1791192605.2455328
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/five-things-to-watch-in-markets-in-the-week-ahead-4931332",
+    "title": "Five things to watch in markets in the week ahead",
+    "tokens": [
+      "ahead",
+      "five",
+      "markets",
+      "things",
+      "watch",
+      "week"
+    ],
+    "ts": 1791192612.9815083
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ecbs-lane-recent-energy-price-surge-a-drag-on-growth-may-limit-need-for-ecb-action-4931191",
+    "title": "ECB’s Lane: Drags on growth may limit need for ECB action",
+    "tokens": [
+      "action",
+      "drags",
+      "ecb",
+      "growth",
+      "lane",
+      "limit",
+      "may",
+      "need"
+    ],
+    "ts": 1791192620.8317628
+  },
+  {
+    "id": "oilprice-news-45680",
+    "title": "Aramco Cuts Asia Oil Prices to Six-Year Low, Raises Prices for Europe",
+    "tokens": [
+      "aramco",
+      "asia",
+      "cuts",
+      "europe",
+      "low",
+      "oil",
+      "prices",
+      "raises",
+      "six",
+      "year"
+    ],
+    "ts": 1791192630.6466708
+  },
+  {
+    "id": "99609920-ae6a-405f-91e7-80f8b8278875",
+    "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
+    "tokens": [
+      "bank",
+      "crypto",
+      "gulf",
+      "institutional",
+      "kraken",
+      "operator",
+      "payward",
+      "platform",
+      "settlement",
+      "singapore"
+    ],
+    "ts": 1791192638.458226
+  },
+  {
+    "id": "f7f7fed0-8021-4bb0-a4de-e4132141059a",
+    "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
+    "tokens": [
+      "about",
+      "bitcoin",
+      "bullish",
+      "get",
+      "hasn",
+      "major",
+      "signal",
+      "year"
+    ],
+    "ts": 1791192645.8586144
+  },
+  {
+    "id": "acbfb781-0e7f-41fa-a8ee-53df1756ea5b",
+    "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
+    "tokens": [
+      "ethereum",
+      "exit",
+      "here",
+      "investors",
+      "line",
+      "staking",
+      "stuck",
+      "two",
+      "week",
+      "why"
+    ],
+    "ts": 1791192655.4067225
+  },
+  {
+    "id": "d5693e8d-4fd6-4997-ba4f-ad0988e570b5",
+    "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+    "tokens": [
+      "files",
+      "ice",
+      "joint",
+      "nyse",
+      "okx",
+      "parent",
+      "stock",
+      "tokenized",
+      "trading",
+      "venture"
+    ],
+    "ts": 1791192663.64918
+  },
+  {
+    "id": "926c5cca-ca5b-4244-80d2-e8c8303c14bb",
+    "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+    "tokens": [
+      "ahead",
+      "blocks",
+      "live",
+      "public",
+      "schedule",
+      "second",
+      "testnet",
+      "zcash"
+    ],
+    "ts": 1791192671.8422163
+  },
+  {
+    "id": "bb60cc0d-219a-4d63-a844-f2c0773c6021",
+    "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+    "tokens": [
+      "000",
+      "bitcoin",
+      "eight",
+      "high",
+      "month",
+      "nearly",
+      "reverses",
+      "setting",
+      "then",
+      "toward",
+      "zooms"
+    ],
+    "ts": 1791192679.8334424
+  },
+  {
+    "id": "6d6167ce-c2b8-4df7-ae78-89ec6eb214b1",
+    "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
+    "tokens": [
+      "beating",
+      "bitcoin",
+      "came",
+      "catch",
+      "ether",
+      "liquidity",
+      "rally",
+      "thinned"
+    ],
+    "ts": 1791192688.672873
+  },
+  {
+    "id": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week",
+    "title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
+    "tokens": [
+      "2026",
+      "bitcoin",
+      "btc",
+      "fights",
+      "know",
+      "open",
+      "price",
+      "reclaim",
+      "things",
+      "three",
+      "week"
+    ],
+    "ts": 1791192697.9888597
+  },
+  {
+    "id": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement",
+    "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
+    "tokens": [
+      "adds",
+      "bank",
+      "dollar",
+      "gulf",
+      "kraken",
+      "parent",
+      "settlement",
+      "singapore"
+    ],
+    "ts": 1791192706.098718
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red",
+    "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
+    "tokens": [
+      "138m",
+      "bitcoin",
+      "etfs",
+      "ether",
+      "inflow",
+      "notch",
+      "shed",
+      "third",
+      "week"
+    ],
+    "ts": 1791192714.4321039
+  },
+  {
+    "id": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet",
+    "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+    "tokens": [
+      "activates",
+      "ahead",
+      "mainnet",
+      "november",
+      "nu7",
+      "target",
+      "testnet",
+      "zcash"
+    ],
+    "ts": 1791192723.3520923
+  },
+  {
+    "id": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform",
+    "title": "OKX, NYSE parent file to launch tokenized US stock platform",
+    "tokens": [
+      "file",
+      "launch",
+      "nyse",
+      "okx",
+      "parent",
+      "platform",
+      "stock",
+      "tokenized"
+    ],
+    "ts": 1791192731.7378266
+  },
+  {
+    "id": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
+    "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+    "tokens": [
+      "asks",
+      "dispute",
+      "governance",
+      "intervene",
+      "investor",
+      "safe",
+      "swiss",
+      "watchdog"
+    ],
+    "ts": 1791192740.0360022
   }
 ]

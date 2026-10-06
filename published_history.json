@@ -1,296 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/boeing-technical-analysis-strong-sell-signals-across-daily-weekly-and-monthly-timeframes-93CH-4925735",
-    "title": "Boeing technical analysis: Strong Sell signals across daily, weekly, and monthly timeframes",
-    "tokens": [
-      "across",
-      "analysis",
-      "boeing",
-      "daily",
-      "monthly",
-      "sell",
-      "signals",
-      "strong",
-      "technical",
-      "timeframes",
-      "weekly"
-    ],
-    "ts": 1790794775.8826716
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/prudential-financial-stock-hits-52week-low-at-198-usd-93CH-4925731",
-    "title": "Prudential Financial stock hits 52-week low at 19.8 USD",
-    "tokens": [
-      "financial",
-      "hits",
-      "low",
-      "prudential",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790794779.8987796
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sec-clears-teslacrafted-autovote-plan-for-wide-use-worrying-activists-4925710",
-    "title": "SEC clears Tesla-crafted auto-vote plan for wide use, worrying activists",
-    "tokens": [
-      "activists",
-      "auto",
-      "clears",
-      "crafted",
-      "plan",
-      "sec",
-      "tesla",
-      "use",
-      "vote",
-      "wide",
-      "worrying"
-    ],
-    "ts": 1790794783.295798
-  },
-  {
-    "id": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief",
-    "title": "Bloomberg brings onchain stablecoin data to its Terminal",
-    "tokens": [
-      "bloomberg",
-      "brings",
-      "data",
-      "onchain",
-      "stablecoin",
-      "terminal"
-    ],
-    "ts": 1790794792.3005643
-  },
-  {
-    "id": "WP-MKTW-0005248264",
-    "title": "My friend’s pet-sitting business grosses $300,000 a year, but she pays herself $50,000. Should I start one too?",
-    "tokens": [
-      "000",
-      "300",
-      "business",
-      "friend",
-      "grosses",
-      "herself",
-      "one",
-      "pays",
-      "pet",
-      "she",
-      "should",
-      "sitting",
-      "start",
-      "too",
-      "year"
-    ],
-    "ts": 1790795972.0653527
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/bunker-hill-at-mining-forum-americas-2026-silver-push-gains-scale-93CH-4925755",
-    "title": "Bunker Hill at Mining Forum Americas 2026: silver push gains scale",
-    "tokens": [
-      "2026",
-      "americas",
-      "bunker",
-      "forum",
-      "gains",
-      "hill",
-      "mining",
-      "push",
-      "scale",
-      "silver"
-    ],
-    "ts": 1790795979.5935752
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/roxmore-resources-at-mining-forum-americas-2026-growth-silver-and-scale-93CH-4925753",
-    "title": "Roxmore Resources at Mining Forum Americas 2026: growth, silver and scale",
-    "tokens": [
-      "2026",
-      "americas",
-      "forum",
-      "growth",
-      "mining",
-      "resources",
-      "roxmore",
-      "scale",
-      "silver"
-    ],
-    "ts": 1790795988.2572696
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/city-holding-declares-100-quarterly-dividend-up-15-93CH-4925751",
-    "title": "City Holding declares $1.00 quarterly dividend, up 15%",
-    "tokens": [
-      "city",
-      "declares",
-      "dividend",
-      "holding",
-      "quarterly"
-    ],
-    "ts": 1790795995.8334606
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/synopsys-openai-strike-deal-to-develop-ai-model-for-chip-design-work-4925750",
-    "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work",
-    "tokens": [
-      "chip",
-      "deal",
-      "design",
-      "develop",
-      "model",
-      "openai",
-      "strike",
-      "synopsys",
-      "work"
-    ],
-    "ts": 1790796004.2996204
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/goldman-pushes-fed-rate-hike-to-december-after-cooler-inflation-4925743",
-    "title": "Goldman pushes Fed rate hike to December after cooler inflation",
-    "tokens": [
-      "cooler",
-      "december",
-      "fed",
-      "goldman",
-      "hike",
-      "inflation",
-      "pushes",
-      "rate"
-    ],
-    "ts": 1790796011.4855123
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jefferies-highlights-three-biotech-stocks-with-blockbuster-potential-4925748",
-    "title": "Jefferies Highlights Three Biotech Stocks With Blockbuster Potential",
-    "tokens": [
-      "biotech",
-      "blockbuster",
-      "highlights",
-      "jefferies",
-      "potential",
-      "stocks",
-      "three"
-    ],
-    "ts": 1790796019.0558727
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-wants-to-speed-certification-of-new-airplanes-4925747",
-    "title": "US wants to speed certification of new airplanes",
-    "tokens": [
-      "airplanes",
-      "certification",
-      "speed",
-      "wants"
-    ],
-    "ts": 1790796026.1245203
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sndk-mrna-twst-top-largecap-momentum-stocks-93CH-4925742",
-    "title": "SNDK, MRNA, TWST: top large-cap momentum stocks",
-    "tokens": [
-      "cap",
-      "large",
-      "momentum",
-      "mrna",
-      "sndk",
-      "stocks",
-      "top",
-      "twst"
-    ],
-    "ts": 1790796033.4426873
-  },
-  {
-    "id": "oilprice-article-45647",
-    "title": "Guyana’s Oil Riches Are Transforming Its Economy at Breakneck Speed",
-    "tokens": [
-      "breakneck",
-      "economy",
-      "guyana",
-      "oil",
-      "riches",
-      "speed",
-      "transforming"
-    ],
-    "ts": 1790796042.3462257
-  },
-  {
-    "id": "oilprice-news-45647",
-    "title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility",
-    "tokens": [
-      "climbs",
-      "despite",
-      "extreme",
-      "gas",
-      "oil",
-      "price",
-      "production",
-      "volatility"
-    ],
-    "ts": 1790796046.3594306
-  },
-  {
-    "id": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms",
-    "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
-    "tokens": [
-      "advocacy",
-      "announces",
-      "congress",
-      "crypto",
-      "group",
-      "loom",
-      "midterms",
-      "picks"
-    ],
-    "ts": 1790796051.6677425
-  },
-  {
-    "id": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc",
-    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-    "tokens": [
-      "adds",
-      "assets",
-      "base",
-      "cobalt",
-      "completes",
-      "tokenized",
-      "tools",
-      "upgrade"
-    ],
-    "ts": 1790796059.2780836
-  },
-  {
-    "id": "WP-MKTW-0005262972",
-    "title": "Billionaires like Ken Griffin are doling out tons of money to prove that a college degree still matters",
-    "tokens": [
-      "billionaires",
-      "college",
-      "degree",
-      "doling",
-      "griffin",
-      "ken",
-      "like",
-      "matters",
-      "money",
-      "prove",
-      "still",
-      "tons"
-    ],
-    "ts": 1790797271.065094
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-rafael-stock-crashing-today-93CH-4925770",
-    "title": "Why is Rafael stock crashing today?",
-    "tokens": [
-      "crashing",
-      "rafael",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790797278.531104
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-sagimet-biosciences-stock-rallying-today-93CH-4925769",
     "title": "Why is Sagimet Biosciences stock rallying today?",
     "tokens": [
@@ -22921,5 +22630,299 @@
       "reserve"
     ],
     "ts": 1791247202.7828615
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/innovative-eyewear-reports-record-q3-sales-up-55-yearoveryear-93CH-4933448",
+    "title": "Innovative Eyewear reports record Q3 sales, up 55% year-over-year",
+    "tokens": [
+      "eyewear",
+      "innovative",
+      "record",
+      "reports",
+      "sales",
+      "year"
+    ],
+    "ts": 1791269561.4432263
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/lg-u-partners-with-bango-to-expand-subscription-platform-93CH-4933443",
+    "title": "LG U+ partners with Bango to expand subscription platform",
+    "tokens": [
+      "bango",
+      "expand",
+      "partners",
+      "platform",
+      "subscription"
+    ],
+    "ts": 1791269568.9118059
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/berenberg-starts-bullish-coverage-on-dominos-on-chick-n-dip-growth-4933442",
+    "title": "Berenberg starts bullish coverage on Domino’s on Chick ’N’ Dip growth",
+    "tokens": [
+      "berenberg",
+      "bullish",
+      "chick",
+      "coverage",
+      "dip",
+      "domino",
+      "growth",
+      "starts"
+    ],
+    "ts": 1791269576.3536427
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-4933144",
+    "title": "OpenAI, Anthropic tell Australia they would welcome data breach rules",
+    "tokens": [
+      "anthropic",
+      "australia",
+      "breach",
+      "data",
+      "openai",
+      "rules",
+      "tell",
+      "they",
+      "welcome",
+      "would"
+    ],
+    "ts": 1791269584.9114728
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-rxo-stock-rating-on-ch-robinson-acquisition-93CH-4933436",
+    "title": "Jefferies cuts RXO stock rating on C.H. Robinson acquisition",
+    "tokens": [
+      "acquisition",
+      "cuts",
+      "jefferies",
+      "rating",
+      "robinson",
+      "rxo",
+      "stock"
+    ],
+    "ts": 1791269593.1786382
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/synexis-partners-with-customate-for-uk-poultry-pathogen-control-93CH-4933433",
+    "title": "Synexis partners with Customate for UK poultry pathogen control",
+    "tokens": [
+      "control",
+      "customate",
+      "partners",
+      "pathogen",
+      "poultry",
+      "synexis"
+    ],
+    "ts": 1791269600.8678405
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/blackstone-bain-warburg-prepare-final-bids-for-fuji-medias-property-unit-sources-say-4933430",
+    "title": "Blackstone, Bain, Warburg prepare final bids for Fuji Media’s property unit, sources say",
+    "tokens": [
+      "bain",
+      "bids",
+      "blackstone",
+      "final",
+      "fuji",
+      "media",
+      "prepare",
+      "property",
+      "say",
+      "sources",
+      "unit",
+      "warburg"
+    ],
+    "ts": 1791269608.1946614
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/german-industrial-orders-fall-more-than-expected-in-august-4933414",
+    "title": "German industrial orders fall sharply over large contracts",
+    "tokens": [
+      "contracts",
+      "fall",
+      "german",
+      "industrial",
+      "large",
+      "orders",
+      "sharply"
+    ],
+    "ts": 1791269615.4208407
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/focus-xplore-signs-deal-to-acquire-canadian-gold-assets-for-296000-93CH-4933428",
+    "title": "Focus Xplore signs deal to acquire Canadian gold assets for £296,000",
+    "tokens": [
+      "000",
+      "296",
+      "acquire",
+      "assets",
+      "canadian",
+      "deal",
+      "focus",
+      "gold",
+      "signs",
+      "xplore"
+    ],
+    "ts": 1791269622.2851262
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-beiersdorf-stock-rating-on-margin-concerns-93CH-4933427",
+    "title": "Goldman Sachs cuts Beiersdorf stock rating on margin concerns",
+    "tokens": [
+      "beiersdorf",
+      "concerns",
+      "cuts",
+      "goldman",
+      "margin",
+      "rating",
+      "sachs",
+      "stock"
+    ],
+    "ts": 1791269630.8467557
+  },
+  {
+    "id": "oilprice-news-45688",
+    "title": "Iran’s Oil Minister Resigns as U.S. Blockade Chokes Crude Exports",
+    "tokens": [
+      "blockade",
+      "chokes",
+      "crude",
+      "exports",
+      "iran",
+      "minister",
+      "oil",
+      "resigns"
+    ],
+    "ts": 1791269635.6303334
+  },
+  {
+    "id": "aa3ffa5f-8737-4e28-9e13-3df0c8bffeaf",
+    "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+    "tokens": [
+      "000",
+      "crypto",
+      "private",
+      "proposed",
+      "reporting",
+      "rule",
+      "scraps",
+      "sent",
+      "wallets"
+    ],
+    "ts": 1791269640.0226831
+  },
+  {
+    "id": "dd8545fc-3159-44c9-8e2b-d706e5ab8391",
+    "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+    "tokens": [
+      "before",
+      "capacity",
+      "ethereum",
+      "fix",
+      "gets",
+      "glamsterdam",
+      "jump",
+      "last",
+      "major",
+      "minute",
+      "test"
+    ],
+    "ts": 1791269648.6484885
+  },
+  {
+    "id": "3a8bb154-bb2b-4758-b8e8-00ae61bda2d6",
+    "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+    "tokens": [
+      "000",
+      "bitcoin",
+      "getting",
+      "hover",
+      "keeps",
+      "near",
+      "records",
+      "rejected",
+      "stocks"
+    ],
+    "ts": 1791269656.5900807
+  },
+  {
+    "id": "42acc495-b894-46a4-8b0d-f17a5693531a",
+    "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+    "tokens": [
+      "foundation",
+      "gave",
+      "input",
+      "institutional",
+      "jpmorgan",
+      "program",
+      "seconds",
+      "settle",
+      "solana",
+      "trades",
+      "unveils"
+    ],
+    "ts": 1791269664.126893
+  },
+  {
+    "id": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto",
+    "title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
+    "tokens": [
+      "agency",
+      "better",
+      "cftc",
+      "crypto",
+      "markets",
+      "regulate",
+      "retail",
+      "wrong"
+    ],
+    "ts": 1791269672.1544392
+  },
+  {
+    "id": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters",
+    "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+    "tokens": [
+      "bank",
+      "charter",
+      "charters",
+      "crypto",
+      "days",
+      "occ",
+      "rain",
+      "seeks",
+      "sued",
+      "trust"
+    ],
+    "ts": 1791269679.8719294
+  },
+  {
+    "id": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets",
+    "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+    "tokens": [
+      "app",
+      "emerging",
+      "eyes",
+      "markets",
+      "offering",
+      "okx",
+      "payments",
+      "savings",
+      "stablecoin",
+      "yield"
+    ],
+    "ts": 1791269687.102633
+  },
+  {
+    "id": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt",
+    "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+    "tokens": [
+      "chinese",
+      "crime",
+      "laundered",
+      "lazarus",
+      "network",
+      "zachxbt"
+    ],
+    "ts": 1791269695.31201
   }
 ]

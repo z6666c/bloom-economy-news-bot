@@ -1,385 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/berkshire-hathaway-inc-buys-538m-of-lennar-stock-93CH-4926125",
-    "title": "Berkshire Hathaway Inc. buys $53.8m of Lennar stock",
-    "tokens": [
-      "berkshire",
-      "buys",
-      "hathaway",
-      "inc",
-      "lennar",
-      "stock"
-    ],
-    "ts": 1790815840.5234911
-  },
-  {
-    "id": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident",
-    "title": "MetaMask exits Ethereum validators as it investigates security incident",
-    "tokens": [
-      "ethereum",
-      "exits",
-      "incident",
-      "investigates",
-      "metamask",
-      "security",
-      "validators"
-    ],
-    "ts": 1790815848.6200945
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/contract-vote-looms-for-boeing-workers-after-improved-offer-4925684",
-    "title": "Contract vote looms for Boeing workers after improved offer",
-    "tokens": [
-      "boeing",
-      "contract",
-      "improved",
-      "looms",
-      "offer",
-      "vote",
-      "workers"
-    ],
-    "ts": 1790817195.685998
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-following-upbeat-micron-earnings-4926147",
-    "title": "U.S. stock futures rise following upbeat Micron earnings",
-    "tokens": [
-      "earnings",
-      "following",
-      "futures",
-      "micron",
-      "rise",
-      "stock",
-      "upbeat"
-    ],
-    "ts": 1790817203.2427204
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/japan-september-factory-growth-slows-to-6month-low-pmi-shows-4926146",
-    "title": "Japan September factory growth slows to 6-month low, PMI shows",
-    "tokens": [
-      "factory",
-      "growth",
-      "japan",
-      "low",
-      "month",
-      "pmi",
-      "september",
-      "shows",
-      "slows"
-    ],
-    "ts": 1790817210.2493305
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tsmc-evaluates-potential-texas-investment-sources-say-4924436",
-    "title": "TSMC evaluates potential Texas investment, sources say",
-    "tokens": [
-      "evaluates",
-      "investment",
-      "potential",
-      "say",
-      "sources",
-      "texas",
-      "tsmc"
-    ],
-    "ts": 1790817217.4016473
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/south-korea-factory-growth-hits-4month-high-as-export-orders-boom-pmi-shows-4926145",
-    "title": "South Korea factory growth hits 4-month high as export orders boom, PMI shows",
-    "tokens": [
-      "boom",
-      "export",
-      "factory",
-      "growth",
-      "high",
-      "hits",
-      "korea",
-      "month",
-      "orders",
-      "pmi",
-      "shows",
-      "south"
-    ],
-    "ts": 1790817224.4542809
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nikkei-225-trapped-in-6520067100-range-live-levels-93CH-4919228",
-    "title": "Nikkei 225 hits overbought MFI 100 near 68,000: Live levels",
-    "tokens": [
-      "000",
-      "100",
-      "225",
-      "hits",
-      "levels",
-      "live",
-      "mfi",
-      "near",
-      "nikkei",
-      "overbought"
-    ],
-    "ts": 1790818229.3158908
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sk-hynix-doji-at-fibonacci-inflection-1808000-live-levels-93CH-4919227",
-    "title": "SK Hynix trapped in no-trade zone at ₩1,778,000: Live levels",
-    "tokens": [
-      "000",
-      "778",
-      "hynix",
-      "levels",
-      "live",
-      "trade",
-      "trapped",
-      "zone"
-    ],
-    "ts": 1790818237.3643053
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/paramount-skydance-prices-42-billion-debt-for-warner-bros-deal-93CH-4926156",
-    "title": "Paramount Skydance prices $42 billion debt for Warner Bros deal",
-    "tokens": [
-      "billion",
-      "bros",
-      "deal",
-      "debt",
-      "paramount",
-      "prices",
-      "skydance",
-      "warner"
-    ],
-    "ts": 1790818244.9021773
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-holds-gains-as-middle-east-supply-risks-persist-4926155",
-    "title": "Oil holds gains as Middle East supply risks persist",
-    "tokens": [
-      "east",
-      "gains",
-      "holds",
-      "middle",
-      "oil",
-      "persist",
-      "risks",
-      "supply"
-    ],
-    "ts": 1790818251.7255368
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/lipocine-director-john-higuchi-buys-27131-in-company-stock-93CH-4926153",
-    "title": "Lipocine director John Higuchi buys $27,131 in company stock",
-    "tokens": [
-      "131",
-      "buys",
-      "company",
-      "director",
-      "higuchi",
-      "john",
-      "lipocine",
-      "stock"
-    ],
-    "ts": 1790818260.3762019
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/billiontoone-chairman-and-ceo-atay-sells-13-million-in-shares-93CH-4926152",
-    "title": "BillionToOne chairman and CEO Atay sells $1.3 million in shares",
-    "tokens": [
-      "atay",
-      "billiontoone",
-      "ceo",
-      "chairman",
-      "million",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790818267.2115119
-  },
-  {
-    "id": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight",
-    "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
-    "tokens": [
-      "cftc",
-      "contracts",
-      "define",
-      "event",
-      "fight",
-      "market",
-      "prediction",
-      "seeks",
-      "swaps"
-    ],
-    "ts": 1790818275.7081118
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/australia-trade-surplus-shrinks-to-a495-million-in-august-misses-forecasts-4926171",
-    "title": "Australia trade surplus shrinks to A$495 million in August, misses forecasts",
-    "tokens": [
-      "495",
-      "august",
-      "australia",
-      "forecasts",
-      "million",
-      "misses",
-      "shrinks",
-      "surplus",
-      "trade"
-    ],
-    "ts": 1790819701.810813
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tsmc-weighs-investment-in-texas-to-expand-us-chip-production-reuters-reports-4926170",
-    "title": "TSMC weighs investment in Texas to expand U.S. chip production, Reuters reports",
-    "tokens": [
-      "chip",
-      "expand",
-      "investment",
-      "production",
-      "reports",
-      "reuters",
-      "texas",
-      "tsmc",
-      "weighs"
-    ],
-    "ts": 1790819709.7294822
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/gold-little-changed-after-6-september-slide-as-softer-us-pce-cuts-fed-hike-bets-4926166",
-    "title": "Gold little changed after 6% September slide as softer U.S. PCE cuts Fed hike bets",
-    "tokens": [
-      "bets",
-      "changed",
-      "cuts",
-      "fed",
-      "gold",
-      "hike",
-      "little",
-      "pce",
-      "september",
-      "slide",
-      "softer"
-    ],
-    "ts": 1790819716.9968262
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/conifer-management-buys-663m-in-group-1-automotive-stock-93CH-4926165",
-    "title": "Conifer management buys $66.3m in Group 1 Automotive stock",
-    "tokens": [
-      "automotive",
-      "buys",
-      "conifer",
-      "group",
-      "management",
-      "stock"
-    ],
-    "ts": 1790819723.9443715
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/dollar-gets-lift-from-higher-yields-4926161",
-    "title": "Dollar gets lift from higher yields",
-    "tokens": [
-      "dollar",
-      "gets",
-      "higher",
-      "lift",
-      "yields"
-    ],
-    "ts": 1790819731.6068473
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-prices-barely-changed-as-investors-assess-usiran-peace-talks-and-gulf-exports-4926160",
-    "title": "Oil prices barely changed as investors assess US-Iran peace talks and Gulf exports",
-    "tokens": [
-      "assess",
-      "barely",
-      "changed",
-      "exports",
-      "gulf",
-      "investors",
-      "iran",
-      "oil",
-      "peace",
-      "prices",
-      "talks"
-    ],
-    "ts": 1790819738.9805021
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hang-seng-stuck-below-24800-resistance-live-levels-93CH-4919260",
-    "title": "Hang Seng bears eye breakdown below HKD 24,260: Live levels",
-    "tokens": [
-      "260",
-      "bears",
-      "below",
-      "breakdown",
-      "eye",
-      "hang",
-      "hkd",
-      "levels",
-      "live",
-      "seng"
-    ],
-    "ts": 1790821770.2258801
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/asian-stocks-dip-bonds-in-focus-after-torrid-september-4926176",
-    "title": "Asian stocks dip, bonds in focus after torrid September",
-    "tokens": [
-      "asian",
-      "bonds",
-      "dip",
-      "focus",
-      "september",
-      "stocks",
-      "torrid"
-    ],
-    "ts": 1790821777.382794
-  },
-  {
-    "id": "https://www.investing.com/news/investment-ideas/35-33-ai-chip-and-infrastructure-stocks-cap-a-blockbuster-sep-heres-why-4926172",
-    "title": "+35%, +33%: AI chip and infrastructure stocks cap a blockbuster Sep, here’s why",
-    "tokens": [
-      "blockbuster",
-      "cap",
-      "chip",
-      "here",
-      "infrastructure",
-      "sep",
-      "stocks",
-      "why"
-    ],
-    "ts": 1790821785.2725537
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/walgreens-owner-nears-9-billion-deal-to-sell-boots-chain-wsj-93CH-4926191",
-    "title": "Walgreens owner nears $9 billion deal to sell Boots chain- WSJ",
-    "tokens": [
-      "billion",
-      "boots",
-      "chain",
-      "deal",
-      "nears",
-      "owner",
-      "sell",
-      "walgreens",
-      "wsj"
-    ],
-    "ts": 1790822904.8347764
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/asian-factory-activity-expands-thanks-to-global-ai-boom-4926190",
-    "title": "Asian factory activity expands thanks to global AI boom",
-    "tokens": [
-      "activity",
-      "asian",
-      "boom",
-      "expands",
-      "factory",
-      "global",
-      "thanks"
-    ],
-    "ts": 1790822912.342203
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/why-is-lynas-rare-earths-stock-sliding-today-93CH-4926189",
     "title": "Why is Lynas Rare Earths stock sliding today?",
     "tokens": [
@@ -22992,5 +22612,403 @@
       "tens"
     ],
     "ts": 1791339948.4126496
+  },
+  {
+    "id": "WP-MKTW-0005269056",
+    "title": "A Laguna Beach gem renovated by Diane Keaton is up for grabs for $10.3 million",
+    "tokens": [
+      "beach",
+      "diane",
+      "gem",
+      "grabs",
+      "keaton",
+      "laguna",
+      "million",
+      "renovated"
+    ],
+    "ts": 1791363863.2101831
+  },
+  {
+    "id": "WP-MKTW-0005273445",
+    "title": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
+    "tokens": [
+      "achieves",
+      "cross",
+      "golden",
+      "introduction",
+      "meta",
+      "muse",
+      "shares",
+      "since",
+      "stock",
+      "thrive"
+    ],
+    "ts": 1791363873.0907981
+  },
+  {
+    "id": "WP-MKTW-0005273352",
+    "title": "A popular tech fund is now overbought. That’s no reason to sell, history shows.",
+    "tokens": [
+      "fund",
+      "history",
+      "now",
+      "overbought",
+      "popular",
+      "reason",
+      "sell",
+      "shows",
+      "tech"
+    ],
+    "ts": 1791363881.3414464
+  },
+  {
+    "id": "WP-MKTW-0005269755",
+    "title": "How one trend-following fund outperformed rivals by bringing humans back into the decision-making process",
+    "tokens": [
+      "back",
+      "bringing",
+      "decision",
+      "following",
+      "fund",
+      "how",
+      "humans",
+      "making",
+      "one",
+      "outperformed",
+      "process",
+      "rivals",
+      "trend"
+    ],
+    "ts": 1791363889.719382
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/asia-shares-weaker-oil-up-investors-weigh-saudihouthi-escalation-4935555",
+    "title": "European shares, euro fall as energy shock, fiscal worries bite",
+    "tokens": [
+      "bite",
+      "energy",
+      "euro",
+      "european",
+      "fall",
+      "fiscal",
+      "shares",
+      "shock",
+      "worries"
+    ],
+    "ts": 1791363898.78905
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/porsche-braces-for-lower-sales-era-seeks-lifeline-from-luxury-4935630",
+    "title": "Porsche braces for lower sales era, seeks lifeline from luxury",
+    "tokens": [
+      "braces",
+      "era",
+      "lifeline",
+      "lower",
+      "luxury",
+      "porsche",
+      "sales",
+      "seeks"
+    ],
+    "ts": 1791363906.753431
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/deutsche-bank-says-weakness-in-swedish-krona-is-due-to-fundamentals-93CH-4935861",
+    "title": "Deutsche Bank says weakness in Swedish krona is due to fundamentals",
+    "tokens": [
+      "bank",
+      "deutsche",
+      "due",
+      "fundamentals",
+      "krona",
+      "swedish",
+      "weakness"
+    ],
+    "ts": 1791363913.9417167
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-meast-supply-jitters-persist-4935465",
+    "title": "Oil prices rise amid concerns over Mideast, U.S. supply disruptions",
+    "tokens": [
+      "concerns",
+      "disruptions",
+      "mideast",
+      "oil",
+      "prices",
+      "rise",
+      "supply"
+    ],
+    "ts": 1791363921.8069148
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/transsion-seeks-up-to-428-million-in-hong-kong-share-sale-as-memory-costs-weigh-4935858",
+    "title": "Transsion seeks up to $428 million in Hong Kong share sale as memory costs weigh",
+    "tokens": [
+      "428",
+      "costs",
+      "hong",
+      "kong",
+      "memory",
+      "million",
+      "sale",
+      "seeks",
+      "share",
+      "transsion",
+      "weigh"
+    ],
+    "ts": 1791363931.862233
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-074-4935856",
+    "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.74%",
+    "tokens": [
+      "close",
+      "composite",
+      "idx",
+      "index",
+      "indonesia",
+      "lower",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1791363939.4129906
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-sliding-today-93CH-4935855",
+    "title": "Why is Space Exploration Technologies stock sliding today?",
+    "tokens": [
+      "exploration",
+      "sliding",
+      "space",
+      "stock",
+      "technologies",
+      "today",
+      "why"
+    ],
+    "ts": 1791363943.4291527
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/morgan-stanley-upgrades-nexa-resources-stock-rating-on-zinc-price-outlook-93CH-4935848",
+    "title": "Morgan Stanley upgrades Nexa Resources stock rating on zinc price outlook",
+    "tokens": [
+      "morgan",
+      "nexa",
+      "outlook",
+      "price",
+      "rating",
+      "resources",
+      "stanley",
+      "stock",
+      "upgrades",
+      "zinc"
+    ],
+    "ts": 1791363947.783149
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ubs-sees-more-gains-for-european-stocks-despite-higher-rates-and-energy-prices-4935847",
+    "title": "UBS sees more gains for European stocks despite higher rates and energy prices",
+    "tokens": [
+      "despite",
+      "energy",
+      "european",
+      "gains",
+      "higher",
+      "more",
+      "prices",
+      "rates",
+      "sees",
+      "stocks",
+      "ubs"
+    ],
+    "ts": 1791363954.6787126
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/wealthy-investors-view-rates-and-yields-as-the-biggest-growth-risk-says-deutsche-bank-4935844",
+    "title": "Wealthy investors view rates and yields as the biggest growth risk, says Deutsche Bank",
+    "tokens": [
+      "bank",
+      "biggest",
+      "deutsche",
+      "growth",
+      "investors",
+      "rates",
+      "risk",
+      "view",
+      "wealthy",
+      "yields"
+    ],
+    "ts": 1791363981.1145902
+  },
+  {
+    "id": "oilprice-news-45697",
+    "title": "Iraq Builds 2027 Budget on $58 Oil—and a Very Large Deficit",
+    "tokens": [
+      "2027",
+      "budget",
+      "builds",
+      "deficit",
+      "iraq",
+      "large",
+      "oil",
+      "very"
+    ],
+    "ts": 1791363990.707624
+  },
+  {
+    "id": "12b50719-567d-4528-8073-58136ae9e433",
+    "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+    "tokens": [
+      "adds",
+      "balance",
+      "bitcoin",
+      "million",
+      "robinhood",
+      "sheet",
+      "worth"
+    ],
+    "ts": 1791363999.7290578
+  },
+  {
+    "id": "d09d86cd-9d72-400f-a1c1-2775a7dd158b",
+    "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
+    "tokens": [
+      "bitcoin",
+      "bullish",
+      "intact",
+      "stair",
+      "step",
+      "still",
+      "trajectory"
+    ],
+    "ts": 1791364009.578003
+  },
+  {
+    "id": "6d2c0228-e4a0-405c-a6c5-b8ab4419c6a8",
+    "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+    "tokens": [
+      "100",
+      "bnb",
+      "btc",
+      "confirmed",
+      "government",
+      "hasn",
+      "million",
+      "moves",
+      "sale"
+    ],
+    "ts": 1791364036.866132
+  },
+  {
+    "id": "a723a213-4ed6-4946-acf6-3f431ae7019f",
+    "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
+    "tokens": [
+      "abstract",
+      "becomes",
+      "ethereum",
+      "layer",
+      "penguins",
+      "pudgy",
+      "second",
+      "shut",
+      "week"
+    ],
+    "ts": 1791364057.4527318
+  },
+  {
+    "id": "f7137bb5-bf32-4cd6-bb74-39bbde3f5faf",
+    "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+    "tokens": [
+      "assets",
+      "cardano",
+      "freeze",
+      "gives",
+      "issuers",
+      "power",
+      "restrict",
+      "seize",
+      "token"
+    ],
+    "ts": 1791364065.4688249
+  },
+  {
+    "id": "79d32df3-3811-4158-a150-b2df35cfc0b2",
+    "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+    "tokens": [
+      "000",
+      "attacks",
+      "below",
+      "bitcoin",
+      "dips",
+      "iranian",
+      "jumps",
+      "oil",
+      "tanker"
+    ],
+    "ts": 1791364088.8792195
+  },
+  {
+    "id": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap",
+    "title": "BitMine sets 5% Ether supply ‘hard cap’ as accumulation target nears",
+    "tokens": [
+      "accumulation",
+      "bitmine",
+      "cap",
+      "ether",
+      "hard",
+      "nears",
+      "sets",
+      "supply",
+      "target"
+    ],
+    "ts": 1791364101.434169
+  },
+  {
+    "id": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law",
+    "title": "Russia clears first crypto exchanges, custodians under new law",
+    "tokens": [
+      "clears",
+      "crypto",
+      "custodians",
+      "exchanges",
+      "first",
+      "law",
+      "russia",
+      "under"
+    ],
+    "ts": 1791364120.8071084
+  },
+  {
+    "id": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid",
+    "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
+    "tokens": [
+      "acquittal",
+      "bid",
+      "bitcoin",
+      "blow",
+      "doj",
+      "fog",
+      "invokes",
+      "potential",
+      "roman",
+      "ruling",
+      "storm"
+    ],
+    "ts": 1791364130.4029307
+  },
+  {
+    "id": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch",
+    "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
+    "tokens": [
+      "ether",
+      "gold",
+      "just",
+      "kalshi",
+      "launch",
+      "markets",
+      "min",
+      "overtake",
+      "weeks"
+    ],
+    "ts": 1791364141.9697385
   }
 ]

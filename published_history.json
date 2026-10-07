@@ -1,617 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/verisign-ceo-bidzos-sells-919975-in-company-stock-93CH-4926305",
-    "title": "Verisign CEO Bidzos sells $919,975 in company stock",
-    "tokens": [
-      "919",
-      "975",
-      "bidzos",
-      "ceo",
-      "company",
-      "sells",
-      "stock",
-      "verisign"
-    ],
-    "ts": 1790835995.931512
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-071-4926299",
-    "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.71%",
-    "tokens": [
-      "close",
-      "higher",
-      "stocks",
-      "taiwan",
-      "trade",
-      "weighted"
-    ],
-    "ts": 1790836003.2902591
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/blackstoneaffiliated-entities-sell-111-million-of-bumble-stock-93CH-4926277",
-    "title": "Blackstone-affiliated entities sell $11.1 million of Bumble stock",
-    "tokens": [
-      "affiliated",
-      "blackstone",
-      "bumble",
-      "entities",
-      "million",
-      "sell",
-      "stock"
-    ],
-    "ts": 1790836010.7304964
-  },
-  {
-    "id": "https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi",
-    "title": "Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule",
-    "tokens": [
-      "bitcoin",
-      "committee",
-      "invisible",
-      "metaplanet",
-      "msci",
-      "questions",
-      "rule",
-      "strategy",
-      "tank",
-      "think"
-    ],
-    "ts": 1790836019.7689426
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pfizer-reports-positive-phase-2-results-for-atopic-dermatitis-drug-93CH-4926357",
-    "title": "Pfizer reports positive phase 2 results for atopic dermatitis drug",
-    "tokens": [
-      "atopic",
-      "dermatitis",
-      "drug",
-      "pfizer",
-      "phase",
-      "positive",
-      "reports",
-      "results"
-    ],
-    "ts": 1790837386.5373883
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/russia-manufacturing-slips-again-in-september-as-demand-stays-weak-93CH-4926356",
-    "title": "Russia manufacturing slips again in September as demand stays weak",
-    "tokens": [
-      "again",
-      "demand",
-      "manufacturing",
-      "russia",
-      "september",
-      "slips",
-      "stays",
-      "weak"
-    ],
-    "ts": 1790837393.9172788
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fca-suspends-notting-hill-genesis-bond-listings-93CH-4926351",
-    "title": "FCA suspends Notting Hill Genesis bond listings",
-    "tokens": [
-      "bond",
-      "fca",
-      "genesis",
-      "hill",
-      "listings",
-      "notting",
-      "suspends"
-    ],
-    "ts": 1790837401.7180743
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/advanced-flower-capital-director-tannenbaum-buys-344k-in-shares-93CH-4926350",
-    "title": "Advanced flower capital director Tannenbaum buys $344k in shares",
-    "tokens": [
-      "344k",
-      "advanced",
-      "buys",
-      "capital",
-      "director",
-      "flower",
-      "shares",
-      "tannenbaum"
-    ],
-    "ts": 1790837409.0946913
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bonds-teeter-after-us-treasuries-worst-quarter-since-1994-4926346",
-    "title": "Bonds teeter after US Treasuries’ worst quarter since 1994",
-    "tokens": [
-      "1994",
-      "bonds",
-      "quarter",
-      "since",
-      "teeter",
-      "treasuries",
-      "worst"
-    ],
-    "ts": 1790837417.033355
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-199-4926337",
-    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 1.99%",
-    "tokens": [
-      "200",
-      "asx",
-      "australia",
-      "close",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790837421.0487564
-  },
-  {
-    "id": "6d553903-2be3-4685-a536-20c3bf7ccfc3",
-    "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
-    "tokens": [
-      "ethereum",
-      "exits",
-      "forces",
-      "funds",
-      "incident",
-      "metamask",
-      "risk",
-      "security",
-      "staking"
-    ],
-    "ts": 1790838802.3247218
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/australian-businesses-raise-prices-as-card-surcharge-ban-takes-effect-4926408",
-    "title": "Australian businesses raise prices as card surcharge ban takes effect",
-    "tokens": [
-      "australian",
-      "ban",
-      "businesses",
-      "card",
-      "effect",
-      "prices",
-      "raise",
-      "surcharge",
-      "takes"
-    ],
-    "ts": 1790840074.8309708
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/uks-nest-pension-picks-wellington-in-35-billion-emerging-market-active-equity-shift-4926407",
-    "title": "UK’s Nest pension picks Wellington in £3.5 billion emerging market active equity shift",
-    "tokens": [
-      "active",
-      "billion",
-      "emerging",
-      "equity",
-      "market",
-      "nest",
-      "pension",
-      "picks",
-      "shift",
-      "wellington"
-    ],
-    "ts": 1790840083.0895703
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/natural-gas-trapped-in-30813203-range-live-levels-93CH-4919473",
-    "title": "Natural Gas tests Fib support at $2.966 after double top: Live",
-    "tokens": [
-      "966",
-      "double",
-      "fib",
-      "gas",
-      "live",
-      "natural",
-      "support",
-      "tests",
-      "top"
-    ],
-    "ts": 1790840090.7784607
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-95609773-resistance-wall-live-levels-93CH-4919472",
-    "title": "Crude Oil WTI squeezed at $91 with bear flag forming: Live levels",
-    "tokens": [
-      "bear",
-      "crude",
-      "flag",
-      "forming",
-      "levels",
-      "live",
-      "oil",
-      "squeezed",
-      "wti"
-    ],
-    "ts": 1790840099.6105506
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-    "title": "Bitcoin stuck in $82,800-$85,000 range: Live levels",
-    "tokens": [
-      "000",
-      "800",
-      "bitcoin",
-      "levels",
-      "live",
-      "range",
-      "stuck"
-    ],
-    "ts": 1790840107.3469334
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/airtel-money-sets-ipo-price-at-196-per-share-93CH-4926406",
-    "title": "Airtel Money sets IPO price at £1.96 per share",
-    "tokens": [
-      "airtel",
-      "ipo",
-      "money",
-      "per",
-      "price",
-      "sets",
-      "share"
-    ],
-    "ts": 1790840114.411711
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/brent-oil-breaks-10150-neckline-eyes-9749-support-live-93CH-4919470",
-    "title": "Brent Oil consolidates at $98.59 in tight range: Live levels",
-    "tokens": [
-      "brent",
-      "consolidates",
-      "levels",
-      "live",
-      "oil",
-      "range",
-      "tight"
-    ],
-    "ts": 1790840121.79265
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-spyre-stock-with-overweight-on-ibd-pipeline-93CH-4926445",
-    "title": "JPMorgan initiates Spyre stock with Overweight on IBD pipeline",
-    "tokens": [
-      "ibd",
-      "initiates",
-      "jpmorgan",
-      "overweight",
-      "pipeline",
-      "spyre",
-      "stock"
-    ],
-    "ts": 1790841375.6592839
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-kura-oncology-stock-with-overweight-rating-93CH-4926444",
-    "title": "JPMorgan initiates Kura Oncology stock with overweight rating",
-    "tokens": [
-      "initiates",
-      "jpmorgan",
-      "kura",
-      "oncology",
-      "overweight",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790841385.0472207
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/enliven-therapeutics-stock-initiated-at-overweight-by-jpmorgan-93CH-4926443",
-    "title": "Enliven Therapeutics stock initiated at Overweight by JPMorgan",
-    "tokens": [
-      "enliven",
-      "initiated",
-      "jpmorgan",
-      "overweight",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1790841392.1410766
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/arqiva-appoints-simon-duffy-as-board-chair-93CH-4926442",
-    "title": "Arqiva appoints Simon Duffy as board chair",
-    "tokens": [
-      "appoints",
-      "arqiva",
-      "board",
-      "chair",
-      "duffy",
-      "simon"
-    ],
-    "ts": 1790841400.0312395
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/active-energy-group-secures-13m-uae-funding-facility-93CH-4926436",
-    "title": "Active Energy Group secures £1.3M UAE funding facility",
-    "tokens": [
-      "active",
-      "energy",
-      "facility",
-      "funding",
-      "group",
-      "secures",
-      "uae"
-    ],
-    "ts": 1790841407.2488332
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/sse-expects-higher-interim-eps-as-networks-investment-jumps-and-renewables-output-4926435",
-    "title": "SSE expects higher interim EPS as networks investment jumps and renewables output",
-    "tokens": [
-      "eps",
-      "expects",
-      "higher",
-      "interim",
-      "investment",
-      "jumps",
-      "networks",
-      "output",
-      "renewables",
-      "sse"
-    ],
-    "ts": 1790841414.7544403
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sanofi-to-pay-regeneron-up-to-8-billion-to-add-new-antibodies-underdupixent-partnership-4926434",
-    "title": "Sanofi to pay Regeneron up to $8 billion to add new antibodies under Dupixent partnership",
-    "tokens": [
-      "add",
-      "antibodies",
-      "billion",
-      "dupixent",
-      "partnership",
-      "pay",
-      "regeneron",
-      "sanofi",
-      "under"
-    ],
-    "ts": 1790841423.034072
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bmo-initiates-national-energy-services-stock-at-outperform-on-middle-east-growth-93CH-4926433",
-    "title": "BMO initiates National Energy Services stock at Outperform on Middle East growth",
-    "tokens": [
-      "bmo",
-      "east",
-      "energy",
-      "growth",
-      "initiates",
-      "middle",
-      "national",
-      "outperform",
-      "services",
-      "stock"
-    ],
-    "ts": 1790841430.0017085
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43",
-    "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
-    "tokens": [
-      "bitcoin",
-      "btc",
-      "draw",
-      "etfs",
-      "nearly",
-      "price",
-      "rises"
-    ],
-    "ts": 1790841438.9895828
-  },
-  {
-    "id": "WP-MKTW-0005256120",
-    "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-    "tokens": [
-      "bitcoin",
-      "buy",
-      "crazy",
-      "dollar",
-      "earn",
-      "every",
-      "never",
-      "selling"
-    ],
-    "ts": 1790842594.7452798
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/citi-downgrades-allegro-to-neutral-after-63-rally-raises-price-target-4926480",
-    "title": "Citi downgrades Allegro to Neutral after 63% rally, raises price target",
-    "tokens": [
-      "allegro",
-      "citi",
-      "downgrades",
-      "neutral",
-      "price",
-      "raises",
-      "rally",
-      "target"
-    ],
-    "ts": 1790842602.4039717
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/france-manufacturing-growth-slows-as-demand-falls-93CH-4926479",
-    "title": "France manufacturing growth slows as demand falls",
-    "tokens": [
-      "demand",
-      "falls",
-      "france",
-      "growth",
-      "manufacturing",
-      "slows"
-    ],
-    "ts": 1790842610.6872785
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/exclusiveus-tells-france-and-germany-to-release-diesel-stocks-or-face-us-export-ban-sources-say-4926478",
-    "title": "Exclusive-US tells France and Germany to release diesel stocks or face US export ban, sources say",
-    "tokens": [
-      "ban",
-      "diesel",
-      "exclusive",
-      "export",
-      "face",
-      "france",
-      "germany",
-      "release",
-      "say",
-      "sources",
-      "stocks",
-      "tells"
-    ],
-    "ts": 1790842618.3460162
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/italy-manufacturing-sector-shows-marginal-improvement-in-september-93CH-4926477",
-    "title": "Italy manufacturing sector shows marginal improvement in September",
-    "tokens": [
-      "improvement",
-      "italy",
-      "manufacturing",
-      "marginal",
-      "sector",
-      "september",
-      "shows"
-    ],
-    "ts": 1790842626.847984
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/italy-manufacturing-sector-shows-marginal-improvement-in-september-93CH-4926476",
-    "title": "Italy manufacturing sector shows marginal improvement in September",
-    "tokens": [
-      "improvement",
-      "italy",
-      "manufacturing",
-      "marginal",
-      "sector",
-      "september",
-      "shows"
-    ],
-    "ts": 1790842630.864924
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/mizuho-raises-micron-stock-price-target-to-1400-on-ai-strength-93CH-4926467",
-    "title": "Mizuho raises Micron stock price target to $1,400 on AI strength",
-    "tokens": [
-      "400",
-      "micron",
-      "mizuho",
-      "price",
-      "raises",
-      "stock",
-      "strength",
-      "target"
-    ],
-    "ts": 1790842634.362771
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-micron-stock-rating-on-strong-demand-outlook-93CH-4926466",
-    "title": "Raymond James reiterates Micron stock rating on strong demand outlook",
-    "tokens": [
-      "demand",
-      "james",
-      "micron",
-      "outlook",
-      "rating",
-      "raymond",
-      "reiterates",
-      "stock",
-      "strong"
-    ],
-    "ts": 1790842641.6649644
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/melius-reiterates-micron-stock-buy-rating-on-tighter-supply-outlook-93CH-4926465",
-    "title": "Melius reiterates Micron stock Buy rating on tighter supply outlook",
-    "tokens": [
-      "buy",
-      "melius",
-      "micron",
-      "outlook",
-      "rating",
-      "reiterates",
-      "stock",
-      "supply",
-      "tighter"
-    ],
-    "ts": 1790842649.7423565
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-micron-stock-rating-on-supply-outlook-93CH-4926464",
-    "title": "RBC Capital reiterates Micron stock rating on supply outlook",
-    "tokens": [
-      "capital",
-      "micron",
-      "outlook",
-      "rating",
-      "rbc",
-      "reiterates",
-      "stock",
-      "supply"
-    ],
-    "ts": 1790842657.5958943
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/microns-aidriven-outlook-nike-to-report--whats-moving-markets-4926463",
-    "title": "Micron’s AI-driven outlook; Nike to report - what’s moving markets",
-    "tokens": [
-      "driven",
-      "markets",
-      "micron",
-      "moving",
-      "nike",
-      "outlook",
-      "report",
-      "what"
-    ],
-    "ts": 1790842665.5336628
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/alphabet-shares-up-in-premarket-trade-after-gemini-4-argon-launch-4926548",
-    "title": "Alphabet shares up in premarket trade after Gemini 4 Argon launch",
-    "tokens": [
-      "alphabet",
-      "argon",
-      "gemini",
-      "launch",
-      "premarket",
-      "shares",
-      "trade"
-    ],
-    "ts": 1790843846.4207704
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/proxy-adviser-calls-for-australias-asx-shareholders-to-reject-pay-report-4926529",
-    "title": "Proxy adviser calls for Australia’s ASX shareholders to reject pay report",
-    "tokens": [
-      "adviser",
-      "asx",
-      "australia",
-      "calls",
-      "pay",
-      "proxy",
-      "reject",
-      "report",
-      "shareholders"
-    ],
-    "ts": 1790843854.20652
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/japan-pm-vows-to-underpin-yen-by-boosting-economic-competitiveness-4926511",
-    "title": "Japan PM vows to underpin yen by boosting economic competitiveness",
-    "tokens": [
-      "boosting",
-      "competitiveness",
-      "economic",
-      "japan",
-      "underpin",
-      "vows",
-      "yen"
-    ],
-    "ts": 1790843861.886555
-  },
-  {
     "id": "https://www.investing.com/news/company-news/persimmon-issues-37736-shares-for-employee-schemes-93CH-4926547",
     "title": "Persimmon issues 37,736 shares for employee schemes",
     "tokens": [
@@ -23090,5 +22478,664 @@
       "stronger"
     ],
     "ts": 1791390947.6759405
+  },
+  {
+    "id": "WP-MKTW-0005274662",
+    "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
+    "tokens": [
+      "all",
+      "areas",
+      "except",
+      "higher",
+      "market",
+      "matters",
+      "one",
+      "stock",
+      "taking",
+      "their",
+      "toll",
+      "yields"
+    ],
+    "ts": 1791408635.1750596
+  },
+  {
+    "id": "WP-MKTW-0005275009",
+    "title": "Options traders are betting on a dramatic drop in interest rates",
+    "tokens": [
+      "betting",
+      "dramatic",
+      "drop",
+      "interest",
+      "options",
+      "rates",
+      "traders"
+    ],
+    "ts": 1791408642.8523996
+  },
+  {
+    "id": "WP-MKTW-0005274331",
+    "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+    "tokens": [
+      "appetite",
+      "fed",
+      "hikes",
+      "interest",
+      "minutes",
+      "rate",
+      "series",
+      "show"
+    ],
+    "ts": 1791408651.7875495
+  },
+  {
+    "id": "WP-MKTW-0005274565",
+    "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
+    "tokens": [
+      "laptop",
+      "microsoft",
+      "nvidia",
+      "supercharged",
+      "teaming"
+    ],
+    "ts": 1791408659.4904354
+  },
+  {
+    "id": "WP-MKTW-0005274263",
+    "title": "Stocks are increasingly their own best hedge. This chart shows why.",
+    "tokens": [
+      "best",
+      "chart",
+      "hedge",
+      "increasingly",
+      "own",
+      "shows",
+      "stocks",
+      "their",
+      "why"
+    ],
+    "ts": 1791408668.226204
+  },
+  {
+    "id": "WP-MKTW-0005273597",
+    "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
+    "tokens": [
+      "buy",
+      "chase",
+      "chips",
+      "debt",
+      "lot",
+      "may",
+      "nvidia",
+      "returns",
+      "spacex",
+      "stunning",
+      "taking"
+    ],
+    "ts": 1791408676.4828641
+  },
+  {
+    "id": "WP-MKTW-0005274147",
+    "title": "Washington and Wall Street chose to delay paying their bills — and to put them on your tab",
+    "tokens": [
+      "bills",
+      "chose",
+      "delay",
+      "paying",
+      "put",
+      "street",
+      "tab",
+      "their",
+      "them",
+      "wall",
+      "washington",
+      "your"
+    ],
+    "ts": 1791408684.0926192
+  },
+  {
+    "id": "WP-MKTW-0005273014",
+    "title": "The ‘Magnificent Seven’ are now big enough to move the economy. Why that could be a problem.",
+    "tokens": [
+      "big",
+      "could",
+      "economy",
+      "enough",
+      "magnificent",
+      "move",
+      "now",
+      "problem",
+      "seven",
+      "why"
+    ],
+    "ts": 1791408691.8468347
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/democrats-sue-trump-to-halt-taxpayerfunded-tv-ads-that-praised-him-4937574",
+    "title": "Democrats sue Trump to halt taxpayer-funded TV ads that praised him",
+    "tokens": [
+      "ads",
+      "democrats",
+      "funded",
+      "halt",
+      "him",
+      "praised",
+      "sue",
+      "taxpayer",
+      "trump"
+    ],
+    "ts": 1791408699.8557665
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/missouri-sued-over-alleged-decades-of-underfunding-at-historically-black-university-4937565",
+    "title": "Missouri sued over alleged decades of underfunding at historically Black university",
+    "tokens": [
+      "alleged",
+      "black",
+      "decades",
+      "historically",
+      "missouri",
+      "sued",
+      "underfunding",
+      "university"
+    ],
+    "ts": 1791408708.9768817
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/lululemon-puts-nike-veteran-in-charge-of-product-as-ceo-oneill-looks-to-right-ship-4937579",
+    "title": "Lululemon puts Nike veteran in charge of product as CEO O’Neill looks to right ship",
+    "tokens": [
+      "ceo",
+      "charge",
+      "looks",
+      "lululemon",
+      "neill",
+      "nike",
+      "product",
+      "puts",
+      "right",
+      "ship",
+      "veteran"
+    ],
+    "ts": 1791408716.643976
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-antero-resources-stock-price-target-on-weaker-gas-outlook-93CH-4937578",
+    "title": "Mizuho cuts Antero Resources stock price target on weaker gas outlook",
+    "tokens": [
+      "antero",
+      "cuts",
+      "gas",
+      "mizuho",
+      "outlook",
+      "price",
+      "resources",
+      "stock",
+      "target",
+      "weaker"
+    ],
+    "ts": 1791408728.4610481
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/pan-american-silver-director-charles-jeannes-to-retire-93CH-4937577",
+    "title": "Pan American Silver director Charles Jeannes to retire",
+    "tokens": [
+      "american",
+      "charles",
+      "director",
+      "jeannes",
+      "pan",
+      "retire",
+      "silver"
+    ],
+    "ts": 1791408737.0685751
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-039-4937576",
+    "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.39%",
+    "tokens": [
+      "close",
+      "higher",
+      "index",
+      "moex",
+      "russia",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1791408744.2882247
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/medical-device-maker-centinel-spine-discloses-revenue-rise-in-us-ipo-filing-4937575",
+    "title": "Medical device maker Centinel Spine discloses revenue rise in US IPO filing",
+    "tokens": [
+      "centinel",
+      "device",
+      "discloses",
+      "filing",
+      "ipo",
+      "maker",
+      "medical",
+      "revenue",
+      "rise",
+      "spine"
+    ],
+    "ts": 1791408751.7445767
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/gold-holds-gains-as-oil-flows-recover-treasury-yields-ease-4935492",
+    "title": "Gold slips as dollar firms on Fed minutes, oil prices rise in volatile session",
+    "tokens": [
+      "dollar",
+      "fed",
+      "firms",
+      "gold",
+      "minutes",
+      "oil",
+      "prices",
+      "rise",
+      "session",
+      "slips",
+      "volatile"
+    ],
+    "ts": 1791408759.8700037
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/wolfspeed-secures-15-billion-conditional-loan-commitment-from-us-defense-department-4937569",
+    "title": "Wolfspeed secures $1.5 billion conditional loan commitment from US defense department",
+    "tokens": [
+      "billion",
+      "commitment",
+      "conditional",
+      "defense",
+      "department",
+      "loan",
+      "secures",
+      "wolfspeed"
+    ],
+    "ts": 1791408768.7864695
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exxon-to-repair-guyana-offshore-pipeline-starting-oct-14-93CH-4937568",
+    "title": "Exxon to repair Guyana offshore pipeline starting Oct. 14",
+    "tokens": [
+      "exxon",
+      "guyana",
+      "oct",
+      "offshore",
+      "pipeline",
+      "repair",
+      "starting"
+    ],
+    "ts": 1791408776.6861558
+  },
+  {
+    "id": "https://seekingalpha.com/news/4651102-kurv-gold-enhanced-income-etf-declares-0_35-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Kurv Gold Enhanced Income ETF declares $0.35 dividend",
+    "tokens": [
+      "declares",
+      "dividend",
+      "enhanced",
+      "etf",
+      "gold",
+      "income",
+      "kurv"
+    ],
+    "ts": 1791408785.3168654
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/texas-hemp-business-council-issues-voter-guide-on-hemp-policy-1036606183",
+    "title": "Texas Hemp Business Council Issues Voter Guide on Hemp Policy",
+    "tokens": [
+      "business",
+      "council",
+      "guide",
+      "hemp",
+      "issues",
+      "policy",
+      "texas",
+      "voter"
+    ],
+    "ts": 1791408793.1552007
+  },
+  {
+    "id": "https://seekingalpha.com/news/4651101-kurv-equity-option-income-etf-declares-0_083-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Kurv Equity Option Income ETF declares $0.083 dividend",
+    "tokens": [
+      "083",
+      "declares",
+      "dividend",
+      "equity",
+      "etf",
+      "income",
+      "kurv",
+      "option"
+    ],
+    "ts": 1791408801.0741713
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/building-what-comes-next-cory-kennedy-s-vision-for-talentbridge-one-1036606177",
+    "title": "Building What Comes Next: Cory Kennedy’s Vision for TalentBridge One",
+    "tokens": [
+      "building",
+      "comes",
+      "cory",
+      "kennedy",
+      "next",
+      "one",
+      "talentbridge",
+      "vision",
+      "what"
+    ],
+    "ts": 1791408808.5220191
+  },
+  {
+    "id": "https://seekingalpha.com/news/4651095-analysts-praise-shells-q3-outlook-for-record-refining-margins-higher-gas-production?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Analysts praise Shell's Q3 outlook for record refining margins, higher gas production",
+    "tokens": [
+      "analysts",
+      "gas",
+      "higher",
+      "margins",
+      "outlook",
+      "praise",
+      "production",
+      "record",
+      "refining",
+      "shell"
+    ],
+    "ts": 1791408817.345118
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/kpmg-in-ireland-publishes-expert-analysis-of-budget-2027-1036606176",
+    "title": "KPMG in Ireland publishes expert analysis of Budget 2027",
+    "tokens": [
+      "2027",
+      "analysis",
+      "budget",
+      "expert",
+      "ireland",
+      "kpmg",
+      "publishes"
+    ],
+    "ts": 1791408825.8582606
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/crypto-news-remittix-opens-payfi-to-1-000-holders-as-bitcoin-price-prediction-targets-150-000-and-cardano-s-realfi-launch-sends-ada-higher-1036606073",
+    "title": "Crypto News: Remittix Opens PayFi to 1,000 Holders as Bitcoin Price Prediction Targets $150,000 and Cardano’s RealFi Launch Sends ADA Higher",
+    "tokens": [
+      "000",
+      "150",
+      "ada",
+      "bitcoin",
+      "cardano",
+      "crypto",
+      "higher",
+      "holders",
+      "launch",
+      "news",
+      "opens",
+      "payfi",
+      "prediction",
+      "price",
+      "realfi",
+      "remittix",
+      "sends",
+      "targets"
+    ],
+    "ts": 1791408834.345817
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/bridger-photonics-launches-bridger-benchmarking-the-first-emissions-peer-comparison-product-built-on-source-level-measurement-1036606072",
+    "title": "Bridger Photonics Launches Bridger Benchmarking, the First Emissions Peer Comparison Product Built on Source-Level Measurement",
+    "tokens": [
+      "benchmarking",
+      "bridger",
+      "built",
+      "comparison",
+      "emissions",
+      "first",
+      "launches",
+      "level",
+      "measurement",
+      "peer",
+      "photonics",
+      "product",
+      "source"
+    ],
+    "ts": 1791408842.3390377
+  },
+  {
+    "id": "https://seekingalpha.com/news/4651093-ten-small-and-mid-cap-energy-stocks-to-watch-as-bofa-backs-value?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Ten small-and mid-cap energy stocks to watch as BofA backs value",
+    "tokens": [
+      "backs",
+      "bofa",
+      "cap",
+      "energy",
+      "mid",
+      "small",
+      "stocks",
+      "ten",
+      "value",
+      "watch"
+    ],
+    "ts": 1791408849.7376075
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/an-ai-that-won-t-tell-you-how-to-vote----vote-smart-s-upgraded-ai-docent-civic-sage-2-0-arrives-with-a-new-key-votes-index-and-redesigned-website-built-on-feedback-from-1-508-members-and-users-1036605988",
+    "title": "An AI That Won't Tell You How to Vote -- Vote Smart's upgraded AI docent, Civic Sage 2.0, arrives with a new Key Votes Index and redesigned website, built on feedback from 1,508 members and users",
+    "tokens": [
+      "508",
+      "arrives",
+      "built",
+      "civic",
+      "docent",
+      "feedback",
+      "how",
+      "index",
+      "key",
+      "members",
+      "redesigned",
+      "sage",
+      "smart",
+      "tell",
+      "upgraded",
+      "users",
+      "vote",
+      "votes",
+      "website",
+      "won",
+      "you"
+    ],
+    "ts": 1791408857.9742403
+  },
+  {
+    "id": "oilprice-article-45705",
+    "title": "Iran War Pushes 25 Countries Into New Electrification Policies",
+    "tokens": [
+      "countries",
+      "electrification",
+      "iran",
+      "policies",
+      "pushes",
+      "war"
+    ],
+    "ts": 1791408867.168837
+  },
+  {
+    "id": "oilprice-article-45710",
+    "title": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
+    "tokens": [
+      "crunch",
+      "diesel",
+      "energy",
+      "fuels",
+      "global",
+      "nationalism",
+      "wave"
+    ],
+    "ts": 1791408875.3678012
+  },
+  {
+    "id": "oilprice-article-45709",
+    "title": "Google Secures 890 MW Of Nuclear Power from Constellation Energy",
+    "tokens": [
+      "890",
+      "constellation",
+      "energy",
+      "google",
+      "nuclear",
+      "power",
+      "secures"
+    ],
+    "ts": 1791408883.9528675
+  },
+  {
+    "id": "oilprice-article-45708",
+    "title": "U.S. Gulf Energy Hub Braces for Category 2 Hurricane",
+    "tokens": [
+      "braces",
+      "category",
+      "energy",
+      "gulf",
+      "hub",
+      "hurricane"
+    ],
+    "ts": 1791408893.0039349
+  },
+  {
+    "id": "oilprice-news-45710",
+    "title": "Apollo Joins $11.5 Billion Race for German Gas Giant Uniper",
+    "tokens": [
+      "apollo",
+      "billion",
+      "gas",
+      "german",
+      "giant",
+      "joins",
+      "race",
+      "uniper"
+    ],
+    "ts": 1791408901.6626017
+  },
+  {
+    "id": "oilprice-article-45704",
+    "title": "Data Centers Are Now Bankrolling Finland's New Power Supply",
+    "tokens": [
+      "bankrolling",
+      "centers",
+      "data",
+      "finland",
+      "now",
+      "power",
+      "supply"
+    ],
+    "ts": 1791408910.193499
+  },
+  {
+    "id": "oilprice-news-45709",
+    "title": "SpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline",
+    "tokens": [
+      "approval",
+      "florida",
+      "gas",
+      "mile",
+      "natural",
+      "pipeline",
+      "seeks",
+      "spacex"
+    ],
+    "ts": 1791408914.2077453
+  },
+  {
+    "id": "oilprice-news-45708",
+    "title": "Iraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue",
+    "tokens": [
+      "devalues",
+      "dinar",
+      "disruption",
+      "drains",
+      "hormuz",
+      "iraq",
+      "oil",
+      "revenue"
+    ],
+    "ts": 1791408914.2229736
+  },
+  {
+    "id": "cdc6c035-b1d1-4990-b252-92453c30b540",
+    "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+    "tokens": [
+      "crypto",
+      "fargo",
+      "kraken",
+      "liquidity",
+      "parent",
+      "payward",
+      "talks",
+      "trading",
+      "wells"
+    ],
+    "ts": 1791408918.3597221
+  },
+  {
+    "id": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem",
+    "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+    "tokens": [
+      "brings",
+      "circle",
+      "customers",
+      "eurc",
+      "payments",
+      "sap",
+      "tereina",
+      "through",
+      "usdc"
+    ],
+    "ts": 1791408926.0615554
+  },
+  {
+    "id": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull",
+    "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
+    "tokens": [
+      "biden",
+      "confirms",
+      "hunter",
+      "just",
+      "laptop",
+      "pull",
+      "rug",
+      "token",
+      "trolling",
+      "trumps"
+    ],
+    "ts": 1791408933.526092
+  },
+  {
+    "id": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test",
+    "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
+    "tokens": [
+      "agent",
+      "hit",
+      "live",
+      "sui",
+      "test",
+      "tps",
+      "tunnels"
+    ],
+    "ts": 1791408941.416858
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+    "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+    "tokens": [
+      "2026",
+      "committee",
+      "federal",
+      "market",
+      "minutes",
+      "open",
+      "september"
+    ],
+    "ts": 1791408950.109213
   }
 ]

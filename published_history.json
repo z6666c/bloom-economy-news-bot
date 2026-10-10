@@ -1,264 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/airtel-money-plans-one-of-londons-largest-ipos-in-years-sept-23-4928034",
-    "title": "Airtel Money plans one of London’s largest IPOs in years (Sept 23)",
-    "tokens": [
-      "airtel",
-      "ipos",
-      "largest",
-      "london",
-      "money",
-      "one",
-      "plans",
-      "sept",
-      "years"
-    ],
-    "ts": 1790877548.2111585
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/telos-wins-commerce-contract-for-cyber-compliance-platform-93CH-4928033",
-    "title": "Telos wins Commerce contract for cyber compliance platform",
-    "tokens": [
-      "commerce",
-      "compliance",
-      "contract",
-      "cyber",
-      "platform",
-      "telos",
-      "wins"
-    ],
-    "ts": 1790877555.2602942
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-raises-regeneron-stock-price-target-to-930-on-partnership-93CH-4928031",
-    "title": "Jefferies raises Regeneron stock price target to $930 on partnership",
-    "tokens": [
-      "930",
-      "jefferies",
-      "partnership",
-      "price",
-      "raises",
-      "regeneron",
-      "stock",
-      "target"
-    ],
-    "ts": 1790877563.1730402
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-cuts-foghorn-therapeutics-stock-price-target-on-pipeline-shift-93CH-4928030",
-    "title": "Stifel cuts Foghorn Therapeutics stock price target on pipeline shift",
-    "tokens": [
-      "cuts",
-      "foghorn",
-      "pipeline",
-      "price",
-      "shift",
-      "stifel",
-      "stock",
-      "target",
-      "therapeutics"
-    ],
-    "ts": 1790877571.6540818
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-raises-accenture-stock-price-target-to-250-on-ai-growth-93CH-4928029",
-    "title": "Evercore ISI raises Accenture stock price target to $250 on AI growth",
-    "tokens": [
-      "250",
-      "accenture",
-      "evercore",
-      "growth",
-      "isi",
-      "price",
-      "raises",
-      "stock",
-      "target"
-    ],
-    "ts": 1790877579.6247513
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/keysight-technologies-stock-hits-alltime-high-at-37506-usd-93CH-4928027",
-    "title": "Keysight Technologies stock hits all-time high at 375.06 USD",
-    "tokens": [
-      "375",
-      "all",
-      "high",
-      "hits",
-      "keysight",
-      "stock",
-      "technologies",
-      "time",
-      "usd"
-    ],
-    "ts": 1790877583.6405616
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusivebae-weighs-bid-for-robin-radar-in-possible-23-billion-deal-sources-say-4928026",
-    "title": "Exclusive-BAE weighs bid for Robin Radar in possible $2.3 billion deal, sources say",
-    "tokens": [
-      "bae",
-      "bid",
-      "billion",
-      "deal",
-      "exclusive",
-      "possible",
-      "radar",
-      "robin",
-      "say",
-      "sources",
-      "weighs"
-    ],
-    "ts": 1790877587.134133
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-    "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-    "tokens": [
-      "act",
-      "board",
-      "comment",
-      "establishing",
-      "federal",
-      "framework",
-      "genius",
-      "issuers",
-      "payment",
-      "proposals",
-      "public",
-      "regulatory",
-      "related",
-      "requests",
-      "reserve",
-      "stablecoin",
-      "supervised",
-      "two",
-      "under"
-    ],
-    "ts": 1790877595.7396324
-  },
-  {
-    "id": "WP-MKTW-0005265145",
-    "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
-    "tokens": [
-      "alarm",
-      "avoid",
-      "bond",
-      "buy",
-      "market",
-      "silent",
-      "stocks",
-      "tells",
-      "which",
-      "you"
-    ],
-    "ts": 1790879010.320373
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-canadian-natural-resources-stock-climbing-today-93CH-4928063",
-    "title": "Why is Canadian Natural Resources stock climbing today?",
-    "tokens": [
-      "canadian",
-      "climbing",
-      "natural",
-      "resources",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790879018.0723379
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-aecon-stock-surging-today-93CH-4928062",
-    "title": "Why is Aecon stock surging today?",
-    "tokens": [
-      "aecon",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790879022.0881846
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/duke-energy-declares-quarterly-dividend-of-1085-per-share-93CH-4928061",
-    "title": "Duke Energy declares quarterly dividend of $1.085 per share",
-    "tokens": [
-      "085",
-      "declares",
-      "dividend",
-      "duke",
-      "energy",
-      "per",
-      "quarterly",
-      "share"
-    ],
-    "ts": 1790879027.2339199
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/treasury-yields-reach-multidecade-highs-on-economic-data-93CH-4928060",
-    "title": "Treasury yields reach multi-decade highs on economic data",
-    "tokens": [
-      "data",
-      "decade",
-      "economic",
-      "highs",
-      "multi",
-      "reach",
-      "treasury",
-      "yields"
-    ],
-    "ts": 1790879035.3846843
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/factboxus-states-take-steps-to-curb-diesel-and-gasoline-prices-4928059",
-    "title": "Factbox-US states take steps to curb diesel and gasoline prices",
-    "tokens": [
-      "curb",
-      "diesel",
-      "factbox",
-      "gasoline",
-      "prices",
-      "states",
-      "steps",
-      "take"
-    ],
-    "ts": 1790879043.4525473
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nonfarm-payrolls-unemployment-rate-and-hourly-earnings-due-friday-93CH-4928058",
-    "title": "Nonfarm payrolls, unemployment rate and hourly earnings due Friday",
-    "tokens": [
-      "due",
-      "earnings",
-      "friday",
-      "hourly",
-      "nonfarm",
-      "payrolls",
-      "rate",
-      "unemployment"
-    ],
-    "ts": 1790879051.3434737
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/analysisdavid-ellisons-appointment-ofkreiz-bringscostcutter-to-paramountwarner-bros-discovery-4928056",
-    "title": "Analysis-David Ellison’s appointment of Kreiz brings cost-cutter to Paramount-Warner Bros Discovery",
-    "tokens": [
-      "analysis",
-      "appointment",
-      "brings",
-      "bros",
-      "cost",
-      "cutter",
-      "david",
-      "discovery",
-      "ellison",
-      "kreiz",
-      "paramount",
-      "warner"
-    ],
-    "ts": 1790879059.2673585
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/trump-medicare-drug-pricing-model-may-apply-to-only-four-companies-after-exemptions-4928054",
     "title": "Trump Medicare drug pricing model may apply to only four companies after exemptions",
     "tokens": [
@@ -23298,5 +23039,251 @@
       "wirth"
     ],
     "ts": 1791600479.8207443
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-4942052",
+    "title": "Thailand prepares to host IMF-World Bank meetings",
+    "tokens": [
+      "bank",
+      "host",
+      "imf",
+      "meetings",
+      "prepares",
+      "thailand",
+      "world"
+    ],
+    "ts": 1791624454.265814
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/venezuela-authorises-elon-musks-starlink-to-operate-nationwide-4942048",
+    "title": "Venezuela authorises Elon Musk’s Starlink to operate nationwide",
+    "tokens": [
+      "authorises",
+      "elon",
+      "musk",
+      "nationwide",
+      "operate",
+      "starlink",
+      "venezuela"
+    ],
+    "ts": 1791624461.6869903
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/anaptysbio-earnings-beat-by-558-revenue-topped-estimates-4942047",
+    "title": "AnaptysBio earnings beat by $5.58, revenue topped estimates",
+    "tokens": [
+      "anaptysbio",
+      "beat",
+      "earnings",
+      "estimates",
+      "revenue",
+      "topped"
+    ],
+    "ts": 1791624465.700856
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-google-reaffirmed-as-top-pick-after-gemini-agent-launch-4941746",
+    "title": "5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch",
+    "tokens": [
+      "agent",
+      "analyst",
+      "big",
+      "gemini",
+      "google",
+      "launch",
+      "moves",
+      "pick",
+      "reaffirmed",
+      "top"
+    ],
+    "ts": 1791624469.3601038
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/why-are-eu-gas-prices-not-higher-already-4942043",
+    "title": "Why are EU gas prices not higher already?",
+    "tokens": [
+      "already",
+      "gas",
+      "higher",
+      "prices",
+      "why"
+    ],
+    "ts": 1791624477.4787154
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/nuveen-portfolio-manager-michael-hamilton-buys-26106-in-stock-93CH-4942041",
+    "title": "Nuveen portfolio manager Michael Hamilton buys $26,106 in stock",
+    "tokens": [
+      "106",
+      "buys",
+      "hamilton",
+      "manager",
+      "michael",
+      "nuveen",
+      "portfolio",
+      "stock"
+    ],
+    "ts": 1791624484.3384936
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/china-creates-1052-million-jobs-plans-new-ai-and-services-employment-measures-4942031",
+    "title": "China creates 10.52 million jobs, plans new AI and services employment measures",
+    "tokens": [
+      "china",
+      "creates",
+      "employment",
+      "jobs",
+      "measures",
+      "million",
+      "plans",
+      "services"
+    ],
+    "ts": 1791624491.078198
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+    "title": "Bitcoin hovers at Fibonacci support near $82,700: Live levels",
+    "tokens": [
+      "700",
+      "bitcoin",
+      "fibonacci",
+      "hovers",
+      "levels",
+      "live",
+      "near",
+      "support"
+    ],
+    "ts": 1791624497.9889758
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
+    "title": "European bank stocks slide as bond yields spark investor caution",
+    "tokens": [
+      "bank",
+      "bond",
+      "caution",
+      "european",
+      "investor",
+      "slide",
+      "spark",
+      "stocks",
+      "yields"
+    ],
+    "ts": 1791624506.5402966
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/duolingo-president--ceo-luis-von-ahn-sells-167-million-in-stock-93CH-4942016",
+    "title": "Duolingo president & CEO Luis von Ahn sells $16.7 million in stock",
+    "tokens": [
+      "ahn",
+      "ceo",
+      "duolingo",
+      "luis",
+      "million",
+      "president",
+      "sells",
+      "stock",
+      "von"
+    ],
+    "ts": 1791624514.3639574
+  },
+  {
+    "id": "eb73c451-b452-42ab-af11-68d1678322f7",
+    "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+    "tokens": [
+      "2018",
+      "bitcoin",
+      "extreme",
+      "frequent",
+      "more",
+      "plunged",
+      "price",
+      "swings",
+      "volatility"
+    ],
+    "ts": 1791624523.707104
+  },
+  {
+    "id": "d490ec0d-e8cb-4e21-9872-10e7615bfb3b",
+    "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+    "tokens": [
+      "chain",
+      "fall",
+      "fees",
+      "more",
+      "robinhood",
+      "slowdown",
+      "spreads",
+      "trading",
+      "transactions"
+    ],
+    "ts": 1791624530.5591578
+  },
+  {
+    "id": "5b66c6bb-e6a9-4b0f-b645-4d6e5b3171ee",
+    "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+    "tokens": [
+      "billions",
+      "bug",
+      "could",
+      "create",
+      "decade",
+      "dollars",
+      "ledger",
+      "nothing",
+      "old",
+      "patched",
+      "xrp"
+    ],
+    "ts": 1791624537.4534671
+  },
+  {
+    "id": "3ad98db0-4f90-46a3-ad33-d7d38f95f379",
+    "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+    "tokens": [
+      "2031",
+      "apac",
+      "consumers",
+      "half",
+      "nearly",
+      "open",
+      "stablecoins",
+      "survey",
+      "using",
+      "visa"
+    ],
+    "ts": 1791624544.7216618
+  },
+  {
+    "id": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report",
+    "title": "Tech chief says EU can fend off rogue AI risk: Report",
+    "tokens": [
+      "can",
+      "chief",
+      "fend",
+      "off",
+      "report",
+      "risk",
+      "rogue",
+      "tech"
+    ],
+    "ts": 1791624551.9263113
+  },
+  {
+    "id": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+    "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+    "tokens": [
+      "altman",
+      "backed",
+      "bitcoin",
+      "funds",
+      "insurer",
+      "life",
+      "meanwhile",
+      "more",
+      "raises",
+      "sam"
+    ],
+    "ts": 1791624558.7113702
   }
 ]

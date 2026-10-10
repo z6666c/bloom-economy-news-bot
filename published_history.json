@@ -1,282 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/calmaine-foods-earnings-analysis-questions-answered-and-next-catalysts-93CH-4928126",
-    "title": "Cal-Maine Foods earnings analysis: questions answered and next catalysts",
-    "tokens": [
-      "analysis",
-      "answered",
-      "cal",
-      "catalysts",
-      "earnings",
-      "foods",
-      "maine",
-      "next",
-      "questions"
-    ],
-    "ts": 1790881941.6604736
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-faa-set-to-convene-review-of-boeing-737-max-software-issue-on-friday-4928125",
-    "title": "US FAA set to convene review of Boeing 737 max software issue on Friday",
-    "tokens": [
-      "737",
-      "boeing",
-      "convene",
-      "faa",
-      "friday",
-      "issue",
-      "max",
-      "review",
-      "set",
-      "software"
-    ],
-    "ts": 1790881966.7862494
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/micron-earnings-analysis-questions-answered-and-next-catalysts-93CH-4928124",
-    "title": "Micron earnings analysis: questions answered and next catalysts",
-    "tokens": [
-      "analysis",
-      "answered",
-      "catalysts",
-      "earnings",
-      "micron",
-      "next",
-      "questions"
-    ],
-    "ts": 1790881970.8010533
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/chemung-canal-trust-company-completes-conversion-to-national-bank-93CH-4928123",
-    "title": "Chemung Canal Trust Company completes conversion to national bank",
-    "tokens": [
-      "bank",
-      "canal",
-      "chemung",
-      "company",
-      "completes",
-      "conversion",
-      "national",
-      "trust"
-    ],
-    "ts": 1790881974.189509
-  },
-  {
-    "id": "oilprice-article-45658",
-    "title": "Middle East Oil Exports Stage a Remarkable Comeback",
-    "tokens": [
-      "comeback",
-      "east",
-      "exports",
-      "middle",
-      "oil",
-      "remarkable",
-      "stage"
-    ],
-    "ts": 1790881982.630605
-  },
-  {
-    "id": "oilprice-news-45658",
-    "title": "BLM Opens 35,000 California Acres to December Oil and Gas Lease Sale",
-    "tokens": [
-      "000",
-      "acres",
-      "blm",
-      "california",
-      "december",
-      "gas",
-      "lease",
-      "oil",
-      "opens",
-      "sale"
-    ],
-    "ts": 1790881986.6492221
-  },
-  {
-    "id": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
-    "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
-    "tokens": [
-      "000",
-      "call",
-      "ease",
-      "europeans",
-      "mica",
-      "restrictions",
-      "review",
-      "rewards",
-      "stablecoin"
-    ],
-    "ts": 1790881992.9113555
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-mattel-stock-surging-today-93CH-4928160",
-    "title": "Why is Mattel stock surging today?",
-    "tokens": [
-      "mattel",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790883046.627937
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/alphabet-c-tests-33690-support-below-ichimoku-cloud-live-levels-93CH-4920694",
-    "title": "Alphabet C trapped between $325 support and $340 resistance: Live",
-    "tokens": [
-      "325",
-      "340",
-      "alphabet",
-      "between",
-      "live",
-      "resistance",
-      "support",
-      "trapped"
-    ],
-    "ts": 1790883050.3110836
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nasdaq-100-rangebound-between-30548-and-30787-live-levels-93CH-4920692",
-    "title": "Nasdaq 100 double top at 30,805 pressures bulls: Live levels",
-    "tokens": [
-      "100",
-      "805",
-      "bulls",
-      "double",
-      "levels",
-      "live",
-      "nasdaq",
-      "pressures",
-      "top"
-    ],
-    "ts": 1790883058.137893
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tesla-teeters-above-support-at-361-live-levels-93CH-4920695",
-    "title": "Tesla holds $355 below bearish resistance: Live levels",
-    "tokens": [
-      "355",
-      "bearish",
-      "below",
-      "holds",
-      "levels",
-      "live",
-      "resistance",
-      "tesla"
-    ],
-    "ts": 1790883066.0839663
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1400-support-in-distribution-range-live-93CH-4921028",
-    "title": "London Gas Oil trapped in $1,380-$1,491 range: Live levels",
-    "tokens": [
-      "380",
-      "491",
-      "gas",
-      "levels",
-      "live",
-      "london",
-      "oil",
-      "range",
-      "trapped"
-    ],
-    "ts": 1790883073.294864
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dow-jones-trapped-at-51913-between-double-bottom-and-downtrend-live-93CH-4920690",
-    "title": "Dow Jones near support at 51,226 with oversold bounce: Live levels",
-    "tokens": [
-      "226",
-      "bounce",
-      "dow",
-      "jones",
-      "levels",
-      "live",
-      "near",
-      "oversold",
-      "support"
-    ],
-    "ts": 1790883080.4765866
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/copper-tests-200period-sma-at-663-live-levels-93CH-4919468",
-    "title": "Copper bounces to $6.578 but bears stay in control: Live levels",
-    "tokens": [
-      "578",
-      "bears",
-      "bounces",
-      "control",
-      "copper",
-      "levels",
-      "live",
-      "stay"
-    ],
-    "ts": 1790883087.5687664
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bank-of-americas-merrill-lynch-to-pay-39m-in-cash-sweep-case-93CH-4928180",
-    "title": "Bank of America’s Merrill Lynch to pay $39m in cash sweep case",
-    "tokens": [
-      "39m",
-      "america",
-      "bank",
-      "case",
-      "cash",
-      "lynch",
-      "merrill",
-      "pay",
-      "sweep"
-    ],
-    "ts": 1790884437.7735696
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/launch-two-acquisition-converts-class-b-shares-and-plans-nonredemption-agreements-93CH-4928179",
-    "title": "Launch Two Acquisition converts Class B shares and plans non-redemption agreements",
-    "tokens": [
-      "acquisition",
-      "agreements",
-      "class",
-      "converts",
-      "launch",
-      "non",
-      "plans",
-      "redemption",
-      "shares",
-      "two"
-    ],
-    "ts": 1790884445.5214453
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sec-charges-private-fund-adviser-for-allegedly-defrauding-retail-investors-4925833",
-    "title": "SEC charges private fund adviser for allegedly defrauding retail investors",
-    "tokens": [
-      "adviser",
-      "allegedly",
-      "charges",
-      "defrauding",
-      "fund",
-      "investors",
-      "private",
-      "retail",
-      "sec"
-    ],
-    "ts": 1790884456.288076
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/cardinal-health-rises-on-extended-cvs-distribution-deal-4928178",
-    "title": "Cardinal Health rises on extended CVS distribution deal",
-    "tokens": [
-      "cardinal",
-      "cvs",
-      "deal",
-      "distribution",
-      "extended",
-      "health",
-      "rises"
-    ],
-    "ts": 1790884463.713875
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/bassett-furniture-stock-rating-upgraded-to-buy-at-freedom-broker-93CH-4928177",
     "title": "Bassett Furniture stock rating upgraded to Buy at Freedom Broker",
     "tokens": [
@@ -23318,5 +23041,341 @@
       "tron"
     ],
     "ts": 1791646492.0420234
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/skyai-10-owner-bastion-trading-buys-78262-in-skya-stock-93CH-4942210",
+    "title": "SkyAI 10% owner Bastion Trading buys $78,262 in SKYA stock",
+    "tokens": [
+      "262",
+      "bastion",
+      "buys",
+      "owner",
+      "skya",
+      "skyai",
+      "stock",
+      "trading"
+    ],
+    "ts": 1791660771.266236
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/appian-ceo-matthew-calkins-sells-169m-in-company-stock-93CH-4942204",
+    "title": "Appian CEO Matthew Calkins sells $1.69m in company stock",
+    "tokens": [
+      "69m",
+      "appian",
+      "calkins",
+      "ceo",
+      "company",
+      "matthew",
+      "sells",
+      "stock"
+    ],
+    "ts": 1791660779.0087547
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension-4942191",
+    "title": "India’s Infosys does not expect material impact from US PERM suspension",
+    "tokens": [
+      "does",
+      "expect",
+      "impact",
+      "india",
+      "infosys",
+      "material",
+      "perm",
+      "suspension"
+    ],
+    "ts": 1791660786.9881506
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/everpure-director-mallun-yen-sells-175m-in-shares-93CH-4942179",
+    "title": "Everpure director Mallun Yen sells $1.75m in shares",
+    "tokens": [
+      "75m",
+      "director",
+      "everpure",
+      "mallun",
+      "sells",
+      "shares",
+      "yen"
+    ],
+    "ts": 1791660794.5939825
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/rapport-therapeutics-ceo-abraham-ceesay-sells-143272-in-stock-93CH-4942178",
+    "title": "Rapport Therapeutics CEO Abraham Ceesay sells $143,272 in stock",
+    "tokens": [
+      "143",
+      "272",
+      "abraham",
+      "ceesay",
+      "ceo",
+      "rapport",
+      "sells",
+      "stock",
+      "therapeutics"
+    ],
+    "ts": 1791660803.032696
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pacific-biosciences-cfo-reports-205m-stock-sale-93CH-4942177",
+    "title": "Pacific Biosciences CFO reports $2.05m stock sale",
+    "tokens": [
+      "05m",
+      "biosciences",
+      "cfo",
+      "pacific",
+      "reports",
+      "sale",
+      "stock"
+    ],
+    "ts": 1791660810.6983137
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/analog-devices-director-ray-stata-sells-117-million-in-shares-93CH-4942163",
+    "title": "Analog devices director Ray Stata sells $1.17 million in shares",
+    "tokens": [
+      "analog",
+      "devices",
+      "director",
+      "million",
+      "ray",
+      "sells",
+      "shares",
+      "stata"
+    ],
+    "ts": 1791660818.296166
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/aard-deadline-tuesday-rosen-a-longstanding-law-firm-encourages-aardvark-therapeutics-inc.-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-october-13-deadline-in-securities-class-action-aard-1036614403",
+    "title": "AARD DEADLINE TUESDAY: ROSEN, A LONGSTANDING LAW FIRM, Encourages Aardvark Therapeutics, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important October 13 Deadline in...",
+    "tokens": [
+      "100k",
+      "aard",
+      "aardvark",
+      "before",
+      "counsel",
+      "deadline",
+      "encourages",
+      "excess",
+      "firm",
+      "important",
+      "inc",
+      "investors",
+      "law",
+      "longstanding",
+      "losses",
+      "october",
+      "rosen",
+      "secure",
+      "therapeutics",
+      "tuesday"
+    ],
+    "ts": 1791660827.0165226
+  },
+  {
+    "id": "https://seekingalpha.com/news/4651848-real-estate-stocks-outperform-broader-markets?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Real estate stocks outperform broader markets",
+    "tokens": [
+      "broader",
+      "estate",
+      "markets",
+      "outperform",
+      "real",
+      "stocks"
+    ],
+    "ts": 1791660834.9854436
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-leading-law-firm-encourages-compass-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-comp-1036614401",
+    "title": "ROSEN, A LEADING LAW FIRM, Encourages Compass, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - COMP",
+    "tokens": [
+      "action",
+      "before",
+      "class",
+      "comp",
+      "compass",
+      "counsel",
+      "deadline",
+      "encourages",
+      "firm",
+      "important",
+      "inc",
+      "investors",
+      "law",
+      "leading",
+      "rosen",
+      "secure",
+      "securities"
+    ],
+    "ts": 1791660839.001038
+  },
+  {
+    "id": "https://www.businessinsider.com/review-mcdonalds-snack-wrap-us-and-uk-2026-10",
+    "title": "We tried McDonald's Snack Wraps in the US and UK. We can see why the British are up in arms about the 'downgraded' item.",
+    "tokens": [
+      "about",
+      "arms",
+      "british",
+      "can",
+      "downgraded",
+      "item",
+      "mcdonald",
+      "see",
+      "snack",
+      "tried",
+      "why",
+      "wraps"
+    ],
+    "ts": 1791660843.0028315
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/high-impact-awards-announces-2026-winners-in-four-categories-in-partnership-with-usa-today-1036614385",
+    "title": "High Impact Awards Announces 2026 Winners in Four Categories in Partnership With USA TODAY",
+    "tokens": [
+      "2026",
+      "announces",
+      "awards",
+      "categories",
+      "four",
+      "high",
+      "impact",
+      "partnership",
+      "today",
+      "usa",
+      "winners"
+    ],
+    "ts": 1791660850.4279566
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/hub-group-investor-news-rosen-law-firm-announces-investigation-of-breaches-of-fiduciary-duties-by-the-directors-and-officers-of-hub-group-inc.-hubg-1036614388",
+    "title": "Hub Group Investor News: Rosen Law Firm Announces Investigation of Breaches of Fiduciary Duties by the Directors and Officers of Hub Group, Inc. - HUBG",
+    "tokens": [
+      "announces",
+      "breaches",
+      "directors",
+      "duties",
+      "fiduciary",
+      "firm",
+      "group",
+      "hub",
+      "hubg",
+      "inc",
+      "investigation",
+      "investor",
+      "law",
+      "news",
+      "officers",
+      "rosen"
+    ],
+    "ts": 1791660857.7857354
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/tbla-class-action-notice-faruqi-faruqi-llp-reminds-taboola.com-tbla-investors-of-securities-class-action-lawsuit-deadline-on-october-20-2026-1036505141",
+    "title": "TBLA CLASS ACTION NOTICE: Faruqi & Faruqi, LLP Reminds Taboola.com (TBLA) Investors of Securities Class Action Lawsuit Deadline on October 20, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "class",
+      "com",
+      "deadline",
+      "faruqi",
+      "investors",
+      "lawsuit",
+      "llp",
+      "notice",
+      "october",
+      "reminds",
+      "securities",
+      "taboola",
+      "tbla"
+    ],
+    "ts": 1791660865.7272673
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/linc-class-action-notice-faruqi-faruqi-llp-reminds-lincoln-educational-services-investors-of-securities-class-action-lawsuit-deadline-on-november-10-2026-1036614389",
+    "title": "LINC CLASS ACTION NOTICE: Faruqi & Faruqi, LLP Reminds Lincoln Educational Services Investors of Securities Class Action Lawsuit Deadline on November 10, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "class",
+      "deadline",
+      "educational",
+      "faruqi",
+      "investors",
+      "lawsuit",
+      "linc",
+      "lincoln",
+      "llp",
+      "notice",
+      "november",
+      "reminds",
+      "securities",
+      "services"
+    ],
+    "ts": 1791660874.1983194
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/new-to-the-street-show-775-premieres-tonight-on-bloomberg-television-across-the-united-states-latin-america-mena-and-southeast-asia-featuring-american-fusion-hpb-t-rex-acquisition-corp-and-syncmeon-1036614387",
+    "title": "New to The Street Show 775 Premieres Tonight on Bloomberg Television Across the United States, Latin America, MENA and Southeast Asia, Featuring American Fusion, HPB, T-REX Acquisition Corp.",
+    "tokens": [
+      "775",
+      "acquisition",
+      "across",
+      "america",
+      "american",
+      "asia",
+      "bloomberg",
+      "corp",
+      "featuring",
+      "fusion",
+      "hpb",
+      "latin",
+      "mena",
+      "premieres",
+      "rex",
+      "show",
+      "southeast",
+      "states",
+      "street",
+      "television",
+      "tonight",
+      "united"
+    ],
+    "ts": 1791660881.9939075
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/level-home-foundation-repair-launches-level-structural-a-commercial-and-civil-structural-repair-division-in-tulsa-oklahoma-1036614384",
+    "title": "Level Home Foundation Repair Launches Level Structural, a Commercial and Civil Structural Repair Division in Tulsa, Oklahoma",
+    "tokens": [
+      "civil",
+      "commercial",
+      "division",
+      "foundation",
+      "home",
+      "launches",
+      "level",
+      "oklahoma",
+      "repair",
+      "structural",
+      "tulsa"
+    ],
+    "ts": 1791660889.9744027
+  },
+  {
+    "id": "oilprice-article-45730",
+    "title": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
+    "tokens": [
+      "asia",
+      "could",
+      "grid",
+      "more",
+      "needs",
+      "power",
+      "problem",
+      "southeast",
+      "weak"
+    ],
+    "ts": 1791660898.824836
   }
 ]

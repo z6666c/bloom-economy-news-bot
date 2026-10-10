@@ -1,228 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/bassett-furniture-stock-rating-upgraded-to-buy-at-freedom-broker-93CH-4928177",
-    "title": "Bassett Furniture stock rating upgraded to Buy at Freedom Broker",
-    "tokens": [
-      "bassett",
-      "broker",
-      "buy",
-      "freedom",
-      "furniture",
-      "rating",
-      "stock",
-      "upgraded"
-    ],
-    "ts": 1790884472.3002608
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/disney-tv-restructuring-targets-hundreds-of-jobs-4928175",
-    "title": "Disney TV restructuring targets hundreds of jobs",
-    "tokens": [
-      "disney",
-      "hundreds",
-      "jobs",
-      "restructuring",
-      "targets"
-    ],
-    "ts": 1790884479.5666416
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ypf-investors-ask-us-supreme-court-to-revive-161-billion-judgment-against-argentina-4928174",
-    "title": "YPF investors ask U.S. Supreme Court to revive $16.1 billion judgment against Argentina",
-    "tokens": [
-      "against",
-      "argentina",
-      "ask",
-      "billion",
-      "court",
-      "investors",
-      "judgment",
-      "revive",
-      "supreme",
-      "ypf"
-    ],
-    "ts": 1790884487.8782418
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/boeing-whitecollar-workers-approve-latest-contract-offer-averting-strike-fears-4928173",
-    "title": "Boeing white-collar workers approve latest contract offer, averting strike fears",
-    "tokens": [
-      "approve",
-      "averting",
-      "boeing",
-      "collar",
-      "contract",
-      "fears",
-      "latest",
-      "offer",
-      "strike",
-      "white",
-      "workers"
-    ],
-    "ts": 1790884495.745543
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/dynatrace-stock-hits-52week-high-at-5941-usd-93CH-4928171",
-    "title": "Dynatrace stock hits 52-week high at 59.41 USD",
-    "tokens": [
-      "dynatrace",
-      "high",
-      "hits",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790884499.7612948
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/twilio-stock-hits-52week-high-at-30485-93CH-4928170",
-    "title": "Twilio stock hits 52-week high at $304.85",
-    "tokens": [
-      "304",
-      "high",
-      "hits",
-      "stock",
-      "twilio",
-      "week"
-    ],
-    "ts": 1790884503.136467
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/replimune-launches-melanoma-therapy-in-us-market-93CH-4928220",
-    "title": "Replimune launches melanoma therapy in US market",
-    "tokens": [
-      "launches",
-      "market",
-      "melanoma",
-      "replimune",
-      "therapy"
-    ],
-    "ts": 1790885513.599217
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/medtronic-receives-category-i-cpt-code-approvals-for-two-devices-93CH-4928218",
-    "title": "Medtronic receives Category I CPT code approvals for two devices",
-    "tokens": [
-      "approvals",
-      "category",
-      "code",
-      "cpt",
-      "devices",
-      "medtronic",
-      "receives",
-      "two"
-    ],
-    "ts": 1790885521.0863833
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/nayax-completes-350m-acquisition-of-ips-group-93CH-4928219",
-    "title": "Nayax completes $350M acquisition of IPS Group",
-    "tokens": [
-      "350m",
-      "acquisition",
-      "completes",
-      "group",
-      "ips",
-      "nayax"
-    ],
-    "ts": 1790885528.3081117
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/arvinas-to-present-arv102-parkinsons-data-at-mds-congress-93CH-4928217",
-    "title": "Arvinas to present ARV-102 Parkinson’s data at MDS congress",
-    "tokens": [
-      "102",
-      "arv",
-      "arvinas",
-      "congress",
-      "data",
-      "mds",
-      "parkinson",
-      "present"
-    ],
-    "ts": 1790885537.2104378
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/pritzker-private-capital-weighs-sale-of-propane-distributor-edp--bloomberg-4928213",
-    "title": "Pritzker Private Capital weighs sale of propane distributor EDP - Bloomberg",
-    "tokens": [
-      "bloomberg",
-      "capital",
-      "distributor",
-      "edp",
-      "pritzker",
-      "private",
-      "propane",
-      "sale",
-      "weighs"
-    ],
-    "ts": 1790885544.8095615
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/simon-property-group-director-marta-stewart-buys-40353-in-stock-93CH-4928206",
-    "title": "Simon Property Group director Marta Stewart buys $40,353 in stock",
-    "tokens": [
-      "353",
-      "buys",
-      "director",
-      "group",
-      "marta",
-      "property",
-      "simon",
-      "stewart",
-      "stock"
-    ],
-    "ts": 1790885552.7600808
-  },
-  {
-    "id": "oilprice-article-45660",
-    "title": "UK Holds Emergency Talks With U.S. as Diesel Crisis Escalates",
-    "tokens": [
-      "crisis",
-      "diesel",
-      "emergency",
-      "escalates",
-      "holds",
-      "talks"
-    ],
-    "ts": 1790885561.2763236
-  },
-  {
-    "id": "oilprice-news-45660",
-    "title": "BLM Opens 35,000 California Acres to December Oil and Gas Lease Sale",
-    "tokens": [
-      "000",
-      "acres",
-      "blm",
-      "california",
-      "december",
-      "gas",
-      "lease",
-      "oil",
-      "opens",
-      "sale"
-    ],
-    "ts": 1790885565.2931976
-  },
-  {
-    "id": "WP-MKTW-0005264708",
-    "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
-    "tokens": [
-      "back",
-      "bond",
-      "buyers",
-      "highs",
-      "market",
-      "recent",
-      "retreat",
-      "step",
-      "suddenly",
-      "treasury",
-      "yields"
-    ],
-    "ts": 1790886769.523444
-  },
-  {
     "id": "WP-MKTW-0005265560",
     "title": "The Treasury Department started Trump accounts for 60 million kids — but families still have to take this step if they want one",
     "tokens": [
@@ -23377,5 +23154,243 @@
       "weak"
     ],
     "ts": 1791660898.824836
+  },
+  {
+    "id": "WP-MKTW-0005276352",
+    "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+    "tokens": [
+      "bad",
+      "good",
+      "interest",
+      "rates",
+      "retirees",
+      "rising",
+      "ugly"
+    ],
+    "ts": 1791673070.4916885
+  },
+  {
+    "id": "WP-MKTW-0005276410",
+    "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+    "tokens": [
+      "benefits",
+      "could",
+      "employee",
+      "estates",
+      "here",
+      "keep",
+      "money",
+      "most",
+      "pay",
+      "running",
+      "security",
+      "social",
+      "stocks",
+      "taxing",
+      "who"
+    ],
+    "ts": 1791673079.3699965
+  },
+  {
+    "id": "WP-MKTW-0005276935",
+    "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+    "tokens": [
+      "cuts",
+      "ken",
+      "mean",
+      "medicare",
+      "paxton",
+      "right",
+      "security",
+      "social",
+      "tax"
+    ],
+    "ts": 1791673087.5169375
+  },
+  {
+    "id": "WP-MKTW-0005277699",
+    "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+    "tokens": [
+      "americans",
+      "during",
+      "enrollment",
+      "fewer",
+      "medicare",
+      "millions",
+      "open",
+      "options",
+      "year"
+    ],
+    "ts": 1791673095.2119598
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-wirth-sells-217b-in-iht-stock-93CH-4942294",
+    "title": "InnSuites Hospitality Trust CEO Wirth sells $2.17b in IHT stock",
+    "tokens": [
+      "17b",
+      "ceo",
+      "hospitality",
+      "iht",
+      "innsuites",
+      "sells",
+      "stock",
+      "trust",
+      "wirth"
+    ],
+    "ts": 1791673102.8107321
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sentinelone-cfo-parekh-sells-413291-in-company-shares-93CH-4942293",
+    "title": "SentinelOne CFO Parekh sells $413,291 in company shares",
+    "tokens": [
+      "291",
+      "413",
+      "cfo",
+      "company",
+      "parekh",
+      "sells",
+      "sentinelone",
+      "shares"
+    ],
+    "ts": 1791673106.8267868
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/mercks-remigromig-meets-noninferiority-goal-in-dme-trial-93CH-4942282",
+    "title": "Merck’s remigromig meets non-inferiority goal in DME trial",
+    "tokens": [
+      "dme",
+      "goal",
+      "inferiority",
+      "meets",
+      "merck",
+      "non",
+      "remigromig",
+      "trial"
+    ],
+    "ts": 1791673110.197797
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/beta-technologies-ceo-kyle-clark-sells-612k-in-stock-93CH-4942281",
+    "title": "Beta Technologies CEO Kyle Clark sells $612k in stock",
+    "tokens": [
+      "612k",
+      "beta",
+      "ceo",
+      "clark",
+      "kyle",
+      "sells",
+      "stock",
+      "technologies"
+    ],
+    "ts": 1791673116.9019253
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/palo-alto-networks-director-aparna-bawa-sells-103070-in-stock-93CH-4942280",
+    "title": "Palo Alto Networks director Aparna Bawa sells $103,070 in stock",
+    "tokens": [
+      "070",
+      "103",
+      "alto",
+      "aparna",
+      "bawa",
+      "director",
+      "networks",
+      "palo",
+      "sells",
+      "stock"
+    ],
+    "ts": 1791673124.9351485
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-263320-in-company-shares-93CH-4942275",
+    "title": "MediaAlpha CEO Steven Yi sells $263,320 in company shares",
+    "tokens": [
+      "263",
+      "320",
+      "ceo",
+      "company",
+      "mediaalpha",
+      "sells",
+      "shares",
+      "steven"
+    ],
+    "ts": 1791673132.445731
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/marvell-technology-svp-scarpulla-sells-300949-in-shares-93CH-4942274",
+    "title": "Marvell Technology SVP Scarpulla sells $300,949 in shares",
+    "tokens": [
+      "300",
+      "949",
+      "marvell",
+      "scarpulla",
+      "sells",
+      "shares",
+      "svp",
+      "technology"
+    ],
+    "ts": 1791673139.2600164
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-41770-in-gabelli-healthcare-shares-93CH-4942273",
+    "title": "Saba Capital Management buys $41,770 in Gabelli healthcare shares",
+    "tokens": [
+      "770",
+      "buys",
+      "capital",
+      "gabelli",
+      "healthcare",
+      "management",
+      "saba",
+      "shares"
+    ],
+    "ts": 1791673146.5543709
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/saba-capital-director-sells-290781-in-pimco-dynamic-income-shares-93CH-4942268",
+    "title": "Saba capital director sells $290,781 in PIMCO Dynamic Income shares",
+    "tokens": [
+      "290",
+      "781",
+      "capital",
+      "director",
+      "dynamic",
+      "income",
+      "pimco",
+      "saba",
+      "sells",
+      "shares"
+    ],
+    "ts": 1791673154.2169914
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/arista-networks-ceo-ullal-sells-2106m-in-shares-93CH-4942267",
+    "title": "Arista Networks CEO Ullal sells $21.06m in shares",
+    "tokens": [
+      "06m",
+      "arista",
+      "ceo",
+      "networks",
+      "sells",
+      "shares",
+      "ullal"
+    ],
+    "ts": 1791673162.0134592
+  },
+  {
+    "id": "oilprice-article-45733",
+    "title": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
+    "tokens": [
+      "110",
+      "billion",
+      "hit",
+      "mexico",
+      "nearly",
+      "needs",
+      "output",
+      "pemex",
+      "targets"
+    ],
+    "ts": 1791673170.713994
   }
 ]

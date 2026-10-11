@@ -1,362 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-074-4928528",
-    "title": "Colombia stocks lower at close of trade; COLCAP down 0.74%",
-    "tokens": [
-      "close",
-      "colcap",
-      "colombia",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790891306.937103
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/adagio-medical-holdings-issues-shares-following-convertible-note-conversion-93CH-4928527",
-    "title": "Adagio Medical Holdings issues shares following convertible note conversion",
-    "tokens": [
-      "adagio",
-      "conversion",
-      "convertible",
-      "following",
-      "holdings",
-      "issues",
-      "medical",
-      "note",
-      "shares"
-    ],
-    "ts": 1790891313.1378114
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/axogen-completes-acquisition-of-biocircuit-technologies-93CH-4928524",
-    "title": "Axogen completes acquisition of BioCircuit Technologies",
-    "tokens": [
-      "acquisition",
-      "axogen",
-      "biocircuit",
-      "completes",
-      "technologies"
-    ],
-    "ts": 1790891320.7454607
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/eagle-bancorp-montana-updates-executive-compensation-agreements-93CH-4928575",
-    "title": "Eagle Bancorp Montana updates executive compensation agreements",
-    "tokens": [
-      "agreements",
-      "bancorp",
-      "compensation",
-      "eagle",
-      "executive",
-      "montana",
-      "updates"
-    ],
-    "ts": 1790892628.974032
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/chronoscale-stock-jumps-on-1b-revenue-target-from-ai-deals-4928574",
-    "title": "ChronoScale stock jumps on $1B revenue target from AI deals",
-    "tokens": [
-      "chronoscale",
-      "deals",
-      "jumps",
-      "revenue",
-      "stock",
-      "target"
-    ],
-    "ts": 1790892636.9834797
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/chronoscale-signs-new-ai-contracts-targets-1b-revenue-93CH-4928573",
-    "title": "ChronoScale signs new AI contracts, targets $1B revenue",
-    "tokens": [
-      "chronoscale",
-      "contracts",
-      "revenue",
-      "signs",
-      "targets"
-    ],
-    "ts": 1790892645.5540712
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/phillips-edison-expands-joint-venture-with-northwestern-mutual-93CH-4928572",
-    "title": "Phillips Edison expands joint venture with Northwestern Mutual",
-    "tokens": [
-      "edison",
-      "expands",
-      "joint",
-      "mutual",
-      "northwestern",
-      "phillips",
-      "venture"
-    ],
-    "ts": 1790892653.8541067
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
-    "title": "Bitcoin reverses course, inches up to kick off Q4 as U.S. Treasury bonds rally",
-    "tokens": [
-      "bitcoin",
-      "bonds",
-      "course",
-      "inches",
-      "kick",
-      "off",
-      "rally",
-      "reverses",
-      "treasury"
-    ],
-    "ts": 1790892661.1578574
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/endra-life-sciences-amends-merger-agreement-and-increases-loan-capacity-93CH-4928569",
-    "title": "Endra Life Sciences amends merger agreement and increases loan capacity",
-    "tokens": [
-      "agreement",
-      "amends",
-      "capacity",
-      "endra",
-      "increases",
-      "life",
-      "loan",
-      "merger",
-      "sciences"
-    ],
-    "ts": 1790892669.0022864
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/fitch-upgrades-american-express-to-a-on-fee-business-strength-and-premium-reach-4928566",
-    "title": "Fitch upgrades American Express to ’A+’ on fee business strength and premium reach",
-    "tokens": [
-      "american",
-      "business",
-      "express",
-      "fee",
-      "fitch",
-      "premium",
-      "reach",
-      "strength",
-      "upgrades"
-    ],
-    "ts": 1790892676.2180748
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/alaska-lng-could-cost-more-than-double-gulf-coast-rivals-raising-questions-over-economics-4928556",
-    "title": "Alaska LNG could cost more than double Gulf Coast rivals, raising questions over economics",
-    "tokens": [
-      "alaska",
-      "coast",
-      "cost",
-      "could",
-      "double",
-      "economics",
-      "gulf",
-      "lng",
-      "more",
-      "questions",
-      "raising",
-      "rivals"
-    ],
-    "ts": 1790892683.985273
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-martine-rothblatt-disposes-of-39m-in-stock-93CH-4928563",
-    "title": "United Therapeutics CEO Martine Rothblatt disposes of $3.9m in stock",
-    "tokens": [
-      "ceo",
-      "disposes",
-      "martine",
-      "rothblatt",
-      "stock",
-      "therapeutics",
-      "united"
-    ],
-    "ts": 1790892691.0604646
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/kymera-therapeutics-ceo-nello-mainolfi-sells-34-million-in-stock-93CH-4928562",
-    "title": "Kymera Therapeutics CEO Nello Mainolfi sells $3.4 million in stock",
-    "tokens": [
-      "ceo",
-      "kymera",
-      "mainolfi",
-      "million",
-      "nello",
-      "sells",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1790892698.7551835
-  },
-  {
-    "id": "oilprice-article-45657",
-    "title": "Power Demand Is Surging Faster Than Grids Can Keep Up",
-    "tokens": [
-      "can",
-      "demand",
-      "faster",
-      "grids",
-      "keep",
-      "power",
-      "surging"
-    ],
-    "ts": 1790892707.3768334
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/blue-bird-files-prospectus-for-resale-of-up-to-27-million-shares-on-nasdaq-93CH-4928611",
-    "title": "Blue Bird files prospectus for resale of up to 2.7 million shares on NASDAQ",
-    "tokens": [
-      "bird",
-      "blue",
-      "files",
-      "million",
-      "nasdaq",
-      "prospectus",
-      "resale",
-      "shares"
-    ],
-    "ts": 1790894615.3082967
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-4928610",
-    "title": "OpenAI alerts more than 100 groups about rogue AI agent activity",
-    "tokens": [
-      "100",
-      "about",
-      "activity",
-      "agent",
-      "alerts",
-      "groups",
-      "more",
-      "openai",
-      "rogue"
-    ],
-    "ts": 1790894624.4024508
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/american-outdoor-brands-elects-directors-and-ratifies-auditor-at-annual-meeting-93CH-4928609",
-    "title": "American Outdoor Brands elects directors and ratifies auditor at annual meeting",
-    "tokens": [
-      "american",
-      "annual",
-      "auditor",
-      "brands",
-      "directors",
-      "elects",
-      "meeting",
-      "outdoor",
-      "ratifies"
-    ],
-    "ts": 1790894632.1942775
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/enhanced-group-inc-shareholders-approve-oneforten-reverse-stock-split-93CH-4928608",
-    "title": "Enhanced Group Inc. shareholders approve one-for-ten reverse stock split",
-    "tokens": [
-      "approve",
-      "enhanced",
-      "group",
-      "inc",
-      "one",
-      "reverse",
-      "shareholders",
-      "split",
-      "stock",
-      "ten"
-    ],
-    "ts": 1790894640.2421975
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/presurance-holdings-director-joseph-sarafa-buys-74246-in-shares-93CH-4928605",
-    "title": "Presurance Holdings director Joseph Sarafa buys $74,246 in shares",
-    "tokens": [
-      "246",
-      "buys",
-      "director",
-      "holdings",
-      "joseph",
-      "presurance",
-      "sarafa",
-      "shares"
-    ],
-    "ts": 1790894647.1288278
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/presurance-holdings-director-ohanlon-buys-48935-in-shares-93CH-4928604",
-    "title": "Presurance Holdings director O’Hanlon buys $48,935 in shares",
-    "tokens": [
-      "935",
-      "buys",
-      "director",
-      "hanlon",
-      "holdings",
-      "presurance",
-      "shares"
-    ],
-    "ts": 1790894653.6912243
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/digital-turbine-files-resale-shelf-registration-for-12-million-shares-93CH-4928603",
-    "title": "Digital Turbine files resale shelf registration for 1.2 million shares",
-    "tokens": [
-      "digital",
-      "files",
-      "million",
-      "registration",
-      "resale",
-      "shares",
-      "shelf",
-      "turbine"
-    ],
-    "ts": 1790894661.053084
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/vertex-appoints-debanjan-saha-to-board-of-directors-as-class-ii-director-93CH-4928595",
-    "title": "Vertex appoints Debanjan Saha to board of directors as Class II director",
-    "tokens": [
-      "appoints",
-      "board",
-      "class",
-      "debanjan",
-      "director",
-      "directors",
-      "saha",
-      "vertex"
-    ],
-    "ts": 1790894668.7920935
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/cracker-barrel-svp-roberts-sells-182280-in-shares-93CH-4928638",
-    "title": "Cracker Barrel SVP Roberts sells $182,280 in shares",
-    "tokens": [
-      "182",
-      "280",
-      "barrel",
-      "cracker",
-      "roberts",
-      "sells",
-      "shares",
-      "svp"
-    ],
-    "ts": 1790895391.4686923
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/presurance-holdings-ceo-brian-roney-buys-50622-in-stock-93CH-4928637",
-    "title": "Presurance Holdings CEO Brian Roney buys $50,622 in stock",
-    "tokens": [
-      "622",
-      "brian",
-      "buys",
-      "ceo",
-      "holdings",
-      "presurance",
-      "roney",
-      "stock"
-    ],
-    "ts": 1790895399.5323153
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/comcasts-nbcuniversal-cuts-streaming-technology-jobs-4928630",
     "title": "Comcast’s NBCUniversal cuts streaming technology jobs",
     "tokens": [
@@ -23393,5 +23036,420 @@
       "unauthorized"
     ],
     "ts": 1791729761.408414
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-4942755",
+    "title": "Prominent Republican senator says Trump’s Russian diesel deal may be illegal",
+    "tokens": [
+      "deal",
+      "diesel",
+      "illegal",
+      "may",
+      "prominent",
+      "republican",
+      "russian",
+      "senator",
+      "trump"
+    ],
+    "ts": 1791745916.7020388
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-shares-93CH-4942804",
+    "title": "Onemednet CEO Aaron Green sells $47,762 in shares",
+    "tokens": [
+      "762",
+      "aaron",
+      "ceo",
+      "green",
+      "onemednet",
+      "sells",
+      "shares"
+    ],
+    "ts": 1791745920.7177398
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/what-the-sell-off-in-bonds-means-for-monetary-policy-4942802",
+    "title": "What the sell off in bonds means for monetary policy",
+    "tokens": [
+      "bonds",
+      "means",
+      "monetary",
+      "off",
+      "policy",
+      "sell",
+      "what"
+    ],
+    "ts": 1791745924.604272
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-shares-93CH-4942798",
+    "title": "Onemednet CFO Robert Golden sells $55,290 in shares",
+    "tokens": [
+      "290",
+      "cfo",
+      "golden",
+      "onemednet",
+      "robert",
+      "sells",
+      "shares"
+    ],
+    "ts": 1791745928.6197095
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-4942575",
+    "title": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13",
+    "tokens": [
+      "airport",
+      "arabia",
+      "attack",
+      "day",
+      "injuries",
+      "kills",
+      "reports",
+      "riyadh",
+      "saudi",
+      "strike"
+    ],
+    "ts": 1791745933.4778535
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sonic-automotive-director-paul-rusnak-buys-129m-in-shares-93CH-4942789",
+    "title": "Sonic Automotive director Paul Rusnak buys $1.29m in shares",
+    "tokens": [
+      "29m",
+      "automotive",
+      "buys",
+      "director",
+      "paul",
+      "rusnak",
+      "shares",
+      "sonic"
+    ],
+    "ts": 1791745941.001763
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779",
+    "title": "Stellantis bets on small affordable EVs for European comeback",
+    "tokens": [
+      "affordable",
+      "bets",
+      "comeback",
+      "european",
+      "evs",
+      "small",
+      "stellantis"
+    ],
+    "ts": 1791745948.7512364
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ul-solutions-president-and-ceo-jennifer-scanlon-sells-876k-in-stock-93CH-4942777",
+    "title": "UL Solutions president and CEO Jennifer Scanlon sells $876k in stock",
+    "tokens": [
+      "876k",
+      "ceo",
+      "jennifer",
+      "president",
+      "scanlon",
+      "sells",
+      "solutions",
+      "stock"
+    ],
+    "ts": 1791745952.7664883
+  },
+  {
+    "id": "https://www.businessinsider.com/alexandr-wang-meta-memes-muse-social-media-cool-2026-10",
+    "title": "Alexandr Wang wanted to make Meta 'cool again' — and memes were part of his plan",
+    "tokens": [
+      "again",
+      "alexandr",
+      "cool",
+      "his",
+      "make",
+      "memes",
+      "meta",
+      "part",
+      "plan",
+      "wang",
+      "wanted"
+    ],
+    "ts": 1791745956.8968177
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/qfin-equity-action-reminder-faruqi-faruqi-llp-reminds-qfin-holdings-qfin-investors-of-securities-class-action-lawsuit-deadline-on-november-30-2026-1036614716",
+    "title": "QFIN EQUITY ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Qfin Holdings (QFIN) Investors of Securities Class Action Lawsuit Deadline on November 30, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "class",
+      "deadline",
+      "equity",
+      "faruqi",
+      "holdings",
+      "investors",
+      "lawsuit",
+      "llp",
+      "november",
+      "qfin",
+      "reminder",
+      "reminds",
+      "securities"
+    ],
+    "ts": 1791745966.1928296
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/claris-biotherapeutics-releases-positive-csb-001-clinical-proof-of-concept-data-in-limbal-stem-cell-deficiency-at-aao-2026-annual-meeting-1036614704",
+    "title": "Claris Biotherapeutics Releases Positive CSB-001 Clinical Proof-of-Concept Data in Limbal Stem Cell Deficiency at AAO 2026 Annual Meeting",
+    "tokens": [
+      "001",
+      "2026",
+      "aao",
+      "annual",
+      "biotherapeutics",
+      "cell",
+      "claris",
+      "clinical",
+      "concept",
+      "csb",
+      "data",
+      "deficiency",
+      "limbal",
+      "meeting",
+      "positive",
+      "proof",
+      "releases",
+      "stem"
+    ],
+    "ts": 1791745974.6024811
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/bronstein-gewirtz-grossman-llc-urges-netcapital-inc.-investors-to-act-class-action-filed-alleging-investor-harm-1036614708",
+    "title": "Bronstein, Gewirtz & Grossman LLC Urges Netcapital Inc. Investors to Act: Class Action Filed Alleging Investor Harm",
+    "tokens": [
+      "act",
+      "action",
+      "alleging",
+      "bronstein",
+      "class",
+      "filed",
+      "gewirtz",
+      "grossman",
+      "harm",
+      "inc",
+      "investor",
+      "investors",
+      "llc",
+      "netcapital",
+      "urges"
+    ],
+    "ts": 1791745981.823291
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/fcel-equity-action-reminder-faruqi-faruqi-llp-reminds-fuelcell-energy-fcel-investors-of-securities-class-action-lawsuit-deadline-on-november-10-2026-1036595277",
+    "title": "FCEL EQUITY ACTION REMINDER: Faruqi & Faruqi, LLP Reminds FuelCell Energy (FCEL) Investors of Securities Class Action Lawsuit Deadline on November 10, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "class",
+      "deadline",
+      "energy",
+      "equity",
+      "faruqi",
+      "fcel",
+      "fuelcell",
+      "investors",
+      "lawsuit",
+      "llp",
+      "november",
+      "reminder",
+      "reminds",
+      "securities"
+    ],
+    "ts": 1791745985.8413496
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/encaleret-increased-bone-turnover-and-improved-participant-reported-symptoms-in-the-phase-3-calibrate-trial-in-adh1-1036614700",
+    "title": "Encaleret Increased Bone Turnover and Improved Participant-Reported Symptoms in the Phase 3 CALIBRATE Trial in ADH1",
+    "tokens": [
+      "adh1",
+      "bone",
+      "calibrate",
+      "encaleret",
+      "improved",
+      "increased",
+      "participant",
+      "phase",
+      "reported",
+      "symptoms",
+      "trial",
+      "turnover"
+    ],
+    "ts": 1791745989.8091283
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/cardurion-pharmaceuticals-presents-phase-2-results-for-tovinontrine-crd-750-a-pde9-inhibitor-as-a-novel-treatment-for-heart-failure-1036614695",
+    "title": "Cardurion Pharmaceuticals Presents Phase 2 Results for Tovinontrine (CRD-750), a PDE9 Inhibitor, as a Novel Treatment for Heart Failure",
+    "tokens": [
+      "750",
+      "cardurion",
+      "crd",
+      "failure",
+      "heart",
+      "inhibitor",
+      "novel",
+      "pde9",
+      "pharmaceuticals",
+      "phase",
+      "presents",
+      "results",
+      "tovinontrine",
+      "treatment"
+    ],
+    "ts": 1791745997.7450624
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/xtia-equity-action-reminder-faruqi-faruqi-llp-reminds-xti-aerospace-investors-of-securities-class-action-lawsuit-deadline-on-october-27-2026-1036534308",
+    "title": "XTIA EQUITY ACTION REMINDER: Faruqi & Faruqi, LLP Reminds XTI Aerospace Investors of Securities Class Action Lawsuit Deadline on October 27, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "aerospace",
+      "class",
+      "deadline",
+      "equity",
+      "faruqi",
+      "investors",
+      "lawsuit",
+      "llp",
+      "october",
+      "reminder",
+      "reminds",
+      "securities",
+      "xti",
+      "xtia"
+    ],
+    "ts": 1791746001.761022
+  },
+  {
+    "id": "https://seekingalpha.com/news/4651821-watch-big-banks-capital-markets-commercial-banking-results-in-q3-earnings?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Watch big banks' capital markets, commercial banking results in Q3 earnings",
+    "tokens": [
+      "banking",
+      "banks",
+      "big",
+      "capital",
+      "commercial",
+      "earnings",
+      "markets",
+      "results",
+      "watch"
+    ],
+    "ts": 1791746005.2238934
+  },
+  {
+    "id": "oilprice-article-45734",
+    "title": "How Low Can the Strategic Petroleum Reserve Actually Go?",
+    "tokens": [
+      "actually",
+      "can",
+      "how",
+      "low",
+      "petroleum",
+      "reserve",
+      "strategic"
+    ],
+    "ts": 1791746012.9911807
+  },
+  {
+    "id": "oilprice-article-45732",
+    "title": "Australia Approves Giant Coal Extension Despite Paris Commitments",
+    "tokens": [
+      "approves",
+      "australia",
+      "coal",
+      "commitments",
+      "despite",
+      "extension",
+      "giant",
+      "paris"
+    ],
+    "ts": 1791746020.4781053
+  },
+  {
+    "id": "oilprice-article-45731",
+    "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
+    "tokens": [
+      "burnham",
+      "north",
+      "oil",
+      "producers",
+      "push",
+      "scrap",
+      "sea",
+      "tax",
+      "windfall"
+    ],
+    "ts": 1791746028.9776602
+  },
+  {
+    "id": "be536b24-a487-46f8-8693-0b0d2ef99712",
+    "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+    "tokens": [
+      "crypto",
+      "everyone",
+      "markets",
+      "prediction",
+      "scotus",
+      "state",
+      "take",
+      "wants"
+    ],
+    "ts": 1791746036.9169858
+  },
+  {
+    "id": "f0c10ca7-ee9b-46e8-9186-4bf11dd551ca",
+    "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+    "tokens": [
+      "clarity",
+      "could",
+      "crypto",
+      "failure",
+      "incumbents",
+      "innovation",
+      "shielding",
+      "speed",
+      "while"
+    ],
+    "ts": 1791746044.6394954
+  },
+  {
+    "id": "abc98e76-32e8-4c49-b60e-a89d5ad9a462",
+    "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+    "tokens": [
+      "between",
+      "ceasefire",
+      "declares",
+      "energy",
+      "president",
+      "russia",
+      "trump",
+      "ukraine"
+    ],
+    "ts": 1791746052.224619
+  },
+  {
+    "id": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks",
+    "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+    "tokens": [
+      "bitcoin",
+      "buybacks",
+      "buying",
+      "ending",
+      "saylor",
+      "september",
+      "strategy",
+      "strc",
+      "teases"
+    ],
+    "ts": 1791746059.6665735
   }
 ]

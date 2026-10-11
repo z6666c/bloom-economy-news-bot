@@ -1,123 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/comcasts-nbcuniversal-cuts-streaming-technology-jobs-4928630",
-    "title": "Comcast’s NBCUniversal cuts streaming technology jobs",
-    "tokens": [
-      "comcast",
-      "cuts",
-      "jobs",
-      "nbcuniversal",
-      "streaming",
-      "technology"
-    ],
-    "ts": 1790895406.5025384
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/playstudios-enacts-1for10-reverse-stock-split-shares-begin-trading-on-splitadjusted-basis-93CH-4928625",
-    "title": "Playstudios enacts 1-for-10 reverse stock split, shares begin trading on split-adjusted basis",
-    "tokens": [
-      "adjusted",
-      "basis",
-      "begin",
-      "enacts",
-      "playstudios",
-      "reverse",
-      "shares",
-      "split",
-      "stock",
-      "trading"
-    ],
-    "ts": 1790895413.5152264
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/revolution-medicines-cdo-sandler-sells-12m-in-stock-93CH-4928624",
-    "title": "Revolution Medicines’ CDO Sandler sells $1.2m in stock",
-    "tokens": [
-      "cdo",
-      "medicines",
-      "revolution",
-      "sandler",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790895420.402051
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-133-million-in-stock-93CH-4928622",
-    "title": "Block director Anthony Eisen sells $1.33 million in stock",
-    "tokens": [
-      "anthony",
-      "block",
-      "director",
-      "eisen",
-      "million",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790895428.6778286
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/presurance-holdings-director-smith-buys-48935-in-company-stock-93CH-4928654",
-    "title": "Presurance Holdings director Smith buys $48,935 in company stock",
-    "tokens": [
-      "935",
-      "buys",
-      "company",
-      "director",
-      "holdings",
-      "presurance",
-      "smith",
-      "stock"
-    ],
-    "ts": 1790896275.6024568
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/oracle-director-stephen-rusckowski-buys-348m-in-common-stock-93CH-4928653",
-    "title": "Oracle director Stephen Rusckowski buys $3.48m in common stock",
-    "tokens": [
-      "48m",
-      "buys",
-      "common",
-      "director",
-      "oracle",
-      "rusckowski",
-      "stephen",
-      "stock"
-    ],
-    "ts": 1790896283.6335034
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-806495-in-aapl-stock-93CH-4928652",
-    "title": "Apple SVP Jennifer Newstead sells $806,495 in AAPL stock",
-    "tokens": [
-      "495",
-      "806",
-      "aapl",
-      "apple",
-      "jennifer",
-      "newstead",
-      "sells",
-      "stock",
-      "svp"
-    ],
-    "ts": 1790896291.476174
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/pilots-of-crashed-amazon-cargo-plane-were-unaware-of-wind-conditions-4928643",
-    "title": "Pilots of crashed Amazon cargo plane were unaware of wind conditions",
-    "tokens": [
-      "amazon",
-      "cargo",
-      "conditions",
-      "crashed",
-      "pilots",
-      "plane",
-      "unaware",
-      "wind"
-    ],
-    "ts": 1790896299.6558504
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/gap-director-william-fisher-sells-153-million-in-company-stock-93CH-4928639",
     "title": "Gap director William Fisher sells $1.53 million in company stock",
     "tokens": [
@@ -23451,5 +23333,130 @@
       "teases"
     ],
     "ts": 1791746059.6665735
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/chiles-codelco-reports-mudslide-at-el-teniente-mine-three-workers-affected-4942867",
+    "title": "Chile’s Codelco reports mudslide at El Teniente mine; three workers affected",
+    "tokens": [
+      "affected",
+      "chile",
+      "codelco",
+      "mine",
+      "mudslide",
+      "reports",
+      "teniente",
+      "three",
+      "workers"
+    ],
+    "ts": 1791759380.4374874
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/porch-group-coo-neagle-sells-678022-in-stock-on-oct-1-93CH-4942864",
+    "title": "Porch Group COO Neagle sells $678,022 in stock on Oct 1",
+    "tokens": [
+      "022",
+      "678",
+      "coo",
+      "group",
+      "neagle",
+      "oct",
+      "porch",
+      "sells",
+      "stock"
+    ],
+    "ts": 1791759387.8283167
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cargurus-cto-quinn-sells-113266-in-shares-93CH-4942863",
+    "title": "CarGurus CTO Quinn sells $113,266 in shares",
+    "tokens": [
+      "113",
+      "266",
+      "cargurus",
+      "cto",
+      "quinn",
+      "sells",
+      "shares"
+    ],
+    "ts": 1791759395.32128
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/faa-tells-us-airlines-to-exercise-caution-in-saudi-arabia-flights-citing-safety-risks-4942859",
+    "title": "FAA tells US airlines to exercise caution in Saudi Arabia flights, citing safety risks",
+    "tokens": [
+      "airlines",
+      "arabia",
+      "caution",
+      "citing",
+      "exercise",
+      "faa",
+      "flights",
+      "risks",
+      "safety",
+      "saudi",
+      "tells"
+    ],
+    "ts": 1791759402.8283165
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports-4942850",
+    "title": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
+    "tokens": [
+      "amazon",
+      "around",
+      "billion",
+      "buy",
+      "decart",
+      "reports",
+      "startup",
+      "talks",
+      "wsj"
+    ],
+    "ts": 1791759410.4376955
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942851",
+    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+    "tokens": [
+      "close",
+      "index",
+      "lower",
+      "moex",
+      "russia",
+      "stocks",
+      "trade",
+      "unchanged"
+    ],
+    "ts": 1791759417.7337387
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/mirum-pharmaceuticals-to-share-phase-3-livmarli-study-results-93CH-4942847",
+    "title": "Mirum Pharmaceuticals to share phase 3 LIVMARLI study results",
+    "tokens": [
+      "livmarli",
+      "mirum",
+      "pharmaceuticals",
+      "phase",
+      "results",
+      "share",
+      "study"
+    ],
+    "ts": 1791759424.8345904
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/first-commonwealth-evpcfo-james-reske-disposes-of-42512-in-stock-93CH-4942846",
+    "title": "First Commonwealth EVP/CFO James Reske disposes of $42,512 in stock",
+    "tokens": [
+      "512",
+      "cfo",
+      "commonwealth",
+      "disposes",
+      "evp",
+      "first",
+      "james",
+      "reske",
+      "stock"
+    ],
+    "ts": 1791759432.6325102
   }
 ]

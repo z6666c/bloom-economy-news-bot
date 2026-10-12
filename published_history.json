@@ -1,290 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-director-sells-97504-in-shares-93CH-4928683",
-    "title": "Kestra Medical Technologies director sells $97,504 in shares",
-    "tokens": [
-      "504",
-      "director",
-      "kestra",
-      "medical",
-      "sells",
-      "shares",
-      "technologies"
-    ],
-    "ts": 1790898910.5387702
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/south-korea-cpi-inflation-eases-slightly-in-september-4928671",
-    "title": "South Korea CPI inflation eases slightly in September",
-    "tokens": [
-      "cpi",
-      "eases",
-      "inflation",
-      "korea",
-      "september",
-      "slightly",
-      "south"
-    ],
-    "ts": 1790898918.507881
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/feds-logan-says-more-rate-hikes-needed-to-curb-sticky-inflation-4928700",
-    "title": "Fed’s Logan says more rate hikes needed to curb sticky inflation",
-    "tokens": [
-      "curb",
-      "fed",
-      "hikes",
-      "inflation",
-      "logan",
-      "more",
-      "needed",
-      "rate",
-      "sticky"
-    ],
-    "ts": 1790900176.4782326
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/tokyo-core-inflation-jumps-in-september-bolsters-case-for-more-boj-hikes-4928698",
-    "title": "Tokyo core inflation jumps in September, bolsters case for more BOJ hikes",
-    "tokens": [
-      "boj",
-      "bolsters",
-      "case",
-      "core",
-      "hikes",
-      "inflation",
-      "jumps",
-      "more",
-      "september",
-      "tokyo"
-    ],
-    "ts": 1790900184.4957728
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/reddit-ceo-steve-huffman-sells-25m-in-stock-exercises-options-93CH-4928697",
-    "title": "Reddit CEO Steve Huffman sells $2.5m in stock, exercises options",
-    "tokens": [
-      "ceo",
-      "exercises",
-      "huffman",
-      "options",
-      "reddit",
-      "sells",
-      "steve",
-      "stock"
-    ],
-    "ts": 1790900191.4105525
-  },
-  {
-    "id": "oilprice-article-45662",
-    "title": "5 Energy ETFs That Have Soared in 2026",
-    "tokens": [
-      "2026",
-      "energy",
-      "etfs",
-      "soared"
-    ],
-    "ts": 1790900207.3394592
-  },
-  {
-    "id": "oilprice-news-45662",
-    "title": "China Halts October Fuel Exports as Global Diesel Crunch Deepens",
-    "tokens": [
-      "china",
-      "crunch",
-      "deepens",
-      "diesel",
-      "exports",
-      "fuel",
-      "global",
-      "halts",
-      "october"
-    ],
-    "ts": 1790900211.3575037
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-with-nonfarm-payrolls-in-focus-4928740",
-    "title": "U.S. stock futures drift higher with nonfarm payrolls in focus",
-    "tokens": [
-      "drift",
-      "focus",
-      "futures",
-      "higher",
-      "nonfarm",
-      "payrolls",
-      "stock"
-    ],
-    "ts": 1790902041.3217466
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/moderna-to-join-nasdaq-100-replacing-warner-bros-discovery-4928725",
-    "title": "Moderna to replace Warner Bros Discovery  on Nasdaq 100",
-    "tokens": [
-      "100",
-      "bros",
-      "discovery",
-      "moderna",
-      "nasdaq",
-      "replace",
-      "warner"
-    ],
-    "ts": 1790902049.2648127
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-judge-restores-courtappointed-top-federal-prosecutor-trump-fired-in-seattle-4928101",
-    "title": "Judge restores court-appointed Seattle federal prosecutor fired by Trump",
-    "tokens": [
-      "appointed",
-      "court",
-      "federal",
-      "fired",
-      "judge",
-      "prosecutor",
-      "restores",
-      "seattle",
-      "trump"
-    ],
-    "ts": 1790902056.2792857
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/venu-holding-corp-director-thomas-finke-buys-75900-in-shares-93CH-4928736",
-    "title": "Venu Holding Corp director Thomas Finke buys $75,900 in shares",
-    "tokens": [
-      "900",
-      "buys",
-      "corp",
-      "director",
-      "finke",
-      "holding",
-      "shares",
-      "thomas",
-      "venu"
-    ],
-    "ts": 1790902063.5486362
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/capital-southwest-director-thomas-buys-50005-in-company-stock-93CH-4928737",
-    "title": "Capital Southwest director Thomas buys $50,005 in company stock",
-    "tokens": [
-      "005",
-      "buys",
-      "capital",
-      "company",
-      "director",
-      "southwest",
-      "stock",
-      "thomas"
-    ],
-    "ts": 1790902070.3451006
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/mcdonalds-sells-hong-kong-store-for-153-million-93CH-4928727",
-    "title": "McDonald’s sells Hong Kong store for $15.3 million",
-    "tokens": [
-      "hong",
-      "kong",
-      "mcdonald",
-      "million",
-      "sells",
-      "store"
-    ],
-    "ts": 1790902077.2483902
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/netflix-partners-with-filmin-for-curated-content-in-spain-93CH-4928726",
-    "title": "Netflix partners with Filmin for curated content in Spain",
-    "tokens": [
-      "content",
-      "curated",
-      "filmin",
-      "netflix",
-      "partners",
-      "spain"
-    ],
-    "ts": 1790902084.9836078
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/moderna-to-join-nasdaq100-index-on-oct-9-replacing-warner-bros-93CH-4928713",
-    "title": "Moderna to join Nasdaq-100 index on Oct. 9, replacing Warner Bros.",
-    "tokens": [
-      "100",
-      "bros",
-      "index",
-      "join",
-      "moderna",
-      "nasdaq",
-      "oct",
-      "replacing",
-      "warner"
-    ],
-    "ts": 1790902092.895007
-  },
-  {
-    "id": "WP-MKTW-0005258122",
-    "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-    "tokens": [
-      "000",
-      "400",
-      "because",
-      "dangerous",
-      "equity",
-      "house",
-      "renovating",
-      "sell",
-      "should",
-      "spend",
-      "stairs",
-      "thousands"
-    ],
-    "ts": 1790903514.7756944
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australias-sunrise-energy-metals-plans-us-redomicile-primary-nasdaq-listing-4928774",
-    "title": "Australia’s Sunrise Energy Metals plans US redomicile, primary Nasdaq listing",
-    "tokens": [
-      "australia",
-      "energy",
-      "listing",
-      "metals",
-      "nasdaq",
-      "plans",
-      "primary",
-      "redomicile",
-      "sunrise"
-    ],
-    "ts": 1790904620.2464788
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-rises-slightly-as-market-weighs-mixed-supply-signals-4928763",
-    "title": "Oil rises slightly as market weighs mixed supply signals",
-    "tokens": [
-      "market",
-      "mixed",
-      "oil",
-      "rises",
-      "signals",
-      "slightly",
-      "supply",
-      "weighs"
-    ],
-    "ts": 1790904627.7838528
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/feds-cook-sees-ai-buildup-as-top-inflation-risk-for-2027-93CH-4928751",
-    "title": "Fed’s Cook sees AI buildup as top inflation risk for 2027",
-    "tokens": [
-      "2027",
-      "buildup",
-      "cook",
-      "fed",
-      "inflation",
-      "risk",
-      "sees",
-      "top"
-    ],
-    "ts": 1790904631.8007288
-  },
-  {
     "id": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
     "title": "SEC moves to clear custody hurdle for advisers offering crypto",
     "tokens": [
@@ -23453,5 +23168,306 @@
       "xrp"
     ],
     "ts": 1791770986.7276092
+  },
+  {
+    "id": "WP-MKTW-0005280275",
+    "title": "Legal battle continues as Dolly Parton’s estate claims nephew put up barbed wire to avoid summons",
+    "tokens": [
+      "avoid",
+      "barbed",
+      "battle",
+      "claims",
+      "continues",
+      "dolly",
+      "estate",
+      "legal",
+      "nephew",
+      "parton",
+      "put",
+      "summons",
+      "wire"
+    ],
+    "ts": 1791796376.6092498
+  },
+  {
+    "id": "WP-MKTW-0005280113",
+    "title": "Dr. Phil lists his lavish Beverly Hills estate for a whopping $67.5 million",
+    "tokens": [
+      "beverly",
+      "estate",
+      "hills",
+      "his",
+      "lavish",
+      "lists",
+      "million",
+      "phil",
+      "whopping"
+    ],
+    "ts": 1791796384.2323327
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/gold-edges-higher-near-4200-as-traders-weigh-energy-truce-mideast-risks-4942969",
+    "title": "Gold falls as dollar firms, traders weigh energy truce, Mideast risks",
+    "tokens": [
+      "dollar",
+      "energy",
+      "falls",
+      "firms",
+      "gold",
+      "mideast",
+      "risks",
+      "traders",
+      "truce",
+      "weigh"
+    ],
+    "ts": 1791796392.4084065
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/gift-nifty-50-stalls-below-22693-resistance-live-levels-93CH-4943050",
+    "title": "Gift Nifty 50 bear flag 80% complete under resistance: Live levels",
+    "tokens": [
+      "bear",
+      "complete",
+      "flag",
+      "gift",
+      "levels",
+      "live",
+      "nifty",
+      "resistance",
+      "under"
+    ],
+    "ts": 1791796399.3839657
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hsbc-grants-share-awards-to-employees-under-purchase-plan-93CH-4943537",
+    "title": "HSBC grants share awards to employees under purchase plan",
+    "tokens": [
+      "awards",
+      "employees",
+      "grants",
+      "hsbc",
+      "plan",
+      "purchase",
+      "share",
+      "under"
+    ],
+    "ts": 1791796406.5327654
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sight-sciences-coo-alison-bauerlein-sells-223626-in-stock-93CH-4943532",
+    "title": "Sight Sciences COO Alison Bauerlein sells $223,626 in stock",
+    "tokens": [
+      "223",
+      "626",
+      "alison",
+      "bauerlein",
+      "coo",
+      "sciences",
+      "sells",
+      "sight",
+      "stock"
+    ],
+    "ts": 1791796414.4866164
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-adecco-stock-sliding-today-93CH-4943514",
+    "title": "Why is Adecco stock sliding today?",
+    "tokens": [
+      "adecco",
+      "sliding",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1791796421.749981
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/chinas-75-billion-eu-hybrid-boom-faces-new-curbs-under-chinaeu-deal-4943257",
+    "title": "China’s $7.5 billion EU hybrid boom faces new curbs under China-EU deal",
+    "tokens": [
+      "billion",
+      "boom",
+      "china",
+      "curbs",
+      "deal",
+      "faces",
+      "hybrid",
+      "under"
+    ],
+    "ts": 1791796428.9182694
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jefferies-initiates-minimed-group-stock-coverage-with-hold-rating-93CH-4943512",
+    "title": "Jefferies initiates MiniMed Group stock coverage with hold rating",
+    "tokens": [
+      "coverage",
+      "group",
+      "hold",
+      "initiates",
+      "jefferies",
+      "minimed",
+      "rating",
+      "stock"
+    ],
+    "ts": 1791796435.7762537
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sailpoint-chief-accounting-officer-mitra-rezvan-sells-23360-in-stock-93CH-4943511",
+    "title": "SailPoint chief accounting officer Mitra Rezvan sells $23,360 in stock",
+    "tokens": [
+      "360",
+      "accounting",
+      "chief",
+      "mitra",
+      "officer",
+      "rezvan",
+      "sailpoint",
+      "sells",
+      "stock"
+    ],
+    "ts": 1791796442.355118
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-prices-dip-after-trump-announces-russiaukraine-energy-ceasefire-4942934",
+    "title": "Oil edges lower as Trump’s energy-ceasefire claim offsets Hormuz risks",
+    "tokens": [
+      "ceasefire",
+      "claim",
+      "edges",
+      "energy",
+      "hormuz",
+      "lower",
+      "offsets",
+      "oil",
+      "risks",
+      "trump"
+    ],
+    "ts": 1791796450.811976
+  },
+  {
+    "id": "88eadefa-4d3e-4ca6-ba9b-9c13b025ebbd",
+    "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+    "tokens": [
+      "ahead",
+      "crypto",
+      "ethereum",
+      "inflation",
+      "talks",
+      "upgrade",
+      "week"
+    ],
+    "ts": 1791796459.3344698
+  },
+  {
+    "id": "39696a36-0225-44ff-b1f7-543a1f5c8301",
+    "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+    "tokens": [
+      "100",
+      "billion",
+      "bug",
+      "cap",
+      "could",
+      "hidden",
+      "stayed",
+      "supply",
+      "threatened",
+      "why",
+      "xrp",
+      "years"
+    ],
+    "ts": 1791796466.2893646
+  },
+  {
+    "id": "0bc7fee6-084a-4c55-8d65-950abc016a02",
+    "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+    "tokens": [
+      "cryptobilis",
+      "device",
+      "found",
+      "implant",
+      "least",
+      "ledger",
+      "one",
+      "sold",
+      "unauthorized"
+    ],
+    "ts": 1791796474.6974072
+  },
+  {
+    "id": "23240199-0880-42de-b0f0-1c12e9d8ab78",
+    "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+    "tokens": [
+      "000",
+      "above",
+      "bitcoin",
+      "etf",
+      "falls",
+      "off",
+      "oil",
+      "outflows",
+      "shrugs",
+      "trade"
+    ],
+    "ts": 1791796481.9635005
+  },
+  {
+    "id": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans",
+    "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+    "tokens": [
+      "backed",
+      "bank",
+      "bitcoin",
+      "business",
+      "korean",
+      "launches",
+      "loans",
+      "report",
+      "south"
+    ],
+    "ts": 1791796488.871957
+  },
+  {
+    "id": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting",
+    "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+    "tokens": [
+      "ahead",
+      "flags",
+      "g20",
+      "global",
+      "risks",
+      "stablecoin",
+      "threats",
+      "watchdog"
+    ],
+    "ts": 1791796496.9105735
+  },
+  {
+    "id": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain",
+    "title": "DATA Network to migrate to Sui, retire own chain",
+    "tokens": [
+      "chain",
+      "data",
+      "migrate",
+      "network",
+      "own",
+      "retire",
+      "sui"
+    ],
+    "ts": 1791796503.4840257
+  },
+  {
+    "id": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k",
+    "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+    "tokens": [
+      "112k",
+      "back",
+      "crypto",
+      "french",
+      "lawmakers",
+      "reporting",
+      "rule",
+      "wallets"
+    ],
+    "ts": 1791796510.5409043
   }
 ]

@@ -1,504 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/powerus-completes-merger-begins-trading-on-nasdaq-93CH-4929793",
-    "title": "Powerus completes merger, begins trading on Nasdaq",
-    "tokens": [
-      "begins",
-      "completes",
-      "merger",
-      "nasdaq",
-      "powerus",
-      "trading"
-    ],
-    "ts": 1790944889.4587367
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/flux-power-rejects-solidion-acquisition-proposal-93CH-4929794",
-    "title": "Flux Power rejects Solidion acquisition proposal",
-    "tokens": [
-      "acquisition",
-      "flux",
-      "power",
-      "proposal",
-      "rejects",
-      "solidion"
-    ],
-    "ts": 1790944897.9106882
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cycurion-regains-nasdaq-minimum-bid-price-compliance-93CH-4929789",
-    "title": "Cycurion regains Nasdaq minimum bid price compliance",
-    "tokens": [
-      "bid",
-      "compliance",
-      "cycurion",
-      "minimum",
-      "nasdaq",
-      "price",
-      "regains"
-    ],
-    "ts": 1790944907.3355813
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cleveland-hopkins-airport-to-deploy-liberty-defense-screening-systems-93CH-4929790",
-    "title": "Cleveland Hopkins airport to deploy Liberty Defense screening systems",
-    "tokens": [
-      "airport",
-      "cleveland",
-      "defense",
-      "deploy",
-      "hopkins",
-      "liberty",
-      "screening",
-      "systems"
-    ],
-    "ts": 1790944915.9926388
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/verra-mobility-names-jon-newhard-as-new-ceo-93CH-4929791",
-    "title": "Verra Mobility names Jon Newhard as new CEO",
-    "tokens": [
-      "ceo",
-      "jon",
-      "mobility",
-      "names",
-      "newhard",
-      "verra"
-    ],
-    "ts": 1790944925.9955673
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/5e-advanced-materials-completes-searles-valley-acquisition-93CH-4929786",
-    "title": "5E Advanced Materials completes Searles Valley acquisition",
-    "tokens": [
-      "acquisition",
-      "advanced",
-      "completes",
-      "materials",
-      "searles",
-      "valley"
-    ],
-    "ts": 1790944934.552164
-  },
-  {
-    "id": "a2305041-eb99-4205-8c7a-0d5f0eeffd61",
-    "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
-    "tokens": [
-      "000",
-      "added",
-      "jobs",
-      "just",
-      "rate",
-      "rising",
-      "september",
-      "unemployment"
-    ],
-    "ts": 1790944944.9333506
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/portugals-galp-explores-options-for-renewable-assets-bloomberg-reports-4929854",
-    "title": "Portugal’s Galp explores options for renewable assets, Bloomberg reports",
-    "tokens": [
-      "assets",
-      "bloomberg",
-      "explores",
-      "galp",
-      "options",
-      "portugal",
-      "renewable",
-      "reports"
-    ],
-    "ts": 1790945971.8422835
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/trump-says-us-deal-with-south-korea-includes-84-billionfor-oil-recovery-4929853",
-    "title": "Trump says US deal with South Korea includes $8.4 billion for oil recovery",
-    "tokens": [
-      "billion",
-      "deal",
-      "includes",
-      "korea",
-      "oil",
-      "recovery",
-      "south",
-      "trump"
-    ],
-    "ts": 1790945979.705448
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-hold-on-resmed-stock-amid-market-share-concerns-93CH-4929852",
-    "title": "Stifel reiterates Hold on ResMed stock amid market share concerns",
-    "tokens": [
-      "concerns",
-      "hold",
-      "market",
-      "reiterates",
-      "resmed",
-      "share",
-      "stifel",
-      "stock"
-    ],
-    "ts": 1790945988.678425
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-servicetitan-stock-ahead-of-conference-93CH-4929851",
-    "title": "Stifel reiterates Buy on ServiceTitan stock ahead of conference",
-    "tokens": [
-      "ahead",
-      "buy",
-      "conference",
-      "reiterates",
-      "servicetitan",
-      "stifel",
-      "stock"
-    ],
-    "ts": 1790945996.7355003
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-spyglass-pharma-stock-buy-rating-on-acquisition-93CH-4929850",
-    "title": "Stifel reiterates SpyGlass Pharma stock Buy rating on acquisition",
-    "tokens": [
-      "acquisition",
-      "buy",
-      "pharma",
-      "rating",
-      "reiterates",
-      "spyglass",
-      "stifel",
-      "stock"
-    ],
-    "ts": 1790946005.7157745
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/us-economy-adds-29000-jobs-in-september-4929771",
-    "title": "U.S. economy adds fewer jobs than expected as unemployment rate ticks higher",
-    "tokens": [
-      "adds",
-      "economy",
-      "expected",
-      "fewer",
-      "higher",
-      "jobs",
-      "rate",
-      "ticks",
-      "unemployment"
-    ],
-    "ts": 1790946013.883741
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/soft-september-jobs-report-sends-markets-higher-4929845",
-    "title": "Soft September jobs report sends markets higher",
-    "tokens": [
-      "higher",
-      "jobs",
-      "markets",
-      "report",
-      "sends",
-      "september",
-      "soft"
-    ],
-    "ts": 1790946023.1356413
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/keybanc-bullish-on-airbnb-sees-hotels-as-second-growth-engine-4929844",
-    "title": "KeyBanc bullish on Airbnb, sees hotels as second growth engine",
-    "tokens": [
-      "airbnb",
-      "bullish",
-      "engine",
-      "growth",
-      "hotels",
-      "keybanc",
-      "second",
-      "sees"
-    ],
-    "ts": 1790946031.9417062
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-glaukos-stock-rating-on-strong-epioxa-survey-93CH-4929830",
-    "title": "Stifel reiterates Glaukos stock rating on strong Epioxa survey",
-    "tokens": [
-      "epioxa",
-      "glaukos",
-      "rating",
-      "reiterates",
-      "stifel",
-      "stock",
-      "strong",
-      "survey"
-    ],
-    "ts": 1790946040.0093493
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-federal-realty-stock-hold-rating-after-acquisition-93CH-4929829",
-    "title": "Stifel reiterates Federal Realty stock Hold rating after acquisition",
-    "tokens": [
-      "acquisition",
-      "federal",
-      "hold",
-      "rating",
-      "realty",
-      "reiterates",
-      "stifel",
-      "stock"
-    ],
-    "ts": 1790946048.3981028
-  },
-  {
-    "id": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
-    "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
-    "tokens": [
-      "circle",
-      "mica",
-      "reserve",
-      "review",
-      "revise",
-      "rules",
-      "stablecoin",
-      "urges"
-    ],
-    "ts": 1790946057.6495624
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-    "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-    "tokens": [
-      "agencies",
-      "banking",
-      "feedback",
-      "letters",
-      "organizations",
-      "plan",
-      "publish",
-      "resolution"
-    ],
-    "ts": 1790946065.806641
-  },
-  {
-    "id": "WP-MKTW-0005266734",
-    "title": "Why Western Digital and Seagate are seeing big stock drops today",
-    "tokens": [
-      "big",
-      "digital",
-      "drops",
-      "seagate",
-      "seeing",
-      "stock",
-      "today",
-      "western",
-      "why"
-    ],
-    "ts": 1790947281.4669206
-  },
-  {
-    "id": "WP-MKTW-0005266711",
-    "title": "Tesla’s EV sales beat Wall Street’s expectations again, and the stock jumps",
-    "tokens": [
-      "again",
-      "beat",
-      "expectations",
-      "jumps",
-      "sales",
-      "stock",
-      "street",
-      "tesla",
-      "wall"
-    ],
-    "ts": 1790948675.4048984
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/decent-holding-announces-123-million-registered-direct-offering-93CH-4929929",
-    "title": "Decent Holding announces $1.23 million registered direct offering",
-    "tokens": [
-      "announces",
-      "decent",
-      "direct",
-      "holding",
-      "million",
-      "offering",
-      "registered"
-    ],
-    "ts": 1790948684.8498573
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/versant-renews-multiyear-distribution-deal-with-verizon-93CH-4929928",
-    "title": "Versant renews multi-year distribution deal with Verizon",
-    "tokens": [
-      "deal",
-      "distribution",
-      "multi",
-      "renews",
-      "verizon",
-      "versant",
-      "year"
-    ],
-    "ts": 1790948693.1591408
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-accenture-stock-price-target-on-ai-momentum-93CH-4929924",
-    "title": "RBC Capital raises Accenture stock price target on AI momentum",
-    "tokens": [
-      "accenture",
-      "capital",
-      "momentum",
-      "price",
-      "raises",
-      "rbc",
-      "stock",
-      "target"
-    ],
-    "ts": 1790948702.4524264
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-neutral-rating-on-applovin-stock-at-325-93CH-4929923",
-    "title": "Piper Sandler reiterates Neutral rating on AppLovin stock at $325",
-    "tokens": [
-      "325",
-      "applovin",
-      "neutral",
-      "piper",
-      "rating",
-      "reiterates",
-      "sandler",
-      "stock"
-    ],
-    "ts": 1790948711.363167
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-maintains-outperform-on-constellation-brands-stock-amid-volume-pressures-93CH-4929921",
-    "title": "RBC Capital maintains Outperform on Constellation Brands stock amid volume pressures",
-    "tokens": [
-      "brands",
-      "capital",
-      "constellation",
-      "maintains",
-      "outperform",
-      "pressures",
-      "rbc",
-      "stock",
-      "volume"
-    ],
-    "ts": 1790948723.479288
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-ltc-properties-stock-price-target-on-shop-expansion-93CH-4929922",
-    "title": "RBC Capital raises LTC Properties stock price target on SHOP expansion",
-    "tokens": [
-      "capital",
-      "expansion",
-      "ltc",
-      "price",
-      "properties",
-      "raises",
-      "rbc",
-      "shop",
-      "stock",
-      "target"
-    ],
-    "ts": 1790948733.057926
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cj-cheiljedang-and-adm-form-amino-acid-joint-venture-93CH-4929920",
-    "title": "CJ CheilJedang and ADM form amino acid joint venture",
-    "tokens": [
-      "acid",
-      "adm",
-      "amino",
-      "cheiljedang",
-      "form",
-      "joint",
-      "venture"
-    ],
-    "ts": 1790948742.2413177
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cable-one-in-financing-talks-to-address-capital-needs-93CH-4929919",
-    "title": "Cable One in financing talks to address capital needs",
-    "tokens": [
-      "address",
-      "cable",
-      "capital",
-      "financing",
-      "needs",
-      "one",
-      "talks"
-    ],
-    "ts": 1790948751.0102165
-  },
-  {
-    "id": "0ee2ef92-9303-4977-ada4-3af266aeaf02",
-    "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
-    "tokens": [
-      "america",
-      "challenge",
-      "commissioner",
-      "crossroads",
-      "parting",
-      "peirce"
-    ],
-    "ts": 1790948761.2427168
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits",
-    "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
-    "tokens": [
-      "about",
-      "debate",
-      "furious",
-      "idealism",
-      "limits",
-      "near",
-      "shows",
-      "thorchain"
-    ],
-    "ts": 1790948771.7853963
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/proto-labs-stock-hits-52week-high-at-9851-usd-93CH-4930020",
-    "title": "Proto Labs stock hits 52-week high at 98.51 USD",
-    "tokens": [
-      "high",
-      "hits",
-      "labs",
-      "proto",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790949588.3299859
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/karat-packaging-inc-stock-hits-alltime-high-of-5478-usd-93CH-4930019",
-    "title": "Karat Packaging Inc stock hits all-time high of 54.78 USD",
-    "tokens": [
-      "all",
-      "high",
-      "hits",
-      "inc",
-      "karat",
-      "packaging",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1790949588.3412075
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/oxford-biomedica-grants-share-options-to-chief-operating-officer-93CH-4930011",
-    "title": "Oxford Biomedica grants share options to chief operating officer",
-    "tokens": [
-      "biomedica",
-      "chief",
-      "grants",
-      "officer",
-      "operating",
-      "options",
-      "oxford",
-      "share"
-    ],
-    "ts": 1790949596.783123
-  },
-  {
     "id": "https://www.investing.com/news/company-news/nvidia-stock-hits-alltime-high-of-23657-usd-93CH-4930010",
     "title": "Nvidia stock hits all-time high of 236.57 USD",
     "tokens": [
@@ -23622,5 +23123,571 @@
       "spring"
     ],
     "ts": 1791954849.6524982
+  },
+  {
+    "id": "WP-MKTW-0005285289",
+    "title": "The truth about being a landlord in retirement",
+    "tokens": [
+      "about",
+      "being",
+      "landlord",
+      "retirement",
+      "truth"
+    ],
+    "ts": 1791972939.883109
+  },
+  {
+    "id": "WP-MKTW-0005286233",
+    "title": "Investors have made big bets on tech stocks. Why one strategist just downgraded the sector.",
+    "tokens": [
+      "bets",
+      "big",
+      "downgraded",
+      "investors",
+      "just",
+      "made",
+      "one",
+      "sector",
+      "stocks",
+      "strategist",
+      "tech",
+      "why"
+    ],
+    "ts": 1791972948.0601008
+  },
+  {
+    "id": "WP-MKTW-0005285328",
+    "title": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?",
+    "tokens": [
+      "000",
+      "110",
+      "50s",
+      "earn",
+      "failure",
+      "great",
+      "home",
+      "judged",
+      "lost",
+      "recession",
+      "renting",
+      "why",
+      "year"
+    ],
+    "ts": 1791972956.7337
+  },
+  {
+    "id": "WP-MKTW-0005280558",
+    "title": "‘Sopranos’ star Steven Van Zandt is selling his Greenwich Village penthouse for $19 million",
+    "tokens": [
+      "greenwich",
+      "his",
+      "million",
+      "penthouse",
+      "selling",
+      "sopranos",
+      "star",
+      "steven",
+      "van",
+      "village",
+      "zandt"
+    ],
+    "ts": 1791972965.571623
+  },
+  {
+    "id": "WP-MKTW-0005286170",
+    "title": "Chip bellwether ASML says customers are already asking to place orders — for 2030",
+    "tokens": [
+      "2030",
+      "already",
+      "asking",
+      "asml",
+      "bellwether",
+      "chip",
+      "customers",
+      "orders",
+      "place"
+    ],
+    "ts": 1791972973.5008256
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/kbr-declares-0165-quarterly-dividend-ahead-of-business-split-93CH-4948554",
+    "title": "KBR declares $0.165 quarterly dividend ahead of business split",
+    "tokens": [
+      "165",
+      "ahead",
+      "business",
+      "declares",
+      "dividend",
+      "kbr",
+      "quarterly",
+      "split"
+    ],
+    "ts": 1791972982.423828
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/jpmorgan-chase-crosses-5-threshold-in-central-asia-metals-93CH-4948548",
+    "title": "JPMorgan Chase crosses 5% threshold in Central Asia Metals",
+    "tokens": [
+      "asia",
+      "central",
+      "chase",
+      "crosses",
+      "jpmorgan",
+      "metals",
+      "threshold"
+    ],
+    "ts": 1791972991.2272148
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/irh-and-zccm-explore-new-mining-opportunities-in-zambia-93CH-4948547",
+    "title": "IRH and ZCCM explore new mining opportunities in Zambia",
+    "tokens": [
+      "explore",
+      "irh",
+      "mining",
+      "opportunities",
+      "zambia",
+      "zccm"
+    ],
+    "ts": 1791972999.8518465
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/truist-initiates-entegris-stock-coverage-with-buy-rating-on-chip-content-growth-93CH-4948543",
+    "title": "Truist initiates Entegris stock coverage with buy rating on chip content growth",
+    "tokens": [
+      "buy",
+      "chip",
+      "content",
+      "coverage",
+      "entegris",
+      "growth",
+      "initiates",
+      "rating",
+      "stock",
+      "truist"
+    ],
+    "ts": 1791973018.3198323
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-dominos-pizza-stock-price-target-on-weaker-comps-93CH-4948542",
+    "title": "Wells Fargo cuts Domino’s Pizza stock price target on weaker comps",
+    "tokens": [
+      "comps",
+      "cuts",
+      "domino",
+      "fargo",
+      "pizza",
+      "price",
+      "stock",
+      "target",
+      "weaker",
+      "wells"
+    ],
+    "ts": 1791973027.8815851
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-albertsons-stock-price-target-on-q2-beat-93CH-4948541",
+    "title": "Wells Fargo raises Albertsons stock price target on Q2 beat",
+    "tokens": [
+      "albertsons",
+      "beat",
+      "fargo",
+      "price",
+      "raises",
+      "stock",
+      "target",
+      "wells"
+    ],
+    "ts": 1791973037.4566386
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/space-startups-secure-record-208-billion-funding-as-infrastructure-bets-surge-report-shows-4948434",
+    "title": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows",
+    "tokens": [
+      "bets",
+      "billion",
+      "funding",
+      "infrastructure",
+      "record",
+      "report",
+      "secure",
+      "shows",
+      "space",
+      "startups",
+      "surge"
+    ],
+    "ts": 1791973046.0783436
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/myxrpfi-opens-public-access-after-81-million-xrp-institutional-phase-4948538",
+    "title": "myXRP.fi Opens Public Access After 8.1 Million XRP Institutional Phase",
+    "tokens": [
+      "access",
+      "institutional",
+      "million",
+      "myxrp",
+      "opens",
+      "phase",
+      "public",
+      "xrp"
+    ],
+    "ts": 1791973054.7544978
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bybit-kazakhstan-signs-moc-with-aifc-digital-asset-investments-on-bybit-kz-now-recognised-under-aifcs-itrp-4948539",
+    "title": "Bybit Kazakhstan Signs MoC with AIFC: Digital Asset Investments on Bybit KZ Now Recognised under AIFC’s ITRP",
+    "tokens": [
+      "aifc",
+      "asset",
+      "bybit",
+      "digital",
+      "investments",
+      "itrp",
+      "kazakhstan",
+      "moc",
+      "now",
+      "recognised",
+      "signs",
+      "under"
+    ],
+    "ts": 1791973063.884445
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/onsemi-and-sungrow-advance-utility-scale-energy-storage-performance-with-sic-hybrid-technology-1036624843",
+    "title": "onsemi and Sungrow Advance Utility-Scale Energy Storage Performance with SiC Hybrid Technology",
+    "tokens": [
+      "advance",
+      "energy",
+      "hybrid",
+      "onsemi",
+      "performance",
+      "scale",
+      "sic",
+      "storage",
+      "sungrow",
+      "technology",
+      "utility"
+    ],
+    "ts": 1791973073.1781938
+  },
+  {
+    "id": "https://www.businessinsider.com/anthropic-ipo-situational-awareness-leopold-aschenbrenner-2026-10",
+    "title": "How Anthropic's IPO could turn Leopold Aschenbrenner's best asset into his biggest risk",
+    "tokens": [
+      "anthropic",
+      "aschenbrenner",
+      "asset",
+      "best",
+      "biggest",
+      "could",
+      "his",
+      "how",
+      "ipo",
+      "leopold",
+      "risk",
+      "turn"
+    ],
+    "ts": 1791973082.477896
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/radware-introduces-model-context-protocol-mcp-server-protection-to-help-secure-the-integration-layer-of-agentic-ai-1036624834",
+    "title": "Radware Introduces Model Context Protocol (MCP) Server Protection to Help Secure the Integration Layer of Agentic AI",
+    "tokens": [
+      "agentic",
+      "context",
+      "help",
+      "integration",
+      "introduces",
+      "layer",
+      "mcp",
+      "model",
+      "protection",
+      "protocol",
+      "radware",
+      "secure",
+      "server"
+    ],
+    "ts": 1791973091.4610894
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/owlting-group-nasdaq-owls-and-decaf-open-u-s-dollar-accounts-beyond-the-united-states-on-owlpay-harbor-1036624835",
+    "title": "Owlting Group (NASDAQ: OWLS) and Decaf Open U.S. Dollar Accounts Beyond the United States on OwlPay Harbor",
+    "tokens": [
+      "accounts",
+      "beyond",
+      "decaf",
+      "dollar",
+      "group",
+      "harbor",
+      "nasdaq",
+      "open",
+      "owlpay",
+      "owls",
+      "owlting",
+      "states",
+      "united"
+    ],
+    "ts": 1791973099.7252474
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/visionwave-advances-stratum-ai-an-agentic-ai-architecture-for-autonomous-mission-intelligence-and-orchestration-1036624836",
+    "title": "VisionWave Advances Stratum AI, an Agentic AI Architecture for Autonomous Mission Intelligence and Orchestration",
+    "tokens": [
+      "advances",
+      "agentic",
+      "architecture",
+      "autonomous",
+      "intelligence",
+      "mission",
+      "orchestration",
+      "stratum",
+      "visionwave"
+    ],
+    "ts": 1791973109.4532938
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/dryden-gold-corp-presenting-at-the-otc-precious-metals-critical-minerals-virtual-investor-conference-1036624837",
+    "title": "Dryden Gold Corp. Presenting at the OTC Precious Metals & Critical Minerals Virtual Investor Conference",
+    "tokens": [
+      "conference",
+      "corp",
+      "critical",
+      "dryden",
+      "gold",
+      "investor",
+      "metals",
+      "minerals",
+      "otc",
+      "precious",
+      "presenting",
+      "virtual"
+    ],
+    "ts": 1791973117.7515297
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/generac-announces-third-quarter-2026-earnings-release-date-and-conference-call-1036624838",
+    "title": "Generac Announces Third Quarter 2026 Earnings Release Date and Conference Call",
+    "tokens": [
+      "2026",
+      "announces",
+      "call",
+      "conference",
+      "date",
+      "earnings",
+      "generac",
+      "quarter",
+      "release",
+      "third"
+    ],
+    "ts": 1791973126.174487
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/sonatype-unveils-nexus-repository-pro-to-stop-malicious-components-before-developers-or-ai-agents-pull-them-into-builds-1036624839",
+    "title": "Sonatype Unveils Nexus Repository Pro+ to Stop Malicious Components Before Developers or AI Agents Pull Them Into Builds",
+    "tokens": [
+      "agents",
+      "before",
+      "builds",
+      "components",
+      "developers",
+      "malicious",
+      "nexus",
+      "pro",
+      "pull",
+      "repository",
+      "sonatype",
+      "stop",
+      "them",
+      "unveils"
+    ],
+    "ts": 1791973136.4054165
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/kbr-dividend-declaration-1036624840",
+    "title": "KBR Dividend Declaration",
+    "tokens": [
+      "declaration",
+      "dividend",
+      "kbr"
+    ],
+    "ts": 1791973144.6310139
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/black-hawk-acquisition-corporation-announces-redemption-results-in-connection-with-its-business-combination-with-vesicor-therapeutics-inc-1036624841",
+    "title": "Black Hawk Acquisition Corporation Announces Redemption Results in Connection With Its Business Combination With Vesicor Therapeutics Inc.",
+    "tokens": [
+      "acquisition",
+      "announces",
+      "black",
+      "business",
+      "combination",
+      "connection",
+      "corporation",
+      "hawk",
+      "inc",
+      "redemption",
+      "results",
+      "therapeutics",
+      "vesicor"
+    ],
+    "ts": 1791973153.1725216
+  },
+  {
+    "id": "oilprice-news-45760",
+    "title": "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.",
+    "tokens": [
+      "fears",
+      "fresh",
+      "fuel",
+      "gasoline",
+      "inflation",
+      "prices",
+      "rising"
+    ],
+    "ts": 1791973162.5621417
+  },
+  {
+    "id": "868b43d6-fec7-4d62-91e8-0aa8a02ceae4",
+    "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
+    "tokens": [
+      "000",
+      "ahead",
+      "bitcoin",
+      "data",
+      "inflation",
+      "live",
+      "near",
+      "tumbles",
+      "updates"
+    ],
+    "ts": 1791973167.2252421
+  },
+  {
+    "id": "0caa13ae-c76a-4fc5-9a14-2ddbf71d8d73",
+    "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
+    "tokens": [
+      "could",
+      "crypto",
+      "drive",
+      "french",
+      "offshore",
+      "proposed",
+      "regulated",
+      "stablecoins",
+      "tax",
+      "traders"
+    ],
+    "ts": 1791973171.2724032
+  },
+  {
+    "id": "93732ff9-7a89-4bd1-9a4c-72b05e6a1420",
+    "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+    "tokens": [
+      "affluent",
+      "bitcoin",
+      "chartered",
+      "clients",
+      "direct",
+      "ether",
+      "standard",
+      "trading",
+      "uae",
+      "unlocks"
+    ],
+    "ts": 1791973180.8970156
+  },
+  {
+    "id": "adad680e-f30c-4a1f-9707-7b773dad7220",
+    "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+    "tokens": [
+      "all",
+      "bitcoin",
+      "coinbase",
+      "fix",
+      "holds",
+      "now",
+      "quantum",
+      "started",
+      "wants",
+      "which"
+    ],
+    "ts": 1791973189.4389966
+  },
+  {
+    "id": "f6fdba11-9a65-4aeb-a782-d1a26c519a0b",
+    "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+    "tokens": [
+      "adds",
+      "ledger",
+      "million",
+      "owned",
+      "pass",
+      "payments",
+      "ripple",
+      "stripe",
+      "wallets",
+      "xrp"
+    ],
+    "ts": 1791973198.6994889
+  },
+  {
+    "id": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae",
+    "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+    "tokens": [
+      "bitcoin",
+      "chartered",
+      "ether",
+      "expands",
+      "investors",
+      "professional",
+      "standard",
+      "trading",
+      "uae"
+    ],
+    "ts": 1791973207.123971
+  },
+  {
+    "id": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity",
+    "title": "Starknet introduces wallet privacy feature for DeFi activity",
+    "tokens": [
+      "activity",
+      "defi",
+      "feature",
+      "introduces",
+      "privacy",
+      "starknet",
+      "wallet"
+    ],
+    "ts": 1791973215.7715428
+  },
+  {
+    "id": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years",
+    "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+    "tokens": [
+      "beyond",
+      "fed",
+      "lasting",
+      "sees",
+      "squeeze",
+      "supply",
+      "williams",
+      "years"
+    ],
+    "ts": 1791973223.8957548
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+    "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+    "tokens": [
+      "agencies",
+      "banking",
+      "feedback",
+      "letters",
+      "organizations",
+      "plan",
+      "publish",
+      "resolution"
+    ],
+    "ts": 1791973232.227266
   }
 ]

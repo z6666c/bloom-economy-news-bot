@@ -1,281 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/forterra-employee-trust-buys-75000-shares-at-1532-93CH-4929472",
-    "title": "Forterra employee trust buys 75,000 shares at £1.532",
-    "tokens": [
-      "000",
-      "532",
-      "buys",
-      "employee",
-      "forterra",
-      "shares",
-      "trust"
-    ],
-    "ts": 1790939680.7401485
-  },
-  {
-    "id": "https://www.investing.com/news/investment-ideas/rocket-labs-43-plunge-validates-investingpros-overvalued-call-93CH-4929471",
-    "title": "Rocket Lab’s 43% plunge validates InvestingPro’s overvalued call",
-    "tokens": [
-      "call",
-      "investingpro",
-      "lab",
-      "overvalued",
-      "plunge",
-      "rocket",
-      "validates"
-    ],
-    "ts": 1790939688.5430117
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/germany-mulls-tougher-takeover-rules-after-unicredit-deal--report-93CH-4929469",
-    "title": "Germany mulls tougher takeover rules after UniCredit deal - report",
-    "tokens": [
-      "deal",
-      "germany",
-      "mulls",
-      "report",
-      "rules",
-      "takeover",
-      "tougher",
-      "unicredit"
-    ],
-    "ts": 1790939696.3001432
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/morning-bid-yield-to-worst-4929468",
-    "title": "Morning Bid: Yield to worst",
-    "tokens": [
-      "bid",
-      "morning",
-      "worst",
-      "yield"
-    ],
-    "ts": 1790939704.5220695
-  },
-  {
-    "id": "https://cointelegraph.com/interview/bitcoin-treasuries-struggle-strategy-says-ammous",
-    "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
-    "tokens": [
-      "ammous",
-      "bitcoin",
-      "match",
-      "may",
-      "strategy",
-      "struggle",
-      "treasuries"
-    ],
-    "ts": 1790939714.313339
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/lucid-capital-markets-initiates-service-properties-trust-stock-with-buy-rating-93CH-4929510",
-    "title": "Lucid Capital Markets initiates Service Properties Trust stock with buy rating",
-    "tokens": [
-      "buy",
-      "capital",
-      "initiates",
-      "lucid",
-      "markets",
-      "properties",
-      "rating",
-      "service",
-      "stock",
-      "trust"
-    ],
-    "ts": 1790940715.2074552
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/clear-street-maintains-hold-on-mara-holdings-stock-10-target-93CH-4929509",
-    "title": "Clear Street maintains Hold on MARA Holdings stock, $10 target",
-    "tokens": [
-      "clear",
-      "hold",
-      "holdings",
-      "maintains",
-      "mara",
-      "stock",
-      "street",
-      "target"
-    ],
-    "ts": 1790940727.3770094
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hub-group-board-undergoes-major-restructuring-amid-delisting-appeal-93CH-4929508",
-    "title": "Hub Group board undergoes major restructuring amid delisting appeal",
-    "tokens": [
-      "appeal",
-      "board",
-      "delisting",
-      "group",
-      "hub",
-      "major",
-      "restructuring",
-      "undergoes"
-    ],
-    "ts": 1790940736.1809244
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/exclusiveopec-delays-oil-capacity-review-after-iran-war-disrupts-expansion-plans-sources-say-4929507",
-    "title": "Exclusive-OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say",
-    "tokens": [
-      "capacity",
-      "delays",
-      "disrupts",
-      "exclusive",
-      "expansion",
-      "iran",
-      "oil",
-      "opec",
-      "plans",
-      "review",
-      "say",
-      "sources",
-      "war"
-    ],
-    "ts": 1790940744.9430974
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/morgan-stanley-raises-legrand-pt-keeps-stock-as-top-pick-on-growth-4929506",
-    "title": "Morgan Stanley raises Legrand PT, keeps stock as top pick on growth",
-    "tokens": [
-      "growth",
-      "keeps",
-      "legrand",
-      "morgan",
-      "pick",
-      "raises",
-      "stanley",
-      "stock",
-      "top"
-    ],
-    "ts": 1790940753.4790285
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/blackrock-expects-to-sustain-asset-growth-in-brazil-regardless-of-election-outcome-4929480",
-    "title": "BlackRock expects to sustain asset growth in Brazil regardless of election outcome",
-    "tokens": [
-      "asset",
-      "blackrock",
-      "brazil",
-      "election",
-      "expects",
-      "growth",
-      "outcome",
-      "regardless",
-      "sustain"
-    ],
-    "ts": 1790940762.2732265
-  },
-  {
-    "id": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-nails-65-gain-on-similarweb-stock-93CH-4929490",
-    "title": "InvestingPro Fair Value nails 65% gain on Similarweb stock",
-    "tokens": [
-      "fair",
-      "gain",
-      "investingpro",
-      "nails",
-      "similarweb",
-      "stock",
-      "value"
-    ],
-    "ts": 1790940772.0004194
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/premarket-movers-ike-tumbles-10-synaptics-jumps-on-57b-deal-4929481",
-    "title": "Premarket movers: ike tumbles 10%, Synaptics jumps on $5.7B deal",
-    "tokens": [
-      "deal",
-      "ike",
-      "jumps",
-      "movers",
-      "premarket",
-      "synaptics",
-      "tumbles"
-    ],
-    "ts": 1790940784.2340872
-  },
-  {
-    "id": "fbd0c6dd-34d3-45dc-ae88-fc2e8ad69ed0",
-    "title": "Cboe wants to turn VIX into a never-ending trade",
-    "tokens": [
-      "cboe",
-      "ending",
-      "never",
-      "trade",
-      "turn",
-      "vix",
-      "wants"
-    ],
-    "ts": 1790940793.9865363
-  },
-  {
-    "id": "fd7e28fa-2b6e-4335-a513-55e0fbabb49d",
-    "title": "Live updates: Bitcoin, gold and tech futures edge higher as markets await U.S. jobs report",
-    "tokens": [
-      "await",
-      "bitcoin",
-      "edge",
-      "futures",
-      "gold",
-      "higher",
-      "jobs",
-      "live",
-      "markets",
-      "report",
-      "tech",
-      "updates"
-    ],
-    "ts": 1790940802.5201087
-  },
-  {
-    "id": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous",
-    "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
-    "tokens": [
-      "ammous",
-      "bitcoin",
-      "match",
-      "may",
-      "strategy",
-      "struggle",
-      "treasuries"
-    ],
-    "ts": 1790940806.6140535
-  },
-  {
-    "id": "WP-MKTW-0005265511",
-    "title": "I’m in my 20s and keep getting laid off. Should I invest in my employer’s 401(k) or look into other options?",
-    "tokens": [
-      "20s",
-      "401",
-      "employer",
-      "getting",
-      "invest",
-      "keep",
-      "laid",
-      "look",
-      "off",
-      "options",
-      "other",
-      "should"
-    ],
-    "ts": 1790942163.9654548
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/eni-ceo-met-argentinas-milei-to-discuss-lng-project-93CH-4929583",
-    "title": "Eni CEO met Argentina’s Milei to discuss LNG project",
-    "tokens": [
-      "argentina",
-      "ceo",
-      "discuss",
-      "eni",
-      "lng",
-      "met",
-      "milei",
-      "project"
-    ],
-    "ts": 1790942172.8637176
-  },
-  {
     "id": "https://www.investing.com/news/commodities-news/opec-quotas-review-delayed-amid-iran-war--report-4929577",
     "title": "OPEC+ quotas review delayed amid Iran war - report",
     "tokens": [
@@ -23615,5 +23339,283 @@
       "september"
     ],
     "ts": 1791926016.707439
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-houthisaudi-attacks-spur-supply-uncertainty-4947751",
+    "title": "Oil prices rise as Houthi-Saudi attacks spur supply uncertainty",
+    "tokens": [
+      "attacks",
+      "houthi",
+      "oil",
+      "prices",
+      "rise",
+      "saudi",
+      "spur",
+      "supply",
+      "uncertainty"
+    ],
+    "ts": 1791937115.1959932
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/zoom-communications-director-mcmaster-sells-284120-in-stock-93CH-4947750",
+    "title": "Zoom communications director McMaster sells $284,120 in stock",
+    "tokens": [
+      "120",
+      "284",
+      "communications",
+      "director",
+      "mcmaster",
+      "sells",
+      "stock",
+      "zoom"
+    ],
+    "ts": 1791937126.3485477
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/trump-administration-to-expand-a-delek-texas-refinery-using-defense-productionact-4947737",
+    "title": "Trump administration to expand a Delek Texas refinery using Defense ​Production ⁠Act",
+    "tokens": [
+      "act",
+      "administration",
+      "defense",
+      "delek",
+      "expand",
+      "production",
+      "refinery",
+      "texas",
+      "trump",
+      "using"
+    ],
+    "ts": 1791937135.0848565
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cheetah-net-ceo-huan-liu-buys-330000-of-class-b-stock-93CH-4947736",
+    "title": "Cheetah Net CEO Huan Liu buys $330,000 of class B stock",
+    "tokens": [
+      "000",
+      "330",
+      "buys",
+      "ceo",
+      "cheetah",
+      "class",
+      "huan",
+      "liu",
+      "net",
+      "stock"
+    ],
+    "ts": 1791937142.9561856
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/zoom-president-of-engineering--product-velchamy-sells-758k-in-stock-93CH-4947735",
+    "title": "Zoom president of engineering & product Velchamy sells $758k in stock",
+    "tokens": [
+      "758k",
+      "engineering",
+      "president",
+      "product",
+      "sells",
+      "stock",
+      "velchamy",
+      "zoom"
+    ],
+    "ts": 1791937152.522505
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/zoom-cfo-michelle-chang-sells-844k-in-stock-prices-98679984-93CH-4947734",
+    "title": "Zoom CFO Michelle Chang sells $844k in stock, prices $98.67-$99.84",
+    "tokens": [
+      "844k",
+      "cfo",
+      "chang",
+      "michelle",
+      "prices",
+      "sells",
+      "stock",
+      "zoom"
+    ],
+    "ts": 1791937160.6075144
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/rhythm-pharmaceuticals-launches-imcivree-in-japan-for-obesity-93CH-4947726",
+    "title": "Rhythm Pharmaceuticals launches IMCIVREE in Japan for obesity",
+    "tokens": [
+      "imcivree",
+      "japan",
+      "launches",
+      "obesity",
+      "pharmaceuticals",
+      "rhythm"
+    ],
+    "ts": 1791937168.6825917
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/arista-networks-ceo-ullal-sells-344m-in-company-stock-93CH-4947722",
+    "title": "Arista Networks CEO Ullal sells $34.4m in company stock",
+    "tokens": [
+      "arista",
+      "ceo",
+      "company",
+      "networks",
+      "sells",
+      "stock",
+      "ullal"
+    ],
+    "ts": 1791937176.6017506
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-coo-julie-rubinstein-sells-919870-in-stock-93CH-4947721",
+    "title": "Adaptive Biotechnologies COO Julie Rubinstein sells $919,870 in stock",
+    "tokens": [
+      "870",
+      "919",
+      "adaptive",
+      "biotechnologies",
+      "coo",
+      "julie",
+      "rubinstein",
+      "sells",
+      "stock"
+    ],
+    "ts": 1791937184.2987666
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/stonex-group-executive-vicechairman-oconnor-disposes-of-46m-shares-93CH-4947720",
+    "title": "StoneX Group executive vice-chairman O’Connor disposes of $4.6m shares",
+    "tokens": [
+      "chairman",
+      "connor",
+      "disposes",
+      "executive",
+      "group",
+      "shares",
+      "stonex",
+      "vice"
+    ],
+    "ts": 1791937192.5872488
+  },
+  {
+    "id": "oilprice-article-45762",
+    "title": "Wall Street Sees Inflation Easing Even With Oil Above $90",
+    "tokens": [
+      "above",
+      "easing",
+      "even",
+      "inflation",
+      "oil",
+      "sees",
+      "street",
+      "wall"
+    ],
+    "ts": 1791937203.6158795
+  },
+  {
+    "id": "oilprice-article-45761",
+    "title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
+    "tokens": [
+      "americas",
+      "crude",
+      "heavy",
+      "leave",
+      "rates",
+      "record",
+      "stranded",
+      "tanker"
+    ],
+    "ts": 1791937211.985653
+  },
+  {
+    "id": "oilprice-article-45760",
+    "title": "Stranded Middle East LNG Supply Upends Gas Markets",
+    "tokens": [
+      "east",
+      "gas",
+      "lng",
+      "markets",
+      "middle",
+      "stranded",
+      "supply",
+      "upends"
+    ],
+    "ts": 1791937220.8395464
+  },
+  {
+    "id": "oilprice-news-45762",
+    "title": "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027",
+    "tokens": [
+      "2027",
+      "bpd",
+      "demand",
+      "growth",
+      "million",
+      "oil",
+      "opec",
+      "sees",
+      "surging"
+    ],
+    "ts": 1791937229.7104497
+  },
+  {
+    "id": "oilprice-news-45761",
+    "title": "Argentina Takes Falklands Oil Fight to International Tribunal",
+    "tokens": [
+      "argentina",
+      "falklands",
+      "fight",
+      "international",
+      "oil",
+      "takes",
+      "tribunal"
+    ],
+    "ts": 1791937233.7232041
+  },
+  {
+    "id": "7cd06237-b0bf-44e8-a2ee-f4718e113352",
+    "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+    "tokens": [
+      "500",
+      "additional",
+      "bitcoin",
+      "buy",
+      "class",
+      "million",
+      "preferred",
+      "raising",
+      "share",
+      "strive"
+    ],
+    "ts": 1791937239.100328
+  },
+  {
+    "id": "0874f231-f93c-4d90-9563-9fbbe0342ca4",
+    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+    "tokens": [
+      "bny",
+      "citadel",
+      "financing",
+      "securities",
+      "speed",
+      "street",
+      "test",
+      "tokenized",
+      "treasuries",
+      "wall"
+    ],
+    "ts": 1791937246.848368
+  },
+  {
+    "id": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong",
+    "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+    "tokens": [
+      "asia",
+      "asks",
+      "halt",
+      "hong",
+      "kong",
+      "ledger",
+      "resellers",
+      "sales",
+      "southeast"
+    ],
+    "ts": 1791937254.663709
   }
 ]

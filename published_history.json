@@ -1,212 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/opec-quotas-review-delayed-amid-iran-war--report-4929577",
-    "title": "OPEC+ quotas review delayed amid Iran war - report",
-    "tokens": [
-      "delayed",
-      "iran",
-      "opec",
-      "quotas",
-      "report",
-      "review",
-      "war"
-    ],
-    "ts": 1790942181.3644419
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/analysisnikes-struggles-test-investor-confidence-in-ceo-hills-turnaround-effort-4929572",
-    "title": "Analysis-Nike’s struggles test investor confidence in CEO Hill’s turnaround effort",
-    "tokens": [
-      "analysis",
-      "ceo",
-      "confidence",
-      "effort",
-      "hill",
-      "investor",
-      "nike",
-      "struggles",
-      "test",
-      "turnaround"
-    ],
-    "ts": 1790942192.6827595
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/wedbush-cuts-foghorn-therapeutics-stock-rating-on-drug-setback-93CH-4929573",
-    "title": "Wedbush cuts Foghorn Therapeutics stock rating on drug setback",
-    "tokens": [
-      "cuts",
-      "drug",
-      "foghorn",
-      "rating",
-      "setback",
-      "stock",
-      "therapeutics",
-      "wedbush"
-    ],
-    "ts": 1790942201.3318372
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-bitdeer-stock-rating-on-ai-cloud-growth-93CH-4929570",
-    "title": "H.C. Wainwright reiterates Bitdeer stock rating on AI cloud growth",
-    "tokens": [
-      "bitdeer",
-      "cloud",
-      "growth",
-      "rating",
-      "reiterates",
-      "stock",
-      "wainwright"
-    ],
-    "ts": 1790942211.2417095
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/liquidia-stock-price-target-cut-to-58-by-hc-wainwright-on-patent-uncertainty-93CH-4929571",
-    "title": "Liquidia stock price target cut to $58 by H.C. Wainwright on patent uncertainty",
-    "tokens": [
-      "cut",
-      "liquidia",
-      "patent",
-      "price",
-      "stock",
-      "target",
-      "uncertainty",
-      "wainwright"
-    ],
-    "ts": 1790942219.9818494
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/foghorn-therapeutics-stock-price-target-cut-to-5-by-hc-wainwright-on-program-halt-93CH-4929568",
-    "title": "Foghorn Therapeutics stock price target cut to $5 by H.C. Wainwright on program halt",
-    "tokens": [
-      "cut",
-      "foghorn",
-      "halt",
-      "price",
-      "program",
-      "stock",
-      "target",
-      "therapeutics",
-      "wainwright"
-    ],
-    "ts": 1790942228.2179568
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-nektar-therapeutics-stock-rating-on-alopecia-data-93CH-4929569",
-    "title": "H.C. Wainwright reiterates Nektar Therapeutics stock rating on alopecia data",
-    "tokens": [
-      "alopecia",
-      "data",
-      "nektar",
-      "rating",
-      "reiterates",
-      "stock",
-      "therapeutics",
-      "wainwright"
-    ],
-    "ts": 1790942237.0152748
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/northland-initiates-ww-international-stock-with-outperform-rating-93CH-4929567",
-    "title": "Northland initiates WW International stock with Outperform rating",
-    "tokens": [
-      "initiates",
-      "international",
-      "northland",
-      "outperform",
-      "rating",
-      "stock"
-    ],
-    "ts": 1790942245.286608
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion",
-    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
-    "tokens": [
-      "bnb",
-      "chain",
-      "crosses",
-      "etfs",
-      "hits",
-      "market",
-      "stocks",
-      "tokenized"
-    ],
-    "ts": 1790942255.2728212
-  },
-  {
-    "id": "WP-MKTW-0005257658",
-    "title": "To win the humanoid-robots race, the U.S. needs this critical machine component that’s hard to find",
-    "tokens": [
-      "component",
-      "critical",
-      "find",
-      "hard",
-      "humanoid",
-      "machine",
-      "needs",
-      "race",
-      "robots",
-      "win"
-    ],
-    "ts": 1790944852.7038007
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ruanyun-edai-expects-firsthalf-revenue-of-up-to-95-million-93CH-4929796",
-    "title": "Ruanyun Edai expects first-half revenue of up to $9.5 million",
-    "tokens": [
-      "edai",
-      "expects",
-      "first",
-      "half",
-      "million",
-      "revenue",
-      "ruanyun"
-    ],
-    "ts": 1790944860.598181
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/rivian-deliveries-hit-record-high-as-r2-rollout-gains-momentum-4929797",
-    "title": "Rivian deliveries hit record high as R2 rollout gains momentum",
-    "tokens": [
-      "deliveries",
-      "gains",
-      "high",
-      "hit",
-      "momentum",
-      "record",
-      "rivian",
-      "rollout"
-    ],
-    "ts": 1790944869.1775465
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-ast-spacemobile-stock-gaining-today-93CH-4929795",
-    "title": "Why is AST SpaceMobile stock gaining today?",
-    "tokens": [
-      "ast",
-      "gaining",
-      "spacemobile",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790944877.7546895
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/su-group-announces-1for6-reverse-stock-split-effective-oct-7-93CH-4929792",
-    "title": "SU Group announces 1-for-6 reverse stock split effective Oct. 7",
-    "tokens": [
-      "announces",
-      "effective",
-      "group",
-      "oct",
-      "reverse",
-      "split",
-      "stock"
-    ],
-    "ts": 1790944885.4496627
-  },
-  {
     "id": "https://www.investing.com/news/company-news/powerus-completes-merger-begins-trading-on-nasdaq-93CH-4929793",
     "title": "Powerus completes merger, begins trading on Nasdaq",
     "tokens": [
@@ -23617,5 +23410,217 @@
       "southeast"
     ],
     "ts": 1791937254.663709
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/star-equity-holdings-ceo-jeffrey-eberwein-sells-27400-preferred-stock-93CH-4947996",
+    "title": "Star Equity Holdings CEO Jeffrey Eberwein sells $27,400 preferred stock",
+    "tokens": [
+      "400",
+      "ceo",
+      "eberwein",
+      "equity",
+      "holdings",
+      "jeffrey",
+      "preferred",
+      "sells",
+      "star",
+      "stock"
+    ],
+    "ts": 1791954738.836755
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/primeenergy-director-clint-hurt-sells-132-million-in-shares-93CH-4947995",
+    "title": "PrimeEnergy director Clint Hurt sells $1.32 million in shares",
+    "tokens": [
+      "clint",
+      "director",
+      "hurt",
+      "million",
+      "primeenergy",
+      "sells",
+      "shares"
+    ],
+    "ts": 1791954746.839863
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pbf-energy-10-owner-control-empresarial-sells-149m-in-shares-93CH-4947994",
+    "title": "PBF Energy 10% owner Control Empresarial sells $14.9m in shares",
+    "tokens": [
+      "control",
+      "empresarial",
+      "energy",
+      "owner",
+      "pbf",
+      "sells",
+      "shares"
+    ],
+    "ts": 1791954755.7273352
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland-4947991",
+    "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
+    "tokens": [
+      "begin",
+      "exploration",
+      "gas",
+      "greenland",
+      "mineral",
+      "oil",
+      "trump"
+    ],
+    "ts": 1791954763.9391274
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/olympus-shares-hit-12week-low-after-fda-warning-over-quality-systems-4947987",
+    "title": "Olympus shares hit 12-week low after FDA warning over quality systems",
+    "tokens": [
+      "fda",
+      "hit",
+      "low",
+      "olympus",
+      "quality",
+      "shares",
+      "systems",
+      "warning",
+      "week"
+    ],
+    "ts": 1791954772.390035
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/imfs-georgieva-says-us-growth-will-not-be-enough-to-shrink-debt-4947973",
+    "title": "IMF’s Georgieva says US growth will not be enough to shrink debt",
+    "tokens": [
+      "debt",
+      "enough",
+      "georgieva",
+      "growth",
+      "imf",
+      "shrink"
+    ],
+    "ts": 1791954781.7921007
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/zscaler-cpo-adam-geller-sells-56m-in-shares-93CH-4947983",
+    "title": "Zscaler CPO Adam Geller sells $5.6m in shares",
+    "tokens": [
+      "adam",
+      "cpo",
+      "geller",
+      "sells",
+      "shares",
+      "zscaler"
+    ],
+    "ts": 1791954789.5607035
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/kvh-ceo-brent-bruun-sells-4329-in-common-stock-93CH-4947982",
+    "title": "Kvh CEO Brent Bruun sells $4,329 in common stock",
+    "tokens": [
+      "329",
+      "brent",
+      "bruun",
+      "ceo",
+      "common",
+      "kvh",
+      "sells",
+      "stock"
+    ],
+    "ts": 1791954798.5157716
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/asia-must-guard-against-another-financial-crisis-philippines-central-bank-chief-says-4947975",
+    "title": "Asia must guard against another financial crisis, Philippines central bank chief says",
+    "tokens": [
+      "against",
+      "another",
+      "asia",
+      "bank",
+      "central",
+      "chief",
+      "crisis",
+      "financial",
+      "guard",
+      "must",
+      "philippines"
+    ],
+    "ts": 1791954806.5446343
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/high-gasoline-prices-expected-to-boost-us-consumer-inflation-in-september-4947970",
+    "title": "High gasoline prices expected to boost US consumer inflation in September",
+    "tokens": [
+      "boost",
+      "consumer",
+      "expected",
+      "gasoline",
+      "high",
+      "inflation",
+      "prices",
+      "september"
+    ],
+    "ts": 1791954814.6225455
+  },
+  {
+    "id": "6d869a43-ef46-4bc3-826f-7ecb7f0cba6e",
+    "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+    "tokens": [
+      "150",
+      "alpenglow",
+      "finality",
+      "millisecond",
+      "oct",
+      "sets",
+      "solana",
+      "targeting",
+      "upgrade"
+    ],
+    "ts": 1791954825.5574565
+  },
+  {
+    "id": "3e55433d-38c3-4f75-adb5-851a8db58d9d",
+    "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+    "tokens": [
+      "000",
+      "2027",
+      "bitcoin",
+      "climbs",
+      "fed",
+      "hikes",
+      "rate",
+      "sees",
+      "toward",
+      "williams"
+    ],
+    "ts": 1791954833.8665361
+  },
+  {
+    "id": "a9496514-d855-42d9-ac08-56aef0b35ae2",
+    "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+    "tokens": [
+      "action",
+      "bank",
+      "central",
+      "coins",
+      "crypto",
+      "exchange",
+      "face",
+      "largest",
+      "philippines",
+      "regulatory"
+    ],
+    "ts": 1791954841.53928
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring",
+    "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+    "tokens": [
+      "bitwise",
+      "charts",
+      "crypto",
+      "hougan",
+      "point",
+      "spring"
+    ],
+    "ts": 1791954849.6524982
   }
 ]

@@ -1,606 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/nvidia-stock-hits-alltime-high-of-23657-usd-93CH-4930010",
-    "title": "Nvidia stock hits all-time high of 236.57 USD",
-    "tokens": [
-      "236",
-      "all",
-      "high",
-      "hits",
-      "nvidia",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1790949600.7950811
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/wall-st-opens-higher-as-softer-payrolls-data-lower-yields-lift-sentiment-4930009",
-    "title": "Wall St opens higher as softer payrolls data, lower yields lift sentiment",
-    "tokens": [
-      "data",
-      "higher",
-      "lift",
-      "lower",
-      "opens",
-      "payrolls",
-      "sentiment",
-      "softer",
-      "wall",
-      "yields"
-    ],
-    "ts": 1790949606.4133642
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/david-ellison-says-combined-paramount-and-warner-bros-discovery-will-be-named-skydance-4930008",
-    "title": "David Ellison says combined Paramount and Warner Bros Discovery will be named Skydance",
-    "tokens": [
-      "bros",
-      "combined",
-      "david",
-      "discovery",
-      "ellison",
-      "named",
-      "paramount",
-      "skydance",
-      "warner"
-    ],
-    "ts": 1790949614.7369769
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/coupang-stock-hits-52week-low-at-1337-93CH-4930003",
-    "title": "Coupang stock hits 52-week low at $13.37",
-    "tokens": [
-      "coupang",
-      "hits",
-      "low",
-      "stock",
-      "week"
-    ],
-    "ts": 1790949623.0590556
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pc-connection-stock-hits-alltime-high-at-9389-usd-93CH-4930002",
-    "title": "PC Connection stock hits all-time high at 93.89 USD",
-    "tokens": [
-      "all",
-      "connection",
-      "high",
-      "hits",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1790949627.0712135
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bmo-raises-accenture-stock-price-target-on-strong-quarter-results-93CH-4930001",
-    "title": "BMO raises Accenture stock price target on strong quarter results",
-    "tokens": [
-      "accenture",
-      "bmo",
-      "price",
-      "quarter",
-      "raises",
-      "results",
-      "stock",
-      "strong",
-      "target"
-    ],
-    "ts": 1790949631.6804252
-  },
-  {
-    "id": "oilprice-article-45664",
-    "title": "Europe's Soaring Gas Bill Is Sending Utilities Back to Coal",
-    "tokens": [
-      "back",
-      "bill",
-      "coal",
-      "europe",
-      "gas",
-      "sending",
-      "soaring",
-      "utilities"
-    ],
-    "ts": 1790949640.941968
-  },
-  {
-    "id": "oilprice-news-45664",
-    "title": "Japan’s JERA Creates Oil Storage Firm to Manage National Reserve Sites",
-    "tokens": [
-      "creates",
-      "firm",
-      "japan",
-      "jera",
-      "manage",
-      "national",
-      "oil",
-      "reserve",
-      "sites",
-      "storage"
-    ],
-    "ts": 1790949649.2741024
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/baltic-dry-bulk-freight-index-edges-up-on-capesize-gains-93CH-4930064",
-    "title": "Baltic dry bulk freight index edges up on capesize gains",
-    "tokens": [
-      "baltic",
-      "bulk",
-      "capesize",
-      "dry",
-      "edges",
-      "freight",
-      "gains",
-      "index"
-    ],
-    "ts": 1790950944.3985646
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/factboxtop-cases-on-the-us-supreme-courts-docket-4930062",
-    "title": "Factbox-Top cases on the US Supreme Court’s docket",
-    "tokens": [
-      "cases",
-      "court",
-      "docket",
-      "factbox",
-      "supreme",
-      "top"
-    ],
-    "ts": 1790950954.3740964
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/paramount-to-adopt-skydance-name-as-landmark-warner-bros-merger-nears-close-4930061",
-    "title": "Paramount to adopt Skydance name as landmark Warner Bros. merger nears close",
-    "tokens": [
-      "adopt",
-      "bros",
-      "close",
-      "landmark",
-      "merger",
-      "name",
-      "nears",
-      "paramount",
-      "skydance",
-      "warner"
-    ],
-    "ts": 1790950962.9265816
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-robinhood-markets-stock-rallying-today-93CH-4930060",
-    "title": "Why is Robinhood Markets stock rallying today?",
-    "tokens": [
-      "markets",
-      "rallying",
-      "robinhood",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790950972.8735971
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-iren-stock-surging-today-93CH-4930058",
-    "title": "Why is IREN stock surging today?",
-    "tokens": [
-      "iren",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1790950976.8843365
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/travere-to-present-filspari-data-at-asn-kidney-week-2026-93CH-4930056",
-    "title": "Travere to present FILSPARI data at ASN Kidney Week 2026",
-    "tokens": [
-      "2026",
-      "asn",
-      "data",
-      "filspari",
-      "kidney",
-      "present",
-      "travere",
-      "week"
-    ],
-    "ts": 1790950981.4407358
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/taylor-devices-earnings-missed-by-079-revenue-fell-short-of-estimates-4930054",
-    "title": "Taylor Devices earnings missed by $0.79, revenue fell short of estimates",
-    "tokens": [
-      "devices",
-      "earnings",
-      "estimates",
-      "fell",
-      "missed",
-      "revenue",
-      "short",
-      "taylor"
-    ],
-    "ts": 1790950990.209292
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/microsalt-shareholders-approve-share-allotment-resolutions-93CH-4930053",
-    "title": "MicroSalt shareholders approve share allotment resolutions",
-    "tokens": [
-      "allotment",
-      "approve",
-      "microsalt",
-      "resolutions",
-      "share",
-      "shareholders"
-    ],
-    "ts": 1790950998.3245218
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/sky-harbour-group-cfo-francisco-gonzalez-buys-15040-in-stock-93CH-4930049",
-    "title": "Sky Harbour Group CFO Francisco Gonzalez buys $15,040 in stock",
-    "tokens": [
-      "040",
-      "buys",
-      "cfo",
-      "francisco",
-      "gonzalez",
-      "group",
-      "harbour",
-      "sky",
-      "stock"
-    ],
-    "ts": 1790951006.394079
-  },
-  {
-    "id": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens",
-    "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
-    "tokens": [
-      "case",
-      "enough",
-      "euro",
-      "isn",
-      "issuers",
-      "make",
-      "stablecoin",
-      "tokens",
-      "usd"
-    ],
-    "ts": 1790951015.8046293
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/us-factory-orders-increase-slightly-in-august-4930089",
-    "title": "US factory orders increase slightly in August",
-    "tokens": [
-      "august",
-      "factory",
-      "increase",
-      "orders",
-      "slightly"
-    ],
-    "ts": 1790952327.40061
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/citadel-securities-expands-institutional-reach-with-minority-wolfe-research-stake-4930085",
-    "title": "Citadel Securities expands institutional reach with minority Wolfe Research stake",
-    "tokens": [
-      "citadel",
-      "expands",
-      "institutional",
-      "minority",
-      "reach",
-      "research",
-      "securities",
-      "stake",
-      "wolfe"
-    ],
-    "ts": 1790952335.8744025
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/stablecoin-firm-fasset-aims-to-be-a-bank-for-people-and-their-ai-agents-4930084",
-    "title": "Stablecoin firm Fasset aims to be a bank for people and their AI agents",
-    "tokens": [
-      "agents",
-      "aims",
-      "bank",
-      "fasset",
-      "firm",
-      "people",
-      "stablecoin",
-      "their"
-    ],
-    "ts": 1790952344.8199782
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/william-blair-reiterates-tesla-stock-rating-after-delivery-beat-93CH-4930083",
-    "title": "William Blair reiterates Tesla stock rating after delivery beat",
-    "tokens": [
-      "beat",
-      "blair",
-      "delivery",
-      "rating",
-      "reiterates",
-      "stock",
-      "tesla",
-      "william"
-    ],
-    "ts": 1790952354.077749
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bnp-paribas-exane-cuts-nike-stock-price-target-on-weak-guidance-93CH-4930082",
-    "title": "BNP Paribas Exane cuts Nike stock price target on weak guidance",
-    "tokens": [
-      "bnp",
-      "cuts",
-      "exane",
-      "guidance",
-      "nike",
-      "paribas",
-      "price",
-      "stock",
-      "target",
-      "weak"
-    ],
-    "ts": 1790952364.7262707
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/seagate-and-western-digital-shares-fall-on-toshiba-hdd-expansion-4929584",
-    "title": "Seagate and Western Digital shares fall on Toshiba HDD expansion",
-    "tokens": [
-      "digital",
-      "expansion",
-      "fall",
-      "hdd",
-      "seagate",
-      "shares",
-      "toshiba",
-      "western"
-    ],
-    "ts": 1790952373.380294
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-foresight-solar-h1-2026-profit-steady-as-output-slips-93CH-4930080",
-    "title": "Earnings call transcript: Foresight Solar H1 2026 profit steady as output slips",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "foresight",
-      "output",
-      "profit",
-      "slips",
-      "solar",
-      "steady",
-      "transcript"
-    ],
-    "ts": 1790952381.9846778
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/cerebras-systems-rebounds-as-freedom-capital-calls-selloff-overdone-4930079",
-    "title": "Cerebras Systems rebounds as Freedom Capital calls selloff overdone",
-    "tokens": [
-      "calls",
-      "capital",
-      "cerebras",
-      "freedom",
-      "overdone",
-      "rebounds",
-      "selloff",
-      "systems"
-    ],
-    "ts": 1790952390.8869877
-  },
-  {
-    "id": "oilprice-article-45668",
-    "title": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
-    "tokens": [
-      "east",
-      "gulf",
-      "improves",
-      "middle",
-      "returns",
-      "risk",
-      "supply",
-      "whipsaws",
-      "wti"
-    ],
-    "ts": 1790952400.5333753
-  },
-  {
-    "id": "oilprice-article-45667",
-    "title": "U.S. Exit Leaves Iraq With a Militia Problem",
-    "tokens": [
-      "exit",
-      "iraq",
-      "leaves",
-      "militia",
-      "problem"
-    ],
-    "ts": 1790952408.934335
-  },
-  {
-    "id": "oilprice-article-45666",
-    "title": "The Kremlin Consolidates Power as Russia’s Economic Pain Mounts",
-    "tokens": [
-      "consolidates",
-      "economic",
-      "kremlin",
-      "mounts",
-      "pain",
-      "power",
-      "russia"
-    ],
-    "ts": 1790952418.918443
-  },
-  {
-    "id": "oilprice-news-45668",
-    "title": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
-    "tokens": [
-      "deploys",
-      "facilities",
-      "gas",
-      "oil",
-      "patriots",
-      "qatari",
-      "saudi",
-      "shield"
-    ],
-    "ts": 1790952427.1565742
-  },
-  {
-    "id": "oilprice-news-45667",
-    "title": "Japan’s JERA Creates Oil Storage Firm to Manage National Reserve Sites",
-    "tokens": [
-      "creates",
-      "firm",
-      "japan",
-      "jera",
-      "manage",
-      "national",
-      "oil",
-      "reserve",
-      "sites",
-      "storage"
-    ],
-    "ts": 1790952431.1733634
-  },
-  {
-    "id": "oilprice-news-45666",
-    "title": "WTI Sinks Nearly 4% as EU Weighs Emergency Stockpile Release",
-    "tokens": [
-      "emergency",
-      "nearly",
-      "release",
-      "sinks",
-      "stockpile",
-      "weighs",
-      "wti"
-    ],
-    "ts": 1790952436.8372877
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tesla-q3-deliveries-top-estimates-shares-rise-19-4929902",
-    "title": "Tesla shares jump 5% as Q3 deliveries beat expectations",
-    "tokens": [
-      "beat",
-      "deliveries",
-      "expectations",
-      "jump",
-      "shares",
-      "tesla"
-    ],
-    "ts": 1790953267.7024558
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/trump-expected-to-name-jay-clayton-as-ai-czar-cnn-reports-4930048",
-    "title": "Trump expected to name Jay Clayton as AI czar",
-    "tokens": [
-      "clayton",
-      "czar",
-      "expected",
-      "jay",
-      "name",
-      "trump"
-    ],
-    "ts": 1790953276.5011287
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/five-french-market-hot-spots-on-investors-radars-4930096",
-    "title": "Five French market hot spots on investors’ radars",
-    "tokens": [
-      "five",
-      "french",
-      "hot",
-      "investors",
-      "market",
-      "radars",
-      "spots"
-    ],
-    "ts": 1790953285.7335732
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-014-4930105",
-    "title": "Norway stocks higher at close of trade; Oslo OBX up 0.14%",
-    "tokens": [
-      "close",
-      "higher",
-      "norway",
-      "obx",
-      "oslo",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790953294.1392899
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-124-4930104",
-    "title": "Greece stocks lower at close of trade; Athens General Composite down 1.24%",
-    "tokens": [
-      "athens",
-      "close",
-      "composite",
-      "general",
-      "greece",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790953298.1481156
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/trump-says-europe-to-release-massive-amount-of-diesel-stocks-4930069",
-    "title": "Group of Seven countries to release up to 100 million barrels of emergency stocks",
-    "tokens": [
-      "100",
-      "barrels",
-      "countries",
-      "emergency",
-      "group",
-      "million",
-      "release",
-      "seven",
-      "stocks"
-    ],
-    "ts": 1790953302.4005609
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-tnl-mediagene-stock-surging-today-93CH-4930103",
-    "title": "Why is TNL Mediagene stock surging today?",
-    "tokens": [
-      "mediagene",
-      "stock",
-      "surging",
-      "tnl",
-      "today",
-      "why"
-    ],
-    "ts": 1790953310.484496
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-forward-industries-stock-rallying-today-93CH-4930102",
-    "title": "Why is Forward Industries stock rallying today?",
-    "tokens": [
-      "forward",
-      "industries",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790953318.6411197
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/azenta-stock-hits-52week-high-at-4184-usd-93CH-4930101",
-    "title": "Azenta stock hits 52-week high at 41.84 USD",
-    "tokens": [
-      "azenta",
-      "high",
-      "hits",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1790953322.6503105
-  },
-  {
     "id": "https://www.investing.com/news/company-news/foresight-solar-h1-2026-slides-ebitda-on-target-despite-generation-miss-93CH-4930100",
     "title": "Foresight Solar H1 2026 slides: EBITDA on target despite generation miss",
     "tokens": [
@@ -23689,5 +23088,653 @@
       "resolution"
     ],
     "ts": 1791973232.227266
+  },
+  {
+    "id": "WP-MKTW-0005286703",
+    "title": "Micron wins praise from Elon Musk for not being too greedy",
+    "tokens": [
+      "being",
+      "elon",
+      "greedy",
+      "micron",
+      "musk",
+      "praise",
+      "too",
+      "wins"
+    ],
+    "ts": 1791991302.228976
+  },
+  {
+    "id": "WP-MKTW-0005284449",
+    "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+    "tokens": [
+      "among",
+      "bargain",
+      "charles",
+      "could",
+      "doordash",
+      "higher",
+      "lead",
+      "market",
+      "ranked",
+      "schwab",
+      "stocks"
+    ],
+    "ts": 1791991310.6830807
+  },
+  {
+    "id": "WP-MKTW-0005285484",
+    "title": "How Iran’s $2 trillion threat puts your AI stocks at risk",
+    "tokens": [
+      "how",
+      "iran",
+      "puts",
+      "risk",
+      "stocks",
+      "threat",
+      "trillion",
+      "your"
+    ],
+    "ts": 1791991320.4315495
+  },
+  {
+    "id": "WP-MKTW-0005286330",
+    "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+    "tokens": [
+      "adds",
+      "america",
+      "bank",
+      "billion",
+      "fine",
+      "government",
+      "misery",
+      "miss",
+      "profit"
+    ],
+    "ts": 1791991328.649554
+  },
+  {
+    "id": "WP-MKTW-0005284576",
+    "title": "Social Security’s COLA will be 3.6% in 2027 as inflation persists",
+    "tokens": [
+      "2027",
+      "cola",
+      "inflation",
+      "persists",
+      "security",
+      "social"
+    ],
+    "ts": 1791991337.1231368
+  },
+  {
+    "id": "WP-MKTW-0005286328",
+    "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
+    "tokens": [
+      "assets",
+      "blackrock",
+      "economy",
+      "equal",
+      "growth",
+      "half",
+      "manages",
+      "now",
+      "size"
+    ],
+    "ts": 1791991345.6630688
+  },
+  {
+    "id": "WP-MKTW-0005284969",
+    "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+    "tokens": [
+      "anxieties",
+      "apps",
+      "fake",
+      "financial",
+      "fintech",
+      "happiness",
+      "insurance",
+      "latest",
+      "our",
+      "reveal",
+      "shopping",
+      "sprees"
+    ],
+    "ts": 1791991354.1683378
+  },
+  {
+    "id": "WP-MKTW-0005284644",
+    "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
+    "tokens": [
+      "buying",
+      "feel",
+      "gen",
+      "group",
+      "house",
+      "investing",
+      "likely",
+      "more",
+      "only",
+      "renters",
+      "successful"
+    ],
+    "ts": 1791991361.9130907
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cbl-properties-declares-0625-quarterly-dividend-93CH-4949689",
+    "title": "CBL Properties declares $0.625 quarterly dividend",
+    "tokens": [
+      "625",
+      "cbl",
+      "declares",
+      "dividend",
+      "properties",
+      "quarterly"
+    ],
+    "ts": 1791991370.7117105
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/netflix-cuts-about-6-of-jobs-wsj-reports-4949456",
+    "title": "Netflix cuts about 6% of jobs in biggest layoff since 2022",
+    "tokens": [
+      "2022",
+      "about",
+      "biggest",
+      "cuts",
+      "jobs",
+      "layoff",
+      "netflix",
+      "since"
+    ],
+    "ts": 1791991379.8034225
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/fcncp-stock-hits-52week-low-at-1752-usd-93CH-4949688",
+    "title": "Fcncp stock hits 52-week low at 17.52 USD",
+    "tokens": [
+      "fcncp",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1791991383.8210237
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/att-stock-hits-52week-low-at-1828-usd-93CH-4949687",
+    "title": "AT&T stock hits 52-week low at 18.28 USD",
+    "tokens": [
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1791991383.8366327
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648",
+    "title": "Yemen’s Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
+    "tokens": [
+      "airports",
+      "aramco",
+      "attacks",
+      "facilities",
+      "hit",
+      "houthis",
+      "more",
+      "oil",
+      "saudi",
+      "vow",
+      "yemen"
+    ],
+    "ts": 1791991389.06288
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/kenya-reports-second-ebola-case-linked-to-congo-outbreak-93CH-4949686",
+    "title": "Kenya reports second Ebola case linked to Congo outbreak",
+    "tokens": [
+      "case",
+      "congo",
+      "ebola",
+      "kenya",
+      "linked",
+      "outbreak",
+      "reports",
+      "second"
+    ],
+    "ts": 1791991396.5893755
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/top-transportation-stocks-ups-fedex-and-delta-compared-by-value-and-momentum-93CH-4949685",
+    "title": "Top transportation stocks: UPS, FedEx, and Delta compared by value and momentum",
+    "tokens": [
+      "compared",
+      "delta",
+      "fedex",
+      "momentum",
+      "stocks",
+      "top",
+      "transportation",
+      "ups",
+      "value"
+    ],
+    "ts": 1791991404.7869382
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/brightstar-lottery-stock-hits-52week-low-at-962-usd-93CH-4949684",
+    "title": "Brightstar Lottery stock hits 52-week low at 9.62 USD",
+    "tokens": [
+      "brightstar",
+      "hits",
+      "lottery",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1791991408.802716
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/travel--leisure-completes-300m-assetbacked-notes-issuance-93CH-4949683",
+    "title": "Travel + Leisure completes $300M asset-backed notes issuance",
+    "tokens": [
+      "300m",
+      "asset",
+      "backed",
+      "completes",
+      "issuance",
+      "leisure",
+      "notes",
+      "travel"
+    ],
+    "ts": 1791991412.3334503
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/alaska-communications-becomes-authorized-starlink-reseller-93CH-4949682",
+    "title": "Alaska Communications becomes authorized Starlink reseller",
+    "tokens": [
+      "alaska",
+      "authorized",
+      "becomes",
+      "communications",
+      "reseller",
+      "starlink"
+    ],
+    "ts": 1791991420.1652236
+  },
+  {
+    "id": "oilprice-article-45767",
+    "title": "Power Prices Top $1,000 on PJM as Heat Collides With Fall Plant Maintenance",
+    "tokens": [
+      "000",
+      "collides",
+      "fall",
+      "heat",
+      "maintenance",
+      "pjm",
+      "plant",
+      "power",
+      "prices",
+      "top"
+    ],
+    "ts": 1791991429.7134898
+  },
+  {
+    "id": "oilprice-news-45767",
+    "title": "India’s Gas Demand Drops as Iran War Hikes LNG Spot Prices",
+    "tokens": [
+      "demand",
+      "drops",
+      "gas",
+      "hikes",
+      "india",
+      "iran",
+      "lng",
+      "prices",
+      "spot",
+      "war"
+    ],
+    "ts": 1791991437.7015638
+  },
+  {
+    "id": "oilprice-article-45763",
+    "title": "Nord Stream Sabotage Trial Begins With Explosive Allegations Against Ukraine",
+    "tokens": [
+      "against",
+      "allegations",
+      "begins",
+      "explosive",
+      "nord",
+      "sabotage",
+      "stream",
+      "trial",
+      "ukraine"
+    ],
+    "ts": 1791991445.5314543
+  },
+  {
+    "id": "oilprice-news-45763",
+    "title": "Russian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal",
+    "tokens": [
+      "000",
+      "600",
+      "cut",
+      "days",
+      "deal",
+      "diesel",
+      "power",
+      "russian",
+      "strikes",
+      "ukrainians"
+    ],
+    "ts": 1791991454.030506
+  },
+  {
+    "id": "fd678dca-ed62-4ea2-9e11-6d9e3b15607d",
+    "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+    "tokens": [
+      "belong",
+      "bitcoin",
+      "crypto",
+      "gold",
+      "long",
+      "portfolio",
+      "same",
+      "short",
+      "why"
+    ],
+    "ts": 1791991463.0972154
+  },
+  {
+    "id": "cdddc9f1-006c-4292-9e7c-55613b1e5745",
+    "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+    "tokens": [
+      "2027",
+      "billion",
+      "easya",
+      "hits",
+      "listing",
+      "public",
+      "shares",
+      "targets",
+      "tokenized",
+      "valuation"
+    ],
+    "ts": 1791991471.0630934
+  },
+  {
+    "id": "9f30abac-c8a7-4d16-a17e-702c2a60dfe1",
+    "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+    "tokens": [
+      "2025",
+      "assets",
+      "below",
+      "blackrock",
+      "crypto",
+      "etf",
+      "far",
+      "peak",
+      "remain",
+      "surge"
+    ],
+    "ts": 1791991479.1978474
+  },
+  {
+    "id": "3c8a8163-f31f-4b60-ab72-adf60254bf64",
+    "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+    "tokens": [
+      "chief",
+      "europe",
+      "exemption",
+      "former",
+      "ftx",
+      "sec",
+      "stock",
+      "targets",
+      "tokenized",
+      "trading"
+    ],
+    "ts": 1791991486.5973344
+  },
+  {
+    "id": "72eb8067-d302-4e7b-8f4b-f185d6c7e92d",
+    "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
+    "tokens": [
+      "america",
+      "bill",
+      "digital",
+      "economy",
+      "foot",
+      "grid",
+      "growing",
+      "power",
+      "requires",
+      "updates",
+      "who"
+    ],
+    "ts": 1791991495.725432
+  },
+  {
+    "id": "fbbd284a-47ea-41ec-b535-699e14a42a6a",
+    "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+    "tokens": [
+      "bank",
+      "become",
+      "buy",
+      "crypto",
+      "deposits",
+      "expands",
+      "firm",
+      "first",
+      "kraken",
+      "lending",
+      "parent",
+      "payward"
+    ],
+    "ts": 1791991504.633597
+  },
+  {
+    "id": "1f29b6a1-e229-4843-8e94-2b0706ede49d",
+    "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+    "tokens": [
+      "bitcoin",
+      "comes",
+      "cpi",
+      "hot",
+      "lower",
+      "sending",
+      "september",
+      "sharply"
+    ],
+    "ts": 1791991513.7864037
+  },
+  {
+    "id": "4fec4f04-02e5-42f0-860a-9e732eb19d57",
+    "title": "Here's how analysts see U.S. inflation influencing bitcoin",
+    "tokens": [
+      "analysts",
+      "bitcoin",
+      "here",
+      "how",
+      "inflation",
+      "influencing",
+      "see"
+    ],
+    "ts": 1791991521.8841994
+  },
+  {
+    "id": "a23cc4c2-ba9b-42d8-ab02-ade98e1ec47d",
+    "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+    "tokens": [
+      "bank",
+      "central",
+      "compliant",
+      "dutch",
+      "euro",
+      "grants",
+      "license",
+      "mica",
+      "money",
+      "qivalis",
+      "token"
+    ],
+    "ts": 1791991529.8135705
+  },
+  {
+    "id": "6daf3e14-1309-46a6-8968-c70d3abda68c",
+    "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+    "tokens": [
+      "000",
+      "above",
+      "ahead",
+      "altcoins",
+      "bitcoin",
+      "data",
+      "holds",
+      "inflation",
+      "lag"
+    ],
+    "ts": 1791991537.8433619
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation",
+    "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+    "tokens": [
+      "82k",
+      "below",
+      "bitcoin",
+      "cpi",
+      "dips",
+      "high",
+      "inflation",
+      "oil",
+      "price",
+      "prices",
+      "spike"
+    ],
+    "ts": 1791991546.1122742
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say",
+    "title": "‘Bunker mode’ won’t protect your crypto, critics say",
+    "tokens": [
+      "bunker",
+      "critics",
+      "crypto",
+      "mode",
+      "protect",
+      "say",
+      "won",
+      "your"
+    ],
+    "ts": 1791991554.5247755
+  },
+  {
+    "id": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis",
+    "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
+    "tokens": [
+      "141",
+      "36b",
+      "asian",
+      "canada",
+      "chainalysis",
+      "countries",
+      "crypto",
+      "remittances",
+      "surge"
+    ],
+    "ts": 1791991562.9575727
+  },
+  {
+    "id": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin",
+    "title": "Qivalis wins Dutch e-money license for euro stablecoin",
+    "tokens": [
+      "dutch",
+      "euro",
+      "license",
+      "money",
+      "qivalis",
+      "stablecoin",
+      "wins"
+    ],
+    "ts": 1791991571.2373638
+  },
+  {
+    "id": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion",
+    "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
+    "tokens": [
+      "bank",
+      "buy",
+      "expansion",
+      "kraken",
+      "lithuanian",
+      "parent",
+      "saldo",
+      "tradfi"
+    ],
+    "ts": 1791991580.0413601
+  },
+  {
+    "id": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident",
+    "title": "Can crypto users trust the supply chain behind hardware wallets?",
+    "tokens": [
+      "behind",
+      "can",
+      "chain",
+      "crypto",
+      "hardware",
+      "supply",
+      "trust",
+      "users",
+      "wallets"
+    ],
+    "ts": 1791991587.6505945
+  },
+  {
+    "id": "https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation",
+    "title": "Coins.ph says Philippine central bank license intact amid revocation claims",
+    "tokens": [
+      "bank",
+      "central",
+      "claims",
+      "coins",
+      "intact",
+      "license",
+      "philippine",
+      "revocation"
+    ],
+    "ts": 1791991595.1095908
+  },
+  {
+    "id": "https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid",
+    "title": "CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid",
+    "tokens": [
+      "bitcoin",
+      "charts",
+      "cryptoquant",
+      "keeping",
+      "thesis",
+      "uptober",
+      "valid"
+    ],
+    "ts": 1791991603.048979
+  },
+  {
+    "id": "https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal",
+    "title": "Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case",
+    "tokens": [
+      "bankman",
+      "case",
+      "ceo",
+      "court",
+      "fried",
+      "ftx",
+      "lawyer",
+      "lays",
+      "sam",
+      "supreme"
+    ],
+    "ts": 1791991610.8823452
   }
 ]

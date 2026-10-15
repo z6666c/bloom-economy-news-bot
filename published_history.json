@@ -1,400 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-049-4930390",
-    "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.49%",
-    "tokens": [
-      "average",
-      "close",
-      "dow",
-      "higher",
-      "industrial",
-      "jones",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790974740.980896
-  },
-  {
-    "id": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says",
-    "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-    "tokens": [
-      "bitpanda",
-      "ceo",
-      "crypto",
-      "european",
-      "faith",
-      "firms",
-      "mica",
-      "more",
-      "regulated",
-      "under",
-      "users"
-    ],
-    "ts": 1790974759.6500552
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-    "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-    "tokens": [
-      "announces",
-      "application",
-      "approval",
-      "board",
-      "capital",
-      "corporation",
-      "federal",
-      "fleur",
-      "reserve"
-    ],
-    "ts": 1790974763.9392345
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-appeals-court-blocks-minnesotas-ainudification-law-for-now-in-xai-lawsuit-4930434",
-    "title": "US appeals court blocks Minnesota’s AI ’nudification’ law for now in XAI lawsuit",
-    "tokens": [
-      "appeals",
-      "blocks",
-      "court",
-      "law",
-      "lawsuit",
-      "minnesota",
-      "now",
-      "nudification",
-      "xai"
-    ],
-    "ts": 1790977378.732228
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-110-4930439",
-    "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.10%",
-    "tokens": [
-      "bmv",
-      "close",
-      "higher",
-      "ipc",
-      "mexico",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790977382.74758
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-059-4930438",
-    "title": "Colombia stocks lower at close of trade; COLCAP down 0.59%",
-    "tokens": [
-      "close",
-      "colcap",
-      "colombia",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790977382.761925
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/marfrig-subsidiary-terminates-tender-offer-for-senior-notes-93CH-4930437",
-    "title": "Marfrig subsidiary terminates tender offer for senior notes",
-    "tokens": [
-      "marfrig",
-      "notes",
-      "offer",
-      "senior",
-      "subsidiary",
-      "tender",
-      "terminates"
-    ],
-    "ts": 1790977388.766077
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/kindercare-announces-board-changes-nuzzo-resigns-93CH-4930436",
-    "title": "KinderCare announces board changes, Nuzzo resigns",
-    "tokens": [
-      "announces",
-      "board",
-      "changes",
-      "kindercare",
-      "nuzzo",
-      "resigns"
-    ],
-    "ts": 1790977397.2114546
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-015-4930435",
-    "title": "Russia stocks lower at close of trade; MOEX Russia Index down 0.15%",
-    "tokens": [
-      "close",
-      "index",
-      "lower",
-      "moex",
-      "russia",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1790977401.2263153
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/copper-lake-resources-closes-first-tranche-of-private-placement-93CH-4930430",
-    "title": "Copper Lake Resources closes first tranche of private placement",
-    "tokens": [
-      "closes",
-      "copper",
-      "first",
-      "lake",
-      "placement",
-      "private",
-      "resources",
-      "tranche"
-    ],
-    "ts": 1790977405.3525004
-  },
-  {
-    "id": "df62f6d6-07a7-4ca7-b760-b4e373ca7c0b",
-    "title": "Bank group sues U.S. regulator over granting crypto trust charters",
-    "tokens": [
-      "bank",
-      "charters",
-      "crypto",
-      "granting",
-      "group",
-      "regulator",
-      "sues",
-      "trust"
-    ],
-    "ts": 1790977414.1795413
-  },
-  {
-    "id": "WP-MKTW-0005268201",
-    "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
-    "tokens": [
-      "1970s",
-      "beginning",
-      "energy",
-      "falling",
-      "inflation",
-      "like",
-      "look",
-      "lot",
-      "prices",
-      "soaring",
-      "wages"
-    ],
-    "ts": 1790979067.4898796
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ceribell-cto-raymond-woo-sells-119145-in-company-stock-93CH-4930457",
-    "title": "Ceribell CTO Raymond Woo sells $119,145 in company stock",
-    "tokens": [
-      "119",
-      "145",
-      "ceribell",
-      "company",
-      "cto",
-      "raymond",
-      "sells",
-      "stock",
-      "woo"
-    ],
-    "ts": 1790979077.677396
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/oramed-pharmaceuticals-cfo-avraham-gabay-sells-90200-in-stock-93CH-4930456",
-    "title": "Oramed Pharmaceuticals CFO Avraham Gabay sells $90,200 in stock",
-    "tokens": [
-      "200",
-      "avraham",
-      "cfo",
-      "gabay",
-      "oramed",
-      "pharmaceuticals",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790979085.7969985
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/oramed-coo--cbo-joshua-hexter-sells-135330-in-shares-93CH-4930455",
-    "title": "Oramed COO & CBO Joshua Hexter sells $135,330 in shares",
-    "tokens": [
-      "135",
-      "330",
-      "cbo",
-      "coo",
-      "hexter",
-      "joshua",
-      "oramed",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790979095.4397206
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-    "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-    "tokens": [
-      "announces",
-      "application",
-      "approval",
-      "bancorp",
-      "board",
-      "federal",
-      "inc",
-      "peoples",
-      "reserve"
-    ],
-    "ts": 1790979106.3620806
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/cardlytics-ceo-amit-gupta-sells-46749-in-common-stock-93CH-4930471",
-    "title": "Cardlytics CEO Amit Gupta sells $46,749 in common stock",
-    "tokens": [
-      "749",
-      "amit",
-      "cardlytics",
-      "ceo",
-      "common",
-      "gupta",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790980118.323179
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/perseverance-metals-closes-118-million-private-placement-93CH-4930470",
-    "title": "Perseverance Metals closes $11.8 million private placement",
-    "tokens": [
-      "closes",
-      "metals",
-      "million",
-      "perseverance",
-      "placement",
-      "private"
-    ],
-    "ts": 1790980126.7767432
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/trump-not-going-to-be-doing-diesel-export-ban-4930419",
-    "title": "Trump: not going to be doing diesel export ban",
-    "tokens": [
-      "ban",
-      "diesel",
-      "doing",
-      "export",
-      "going",
-      "trump"
-    ],
-    "ts": 1790981147.341071
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/global-compliance-applications-closes-first-tranche-of-placement-93CH-4930506",
-    "title": "Global Compliance Applications closes first tranche of placement",
-    "tokens": [
-      "applications",
-      "closes",
-      "compliance",
-      "first",
-      "global",
-      "placement",
-      "tranche"
-    ],
-    "ts": 1790982535.6706316
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/apple-says-it-will-flag-ai-requests-for-mac-data-after-metas-muse-draws-complaints-4930505",
-    "title": "Apple says it will flag AI requests for Mac data after Meta’s Muse draws complaints",
-    "tokens": [
-      "apple",
-      "complaints",
-      "data",
-      "draws",
-      "flag",
-      "mac",
-      "meta",
-      "muse",
-      "requests"
-    ],
-    "ts": 1790982545.3844619
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/roblox-director-gregory-baszucki-sells-over-714k-in-shares-93CH-4930503",
-    "title": "Roblox director Gregory Baszucki sells over $714k in shares",
-    "tokens": [
-      "714k",
-      "baszucki",
-      "director",
-      "gregory",
-      "roblox",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790982554.3324566
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusivechina-demands-copper-supply-commitments-for-anglo-teck-merger-approval-sources-say-4929672",
-    "title": "Exclusive-China demands copper supply commitments for Anglo Teck merger approval, sources say",
-    "tokens": [
-      "anglo",
-      "approval",
-      "china",
-      "commitments",
-      "copper",
-      "demands",
-      "exclusive",
-      "merger",
-      "say",
-      "sources",
-      "supply",
-      "teck"
-    ],
-    "ts": 1790982562.0205584
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/apple-to-flag-ai-requests-for-mac-data-after-metas-muse-complaints-4930526",
-    "title": "Apple to flag AI requests for Mac data after Meta’s Muse complaints",
-    "tokens": [
-      "apple",
-      "complaints",
-      "data",
-      "flag",
-      "mac",
-      "meta",
-      "muse",
-      "requests"
-    ],
-    "ts": 1790983518.2052832
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/david-j-taylor-purchases-amgen-and-home-depot-stocks-sells-marathon-petroleum-93CH-4930525",
-    "title": "David J. Taylor Purchases Amgen and Home Depot Stocks, Sells Marathon Petroleum",
-    "tokens": [
-      "amgen",
-      "david",
-      "depot",
-      "home",
-      "marathon",
-      "petroleum",
-      "purchases",
-      "sells",
-      "stocks",
-      "taylor"
-    ],
-    "ts": 1790983531.5696795
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cleo-fields-from-louisianas-6th-district-invests-in-tech-giants-93CH-4930524",
-    "title": "Cleo Fields from Louisiana’s 6th District Invests in Tech Giants",
-    "tokens": [
-      "6th",
-      "cleo",
-      "district",
-      "fields",
-      "giants",
-      "invests",
-      "louisiana",
-      "tech"
-    ],
-    "ts": 1790983542.223066
-  },
-  {
     "id": "https://www.investing.com/news/company-news/donald-sternoff-beyer-jr-trades-in-government-securities-impacting-curators-univ-mo-and-indiana-st-93CH-4930523",
     "title": "Donald Sternoff Beyer Jr trades in government securities, impacting Curators Univ Mo and Indiana ST",
     "tokens": [
@@ -23809,5 +23414,414 @@
       "until"
     ],
     "ts": 1792077551.4013197
+  },
+  {
+    "id": "WP-MKTW-0005289567",
+    "title": "This one governor’s race could derail the AI trade that’s powered the stock market",
+    "tokens": [
+      "could",
+      "derail",
+      "governor",
+      "market",
+      "one",
+      "powered",
+      "race",
+      "stock",
+      "trade"
+    ],
+    "ts": 1792091544.760237
+  },
+  {
+    "id": "WP-MKTW-0005289499",
+    "title": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
+    "tokens": [
+      "all",
+      "bets",
+      "big",
+      "highs",
+      "investors",
+      "near",
+      "pharma",
+      "pushes",
+      "safer",
+      "selloff",
+      "stocks",
+      "tech",
+      "time",
+      "toward"
+    ],
+    "ts": 1792091553.1111422
+  },
+  {
+    "id": "WP-MKTW-0005289572",
+    "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+    "tokens": [
+      "annuities",
+      "cash",
+      "ira",
+      "money",
+      "order",
+      "our",
+      "plan",
+      "retirement",
+      "right",
+      "security",
+      "social",
+      "spending",
+      "then"
+    ],
+    "ts": 1792091561.081329
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/acv-auctions-stock-hits-52week-high-at-1051-93CH-4952470",
+    "title": "Acv Auctions stock hits 52-week high at $10.51",
+    "tokens": [
+      "acv",
+      "auctions",
+      "high",
+      "hits",
+      "stock",
+      "week"
+    ],
+    "ts": 1792091568.7560735
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/blue-biofuels-director-chris-kneppers-sells-10000-in-stock-93CH-4952469",
+    "title": "Blue biofuels director Chris Kneppers sells $10,000 in stock",
+    "tokens": [
+      "000",
+      "biofuels",
+      "blue",
+      "chris",
+      "director",
+      "kneppers",
+      "sells",
+      "stock"
+    ],
+    "ts": 1792091578.8365932
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/founders-metals-at-precious-metals-conference-drilling-fuels-growth-case-93CH-4952468",
+    "title": "Founders Metals at precious metals conference: drilling fuels growth case",
+    "tokens": [
+      "case",
+      "conference",
+      "drilling",
+      "founders",
+      "fuels",
+      "growth",
+      "metals",
+      "precious"
+    ],
+    "ts": 1792091586.4280522
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/godfather-star-al-pacino-to-receive-life-achievement-award-from-actors-guild-4952467",
+    "title": "’Godfather’ star Al Pacino to receive life achievement award from actors’ guild",
+    "tokens": [
+      "achievement",
+      "actors",
+      "award",
+      "godfather",
+      "guild",
+      "life",
+      "pacino",
+      "receive",
+      "star"
+    ],
+    "ts": 1792091594.7467117
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/semtech-options-activity-call-buyers-dominate-as-stock-drops-12-93CH-4952466",
+    "title": "Semtech options activity: call buyers dominate as stock drops 12%",
+    "tokens": [
+      "activity",
+      "buyers",
+      "call",
+      "dominate",
+      "drops",
+      "options",
+      "semtech",
+      "stock"
+    ],
+    "ts": 1792091602.1065009
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/private-credit-faces-deployment-squeeze-as-fundraising-hits-record-4952463",
+    "title": "Private credit faces deployment squeeze as fundraising hits record",
+    "tokens": [
+      "credit",
+      "deployment",
+      "faces",
+      "fundraising",
+      "hits",
+      "private",
+      "record",
+      "squeeze"
+    ],
+    "ts": 1792091610.136554
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/amazon-launches-two-new-portable-ai-listening-devices-4952429",
+    "title": "Amazon launches two new portable AI listening devices",
+    "tokens": [
+      "amazon",
+      "devices",
+      "launches",
+      "listening",
+      "portable",
+      "two"
+    ],
+    "ts": 1792091617.8947484
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/us-plan-to-ease-shadow-fleet-sanctions-unlikely-to-free-up-many-tankers-analysts-say-4952464",
+    "title": "US plan to ease shadow fleet sanctions unlikely to free up many tankers, analysts say",
+    "tokens": [
+      "analysts",
+      "ease",
+      "fleet",
+      "free",
+      "many",
+      "plan",
+      "sanctions",
+      "say",
+      "shadow",
+      "tankers",
+      "unlikely"
+    ],
+    "ts": 1792091625.2647376
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nasdaq-reports-network-disruption-us-equities-data-feeds-impacted-4952331",
+    "title": "Nasdaq resolves network disruption that caused data gaps, source says",
+    "tokens": [
+      "caused",
+      "data",
+      "disruption",
+      "gaps",
+      "nasdaq",
+      "network",
+      "resolves",
+      "source"
+    ],
+    "ts": 1792091632.294265
+  },
+  {
+    "id": "oilprice-article-45782",
+    "title": "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push",
+    "tokens": [
+      "asia",
+      "central",
+      "critical",
+      "energy",
+      "major",
+      "minerals",
+      "push",
+      "targets",
+      "trade"
+    ],
+    "ts": 1792091644.9308844
+  },
+  {
+    "id": "oilprice-article-45775",
+    "title": "Britain’s Biggest Business Lobby Calls for Tax Cuts and Lower Energy Bills",
+    "tokens": [
+      "biggest",
+      "bills",
+      "britain",
+      "business",
+      "calls",
+      "cuts",
+      "energy",
+      "lobby",
+      "lower",
+      "tax"
+    ],
+    "ts": 1792091663.8809776
+  },
+  {
+    "id": "oilprice-article-45780",
+    "title": "Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
+    "tokens": [
+      "arrive",
+      "drilling",
+      "gains",
+      "momentum",
+      "oil",
+      "recovery",
+      "rigs",
+      "venezuela"
+    ],
+    "ts": 1792091671.666735
+  },
+  {
+    "id": "oilprice-article-45781",
+    "title": "EIA Says US Crude Inventories Down Nearly 9 Million Barrels",
+    "tokens": [
+      "barrels",
+      "crude",
+      "eia",
+      "inventories",
+      "million",
+      "nearly"
+    ],
+    "ts": 1792091679.87117
+  },
+  {
+    "id": "oilprice-article-45774",
+    "title": "Trump Denies Cutting Ukraine Intelligence Amid Satellite Restrictions",
+    "tokens": [
+      "cutting",
+      "denies",
+      "intelligence",
+      "restrictions",
+      "satellite",
+      "trump",
+      "ukraine"
+    ],
+    "ts": 1792091688.5773728
+  },
+  {
+    "id": "oilprice-news-45782",
+    "title": "Pakistan Faces Winter Gas Shortages if Hormuz LNG Remains Choked",
+    "tokens": [
+      "choked",
+      "faces",
+      "gas",
+      "hormuz",
+      "lng",
+      "pakistan",
+      "remains",
+      "shortages",
+      "winter"
+    ],
+    "ts": 1792091696.3132074
+  },
+  {
+    "id": "oilprice-news-45781",
+    "title": "Europe’s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited",
+    "tokens": [
+      "2022",
+      "close",
+      "europe",
+      "flows",
+      "gas",
+      "high",
+      "hormuz",
+      "limited",
+      "lng",
+      "prices",
+      "remain"
+    ],
+    "ts": 1792091700.3290331
+  },
+  {
+    "id": "oilprice-news-45780",
+    "title": "U.S. Wants World Bank to Drop Ban on Upstream Oil and Gas Funding",
+    "tokens": [
+      "ban",
+      "bank",
+      "drop",
+      "funding",
+      "gas",
+      "oil",
+      "upstream",
+      "wants",
+      "world"
+    ],
+    "ts": 1792091700.3445568
+  },
+  {
+    "id": "f791d75f-ea39-43e0-99bc-a8769c3ebcab",
+    "title": "At the White House, crypto policy vacancy looms large",
+    "tokens": [
+      "crypto",
+      "house",
+      "large",
+      "looms",
+      "policy",
+      "vacancy",
+      "white"
+    ],
+    "ts": 1792091708.6784124
+  },
+  {
+    "id": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict",
+    "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+    "tokens": [
+      "adviser",
+      "bill",
+      "crypto",
+      "helping",
+      "pass",
+      "profited",
+      "stablecoin",
+      "trump",
+      "wsj"
+    ],
+    "ts": 1792091715.9432106
+  },
+  {
+    "id": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation",
+    "title": "Sweden revisits digital krona as ECB advances digital euro plans",
+    "tokens": [
+      "advances",
+      "digital",
+      "ecb",
+      "euro",
+      "krona",
+      "plans",
+      "revisits",
+      "sweden"
+    ],
+    "ts": 1792091723.2844005
+  },
+  {
+    "id": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins",
+    "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+    "tokens": [
+      "balances",
+      "banking",
+      "brings",
+      "card",
+      "mastercard",
+      "payments",
+      "stablecoin",
+      "traditional"
+    ],
+    "ts": 1792091731.0027313
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years",
+    "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+    "tokens": [
+      "80k",
+      "bitcoin",
+      "four",
+      "gains",
+      "most",
+      "ppi",
+      "slips",
+      "under",
+      "years"
+    ],
+    "ts": 1792091738.8953485
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+    "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+    "tokens": [
+      "announces",
+      "application",
+      "approval",
+      "board",
+      "capital",
+      "corporation",
+      "federal",
+      "fleur",
+      "reserve"
+    ],
+    "ts": 1792091746.3038368
   }
 ]

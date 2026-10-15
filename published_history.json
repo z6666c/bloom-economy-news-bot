@@ -1,442 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/services-pmi-and-ism-nonmanufacturing-pmi-due-monday-93CH-4930272",
-    "title": "Services PMI and ISM non-manufacturing PMI due Monday",
-    "tokens": [
-      "due",
-      "ism",
-      "manufacturing",
-      "monday",
-      "non",
-      "pmi",
-      "services"
-    ],
-    "ts": 1790964879.3724165
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/pcg-technical-analysis-bearish-trend-continues-with-oversold-signals-93CH-4930267",
-    "title": "PCG technical analysis: bearish trend continues with oversold signals",
-    "tokens": [
-      "analysis",
-      "bearish",
-      "continues",
-      "oversold",
-      "pcg",
-      "signals",
-      "technical",
-      "trend"
-    ],
-    "ts": 1790964888.2358315
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/wheat-futures-hover-near-sixweek-lows-on-dollar-strength-93CH-4930266",
-    "title": "Wheat futures hover near six-week lows on dollar strength",
-    "tokens": [
-      "dollar",
-      "futures",
-      "hover",
-      "lows",
-      "near",
-      "six",
-      "strength",
-      "week",
-      "wheat"
-    ],
-    "ts": 1790964898.0498576
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/italy-seeks-clarity-on-ecbs-lagarde-departure-rumors-93CH-4930265",
-    "title": "Italy seeks clarity on ECB’s Lagarde departure rumors",
-    "tokens": [
-      "clarity",
-      "departure",
-      "ecb",
-      "italy",
-      "lagarde",
-      "rumors",
-      "seeks"
-    ],
-    "ts": 1790964902.0663066
-  },
-  {
-    "id": "https://seekingalpha.com/news/4649935-energys-inverse-grip-on-stock-market-hits-a-record-high?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Energy's inverse grip on stock market hits a record high",
-    "tokens": [
-      "energy",
-      "grip",
-      "high",
-      "hits",
-      "inverse",
-      "market",
-      "record",
-      "stock"
-    ],
-    "ts": 1790964909.8852603
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-global-investor-counsel-encourages-honeywell-aerospace-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-hona-1036573063",
-    "title": "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Honeywell Aerospace Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - HONA",
-    "tokens": [
-      "action",
-      "aerospace",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "global",
-      "hona",
-      "honeywell",
-      "important",
-      "inc",
-      "investor",
-      "investors",
-      "rosen",
-      "secure",
-      "securities"
-    ],
-    "ts": 1790964920.3792548
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/alarum-deadline-rosen-skilled-investor-counsel-encourages-alarum-technologies-ltd.-investors-to-secure-counsel-before-important-october-5-deadline-in-securities-class-action-first-filed-by-the-firm-alar-1036583852",
-    "title": "ALARUM DEADLINE: ROSEN, SKILLED INVESTOR COUNSEL, Encourages Alarum Technologies Ltd. Investors to Secure Counsel Before Important October 5 Deadline in Securities Class Action First Filed by the...",
-    "tokens": [
-      "action",
-      "alarum",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "filed",
-      "first",
-      "important",
-      "investor",
-      "investors",
-      "ltd",
-      "october",
-      "rosen",
-      "secure",
-      "securities",
-      "skilled",
-      "technologies"
-    ],
-    "ts": 1790964930.8783348
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/esi-earns-first-ever-place-on-enr-s-top-250-global-contractors-list-1036594387",
-    "title": "ESI Earns First-Ever Place on ENR’s Top 250 Global Contractors List",
-    "tokens": [
-      "250",
-      "contractors",
-      "earns",
-      "enr",
-      "esi",
-      "ever",
-      "first",
-      "global",
-      "list",
-      "place",
-      "top"
-    ],
-    "ts": 1790964940.7701652
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/cfp-board-promotes-public-trust-with-19-actions-1036594388",
-    "title": "CFP Board Promotes Public Trust With 19 Actions",
-    "tokens": [
-      "actions",
-      "board",
-      "cfp",
-      "promotes",
-      "public",
-      "trust"
-    ],
-    "ts": 1790964948.9271028
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-urges-investors-of-medline-inc.-mdln-with-losses-to-contact-the-firm-1036594400",
-    "title": "Kaplan Fox Urges Investors of Medline Inc. (MDLN) with Losses to Contact the Firm",
-    "tokens": [
-      "contact",
-      "firm",
-      "fox",
-      "inc",
-      "investors",
-      "kaplan",
-      "losses",
-      "mdln",
-      "medline",
-      "urges"
-    ],
-    "ts": 1790964957.5423403
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/smx-the-age-of-parity-is-permanent---and-certified-recycled-plastic-has-emerged-as-its-economic-outcome-1036594399",
-    "title": "SMX: The Age of Parity is Permanent - and Certified Recycled Plastic Has Emerged as Its Economic Outcome",
-    "tokens": [
-      "age",
-      "certified",
-      "economic",
-      "emerged",
-      "outcome",
-      "parity",
-      "permanent",
-      "plastic",
-      "recycled",
-      "smx"
-    ],
-    "ts": 1790964967.2211878
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/major-shareholder-announcement-1036594362",
-    "title": "Major Shareholder Announcement",
-    "tokens": [
-      "announcement",
-      "major",
-      "shareholder"
-    ],
-    "ts": 1790964979.1854799
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-announces-a-securities-class-action-filed-against-doximity-inc.-docs-lead-plaintiff-deadline-is-november-16-2026-1036594364",
-    "title": "Kaplan Fox Announces a Securities Class Action Filed Against Doximity, Inc. (DOCS) - Lead Plaintiff Deadline is November 16, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "against",
-      "announces",
-      "class",
-      "deadline",
-      "docs",
-      "doximity",
-      "filed",
-      "fox",
-      "inc",
-      "kaplan",
-      "lead",
-      "november",
-      "plaintiff",
-      "securities"
-    ],
-    "ts": 1790964992.8639932
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/2026-regular-season-champion-matt-hagan-carries-nhra-points-lead-into-st-louis-in-american-rebel-light-beer-funny-car-1036594363",
-    "title": "2026 Regular-Season Champion Matt Hagan Carries NHRA Points Lead into St. Louis in American Rebel Light Beer Funny Car",
-    "tokens": [
-      "2026",
-      "american",
-      "beer",
-      "car",
-      "carries",
-      "champion",
-      "funny",
-      "hagan",
-      "lead",
-      "light",
-      "louis",
-      "matt",
-      "nhra",
-      "points",
-      "rebel",
-      "regular",
-      "season"
-    ],
-    "ts": 1790965003.267693
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/bridger-aerospace-at-noble-capital-markets-virtual-equity-investor-conference-growth-in-a-scarce-market-93CH-4930288",
-    "title": "Bridger Aerospace at Noble Capital Markets Virtual Equity Investor Conference: growth in a scarce market",
-    "tokens": [
-      "aerospace",
-      "bridger",
-      "capital",
-      "conference",
-      "equity",
-      "growth",
-      "investor",
-      "market",
-      "markets",
-      "noble",
-      "scarce",
-      "virtual"
-    ],
-    "ts": 1790966285.1195734
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nvidia-breaks-to-alltime-high-of-23787-driven-by-buyback-analyst-upgrade-and-ai-demand-93CH-4930287",
-    "title": "Nvidia breaks to all-time high of $237.87, driven by buyback, analyst upgrade, and AI demand",
-    "tokens": [
-      "237",
-      "all",
-      "analyst",
-      "breaks",
-      "buyback",
-      "demand",
-      "driven",
-      "high",
-      "nvidia",
-      "time",
-      "upgrade"
-    ],
-    "ts": 1790966295.3657067
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/electrical-oem-sector-strong-demand-high-valuation-risk-93CH-4930286",
-    "title": "Electrical OEM sector: strong demand, high valuation risk",
-    "tokens": [
-      "demand",
-      "electrical",
-      "high",
-      "oem",
-      "risk",
-      "sector",
-      "strong",
-      "valuation"
-    ],
-    "ts": 1790966304.5657594
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/starbucks-loses-bid-to-dismiss-union-trademark-lawsuit-93CH-4930285",
-    "title": "Starbucks loses bid to dismiss union trademark lawsuit",
-    "tokens": [
-      "bid",
-      "dismiss",
-      "lawsuit",
-      "loses",
-      "starbucks",
-      "trademark",
-      "union"
-    ],
-    "ts": 1790966314.4823651
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nike-earnings-analysis-questions-answered-and-next-catalysts-93CH-4930284",
-    "title": "Nike earnings analysis: questions answered and next catalysts",
-    "tokens": [
-      "analysis",
-      "answered",
-      "catalysts",
-      "earnings",
-      "next",
-      "nike",
-      "questions"
-    ],
-    "ts": 1790966318.498027
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/wms-options-activity-points-to-possible-hedge-roll-near-52week-low-93CH-4930283",
-    "title": "WMS options activity points to possible hedge roll near 52-week low",
-    "tokens": [
-      "activity",
-      "hedge",
-      "low",
-      "near",
-      "options",
-      "points",
-      "possible",
-      "roll",
-      "week",
-      "wms"
-    ],
-    "ts": 1790966323.3227577
-  },
-  {
-    "id": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue",
-    "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
-    "tokens": [
-      "blast",
-      "costs",
-      "ethereum",
-      "outpace",
-      "revenue",
-      "wind"
-    ],
-    "ts": 1790966333.380148
-  },
-  {
-    "id": "WP-MKTW-0005267602",
-    "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
-    "tokens": [
-      "benefits",
-      "can",
-      "government",
-      "loans",
-      "proposals",
-      "repay",
-      "security",
-      "seek",
-      "social",
-      "stop",
-      "student",
-      "take",
-      "these"
-    ],
-    "ts": 1790967446.9725666
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/russian-airstrikes-choke-bridges-across-dnipro-river-in-kyiv-4930294",
-    "title": "Russian airstrikes choke bridges across Dnipro River in Kyiv",
-    "tokens": [
-      "across",
-      "airstrikes",
-      "bridges",
-      "choke",
-      "dnipro",
-      "kyiv",
-      "river",
-      "russian"
-    ],
-    "ts": 1790967467.3366404
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/birchtech-at-noble-capital-markets-virtual-equity-investor-conference-water-pivot-93CH-4930300",
-    "title": "Birchtech at noble capital markets virtual equity investor conference: water pivot",
-    "tokens": [
-      "birchtech",
-      "capital",
-      "conference",
-      "equity",
-      "investor",
-      "markets",
-      "noble",
-      "pivot",
-      "virtual",
-      "water"
-    ],
-    "ts": 1790967478.1748686
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/mexico-needs-more-effort-to-lower-debt-imf-says-4930296",
-    "title": "Mexico needs more effort to lower debt, IMF says",
-    "tokens": [
-      "debt",
-      "effort",
-      "imf",
-      "lower",
-      "mexico",
-      "more",
-      "needs"
-    ],
-    "ts": 1790967487.8495548
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/imf-calls-for-more-action-to-reduce-mexicos-debt-trajectory-93CH-4930295",
-    "title": "IMF calls for more action to reduce Mexico’s debt trajectory",
-    "tokens": [
-      "action",
-      "calls",
-      "debt",
-      "imf",
-      "mexico",
-      "more",
-      "reduce",
-      "trajectory"
-    ],
-    "ts": 1790967500.8759773
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/synopsys-vs-cadence-valuation-cash-flow-and-pairs-trade-compared-93CH-4930292",
     "title": "Synopsys vs Cadence: valuation, cash flow, and pairs trade compared",
     "tokens": [
@@ -23779,5 +23342,405 @@
       "polygon"
     ],
     "ts": 1792042656.6007335
+  },
+  {
+    "id": "WP-MKTW-0005288679",
+    "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+    "tokens": [
+      "business",
+      "family",
+      "firm",
+      "him",
+      "leave",
+      "old",
+      "one",
+      "only",
+      "should",
+      "sons",
+      "two",
+      "works",
+      "years"
+    ],
+    "ts": 1792059578.9989643
+  },
+  {
+    "id": "WP-MKTW-0005280648",
+    "title": "‘New Girl’ star Jake Johnson lists lush and private Pasadena estate for $3.3 million",
+    "tokens": [
+      "estate",
+      "girl",
+      "jake",
+      "johnson",
+      "lists",
+      "lush",
+      "million",
+      "pasadena",
+      "private",
+      "star"
+    ],
+    "ts": 1792059587.8170478
+  },
+  {
+    "id": "WP-MKTW-0005288725",
+    "title": "Why the AI trade is not set up for a rebound like July’s, according to JPMorgan",
+    "tokens": [
+      "according",
+      "jpmorgan",
+      "july",
+      "like",
+      "rebound",
+      "set",
+      "trade",
+      "why"
+    ],
+    "ts": 1792059595.9431474
+  },
+  {
+    "id": "WP-MKTW-0005288608",
+    "title": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
+    "tokens": [
+      "ceo",
+      "chip",
+      "foundry",
+      "profit",
+      "record",
+      "reports",
+      "sees",
+      "sign",
+      "slowdown",
+      "tsmc"
+    ],
+    "ts": 1792059603.7837975
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/bitfufu-launches-tokenized-bitcoin-mining-product-with-finloop-93CH-4951013",
+    "title": "BitFuFu launches tokenized Bitcoin mining product with Finloop",
+    "tokens": [
+      "bitcoin",
+      "bitfufu",
+      "finloop",
+      "launches",
+      "mining",
+      "product",
+      "tokenized"
+    ],
+    "ts": 1792059611.7801526
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/santander-repurchases-61-million-shares-in-buyback-programme-93CH-4951014",
+    "title": "Santander repurchases 6.1 million shares in buyback programme",
+    "tokens": [
+      "buyback",
+      "million",
+      "programme",
+      "repurchases",
+      "santander",
+      "shares"
+    ],
+    "ts": 1792059619.2172358
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nable-study-finds-75-of-firms-lack-trust-in-ai-remediation-93CH-4951015",
+    "title": "N-able study finds 75% of firms lack trust in AI remediation",
+    "tokens": [
+      "able",
+      "finds",
+      "firms",
+      "lack",
+      "remediation",
+      "study",
+      "trust"
+    ],
+    "ts": 1792059627.507424
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/organigram-announces-restructuring-to-cut-costs-by-up-to-10m-93CH-4951010",
+    "title": "Organigram announces restructuring to cut costs by up to $10M",
+    "tokens": [
+      "10m",
+      "announces",
+      "costs",
+      "cut",
+      "organigram",
+      "restructuring"
+    ],
+    "ts": 1792059636.6482615
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/beam-globals-acquisition-target-scoutdi-receives-nuclear-order-93CH-4951011",
+    "title": "Beam Global’s acquisition target ScoutDI receives nuclear order",
+    "tokens": [
+      "acquisition",
+      "beam",
+      "global",
+      "nuclear",
+      "order",
+      "receives",
+      "scoutdi",
+      "target"
+    ],
+    "ts": 1792059644.3999732
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/beyond-meat-launches-caffeinated-protein-drink-line-93CH-4951012",
+    "title": "Beyond Meat launches caffeinated protein drink line",
+    "tokens": [
+      "beyond",
+      "caffeinated",
+      "drink",
+      "launches",
+      "line",
+      "meat",
+      "protein"
+    ],
+    "ts": 1792059652.7984688
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/meritex-goldman-sachs-recapitalize-atlanta-industrial-portfolio-93CH-4951008",
+    "title": "Meritex, Goldman Sachs recapitalize Atlanta industrial portfolio",
+    "tokens": [
+      "atlanta",
+      "goldman",
+      "industrial",
+      "meritex",
+      "portfolio",
+      "recapitalize",
+      "sachs"
+    ],
+    "ts": 1792059660.3791893
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/mastercard-launches-platform-integrating-fiat-and-stablecoins-93CH-4951009",
+    "title": "Mastercard launches platform integrating fiat and stablecoins",
+    "tokens": [
+      "fiat",
+      "integrating",
+      "launches",
+      "mastercard",
+      "platform",
+      "stablecoins"
+    ],
+    "ts": 1792059667.384
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/venture-global-to-build-power-plants-for-ai-data-centers-93CH-4951000",
+    "title": "Venture Global to build power plants for AI data centers",
+    "tokens": [
+      "build",
+      "centers",
+      "data",
+      "global",
+      "plants",
+      "power",
+      "venture"
+    ],
+    "ts": 1792059675.4253466
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/banks-need-bare-metal-recovery-in-face-of-ai-risks-says-boes-breeden-4950999",
+    "title": "Banks need ’bare metal’ recovery in face of AI risks, says BoE’s Breeden",
+    "tokens": [
+      "banks",
+      "bare",
+      "boe",
+      "breeden",
+      "face",
+      "metal",
+      "need",
+      "recovery",
+      "risks"
+    ],
+    "ts": 1792059683.1889007
+  },
+  {
+    "id": "oilprice-news-45770",
+    "title": "Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers",
+    "tokens": [
+      "considers",
+      "easing",
+      "fall",
+      "fleet",
+      "oil",
+      "prices",
+      "sanctions",
+      "shadow",
+      "tankers",
+      "trump"
+    ],
+    "ts": 1792059693.2226164
+  },
+  {
+    "id": "422c4d36-8184-46da-b11c-576d88b6ef52",
+    "title": "Live updates: Bitcoin back under $81,000 as AI selloff worsens",
+    "tokens": [
+      "000",
+      "back",
+      "bitcoin",
+      "live",
+      "selloff",
+      "under",
+      "updates",
+      "worsens"
+    ],
+    "ts": 1792059701.3857505
+  },
+  {
+    "id": "9f029fe5-1341-41a2-a870-72e160974b1e",
+    "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
+    "tokens": [
+      "blockchain",
+      "founder",
+      "his",
+      "hyperliquid",
+      "oversight",
+      "platforms",
+      "trading",
+      "wants"
+    ],
+    "ts": 1792059709.4908667
+  },
+  {
+    "id": "8d32c03a-25fb-446c-96fc-4a1b2d3f39de",
+    "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+    "tokens": [
+      "ahead",
+      "australia",
+      "crypto",
+      "deadline",
+      "exchanges",
+      "financial",
+      "licensing",
+      "rules",
+      "seeks",
+      "stiffer",
+      "watchdog"
+    ],
+    "ts": 1792059716.991719
+  },
+  {
+    "id": "60116bbe-3018-4094-850a-b25ef9635e82",
+    "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+    "tokens": [
+      "arrested",
+      "founder",
+      "heart",
+      "hex",
+      "istanbul",
+      "media",
+      "report",
+      "richard",
+      "turkish"
+    ],
+    "ts": 1792059724.0775952
+  },
+  {
+    "id": "b94f8196-a076-4370-a121-fa231c628aae",
+    "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+    "tokens": [
+      "alarm",
+      "blackrock",
+      "debt",
+      "fink",
+      "names",
+      "national",
+      "recession",
+      "sounds",
+      "trigger",
+      "trillion"
+    ],
+    "ts": 1792059731.4236257
+  },
+  {
+    "id": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3",
+    "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+    "tokens": [
+      "bitget",
+      "crypto",
+      "exploits",
+      "hacks",
+      "liquid",
+      "push",
+      "toward"
+    ],
+    "ts": 1792059738.9583294
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april",
+    "title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
+    "tokens": [
+      "april",
+      "bitcoin",
+      "closes",
+      "dips",
+      "kospi",
+      "lowest",
+      "since"
+    ],
+    "ts": 1792059746.2909942
+  },
+  {
+    "id": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares",
+    "title": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
+    "tokens": [
+      "coinshares",
+      "crypto",
+      "despite",
+      "etfs",
+      "may",
+      "rules",
+      "see",
+      "slow",
+      "start",
+      "thailand"
+    ],
+    "ts": 1792059753.5926116
+  },
+  {
+    "id": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal",
+    "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
+    "tokens": [
+      "aave",
+      "advances",
+      "babylon",
+      "bitcoin",
+      "lending",
+      "native",
+      "proposal"
+    ],
+    "ts": 1792059761.1628153
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k",
+    "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
+    "tokens": [
+      "261m",
+      "bitcoin",
+      "buck",
+      "etfs",
+      "funds",
+      "outflow",
+      "shed",
+      "trend",
+      "weekly",
+      "xrp"
+    ],
+    "ts": 1792059770.714641
+  },
+  {
+    "id": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges",
+    "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+    "tokens": [
+      "attacks",
+      "banks",
+      "crypto",
+      "cybersecurity",
+      "firms",
+      "hit",
+      "korea",
+      "overhaul",
+      "plans",
+      "south"
+    ],
+    "ts": 1792059778.0767102
   }
 ]

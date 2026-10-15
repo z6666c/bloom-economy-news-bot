@@ -1,254 +1,5 @@
 [
   {
-    "id": "oilprice-article-45672",
-    "title": "U.S. Oil Drilling Inches Up As Prices Fall",
-    "tokens": [
-      "drilling",
-      "fall",
-      "inches",
-      "oil",
-      "prices"
-    ],
-    "ts": 1790962362.0682728
-  },
-  {
-    "id": "oilprice-news-45672",
-    "title": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
-    "tokens": [
-      "100",
-      "barrels",
-      "counter",
-      "crisis",
-      "diesel",
-      "million",
-      "moves",
-      "release"
-    ],
-    "ts": 1790962366.0841706
-  },
-  {
-    "id": "222c482a-168d-45e6-9e66-422f00f149cd",
-    "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-    "tokens": [
-      "assets",
-      "billion",
-      "blast",
-      "ethereum",
-      "layer",
-      "once",
-      "plunge",
-      "shutting"
-    ],
-    "ts": 1790962370.970129
-  },
-  {
-    "id": "WP-MKTW-0005266560",
-    "title": "How much higher can bond yields rise — and what does it mean for stocks?",
-    "tokens": [
-      "bond",
-      "can",
-      "does",
-      "higher",
-      "how",
-      "mean",
-      "much",
-      "rise",
-      "stocks",
-      "what",
-      "yields"
-    ],
-    "ts": 1790963682.2192628
-  },
-  {
-    "id": "WP-MKTW-0005266879",
-    "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
-    "tokens": [
-      "bond",
-      "enthusiasm",
-      "figures",
-      "investors",
-      "jobs",
-      "lost",
-      "quickly",
-      "their",
-      "weak",
-      "why"
-    ],
-    "ts": 1790963692.2345068
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/with-record-earnings-in-the-rearview-micron-faces-taiwan-strike-prospects-4927735",
-    "title": "With record earnings in the rearview, Micron faces Taiwan strike prospects",
-    "tokens": [
-      "earnings",
-      "faces",
-      "micron",
-      "prospects",
-      "rearview",
-      "record",
-      "strike",
-      "taiwan"
-    ],
-    "ts": 1790963701.2960515
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/emerson-electric-technical-analysis-bullish-structure-with-shortterm-caution-signals-93CH-4930260",
-    "title": "Emerson Electric technical analysis: bullish structure with short-term caution signals",
-    "tokens": [
-      "analysis",
-      "bullish",
-      "caution",
-      "electric",
-      "emerson",
-      "short",
-      "signals",
-      "structure",
-      "technical",
-      "term"
-    ],
-    "ts": 1790963711.7882423
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/italy-seeks-clarity-on-rumors-about-lagardes-ecb-future-93CH-4930259",
-    "title": "Italy seeks clarity on rumors about Lagarde’s ECB future",
-    "tokens": [
-      "about",
-      "clarity",
-      "ecb",
-      "future",
-      "italy",
-      "lagarde",
-      "rumors",
-      "seeks"
-    ],
-    "ts": 1790963720.4387128
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/us-oil-and-gas-rig-count-falls-by-one-to-598-this-week-93CH-4930256",
-    "title": "US oil and gas rig count falls by one to 598 this week",
-    "tokens": [
-      "598",
-      "count",
-      "falls",
-      "gas",
-      "oil",
-      "one",
-      "rig",
-      "week"
-    ],
-    "ts": 1790963730.4261055
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/teekay-tankers-ltd-stock-hits-52week-high-at-10323-usd-93CH-4930255",
-    "title": "Teekay Tankers Ltd stock hits 52-week high at 103.23 USD",
-    "tokens": [
-      "103",
-      "high",
-      "hits",
-      "ltd",
-      "stock",
-      "tankers",
-      "teekay",
-      "usd",
-      "week"
-    ],
-    "ts": 1790963739.597656
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-huntsman-stock-price-target-on-european-challenges-93CH-4930254",
-    "title": "Jefferies cuts Huntsman stock price target on European challenges",
-    "tokens": [
-      "challenges",
-      "cuts",
-      "european",
-      "huntsman",
-      "jefferies",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1790963747.9958851
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-toromont-industries-stock-surging-today-93CH-4930251",
-    "title": "Why is Toromont Industries stock surging today?",
-    "tokens": [
-      "industries",
-      "stock",
-      "surging",
-      "today",
-      "toromont",
-      "why"
-    ],
-    "ts": 1790963757.1514852
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-lundin-mining-stock-rallying-today-93CH-4930250",
-    "title": "Why is Lundin Mining stock rallying today?",
-    "tokens": [
-      "lundin",
-      "mining",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1790963765.5642066
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/mid-penn-bancorp-director-kimberly-brumbaugh-buys-2478-in-shares-93CH-4930249",
-    "title": "Mid Penn Bancorp director Kimberly Brumbaugh buys $2,478 in shares",
-    "tokens": [
-      "478",
-      "bancorp",
-      "brumbaugh",
-      "buys",
-      "director",
-      "kimberly",
-      "mid",
-      "penn",
-      "shares"
-    ],
-    "ts": 1790963774.2268934
-  },
-  {
-    "id": "b69aa3c1-3224-4765-aa53-cb977c72fd3e",
-    "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
-    "tokens": [
-      "bny",
-      "infrastructure",
-      "kraken",
-      "parent",
-      "partnership",
-      "payward",
-      "talks"
-    ],
-    "ts": 1790963785.8831046
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/investingcoms-stocks-of-the-week-4930275",
-    "title": "Investing.com’s stocks of the week",
-    "tokens": [
-      "com",
-      "investing",
-      "stocks",
-      "week"
-    ],
-    "ts": 1790964869.7992215
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-teradyne-stock-surging-today-93CH-4930274",
-    "title": "Why is Teradyne stock surging today?",
-    "tokens": [
-      "stock",
-      "surging",
-      "teradyne",
-      "today",
-      "why"
-    ],
-    "ts": 1790964873.814429
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/services-pmi-and-ism-nonmanufacturing-pmi-due-monday-93CH-4930272",
     "title": "Services PMI and ISM non-manufacturing PMI due Monday",
     "tokens": [
@@ -23764,5 +23515,269 @@
       "see"
     ],
     "ts": 1792025734.496263
+  },
+  {
+    "id": "WP-MKTW-0005288379",
+    "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
+    "tokens": [
+      "anthropic",
+      "could",
+      "flag",
+      "growth",
+      "latest",
+      "red",
+      "slowing",
+      "trade"
+    ],
+    "ts": 1792042529.217228
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/tomtom-to-cut-200-jobs-trims-2026-revenue-outlook-midpoint-4950542",
+    "title": "TomTom to cut 200 jobs, trims 2026 revenue outlook midpoint",
+    "tokens": [
+      "200",
+      "2026",
+      "cut",
+      "jobs",
+      "midpoint",
+      "outlook",
+      "revenue",
+      "tomtom",
+      "trims"
+    ],
+    "ts": 1792042540.853311
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/swiss-online-pharmacy-docmorris-hikes-2026-guidance-after-strong-q3-earnings-4950541",
+    "title": "Swiss online pharmacy DocMorris hikes 2026 guidance after strong Q3 earnings",
+    "tokens": [
+      "2026",
+      "docmorris",
+      "earnings",
+      "guidance",
+      "hikes",
+      "online",
+      "pharmacy",
+      "strong",
+      "swiss"
+    ],
+    "ts": 1792042548.403453
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/taiwan-president-calls-for-micron-workers-to-negotiate-sincerely-ahead-of-possible-strike-4950532",
+    "title": "Taiwan president calls for Micron, workers to negotiate ’sincerely’ ahead of possible strike",
+    "tokens": [
+      "ahead",
+      "calls",
+      "micron",
+      "negotiate",
+      "possible",
+      "president",
+      "sincerely",
+      "strike",
+      "taiwan",
+      "workers"
+    ],
+    "ts": 1792042556.5468566
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/this-chinese-export-boom-really-has-legs--and-wings-4950540",
+    "title": "This Chinese export boom really has legs – and wings",
+    "tokens": [
+      "boom",
+      "chinese",
+      "export",
+      "legs",
+      "really",
+      "wings"
+    ],
+    "ts": 1792042564.1713061
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/vat-group-sees-2027-sales-well-above-its-guidance-as-ai-demand-surges-4950539",
+    "title": "VAT Group sees 2027 sales well above its guidance as AI demand surges",
+    "tokens": [
+      "2027",
+      "above",
+      "demand",
+      "group",
+      "guidance",
+      "sales",
+      "sees",
+      "surges",
+      "vat",
+      "well"
+    ],
+    "ts": 1792042571.5462244
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/figma-cfo-says-design-platform-willing-to-put-margins-on-the-line-to-boost-ai-demand-4950533",
+    "title": "Figma CFO says design platform willing to put margins on the line to boost AI demand",
+    "tokens": [
+      "boost",
+      "cfo",
+      "demand",
+      "design",
+      "figma",
+      "line",
+      "margins",
+      "platform",
+      "put",
+      "willing"
+    ],
+    "ts": 1792042579.2277343
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bessent-calls-for-world-bank-reforms-including-upstream-oil-and-gas-financing-4950531",
+    "title": "Bessent calls for World Bank reforms, including upstream oil and gas financing",
+    "tokens": [
+      "bank",
+      "bessent",
+      "calls",
+      "financing",
+      "gas",
+      "including",
+      "oil",
+      "reforms",
+      "upstream",
+      "world"
+    ],
+    "ts": 1792042586.7637742
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/japan-to-invest-up-to-21-billion-in-two-us-chip-factories-to-be-run-by-globalfoundries-4949222",
+    "title": "Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York",
+    "tokens": [
+      "billion",
+      "chip",
+      "factories",
+      "globalfoundries",
+      "invest",
+      "japan",
+      "two",
+      "york"
+    ],
+    "ts": 1792042593.5383925
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-treasury-yields-slide-after-cpidriven-spike-4950530",
+    "title": "U.S. Treasury yields slide after CPI-driven spike",
+    "tokens": [
+      "cpi",
+      "driven",
+      "slide",
+      "spike",
+      "treasury",
+      "yields"
+    ],
+    "ts": 1792042601.507763
+  },
+  {
+    "id": "a1e87579-41a0-46cc-8493-0d763cca9702",
+    "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+    "tokens": [
+      "bets",
+      "billion",
+      "bitcoin",
+      "crypto",
+      "ether",
+      "liquidated",
+      "nearly",
+      "slide",
+      "xrp"
+    ],
+    "ts": 1792042610.3013146
+  },
+  {
+    "id": "5b244df0-d2bb-4afd-85a1-0f0ba117a6e9",
+    "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+    "tokens": [
+      "bitcoin",
+      "falls",
+      "handling",
+      "hashrate",
+      "mining",
+      "network",
+      "once",
+      "pool",
+      "shuts"
+    ],
+    "ts": 1792042617.7922828
+  },
+  {
+    "id": "d43446ab-2a35-44b0-8136-9e945c154c50",
+    "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+    "tokens": [
+      "bitcoin",
+      "fed",
+      "kospi",
+      "plunges",
+      "rate",
+      "uncertainty",
+      "weighs",
+      "wilts"
+    ],
+    "ts": 1792042626.0934644
+  },
+  {
+    "id": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout",
+    "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+    "tokens": [
+      "2027",
+      "ahead",
+      "australia",
+      "crypto",
+      "feedback",
+      "platform",
+      "rollout",
+      "rules",
+      "seeks"
+    ],
+    "ts": 1792042633.2409296
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july",
+    "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+    "tokens": [
+      "bitcoin",
+      "july",
+      "miners",
+      "plunge",
+      "selloff",
+      "since",
+      "street",
+      "wall",
+      "worst"
+    ],
+    "ts": 1792042641.3888032
+  },
+  {
+    "id": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf",
+    "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+    "tokens": [
+      "application",
+      "etf",
+      "ether",
+      "lido",
+      "seeks",
+      "staked",
+      "vaneck",
+      "withdraw"
+    ],
+    "ts": 1792042649.464765
+  },
+  {
+    "id": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal",
+    "title": "Polygon gains US payments licenses after closing Coinme deal",
+    "tokens": [
+      "closing",
+      "coinme",
+      "deal",
+      "gains",
+      "licenses",
+      "payments",
+      "polygon"
+    ],
+    "ts": 1792042656.6007335
   }
 ]

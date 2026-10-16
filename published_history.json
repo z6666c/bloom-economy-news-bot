@@ -1,245 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/beyond-air-director-lin-yichien-buys-56590-in-company-stock-93CH-4930711",
-    "title": "Beyond Air director Lin Yi-Chien buys $56,590 in company stock",
-    "tokens": [
-      "590",
-      "air",
-      "beyond",
-      "buys",
-      "chien",
-      "company",
-      "director",
-      "lin",
-      "stock"
-    ],
-    "ts": 1790996709.3608627
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/summit-midstream-executive-vp-johnston-sells-79326-in-stock-93CH-4930730",
-    "title": "Summit Midstream executive VP Johnston sells $79,326 in stock",
-    "tokens": [
-      "326",
-      "executive",
-      "johnston",
-      "midstream",
-      "sells",
-      "stock",
-      "summit"
-    ],
-    "ts": 1790998514.337479
-  },
-  {
-    "id": "https://www.investing.com/news/press-releases/widgets--web-offers-allinclusive-investor-relations-websites-for-public-companies-ipos-and-spacs-4930746",
-    "title": "Widgets & Web Offers All-Inclusive Investor Relations Websites for Public Companies, IPOs and SPACs",
-    "tokens": [
-      "all",
-      "companies",
-      "inclusive",
-      "investor",
-      "ipos",
-      "offers",
-      "public",
-      "relations",
-      "spacs",
-      "web",
-      "websites",
-      "widgets"
-    ],
-    "ts": 1791000194.1947894
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/natera-president-solomon-moshkevich-sells-124m-in-shares-93CH-4930745",
-    "title": "Natera president Solomon Moshkevich sells $1.24m in shares",
-    "tokens": [
-      "24m",
-      "moshkevich",
-      "natera",
-      "president",
-      "sells",
-      "shares",
-      "solomon"
-    ],
-    "ts": 1791000203.5598307
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-president-michael-sentonas-sells-642-million-in-stock-93CH-4930744",
-    "title": "Crowdstrike president Michael Sentonas sells $64.2 million in stock",
-    "tokens": [
-      "crowdstrike",
-      "michael",
-      "million",
-      "president",
-      "sells",
-      "sentonas",
-      "stock"
-    ],
-    "ts": 1791000213.121908
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/spyre-therapeutics-chief-legal-officer-sells-263m-in-shares-93CH-4930743",
-    "title": "Spyre Therapeutics’ chief legal officer sells $2.63m in shares",
-    "tokens": [
-      "63m",
-      "chief",
-      "legal",
-      "officer",
-      "sells",
-      "shares",
-      "spyre",
-      "therapeutics"
-    ],
-    "ts": 1791000221.4862247
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/natera-ceo-steven-chapman-sells-526k-in-common-stock-93CH-4930742",
-    "title": "Natera CEO Steven Chapman sells $526k in common stock",
-    "tokens": [
-      "526k",
-      "ceo",
-      "chapman",
-      "common",
-      "natera",
-      "sells",
-      "steven",
-      "stock"
-    ],
-    "ts": 1791000230.5653121
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/trump-says-iran-war-could-end-after-us-elections-as-hormuz-tensions-persist-4930741",
-    "title": "Trump says Iran war could end after U.S. elections as Hormuz tensions persist",
-    "tokens": [
-      "could",
-      "elections",
-      "end",
-      "hormuz",
-      "iran",
-      "persist",
-      "tensions",
-      "trump",
-      "war"
-    ],
-    "ts": 1791000239.1192906
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/why-rising-exports-arent-easing-oil-market-fears-4930755",
-    "title": "Why rising exports aren’t easing oil market fears",
-    "tokens": [
-      "aren",
-      "easing",
-      "exports",
-      "fears",
-      "market",
-      "oil",
-      "rising",
-      "why"
-    ],
-    "ts": 1791001808.9858718
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/feds-hammack-says-there-is-time-to-weigh-next-rate-move-4930757",
-    "title": "Fed’s Hammack says there is time to weigh next rate move",
-    "tokens": [
-      "fed",
-      "hammack",
-      "move",
-      "next",
-      "rate",
-      "there",
-      "time",
-      "weigh"
-    ],
-    "ts": 1791002843.3994682
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/g20-countries-split-over-us-push-to-curb-excess-industrial-capacity-4930759",
-    "title": "G20 countries split over US push to curb excess industrial capacity",
-    "tokens": [
-      "capacity",
-      "countries",
-      "curb",
-      "excess",
-      "g20",
-      "industrial",
-      "push",
-      "split"
-    ],
-    "ts": 1791004226.311512
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/analysisais-race-to-transform-the-world-before-the-money-runs-out-4930760",
-    "title": "Analysis-AI’s race to transform the world before the money runs out",
-    "tokens": [
-      "analysis",
-      "before",
-      "money",
-      "race",
-      "runs",
-      "transform",
-      "world"
-    ],
-    "ts": 1791005850.6564465
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bridge-across-dnipro-river-in-kyiv-hit-during-russian-attack-4930762",
-    "title": "Bridge across Dnipro river in Kyiv hit during Russian attack",
-    "tokens": [
-      "across",
-      "attack",
-      "bridge",
-      "dnipro",
-      "during",
-      "hit",
-      "kyiv",
-      "river",
-      "russian"
-    ],
-    "ts": 1791010630.009658
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/flydubai-copilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-4930768",
-    "title": "Flydubai co-pilot attacked pilot with axe, attempted ’terrorist’ attack, UAE says",
-    "tokens": [
-      "attack",
-      "attacked",
-      "attempted",
-      "axe",
-      "flydubai",
-      "pilot",
-      "terrorist",
-      "uae"
-    ],
-    "ts": 1791011847.1671264
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/trump-says-us-will-send-90-payment-to-over-20-million-medicare-enrollees-4930767",
-    "title": "Trump says U.S. will send $90 payment to over 20 million Medicare enrollees",
-    "tokens": [
-      "enrollees",
-      "medicare",
-      "million",
-      "payment",
-      "send",
-      "trump"
-    ],
-    "ts": 1791011858.3995976
-  },
-  {
-    "id": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports",
-    "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
-    "tokens": [
-      "appoint",
-      "clayton",
-      "czar",
-      "expected",
-      "jay",
-      "reports",
-      "trump"
-    ],
-    "ts": 1791011863.5746877
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/pressure-builds-on-iran-as-trump-expands-us-military-presence--bloomberg-4930769",
     "title": "Pressure builds on Iran as Trump expands U.S. military presence - Bloomberg",
     "tokens": [
@@ -23826,5 +23586,256 @@
       "tampered"
     ],
     "ts": 1792111003.2060156
+  },
+  {
+    "id": "WP-MKTW-0005289228",
+    "title": "Tesla finally delivers on its promise to create a flying car",
+    "tokens": [
+      "car",
+      "create",
+      "delivers",
+      "finally",
+      "flying",
+      "promise",
+      "tesla"
+    ],
+    "ts": 1792126932.210632
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/exclusiveus-holds-more-secret-talks-with-myanmars-militarybacked-rulers-in-tokyo-sources-say-4953078",
+    "title": "Exclusive-US holds more secret talks with Myanmar’s military-backed rulers in Tokyo, sources say",
+    "tokens": [
+      "backed",
+      "exclusive",
+      "holds",
+      "military",
+      "more",
+      "myanmar",
+      "rulers",
+      "say",
+      "secret",
+      "sources",
+      "talks",
+      "tokyo"
+    ],
+    "ts": 1792126939.885042
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/morning-bid-calm-after-coreweave-shock-but-for-how-long-4953079",
+    "title": "Morning Bid: Calm after CoreWeave shock, but for how long?",
+    "tokens": [
+      "bid",
+      "calm",
+      "coreweave",
+      "how",
+      "long",
+      "morning",
+      "shock"
+    ],
+    "ts": 1792126947.469366
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/msci-freezes-certain-turkey-index-changes-warns-of-potential-market-downgrade-4952952",
+    "title": "MSCI freezes certain Turkey index changes, warns of potential market downgrade",
+    "tokens": [
+      "certain",
+      "changes",
+      "downgrade",
+      "freezes",
+      "index",
+      "market",
+      "msci",
+      "potential",
+      "turkey",
+      "warns"
+    ],
+    "ts": 1792126955.202853
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
+    "title": "Oil heads for weekly gain with Mideast supply risks",
+    "tokens": [
+      "gain",
+      "heads",
+      "mideast",
+      "oil",
+      "risks",
+      "supply",
+      "weekly"
+    ],
+    "ts": 1792126962.8978527
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-weakens-after-bond-rally-rupee-set-for-2-weekly-jump-4953070",
+    "title": "Asia FX subdued, dollar weakens after bond rally; rupee set for 2% weekly jump",
+    "tokens": [
+      "asia",
+      "bond",
+      "dollar",
+      "jump",
+      "rally",
+      "rupee",
+      "set",
+      "subdued",
+      "weakens",
+      "weekly"
+    ],
+    "ts": 1792126969.8928683
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/analysischinas-superrich-scramble-to-exit-offshore-trusts-raise-cash-as-taxman-knocks-4953051",
+    "title": "China’s super-rich scramble to exit offshore trusts, raise cash as taxman knocks",
+    "tokens": [
+      "cash",
+      "china",
+      "exit",
+      "knocks",
+      "offshore",
+      "raise",
+      "rich",
+      "scramble",
+      "super",
+      "taxman",
+      "trusts"
+    ],
+    "ts": 1792126977.3300195
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tesla-set-to-unveil-next-generation-roadster-sports-ev-after-years-of-delay-4951021",
+    "title": "Tesla’s new Roadster turns in air with SpaceX thrusters, won’t land until 2028",
+    "tokens": [
+      "2028",
+      "air",
+      "land",
+      "roadster",
+      "spacex",
+      "tesla",
+      "thrusters",
+      "turns",
+      "until",
+      "won"
+    ],
+    "ts": 1792126984.524484
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/indonesia-stocks-suffer-biggest-daily-slump-since-1998-as-msci-weighs-downgrade-4953068",
+    "title": "Indonesia stocks suffer biggest daily slump since 1998 as MSCI weighs downgrade",
+    "tokens": [
+      "1998",
+      "biggest",
+      "daily",
+      "downgrade",
+      "indonesia",
+      "msci",
+      "since",
+      "slump",
+      "stocks",
+      "suffer",
+      "weighs"
+    ],
+    "ts": 1792126992.786438
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-sourcenext-stock-sliding-today-93CH-4953067",
+    "title": "Why is Sourcenext stock sliding today?",
+    "tokens": [
+      "sliding",
+      "sourcenext",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1792126999.4242558
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/oklo-cpo-alexandra-renner-sells-21156-in-shares-on-oct-14-93CH-4953066",
+    "title": "Oklo CPO Alexandra Renner sells $21,156 in shares on Oct 14",
+    "tokens": [
+      "156",
+      "alexandra",
+      "cpo",
+      "oct",
+      "oklo",
+      "renner",
+      "sells",
+      "shares"
+    ],
+    "ts": 1792127006.2447095
+  },
+  {
+    "id": "oilprice-article-45789",
+    "title": "WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying",
+    "tokens": [
+      "brent",
+      "buying",
+      "crude",
+      "draw",
+      "fresh",
+      "ignites",
+      "outpaces",
+      "wti"
+    ],
+    "ts": 1792127014.4263427
+  },
+  {
+    "id": "oilprice-news-45789",
+    "title": "Ukraine Strikes Major Russian Oil Refinery",
+    "tokens": [
+      "major",
+      "oil",
+      "refinery",
+      "russian",
+      "strikes",
+      "ukraine"
+    ],
+    "ts": 1792127018.4427981
+  },
+  {
+    "id": "6b007e26-5c9c-466f-8968-d087f0467650",
+    "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+    "tokens": [
+      "agent",
+      "did",
+      "ethereum",
+      "funds",
+      "openai",
+      "own",
+      "ran",
+      "took",
+      "wallet"
+    ],
+    "ts": 1792127021.9890687
+  },
+  {
+    "id": "82ad3771-22e1-4b55-a449-dd02f044d0f7",
+    "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+    "tokens": [
+      "000",
+      "asian",
+      "below",
+      "bitcoin",
+      "brief",
+      "buyers",
+      "drop",
+      "rebound",
+      "snap",
+      "stocks"
+    ],
+    "ts": 1792127029.2677019
+  },
+  {
+    "id": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy",
+    "title": "MSCI adopts index exclusion rules that could oust Strategy",
+    "tokens": [
+      "adopts",
+      "could",
+      "exclusion",
+      "index",
+      "msci",
+      "oust",
+      "rules",
+      "strategy"
+    ],
+    "ts": 1792127036.5352254
   }
 ]

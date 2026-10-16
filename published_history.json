@@ -1,212 +1,5 @@
 [
   {
-    "id": "oilprice-news-45678",
-    "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
-    "tokens": [
-      "billion",
-      "deal",
-      "includes",
-      "korea",
-      "oil",
-      "project",
-      "south",
-      "trump"
-    ],
-    "ts": 1791145833.2411942
-  },
-  {
-    "id": "a8ac0c6c-84da-46ff-998e-1eaf89a086bd",
-    "title": "There's an election next month: State of Crypto",
-    "tokens": [
-      "crypto",
-      "election",
-      "month",
-      "next",
-      "state",
-      "there"
-    ],
-    "ts": 1791145837.694449
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/appeals-court-pauses-reinstatement-of-fired-seattle-federal-prosecutor-4930965",
-    "title": "Appeals court pauses reinstatement of fired Seattle federal prosecutor",
-    "tokens": [
-      "appeals",
-      "court",
-      "federal",
-      "fired",
-      "pauses",
-      "prosecutor",
-      "reinstatement",
-      "seattle"
-    ],
-    "ts": 1791156646.2078524
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/openais-altman-says-ai-benefits-warrant-accepting-some-risks-4930964",
-    "title": "OpenAI’s Altman says AI benefits warrant accepting some risks",
-    "tokens": [
-      "accepting",
-      "altman",
-      "benefits",
-      "openai",
-      "risks",
-      "some",
-      "warrant"
-    ],
-    "ts": 1791156655.5449266
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-climbs-after-yemeni-houthis-attack-saudi-aramco-sites-4930963",
-    "title": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites",
-    "tokens": [
-      "aramco",
-      "attack",
-      "climbs",
-      "houthis",
-      "oil",
-      "saudi",
-      "sites",
-      "yemeni"
-    ],
-    "ts": 1791156665.5346189
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/uk-set-to-impose-chinese-ev-levies-amid-eu-trade-pressure--report-4930962",
-    "title": "UK set to impose Chinese EV levies amid EU trade pressure - report",
-    "tokens": [
-      "chinese",
-      "impose",
-      "levies",
-      "pressure",
-      "report",
-      "set",
-      "trade"
-    ],
-    "ts": 1791156673.9597356
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/adobe-stock-here-are-5-strategic-questions-into-new-leadership-4930961",
-    "title": "Adobe stock: Here are 5 strategic questions into new leadership",
-    "tokens": [
-      "adobe",
-      "here",
-      "leadership",
-      "questions",
-      "stock",
-      "strategic"
-    ],
-    "ts": 1791156683.7346992
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4930959",
-    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-    "tokens": [
-      "close",
-      "index",
-      "lower",
-      "moex",
-      "russia",
-      "stocks",
-      "trade",
-      "unchanged"
-    ],
-    "ts": 1791156687.7439904
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/13-highconviction--catalystdriven-long-ideas-for-4q--2026-4930958",
-    "title": "13 High-Conviction & Catalyst-Driven Long Ideas for 4Q  2026",
-    "tokens": [
-      "2026",
-      "catalyst",
-      "conviction",
-      "driven",
-      "high",
-      "ideas",
-      "long"
-    ],
-    "ts": 1791156690.9695475
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/vaxcyte-to-present-phase-3-trial-data-for-vaccine-candidate-93CH-4930957",
-    "title": "Vaxcyte to present phase 3 trial data for vaccine candidate",
-    "tokens": [
-      "candidate",
-      "data",
-      "phase",
-      "present",
-      "trial",
-      "vaccine",
-      "vaxcyte"
-    ],
-    "ts": 1791156699.3082168
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/former-anthropic-researcher-coxon-to-testify-at-new-york-city-ai-hearing-bloomberg-news-reports-4930955",
-    "title": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports",
-    "tokens": [
-      "anthropic",
-      "bloomberg",
-      "city",
-      "coxon",
-      "former",
-      "hearing",
-      "news",
-      "reports",
-      "researcher",
-      "testify",
-      "york"
-    ],
-    "ts": 1791156707.3292441
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/former-anthropic-researcher-to-testify-at-nyc-council-ai-hearing--report-4930954",
-    "title": "Former Anthropic researcher to testify at NYC Council AI hearing - report",
-    "tokens": [
-      "anthropic",
-      "council",
-      "former",
-      "hearing",
-      "nyc",
-      "report",
-      "researcher",
-      "testify"
-    ],
-    "ts": 1791156716.9944086
-  },
-  {
-    "id": "oilprice-article-45680",
-    "title": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
-    "tokens": [
-      "below",
-      "car",
-      "first",
-      "fuel",
-      "gas",
-      "global",
-      "price",
-      "pushes",
-      "sales",
-      "shock",
-      "time"
-    ],
-    "ts": 1791156726.440446
-  },
-  {
-    "id": "oilprice-article-45681",
-    "title": "Europe’s Diesel Woes Just Got Even Worse",
-    "tokens": [
-      "diesel",
-      "europe",
-      "even",
-      "got",
-      "just",
-      "woes",
-      "worse"
-    ],
-    "ts": 1791156735.658909
-  },
-  {
     "id": "oilprice-news-45681",
     "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
     "tokens": [
@@ -23882,5 +23675,224 @@
       "volatility"
     ],
     "ts": 1792186495.3503869
+  },
+  {
+    "id": "WP-MKTW-0005292665",
+    "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+    "tokens": [
+      "alike",
+      "chip",
+      "hide",
+      "hits",
+      "nowhere",
+      "selloff",
+      "software",
+      "stocks",
+      "tech"
+    ],
+    "ts": 1792194818.56128
+  },
+  {
+    "id": "WP-MKTW-0005293091",
+    "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+    "tokens": [
+      "any",
+      "centers",
+      "clash",
+      "crucial",
+      "data",
+      "issue",
+      "midterm",
+      "more",
+      "other",
+      "race",
+      "senate",
+      "spending",
+      "where"
+    ],
+    "ts": 1792194826.190569
+  },
+  {
+    "id": "WP-MKTW-0005292056",
+    "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+    "tokens": [
+      "401",
+      "anthropic",
+      "could",
+      "debate",
+      "dimension",
+      "hits",
+      "ipo",
+      "put",
+      "risk",
+      "safety",
+      "your"
+    ],
+    "ts": 1792194834.1845753
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/blaize-declares-preferred-stock-dividend-ahead-of-potential-reverse-split-93CH-4955003",
+    "title": "Blaize declares preferred stock dividend ahead of potential reverse split",
+    "tokens": [
+      "ahead",
+      "blaize",
+      "declares",
+      "dividend",
+      "potential",
+      "preferred",
+      "reverse",
+      "split",
+      "stock"
+    ],
+    "ts": 1792194841.7849884
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/kratos-defenses-president-carrai-disposes-of-259116-in-common-stock-93CH-4954999",
+    "title": "Kratos Defense’s president Carrai disposes of $259,116 in common stock",
+    "tokens": [
+      "116",
+      "259",
+      "carrai",
+      "common",
+      "defense",
+      "disposes",
+      "kratos",
+      "president",
+      "stock"
+    ],
+    "ts": 1792194848.8729062
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/billiontoone-ceo-oguzhan-atay-sells-109-million-in-stock-93CH-4954998",
+    "title": "BillionToOne CEO Oguzhan Atay sells $1.09 million in stock",
+    "tokens": [
+      "atay",
+      "billiontoone",
+      "ceo",
+      "million",
+      "oguzhan",
+      "sells",
+      "stock"
+    ],
+    "ts": 1792194855.870737
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/standardaeros-chief-legal-officer-sells-16567-in-company-stock-93CH-4954996",
+    "title": "StandardAero’s chief legal officer sells $16,567 in company stock",
+    "tokens": [
+      "567",
+      "chief",
+      "company",
+      "legal",
+      "officer",
+      "sells",
+      "standardaero",
+      "stock"
+    ],
+    "ts": 1792194865.1749554
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports-4954941",
+    "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
+    "tokens": [
+      "anthropic",
+      "bill",
+      "lawmakers",
+      "own",
+      "pitches",
+      "politico",
+      "quietly",
+      "reports",
+      "safety"
+    ],
+    "ts": 1792194873.6231577
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ani-pharma-president--ceo-lalwani-sells-shares-for-388k-93CH-4954985",
+    "title": "Ani pharma president & ceo Lalwani sells shares for $388k",
+    "tokens": [
+      "388k",
+      "ani",
+      "ceo",
+      "lalwani",
+      "pharma",
+      "president",
+      "sells",
+      "shares"
+    ],
+    "ts": 1792194880.770478
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/doximity-cao-sitaram-sells-80166-of-company-stock-93CH-4954984",
+    "title": "Doximity CAO Sitaram sells $80,166 of company stock",
+    "tokens": [
+      "166",
+      "cao",
+      "company",
+      "doximity",
+      "sells",
+      "sitaram",
+      "stock"
+    ],
+    "ts": 1792194888.3461044
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/airjoule-technologies-ceo-jore-sells-153165-in-company-stock-93CH-4954983",
+    "title": "Airjoule technologies CEO Jore sells $153,165 in company stock",
+    "tokens": [
+      "153",
+      "165",
+      "airjoule",
+      "ceo",
+      "company",
+      "jore",
+      "sells",
+      "stock",
+      "technologies"
+    ],
+    "ts": 1792194895.9103875
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-signs-lease-for-first-canadian-data-center-4954967",
+    "title": "Anthropic signs lease for first Canadian data center",
+    "tokens": [
+      "anthropic",
+      "canadian",
+      "center",
+      "data",
+      "first",
+      "lease",
+      "signs"
+    ],
+    "ts": 1792194903.1203723
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/agereh-technologies-announces-private-placement-of-up-to-c600000-93CH-4954973",
+    "title": "Agereh Technologies announces private placement of up to C$600,000",
+    "tokens": [
+      "000",
+      "600",
+      "agereh",
+      "announces",
+      "placement",
+      "private",
+      "technologies"
+    ],
+    "ts": 1792194910.9914143
+  },
+  {
+    "id": "oilprice-article-45798",
+    "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
+    "tokens": [
+      "2034",
+      "dependence",
+      "energy",
+      "global",
+      "import",
+      "peak",
+      "rystad",
+      "set"
+    ],
+    "ts": 1792194920.2396634
   }
 ]

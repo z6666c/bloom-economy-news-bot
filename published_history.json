@@ -1,258 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/docusign-director-wilderotter-sells-68800-in-stock-93CH-4930647",
-    "title": "DocuSign director Wilderotter sells $68,800 in stock",
-    "tokens": [
-      "800",
-      "director",
-      "docusign",
-      "sells",
-      "stock",
-      "wilderotter"
-    ],
-    "ts": 1790991809.7433767
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/snowflake-director-michael-speiser-disposes-of-1745m-in-stock-93CH-4930643",
-    "title": "Snowflake director Michael Speiser disposes of $17.45m in stock",
-    "tokens": [
-      "45m",
-      "director",
-      "disposes",
-      "michael",
-      "snowflake",
-      "speiser",
-      "stock"
-    ],
-    "ts": 1790991818.7680063
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/sandisk-chief-legal-officer-shek-sells-1-million-in-shares-93CH-4930642",
-    "title": "Sandisk chief legal officer Shek sells $1 million in shares",
-    "tokens": [
-      "chief",
-      "legal",
-      "million",
-      "officer",
-      "sandisk",
-      "sells",
-      "shares",
-      "shek"
-    ],
-    "ts": 1790991829.0943608
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/metallus-ceo-michael-williams-sells-251482-in-company-stock-93CH-4930641",
-    "title": "Metallus CEO Michael Williams sells $251,482 in company stock",
-    "tokens": [
-      "251",
-      "482",
-      "ceo",
-      "company",
-      "metallus",
-      "michael",
-      "sells",
-      "stock",
-      "williams"
-    ],
-    "ts": 1790991838.6956716
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/japan-shifts-messaging-to-counter-view-its-policies-are-reflationary-katayama-says-in-tv-interview-4930677",
-    "title": "Japan shifts messaging to counter view its policies are reflationary, Katayama says in TV interview",
-    "tokens": [
-      "counter",
-      "interview",
-      "japan",
-      "katayama",
-      "messaging",
-      "policies",
-      "reflationary",
-      "shifts",
-      "view"
-    ],
-    "ts": 1790993498.4856896
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/coreweave-principal-accounting-officer-jeff-baker-sells-438-in-crwv-stock-93CH-4930673",
-    "title": "CoreWeave principal accounting officer Jeff Baker sells $438 in CRWV stock",
-    "tokens": [
-      "438",
-      "accounting",
-      "baker",
-      "coreweave",
-      "crwv",
-      "jeff",
-      "officer",
-      "principal",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790993508.4137897
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-ceo-klein-sells-209m-in-stock-93CH-4930672",
-    "title": "Oruka Therapeutics CEO Klein sells $2.09m in stock",
-    "tokens": [
-      "09m",
-      "ceo",
-      "klein",
-      "oruka",
-      "sells",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1790993518.0821736
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-85000-as-sec-custody-proposal-boosts-institutional-outlook-4930676",
-    "title": "Bitcoin holds below $85,000 as SEC custody proposal boosts institutional outlook",
-    "tokens": [
-      "000",
-      "below",
-      "bitcoin",
-      "boosts",
-      "custody",
-      "holds",
-      "institutional",
-      "outlook",
-      "proposal",
-      "sec"
-    ],
-    "ts": 1790994942.8896294
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/spyre-therapeutics-cfo-scott-burrows-sells-226m-in-stock-93CH-4930687",
-    "title": "Spyre Therapeutics CFO Scott Burrows sells $2.26m in stock",
-    "tokens": [
-      "26m",
-      "burrows",
-      "cfo",
-      "scott",
-      "sells",
-      "spyre",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1790994951.7502208
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-438-in-company-stock-93CH-4930686",
-    "title": "CoreWeave CFO Nitin Agrawal sells $438 in company stock",
-    "tokens": [
-      "438",
-      "agrawal",
-      "cfo",
-      "company",
-      "coreweave",
-      "nitin",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790994960.4172854
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/spyre-therapeutics-ceo-cameron-turtle-sells-138m-in-syre-stock-93CH-4930685",
-    "title": "Spyre Therapeutics CEO Cameron Turtle sells $1.38m in SYRE stock",
-    "tokens": [
-      "38m",
-      "cameron",
-      "ceo",
-      "sells",
-      "spyre",
-      "stock",
-      "syre",
-      "therapeutics",
-      "turtle"
-    ],
-    "ts": 1790994969.4903193
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/coreweave-cso-brian-venturo-sells-575-million-in-shares-for-taxes-93CH-4930725",
-    "title": "CoreWeave CSO Brian Venturo sells $5.75 million in shares for taxes",
-    "tokens": [
-      "brian",
-      "coreweave",
-      "cso",
-      "million",
-      "sells",
-      "shares",
-      "taxes",
-      "venturo"
-    ],
-    "ts": 1790996653.1561494
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/coreweave-chief-development-officer-sells-496m-in-stock-93CH-4930718",
-    "title": "Coreweave chief development officer sells $4.96m in stock",
-    "tokens": [
-      "96m",
-      "chief",
-      "coreweave",
-      "development",
-      "officer",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790996663.7628543
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/coreweave-gc-mcveety-sells-438-in-shares-93CH-4930717",
-    "title": "CoreWeave GC McVeety sells $438 in shares",
-    "tokens": [
-      "438",
-      "coreweave",
-      "mcveety",
-      "sells",
-      "shares"
-    ],
-    "ts": 1790996672.6424272
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/coreweave-ceo-michael-intrator-sells-689m-in-stock-93CH-4930715",
-    "title": "CoreWeave CEO Michael Intrator sells $6.89m in stock",
-    "tokens": [
-      "89m",
-      "ceo",
-      "coreweave",
-      "intrator",
-      "michael",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790996676.6584365
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/coreweave-coo-sachin-jain-sells-350-in-company-stock-93CH-4930716",
-    "title": "CoreWeave COO Sachin Jain sells $350 in company stock",
-    "tokens": [
-      "350",
-      "company",
-      "coo",
-      "coreweave",
-      "jain",
-      "sachin",
-      "sells",
-      "stock"
-    ],
-    "ts": 1790996682.7150257
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/xis-rest-breaks-cut-hours-from-trump-summit-schedule--wsj-4930713",
-    "title": "Xi’s rest breaks cut hours from Trump summit schedule - WSJ",
-    "tokens": [
-      "breaks",
-      "cut",
-      "hours",
-      "rest",
-      "schedule",
-      "summit",
-      "trump",
-      "wsj"
-    ],
-    "ts": 1790996695.0738642
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/beyond-air-director-lin-yichien-buys-56590-in-company-stock-93CH-4930711",
     "title": "Beyond Air director Lin Yi-Chien buys $56,590 in company stock",
     "tokens": [
@@ -23829,5 +23576,255 @@
       "valuation"
     ],
     "ts": 1792103123.5534852
+  },
+  {
+    "id": "WP-MKTW-0005290699",
+    "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+    "tokens": [
+      "coke",
+      "ground",
+      "kfc",
+      "loses",
+      "more",
+      "pepsi",
+      "soda",
+      "switches",
+      "wars"
+    ],
+    "ts": 1792110892.2945185
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/terrestrial-energy-director-pardee-buys-22125-in-company-stock-93CH-4952892",
+    "title": "Terrestrial Energy director Pardee buys $22,125 in company stock",
+    "tokens": [
+      "125",
+      "buys",
+      "company",
+      "director",
+      "energy",
+      "pardee",
+      "stock",
+      "terrestrial"
+    ],
+    "ts": 1792110899.3134072
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/white-house-ordered-spacex-to-limit-ukraine-satellite-service-reuters-reports-93CH-4952891",
+    "title": "White House ordered SpaceX to limit Ukraine satellite service, Reuters reports",
+    "tokens": [
+      "house",
+      "limit",
+      "ordered",
+      "reports",
+      "reuters",
+      "satellite",
+      "service",
+      "spacex",
+      "ukraine",
+      "white"
+    ],
+    "ts": 1792110906.7391508
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/loop-industries-earnings-missed-by-002-revenue-fell-short-of-estimates-4952881",
+    "title": "Loop Industries earnings missed by $0.02, revenue fell short of estimates",
+    "tokens": [
+      "earnings",
+      "estimates",
+      "fell",
+      "industries",
+      "loop",
+      "missed",
+      "revenue",
+      "short"
+    ],
+    "ts": 1792110914.6135347
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/progress-toward-a-usmexico-tariff-deal-has-stalled-wsj-reports-4952880",
+    "title": "Progress toward a US-Mexico tariff deal has stalled, WSJ reports",
+    "tokens": [
+      "deal",
+      "mexico",
+      "progress",
+      "reports",
+      "stalled",
+      "tariff",
+      "toward",
+      "wsj"
+    ],
+    "ts": 1792110922.1993837
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/lcnb-earnings-beat-by-004-revenue-topped-estimates-4952879",
+    "title": "LCNB earnings beat by $0.04, revenue topped estimates",
+    "tokens": [
+      "beat",
+      "earnings",
+      "estimates",
+      "lcnb",
+      "revenue",
+      "topped"
+    ],
+    "ts": 1792110929.7932138
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-amazon-stock-buys-coreweave-and-iambic-93CH-4952878",
+    "title": "Cathie Wood’s ARK sells Amazon stock, buys CoreWeave and Iambic",
+    "tokens": [
+      "amazon",
+      "ark",
+      "buys",
+      "cathie",
+      "coreweave",
+      "iambic",
+      "sells",
+      "stock",
+      "wood"
+    ],
+    "ts": 1792110936.6217587
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-pls-stock-rising-today-93CH-4952877",
+    "title": "Why is Pls stock rising today?",
+    "tokens": [
+      "pls",
+      "rising",
+      "stock",
+      "today",
+      "why"
+    ],
+    "ts": 1792110943.4408727
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/mongolian-mining-reports-q3-coal-sales-drop-gold-output-rises-93CH-4952876",
+    "title": "Mongolian Mining reports Q3 coal sales drop, gold output rises",
+    "tokens": [
+      "coal",
+      "drop",
+      "gold",
+      "mining",
+      "mongolian",
+      "output",
+      "reports",
+      "rises",
+      "sales"
+    ],
+    "ts": 1792110950.295778
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/prime-drink-group-launches-c4m-financing-closes-c200k-placement-93CH-4952874",
+    "title": "Prime Drink Group launches C$4M financing, closes C$200K placement",
+    "tokens": [
+      "200k",
+      "closes",
+      "drink",
+      "financing",
+      "group",
+      "launches",
+      "placement",
+      "prime"
+    ],
+    "ts": 1792110957.4848595
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-on-improving-supplies-wti-set-for-strong-week-4952863",
+    "title": "Oil prices edge lower on improving supplies; WTI set for strong week",
+    "tokens": [
+      "edge",
+      "improving",
+      "lower",
+      "oil",
+      "prices",
+      "set",
+      "strong",
+      "supplies",
+      "week",
+      "wti"
+    ],
+    "ts": 1792110964.826064
+  },
+  {
+    "id": "oilprice-article-45785",
+    "title": "Standard Chartered: Trump's Russian Diesel Won't Add New Supply",
+    "tokens": [
+      "add",
+      "chartered",
+      "diesel",
+      "russian",
+      "standard",
+      "supply",
+      "trump",
+      "won"
+    ],
+    "ts": 1792110973.1840649
+  },
+  {
+    "id": "oilprice-article-45784",
+    "title": "The Diesel Crunch Will Persist Well into 2027",
+    "tokens": [
+      "2027",
+      "crunch",
+      "diesel",
+      "persist",
+      "well"
+    ],
+    "ts": 1792110980.725779
+  },
+  {
+    "id": "oilprice-news-45785",
+    "title": "Ukraine Strikes Major Russian Oil Refinery",
+    "tokens": [
+      "major",
+      "oil",
+      "refinery",
+      "russian",
+      "strikes",
+      "ukraine"
+    ],
+    "ts": 1792110984.7421448
+  },
+  {
+    "id": "oilprice-news-45784",
+    "title": "IEA Speeds Emergency Oil Release",
+    "tokens": [
+      "emergency",
+      "iea",
+      "oil",
+      "release",
+      "speeds"
+    ],
+    "ts": 1792110988.2630076
+  },
+  {
+    "id": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework",
+    "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+    "tokens": [
+      "adopt",
+      "australia",
+      "bill",
+      "crypto",
+      "draft",
+      "framework",
+      "oecd",
+      "releases",
+      "reporting",
+      "tax"
+    ],
+    "ts": 1792110996.1104772
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express",
+    "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+    "tokens": [
+      "asia",
+      "express",
+      "ledgers",
+      "loses",
+      "scammer",
+      "stored",
+      "tampered"
+    ],
+    "ts": 1792111003.2060156
   }
 ]

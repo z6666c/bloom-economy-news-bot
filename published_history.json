@@ -1,346 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/pressure-builds-on-iran-as-trump-expands-us-military-presence--bloomberg-4930769",
-    "title": "Pressure builds on Iran as Trump expands U.S. military presence - Bloomberg",
-    "tokens": [
-      "bloomberg",
-      "builds",
-      "expands",
-      "iran",
-      "military",
-      "presence",
-      "pressure",
-      "trump"
-    ],
-    "ts": 1791014313.071555
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/consumer-ai-agents-what-does-it-mean-for-financial-services-4930783",
-    "title": "Consumer AI agents: What does it mean for Financial Services?",
-    "tokens": [
-      "agents",
-      "consumer",
-      "does",
-      "financial",
-      "mean",
-      "services",
-      "what"
-    ],
-    "ts": 1791015547.6369367
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/bofa-sees-eurusd-at-115-by-yearend-amid-market-risks-93CH-4930789",
-    "title": "BofA sees EUR/USD at 1.15 by year-end amid market risks",
-    "tokens": [
-      "bofa",
-      "end",
-      "eur",
-      "market",
-      "risks",
-      "sees",
-      "usd",
-      "year"
-    ],
-    "ts": 1791018771.4925244
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/merz-to-meet-frontrunners-for-lagarde-job-as-ecb-race-heats-up--bloomberg-4930786",
-    "title": "Merz to meet frontrunners for Lagarde job as ECB race heats up - Bloomberg",
-    "tokens": [
-      "bloomberg",
-      "ecb",
-      "frontrunners",
-      "heats",
-      "job",
-      "lagarde",
-      "meet",
-      "merz",
-      "race"
-    ],
-    "ts": 1791018779.3977795
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/z-squared-cmo-christopher-schadel-buys-3920-in-stock-93CH-4930805",
-    "title": "Z squared CMO Christopher Schadel buys $3,920 in stock",
-    "tokens": [
-      "920",
-      "buys",
-      "christopher",
-      "cmo",
-      "schadel",
-      "squared",
-      "stock"
-    ],
-    "ts": 1791019886.0855744
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ehealth-director-francis-soistman-jr-sells-28174-in-common-stock-93CH-4930804",
-    "title": "eHealth director Francis Soistman Jr sells $28,174 in common stock",
-    "tokens": [
-      "174",
-      "common",
-      "director",
-      "ehealth",
-      "francis",
-      "sells",
-      "soistman",
-      "stock"
-    ],
-    "ts": 1791019894.7056847
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/oregon-community-foundation-sells-325611-of-jewett-cameron-stock-93CH-4930803",
-    "title": "Oregon community foundation sells $325,611 of Jewett Cameron stock",
-    "tokens": [
-      "325",
-      "611",
-      "cameron",
-      "community",
-      "foundation",
-      "jewett",
-      "oregon",
-      "sells",
-      "stock"
-    ],
-    "ts": 1791019903.6064775
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/amplitude-ceo-spenser-skates-sells-70996-in-company-stock-93CH-4930792",
-    "title": "Amplitude CEO Spenser Skates sells $70,996 in company stock",
-    "tokens": [
-      "996",
-      "amplitude",
-      "ceo",
-      "company",
-      "sells",
-      "skates",
-      "spenser",
-      "stock"
-    ],
-    "ts": 1791019912.2709227
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/auburn-national-bancorporation-svp-buys-743-in-aubn-stock-93CH-4930791",
-    "title": "Auburn National Bancorporation SVP buys $743 in AUBN stock",
-    "tokens": [
-      "743",
-      "aubn",
-      "auburn",
-      "bancorporation",
-      "buys",
-      "national",
-      "stock",
-      "svp"
-    ],
-    "ts": 1791019919.6463184
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/auburn-national-director-david-housel-buys-1401-in-company-stock-93CH-4930790",
-    "title": "Auburn national director David Housel buys $1,401 in company stock",
-    "tokens": [
-      "401",
-      "auburn",
-      "buys",
-      "company",
-      "david",
-      "director",
-      "housel",
-      "national",
-      "stock"
-    ],
-    "ts": 1791019927.8037443
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-debt-could-reach-160-of-gdp-within-decade-scope-warns-4930813",
-    "title": "U.S. debt could reach 160% of GDP within decade, Scope warns",
-    "tokens": [
-      "160",
-      "could",
-      "debt",
-      "decade",
-      "gdp",
-      "reach",
-      "scope",
-      "warns",
-      "within"
-    ],
-    "ts": 1791021242.8084018
-  },
-  {
-    "id": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms",
-    "title": "Community banks sue OCC over trust bank charters of crypto firms",
-    "tokens": [
-      "bank",
-      "banks",
-      "charters",
-      "community",
-      "crypto",
-      "firms",
-      "occ",
-      "sue",
-      "trust"
-    ],
-    "ts": 1791021253.0842543
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/trump-to-speak-at-ohio-rally-as-republicans-defend-senate-seat-in-close-race-4930828",
-    "title": "Trump to speak at Ohio rally as Republicans defend Senate seat in close race",
-    "tokens": [
-      "close",
-      "defend",
-      "ohio",
-      "race",
-      "rally",
-      "republicans",
-      "seat",
-      "senate",
-      "speak",
-      "trump"
-    ],
-    "ts": 1791023236.2805963
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/auburn-national-director-william-ham-jr-buys-1288-in-stock-93CH-4930827",
-    "title": "Auburn national director William Ham Jr. buys $1,288 in stock",
-    "tokens": [
-      "288",
-      "auburn",
-      "buys",
-      "director",
-      "ham",
-      "national",
-      "stock",
-      "william"
-    ],
-    "ts": 1791023244.1041548
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/as-public-fears-of-ai-grow-trump-digs-in-on-voluntary-safeguards-4930823",
-    "title": "As public fears of AI grow, Trump digs in on voluntary safeguards",
-    "tokens": [
-      "digs",
-      "fears",
-      "grow",
-      "public",
-      "safeguards",
-      "trump",
-      "voluntary"
-    ],
-    "ts": 1791023252.2176669
-  },
-  {
-    "id": "https://www.investing.com/news/press-releases/hexaware-technologies-highlights-the-next-wave-of-ai-in-financial-services-4930821",
-    "title": "Hexaware Technologies Highlights the Next Wave of AI in Financial Services",
-    "tokens": [
-      "financial",
-      "hexaware",
-      "highlights",
-      "next",
-      "services",
-      "technologies",
-      "wave"
-    ],
-    "ts": 1791023259.7115638
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/qualcomm-svp-patricia-grech-sells-18281-in-qcom-shares-93CH-4930820",
-    "title": "Qualcomm SVP Patricia Grech sells $18,281 in QCOM shares",
-    "tokens": [
-      "281",
-      "grech",
-      "patricia",
-      "qcom",
-      "qualcomm",
-      "sells",
-      "shares",
-      "svp"
-    ],
-    "ts": 1791023267.8353274
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hotel-giants-see-middle-east-demand-recovering-as-peak-season-nears--bloomberg-4930815",
-    "title": "Hotel giants see Middle East demand recovering as peak season nears - Bloomberg",
-    "tokens": [
-      "bloomberg",
-      "demand",
-      "east",
-      "giants",
-      "hotel",
-      "middle",
-      "nears",
-      "peak",
-      "recovering",
-      "season",
-      "see"
-    ],
-    "ts": 1791023275.4863253
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/usrussia-talks-on-ukraine-involve-multibillion-dollar-oil-deal-nyt-reports-4930830",
-    "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
-    "tokens": [
-      "billion",
-      "deal",
-      "dollar",
-      "involve",
-      "multi",
-      "nyt",
-      "oil",
-      "reports",
-      "russia",
-      "talks",
-      "ukraine"
-    ],
-    "ts": 1791025237.485469
-  },
-  {
-    "id": "WP-MKTW-0005258457",
-    "title": "You might be shocked by how many stocks are in a bear market right now",
-    "tokens": [
-      "bear",
-      "how",
-      "many",
-      "market",
-      "might",
-      "now",
-      "right",
-      "shocked",
-      "stocks",
-      "you"
-    ],
-    "ts": 1791038258.940389
-  },
-  {
-    "id": "WP-MKTW-0005268180",
-    "title": "I made $500,000 from a stock sale in my IRA. Could this change my retirement?",
-    "tokens": [
-      "000",
-      "500",
-      "change",
-      "could",
-      "ira",
-      "made",
-      "retirement",
-      "sale",
-      "stock"
-    ],
-    "ts": 1791038267.7263298
-  },
-  {
-    "id": "WP-MKTW-0005267175",
-    "title": "The U.S. jobs market just took a turn for the worse. Or did it?",
-    "tokens": [
-      "did",
-      "jobs",
-      "just",
-      "market",
-      "took",
-      "turn",
-      "worse"
-    ],
-    "ts": 1791038275.4972603
-  },
-  {
     "id": "WP-MKTW-0005267681",
     "title": "The next big AI battle is all about cuteness",
     "tokens": [
@@ -23837,5 +23496,360 @@
       "strategy"
     ],
     "ts": 1792127036.5352254
+  },
+  {
+    "id": "WP-MKTW-0005291153",
+    "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+    "tokens": [
+      "americans",
+      "chairman",
+      "didn",
+      "fed",
+      "here",
+      "kevin",
+      "key",
+      "night",
+      "say",
+      "sleeping",
+      "things",
+      "thursday",
+      "warsh",
+      "while"
+    ],
+    "ts": 1792144162.414646
+  },
+  {
+    "id": "WP-MKTW-0005289493",
+    "title": "‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+    "tokens": [
+      "diagnosed",
+      "lymphoma",
+      "next",
+      "security",
+      "see",
+      "should",
+      "situation",
+      "social",
+      "take",
+      "wait",
+      "year"
+    ],
+    "ts": 1792144169.6105127
+  },
+  {
+    "id": "WP-MKTW-0005280737",
+    "title": "The pull of Nashville: A dozen celebrities who have moved to Tennessee, and why",
+    "tokens": [
+      "celebrities",
+      "dozen",
+      "moved",
+      "nashville",
+      "pull",
+      "tennessee",
+      "who",
+      "why"
+    ],
+    "ts": 1792144176.7449224
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
+    "title": "Bitcoin rebounds to $82k but set for second week in red",
+    "tokens": [
+      "82k",
+      "bitcoin",
+      "rebounds",
+      "red",
+      "second",
+      "set",
+      "week"
+    ],
+    "ts": 1792144184.7277873
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/citizens-cuts-rocket-lab-stock-price-target-on-neutron-delay-to-2027-93CH-4953465",
+    "title": "Citizens cuts Rocket Lab stock price target on Neutron delay to 2027",
+    "tokens": [
+      "2027",
+      "citizens",
+      "cuts",
+      "delay",
+      "lab",
+      "neutron",
+      "price",
+      "rocket",
+      "stock",
+      "target"
+    ],
+    "ts": 1792144193.236701
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/steppe-cement-reports-19-revenue-increase-in-third-quarter-93CH-4953464",
+    "title": "Steppe Cement reports 19% revenue increase in third quarter",
+    "tokens": [
+      "cement",
+      "increase",
+      "quarter",
+      "reports",
+      "revenue",
+      "steppe",
+      "third"
+    ],
+    "ts": 1792144200.931454
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/stablecoin-issuer-circle-to-push-into-40-new-markets-ceo-says-4953459",
+    "title": "Stablecoin issuer Circle to push into 40 new markets, CEO says",
+    "tokens": [
+      "ceo",
+      "circle",
+      "issuer",
+      "markets",
+      "push",
+      "stablecoin"
+    ],
+    "ts": 1792144208.1215339
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/needham-downgrades-varonis-systems-stock-rating-on-acquisition-deal-93CH-4953456",
+    "title": "Needham downgrades Varonis Systems stock rating on acquisition deal",
+    "tokens": [
+      "acquisition",
+      "deal",
+      "downgrades",
+      "needham",
+      "rating",
+      "stock",
+      "systems",
+      "varonis"
+    ],
+    "ts": 1792144214.7194805
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-varonis-stock-rating-on-proofpoint-acquisition-93CH-4953455",
+    "title": "DA Davidson cuts Varonis stock rating on Proofpoint acquisition",
+    "tokens": [
+      "acquisition",
+      "cuts",
+      "davidson",
+      "proofpoint",
+      "rating",
+      "stock",
+      "varonis"
+    ],
+    "ts": 1792144221.8009524
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/here-are-the-latest-additions-to-ubs-paneuropean-small--midcap-list-4953454",
+    "title": "Here are the latest additions to UBS’ ’Pan-European Small & Mid-Cap’ list",
+    "tokens": [
+      "additions",
+      "cap",
+      "european",
+      "here",
+      "latest",
+      "list",
+      "mid",
+      "pan",
+      "small",
+      "ubs"
+    ],
+    "ts": 1792144229.0622327
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/aws-microsoft-can-do-more-to-address-cloud-services-barriers-uk-competition-watchdog-says-4953452",
+    "title": "AWS, Microsoft can do more to address cloud services barriers, UK competition watchdog says",
+    "tokens": [
+      "address",
+      "aws",
+      "barriers",
+      "can",
+      "cloud",
+      "competition",
+      "microsoft",
+      "more",
+      "services",
+      "watchdog"
+    ],
+    "ts": 1792144236.52491
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/imf-chief-says-ai-risks-may-exceed-opportunities-without-safeguards-and-ethical-framework-4953345",
+    "title": "IMF chief says AI risks may exceed opportunities without safeguards and ethical framework",
+    "tokens": [
+      "chief",
+      "ethical",
+      "exceed",
+      "framework",
+      "imf",
+      "may",
+      "opportunities",
+      "risks",
+      "safeguards",
+      "without"
+    ],
+    "ts": 1792144244.2700388
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/investors-bought-stocks-and-bonds-shed-cash-in-past-week-say-bofa-4953449",
+    "title": "Investors bought stocks and bonds, shed cash in past week, say BofA",
+    "tokens": [
+      "bofa",
+      "bonds",
+      "bought",
+      "cash",
+      "investors",
+      "past",
+      "say",
+      "shed",
+      "stocks",
+      "week"
+    ],
+    "ts": 1792144251.2128434
+  },
+  {
+    "id": "243f1e25-08ee-4879-81bb-4de837b0deec",
+    "title": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
+    "tokens": [
+      "000",
+      "above",
+      "back",
+      "bitcoin",
+      "continue",
+      "etf",
+      "jumps",
+      "live",
+      "outflows",
+      "updates",
+      "zec"
+    ],
+    "ts": 1792144260.2388258
+  },
+  {
+    "id": "418f4b6f-aae3-4fef-8272-d3299a339475",
+    "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+    "tokens": [
+      "appeal",
+      "backing",
+      "cftc",
+      "despite",
+      "gemini",
+      "judge",
+      "million",
+      "rejects",
+      "settlement",
+      "void"
+    ],
+    "ts": 1792144267.440296
+  },
+  {
+    "id": "42f0aac3-b960-4e42-9205-1c651297db05",
+    "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+    "tokens": [
+      "approves",
+      "could",
+      "eject",
+      "equity",
+      "indexes",
+      "metaplanet",
+      "msci",
+      "rules",
+      "strategy"
+    ],
+    "ts": 1792144274.753662
+  },
+  {
+    "id": "c04850a9-6aba-4352-90e8-e0aefedcffe2",
+    "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+    "tokens": [
+      "bitcoin",
+      "ether",
+      "failed",
+      "here",
+      "holders",
+      "like",
+      "make",
+      "rich",
+      "why",
+      "xrp"
+    ],
+    "ts": 1792144282.3077493
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant",
+    "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+    "tokens": [
+      "before",
+      "bitcoin",
+      "cryptoquant",
+      "highs",
+      "line",
+      "may",
+      "month",
+      "reclaim",
+      "record",
+      "seek",
+      "trend"
+    ],
+    "ts": 1792144289.3004806
+  },
+  {
+    "id": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment",
+    "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
+    "tokens": [
+      "78m",
+      "bitcoin",
+      "capital",
+      "charge",
+      "driven",
+      "impairment",
+      "loss",
+      "reports"
+    ],
+    "ts": 1792144297.4192066
+  },
+  {
+    "id": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal",
+    "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+    "tokens": [
+      "bid",
+      "cftc",
+      "gemini",
+      "judge",
+      "rejects",
+      "settlement",
+      "undo"
+    ],
+    "ts": 1792144304.7332516
+  },
+  {
+    "id": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization",
+    "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+    "tokens": [
+      "about",
+      "crypto",
+      "helped",
+      "itself",
+      "kept",
+      "model",
+      "openai",
+      "quiet",
+      "testnet",
+      "then"
+    ],
+    "ts": 1792144312.0124137
+  },
+  {
+    "id": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans",
+    "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
+    "tokens": [
+      "balaji",
+      "bans",
+      "begins",
+      "media",
+      "singapore",
+      "social",
+      "wave"
+    ],
+    "ts": 1792144319.080578
   }
 ]

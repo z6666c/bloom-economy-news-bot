@@ -1,189 +1,5 @@
 [
   {
-    "id": "oilprice-news-45681",
-    "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
-    "tokens": [
-      "billion",
-      "deal",
-      "includes",
-      "korea",
-      "oil",
-      "project",
-      "south",
-      "trump"
-    ],
-    "ts": 1791156739.6686027
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
-    "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
-    "tokens": [
-      "600k",
-      "bitcoin",
-      "boss",
-      "cycle",
-      "czar",
-      "digest",
-      "former",
-      "hit",
-      "hodler",
-      "made",
-      "may",
-      "sec"
-    ],
-    "ts": 1791156745.1276798
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-middle-east-exports-recoverg7-taps-emergency-stocks-4930986",
-    "title": "Oil prices fall as Middle East exports recover, G7 taps emergency stocks",
-    "tokens": [
-      "east",
-      "emergency",
-      "exports",
-      "fall",
-      "middle",
-      "oil",
-      "prices",
-      "recover",
-      "stocks",
-      "taps"
-    ],
-    "ts": 1791167090.2666812
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hang-seng-oversold-at-23876-with-rsi-2796-live-levels-93CH-4930985",
-    "title": "Hang Seng oversold at 23,876 with RSI 27.96: Live levels",
-    "tokens": [
-      "876",
-      "hang",
-      "levels",
-      "live",
-      "oversold",
-      "rsi",
-      "seng"
-    ],
-    "ts": 1791167098.9200711
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-french-fiscal-woes-keep-euro-on-back-foot-4930983",
-    "title": "Dollar holds firm as French fiscal woes keep euro on back foot",
-    "tokens": [
-      "back",
-      "dollar",
-      "euro",
-      "firm",
-      "fiscal",
-      "foot",
-      "french",
-      "holds",
-      "keep",
-      "woes"
-    ],
-    "ts": 1791167106.7317677
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/stocks-upbeat-dollar-wobbles-as-fed-hike-bets-recede-4930982",
-    "title": "Stocks upbeat, dollar wobbles as Fed hike bets recede",
-    "tokens": [
-      "bets",
-      "dollar",
-      "fed",
-      "hike",
-      "recede",
-      "stocks",
-      "upbeat",
-      "wobbles"
-    ],
-    "ts": 1791167115.089037
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/middle-east-crude-oil-exports-exceed-prewar-levels-but-tanker-attacks-increase-4930981",
-    "title": "Middle East crude oil exports exceed pre-war levels but tanker attacks increase",
-    "tokens": [
-      "attacks",
-      "crude",
-      "east",
-      "exceed",
-      "exports",
-      "increase",
-      "levels",
-      "middle",
-      "oil",
-      "pre",
-      "tanker",
-      "war"
-    ],
-    "ts": 1791167123.031103
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/gold-edges-higher-after-weekly-slide-as-weak-jobs-data-ease-fed-hike-bets-4930980",
-    "title": "Gold edges higher after weekly slide as weak jobs data ease Fed hike bets",
-    "tokens": [
-      "bets",
-      "data",
-      "ease",
-      "edges",
-      "fed",
-      "gold",
-      "higher",
-      "hike",
-      "jobs",
-      "slide",
-      "weak",
-      "weekly"
-    ],
-    "ts": 1791167131.792157
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
-    "title": "Nikkei 225 hits 70,037 overbought high: Pullback risk live",
-    "tokens": [
-      "037",
-      "225",
-      "high",
-      "hits",
-      "live",
-      "nikkei",
-      "overbought",
-      "pullback",
-      "risk"
-    ],
-    "ts": 1791167139.1683307
-  },
-  {
-    "id": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
-    "title": "Zcash gets a Washington lobbyist to push crypto policy",
-    "tokens": [
-      "crypto",
-      "gets",
-      "lobbyist",
-      "policy",
-      "push",
-      "washington",
-      "zcash"
-    ],
-    "ts": 1791167150.4347365
-  },
-  {
-    "id": "WP-MKTW-0005269309",
-    "title": "The average U.S. stock is quietly getting crushed. Morgan Stanley says these ones are worth buying now.",
-    "tokens": [
-      "average",
-      "buying",
-      "crushed",
-      "getting",
-      "morgan",
-      "now",
-      "ones",
-      "quietly",
-      "stanley",
-      "stock",
-      "these",
-      "worth"
-    ],
-    "ts": 1791192504.8499343
-  },
-  {
     "id": "WP-MKTW-0005269418",
     "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
     "tokens": [
@@ -23894,5 +23710,181 @@
       "set"
     ],
     "ts": 1792194920.2396634
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/striking-unions-at-antofagastas-centinela-copper-mine-reach-preliminary-deal-ending-strike-4955155",
+    "title": "Striking unions at Antofagasta’s Centinela copper mine reach preliminary deal, ending strike",
+    "tokens": [
+      "antofagasta",
+      "centinela",
+      "copper",
+      "deal",
+      "ending",
+      "mine",
+      "preliminary",
+      "reach",
+      "strike",
+      "striking",
+      "unions"
+    ],
+    "ts": 1792206533.0188992
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-pledges-fiscal-adjustment-rejects-cuts-to-social-spending-4955137",
+    "title": "Brazil’s Flavio Bolsonaro pledges fiscal adjustment, rejects cuts to social spending",
+    "tokens": [
+      "adjustment",
+      "bolsonaro",
+      "brazil",
+      "cuts",
+      "fiscal",
+      "flavio",
+      "pledges",
+      "rejects",
+      "social",
+      "spending"
+    ],
+    "ts": 1792206540.6713092
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/marqeta-cao-crystal-sells-23448-in-company-stock-93CH-4955134",
+    "title": "Marqeta CAO Crystal sells $23,448 in company stock",
+    "tokens": [
+      "448",
+      "cao",
+      "company",
+      "crystal",
+      "marqeta",
+      "sells",
+      "stock"
+    ],
+    "ts": 1792206547.4571297
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-201m-in-stock-93CH-4955123",
+    "title": "Natera executive chairman Matthew Rabinowitz sells $20.1m in stock",
+    "tokens": [
+      "chairman",
+      "executive",
+      "matthew",
+      "natera",
+      "rabinowitz",
+      "sells",
+      "stock"
+    ],
+    "ts": 1792206555.1737497
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/anthropic-offers-blackstone-over-10-yield-in-60b-ai-chip-financing--ft-reports-4955122",
+    "title": "Anthropic offers Blackstone over 10% yield in $60B AI chip financing - FT reports",
+    "tokens": [
+      "60b",
+      "anthropic",
+      "blackstone",
+      "chip",
+      "financing",
+      "offers",
+      "reports",
+      "yield"
+    ],
+    "ts": 1792206563.588773
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/grabagun-ceo-nemati-sells-7600-in-shares-for-tax-obligations-93CH-4955109",
+    "title": "GrabAGun CEO Nemati sells $7,600 in shares for tax obligations",
+    "tokens": [
+      "600",
+      "ceo",
+      "grabagun",
+      "nemati",
+      "obligations",
+      "sells",
+      "shares",
+      "tax"
+    ],
+    "ts": 1792206570.6820068
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/grabagun-digital-coo-matthew-vittitow-sells-3805-in-shares-93CH-4955108",
+    "title": "Grabagun digital COO Matthew Vittitow sells $3,805 in shares",
+    "tokens": [
+      "805",
+      "coo",
+      "digital",
+      "grabagun",
+      "matthew",
+      "sells",
+      "shares",
+      "vittitow"
+    ],
+    "ts": 1792206577.4690003
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/kingsway-cfo-kent-hansen-buys-1558-in-company-stock-93CH-4955097",
+    "title": "Kingsway CFO Kent Hansen buys $1,558 in company stock",
+    "tokens": [
+      "558",
+      "buys",
+      "cfo",
+      "company",
+      "hansen",
+      "kent",
+      "kingsway",
+      "stock"
+    ],
+    "ts": 1792206584.5124238
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/kingsway-president-and-ceo-john-fitzgerald-acquires-3477-of-common-stock-93CH-4955096",
+    "title": "Kingsway president and CEO John Fitzgerald acquires $3,477 of common stock",
+    "tokens": [
+      "477",
+      "acquires",
+      "ceo",
+      "common",
+      "fitzgerald",
+      "john",
+      "kingsway",
+      "president",
+      "stock"
+    ],
+    "ts": 1792206592.2890015
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/trump-waives-many-russiarelated-sanctions-tariffs-before-they-were-to-take-effect-under-new-law-4955088",
+    "title": "Trump waives many Russia-related sanctions, tariffs before they were to take effect under new law",
+    "tokens": [
+      "before",
+      "effect",
+      "law",
+      "many",
+      "related",
+      "russia",
+      "sanctions",
+      "take",
+      "tariffs",
+      "they",
+      "trump",
+      "under",
+      "waives"
+    ],
+    "ts": 1792206599.5944564
+  },
+  {
+    "id": "790cf35e-00c2-452f-9232-7c99bf30cb55",
+    "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+    "tokens": [
+      "bigger",
+      "bitcoin",
+      "breakthrough",
+      "era",
+      "faces",
+      "google",
+      "quantum",
+      "satoshi",
+      "threat",
+      "willow"
+    ],
+    "ts": 1792206608.0033543
   }
 ]

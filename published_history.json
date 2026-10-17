@@ -1,280 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
-    "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
-    "tokens": [
-      "asks",
-      "dispute",
-      "governance",
-      "intervene",
-      "investor",
-      "safe",
-      "swiss",
-      "watchdog"
-    ],
-    "ts": 1791192740.0360022
-  },
-  {
-    "id": "WP-MKTW-0005269951",
-    "title": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies",
-    "tokens": [
-      "about",
-      "aramco",
-      "ceo",
-      "downbeat",
-      "global",
-      "may",
-      "oil",
-      "restocking",
-      "road",
-      "saudi",
-      "supplies",
-      "too"
-    ],
-    "ts": 1791226005.166132
-  },
-  {
-    "id": "WP-MKTW-0005270163",
-    "title": "AI chatbots recommend shopping at Walmart over just about anywhere else, analysts find",
-    "tokens": [
-      "about",
-      "analysts",
-      "anywhere",
-      "chatbots",
-      "else",
-      "find",
-      "just",
-      "recommend",
-      "shopping",
-      "walmart"
-    ],
-    "ts": 1791226014.426693
-  },
-  {
-    "id": "WP-MKTW-0005270041",
-    "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
-    "tokens": [
-      "analysts",
-      "back",
-      "bounce",
-      "digital",
-      "downplay",
-      "seagate",
-      "shares",
-      "threat",
-      "toshiba",
-      "western"
-    ],
-    "ts": 1791226023.2903302
-  },
-  {
-    "id": "WP-MKTW-0005269820",
-    "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
-    "tokens": [
-      "analyst",
-      "being",
-      "blazing",
-      "close",
-      "comeback",
-      "even",
-      "isn",
-      "microsoft",
-      "stock"
-    ],
-    "ts": 1791226031.1674683
-  },
-  {
-    "id": "WP-MKTW-0005269777",
-    "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
-    "tokens": [
-      "80s",
-      "avoided",
-      "basement",
-      "could",
-      "excruciating",
-      "fell",
-      "friend",
-      "her",
-      "pain",
-      "stairs"
-    ],
-    "ts": 1791226043.696862
-  },
-  {
-    "id": "WP-MKTW-0005269862",
-    "title": "SpaceX’s stock could actually be a bargain, according to this metric",
-    "tokens": [
-      "according",
-      "actually",
-      "bargain",
-      "could",
-      "metric",
-      "spacex",
-      "stock"
-    ],
-    "ts": 1791226051.2511194
-  },
-  {
-    "id": "WP-MKTW-0005269258",
-    "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
-    "tokens": [
-      "all",
-      "couples",
-      "due",
-      "heading",
-      "loan",
-      "mortgage",
-      "need",
-      "officer",
-      "overspending",
-      "people",
-      "rejected",
-      "trouble",
-      "wake",
-      "wealthy"
-    ],
-    "ts": 1791226061.1959329
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/chevron-elevates-cfo-to-head-oil-and-gas-operations-4932414",
-    "title": "Chevron elevates CFO to lead oil and gas operations",
-    "tokens": [
-      "cfo",
-      "chevron",
-      "elevates",
-      "gas",
-      "lead",
-      "oil",
-      "operations"
-    ],
-    "ts": 1791226070.6452386
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/starbucks-sued-over-sugarfree-claims-for-protein-beverages-4932506",
-    "title": "Starbucks sued over ’sugar-free’ claims for protein beverages",
-    "tokens": [
-      "beverages",
-      "claims",
-      "free",
-      "protein",
-      "starbucks",
-      "sued",
-      "sugar"
-    ],
-    "ts": 1791226078.2066169
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/william-blair-cuts-ast-spacemobile-revenue-estimate-on-launch-delays-93CH-4932716",
-    "title": "William Blair cuts AST Spacemobile revenue estimate on launch delays",
-    "tokens": [
-      "ast",
-      "blair",
-      "cuts",
-      "delays",
-      "estimate",
-      "launch",
-      "revenue",
-      "spacemobile",
-      "william"
-    ],
-    "ts": 1791226086.3777761
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/wall-st-futures-dip-as-tech-stocks-take-a-breather-4931591",
-    "title": "Nasdaq hits record high as investors focus on earnings",
-    "tokens": [
-      "earnings",
-      "focus",
-      "high",
-      "hits",
-      "investors",
-      "nasdaq",
-      "record"
-    ],
-    "ts": 1791226093.855194
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/imf-research-shows-better-tax-system-design-can-raise-revenue-growth-without-higher-rates-4932715",
-    "title": "IMF research shows better tax system design can raise revenue, growth without higher rates",
-    "tokens": [
-      "better",
-      "can",
-      "design",
-      "growth",
-      "higher",
-      "imf",
-      "raise",
-      "rates",
-      "research",
-      "revenue",
-      "shows",
-      "system",
-      "tax",
-      "without"
-    ],
-    "ts": 1791226100.9998503
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/citizens--northern-director-frank-pellegrino-buys-6249-in-stock-93CH-4932713",
-    "title": "Citizens & Northern director Frank Pellegrino buys $6,249 in stock",
-    "tokens": [
-      "249",
-      "buys",
-      "citizens",
-      "director",
-      "frank",
-      "northern",
-      "pellegrino",
-      "stock"
-    ],
-    "ts": 1791226109.210875
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/meta-and-microsoft-scale-back-internal-use-of-anthropics-claude-report-says-4932709",
-    "title": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says",
-    "tokens": [
-      "anthropic",
-      "back",
-      "claude",
-      "internal",
-      "meta",
-      "microsoft",
-      "report",
-      "scale",
-      "use"
-    ],
-    "ts": 1791226116.6950707
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/btig-reiterates-vaxcyte-stock-rating-on-strong-vax31-trial-data-93CH-4932708",
-    "title": "BTIG reiterates Vaxcyte stock rating on strong VAX-31 trial data",
-    "tokens": [
-      "btig",
-      "data",
-      "rating",
-      "reiterates",
-      "stock",
-      "strong",
-      "trial",
-      "vax",
-      "vaxcyte"
-    ],
-    "ts": 1791226123.834482
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/northwest-european-gasoline-margins-hold-steady-at-4060-93CH-4932707",
-    "title": "Northwest European gasoline margins hold steady at $40.60",
-    "tokens": [
-      "european",
-      "gasoline",
-      "hold",
-      "margins",
-      "northwest",
-      "steady"
-    ],
-    "ts": 1791226131.4938731
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-acadia-pharmaceuticals-stock-rating-on-patent-developments-93CH-4932706",
     "title": "RBC Capital reiterates Acadia Pharmaceuticals stock rating on patent developments",
     "tokens": [
@@ -23885,5 +23610,276 @@
       "resilient"
     ],
     "ts": 1792238486.9966476
+  },
+  {
+    "id": "WP-MKTW-0005289890",
+    "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+    "tokens": [
+      "buyers",
+      "home",
+      "meet",
+      "mortgage",
+      "rates",
+      "totally",
+      "unfazed"
+    ],
+    "ts": 1792250772.286102
+  },
+  {
+    "id": "WP-MKTW-0005290155",
+    "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
+    "tokens": [
+      "drop",
+      "economic",
+      "high",
+      "hints",
+      "looms",
+      "recent",
+      "record",
+      "silver",
+      "slowdown"
+    ],
+    "ts": 1792250780.1051524
+  },
+  {
+    "id": "WP-MKTW-0005288345",
+    "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
+    "tokens": [
+      "earnings",
+      "favorite",
+      "microsoft",
+      "more",
+      "plays",
+      "shopify",
+      "stocks",
+      "street",
+      "wall"
+    ],
+    "ts": 1792250787.2913067
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/gic-private-ltd-sells-2748-million-in-medline-mdln-shares-93CH-4955458",
+    "title": "GIC Private Ltd sells $274.8 million in Medline (MDLN) shares",
+    "tokens": [
+      "274",
+      "gic",
+      "ltd",
+      "mdln",
+      "medline",
+      "million",
+      "private",
+      "sells",
+      "shares"
+    ],
+    "ts": 1792250794.6791196
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/analysishigh-debt-growing-strains-put-focus-on-need-for-new-development-approaches-4955453",
+    "title": "Analysis-High debt, growing strains put focus on need for new development approaches",
+    "tokens": [
+      "analysis",
+      "approaches",
+      "debt",
+      "development",
+      "focus",
+      "growing",
+      "high",
+      "need",
+      "put",
+      "strains"
+    ],
+    "ts": 1792250801.9487553
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/saba-capital-sells-675333-in-blackrock-ecat-shares-93CH-4955451",
+    "title": "Saba Capital sells $675,333 in BlackRock ECAT shares",
+    "tokens": [
+      "333",
+      "675",
+      "blackrock",
+      "capital",
+      "ecat",
+      "saba",
+      "sells",
+      "shares"
+    ],
+    "ts": 1792250809.6323488
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/deepseek-releases-ai-model-update-opens-search-apis-to-all-users-4955445",
+    "title": "DeepSeek releases AI model update, opens search APIs to all users",
+    "tokens": [
+      "all",
+      "apis",
+      "deepseek",
+      "model",
+      "opens",
+      "releases",
+      "search",
+      "update",
+      "users"
+    ],
+    "ts": 1792250816.7588081
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/tether-global-investments-fund-buys-128m-in-goldcom-stock-93CH-4955444",
+    "title": "Tether global investments fund buys $1.28m in Gold.com stock",
+    "tokens": [
+      "28m",
+      "buys",
+      "com",
+      "fund",
+      "global",
+      "gold",
+      "investments",
+      "stock",
+      "tether"
+    ],
+    "ts": 1792250823.6796405
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-axis-bank-posts-strong-q2-2026-profit-growth-93CH-4955438",
+    "title": "Earnings call transcript: Axis Bank posts strong Q2 2026 profit growth",
+    "tokens": [
+      "2026",
+      "axis",
+      "bank",
+      "call",
+      "earnings",
+      "growth",
+      "posts",
+      "profit",
+      "strong",
+      "transcript"
+    ],
+    "ts": 1792250831.3740277
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253",
+    "title": "Bitcoin price holds near $81,000 as ETF outflows weigh on sentiment",
+    "tokens": [
+      "000",
+      "bitcoin",
+      "etf",
+      "holds",
+      "near",
+      "outflows",
+      "price",
+      "sentiment",
+      "weigh"
+    ],
+    "ts": 1792250838.9761834
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bank-of-canada-sees-sharply-higher-inflation-outlook-as-oil-surges-macklem-says-4955437",
+    "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+    "tokens": [
+      "bank",
+      "canada",
+      "higher",
+      "inflation",
+      "macklem",
+      "oil",
+      "outlook",
+      "sees",
+      "sharply",
+      "surges"
+    ],
+    "ts": 1792250846.185265
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ferguson-coo-thees-sells-127125-of-ferg-stock-93CH-4955433",
+    "title": "Ferguson COO Thees sells $127,125 of FERG stock",
+    "tokens": [
+      "125",
+      "127",
+      "coo",
+      "ferg",
+      "ferguson",
+      "sells",
+      "stock",
+      "thees"
+    ],
+    "ts": 1792250852.9664605
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/which-company-has-the-worlds-highest-earnings-the-answer-may-surprise-you-4955422",
+    "title": "Which company has the world’s highest earnings? The answer may surprise you",
+    "tokens": [
+      "answer",
+      "company",
+      "earnings",
+      "highest",
+      "may",
+      "surprise",
+      "which",
+      "world",
+      "you"
+    ],
+    "ts": 1792250860.637199
+  },
+  {
+    "id": "oilprice-article-45790",
+    "title": "Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry",
+    "tokens": [
+      "bolivia",
+      "crisis",
+      "deepens",
+      "dry",
+      "energy",
+      "gas",
+      "natural",
+      "reserves",
+      "run"
+    ],
+    "ts": 1792250868.4672344
+  },
+  {
+    "id": "84377f49-3727-43be-9113-da4e204f8d12",
+    "title": "Citrini sees a tokenization boom. The harder question is who profits",
+    "tokens": [
+      "boom",
+      "citrini",
+      "harder",
+      "profits",
+      "question",
+      "sees",
+      "tokenization",
+      "who"
+    ],
+    "ts": 1792250875.1185403
+  },
+  {
+    "id": "343f70ed-3190-4565-9247-298807259365",
+    "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+    "tokens": [
+      "acquisition",
+      "coinme",
+      "dominated",
+      "entry",
+      "payments",
+      "polygon",
+      "sector",
+      "sees",
+      "stripe",
+      "visa"
+    ],
+    "ts": 1792250882.6020863
+  },
+  {
+    "id": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
+    "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+    "tokens": [
+      "areas",
+      "continued",
+      "fidelity",
+      "need",
+      "observation",
+      "resilience",
+      "shows",
+      "solana",
+      "some"
+    ],
+    "ts": 1792250889.726413
   }
 ]

@@ -1,257 +1,5 @@
 [
   {
-    "id": "https://markets.businessinsider.com/news/stocks/form-8-3-the-vanguard-group-inc-segro-plc-1036597127",
-    "title": "Form 8.3 - The Vanguard Group, Inc.: Segro PLC",
-    "tokens": [
-      "form",
-      "group",
-      "inc",
-      "plc",
-      "segro",
-      "vanguard"
-    ],
-    "ts": 1791226166.2987318
-  },
-  {
-    "id": "https://seekingalpha.com/news/4650074-most-shorted-stocks-on-wall-street?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Most shorted stocks on Wall Street",
-    "tokens": [
-      "most",
-      "shorted",
-      "stocks",
-      "street",
-      "wall"
-    ],
-    "ts": 1791226169.6603951
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/everflow-partnergap-platformpay-io-host-era-ecommerce-event-in-vilnius-lithuania-1036597138",
-    "title": "Everflow, PartnerGap, PlatformPay.io Host ERA Ecommerce Event in Vilnius, Lithuania",
-    "tokens": [
-      "ecommerce",
-      "era",
-      "event",
-      "everflow",
-      "host",
-      "lithuania",
-      "partnergap",
-      "platformpay",
-      "vilnius"
-    ],
-    "ts": 1791226177.3305674
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-encourages-investors-of-lincoln-educational-services-corporation-linc-to-contact-the-firm-before-the-securities-class-action-deadline-on-november-10-2026-1036597139",
-    "title": "Kaplan Fox Encourages Investors of Lincoln Educational Services Corporation (LINC) to Contact the Firm Before the Securities Class Action Deadline on November 10, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "before",
-      "class",
-      "contact",
-      "corporation",
-      "deadline",
-      "educational",
-      "encourages",
-      "firm",
-      "fox",
-      "investors",
-      "kaplan",
-      "linc",
-      "lincoln",
-      "november",
-      "securities",
-      "services"
-    ],
-    "ts": 1791226184.7982795
-  },
-  {
-    "id": "https://seekingalpha.com/news/4650186-brazil-etf-soars-in-rare-opening-move-on-bolsonaro-election-lead?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Brazil ETF soars in rare opening move on Bolsonaro election lead",
-    "tokens": [
-      "bolsonaro",
-      "brazil",
-      "election",
-      "etf",
-      "lead",
-      "move",
-      "opening",
-      "rare",
-      "soars"
-    ],
-    "ts": 1791226191.8136759
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/form-8-3-the-vanguard-group-inc-rotork-plc-1036597129",
-    "title": "Form 8.3 - The Vanguard Group, Inc.: Rotork PLC",
-    "tokens": [
-      "form",
-      "group",
-      "inc",
-      "plc",
-      "rotork",
-      "vanguard"
-    ],
-    "ts": 1791226195.8231325
-  },
-  {
-    "id": "https://seekingalpha.com/news/4650196-bny-mellon-municipal-bond-infrastructure-fund-declares-0_05-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "BNY Mellon Municipal Bond Infrastructure Fund declares $0.05 dividend",
-    "tokens": [
-      "bny",
-      "bond",
-      "declares",
-      "dividend",
-      "fund",
-      "infrastructure",
-      "mellon",
-      "municipal"
-    ],
-    "ts": 1791226198.9970052
-  },
-  {
-    "id": "oilprice-news-45685",
-    "title": "Freeport LNG Ramps Up Gas Intake After Train 2 Shutdown",
-    "tokens": [
-      "freeport",
-      "gas",
-      "intake",
-      "lng",
-      "ramps",
-      "shutdown",
-      "train"
-    ],
-    "ts": 1791226206.73661
-  },
-  {
-    "id": "oilprice-article-45683",
-    "title": "$9.6 Billion in Southeast Asian Upstream Assets Are for Sale Through 2027",
-    "tokens": [
-      "2027",
-      "asian",
-      "assets",
-      "billion",
-      "sale",
-      "southeast",
-      "through",
-      "upstream"
-    ],
-    "ts": 1791226214.6377275
-  },
-  {
-    "id": "oilprice-news-45683",
-    "title": "Iran’s Oil Minister Resigns as U.S. Blockade Chokes Crude Exports",
-    "tokens": [
-      "blockade",
-      "chokes",
-      "crude",
-      "exports",
-      "iran",
-      "minister",
-      "oil",
-      "resigns"
-    ],
-    "ts": 1791226222.345862
-  },
-  {
-    "id": "oilprice-article-45685",
-    "title": "Here’s How Trump’s Using The Graham Act To Trap Russia And Crush Iran",
-    "tokens": [
-      "act",
-      "crush",
-      "graham",
-      "here",
-      "how",
-      "iran",
-      "russia",
-      "trap",
-      "trump",
-      "using"
-    ],
-    "ts": 1791226230.2113514
-  },
-  {
-    "id": "oilprice-news-45682",
-    "title": "Possible Fire Reported at Saudi Refinery as Attack Claims Circulate",
-    "tokens": [
-      "attack",
-      "circulate",
-      "claims",
-      "fire",
-      "possible",
-      "refinery",
-      "reported",
-      "saudi"
-    ],
-    "ts": 1791226237.6572177
-  },
-  {
-    "id": "oilprice-article-45682",
-    "title": "Supreme Court Takes Up Boulder Climate Suit Against Exxon and Suncor",
-    "tokens": [
-      "against",
-      "boulder",
-      "climate",
-      "court",
-      "exxon",
-      "suit",
-      "suncor",
-      "supreme",
-      "takes"
-    ],
-    "ts": 1791226245.772337
-  },
-  {
-    "id": "7ce6e77d-6fd5-4f45-8995-0426b6f69276",
-    "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
-    "tokens": [
-      "headed",
-      "here",
-      "how",
-      "including",
-      "more",
-      "nvidia",
-      "onchain",
-      "stocks",
-      "tesla",
-      "works"
-    ],
-    "ts": 1791226254.3610215
-  },
-  {
-    "id": "97541a4a-e26c-43b5-9e2c-b0fcaaed06c5",
-    "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
-    "tokens": [
-      "cftc",
-      "crypto",
-      "gap",
-      "joins",
-      "lingers",
-      "market",
-      "proposing",
-      "regulations",
-      "sec",
-      "spot",
-      "though"
-    ],
-    "ts": 1791226261.7325957
-  },
-  {
-    "id": "45694973-5dcb-4db4-a07b-ed264fe19956",
-    "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
-    "tokens": [
-      "100",
-      "cards",
-      "countries",
-      "end",
-      "expand",
-      "stablecoin",
-      "stripe",
-      "year"
-    ],
-    "ts": 1791226268.8257942
-  },
-  {
     "id": "12c9a823-8bff-453b-b7a2-6109d86d18f4",
     "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
     "tokens": [
@@ -23877,5 +23625,303 @@
       "wells"
     ],
     "ts": 1792259697.7670946
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
+    "title": "Citi says interest rates may matter more for economy than stock valuations",
+    "tokens": [
+      "citi",
+      "economy",
+      "interest",
+      "matter",
+      "may",
+      "more",
+      "rates",
+      "stock",
+      "valuations"
+    ],
+    "ts": 1792267873.4275906
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
+    "title": "Gilead chairman & CEO O’Day sells $2.2m in stock",
+    "tokens": [
+      "ceo",
+      "chairman",
+      "day",
+      "gilead",
+      "sells",
+      "stock"
+    ],
+    "ts": 1792267881.4029217
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
+    "title": "EOS Climbs 18% In a Green Day",
+    "tokens": [
+      "climbs",
+      "day",
+      "eos",
+      "green"
+    ],
+    "ts": 1792267889.289416
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/anterix-cfo-elena-marquez-sells-400606-of-stock-from-8000-to-8250-93CH-4955522",
+    "title": "Anterix CFO Elena Marquez sells $400,606 of stock from $80.00 to $82.50",
+    "tokens": [
+      "400",
+      "606",
+      "anterix",
+      "cfo",
+      "elena",
+      "marquez",
+      "sells",
+      "stock"
+    ],
+    "ts": 1792267897.297289
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/mercedes-unveils-electric-suv-as-it-expands-premium-ev-lineup-4955521",
+    "title": "Mercedes unveils electric SUV as it expands premium EV lineup",
+    "tokens": [
+      "electric",
+      "expands",
+      "lineup",
+      "mercedes",
+      "premium",
+      "suv",
+      "unveils"
+    ],
+    "ts": 1792267904.9228115
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pedevco-director-simon-kukes-buys-191m-in-company-stock-93CH-4955519",
+    "title": "Pedevco director Simon Kukes buys $1.91m in company stock",
+    "tokens": [
+      "91m",
+      "buys",
+      "company",
+      "director",
+      "kukes",
+      "pedevco",
+      "simon",
+      "stock"
+    ],
+    "ts": 1792267913.458319
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/highfill-painting-voted-richmonds-best-painter-for-2026-by-richmond-timesdispatch-and-style-weekly-1036636523",
+    "title": "Highfill Painting Voted Richmond's Best Painter for 2026 by Richmond Times-Dispatch and Style Weekly",
+    "tokens": [
+      "2026",
+      "best",
+      "dispatch",
+      "highfill",
+      "painter",
+      "painting",
+      "richmond",
+      "style",
+      "times",
+      "voted",
+      "weekly"
+    ],
+    "ts": 1792267921.4531536
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/guts-shareholder-action-reminder-faruqi-faruqi-llp-reminds-fractyl-guts-investors-of-securities-class-action-lawsuit-deadline-on-october-20-2026-1036636524",
+    "title": "GUTS SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Fractyl (GUTS) Investors of Securities Class Action Lawsuit Deadline on October 20, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "class",
+      "deadline",
+      "faruqi",
+      "fractyl",
+      "guts",
+      "investors",
+      "lawsuit",
+      "llp",
+      "october",
+      "reminder",
+      "reminds",
+      "securities",
+      "shareholder"
+    ],
+    "ts": 1792267929.7123368
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/uncy-shareholder-action-reminder-faruqi-faruqi-llp-reminds-unicycive-therapeutics-uncy-investors-of-securities-class-action-lawsuit-deadline-on-november-2-2026-1036557184",
+    "title": "UNCY SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Unicycive Therapeutics (UNCY) Investors of Securities Class Action Lawsuit Deadline on November 2, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "class",
+      "deadline",
+      "faruqi",
+      "investors",
+      "lawsuit",
+      "llp",
+      "november",
+      "reminder",
+      "reminds",
+      "securities",
+      "shareholder",
+      "therapeutics",
+      "uncy",
+      "unicycive"
+    ],
+    "ts": 1792267933.724766
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/avxl-shareholder-action-reminder-faruqi-faruqi-llp-reminds-anavex-avxl-investors-of-securities-class-action-lawsuit-deadline-on-november-30-2026-1036636522",
+    "title": "AVXL SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Anavex (AVXL) Investors of Securities Class Action Lawsuit Deadline on November 30, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "anavex",
+      "avxl",
+      "class",
+      "deadline",
+      "faruqi",
+      "investors",
+      "lawsuit",
+      "llp",
+      "november",
+      "reminder",
+      "reminds",
+      "securities",
+      "shareholder"
+    ],
+    "ts": 1792267933.7371573
+  },
+  {
+    "id": "https://seekingalpha.com/news/4654028-key-deals-this-week-international-paper-ionq-bumble-and-more?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Key deals this week: International Paper, IonQ, Bumble, and more",
+    "tokens": [
+      "bumble",
+      "deals",
+      "international",
+      "ionq",
+      "key",
+      "more",
+      "paper",
+      "week"
+    ],
+    "ts": 1792267938.8304098
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/yss-deadline-alert-rosen-recognized-investor-counsel-encourages-york-space-systems-inc.-investors-to-secure-counsel-before-important-october-30-deadline-in-securities-class-action-yss-1036636518",
+    "title": "YSS DEADLINE ALERT: ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages York Space Systems Inc. Investors to Secure Counsel Before Important October 30 Deadline in Securities Class Action - YSS",
+    "tokens": [
+      "action",
+      "alert",
+      "before",
+      "class",
+      "counsel",
+      "deadline",
+      "encourages",
+      "important",
+      "inc",
+      "investor",
+      "investors",
+      "october",
+      "recognized",
+      "rosen",
+      "secure",
+      "securities",
+      "space",
+      "systems",
+      "york",
+      "yss"
+    ],
+    "ts": 1792267942.8427424
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-leading-investor-rights-law-firm-encourages-duolingo-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-duol-1036636485",
+    "title": "ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Duolingo, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - DUOL",
+    "tokens": [
+      "action",
+      "before",
+      "class",
+      "counsel",
+      "deadline",
+      "duol",
+      "duolingo",
+      "encourages",
+      "firm",
+      "important",
+      "inc",
+      "investor",
+      "investors",
+      "law",
+      "leading",
+      "rights",
+      "rosen",
+      "secure",
+      "securities"
+    ],
+    "ts": 1792267947.5426662
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/googl-shareholder-action-reminder-faruqi-faruqi-llp-reminds-alphabet-investors-of-securities-class-action-lawsuit-deadline-on-november-30-2026-1036636486",
+    "title": "GOOGL SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Alphabet Investors of Securities Class Action Lawsuit Deadline on November 30, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "alphabet",
+      "class",
+      "deadline",
+      "faruqi",
+      "googl",
+      "investors",
+      "lawsuit",
+      "llp",
+      "november",
+      "reminder",
+      "reminds",
+      "securities",
+      "shareholder"
+    ],
+    "ts": 1792267951.5550773
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/historic-250-million-gift-from-john-paulson-to-hebrew-university-will-advance-engineering-medicine-and-trauma-recovery-1036636484",
+    "title": "Historic $250 Million Gift from John Paulson to Hebrew University Will Advance Engineering, Medicine, and Trauma Recovery",
+    "tokens": [
+      "250",
+      "advance",
+      "engineering",
+      "gift",
+      "hebrew",
+      "historic",
+      "john",
+      "medicine",
+      "million",
+      "paulson",
+      "recovery",
+      "trauma",
+      "university"
+    ],
+    "ts": 1792267957.3207026
+  },
+  {
+    "id": "https://www.businessinsider.com/mapquest-flock-surveillance-cameras-license-plate-readers-2026-10",
+    "title": "MapQuest now shows you Flock and other license plate reader cameras on your route",
+    "tokens": [
+      "cameras",
+      "flock",
+      "license",
+      "mapquest",
+      "now",
+      "other",
+      "plate",
+      "reader",
+      "route",
+      "shows",
+      "you",
+      "your"
+    ],
+    "ts": 1792267964.7810905
   }
 ]

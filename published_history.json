@@ -1,70 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-acadia-pharmaceuticals-stock-rating-on-patent-developments-93CH-4932706",
-    "title": "RBC Capital reiterates Acadia Pharmaceuticals stock rating on patent developments",
-    "tokens": [
-      "acadia",
-      "capital",
-      "developments",
-      "patent",
-      "pharmaceuticals",
-      "rating",
-      "rbc",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1791226139.5950031
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/aibotics-enters-definitive-defense-technology-transaction-with-patrick-tsang-s-empulser-1036597141",
-    "title": "AIBotics Enters Definitive Defense-Technology Transaction with Patrick Tsang’s Empulser",
-    "tokens": [
-      "aibotics",
-      "defense",
-      "definitive",
-      "empulser",
-      "enters",
-      "patrick",
-      "technology",
-      "transaction",
-      "tsang"
-    ],
-    "ts": 1791226147.4245536
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/form-8-3-the-vanguard-group-inc-spire-healthcare-group-plc-1036597130",
-    "title": "Form 8.3 - The Vanguard Group, Inc.: Spire Healthcare Group PLC",
-    "tokens": [
-      "form",
-      "group",
-      "healthcare",
-      "inc",
-      "plc",
-      "spire",
-      "vanguard"
-    ],
-    "ts": 1791226155.19563
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/twin-cities-based-multi-trade-mechanical-and-facility-services-provider-joins-orion-services-group-1036597142",
-    "title": "Twin Cities–based multi-trade mechanical and facility services provider joins Orion Services Group",
-    "tokens": [
-      "based",
-      "cities",
-      "facility",
-      "group",
-      "joins",
-      "mechanical",
-      "multi",
-      "orion",
-      "provider",
-      "services",
-      "trade",
-      "twin"
-    ],
-    "ts": 1791226162.2890267
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/form-8-3-the-vanguard-group-inc-segro-plc-1036597127",
     "title": "Form 8.3 - The Vanguard Group, Inc.: Segro PLC",
     "tokens": [
@@ -23881,5 +23816,66 @@
       "some"
     ],
     "ts": 1792250889.726413
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476",
+    "title": "Memory stocks: Is the wall of worry justified?",
+    "tokens": [
+      "justified",
+      "memory",
+      "stocks",
+      "wall",
+      "worry"
+    ],
+    "ts": 1792259673.4010837
+  },
+  {
+    "id": "oilprice-article-45800",
+    "title": "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers",
+    "tokens": [
+      "centers",
+      "cool",
+      "could",
+      "data",
+      "permian",
+      "researchers",
+      "say",
+      "texas",
+      "wastewater"
+    ],
+    "ts": 1792259681.4292676
+  },
+  {
+    "id": "oilprice-article-45791",
+    "title": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
+    "tokens": [
+      "braces",
+      "crisis",
+      "energy",
+      "europe",
+      "gas",
+      "low",
+      "reserves",
+      "run",
+      "winter"
+    ],
+    "ts": 1792259689.3453326
+  },
+  {
+    "id": "e3e952c1-a946-4698-8a9a-9ab401c188f2",
+    "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+    "tokens": [
+      "fargo",
+      "goldman",
+      "growth",
+      "morgan",
+      "play",
+      "see",
+      "stanley",
+      "threat",
+      "tokenization",
+      "wells"
+    ],
+    "ts": 1792259697.7670946
   }
 ]

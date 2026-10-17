@@ -1,173 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005269418",
-    "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
-    "tokens": [
-      "bessent",
-      "bond",
-      "didn",
-      "house",
-      "now",
-      "remark",
-      "rising",
-      "saying",
-      "stop",
-      "what",
-      "yields"
-    ],
-    "ts": 1791192516.4059474
-  },
-  {
-    "id": "WP-MKTW-0005268463",
-    "title": "Larry Ellison to list Palm Beach property for $165 million",
-    "tokens": [
-      "165",
-      "beach",
-      "ellison",
-      "larry",
-      "list",
-      "million",
-      "palm",
-      "property"
-    ],
-    "ts": 1791192525.2757616
-  },
-  {
-    "id": "WP-MKTW-0005268300",
-    "title": "Tyler Perry lists huge Beverly Hills mansion for $57 million: ‘Yep, moving to Puerto Rico’",
-    "tokens": [
-      "beverly",
-      "hills",
-      "huge",
-      "lists",
-      "mansion",
-      "million",
-      "moving",
-      "perry",
-      "puerto",
-      "rico",
-      "tyler",
-      "yep"
-    ],
-    "ts": 1791192535.258682
-  },
-  {
-    "id": "WP-MKTW-0005269333",
-    "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
-    "tokens": [
-      "billion",
-      "deal",
-      "decade",
-      "loser",
-      "low",
-      "software",
-      "struck",
-      "takes",
-      "valuation",
-      "winner"
-    ],
-    "ts": 1791192544.9267616
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/turkeys-inflation-drops-more-than-expected-in-september-93CH-4931347",
-    "title": "Turkey’s inflation drops more than expected in September",
-    "tokens": [
-      "drops",
-      "expected",
-      "inflation",
-      "more",
-      "september",
-      "turkey"
-    ],
-    "ts": 1791192554.183053
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-mediobanca-stock-sliding-today-93CH-4931346",
-    "title": "Why is Mediobanca stock sliding today?",
-    "tokens": [
-      "mediobanca",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1791192564.459185
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/estonia-moves-troops-closer-to-russian-border-in-defense-shift-93CH-4931342",
-    "title": "Estonia moves troops closer to Russian border in defense shift",
-    "tokens": [
-      "border",
-      "closer",
-      "defense",
-      "estonia",
-      "moves",
-      "russian",
-      "shift",
-      "troops"
-    ],
-    "ts": 1791192572.3118901
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/mizuho-initiates-regenxbio-stock-coverage-with-outperform-rating-93CH-4931341",
-    "title": "Mizuho initiates Regenxbio stock coverage with outperform rating",
-    "tokens": [
-      "coverage",
-      "initiates",
-      "mizuho",
-      "outperform",
-      "rating",
-      "regenxbio",
-      "stock"
-    ],
-    "ts": 1791192580.9016867
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-braze-stock-rating-citing-customer-growth-93CH-4931340",
-    "title": "Citizens reiterates Braze stock rating citing customer growth",
-    "tokens": [
-      "braze",
-      "citing",
-      "citizens",
-      "customer",
-      "growth",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1791192588.743488
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-lpl-financial-stock-rating-on-growth-outlook-93CH-4931339",
-    "title": "Citizens reiterates LPL Financial stock rating on growth outlook",
-    "tokens": [
-      "citizens",
-      "financial",
-      "growth",
-      "lpl",
-      "outlook",
-      "rating",
-      "reiterates",
-      "stock"
-    ],
-    "ts": 1791192596.5095446
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/goldman-sachs-sees-brazilian-real-gains-on-election-results-93CH-4931333",
-    "title": "Goldman Sachs sees Brazilian real gains on election results",
-    "tokens": [
-      "brazilian",
-      "election",
-      "gains",
-      "goldman",
-      "real",
-      "results",
-      "sachs",
-      "sees"
-    ],
-    "ts": 1791192605.2455328
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/five-things-to-watch-in-markets-in-the-week-ahead-4931332",
     "title": "Five things to watch in markets in the week ahead",
     "tokens": [
@@ -23886,5 +23718,176 @@
       "willow"
     ],
     "ts": 1792206608.0033543
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-dlf-posts-strong-q2-2026-results-on-luxury-sales-93CH-4955295",
+    "title": "Earnings call transcript: DLF posts strong q2 2026 results on luxury sales",
+    "tokens": [
+      "2026",
+      "call",
+      "dlf",
+      "earnings",
+      "luxury",
+      "posts",
+      "results",
+      "sales",
+      "strong",
+      "transcript"
+    ],
+    "ts": 1792223274.7353356
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ukus-relations-strained-as-trump-shifts-stance-on-russiaukraine-war-4955294",
+    "title": "UK-U.S. relations strained as Trump shifts stance on Russia-Ukraine war",
+    "tokens": [
+      "relations",
+      "russia",
+      "shifts",
+      "stance",
+      "strained",
+      "trump",
+      "ukraine",
+      "war"
+    ],
+    "ts": 1792223282.04815
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/verisk-analytics-cfo-elizabeth-mann-sells-73940-in-stock-93CH-4955289",
+    "title": "Verisk analytics CFO Elizabeth Mann sells $73,940 in stock",
+    "tokens": [
+      "940",
+      "analytics",
+      "cfo",
+      "elizabeth",
+      "mann",
+      "sells",
+      "stock",
+      "verisk"
+    ],
+    "ts": 1792223289.1628504
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/transdigm-cocoo-joel-reiss-sells-46m-in-shares-93CH-4955285",
+    "title": "TransDigm co-COO Joel Reiss sells $4.6m in shares",
+    "tokens": [
+      "coo",
+      "joel",
+      "reiss",
+      "sells",
+      "shares",
+      "transdigm"
+    ],
+    "ts": 1792223296.5010874
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/paylocity-executive-chairman-steven-beauchamp-sells-248m-in-stock-93CH-4955278",
+    "title": "Paylocity executive chairman Steven Beauchamp sells $2.48m in stock",
+    "tokens": [
+      "48m",
+      "beauchamp",
+      "chairman",
+      "executive",
+      "paylocity",
+      "sells",
+      "steven",
+      "stock"
+    ],
+    "ts": 1792223303.9031637
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/imf-members-call-for-increased-support-for-countries-amid-negative-risks-and-war-spillovers-4955272",
+    "title": "IMF members call for increased support for countries amid negative risks and war spillovers",
+    "tokens": [
+      "call",
+      "countries",
+      "imf",
+      "increased",
+      "members",
+      "negative",
+      "risks",
+      "spillovers",
+      "support",
+      "war"
+    ],
+    "ts": 1792223310.5151358
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/walmart-president--ceo-john-furner-sells-158m-in-wmt-shares-93CH-4955270",
+    "title": "Walmart president & CEO John Furner sells $1.58m in WMT shares",
+    "tokens": [
+      "58m",
+      "ceo",
+      "furner",
+      "john",
+      "president",
+      "sells",
+      "shares",
+      "walmart",
+      "wmt"
+    ],
+    "ts": 1792223317.1082249
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/walmart-evp-latriece-watkins-disposes-of-575000-in-wmt-stock-93CH-4955265",
+    "title": "Walmart EVP Latriece Watkins disposes of $575,000 in WMT stock",
+    "tokens": [
+      "000",
+      "575",
+      "disposes",
+      "evp",
+      "latriece",
+      "stock",
+      "walmart",
+      "watkins",
+      "wmt"
+    ],
+    "ts": 1792223324.0238957
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/walmart-evp-nicholas-james-sells-349751-of-wmt-shares-93CH-4955264",
+    "title": "Walmart EVP Nicholas James sells $349,751 of WMT shares",
+    "tokens": [
+      "349",
+      "751",
+      "evp",
+      "james",
+      "nicholas",
+      "sells",
+      "shares",
+      "walmart",
+      "wmt"
+    ],
+    "ts": 1792223331.7309997
+  },
+  {
+    "id": "93336604-2bdb-49b0-abe8-cb04f443a781",
+    "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+    "tokens": [
+      "claude",
+      "cracks",
+      "discovery",
+      "mystery",
+      "nsa",
+      "number",
+      "real",
+      "wow",
+      "year"
+    ],
+    "ts": 1792223340.0880358
+  },
+  {
+    "id": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise",
+    "title": "Bitget to discontinue services for some users in one-off exercise",
+    "tokens": [
+      "bitget",
+      "discontinue",
+      "exercise",
+      "off",
+      "one",
+      "services",
+      "some",
+      "users"
+    ],
+    "ts": 1792223346.7540987
   }
 ]

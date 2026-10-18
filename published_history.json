@@ -1,272 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/mark-walters-nonprofit-now-funded-by-firm-in-federal-probe-93CH-4934750",
-    "title": "Mark Walter’s nonprofit now funded by firm in federal probe",
-    "tokens": [
-      "federal",
-      "firm",
-      "funded",
-      "mark",
-      "nonprofit",
-      "now",
-      "probe",
-      "walter"
-    ],
-    "ts": 1791295063.196368
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/gold-holds-near-4140-as-dollar-yields-offset-lower-fed-hike-expectations-4933176",
-    "title": "Gold firms as easing oil prices soothe some inflation worries",
-    "tokens": [
-      "easing",
-      "firms",
-      "gold",
-      "inflation",
-      "oil",
-      "prices",
-      "some",
-      "soothe",
-      "worries"
-    ],
-    "ts": 1791295072.7087102
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/sp-500-hits-intraday-record-high-as-ai-rally-continues-4934747",
-    "title": "S&P 500 hits intraday record high as AI rally continues",
-    "tokens": [
-      "500",
-      "continues",
-      "high",
-      "hits",
-      "intraday",
-      "rally",
-      "record"
-    ],
-    "ts": 1791295081.1968277
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/paramount-wraps-up-mega-warner-bros-merger-to-create-hollywood-powerhouse-skydance-4934502",
-    "title": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance",
-    "tokens": [
-      "bros",
-      "create",
-      "hollywood",
-      "mega",
-      "merger",
-      "paramount",
-      "powerhouse",
-      "skydance",
-      "warner",
-      "wraps"
-    ],
-    "ts": 1791295089.404661
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/baltic-dry-bulk-freight-index-hits-sixweek-low-93CH-4934745",
-    "title": "Baltic dry bulk freight index hits six-week low",
-    "tokens": [
-      "baltic",
-      "bulk",
-      "dry",
-      "freight",
-      "hits",
-      "index",
-      "low",
-      "six",
-      "week"
-    ],
-    "ts": 1791295097.1263046
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/butterfly-network-stock-hits-52week-high-at-1005-usd-93CH-4934744",
-    "title": "Butterfly Network stock hits 52-week high at 10.05 USD",
-    "tokens": [
-      "butterfly",
-      "high",
-      "hits",
-      "network",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1791295104.5652156
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/wisconsin-school-districts-turn-to-edustaff-to-strengthen-substitute-staffing-1036601014",
-    "title": "Wisconsin School Districts Turn to Edustaff to Strengthen Substitute Staffing",
-    "tokens": [
-      "districts",
-      "edustaff",
-      "school",
-      "staffing",
-      "strengthen",
-      "substitute",
-      "turn",
-      "wisconsin"
-    ],
-    "ts": 1791295112.9507322
-  },
-  {
-    "id": "https://seekingalpha.com/news/4650546-netlist-surges-as-micron-agrees-to-pay-600m-for-five-year-license-agreement?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Netlist surges as Micron agrees to pay $600M for five-year license agreement",
-    "tokens": [
-      "600m",
-      "agreement",
-      "agrees",
-      "five",
-      "license",
-      "micron",
-      "netlist",
-      "pay",
-      "surges",
-      "year"
-    ],
-    "ts": 1791295121.9350705
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/sezzle-users-complete-over-2-million-financial-literacy-lessons-in-the-app-s-money-iq-program-1036601013",
-    "title": "Sezzle Users Complete Over 2 Million Financial Literacy Lessons in the App's Money IQ Program",
-    "tokens": [
-      "app",
-      "complete",
-      "financial",
-      "lessons",
-      "literacy",
-      "million",
-      "money",
-      "program",
-      "sezzle",
-      "users"
-    ],
-    "ts": 1791295130.1814692
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/salesloft-names-stephanie-manzelli-chief-people-officer-as-it-accelerates-the-future-of-revenue-1036601012",
-    "title": "Salesloft Names Stephanie Manzelli Chief People Officer as it Accelerates the Future of Revenue",
-    "tokens": [
-      "accelerates",
-      "chief",
-      "future",
-      "manzelli",
-      "names",
-      "officer",
-      "people",
-      "revenue",
-      "salesloft",
-      "stephanie"
-    ],
-    "ts": 1791295139.0549302
-  },
-  {
-    "id": "https://www.businessinsider.com/most-innovative-influencer-marketers-working-with-creators-2026-10",
-    "title": "The 14 most innovative influencer marketers of 2026",
-    "tokens": [
-      "2026",
-      "influencer",
-      "innovative",
-      "marketers",
-      "most"
-    ],
-    "ts": 1791295148.2762563
-  },
-  {
-    "id": "https://seekingalpha.com/news/4650538-klarna-wayfair-deepen-ties-for-flexible-payment-options?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Klarna, Wayfair deepen ties for flexible payment options",
-    "tokens": [
-      "deepen",
-      "flexible",
-      "klarna",
-      "options",
-      "payment",
-      "ties",
-      "wayfair"
-    ],
-    "ts": 1791295156.024888
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/82-of-workers-have-skipped-reporting-an-it-problem-new-buchanan-technologies-report-finds-1036600999",
-    "title": "82% of Workers Have Skipped Reporting an IT Problem, New Buchanan Technologies Report Finds",
-    "tokens": [
-      "buchanan",
-      "finds",
-      "problem",
-      "report",
-      "reporting",
-      "skipped",
-      "technologies",
-      "workers"
-    ],
-    "ts": 1791295166.2299693
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/the-micdrop-agency-expands-aec-technology-practice-into-europe-with-groundworks-2026-appointment-1036601000",
-    "title": "The MicDrop Agency Expands AEC Technology Practice into Europe with Groundworks 2026 Appointment",
-    "tokens": [
-      "2026",
-      "aec",
-      "agency",
-      "appointment",
-      "europe",
-      "expands",
-      "groundworks",
-      "micdrop",
-      "practice",
-      "technology"
-    ],
-    "ts": 1791295174.7965913
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/sealsq-led-10-million-pipe-investment-in-wisesat-to-accelerate-space-cybersecurity-and-post-quantum-communications-1036601003",
-    "title": "SEALSQ Led $10 Million PIPE Investment in WISESat to Accelerate Space Cybersecurity and Post-Quantum Communications",
-    "tokens": [
-      "accelerate",
-      "communications",
-      "cybersecurity",
-      "investment",
-      "led",
-      "million",
-      "pipe",
-      "post",
-      "quantum",
-      "sealsq",
-      "space",
-      "wisesat"
-    ],
-    "ts": 1791295182.9623606
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/pi-named-to-fast-company-s-2026-next-big-things-in-tech-list-1036601001",
-    "title": "Pi Named to Fast Company’s 2026 Next Big Things in Tech List",
-    "tokens": [
-      "2026",
-      "big",
-      "company",
-      "fast",
-      "list",
-      "named",
-      "next",
-      "tech",
-      "things"
-    ],
-    "ts": 1791295190.502876
-  },
-  {
-    "id": "oilprice-news-45686",
-    "title": "China Accelerates Ultra-Deep Drilling to Boost Domestic Oil Supply",
-    "tokens": [
-      "accelerates",
-      "boost",
-      "china",
-      "deep",
-      "domestic",
-      "drilling",
-      "oil",
-      "supply",
-      "ultra"
-    ],
-    "ts": 1791295199.5470195
-  },
-  {
     "id": "oilprice-news-45684",
     "title": "Gulf Oil Exports Recover to 81% of Pre-War Levels",
     "tokens": [
@@ -23916,5 +23649,310 @@
       "white"
     ],
     "ts": 1792349952.301763
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/disc-medicine-to-present-phase-3-trial-results-for-bitopertin-93CH-4956077",
+    "title": "Disc Medicine to present Phase 3 trial results for bitopertin",
+    "tokens": [
+      "bitopertin",
+      "disc",
+      "medicine",
+      "phase",
+      "present",
+      "results",
+      "trial"
+    ],
+    "ts": 1792358560.4828408
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/mink-brook-asset-management-10-owner-rebalances-736666-in-dlh-stock-93CH-4956076",
+    "title": "Mink Brook asset management, 10% owner, rebalances $736,666 in DLH stock",
+    "tokens": [
+      "666",
+      "736",
+      "asset",
+      "brook",
+      "dlh",
+      "management",
+      "mink",
+      "owner",
+      "rebalances",
+      "stock"
+    ],
+    "ts": 1792358571.2710145
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-sells-207112-in-common-stock-93CH-4956066",
+    "title": "Park Ohio Holdings CLO Vilsack sells $207,112 in common stock",
+    "tokens": [
+      "112",
+      "207",
+      "clo",
+      "common",
+      "holdings",
+      "ohio",
+      "park",
+      "sells",
+      "stock",
+      "vilsack"
+    ],
+    "ts": 1792358579.7519274
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/park-ohio-secretary--clo-vilsack-sells-148000-in-common-stock-93CH-4956057",
+    "title": "Park Ohio secretary & CLO Vilsack sells $148,000 in common stock",
+    "tokens": [
+      "000",
+      "148",
+      "clo",
+      "common",
+      "ohio",
+      "park",
+      "secretary",
+      "sells",
+      "stock",
+      "vilsack"
+    ],
+    "ts": 1792358588.358736
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/rubio-heads-to-central-asia-while-other-us-officials-hit-foreign-policy-hot-spots-4955781",
+    "title": "Rubio arrives in Central Asia while other US officials hit foreign policy hot spots",
+    "tokens": [
+      "arrives",
+      "asia",
+      "central",
+      "foreign",
+      "hit",
+      "hot",
+      "officials",
+      "other",
+      "policy",
+      "rubio",
+      "spots",
+      "while"
+    ],
+    "ts": 1792358595.6994298
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/yss-final-deadline-rosen-leading-trial-attorneys-encourages-york-space-systems-inc.-investors-to-secure-counsel-before-important-october-30-deadline-in-securities-class-action-yss-1036636945",
+    "title": "YSS FINAL DEADLINE: ROSEN, LEADING TRIAL ATTORNEYS, Encourages York Space Systems Inc. Investors to Secure Counsel Before Important October 30 Deadline in Securities Class Action - YSS",
+    "tokens": [
+      "action",
+      "attorneys",
+      "before",
+      "class",
+      "counsel",
+      "deadline",
+      "encourages",
+      "final",
+      "important",
+      "inc",
+      "investors",
+      "leading",
+      "october",
+      "rosen",
+      "secure",
+      "securities",
+      "space",
+      "systems",
+      "trial",
+      "york",
+      "yss"
+    ],
+    "ts": 1792358600.1952398
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/just-completes-5th-jst-buyback-burn-over-170m-tokens-23-53m-burned-ahead-of-major-deflationary-upgrade-1036636942",
+    "title": "JUST Completes 5th JST Buyback & Burn: Over 170M Tokens (~$23.53M) Burned Ahead of Major Deflationary Upgrade",
+    "tokens": [
+      "170m",
+      "53m",
+      "5th",
+      "ahead",
+      "burn",
+      "burned",
+      "buyback",
+      "completes",
+      "deflationary",
+      "jst",
+      "just",
+      "major",
+      "tokens",
+      "upgrade"
+    ],
+    "ts": 1792358603.9012725
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-top-ranked-global-counsel-encourages-duolingo-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-duol-1036614749",
+    "title": "ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages Duolingo, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - DUOL",
+    "tokens": [
+      "action",
+      "before",
+      "class",
+      "counsel",
+      "deadline",
+      "duol",
+      "duolingo",
+      "encourages",
+      "global",
+      "important",
+      "inc",
+      "investors",
+      "ranked",
+      "rosen",
+      "secure",
+      "securities",
+      "top"
+    ],
+    "ts": 1792358607.9109666
+  },
+  {
+    "id": "https://seekingalpha.com/news/4654076-sa-asks-should-tesla-merge-with-spacex?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "SA Asks: Should Tesla merge with SpaceX?",
+    "tokens": [
+      "asks",
+      "merge",
+      "should",
+      "spacex",
+      "tesla"
+    ],
+    "ts": 1792358611.9266863
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/bittorrent-ushers-in-next-gen-web3-infrastructure-with-strategic-rebrand-and-inaugural-btt-burn-1036636931",
+    "title": "BitTorrent Ushers in Next-Gen Web3 Infrastructure with Strategic Rebrand and Inaugural BTT Burn",
+    "tokens": [
+      "bittorrent",
+      "btt",
+      "burn",
+      "gen",
+      "inaugural",
+      "infrastructure",
+      "next",
+      "rebrand",
+      "strategic",
+      "ushers",
+      "web3"
+    ],
+    "ts": 1792358619.9230812
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/sprout-social-investor-news-if-you-own-stock-in-sprout-social-inc.-you-are-encouraged-to-contact-the-rosen-law-firm-about-your-rights-spt-1036614652",
+    "title": "Sprout Social Investor News: If You Own Stock in Sprout Social, Inc., You Are Encouraged to Contact The Rosen Law Firm About Your Rights - SPT",
+    "tokens": [
+      "about",
+      "contact",
+      "encouraged",
+      "firm",
+      "inc",
+      "investor",
+      "law",
+      "news",
+      "own",
+      "rights",
+      "rosen",
+      "social",
+      "sprout",
+      "spt",
+      "stock",
+      "you",
+      "your"
+    ],
+    "ts": 1792358629.0240686
+  },
+  {
+    "id": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
+    "title": "Anthropic commits billions to a 'public benefit fund'",
+    "tokens": [
+      "anthropic",
+      "benefit",
+      "billions",
+      "commits",
+      "fund",
+      "public"
+    ],
+    "ts": 1792358633.033845
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-cms-deutsche-telekom-ag-release-of-a-capital-market-information-1036636898",
+    "title": "EQS-CMS: Deutsche Telekom AG: Release of a capital market information",
+    "tokens": [
+      "capital",
+      "cms",
+      "deutsche",
+      "eqs",
+      "information",
+      "market",
+      "release",
+      "telekom"
+    ],
+    "ts": 1792358637.9497688
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-skilled-investor-counsel-encourages-baidu-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-bidu-1036595401",
+    "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages Baidu, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - BIDU",
+    "tokens": [
+      "action",
+      "baidu",
+      "before",
+      "bidu",
+      "class",
+      "counsel",
+      "deadline",
+      "encourages",
+      "important",
+      "inc",
+      "investor",
+      "investors",
+      "rosen",
+      "secure",
+      "securities",
+      "skilled"
+    ],
+    "ts": 1792358645.859425
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/tokenfest-2027-sets-the-stage-for-a-global-crypto-event-in-dubai-1036636888",
+    "title": "TokenFest 2027 Sets the Stage for a Global Crypto Event in Dubai",
+    "tokens": [
+      "2027",
+      "crypto",
+      "dubai",
+      "event",
+      "global",
+      "sets",
+      "stage",
+      "tokenfest"
+    ],
+    "ts": 1792358652.754764
+  },
+  {
+    "id": "oilprice-article-45806",
+    "title": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis",
+    "tokens": [
+      "bill",
+      "crisis",
+      "fuel",
+      "hormuz",
+      "shipping",
+      "supply",
+      "turning"
+    ],
+    "ts": 1792358661.444346
+  },
+  {
+    "id": "oilprice-article-45793",
+    "title": "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid",
+    "tokens": [
+      "add",
+      "could",
+      "gigawatts",
+      "grid",
+      "nuclear",
+      "power",
+      "shortcut"
+    ],
+    "ts": 1792358669.4643872
   }
 ]

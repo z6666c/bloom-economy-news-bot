@@ -1,178 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-markets-weigh-aramco-price-cuts-meast-supplies-4933124",
-    "title": "Oil prices edge lower as markets weigh Aramco price cuts, M.East supplies",
-    "tokens": [
-      "aramco",
-      "cuts",
-      "east",
-      "edge",
-      "lower",
-      "markets",
-      "oil",
-      "price",
-      "prices",
-      "supplies",
-      "weigh"
-    ],
-    "ts": 1791247050.1999927
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/loreal-taps-advisers-to-explore-unloading-chemicalrelated-liabilities-wsj-reports-4932948",
-    "title": "L’Oreal explores unloading chemical-related liabilities, WSJ reports",
-    "tokens": [
-      "chemical",
-      "explores",
-      "liabilities",
-      "oreal",
-      "related",
-      "reports",
-      "unloading",
-      "wsj"
-    ],
-    "ts": 1791247059.409004
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/liv-golf-secures-bc-partners--credit-funding-to-support-restructuring-4933123",
-    "title": "LIV Golf secures BC Partners ’ credit funding to support restructuring",
-    "tokens": [
-      "credit",
-      "funding",
-      "golf",
-      "liv",
-      "partners",
-      "restructuring",
-      "secures",
-      "support"
-    ],
-    "ts": 1791247067.068939
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/outset-medical-director-braden-leonard-buys-870260-in-shares-93CH-4933110",
-    "title": "Outset Medical director Braden Leonard buys $870,260 in shares",
-    "tokens": [
-      "260",
-      "870",
-      "braden",
-      "buys",
-      "director",
-      "leonard",
-      "medical",
-      "outset",
-      "shares"
-    ],
-    "ts": 1791247074.3470905
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/alpha-compute-cbo-yury-mitin-sells-1630-in-stock-buys-51482-93CH-4933104",
-    "title": "Alpha Compute CBO Yury Mitin sells $1,630 in stock, buys $51,482",
-    "tokens": [
-      "482",
-      "630",
-      "alpha",
-      "buys",
-      "cbo",
-      "compute",
-      "mitin",
-      "sells",
-      "stock",
-      "yury"
-    ],
-    "ts": 1791247082.1295135
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/gamestop-pfo-and-pao-moore-sells-177025-in-shares-93CH-4933103",
-    "title": "GameStop PFO and PAO Moore sells $177,025 in shares",
-    "tokens": [
-      "025",
-      "177",
-      "gamestop",
-      "moore",
-      "pao",
-      "pfo",
-      "sells",
-      "shares"
-    ],
-    "ts": 1791247089.3225532
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/gamestop-general-counsel-sells-over-275000-in-gme-stock-93CH-4933102",
-    "title": "GameStop general counsel sells over $275,000 in GME stock",
-    "tokens": [
-      "000",
-      "275",
-      "counsel",
-      "gamestop",
-      "general",
-      "gme",
-      "sells",
-      "stock"
-    ],
-    "ts": 1791247098.949231
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/wayfair-cto-fiona-tan-sells-715260-of-company-stock-93CH-4933101",
-    "title": "Wayfair CTO Fiona Tan sells $715,260 of company stock",
-    "tokens": [
-      "260",
-      "715",
-      "company",
-      "cto",
-      "fiona",
-      "sells",
-      "stock",
-      "tan",
-      "wayfair"
-    ],
-    "ts": 1791247107.6416483
-  },
-  {
-    "id": "oilprice-article-45690",
-    "title": "Standard Chartered Says Hormuz Oil Flows Are Far From Normal",
-    "tokens": [
-      "chartered",
-      "far",
-      "flows",
-      "hormuz",
-      "normal",
-      "oil",
-      "standard"
-    ],
-    "ts": 1791247116.1630304
-  },
-  {
-    "id": "oilprice-article-45689",
-    "title": "Europe Weighs Methane Rule Delay as Energy Supply Risks Mount",
-    "tokens": [
-      "delay",
-      "energy",
-      "europe",
-      "methane",
-      "mount",
-      "risks",
-      "rule",
-      "supply",
-      "weighs"
-    ],
-    "ts": 1791247123.4903047
-  },
-  {
-    "id": "oilprice-article-45686",
-    "title": "G7 Oil Stocks Release Is A Band-Aid Fix in Broken Fuel Market",
-    "tokens": [
-      "aid",
-      "band",
-      "broken",
-      "fix",
-      "fuel",
-      "market",
-      "oil",
-      "release",
-      "stocks"
-    ],
-    "ts": 1791247131.5002325
-  },
-  {
     "id": "oilprice-article-45684",
     "title": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem",
     "tokens": [
@@ -23903,5 +23730,179 @@
       "usdc"
     ],
     "ts": 1792298102.8630369
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/russia-hits-ukraines-energy-sector-76-times-in-a-week-zelenskiy-says-4955841",
+    "title": "Russia hits Ukraine’s energy sector 76 times in a week, Zelenskiy says",
+    "tokens": [
+      "energy",
+      "hits",
+      "russia",
+      "sector",
+      "times",
+      "ukraine",
+      "week",
+      "zelenskiy"
+    ],
+    "ts": 1792314417.230544
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/olesen-value-fund-sells-716664-of-solitron-devices-stock-93CH-4955832",
+    "title": "Olesen Value Fund sells $716,664 of Solitron Devices stock",
+    "tokens": [
+      "664",
+      "716",
+      "devices",
+      "fund",
+      "olesen",
+      "sells",
+      "solitron",
+      "stock",
+      "value"
+    ],
+    "ts": 1792314424.7797112
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/china-proposes-export-curbs-on-12-key-solar-manufacturing-technologies-4955825",
+    "title": "China proposes export curbs on 12 key solar manufacturing technologies",
+    "tokens": [
+      "china",
+      "curbs",
+      "export",
+      "key",
+      "manufacturing",
+      "proposes",
+      "solar",
+      "technologies"
+    ],
+    "ts": 1792314432.7897716
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820",
+    "title": "Nestle, Unilever face regulatory action in India over misleading health claims",
+    "tokens": [
+      "action",
+      "claims",
+      "face",
+      "health",
+      "india",
+      "misleading",
+      "nestle",
+      "regulatory",
+      "unilever"
+    ],
+    "ts": 1792314441.249762
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/ledger-crypto-wallets-compromised-in-hardware-attack-linked-to-90m-theft-4955797",
+    "title": "Ledger crypto wallets compromised in hardware attack linked to $90M theft",
+    "tokens": [
+      "90m",
+      "attack",
+      "compromised",
+      "crypto",
+      "hardware",
+      "ledger",
+      "linked",
+      "theft",
+      "wallets"
+    ],
+    "ts": 1792314448.5703275
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-meta-gets-streethigh-pt-salesforce-double-upgraded-4955491",
+    "title": "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
+    "tokens": [
+      "analyst",
+      "big",
+      "double",
+      "gets",
+      "high",
+      "meta",
+      "moves",
+      "salesforce",
+      "street",
+      "upgraded"
+    ],
+    "ts": 1792314456.7726872
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ralph-larossa-sells-140570-in-public-service-enterprise-group-stock-93CH-4955807",
+    "title": "Ralph LaRossa sells $140,570 in Public Service Enterprise Group stock",
+    "tokens": [
+      "140",
+      "570",
+      "enterprise",
+      "group",
+      "larossa",
+      "public",
+      "ralph",
+      "sells",
+      "service",
+      "stock"
+    ],
+    "ts": 1792314464.7772667
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
+    "title": "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
+    "tokens": [
+      "80k",
+      "above",
+      "bitcoin",
+      "mixed",
+      "outlook",
+      "signal",
+      "struggles",
+      "transfers",
+      "whale"
+    ],
+    "ts": 1792314472.8429346
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/china-proposes-export-controls-on-solarmanufacturing-technologies-4955803",
+    "title": "China proposes export controls on solar-manufacturing technologies",
+    "tokens": [
+      "china",
+      "controls",
+      "export",
+      "manufacturing",
+      "proposes",
+      "solar",
+      "technologies"
+    ],
+    "ts": 1792314476.858825
+  },
+  {
+    "id": "956b7bb2-9ea1-4ce8-9f63-35d2ba6935ea",
+    "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+    "tokens": [
+      "bets",
+      "chip",
+      "lost",
+      "million",
+      "minutes",
+      "shut",
+      "stock",
+      "street",
+      "wall"
+    ],
+    "ts": 1792314481.7375631
+  },
+  {
+    "id": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round",
+    "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+    "tokens": [
+      "aisa",
+      "backs",
+      "completing",
+      "extension",
+      "investor",
+      "round",
+      "seed",
+      "strategic",
+      "tether"
+    ],
+    "ts": 1792314489.5728538
   }
 ]

@@ -1,276 +1,5 @@
 [
   {
-    "id": "oilprice-article-45684",
-    "title": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem",
-    "tokens": [
-      "exposes",
-      "eyes",
-      "import",
-      "iran",
-      "nuclear",
-      "power",
-      "problem",
-      "singapore",
-      "war"
-    ],
-    "ts": 1791247139.2206213
-  },
-  {
-    "id": "oilprice-article-45688",
-    "title": "Germany Is Spending €2 Billion to Discover the Real Price of Clean Jet Fuel",
-    "tokens": [
-      "billion",
-      "clean",
-      "discover",
-      "fuel",
-      "germany",
-      "jet",
-      "price",
-      "real",
-      "spending"
-    ],
-    "ts": 1791247147.2334306
-  },
-  {
-    "id": "oilprice-article-45687",
-    "title": "Southeast Asia’s Oil and Gas M&A Market Is Heating Up",
-    "tokens": [
-      "asia",
-      "gas",
-      "heating",
-      "market",
-      "oil",
-      "southeast"
-    ],
-    "ts": 1791247155.210914
-  },
-  {
-    "id": "oilprice-news-45690",
-    "title": "Freeport LNG Ramps Up Gas Intake After Train 2 Shutdown",
-    "tokens": [
-      "freeport",
-      "gas",
-      "intake",
-      "lng",
-      "ramps",
-      "shutdown",
-      "train"
-    ],
-    "ts": 1791247159.2260175
-  },
-  {
-    "id": "oilprice-news-45689",
-    "title": "Iran’s Oil Minister Resigns as U.S. Blockade Chokes Crude Exports",
-    "tokens": [
-      "blockade",
-      "chokes",
-      "crude",
-      "exports",
-      "iran",
-      "minister",
-      "oil",
-      "resigns"
-    ],
-    "ts": 1791247159.2408297
-  },
-  {
-    "id": "04b9d168-4f37-4069-9325-62b62f9e7b42",
-    "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
-    "tokens": [
-      "arm",
-      "campaign",
-      "crypto",
-      "fairshake",
-      "favorites",
-      "house",
-      "lists",
-      "sets",
-      "spend"
-    ],
-    "ts": 1791247163.7401276
-  },
-  {
-    "id": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms",
-    "title": "Crypto PAC announces support for 32 House candidates in US midterms",
-    "tokens": [
-      "announces",
-      "candidates",
-      "crypto",
-      "house",
-      "midterms",
-      "pac",
-      "support"
-    ],
-    "ts": 1791247171.5405202
-  },
-  {
-    "id": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity",
-    "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
-    "tokens": [
-      "activity",
-      "concerns",
-      "crypto",
-      "fincen",
-      "legitimate",
-      "mixing",
-      "proposed",
-      "rule",
-      "withdraws"
-    ],
-    "ts": 1791247179.0359123
-  },
-  {
-    "id": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody",
-    "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
-    "tokens": [
-      "asset",
-      "bank",
-      "charter",
-      "custody",
-      "digital",
-      "modern",
-      "seeks",
-      "treasury",
-      "trust"
-    ],
-    "ts": 1791247186.534779
-  },
-  {
-    "id": "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters",
-    "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
-    "tokens": [
-      "advocacy",
-      "against",
-      "back",
-      "banks",
-      "charters",
-      "group",
-      "lawsuit",
-      "occ",
-      "pushes"
-    ],
-    "ts": 1791247193.887508
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-    "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-    "tokens": [
-      "announces",
-      "application",
-      "approval",
-      "bank",
-      "board",
-      "corporation",
-      "federal",
-      "isabella",
-      "reserve"
-    ],
-    "ts": 1791247202.7828615
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/innovative-eyewear-reports-record-q3-sales-up-55-yearoveryear-93CH-4933448",
-    "title": "Innovative Eyewear reports record Q3 sales, up 55% year-over-year",
-    "tokens": [
-      "eyewear",
-      "innovative",
-      "record",
-      "reports",
-      "sales",
-      "year"
-    ],
-    "ts": 1791269561.4432263
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lg-u-partners-with-bango-to-expand-subscription-platform-93CH-4933443",
-    "title": "LG U+ partners with Bango to expand subscription platform",
-    "tokens": [
-      "bango",
-      "expand",
-      "partners",
-      "platform",
-      "subscription"
-    ],
-    "ts": 1791269568.9118059
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/berenberg-starts-bullish-coverage-on-dominos-on-chick-n-dip-growth-4933442",
-    "title": "Berenberg starts bullish coverage on Domino’s on Chick ’N’ Dip growth",
-    "tokens": [
-      "berenberg",
-      "bullish",
-      "chick",
-      "coverage",
-      "dip",
-      "domino",
-      "growth",
-      "starts"
-    ],
-    "ts": 1791269576.3536427
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-4933144",
-    "title": "OpenAI, Anthropic tell Australia they would welcome data breach rules",
-    "tokens": [
-      "anthropic",
-      "australia",
-      "breach",
-      "data",
-      "openai",
-      "rules",
-      "tell",
-      "they",
-      "welcome",
-      "would"
-    ],
-    "ts": 1791269584.9114728
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-rxo-stock-rating-on-ch-robinson-acquisition-93CH-4933436",
-    "title": "Jefferies cuts RXO stock rating on C.H. Robinson acquisition",
-    "tokens": [
-      "acquisition",
-      "cuts",
-      "jefferies",
-      "rating",
-      "robinson",
-      "rxo",
-      "stock"
-    ],
-    "ts": 1791269593.1786382
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/synexis-partners-with-customate-for-uk-poultry-pathogen-control-93CH-4933433",
-    "title": "Synexis partners with Customate for UK poultry pathogen control",
-    "tokens": [
-      "control",
-      "customate",
-      "partners",
-      "pathogen",
-      "poultry",
-      "synexis"
-    ],
-    "ts": 1791269600.8678405
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/blackstone-bain-warburg-prepare-final-bids-for-fuji-medias-property-unit-sources-say-4933430",
-    "title": "Blackstone, Bain, Warburg prepare final bids for Fuji Media’s property unit, sources say",
-    "tokens": [
-      "bain",
-      "bids",
-      "blackstone",
-      "final",
-      "fuji",
-      "media",
-      "prepare",
-      "property",
-      "say",
-      "sources",
-      "unit",
-      "warburg"
-    ],
-    "ts": 1791269608.1946614
-  },
-  {
     "id": "https://www.investing.com/news/economic-indicators/german-industrial-orders-fall-more-than-expected-in-august-4933414",
     "title": "German industrial orders fall sharply over large contracts",
     "tokens": [
@@ -23904,5 +23633,296 @@
       "tether"
     ],
     "ts": 1792314489.5728538
+  },
+  {
+    "id": "WP-MKTW-0005291679",
+    "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+    "tokens": [
+      "borrowing",
+      "collide",
+      "costs",
+      "earnings",
+      "heading",
+      "high",
+      "rising",
+      "showdown",
+      "stakes",
+      "stocks",
+      "strong"
+    ],
+    "ts": 1792329475.6174176
+  },
+  {
+    "id": "WP-MKTW-0005293372",
+    "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
+    "tokens": [
+      "500",
+      "ahead",
+      "inside",
+      "market",
+      "more",
+      "rotation",
+      "silent",
+      "there",
+      "warning",
+      "weakness"
+    ],
+    "ts": 1792329483.257511
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/mid-penn-bancorp-director-mowery-buys-1982-in-common-stock-93CH-4955914",
+    "title": "Mid Penn Bancorp director Mowery buys $1,982 in common stock",
+    "tokens": [
+      "982",
+      "bancorp",
+      "buys",
+      "common",
+      "director",
+      "mid",
+      "mowery",
+      "penn",
+      "stock"
+    ],
+    "ts": 1792329490.6692803
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4955913",
+    "title": "As AI rally wobbles, stock market’s spotlight turns to earnings",
+    "tokens": [
+      "earnings",
+      "market",
+      "rally",
+      "spotlight",
+      "stock",
+      "turns",
+      "wobbles"
+    ],
+    "ts": 1792329494.6785066
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/mid-penn-bancorp-director-joel-l-frank-buys-2478-in-shares-93CH-4955908",
+    "title": "Mid Penn Bancorp director Joel L. Frank buys $2,478 in shares",
+    "tokens": [
+      "478",
+      "bancorp",
+      "buys",
+      "director",
+      "frank",
+      "joel",
+      "mid",
+      "penn",
+      "shares"
+    ],
+    "ts": 1792329498.1459556
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-082-4955903",
+    "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.82%",
+    "tokens": [
+      "all",
+      "arabia",
+      "close",
+      "higher",
+      "saudi",
+      "share",
+      "stocks",
+      "tadawul",
+      "trade"
+    ],
+    "ts": 1792329506.1922796
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/analysiscarneys-pipeline-push-is-unlikely-to-bring-back-canadas-oil-jobs-boom-4955902",
+    "title": "Analysis-Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom",
+    "tokens": [
+      "analysis",
+      "back",
+      "boom",
+      "bring",
+      "canada",
+      "carney",
+      "jobs",
+      "oil",
+      "pipeline",
+      "push",
+      "unlikely"
+    ],
+    "ts": 1792329514.5634246
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/mid-penn-bancorp-director-albert-evans-buys-9982-in-shares-93CH-4955900",
+    "title": "Mid Penn Bancorp director Albert Evans buys $9,982 in shares",
+    "tokens": [
+      "982",
+      "albert",
+      "bancorp",
+      "buys",
+      "director",
+      "evans",
+      "mid",
+      "penn",
+      "shares"
+    ],
+    "ts": 1792329522.619977
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/buy-these-2-stocks-amid-ai-financing-concerns-analyst-4955896",
+    "title": "Buy these 2 stocks amid AI financing concerns: Analyst",
+    "tokens": [
+      "analyst",
+      "buy",
+      "concerns",
+      "financing",
+      "stocks",
+      "these"
+    ],
+    "ts": 1792329530.1575904
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/princeton-bancorp-director-martin-tuchman-sells-95160-in-shares-93CH-4955888",
+    "title": "Princeton Bancorp director Martin Tuchman sells $95,160 in shares",
+    "tokens": [
+      "160",
+      "bancorp",
+      "director",
+      "martin",
+      "princeton",
+      "sells",
+      "shares",
+      "tuchman"
+    ],
+    "ts": 1792329537.6001823
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/forbes-travel-guideendorsed-le-must-brings-plasticfree-luxury-condiments-to-the-uae-4955887",
+    "title": "Forbes Travel Guide-Endorsed Le Must Brings Plastic-Free Luxury Condiments to the UAE",
+    "tokens": [
+      "brings",
+      "condiments",
+      "endorsed",
+      "forbes",
+      "free",
+      "guide",
+      "luxury",
+      "must",
+      "plastic",
+      "travel",
+      "uae"
+    ],
+    "ts": 1792329546.2020812
+  },
+  {
+    "id": "https://www.investing.com/news/investment-ideas/kelly-services-delivers-67-return-after-fair-value-signal-93CH-4955882",
+    "title": "Kelly Services delivers 67% return after Fair Value signal",
+    "tokens": [
+      "delivers",
+      "fair",
+      "kelly",
+      "return",
+      "services",
+      "signal",
+      "value"
+    ],
+    "ts": 1792329553.8568878
+  },
+  {
+    "id": "37017afa-cf2e-4c80-a07e-fd08eab3ced6",
+    "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+    "tokens": [
+      "000",
+      "100",
+      "analysts",
+      "bitcoin",
+      "clouds",
+      "divides",
+      "end",
+      "hope",
+      "inflation",
+      "outlook",
+      "year"
+    ],
+    "ts": 1792329563.4132352
+  },
+  {
+    "id": "9da510b9-dd1a-4c42-808d-96249576040b",
+    "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+    "tokens": [
+      "audits",
+      "billion",
+      "cost",
+      "crypto",
+      "false",
+      "give",
+      "hacken",
+      "hacks",
+      "investors",
+      "security",
+      "sense"
+    ],
+    "ts": 1792329570.8160644
+  },
+  {
+    "id": "e51d2a43-37ca-454e-a3e9-0a1b14edd512",
+    "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+    "tokens": [
+      "africa",
+      "binance",
+      "coinbase",
+      "crypto",
+      "exchanges",
+      "flagged",
+      "join",
+      "million",
+      "scam",
+      "sweep",
+      "west"
+    ],
+    "ts": 1792329579.9016783
+  },
+  {
+    "id": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys",
+    "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+    "tokens": [
+      "10m",
+      "bridge",
+      "crypto",
+      "cys",
+      "cysic",
+      "halted",
+      "mint",
+      "unauthorized"
+    ],
+    "ts": 1792329588.0998247
+  },
+  {
+    "id": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok",
+    "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+    "tokens": [
+      "75m",
+      "arrested",
+      "bangkok",
+      "chinese",
+      "crime",
+      "international",
+      "network",
+      "suspect"
+    ],
+    "ts": 1792329596.194628
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+    "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+    "tokens": [
+      "announces",
+      "application",
+      "approval",
+      "bank",
+      "board",
+      "corporation",
+      "federal",
+      "isabella",
+      "reserve"
+    ],
+    "ts": 1792329603.544795
   }
 ]

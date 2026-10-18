@@ -1,89 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005267021",
-    "title": "America’s renters are emerging as a political movement",
-    "tokens": [
-      "america",
-      "emerging",
-      "movement",
-      "political",
-      "renters"
-    ],
-    "ts": 1791295014.1144445
-  },
-  {
-    "id": "WP-MKTW-0005270201",
-    "title": "America’s favorite index is misleading investors about the state of the stock market",
-    "tokens": [
-      "about",
-      "america",
-      "favorite",
-      "index",
-      "investors",
-      "market",
-      "misleading",
-      "state",
-      "stock"
-    ],
-    "ts": 1791295023.308886
-  },
-  {
-    "id": "WP-MKTW-0005264902",
-    "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
-    "tokens": [
-      "499",
-      "body",
-      "cancer",
-      "got",
-      "here",
-      "learned",
-      "scan",
-      "see",
-      "what"
-    ],
-    "ts": 1791295030.707321
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/equinor-warns-uk-risks-uninvestable-label-over-north-sea-projects-93CH-4934756",
-    "title": "Equinor warns UK risks uninvestable label over North Sea projects",
-    "tokens": [
-      "equinor",
-      "label",
-      "north",
-      "projects",
-      "risks",
-      "sea",
-      "uninvestable",
-      "warns"
-    ],
-    "ts": 1791295038.7869
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-corteva-stock-rallying-today-93CH-4934753",
-    "title": "Why is Corteva stock rallying today?",
-    "tokens": [
-      "corteva",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1791295047.0796814
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/oxford-biomedica-executive-sells-shares-at-5518-93CH-4934751",
-    "title": "Oxford Biomedica executive sells shares at £5.518",
-    "tokens": [
-      "518",
-      "biomedica",
-      "executive",
-      "oxford",
-      "sells",
-      "shares"
-    ],
-    "ts": 1791295055.9072642
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/mark-walters-nonprofit-now-funded-by-firm-in-federal-probe-93CH-4934750",
     "title": "Mark Walter’s nonprofit now funded by firm in federal probe",
     "tokens": [
@@ -23915,5 +23831,90 @@
       "reuters"
     ],
     "ts": 1792341846.6830432
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-commits-5-of-shares-to-new-public-benefit-fund-4956032",
+    "title": "Anthropic commits 5% of shares to new public benefit fund",
+    "tokens": [
+      "anthropic",
+      "benefit",
+      "commits",
+      "fund",
+      "public",
+      "shares"
+    ],
+    "ts": 1792349911.55384
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-to-commit-5-stake-to-new-public-benefit-fund-4956031",
+    "title": "Anthropic to commit 5% stake to new public benefit fund",
+    "tokens": [
+      "anthropic",
+      "benefit",
+      "commit",
+      "fund",
+      "public",
+      "stake"
+    ],
+    "ts": 1792349919.6518915
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/european-earnings-preview-can-q3-results-meet-high-expectations-4956029",
+    "title": "European earnings preview: Can Q3 results meet high expectations?",
+    "tokens": [
+      "can",
+      "earnings",
+      "european",
+      "expectations",
+      "high",
+      "meet",
+      "preview",
+      "results"
+    ],
+    "ts": 1792349928.1066952
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008",
+    "title": "Captain of flydubai plane describes blocking axe blows as co-pilot attacked",
+    "tokens": [
+      "attacked",
+      "axe",
+      "blocking",
+      "blows",
+      "captain",
+      "describes",
+      "flydubai",
+      "pilot",
+      "plane"
+    ],
+    "ts": 1792349935.822258
+  },
+  {
+    "id": "oilprice-article-45796",
+    "title": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
+    "tokens": [
+      "baluch",
+      "escalates",
+      "faces",
+      "insurgency",
+      "iran",
+      "rising",
+      "threat",
+      "within"
+    ],
+    "ts": 1792349944.2616258
+  },
+  {
+    "id": "ca2f6e56-f7a4-4a55-81e5-5768f07db0a1",
+    "title": "The White House's crypto chief departs: State of Crypto",
+    "tokens": [
+      "chief",
+      "crypto",
+      "departs",
+      "house",
+      "state",
+      "white"
+    ],
+    "ts": 1792349952.301763
   }
 ]

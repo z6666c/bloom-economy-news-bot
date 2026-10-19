@@ -1,490 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-092-4937195",
-    "title": "Portugal stocks lower at close of trade; PSI down 0.92%",
-    "tokens": [
-      "close",
-      "lower",
-      "portugal",
-      "psi",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1791390630.6844473
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/france-weighs-pivot-to-shortterm-debt-as-historic-bond-selloff-accelerates-4937157",
-    "title": "France weighs pivot to short-term debt as historic bond selloff accelerates",
-    "tokens": [
-      "accelerates",
-      "bond",
-      "debt",
-      "france",
-      "historic",
-      "pivot",
-      "selloff",
-      "short",
-      "term",
-      "weighs"
-    ],
-    "ts": 1791390639.0291014
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-094-4937194",
-    "title": "Netherlands stocks lower at close of trade; AEX down 0.94%",
-    "tokens": [
-      "aex",
-      "close",
-      "lower",
-      "netherlands",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1791390647.6207166
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiveapollo-submits-nonbinding-bid-for-german-energy-firm-uniper-sources-say-4936283",
-    "title": "Exclusive-Apollo submits non-binding bid for German energy firm Uniper, sources say",
-    "tokens": [
-      "apollo",
-      "bid",
-      "binding",
-      "energy",
-      "exclusive",
-      "firm",
-      "german",
-      "non",
-      "say",
-      "sources",
-      "submits",
-      "uniper"
-    ],
-    "ts": 1791390656.0580628
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-239-4937193",
-    "title": "Italy stocks lower at close of trade; Investing.com Italy 40 down 2.39%",
-    "tokens": [
-      "close",
-      "com",
-      "investing",
-      "italy",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1791390660.0735798
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-tag-immobilien-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036604834",
-    "title": "EQS-PVR: TAG Immobilien AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
-    "tokens": [
-      "according",
-      "act",
-      "article",
-      "distribution",
-      "eqs",
-      "europe",
-      "german",
-      "immobilien",
-      "objective",
-      "pvr",
-      "release",
-      "section",
-      "securities",
-      "tag",
-      "trading",
-      "wide",
-      "wphg"
-    ],
-    "ts": 1791390664.894169
-  },
-  {
-    "id": "https://seekingalpha.com/news/4650973-fico-to-cut-workforce-by-15-as-part-of-restructuring-ai-integration---report?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "FICO to cut workforce by ~15% as part of restructuring, AI integration - report",
-    "tokens": [
-      "cut",
-      "fico",
-      "integration",
-      "part",
-      "report",
-      "restructuring",
-      "workforce"
-    ],
-    "ts": 1791390672.6987588
-  },
-  {
-    "id": "https://seekingalpha.com/news/4650985-rex-fang-and-innovation-equity-premium-income-etf-declares-0_2105-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "REX FANG & Innovation Equity Premium Income ETF declares $0.2105 dividend",
-    "tokens": [
-      "2105",
-      "declares",
-      "dividend",
-      "equity",
-      "etf",
-      "fang",
-      "income",
-      "innovation",
-      "premium",
-      "rex"
-    ],
-    "ts": 1791390679.8518682
-  },
-  {
-    "id": "https://seekingalpha.com/news/4650984-rex-ai-equity-premium-income-etf-declares-0_2535-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "REX AI Equity Premium Income ETF declares $0.2535 dividend",
-    "tokens": [
-      "2535",
-      "declares",
-      "dividend",
-      "equity",
-      "etf",
-      "income",
-      "premium",
-      "rex"
-    ],
-    "ts": 1791390683.8670092
-  },
-  {
-    "id": "https://seekingalpha.com/news/4650983-ocean-park-high-income-etf-declares-0_032-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Ocean Park High Income ETF declares $0.032 dividend",
-    "tokens": [
-      "032",
-      "declares",
-      "dividend",
-      "etf",
-      "high",
-      "income",
-      "ocean",
-      "park"
-    ],
-    "ts": 1791390688.3084176
-  },
-  {
-    "id": "https://seekingalpha.com/news/4650967-crypto-roundup-ether-slides-after-bitmines-tom-lee-signals-end-to-coin-buying?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Crypto roundup: Ether slides after BitMine's Tom Lee signals end to coin buying",
-    "tokens": [
-      "bitmine",
-      "buying",
-      "coin",
-      "crypto",
-      "end",
-      "ether",
-      "lee",
-      "roundup",
-      "signals",
-      "slides",
-      "tom"
-    ],
-    "ts": 1791390695.9708498
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kinetic-launches-kinetic-rewards-a-new-loyalty-program-delivering-everyday-savings-and-value-to-customers-1036604826",
-    "title": "Kinetic Launches Kinetic Rewards, a New Loyalty Program Delivering Everyday Savings and Value to Customers",
-    "tokens": [
-      "customers",
-      "delivering",
-      "everyday",
-      "kinetic",
-      "launches",
-      "loyalty",
-      "program",
-      "rewards",
-      "savings",
-      "value"
-    ],
-    "ts": 1791390706.15545
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/clik-upgrades-care-u-into-a-full-premium-silver-economy-platform-live-central-clinic-adds-rehabilitation-from-day-one-lifts-margin-and-sets-the-hong-kong-model-for-mainland-china-1036604827",
-    "title": "CLIK Upgrades Care U into a Full Premium Silver-Economy Platform: Live Central Clinic Adds Rehabilitation from Day One, Lifts Margin, and Sets the Hong Kong Model for Mainland China",
-    "tokens": [
-      "adds",
-      "care",
-      "central",
-      "china",
-      "clik",
-      "clinic",
-      "day",
-      "economy",
-      "full",
-      "hong",
-      "kong",
-      "lifts",
-      "live",
-      "mainland",
-      "margin",
-      "model",
-      "one",
-      "platform",
-      "premium",
-      "rehabilitation",
-      "sets",
-      "silver",
-      "upgrades"
-    ],
-    "ts": 1791390714.2589717
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/cosmos-health-reports-record-preliminary-nine-month-revenue-of-54-3-million-up-19-year-over-year-delivers-record-q3-revenue-of-17-4-million-and-reaffirms-2026-revenue-outlook-of-over-90-million-1036604846",
-    "title": "Cosmos Health Reports Record Preliminary Nine-Month Revenue of $54.3 Million, Up 19% Year Over Year; Delivers Record Q3 Revenue of $17.4 Million and Reaffirms 2026 Revenue Outlook of Over $90 Million",
-    "tokens": [
-      "2026",
-      "cosmos",
-      "delivers",
-      "health",
-      "million",
-      "month",
-      "nine",
-      "outlook",
-      "preliminary",
-      "reaffirms",
-      "record",
-      "reports",
-      "revenue",
-      "year"
-    ],
-    "ts": 1791390722.7537594
-  },
-  {
-    "id": "https://seekingalpha.com/news/4650982-defiance-leveraged-long-income-mstr-etf-declares-0_1091-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Defiance Leveraged Long + Income MSTR ETF declares $0.1091 dividend",
-    "tokens": [
-      "1091",
-      "declares",
-      "defiance",
-      "dividend",
-      "etf",
-      "income",
-      "leveraged",
-      "long",
-      "mstr"
-    ],
-    "ts": 1791390731.3125772
-  },
-  {
-    "id": "oilprice-news-45707",
-    "title": "SpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline",
-    "tokens": [
-      "approval",
-      "florida",
-      "gas",
-      "mile",
-      "natural",
-      "pipeline",
-      "seeks",
-      "spacex"
-    ],
-    "ts": 1791390740.2525043
-  },
-  {
-    "id": "oilprice-article-45707",
-    "title": "Europe Moves to Curb the Flood of Chinese Hybrid Cars",
-    "tokens": [
-      "cars",
-      "chinese",
-      "curb",
-      "europe",
-      "flood",
-      "hybrid",
-      "moves"
-    ],
-    "ts": 1791390747.8864932
-  },
-  {
-    "id": "oilprice-news-45706",
-    "title": "Iraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue",
-    "tokens": [
-      "devalues",
-      "dinar",
-      "disruption",
-      "drains",
-      "hormuz",
-      "iraq",
-      "oil",
-      "revenue"
-    ],
-    "ts": 1791390756.249329
-  },
-  {
-    "id": "oilprice-article-45706",
-    "title": "U.S. Crude Stocks Dip But Distillates Hold Steady",
-    "tokens": [
-      "crude",
-      "dip",
-      "distillates",
-      "hold",
-      "steady",
-      "stocks"
-    ],
-    "ts": 1791390769.5018094
-  },
-  {
-    "id": "oilprice-news-45702",
-    "title": "South Korea Unveils $747 Billion Plan to Break Its Fossil Fuel Habit",
-    "tokens": [
-      "747",
-      "billion",
-      "break",
-      "fossil",
-      "fuel",
-      "habit",
-      "korea",
-      "plan",
-      "south",
-      "unveils"
-    ],
-    "ts": 1791390777.994022
-  },
-  {
-    "id": "oilprice-article-45702",
-    "title": "Rubio Warns Russia and China Are Already Moving in the Arctic",
-    "tokens": [
-      "already",
-      "arctic",
-      "china",
-      "moving",
-      "rubio",
-      "russia",
-      "warns"
-    ],
-    "ts": 1791390785.8769283
-  },
-  {
-    "id": "7be655cb-9767-4d4e-ac3a-396a8d739e58",
-    "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
-    "tokens": [
-      "billion",
-      "border",
-      "cross",
-      "polygon",
-      "seamless",
-      "stablecoin",
-      "supply",
-      "taps",
-      "transfers",
-      "tron"
-    ],
-    "ts": 1791390798.4706986
-  },
-  {
-    "id": "ea308241-aa8a-45cf-9829-c748a13a8c71",
-    "title": "Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next",
-    "tokens": [
-      "all",
-      "app",
-      "bets",
-      "biggest",
-      "consumer",
-      "crypto",
-      "gate",
-      "money",
-      "next",
-      "one",
-      "trend",
-      "year"
-    ],
-    "ts": 1791390807.0014086
-  },
-  {
-    "id": "ed4336e0-a531-4df2-8c34-2c0e873ccb40",
-    "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
-    "tokens": [
-      "age",
-      "case",
-      "crypto",
-      "long",
-      "privacy",
-      "short",
-      "zcash"
-    ],
-    "ts": 1791390815.0031326
-  },
-  {
-    "id": "962e783d-32d0-45f2-bfdb-9bacbf07389d",
-    "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
-    "tokens": [
-      "bank",
-      "central",
-      "explore",
-      "kazakhstan",
-      "stablecoin",
-      "tapped",
-      "tether",
-      "tokenization"
-    ],
-    "ts": 1791390822.3749573
-  },
-  {
-    "id": "b71935f2-029b-4700-8683-ab6e0a8b2eb5",
-    "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
-    "tokens": [
-      "blockchains",
-      "computers",
-      "europol",
-      "exposed",
-      "keys",
-      "private",
-      "quantum",
-      "rather",
-      "threaten",
-      "warns"
-    ],
-    "ts": 1791390831.054575
-  },
-  {
-    "id": "bdc9735e-a843-43b6-abb9-b641deea2d8b",
-    "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
-    "tokens": [
-      "about",
-      "bitmine",
-      "buyer",
-      "ether",
-      "lee",
-      "lose",
-      "purchases",
-      "steady",
-      "stop",
-      "token",
-      "tom"
-    ],
-    "ts": 1791390838.9195318
-  },
-  {
-    "id": "bb8f99f5-770f-49f7-8a37-dab034634546",
-    "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
-    "tokens": [
-      "100m",
-      "bet",
-      "business",
-      "credit",
-      "crypto",
-      "giant",
-      "gsr",
-      "onchain",
-      "trading",
-      "vault"
-    ],
-    "ts": 1791390850.178569
-  },
-  {
-    "id": "13b1eee4-87e9-4957-ad22-912d9e0e6a73",
-    "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
-    "tokens": [
-      "blockchain",
-      "founder",
-      "internal",
-      "key",
-      "layers",
-      "ledger",
-      "requires",
-      "swift",
-      "taurus",
-      "warns"
-    ],
-    "ts": 1791390858.902458
-  },
-  {
     "id": "2dc0ae64-ec6f-4626-b670-6e1a64788008",
     "title": "Here’s what bitcoin needs to break above $87,000",
     "tokens": [
@@ -23986,5 +23501,437 @@
       "yields"
     ],
     "ts": 1792440578.1920242
+  },
+  {
+    "id": "WP-MKTW-0005294746",
+    "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
+    "tokens": [
+      "athletes",
+      "blood",
+      "clots",
+      "common",
+      "even",
+      "here",
+      "hurts",
+      "incredibly",
+      "jalen",
+      "know",
+      "like",
+      "pro",
+      "what"
+    ],
+    "ts": 1792453318.0605044
+  },
+  {
+    "id": "WP-MKTW-0005295383",
+    "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+    "tokens": [
+      "bonds",
+      "credit",
+      "entered",
+      "investors",
+      "junk",
+      "markets",
+      "riskiest",
+      "send",
+      "territory",
+      "uncharted",
+      "warning"
+    ],
+    "ts": 1792453324.9917123
+  },
+  {
+    "id": "WP-MKTW-0005294783",
+    "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
+    "tokens": [
+      "become",
+      "elections",
+      "likely",
+      "market",
+      "midterm",
+      "stock",
+      "strong",
+      "tailwind",
+      "why"
+    ],
+    "ts": 1792453332.0610182
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cloudflare-director-carl-ledbetter-sells-152m-in-stock-93CH-4958521",
+    "title": "Cloudflare director Carl Ledbetter sells $1.52m in stock",
+    "tokens": [
+      "52m",
+      "carl",
+      "cloudflare",
+      "director",
+      "ledbetter",
+      "sells",
+      "stock"
+    ],
+    "ts": 1792453339.051692
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cloudflare-cfo-thomas-seifert-sells-37m-in-company-stock-93CH-4958520",
+    "title": "Cloudflare CFO Thomas Seifert sells $3.7m in company stock",
+    "tokens": [
+      "cfo",
+      "cloudflare",
+      "company",
+      "seifert",
+      "sells",
+      "stock",
+      "thomas"
+    ],
+    "ts": 1792453346.099991
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/health-in-tech-hit-cgo-zain-hasan-sells-2066-in-shares-93CH-4958519",
+    "title": "Health in tech (HIT) CGO Zain Hasan sells $2,066 in shares",
+    "tokens": [
+      "066",
+      "cgo",
+      "hasan",
+      "health",
+      "hit",
+      "sells",
+      "shares",
+      "tech",
+      "zain"
+    ],
+    "ts": 1792453353.309495
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/septerna-president-and-coo-elizabeth-bhatt-sells-149644-in-stock-93CH-4958518",
+    "title": "Septerna president and COO Elizabeth Bhatt sells $149,644 in stock",
+    "tokens": [
+      "149",
+      "644",
+      "bhatt",
+      "coo",
+      "elizabeth",
+      "president",
+      "sells",
+      "septerna",
+      "stock"
+    ],
+    "ts": 1792453360.5056198
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/14-dead-7-injured-in-colombia-illegal-gold-mine-collapse-4958516",
+    "title": "14 dead, 7 injured in Colombia illegal gold mine collapse",
+    "tokens": [
+      "collapse",
+      "colombia",
+      "dead",
+      "gold",
+      "illegal",
+      "injured",
+      "mine"
+    ],
+    "ts": 1792453368.0665617
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/twenty-mile-metals-closes-2m-private-placement-93CH-4958512",
+    "title": "Twenty Mile Metals closes $2M private placement",
+    "tokens": [
+      "closes",
+      "metals",
+      "mile",
+      "placement",
+      "private",
+      "twenty"
+    ],
+    "ts": 1792453374.9377134
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusiveopenai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say-4958511",
+    "title": "Exclusive-OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+    "tokens": [
+      "accelerate",
+      "ahead",
+      "anthropic",
+      "exclusive",
+      "fundraising",
+      "ipo",
+      "openai",
+      "say",
+      "seeks",
+      "sources"
+    ],
+    "ts": 1792453382.3500745
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/airbnb-cao-david-bernstein-sells-230005-in-stock-93CH-4958507",
+    "title": "Airbnb CAO David Bernstein sells $230,005 in stock",
+    "tokens": [
+      "005",
+      "230",
+      "airbnb",
+      "bernstein",
+      "cao",
+      "david",
+      "sells",
+      "stock"
+    ],
+    "ts": 1792453389.0218065
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/zions-q3-2026-slides-deposit-growth-capital-markets-drive-beat-93CH-4958497",
+    "title": "Zions Q3 2026 slides: deposit growth, capital markets drive beat",
+    "tokens": [
+      "2026",
+      "beat",
+      "capital",
+      "deposit",
+      "drive",
+      "growth",
+      "markets",
+      "slides",
+      "zions"
+    ],
+    "ts": 1792453395.92721
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/herzfeld-credit-income-fund-inc-announces-preliminary-tender-offer-results-1036640996",
+    "title": "Herzfeld Credit Income Fund, Inc. Announces Preliminary Tender Offer Results",
+    "tokens": [
+      "announces",
+      "credit",
+      "fund",
+      "herzfeld",
+      "inc",
+      "income",
+      "offer",
+      "preliminary",
+      "results",
+      "tender"
+    ],
+    "ts": 1792453403.400609
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/stanley-roof-and-solar-releases-inspection-based-guidance-for-roof-repair-and-replacement-decisions-in-vancouver-wa-1036640995",
+    "title": "Stanley Roof and Solar Releases Inspection-Based Guidance for Roof Repair and Replacement Decisions in Vancouver, WA",
+    "tokens": [
+      "based",
+      "decisions",
+      "guidance",
+      "inspection",
+      "releases",
+      "repair",
+      "replacement",
+      "roof",
+      "solar",
+      "stanley",
+      "vancouver"
+    ],
+    "ts": 1792453411.0139022
+  },
+  {
+    "id": "https://seekingalpha.com/news/4654226-intuitive-surgical-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Intuitive Surgical Q3 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "earnings",
+      "intuitive",
+      "preview",
+      "surgical"
+    ],
+    "ts": 1792453418.945678
+  },
+  {
+    "id": "https://seekingalpha.com/news/4654232-stride-q1-2027-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Stride Q1 2027 Earnings Preview",
+    "tokens": [
+      "2027",
+      "earnings",
+      "preview",
+      "stride"
+    ],
+    "ts": 1792453425.7898512
+  },
+  {
+    "id": "https://seekingalpha.com/news/4654231-alaska-air-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Alaska Air Q3 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "air",
+      "alaska",
+      "earnings",
+      "preview"
+    ],
+    "ts": 1792453432.8849165
+  },
+  {
+    "id": "https://seekingalpha.com/news/4654251-agree-realty-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Agree Realty Q3 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "agree",
+      "earnings",
+      "preview",
+      "realty"
+    ],
+    "ts": 1792453439.6606288
+  },
+  {
+    "id": "https://seekingalpha.com/news/4654252-chubb-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Chubb Q3 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "chubb",
+      "earnings",
+      "preview"
+    ],
+    "ts": 1792453447.1427855
+  },
+  {
+    "id": "https://seekingalpha.com/news/4654248-united-airlines-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "United Airlines Q3 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "airlines",
+      "earnings",
+      "preview",
+      "united"
+    ],
+    "ts": 1792453454.2007132
+  },
+  {
+    "id": "https://seekingalpha.com/news/4654249-capital-one-financial-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Capital One Financial Q3 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "capital",
+      "earnings",
+      "financial",
+      "one",
+      "preview"
+    ],
+    "ts": 1792453461.311351
+  },
+  {
+    "id": "https://seekingalpha.com/news/4654234-pegasystems-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Pegasystems Q3 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "earnings",
+      "pegasystems",
+      "preview"
+    ],
+    "ts": 1792453465.3271253
+  },
+  {
+    "id": "oilprice-article-45817",
+    "title": "UK Pays Record Sums to Balance Grid as Transmission Falls Behind",
+    "tokens": [
+      "balance",
+      "behind",
+      "falls",
+      "grid",
+      "pays",
+      "record",
+      "sums",
+      "transmission"
+    ],
+    "ts": 1792453468.620294
+  },
+  {
+    "id": "oilprice-article-45816",
+    "title": "Why Invading Iran Could Become America's Biggest Military Mistake",
+    "tokens": [
+      "america",
+      "become",
+      "biggest",
+      "could",
+      "invading",
+      "iran",
+      "military",
+      "mistake",
+      "why"
+    ],
+    "ts": 1792453476.4117446
+  },
+  {
+    "id": "oilprice-news-45817",
+    "title": "Qatar Offers Lebanon 2 Gas Plants and 20 Years of LNG Piped Through Syria",
+    "tokens": [
+      "gas",
+      "lebanon",
+      "lng",
+      "offers",
+      "piped",
+      "plants",
+      "qatar",
+      "syria",
+      "through",
+      "years"
+    ],
+    "ts": 1792453480.427835
+  },
+  {
+    "id": "oilprice-news-45816",
+    "title": "Pakistan’s Growth Slows  as Hormuz Crisis Hits Industry",
+    "tokens": [
+      "crisis",
+      "growth",
+      "hits",
+      "hormuz",
+      "industry",
+      "pakistan",
+      "slows"
+    ],
+    "ts": 1792453480.4434745
+  },
+  {
+    "id": "67327298-5cc7-43af-8c6e-61302312f402",
+    "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+    "tokens": [
+      "investigation",
+      "iran",
+      "led",
+      "lower",
+      "misses",
+      "positive",
+      "senator",
+      "tether",
+      "volumes",
+      "work"
+    ],
+    "ts": 1792453484.9588225
+  },
+  {
+    "id": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback",
+    "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+    "tokens": [
+      "201m",
+      "all",
+      "buyback",
+      "firm",
+      "holdings",
+      "launches",
+      "sells",
+      "skyai",
+      "sol",
+      "solana",
+      "treasury"
+    ],
+    "ts": 1792453491.9357016
+  },
+  {
+    "id": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election",
+    "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
+    "tokens": [
+      "362k",
+      "august",
+      "california",
+      "crypto",
+      "decided",
+      "essentially",
+      "pac",
+      "pours",
+      "race",
+      "voters"
+    ],
+    "ts": 1792453498.8092523
   }
 ]

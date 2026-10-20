@@ -1,386 +1,5 @@
 [
   {
-    "id": "oilprice-article-45714",
-    "title": "UAE Joins Kazakhstan, Uzbekistan in Push for Trans-Afghan Railway",
-    "tokens": [
-      "afghan",
-      "joins",
-      "kazakhstan",
-      "push",
-      "railway",
-      "trans",
-      "uae",
-      "uzbekistan"
-    ],
-    "ts": 1791472628.595207
-  },
-  {
-    "id": "oilprice-news-45718",
-    "title": "Supertanker Rates Hit Record $1.4 Million a Day",
-    "tokens": [
-      "day",
-      "hit",
-      "million",
-      "rates",
-      "record",
-      "supertanker"
-    ],
-    "ts": 1791472636.6321106
-  },
-  {
-    "id": "oilprice-news-45714",
-    "title": "U.S. and Russia Discuss Reviving Russian Gas Sales to Europe",
-    "tokens": [
-      "discuss",
-      "europe",
-      "gas",
-      "reviving",
-      "russia",
-      "russian",
-      "sales"
-    ],
-    "ts": 1791472644.2803698
-  },
-  {
-    "id": "6c1848b0-0c2d-4f05-8d13-7c53eef138fe",
-    "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
-    "tokens": [
-      "advisors",
-      "assets",
-      "crypto",
-      "digital",
-      "gold",
-      "outran",
-      "stocks"
-    ],
-    "ts": 1791472652.735564
-  },
-  {
-    "id": "dd0f6d62-6a32-44f6-8924-3b50943bc1b9",
-    "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
-    "tokens": [
-      "bunker",
-      "challenge",
-      "crypto",
-      "far",
-      "greater",
-      "holders",
-      "individual",
-      "institutions",
-      "mode"
-    ],
-    "ts": 1791472660.4955091
-  },
-  {
-    "id": "19a881ed-dc2e-418f-9e14-dec2ccaa81a0",
-    "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
-    "tokens": [
-      "cardano",
-      "foundation",
-      "shares",
-      "spins",
-      "standard",
-      "tokenizes",
-      "veridian"
-    ],
-    "ts": 1791472668.1122403
-  },
-  {
-    "id": "7b34b9c4-6e1d-4278-b393-36c8e5163211",
-    "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
-    "tokens": [
-      "behind",
-      "bitcoin",
-      "exposed",
-      "keys",
-      "million",
-      "mount",
-      "public",
-      "sit",
-      "warnings"
-    ],
-    "ts": 1791472676.6388254
-  },
-  {
-    "id": "f9ecdaa6-45f1-4455-b874-bcb478300ac3",
-    "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
-    "tokens": [
-      "apple",
-      "brings",
-      "nvidia",
-      "nyse",
-      "securitize",
-      "solana",
-      "tesla",
-      "trading",
-      "works"
-    ],
-    "ts": 1791472684.6482291
-  },
-  {
-    "id": "62ab4914-c7c8-4a13-ad6e-bfd790b4a7b5",
-    "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
-    "tokens": [
-      "against",
-      "attacks",
-      "bitcoin",
-      "bunker",
-      "enter",
-      "ether",
-      "holders",
-      "mode",
-      "possible",
-      "urged"
-    ],
-    "ts": 1791472692.8508258
-  },
-  {
-    "id": "37324452-c4ab-4997-93e5-352ff5f6a635",
-    "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
-    "tokens": [
-      "brings",
-      "credit",
-      "investors",
-      "mortgage",
-      "nuva",
-      "offshore",
-      "residential"
-    ],
-    "ts": 1791472701.3867042
-  },
-  {
-    "id": "46ca11cb-5296-4505-9a66-8130952f0ab1",
-    "title": "Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million",
-    "tokens": [
-      "2010",
-      "bitcoin",
-      "million",
-      "mined",
-      "moves",
-      "now",
-      "pennies",
-      "worth",
-      "years"
-    ],
-    "ts": 1791472708.8991625
-  },
-  {
-    "id": "3d790965-e740-4419-9361-bd9be91bd050",
-    "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
-    "tokens": [
-      "biggest",
-      "bitcoin",
-      "etf",
-      "exit",
-      "head",
-      "investors",
-      "months",
-      "rush"
-    ],
-    "ts": 1791472717.0344517
-  },
-  {
-    "id": "4111a5ec-5790-4c83-bdb4-348eb18f6767",
-    "title": "Live updates: Bitcoin breaks lower from recent trading range, sliding back to $82,000",
-    "tokens": [
-      "000",
-      "back",
-      "bitcoin",
-      "breaks",
-      "live",
-      "lower",
-      "range",
-      "recent",
-      "sliding",
-      "trading",
-      "updates"
-    ],
-    "ts": 1791472724.483178
-  },
-  {
-    "id": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity",
-    "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
-    "tokens": [
-      "back",
-      "fidelity",
-      "future",
-      "going",
-      "institutions",
-      "moving",
-      "onchain",
-      "tokenized",
-      "toward"
-    ],
-    "ts": 1791472732.333844
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks",
-    "title": "Crypto lending rises again… but have they solved the risks?",
-    "tokens": [
-      "again",
-      "crypto",
-      "lending",
-      "rises",
-      "risks",
-      "solved",
-      "they"
-    ],
-    "ts": 1791472739.7393093
-  },
-  {
-    "id": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption",
-    "title": "EU lawmakers push crypto onto anti-corruption agenda",
-    "tokens": [
-      "agenda",
-      "anti",
-      "corruption",
-      "crypto",
-      "lawmakers",
-      "onto",
-      "push"
-    ],
-    "ts": 1791472746.72699
-  },
-  {
-    "id": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments",
-    "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
-    "tokens": [
-      "500m",
-      "bitcoin",
-      "commitments",
-      "finance",
-      "hashi",
-      "launch",
-      "sui"
-    ],
-    "ts": 1791472756.455261
-  },
-  {
-    "id": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase",
-    "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
-    "tokens": [
-      "770m",
-      "bitcoin",
-      "coinbase",
-      "government",
-      "moves",
-      "prime",
-      "seized"
-    ],
-    "ts": 1791472763.8232858
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls",
-    "title": "Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls",
-    "tokens": [
-      "bitcoin",
-      "btc",
-      "inflows",
-      "money",
-      "monthly",
-      "near",
-      "price",
-      "rally",
-      "stalls"
-    ],
-    "ts": 1791472771.6434941
-  },
-  {
-    "id": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline",
-    "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
-    "tokens": [
-      "compliant",
-      "crypto",
-      "esma",
-      "exit",
-      "firms",
-      "gives",
-      "months",
-      "non",
-      "stablecoins"
-    ],
-    "ts": 1791472779.3622024
-  },
-  {
-    "id": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october",
-    "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
-    "tokens": [
-      "add",
-      "galaxy",
-      "october",
-      "samsung",
-      "transfers",
-      "usdc",
-      "users",
-      "wallet"
-    ],
-    "ts": 1791472786.46086
-  },
-  {
-    "id": "https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge",
-    "title": "NEAR enters crypto’s top 20 after 140% surge in 30 days",
-    "tokens": [
-      "140",
-      "crypto",
-      "days",
-      "enters",
-      "near",
-      "surge",
-      "top"
-    ],
-    "ts": 1791472793.825473
-  },
-  {
-    "id": "WP-MKTW-0005276807",
-    "title": "With mortgage rates soaring above 7.5%, the smart money rents in America",
-    "tokens": [
-      "above",
-      "america",
-      "money",
-      "mortgage",
-      "rates",
-      "rents",
-      "smart",
-      "soaring"
-    ],
-    "ts": 1791492186.8550608
-  },
-  {
-    "id": "WP-MKTW-0005275323",
-    "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
-    "tokens": [
-      "being",
-      "downsize",
-      "free",
-      "how",
-      "like",
-      "possessions",
-      "prisoner",
-      "pro",
-      "your",
-      "yourself"
-    ],
-    "ts": 1791492194.7905777
-  },
-  {
-    "id": "WP-MKTW-0005276618",
-    "title": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
-    "tokens": [
-      "benefit",
-      "florida",
-      "here",
-      "hurt",
-      "property",
-      "slash",
-      "taxes",
-      "voting",
-      "whether",
-      "who",
-      "would"
-    ],
-    "ts": 1791492202.2240734
-  },
-  {
     "id": "WP-MKTW-0005276264",
     "title": "The options market is reminding investors there’s a cure for rising bond yields — higher yields",
     "tokens": [
@@ -23954,5 +23573,396 @@
       "what"
     ],
     "ts": 1792519569.2517548
+  },
+  {
+    "id": "WP-MKTW-0005297625",
+    "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+    "tokens": [
+      "hit",
+      "investors",
+      "netflix",
+      "revive",
+      "sell",
+      "stock",
+      "trends",
+      "viewership",
+      "vows"
+    ],
+    "ts": 1792531826.550729
+  },
+  {
+    "id": "WP-MKTW-0005297827",
+    "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+    "tokens": [
+      "500",
+      "bang",
+      "bull",
+      "correction",
+      "markets",
+      "may",
+      "next",
+      "peak",
+      "tend",
+      "whimper"
+    ],
+    "ts": 1792531837.1867487
+  },
+  {
+    "id": "WP-MKTW-0005297603",
+    "title": "The Social Security Administration corrected millions of records, and says there’s more to fix",
+    "tokens": [
+      "administration",
+      "corrected",
+      "fix",
+      "millions",
+      "more",
+      "records",
+      "security",
+      "social",
+      "there"
+    ],
+    "ts": 1792531844.105352
+  },
+  {
+    "id": "WP-MKTW-0005297141",
+    "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
+    "tokens": [
+      "claude",
+      "design",
+      "drug",
+      "experiment",
+      "investment",
+      "just",
+      "researchers",
+      "spawned",
+      "street",
+      "thesis",
+      "used",
+      "wall"
+    ],
+    "ts": 1792531851.9033713
+  },
+  {
+    "id": "WP-MKTW-0005297041",
+    "title": "Here’s what matters most to Tesla investors heading into earnings",
+    "tokens": [
+      "earnings",
+      "heading",
+      "here",
+      "investors",
+      "matters",
+      "most",
+      "tesla",
+      "what"
+    ],
+    "ts": 1792531859.1283243
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/wedbushs-ives-reiterates-in-line-rating-on-netflix-stock-at-75-93CH-4961203",
+    "title": "Wedbush’s Ives reiterates In Line rating on Netflix stock at $75",
+    "tokens": [
+      "ives",
+      "line",
+      "netflix",
+      "rating",
+      "reiterates",
+      "stock",
+      "wedbush"
+    ],
+    "ts": 1792531867.1170638
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/wedbushs-ives-reiterates-outperform-on-spacex-stock-citing-si-growth-93CH-4961202",
+    "title": "Wedbush’s Ives reiterates Outperform on SpaceX stock citing SI growth",
+    "tokens": [
+      "citing",
+      "growth",
+      "ives",
+      "outperform",
+      "reiterates",
+      "spacex",
+      "stock",
+      "wedbush"
+    ],
+    "ts": 1792531874.5013888
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/aehr-test-systems-shareholders-elect-directors-and-approve-proposals-at-annual-meeting-93CH-4961201",
+    "title": "Aehr Test Systems shareholders elect directors and approve proposals at annual meeting",
+    "tokens": [
+      "aehr",
+      "annual",
+      "approve",
+      "directors",
+      "elect",
+      "meeting",
+      "proposals",
+      "shareholders",
+      "systems",
+      "test"
+    ],
+    "ts": 1792531882.5352275
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/musk-ordered-starlink-slowdown-that-blindsided-ukraine-wsj-reports-4961200",
+    "title": "Musk ordered Starlink slowdown that blindsided Ukraine, WSJ reports",
+    "tokens": [
+      "blindsided",
+      "musk",
+      "ordered",
+      "reports",
+      "slowdown",
+      "starlink",
+      "ukraine",
+      "wsj"
+    ],
+    "ts": 1792531890.631831
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/helsing-nears-investment-in-destinus-stock-at-67-billion-valuation--bloomberg-93CH-4961199",
+    "title": "Helsing nears investment in Destinus stock at $6.7 billion valuation - Bloomberg",
+    "tokens": [
+      "billion",
+      "bloomberg",
+      "destinus",
+      "helsing",
+      "investment",
+      "nears",
+      "stock",
+      "valuation"
+    ],
+    "ts": 1792531897.8437235
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/galleon-gold-upsizes-private-placement-with-pan-american-silver-93CH-4961188",
+    "title": "Galleon Gold upsizes private placement with Pan American Silver",
+    "tokens": [
+      "american",
+      "galleon",
+      "gold",
+      "pan",
+      "placement",
+      "private",
+      "silver",
+      "upsizes"
+    ],
+    "ts": 1792531904.8547032
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/silvia-announces-costcutting-plan-targeting-10m-in-savings-93CH-4961187",
+    "title": "Silvia announces cost-cutting plan targeting $10M in savings",
+    "tokens": [
+      "10m",
+      "announces",
+      "cost",
+      "cutting",
+      "plan",
+      "savings",
+      "silvia",
+      "targeting"
+    ],
+    "ts": 1792531912.0692408
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/strawberry-fields-at-ld-micro-steady-growth-meets-valuation-gap-93CH-4961186",
+    "title": "Strawberry Fields at LD Micro: steady growth meets valuation gap",
+    "tokens": [
+      "fields",
+      "gap",
+      "growth",
+      "meets",
+      "micro",
+      "steady",
+      "strawberry",
+      "valuation"
+    ],
+    "ts": 1792531919.426567
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-msci-stock-price-target-on-strong-quarterly-results-93CH-4961185",
+    "title": "Goldman Sachs raises MSCI stock price target on strong quarterly results",
+    "tokens": [
+      "goldman",
+      "msci",
+      "price",
+      "quarterly",
+      "raises",
+      "results",
+      "sachs",
+      "stock",
+      "strong",
+      "target"
+    ],
+    "ts": 1792531927.0864139
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trading-day-oil-reversal-lifts-spirits-4961184",
+    "title": "Trading Day: Oil reversal lifts spirits",
+    "tokens": [
+      "day",
+      "lifts",
+      "oil",
+      "reversal",
+      "spirits",
+      "trading"
+    ],
+    "ts": 1792531934.904556
+  },
+  {
+    "id": "oilprice-article-45821",
+    "title": "Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up",
+    "tokens": [
+      "aren",
+      "costs",
+      "driving",
+      "energy",
+      "inflation",
+      "keeping",
+      "wages"
+    ],
+    "ts": 1792531944.2373798
+  },
+  {
+    "id": "oilprice-news-45826",
+    "title": "API: Crude, Product Inventories Continue to Draw",
+    "tokens": [
+      "api",
+      "continue",
+      "crude",
+      "draw",
+      "inventories",
+      "product"
+    ],
+    "ts": 1792531952.2702956
+  },
+  {
+    "id": "oilprice-article-45824",
+    "title": "The Middle East's Next Energy Boom Has Nothing to Do With Oil",
+    "tokens": [
+      "boom",
+      "east",
+      "energy",
+      "middle",
+      "next",
+      "nothing",
+      "oil"
+    ],
+    "ts": 1792531959.3434327
+  },
+  {
+    "id": "oilprice-article-45826",
+    "title": "One Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict",
+    "tokens": [
+      "another",
+      "conflict",
+      "could",
+      "deal",
+      "eastern",
+      "ignite",
+      "kurdish",
+      "middle",
+      "one",
+      "peace"
+    ],
+    "ts": 1792531967.116312
+  },
+  {
+    "id": "oilprice-news-45824",
+    "title": "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis",
+    "tokens": [
+      "against",
+      "arctic",
+      "crisis",
+      "despite",
+      "drilling",
+      "energy",
+      "firm",
+      "gas",
+      "oil",
+      "stands"
+    ],
+    "ts": 1792531971.1322684
+  },
+  {
+    "id": "b2d903e8-67ee-4c72-b382-f089654e2200",
+    "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+    "tokens": [
+      "agenda",
+      "agentic",
+      "cftc",
+      "exploring",
+      "finance",
+      "forum",
+      "sets",
+      "trading"
+    ],
+    "ts": 1792531975.371616
+  },
+  {
+    "id": "b8222b25-6dbc-4c06-a44a-61db874f4f40",
+    "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+    "tokens": [
+      "andrew",
+      "calls",
+      "chair",
+      "corporate",
+      "cuomo",
+      "ice",
+      "natural",
+      "objections",
+      "okx",
+      "plans",
+      "response",
+      "stock",
+      "tokenized"
+    ],
+    "ts": 1792531983.4373312
+  },
+  {
+    "id": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets",
+    "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+    "tokens": [
+      "company",
+      "kalshi",
+      "market",
+      "prediction",
+      "profits",
+      "pursues",
+      "sues",
+      "utah"
+    ],
+    "ts": 1792531990.6892748
+  },
+  {
+    "id": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops",
+    "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+    "tokens": [
+      "airdrops",
+      "bitwise",
+      "changes",
+      "hyperliquid",
+      "rule",
+      "sec",
+      "seek",
+      "token",
+      "trading"
+    ],
+    "ts": 1792531997.8579116
+  },
+  {
+    "id": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong",
+    "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+    "tokens": [
+      "2026",
+      "claims",
+      "crypto",
+      "projects",
+      "shutdown",
+      "wave",
+      "went",
+      "what",
+      "wrong"
+    ],
+    "ts": 1792532005.771214
   }
 ]

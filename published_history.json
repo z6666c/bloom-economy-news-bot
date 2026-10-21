@@ -1,403 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005279509",
-    "title": "Microsoft is nearing a big milestone that solidifies its revival",
-    "tokens": [
-      "big",
-      "microsoft",
-      "milestone",
-      "nearing",
-      "revival",
-      "solidifies"
-    ],
-    "ts": 1791574383.490298
-  },
-  {
-    "id": "WP-MKTW-0005279244",
-    "title": "Why you need to take a closer look at your favorite stock index",
-    "tokens": [
-      "closer",
-      "favorite",
-      "index",
-      "look",
-      "need",
-      "stock",
-      "take",
-      "why",
-      "you",
-      "your"
-    ],
-    "ts": 1791574390.5534892
-  },
-  {
-    "id": "WP-MKTW-0005279841",
-    "title": "Trump ramps up battle to fire Fed’s Lisa Cook. Her lawyers say there’s no basis to remove her.",
-    "tokens": [
-      "basis",
-      "battle",
-      "cook",
-      "fed",
-      "fire",
-      "her",
-      "lawyers",
-      "lisa",
-      "ramps",
-      "remove",
-      "say",
-      "there",
-      "trump"
-    ],
-    "ts": 1791574397.477463
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/trump-says-russia-to-immediately-supply-300000-tons-of-diesel-fuel-4941599",
-    "title": "Trump says Russia to immediately supply 300,000 tons of diesel fuel",
-    "tokens": [
-      "000",
-      "300",
-      "diesel",
-      "fuel",
-      "immediately",
-      "russia",
-      "supply",
-      "tons",
-      "trump"
-    ],
-    "ts": 1791574404.9546998
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/trugolf-completes-acquisition-of-blockchain-firm-polymath-93CH-4941596",
-    "title": "TruGolf completes acquisition of blockchain firm Polymath",
-    "tokens": [
-      "acquisition",
-      "blockchain",
-      "completes",
-      "firm",
-      "polymath",
-      "trugolf"
-    ],
-    "ts": 1791574412.418019
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/pennsylvania-says-gsk-to-invest-more-than-800-million-in-biopharma-hub-create-300-jobs-4941594",
-    "title": "Pennsylvania says GSK to invest more than $800 million in biopharma hub, create 300 jobs",
-    "tokens": [
-      "300",
-      "800",
-      "biopharma",
-      "create",
-      "gsk",
-      "hub",
-      "invest",
-      "jobs",
-      "million",
-      "more",
-      "pennsylvania"
-    ],
-    "ts": 1791574419.6692874
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/port-of-los-angeles-sets-september-volume-record-executive-director-says-4941593",
-    "title": "Port of Los Angeles sets September volume record, executive director says",
-    "tokens": [
-      "angeles",
-      "director",
-      "executive",
-      "los",
-      "port",
-      "record",
-      "september",
-      "sets",
-      "volume"
-    ],
-    "ts": 1791574426.7401013
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/ringkjbing-landbobank-launches-dkk-400m-share-buyback-93CH-4941589",
-    "title": "Ringkjøbing Landbobank launches DKK 400m share buyback",
-    "tokens": [
-      "400m",
-      "bing",
-      "buyback",
-      "dkk",
-      "landbobank",
-      "launches",
-      "ringkj",
-      "share"
-    ],
-    "ts": 1791574433.6529937
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/emat-stock-hits-52week-low-at-167-usd-93CH-4941588",
-    "title": "Emat stock hits 52-week low at 1.67 USD",
-    "tokens": [
-      "emat",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1791574441.054746
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/eldorado-golds-skouries-mine-designated-eu-strategic-project-93CH-4941587",
-    "title": "Eldorado Gold’s Skouries mine designated EU strategic project",
-    "tokens": [
-      "designated",
-      "eldorado",
-      "gold",
-      "mine",
-      "project",
-      "skouries",
-      "strategic"
-    ],
-    "ts": 1791574448.076378
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/katie-zacharia-reportedly-named-new-white-house-press-secretary-4941585",
-    "title": "Katie Zacharia reportedly named new White House press secretary",
-    "tokens": [
-      "house",
-      "katie",
-      "named",
-      "press",
-      "reportedly",
-      "secretary",
-      "white",
-      "zacharia"
-    ],
-    "ts": 1791574454.8659854
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/trump-big-announcement-coming-up-on-diesel-4941467",
-    "title": "Trump to issue directive on diesel, sources say, after he promises ’big announcement’",
-    "tokens": [
-      "announcement",
-      "big",
-      "diesel",
-      "directive",
-      "issue",
-      "promises",
-      "say",
-      "sources",
-      "trump"
-    ],
-    "ts": 1791574461.353331
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/magnitude-76-earthquake-hits-panamas-southern-coast-93CH-4941583",
-    "title": "Magnitude 7.6 earthquake hits Panama’s southern coast",
-    "tokens": [
-      "coast",
-      "earthquake",
-      "hits",
-      "magnitude",
-      "panama",
-      "southern"
-    ],
-    "ts": 1791574469.6198938
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/bison-bank-launches-bison-insight-an-ai-powered-digital-solution-to-help-clients-analyse-their-investments-1036613160",
-    "title": "Bison Bank Launches Bison Insight, an AI-Powered Digital Solution to Help Clients Analyse Their Investments",
-    "tokens": [
-      "analyse",
-      "bank",
-      "bison",
-      "clients",
-      "digital",
-      "help",
-      "insight",
-      "investments",
-      "launches",
-      "powered",
-      "solution",
-      "their"
-    ],
-    "ts": 1791574477.6148741
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/first-american-bank-celebrates-new-lake-villa-branch-1036613159",
-    "title": "First American Bank Celebrates New Lake Villa Branch",
-    "tokens": [
-      "american",
-      "bank",
-      "branch",
-      "celebrates",
-      "first",
-      "lake",
-      "villa"
-    ],
-    "ts": 1791574484.193309
-  },
-  {
-    "id": "https://www.businessinsider.com/housing-market-affordability-home-prices-mortgage-rates-outlook-2026-10",
-    "title": "Why it might be more than a decade before housing affordability returns to 'normal' in the US",
-    "tokens": [
-      "affordability",
-      "before",
-      "decade",
-      "housing",
-      "might",
-      "more",
-      "normal",
-      "returns",
-      "why"
-    ],
-    "ts": 1791574491.4172595
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/nrsinsights-september-2026-retail-same-store-sales-report-1036613079",
-    "title": "NRSInsights’ September 2026 Retail Same-Store Sales Report",
-    "tokens": [
-      "2026",
-      "nrsinsights",
-      "report",
-      "retail",
-      "sales",
-      "same",
-      "september",
-      "store"
-    ],
-    "ts": 1791574499.9086356
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/ab-science-today-reports-its-revenues-for-the-first-half-of-2026-and-provides-an-update-on-its-activities-1036613078",
-    "title": "AB Science today reports its revenues for the first half of 2026 and provides an update on its activities",
-    "tokens": [
-      "2026",
-      "activities",
-      "first",
-      "half",
-      "provides",
-      "reports",
-      "revenues",
-      "science",
-      "today",
-      "update"
-    ],
-    "ts": 1791574507.8030503
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/gddy-deadline-rosen-leading-investor-counsel-encourages-godaddy-inc.-investors-to-secure-counsel-before-important-october-20-deadline-in-securities-class-action-gddy-1036613075",
-    "title": "GDDY DEADLINE: ROSEN, LEADING INVESTOR COUNSEL, Encourages GoDaddy Inc. Investors to Secure Counsel Before Important October 20 Deadline in Securities Class Action - GDDY",
-    "tokens": [
-      "action",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "gddy",
-      "godaddy",
-      "important",
-      "inc",
-      "investor",
-      "investors",
-      "leading",
-      "october",
-      "rosen",
-      "secure",
-      "securities"
-    ],
-    "ts": 1791574516.1751049
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/aard-final-deadline-rosen-leading-investor-counsel-encourages-aardvark-therapeutics-inc.-investors-to-secure-counsel-before-important-october-13-deadline-in-securities-class-action-aard-1036613076",
-    "title": "AARD FINAL DEADLINE: ROSEN, LEADING INVESTOR COUNSEL, Encourages Aardvark Therapeutics, Inc. Investors to Secure Counsel Before Important October 13 Deadline in Securities Class Action - AARD",
-    "tokens": [
-      "aard",
-      "aardvark",
-      "action",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "final",
-      "important",
-      "inc",
-      "investor",
-      "investors",
-      "leading",
-      "october",
-      "rosen",
-      "secure",
-      "securities",
-      "therapeutics"
-    ],
-    "ts": 1791574520.1877024
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/voluntary-totalitarian-tender-offer-for-all-of-the-common-shares-of-iveco-group-n-v-increase-in-the-price-of-the-offer-to-euro-14-40-per-common-share-1036613066",
-    "title": "VOLUNTARY TOTALITARIAN TENDER OFFER FOR ALL OF THE COMMON SHARES OF IVECO GROUP N.V. INCREASE IN THE PRICE OF THE OFFER TO EURO 14.40 PER COMMON SHARE",
-    "tokens": [
-      "all",
-      "common",
-      "euro",
-      "group",
-      "increase",
-      "iveco",
-      "offer",
-      "per",
-      "price",
-      "share",
-      "shares",
-      "tender",
-      "totalitarian",
-      "voluntary"
-    ],
-    "ts": 1791574523.2147188
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-trusted-investor-counsel-encourages-j.b.-hunt-transport-services-inc.-investors-to-inquire-about-securities-class-action-investigation-jbht-1036613077",
-    "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages J.B. Hunt Transport Services, Inc. Investors to Inquire About Securities Class Action Investigation - JBHT",
-    "tokens": [
-      "about",
-      "action",
-      "class",
-      "counsel",
-      "encourages",
-      "hunt",
-      "inc",
-      "inquire",
-      "investigation",
-      "investor",
-      "investors",
-      "jbht",
-      "rosen",
-      "securities",
-      "services",
-      "transport",
-      "trusted"
-    ],
-    "ts": 1791574530.7271092
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-lanxess-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036613067",
-    "title": "EQS-PVR: LANXESS AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
-    "tokens": [
-      "according",
-      "act",
-      "article",
-      "distribution",
-      "eqs",
-      "europe",
-      "german",
-      "lanxess",
-      "objective",
-      "pvr",
-      "release",
-      "section",
-      "securities",
-      "trading",
-      "wide",
-      "wphg"
-    ],
-    "ts": 1791574537.7464619
-  },
-  {
     "id": "oilprice-article-45737",
     "title": "U.S. Oil Drilling Continues to Inch Upward",
     "tokens": [
@@ -23874,5 +23476,372 @@
       "which"
     ],
     "ts": 1792609937.2736409
+  },
+  {
+    "id": "WP-MKTW-0005300366",
+    "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+    "tokens": [
+      "investors",
+      "merger",
+      "potential",
+      "should",
+      "skeptical",
+      "spacex",
+      "tesla",
+      "why"
+    ],
+    "ts": 1792621293.6261668
+  },
+  {
+    "id": "WP-MKTW-0005299722",
+    "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
+    "tokens": [
+      "can",
+      "centers",
+      "data",
+      "electricity",
+      "experts",
+      "generate",
+      "mandate",
+      "only",
+      "own",
+      "say",
+      "should",
+      "states",
+      "their",
+      "trump"
+    ],
+    "ts": 1792621301.086446
+  },
+  {
+    "id": "WP-MKTW-0005299567",
+    "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+    "tokens": [
+      "anytime",
+      "before",
+      "come",
+      "flowing",
+      "gulf",
+      "iran",
+      "like",
+      "may",
+      "now",
+      "oil",
+      "persian",
+      "prices",
+      "soon",
+      "still",
+      "war",
+      "why"
+    ],
+    "ts": 1792621308.6527865
+  },
+  {
+    "id": "WP-MKTW-0005299078",
+    "title": "7 healthcare stocks that stand out as investors pay up for the sector",
+    "tokens": [
+      "healthcare",
+      "investors",
+      "pay",
+      "sector",
+      "stand",
+      "stocks"
+    ],
+    "ts": 1792621315.4048483
+  },
+  {
+    "id": "WP-MKTW-0005299590",
+    "title": "SpaceX’s massive AI targets will test the limits of reality",
+    "tokens": [
+      "limits",
+      "massive",
+      "reality",
+      "spacex",
+      "targets",
+      "test"
+    ],
+    "ts": 1792621322.8382664
+  },
+  {
+    "id": "WP-MKTW-0005299894",
+    "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+    "tokens": [
+      "accounts",
+      "administration",
+      "babies",
+      "catch",
+      "more",
+      "security",
+      "signed",
+      "social",
+      "still",
+      "there",
+      "trump",
+      "wants"
+    ],
+    "ts": 1792621329.300662
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/sei-q3-2026-slides-record-sales-drive-24-earnings-growth-93CH-4964324",
+    "title": "SEI Q3 2026 slides: record sales drive 24% earnings growth",
+    "tokens": [
+      "2026",
+      "drive",
+      "earnings",
+      "growth",
+      "record",
+      "sales",
+      "sei",
+      "slides"
+    ],
+    "ts": 1792621336.1504822
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australias-fortescue-posts-6-fall-in-quarterly-iron-ore-shipments-4964323",
+    "title": "Australia’s Fortescue posts 6% fall in quarterly iron ore shipments",
+    "tokens": [
+      "australia",
+      "fall",
+      "fortescue",
+      "iron",
+      "ore",
+      "posts",
+      "quarterly",
+      "shipments"
+    ],
+    "ts": 1792621343.3302243
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-lam-research-tops-q1-2026-estimates-shares-fall-93CH-4964322",
+    "title": "Earnings call transcript: Lam Research tops Q1 2026 estimates, shares fall",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "estimates",
+      "fall",
+      "lam",
+      "research",
+      "shares",
+      "tops",
+      "transcript"
+    ],
+    "ts": 1792621351.1024747
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/musks-tesla-revenue-beats-estimates-as-deliveries-rebound-energy-storage-grows-4963934",
+    "title": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
+    "tokens": [
+      "cash",
+      "expected",
+      "flow",
+      "lower",
+      "positive",
+      "posts",
+      "spending",
+      "surprise",
+      "tesla"
+    ],
+    "ts": 1792621358.3854506
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-ibm-beats-q3-2026-estimates-shares-slip-after-hours-93CH-4964321",
+    "title": "Earnings call transcript: IBM beats Q3 2026 estimates, shares slip after hours",
+    "tokens": [
+      "2026",
+      "beats",
+      "call",
+      "earnings",
+      "estimates",
+      "hours",
+      "ibm",
+      "shares",
+      "slip",
+      "transcript"
+    ],
+    "ts": 1792621365.90053
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-sap-tops-q3-2026-estimates-as-cloud-growth-accelerates-93CH-4964320",
+    "title": "Earnings call transcript: SAP tops Q3 2026 estimates as cloud growth accelerates",
+    "tokens": [
+      "2026",
+      "accelerates",
+      "call",
+      "cloud",
+      "earnings",
+      "estimates",
+      "growth",
+      "sap",
+      "tops",
+      "transcript"
+    ],
+    "ts": 1792621372.749364
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-wd40-q4-2026-profit-miss-weighs-on-shares-93CH-4964319",
+    "title": "Earnings call transcript: WD-40 Q4 2026 profit miss weighs on shares",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "miss",
+      "profit",
+      "shares",
+      "transcript",
+      "weighs"
+    ],
+    "ts": 1792621379.3068988
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/aiai-holdings-at-ld-micro-main-event-cashfirst-ai-buildout-93CH-4964318",
+    "title": "AIAI Holdings at LD Micro main event: cash-first ai buildout",
+    "tokens": [
+      "aiai",
+      "buildout",
+      "cash",
+      "event",
+      "first",
+      "holdings",
+      "main",
+      "micro"
+    ],
+    "ts": 1792621385.8356388
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/aevex-addresses-navy-maritime-program-status-amid-reports-93CH-4964317",
+    "title": "AEVEX addresses Navy maritime program status amid reports",
+    "tokens": [
+      "addresses",
+      "aevex",
+      "maritime",
+      "navy",
+      "program",
+      "reports",
+      "status"
+    ],
+    "ts": 1792621392.092338
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/home-bancshares-stock-rises-on-expanded-buyback-program-4964316",
+    "title": "Home BancShares stock rises on expanded buyback program",
+    "tokens": [
+      "bancshares",
+      "buyback",
+      "expanded",
+      "home",
+      "program",
+      "rises",
+      "stock"
+    ],
+    "ts": 1792621399.2374341
+  },
+  {
+    "id": "oilprice-article-45839",
+    "title": "U.S. Energy Red Tape Gives China an Edge",
+    "tokens": [
+      "china",
+      "edge",
+      "energy",
+      "gives",
+      "red",
+      "tape"
+    ],
+    "ts": 1792621407.306893
+  },
+  {
+    "id": "oilprice-article-45835",
+    "title": "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
+    "tokens": [
+      "become",
+      "could",
+      "crisis",
+      "energy",
+      "food",
+      "global",
+      "hormuz",
+      "shock",
+      "warns"
+    ],
+    "ts": 1792621414.3086648
+  },
+  {
+    "id": "oilprice-article-45836",
+    "title": "As BP Leaves the North Sea, These Independents Are Buying In",
+    "tokens": [
+      "buying",
+      "independents",
+      "leaves",
+      "north",
+      "sea",
+      "these"
+    ],
+    "ts": 1792621421.9115932
+  },
+  {
+    "id": "oilprice-news-45839",
+    "title": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
+    "tokens": [
+      "crude",
+      "exports",
+      "falls",
+      "five",
+      "high",
+      "hit",
+      "low",
+      "month",
+      "production",
+      "record",
+      "saudi"
+    ],
+    "ts": 1792621425.9282596
+  },
+  {
+    "id": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins",
+    "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+    "tokens": [
+      "american",
+      "association",
+      "bankers",
+      "congress",
+      "genius",
+      "occ",
+      "rules",
+      "undermine"
+    ],
+    "ts": 1792621428.9870439
+  },
+  {
+    "id": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking",
+    "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+    "tokens": [
+      "backs",
+      "banking",
+      "bolivian",
+      "bringing",
+      "delivery",
+      "fintech",
+      "food",
+      "payments",
+      "tether",
+      "usdt"
+    ],
+    "ts": 1792621435.9382706
+  },
+  {
+    "id": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures",
+    "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+    "tokens": [
+      "crypto",
+      "cybercrime",
+      "didn",
+      "house",
+      "mention",
+      "once",
+      "roundtable",
+      "trump",
+      "white"
+    ],
+    "ts": 1792621442.5208135
   }
 ]

@@ -1,688 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/delta-air-lines-cuts-profit-outlook-as-fuel-costs-outpace-fare-gains-4940704",
-    "title": "Delta Air slashes profit forecast as $6 billion fuel-cost surge outstrips fare gains",
-    "tokens": [
-      "air",
-      "billion",
-      "cost",
-      "delta",
-      "fare",
-      "forecast",
-      "fuel",
-      "gains",
-      "outstrips",
-      "profit",
-      "slashes",
-      "surge"
-    ],
-    "ts": 1791555002.8444514
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
-    "title": "Dollar heads for fourth straight weekly gain as euro slumps on fiscal worries",
-    "tokens": [
-      "dollar",
-      "euro",
-      "fiscal",
-      "fourth",
-      "gain",
-      "heads",
-      "slumps",
-      "straight",
-      "weekly",
-      "worries"
-    ],
-    "ts": 1791555011.247439
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570",
-    "title": "Hurricane Isaias strengthens as US Gulf Coast prepares for landfall",
-    "tokens": [
-      "coast",
-      "gulf",
-      "hurricane",
-      "isaias",
-      "landfall",
-      "prepares",
-      "strengthens"
-    ],
-    "ts": 1791555019.3568046
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/moderna-stock-hits-52week-high-at-21253-93CH-4941329",
-    "title": "Moderna stock hits 52-week high at $212.53",
-    "tokens": [
-      "212",
-      "high",
-      "hits",
-      "moderna",
-      "stock",
-      "week"
-    ],
-    "ts": 1791555028.4392383
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-unitedhealth-stock-rallying-today-93CH-4941328",
-    "title": "Why is UnitedHealth stock rallying today?",
-    "tokens": [
-      "rallying",
-      "stock",
-      "today",
-      "unitedhealth",
-      "why"
-    ],
-    "ts": 1791555032.4553843
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-nextnav-stock-rallying-today-93CH-4941327",
-    "title": "Why is NextNav stock rallying today?",
-    "tokens": [
-      "nextnav",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1791555032.4710844
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/royalty-pharma-to-announce-third-quarter-2026-financial-results-on-november-4-2026-1036612246",
-    "title": "Royalty Pharma to announce third quarter 2026 financial results on November 4, 2026",
-    "tokens": [
-      "2026",
-      "announce",
-      "financial",
-      "november",
-      "pharma",
-      "quarter",
-      "results",
-      "royalty",
-      "third"
-    ],
-    "ts": 1791555037.0012226
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/starry-sea-acquisition-corp-announces-postponement-of-the-extraordinary-general-meeting-in-lieu-of-an-annual-general-meeting-to-october-19-2026-and-extension-of-redemption-request-deadline-1036612245",
-    "title": "STARRY SEA ACQUISITION CORP Announces Postponement of the Extraordinary General Meeting in Lieu of an Annual General Meeting to October 19, 2026 and Extension of Redemption Request Deadline",
-    "tokens": [
-      "2026",
-      "acquisition",
-      "announces",
-      "annual",
-      "corp",
-      "deadline",
-      "extension",
-      "extraordinary",
-      "general",
-      "lieu",
-      "meeting",
-      "october",
-      "postponement",
-      "redemption",
-      "request",
-      "sea",
-      "starry"
-    ],
-    "ts": 1791555045.1858404
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/greenland-mines-president-invited-to-join-global-business-and-policy-leaders-at-2026-arctic-circle-assembly-and-mining-roundtable-1036612239",
-    "title": "Greenland Mines President Invited to Join Global Business and Policy Leaders at 2026 Arctic Circle Assembly and Mining Roundtable",
-    "tokens": [
-      "2026",
-      "arctic",
-      "assembly",
-      "business",
-      "circle",
-      "global",
-      "greenland",
-      "invited",
-      "join",
-      "leaders",
-      "mines",
-      "mining",
-      "policy",
-      "president",
-      "roundtable"
-    ],
-    "ts": 1791555054.9707994
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/core-specialty-affirms-am-best-credit-ratings-of-core-specialty-insurance-holdings-inc-subsidiaries-1036612241",
-    "title": "Core Specialty Affirms AM Best Credit Ratings of Core Specialty Insurance Holdings, Inc. Subsidiaries",
-    "tokens": [
-      "affirms",
-      "best",
-      "core",
-      "credit",
-      "holdings",
-      "inc",
-      "insurance",
-      "ratings",
-      "specialty",
-      "subsidiaries"
-    ],
-    "ts": 1791555064.138624
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/ufunded-launches-spotlight-series-documenting-the-minds-shaping-modern-trading-1036612240",
-    "title": "Ufunded Launches “Spotlight” Series, Documenting the Minds Shaping Modern Trading",
-    "tokens": [
-      "documenting",
-      "launches",
-      "minds",
-      "modern",
-      "series",
-      "shaping",
-      "spotlight",
-      "trading",
-      "ufunded"
-    ],
-    "ts": 1791555071.9364972
-  },
-  {
-    "id": "https://seekingalpha.com/news/4651733-4-stocks-to-watch-on-friday-dal-skyd-xom-and-ibm?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "4 stocks to watch on Friday: DAL, SKYD, XOM, and IBM",
-    "tokens": [
-      "dal",
-      "friday",
-      "ibm",
-      "skyd",
-      "stocks",
-      "watch",
-      "xom"
-    ],
-    "ts": 1791555080.6420603
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/parazero-brings-its-newest-defendair-counter-uas-platforms-at-the-association-of-the-us-army-2026-1036612228",
-    "title": "ParaZero Brings its Newest DefendAir Counter-UAS Platforms at the Association of the US Army 2026",
-    "tokens": [
-      "2026",
-      "army",
-      "association",
-      "brings",
-      "counter",
-      "defendair",
-      "newest",
-      "parazero",
-      "platforms",
-      "uas"
-    ],
-    "ts": 1791555089.2684312
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-encourages-simply-good-foods-company-smpl-investors-to-contact-the-firm-before-the-deadline-on-october-13-2026-for-a-leadership-role-1036612222",
-    "title": "Kaplan Fox Encourages Simply Good Foods Company (SMPL) Investors to Contact the Firm Before the Deadline on October 13, 2026 for a Leadership Role",
-    "tokens": [
-      "2026",
-      "before",
-      "company",
-      "contact",
-      "deadline",
-      "encourages",
-      "firm",
-      "foods",
-      "fox",
-      "good",
-      "investors",
-      "kaplan",
-      "leadership",
-      "october",
-      "role",
-      "simply",
-      "smpl"
-    ],
-    "ts": 1791555097.3476186
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/evolution-metals-technologies-corp-raises-fiscal-2026-revenue-guidance-62-at-midpoint-to-11-million-and-reaffirms-460-million-fiscal-2027-outlook-1036612227",
-    "title": "Evolution Metals & Technologies Corp. Raises Fiscal 2026 Revenue Guidance 62% at Midpoint to 11 Million and Reaffirms 460 Million Fiscal 2027 Outlook",
-    "tokens": [
-      "2026",
-      "2027",
-      "460",
-      "corp",
-      "evolution",
-      "fiscal",
-      "guidance",
-      "metals",
-      "midpoint",
-      "million",
-      "outlook",
-      "raises",
-      "reaffirms",
-      "revenue",
-      "technologies"
-    ],
-    "ts": 1791555106.2121274
-  },
-  {
-    "id": "https://seekingalpha.com/news/4651725-pnc-financial-to-redeem-all-125b-of-fixed-to-floating-rate-senior-notes?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "PNC Financial to redeem all $1.25B of fixed-to-floating-rate senior notes",
-    "tokens": [
-      "25b",
-      "all",
-      "financial",
-      "fixed",
-      "floating",
-      "notes",
-      "pnc",
-      "rate",
-      "redeem",
-      "senior"
-    ],
-    "ts": 1791555114.5649219
-  },
-  {
-    "id": "oilprice-article-45724",
-    "title": "Rubio Warns Ukraine Stalemate Could Turn Into Wider Conflict",
-    "tokens": [
-      "conflict",
-      "could",
-      "rubio",
-      "stalemate",
-      "turn",
-      "ukraine",
-      "warns",
-      "wider"
-    ],
-    "ts": 1791555123.0510428
-  },
-  {
-    "id": "oilprice-news-45724",
-    "title": "Petronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027",
-    "tokens": [
-      "2027",
-      "billion",
-      "dividend",
-      "malaysia",
-      "petronas",
-      "raise"
-    ],
-    "ts": 1791555131.273643
-  },
-  {
-    "id": "oilprice-news-45717",
-    "title": "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low",
-    "tokens": [
-      "100",
-      "above",
-      "brent",
-      "hits",
-      "holds",
-      "hormuz",
-      "low",
-      "month",
-      "tanker",
-      "traffic",
-      "two"
-    ],
-    "ts": 1791555139.8975203
-  },
-  {
-    "id": "4644feb9-2d5d-44bc-b91d-04c94021a384",
-    "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-    "tokens": [
-      "141",
-      "alleged",
-      "bitgo",
-      "breach",
-      "dwf",
-      "labs",
-      "lock",
-      "million",
-      "subsidiaries",
-      "sue",
-      "token"
-    ],
-    "ts": 1791555148.0656836
-  },
-  {
-    "id": "39ffaa1a-584c-45f2-8c5e-0a7ceffe3536",
-    "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
-    "tokens": [
-      "bunker",
-      "developers",
-      "january",
-      "mode",
-      "payments",
-      "quantum",
-      "resistant",
-      "scare",
-      "set",
-      "target",
-      "zcash"
-    ],
-    "ts": 1791555155.939491
-  },
-  {
-    "id": "2555b0d5-5f30-4722-8dca-4945684434a9",
-    "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-    "tokens": [
-      "bears",
-      "bitcoin",
-      "crypto",
-      "face",
-      "gains",
-      "iran",
-      "liquidation",
-      "pledge",
-      "pressure",
-      "trump",
-      "underpins"
-    ],
-    "ts": 1791555164.1884007
-  },
-  {
-    "id": "f2c8c240-7326-4959-905c-b8fb3896c818",
-    "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-    "tokens": [
-      "500",
-      "before",
-      "bitcoin",
-      "iran",
-      "midterms",
-      "near",
-      "rules",
-      "steadies",
-      "strike",
-      "trump"
-    ],
-    "ts": 1791555171.9916716
-  },
-  {
-    "id": "a47b365a-c336-4cc9-a4e4-d1c72b286db0",
-    "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-    "tokens": [
-      "bitcoin",
-      "door",
-      "etfs",
-      "ether",
-      "listed",
-      "locally",
-      "opens",
-      "thailand"
-    ],
-    "ts": 1791555179.3105943
-  },
-  {
-    "id": "27f930f1-35ad-4ef3-9db0-a971ea33020f",
-    "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-    "tokens": [
-      "alleged",
-      "crypto",
-      "exchanges",
-      "links",
-      "russia",
-      "sanctions",
-      "slaps",
-      "three"
-    ],
-    "ts": 1791555187.4150329
-  },
-  {
-    "id": "58f9e056-22e3-4589-adb0-24bf002082e8",
-    "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-    "tokens": [
-      "101",
-      "bitcoin",
-      "dark",
-      "drug",
-      "forfeits",
-      "market",
-      "million",
-      "operator",
-      "sentenced",
-      "web",
-      "years"
-    ],
-    "ts": 1791555194.993685
-  },
-  {
-    "id": "33cdcf0b-beb8-4b7c-a85b-14769bc7ccbb",
-    "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
-    "tokens": [
-      "bitcoin",
-      "digital",
-      "galaxy",
-      "mara",
-      "million",
-      "pivots",
-      "strategy",
-      "transfers"
-    ],
-    "ts": 1791555202.3430178
-  },
-  {
-    "id": "37f097ac-1c35-4838-8e1e-775dce346625",
-    "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-    "tokens": [
-      "altman",
-      "backed",
-      "bain",
-      "bitcoin",
-      "capital",
-      "crypto",
-      "insurer",
-      "led",
-      "meanwhile",
-      "million",
-      "round",
-      "sam",
-      "secures"
-    ],
-    "ts": 1791555210.696544
-  },
-  {
-    "id": "951e9ab3-0f0c-4fbc-acd9-b6d80367fe77",
-    "title": "Live updates: Bitcoin climbs back above $83,000; XRP ETFs only crypto funds with inflows Thursday",
-    "tokens": [
-      "000",
-      "above",
-      "back",
-      "bitcoin",
-      "climbs",
-      "crypto",
-      "etfs",
-      "funds",
-      "inflows",
-      "live",
-      "only",
-      "thursday",
-      "updates",
-      "xrp"
-    ],
-    "ts": 1791555218.3691144
-  },
-  {
-    "id": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures",
-    "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
-    "tokens": [
-      "blockchain",
-      "bunker",
-      "calls",
-      "doomerism",
-      "dragonfly",
-      "measures",
-      "mode",
-      "partner",
-      "proactive",
-      "rejects"
-    ],
-    "ts": 1791555226.5796022
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months",
-    "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
-    "tokens": [
-      "attacks",
-      "bitcoiners",
-      "dangerous",
-      "france",
-      "months",
-      "most",
-      "place",
-      "world"
-    ],
-    "ts": 1791555234.8010201
-  },
-  {
-    "id": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses",
-    "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-    "tokens": [
-      "can",
-      "cashed",
-      "collateral",
-      "crisis",
-      "esma",
-      "evidence",
-      "seeks",
-      "tokenized"
-    ],
-    "ts": 1791555242.482022
-  },
-  {
-    "id": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds",
-    "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
-    "tokens": [
-      "crypto",
-      "exchanges",
-      "funds",
-      "illicit",
-      "russian",
-      "sanctions",
-      "three",
-      "tied"
-    ],
-    "ts": 1791555250.66084
-  },
-  {
-    "id": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget",
-    "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-    "tokens": [
-      "2027",
-      "back",
-      "bill",
-      "budget",
-      "french",
-      "lawmakers",
-      "stablecoin",
-      "swap",
-      "tax"
-    ],
-    "ts": 1791555259.2156258
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation",
-    "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
-    "tokens": [
-      "55k",
-      "bitcoin",
-      "btc",
-      "exchanges",
-      "liquidations",
-      "move",
-      "speculators"
-    ],
-    "ts": 1791555270.1004767
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion",
-    "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
-    "tokens": [
-      "bitcoin",
-      "etfs",
-      "ether",
-      "october",
-      "outflows",
-      "swell",
-      "toward"
-    ],
-    "ts": 1791555278.4219327
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-    "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-    "tokens": [
-      "2025",
-      "american",
-      "board",
-      "condition",
-      "consumer",
-      "detailed",
-      "economic",
-      "families",
-      "federal",
-      "finances",
-      "insights",
-      "policymakers",
-      "provides",
-      "public",
-      "releases",
-      "reserve",
-      "results",
-      "survey",
-      "which"
-    ],
-    "ts": 1791555287.168037
-  },
-  {
-    "id": "WP-MKTW-0005275420",
-    "title": "Elon Musk is now richer than any American ever — and it’s not even close",
-    "tokens": [
-      "american",
-      "any",
-      "close",
-      "elon",
-      "even",
-      "ever",
-      "musk",
-      "now",
-      "richer"
-    ],
-    "ts": 1791574360.3041575
-  },
-  {
-    "id": "WP-MKTW-0005279202",
-    "title": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies",
-    "tokens": [
-      "already",
-      "fuel",
-      "hobbled",
-      "hurricane",
-      "isaias",
-      "markets",
-      "oil",
-      "stress",
-      "supplies",
-      "test",
-      "tight"
-    ],
-    "ts": 1791574368.1771412
-  },
-  {
-    "id": "WP-MKTW-0005277280",
-    "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
-    "tokens": [
-      "check",
-      "day",
-      "etfs",
-      "every",
-      "feel",
-      "like",
-      "loser",
-      "minute",
-      "next",
-      "one",
-      "should",
-      "they",
-      "worried"
-    ],
-    "ts": 1791574376.4783902
-  },
-  {
     "id": "WP-MKTW-0005279509",
     "title": "Microsoft is nearing a big milestone that solidifies its revival",
     "tokens": [
@@ -23914,5 +23231,648 @@
       "yen"
     ],
     "ts": 1792594621.2374356
+  },
+  {
+    "id": "WP-MKTW-0005299141",
+    "title": "Medicare is a bargain. What America can’t afford is private health insurance.",
+    "tokens": [
+      "afford",
+      "america",
+      "bargain",
+      "can",
+      "health",
+      "insurance",
+      "medicare",
+      "private",
+      "what"
+    ],
+    "ts": 1792609644.9594488
+  },
+  {
+    "id": "WP-MKTW-0005299279",
+    "title": "Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day",
+    "tokens": [
+      "before",
+      "bubble",
+      "bursts",
+      "chance",
+      "day",
+      "polymarket",
+      "see",
+      "traders",
+      "year"
+    ],
+    "ts": 1792609653.7052186
+  },
+  {
+    "id": "WP-MKTW-0005297789",
+    "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+    "tokens": [
+      "about",
+      "cancer",
+      "data",
+      "lot",
+      "moderna",
+      "release",
+      "results",
+      "riding",
+      "trial",
+      "vaccine"
+    ],
+    "ts": 1792609662.6227171
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-teledyne-technologies-stock-slipping-today-93CH-4963831",
+    "title": "Why is Teledyne Technologies stock slipping today?",
+    "tokens": [
+      "slipping",
+      "stock",
+      "technologies",
+      "teledyne",
+      "today",
+      "why"
+    ],
+    "ts": 1792609670.3996396
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/ea-to-shutter-bioware-studio-cut-jobs-as-it-narrows-game-slate-4963824",
+    "title": "EA to shutter BioWare studio, cut jobs as it narrows game slate",
+    "tokens": [
+      "bioware",
+      "cut",
+      "game",
+      "jobs",
+      "narrows",
+      "shutter",
+      "slate",
+      "studio"
+    ],
+    "ts": 1792609678.816283
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-gains-as-spacex-super-micro-results-lift-ai-trade-4962357",
+    "title": "Nasdaq climbs over 1% as SpaceX, Super Micro boost AI sentiment",
+    "tokens": [
+      "boost",
+      "climbs",
+      "micro",
+      "nasdaq",
+      "sentiment",
+      "spacex",
+      "super"
+    ],
+    "ts": 1792609686.656567
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cms-energy-corp-stock-hits-52week-low-at-1959-usd-93CH-4963830",
+    "title": "Cms Energy Corp stock hits 52-week low at 19.59 USD",
+    "tokens": [
+      "cms",
+      "corp",
+      "energy",
+      "hits",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1792609694.8253345
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/brightstar-lottery-stock-hits-52week-low-at-927-usd-93CH-4963828",
+    "title": "Brightstar Lottery stock hits 52-week low at 9.27 USD",
+    "tokens": [
+      "brightstar",
+      "hits",
+      "lottery",
+      "low",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1792609703.1962504
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/chevron-stock-hits-alltime-high-at-22728-usd-93CH-4963826",
+    "title": "Chevron stock hits all-time high at 227.28 USD",
+    "tokens": [
+      "227",
+      "all",
+      "chevron",
+      "high",
+      "hits",
+      "stock",
+      "time",
+      "usd"
+    ],
+    "ts": 1792609711.5138316
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/nemak-q3-2026-slides-22-revenue-surge-masks-profit-pressure-93CH-4963823",
+    "title": "Nemak Q3 2026 slides: 22% revenue surge masks profit pressure",
+    "tokens": [
+      "2026",
+      "masks",
+      "nemak",
+      "pressure",
+      "profit",
+      "revenue",
+      "slides",
+      "surge"
+    ],
+    "ts": 1792609719.5271747
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/caci-international-shareholders-elect-board-and-approve-executive-compensation-93CH-4963822",
+    "title": "Caci International shareholders elect board and approve executive compensation",
+    "tokens": [
+      "approve",
+      "board",
+      "caci",
+      "compensation",
+      "elect",
+      "executive",
+      "international",
+      "shareholders"
+    ],
+    "ts": 1792609727.221336
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/crexendo-at-ld-micro-conference-ai-and-growth-drive-outlook-93CH-4963820",
+    "title": "Crexendo at LD Micro conference: AI and growth drive outlook",
+    "tokens": [
+      "conference",
+      "crexendo",
+      "drive",
+      "growth",
+      "micro",
+      "outlook"
+    ],
+    "ts": 1792609734.7217069
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/msc-industrial-direct-stock-hits-alltime-high-at-13371-usd-93CH-4963819",
+    "title": "Msc Industrial Direct stock hits all-time high at 133.71 USD",
+    "tokens": [
+      "133",
+      "all",
+      "direct",
+      "high",
+      "hits",
+      "industrial",
+      "msc",
+      "stock",
+      "time",
+      "usd"
+    ],
+    "ts": 1792609742.3318863
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/teck-receives-highland-valley-copper-operations-strike-notice-1036650450",
+    "title": "Teck Receives Highland Valley Copper Operations Strike Notice",
+    "tokens": [
+      "copper",
+      "highland",
+      "notice",
+      "operations",
+      "receives",
+      "strike",
+      "teck",
+      "valley"
+    ],
+    "ts": 1792609750.6949103
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/crypto-news-remittix-reaches-33-million-raised-as-solana-price-prediction-targets-500-and-cardano-s-new-programming-language-revives-a-1-ada-forecast-1036650449",
+    "title": "Crypto News: Remittix Reaches $33 Million Raised as Solana Price Prediction Targets $500 and Cardano’s New Programming Language Revives a $1 ADA Forecast",
+    "tokens": [
+      "500",
+      "ada",
+      "cardano",
+      "crypto",
+      "forecast",
+      "language",
+      "million",
+      "news",
+      "prediction",
+      "price",
+      "programming",
+      "raised",
+      "reaches",
+      "remittix",
+      "revives",
+      "solana",
+      "targets"
+    ],
+    "ts": 1792609758.9494743
+  },
+  {
+    "id": "https://seekingalpha.com/news/4655415-interest-rates-should-be-raised-as-insurance-against-persistent-inflation-economist?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Interest rates should be raised as insurance against persistent inflation – economist",
+    "tokens": [
+      "against",
+      "economist",
+      "inflation",
+      "insurance",
+      "interest",
+      "persistent",
+      "raised",
+      "rates",
+      "should"
+    ],
+    "ts": 1792609766.6393209
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/currencies/big-pharma-s-obesity-shopping-spree-is-moving-beyond-glp-1s-palatin-may-fit-the-pattern-nasdaq-ptn-1036650448",
+    "title": "Big Pharma's Obesity Shopping Spree Is Moving Beyond GLP-1s. Palatin May Fit the Pattern (NASDAQ: PTN)",
+    "tokens": [
+      "beyond",
+      "big",
+      "fit",
+      "glp",
+      "may",
+      "moving",
+      "nasdaq",
+      "obesity",
+      "palatin",
+      "pattern",
+      "pharma",
+      "ptn",
+      "shopping",
+      "spree"
+    ],
+    "ts": 1792609775.1025202
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/boomer-benefits-releases-guide-to-using-ai-for-medicare-questions-safely-1036650389",
+    "title": "Boomer Benefits Releases Guide to Using AI for Medicare Questions Safely",
+    "tokens": [
+      "benefits",
+      "boomer",
+      "guide",
+      "medicare",
+      "questions",
+      "releases",
+      "safely",
+      "using"
+    ],
+    "ts": 1792609783.1086721
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rendever-introduces-nova-an-ai-life-enrichment-assistant-to-communityos-1036650390",
+    "title": "Rendever Introduces Nova, an AI Life Enrichment Assistant, to CommunityOS",
+    "tokens": [
+      "assistant",
+      "communityos",
+      "enrichment",
+      "introduces",
+      "life",
+      "nova",
+      "rendever"
+    ],
+    "ts": 1792609790.660453
+  },
+  {
+    "id": "https://seekingalpha.com/news/4655410-carpenter-technology-q1-2027-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Carpenter Technology Q1 2027 Earnings Preview",
+    "tokens": [
+      "2027",
+      "carpenter",
+      "earnings",
+      "preview",
+      "technology"
+    ],
+    "ts": 1792609799.2887745
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-pferdewetten-de-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036650388",
+    "title": "EQS-PVR: pferdewetten.de AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "tokens": [
+      "according",
+      "act",
+      "article",
+      "distribution",
+      "eqs",
+      "europe",
+      "german",
+      "objective",
+      "pferdewetten",
+      "pvr",
+      "release",
+      "section",
+      "securities",
+      "trading",
+      "wide",
+      "wphg"
+    ],
+    "ts": 1792609807.0834873
+  },
+  {
+    "id": "https://seekingalpha.com/news/4655409-ryder-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Ryder Q3 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "earnings",
+      "preview",
+      "ryder"
+    ],
+    "ts": 1792609811.0987914
+  },
+  {
+    "id": "https://seekingalpha.com/news/4655408-quest-diagnostics-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Quest Diagnostics Q3 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "diagnostics",
+      "earnings",
+      "preview",
+      "quest"
+    ],
+    "ts": 1792609814.374299
+  },
+  {
+    "id": "oilprice-article-45838",
+    "title": "Russia’s Northern Sea Route Workaround Supplying Asian Buyers",
+    "tokens": [
+      "asian",
+      "buyers",
+      "northern",
+      "route",
+      "russia",
+      "sea",
+      "supplying",
+      "workaround"
+    ],
+    "ts": 1792609822.2766016
+  },
+  {
+    "id": "oilprice-article-45832",
+    "title": "Washington’s Central Asia Charm Offensive Yields $12 Billion in Deals",
+    "tokens": [
+      "asia",
+      "billion",
+      "central",
+      "charm",
+      "deals",
+      "offensive",
+      "washington",
+      "yields"
+    ],
+    "ts": 1792609829.5028455
+  },
+  {
+    "id": "oilprice-news-45838",
+    "title": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
+    "tokens": [
+      "crude",
+      "exports",
+      "falls",
+      "five",
+      "high",
+      "hit",
+      "low",
+      "month",
+      "production",
+      "record",
+      "saudi"
+    ],
+    "ts": 1792609837.6424537
+  },
+  {
+    "id": "oilprice-article-45834",
+    "title": "Why Are Rare Earth Stocks Falling When Prices Keep Rising?",
+    "tokens": [
+      "earth",
+      "falling",
+      "keep",
+      "prices",
+      "rare",
+      "rising",
+      "stocks",
+      "when",
+      "why"
+    ],
+    "ts": 1792609845.3712368
+  },
+  {
+    "id": "oilprice-article-45833",
+    "title": "UK Greenlights Major North Sea Gas Field After Years of Legal Battles",
+    "tokens": [
+      "battles",
+      "field",
+      "gas",
+      "greenlights",
+      "legal",
+      "major",
+      "north",
+      "sea",
+      "years"
+    ],
+    "ts": 1792609853.0528789
+  },
+  {
+    "id": "oilprice-news-45834",
+    "title": "India’s Top State Refiner to Reduce Middle East Term Oil Purchases",
+    "tokens": [
+      "east",
+      "india",
+      "middle",
+      "oil",
+      "purchases",
+      "reduce",
+      "refiner",
+      "state",
+      "term",
+      "top"
+    ],
+    "ts": 1792609860.6750178
+  },
+  {
+    "id": "oilprice-news-45833",
+    "title": "Higher Oil Availability Pressures Middle East Crude Benchmarks",
+    "tokens": [
+      "availability",
+      "benchmarks",
+      "crude",
+      "east",
+      "higher",
+      "middle",
+      "oil",
+      "pressures"
+    ],
+    "ts": 1792609864.6910028
+  },
+  {
+    "id": "1f4749ee-8df5-4c6f-b5eb-0c42b70ee943",
+    "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
+    "tokens": [
+      "abuses",
+      "crypto",
+      "event",
+      "house",
+      "overseas",
+      "spotlight",
+      "throw",
+      "trump",
+      "white"
+    ],
+    "ts": 1792609868.68246
+  },
+  {
+    "id": "ab93d7bd-c62a-439b-bf32-13f24cf88aef",
+    "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+    "tokens": [
+      "a16z",
+      "backed",
+      "blockchain",
+      "data",
+      "deal",
+      "how",
+      "million",
+      "rethinking",
+      "strategy",
+      "sui"
+    ],
+    "ts": 1792609876.1494045
+  },
+  {
+    "id": "219ae876-1e47-4502-ab89-2ab5237a14d5",
+    "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
+    "tokens": [
+      "big",
+      "broker",
+      "bybit",
+      "look",
+      "partnerships",
+      "robinhood",
+      "take"
+    ],
+    "ts": 1792609883.5428872
+  },
+  {
+    "id": "14935b4e-306e-4d60-826c-b2ee65fc1a20",
+    "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+    "tokens": [
+      "assets",
+      "crypto",
+      "fixed",
+      "loans",
+      "long",
+      "need",
+      "onchain",
+      "rate",
+      "real",
+      "short",
+      "why",
+      "world"
+    ],
+    "ts": 1792609890.6894372
+  },
+  {
+    "id": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
+    "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+    "tokens": [
+      "against",
+      "cardano",
+      "defi",
+      "expanding",
+      "foundation",
+      "mica",
+      "rules",
+      "staking",
+      "urges"
+    ],
+    "ts": 1792609898.4102452
+  },
+  {
+    "id": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws",
+    "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+    "tokens": [
+      "consultations",
+      "crypto",
+      "defi",
+      "financial",
+      "guidance",
+      "laws",
+      "opens",
+      "watchdog"
+    ],
+    "ts": 1792609906.153192
+  },
+  {
+    "id": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent",
+    "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+    "tokens": [
+      "act",
+      "banking",
+      "bessent",
+      "era",
+      "genius",
+      "likens",
+      "lincoln",
+      "reform",
+      "secretary",
+      "treasury"
+    ],
+    "ts": 1792609913.6903691
+  },
+  {
+    "id": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules",
+    "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+    "tokens": [
+      "blockchain",
+      "cardano",
+      "chainlink",
+      "clearer",
+      "crypto",
+      "groups",
+      "other",
+      "push",
+      "rules",
+      "sec"
+    ],
+    "ts": 1792609921.1996703
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat",
+    "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+    "tokens": [
+      "beat",
+      "bitcoin",
+      "earnings",
+      "head",
+      "higher",
+      "price",
+      "spacex",
+      "stocks",
+      "tags"
+    ],
+    "ts": 1792609929.273901
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+    "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+    "tokens": [
+      "2025",
+      "american",
+      "board",
+      "condition",
+      "consumer",
+      "detailed",
+      "economic",
+      "families",
+      "federal",
+      "finances",
+      "insights",
+      "policymakers",
+      "provides",
+      "public",
+      "releases",
+      "reserve",
+      "results",
+      "survey",
+      "which"
+    ],
+    "ts": 1792609937.2736409
   }
 ]

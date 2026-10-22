@@ -1,242 +1,5 @@
 [
   {
-    "id": "oilprice-article-45737",
-    "title": "U.S. Oil Drilling Continues to Inch Upward",
-    "tokens": [
-      "continues",
-      "drilling",
-      "inch",
-      "oil",
-      "upward"
-    ],
-    "ts": 1791574545.8777745
-  },
-  {
-    "id": "oilprice-article-45729",
-    "title": "States Bet on Virtual Power Plants to Cut Grid Costs",
-    "tokens": [
-      "bet",
-      "costs",
-      "cut",
-      "grid",
-      "plants",
-      "power",
-      "states",
-      "virtual"
-    ],
-    "ts": 1791574554.0623348
-  },
-  {
-    "id": "oilprice-article-45736",
-    "title": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
-    "tokens": [
-      "hold",
-      "hurricane",
-      "iran",
-      "oil",
-      "puts",
-      "strikes",
-      "supply",
-      "threatens",
-      "trump"
-    ],
-    "ts": 1791574561.74192
-  },
-  {
-    "id": "oilprice-article-45725",
-    "title": "Pashinyan’s Nuclear U-Turn Gives Moscow an Opening in Armenia",
-    "tokens": [
-      "armenia",
-      "gives",
-      "moscow",
-      "nuclear",
-      "opening",
-      "pashinyan",
-      "turn"
-    ],
-    "ts": 1791574569.7998254
-  },
-  {
-    "id": "oilprice-article-45735",
-    "title": "Can Lasers Beat Drone Swarms? The Pentagon Is About to Find Out",
-    "tokens": [
-      "about",
-      "beat",
-      "can",
-      "drone",
-      "find",
-      "lasers",
-      "pentagon",
-      "swarms"
-    ],
-    "ts": 1791574577.1554298
-  },
-  {
-    "id": "oilprice-news-45737",
-    "title": "Canada’s New Oil Pipeline Challenged by Cold Lake First Nations",
-    "tokens": [
-      "canada",
-      "challenged",
-      "cold",
-      "first",
-      "lake",
-      "nations",
-      "oil",
-      "pipeline"
-    ],
-    "ts": 1791574584.8264813
-  },
-  {
-    "id": "oilprice-news-45736",
-    "title": "Petronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027",
-    "tokens": [
-      "2027",
-      "billion",
-      "dividend",
-      "malaysia",
-      "petronas",
-      "raise"
-    ],
-    "ts": 1791574588.8398886
-  },
-  {
-    "id": "oilprice-news-45735",
-    "title": "Crude Oil is Underpriced, Energy Aspects Says",
-    "tokens": [
-      "aspects",
-      "crude",
-      "energy",
-      "oil",
-      "underpriced"
-    ],
-    "ts": 1791574591.8707461
-  },
-  {
-    "id": "oilprice-news-45729",
-    "title": "Asian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million",
-    "tokens": [
-      "asian",
-      "ditch",
-      "hit",
-      "million",
-      "oil",
-      "rates",
-      "refiners",
-      "supertanker"
-    ],
-    "ts": 1791574599.3527653
-  },
-  {
-    "id": "b239c4b1-3977-410f-8a9a-c590bfdb446f",
-    "title": "Robinhood Chain considers technology that gives paying traders priority",
-    "tokens": [
-      "chain",
-      "considers",
-      "gives",
-      "paying",
-      "priority",
-      "robinhood",
-      "technology",
-      "traders"
-    ],
-    "ts": 1791574607.8149166
-  },
-  {
-    "id": "bfb82842-fb65-4bbb-972a-6bffb9aa1d9a",
-    "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-    "tokens": [
-      "alex",
-      "ban",
-      "celsius",
-      "crypto",
-      "lifetime",
-      "mashinsky",
-      "million",
-      "secures",
-      "york"
-    ],
-    "ts": 1791574615.047835
-  },
-  {
-    "id": "a789ac80-84ae-4f33-a5ad-558a40deaad3",
-    "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-    "tokens": [
-      "crypto",
-      "investigates",
-      "ledger",
-      "million",
-      "potential",
-      "reports",
-      "stolen",
-      "tampering",
-      "wallet"
-    ],
-    "ts": 1791574622.0144424
-  },
-  {
-    "id": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses",
-    "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-    "tokens": [
-      "accuses",
-      "exec",
-      "freezing",
-      "temporarily",
-      "tether",
-      "thorchain",
-      "usdt",
-      "vaults"
-    ],
-    "ts": 1791574629.5963702
-  },
-  {
-    "id": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits",
-    "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
-    "tokens": [
-      "agent",
-      "ant",
-      "deposits",
-      "digital",
-      "hsbc",
-      "payments",
-      "test",
-      "tokenized",
-      "using"
-    ],
-    "ts": 1791574637.3737547
-  },
-  {
-    "id": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users",
-    "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
-    "tokens": [
-      "asian",
-      "fund",
-      "investigates",
-      "ledger",
-      "linked",
-      "losses",
-      "reseller",
-      "southeast",
-      "users",
-      "warns"
-    ],
-    "ts": 1791574644.756026
-  },
-  {
-    "id": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets",
-    "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-    "tokens": [
-      "approval",
-      "blockchain",
-      "cftc",
-      "cnbc",
-      "com",
-      "markets",
-      "prediction",
-      "pursues"
-    ],
-    "ts": 1791574651.7005641
-  },
-  {
     "id": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks",
     "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
     "tokens": [
@@ -23843,5 +23606,251 @@
       "white"
     ],
     "ts": 1792621442.5208135
+  },
+  {
+    "id": "WP-MKTW-0005300463",
+    "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+    "tokens": [
+      "elon",
+      "falls",
+      "investors",
+      "leaves",
+      "more",
+      "musk",
+      "stock",
+      "tesla",
+      "wanting"
+    ],
+    "ts": 1792630096.6741345
+  },
+  {
+    "id": "WP-MKTW-0005300399",
+    "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+    "tokens": [
+      "business",
+      "could",
+      "dwarf",
+      "glimpse",
+      "investors",
+      "meta",
+      "opportunity",
+      "rises",
+      "stock"
+    ],
+    "ts": 1792630106.2518756
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/exclusiveus-preparing-to-issue-ordered-departure-of-some-personnel-from-gulf-embassies--us-officials-4963834",
+    "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+    "tokens": [
+      "arabia",
+      "depart",
+      "diplomats",
+      "houthi",
+      "orders",
+      "saudi",
+      "strikes"
+    ],
+    "ts": 1792630112.944342
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/cyber-agency-warns-websites-may-go-dark-as-php-prepares-critical-fix-4961963",
+    "title": "Government websites go dark after AI-discovered flaw sparks security scramble",
+    "tokens": [
+      "dark",
+      "discovered",
+      "flaw",
+      "government",
+      "scramble",
+      "security",
+      "sparks",
+      "websites"
+    ],
+    "ts": 1792630120.207098
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/starlink-access-in-ukraine-a-decision-for-musk-not-white-house-rubio-says-4961821",
+    "title": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says",
+    "tokens": [
+      "access",
+      "decision",
+      "house",
+      "musk",
+      "rubio",
+      "starlink",
+      "ukraine",
+      "white"
+    ],
+    "ts": 1792630128.1869166
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/cvb-financial-earnings-beat-by-003-revenue-topped-estimates-4964450",
+    "title": "CVB Financial earnings beat by $0.03, revenue topped estimates",
+    "tokens": [
+      "beat",
+      "cvb",
+      "earnings",
+      "estimates",
+      "financial",
+      "revenue",
+      "topped"
+    ],
+    "ts": 1792630135.3778486
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/great-southern-bancorp-earnings-missed-by-012-revenue-fell-short-of-estimates-4964449",
+    "title": "Great Southern Bancorp earnings missed by $0.12, revenue fell short of estimates",
+    "tokens": [
+      "bancorp",
+      "earnings",
+      "estimates",
+      "fell",
+      "great",
+      "missed",
+      "revenue",
+      "short",
+      "southern"
+    ],
+    "ts": 1792630142.1491394
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/chineselinked-hackers-compromise-connectwise-target-hundreds-in-global-attack-microsoft-says-4964230",
+    "title": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says",
+    "tokens": [
+      "attack",
+      "chinese",
+      "compromise",
+      "connectwise",
+      "global",
+      "hackers",
+      "hundreds",
+      "linked",
+      "microsoft",
+      "target"
+    ],
+    "ts": 1792630149.0363946
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australias-santos-trims-2026-output-forecast-on-alaska-oilfield-delays-4964437",
+    "title": "Australia’s Santos cuts 2026 volume forecast as Pikka disruptions offset strong quarter",
+    "tokens": [
+      "2026",
+      "australia",
+      "cuts",
+      "disruptions",
+      "forecast",
+      "offset",
+      "pikka",
+      "quarter",
+      "santos",
+      "strong",
+      "volume"
+    ],
+    "ts": 1792630158.1397572
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/fda-accepts-unicycive-resubmission-for-kidney-drug-application-93CH-4964447",
+    "title": "FDA accepts Unicycive resubmission for kidney drug application",
+    "tokens": [
+      "accepts",
+      "application",
+      "drug",
+      "fda",
+      "kidney",
+      "resubmission",
+      "unicycive"
+    ],
+    "ts": 1792630165.0074244
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/nanalysis-scientific-at-ld-micro-event-growth-debt-cut-and-scale-93CH-4964446",
+    "title": "Nanalysis Scientific at ld micro event: growth, debt cut and scale",
+    "tokens": [
+      "cut",
+      "debt",
+      "event",
+      "growth",
+      "micro",
+      "nanalysis",
+      "scale",
+      "scientific"
+    ],
+    "ts": 1792630171.9688215
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/us-agriculture-dept-confirms-first-detection-of-new-world-screwworm-in-us-wildlife-4964342",
+    "title": "New World screwworm cases confirmed in cow in New Mexico, wildlife in Texas, officials say",
+    "tokens": [
+      "cases",
+      "confirmed",
+      "cow",
+      "mexico",
+      "officials",
+      "say",
+      "screwworm",
+      "texas",
+      "wildlife",
+      "world"
+    ],
+    "ts": 1792630179.2751915
+  },
+  {
+    "id": "oilprice-article-45841",
+    "title": "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
+    "tokens": [
+      "aluminium",
+      "copper",
+      "elevated",
+      "gives",
+      "premium",
+      "stays",
+      "war"
+    ],
+    "ts": 1792630187.4304035
+  },
+  {
+    "id": "oilprice-article-45840",
+    "title": "Big Oil Eyes Record Profits but Keeps Spending in Check",
+    "tokens": [
+      "big",
+      "check",
+      "eyes",
+      "keeps",
+      "oil",
+      "profits",
+      "record",
+      "spending"
+    ],
+    "ts": 1792630194.8690186
+  },
+  {
+    "id": "oilprice-news-45841",
+    "title": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
+    "tokens": [
+      "crude",
+      "exports",
+      "falls",
+      "five",
+      "high",
+      "hit",
+      "low",
+      "month",
+      "production",
+      "record",
+      "saudi"
+    ],
+    "ts": 1792630198.8811173
+  },
+  {
+    "id": "oilprice-news-45840",
+    "title": "GM to Add Hybrids as U.S. Gasoline Holds Above $4",
+    "tokens": [
+      "above",
+      "add",
+      "gasoline",
+      "holds",
+      "hybrids"
+    ],
+    "ts": 1792630201.9383838
   }
 ]

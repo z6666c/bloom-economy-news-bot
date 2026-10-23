@@ -1,294 +1,5 @@
 [
   {
-    "id": "oilprice-news-45750",
-    "title": "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
-    "tokens": [
-      "black",
-      "costs",
-      "insurance",
-      "million",
-      "oil",
-      "sea",
-      "shipping",
-      "surge"
-    ],
-    "ts": 1791854666.5853517
-  },
-  {
-    "id": "oilprice-news-45751",
-    "title": "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound",
-    "tokens": [
-      "attacks",
-      "demand",
-      "jump",
-      "oil",
-      "opec",
-      "prices",
-      "rebound",
-      "saudi",
-      "sees"
-    ],
-    "ts": 1791854666.6002612
-  },
-  {
-    "id": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks",
-    "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
-    "tokens": [
-      "aptos",
-      "attacks",
-      "curb",
-      "encrypted",
-      "frontrunning",
-      "mempool",
-      "rolls",
-      "sandwich"
-    ],
-    "ts": 1791854670.3421154
-  },
-  {
-    "id": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center",
-    "title": "FTX’s crypto mining venture is now used to advance AI",
-    "tokens": [
-      "advance",
-      "crypto",
-      "ftx",
-      "mining",
-      "now",
-      "used",
-      "venture"
-    ],
-    "ts": 1791854677.2213154
-  },
-  {
-    "id": "WP-MKTW-0005281938",
-    "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
-    "tokens": [
-      "economy",
-      "fits",
-      "global",
-      "here",
-      "look",
-      "losers",
-      "shaped",
-      "starting",
-      "where",
-      "winners"
-    ],
-    "ts": 1791878895.0398912
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/bank-earnings-loom-large-lvmh-sales-underwhelm--whats-moving-markets-4945702",
-    "title": "Bank earnings loom large; LVMH sales underwhelm - what’s moving markets",
-    "tokens": [
-      "bank",
-      "earnings",
-      "large",
-      "loom",
-      "lvmh",
-      "markets",
-      "moving",
-      "sales",
-      "underwhelm",
-      "what"
-    ],
-    "ts": 1791878903.6635854
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-arch-capital-stock-rating-on-soft-market-outlook-93CH-4945700",
-    "title": "Morgan Stanley cuts Arch Capital stock rating on soft market outlook",
-    "tokens": [
-      "arch",
-      "capital",
-      "cuts",
-      "market",
-      "morgan",
-      "outlook",
-      "rating",
-      "soft",
-      "stanley",
-      "stock"
-    ],
-    "ts": 1791878911.9900112
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-orion180-insurance-stock-with-buy-rating-93CH-4945701",
-    "title": "Goldman Sachs initiates Orion180 Insurance stock with buy rating",
-    "tokens": [
-      "buy",
-      "goldman",
-      "initiates",
-      "insurance",
-      "orion180",
-      "rating",
-      "sachs",
-      "stock"
-    ],
-    "ts": 1791878919.981202
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-initiates-ascentage-pharma-stock-with-outperform-rating-93CH-4945699",
-    "title": "Citizens initiates Ascentage Pharma stock with outperform rating",
-    "tokens": [
-      "ascentage",
-      "citizens",
-      "initiates",
-      "outperform",
-      "pharma",
-      "rating",
-      "stock"
-    ],
-    "ts": 1791878928.1262758
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-initiates-orion180-insurance-stock-with-outperform-rating-93CH-4945697",
-    "title": "Citizens initiates Orion180 Insurance stock with outperform rating",
-    "tokens": [
-      "citizens",
-      "initiates",
-      "insurance",
-      "orion180",
-      "outperform",
-      "rating",
-      "stock"
-    ],
-    "ts": 1791878935.389862
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-publicis-groupe-stock-gaining-today-93CH-4945698",
-    "title": "Why is Publicis Groupe stock gaining today?",
-    "tokens": [
-      "gaining",
-      "groupe",
-      "publicis",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1791878943.2726731
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-poste-italiane-stock-climbing-today-93CH-4945696",
-    "title": "Why is Poste Italiane stock climbing today?",
-    "tokens": [
-      "climbing",
-      "italiane",
-      "poste",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1791878951.0957406
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-plus500-stock-rallying-today-93CH-4945695",
-    "title": "Why is Plus500 stock rallying today?",
-    "tokens": [
-      "plus500",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1791878955.1057637
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-givaudan-stock-surging-today-93CH-4945694",
-    "title": "Why is Givaudan stock surging today?",
-    "tokens": [
-      "givaudan",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1791878959.4035044
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/growing-debt-burden-poses-significant-risk-to-developing-nations-g24-chair-says-4945692",
-    "title": "Growing debt burden poses significant risk to developing nations, G24 chair says",
-    "tokens": [
-      "burden",
-      "chair",
-      "debt",
-      "developing",
-      "g24",
-      "growing",
-      "nations",
-      "poses",
-      "risk",
-      "significant"
-    ],
-    "ts": 1791878967.0320363
-  },
-  {
-    "id": "oilprice-news-45748",
-    "title": "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
-    "tokens": [
-      "black",
-      "costs",
-      "insurance",
-      "million",
-      "oil",
-      "sea",
-      "shipping",
-      "surge"
-    ],
-    "ts": 1791878974.026603
-  },
-  {
-    "id": "d7c27275-c490-407c-8891-2f101e41ef71",
-    "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
-    "tokens": [
-      "2020",
-      "378",
-      "bitcoin",
-      "crash",
-      "march",
-      "million",
-      "moves",
-      "sat",
-      "through",
-      "whale"
-    ],
-    "ts": 1791878978.3586676
-  },
-  {
-    "id": "d97b3df6-d973-4290-894b-1d855243ef9e",
-    "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
-    "tokens": [
-      "800",
-      "asia",
-      "bets",
-      "chip",
-      "liquidations",
-      "million",
-      "more",
-      "rout",
-      "sandisk",
-      "saw",
-      "tokenized",
-      "wipes",
-      "xrp"
-    ],
-    "ts": 1791878986.1940343
-  },
-  {
-    "id": "2e26fc78-749a-4054-827b-2b2e2a6b29a7",
-    "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
-    "tokens": [
-      "blur",
-      "collapse",
-      "ethereum",
-      "largest",
-      "marketplace",
-      "nft",
-      "once",
-      "shutting",
-      "volumes"
-    ],
-    "ts": 1791878994.6610684
-  },
-  {
     "id": "24eb6f9b-4621-4365-8d12-918a112163c9",
     "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
     "tokens": [
@@ -23773,5 +23484,317 @@
       "trump"
     ],
     "ts": 1792786101.8490548
+  },
+  {
+    "id": "WP-MKTW-0005304816",
+    "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+    "tokens": [
+      "anthropic",
+      "file",
+      "ipo",
+      "key",
+      "november",
+      "off",
+      "paperwork",
+      "pull",
+      "running",
+      "time"
+    ],
+    "ts": 1792796927.4700494
+  },
+  {
+    "id": "WP-MKTW-0005305687",
+    "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+    "tokens": [
+      "didn",
+      "etf",
+      "investors",
+      "last",
+      "leveraged",
+      "piled",
+      "record",
+      "semiconductor",
+      "sum",
+      "things",
+      "week",
+      "work"
+    ],
+    "ts": 1792796935.2052581
+  },
+  {
+    "id": "WP-MKTW-0005305118",
+    "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+    "tokens": [
+      "back",
+      "canadian",
+      "collins",
+      "got",
+      "him",
+      "just",
+      "levies",
+      "maine",
+      "opposing",
+      "republicans",
+      "some",
+      "susan",
+      "tariffs",
+      "trump"
+    ],
+    "ts": 1792796942.5921216
+  },
+  {
+    "id": "WP-MKTW-0005302688",
+    "title": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
+    "tokens": [
+      "americans",
+      "aren",
+      "economy",
+      "good",
+      "great",
+      "measure",
+      "sour",
+      "times",
+      "why"
+    ],
+    "ts": 1792796949.8770716
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/picard-medical-exchanges-warrants-for-200000-shares-of-common-stock-93CH-4970503",
+    "title": "Picard Medical exchanges warrants for 200,000 shares of common stock",
+    "tokens": [
+      "000",
+      "200",
+      "common",
+      "exchanges",
+      "medical",
+      "picard",
+      "shares",
+      "stock",
+      "warrants"
+    ],
+    "ts": 1792796956.7388973
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/acadia-pharmaceuticals-announces-retirement-of-rd-head-names-interim-consultant-93CH-4970500",
+    "title": "Acadia Pharmaceuticals announces retirement of R&D head, names interim consultant",
+    "tokens": [
+      "acadia",
+      "announces",
+      "consultant",
+      "head",
+      "interim",
+      "names",
+      "pharmaceuticals",
+      "retirement"
+    ],
+    "ts": 1792796963.8026927
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/arc-group-securities-acquisition-i-receives-nasdaq-notice-on-warrant-listing-93CH-4970499",
+    "title": "Arc Group Securities Acquisition I receives Nasdaq notice on warrant listing",
+    "tokens": [
+      "acquisition",
+      "arc",
+      "group",
+      "listing",
+      "nasdaq",
+      "notice",
+      "receives",
+      "securities",
+      "warrant"
+    ],
+    "ts": 1792796970.6473377
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/jetblue-creditors-working-with-restructuring-adviser-pjt-partners-wsj-reports-4970498",
+    "title": "JetBlue creditors working with restructuring adviser PJT Partners, WSJ reports",
+    "tokens": [
+      "adviser",
+      "creditors",
+      "jetblue",
+      "partners",
+      "pjt",
+      "reports",
+      "restructuring",
+      "working",
+      "wsj"
+    ],
+    "ts": 1792796977.767523
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/spacexs-40bn-ai-debt-deal-faces-hurdles-amid-credit-market-turmoil--bloomberg-4970497",
+    "title": "SpaceX’s $40bn AI debt deal faces hurdles amid credit market turmoil - Bloomberg",
+    "tokens": [
+      "40bn",
+      "bloomberg",
+      "credit",
+      "deal",
+      "debt",
+      "faces",
+      "hurdles",
+      "market",
+      "spacex",
+      "turmoil"
+    ],
+    "ts": 1792796985.2498217
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/graphano-energy-amends-private-placement-to-add-flowthrough-shares-93CH-4970496",
+    "title": "Graphano Energy amends private placement to add flow-through shares",
+    "tokens": [
+      "add",
+      "amends",
+      "energy",
+      "flow",
+      "graphano",
+      "placement",
+      "private",
+      "shares",
+      "through"
+    ],
+    "ts": 1792796992.675821
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/ardent-health-reclassifies-former-ceos-exit-as-termination-for-cause-93CH-4970495",
+    "title": "Ardent Health reclassifies former CEO’s exit as termination for cause",
+    "tokens": [
+      "ardent",
+      "cause",
+      "ceo",
+      "exit",
+      "former",
+      "health",
+      "reclassifies",
+      "termination"
+    ],
+    "ts": 1792796999.349585
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/allegiant-travel-exercises-boeing-aircraft-options-and-signs-new-executive-contracts-93CH-4970493",
+    "title": "Allegiant Travel exercises Boeing aircraft options and signs new executive contracts",
+    "tokens": [
+      "aircraft",
+      "allegiant",
+      "boeing",
+      "contracts",
+      "executive",
+      "exercises",
+      "options",
+      "signs",
+      "travel"
+    ],
+    "ts": 1792797007.005986
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/belpointe-prep-receives-early-repayment-on-5-million-loan-terminates-agreement-93CH-4970492",
+    "title": "Belpointe PREP receives early repayment on $5 million loan, terminates agreement",
+    "tokens": [
+      "agreement",
+      "belpointe",
+      "early",
+      "loan",
+      "million",
+      "prep",
+      "receives",
+      "repayment",
+      "terminates"
+    ],
+    "ts": 1792797014.5250854
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/bank-of-america-issues-series-ww-preferred-stock-and-related-depositary-shares-93CH-4970491",
+    "title": "Bank of America issues Series WW preferred stock and related depositary shares",
+    "tokens": [
+      "america",
+      "bank",
+      "depositary",
+      "issues",
+      "preferred",
+      "related",
+      "series",
+      "shares",
+      "stock"
+    ],
+    "ts": 1792797021.2576978
+  },
+  {
+    "id": "oilprice-article-45866",
+    "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
+    "tokens": [
+      "bring",
+      "china",
+      "nixon",
+      "reverse",
+      "russia",
+      "shut",
+      "strategy",
+      "trump"
+    ],
+    "ts": 1792797028.8112833
+  },
+  {
+    "id": "oilprice-article-45865",
+    "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
+    "tokens": [
+      "carney",
+      "energy",
+      "haven",
+      "tariff",
+      "their",
+      "touched",
+      "trump",
+      "war",
+      "why"
+    ],
+    "ts": 1792797037.342513
+  },
+  {
+    "id": "oilprice-news-45866",
+    "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
+    "tokens": [
+      "basin",
+      "gas",
+      "india",
+      "natural",
+      "offshore",
+      "oil",
+      "shallow",
+      "strikes"
+    ],
+    "ts": 1792797041.355308
+  },
+  {
+    "id": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
+    "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+    "tokens": [
+      "fargo",
+      "five",
+      "ice",
+      "listings",
+      "object",
+      "okx",
+      "others",
+      "report",
+      "stock",
+      "tokenized",
+      "wells"
+    ],
+    "ts": 1792797045.1119354
+  },
+  {
+    "id": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports",
+    "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+    "tokens": [
+      "crypto",
+      "disclosure",
+      "forbes",
+      "including",
+      "irs",
+      "lower",
+      "penalties",
+      "plans",
+      "tax"
+    ],
+    "ts": 1792797052.3981428
   }
 ]

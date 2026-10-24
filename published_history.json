@@ -1,218 +1,5 @@
 [
   {
-    "id": "24eb6f9b-4621-4365-8d12-918a112163c9",
-    "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
-    "tokens": [
-      "000",
-      "above",
-      "bitcoin",
-      "decouples",
-      "futures",
-      "korean",
-      "nasdaq",
-      "rebounds",
-      "stocks",
-      "tumbling"
-    ],
-    "ts": 1791879002.5592496
-  },
-  {
-    "id": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering",
-    "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
-    "tokens": [
-      "blur",
-      "cheering",
-      "collectors",
-      "nft",
-      "shutting",
-      "website",
-      "why"
-    ],
-    "ts": 1791879010.8183956
-  },
-  {
-    "id": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november",
-    "title": "Binance to shut down crypto mining pool services in November",
-    "tokens": [
-      "binance",
-      "crypto",
-      "mining",
-      "november",
-      "pool",
-      "services",
-      "shut"
-    ],
-    "ts": 1791879018.9096305
-  },
-  {
-    "id": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc",
-    "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
-    "tokens": [
-      "block",
-      "crypto",
-      "including",
-      "korea",
-      "kucoin",
-      "mexc",
-      "moves",
-      "south",
-      "websites"
-    ],
-    "ts": 1791879027.297593
-  },
-  {
-    "id": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals",
-    "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
-    "tokens": [
-      "anthropic",
-      "claims",
-      "meta",
-      "models",
-      "muse",
-      "openai",
-      "rival",
-      "wonder"
-    ],
-    "ts": 1791879031.307175
-  },
-  {
-    "id": "WP-MKTW-0005284365",
-    "title": "‘Pharma Bro’ Martin Shkreli is in trouble with regulators again, this time for influencing biopharma stocks",
-    "tokens": [
-      "again",
-      "biopharma",
-      "bro",
-      "influencing",
-      "martin",
-      "pharma",
-      "regulators",
-      "shkreli",
-      "stocks",
-      "time",
-      "trouble"
-    ],
-    "ts": 1791907148.660138
-  },
-  {
-    "id": "WP-MKTW-0005283692",
-    "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-    "tokens": [
-      "000",
-      "afford",
-      "can",
-      "italy",
-      "keep",
-      "million",
-      "retire",
-      "she",
-      "take",
-      "trip",
-      "wants",
-      "wife",
-      "working",
-      "yet"
-    ],
-    "ts": 1791907157.9033535
-  },
-  {
-    "id": "WP-MKTW-0005284308",
-    "title": "Who should pay for a birthday dinner? I always treat my guests.",
-    "tokens": [
-      "always",
-      "birthday",
-      "dinner",
-      "guests",
-      "pay",
-      "should",
-      "treat",
-      "who"
-    ],
-    "ts": 1791907165.157516
-  },
-  {
-    "id": "WP-MKTW-0005284302",
-    "title": "Hedge-fund legend Paul Tudor Jones says the stock market faces a really challenging 2027. Here’s why.",
-    "tokens": [
-      "2027",
-      "challenging",
-      "faces",
-      "fund",
-      "hedge",
-      "here",
-      "jones",
-      "legend",
-      "market",
-      "paul",
-      "really",
-      "stock",
-      "tudor",
-      "why"
-    ],
-    "ts": 1791907173.2383995
-  },
-  {
-    "id": "WP-MKTW-0005284115",
-    "title": "Six Flags’ stock slumps toward 16-year low after fatal incident",
-    "tokens": [
-      "fatal",
-      "flags",
-      "incident",
-      "low",
-      "six",
-      "slumps",
-      "stock",
-      "toward",
-      "year"
-    ],
-    "ts": 1791907181.8135765
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/ai-models-may-soon-selfreplicate-without-access-to-data-centers-anthropic-warns-4945449",
-    "title": "AI models may soon self-replicate across smart-home devices, Anthropic warns",
-    "tokens": [
-      "across",
-      "anthropic",
-      "devices",
-      "home",
-      "may",
-      "models",
-      "replicate",
-      "self",
-      "smart",
-      "soon",
-      "warns"
-    ],
-    "ts": 1791907189.808161
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/crh-stock-hits-52week-low-at-801-usd-93CH-4947224",
-    "title": "Crh stock hits 52-week low at 80.1 USD",
-    "tokens": [
-      "crh",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1791907196.93736
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/goldman-sachs-quarterly-profit-rises-on-equities-strength-4946341",
-    "title": "Goldman Sachs beats quarterly profit estimates on equities strength",
-    "tokens": [
-      "beats",
-      "equities",
-      "estimates",
-      "goldman",
-      "profit",
-      "quarterly",
-      "sachs",
-      "strength"
-    ],
-    "ts": 1791907204.4707994
-  },
-  {
     "id": "https://www.investing.com/news/economy-news/us-treasury-yields-yet-to-peak-as-fed-may-tighten-further-pimcos-ivascyn-says-4947223",
     "title": "US Treasury yields yet to peak as Fed may tighten further, PIMCO’s Ivascyn says",
     "tokens": [
@@ -23796,5 +23583,212 @@
       "tax"
     ],
     "ts": 1792797052.3981428
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/us-repeatedly-asked-musk-to-restrict-or-expand-starlink-access-reuters-says-4970542",
+    "title": "U.S. repeatedly asked Musk to restrict or expand Starlink access, Reuters says",
+    "tokens": [
+      "access",
+      "asked",
+      "expand",
+      "musk",
+      "repeatedly",
+      "restrict",
+      "reuters",
+      "starlink"
+    ],
+    "ts": 1792805698.196651
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/vertex-at-asn-kidney-week-2026-renal-push-gathers-pace-93CH-4970541",
+    "title": "Vertex at ASN Kidney Week 2026: renal push gathers pace",
+    "tokens": [
+      "2026",
+      "asn",
+      "gathers",
+      "kidney",
+      "pace",
+      "push",
+      "renal",
+      "vertex",
+      "week"
+    ],
+    "ts": 1792805705.5614748
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-4970304",
+    "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+    "tokens": [
+      "discloses",
+      "flaw",
+      "frontier",
+      "openai",
+      "overhaul",
+      "resumes",
+      "security",
+      "software",
+      "training",
+      "used",
+      "widely"
+    ],
+    "ts": 1792805713.1557956
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/uks-healey-to-give-two-statebacked-lenders-20-billion-capital-boost-in-budget-4970530",
+    "title": "UK’s Healey to give two state-backed lenders £20 billion capital boost in budget",
+    "tokens": [
+      "backed",
+      "billion",
+      "boost",
+      "budget",
+      "capital",
+      "give",
+      "healey",
+      "lenders",
+      "state",
+      "two"
+    ],
+    "ts": 1792805720.96599
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-to-remove-50-tariffs-on-some-canadian-goods-to-help-republicans-in-midterms-wsj-reports-4970225",
+    "title": "Trump ends tariffs on some Canadian products, as Senator Collins faces close race",
+    "tokens": [
+      "canadian",
+      "close",
+      "collins",
+      "ends",
+      "faces",
+      "products",
+      "race",
+      "senator",
+      "some",
+      "tariffs",
+      "trump"
+    ],
+    "ts": 1792805728.803408
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/therma-bright-plans-private-placement-of-up-to-420000-93CH-4970528",
+    "title": "Therma Bright plans private placement of up to $420,000",
+    "tokens": [
+      "000",
+      "420",
+      "bright",
+      "placement",
+      "plans",
+      "private",
+      "therma"
+    ],
+    "ts": 1792805735.267049
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/russia-ukraine-agree-to-local-ceasefire-as-new-peace-talks-planned--reuters-4970527",
+    "title": "Russia, Ukraine agree to local ceasefire as new peace talks planned - Reuters",
+    "tokens": [
+      "agree",
+      "ceasefire",
+      "local",
+      "peace",
+      "planned",
+      "reuters",
+      "russia",
+      "talks",
+      "ukraine"
+    ],
+    "ts": 1792805742.5740862
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/goldcana-closes-c1-million-flowthrough-private-placement-93CH-4970525",
+    "title": "Goldcana closes C$1 million flow-through private placement",
+    "tokens": [
+      "closes",
+      "flow",
+      "goldcana",
+      "million",
+      "placement",
+      "private",
+      "through"
+    ],
+    "ts": 1792805749.300393
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/unresthit-france-poised-for-moodys-ratings-verdict-4968793",
+    "title": "France spared Moody’s ratings downgrade as it struggles with unrest",
+    "tokens": [
+      "downgrade",
+      "france",
+      "moody",
+      "ratings",
+      "spared",
+      "struggles",
+      "unrest"
+    ],
+    "ts": 1792805756.7414567
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/windward-bio-seeks-nasdaq-listing-to-fund-respiratory-skin-disease-drug-trials-4970515",
+    "title": "Windward Bio seeks Nasdaq listing to fund respiratory, skin disease drug trials",
+    "tokens": [
+      "bio",
+      "disease",
+      "drug",
+      "fund",
+      "listing",
+      "nasdaq",
+      "respiratory",
+      "seeks",
+      "skin",
+      "trials",
+      "windward"
+    ],
+    "ts": 1792805764.5086844
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/ax1-launches-console-2-0-an-agentic-activities-launchpad-where-ai-agents-go-to-work-1036659699",
+    "title": "AX1 Launches Console 2.0, an Agentic Activities Launchpad Where AI Agents Go to Work",
+    "tokens": [
+      "activities",
+      "agentic",
+      "agents",
+      "ax1",
+      "console",
+      "launches",
+      "launchpad",
+      "where",
+      "work"
+    ],
+    "ts": 1792805773.4939866
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/metaedge-launches-the-nest-worldwide-opening-the-ai-data-economy-to-households-everywhere-1036659700",
+    "title": "MetaEdge Launches The NEST Worldwide, Opening the AI Data Economy to Households Everywhere",
+    "tokens": [
+      "data",
+      "economy",
+      "everywhere",
+      "households",
+      "launches",
+      "metaedge",
+      "nest",
+      "opening",
+      "worldwide"
+    ],
+    "ts": 1792805780.6708488
+  },
+  {
+    "id": "oilprice-news-45865",
+    "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
+    "tokens": [
+      "basin",
+      "gas",
+      "india",
+      "natural",
+      "offshore",
+      "oil",
+      "shallow",
+      "strikes"
+    ],
+    "ts": 1792805785.2905266
   }
 ]

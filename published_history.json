@@ -1,142 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/zoom-communications-director-mcmaster-sells-284120-in-stock-93CH-4947750",
-    "title": "Zoom communications director McMaster sells $284,120 in stock",
-    "tokens": [
-      "120",
-      "284",
-      "communications",
-      "director",
-      "mcmaster",
-      "sells",
-      "stock",
-      "zoom"
-    ],
-    "ts": 1791937126.3485477
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/trump-administration-to-expand-a-delek-texas-refinery-using-defense-productionact-4947737",
-    "title": "Trump administration to expand a Delek Texas refinery using Defense ​Production ⁠Act",
-    "tokens": [
-      "act",
-      "administration",
-      "defense",
-      "delek",
-      "expand",
-      "production",
-      "refinery",
-      "texas",
-      "trump",
-      "using"
-    ],
-    "ts": 1791937135.0848565
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/cheetah-net-ceo-huan-liu-buys-330000-of-class-b-stock-93CH-4947736",
-    "title": "Cheetah Net CEO Huan Liu buys $330,000 of class B stock",
-    "tokens": [
-      "000",
-      "330",
-      "buys",
-      "ceo",
-      "cheetah",
-      "class",
-      "huan",
-      "liu",
-      "net",
-      "stock"
-    ],
-    "ts": 1791937142.9561856
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/zoom-president-of-engineering--product-velchamy-sells-758k-in-stock-93CH-4947735",
-    "title": "Zoom president of engineering & product Velchamy sells $758k in stock",
-    "tokens": [
-      "758k",
-      "engineering",
-      "president",
-      "product",
-      "sells",
-      "stock",
-      "velchamy",
-      "zoom"
-    ],
-    "ts": 1791937152.522505
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/zoom-cfo-michelle-chang-sells-844k-in-stock-prices-98679984-93CH-4947734",
-    "title": "Zoom CFO Michelle Chang sells $844k in stock, prices $98.67-$99.84",
-    "tokens": [
-      "844k",
-      "cfo",
-      "chang",
-      "michelle",
-      "prices",
-      "sells",
-      "stock",
-      "zoom"
-    ],
-    "ts": 1791937160.6075144
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/rhythm-pharmaceuticals-launches-imcivree-in-japan-for-obesity-93CH-4947726",
-    "title": "Rhythm Pharmaceuticals launches IMCIVREE in Japan for obesity",
-    "tokens": [
-      "imcivree",
-      "japan",
-      "launches",
-      "obesity",
-      "pharmaceuticals",
-      "rhythm"
-    ],
-    "ts": 1791937168.6825917
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/arista-networks-ceo-ullal-sells-344m-in-company-stock-93CH-4947722",
-    "title": "Arista Networks CEO Ullal sells $34.4m in company stock",
-    "tokens": [
-      "arista",
-      "ceo",
-      "company",
-      "networks",
-      "sells",
-      "stock",
-      "ullal"
-    ],
-    "ts": 1791937176.6017506
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-coo-julie-rubinstein-sells-919870-in-stock-93CH-4947721",
-    "title": "Adaptive Biotechnologies COO Julie Rubinstein sells $919,870 in stock",
-    "tokens": [
-      "870",
-      "919",
-      "adaptive",
-      "biotechnologies",
-      "coo",
-      "julie",
-      "rubinstein",
-      "sells",
-      "stock"
-    ],
-    "ts": 1791937184.2987666
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/stonex-group-executive-vicechairman-oconnor-disposes-of-46m-shares-93CH-4947720",
-    "title": "StoneX Group executive vice-chairman O’Connor disposes of $4.6m shares",
-    "tokens": [
-      "chairman",
-      "connor",
-      "disposes",
-      "executive",
-      "group",
-      "shares",
-      "stonex",
-      "vice"
-    ],
-    "ts": 1791937192.5872488
-  },
-  {
     "id": "oilprice-article-45762",
     "title": "Wall Street Sees Inflation Easing Even With Oil Above $90",
     "tokens": [
@@ -23838,5 +23701,139 @@
       "september"
     ],
     "ts": 1792873090.5950236
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
+    "title": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power",
+    "tokens": [
+      "administration",
+      "bolsonaro",
+      "brazil",
+      "campaign",
+      "clan",
+      "inside",
+      "power",
+      "return",
+      "trump"
+    ],
+    "ts": 1792881540.80425
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
+    "title": "Trump set to announce plan by Audi to build US factory in Georgia, source says",
+    "tokens": [
+      "announce",
+      "audi",
+      "build",
+      "factory",
+      "georgia",
+      "plan",
+      "set",
+      "source",
+      "trump"
+    ],
+    "ts": 1792881548.2510743
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/policy-choices-will-matter-crucially-amid-growing-socioeconomic-challenges-4970967",
+    "title": "Policy choices will matter crucially amid growing socioeconomic challenges",
+    "tokens": [
+      "challenges",
+      "choices",
+      "crucially",
+      "growing",
+      "matter",
+      "policy",
+      "socioeconomic"
+    ],
+    "ts": 1792881555.6343815
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/volkswagen-to-build-georgia-audi-plant-expand-in-sc--bloomberg-4970968",
+    "title": "Volkswagen to build Georgia Audi plant, expand in SC - Bloomberg",
+    "tokens": [
+      "audi",
+      "bloomberg",
+      "build",
+      "expand",
+      "georgia",
+      "plant",
+      "volkswagen"
+    ],
+    "ts": 1792881562.7145514
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/adlai-nortye-director-ji-ping-sells-163274-in-anl-stock-93CH-4970965",
+    "title": "Adlai Nortye director Ji Ping sells $163,274 in ANL stock",
+    "tokens": [
+      "163",
+      "274",
+      "adlai",
+      "anl",
+      "director",
+      "nortye",
+      "ping",
+      "sells",
+      "stock"
+    ],
+    "ts": 1792881570.354676
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/can-silver-recover-from-its-latest-selloff-ubs-weighs-in-4970956",
+    "title": "Can silver recover from its latest sell-off? UBS weighs in",
+    "tokens": [
+      "can",
+      "latest",
+      "off",
+      "recover",
+      "sell",
+      "silver",
+      "ubs",
+      "weighs"
+    ],
+    "ts": 1792881576.866513
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/woori-financial-adr-earnings-beat-by-029-revenue-topped-estimates-4970952",
+    "title": "Woori Financial ADR earnings beat by $0.29, revenue topped estimates",
+    "tokens": [
+      "adr",
+      "beat",
+      "earnings",
+      "estimates",
+      "financial",
+      "revenue",
+      "topped",
+      "woori"
+    ],
+    "ts": 1792881583.8048027
+  },
+  {
+    "id": "oilprice-article-45874",
+    "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
+    "tokens": [
+      "asia",
+      "becomes",
+      "cost",
+      "fuel",
+      "next",
+      "oil",
+      "shock"
+    ],
+    "ts": 1792881592.292028
+  },
+  {
+    "id": "oilprice-news-45874",
+    "title": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
+    "tokens": [
+      "again",
+      "dips",
+      "disruptions",
+      "oil",
+      "reserve",
+      "strategic",
+      "supply"
+    ],
+    "ts": 1792881599.3575113
   }
 ]

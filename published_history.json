@@ -1,114 +1,5 @@
 [
   {
-    "id": "oilprice-article-45762",
-    "title": "Wall Street Sees Inflation Easing Even With Oil Above $90",
-    "tokens": [
-      "above",
-      "easing",
-      "even",
-      "inflation",
-      "oil",
-      "sees",
-      "street",
-      "wall"
-    ],
-    "ts": 1791937203.6158795
-  },
-  {
-    "id": "oilprice-article-45761",
-    "title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
-    "tokens": [
-      "americas",
-      "crude",
-      "heavy",
-      "leave",
-      "rates",
-      "record",
-      "stranded",
-      "tanker"
-    ],
-    "ts": 1791937211.985653
-  },
-  {
-    "id": "oilprice-article-45760",
-    "title": "Stranded Middle East LNG Supply Upends Gas Markets",
-    "tokens": [
-      "east",
-      "gas",
-      "lng",
-      "markets",
-      "middle",
-      "stranded",
-      "supply",
-      "upends"
-    ],
-    "ts": 1791937220.8395464
-  },
-  {
-    "id": "oilprice-news-45762",
-    "title": "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027",
-    "tokens": [
-      "2027",
-      "bpd",
-      "demand",
-      "growth",
-      "million",
-      "oil",
-      "opec",
-      "sees",
-      "surging"
-    ],
-    "ts": 1791937229.7104497
-  },
-  {
-    "id": "oilprice-news-45761",
-    "title": "Argentina Takes Falklands Oil Fight to International Tribunal",
-    "tokens": [
-      "argentina",
-      "falklands",
-      "fight",
-      "international",
-      "oil",
-      "takes",
-      "tribunal"
-    ],
-    "ts": 1791937233.7232041
-  },
-  {
-    "id": "7cd06237-b0bf-44e8-a2ee-f4718e113352",
-    "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-    "tokens": [
-      "500",
-      "additional",
-      "bitcoin",
-      "buy",
-      "class",
-      "million",
-      "preferred",
-      "raising",
-      "share",
-      "strive"
-    ],
-    "ts": 1791937239.100328
-  },
-  {
-    "id": "0874f231-f93c-4d90-9563-9fbbe0342ca4",
-    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-    "tokens": [
-      "bny",
-      "citadel",
-      "financing",
-      "securities",
-      "speed",
-      "street",
-      "test",
-      "tokenized",
-      "treasuries",
-      "wall"
-    ],
-    "ts": 1791937246.848368
-  },
-  {
     "id": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong",
     "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
     "tokens": [
@@ -23835,5 +23726,113 @@
       "supply"
     ],
     "ts": 1792881599.3575113
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/braskem-creditors-shareholders-near-deal-on-11bn-debt-restructuring--bloomberg-4971002",
+    "title": "Braskem creditors, shareholders near deal on $11bn debt restructuring - Bloomberg",
+    "tokens": [
+      "11bn",
+      "bloomberg",
+      "braskem",
+      "creditors",
+      "deal",
+      "debt",
+      "near",
+      "restructuring",
+      "shareholders"
+    ],
+    "ts": 1792888343.6242847
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001",
+    "title": "Abuse survivors approve $800 million settlement with Archdiocese of New York",
+    "tokens": [
+      "800",
+      "abuse",
+      "approve",
+      "archdiocese",
+      "million",
+      "settlement",
+      "survivors",
+      "york"
+    ],
+    "ts": 1792888350.9171116
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/climb-bio-reports-early-data-on-budoprutug-for-kidney-diseases-93CH-4971000",
+    "title": "Climb Bio reports early data on budoprutug for kidney diseases",
+    "tokens": [
+      "bio",
+      "budoprutug",
+      "climb",
+      "data",
+      "diseases",
+      "early",
+      "kidney",
+      "reports"
+    ],
+    "ts": 1792888358.0289297
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/trade-desk-ceo-overrides-investor-opposition-to-option-repricing--wsj-4970999",
+    "title": "Trade Desk CEO overrides investor opposition to option repricing - WSJ",
+    "tokens": [
+      "ceo",
+      "desk",
+      "investor",
+      "opposition",
+      "option",
+      "overrides",
+      "repricing",
+      "trade",
+      "wsj"
+    ],
+    "ts": 1792888365.0637047
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/bodies-of-ambushed-salvadoran-soldiers-found-in-haiti-new-york-timesreports-4970997",
+    "title": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports",
+    "tokens": [
+      "ambushed",
+      "bodies",
+      "found",
+      "haiti",
+      "reports",
+      "salvadoran",
+      "soldiers",
+      "times",
+      "york"
+    ],
+    "ts": 1792888372.114823
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-south-koreas-stock-market-represents-the-purest-ai-trade-4970991",
+    "title": "Why South Korea’s stock market represents the purest AI trade",
+    "tokens": [
+      "korea",
+      "market",
+      "purest",
+      "represents",
+      "south",
+      "stock",
+      "trade",
+      "why"
+    ],
+    "ts": 1792888378.965874
+  },
+  {
+    "id": "oilprice-article-45870",
+    "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+    "tokens": [
+      "asia",
+      "cripple",
+      "crude",
+      "flows",
+      "oil",
+      "rates",
+      "record",
+      "tanker"
+    ],
+    "ts": 1792888387.2475867
   }
 ]

@@ -1,152 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/economy-news/asia-must-guard-against-another-financial-crisis-philippines-central-bank-chief-says-4947975",
-    "title": "Asia must guard against another financial crisis, Philippines central bank chief says",
-    "tokens": [
-      "against",
-      "another",
-      "asia",
-      "bank",
-      "central",
-      "chief",
-      "crisis",
-      "financial",
-      "guard",
-      "must",
-      "philippines"
-    ],
-    "ts": 1791954806.5446343
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/high-gasoline-prices-expected-to-boost-us-consumer-inflation-in-september-4947970",
-    "title": "High gasoline prices expected to boost US consumer inflation in September",
-    "tokens": [
-      "boost",
-      "consumer",
-      "expected",
-      "gasoline",
-      "high",
-      "inflation",
-      "prices",
-      "september"
-    ],
-    "ts": 1791954814.6225455
-  },
-  {
-    "id": "6d869a43-ef46-4bc3-826f-7ecb7f0cba6e",
-    "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-    "tokens": [
-      "150",
-      "alpenglow",
-      "finality",
-      "millisecond",
-      "oct",
-      "sets",
-      "solana",
-      "targeting",
-      "upgrade"
-    ],
-    "ts": 1791954825.5574565
-  },
-  {
-    "id": "3e55433d-38c3-4f75-adb5-851a8db58d9d",
-    "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-    "tokens": [
-      "000",
-      "2027",
-      "bitcoin",
-      "climbs",
-      "fed",
-      "hikes",
-      "rate",
-      "sees",
-      "toward",
-      "williams"
-    ],
-    "ts": 1791954833.8665361
-  },
-  {
-    "id": "a9496514-d855-42d9-ac08-56aef0b35ae2",
-    "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-    "tokens": [
-      "action",
-      "bank",
-      "central",
-      "coins",
-      "crypto",
-      "exchange",
-      "face",
-      "largest",
-      "philippines",
-      "regulatory"
-    ],
-    "ts": 1791954841.53928
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring",
-    "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
-    "tokens": [
-      "bitwise",
-      "charts",
-      "crypto",
-      "hougan",
-      "point",
-      "spring"
-    ],
-    "ts": 1791954849.6524982
-  },
-  {
-    "id": "WP-MKTW-0005285289",
-    "title": "The truth about being a landlord in retirement",
-    "tokens": [
-      "about",
-      "being",
-      "landlord",
-      "retirement",
-      "truth"
-    ],
-    "ts": 1791972939.883109
-  },
-  {
-    "id": "WP-MKTW-0005286233",
-    "title": "Investors have made big bets on tech stocks. Why one strategist just downgraded the sector.",
-    "tokens": [
-      "bets",
-      "big",
-      "downgraded",
-      "investors",
-      "just",
-      "made",
-      "one",
-      "sector",
-      "stocks",
-      "strategist",
-      "tech",
-      "why"
-    ],
-    "ts": 1791972948.0601008
-  },
-  {
-    "id": "WP-MKTW-0005285328",
-    "title": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?",
-    "tokens": [
-      "000",
-      "110",
-      "50s",
-      "earn",
-      "failure",
-      "great",
-      "home",
-      "judged",
-      "lost",
-      "recession",
-      "renting",
-      "why",
-      "year"
-    ],
-    "ts": 1791972956.7337
-  },
-  {
     "id": "WP-MKTW-0005280558",
     "title": "‘Sopranos’ star Steven Van Zandt is selling his Greenwich Village penthouse for $19 million",
     "tokens": [
@@ -23840,5 +23693,144 @@
       "yemen"
     ],
     "ts": 1792905675.5250862
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/dlh-holdings-director-mink-brook-asset-management-buys-208-stock-93CH-4971095",
+    "title": "Dlh Holdings director Mink Brook Asset Management buys $208 stock",
+    "tokens": [
+      "208",
+      "asset",
+      "brook",
+      "buys",
+      "director",
+      "dlh",
+      "holdings",
+      "management",
+      "mink",
+      "stock"
+    ],
+    "ts": 1792922398.2011616
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/brookfield-to-open-qatar-office-as-it-expands-middle-east-operations-4971088",
+    "title": "Brookfield to open Qatar office as it expands Middle East operations",
+    "tokens": [
+      "brookfield",
+      "east",
+      "expands",
+      "middle",
+      "office",
+      "open",
+      "operations",
+      "qatar"
+    ],
+    "ts": 1792922405.5209234
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080",
+    "title": "Saudi Arabia intercepts drones and missiles as fighting with Yemen’s Houthis continues",
+    "tokens": [
+      "arabia",
+      "continues",
+      "drones",
+      "fighting",
+      "houthis",
+      "intercepts",
+      "missiles",
+      "saudi",
+      "yemen"
+    ],
+    "ts": 1792922413.1332738
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-kospi-target-by-25-amid-ai-stock-selloff-4971079",
+    "title": "Goldman Sachs cuts Kospi target by 25% amid AI stock selloff",
+    "tokens": [
+      "cuts",
+      "goldman",
+      "kospi",
+      "sachs",
+      "selloff",
+      "stock",
+      "target"
+    ],
+    "ts": 1792922420.5433984
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/xencor-reports-phase-1-data-for-cancer-drug-xmab819-93CH-4971076",
+    "title": "Xencor reports phase 1 data for cancer drug XmAb819",
+    "tokens": [
+      "cancer",
+      "data",
+      "drug",
+      "phase",
+      "reports",
+      "xencor",
+      "xmab819"
+    ],
+    "ts": 1792922427.295531
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/anixa-biosciences-president-coo--cfo-buys-15620-in-shares-93CH-4971073",
+    "title": "Anixa Biosciences president, COO, & CFO buys $15,620 in shares",
+    "tokens": [
+      "620",
+      "anixa",
+      "biosciences",
+      "buys",
+      "cfo",
+      "coo",
+      "president",
+      "shares"
+    ],
+    "ts": 1792922434.1746545
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/north-koreas-kim-jong-un-makes-surprise-china-visit-as-ties-strengthen-4971072",
+    "title": "North Korea’s Kim Jong Un makes surprise China visit as ties strengthen",
+    "tokens": [
+      "china",
+      "jong",
+      "kim",
+      "korea",
+      "makes",
+      "north",
+      "strengthen",
+      "surprise",
+      "ties",
+      "visit"
+    ],
+    "ts": 1792922442.1998026
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-uniquely-catalystrich-months-ahead-for-spacex-4970923",
+    "title": "5 big analyst AI moves: ’Uniquely catalyst-rich’ months ahead for SpaceX",
+    "tokens": [
+      "ahead",
+      "analyst",
+      "big",
+      "catalyst",
+      "months",
+      "moves",
+      "rich",
+      "spacex",
+      "uniquely"
+    ],
+    "ts": 1792922449.2299523
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/biontech-bristol-myers-report-lung-cancer-trial-data-93CH-4971066",
+    "title": "BioNTech, Bristol Myers report lung cancer trial data",
+    "tokens": [
+      "biontech",
+      "bristol",
+      "cancer",
+      "data",
+      "lung",
+      "myers",
+      "report",
+      "trial"
+    ],
+    "ts": 1792922456.2412798
   }
 ]

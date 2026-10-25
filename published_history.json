@@ -1,87 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005286330",
-    "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-    "tokens": [
-      "adds",
-      "america",
-      "bank",
-      "billion",
-      "fine",
-      "government",
-      "misery",
-      "miss",
-      "profit"
-    ],
-    "ts": 1791991328.649554
-  },
-  {
-    "id": "WP-MKTW-0005284576",
-    "title": "Social Security’s COLA will be 3.6% in 2027 as inflation persists",
-    "tokens": [
-      "2027",
-      "cola",
-      "inflation",
-      "persists",
-      "security",
-      "social"
-    ],
-    "ts": 1791991337.1231368
-  },
-  {
-    "id": "WP-MKTW-0005286328",
-    "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
-    "tokens": [
-      "assets",
-      "blackrock",
-      "economy",
-      "equal",
-      "growth",
-      "half",
-      "manages",
-      "now",
-      "size"
-    ],
-    "ts": 1791991345.6630688
-  },
-  {
-    "id": "WP-MKTW-0005284969",
-    "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
-    "tokens": [
-      "anxieties",
-      "apps",
-      "fake",
-      "financial",
-      "fintech",
-      "happiness",
-      "insurance",
-      "latest",
-      "our",
-      "reveal",
-      "shopping",
-      "sprees"
-    ],
-    "ts": 1791991354.1683378
-  },
-  {
-    "id": "WP-MKTW-0005284644",
-    "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
-    "tokens": [
-      "buying",
-      "feel",
-      "gen",
-      "group",
-      "house",
-      "investing",
-      "likely",
-      "more",
-      "only",
-      "renters",
-      "successful"
-    ],
-    "ts": 1791991361.9130907
-  },
-  {
     "id": "https://www.investing.com/news/company-news/cbl-properties-declares-0625-quarterly-dividend-93CH-4949689",
     "title": "CBL Properties declares $0.625 quarterly dividend",
     "tokens": [
@@ -23856,5 +23774,76 @@
       "sovereignty"
     ],
     "ts": 1792950449.3854163
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+    "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
+    "tokens": [
+      "billion",
+      "debt",
+      "gpus",
+      "musk",
+      "raised",
+      "spacex"
+    ],
+    "ts": 1792959933.018034
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/britain-will-not-join-canadas-defence-bank-source-says-4971243",
+    "title": "Britain will not join Canada’s defence bank, source says",
+    "tokens": [
+      "bank",
+      "britain",
+      "canada",
+      "defence",
+      "join",
+      "source"
+    ],
+    "ts": 1792959940.764785
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/us-canada-very-close-to-trade-deal-white-houses-hassett-says-4971239",
+    "title": "U.S, Canada “very close” to trade deal, White House’s Hassett says",
+    "tokens": [
+      "canada",
+      "close",
+      "deal",
+      "hassett",
+      "house",
+      "trade",
+      "very",
+      "white"
+    ],
+    "ts": 1792959947.3663287
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
+    "title": "Oppenheimer sees web, commerce software Q3 backdrop improving, AI worries linger",
+    "tokens": [
+      "backdrop",
+      "commerce",
+      "improving",
+      "linger",
+      "oppenheimer",
+      "sees",
+      "software",
+      "web",
+      "worries"
+    ],
+    "ts": 1792959954.1211019
+  },
+  {
+    "id": "oilprice-article-45863",
+    "title": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck",
+    "tokens": [
+      "boom",
+      "bottleneck",
+      "britain",
+      "energy",
+      "grid",
+      "hitting",
+      "renewable"
+    ],
+    "ts": 1792959962.655091
   }
 ]

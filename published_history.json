@@ -1,294 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005280558",
-    "title": "‘Sopranos’ star Steven Van Zandt is selling his Greenwich Village penthouse for $19 million",
-    "tokens": [
-      "greenwich",
-      "his",
-      "million",
-      "penthouse",
-      "selling",
-      "sopranos",
-      "star",
-      "steven",
-      "van",
-      "village",
-      "zandt"
-    ],
-    "ts": 1791972965.571623
-  },
-  {
-    "id": "WP-MKTW-0005286170",
-    "title": "Chip bellwether ASML says customers are already asking to place orders — for 2030",
-    "tokens": [
-      "2030",
-      "already",
-      "asking",
-      "asml",
-      "bellwether",
-      "chip",
-      "customers",
-      "orders",
-      "place"
-    ],
-    "ts": 1791972973.5008256
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/kbr-declares-0165-quarterly-dividend-ahead-of-business-split-93CH-4948554",
-    "title": "KBR declares $0.165 quarterly dividend ahead of business split",
-    "tokens": [
-      "165",
-      "ahead",
-      "business",
-      "declares",
-      "dividend",
-      "kbr",
-      "quarterly",
-      "split"
-    ],
-    "ts": 1791972982.423828
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/jpmorgan-chase-crosses-5-threshold-in-central-asia-metals-93CH-4948548",
-    "title": "JPMorgan Chase crosses 5% threshold in Central Asia Metals",
-    "tokens": [
-      "asia",
-      "central",
-      "chase",
-      "crosses",
-      "jpmorgan",
-      "metals",
-      "threshold"
-    ],
-    "ts": 1791972991.2272148
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/irh-and-zccm-explore-new-mining-opportunities-in-zambia-93CH-4948547",
-    "title": "IRH and ZCCM explore new mining opportunities in Zambia",
-    "tokens": [
-      "explore",
-      "irh",
-      "mining",
-      "opportunities",
-      "zambia",
-      "zccm"
-    ],
-    "ts": 1791972999.8518465
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/truist-initiates-entegris-stock-coverage-with-buy-rating-on-chip-content-growth-93CH-4948543",
-    "title": "Truist initiates Entegris stock coverage with buy rating on chip content growth",
-    "tokens": [
-      "buy",
-      "chip",
-      "content",
-      "coverage",
-      "entegris",
-      "growth",
-      "initiates",
-      "rating",
-      "stock",
-      "truist"
-    ],
-    "ts": 1791973018.3198323
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-dominos-pizza-stock-price-target-on-weaker-comps-93CH-4948542",
-    "title": "Wells Fargo cuts Domino’s Pizza stock price target on weaker comps",
-    "tokens": [
-      "comps",
-      "cuts",
-      "domino",
-      "fargo",
-      "pizza",
-      "price",
-      "stock",
-      "target",
-      "weaker",
-      "wells"
-    ],
-    "ts": 1791973027.8815851
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-albertsons-stock-price-target-on-q2-beat-93CH-4948541",
-    "title": "Wells Fargo raises Albertsons stock price target on Q2 beat",
-    "tokens": [
-      "albertsons",
-      "beat",
-      "fargo",
-      "price",
-      "raises",
-      "stock",
-      "target",
-      "wells"
-    ],
-    "ts": 1791973037.4566386
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/space-startups-secure-record-208-billion-funding-as-infrastructure-bets-surge-report-shows-4948434",
-    "title": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows",
-    "tokens": [
-      "bets",
-      "billion",
-      "funding",
-      "infrastructure",
-      "record",
-      "report",
-      "secure",
-      "shows",
-      "space",
-      "startups",
-      "surge"
-    ],
-    "ts": 1791973046.0783436
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/myxrpfi-opens-public-access-after-81-million-xrp-institutional-phase-4948538",
-    "title": "myXRP.fi Opens Public Access After 8.1 Million XRP Institutional Phase",
-    "tokens": [
-      "access",
-      "institutional",
-      "million",
-      "myxrp",
-      "opens",
-      "phase",
-      "public",
-      "xrp"
-    ],
-    "ts": 1791973054.7544978
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bybit-kazakhstan-signs-moc-with-aifc-digital-asset-investments-on-bybit-kz-now-recognised-under-aifcs-itrp-4948539",
-    "title": "Bybit Kazakhstan Signs MoC with AIFC: Digital Asset Investments on Bybit KZ Now Recognised under AIFC’s ITRP",
-    "tokens": [
-      "aifc",
-      "asset",
-      "bybit",
-      "digital",
-      "investments",
-      "itrp",
-      "kazakhstan",
-      "moc",
-      "now",
-      "recognised",
-      "signs",
-      "under"
-    ],
-    "ts": 1791973063.884445
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/onsemi-and-sungrow-advance-utility-scale-energy-storage-performance-with-sic-hybrid-technology-1036624843",
-    "title": "onsemi and Sungrow Advance Utility-Scale Energy Storage Performance with SiC Hybrid Technology",
-    "tokens": [
-      "advance",
-      "energy",
-      "hybrid",
-      "onsemi",
-      "performance",
-      "scale",
-      "sic",
-      "storage",
-      "sungrow",
-      "technology",
-      "utility"
-    ],
-    "ts": 1791973073.1781938
-  },
-  {
-    "id": "https://www.businessinsider.com/anthropic-ipo-situational-awareness-leopold-aschenbrenner-2026-10",
-    "title": "How Anthropic's IPO could turn Leopold Aschenbrenner's best asset into his biggest risk",
-    "tokens": [
-      "anthropic",
-      "aschenbrenner",
-      "asset",
-      "best",
-      "biggest",
-      "could",
-      "his",
-      "how",
-      "ipo",
-      "leopold",
-      "risk",
-      "turn"
-    ],
-    "ts": 1791973082.477896
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/radware-introduces-model-context-protocol-mcp-server-protection-to-help-secure-the-integration-layer-of-agentic-ai-1036624834",
-    "title": "Radware Introduces Model Context Protocol (MCP) Server Protection to Help Secure the Integration Layer of Agentic AI",
-    "tokens": [
-      "agentic",
-      "context",
-      "help",
-      "integration",
-      "introduces",
-      "layer",
-      "mcp",
-      "model",
-      "protection",
-      "protocol",
-      "radware",
-      "secure",
-      "server"
-    ],
-    "ts": 1791973091.4610894
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/owlting-group-nasdaq-owls-and-decaf-open-u-s-dollar-accounts-beyond-the-united-states-on-owlpay-harbor-1036624835",
-    "title": "Owlting Group (NASDAQ: OWLS) and Decaf Open U.S. Dollar Accounts Beyond the United States on OwlPay Harbor",
-    "tokens": [
-      "accounts",
-      "beyond",
-      "decaf",
-      "dollar",
-      "group",
-      "harbor",
-      "nasdaq",
-      "open",
-      "owlpay",
-      "owls",
-      "owlting",
-      "states",
-      "united"
-    ],
-    "ts": 1791973099.7252474
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/visionwave-advances-stratum-ai-an-agentic-ai-architecture-for-autonomous-mission-intelligence-and-orchestration-1036624836",
-    "title": "VisionWave Advances Stratum AI, an Agentic AI Architecture for Autonomous Mission Intelligence and Orchestration",
-    "tokens": [
-      "advances",
-      "agentic",
-      "architecture",
-      "autonomous",
-      "intelligence",
-      "mission",
-      "orchestration",
-      "stratum",
-      "visionwave"
-    ],
-    "ts": 1791973109.4532938
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/dryden-gold-corp-presenting-at-the-otc-precious-metals-critical-minerals-virtual-investor-conference-1036624837",
-    "title": "Dryden Gold Corp. Presenting at the OTC Precious Metals & Critical Minerals Virtual Investor Conference",
-    "tokens": [
-      "conference",
-      "corp",
-      "critical",
-      "dryden",
-      "gold",
-      "investor",
-      "metals",
-      "minerals",
-      "otc",
-      "precious",
-      "presenting",
-      "virtual"
-    ],
-    "ts": 1791973117.7515297
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/generac-announces-third-quarter-2026-earnings-release-date-and-conference-call-1036624838",
     "title": "Generac Announces Third Quarter 2026 Earnings Release Date and Conference Call",
     "tokens": [
@@ -23832,5 +23543,259 @@
       "trial"
     ],
     "ts": 1792922456.2412798
+  },
+  {
+    "id": "WP-MKTW-0005304895",
+    "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+    "tokens": [
+      "500",
+      "about",
+      "companies",
+      "confidence",
+      "cracks",
+      "earnings",
+      "market",
+      "more",
+      "report",
+      "third"
+    ],
+    "ts": 1792937783.556204
+  },
+  {
+    "id": "WP-MKTW-0005305134",
+    "title": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
+    "tokens": [
+      "about",
+      "coming",
+      "market",
+      "matter",
+      "may",
+      "midterms",
+      "relief",
+      "selloff",
+      "stock",
+      "who",
+      "wins",
+      "worried"
+    ],
+    "ts": 1792937791.7154968
+  },
+  {
+    "id": "WP-MKTW-0005305601",
+    "title": "‘Nonanswers’ aren’t working. This is what investors really need from the Fed.",
+    "tokens": [
+      "aren",
+      "fed",
+      "investors",
+      "need",
+      "nonanswers",
+      "really",
+      "what",
+      "working"
+    ],
+    "ts": 1792937798.94204
+  },
+  {
+    "id": "WP-MKTW-0005306036",
+    "title": "Why economic health no longer dictates stock-market returns",
+    "tokens": [
+      "dictates",
+      "economic",
+      "health",
+      "longer",
+      "market",
+      "returns",
+      "stock",
+      "why"
+    ],
+    "ts": 1792937806.536759
+  },
+  {
+    "id": "WP-MKTW-0005305317",
+    "title": "Here’s the real signal to watch for the Fed’s next move",
+    "tokens": [
+      "fed",
+      "here",
+      "move",
+      "next",
+      "real",
+      "signal",
+      "watch"
+    ],
+    "ts": 1792937813.5500412
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-159-million-in-stock-93CH-4971193",
+    "title": "Medpace CEO August Troendle sells $1.59 million in stock",
+    "tokens": [
+      "august",
+      "ceo",
+      "medpace",
+      "million",
+      "sells",
+      "stock",
+      "troendle"
+    ],
+    "ts": 1792937820.4147735
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/arrivent-reports-phase-1-data-for-cancer-drug-arr217-93CH-4971187",
+    "title": "ArriVent reports phase 1 data for cancer drug ARR-217",
+    "tokens": [
+      "217",
+      "arr",
+      "arrivent",
+      "cancer",
+      "data",
+      "drug",
+      "phase",
+      "reports"
+    ],
+    "ts": 1792937827.1951752
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/earnings-flood-fed-meeting-will-test-rickety-ai-market-rally-4971185",
+    "title": "Earnings flood, Fed meeting will test rickety AI market rally",
+    "tokens": [
+      "earnings",
+      "fed",
+      "flood",
+      "market",
+      "meeting",
+      "rally",
+      "rickety",
+      "test"
+    ],
+    "ts": 1792937834.2383132
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175",
+    "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.65%",
+    "tokens": [
+      "all",
+      "arabia",
+      "close",
+      "lower",
+      "saudi",
+      "share",
+      "stocks",
+      "tadawul",
+      "trade"
+    ],
+    "ts": 1792937841.7552774
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/uks-rayner-says-no-brexit-reopening-as-burnham-floats-eu-free-movement-4971174",
+    "title": "UK’s Rayner says no Brexit reopening as Burnham floats EU free movement",
+    "tokens": [
+      "brexit",
+      "burnham",
+      "floats",
+      "free",
+      "movement",
+      "rayner",
+      "reopening"
+    ],
+    "ts": 1792937848.5734494
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/oklo-chief-of-staff-john-hanson-sells-41129-of-stock-93CH-4971172",
+    "title": "Oklo chief of staff John Hanson sells $41,129 of stock",
+    "tokens": [
+      "129",
+      "chief",
+      "hanson",
+      "john",
+      "oklo",
+      "sells",
+      "staff",
+      "stock"
+    ],
+    "ts": 1792937857.1471264
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/why-look-at-real-assets-into-2027-4971168",
+    "title": "Why look at real assets into 2027?",
+    "tokens": [
+      "2027",
+      "assets",
+      "look",
+      "real",
+      "why"
+    ],
+    "ts": 1792937864.114482
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/amarins-icosapent-ethyl-shows-survival-benefit-in-cancer-trial-93CH-4971165",
+    "title": "Amarin’s icosapent ethyl shows survival benefit in cancer trial",
+    "tokens": [
+      "amarin",
+      "benefit",
+      "cancer",
+      "ethyl",
+      "icosapent",
+      "shows",
+      "survival",
+      "trial"
+    ],
+    "ts": 1792937871.2119927
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/oklo-cpo-renner-sells-41129-in-stock-after-rsu-vesting-93CH-4971164",
+    "title": "Oklo CPO Renner sells $41,129 in stock after RSU vesting",
+    "tokens": [
+      "129",
+      "cpo",
+      "oklo",
+      "renner",
+      "rsu",
+      "sells",
+      "stock",
+      "vesting"
+    ],
+    "ts": 1792937877.7619014
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/everpure-cvo-john-colgrove-sells-1246m-in-stock-93CH-4971155",
+    "title": "Everpure CVO John Colgrove sells $12.46M in stock",
+    "tokens": [
+      "46m",
+      "colgrove",
+      "cvo",
+      "everpure",
+      "john",
+      "sells",
+      "stock"
+    ],
+    "ts": 1792937884.7936976
+  },
+  {
+    "id": "c82550a1-cd38-40ed-bc8b-778cab3df3c5",
+    "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+    "tokens": [
+      "000",
+      "banks",
+      "complaints",
+      "crypto",
+      "face",
+      "months",
+      "restrictions"
+    ],
+    "ts": 1792937892.8267689
+  },
+  {
+    "id": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions",
+    "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+    "tokens": [
+      "blockchain",
+      "financial",
+      "floats",
+      "netanyahu",
+      "potential",
+      "sanctions",
+      "solution",
+      "use"
+    ],
+    "ts": 1792937899.913078
   }
 ]

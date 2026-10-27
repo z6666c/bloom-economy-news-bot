@@ -1,631 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/prime-drink-group-launches-c4m-financing-closes-c200k-placement-93CH-4952874",
-    "title": "Prime Drink Group launches C$4M financing, closes C$200K placement",
-    "tokens": [
-      "200k",
-      "closes",
-      "drink",
-      "financing",
-      "group",
-      "launches",
-      "placement",
-      "prime"
-    ],
-    "ts": 1792110957.4848595
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-on-improving-supplies-wti-set-for-strong-week-4952863",
-    "title": "Oil prices edge lower on improving supplies; WTI set for strong week",
-    "tokens": [
-      "edge",
-      "improving",
-      "lower",
-      "oil",
-      "prices",
-      "set",
-      "strong",
-      "supplies",
-      "week",
-      "wti"
-    ],
-    "ts": 1792110964.826064
-  },
-  {
-    "id": "oilprice-article-45785",
-    "title": "Standard Chartered: Trump's Russian Diesel Won't Add New Supply",
-    "tokens": [
-      "add",
-      "chartered",
-      "diesel",
-      "russian",
-      "standard",
-      "supply",
-      "trump",
-      "won"
-    ],
-    "ts": 1792110973.1840649
-  },
-  {
-    "id": "oilprice-article-45784",
-    "title": "The Diesel Crunch Will Persist Well into 2027",
-    "tokens": [
-      "2027",
-      "crunch",
-      "diesel",
-      "persist",
-      "well"
-    ],
-    "ts": 1792110980.725779
-  },
-  {
-    "id": "oilprice-news-45785",
-    "title": "Ukraine Strikes Major Russian Oil Refinery",
-    "tokens": [
-      "major",
-      "oil",
-      "refinery",
-      "russian",
-      "strikes",
-      "ukraine"
-    ],
-    "ts": 1792110984.7421448
-  },
-  {
-    "id": "oilprice-news-45784",
-    "title": "IEA Speeds Emergency Oil Release",
-    "tokens": [
-      "emergency",
-      "iea",
-      "oil",
-      "release",
-      "speeds"
-    ],
-    "ts": 1792110988.2630076
-  },
-  {
-    "id": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework",
-    "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-    "tokens": [
-      "adopt",
-      "australia",
-      "bill",
-      "crypto",
-      "draft",
-      "framework",
-      "oecd",
-      "releases",
-      "reporting",
-      "tax"
-    ],
-    "ts": 1792110996.1104772
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express",
-    "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-    "tokens": [
-      "asia",
-      "express",
-      "ledgers",
-      "loses",
-      "scammer",
-      "stored",
-      "tampered"
-    ],
-    "ts": 1792111003.2060156
-  },
-  {
-    "id": "WP-MKTW-0005289228",
-    "title": "Tesla finally delivers on its promise to create a flying car",
-    "tokens": [
-      "car",
-      "create",
-      "delivers",
-      "finally",
-      "flying",
-      "promise",
-      "tesla"
-    ],
-    "ts": 1792126932.210632
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/exclusiveus-holds-more-secret-talks-with-myanmars-militarybacked-rulers-in-tokyo-sources-say-4953078",
-    "title": "Exclusive-US holds more secret talks with Myanmar’s military-backed rulers in Tokyo, sources say",
-    "tokens": [
-      "backed",
-      "exclusive",
-      "holds",
-      "military",
-      "more",
-      "myanmar",
-      "rulers",
-      "say",
-      "secret",
-      "sources",
-      "talks",
-      "tokyo"
-    ],
-    "ts": 1792126939.885042
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/morning-bid-calm-after-coreweave-shock-but-for-how-long-4953079",
-    "title": "Morning Bid: Calm after CoreWeave shock, but for how long?",
-    "tokens": [
-      "bid",
-      "calm",
-      "coreweave",
-      "how",
-      "long",
-      "morning",
-      "shock"
-    ],
-    "ts": 1792126947.469366
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/msci-freezes-certain-turkey-index-changes-warns-of-potential-market-downgrade-4952952",
-    "title": "MSCI freezes certain Turkey index changes, warns of potential market downgrade",
-    "tokens": [
-      "certain",
-      "changes",
-      "downgrade",
-      "freezes",
-      "index",
-      "market",
-      "msci",
-      "potential",
-      "turkey",
-      "warns"
-    ],
-    "ts": 1792126955.202853
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
-    "title": "Oil heads for weekly gain with Mideast supply risks",
-    "tokens": [
-      "gain",
-      "heads",
-      "mideast",
-      "oil",
-      "risks",
-      "supply",
-      "weekly"
-    ],
-    "ts": 1792126962.8978527
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-weakens-after-bond-rally-rupee-set-for-2-weekly-jump-4953070",
-    "title": "Asia FX subdued, dollar weakens after bond rally; rupee set for 2% weekly jump",
-    "tokens": [
-      "asia",
-      "bond",
-      "dollar",
-      "jump",
-      "rally",
-      "rupee",
-      "set",
-      "subdued",
-      "weakens",
-      "weekly"
-    ],
-    "ts": 1792126969.8928683
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/analysischinas-superrich-scramble-to-exit-offshore-trusts-raise-cash-as-taxman-knocks-4953051",
-    "title": "China’s super-rich scramble to exit offshore trusts, raise cash as taxman knocks",
-    "tokens": [
-      "cash",
-      "china",
-      "exit",
-      "knocks",
-      "offshore",
-      "raise",
-      "rich",
-      "scramble",
-      "super",
-      "taxman",
-      "trusts"
-    ],
-    "ts": 1792126977.3300195
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tesla-set-to-unveil-next-generation-roadster-sports-ev-after-years-of-delay-4951021",
-    "title": "Tesla’s new Roadster turns in air with SpaceX thrusters, won’t land until 2028",
-    "tokens": [
-      "2028",
-      "air",
-      "land",
-      "roadster",
-      "spacex",
-      "tesla",
-      "thrusters",
-      "turns",
-      "until",
-      "won"
-    ],
-    "ts": 1792126984.524484
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/indonesia-stocks-suffer-biggest-daily-slump-since-1998-as-msci-weighs-downgrade-4953068",
-    "title": "Indonesia stocks suffer biggest daily slump since 1998 as MSCI weighs downgrade",
-    "tokens": [
-      "1998",
-      "biggest",
-      "daily",
-      "downgrade",
-      "indonesia",
-      "msci",
-      "since",
-      "slump",
-      "stocks",
-      "suffer",
-      "weighs"
-    ],
-    "ts": 1792126992.786438
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-sourcenext-stock-sliding-today-93CH-4953067",
-    "title": "Why is Sourcenext stock sliding today?",
-    "tokens": [
-      "sliding",
-      "sourcenext",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1792126999.4242558
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/oklo-cpo-alexandra-renner-sells-21156-in-shares-on-oct-14-93CH-4953066",
-    "title": "Oklo CPO Alexandra Renner sells $21,156 in shares on Oct 14",
-    "tokens": [
-      "156",
-      "alexandra",
-      "cpo",
-      "oct",
-      "oklo",
-      "renner",
-      "sells",
-      "shares"
-    ],
-    "ts": 1792127006.2447095
-  },
-  {
-    "id": "oilprice-article-45789",
-    "title": "WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying",
-    "tokens": [
-      "brent",
-      "buying",
-      "crude",
-      "draw",
-      "fresh",
-      "ignites",
-      "outpaces",
-      "wti"
-    ],
-    "ts": 1792127014.4263427
-  },
-  {
-    "id": "oilprice-news-45789",
-    "title": "Ukraine Strikes Major Russian Oil Refinery",
-    "tokens": [
-      "major",
-      "oil",
-      "refinery",
-      "russian",
-      "strikes",
-      "ukraine"
-    ],
-    "ts": 1792127018.4427981
-  },
-  {
-    "id": "6b007e26-5c9c-466f-8968-d087f0467650",
-    "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-    "tokens": [
-      "agent",
-      "did",
-      "ethereum",
-      "funds",
-      "openai",
-      "own",
-      "ran",
-      "took",
-      "wallet"
-    ],
-    "ts": 1792127021.9890687
-  },
-  {
-    "id": "82ad3771-22e1-4b55-a449-dd02f044d0f7",
-    "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-    "tokens": [
-      "000",
-      "asian",
-      "below",
-      "bitcoin",
-      "brief",
-      "buyers",
-      "drop",
-      "rebound",
-      "snap",
-      "stocks"
-    ],
-    "ts": 1792127029.2677019
-  },
-  {
-    "id": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy",
-    "title": "MSCI adopts index exclusion rules that could oust Strategy",
-    "tokens": [
-      "adopts",
-      "could",
-      "exclusion",
-      "index",
-      "msci",
-      "oust",
-      "rules",
-      "strategy"
-    ],
-    "ts": 1792127036.5352254
-  },
-  {
-    "id": "WP-MKTW-0005291153",
-    "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
-    "tokens": [
-      "americans",
-      "chairman",
-      "didn",
-      "fed",
-      "here",
-      "kevin",
-      "key",
-      "night",
-      "say",
-      "sleeping",
-      "things",
-      "thursday",
-      "warsh",
-      "while"
-    ],
-    "ts": 1792144162.414646
-  },
-  {
-    "id": "WP-MKTW-0005289493",
-    "title": "‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-    "tokens": [
-      "diagnosed",
-      "lymphoma",
-      "next",
-      "security",
-      "see",
-      "should",
-      "situation",
-      "social",
-      "take",
-      "wait",
-      "year"
-    ],
-    "ts": 1792144169.6105127
-  },
-  {
-    "id": "WP-MKTW-0005280737",
-    "title": "The pull of Nashville: A dozen celebrities who have moved to Tennessee, and why",
-    "tokens": [
-      "celebrities",
-      "dozen",
-      "moved",
-      "nashville",
-      "pull",
-      "tennessee",
-      "who",
-      "why"
-    ],
-    "ts": 1792144176.7449224
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
-    "title": "Bitcoin rebounds to $82k but set for second week in red",
-    "tokens": [
-      "82k",
-      "bitcoin",
-      "rebounds",
-      "red",
-      "second",
-      "set",
-      "week"
-    ],
-    "ts": 1792144184.7277873
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/citizens-cuts-rocket-lab-stock-price-target-on-neutron-delay-to-2027-93CH-4953465",
-    "title": "Citizens cuts Rocket Lab stock price target on Neutron delay to 2027",
-    "tokens": [
-      "2027",
-      "citizens",
-      "cuts",
-      "delay",
-      "lab",
-      "neutron",
-      "price",
-      "rocket",
-      "stock",
-      "target"
-    ],
-    "ts": 1792144193.236701
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/steppe-cement-reports-19-revenue-increase-in-third-quarter-93CH-4953464",
-    "title": "Steppe Cement reports 19% revenue increase in third quarter",
-    "tokens": [
-      "cement",
-      "increase",
-      "quarter",
-      "reports",
-      "revenue",
-      "steppe",
-      "third"
-    ],
-    "ts": 1792144200.931454
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/stablecoin-issuer-circle-to-push-into-40-new-markets-ceo-says-4953459",
-    "title": "Stablecoin issuer Circle to push into 40 new markets, CEO says",
-    "tokens": [
-      "ceo",
-      "circle",
-      "issuer",
-      "markets",
-      "push",
-      "stablecoin"
-    ],
-    "ts": 1792144208.1215339
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/needham-downgrades-varonis-systems-stock-rating-on-acquisition-deal-93CH-4953456",
-    "title": "Needham downgrades Varonis Systems stock rating on acquisition deal",
-    "tokens": [
-      "acquisition",
-      "deal",
-      "downgrades",
-      "needham",
-      "rating",
-      "stock",
-      "systems",
-      "varonis"
-    ],
-    "ts": 1792144214.7194805
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-varonis-stock-rating-on-proofpoint-acquisition-93CH-4953455",
-    "title": "DA Davidson cuts Varonis stock rating on Proofpoint acquisition",
-    "tokens": [
-      "acquisition",
-      "cuts",
-      "davidson",
-      "proofpoint",
-      "rating",
-      "stock",
-      "varonis"
-    ],
-    "ts": 1792144221.8009524
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/here-are-the-latest-additions-to-ubs-paneuropean-small--midcap-list-4953454",
-    "title": "Here are the latest additions to UBS’ ’Pan-European Small & Mid-Cap’ list",
-    "tokens": [
-      "additions",
-      "cap",
-      "european",
-      "here",
-      "latest",
-      "list",
-      "mid",
-      "pan",
-      "small",
-      "ubs"
-    ],
-    "ts": 1792144229.0622327
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/aws-microsoft-can-do-more-to-address-cloud-services-barriers-uk-competition-watchdog-says-4953452",
-    "title": "AWS, Microsoft can do more to address cloud services barriers, UK competition watchdog says",
-    "tokens": [
-      "address",
-      "aws",
-      "barriers",
-      "can",
-      "cloud",
-      "competition",
-      "microsoft",
-      "more",
-      "services",
-      "watchdog"
-    ],
-    "ts": 1792144236.52491
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/imf-chief-says-ai-risks-may-exceed-opportunities-without-safeguards-and-ethical-framework-4953345",
-    "title": "IMF chief says AI risks may exceed opportunities without safeguards and ethical framework",
-    "tokens": [
-      "chief",
-      "ethical",
-      "exceed",
-      "framework",
-      "imf",
-      "may",
-      "opportunities",
-      "risks",
-      "safeguards",
-      "without"
-    ],
-    "ts": 1792144244.2700388
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/investors-bought-stocks-and-bonds-shed-cash-in-past-week-say-bofa-4953449",
-    "title": "Investors bought stocks and bonds, shed cash in past week, say BofA",
-    "tokens": [
-      "bofa",
-      "bonds",
-      "bought",
-      "cash",
-      "investors",
-      "past",
-      "say",
-      "shed",
-      "stocks",
-      "week"
-    ],
-    "ts": 1792144251.2128434
-  },
-  {
-    "id": "243f1e25-08ee-4879-81bb-4de837b0deec",
-    "title": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
-    "tokens": [
-      "000",
-      "above",
-      "back",
-      "bitcoin",
-      "continue",
-      "etf",
-      "jumps",
-      "live",
-      "outflows",
-      "updates",
-      "zec"
-    ],
-    "ts": 1792144260.2388258
-  },
-  {
-    "id": "418f4b6f-aae3-4fef-8272-d3299a339475",
-    "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-    "tokens": [
-      "appeal",
-      "backing",
-      "cftc",
-      "despite",
-      "gemini",
-      "judge",
-      "million",
-      "rejects",
-      "settlement",
-      "void"
-    ],
-    "ts": 1792144267.440296
-  },
-  {
-    "id": "42f0aac3-b960-4e42-9205-1c651297db05",
-    "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
-    "tokens": [
-      "approves",
-      "could",
-      "eject",
-      "equity",
-      "indexes",
-      "metaplanet",
-      "msci",
-      "rules",
-      "strategy"
-    ],
-    "ts": 1792144274.753662
-  },
-  {
     "id": "c04850a9-6aba-4352-90e8-e0aefedcffe2",
     "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
     "tokens": [
@@ -23817,5 +23191,624 @@
       "reserve"
     ],
     "ts": 1793125449.2585924
+  },
+  {
+    "id": "WP-MKTW-0005310326",
+    "title": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
+    "tokens": [
+      "anthropic",
+      "coreweave",
+      "faith",
+      "market",
+      "other",
+      "restores",
+      "rise",
+      "spending",
+      "stocks",
+      "sustained"
+    ],
+    "ts": 1793140172.7176664
+  },
+  {
+    "id": "WP-MKTW-0005308665",
+    "title": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
+    "tokens": [
+      "companies",
+      "consumers",
+      "energy",
+      "ever",
+      "expensive",
+      "face",
+      "fortunes",
+      "gas",
+      "most",
+      "prices",
+      "touts",
+      "trump",
+      "year"
+    ],
+    "ts": 1793140180.3212008
+  },
+  {
+    "id": "WP-MKTW-0005310034",
+    "title": "The rest of the market is leaving Big Tech behind after a historic comeback",
+    "tokens": [
+      "behind",
+      "big",
+      "comeback",
+      "historic",
+      "leaving",
+      "market",
+      "rest",
+      "tech"
+    ],
+    "ts": 1793140187.4948688
+  },
+  {
+    "id": "WP-MKTW-0005310369",
+    "title": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
+    "tokens": [
+      "burned",
+      "buy",
+      "chip",
+      "crypto",
+      "dip",
+      "gets",
+      "market",
+      "retail",
+      "robinhood",
+      "stocks",
+      "traders"
+    ],
+    "ts": 1793140198.1394064
+  },
+  {
+    "id": "WP-MKTW-0005309584",
+    "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
+    "tokens": [
+      "biggest",
+      "broadcom",
+      "can",
+      "dislocation",
+      "how",
+      "market",
+      "overcome",
+      "stock",
+      "surge"
+    ],
+    "ts": 1793140204.785458
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-cheesecake-factory-beats-q3-2026-estimates-shares-slip-93CH-4977152",
+    "title": "Earnings call transcript: Cheesecake Factory beats Q3 2026 estimates, shares slip",
+    "tokens": [
+      "2026",
+      "beats",
+      "call",
+      "cheesecake",
+      "earnings",
+      "estimates",
+      "factory",
+      "shares",
+      "slip",
+      "transcript"
+    ],
+    "ts": 1793140212.2263117
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-enphase-energy-q3-2026-profit-miss-sends-shares-lower-93CH-4977145",
+    "title": "Earnings call transcript: Enphase Energy Q3 2026 profit miss sends shares lower",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "energy",
+      "enphase",
+      "lower",
+      "miss",
+      "profit",
+      "sends",
+      "shares",
+      "transcript"
+    ],
+    "ts": 1793140216.2397091
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-seagate-beats-q1-2026-forecasts-shares-fall-after-hours-93CH-4977144",
+    "title": "Earnings call transcript: Seagate beats Q1 2026 forecasts, shares fall after hours",
+    "tokens": [
+      "2026",
+      "beats",
+      "call",
+      "earnings",
+      "fall",
+      "forecasts",
+      "hours",
+      "seagate",
+      "shares",
+      "transcript"
+    ],
+    "ts": 1793140220.3335834
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-sensata-tops-q3-2026-forecasts-shares-slip-after-hours-93CH-4977143",
+    "title": "Earnings call transcript: Sensata tops Q3 2026 forecasts, shares slip after hours",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "forecasts",
+      "hours",
+      "sensata",
+      "shares",
+      "slip",
+      "tops",
+      "transcript"
+    ],
+    "ts": 1793140227.5303423
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-intapp-q1-2027-revenue-miss-sparks-sharp-stock-drop-93CH-4977142",
+    "title": "Earnings call transcript: Intapp Q1 2027 revenue miss sparks sharp stock drop",
+    "tokens": [
+      "2027",
+      "call",
+      "drop",
+      "earnings",
+      "intapp",
+      "miss",
+      "revenue",
+      "sharp",
+      "sparks",
+      "stock",
+      "transcript"
+    ],
+    "ts": 1793140234.5620198
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/deep-sea-minerals-appoints-raj-matthew-as-cfo-93CH-4977141",
+    "title": "Deep Sea Minerals appoints Raj Matthew as CFO",
+    "tokens": [
+      "appoints",
+      "cfo",
+      "deep",
+      "matthew",
+      "minerals",
+      "raj",
+      "sea"
+    ],
+    "ts": 1793140241.7817836
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/invo-fertility-announces-1for4-reverse-stock-split-93CH-4977140",
+    "title": "INVO Fertility announces 1-for-4 reverse stock split",
+    "tokens": [
+      "announces",
+      "fertility",
+      "invo",
+      "reverse",
+      "split",
+      "stock"
+    ],
+    "ts": 1793140249.3901284
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/f5-q4-fy26-slides-23-product-growth-ai-bookings-top-100m-93CH-4977138",
+    "title": "F5 Q4 FY26 slides: 23% product growth, AI bookings top $100M",
+    "tokens": [
+      "100m",
+      "bookings",
+      "fy26",
+      "growth",
+      "product",
+      "slides",
+      "top"
+    ],
+    "ts": 1793140256.8147223
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/ensign-group-surges-on-raised-earnings-guidance-4977137",
+    "title": "Ensign Group surges on raised earnings guidance",
+    "tokens": [
+      "earnings",
+      "ensign",
+      "group",
+      "guidance",
+      "raised",
+      "surges"
+    ],
+    "ts": 1793140263.972099
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/robinhood-quarterly-profit-falls-as-softer-crypto-activity-outweighs-robust-trading-4976781",
+    "title": "Robinhood profit misses estimates as crypto trading slows",
+    "tokens": [
+      "crypto",
+      "estimates",
+      "misses",
+      "profit",
+      "robinhood",
+      "slows",
+      "trading"
+    ],
+    "ts": 1793140271.2073593
+  },
+  {
+    "id": "https://www.businessinsider.com/sc/what-multipliers-talent-trends-reveal-about-the-future-of-work",
+    "title": "What Multiplier's talent trends reveal about the future of work",
+    "tokens": [
+      "about",
+      "future",
+      "multiplier",
+      "reveal",
+      "talent",
+      "trends",
+      "what",
+      "work"
+    ],
+    "ts": 1793140278.686361
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/bison-oil-gas-iv-llc-announces-pricing-of-600-million-of-senior-notes-due-2031-1036672767",
+    "title": "Bison Oil & Gas IV, LLC Announces Pricing of $600 Million of Senior Notes Due 2031",
+    "tokens": [
+      "2031",
+      "600",
+      "announces",
+      "bison",
+      "due",
+      "gas",
+      "llc",
+      "million",
+      "notes",
+      "oil",
+      "pricing",
+      "senior"
+    ],
+    "ts": 1793140286.0997992
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/the-whiskey-wireless-podcast-by-clearsky-technologies-wins-gold-at-the-2026-signal-awards-1036672766",
+    "title": "The Whiskey & Wireless Podcast, by ClearSky Technologies, Wins Gold at the 2026 Signal Awards",
+    "tokens": [
+      "2026",
+      "awards",
+      "clearsky",
+      "gold",
+      "podcast",
+      "signal",
+      "technologies",
+      "whiskey",
+      "wins",
+      "wireless"
+    ],
+    "ts": 1793140293.2631483
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/toll-brothers-announces-new-collection-coming-soon-to-toll-brothers-at-jordanelle-ridge-in-heber-city-utah-1036672768",
+    "title": "Toll Brothers Announces New Collection Coming Soon to Toll Brothers at Jordanelle Ridge in Heber City, Utah",
+    "tokens": [
+      "announces",
+      "brothers",
+      "city",
+      "collection",
+      "coming",
+      "heber",
+      "jordanelle",
+      "ridge",
+      "soon",
+      "toll",
+      "utah"
+    ],
+    "ts": 1793140299.9663775
+  },
+  {
+    "id": "https://seekingalpha.com/news/4658301-roundhill-top-weeklypay-etf-declares-0_1556-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Roundhill Top WeeklyPay ETF declares $0.1556 dividend",
+    "tokens": [
+      "1556",
+      "declares",
+      "dividend",
+      "etf",
+      "roundhill",
+      "top",
+      "weeklypay"
+    ],
+    "ts": 1793140307.3746073
+  },
+  {
+    "id": "https://seekingalpha.com/news/4658300-american-water-works-declares-0_895-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "American Water Works declares $0.895 dividend",
+    "tokens": [
+      "895",
+      "american",
+      "declares",
+      "dividend",
+      "water",
+      "works"
+    ],
+    "ts": 1793140315.010431
+  },
+  {
+    "id": "https://seekingalpha.com/news/4658299-dominion-energy-declares-0_6675-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Dominion Energy declares $0.6675 dividend",
+    "tokens": [
+      "6675",
+      "declares",
+      "dividend",
+      "dominion",
+      "energy"
+    ],
+    "ts": 1793140321.7097273
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/the-nuvo-group-announces-participation-in-the-pipes-conference-1036672741",
+    "title": "The Nuvo Group Announces Participation in The PIPEs Conference",
+    "tokens": [
+      "announces",
+      "conference",
+      "group",
+      "nuvo",
+      "participation",
+      "pipes"
+    ],
+    "ts": 1793140328.505087
+  },
+  {
+    "id": "https://seekingalpha.com/news/4658298-rex-wmt-growth-and-income-etf-declares-0_0947-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "REX WMT Growth & Income ETF declares $0.0947 dividend",
+    "tokens": [
+      "0947",
+      "declares",
+      "dividend",
+      "etf",
+      "growth",
+      "income",
+      "rex",
+      "wmt"
+    ],
+    "ts": 1793140335.2112453
+  },
+  {
+    "id": "https://seekingalpha.com/news/4658297-rex-tsla-growth-and-income-etf-declares-0_1439-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "REX TSLA Growth & Income ETF declares $0.1439 dividend",
+    "tokens": [
+      "1439",
+      "declares",
+      "dividend",
+      "etf",
+      "growth",
+      "income",
+      "rex",
+      "tsla"
+    ],
+    "ts": 1793140339.224699
+  },
+  {
+    "id": "oilprice-article-45896",
+    "title": "Will Rubio’s Jamnagar Move Permanently Break The Russia-India Oil Axis?",
+    "tokens": [
+      "axis",
+      "break",
+      "india",
+      "jamnagar",
+      "move",
+      "oil",
+      "permanently",
+      "rubio",
+      "russia"
+    ],
+    "ts": 1793140343.0009723
+  },
+  {
+    "id": "oilprice-article-45895",
+    "title": "Turkey’s Libya Deal Puts Oil Majors in a Bind",
+    "tokens": [
+      "bind",
+      "deal",
+      "libya",
+      "majors",
+      "oil",
+      "puts",
+      "turkey"
+    ],
+    "ts": 1793140350.3406918
+  },
+  {
+    "id": "oilprice-news-45896",
+    "title": "US Crude Oil Inventories Buck Analyst Expectations",
+    "tokens": [
+      "analyst",
+      "buck",
+      "crude",
+      "expectations",
+      "inventories",
+      "oil"
+    ],
+    "ts": 1793140357.7362552
+  },
+  {
+    "id": "oilprice-article-45892",
+    "title": "5 Data Center Power Stocks to Watch Before Earnings",
+    "tokens": [
+      "before",
+      "center",
+      "data",
+      "earnings",
+      "power",
+      "stocks",
+      "watch"
+    ],
+    "ts": 1793140364.9998825
+  },
+  {
+    "id": "oilprice-article-45894",
+    "title": "The Diesel Crisis Is Here To Stay",
+    "tokens": [
+      "crisis",
+      "diesel",
+      "here",
+      "stay"
+    ],
+    "ts": 1793140372.3976405
+  },
+  {
+    "id": "oilprice-news-45895",
+    "title": "Russia’s Crude Exports Set to Fall as Diesel Production Rises",
+    "tokens": [
+      "crude",
+      "diesel",
+      "exports",
+      "fall",
+      "production",
+      "rises",
+      "russia",
+      "set"
+    ],
+    "ts": 1793140379.2186253
+  },
+  {
+    "id": "oilprice-news-45894",
+    "title": "Saudi Aramco Offers Discounted Oil to Europe as Exports Recover",
+    "tokens": [
+      "aramco",
+      "discounted",
+      "europe",
+      "exports",
+      "offers",
+      "oil",
+      "recover",
+      "saudi"
+    ],
+    "ts": 1793140383.2312808
+  },
+  {
+    "id": "10a48238-6a44-4b6b-ae90-4d9963af9c8c",
+    "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+    "tokens": [
+      "america",
+      "bessent",
+      "crypto",
+      "dollar",
+      "keeping",
+      "next",
+      "sees",
+      "tool",
+      "top",
+      "treasury"
+    ],
+    "ts": 1793140386.0379984
+  },
+  {
+    "id": "cf69ebe9-4c0d-48d0-a0ad-c82ef5bbdf18",
+    "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+    "tokens": [
+      "crypto",
+      "fell",
+      "forecasts",
+      "last",
+      "revenue",
+      "robinhood",
+      "street",
+      "topped",
+      "year"
+    ],
+    "ts": 1793140392.8467948
+  },
+  {
+    "id": "3cb2df5b-c938-47fa-81ec-152845fd09c3",
+    "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+    "tokens": [
+      "ability",
+      "agency",
+      "betting",
+      "hits",
+      "kalshi",
+      "lawsuit",
+      "offer",
+      "shield",
+      "there",
+      "utah"
+    ],
+    "ts": 1793140399.6359348
+  },
+  {
+    "id": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure",
+    "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+    "tokens": [
+      "bitcoin",
+      "bonds",
+      "combining",
+      "diversified",
+      "etf",
+      "exposure",
+      "launches",
+      "stocks",
+      "vaneck"
+    ],
+    "ts": 1793140406.5754972
+  },
+  {
+    "id": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks",
+    "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
+    "tokens": [
+      "ibm",
+      "ice",
+      "intel",
+      "ionq",
+      "latest",
+      "object",
+      "okx",
+      "oracle",
+      "stocks",
+      "tokenized"
+    ],
+    "ts": 1793140413.541089
+  },
+  {
+    "id": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says",
+    "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+    "tokens": [
+      "already",
+      "bitcoin",
+      "fears",
+      "founder",
+      "growth",
+      "limiting",
+      "quantum",
+      "stacks"
+    ],
+    "ts": 1793140420.100647
+  },
+  {
+    "id": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets",
+    "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+    "tokens": [
+      "bring",
+      "expand",
+      "institutional",
+      "markets",
+      "partnership",
+      "retail",
+      "ripple",
+      "rlusd",
+      "robinhood"
+    ],
+    "ts": 1793140426.938015
+  },
+  {
+    "id": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets",
+    "title": "CFTC sues Utah to block action against prediction markets",
+    "tokens": [
+      "action",
+      "against",
+      "block",
+      "cftc",
+      "markets",
+      "prediction",
+      "sues",
+      "utah"
+    ],
+    "ts": 1793140433.78388
   }
 ]

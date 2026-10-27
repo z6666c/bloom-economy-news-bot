@@ -1,774 +1,5 @@
 [
   {
-    "id": "oilprice-article-45780",
-    "title": "Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
-    "tokens": [
-      "arrive",
-      "drilling",
-      "gains",
-      "momentum",
-      "oil",
-      "recovery",
-      "rigs",
-      "venezuela"
-    ],
-    "ts": 1792091671.666735
-  },
-  {
-    "id": "oilprice-article-45781",
-    "title": "EIA Says US Crude Inventories Down Nearly 9 Million Barrels",
-    "tokens": [
-      "barrels",
-      "crude",
-      "eia",
-      "inventories",
-      "million",
-      "nearly"
-    ],
-    "ts": 1792091679.87117
-  },
-  {
-    "id": "oilprice-article-45774",
-    "title": "Trump Denies Cutting Ukraine Intelligence Amid Satellite Restrictions",
-    "tokens": [
-      "cutting",
-      "denies",
-      "intelligence",
-      "restrictions",
-      "satellite",
-      "trump",
-      "ukraine"
-    ],
-    "ts": 1792091688.5773728
-  },
-  {
-    "id": "oilprice-news-45782",
-    "title": "Pakistan Faces Winter Gas Shortages if Hormuz LNG Remains Choked",
-    "tokens": [
-      "choked",
-      "faces",
-      "gas",
-      "hormuz",
-      "lng",
-      "pakistan",
-      "remains",
-      "shortages",
-      "winter"
-    ],
-    "ts": 1792091696.3132074
-  },
-  {
-    "id": "oilprice-news-45781",
-    "title": "Europe’s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited",
-    "tokens": [
-      "2022",
-      "close",
-      "europe",
-      "flows",
-      "gas",
-      "high",
-      "hormuz",
-      "limited",
-      "lng",
-      "prices",
-      "remain"
-    ],
-    "ts": 1792091700.3290331
-  },
-  {
-    "id": "oilprice-news-45780",
-    "title": "U.S. Wants World Bank to Drop Ban on Upstream Oil and Gas Funding",
-    "tokens": [
-      "ban",
-      "bank",
-      "drop",
-      "funding",
-      "gas",
-      "oil",
-      "upstream",
-      "wants",
-      "world"
-    ],
-    "ts": 1792091700.3445568
-  },
-  {
-    "id": "f791d75f-ea39-43e0-99bc-a8769c3ebcab",
-    "title": "At the White House, crypto policy vacancy looms large",
-    "tokens": [
-      "crypto",
-      "house",
-      "large",
-      "looms",
-      "policy",
-      "vacancy",
-      "white"
-    ],
-    "ts": 1792091708.6784124
-  },
-  {
-    "id": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict",
-    "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
-    "tokens": [
-      "adviser",
-      "bill",
-      "crypto",
-      "helping",
-      "pass",
-      "profited",
-      "stablecoin",
-      "trump",
-      "wsj"
-    ],
-    "ts": 1792091715.9432106
-  },
-  {
-    "id": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation",
-    "title": "Sweden revisits digital krona as ECB advances digital euro plans",
-    "tokens": [
-      "advances",
-      "digital",
-      "ecb",
-      "euro",
-      "krona",
-      "plans",
-      "revisits",
-      "sweden"
-    ],
-    "ts": 1792091723.2844005
-  },
-  {
-    "id": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins",
-    "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
-    "tokens": [
-      "balances",
-      "banking",
-      "brings",
-      "card",
-      "mastercard",
-      "payments",
-      "stablecoin",
-      "traditional"
-    ],
-    "ts": 1792091731.0027313
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years",
-    "title": "Bitcoin slips under $80K after US PPI gains most in four years",
-    "tokens": [
-      "80k",
-      "bitcoin",
-      "four",
-      "gains",
-      "most",
-      "ppi",
-      "slips",
-      "under",
-      "years"
-    ],
-    "ts": 1792091738.8953485
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-    "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-    "tokens": [
-      "announces",
-      "application",
-      "approval",
-      "board",
-      "capital",
-      "corporation",
-      "federal",
-      "fleur",
-      "reserve"
-    ],
-    "ts": 1792091746.3038368
-  },
-  {
-    "id": "WP-MKTW-0005290121",
-    "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-    "tokens": [
-      "could",
-      "crash",
-      "democrats",
-      "how",
-      "midterm",
-      "selloff",
-      "sweep",
-      "tech",
-      "turn"
-    ],
-    "ts": 1792102913.9861588
-  },
-  {
-    "id": "WP-MKTW-0005289648",
-    "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
-    "tokens": [
-      "advantage",
-      "ditch",
-      "don",
-      "just",
-      "latest",
-      "make",
-      "moves",
-      "reset",
-      "stocks",
-      "take",
-      "tech",
-      "these",
-      "yet"
-    ],
-    "ts": 1792102921.386297
-  },
-  {
-    "id": "WP-MKTW-0005288999",
-    "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
-    "tokens": [
-      "about",
-      "coreweave",
-      "off",
-      "polarizing",
-      "rebounds",
-      "spending",
-      "squares",
-      "stock",
-      "street",
-      "wall"
-    ],
-    "ts": 1792102929.4848583
-  },
-  {
-    "id": "WP-MKTW-0005289202",
-    "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
-    "tokens": [
-      "dumping",
-      "here",
-      "investors",
-      "now",
-      "stocks",
-      "tech",
-      "they",
-      "turning",
-      "where",
-      "worsens",
-      "wreck"
-    ],
-    "ts": 1792102936.8330977
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/cohere-moves-to-buy-ai-cybersecuritystartup-aisle-4950863",
-    "title": "Cohere moves to buy AI cybersecurity startup Aisle",
-    "tokens": [
-      "aisle",
-      "buy",
-      "cohere",
-      "cybersecurity",
-      "moves",
-      "startup"
-    ],
-    "ts": 1792102944.879718
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-oct-14-4952758",
-    "title": "Anthropic to add US voting information to Claude before midterms (Oct 14)",
-    "tokens": [
-      "add",
-      "anthropic",
-      "before",
-      "claude",
-      "information",
-      "midterms",
-      "oct",
-      "voting"
-    ],
-    "ts": 1792102952.3501277
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiveun-chief-frontrunner-rebeca-grynspan-says-un-has-become-too-riskaverse-4952757",
-    "title": "Exclusive-UN chief frontrunner Rebeca Grynspan says UN has ’become too risk-averse’",
-    "tokens": [
-      "averse",
-      "become",
-      "chief",
-      "exclusive",
-      "frontrunner",
-      "grynspan",
-      "rebeca",
-      "risk",
-      "too"
-    ],
-    "ts": 1792102960.1225152
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/alcoa-q3-2026-slides-strong-operations-offset-metal-price-pressure-93CH-4952756",
-    "title": "Alcoa Q3 2026 slides: strong operations offset metal price pressure",
-    "tokens": [
-      "2026",
-      "alcoa",
-      "metal",
-      "offset",
-      "operations",
-      "pressure",
-      "price",
-      "slides",
-      "strong"
-    ],
-    "ts": 1792102967.568352
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/kfc-to-sign-cocacola-on-as-beverage-partner-ditching-pepsico-wsj-reports-4952509",
-    "title": "KFC picks Coca-Cola as US soda supplier, ditches longtime partner PepsiCo",
-    "tokens": [
-      "coca",
-      "cola",
-      "ditches",
-      "kfc",
-      "longtime",
-      "partner",
-      "pepsico",
-      "picks",
-      "soda",
-      "supplier"
-    ],
-    "ts": 1792102975.1527903
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/elon-musk-agrees-to-settle-lawsuits-over-2024-election-lottery-4952753",
-    "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
-    "tokens": [
-      "2024",
-      "agrees",
-      "election",
-      "elon",
-      "lawsuits",
-      "lottery",
-      "musk",
-      "settle"
-    ],
-    "ts": 1792102982.0576034
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/msci-proposes-downgrading-indonesia-to-standalone-market-status-93CH-4952751",
-    "title": "MSCI proposes downgrading Indonesia to standalone market status",
-    "tokens": [
-      "downgrading",
-      "indonesia",
-      "market",
-      "msci",
-      "proposes",
-      "standalone",
-      "status"
-    ],
-    "ts": 1792102989.247208
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-alcoa-tops-q3-2026-eps-forecast-as-revenue-misses-93CH-4952743",
-    "title": "Earnings call transcript: Alcoa tops Q3 2026 EPS forecast as revenue misses",
-    "tokens": [
-      "2026",
-      "alcoa",
-      "call",
-      "earnings",
-      "eps",
-      "forecast",
-      "misses",
-      "revenue",
-      "tops",
-      "transcript"
-    ],
-    "ts": 1792102997.4200013
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusiveinvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-4952698",
-    "title": "Exclusive-Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
-    "tokens": [
-      "anthropic",
-      "exclusive",
-      "expectations",
-      "growth",
-      "investors",
-      "ipo",
-      "revenue",
-      "say",
-      "slowdown",
-      "sources",
-      "temper",
-      "valuation"
-    ],
-    "ts": 1792103004.22554
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/qualys-ceo-sumedh-thakar-sells-609147-in-company-stock-93CH-4952739",
-    "title": "Qualys CEO Sumedh Thakar sells $609,147 in company stock",
-    "tokens": [
-      "147",
-      "609",
-      "ceo",
-      "company",
-      "qualys",
-      "sells",
-      "stock",
-      "sumedh",
-      "thakar"
-    ],
-    "ts": 1792103012.2842996
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/kaplan-fox-urges-investors-of-flotek-industries-inc.-ftk-to-seek-a-leadership-role-before-october-26-2026-1036632154",
-    "title": "Kaplan Fox Urges Investors of Flotek Industries, Inc. (FTK) to Seek a Leadership Role Before October 26, 2026",
-    "tokens": [
-      "2026",
-      "before",
-      "flotek",
-      "fox",
-      "ftk",
-      "inc",
-      "industries",
-      "investors",
-      "kaplan",
-      "leadership",
-      "october",
-      "role",
-      "seek",
-      "urges"
-    ],
-    "ts": 1792103020.143653
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-its-stage-close-to-sellout-while-xrp-price-prediction-targets-315-1036632155",
-    "title": "Crypto News: Pepeto Announces Its Stage Close to Sellout While XRP Price Prediction Targets $315",
-    "tokens": [
-      "315",
-      "announces",
-      "close",
-      "crypto",
-      "news",
-      "pepeto",
-      "prediction",
-      "price",
-      "sellout",
-      "stage",
-      "targets",
-      "while",
-      "xrp"
-    ],
-    "ts": 1792103027.5783892
-  },
-  {
-    "id": "https://seekingalpha.com/news/4653649-idacorp-raises-quarterly-dividend-by-23-to-090share?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "IDACORP raises quarterly dividend by 2.3% to  $0.90/share",
-    "tokens": [
-      "dividend",
-      "idacorp",
-      "quarterly",
-      "raises",
-      "share"
-    ],
-    "ts": 1792103035.6089065
-  },
-  {
-    "id": "https://seekingalpha.com/news/4653648-consolidated-edison-declares-0_8875-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Consolidated Edison declares $0.8875 dividend",
-    "tokens": [
-      "8875",
-      "consolidated",
-      "declares",
-      "dividend",
-      "edison"
-    ],
-    "ts": 1792103043.0472043
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/copa-holdings-announces-third-quarter-financial-results-release-schedule-1036632148",
-    "title": "Copa Holdings Announces Third Quarter Financial Results Release Schedule",
-    "tokens": [
-      "announces",
-      "copa",
-      "financial",
-      "holdings",
-      "quarter",
-      "release",
-      "results",
-      "schedule",
-      "third"
-    ],
-    "ts": 1792103050.6096647
-  },
-  {
-    "id": "https://seekingalpha.com/news/4653645-nb-bancorp-gaap-eps-of-0_58-in-line-revenue-of-76_5m-misses-by-0_8m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "NB Bancorp GAAP EPS of $0.58 in-line, revenue of $76.5M misses by $0.8M",
-    "tokens": [
-      "bancorp",
-      "eps",
-      "gaap",
-      "line",
-      "misses",
-      "revenue"
-    ],
-    "ts": 1792103057.9779549
-  },
-  {
-    "id": "https://seekingalpha.com/news/4653629-varonis-systems-gains-after-proofpoint-agrees-to-buy-for-4975share-in-cash?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Varonis Systems gains after Proofpoint agrees to buy for $49.75/share in cash",
-    "tokens": [
-      "agrees",
-      "buy",
-      "cash",
-      "gains",
-      "proofpoint",
-      "share",
-      "systems",
-      "varonis"
-    ],
-    "ts": 1792103064.9759796
-  },
-  {
-    "id": "https://seekingalpha.com/news/4653643-delphx-capital-markets-appoints-new-cfo?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "DelphX Capital Markets appoints new CFO",
-    "tokens": [
-      "appoints",
-      "capital",
-      "cfo",
-      "delphx",
-      "markets"
-    ],
-    "ts": 1792103071.302379
-  },
-  {
-    "id": "https://seekingalpha.com/news/4653638-carriage-declares-0_1125-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Carriage declares $0.1125 dividend",
-    "tokens": [
-      "1125",
-      "carriage",
-      "declares",
-      "dividend"
-    ],
-    "ts": 1792103078.1216757
-  },
-  {
-    "id": "https://seekingalpha.com/news/4653631-colony-bankcorp-and-first-reliance-shareholders-approve-163m-merger?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Colony Bankcorp and First Reliance shareholders approve $163M merger",
-    "tokens": [
-      "163m",
-      "approve",
-      "bankcorp",
-      "colony",
-      "first",
-      "merger",
-      "reliance",
-      "shareholders"
-    ],
-    "ts": 1792103085.1405835
-  },
-  {
-    "id": "oilprice-article-45783",
-    "title": "Exxon’s Oil Boom Could Keep Guyana’s Gas at Home",
-    "tokens": [
-      "boom",
-      "could",
-      "exxon",
-      "gas",
-      "guyana",
-      "home",
-      "keep",
-      "oil"
-    ],
-    "ts": 1792103093.0637162
-  },
-  {
-    "id": "oilprice-article-45779",
-    "title": "U.S. Nuclear Fuel Independence Edges Closer as Urenco Expansion Hits 75%",
-    "tokens": [
-      "closer",
-      "edges",
-      "expansion",
-      "fuel",
-      "hits",
-      "independence",
-      "nuclear",
-      "urenco"
-    ],
-    "ts": 1792103101.133554
-  },
-  {
-    "id": "oilprice-article-45777",
-    "title": "6 Countries Pledge Faster Cargo Transfers on Eurasia-Europe Land Bridge",
-    "tokens": [
-      "bridge",
-      "cargo",
-      "countries",
-      "eurasia",
-      "europe",
-      "faster",
-      "land",
-      "pledge",
-      "transfers"
-    ],
-    "ts": 1792103108.4067476
-  },
-  {
-    "id": "oilprice-news-45783",
-    "title": "Ukraine Strikes Major Russian Oil Refinery",
-    "tokens": [
-      "major",
-      "oil",
-      "refinery",
-      "russian",
-      "strikes",
-      "ukraine"
-    ],
-    "ts": 1792103115.9331813
-  },
-  {
-    "id": "https://cointelegraph.com/news/binance-us-funding-valuation-billion",
-    "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
-    "tokens": [
-      "100m",
-      "binance",
-      "funding",
-      "potential",
-      "report",
-      "round",
-      "seeks",
-      "valuation"
-    ],
-    "ts": 1792103123.5534852
-  },
-  {
-    "id": "WP-MKTW-0005290699",
-    "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
-    "tokens": [
-      "coke",
-      "ground",
-      "kfc",
-      "loses",
-      "more",
-      "pepsi",
-      "soda",
-      "switches",
-      "wars"
-    ],
-    "ts": 1792110892.2945185
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/terrestrial-energy-director-pardee-buys-22125-in-company-stock-93CH-4952892",
-    "title": "Terrestrial Energy director Pardee buys $22,125 in company stock",
-    "tokens": [
-      "125",
-      "buys",
-      "company",
-      "director",
-      "energy",
-      "pardee",
-      "stock",
-      "terrestrial"
-    ],
-    "ts": 1792110899.3134072
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/white-house-ordered-spacex-to-limit-ukraine-satellite-service-reuters-reports-93CH-4952891",
-    "title": "White House ordered SpaceX to limit Ukraine satellite service, Reuters reports",
-    "tokens": [
-      "house",
-      "limit",
-      "ordered",
-      "reports",
-      "reuters",
-      "satellite",
-      "service",
-      "spacex",
-      "ukraine",
-      "white"
-    ],
-    "ts": 1792110906.7391508
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/loop-industries-earnings-missed-by-002-revenue-fell-short-of-estimates-4952881",
-    "title": "Loop Industries earnings missed by $0.02, revenue fell short of estimates",
-    "tokens": [
-      "earnings",
-      "estimates",
-      "fell",
-      "industries",
-      "loop",
-      "missed",
-      "revenue",
-      "short"
-    ],
-    "ts": 1792110914.6135347
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/progress-toward-a-usmexico-tariff-deal-has-stalled-wsj-reports-4952880",
-    "title": "Progress toward a US-Mexico tariff deal has stalled, WSJ reports",
-    "tokens": [
-      "deal",
-      "mexico",
-      "progress",
-      "reports",
-      "stalled",
-      "tariff",
-      "toward",
-      "wsj"
-    ],
-    "ts": 1792110922.1993837
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/lcnb-earnings-beat-by-004-revenue-topped-estimates-4952879",
-    "title": "LCNB earnings beat by $0.04, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "earnings",
-      "estimates",
-      "lcnb",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1792110929.7932138
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-amazon-stock-buys-coreweave-and-iambic-93CH-4952878",
-    "title": "Cathie Wood’s ARK sells Amazon stock, buys CoreWeave and Iambic",
-    "tokens": [
-      "amazon",
-      "ark",
-      "buys",
-      "cathie",
-      "coreweave",
-      "iambic",
-      "sells",
-      "stock",
-      "wood"
-    ],
-    "ts": 1792110936.6217587
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-pls-stock-rising-today-93CH-4952877",
-    "title": "Why is Pls stock rising today?",
-    "tokens": [
-      "pls",
-      "rising",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1792110943.4408727
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/mongolian-mining-reports-q3-coal-sales-drop-gold-output-rises-93CH-4952876",
-    "title": "Mongolian Mining reports Q3 coal sales drop, gold output rises",
-    "tokens": [
-      "coal",
-      "drop",
-      "gold",
-      "mining",
-      "mongolian",
-      "output",
-      "reports",
-      "rises",
-      "sales"
-    ],
-    "ts": 1792110950.295778
-  },
-  {
     "id": "https://www.investing.com/news/company-news/prime-drink-group-launches-c4m-financing-closes-c200k-placement-93CH-4952874",
     "title": "Prime Drink Group launches C$4M financing, closes C$200K placement",
     "tokens": [
@@ -23774,5 +23005,817 @@
       "until"
     ],
     "ts": 1793104679.4169679
+  },
+  {
+    "id": "WP-MKTW-0005310363",
+    "title": "The big reason Boeing’s stock is falling so hard after earnings",
+    "tokens": [
+      "big",
+      "boeing",
+      "earnings",
+      "falling",
+      "hard",
+      "reason",
+      "stock"
+    ],
+    "ts": 1793125109.8815248
+  },
+  {
+    "id": "WP-MKTW-0005299853",
+    "title": "‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto",
+    "tokens": [
+      "any",
+      "bitcoin",
+      "crypto",
+      "cryptodad",
+      "directly",
+      "does",
+      "own",
+      "portfolio",
+      "role",
+      "stablecoins",
+      "why"
+    ],
+    "ts": 1793125118.268209
+  },
+  {
+    "id": "WP-MKTW-0005310049",
+    "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
+    "tokens": [
+      "charted",
+      "jetblue",
+      "just",
+      "losing",
+      "money",
+      "path",
+      "profitability",
+      "years"
+    ],
+    "ts": 1793125125.445528
+  },
+  {
+    "id": "WP-MKTW-0005309841",
+    "title": "When will Anthropic go public? Here’s what to know about the IPO timeline.",
+    "tokens": [
+      "about",
+      "anthropic",
+      "here",
+      "ipo",
+      "know",
+      "public",
+      "timeline",
+      "what",
+      "when"
+    ],
+    "ts": 1793125133.3070986
+  },
+  {
+    "id": "WP-MKTW-0005308105",
+    "title": "The U.S. economy is gathering steam. This is the chief reason why.",
+    "tokens": [
+      "chief",
+      "economy",
+      "gathering",
+      "reason",
+      "steam",
+      "why"
+    ],
+    "ts": 1793125140.5532715
+  },
+  {
+    "id": "WP-MKTW-0005307609",
+    "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
+    "tokens": [
+      "bet",
+      "big",
+      "birds",
+      "chicken",
+      "franchisees",
+      "hits",
+      "mcdonald",
+      "say",
+      "snag",
+      "too"
+    ],
+    "ts": 1793125148.0716052
+  },
+  {
+    "id": "WP-MKTW-0005309800",
+    "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
+    "tokens": [
+      "bonds",
+      "create",
+      "guaranteed",
+      "how",
+      "income",
+      "inflation",
+      "proof",
+      "retirement",
+      "use"
+    ],
+    "ts": 1793125155.693368
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/cintas-declares-052-quarterly-dividend-payable-in-december-93CH-4976593",
+    "title": "Cintas declares $0.52 quarterly dividend payable in December",
+    "tokens": [
+      "cintas",
+      "december",
+      "declares",
+      "dividend",
+      "payable",
+      "quarterly"
+    ],
+    "ts": 1793125162.825224
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/fed-rate-decision-and-oil-inventories-due-wednesday-93CH-4976590",
+    "title": "Fed rate decision and oil inventories due Wednesday",
+    "tokens": [
+      "decision",
+      "due",
+      "fed",
+      "inventories",
+      "oil",
+      "rate",
+      "wednesday"
+    ],
+    "ts": 1793125169.677518
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/exclusiveus-agency-is-again-probing-if-polymarket-broke-2022-settlement-sources-says-4976558",
+    "title": "Exclusive-US agency is again probing if Polymarket broke 2022 settlement, sources says",
+    "tokens": [
+      "2022",
+      "again",
+      "agency",
+      "broke",
+      "exclusive",
+      "polymarket",
+      "probing",
+      "settlement",
+      "sources"
+    ],
+    "ts": 1793125177.4817674
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/maire-9m-2026-slides-backlog-nears-record-as-margins-expand-93CH-4976587",
+    "title": "MAIRE 9M 2026 slides: backlog nears record as margins expand",
+    "tokens": [
+      "2026",
+      "backlog",
+      "expand",
+      "maire",
+      "margins",
+      "nears",
+      "record",
+      "slides"
+    ],
+    "ts": 1793125184.9090075
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asm-international-expects-q4-sales-above-forecasts-to-hit-2030-goal-three-years-early-4976586",
+    "title": "ASM International expects Q4 sales above forecasts, to hit 2030 goal three years early",
+    "tokens": [
+      "2030",
+      "above",
+      "asm",
+      "early",
+      "expects",
+      "forecasts",
+      "goal",
+      "hit",
+      "international",
+      "sales",
+      "three",
+      "years"
+    ],
+    "ts": 1793125191.7161262
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/senegal-parliamentary-committee-to-review-revised-budget-key-for-new-imf-deal-4976585",
+    "title": "Senegal parliamentary committee to review revised budget key for new IMF deal",
+    "tokens": [
+      "budget",
+      "committee",
+      "deal",
+      "imf",
+      "key",
+      "parliamentary",
+      "review",
+      "revised",
+      "senegal"
+    ],
+    "ts": 1793125198.3046956
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-ballard-power-stock-price-target-on-lower-peer-multiples-93CH-4976584",
+    "title": "Jefferies cuts Ballard Power stock price target on lower peer multiples",
+    "tokens": [
+      "ballard",
+      "cuts",
+      "jefferies",
+      "lower",
+      "multiples",
+      "peer",
+      "power",
+      "price",
+      "stock",
+      "target"
+    ],
+    "ts": 1793125205.2142808
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-ipo-a-test-of-markets-patience-for-ai-growth-stories-firstrade-4976583",
+    "title": "Anthropic IPO a test of market’s patience for AI growth stories: Firstrade",
+    "tokens": [
+      "anthropic",
+      "firstrade",
+      "growth",
+      "ipo",
+      "market",
+      "patience",
+      "stories",
+      "test"
+    ],
+    "ts": 1793125212.4418416
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-five-star-bancorp-beats-q3-2026-estimates-as-shares-rise-93CH-4976582",
+    "title": "Earnings call transcript: Five Star Bancorp beats Q3 2026 estimates as shares rise",
+    "tokens": [
+      "2026",
+      "bancorp",
+      "beats",
+      "call",
+      "earnings",
+      "estimates",
+      "five",
+      "rise",
+      "shares",
+      "star",
+      "transcript"
+    ],
+    "ts": 1793125220.9741557
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-maire-tecnimont-q3-2026-profit-miss-offsets-strong-backlog-93CH-4976581",
+    "title": "Earnings call transcript: Maire Tecnimont Q3 2026 profit miss offsets strong backlog",
+    "tokens": [
+      "2026",
+      "backlog",
+      "call",
+      "earnings",
+      "maire",
+      "miss",
+      "offsets",
+      "profit",
+      "strong",
+      "tecnimont",
+      "transcript"
+    ],
+    "ts": 1793125228.4702938
+  },
+  {
+    "id": "https://seekingalpha.com/news/4658011-exlservice-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "ExlService Q3 2026 earnings preview",
+    "tokens": [
+      "2026",
+      "earnings",
+      "exlservice",
+      "preview"
+    ],
+    "ts": 1793125232.8058639
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/hona-shareholder-notice-faruqi-faruqi-llp-reminds-honeywell-aerospace-hona-investors-of-securities-class-action-lawsuit-deadline-on-november-23-2026-1036589979",
+    "title": "HONA SHAREHOLDER NOTICE: Faruqi & Faruqi, LLP Reminds Honeywell Aerospace (HONA) Investors of Securities Class Action Lawsuit Deadline on November 23, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "aerospace",
+      "class",
+      "deadline",
+      "faruqi",
+      "hona",
+      "honeywell",
+      "investors",
+      "lawsuit",
+      "llp",
+      "notice",
+      "november",
+      "reminds",
+      "securities",
+      "shareholder"
+    ],
+    "ts": 1793125236.7458482
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/flnc-shareholder-notice-faruqi-faruqi-llp-reminds-fluence-energy-flnc-investors-of-securities-class-action-lawsuit-deadline-on-november-30-2026-1036671636",
+    "title": "FLNC SHAREHOLDER NOTICE: Faruqi & Faruqi, LLP Reminds Fluence Energy (FLNC) Investors of Securities Class Action Lawsuit Deadline on November 30, 2026",
+    "tokens": [
+      "2026",
+      "action",
+      "class",
+      "deadline",
+      "energy",
+      "faruqi",
+      "flnc",
+      "fluence",
+      "investors",
+      "lawsuit",
+      "llp",
+      "notice",
+      "november",
+      "reminds",
+      "securities",
+      "shareholder"
+    ],
+    "ts": 1793125240.7548547
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/church-s-texas-chicken-teams-up-with-southern-hip-hop-icon-project-pat-for-new-music-video-and-original-song-chickahhhn-1036671623",
+    "title": "Church’s Texas Chicken® Teams Up with Southern Hip-Hop Icon Project Pat for New Music Video and Original Song, “Chickahhhn”",
+    "tokens": [
+      "chickahhhn",
+      "chicken",
+      "church",
+      "hip",
+      "hop",
+      "icon",
+      "music",
+      "original",
+      "pat",
+      "project",
+      "song",
+      "southern",
+      "teams",
+      "texas",
+      "video"
+    ],
+    "ts": 1793125247.3681173
+  },
+  {
+    "id": "https://seekingalpha.com/news/4657972-crane-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Crane Q3 2026 earnings preview",
+    "tokens": [
+      "2026",
+      "crane",
+      "earnings",
+      "preview"
+    ],
+    "ts": 1793125251.3770604
+  },
+  {
+    "id": "https://seekingalpha.com/news/4657963-hedge-funds-build-most-bearish-bet-on-u-s-natural-gas-in-over-6-years?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Hedge funds build most bearish bet on U.S. natural gas in over 6 years",
+    "tokens": [
+      "bearish",
+      "bet",
+      "build",
+      "funds",
+      "gas",
+      "hedge",
+      "most",
+      "natural",
+      "years"
+    ],
+    "ts": 1793125254.3868408
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/currencies/max-power-mining-cse-maxx-otc-maxxf-confirms-natural-hydrogen-system-at-lawson-5-advances-drilling-and-testing-in-saskatchewan-1036671686",
+    "title": "MAX Power Mining (CSE: MAXX) (OTC: MAXXF) Confirms Natural Hydrogen System at Lawson 5, Advances Drilling and Testing in Saskatchewan",
+    "tokens": [
+      "advances",
+      "confirms",
+      "cse",
+      "drilling",
+      "hydrogen",
+      "lawson",
+      "max",
+      "maxx",
+      "maxxf",
+      "mining",
+      "natural",
+      "otc",
+      "power",
+      "saskatchewan",
+      "system",
+      "testing"
+    ],
+    "ts": 1793125263.1232834
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/canadians-want-professional-women-s-sport-most-fans-don-t-know-where-to-find-it-1036671624",
+    "title": "Canadians Want Professional Women’s Sport. Most Fans Don’t Know Where to Find it.",
+    "tokens": [
+      "canadians",
+      "don",
+      "fans",
+      "find",
+      "know",
+      "most",
+      "professional",
+      "sport",
+      "want",
+      "where",
+      "women"
+    ],
+    "ts": 1793125271.1625688
+  },
+  {
+    "id": "https://seekingalpha.com/news/4657941-icon-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Icon Q3 2026 earnings preview",
+    "tokens": [
+      "2026",
+      "earnings",
+      "icon",
+      "preview"
+    ],
+    "ts": 1793125275.1715832
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/ceco-environmental-to-release-third-quarter-2026-earnings-and-host-conference-call-on-november-9-1036671366",
+    "title": "CECO Environmental To Release Third Quarter 2026 Earnings and Host Conference Call on November 9",
+    "tokens": [
+      "2026",
+      "call",
+      "ceco",
+      "conference",
+      "earnings",
+      "environmental",
+      "host",
+      "november",
+      "quarter",
+      "release",
+      "third"
+    ],
+    "ts": 1793125278.054671
+  },
+  {
+    "id": "oilprice-article-45891",
+    "title": "What Happens When America's Power Grid Becomes a Last Resort?",
+    "tokens": [
+      "america",
+      "becomes",
+      "grid",
+      "happens",
+      "last",
+      "power",
+      "resort",
+      "what",
+      "when"
+    ],
+    "ts": 1793125286.0134609
+  },
+  {
+    "id": "oilprice-news-45893",
+    "title": "Saudi Aramco Offers Discounted Oil to Europe as Exports Recover",
+    "tokens": [
+      "aramco",
+      "discounted",
+      "europe",
+      "exports",
+      "offers",
+      "oil",
+      "recover",
+      "saudi"
+    ],
+    "ts": 1793125293.5141273
+  },
+  {
+    "id": "oilprice-article-45890",
+    "title": "45,000 Nvidia Blackwell GPUs Cleared for Kazakhstan Data Center",
+    "tokens": [
+      "000",
+      "blackwell",
+      "center",
+      "cleared",
+      "data",
+      "gpus",
+      "kazakhstan",
+      "nvidia"
+    ],
+    "ts": 1793125301.6025434
+  },
+  {
+    "id": "oilprice-article-45893",
+    "title": "Oil Markets Brace for a New Iran Escalation After U.S. Midterms",
+    "tokens": [
+      "brace",
+      "escalation",
+      "iran",
+      "markets",
+      "midterms",
+      "oil"
+    ],
+    "ts": 1793125309.4606628
+  },
+  {
+    "id": "oilprice-article-45889",
+    "title": "U.S. Military Eyes Nuclear Reactors to Survive 90 Days Without the Grid",
+    "tokens": [
+      "days",
+      "eyes",
+      "grid",
+      "military",
+      "nuclear",
+      "reactors",
+      "survive",
+      "without"
+    ],
+    "ts": 1793125317.5210903
+  },
+  {
+    "id": "oilprice-news-45891",
+    "title": "18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs",
+    "tokens": [
+      "2035",
+      "climbs",
+      "demand",
+      "goal",
+      "irena",
+      "power",
+      "raises",
+      "renewables"
+    ],
+    "ts": 1793125324.8172941
+  },
+  {
+    "id": "oilprice-news-45890",
+    "title": "OPEC+ Set to Keep Oil Quotas Unchanged",
+    "tokens": [
+      "keep",
+      "oil",
+      "opec",
+      "quotas",
+      "set",
+      "unchanged"
+    ],
+    "ts": 1793125331.7602222
+  },
+  {
+    "id": "oilprice-article-45888",
+    "title": "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters",
+    "tokens": [
+      "falters",
+      "iaea",
+      "iran",
+      "nuclear",
+      "oversight",
+      "power",
+      "russia",
+      "turns"
+    ],
+    "ts": 1793125338.5176427
+  },
+  {
+    "id": "oilprice-news-45889",
+    "title": "Investors From 119 Countries Pile Into Dangote’s Record Refinery IPO",
+    "tokens": [
+      "119",
+      "countries",
+      "dangote",
+      "investors",
+      "ipo",
+      "pile",
+      "record",
+      "refinery"
+    ],
+    "ts": 1793125345.7425594
+  },
+  {
+    "id": "oilprice-news-45888",
+    "title": "Ras Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field",
+    "tokens": [
+      "aramco",
+      "attacks",
+      "field",
+      "fire",
+      "follows",
+      "near",
+      "offices",
+      "ras",
+      "shaybah",
+      "tanura"
+    ],
+    "ts": 1793125353.3536694
+  },
+  {
+    "id": "29c02908-8f3b-45e1-bcd1-91869170f826",
+    "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+    "tokens": [
+      "firms",
+      "growing",
+      "ibm",
+      "ice",
+      "intel",
+      "join",
+      "list",
+      "objecting",
+      "okx",
+      "oracle",
+      "plans",
+      "stock",
+      "tokenized"
+    ],
+    "ts": 1793125360.6734493
+  },
+  {
+    "id": "fc78a2f7-b6d9-40b0-8aa3-899cd0ce31c4",
+    "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+    "tokens": [
+      "brazilian",
+      "companies",
+      "crash",
+      "currency",
+      "day",
+      "dodge",
+      "election",
+      "stablecoins",
+      "turned"
+    ],
+    "ts": 1793125367.6005378
+  },
+  {
+    "id": "1e39e20b-33bb-439b-967d-a1c4793df3e0",
+    "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+    "tokens": [
+      "backing",
+      "billion",
+      "despite",
+      "ripple",
+      "rival",
+      "rlusd",
+      "robinhood",
+      "stablecoin",
+      "taps",
+      "usdg"
+    ],
+    "ts": 1793125374.8287683
+  },
+  {
+    "id": "7475811d-0157-47d2-9369-6c14d5dc50fe",
+    "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+    "tokens": [
+      "100",
+      "centrifuge",
+      "comes",
+      "first",
+      "fund",
+      "henderson",
+      "janus",
+      "launch",
+      "licensed",
+      "nasdaq",
+      "onchain"
+    ],
+    "ts": 1793125381.4737623
+  },
+  {
+    "id": "dda6d4a2-3870-47dc-8ff8-860b4b297986",
+    "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+    "tokens": [
+      "benchmarks",
+      "blackrock",
+      "brings",
+      "data",
+      "including",
+      "infrastructure",
+      "onchain",
+      "pricing",
+      "street",
+      "used",
+      "wall"
+    ],
+    "ts": 1793125388.3435285
+  },
+  {
+    "id": "0151f529-2039-4c1d-9db9-436661692015",
+    "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+    "tokens": [
+      "bitcoin",
+      "computing",
+      "creating",
+      "market",
+      "miners",
+      "move",
+      "power",
+      "trading"
+    ],
+    "ts": 1793125395.2207322
+  },
+  {
+    "id": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll",
+    "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+    "tokens": [
+      "americans",
+      "based",
+      "candidates",
+      "financial",
+      "majority",
+      "poll",
+      "support",
+      "technology",
+      "want",
+      "who"
+    ],
+    "ts": 1793125402.6386852
+  },
+  {
+    "id": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar",
+    "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+    "tokens": [
+      "100",
+      "centrifuge",
+      "fund",
+      "henderson",
+      "janus",
+      "launch",
+      "nasdaq",
+      "stellar",
+      "tokenized"
+    ],
+    "ts": 1793125411.6047971
+  },
+  {
+    "id": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko",
+    "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+    "tokens": [
+      "euro",
+      "kaiko",
+      "market",
+      "overtakes",
+      "reshape",
+      "rules",
+      "stablecoin",
+      "trading",
+      "usdc",
+      "usdt"
+    ],
+    "ts": 1793125418.556805
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser",
+    "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+    "tokens": [
+      "could",
+      "crypto",
+      "jordi",
+      "outperform",
+      "stocks",
+      "street",
+      "veteran",
+      "visser",
+      "wall"
+    ],
+    "ts": 1793125426.0818672
+  },
+  {
+    "id": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin",
+    "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
+    "tokens": [
+      "altcoins",
+      "compute",
+      "derivatives",
+      "details",
+      "flop",
+      "hayes",
+      "his",
+      "selling",
+      "vision"
+    ],
+    "ts": 1793125433.5869417
+  },
+  {
+    "id": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence",
+    "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+    "tokens": [
+      "16m",
+      "bitcoin",
+      "cmt",
+      "convergence",
+      "digital",
+      "luxor",
+      "miner",
+      "raises"
+    ],
+    "ts": 1793125441.2317226
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+    "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+    "tokens": [
+      "announces",
+      "application",
+      "approval",
+      "board",
+      "capital",
+      "corporation",
+      "federal",
+      "fleur",
+      "reserve"
+    ],
+    "ts": 1793125449.2585924
   }
 ]

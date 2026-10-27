@@ -1,250 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/pultegroup-options-suggest-44-move-after-earnings-report-93CH-4952246",
-    "title": "PulteGroup options suggest 4.4% move after earnings report",
-    "tokens": [
-      "earnings",
-      "move",
-      "options",
-      "pultegroup",
-      "report",
-      "suggest"
-    ],
-    "ts": 1792077268.2987056
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/antofagasta-appoints-carlos-avila-as-nonexecutive-director-93CH-4952245",
-    "title": "Antofagasta appoints Carlos Avila as non-executive director",
-    "tokens": [
-      "antofagasta",
-      "appoints",
-      "avila",
-      "carlos",
-      "director",
-      "executive",
-      "non"
-    ],
-    "ts": 1792077275.5216286
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/union-pacific-shares-may-move-41-on-oct-22-earnings-93CH-4952244",
-    "title": "Union Pacific shares may move 4.1% on Oct. 22 earnings",
-    "tokens": [
-      "earnings",
-      "may",
-      "move",
-      "oct",
-      "pacific",
-      "shares",
-      "union"
-    ],
-    "ts": 1792077283.9010413
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tractor-supply-stock-may-move-79-on-oct-22-earnings-93CH-4952243",
-    "title": "Tractor Supply stock may move 7.9% on Oct. 22 earnings",
-    "tokens": [
-      "earnings",
-      "may",
-      "move",
-      "oct",
-      "stock",
-      "supply",
-      "tractor"
-    ],
-    "ts": 1792077291.7661273
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/coreweave-shares-bonds-slide-further-as-ai-debt-fears-mount-4951350",
-    "title": "CoreWeave’s slump puts spotlight on debt behind AI boom",
-    "tokens": [
-      "behind",
-      "boom",
-      "coreweave",
-      "debt",
-      "puts",
-      "slump",
-      "spotlight"
-    ],
-    "ts": 1792077299.854469
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/us-holiday-sales-growth-to-speed-up-as-shoppers-stay-resilientnrf-forecasts-4952241",
-    "title": "US holiday sales growth to speed up as shoppers stay resilient, NRF forecasts",
-    "tokens": [
-      "forecasts",
-      "growth",
-      "holiday",
-      "nrf",
-      "resilient",
-      "sales",
-      "shoppers",
-      "speed",
-      "stay"
-    ],
-    "ts": 1792077308.2541575
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/cbre-group-options-suggest-62-move-on-oct-22-earnings-93CH-4952240",
-    "title": "CBRE Group options suggest 6.2% move on Oct. 22 earnings",
-    "tokens": [
-      "cbre",
-      "earnings",
-      "group",
-      "move",
-      "oct",
-      "options",
-      "suggest"
-    ],
-    "ts": 1792077315.7841892
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/schwab-q3-2026-slides-record-results-show-29-eps-growth-shares-fall-93CH-4952235",
-    "title": "Schwab Q3 2026 slides: record results show 29% EPS growth, shares fall",
-    "tokens": [
-      "2026",
-      "eps",
-      "fall",
-      "growth",
-      "record",
-      "results",
-      "schwab",
-      "shares",
-      "show",
-      "slides"
-    ],
-    "ts": 1792077323.6783392
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/fiesta-productions-announces-diverse-2027-rose-parade-float-sponsors-lineup-1036630487",
-    "title": "Fiesta Productions Announces Diverse 2027 Rose Parade Float Sponsors Lineup",
-    "tokens": [
-      "2027",
-      "announces",
-      "diverse",
-      "fiesta",
-      "float",
-      "lineup",
-      "parade",
-      "productions",
-      "rose",
-      "sponsors"
-    ],
-    "ts": 1792077331.4469697
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/keep-america-beautiful-and-rema-launch-youth-innovation-challenge-to-advance-recycling-education-1036630492",
-    "title": "Keep America Beautiful and ReMA Launch Youth Innovation Challenge to Advance Recycling Education",
-    "tokens": [
-      "advance",
-      "america",
-      "beautiful",
-      "challenge",
-      "education",
-      "innovation",
-      "keep",
-      "launch",
-      "recycling",
-      "rema",
-      "youth"
-    ],
-    "ts": 1792077341.2558174
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/camp-southern-ground-announces-unsung-hero-2026-benefit-concert-headlined-by-emily-ann-roberts-1036630491",
-    "title": "Camp Southern Ground Announces Unsung Hero 2026 Benefit Concert Headlined by Emily Ann Roberts",
-    "tokens": [
-      "2026",
-      "ann",
-      "announces",
-      "benefit",
-      "camp",
-      "concert",
-      "emily",
-      "ground",
-      "headlined",
-      "hero",
-      "roberts",
-      "southern",
-      "unsung"
-    ],
-    "ts": 1792077349.2923281
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/abbie-deloach-foundation-and-georgia-southern-university-invite-community-to-true-blue-5k-abbie-s-adventure-race-1036630490",
-    "title": "ABBIE DELOACH FOUNDATION AND GEORGIA SOUTHERN UNIVERSITY INVITE COMMUNITY TO TRUE BLUE 5K & ABBIE’S ADVENTURE RACE",
-    "tokens": [
-      "abbie",
-      "adventure",
-      "blue",
-      "community",
-      "deloach",
-      "foundation",
-      "georgia",
-      "invite",
-      "race",
-      "southern",
-      "true",
-      "university"
-    ],
-    "ts": 1792077358.2049413
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/wallbridge-mining-company-limited-completes-name-change-to-sunday-lake-gold-corp-and-20-to-1-share-consolidation-1036630489",
-    "title": "Wallbridge Mining Company Limited Completes Name Change to Sunday Lake Gold Corp. and 20 to 1 Share Consolidation",
-    "tokens": [
-      "change",
-      "company",
-      "completes",
-      "consolidation",
-      "corp",
-      "gold",
-      "lake",
-      "limited",
-      "mining",
-      "name",
-      "share",
-      "sunday",
-      "wallbridge"
-    ],
-    "ts": 1792077366.400499
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/voice-controlled-game-chant-wizard-released-cast-spells-with-your-mouth-in-a-hogwarts-like-magic-academy-1036630227",
-    "title": "Voice-Controlled Game Chant Wizard Released: Cast Spells with Your Mouth in a Hogwarts-Like Magic Academy",
-    "tokens": [
-      "academy",
-      "cast",
-      "chant",
-      "controlled",
-      "game",
-      "hogwarts",
-      "like",
-      "magic",
-      "mouth",
-      "released",
-      "spells",
-      "voice",
-      "wizard",
-      "your"
-    ],
-    "ts": 1792077375.0160105
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/gray-media-partners-with-hoda-kotb-s-joy-101-1036630240",
-    "title": "Gray Media Partners With Hoda Kotb’s Joy 101",
-    "tokens": [
-      "101",
-      "gray",
-      "hoda",
-      "joy",
-      "kotb",
-      "media",
-      "partners"
-    ],
-    "ts": 1792077382.5163996
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/new-data-from-coverwatch-and-y-combinator-backed-assembly-hoa-reveals-escalating-costs-shrinking-coverage-and-a-rapidly-contracting-insurance-market-for-los-angeles-area-hoas-1036630234",
     "title": "New Data From Coverwatch and Y Combinator-Backed Assembly HOA Reveals Escalating Costs, Shrinking Coverage, and a Rapidly Contracting Insurance Market for Los Angeles-Area HOAs",
     "tokens": [
@@ -23802,5 +23557,247 @@
       "wins"
     ],
     "ts": 1793063564.7234228
+  },
+  {
+    "id": "WP-MKTW-0005308221",
+    "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+    "tokens": [
+      "actually",
+      "afford",
+      "best",
+      "can",
+      "city",
+      "crown",
+      "gave",
+      "live",
+      "place",
+      "retire",
+      "there",
+      "what",
+      "you"
+    ],
+    "ts": 1793081837.0543725
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/hsbc-adr-earnings-missed-by-179-revenue-fell-short-of-estimates-4974221",
+    "title": "HSBC ADR earnings missed by $1.79, revenue fell short of estimates",
+    "tokens": [
+      "adr",
+      "earnings",
+      "estimates",
+      "fell",
+      "hsbc",
+      "missed",
+      "revenue",
+      "short"
+    ],
+    "ts": 1793081841.178023
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bank-of-england-reviews-revoluts-product-approval-controls--report-93CH-4974220",
+    "title": "Bank of England reviews Revolut’s product approval controls - report",
+    "tokens": [
+      "approval",
+      "bank",
+      "controls",
+      "england",
+      "product",
+      "report",
+      "reviews",
+      "revolut"
+    ],
+    "ts": 1793081844.8259327
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/hsbc-3q-pretax-profit-rises-32-narrowly-misses-estimates-as-income-grows-4974166",
+    "title": "HSBC shares hit 20-week low as profit misses estimates; announces $1bn buyback",
+    "tokens": [
+      "1bn",
+      "announces",
+      "buyback",
+      "estimates",
+      "hit",
+      "hsbc",
+      "low",
+      "misses",
+      "profit",
+      "shares",
+      "week"
+    ],
+    "ts": 1793081852.2498891
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/paylocity-director-steven-sarowitz-sells-37m-in-company-stock-93CH-4974216",
+    "title": "Paylocity director Steven Sarowitz sells $3.7M in company stock",
+    "tokens": [
+      "company",
+      "director",
+      "paylocity",
+      "sarowitz",
+      "sells",
+      "steven",
+      "stock"
+    ],
+    "ts": 1793081860.102638
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/marsh--mclennan-vp-stacy-mills-sells-243000-in-company-stock-93CH-4974214",
+    "title": "Marsh & McLennan VP Stacy Mills sells $243,000 in company stock",
+    "tokens": [
+      "000",
+      "243",
+      "company",
+      "marsh",
+      "mclennan",
+      "mills",
+      "sells",
+      "stacy",
+      "stock"
+    ],
+    "ts": 1793081867.407845
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/guidewire-software-ceo-michael-rosenbaum-sells-224628-in-shares-93CH-4974215",
+    "title": "Guidewire Software CEO Michael Rosenbaum sells $224,628 in shares",
+    "tokens": [
+      "224",
+      "628",
+      "ceo",
+      "guidewire",
+      "michael",
+      "rosenbaum",
+      "sells",
+      "shares",
+      "software"
+    ],
+    "ts": 1793081874.4123924
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bucher-industries-sees-lower-2026-sales-margins-as-glass-farm-units-slump-93CH-4974206",
+    "title": "Bucher Industries sees lower 2026 sales, margins as glass, farm units slump",
+    "tokens": [
+      "2026",
+      "bucher",
+      "farm",
+      "glass",
+      "industries",
+      "lower",
+      "margins",
+      "sales",
+      "sees",
+      "slump",
+      "units"
+    ],
+    "ts": 1793081882.1247566
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-anthropic-ipo-filing-revives-ai-trade-4974091",
+    "title": "Asia stocks jump as Anthropic IPO filing revives AI trade",
+    "tokens": [
+      "anthropic",
+      "asia",
+      "filing",
+      "ipo",
+      "jump",
+      "revives",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1793081889.1202085
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-046-4974203",
+    "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.46%",
+    "tokens": [
+      "200",
+      "asx",
+      "australia",
+      "close",
+      "higher",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1793081896.253067
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/selective-insurance-director-cynthia-nicholson-sells-364342-in-stock-93CH-4974202",
+    "title": "Selective Insurance director Cynthia Nicholson sells $364,342 in stock",
+    "tokens": [
+      "342",
+      "364",
+      "cynthia",
+      "director",
+      "insurance",
+      "nicholson",
+      "selective",
+      "sells",
+      "stock"
+    ],
+    "ts": 1793081903.4465766
+  },
+  {
+    "id": "2c31469e-6f3c-4a18-9636-82f16a625fad",
+    "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+    "tokens": [
+      "125",
+      "citing",
+      "ending",
+      "founder",
+      "funding",
+      "grants",
+      "million",
+      "proposes",
+      "treasury",
+      "zcash"
+    ],
+    "ts": 1793081912.2036433
+  },
+  {
+    "id": "7539c5a8-0d1d-4359-b986-a96c22af6610",
+    "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+    "tokens": [
+      "ahead",
+      "bank",
+      "final",
+      "gets",
+      "launch",
+      "national",
+      "own",
+      "ripple",
+      "trust"
+    ],
+    "ts": 1793081918.8786867
+  },
+  {
+    "id": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg",
+    "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+    "tokens": [
+      "bloomberg",
+      "confidential",
+      "end",
+      "filing",
+      "ipo",
+      "redotpay",
+      "weighs",
+      "year"
+    ],
+    "ts": 1793081925.986785
+  },
+  {
+    "id": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine",
+    "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+    "tokens": [
+      "breach",
+      "deepens",
+      "genuine",
+      "hackers",
+      "key",
+      "keystone",
+      "stole",
+      "used",
+      "verify",
+      "wallets"
+    ],
+    "ts": 1793081933.0449219
   }
 ]

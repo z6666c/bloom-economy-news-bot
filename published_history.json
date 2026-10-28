@@ -1,364 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/airjoule-technologies-ceo-jore-sells-153165-in-company-stock-93CH-4954983",
-    "title": "Airjoule technologies CEO Jore sells $153,165 in company stock",
-    "tokens": [
-      "153",
-      "165",
-      "airjoule",
-      "ceo",
-      "company",
-      "jore",
-      "sells",
-      "stock",
-      "technologies"
-    ],
-    "ts": 1792194895.9103875
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anthropic-signs-lease-for-first-canadian-data-center-4954967",
-    "title": "Anthropic signs lease for first Canadian data center",
-    "tokens": [
-      "anthropic",
-      "canadian",
-      "center",
-      "data",
-      "first",
-      "lease",
-      "signs"
-    ],
-    "ts": 1792194903.1203723
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/agereh-technologies-announces-private-placement-of-up-to-c600000-93CH-4954973",
-    "title": "Agereh Technologies announces private placement of up to C$600,000",
-    "tokens": [
-      "000",
-      "600",
-      "agereh",
-      "announces",
-      "placement",
-      "private",
-      "technologies"
-    ],
-    "ts": 1792194910.9914143
-  },
-  {
-    "id": "oilprice-article-45798",
-    "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
-    "tokens": [
-      "2034",
-      "dependence",
-      "energy",
-      "global",
-      "import",
-      "peak",
-      "rystad",
-      "set"
-    ],
-    "ts": 1792194920.2396634
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/striking-unions-at-antofagastas-centinela-copper-mine-reach-preliminary-deal-ending-strike-4955155",
-    "title": "Striking unions at Antofagasta’s Centinela copper mine reach preliminary deal, ending strike",
-    "tokens": [
-      "antofagasta",
-      "centinela",
-      "copper",
-      "deal",
-      "ending",
-      "mine",
-      "preliminary",
-      "reach",
-      "strike",
-      "striking",
-      "unions"
-    ],
-    "ts": 1792206533.0188992
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-pledges-fiscal-adjustment-rejects-cuts-to-social-spending-4955137",
-    "title": "Brazil’s Flavio Bolsonaro pledges fiscal adjustment, rejects cuts to social spending",
-    "tokens": [
-      "adjustment",
-      "bolsonaro",
-      "brazil",
-      "cuts",
-      "fiscal",
-      "flavio",
-      "pledges",
-      "rejects",
-      "social",
-      "spending"
-    ],
-    "ts": 1792206540.6713092
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/marqeta-cao-crystal-sells-23448-in-company-stock-93CH-4955134",
-    "title": "Marqeta CAO Crystal sells $23,448 in company stock",
-    "tokens": [
-      "448",
-      "cao",
-      "company",
-      "crystal",
-      "marqeta",
-      "sells",
-      "stock"
-    ],
-    "ts": 1792206547.4571297
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-201m-in-stock-93CH-4955123",
-    "title": "Natera executive chairman Matthew Rabinowitz sells $20.1m in stock",
-    "tokens": [
-      "chairman",
-      "executive",
-      "matthew",
-      "natera",
-      "rabinowitz",
-      "sells",
-      "stock"
-    ],
-    "ts": 1792206555.1737497
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/anthropic-offers-blackstone-over-10-yield-in-60b-ai-chip-financing--ft-reports-4955122",
-    "title": "Anthropic offers Blackstone over 10% yield in $60B AI chip financing - FT reports",
-    "tokens": [
-      "60b",
-      "anthropic",
-      "blackstone",
-      "chip",
-      "financing",
-      "offers",
-      "reports",
-      "yield"
-    ],
-    "ts": 1792206563.588773
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/grabagun-ceo-nemati-sells-7600-in-shares-for-tax-obligations-93CH-4955109",
-    "title": "GrabAGun CEO Nemati sells $7,600 in shares for tax obligations",
-    "tokens": [
-      "600",
-      "ceo",
-      "grabagun",
-      "nemati",
-      "obligations",
-      "sells",
-      "shares",
-      "tax"
-    ],
-    "ts": 1792206570.6820068
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/grabagun-digital-coo-matthew-vittitow-sells-3805-in-shares-93CH-4955108",
-    "title": "Grabagun digital COO Matthew Vittitow sells $3,805 in shares",
-    "tokens": [
-      "805",
-      "coo",
-      "digital",
-      "grabagun",
-      "matthew",
-      "sells",
-      "shares",
-      "vittitow"
-    ],
-    "ts": 1792206577.4690003
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/kingsway-cfo-kent-hansen-buys-1558-in-company-stock-93CH-4955097",
-    "title": "Kingsway CFO Kent Hansen buys $1,558 in company stock",
-    "tokens": [
-      "558",
-      "buys",
-      "cfo",
-      "company",
-      "hansen",
-      "kent",
-      "kingsway",
-      "stock"
-    ],
-    "ts": 1792206584.5124238
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/kingsway-president-and-ceo-john-fitzgerald-acquires-3477-of-common-stock-93CH-4955096",
-    "title": "Kingsway president and CEO John Fitzgerald acquires $3,477 of common stock",
-    "tokens": [
-      "477",
-      "acquires",
-      "ceo",
-      "common",
-      "fitzgerald",
-      "john",
-      "kingsway",
-      "president",
-      "stock"
-    ],
-    "ts": 1792206592.2890015
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/trump-waives-many-russiarelated-sanctions-tariffs-before-they-were-to-take-effect-under-new-law-4955088",
-    "title": "Trump waives many Russia-related sanctions, tariffs before they were to take effect under new law",
-    "tokens": [
-      "before",
-      "effect",
-      "law",
-      "many",
-      "related",
-      "russia",
-      "sanctions",
-      "take",
-      "tariffs",
-      "they",
-      "trump",
-      "under",
-      "waives"
-    ],
-    "ts": 1792206599.5944564
-  },
-  {
-    "id": "790cf35e-00c2-452f-9232-7c99bf30cb55",
-    "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-    "tokens": [
-      "bigger",
-      "bitcoin",
-      "breakthrough",
-      "era",
-      "faces",
-      "google",
-      "quantum",
-      "satoshi",
-      "threat",
-      "willow"
-    ],
-    "ts": 1792206608.0033543
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-dlf-posts-strong-q2-2026-results-on-luxury-sales-93CH-4955295",
-    "title": "Earnings call transcript: DLF posts strong q2 2026 results on luxury sales",
-    "tokens": [
-      "2026",
-      "call",
-      "dlf",
-      "earnings",
-      "luxury",
-      "posts",
-      "results",
-      "sales",
-      "strong",
-      "transcript"
-    ],
-    "ts": 1792223274.7353356
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/ukus-relations-strained-as-trump-shifts-stance-on-russiaukraine-war-4955294",
-    "title": "UK-U.S. relations strained as Trump shifts stance on Russia-Ukraine war",
-    "tokens": [
-      "relations",
-      "russia",
-      "shifts",
-      "stance",
-      "strained",
-      "trump",
-      "ukraine",
-      "war"
-    ],
-    "ts": 1792223282.04815
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/verisk-analytics-cfo-elizabeth-mann-sells-73940-in-stock-93CH-4955289",
-    "title": "Verisk analytics CFO Elizabeth Mann sells $73,940 in stock",
-    "tokens": [
-      "940",
-      "analytics",
-      "cfo",
-      "elizabeth",
-      "mann",
-      "sells",
-      "stock",
-      "verisk"
-    ],
-    "ts": 1792223289.1628504
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/transdigm-cocoo-joel-reiss-sells-46m-in-shares-93CH-4955285",
-    "title": "TransDigm co-COO Joel Reiss sells $4.6m in shares",
-    "tokens": [
-      "coo",
-      "joel",
-      "reiss",
-      "sells",
-      "shares",
-      "transdigm"
-    ],
-    "ts": 1792223296.5010874
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/paylocity-executive-chairman-steven-beauchamp-sells-248m-in-stock-93CH-4955278",
-    "title": "Paylocity executive chairman Steven Beauchamp sells $2.48m in stock",
-    "tokens": [
-      "48m",
-      "beauchamp",
-      "chairman",
-      "executive",
-      "paylocity",
-      "sells",
-      "steven",
-      "stock"
-    ],
-    "ts": 1792223303.9031637
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/imf-members-call-for-increased-support-for-countries-amid-negative-risks-and-war-spillovers-4955272",
-    "title": "IMF members call for increased support for countries amid negative risks and war spillovers",
-    "tokens": [
-      "call",
-      "countries",
-      "imf",
-      "increased",
-      "members",
-      "negative",
-      "risks",
-      "spillovers",
-      "support",
-      "war"
-    ],
-    "ts": 1792223310.5151358
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/walmart-president--ceo-john-furner-sells-158m-in-wmt-shares-93CH-4955270",
-    "title": "Walmart president & CEO John Furner sells $1.58m in WMT shares",
-    "tokens": [
-      "58m",
-      "ceo",
-      "furner",
-      "john",
-      "president",
-      "sells",
-      "shares",
-      "walmart",
-      "wmt"
-    ],
-    "ts": 1792223317.1082249
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/walmart-evp-latriece-watkins-disposes-of-575000-in-wmt-stock-93CH-4955265",
-    "title": "Walmart EVP Latriece Watkins disposes of $575,000 in WMT stock",
-    "tokens": [
-      "000",
-      "575",
-      "disposes",
-      "evp",
-      "latriece",
-      "stock",
-      "walmart",
-      "watkins",
-      "wmt"
-    ],
-    "ts": 1792223324.0238957
-  },
-  {
     "id": "https://www.investing.com/news/insider-trading-news/walmart-evp-nicholas-james-sells-349751-of-wmt-shares-93CH-4955264",
     "title": "Walmart EVP Nicholas James sells $349,751 of WMT shares",
     "tokens": [
@@ -23749,5 +23390,365 @@
       "termination"
     ],
     "ts": 1793217079.707742
+  },
+  {
+    "id": "WP-MKTW-0005313894",
+    "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+    "tokens": [
+      "dive",
+      "earnings",
+      "fortinet",
+      "here",
+      "stock",
+      "taking",
+      "why"
+    ],
+    "ts": 1793230712.3982818
+  },
+  {
+    "id": "WP-MKTW-0005311579",
+    "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
+    "tokens": [
+      "earnings",
+      "miss",
+      "outlook",
+      "overshadows",
+      "raised",
+      "servicenow",
+      "slides",
+      "stock"
+    ],
+    "ts": 1793230720.027281
+  },
+  {
+    "id": "WP-MKTW-0005313125",
+    "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
+    "tokens": [
+      "chipotle",
+      "demand",
+      "diners",
+      "higher",
+      "income",
+      "lower",
+      "more",
+      "now",
+      "ones"
+    ],
+    "ts": 1793230727.3280878
+  },
+  {
+    "id": "WP-MKTW-0005313959",
+    "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+    "tokens": [
+      "cheer",
+      "investors",
+      "lumentum",
+      "marvell",
+      "pops",
+      "possible",
+      "sale",
+      "stock"
+    ],
+    "ts": 1793230734.1413019
+  },
+  {
+    "id": "WP-MKTW-0005310245",
+    "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming.",
+    "tokens": [
+      "because",
+      "coming",
+      "did",
+      "fed",
+      "hold",
+      "information",
+      "interest",
+      "off",
+      "period",
+      "raising",
+      "rates",
+      "rich",
+      "warsh",
+      "why"
+    ],
+    "ts": 1793230743.867576
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ryder-system-executive-chair-sanchez-sells-97m-in-stock-93CH-4981195",
+    "title": "Ryder System executive chair Sanchez sells $9.7M in stock",
+    "tokens": [
+      "chair",
+      "executive",
+      "ryder",
+      "sanchez",
+      "sells",
+      "stock",
+      "system"
+    ],
+    "ts": 1793230751.444689
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-rush-street-interactive-q3-2026-results-beat-on-eps-93CH-4981190",
+    "title": "Earnings call transcript: Rush Street Interactive Q3 2026 results beat on EPS",
+    "tokens": [
+      "2026",
+      "beat",
+      "call",
+      "earnings",
+      "eps",
+      "interactive",
+      "results",
+      "rush",
+      "street",
+      "transcript"
+    ],
+    "ts": 1793230757.8988802
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/neupath-health-at-planet-microcap-showcase-toronto-2026-growth-plan-93CH-4981189",
+    "title": "NeuPath Health at Planet MicroCap Showcase: Toronto 2026: growth plan",
+    "tokens": [
+      "2026",
+      "growth",
+      "health",
+      "microcap",
+      "neupath",
+      "plan",
+      "planet",
+      "showcase",
+      "toronto"
+    ],
+    "ts": 1793230764.4804409
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-hudson-technologies-q3-2026-miss-sends-shares-lower-93CH-4981188",
+    "title": "Earnings call transcript: Hudson Technologies Q3 2026 miss sends shares lower",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "hudson",
+      "lower",
+      "miss",
+      "sends",
+      "shares",
+      "technologies",
+      "transcript"
+    ],
+    "ts": 1793230768.492658
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/grove-collaborative-at-emerging-growth-conference-97-turnaround-gains-traction-93CH-4981187",
+    "title": "Grove Collaborative at Emerging Growth Conference 97: turnaround gains traction",
+    "tokens": [
+      "collaborative",
+      "conference",
+      "emerging",
+      "gains",
+      "grove",
+      "growth",
+      "traction",
+      "turnaround"
+    ],
+    "ts": 1793230770.9888866
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/ineo-tech-at-emerging-growth-conference-97-growth-profit-path-93CH-4981186",
+    "title": "INEO Tech at Emerging Growth Conference 97: growth, profit path",
+    "tokens": [
+      "conference",
+      "emerging",
+      "growth",
+      "ineo",
+      "path",
+      "profit",
+      "tech"
+    ],
+    "ts": 1793230777.9066057
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/fluence-q3-2026-slides-margin-expansion-drives-profitability-surge-93CH-4981185",
+    "title": "Fluence Q3 2026 slides: margin expansion drives profitability surge",
+    "tokens": [
+      "2026",
+      "drives",
+      "expansion",
+      "fluence",
+      "margin",
+      "profitability",
+      "slides",
+      "surge"
+    ],
+    "ts": 1793230785.1178565
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/zillow-to-pay-2125-million-to-settle-class-action-over-failed-real-estate-venture-4981184",
+    "title": "Zillow to pay $212.5 million to settle class action over failed real estate venture",
+    "tokens": [
+      "212",
+      "action",
+      "class",
+      "estate",
+      "failed",
+      "million",
+      "pay",
+      "real",
+      "settle",
+      "venture",
+      "zillow"
+    ],
+    "ts": 1793230792.3339605
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/ecb-to-hold-rates-as-investors-focus-on-french-bondslagardes-future-4981183",
+    "title": "ECB to hold rates as investors focus on French bonds, Lagarde’s future",
+    "tokens": [
+      "bonds",
+      "ecb",
+      "focus",
+      "french",
+      "future",
+      "hold",
+      "investors",
+      "lagarde",
+      "rates"
+    ],
+    "ts": 1793230799.5744247
+  },
+  {
+    "id": "oilprice-article-45909",
+    "title": "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
+    "tokens": [
+      "become",
+      "fuel",
+      "global",
+      "oil",
+      "prime",
+      "refineries",
+      "shortage",
+      "targets",
+      "worsens"
+    ],
+    "ts": 1793230809.5537953
+  },
+  {
+    "id": "oilprice-news-45909",
+    "title": "How Trump’s Russian Diesel Could End Up in Cuba Instead",
+    "tokens": [
+      "could",
+      "cuba",
+      "diesel",
+      "end",
+      "how",
+      "instead",
+      "russian",
+      "trump"
+    ],
+    "ts": 1793230816.707608
+  },
+  {
+    "id": "oilprice-article-45908",
+    "title": "U.S. Natural Gas Production Hits New Records as Demand Surges",
+    "tokens": [
+      "demand",
+      "gas",
+      "hits",
+      "natural",
+      "production",
+      "records",
+      "surges"
+    ],
+    "ts": 1793230823.6578412
+  },
+  {
+    "id": "oilprice-article-45905",
+    "title": "Solar Has Overtaken Nuclear in the Global Power Mix",
+    "tokens": [
+      "global",
+      "mix",
+      "nuclear",
+      "overtaken",
+      "power",
+      "solar"
+    ],
+    "ts": 1793230830.286011
+  },
+  {
+    "id": "oilprice-news-45908",
+    "title": "GE Vernova Expands in High-Voltage Grid Gear With Trench Deal",
+    "tokens": [
+      "deal",
+      "expands",
+      "gear",
+      "grid",
+      "high",
+      "trench",
+      "vernova",
+      "voltage"
+    ],
+    "ts": 1793230837.594158
+  },
+  {
+    "id": "oilprice-article-45907",
+    "title": "India’s Record LNG Buying Meets Record-High Prices",
+    "tokens": [
+      "buying",
+      "high",
+      "india",
+      "lng",
+      "meets",
+      "prices",
+      "record"
+    ],
+    "ts": 1793230844.9887025
+  },
+  {
+    "id": "oilprice-news-45907",
+    "title": "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels",
+    "tokens": [
+      "110",
+      "below",
+      "brent",
+      "end",
+      "flows",
+      "gulf",
+      "levels",
+      "prewar",
+      "sees",
+      "stay",
+      "ubs",
+      "year"
+    ],
+    "ts": 1793230849.0012627
+  },
+  {
+    "id": "112e0f4b-146d-4023-b41d-b05baea46fb3",
+    "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+    "tokens": [
+      "backed",
+      "bitcoin",
+      "borrowers",
+      "canada",
+      "coming",
+      "cost",
+      "mortgages",
+      "still",
+      "unaware"
+    ],
+    "ts": 1793230853.228168
+  },
+  {
+    "id": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing",
+    "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
+    "tokens": [
+      "canadian",
+      "case",
+      "criminal",
+      "crypto",
+      "jury",
+      "king",
+      "trial",
+      "winds"
+    ],
+    "ts": 1793230860.948513
   }
 ]

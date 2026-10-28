@@ -1,253 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/williams-trading-downgrades-birkenstock-stock-rating-to-sell-on-revenue-concerns-93CH-4954450",
-    "title": "Williams Trading downgrades Birkenstock stock rating to sell on revenue concerns",
-    "tokens": [
-      "birkenstock",
-      "concerns",
-      "downgrades",
-      "rating",
-      "revenue",
-      "sell",
-      "stock",
-      "trading",
-      "williams"
-    ],
-    "ts": 1792161289.9869041
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-palo-alto-networks-stock-sliding-today-93CH-4954447",
-    "title": "Why is Palo Alto Networks stock sliding today?",
-    "tokens": [
-      "alto",
-      "networks",
-      "palo",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1792161297.9183915
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-citizens-financial-tops-q3-2026-eps-forecast-93CH-4954446",
-    "title": "Earnings call transcript: Citizens Financial tops Q3 2026 EPS forecast",
-    "tokens": [
-      "2026",
-      "call",
-      "citizens",
-      "earnings",
-      "eps",
-      "financial",
-      "forecast",
-      "tops",
-      "transcript"
-    ],
-    "ts": 1792161306.1067357
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/travelers-q3-2026-slides-record-results-24-roe-achieved-93CH-4954445",
-    "title": "Travelers Q3 2026 slides: record results, 24% ROE achieved",
-    "tokens": [
-      "2026",
-      "achieved",
-      "record",
-      "results",
-      "roe",
-      "slides",
-      "travelers"
-    ],
-    "ts": 1792161313.0522451
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-cocacola-stock-rating-on-kfc-contract-win-93CH-4954441",
-    "title": "TD Cowen reiterates Coca-Cola stock rating on KFC contract win",
-    "tokens": [
-      "coca",
-      "cola",
-      "contract",
-      "cowen",
-      "kfc",
-      "rating",
-      "reiterates",
-      "stock",
-      "win"
-    ],
-    "ts": 1792161491.889741
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-maintains-boston-beer-stock-rating-ahead-of-earnings-93CH-4954440",
-    "title": "UBS maintains Boston Beer stock rating ahead of earnings",
-    "tokens": [
-      "ahead",
-      "beer",
-      "boston",
-      "earnings",
-      "maintains",
-      "rating",
-      "stock",
-      "ubs"
-    ],
-    "ts": 1792161498.6847627
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-buy-on-five-below-stock-keeps-325-price-target-93CH-4954438",
-    "title": "UBS reiterates Buy on Five Below stock, keeps $325 price target",
-    "tokens": [
-      "325",
-      "below",
-      "buy",
-      "five",
-      "keeps",
-      "price",
-      "reiterates",
-      "stock",
-      "target",
-      "ubs"
-    ],
-    "ts": 1792161506.0461638
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/td-cowen-lowers-pnc-financial-stock-price-target-to-240-on-valuation-93CH-4954439",
-    "title": "TD Cowen lowers PNC Financial stock price target to $240 on valuation",
-    "tokens": [
-      "240",
-      "cowen",
-      "financial",
-      "lowers",
-      "pnc",
-      "price",
-      "stock",
-      "target",
-      "valuation"
-    ],
-    "ts": 1792161513.008168
-  },
-  {
-    "id": "oilprice-news-45794",
-    "title": "Global Gas Crunch Makes Europe’s Remaining Coal Plants Profitable",
-    "tokens": [
-      "coal",
-      "crunch",
-      "europe",
-      "gas",
-      "global",
-      "makes",
-      "plants",
-      "profitable",
-      "remaining"
-    ],
-    "ts": 1792161521.1186905
-  },
-  {
-    "id": "oilprice-article-45794",
-    "title": "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure",
-    "tokens": [
-      "attacks",
-      "defies",
-      "infrastructure",
-      "oil",
-      "renewed",
-      "russian",
-      "trump",
-      "ukraine"
-    ],
-    "ts": 1792161529.4722984
-  },
-  {
-    "id": "oilprice-article-45788",
-    "title": "Deadly Airstrikes Expose Growing Battle Over Sudan’s Gold",
-    "tokens": [
-      "airstrikes",
-      "battle",
-      "deadly",
-      "expose",
-      "gold",
-      "growing",
-      "sudan"
-    ],
-    "ts": 1792161537.9232216
-  },
-  {
-    "id": "oilprice-article-45787",
-    "title": "Trump's Oil Price Strategy Faces Two Major Tests This Weekend",
-    "tokens": [
-      "faces",
-      "major",
-      "oil",
-      "price",
-      "strategy",
-      "tests",
-      "trump",
-      "two",
-      "weekend"
-    ],
-    "ts": 1792161545.2805808
-  },
-  {
-    "id": "oilprice-news-45788",
-    "title": "Data Centers Drive Surge in India’s Renewable Power Demand",
-    "tokens": [
-      "centers",
-      "data",
-      "demand",
-      "drive",
-      "india",
-      "power",
-      "renewable",
-      "surge"
-    ],
-    "ts": 1792161553.478893
-  },
-  {
-    "id": "oilprice-news-45787",
-    "title": "China’s Sufficient Gas Stocks Could Ease Winter Supply Concerns",
-    "tokens": [
-      "china",
-      "concerns",
-      "could",
-      "ease",
-      "gas",
-      "stocks",
-      "sufficient",
-      "supply",
-      "winter"
-    ],
-    "ts": 1792161561.9935448
-  },
-  {
-    "id": "4c5c9524-2f78-44da-9d2b-431bd30482cd",
-    "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-    "tokens": [
-      "able",
-      "bet",
-      "coinbase",
-      "hit",
-      "marathon",
-      "robinhood",
-      "soon",
-      "targets",
-      "their",
-      "traders",
-      "whether"
-    ],
-    "ts": 1792161569.7907143
-  },
-  {
-    "id": "858cf872-6414-49c2-94ef-037c7970fd99",
-    "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-    "tokens": [
-      "circle",
-      "demand",
-      "globally",
-      "grows",
-      "markets",
-      "stablecoin",
-      "targets"
-    ],
-    "ts": 1792161576.9251313
-  },
-  {
     "id": "fe7d0d0e-003d-48e6-a817-9a7f94ec6b5c",
     "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
     "tokens": [
@@ -23776,5 +23528,252 @@
       "searchable"
     ],
     "ts": 1793151485.9549289
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-elsight-q3-2026-stock-falls-as-growth-story-builds-93CH-4977596",
+    "title": "Earnings call transcript: Elsight Q3 2026 stock falls as growth story builds",
+    "tokens": [
+      "2026",
+      "builds",
+      "call",
+      "earnings",
+      "elsight",
+      "falls",
+      "growth",
+      "stock",
+      "story",
+      "transcript"
+    ],
+    "ts": 1793172451.1667907
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tempramed-signs-distribution-deal-for-three-balkan-markets-93CH-4977594",
+    "title": "TempraMed signs distribution deal for three Balkan markets",
+    "tokens": [
+      "balkan",
+      "deal",
+      "distribution",
+      "markets",
+      "signs",
+      "tempramed",
+      "three"
+    ],
+    "ts": 1793172458.4930882
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/german-consumer-sentiment-slips-on-inflation-fears-survey-shows-4977593",
+    "title": "German consumer sentiment slips on inflation fears, survey shows",
+    "tokens": [
+      "consumer",
+      "fears",
+      "german",
+      "inflation",
+      "sentiment",
+      "shows",
+      "slips",
+      "survey"
+    ],
+    "ts": 1793172466.0462904
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/vardhman-special-steels-q2-fy27-slides-show-52-profit-jump-93CH-4977592",
+    "title": "Vardhman Special Steels Q2 FY27 slides show 52% profit jump",
+    "tokens": [
+      "fy27",
+      "jump",
+      "profit",
+      "show",
+      "slides",
+      "special",
+      "steels",
+      "vardhman"
+    ],
+    "ts": 1793172473.9532516
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/natural-gas-rebounds-from-oversold-into-sma-resistance-live-levels-93CH-4971506",
+    "title": "Natural Gas stalls at 61.8% Fib resistance: Live levels",
+    "tokens": [
+      "fib",
+      "gas",
+      "levels",
+      "live",
+      "natural",
+      "resistance",
+      "stalls"
+    ],
+    "ts": 1793172480.8707528
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/brent-oil-tests-cloud-support-after-parabolic-top-live-levels-93CH-4971503",
+    "title": "Brent Oil consolidates after Evening Star rejection at $117.45: Live",
+    "tokens": [
+      "117",
+      "brent",
+      "consolidates",
+      "evening",
+      "live",
+      "oil",
+      "rejection",
+      "star"
+    ],
+    "ts": 1793172488.6913888
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/silver-in-freefall-below-all-mas-doji-hints-at-exhaustion-live-93CH-4971502",
+    "title": "Silver consolidates in bear flag with ADX > 40: Live levels",
+    "tokens": [
+      "adx",
+      "bear",
+      "consolidates",
+      "flag",
+      "levels",
+      "live",
+      "silver"
+    ],
+    "ts": 1793172495.6645353
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/gold-breaks-below-4000-in-descending-channel-live-levels-93CH-4971505",
+    "title": "Gold bear flag 80% complete near dense resistance: Live levels",
+    "tokens": [
+      "bear",
+      "complete",
+      "dense",
+      "flag",
+      "gold",
+      "levels",
+      "live",
+      "near",
+      "resistance"
+    ],
+    "ts": 1793172502.65048
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/london-gas-oil-consolidates-in-triangle-at-key-support-live-levels-93CH-4971507",
+    "title": "London Gas Oil consolidates near 200 SMA: Live levels",
+    "tokens": [
+      "200",
+      "consolidates",
+      "gas",
+      "levels",
+      "live",
+      "london",
+      "near",
+      "oil",
+      "sma"
+    ],
+    "ts": 1793172509.72618
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/crude-oil-wti-consolidates-below-10350-resistance-live-levels-93CH-4971501",
+    "title": "Crude Oil WTI consolidates in $98.50-$103.50 range: Live levels",
+    "tokens": [
+      "103",
+      "consolidates",
+      "crude",
+      "levels",
+      "live",
+      "oil",
+      "range",
+      "wti"
+    ],
+    "ts": 1793172517.3397977
+  },
+  {
+    "id": "e6a2463f-48b9-4861-9e40-52c0b160dc4f",
+    "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+    "tokens": [
+      "access",
+      "bitcoin",
+      "btc",
+      "can",
+      "datavault",
+      "firm",
+      "plunges",
+      "treasury"
+    ],
+    "ts": 1793172525.5320458
+  },
+  {
+    "id": "03e7ce93-bf2b-4de5-918c-256e2045c845",
+    "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+    "tokens": [
+      "bithumb",
+      "cyberattacks",
+      "employee",
+      "face",
+      "financial",
+      "firms",
+      "hacked",
+      "korean",
+      "south",
+      "system",
+      "through"
+    ],
+    "ts": 1793172532.571208
+  },
+  {
+    "id": "e5bf3be2-ec4d-49c4-acfd-9224555ce072",
+    "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+    "tokens": [
+      "000",
+      "ahead",
+      "bitcoin",
+      "decision",
+      "fed",
+      "jumps",
+      "nears",
+      "zec"
+    ],
+    "ts": 1793172540.2645013
+  },
+  {
+    "id": "ec127f73-6189-4cdb-8a95-3e34daf6edc2",
+    "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+    "tokens": [
+      "coinbase",
+      "contact",
+      "customer",
+      "exposes",
+      "funds",
+      "info",
+      "party",
+      "safe",
+      "third",
+      "user",
+      "vendor"
+    ],
+    "ts": 1793172547.3562577
+  },
+  {
+    "id": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets",
+    "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+    "tokens": [
+      "assets",
+      "deters",
+      "robinhood",
+      "serious",
+      "tenev",
+      "tokenization",
+      "uncertainty",
+      "warns"
+    ],
+    "ts": 1793172554.9782128
+  },
+  {
+    "id": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report",
+    "title": "Bithumb discloses data leak after internal system breach: Report",
+    "tokens": [
+      "bithumb",
+      "breach",
+      "data",
+      "discloses",
+      "internal",
+      "leak",
+      "report",
+      "system"
+    ],
+    "ts": 1793172562.0328658
   }
 ]

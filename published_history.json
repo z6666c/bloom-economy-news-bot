@@ -1,877 +1,5 @@
 [
   {
-    "id": "e3e952c1-a946-4698-8a9a-9ab401c188f2",
-    "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-    "tokens": [
-      "fargo",
-      "goldman",
-      "growth",
-      "morgan",
-      "play",
-      "see",
-      "stanley",
-      "threat",
-      "tokenization",
-      "wells"
-    ],
-    "ts": 1792259697.7670946
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
-    "title": "Citi says interest rates may matter more for economy than stock valuations",
-    "tokens": [
-      "citi",
-      "economy",
-      "interest",
-      "matter",
-      "may",
-      "more",
-      "rates",
-      "stock",
-      "valuations"
-    ],
-    "ts": 1792267873.4275906
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
-    "title": "Gilead chairman & CEO O’Day sells $2.2m in stock",
-    "tokens": [
-      "ceo",
-      "chairman",
-      "day",
-      "gilead",
-      "sells",
-      "stock"
-    ],
-    "ts": 1792267881.4029217
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
-    "title": "EOS Climbs 18% In a Green Day",
-    "tokens": [
-      "climbs",
-      "day",
-      "eos",
-      "green"
-    ],
-    "ts": 1792267889.289416
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/anterix-cfo-elena-marquez-sells-400606-of-stock-from-8000-to-8250-93CH-4955522",
-    "title": "Anterix CFO Elena Marquez sells $400,606 of stock from $80.00 to $82.50",
-    "tokens": [
-      "400",
-      "606",
-      "anterix",
-      "cfo",
-      "elena",
-      "marquez",
-      "sells",
-      "stock"
-    ],
-    "ts": 1792267897.297289
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/mercedes-unveils-electric-suv-as-it-expands-premium-ev-lineup-4955521",
-    "title": "Mercedes unveils electric SUV as it expands premium EV lineup",
-    "tokens": [
-      "electric",
-      "expands",
-      "lineup",
-      "mercedes",
-      "premium",
-      "suv",
-      "unveils"
-    ],
-    "ts": 1792267904.9228115
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/pedevco-director-simon-kukes-buys-191m-in-company-stock-93CH-4955519",
-    "title": "Pedevco director Simon Kukes buys $1.91m in company stock",
-    "tokens": [
-      "91m",
-      "buys",
-      "company",
-      "director",
-      "kukes",
-      "pedevco",
-      "simon",
-      "stock"
-    ],
-    "ts": 1792267913.458319
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/highfill-painting-voted-richmonds-best-painter-for-2026-by-richmond-timesdispatch-and-style-weekly-1036636523",
-    "title": "Highfill Painting Voted Richmond's Best Painter for 2026 by Richmond Times-Dispatch and Style Weekly",
-    "tokens": [
-      "2026",
-      "best",
-      "dispatch",
-      "highfill",
-      "painter",
-      "painting",
-      "richmond",
-      "style",
-      "times",
-      "voted",
-      "weekly"
-    ],
-    "ts": 1792267921.4531536
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/guts-shareholder-action-reminder-faruqi-faruqi-llp-reminds-fractyl-guts-investors-of-securities-class-action-lawsuit-deadline-on-october-20-2026-1036636524",
-    "title": "GUTS SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Fractyl (GUTS) Investors of Securities Class Action Lawsuit Deadline on October 20, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "class",
-      "deadline",
-      "faruqi",
-      "fractyl",
-      "guts",
-      "investors",
-      "lawsuit",
-      "llp",
-      "october",
-      "reminder",
-      "reminds",
-      "securities",
-      "shareholder"
-    ],
-    "ts": 1792267929.7123368
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/uncy-shareholder-action-reminder-faruqi-faruqi-llp-reminds-unicycive-therapeutics-uncy-investors-of-securities-class-action-lawsuit-deadline-on-november-2-2026-1036557184",
-    "title": "UNCY SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Unicycive Therapeutics (UNCY) Investors of Securities Class Action Lawsuit Deadline on November 2, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "class",
-      "deadline",
-      "faruqi",
-      "investors",
-      "lawsuit",
-      "llp",
-      "november",
-      "reminder",
-      "reminds",
-      "securities",
-      "shareholder",
-      "therapeutics",
-      "uncy",
-      "unicycive"
-    ],
-    "ts": 1792267933.724766
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/avxl-shareholder-action-reminder-faruqi-faruqi-llp-reminds-anavex-avxl-investors-of-securities-class-action-lawsuit-deadline-on-november-30-2026-1036636522",
-    "title": "AVXL SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Anavex (AVXL) Investors of Securities Class Action Lawsuit Deadline on November 30, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "anavex",
-      "avxl",
-      "class",
-      "deadline",
-      "faruqi",
-      "investors",
-      "lawsuit",
-      "llp",
-      "november",
-      "reminder",
-      "reminds",
-      "securities",
-      "shareholder"
-    ],
-    "ts": 1792267933.7371573
-  },
-  {
-    "id": "https://seekingalpha.com/news/4654028-key-deals-this-week-international-paper-ionq-bumble-and-more?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Key deals this week: International Paper, IonQ, Bumble, and more",
-    "tokens": [
-      "bumble",
-      "deals",
-      "international",
-      "ionq",
-      "key",
-      "more",
-      "paper",
-      "week"
-    ],
-    "ts": 1792267938.8304098
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/yss-deadline-alert-rosen-recognized-investor-counsel-encourages-york-space-systems-inc.-investors-to-secure-counsel-before-important-october-30-deadline-in-securities-class-action-yss-1036636518",
-    "title": "YSS DEADLINE ALERT: ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages York Space Systems Inc. Investors to Secure Counsel Before Important October 30 Deadline in Securities Class Action - YSS",
-    "tokens": [
-      "action",
-      "alert",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "important",
-      "inc",
-      "investor",
-      "investors",
-      "october",
-      "recognized",
-      "rosen",
-      "secure",
-      "securities",
-      "space",
-      "systems",
-      "york",
-      "yss"
-    ],
-    "ts": 1792267942.8427424
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-leading-investor-rights-law-firm-encourages-duolingo-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-duol-1036636485",
-    "title": "ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Duolingo, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - DUOL",
-    "tokens": [
-      "action",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "duol",
-      "duolingo",
-      "encourages",
-      "firm",
-      "important",
-      "inc",
-      "investor",
-      "investors",
-      "law",
-      "leading",
-      "rights",
-      "rosen",
-      "secure",
-      "securities"
-    ],
-    "ts": 1792267947.5426662
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/googl-shareholder-action-reminder-faruqi-faruqi-llp-reminds-alphabet-investors-of-securities-class-action-lawsuit-deadline-on-november-30-2026-1036636486",
-    "title": "GOOGL SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Alphabet Investors of Securities Class Action Lawsuit Deadline on November 30, 2026",
-    "tokens": [
-      "2026",
-      "action",
-      "alphabet",
-      "class",
-      "deadline",
-      "faruqi",
-      "googl",
-      "investors",
-      "lawsuit",
-      "llp",
-      "november",
-      "reminder",
-      "reminds",
-      "securities",
-      "shareholder"
-    ],
-    "ts": 1792267951.5550773
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/historic-250-million-gift-from-john-paulson-to-hebrew-university-will-advance-engineering-medicine-and-trauma-recovery-1036636484",
-    "title": "Historic $250 Million Gift from John Paulson to Hebrew University Will Advance Engineering, Medicine, and Trauma Recovery",
-    "tokens": [
-      "250",
-      "advance",
-      "engineering",
-      "gift",
-      "hebrew",
-      "historic",
-      "john",
-      "medicine",
-      "million",
-      "paulson",
-      "recovery",
-      "trauma",
-      "university"
-    ],
-    "ts": 1792267957.3207026
-  },
-  {
-    "id": "https://www.businessinsider.com/mapquest-flock-surveillance-cameras-license-plate-readers-2026-10",
-    "title": "MapQuest now shows you Flock and other license plate reader cameras on your route",
-    "tokens": [
-      "cameras",
-      "flock",
-      "license",
-      "mapquest",
-      "now",
-      "other",
-      "plate",
-      "reader",
-      "route",
-      "shows",
-      "you",
-      "your"
-    ],
-    "ts": 1792267964.7810905
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/jetblue-chief-digital--tech-officer-disposes-of-8580-in-stock-93CH-4955615",
-    "title": "JetBlue chief digital & tech officer disposes of $8,580 in stock",
-    "tokens": [
-      "580",
-      "chief",
-      "digital",
-      "disposes",
-      "jetblue",
-      "officer",
-      "stock",
-      "tech"
-    ],
-    "ts": 1792275582.441014
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
-    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-    "tokens": [
-      "close",
-      "index",
-      "lower",
-      "moex",
-      "russia",
-      "stocks",
-      "trade",
-      "unchanged"
-    ],
-    "ts": 1792275586.4514415
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/on-semiconductor-group-president-sudhir-gopalswamy-sells-125m-in-shares-93CH-4955555",
-    "title": "On Semiconductor group president Sudhir Gopalswamy sells $1.25m in shares",
-    "tokens": [
-      "25m",
-      "gopalswamy",
-      "group",
-      "president",
-      "sells",
-      "semiconductor",
-      "shares",
-      "sudhir"
-    ],
-    "ts": 1792275591.997198
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/powell-industries-vp-mauney-sells-56488-in-stock-93CH-4955554",
-    "title": "Powell Industries VP Mauney sells $56,488 in stock",
-    "tokens": [
-      "488",
-      "industries",
-      "mauney",
-      "powell",
-      "sells",
-      "stock"
-    ],
-    "ts": 1792275599.5890012
-  },
-  {
-    "id": "oilprice-article-45797",
-    "title": "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
-    "tokens": [
-      "chemicals",
-      "cost",
-      "crisis",
-      "despite",
-      "east",
-      "edge",
-      "hormuz",
-      "keep",
-      "middle",
-      "their"
-    ],
-    "ts": 1792275609.9605298
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/maze-therapeutics-ceo-jason-coloma-sells-932259-in-maze-shares-93CH-4955685",
-    "title": "Maze Therapeutics CEO Jason Coloma sells $932,259 in Maze shares",
-    "tokens": [
-      "259",
-      "932",
-      "ceo",
-      "coloma",
-      "jason",
-      "maze",
-      "sells",
-      "shares",
-      "therapeutics"
-    ],
-    "ts": 1792282181.824834
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/pagerduty-executive-chair-jennifer-tejada-sells-16-million-in-shares-93CH-4955675",
-    "title": "PagerDuty executive chair Jennifer Tejada sells $1.6 million in shares",
-    "tokens": [
-      "chair",
-      "executive",
-      "jennifer",
-      "million",
-      "pagerduty",
-      "sells",
-      "shares",
-      "tejada"
-    ],
-    "ts": 1792282190.5114553
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/first-guaranty-bancshares-director-smith-buys-822013-in-stock-93CH-4955666",
-    "title": "First Guaranty Bancshares director Smith buys $822,013 in stock",
-    "tokens": [
-      "013",
-      "822",
-      "bancshares",
-      "buys",
-      "director",
-      "first",
-      "guaranty",
-      "smith",
-      "stock"
-    ],
-    "ts": 1792282199.2759397
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/could-another-france-downgrade-put-the-eus-credit-rating-at-risk-4955657",
-    "title": "Could another France downgrade put the EU’s credit rating at risk?",
-    "tokens": [
-      "another",
-      "could",
-      "credit",
-      "downgrade",
-      "france",
-      "put",
-      "rating",
-      "risk"
-    ],
-    "ts": 1792282207.7702572
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647",
-    "title": "Venezuela expects nearly $76 billion in oil investment over five years, acting president says",
-    "tokens": [
-      "acting",
-      "billion",
-      "expects",
-      "five",
-      "investment",
-      "nearly",
-      "oil",
-      "president",
-      "venezuela",
-      "years"
-    ],
-    "ts": 1792282215.8466284
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/limoneira-vp-cfo-hamm-sells-11905-of-common-stock-93CH-4955645",
-    "title": "Limoneira VP, CFO Hamm sells $11,905 of common stock",
-    "tokens": [
-      "905",
-      "cfo",
-      "common",
-      "hamm",
-      "limoneira",
-      "sells",
-      "stock"
-    ],
-    "ts": 1792282223.9197805
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-sells-83-million-in-company-stock-93CH-4955634",
-    "title": "Protagonist CFO Ali Asif sells $8.3 million in company stock",
-    "tokens": [
-      "ali",
-      "asif",
-      "cfo",
-      "company",
-      "million",
-      "protagonist",
-      "sells",
-      "stock"
-    ],
-    "ts": 1792282231.4581087
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dropbox-cao-sarah-schubach-sells-65893-of-stock-93CH-4955624",
-    "title": "Dropbox CAO Sarah Schubach sells $65,893 of stock",
-    "tokens": [
-      "893",
-      "cao",
-      "dropbox",
-      "sarah",
-      "schubach",
-      "sells",
-      "stock"
-    ],
-    "ts": 1792282239.4656122
-  },
-  {
-    "id": "oilprice-article-45801",
-    "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
-    "tokens": [
-      "2027",
-      "high",
-      "keeps",
-      "oil",
-      "prices",
-      "stay",
-      "supply",
-      "tight",
-      "war"
-    ],
-    "ts": 1792282248.864976
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
-    "title": "NextTrip earnings missed by $0.11, revenue fell short of estimates",
-    "tokens": [
-      "earnings",
-      "estimates",
-      "fell",
-      "missed",
-      "nexttrip",
-      "revenue",
-      "short"
-    ],
-    "ts": 1792298026.5573084
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions-4955750",
-    "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
-    "tokens": [
-      "days",
-      "rubio",
-      "russia",
-      "sanctions",
-      "take",
-      "trump",
-      "weigh"
-    ],
-    "ts": 1792298034.333471
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/iran-war-tankers-hit-near-hormuz-as-tehran-offers-us-reopening-plan-4955749",
-    "title": "Iran war: Tankers hit near Hormuz as Tehran offers U.S. reopening plan",
-    "tokens": [
-      "hit",
-      "hormuz",
-      "iran",
-      "near",
-      "offers",
-      "plan",
-      "reopening",
-      "tankers",
-      "tehran",
-      "war"
-    ],
-    "ts": 1792298043.2503223
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727",
-    "title": "Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg",
-    "tokens": [
-      "asian",
-      "bloomberg",
-      "boom",
-      "costs",
-      "fall",
-      "financing",
-      "rising",
-      "spending",
-      "stocks",
-      "threaten"
-    ],
-    "ts": 1792298052.6223924
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/venezuela-expects-76-billion-oil-investment-boost-amid-us-cooperation-4955719",
-    "title": "Venezuela expects $76 billion oil investment boost amid U.S. cooperation",
-    "tokens": [
-      "billion",
-      "boost",
-      "cooperation",
-      "expects",
-      "investment",
-      "oil",
-      "venezuela"
-    ],
-    "ts": 1792298059.8670528
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/softbank-in-early-talks-to-acquire-allied-universal-for-up-to-18-billion--wsj-4955709",
-    "title": "SoftBank in early talks to acquire Allied Universal for up to $18 billion - WSJ",
-    "tokens": [
-      "acquire",
-      "allied",
-      "billion",
-      "early",
-      "softbank",
-      "talks",
-      "universal",
-      "wsj"
-    ],
-    "ts": 1792298069.829416
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/edward-meyercord-extreme-networks-ceo-sells-109m-in-shares-93CH-4955704",
-    "title": "Edward Meyercord, Extreme Networks CEO, sells $1.09m in shares",
-    "tokens": [
-      "09m",
-      "ceo",
-      "edward",
-      "extreme",
-      "meyercord",
-      "networks",
-      "sells",
-      "shares"
-    ],
-    "ts": 1792298078.0251086
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/clover-health-ceo-andrew-toy-sells-13m-in-shares-93CH-4955703",
-    "title": "Clover Health CEO Andrew Toy sells $1.3m in shares",
-    "tokens": [
-      "andrew",
-      "ceo",
-      "clover",
-      "health",
-      "sells",
-      "shares",
-      "toy"
-    ],
-    "ts": 1792298085.5646164
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/us-urges-israel-to-curb-settler-violence-in-west-bank-rubio-says-4955694",
-    "title": "U.S. urges Israel to curb settler violence in West Bank, Rubio says",
-    "tokens": [
-      "bank",
-      "curb",
-      "israel",
-      "rubio",
-      "settler",
-      "urges",
-      "violence",
-      "west"
-    ],
-    "ts": 1792298093.32037
-  },
-  {
-    "id": "13c8097d-ec8a-4432-b9fe-05e69cc7bfc2",
-    "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-    "tokens": [
-      "bigger",
-      "circle",
-      "court",
-      "cut",
-      "defends",
-      "economics",
-      "partners",
-      "rivals",
-      "stablecoin",
-      "usdc"
-    ],
-    "ts": 1792298102.8630369
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/russia-hits-ukraines-energy-sector-76-times-in-a-week-zelenskiy-says-4955841",
-    "title": "Russia hits Ukraine’s energy sector 76 times in a week, Zelenskiy says",
-    "tokens": [
-      "energy",
-      "hits",
-      "russia",
-      "sector",
-      "times",
-      "ukraine",
-      "week",
-      "zelenskiy"
-    ],
-    "ts": 1792314417.230544
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/olesen-value-fund-sells-716664-of-solitron-devices-stock-93CH-4955832",
-    "title": "Olesen Value Fund sells $716,664 of Solitron Devices stock",
-    "tokens": [
-      "664",
-      "716",
-      "devices",
-      "fund",
-      "olesen",
-      "sells",
-      "solitron",
-      "stock",
-      "value"
-    ],
-    "ts": 1792314424.7797112
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/china-proposes-export-curbs-on-12-key-solar-manufacturing-technologies-4955825",
-    "title": "China proposes export curbs on 12 key solar manufacturing technologies",
-    "tokens": [
-      "china",
-      "curbs",
-      "export",
-      "key",
-      "manufacturing",
-      "proposes",
-      "solar",
-      "technologies"
-    ],
-    "ts": 1792314432.7897716
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820",
-    "title": "Nestle, Unilever face regulatory action in India over misleading health claims",
-    "tokens": [
-      "action",
-      "claims",
-      "face",
-      "health",
-      "india",
-      "misleading",
-      "nestle",
-      "regulatory",
-      "unilever"
-    ],
-    "ts": 1792314441.249762
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/ledger-crypto-wallets-compromised-in-hardware-attack-linked-to-90m-theft-4955797",
-    "title": "Ledger crypto wallets compromised in hardware attack linked to $90M theft",
-    "tokens": [
-      "90m",
-      "attack",
-      "compromised",
-      "crypto",
-      "hardware",
-      "ledger",
-      "linked",
-      "theft",
-      "wallets"
-    ],
-    "ts": 1792314448.5703275
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-meta-gets-streethigh-pt-salesforce-double-upgraded-4955491",
-    "title": "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
-    "tokens": [
-      "analyst",
-      "big",
-      "double",
-      "gets",
-      "high",
-      "meta",
-      "moves",
-      "salesforce",
-      "street",
-      "upgraded"
-    ],
-    "ts": 1792314456.7726872
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ralph-larossa-sells-140570-in-public-service-enterprise-group-stock-93CH-4955807",
-    "title": "Ralph LaRossa sells $140,570 in Public Service Enterprise Group stock",
-    "tokens": [
-      "140",
-      "570",
-      "enterprise",
-      "group",
-      "larossa",
-      "public",
-      "ralph",
-      "sells",
-      "service",
-      "stock"
-    ],
-    "ts": 1792314464.7772667
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
-    "title": "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
-    "tokens": [
-      "80k",
-      "above",
-      "bitcoin",
-      "mixed",
-      "outlook",
-      "signal",
-      "struggles",
-      "transfers",
-      "whale"
-    ],
-    "ts": 1792314472.8429346
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/china-proposes-export-controls-on-solarmanufacturing-technologies-4955803",
-    "title": "China proposes export controls on solar-manufacturing technologies",
-    "tokens": [
-      "china",
-      "controls",
-      "export",
-      "manufacturing",
-      "proposes",
-      "solar",
-      "technologies"
-    ],
-    "ts": 1792314476.858825
-  },
-  {
-    "id": "956b7bb2-9ea1-4ce8-9f63-35d2ba6935ea",
-    "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-    "tokens": [
-      "bets",
-      "chip",
-      "lost",
-      "million",
-      "minutes",
-      "shut",
-      "stock",
-      "street",
-      "wall"
-    ],
-    "ts": 1792314481.7375631
-  },
-  {
-    "id": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round",
-    "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-    "tokens": [
-      "aisa",
-      "backs",
-      "completing",
-      "extension",
-      "investor",
-      "round",
-      "seed",
-      "strategic",
-      "tether"
-    ],
-    "ts": 1792314489.5728538
-  },
-  {
-    "id": "WP-MKTW-0005291679",
-    "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-    "tokens": [
-      "borrowing",
-      "collide",
-      "costs",
-      "earnings",
-      "heading",
-      "high",
-      "rising",
-      "showdown",
-      "stakes",
-      "stocks",
-      "strong"
-    ],
-    "ts": 1792329475.6174176
-  },
-  {
     "id": "WP-MKTW-0005293372",
     "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
     "tokens": [
@@ -23766,5 +22894,889 @@
       "wallets"
     ],
     "ts": 1793266032.7439182
+  },
+  {
+    "id": "WP-MKTW-0005314336",
+    "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+    "tokens": [
+      "account",
+      "bank",
+      "bequest",
+      "church",
+      "earning",
+      "eroding",
+      "inflation",
+      "million",
+      "our"
+    ],
+    "ts": 1793290862.3578086
+  },
+  {
+    "id": "WP-MKTW-0005314814",
+    "title": "Looking for income? These dividend stocks have high yields that seem well supported.",
+    "tokens": [
+      "dividend",
+      "high",
+      "income",
+      "looking",
+      "seem",
+      "stocks",
+      "supported",
+      "these",
+      "well",
+      "yields"
+    ],
+    "ts": 1793290870.8646133
+  },
+  {
+    "id": "WP-MKTW-0005276618",
+    "title": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
+    "tokens": [
+      "benefit",
+      "florida",
+      "here",
+      "hurt",
+      "property",
+      "slash",
+      "taxes",
+      "voting",
+      "whether",
+      "who",
+      "would"
+    ],
+    "ts": 1793290879.0282426
+  },
+  {
+    "id": "WP-MKTW-0005314725",
+    "title": "Caterpillar’s stock is sinking. Here’s what that means for the Dow.",
+    "tokens": [
+      "caterpillar",
+      "dow",
+      "here",
+      "means",
+      "sinking",
+      "stock",
+      "what"
+    ],
+    "ts": 1793290886.542878
+  },
+  {
+    "id": "WP-MKTW-0005312364",
+    "title": "Consumers are spending more, but they’re not getting their money’s worth due to inflation",
+    "tokens": [
+      "consumers",
+      "due",
+      "getting",
+      "inflation",
+      "money",
+      "more",
+      "spending",
+      "their",
+      "they",
+      "worth"
+    ],
+    "ts": 1793290894.3412402
+  },
+  {
+    "id": "WP-MKTW-0005312363",
+    "title": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last with prices still rising.",
+    "tokens": [
+      "fed",
+      "hikes",
+      "inflation",
+      "last",
+      "pause",
+      "pce",
+      "prices",
+      "rate",
+      "rising",
+      "shows",
+      "still",
+      "surges",
+      "unlikely"
+    ],
+    "ts": 1793290903.3416758
+  },
+  {
+    "id": "WP-MKTW-0005314007",
+    "title": "The midterms are crucial to the future of Social Security – no matter how old you are",
+    "tokens": [
+      "crucial",
+      "future",
+      "how",
+      "matter",
+      "midterms",
+      "old",
+      "security",
+      "social",
+      "you"
+    ],
+    "ts": 1793290910.9988291
+  },
+  {
+    "id": "WP-MKTW-0005311292",
+    "title": "3 reasons home prices keep going up, even though fewer people are buying",
+    "tokens": [
+      "buying",
+      "even",
+      "fewer",
+      "going",
+      "home",
+      "keep",
+      "people",
+      "prices",
+      "reasons",
+      "though"
+    ],
+    "ts": 1793290918.73128
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-whitecap-resources-posts-q3-2026-revenue-beat-eps-miss-93CH-4984712",
+    "title": "Earnings call transcript: Whitecap Resources posts Q3 2026 revenue beat, EPS miss",
+    "tokens": [
+      "2026",
+      "beat",
+      "call",
+      "earnings",
+      "eps",
+      "miss",
+      "posts",
+      "resources",
+      "revenue",
+      "transcript",
+      "whitecap"
+    ],
+    "ts": 1793290928.5946763
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-hyatt-tops-q3-2026-eps-estimates-as-stock-rises-5-93CH-4984711",
+    "title": "Earnings call transcript: Hyatt tops Q3 2026 EPS estimates as stock rises 5%",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "eps",
+      "estimates",
+      "hyatt",
+      "rises",
+      "stock",
+      "tops",
+      "transcript"
+    ],
+    "ts": 1793290937.849437
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-vista-oil--gas-tops-revenue-in-q3-2026-shares-slip-93CH-4984710",
+    "title": "Earnings call transcript: Vista Oil & Gas tops revenue in Q3 2026, shares slip",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "gas",
+      "oil",
+      "revenue",
+      "shares",
+      "slip",
+      "tops",
+      "transcript",
+      "vista"
+    ],
+    "ts": 1793290945.1689498
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-a-o-smith-tops-q3-2026-eps-view-revenue-misses-93CH-4984709",
+    "title": "Earnings call transcript: A. O. Smith tops Q3 2026 EPS view, revenue misses",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "eps",
+      "misses",
+      "revenue",
+      "smith",
+      "tops",
+      "transcript",
+      "view"
+    ],
+    "ts": 1793290953.54147
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/agco-q3-2026-slides-profit-beats-forecast-as-farm-demand-hits-trough-93CH-4984708",
+    "title": "AGCO Q3 2026 slides: profit beats forecast as farm demand hits trough",
+    "tokens": [
+      "2026",
+      "agco",
+      "beats",
+      "demand",
+      "farm",
+      "forecast",
+      "hits",
+      "profit",
+      "slides",
+      "trough"
+    ],
+    "ts": 1793290961.195099
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-antero-resources-beats-q3-2026-eps-shares-slip-93CH-4984707",
+    "title": "Earnings call transcript: Antero Resources beats Q3 2026 EPS, shares slip",
+    "tokens": [
+      "2026",
+      "antero",
+      "beats",
+      "call",
+      "earnings",
+      "eps",
+      "resources",
+      "shares",
+      "slip",
+      "transcript"
+    ],
+    "ts": 1793290968.219532
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-myr-group-tops-q3-2026-estimates-on-record-sales-93CH-4984706",
+    "title": "Earnings call transcript: MYR Group tops Q3 2026 estimates on record sales",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "estimates",
+      "group",
+      "myr",
+      "record",
+      "sales",
+      "tops",
+      "transcript"
+    ],
+    "ts": 1793290976.608098
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/borgwarner-q3-2026-slides-margin-gains-drive-eps-guidance-boost-93CH-4984705",
+    "title": "BorgWarner Q3 2026 slides: margin gains drive EPS guidance boost",
+    "tokens": [
+      "2026",
+      "boost",
+      "borgwarner",
+      "drive",
+      "eps",
+      "gains",
+      "guidance",
+      "margin",
+      "slides"
+    ],
+    "ts": 1793290984.4081175
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-federal-signal-tops-q3-2026-profit-view-shares-rise-93CH-4984704",
+    "title": "Earnings call transcript: Federal Signal tops Q3 2026 profit view, shares rise",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "federal",
+      "profit",
+      "rise",
+      "shares",
+      "signal",
+      "tops",
+      "transcript",
+      "view"
+    ],
+    "ts": 1793290992.8196301
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-lifezone-metals-advances-kabanga-as-q3-2026-loss-continues-93CH-4984703",
+    "title": "Earnings call transcript: Lifezone Metals advances Kabanga as Q3 2026 loss continues",
+    "tokens": [
+      "2026",
+      "advances",
+      "call",
+      "continues",
+      "earnings",
+      "kabanga",
+      "lifezone",
+      "loss",
+      "metals",
+      "transcript"
+    ],
+    "ts": 1793291001.1558743
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/the-debruce-foundation-invites-adults-to-change-the-question-for-national-career-development-month-1036685545",
+    "title": "The DeBruce Foundation Invites Adults to “Change the Question” for National Career Development Month",
+    "tokens": [
+      "adults",
+      "career",
+      "change",
+      "debruce",
+      "development",
+      "foundation",
+      "invites",
+      "month",
+      "national",
+      "question"
+    ],
+    "ts": 1793291008.9286244
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/dodge-extends-partnership-with-radford-as-official-high-performance-driving-school-of-dodge-new-600-horsepower-charger-super-bee-coming-to-class-in-2027-1036685544",
+    "title": "Dodge Extends Partnership With Radford as Official High-Performance Driving School of Dodge, New 600-horsepower Charger Super Bee Coming to Class in 2027",
+    "tokens": [
+      "2027",
+      "600",
+      "bee",
+      "charger",
+      "class",
+      "coming",
+      "dodge",
+      "driving",
+      "extends",
+      "high",
+      "horsepower",
+      "official",
+      "partnership",
+      "performance",
+      "radford",
+      "school",
+      "super"
+    ],
+    "ts": 1793291017.511954
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/paul-b-corkum-named-optica-honorary-member-1036685546",
+    "title": "Paul B. Corkum Named Optica Honorary Member",
+    "tokens": [
+      "corkum",
+      "honorary",
+      "member",
+      "named",
+      "optica",
+      "paul"
+    ],
+    "ts": 1793291026.197845
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/inter-beaujolais-celebrates-beaujolais-wine-month-a-global-tradition-arrives-in-the-u-s-with-various-events-highlighting-wine-s-most-anticipated-time-of-the-year-1036685543",
+    "title": "Inter Beaujolais Celebrates Beaujolais Wine Month:  A Global Tradition Arrives in the U.S. with Various Events Highlighting Wine's Most Anticipated Time of the Year",
+    "tokens": [
+      "anticipated",
+      "arrives",
+      "beaujolais",
+      "celebrates",
+      "events",
+      "global",
+      "highlighting",
+      "inter",
+      "month",
+      "most",
+      "time",
+      "tradition",
+      "various",
+      "wine",
+      "year"
+    ],
+    "ts": 1793291034.562051
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/before-the-midterms-a-debate-over-where-data-centers-belong-and-who-pays-for-their-power-1036685547",
+    "title": "Before the Midterms, a Debate Over Where Data Centers Belong and Who Pays for Their Power",
+    "tokens": [
+      "before",
+      "belong",
+      "centers",
+      "data",
+      "debate",
+      "midterms",
+      "pays",
+      "power",
+      "their",
+      "where",
+      "who"
+    ],
+    "ts": 1793291042.7728174
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-bilfinger-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036685540",
+    "title": "EQS-PVR: Bilfinger SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "tokens": [
+      "according",
+      "act",
+      "article",
+      "bilfinger",
+      "distribution",
+      "eqs",
+      "europe",
+      "german",
+      "objective",
+      "pvr",
+      "release",
+      "section",
+      "securities",
+      "trading",
+      "wide",
+      "wphg"
+    ],
+    "ts": 1793291046.7884
+  },
+  {
+    "id": "https://seekingalpha.com/news/4660344-byd-and-geely-miss-q3-estimates-european-trade-restrictions-cloud-outlook?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "BYD and Geely miss Q3 estimates; European trade restrictions cloud outlook",
+    "tokens": [
+      "byd",
+      "cloud",
+      "estimates",
+      "european",
+      "geely",
+      "miss",
+      "outlook",
+      "restrictions",
+      "trade"
+    ],
+    "ts": 1793291050.488463
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-bilfinger-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036685507",
+    "title": "EQS-PVR: Bilfinger SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "tokens": [
+      "according",
+      "act",
+      "article",
+      "bilfinger",
+      "distribution",
+      "eqs",
+      "europe",
+      "german",
+      "objective",
+      "pvr",
+      "release",
+      "section",
+      "securities",
+      "trading",
+      "wide",
+      "wphg"
+    ],
+    "ts": 1793291054.5041506
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/petkit-unveils-petkit-trace-an-ai-powered-pet-health-data-platform-on-national-cat-day-for-a-more-connected-future-of-pet-care-1036685491",
+    "title": "PETKIT Unveils PETKIT TRACE, an AI-Powered Pet Health Data Platform, on National Cat Day for a More Connected Future of Pet Care",
+    "tokens": [
+      "care",
+      "cat",
+      "connected",
+      "data",
+      "day",
+      "future",
+      "health",
+      "more",
+      "national",
+      "pet",
+      "petkit",
+      "platform",
+      "powered",
+      "trace",
+      "unveils"
+    ],
+    "ts": 1793291058.261979
+  },
+  {
+    "id": "https://seekingalpha.com/news/4660349-cheniere-energy-partners-declares-0_89-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Cheniere Energy Partners declares $0.89 dividend",
+    "tokens": [
+      "cheniere",
+      "declares",
+      "dividend",
+      "energy",
+      "partners"
+    ],
+    "ts": 1793291066.0552218
+  },
+  {
+    "id": "oilprice-article-45913",
+    "title": "UK Budget Signals Wave of New North Sea Oil and Gas Drilling",
+    "tokens": [
+      "budget",
+      "drilling",
+      "gas",
+      "north",
+      "oil",
+      "sea",
+      "signals",
+      "wave"
+    ],
+    "ts": 1793291074.6228662
+  },
+  {
+    "id": "oilprice-news-45914",
+    "title": "Trafigura Signs New Gas Supply Deal with German SEFE",
+    "tokens": [
+      "deal",
+      "gas",
+      "german",
+      "sefe",
+      "signs",
+      "supply",
+      "trafigura"
+    ],
+    "ts": 1793291082.5633652
+  },
+  {
+    "id": "oilprice-article-45914",
+    "title": "Investors Are Piling Into Dangote. But Is the Price Right?",
+    "tokens": [
+      "dangote",
+      "investors",
+      "piling",
+      "price",
+      "right"
+    ],
+    "ts": 1793291089.8502595
+  },
+  {
+    "id": "oilprice-news-45913",
+    "title": "UK National Grid to Extend France Power Link Operation to 2050",
+    "tokens": [
+      "2050",
+      "extend",
+      "france",
+      "grid",
+      "link",
+      "national",
+      "operation",
+      "power"
+    ],
+    "ts": 1793291098.7088366
+  },
+  {
+    "id": "oilprice-article-45911",
+    "title": "Fragile Ukraine Truce Faces Critical Test Amid Fears of Forced Deportations",
+    "tokens": [
+      "critical",
+      "deportations",
+      "faces",
+      "fears",
+      "forced",
+      "fragile",
+      "test",
+      "truce",
+      "ukraine"
+    ],
+    "ts": 1793291106.8357038
+  },
+  {
+    "id": "oilprice-news-45911",
+    "title": "Iran War Hikes EU’s Oil Import Bill By $11 Billion Per Month",
+    "tokens": [
+      "bill",
+      "billion",
+      "hikes",
+      "import",
+      "iran",
+      "month",
+      "oil",
+      "per",
+      "war"
+    ],
+    "ts": 1793291116.05503
+  },
+  {
+    "id": "a6cbbb64-0b33-4563-934e-40e900ef8a9d",
+    "title": "Crypto exchange HTX exits the UK after settling with the FCA",
+    "tokens": [
+      "crypto",
+      "exchange",
+      "exits",
+      "fca",
+      "htx",
+      "settling"
+    ],
+    "ts": 1793291123.3630576
+  },
+  {
+    "id": "87f8e815-d679-4c08-8433-1a9f1e25f1dc",
+    "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+    "tokens": [
+      "brings",
+      "crypto",
+      "markets",
+      "platform",
+      "polymarket",
+      "prediction",
+      "short",
+      "ultra"
+    ],
+    "ts": 1793291130.8024406
+  },
+  {
+    "id": "4217fdd7-ae77-40ec-926c-ad954fd7c3ef",
+    "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
+    "tokens": [
+      "advisors",
+      "americans",
+      "crypto",
+      "financial",
+      "only",
+      "say",
+      "secure",
+      "system"
+    ],
+    "ts": 1793291137.596048
+  },
+  {
+    "id": "07deb1df-c432-4036-922b-c99211b079a2",
+    "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+    "tokens": [
+      "attract",
+      "banks",
+      "bitcoin",
+      "brokers",
+      "could",
+      "etf",
+      "first",
+      "genuine",
+      "overseas",
+      "soon",
+      "spot",
+      "switzerland",
+      "why"
+    ],
+    "ts": 1793291145.0720327
+  },
+  {
+    "id": "10c5b71e-27df-4963-8760-e5d228cb239f",
+    "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
+    "tokens": [
+      "aave",
+      "adds",
+      "assets",
+      "chainlink",
+      "launch",
+      "partner",
+      "pricing",
+      "tokenized",
+      "weekend"
+    ],
+    "ts": 1793291153.2060704
+  },
+  {
+    "id": "07403e41-d930-478b-a805-85251af054b1",
+    "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
+    "tokens": [
+      "bitcoin",
+      "break",
+      "hardware",
+      "keys",
+      "model",
+      "needed",
+      "quantum",
+      "slashes",
+      "times"
+    ],
+    "ts": 1793291161.3796053
+  },
+  {
+    "id": "9ec68ebb-87d3-4c34-9b6a-9691a3022da8",
+    "title": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
+    "tokens": [
+      "against",
+      "eli",
+      "growing",
+      "ice",
+      "join",
+      "lilly",
+      "okx",
+      "plans",
+      "pushback",
+      "stock",
+      "tokenized",
+      "walmart"
+    ],
+    "ts": 1793291169.1064599
+  },
+  {
+    "id": "dcd09559-564a-4042-995c-9ffd6a4285ac",
+    "title": "A new framework for tokenized asset tracking",
+    "tokens": [
+      "asset",
+      "framework",
+      "tokenized",
+      "tracking"
+    ],
+    "ts": 1793291176.4394622
+  },
+  {
+    "id": "ca78f2d9-fcc9-4599-a74b-c5321c9f37c1",
+    "title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
+    "tokens": [
+      "beat",
+      "canton",
+      "could",
+      "first",
+      "framework",
+      "ice",
+      "okx",
+      "sec",
+      "stock",
+      "tokenized",
+      "trade",
+      "under",
+      "venue"
+    ],
+    "ts": 1793291183.9833205
+  },
+  {
+    "id": "83a78676-47bb-4b16-b894-437896fc3d83",
+    "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
+    "tokens": [
+      "crypto",
+      "korean",
+      "laundering",
+      "millions",
+      "nationals",
+      "north",
+      "russian",
+      "sanctions",
+      "workers"
+    ],
+    "ts": 1793291191.981383
+  },
+  {
+    "id": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b",
+    "title": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
+    "tokens": [
+      "40b",
+      "kalshi",
+      "non",
+      "raises",
+      "rate",
+      "revenue",
+      "run",
+      "sports",
+      "tops",
+      "valuation"
+    ],
+    "ts": 1793291199.990876
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data",
+    "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+    "tokens": [
+      "beats",
+      "bitcoin",
+      "data",
+      "expectations",
+      "gdp",
+      "jumps",
+      "price"
+    ],
+    "ts": 1793291207.4389164
+  },
+  {
+    "id": "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data",
+    "title": "French Senate adopts bill for automatic sharing of crypto tax data",
+    "tokens": [
+      "adopts",
+      "automatic",
+      "bill",
+      "crypto",
+      "data",
+      "french",
+      "senate",
+      "sharing",
+      "tax"
+    ],
+    "ts": 1793291214.0302694
+  },
+  {
+    "id": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing",
+    "title": "Bank of England opens consultation on tokenized collateral for clearing",
+    "tokens": [
+      "bank",
+      "clearing",
+      "collateral",
+      "consultation",
+      "england",
+      "opens",
+      "tokenized"
+    ],
+    "ts": 1793291221.6596966
+  },
+  {
+    "id": "https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard",
+    "title": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard",
+    "tokens": [
+      "canton",
+      "coin",
+      "foundation",
+      "grants",
+      "pricing",
+      "redstone",
+      "standard"
+    ],
+    "ts": 1793291229.4112666
+  },
+  {
+    "id": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty",
+    "title": "Brazil’s Halloween eve crypto deadline brings more tricks than treats",
+    "tokens": [
+      "brazil",
+      "brings",
+      "crypto",
+      "deadline",
+      "eve",
+      "halloween",
+      "more",
+      "treats",
+      "tricks"
+    ],
+    "ts": 1793291237.3570096
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
+    "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+    "tokens": [
+      "bitcoin",
+      "can",
+      "coming",
+      "compete",
+      "ethereum",
+      "fast",
+      "private",
+      "tron",
+      "usdt"
+    ],
+    "ts": 1793291244.7128086
+  },
+  {
+    "id": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana",
+    "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
+    "tokens": [
+      "expands",
+      "money",
+      "open",
+      "polygon",
+      "rollout",
+      "solana",
+      "stack",
+      "tron"
+    ],
+    "ts": 1793291251.9759388
+  },
+  {
+    "id": "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions",
+    "title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
+    "tokens": [
+      "cash",
+      "chainalysis",
+      "crypto",
+      "garantex",
+      "korean",
+      "north",
+      "outs",
+      "through",
+      "traces"
+    ],
+    "ts": 1793291259.024849
   }
 ]

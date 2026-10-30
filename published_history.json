@@ -1,335 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
-    "title": "Asian stocks skid, Wall Street and bonds aided by oil slip",
-    "tokens": [
-      "aided",
-      "asian",
-      "bonds",
-      "oil",
-      "skid",
-      "slip",
-      "stocks",
-      "street",
-      "wall"
-    ],
-    "ts": 1792373794.393956
-  },
-  {
-    "id": "oilprice-article-45802",
-    "title": "America Needs 48,000 Tons of Rare Earth Magnets. It Only Makes 300",
-    "tokens": [
-      "000",
-      "300",
-      "america",
-      "earth",
-      "magnets",
-      "makes",
-      "needs",
-      "only",
-      "rare",
-      "tons"
-    ],
-    "ts": 1792373803.1887794
-  },
-  {
-    "id": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds",
-    "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-    "tokens": [
-      "attacker",
-      "chain",
-      "drains",
-      "freezes",
-      "qubic",
-      "seeds",
-      "wallets",
-      "weak"
-    ],
-    "ts": 1792373810.789424
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cora-golds-largest-shareholder-eagle-eye-to-transfer-stake-to-subsidiary-93CH-4956428",
-    "title": "Cora Gold’s largest shareholder Eagle Eye to transfer stake to subsidiary",
-    "tokens": [
-      "cora",
-      "eagle",
-      "eye",
-      "gold",
-      "largest",
-      "shareholder",
-      "stake",
-      "subsidiary",
-      "transfer"
-    ],
-    "ts": 1792392755.265053
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/volex-flags-upperend-fy27-profit-h1-revenue-at-least-710-million-93CH-4956427",
-    "title": "Volex flags upper-end FY27 profit; H1 revenue at least $710 million",
-    "tokens": [
-      "710",
-      "end",
-      "flags",
-      "fy27",
-      "least",
-      "million",
-      "profit",
-      "revenue",
-      "upper",
-      "volex"
-    ],
-    "ts": 1792392763.717075
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/gsks-risrez-shows-61-response-rate-in-small-cell-lung-cancer-trial-4956426",
-    "title": "GSK’s Ris-Rez shows 61% response rate in small cell lung cancer trial",
-    "tokens": [
-      "cancer",
-      "cell",
-      "gsk",
-      "lung",
-      "rate",
-      "response",
-      "rez",
-      "ris",
-      "shows",
-      "small",
-      "trial"
-    ],
-    "ts": 1792392771.5158288
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/realty-advisors-inc-buys-2-million-in-new-concept-energy-shares-93CH-4956423",
-    "title": "Realty advisors Inc buys $2 million in New Concept Energy shares",
-    "tokens": [
-      "advisors",
-      "buys",
-      "concept",
-      "energy",
-      "inc",
-      "million",
-      "realty",
-      "shares"
-    ],
-    "ts": 1792392779.7008681
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/simon-property-group-director-peggy-roe-acquires-17844-in-shares-93CH-4956422",
-    "title": "Simon Property Group director Peggy Roe acquires $17,844 in shares",
-    "tokens": [
-      "844",
-      "acquires",
-      "director",
-      "group",
-      "peggy",
-      "property",
-      "roe",
-      "shares",
-      "simon"
-    ],
-    "ts": 1792392787.4779406
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/analysisafricas-minerals-valueadd-drive-interests-investors-but-faces-energy-hurdle-4956405",
-    "title": "Analysis-Africa’s minerals value-add drive interests investors but faces energy hurdle",
-    "tokens": [
-      "add",
-      "africa",
-      "analysis",
-      "drive",
-      "energy",
-      "faces",
-      "hurdle",
-      "interests",
-      "investors",
-      "minerals",
-      "value"
-    ],
-    "ts": 1792392796.2952745
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/gsk-reports-positive-phase-1b-data-for-lung-cancer-drug-candidate-93CH-4956421",
-    "title": "GSK reports positive phase 1b data for lung cancer drug candidate",
-    "tokens": [
-      "cancer",
-      "candidate",
-      "data",
-      "drug",
-      "gsk",
-      "lung",
-      "phase",
-      "positive",
-      "reports"
-    ],
-    "ts": 1792392803.8425853
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-near-83k-amid-some-relief-from-falling-oil-prices-4956420",
-    "title": "Bitcoin rises to near $83k amid some relief from falling oil prices",
-    "tokens": [
-      "83k",
-      "bitcoin",
-      "falling",
-      "near",
-      "oil",
-      "prices",
-      "relief",
-      "rises",
-      "some"
-    ],
-    "ts": 1792392812.6494582
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/avi-japan-opportunity-trust-launches-annual-tender-offer-93CH-4956417",
-    "title": "AVI Japan Opportunity Trust launches annual tender offer",
-    "tokens": [
-      "annual",
-      "avi",
-      "japan",
-      "launches",
-      "offer",
-      "opportunity",
-      "tender",
-      "trust"
-    ],
-    "ts": 1792392820.2101634
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/golden-prospect-precious-metals-appoints-baker-steel-as-manager-93CH-4956416",
-    "title": "Golden Prospect Precious Metals appoints Baker Steel as manager",
-    "tokens": [
-      "appoints",
-      "baker",
-      "golden",
-      "manager",
-      "metals",
-      "precious",
-      "prospect",
-      "steel"
-    ],
-    "ts": 1792392828.7657514
-  },
-  {
-    "id": "oilprice-news-45807",
-    "title": "Oil Prices Slip as Trump-Putin Diesel Deal Raises Supply Hopes",
-    "tokens": [
-      "deal",
-      "diesel",
-      "hopes",
-      "oil",
-      "prices",
-      "putin",
-      "raises",
-      "slip",
-      "supply",
-      "trump"
-    ],
-    "ts": 1792392837.3660717
-  },
-  {
-    "id": "37b609ab-22fe-480b-ae1c-c053df18f56a",
-    "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-    "tokens": [
-      "131",
-      "2013",
-      "bitcoin",
-      "btc",
-      "coins",
-      "got",
-      "million",
-      "moves",
-      "traded",
-      "whale",
-      "when"
-    ],
-    "ts": 1792392845.9761524
-  },
-  {
-    "id": "cb50a2f3-2ab0-425e-b94f-2d26f785a90f",
-    "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
-    "tokens": [
-      "computers",
-      "developers",
-      "fix",
-      "future",
-      "keep",
-      "plan",
-      "private",
-      "quantum",
-      "swaps",
-      "zcash",
-      "zec"
-    ],
-    "ts": 1792392854.479011
-  },
-  {
-    "id": "959667d0-4a35-4145-a5d1-82d9c9015fe5",
-    "title": "XRP Ledger is set to fix its lending code before anyone can use it",
-    "tokens": [
-      "anyone",
-      "before",
-      "can",
-      "code",
-      "fix",
-      "ledger",
-      "lending",
-      "set",
-      "use",
-      "xrp"
-    ],
-    "ts": 1792392861.3331332
-  },
-  {
-    "id": "4b8c00f2-c952-4dca-b63f-ff342116570e",
-    "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
-    "tokens": [
-      "beats",
-      "bitcoin",
-      "china",
-      "estimates",
-      "futures",
-      "gdp",
-      "korea",
-      "kospi",
-      "nasdaq",
-      "rally"
-    ],
-    "ts": 1792392869.6627162
-  },
-  {
-    "id": "5a5091ce-aa71-4445-b412-0fa21e3e6da2",
-    "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-    "tokens": [
-      "2027",
-      "asia",
-      "bank",
-      "crypto",
-      "custody",
-      "deutsche",
-      "expansion",
-      "german",
-      "launch",
-      "nears",
-      "targets"
-    ],
-    "ts": 1792392878.01169
-  },
-  {
-    "id": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes",
-    "title": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
-    "tokens": [
-      "adds",
-      "badges",
-      "deepfake",
-      "human",
-      "proof",
-      "show",
-      "you",
-      "zoom"
-    ],
-    "ts": 1792392885.8143926
-  },
-  {
     "id": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay",
     "title": "South Korea to meet crypto exchanges amid calls for tax delay",
     "tokens": [
@@ -23702,5 +23372,320 @@
       "updates"
     ],
     "ts": 1793323069.0190852
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bank-of-japan-to-hold-rates-signal-further-hikes-4985276",
+    "title": "BOJ declares victory in hitting price target, signals near-term hikes",
+    "tokens": [
+      "boj",
+      "declares",
+      "hikes",
+      "hitting",
+      "near",
+      "price",
+      "signals",
+      "target",
+      "term",
+      "victory"
+    ],
+    "ts": 1793344530.6222813
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/sanofi-lifts-expectations-for-2026-sales-growth-looks-to-ma-4985889",
+    "title": "Sanofi lifts expectations for 2026 sales growth, looks to M&A",
+    "tokens": [
+      "2026",
+      "expectations",
+      "growth",
+      "lifts",
+      "looks",
+      "sales",
+      "sanofi"
+    ],
+    "ts": 1793344538.6502962
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/tokyo-electron-q2-profit-jumps-27-as-ai-demand-drives-outlook-150-bln-buyback-4985886",
+    "title": "Tokyo Electron Q2 profit jumps 27% as AI demand drives outlook, ¥150 bln buyback",
+    "tokens": [
+      "150",
+      "bln",
+      "buyback",
+      "demand",
+      "drives",
+      "electron",
+      "jumps",
+      "outlook",
+      "profit",
+      "tokyo"
+    ],
+    "ts": 1793344546.6681676
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/sanofi-adr-earnings-beat-by-246-revenue-topped-estimates-4985885",
+    "title": "Sanofi ADR earnings beat by $2.46, revenue topped estimates",
+    "tokens": [
+      "adr",
+      "beat",
+      "earnings",
+      "estimates",
+      "revenue",
+      "sanofi",
+      "topped"
+    ],
+    "ts": 1793344554.4018748
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/boj-governor-uedas-comments-at-news-conference-4985884",
+    "title": "BOJ Governor Ueda’s comments at news conference",
+    "tokens": [
+      "boj",
+      "comments",
+      "conference",
+      "governor",
+      "news",
+      "ueda"
+    ],
+    "ts": 1793344563.755681
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/japans-nikkei-slumps-3-as-tech-stocks-tumble-on-ai-worries-4985730",
+    "title": "Japan’s Nikkei slumps up to 3% as tech stocks tumble on AI worries",
+    "tokens": [
+      "japan",
+      "nikkei",
+      "slumps",
+      "stocks",
+      "tech",
+      "tumble",
+      "worries"
+    ],
+    "ts": 1793344571.6594245
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/sanofi-q3-earnings-blow-past-expectations-on-dupixent-strength-hikes-fy-guidance-4985883",
+    "title": "Sanofi Q3 earnings blow past expectations on Dupixent strength; hikes FY guidance",
+    "tokens": [
+      "blow",
+      "dupixent",
+      "earnings",
+      "expectations",
+      "guidance",
+      "hikes",
+      "past",
+      "sanofi",
+      "strength"
+    ],
+    "ts": 1793344578.90275
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/swiss-national-bank-9month-profit-at-at-442-bln-francs-as-franc-weakens-4985882",
+    "title": "Swiss National Bank 9-month profit at at 44.2 bln francs as franc weakens",
+    "tokens": [
+      "bank",
+      "bln",
+      "franc",
+      "francs",
+      "month",
+      "national",
+      "profit",
+      "swiss",
+      "weakens"
+    ],
+    "ts": 1793344587.5717692
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/alfa-laval-refinances-credit-facility-with-1-billion-deal-93CH-4985881",
+    "title": "Alfa Laval refinances credit facility with €1 billion deal",
+    "tokens": [
+      "alfa",
+      "billion",
+      "credit",
+      "deal",
+      "facility",
+      "laval",
+      "refinances"
+    ],
+    "ts": 1793344594.8418005
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/credit-agricole-q3-profit-rises-on-investment-banking-strength-4985878",
+    "title": "Credit Agricole Q3 profit rises on investment banking strength",
+    "tokens": [
+      "agricole",
+      "banking",
+      "credit",
+      "investment",
+      "profit",
+      "rises",
+      "strength"
+    ],
+    "ts": 1793344602.4929624
+  },
+  {
+    "id": "4b2209ca-7c31-46b6-9c4f-46815e139eac",
+    "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+    "tokens": [
+      "bets",
+      "billion",
+      "bitcoin",
+      "crypto",
+      "ether",
+      "leveraged",
+      "selloff",
+      "wipes",
+      "xrp"
+    ],
+    "ts": 1793344611.616165
+  },
+  {
+    "id": "74a8b8f2-29ff-43ab-86d1-372884b0ff1f",
+    "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+    "tokens": [
+      "can",
+      "developers",
+      "hold",
+      "ledger",
+      "restricted",
+      "rules",
+      "tighten",
+      "tokens",
+      "who",
+      "xrp"
+    ],
+    "ts": 1793344618.7774348
+  },
+  {
+    "id": "c70fc199-d44a-48b2-9139-d7e9b95e2b2a",
+    "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+    "tokens": [
+      "binance",
+      "bites",
+      "crypto",
+      "curbs",
+      "exchange",
+      "futures",
+      "hack",
+      "india",
+      "largest",
+      "trading"
+    ],
+    "ts": 1793344626.8208086
+  },
+  {
+    "id": "0bf7fd4e-f110-4984-a75a-532a319e0f61",
+    "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+    "tokens": [
+      "billion",
+      "binance",
+      "bitcoin",
+      "can",
+      "freeze",
+      "hacker",
+      "one",
+      "splits",
+      "wallets"
+    ],
+    "ts": 1793344634.391051
+  },
+  {
+    "id": "745dd8f6-dd7a-4054-99ec-139ff0006d22",
+    "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+    "tokens": [
+      "billion",
+      "binance",
+      "bitcoin",
+      "chartered",
+      "ether",
+      "expects",
+      "hack",
+      "more",
+      "pain",
+      "sends",
+      "standard",
+      "tumbling"
+    ],
+    "ts": 1793344642.032878
+  },
+  {
+    "id": "170a662d-f703-4152-97a5-358eccd785d9",
+    "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+    "tokens": [
+      "binance",
+      "crypto",
+      "exchanges",
+      "funds",
+      "hack",
+      "institutional",
+      "investors",
+      "pull",
+      "rush"
+    ],
+    "ts": 1793344650.410017
+  },
+  {
+    "id": "dace21c5-660b-4ef7-8f00-25bc4a3d4a6e",
+    "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+    "tokens": [
+      "behind",
+      "binance",
+      "blockchain",
+      "crypto",
+      "foe",
+      "group",
+      "hack",
+      "korea",
+      "lazarus",
+      "likely",
+      "longtime",
+      "north",
+      "sleuths"
+    ],
+    "ts": 1793344658.3858533
+  },
+  {
+    "id": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys",
+    "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+    "tokens": [
+      "30b",
+      "bitcoin",
+      "buys",
+      "capacity",
+      "credit",
+      "eyes",
+      "more",
+      "saylor",
+      "strategy",
+      "touts"
+    ],
+    "ts": 1793344665.7944684
+  },
+  {
+    "id": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators",
+    "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
+    "tokens": [
+      "binance",
+      "hack",
+      "korea",
+      "linked",
+      "north",
+      "tradertraitor"
+    ],
+    "ts": 1793344673.3736255
+  },
+  {
+    "id": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered",
+    "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+    "tokens": [
+      "accelerate",
+      "binance",
+      "chartered",
+      "could",
+      "dexs",
+      "hack",
+      "shift",
+      "standard"
+    ],
+    "ts": 1793344681.6931374
   }
 ]

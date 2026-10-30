@@ -1,380 +1,5 @@
 [
   {
-    "id": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
-    "title": "Anthropic commits billions to a 'public benefit fund'",
-    "tokens": [
-      "anthropic",
-      "benefit",
-      "billions",
-      "commits",
-      "fund",
-      "public"
-    ],
-    "ts": 1792358633.033845
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-cms-deutsche-telekom-ag-release-of-a-capital-market-information-1036636898",
-    "title": "EQS-CMS: Deutsche Telekom AG: Release of a capital market information",
-    "tokens": [
-      "capital",
-      "cms",
-      "deutsche",
-      "eqs",
-      "information",
-      "market",
-      "release",
-      "telekom"
-    ],
-    "ts": 1792358637.9497688
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-skilled-investor-counsel-encourages-baidu-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-bidu-1036595401",
-    "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages Baidu, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - BIDU",
-    "tokens": [
-      "action",
-      "baidu",
-      "before",
-      "bidu",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "important",
-      "inc",
-      "investor",
-      "investors",
-      "rosen",
-      "secure",
-      "securities",
-      "skilled"
-    ],
-    "ts": 1792358645.859425
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/tokenfest-2027-sets-the-stage-for-a-global-crypto-event-in-dubai-1036636888",
-    "title": "TokenFest 2027 Sets the Stage for a Global Crypto Event in Dubai",
-    "tokens": [
-      "2027",
-      "crypto",
-      "dubai",
-      "event",
-      "global",
-      "sets",
-      "stage",
-      "tokenfest"
-    ],
-    "ts": 1792358652.754764
-  },
-  {
-    "id": "oilprice-article-45806",
-    "title": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis",
-    "tokens": [
-      "bill",
-      "crisis",
-      "fuel",
-      "hormuz",
-      "shipping",
-      "supply",
-      "turning"
-    ],
-    "ts": 1792358661.444346
-  },
-  {
-    "id": "oilprice-article-45793",
-    "title": "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid",
-    "tokens": [
-      "add",
-      "could",
-      "gigawatts",
-      "grid",
-      "nuclear",
-      "power",
-      "shortcut"
-    ],
-    "ts": 1792358669.4643872
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/xpo-cfo-kyle-wismans-sells-131602-in-company-stock-93CH-4956124",
-    "title": "XPO CFO Kyle Wismans sells $131,602 in company stock",
-    "tokens": [
-      "131",
-      "602",
-      "cfo",
-      "company",
-      "kyle",
-      "sells",
-      "stock",
-      "wismans",
-      "xpo"
-    ],
-    "ts": 1792366197.9865396
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-set-to-pick-up-as-exports-power-ahead-4956122",
-    "title": "China’s Q3 GDP growth set to pick up as exports power ahead",
-    "tokens": [
-      "ahead",
-      "china",
-      "exports",
-      "gdp",
-      "growth",
-      "pick",
-      "power",
-      "set"
-    ],
-    "ts": 1792366206.9253328
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/uk-housing-market-showing-signs-of-mortgage-rates-impact-rightmove-says-4956121",
-    "title": "UK housing market showing signs of mortgage rates impact, Rightmove says",
-    "tokens": [
-      "housing",
-      "impact",
-      "market",
-      "mortgage",
-      "rates",
-      "rightmove",
-      "showing",
-      "signs"
-    ],
-    "ts": 1792366214.8393416
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4956113",
-    "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-    "tokens": [
-      "beats",
-      "boj",
-      "faster",
-      "forecast",
-      "imf",
-      "inflation",
-      "may",
-      "need",
-      "tighten"
-    ],
-    "ts": 1792366222.3741624
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies-4956112",
-    "title": "Oil slips as Trump’s sanction waiver may lead to more Russian fuel supplies",
-    "tokens": [
-      "fuel",
-      "lead",
-      "may",
-      "more",
-      "oil",
-      "russian",
-      "sanction",
-      "slips",
-      "supplies",
-      "trump",
-      "waiver"
-    ],
-    "ts": 1792366230.2386866
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-4956109",
-    "title": "Veradermics to present phase 3 hair loss trial results Monday",
-    "tokens": [
-      "hair",
-      "loss",
-      "monday",
-      "phase",
-      "present",
-      "results",
-      "trial",
-      "veradermics"
-    ],
-    "ts": 1792366237.5962574
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australias-challenger-gets-takeover-bid-from-unit-of-japans-daiichi-life-4956101",
-    "title": "Australia’s Challenger gets takeover bid from unit of Japan’s Daiichi Life",
-    "tokens": [
-      "australia",
-      "bid",
-      "challenger",
-      "daiichi",
-      "gets",
-      "japan",
-      "life",
-      "takeover",
-      "unit"
-    ],
-    "ts": 1792366245.6901932
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4956082",
-    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-    "tokens": [
-      "close",
-      "index",
-      "lower",
-      "moex",
-      "russia",
-      "stocks",
-      "trade",
-      "unchanged"
-    ],
-    "ts": 1792366249.7052646
-  },
-  {
-    "id": "oilprice-article-45807",
-    "title": "Record Shipping Costs Force Oil Producers to Slash Prices",
-    "tokens": [
-      "costs",
-      "force",
-      "oil",
-      "prices",
-      "producers",
-      "record",
-      "shipping",
-      "slash"
-    ],
-    "ts": 1792366260.6438777
-  },
-  {
-    "id": "25f329fb-37cf-42f0-98bf-a20e3d21d6cb",
-    "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-    "tokens": [
-      "broadcom",
-      "faces",
-      "framework",
-      "ice",
-      "issuer",
-      "listing",
-      "object",
-      "okx",
-      "pushback",
-      "sec",
-      "stock",
-      "tokenized",
-      "verizon"
-    ],
-    "ts": 1792366268.8355286
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest",
-    "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
-    "tokens": [
-      "caught",
-      "closer",
-      "digest",
-      "even",
-      "gets",
-      "guard",
-      "heart",
-      "hodler",
-      "off",
-      "qday",
-      "richard"
-    ],
-    "ts": 1792366276.9197116
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/indonesia-faces-rare-msci-exclusion-that-could-cut-it-off-from-global-capital-4956189",
-    "title": "Indonesia faces rare MSCI exclusion that could cut it off from global capital",
-    "tokens": [
-      "capital",
-      "could",
-      "cut",
-      "exclusion",
-      "faces",
-      "global",
-      "indonesia",
-      "msci",
-      "off",
-      "rare"
-    ],
-    "ts": 1792373737.3007884
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
-    "title": "SK Hynix crashes -20.6% below 20-period MA: Live levels",
-    "tokens": [
-      "below",
-      "crashes",
-      "hynix",
-      "levels",
-      "live",
-      "period"
-    ],
-    "ts": 1792373745.90867
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/beijings-population-expected-to-become-superaged-by-2035-4956187",
-    "title": "Beijing’s population expected to become super-aged by 2035",
-    "tokens": [
-      "2035",
-      "aged",
-      "become",
-      "beijing",
-      "expected",
-      "population",
-      "super"
-    ],
-    "ts": 1792373754.2055562
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
-    "title": "Nikkei 225 teeters above 63,572.5 support: Live levels",
-    "tokens": [
-      "225",
-      "572",
-      "above",
-      "levels",
-      "live",
-      "nikkei",
-      "support",
-      "teeters"
-    ],
-    "ts": 1792373761.3130968
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/gold-rises-as-warsh-remarks-curb-fed-hike-bets-4956185",
-    "title": "Gold rises as Warsh remarks curb Fed hike bets",
-    "tokens": [
-      "bets",
-      "curb",
-      "fed",
-      "gold",
-      "hike",
-      "remarks",
-      "rises",
-      "warsh"
-    ],
-    "ts": 1792373768.9693558
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australias-ampol-thirdquarter-lytton-refining-margin-more-than-doubles-4956132",
-    "title": "Australia’s Ampol third-quarter Lytton refining margin more than doubles",
-    "tokens": [
-      "ampol",
-      "australia",
-      "doubles",
-      "lytton",
-      "margin",
-      "more",
-      "quarter",
-      "refining",
-      "third"
-    ],
-    "ts": 1792373777.9206123
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-fleetpartners-stock-surging-today-93CH-4956177",
-    "title": "Why is Fleetpartners stock surging today?",
-    "tokens": [
-      "fleetpartners",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1792373785.6667721
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
     "title": "Asian stocks skid, Wall Street and bonds aided by oil slip",
     "tokens": [
@@ -23723,5 +23348,359 @@
       "reserve"
     ],
     "ts": 1793309073.8613546
+  },
+  {
+    "id": "WP-MKTW-0005316826",
+    "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
+    "tokens": [
+      "amazon",
+      "bold",
+      "cloud",
+      "drops",
+      "even",
+      "face",
+      "forecast",
+      "stock"
+    ],
+    "ts": 1793322926.5482883
+  },
+  {
+    "id": "WP-MKTW-0005316701",
+    "title": "Why Intel’s stock is sinking toward its worst drop in two years",
+    "tokens": [
+      "drop",
+      "intel",
+      "sinking",
+      "stock",
+      "toward",
+      "two",
+      "why",
+      "worst",
+      "years"
+    ],
+    "ts": 1793322934.0076213
+  },
+  {
+    "id": "WP-MKTW-0005308926",
+    "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+    "tokens": [
+      "000",
+      "abusive",
+      "education",
+      "husband",
+      "kids",
+      "legally",
+      "now",
+      "obligated",
+      "our",
+      "pay",
+      "promised",
+      "refuses"
+    ],
+    "ts": 1793322940.654894
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/berkshire-hathaway-sells-6903-million-of-davita-nysedva-stock-93CH-4985673",
+    "title": "Berkshire Hathaway sells $69.03 million of DaVita (NYSE:DVA) stock",
+    "tokens": [
+      "berkshire",
+      "davita",
+      "dva",
+      "hathaway",
+      "million",
+      "nyse",
+      "sells",
+      "stock"
+    ],
+    "ts": 1793322948.2368588
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bayer-wins-us-trial-in-which-it-was-alleged-that-roundup-caused-cancer-in-threewomen-4985665",
+    "title": "Bayer wins US trial in which it was alleged that Roundup caused cancer in three women",
+    "tokens": [
+      "alleged",
+      "bayer",
+      "cancer",
+      "caused",
+      "roundup",
+      "three",
+      "trial",
+      "which",
+      "wins",
+      "women"
+    ],
+    "ts": 1793322955.088542
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/australia-q3-producer-prices-beat-forecasts-keeping-rba-inflation-focus-4985664",
+    "title": "Australia Q3 producer prices beat forecasts, keeping RBA inflation focus",
+    "tokens": [
+      "australia",
+      "beat",
+      "focus",
+      "forecasts",
+      "inflation",
+      "keeping",
+      "prices",
+      "producer",
+      "rba"
+    ],
+    "ts": 1793322962.5333796
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/matson-chairman--ceo-matthew-cox-sells-228m-in-company-stock-93CH-4985663",
+    "title": "Matson chairman & CEO Matthew Cox sells $2.28M in company stock",
+    "tokens": [
+      "28m",
+      "ceo",
+      "chairman",
+      "company",
+      "cox",
+      "matson",
+      "matthew",
+      "sells",
+      "stock"
+    ],
+    "ts": 1793322969.7519767
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/bitcoin-cryptocurrency-prices-fall-after-binance-reports-security-issue-4985655",
+    "title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+    "tokens": [
+      "binance",
+      "bitcoin",
+      "cryptocurrency",
+      "fall",
+      "issue",
+      "prices",
+      "reports",
+      "security"
+    ],
+    "ts": 1793322976.655012
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-53-million-in-company-stock-93CH-4985653",
+    "title": "CrowdStrike CEO George Kurtz sells $5.3 million in company stock",
+    "tokens": [
+      "ceo",
+      "company",
+      "crowdstrike",
+      "george",
+      "kurtz",
+      "million",
+      "sells",
+      "stock"
+    ],
+    "ts": 1793322985.053913
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-bitcoin-dropping-today-93CH-4985643",
+    "title": "Why is Bitcoin dropping today?",
+    "tokens": [
+      "bitcoin",
+      "dropping",
+      "today",
+      "why"
+    ],
+    "ts": 1793322992.172556
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-binances-bnb-crashing-today-93CH-4985642",
+    "title": "Why is Binance’s BNB crashing today?",
+    "tokens": [
+      "binance",
+      "bnb",
+      "crashing",
+      "today",
+      "why"
+    ],
+    "ts": 1793322998.5456562
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/litecoin-falls-10-in-rout-4985641",
+    "title": "Litecoin Falls 10% In Rout",
+    "tokens": [
+      "falls",
+      "litecoin",
+      "rout"
+    ],
+    "ts": 1793323004.8905838
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-4985640",
+    "title": "Cardano Falls 10% In Selloff",
+    "tokens": [
+      "cardano",
+      "falls",
+      "selloff"
+    ],
+    "ts": 1793323011.7302837
+  },
+  {
+    "id": "oilprice-article-45921",
+    "title": "Off-Grid Solar Is Now the Cheapest Power for Nearly 400 Million People",
+    "tokens": [
+      "400",
+      "cheapest",
+      "grid",
+      "million",
+      "nearly",
+      "now",
+      "off",
+      "people",
+      "power",
+      "solar"
+    ],
+    "ts": 1793323020.5204012
+  },
+  {
+    "id": "oilprice-article-45920",
+    "title": "What’s Next for Global Natural Gas Demand?",
+    "tokens": [
+      "demand",
+      "gas",
+      "global",
+      "natural",
+      "next",
+      "what"
+    ],
+    "ts": 1793323028.2155032
+  },
+  {
+    "id": "oilprice-article-45919",
+    "title": "China’s Battery Factories May Sit Atop Lithium Resources",
+    "tokens": [
+      "atop",
+      "battery",
+      "china",
+      "factories",
+      "lithium",
+      "may",
+      "resources",
+      "sit"
+    ],
+    "ts": 1793323035.2138388
+  },
+  {
+    "id": "oilprice-news-45921",
+    "title": "Exxon, Chevron Executives Cancel Gulf Visit Over Security Concerns",
+    "tokens": [
+      "cancel",
+      "chevron",
+      "concerns",
+      "executives",
+      "exxon",
+      "gulf",
+      "security",
+      "visit"
+    ],
+    "ts": 1793323039.2233183
+  },
+  {
+    "id": "oilprice-news-45920",
+    "title": "Mexico’s Richest Man Sells $1.15 Billion in Oil Stocks",
+    "tokens": [
+      "billion",
+      "man",
+      "mexico",
+      "oil",
+      "richest",
+      "sells",
+      "stocks"
+    ],
+    "ts": 1793323039.2332003
+  },
+  {
+    "id": "oilprice-news-45919",
+    "title": "Europe to Release 42 Million Barrels of Oil",
+    "tokens": [
+      "barrels",
+      "europe",
+      "million",
+      "oil",
+      "release"
+    ],
+    "ts": 1793323039.2423477
+  },
+  {
+    "id": "5c6a3f8f-92bf-4156-9478-7da886f2a3ff",
+    "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+    "tokens": [
+      "assets",
+      "backing",
+      "binance",
+      "customer",
+      "data",
+      "drained",
+      "hack",
+      "reserve",
+      "shows",
+      "wallets"
+    ],
+    "ts": 1793323042.758227
+  },
+  {
+    "id": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo",
+    "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
+    "tokens": [
+      "binance",
+      "blockaid",
+      "ceo",
+      "hack",
+      "involve",
+      "key",
+      "may",
+      "misuse",
+      "private",
+      "theft"
+    ],
+    "ts": 1793323049.5895195
+  },
+  {
+    "id": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide",
+    "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+    "tokens": [
+      "binance",
+      "bitcoin",
+      "bnb",
+      "crypto",
+      "falls",
+      "hack",
+      "markets",
+      "rattles",
+      "slides"
+    ],
+    "ts": 1793323055.8635569
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express",
+    "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+    "tokens": [
+      "asia",
+      "before",
+      "broke",
+      "express",
+      "ledger",
+      "month",
+      "news",
+      "reported",
+      "singapore",
+      "tampered"
+    ],
+    "ts": 1793323062.5118182
+  },
+  {
+    "id": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns",
+    "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
+    "tokens": [
+      "binance",
+      "connection",
+      "crypto",
+      "frozen",
+      "hack",
+      "live",
+      "updates"
+    ],
+    "ts": 1793323069.0190852
   }
 ]

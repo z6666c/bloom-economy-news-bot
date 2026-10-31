@@ -1,100 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005297122",
-    "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
-    "tokens": [
-      "ballot",
-      "billionaire",
-      "california",
-      "elections",
-      "just",
-      "midterm",
-      "tax",
-      "wealth"
-    ],
-    "ts": 1792519154.6394112
-  },
-  {
-    "id": "WP-MKTW-0005296201",
-    "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-    "tokens": [
-      "cheap",
-      "consider",
-      "looking",
-      "picks",
-      "radar",
-      "still",
-      "stocks",
-      "these",
-      "two",
-      "under"
-    ],
-    "ts": 1792519163.1679692
-  },
-  {
-    "id": "WP-MKTW-0005296662",
-    "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
-    "tokens": [
-      "advice",
-      "anyway",
-      "best",
-      "financial",
-      "ignore",
-      "most",
-      "people",
-      "retirement",
-      "secret",
-      "what"
-    ],
-    "ts": 1792519170.6143565
-  },
-  {
-    "id": "WP-MKTW-0005296652",
-    "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
-    "tokens": [
-      "chafe",
-      "cost",
-      "falls",
-      "investors",
-      "latest",
-      "purchase",
-      "salesforce",
-      "stock"
-    ],
-    "ts": 1792519178.2980583
-  },
-  {
-    "id": "WP-MKTW-0005295059",
-    "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-    "tokens": [
-      "america",
-      "breath",
-      "don",
-      "elon",
-      "every",
-      "hold",
-      "kid",
-      "musk",
-      "promised",
-      "share",
-      "spacex",
-      "your"
-    ],
-    "ts": 1792519186.1444776
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-blackberry-stock-surging-today-93CH-4960827",
-    "title": "Why is BlackBerry stock surging today?",
-    "tokens": [
-      "blackberry",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1792519190.2667305
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/metas-global-affairs-officer-joel-kaplan-to-leave-company-after-15-years-4960807",
     "title": "Meta’s global affairs officer Joel Kaplan to leave company after 15 years",
     "tokens": [
@@ -23725,5 +23630,104 @@
       "september"
     ],
     "ts": 1793474495.6018817
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
+    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+    "tokens": [
+      "close",
+      "index",
+      "lower",
+      "moex",
+      "russia",
+      "stocks",
+      "trade",
+      "unchanged"
+    ],
+    "ts": 1793486496.6501217
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+    "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+    "tokens": [
+      "attempts",
+      "ends",
+      "epstein",
+      "journal",
+      "judge",
+      "reporting",
+      "street",
+      "sue",
+      "trump",
+      "wall"
+    ],
+    "ts": 1793486503.4775782
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
+    "title": "OPEC+ set to hold December oil output steady, Reuters reports",
+    "tokens": [
+      "december",
+      "hold",
+      "oil",
+      "opec",
+      "output",
+      "reports",
+      "reuters",
+      "set",
+      "steady"
+    ],
+    "ts": 1793486509.7341619
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/thousands-return-to-lisbon-square-press-government-to-scrap-rental-bill-4989325",
+    "title": "Thousands return to Lisbon square, press government to scrap rental bill",
+    "tokens": [
+      "bill",
+      "government",
+      "lisbon",
+      "press",
+      "rental",
+      "return",
+      "scrap",
+      "square",
+      "thousands"
+    ],
+    "ts": 1793486516.1409447
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/citi-sees-european-gas-prices-rising-in-2027-as-middle-east-risks-spur-price-gains-4989323",
+    "title": "Citi sees European gas prices rising in 2027 as Middle East risks spur price gains",
+    "tokens": [
+      "2027",
+      "citi",
+      "east",
+      "european",
+      "gains",
+      "gas",
+      "middle",
+      "price",
+      "prices",
+      "rising",
+      "risks",
+      "sees",
+      "spur"
+    ],
+    "ts": 1793486522.6552217
+  },
+  {
+    "id": "oilprice-article-45934",
+    "title": "U.S. Intelligence: China Could Put Laser Weapons in Space by 2030",
+    "tokens": [
+      "2030",
+      "china",
+      "could",
+      "intelligence",
+      "laser",
+      "put",
+      "space",
+      "weapons"
+    ],
+    "ts": 1793486529.9352193
   }
 ]

@@ -1,406 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-hazer-group-highlights-cash-runway-in-q1-2026-93CH-4958639",
-    "title": "Earnings call transcript: Hazer Group highlights cash runway in Q1 2026",
-    "tokens": [
-      "2026",
-      "call",
-      "cash",
-      "earnings",
-      "group",
-      "hazer",
-      "highlights",
-      "runway",
-      "transcript"
-    ],
-    "ts": 1792462083.8712175
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/wayfair-ceo-niraj-shah-sells-1302-million-in-company-stock-93CH-4958638",
-    "title": "Wayfair CEO Niraj Shah sells $13.02 million in company stock",
-    "tokens": [
-      "ceo",
-      "company",
-      "million",
-      "niraj",
-      "sells",
-      "shah",
-      "stock",
-      "wayfair"
-    ],
-    "ts": 1792462091.5856824
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/mediaalpha-cto-amy-yeh-sells-35310-in-max-common-stock-93CH-4958637",
-    "title": "MediaAlpha CTO Amy Yeh sells $35,310 in Max common stock",
-    "tokens": [
-      "310",
-      "amy",
-      "common",
-      "cto",
-      "max",
-      "mediaalpha",
-      "sells",
-      "stock",
-      "yeh"
-    ],
-    "ts": 1792462098.6210473
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/ciena-evp-brodie-gage-sells-412896-of-company-stock-93CH-4958636",
-    "title": "Ciena EVP Brodie Gage sells $412,896 of company stock",
-    "tokens": [
-      "412",
-      "896",
-      "brodie",
-      "ciena",
-      "company",
-      "evp",
-      "gage",
-      "sells",
-      "stock"
-    ],
-    "ts": 1792462106.5730107
-  },
-  {
-    "id": "oilprice-article-45811",
-    "title": "Robot Wars – How China Has the Robotics Industry in Its Grip",
-    "tokens": [
-      "china",
-      "grip",
-      "how",
-      "industry",
-      "robot",
-      "robotics",
-      "wars"
-    ],
-    "ts": 1792462115.0787365
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over",
-    "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
-    "tokens": [
-      "bitcoin",
-      "buying",
-      "could",
-      "days",
-      "easy",
-      "money",
-      "rally",
-      "revive",
-      "treasury"
-    ],
-    "ts": 1792462122.6901462
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/hexagon-purus-q3-2026-slides-losses-narrow-on-cost-cuts-revenue-falls-93CH-4958998",
-    "title": "Hexagon Purus Q3 2026 slides: losses narrow on cost cuts, revenue falls",
-    "tokens": [
-      "2026",
-      "cost",
-      "cuts",
-      "falls",
-      "hexagon",
-      "losses",
-      "narrow",
-      "purus",
-      "revenue",
-      "slides"
-    ],
-    "ts": 1792481628.8778138
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-scandi-standard-posts-record-q3-2026-profit-growth-93CH-4958997",
-    "title": "Earnings call transcript: Scandi Standard posts record Q3 2026 profit growth",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "growth",
-      "posts",
-      "profit",
-      "record",
-      "scandi",
-      "standard",
-      "transcript"
-    ],
-    "ts": 1792481636.4150198
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/georgina-energy-conducts-site-inspection-at-mt-winter-helium-project-93CH-4958996",
-    "title": "Georgina Energy conducts site inspection at Mt Winter helium project",
-    "tokens": [
-      "conducts",
-      "energy",
-      "georgina",
-      "helium",
-      "inspection",
-      "project",
-      "site",
-      "winter"
-    ],
-    "ts": 1792481644.3616245
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/as-france-erupts-europes-far-right-gains-from-fuelprice-anger-ahead-of-elections-4958835",
-    "title": "As France erupts, Europe’s far right gains from fuel-price anger ahead of elections",
-    "tokens": [
-      "ahead",
-      "anger",
-      "elections",
-      "erupts",
-      "europe",
-      "far",
-      "france",
-      "fuel",
-      "gains",
-      "price",
-      "right"
-    ],
-    "ts": 1792481652.287869
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-bunzl-stock-sliding-today-93CH-4958993",
-    "title": "Why is Bunzl stock sliding today?",
-    "tokens": [
-      "bunzl",
-      "sliding",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1792481660.156186
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/ovh-reports-first-positive-free-cash-flow-since-ipo-targets-10-growth-in-fy27-4958951",
-    "title": "OVH reports first positive free cash flow since IPO, shares surge 10%",
-    "tokens": [
-      "cash",
-      "first",
-      "flow",
-      "free",
-      "ipo",
-      "ovh",
-      "positive",
-      "reports",
-      "shares",
-      "since",
-      "surge"
-    ],
-    "ts": 1792481667.8209734
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-ovh-stock-surging-today-93CH-4958989",
-    "title": "Why is OVH stock surging today?",
-    "tokens": [
-      "ovh",
-      "stock",
-      "surging",
-      "today",
-      "why"
-    ],
-    "ts": 1792481671.8330936
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-anglo-american-stock-climbing-today-93CH-4958988",
-    "title": "Why is Anglo American stock climbing today?",
-    "tokens": [
-      "american",
-      "anglo",
-      "climbing",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1792481675.5635414
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/shuka-minerals-converts-63334-loan-settles-61000-debt-93CH-4958987",
-    "title": "Shuka Minerals converts £63,334 loan, settles £61,000 debt",
-    "tokens": [
-      "000",
-      "334",
-      "converts",
-      "debt",
-      "loan",
-      "minerals",
-      "settles",
-      "shuka"
-    ],
-    "ts": 1792481683.228907
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bp-marsh-reports-portfolio-value-rise-to-2965-million-93CH-4958976",
-    "title": "BP Marsh reports portfolio value rise to £296.5 million",
-    "tokens": [
-      "296",
-      "marsh",
-      "million",
-      "portfolio",
-      "reports",
-      "rise",
-      "value"
-    ],
-    "ts": 1792481690.6952493
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september",
-    "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
-    "tokens": [
-      "527m",
-      "biggest",
-      "bitcoin",
-      "draw",
-      "etfs",
-      "september",
-      "showing",
-      "since"
-    ],
-    "ts": 1792481701.1958518
-  },
-  {
-    "id": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown",
-    "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
-    "tokens": [
-      "ahead",
-      "deadline",
-      "mainnet",
-      "nov",
-      "sets",
-      "shutdown",
-      "sophon",
-      "withdrawal"
-    ],
-    "ts": 1792481709.459863
-  },
-  {
-    "id": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems",
-    "title": "US bans DeepSeek from civilian agency IT systems",
-    "tokens": [
-      "agency",
-      "bans",
-      "civilian",
-      "deepseek",
-      "systems"
-    ],
-    "ts": 1792481716.887642
-  },
-  {
-    "id": "WP-MKTW-0005295698",
-    "title": "Meta is back on offense — and its next move could signal higher AI spending across Big Tech",
-    "tokens": [
-      "across",
-      "back",
-      "big",
-      "could",
-      "higher",
-      "meta",
-      "move",
-      "next",
-      "offense",
-      "signal",
-      "spending",
-      "tech"
-    ],
-    "ts": 1792501232.8790054
-  },
-  {
-    "id": "WP-MKTW-0005296208",
-    "title": "What happens to Wall Street if CoreWeave defaults? JPMorgan checked the math.",
-    "tokens": [
-      "checked",
-      "coreweave",
-      "defaults",
-      "happens",
-      "jpmorgan",
-      "math",
-      "street",
-      "wall",
-      "what"
-    ],
-    "ts": 1792501241.61184
-  },
-  {
-    "id": "WP-MKTW-0005294214",
-    "title": "The AI boom is getting all the attention. We’re about to find out how the rest of the economy is holding up.",
-    "tokens": [
-      "about",
-      "all",
-      "attention",
-      "boom",
-      "economy",
-      "find",
-      "getting",
-      "holding",
-      "how",
-      "rest"
-    ],
-    "ts": 1792501251.1509192
-  },
-  {
-    "id": "WP-MKTW-0005295669",
-    "title": "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
-    "tokens": [
-      "500",
-      "coming",
-      "face",
-      "prospects",
-      "smaller",
-      "stocks",
-      "why",
-      "worse",
-      "years"
-    ],
-    "ts": 1792501259.153787
-  },
-  {
-    "id": "WP-MKTW-0005295902",
-    "title": "Strategist Tom Lee says he’s buying the AI-stock dip, and Cisco holds the key",
-    "tokens": [
-      "buying",
-      "cisco",
-      "dip",
-      "holds",
-      "key",
-      "lee",
-      "stock",
-      "strategist",
-      "tom"
-    ],
-    "ts": 1792501267.24678
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/us-singlefamily-housing-starts-building-permits-tumble-in-september-4960069",
-    "title": "US single-family housing starts, building permits tumble in September",
-    "tokens": [
-      "building",
-      "family",
-      "housing",
-      "permits",
-      "september",
-      "single",
-      "starts",
-      "tumble"
-    ],
-    "ts": 1792501275.5534468
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/kartoon-studios-to-launch-hundred-acre-wood-products-on-walmart-marketplace-93CH-4960068",
-    "title": "Kartoon Studios to launch Hundred Acre Wood products on Walmart Marketplace",
-    "tokens": [
-      "acre",
-      "hundred",
-      "kartoon",
-      "launch",
-      "marketplace",
-      "products",
-      "studios",
-      "walmart",
-      "wood"
-    ],
-    "ts": 1792501284.2051172
-  },
-  {
     "id": "https://www.investing.com/news/analyst-ratings/stifel-cuts-almonty-industries-stock-price-target-on-shipment-delays-93CH-4960067",
     "title": "Stifel cuts Almonty Industries stock price target on shipment delays",
     "tokens": [
@@ -23696,5 +23295,428 @@
       "twice"
     ],
     "ts": 1793436925.6866148
+  },
+  {
+    "id": "WP-MKTW-0005317883",
+    "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
+    "tokens": [
+      "bond",
+      "elections",
+      "hinges",
+      "increasingly",
+      "market",
+      "midterm",
+      "portfolio",
+      "stock",
+      "your"
+    ],
+    "ts": 1793459063.1133842
+  },
+  {
+    "id": "WP-MKTW-0005320002",
+    "title": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose.",
+    "tokens": [
+      "afford",
+      "can",
+      "faces",
+      "google",
+      "how",
+      "lose",
+      "now",
+      "revolution",
+      "search",
+      "taught",
+      "world"
+    ],
+    "ts": 1793459071.2402194
+  },
+  {
+    "id": "WP-MKTW-0005319856",
+    "title": "The stock market’s front-runners stumbled in October. Here’s where the smart money is moving now.",
+    "tokens": [
+      "front",
+      "here",
+      "market",
+      "money",
+      "moving",
+      "now",
+      "october",
+      "runners",
+      "smart",
+      "stock",
+      "stumbled",
+      "where"
+    ],
+    "ts": 1793459078.5134432
+  },
+  {
+    "id": "WP-MKTW-0005317128",
+    "title": "If you really want to help your adult kids and grandkids, give them money while you’re still alive",
+    "tokens": [
+      "adult",
+      "alive",
+      "give",
+      "grandkids",
+      "help",
+      "kids",
+      "money",
+      "really",
+      "still",
+      "them",
+      "want",
+      "while",
+      "you",
+      "your"
+    ],
+    "ts": 1793459085.5052922
+  },
+  {
+    "id": "WP-MKTW-0005316022",
+    "title": "Nvidia’s Megaspeed ties show potential blind spots in the U.S. effort to block China from accessing advanced chips",
+    "tokens": [
+      "accessing",
+      "advanced",
+      "blind",
+      "block",
+      "china",
+      "chips",
+      "effort",
+      "megaspeed",
+      "nvidia",
+      "potential",
+      "show",
+      "spots",
+      "ties"
+    ],
+    "ts": 1793459092.6204152
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/citi-explains-what-hawk-and-dove-really-mean-as-ecb-faces-leadership-change-4989285",
+    "title": "Citi explains what ’hawk’ and ’dove’ really mean as ECB faces leadership change",
+    "tokens": [
+      "change",
+      "citi",
+      "dove",
+      "ecb",
+      "explains",
+      "faces",
+      "hawk",
+      "leadership",
+      "mean",
+      "really",
+      "what"
+    ],
+    "ts": 1793459100.1049016
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/france-braces-for-fresh-unrest-government-vows-tough-response-4989212",
+    "title": "France braces for fresh unrest, government vows tough response",
+    "tokens": [
+      "braces",
+      "france",
+      "fresh",
+      "government",
+      "response",
+      "tough",
+      "unrest",
+      "vows"
+    ],
+    "ts": 1793459106.5441303
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
+    "title": "UK PM Burnham says he is ’open’ to formal apology for slavery, but rules out reparations",
+    "tokens": [
+      "apology",
+      "burnham",
+      "formal",
+      "open",
+      "reparations",
+      "rules",
+      "slavery"
+    ],
+    "ts": 1793459114.316604
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/russia-extends-diesel-export-ban-through-january-allows-limited-shipments-4989277",
+    "title": "Russia extends diesel export ban through January, allows limited shipments",
+    "tokens": [
+      "allows",
+      "ban",
+      "diesel",
+      "export",
+      "extends",
+      "january",
+      "limited",
+      "russia",
+      "shipments",
+      "through"
+    ],
+    "ts": 1793459120.8397565
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/medifast-director-kiai-parsa-buys-68027-in-company-stock-93CH-4989272",
+    "title": "Medifast director Kiai Parsa buys $68,027 in company stock",
+    "tokens": [
+      "027",
+      "buys",
+      "company",
+      "director",
+      "kiai",
+      "medifast",
+      "parsa",
+      "stock"
+    ],
+    "ts": 1793459127.4160357
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/gs-flags-interest-rates-and-ai-disruption-as-risks-to-longterm-equity-demand-4989261",
+    "title": "GS flags interest rates and AI disruption as risks to long-term equity demand",
+    "tokens": [
+      "demand",
+      "disruption",
+      "equity",
+      "flags",
+      "interest",
+      "long",
+      "rates",
+      "risks",
+      "term"
+    ],
+    "ts": 1793459134.6072757
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ntpc-q2-fy27-slides-show-capacity-growth-profit-gains-93CH-4989260",
+    "title": "NTPC Q2 FY27 slides show capacity growth, profit gains",
+    "tokens": [
+      "capacity",
+      "fy27",
+      "gains",
+      "growth",
+      "ntpc",
+      "profit",
+      "show",
+      "slides"
+    ],
+    "ts": 1793459141.192831
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-ntpc-posts-strong-q2-2026-growth-as-stock-rises-93CH-4989253",
+    "title": "Earnings call transcript: NTPC posts strong Q2 2026 growth as stock rises",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "growth",
+      "ntpc",
+      "posts",
+      "rises",
+      "stock",
+      "strong",
+      "transcript"
+    ],
+    "ts": 1793459148.2279227
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/bank-of-marin-bancorp-director-anderson-buys-1137-in-shares-93CH-4989251",
+    "title": "Bank of Marin Bancorp director Anderson buys $1,137 in shares",
+    "tokens": [
+      "137",
+      "anderson",
+      "bancorp",
+      "bank",
+      "buys",
+      "director",
+      "marin",
+      "shares"
+    ],
+    "ts": 1793459154.4220777
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
+    "title": "Bitcoin holds above $77,000 as FBI joins hunt for $6.3 billion Binance hackers",
+    "tokens": [
+      "000",
+      "above",
+      "billion",
+      "binance",
+      "bitcoin",
+      "fbi",
+      "hackers",
+      "holds",
+      "hunt",
+      "joins"
+    ],
+    "ts": 1793459161.0801952
+  },
+  {
+    "id": "oilprice-article-45928",
+    "title": "Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
+    "tokens": [
+      "ambitious",
+      "boost",
+      "costs",
+      "electricity",
+      "energy",
+      "plan",
+      "security",
+      "senegal",
+      "slash"
+    ],
+    "ts": 1793459168.767825
+  },
+  {
+    "id": "cbf63b10-b1bf-4657-948c-960b4bb52a00",
+    "title": "Institutions embrace crypto staking despite shrinking yields",
+    "tokens": [
+      "crypto",
+      "despite",
+      "embrace",
+      "institutions",
+      "shrinking",
+      "staking",
+      "yields"
+    ],
+    "ts": 1793459175.6076994
+  },
+  {
+    "id": "6f8c513e-2f52-4849-ac88-31c13f43da3e",
+    "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+    "tokens": [
+      "can",
+      "cash",
+      "franklin",
+      "how",
+      "hsbc",
+      "idle",
+      "put",
+      "templeton",
+      "tests",
+      "tokenization",
+      "uber",
+      "work"
+    ],
+    "ts": 1793459183.5242798
+  },
+  {
+    "id": "7d2872f6-8236-427b-934d-68f7dbf94940",
+    "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+    "tokens": [
+      "another",
+      "big",
+      "bitcoin",
+      "chase",
+      "get",
+      "individuals",
+      "miners",
+      "profits",
+      "rewards",
+      "shot"
+    ],
+    "ts": 1793459190.4995918
+  },
+  {
+    "id": "43ec775d-78c0-446d-b57d-51222331f275",
+    "title": "18 years in, what has Bitcoin truly done?",
+    "tokens": [
+      "bitcoin",
+      "done",
+      "truly",
+      "what",
+      "years"
+    ],
+    "ts": 1793459198.6111517
+  },
+  {
+    "id": "4c6ec37e-ceba-472d-9180-56f3cd44a62e",
+    "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+    "tokens": [
+      "450",
+      "binance",
+      "bitcoin",
+      "citing",
+      "company",
+      "fears",
+      "hack",
+      "listed",
+      "may",
+      "million",
+      "nasdaq",
+      "quantum",
+      "sell"
+    ],
+    "ts": 1793459205.5925374
+  },
+  {
+    "id": "9a60ae48-2aef-40b1-b5cc-75c0d0f0e64f",
+    "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+    "tokens": [
+      "also",
+      "billion",
+      "binance",
+      "centralization",
+      "hack",
+      "made",
+      "paradox",
+      "possible",
+      "saved"
+    ],
+    "ts": 1793459212.5167623
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up",
+    "title": "Bitcoin turns 18: Has the original rebel grown up?",
+    "tokens": [
+      "bitcoin",
+      "grown",
+      "original",
+      "rebel",
+      "turns"
+    ],
+    "ts": 1793459219.5906217
+  },
+  {
+    "id": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping",
+    "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
+    "tokens": [
+      "armed",
+      "brothers",
+      "crypto",
+      "kidnapping",
+      "prison",
+      "robbery",
+      "sentenced",
+      "texas",
+      "years"
+    ],
+    "ts": 1793459226.420615
+  },
+  {
+    "id": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident",
+    "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
+    "tokens": [
+      "blockchain",
+      "chainalysis",
+      "cybersecurity",
+      "hit",
+      "incident",
+      "investigator"
+    ],
+    "ts": 1793459233.3611298
+  },
+  {
+    "id": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter",
+    "title": "Binance $6.3B record hack sparks pre-election political clashes",
+    "tokens": [
+      "binance",
+      "clashes",
+      "election",
+      "hack",
+      "political",
+      "pre",
+      "record",
+      "sparks"
+    ],
+    "ts": 1793459240.3155193
   }
 ]

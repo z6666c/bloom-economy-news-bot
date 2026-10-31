@@ -1,491 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-cuts-almonty-industries-stock-price-target-on-shipment-delays-93CH-4960067",
-    "title": "Stifel cuts Almonty Industries stock price target on shipment delays",
-    "tokens": [
-      "almonty",
-      "cuts",
-      "delays",
-      "industries",
-      "price",
-      "shipment",
-      "stifel",
-      "stock",
-      "target"
-    ],
-    "ts": 1792501292.1278245
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-cuts-pool-corp-stock-price-target-on-margin-concerns-93CH-4960064",
-    "title": "Stifel cuts Pool Corp stock price target on margin concerns",
-    "tokens": [
-      "concerns",
-      "corp",
-      "cuts",
-      "margin",
-      "pool",
-      "price",
-      "stifel",
-      "stock",
-      "target"
-    ],
-    "ts": 1792501300.0958366
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-maintains-underperform-on-on-holding-stock-citing-margin-pressures-93CH-4960065",
-    "title": "Jefferies maintains Underperform on On Holding stock citing margin pressures",
-    "tokens": [
-      "citing",
-      "holding",
-      "jefferies",
-      "maintains",
-      "margin",
-      "pressures",
-      "stock",
-      "underperform"
-    ],
-    "ts": 1792501307.6267672
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/stifel-maintains-hold-on-dxc-technology-stock-amid-unit-sale-reports-93CH-4960066",
-    "title": "Stifel maintains Hold on DXC Technology stock amid unit sale reports",
-    "tokens": [
-      "dxc",
-      "hold",
-      "maintains",
-      "reports",
-      "sale",
-      "stifel",
-      "stock",
-      "technology",
-      "unit"
-    ],
-    "ts": 1792501315.1267521
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/european-stocks-extend-slide-as-french-unrest-triggers-derisking-4958779",
-    "title": "European stocks extend slide as French unrest triggers de-risking",
-    "tokens": [
-      "european",
-      "extend",
-      "french",
-      "risking",
-      "slide",
-      "stocks",
-      "triggers",
-      "unrest"
-    ],
-    "ts": 1792501322.6536357
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
-    "title": "S&P, Nasdaq 100 futures fall as AI trade faces renewed pressure, oil tops $110",
-    "tokens": [
-      "100",
-      "110",
-      "faces",
-      "fall",
-      "futures",
-      "nasdaq",
-      "oil",
-      "pressure",
-      "renewed",
-      "tops",
-      "trade"
-    ],
-    "ts": 1792501331.204422
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/olenox-completes-217m-acquisition-of-gas-power-assets-93CH-4960053",
-    "title": "Olenox completes $21.7M acquisition of gas, power assets",
-    "tokens": [
-      "acquisition",
-      "assets",
-      "completes",
-      "gas",
-      "olenox",
-      "power"
-    ],
-    "ts": 1792501339.1315312
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pliant-therapeutics-appoints-craig-blanchette-as-svp-research-93CH-4960052",
-    "title": "Pliant Therapeutics appoints Craig Blanchette as SVP, Research",
-    "tokens": [
-      "appoints",
-      "blanchette",
-      "craig",
-      "pliant",
-      "research",
-      "svp",
-      "therapeutics"
-    ],
-    "ts": 1792501347.2864473
-  },
-  {
-    "id": "oilprice-news-45812",
-    "title": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate",
-    "tokens": [
-      "asian",
-      "east",
-      "escalate",
-      "lng",
-      "middle",
-      "past",
-      "prices",
-      "risks",
-      "shipping",
-      "surge"
-    ],
-    "ts": 1792501358.3421035
-  },
-  {
-    "id": "oilprice-news-45811",
-    "title": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply",
-    "tokens": [
-      "110",
-      "attacks",
-      "brent",
-      "gulf",
-      "persian",
-      "supply",
-      "tanker",
-      "threaten",
-      "tops"
-    ],
-    "ts": 1792501366.0637596
-  },
-  {
-    "id": "e176f969-84c6-4169-b72d-4b6ea5a684fe",
-    "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
-    "tokens": [
-      "alphabet",
-      "goldman",
-      "ice",
-      "join",
-      "microsoft",
-      "objections",
-      "okx",
-      "sachs",
-      "stock",
-      "tokenized",
-      "trading"
-    ],
-    "ts": 1792501374.873097
-  },
-  {
-    "id": "ca26ee92-6c4e-4ff6-8dae-4beaaad3f250",
-    "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
-    "tokens": [
-      "approves",
-      "capital",
-      "france",
-      "gains",
-      "hit",
-      "parliament",
-      "stablecoin",
-      "tax",
-      "trades",
-      "vote"
-    ],
-    "ts": 1792501382.3923662
-  },
-  {
-    "id": "7d544105-b5a4-41d9-b624-4f00162f814d",
-    "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-    "tokens": [
-      "biggest",
-      "bitcoin",
-      "could",
-      "damp",
-      "demand",
-      "equity",
-      "etf",
-      "inflows",
-      "month",
-      "weakness"
-    ],
-    "ts": 1792501390.4113
-  },
-  {
-    "id": "d88b9f42-616b-415f-bc0f-b05ada38eb2d",
-    "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-    "tokens": [
-      "annual",
-      "bitcoin",
-      "bonds",
-      "decade",
-      "gold",
-      "jpmorgan",
-      "next",
-      "returns",
-      "sees",
-      "stocks",
-      "topping"
-    ],
-    "ts": 1792501398.5714896
-  },
-  {
-    "id": "5a25a5b4-3074-4fd1-ab52-7631aa2148f0",
-    "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
-    "tokens": [
-      "400",
-      "asian",
-      "bitcoin",
-      "chip",
-      "downside",
-      "drops",
-      "options",
-      "protection",
-      "seek",
-      "stocks",
-      "traders",
-      "tumble"
-    ],
-    "ts": 1792501406.8535426
-  },
-  {
-    "id": "efc80dd3-7bb2-4634-b4a2-7d7a1587e453",
-    "title": "Live updates: Market nervousness persists as the AI selloff deepens",
-    "tokens": [
-      "deepens",
-      "live",
-      "market",
-      "nervousness",
-      "persists",
-      "selloff",
-      "updates"
-    ],
-    "ts": 1792501414.9191854
-  },
-  {
-    "id": "6a391cd6-bb46-4c14-8732-d93732afb4ff",
-    "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
-    "tokens": [
-      "111",
-      "adds",
-      "brent",
-      "crude",
-      "ipo",
-      "jitters",
-      "korean",
-      "market",
-      "slump",
-      "south",
-      "tops"
-    ],
-    "ts": 1792501423.4544864
-  },
-  {
-    "id": "833cb8c8-0813-4a37-81f1-da5a29ca0c2a",
-    "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-    "tokens": [
-      "biggest",
-      "bitcoin",
-      "blackrock",
-      "day",
-      "entirely",
-      "etfs",
-      "just",
-      "month",
-      "saw",
-      "thanks",
-      "their"
-    ],
-    "ts": 1792501431.0096347
-  },
-  {
-    "id": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash",
-    "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-    "tokens": [
-      "194m",
-      "61m",
-      "cash",
-      "drift",
-      "eth",
-      "exploiter",
-      "holds",
-      "sends",
-      "tornado"
-    ],
-    "ts": 1792501439.3591132
-  },
-  {
-    "id": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain",
-    "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-    "tokens": [
-      "chain",
-      "launches",
-      "liquidity",
-      "onto",
-      "pull",
-      "rwa",
-      "stablecoin",
-      "ustx"
-    ],
-    "ts": 1792501446.3383255
-  },
-  {
-    "id": "https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto",
-    "title": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
-    "tokens": [
-      "advocacy",
-      "among",
-      "banks",
-      "barclays",
-      "complaints",
-      "crypto",
-      "group",
-      "lloyds",
-      "named",
-      "transfer"
-    ],
-    "ts": 1792501453.7169662
-  },
-  {
-    "id": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo",
-    "title": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
-    "tokens": [
-      "coo",
-      "enough",
-      "first",
-      "former",
-      "ftx",
-      "netflix",
-      "seconds",
-      "trailer",
-      "upset"
-    ],
-    "ts": 1792501463.4194674
-  },
-  {
-    "id": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four",
-    "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
-    "tokens": [
-      "bingx",
-      "coinbase",
-      "court",
-      "curbs",
-      "four",
-      "kazakhstan",
-      "orders",
-      "others"
-    ],
-    "ts": 1792501471.7099812
-  },
-  {
-    "id": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines",
-    "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
-    "tokens": [
-      "day",
-      "exchange",
-      "inflows",
-      "move",
-      "pass",
-      "sidelines",
-      "tokens",
-      "whales",
-      "xrp"
-    ],
-    "ts": 1792501479.5160534
-  },
-  {
-    "id": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027",
-    "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
-    "tokens": [
-      "2027",
-      "creditor",
-      "deadline",
-      "extension",
-      "gox",
-      "pushes",
-      "repayment",
-      "sixth"
-    ],
-    "ts": 1792501487.0125458
-  },
-  {
-    "id": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack",
-    "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
-    "tokens": [
-      "388m",
-      "acquisition",
-      "bitget",
-      "crypto",
-      "exchange",
-      "hack",
-      "plans",
-      "thai",
-      "weeks"
-    ],
-    "ts": 1792501495.2100883
-  },
-  {
-    "id": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns",
-    "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
-    "tokens": [
-      "bitcoin",
-      "decade",
-      "gold",
-      "jpmorgan",
-      "next",
-      "outperform",
-      "projects",
-      "stocks"
-    ],
-    "ts": 1792501502.4432733
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-    "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-    "tokens": [
-      "2026",
-      "committee",
-      "federal",
-      "market",
-      "minutes",
-      "open",
-      "september"
-    ],
-    "ts": 1792501511.190265
-  },
-  {
-    "id": "WP-MKTW-0005294920",
-    "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
-    "tokens": [
-      "expensive",
-      "investors",
-      "made",
-      "more",
-      "safety",
-      "search",
-      "stocks",
-      "tech",
-      "toothpaste"
-    ],
-    "ts": 1792519138.911002
-  },
-  {
-    "id": "WP-MKTW-0005294280",
-    "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-    "tokens": [
-      "children",
-      "him",
-      "his",
-      "home",
-      "influenced",
-      "inheritance",
-      "left",
-      "million",
-      "partner",
-      "say",
-      "share",
-      "should",
-      "years"
-    ],
-    "ts": 1792519146.8271089
-  },
-  {
     "id": "WP-MKTW-0005297122",
     "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
     "tokens": [
@@ -23718,5 +23232,498 @@
       "sparks"
     ],
     "ts": 1793459240.3155193
+  },
+  {
+    "id": "WP-MKTW-0005312271",
+    "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+    "tokens": [
+      "000",
+      "caregivers",
+      "five",
+      "more",
+      "now",
+      "pocket",
+      "spending",
+      "year",
+      "years"
+    ],
+    "ts": 1793474291.9682364
+  },
+  {
+    "id": "WP-MKTW-0005313573",
+    "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+    "tokens": [
+      "approve",
+      "care",
+      "drop",
+      "immediately",
+      "large",
+      "led",
+      "medical",
+      "medicare",
+      "patient",
+      "pre",
+      "services",
+      "used"
+    ],
+    "ts": 1793474298.9763565
+  },
+  {
+    "id": "WP-MKTW-0005316089",
+    "title": "80% of workers make this 401(k)  mistake when they retire",
+    "tokens": [
+      "401",
+      "make",
+      "mistake",
+      "retire",
+      "they",
+      "when",
+      "workers"
+    ],
+    "ts": 1793474306.4682503
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-the-selloff-in-french-bonds-is-a-warning-for-global-governments-4989316",
+    "title": "Why the sell-off in French bonds is a warning for global governments",
+    "tokens": [
+      "bonds",
+      "french",
+      "global",
+      "governments",
+      "off",
+      "sell",
+      "warning",
+      "why"
+    ],
+    "ts": 1793474314.309689
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/countries-reach-cop17-deal-to-speed-up-biodiversity-action-but-money-still-short-4989314",
+    "title": "Countries reach COP17 deal to speed up biodiversity action, but money still short",
+    "tokens": [
+      "action",
+      "biodiversity",
+      "cop17",
+      "countries",
+      "deal",
+      "money",
+      "reach",
+      "short",
+      "speed",
+      "still"
+    ],
+    "ts": 1793474322.4559991
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/uscb-financial-holdings-director-buys-20000-in-stock-93CH-4989312",
+    "title": "USCB Financial Holdings director buys $20,000 in stock",
+    "tokens": [
+      "000",
+      "buys",
+      "director",
+      "financial",
+      "holdings",
+      "stock",
+      "uscb"
+    ],
+    "ts": 1793474328.924891
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
+    "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+    "tokens": [
+      "envoys",
+      "iranian",
+      "looms",
+      "mediators",
+      "meet",
+      "midterms",
+      "qatari",
+      "strikes",
+      "threat"
+    ],
+    "ts": 1793474336.3848555
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
+    "title": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
+    "tokens": [
+      "builds",
+      "china",
+      "expands",
+      "fourier",
+      "home",
+      "humanoid",
+      "meta",
+      "push",
+      "report",
+      "robot"
+    ],
+    "ts": 1793474343.2849703
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304",
+    "title": "Binance says it has replaced 90% of $6.3 billion stolen in record crypto hack",
+    "tokens": [
+      "billion",
+      "binance",
+      "crypto",
+      "hack",
+      "record",
+      "replaced",
+      "stolen"
+    ],
+    "ts": 1793474349.958582
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/opec-set-to-keep-production-targets-unchanged-in-december-source-says-4989301",
+    "title": "OPEC+ set to keep production targets unchanged in December, source says",
+    "tokens": [
+      "december",
+      "keep",
+      "opec",
+      "production",
+      "set",
+      "source",
+      "targets",
+      "unchanged"
+    ],
+    "ts": 1793474356.9035497
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/reliance-q2-fy27-slides-record-ebitda-on-o2c-surge-jio-ipo-milestone-93CH-4989300",
+    "title": "Reliance Q2 FY27 slides: record EBITDA on O2C surge, Jio IPO milestone",
+    "tokens": [
+      "ebitda",
+      "fy27",
+      "ipo",
+      "jio",
+      "milestone",
+      "o2c",
+      "record",
+      "reliance",
+      "slides",
+      "surge"
+    ],
+    "ts": 1793474363.8037405
+  },
+  {
+    "id": "https://www.businessinsider.com/spacex-stock-children-trump-accounts-gwynne-shotwell-2026-10",
+    "title": "SpaceX exec says she'll donate 2 million shares to kids from low-income families. See who's eligible.",
+    "tokens": [
+      "donate",
+      "eligible",
+      "exec",
+      "families",
+      "income",
+      "kids",
+      "low",
+      "million",
+      "see",
+      "shares",
+      "she",
+      "spacex",
+      "who"
+    ],
+    "ts": 1793474370.3972263
+  },
+  {
+    "id": "https://www.businessinsider.com/binance-hack-heist-crypto-security-2026-10",
+    "title": "Binance says it's replenished losses after a record-breaking heist and will soon let users withdraw funds",
+    "tokens": [
+      "binance",
+      "breaking",
+      "funds",
+      "heist",
+      "let",
+      "losses",
+      "record",
+      "replenished",
+      "soon",
+      "users",
+      "withdraw"
+    ],
+    "ts": 1793474377.0377479
+  },
+  {
+    "id": "https://seekingalpha.com/news/4661860-binance-restores-90-percent-stolen-crypto-assets?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Binance restores 90% of stolen crypto assets",
+    "tokens": [
+      "assets",
+      "binance",
+      "crypto",
+      "restores",
+      "stolen"
+    ],
+    "ts": 1793474383.647022
+  },
+  {
+    "id": "https://seekingalpha.com/news/4661661-real-estate-stocks-shine-in-october-amid-broader-tech-rout-lower-long-term-borrowing-costs?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Real estate stocks shine in October amid broader tech rout, lower long-term borrowing costs",
+    "tokens": [
+      "borrowing",
+      "broader",
+      "costs",
+      "estate",
+      "long",
+      "lower",
+      "october",
+      "real",
+      "rout",
+      "shine",
+      "stocks",
+      "tech",
+      "term"
+    ],
+    "ts": 1793474390.4009604
+  },
+  {
+    "id": "https://seekingalpha.com/news/4661167-earnings-scoreboard-83-of-reporting-firms-beat-eps-estimates-79-post-yy-earnings-growth?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Earnings Scoreboard: 83% of reporting firms beat EPS estimates, 79% post Y/Y earnings growth",
+    "tokens": [
+      "beat",
+      "earnings",
+      "eps",
+      "estimates",
+      "firms",
+      "growth",
+      "post",
+      "reporting",
+      "scoreboard"
+    ],
+    "ts": 1793474396.7440019
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/onlyoffice-10-0-brings-ai-tools-modular-apps-and-stronger-security-to-its-open-source-office-suite-1036695279",
+    "title": "ONLYOFFICE 10.0 Brings AI Tools, Modular Apps, and Stronger Security to Its Open-Source Office Suite",
+    "tokens": [
+      "apps",
+      "brings",
+      "modular",
+      "office",
+      "onlyoffice",
+      "open",
+      "security",
+      "source",
+      "stronger",
+      "suite",
+      "tools"
+    ],
+    "ts": 1793474404.0540922
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-skilled-investor-counsel-encourages-yiren-digital-ltd.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-yrd-1036692788",
+    "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages Yiren Digital Ltd. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - YRD",
+    "tokens": [
+      "action",
+      "before",
+      "class",
+      "counsel",
+      "deadline",
+      "digital",
+      "encourages",
+      "filed",
+      "firm",
+      "first",
+      "important",
+      "investor",
+      "investors",
+      "ltd",
+      "rosen",
+      "secure",
+      "securities",
+      "skilled",
+      "yiren",
+      "yrd"
+    ],
+    "ts": 1793474411.3280144
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/pixl-robotics-launches-nub-on-kickstarter-a-camera-free-desk-robot-that-chirps-instead-of-talking-1036695280",
+    "title": "Pixl Robotics Launches Nub on Kickstarter, a Camera-Free Desk Robot That Chirps Instead of Talking",
+    "tokens": [
+      "camera",
+      "chirps",
+      "desk",
+      "free",
+      "instead",
+      "kickstarter",
+      "launches",
+      "nub",
+      "pixl",
+      "robot",
+      "robotics",
+      "talking"
+    ],
+    "ts": 1793474418.6020725
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/under-the-stars-a-coastal-escape-for-glamping-and-outdoor-adventure-in-la-paz-mexico-1036695270",
+    "title": "Under the Stars: A Coastal Escape for Glamping and Outdoor Adventure in La Paz, Mexico",
+    "tokens": [
+      "adventure",
+      "coastal",
+      "escape",
+      "glamping",
+      "mexico",
+      "outdoor",
+      "paz",
+      "stars",
+      "under"
+    ],
+    "ts": 1793474424.9271739
+  },
+  {
+    "id": "https://seekingalpha.com/news/4661856-insider-trades-goldman-sachs-pg-texas-instruments-among-major-names?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Insider trades: Goldman Sachs, P&G, Texas Instruments among major names",
+    "tokens": [
+      "among",
+      "goldman",
+      "insider",
+      "instruments",
+      "major",
+      "names",
+      "sachs",
+      "texas",
+      "trades"
+    ],
+    "ts": 1793474432.9550984
+  },
+  {
+    "id": "oilprice-article-45929",
+    "title": "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
+    "tokens": [
+      "approval",
+      "britain",
+      "debate",
+      "energy",
+      "fierce",
+      "future",
+      "jackdaw",
+      "sparks"
+    ],
+    "ts": 1793474440.474737
+  },
+  {
+    "id": "oilprice-article-45933",
+    "title": "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
+    "tokens": [
+      "backs",
+      "darpa",
+      "energy",
+      "every",
+      "measure",
+      "project",
+      "stage",
+      "use",
+      "workflow"
+    ],
+    "ts": 1793474447.6331015
+  },
+  {
+    "id": "a2e20bd5-79a4-4c29-9d82-50005d1b6bbb",
+    "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+    "tokens": [
+      "answered",
+      "bailouts",
+      "bitcoin",
+      "businesses",
+      "paper",
+      "paying",
+      "small",
+      "still",
+      "turns",
+      "white"
+    ],
+    "ts": 1793474454.3983881
+  },
+  {
+    "id": "89afe742-7855-4fa9-b229-7241babec34b",
+    "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+    "tokens": [
+      "000",
+      "crypto",
+      "iphone",
+      "london",
+      "losses",
+      "problem",
+      "stolen",
+      "theft"
+    ],
+    "ts": 1793474461.2804022
+  },
+  {
+    "id": "6651abba-46ab-4a71-8525-d65f8b4417c0",
+    "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+    "tokens": [
+      "already",
+      "anthropic",
+      "bets",
+      "contracts",
+      "crypto",
+      "ipo",
+      "leveraged",
+      "placing",
+      "traders",
+      "using"
+    ],
+    "ts": 1793474467.9767416
+  },
+  {
+    "id": "196e9289-b7be-49fc-8f74-81dcae5fcf4e",
+    "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+    "tokens": [
+      "billion",
+      "binance",
+      "breach",
+      "crypto",
+      "massive",
+      "replaced",
+      "stolen"
+    ],
+    "ts": 1793474475.0880277
+  },
+  {
+    "id": "https://cointelegraph.com/news/binance-hack-90-percent-replenished",
+    "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+    "tokens": [
+      "assets",
+      "binance",
+      "replenished",
+      "stolen",
+      "sunday",
+      "targets",
+      "withdrawals"
+    ],
+    "ts": 1793474482.1351926
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo",
+    "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+    "tokens": [
+      "better",
+      "binance",
+      "bitcoin",
+      "ceo",
+      "expected",
+      "hack",
+      "held",
+      "strive"
+    ],
+    "ts": 1793474488.911115
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+    "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+    "tokens": [
+      "2026",
+      "committee",
+      "federal",
+      "market",
+      "minutes",
+      "open",
+      "september"
+    ],
+    "ts": 1793474495.6018817
   }
 ]

@@ -1,130 +1,5 @@
 [
   {
-    "id": "oilprice-article-45821",
-    "title": "Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up",
-    "tokens": [
-      "aren",
-      "costs",
-      "driving",
-      "energy",
-      "inflation",
-      "keeping",
-      "wages"
-    ],
-    "ts": 1792531944.2373798
-  },
-  {
-    "id": "oilprice-news-45826",
-    "title": "API: Crude, Product Inventories Continue to Draw",
-    "tokens": [
-      "api",
-      "continue",
-      "crude",
-      "draw",
-      "inventories",
-      "product"
-    ],
-    "ts": 1792531952.2702956
-  },
-  {
-    "id": "oilprice-article-45824",
-    "title": "The Middle East's Next Energy Boom Has Nothing to Do With Oil",
-    "tokens": [
-      "boom",
-      "east",
-      "energy",
-      "middle",
-      "next",
-      "nothing",
-      "oil"
-    ],
-    "ts": 1792531959.3434327
-  },
-  {
-    "id": "oilprice-article-45826",
-    "title": "One Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict",
-    "tokens": [
-      "another",
-      "conflict",
-      "could",
-      "deal",
-      "eastern",
-      "ignite",
-      "kurdish",
-      "middle",
-      "one",
-      "peace"
-    ],
-    "ts": 1792531967.116312
-  },
-  {
-    "id": "oilprice-news-45824",
-    "title": "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis",
-    "tokens": [
-      "against",
-      "arctic",
-      "crisis",
-      "despite",
-      "drilling",
-      "energy",
-      "firm",
-      "gas",
-      "oil",
-      "stands"
-    ],
-    "ts": 1792531971.1322684
-  },
-  {
-    "id": "b2d903e8-67ee-4c72-b382-f089654e2200",
-    "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-    "tokens": [
-      "agenda",
-      "agentic",
-      "cftc",
-      "exploring",
-      "finance",
-      "forum",
-      "sets",
-      "trading"
-    ],
-    "ts": 1792531975.371616
-  },
-  {
-    "id": "b8222b25-6dbc-4c06-a44a-61db874f4f40",
-    "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
-    "tokens": [
-      "andrew",
-      "calls",
-      "chair",
-      "corporate",
-      "cuomo",
-      "ice",
-      "natural",
-      "objections",
-      "okx",
-      "plans",
-      "response",
-      "stock",
-      "tokenized"
-    ],
-    "ts": 1792531983.4373312
-  },
-  {
-    "id": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets",
-    "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
-    "tokens": [
-      "company",
-      "kalshi",
-      "market",
-      "prediction",
-      "profits",
-      "pursues",
-      "sues",
-      "utah"
-    ],
-    "ts": 1792531990.6892748
-  },
-  {
     "id": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops",
     "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
     "tokens": [
@@ -23793,5 +23668,130 @@
       "what"
     ],
     "ts": 1793562073.1065822
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/australian-home-prices-fall-for-seventh-month-looming-rate-hike-adds-to-pain-4989781",
+    "title": "Australian home prices fall for seventh month, looming rate hike adds to pain",
+    "tokens": [
+      "adds",
+      "australian",
+      "fall",
+      "hike",
+      "home",
+      "looming",
+      "month",
+      "pain",
+      "prices",
+      "rate",
+      "seventh"
+    ],
+    "ts": 1793574375.735456
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/australian-lender-westpacs-fullyear-profit-ticks-higher-4989776",
+    "title": "Westpac’s full-year profit ticks higher, flags slowing loan demand",
+    "tokens": [
+      "demand",
+      "flags",
+      "full",
+      "higher",
+      "loan",
+      "profit",
+      "slowing",
+      "ticks",
+      "westpac",
+      "year"
+    ],
+    "ts": 1793574382.141034
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusiveaustralian-outback-data-centre-pulls-timeline-after-regulator-stalls-4989777",
+    "title": "Exclusive-Australian outback data centre pulls timeline after regulator stalls",
+    "tokens": [
+      "australian",
+      "centre",
+      "data",
+      "exclusive",
+      "outback",
+      "pulls",
+      "regulator",
+      "stalls",
+      "timeline"
+    ],
+    "ts": 1793574388.9054463
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989779",
+    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+    "tokens": [
+      "close",
+      "index",
+      "lower",
+      "moex",
+      "russia",
+      "stocks",
+      "trade",
+      "unchanged"
+    ],
+    "ts": 1793574392.9177155
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/trump-says-us-canada-have-concept-of-a-new-trade-deal-4989778",
+    "title": "Trump says US, Canada have ’concept’ of a new trade deal",
+    "tokens": [
+      "canada",
+      "concept",
+      "deal",
+      "trade",
+      "trump"
+    ],
+    "ts": 1793574395.6316936
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/explainerhow-us-news-organizations-will-make-midterm-race-calls-4989664",
+    "title": "Explainer-How US news organizations will make midterm race calls",
+    "tokens": [
+      "calls",
+      "explainer",
+      "how",
+      "make",
+      "midterm",
+      "news",
+      "organizations",
+      "race"
+    ],
+    "ts": 1793574401.8414936
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility-4989707",
+    "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+    "tokens": [
+      "cut",
+      "damage",
+      "drones",
+      "facility",
+      "power",
+      "russian",
+      "strikes",
+      "thousands",
+      "ukraine"
+    ],
+    "ts": 1793574409.5074918
+  },
+  {
+    "id": "oilprice-article-45931",
+    "title": "Massive AI Data Center Sparks Backlash Despite Clean Energy Promises",
+    "tokens": [
+      "backlash",
+      "center",
+      "clean",
+      "data",
+      "despite",
+      "energy",
+      "massive",
+      "promises",
+      "sparks"
+    ],
+    "ts": 1793574416.614212
   }
 ]

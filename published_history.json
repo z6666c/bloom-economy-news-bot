@@ -1,955 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-downgrades-casella-waste-stock-rating-on-lower-ma-outlook-93CH-4962148",
-    "title": "UBS downgrades Casella Waste stock rating on lower M&A outlook",
-    "tokens": [
-      "casella",
-      "downgrades",
-      "lower",
-      "outlook",
-      "rating",
-      "stock",
-      "ubs",
-      "waste"
-    ],
-    "ts": 1792576276.0068552
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/ubs-downgrades-braze-stock-rating-to-neutral-on-salesforce-deal-93CH-4962147",
-    "title": "UBS downgrades Braze stock rating to neutral on Salesforce deal",
-    "tokens": [
-      "braze",
-      "deal",
-      "downgrades",
-      "neutral",
-      "rating",
-      "salesforce",
-      "stock",
-      "ubs"
-    ],
-    "ts": 1792576283.2397122
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/bmo-raises-solstice-advanced-materials-stock-price-target-on-cost-cuts-93CH-4962146",
-    "title": "BMO raises Solstice Advanced Materials stock price target on cost cuts",
-    "tokens": [
-      "advanced",
-      "bmo",
-      "cost",
-      "cuts",
-      "materials",
-      "price",
-      "raises",
-      "solstice",
-      "stock",
-      "target"
-    ],
-    "ts": 1792576291.665547
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/jefferies-lowers-3m-stock-price-target-to-186-on-mixed-demand-93CH-4962145",
-    "title": "Jefferies lowers 3M stock price target to $186 on mixed demand",
-    "tokens": [
-      "186",
-      "demand",
-      "jefferies",
-      "lowers",
-      "mixed",
-      "price",
-      "stock",
-      "target"
-    ],
-    "ts": 1792576299.0182402
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-first-united-stock-rating-on-solid-results-93CH-4962144",
-    "title": "Raymond James reiterates First United stock rating on solid results",
-    "tokens": [
-      "first",
-      "james",
-      "rating",
-      "raymond",
-      "reiterates",
-      "results",
-      "solid",
-      "stock",
-      "united"
-    ],
-    "ts": 1792576306.1311388
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/alinma-bank-reports-third-quarter-profit-below-estimates-93CH-4962143",
-    "title": "Alinma Bank reports third quarter profit below estimates",
-    "tokens": [
-      "alinma",
-      "bank",
-      "below",
-      "estimates",
-      "profit",
-      "quarter",
-      "reports",
-      "third"
-    ],
-    "ts": 1792576313.5227432
-  },
-  {
-    "id": "oilprice-news-45828",
-    "title": "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar",
-    "tokens": [
-      "administration",
-      "boost",
-      "diesel",
-      "output",
-      "prices",
-      "pushes",
-      "refiners",
-      "soar",
-      "trump"
-    ],
-    "ts": 1792576321.680775
-  },
-  {
-    "id": "oilprice-news-45827",
-    "title": "Oil Prices Climb Above $110 as Middle East Supply Fears Persist",
-    "tokens": [
-      "110",
-      "above",
-      "climb",
-      "east",
-      "fears",
-      "middle",
-      "oil",
-      "persist",
-      "prices",
-      "supply"
-    ],
-    "ts": 1792576330.0916047
-  },
-  {
-    "id": "9ad40372-e21d-4b6e-847e-f7cc777727b2",
-    "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
-    "tokens": [
-      "000",
-      "bitcoin",
-      "explore",
-      "merger",
-      "more",
-      "spacex",
-      "tesla",
-      "unite",
-      "would"
-    ],
-    "ts": 1792576338.0736055
-  },
-  {
-    "id": "405618d0-a2f0-4f55-9bdc-7b3b91c3f2d7",
-    "title": "Monero futures are again heating with leverage, raising volatility risks",
-    "tokens": [
-      "again",
-      "futures",
-      "heating",
-      "leverage",
-      "monero",
-      "raising",
-      "risks",
-      "volatility"
-    ],
-    "ts": 1792576345.039739
-  },
-  {
-    "id": "9c83fd98-b1d2-43eb-b137-5468c36dc3b7",
-    "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-    "tokens": [
-      "focused",
-      "funding",
-      "leads",
-      "million",
-      "mural",
-      "payment",
-      "round",
-      "startup",
-      "tether"
-    ],
-    "ts": 1792576353.0737667
-  },
-  {
-    "id": "d146bd64-9ccc-4fef-965a-9dbb1bb7fd4a",
-    "title": "Zcash developers confirm November date for upgrade that triples payment speed",
-    "tokens": [
-      "confirm",
-      "date",
-      "developers",
-      "november",
-      "payment",
-      "speed",
-      "triples",
-      "upgrade",
-      "zcash"
-    ],
-    "ts": 1792576359.6493413
-  },
-  {
-    "id": "b8e6b612-8bee-42fc-825d-1c329361e675",
-    "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-    "tokens": [
-      "bets",
-      "brings",
-      "hsbc",
-      "markets",
-      "ripple",
-      "still",
-      "stock",
-      "street",
-      "thin",
-      "wall",
-      "warns"
-    ],
-    "ts": 1792576366.683028
-  },
-  {
-    "id": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october",
-    "title": "Ether ETF outflows continue, pass $1B in October so far",
-    "tokens": [
-      "continue",
-      "etf",
-      "ether",
-      "far",
-      "october",
-      "outflows",
-      "pass"
-    ],
-    "ts": 1792576373.9074233
-  },
-  {
-    "id": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform",
-    "title": "Malaysia central bank launches DLT platform for tokenized bonds",
-    "tokens": [
-      "bank",
-      "bonds",
-      "central",
-      "dlt",
-      "launches",
-      "malaysia",
-      "platform",
-      "tokenized"
-    ],
-    "ts": 1792576381.847948
-  },
-  {
-    "id": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites",
-    "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
-    "tokens": [
-      "block",
-      "certs",
-      "could",
-      "emudhra",
-      "enable",
-      "fake",
-      "giants",
-      "rush",
-      "sites",
-      "tech"
-    ],
-    "ts": 1792576388.816136
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-    "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-    "tokens": [
-      "action",
-      "activity",
-      "address",
-      "against",
-      "american",
-      "among",
-      "announces",
-      "board",
-      "certain",
-      "company",
-      "detect",
-      "enforcement",
-      "express",
-      "failure",
-      "federal",
-      "firm",
-      "laundering",
-      "money",
-      "other",
-      "related",
-      "report",
-      "reserve",
-      "sufficiently",
-      "suspicious",
-      "things"
-    ],
-    "ts": 1792576396.4420063
-  },
-  {
-    "id": "WP-MKTW-0005295158",
-    "title": "Money-saving habits to cope with higher prices — from our readers",
-    "tokens": [
-      "cope",
-      "habits",
-      "higher",
-      "money",
-      "our",
-      "prices",
-      "readers",
-      "saving"
-    ],
-    "ts": 1792594350.1846852
-  },
-  {
-    "id": "WP-MKTW-0005297501",
-    "title": "Time for a Micron mindset shift? Here’s how to navigate the new AI landscape.",
-    "tokens": [
-      "here",
-      "how",
-      "landscape",
-      "micron",
-      "mindset",
-      "navigate",
-      "shift",
-      "time"
-    ],
-    "ts": 1792594359.7442057
-  },
-  {
-    "id": "WP-MKTW-0005297871",
-    "title": "Meta’s AI spending spree has investors taking a page from the financial-crisis playbook",
-    "tokens": [
-      "crisis",
-      "financial",
-      "investors",
-      "meta",
-      "page",
-      "playbook",
-      "spending",
-      "spree",
-      "taking"
-    ],
-    "ts": 1792594367.6927028
-  },
-  {
-    "id": "WP-MKTW-0005298827",
-    "title": "In the battle for AI supremacy, China is only six months behind the U.S. — which means it’s winning, says former Google CEO",
-    "tokens": [
-      "battle",
-      "behind",
-      "ceo",
-      "china",
-      "former",
-      "google",
-      "means",
-      "months",
-      "only",
-      "six",
-      "supremacy",
-      "which",
-      "winning"
-    ],
-    "ts": 1792594376.6866634
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-rallying-today-93CH-4963528",
-    "title": "Why is Meta Platforms stock rallying today?",
-    "tokens": [
-      "meta",
-      "platforms",
-      "rallying",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1792594385.334472
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/expro-earnings-investors-brace-for-margin-test-after-q2-miss-93CH-4963527",
-    "title": "Expro earnings: Investors brace for margin test after Q2 miss",
-    "tokens": [
-      "brace",
-      "earnings",
-      "expro",
-      "investors",
-      "margin",
-      "miss",
-      "test"
-    ],
-    "ts": 1792594394.6530013
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/pultegroup-earnings-in-focus-can-homebuilder-hold-margins-as-rates-surge-93CH-4963526",
-    "title": "PulteGroup earnings in focus: Can homebuilder hold margins as rates surge?",
-    "tokens": [
-      "can",
-      "earnings",
-      "focus",
-      "hold",
-      "homebuilder",
-      "margins",
-      "pultegroup",
-      "rates",
-      "surge"
-    ],
-    "ts": 1792594402.8617413
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-stifel-financial-q3-2026-profit-tops-146-a-share-93CH-4963525",
-    "title": "Earnings call transcript: Stifel Financial Q3 2026 profit tops $1.46 a share",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "financial",
-      "profit",
-      "share",
-      "stifel",
-      "tops",
-      "transcript"
-    ],
-    "ts": 1792594410.744003
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/sei-investments-faces-earnings-test-on-margin-sustainability-93CH-4963524",
-    "title": "SEI Investments faces earnings test on margin sustainability",
-    "tokens": [
-      "earnings",
-      "faces",
-      "investments",
-      "margin",
-      "sei",
-      "sustainability",
-      "test"
-    ],
-    "ts": 1792594419.2124186
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/aws-to-deploy-3m-optical-technology-in-data-centers-93CH-4963522",
-    "title": "AWS to deploy 3M optical technology in data centers",
-    "tokens": [
-      "aws",
-      "centers",
-      "data",
-      "deploy",
-      "optical",
-      "technology"
-    ],
-    "ts": 1792594427.4415548
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/amplitude-stock-hits-52week-high-at-1618-93CH-4963521",
-    "title": "Amplitude stock hits 52-week high at $16.18",
-    "tokens": [
-      "amplitude",
-      "high",
-      "hits",
-      "stock",
-      "week"
-    ],
-    "ts": 1792594435.373938
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/medical-properties-earnings-in-focus-as-turnaround-test-looms-93CH-4963520",
-    "title": "Medical Properties earnings in focus as turnaround test looms",
-    "tokens": [
-      "earnings",
-      "focus",
-      "looms",
-      "medical",
-      "properties",
-      "test",
-      "turnaround"
-    ],
-    "ts": 1792594443.141381
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-fall-more-than-expected-indicating-strong-demand-93CH-4963519",
-    "title": "Crude oil inventories fall more than expected, indicating strong demand",
-    "tokens": [
-      "crude",
-      "demand",
-      "expected",
-      "fall",
-      "indicating",
-      "inventories",
-      "more",
-      "oil",
-      "strong"
-    ],
-    "ts": 1792594450.648907
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/snapon-faces-quarterly-earnings-test-as-price-targets-fall-93CH-4963518",
-    "title": "Snap-On faces quarterly earnings test as price targets fall",
-    "tokens": [
-      "earnings",
-      "faces",
-      "fall",
-      "price",
-      "quarterly",
-      "snap",
-      "targets",
-      "test"
-    ],
-    "ts": 1792594458.1614814
-  },
-  {
-    "id": "oilprice-article-45837",
-    "title": "EIA Says US Crude Inventories Sink Further",
-    "tokens": [
-      "crude",
-      "eia",
-      "further",
-      "inventories",
-      "sink"
-    ],
-    "ts": 1792594467.7929547
-  },
-  {
-    "id": "oilprice-news-45837",
-    "title": "Higher Oil Availability Pressures Middle East Crude Benchmarks",
-    "tokens": [
-      "availability",
-      "benchmarks",
-      "crude",
-      "east",
-      "higher",
-      "middle",
-      "oil",
-      "pressures"
-    ],
-    "ts": 1792594476.0661933
-  },
-  {
-    "id": "oilprice-article-45831",
-    "title": "Ukraine Welcomes Restored U.S. Intelligence Amid Russian Attacks",
-    "tokens": [
-      "attacks",
-      "intelligence",
-      "restored",
-      "russian",
-      "ukraine",
-      "welcomes"
-    ],
-    "ts": 1792594484.7883027
-  },
-  {
-    "id": "oilprice-news-45831",
-    "title": "Russia to Send First Diesel Tanker to U.S. on Thursday",
-    "tokens": [
-      "diesel",
-      "first",
-      "russia",
-      "send",
-      "tanker",
-      "thursday"
-    ],
-    "ts": 1792594492.8660626
-  },
-  {
-    "id": "b65f1b71-3cf0-446f-ba71-9fb6bca5015c",
-    "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-    "tokens": [
-      "centralized",
-      "crypto",
-      "exchanges",
-      "explicit",
-      "immunity",
-      "legacy",
-      "list",
-      "refuse",
-      "sec",
-      "tokens",
-      "why",
-      "without"
-    ],
-    "ts": 1792594501.052256
-  },
-  {
-    "id": "7dc35350-3df6-4e0a-83ae-c3375374c61e",
-    "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-    "tokens": [
-      "able",
-      "japanese",
-      "korea",
-      "may",
-      "pact",
-      "pay",
-      "sbi",
-      "shinhan",
-      "south",
-      "stablecoins",
-      "under",
-      "visitors",
-      "yen"
-    ],
-    "ts": 1792594509.387853
-  },
-  {
-    "id": "c074a787-1d94-4be3-9664-7d0db89f9679",
-    "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-    "tokens": [
-      "app",
-      "doge",
-      "dogecoin",
-      "everyday",
-      "give",
-      "more",
-      "push",
-      "teams",
-      "unite",
-      "uses",
-      "wallet"
-    ],
-    "ts": 1792594516.7873616
-  },
-  {
-    "id": "715fef4a-c2cd-4f08-917c-82589fd03aae",
-    "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-    "tokens": [
-      "bet",
-      "bitcoin",
-      "era",
-      "fades",
-      "grows",
-      "just",
-      "management",
-      "more",
-      "popular",
-      "price",
-      "risk"
-    ],
-    "ts": 1792594526.1066341
-  },
-  {
-    "id": "feea366e-35fe-47b0-89eb-1c94327f0fea",
-    "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-    "tokens": [
-      "act",
-      "against",
-      "ban",
-      "final",
-      "fresh",
-      "genius",
-      "occ",
-      "rewards",
-      "rule",
-      "stablecoin",
-      "start",
-      "weighing"
-    ],
-    "ts": 1792594534.7684696
-  },
-  {
-    "id": "f6e707ea-fef9-4d44-afaf-cc7b8a26f3ed",
-    "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
-    "tokens": [
-      "asian",
-      "crypto",
-      "date",
-      "extends",
-      "gain",
-      "rises",
-      "setting",
-      "stocks",
-      "tech",
-      "upgrade",
-      "zcash"
-    ],
-    "ts": 1792594543.2445517
-  },
-  {
-    "id": "d34e70c4-381f-4e45-9b95-8d904dac900f",
-    "title": "Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher",
-    "tokens": [
-      "000",
-      "bitcoin",
-      "higher",
-      "leads",
-      "live",
-      "markets",
-      "rises",
-      "spacex",
-      "updates"
-    ],
-    "ts": 1792594550.6440957
-  },
-  {
-    "id": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality",
-    "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
-    "tokens": [
-      "alpenglow",
-      "faster",
-      "finality",
-      "launches",
-      "mainnet",
-      "solana",
-      "targets"
-    ],
-    "ts": 1792594558.255835
-  },
-  {
-    "id": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks",
-    "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
-    "tokens": [
-      "big",
-      "bots",
-      "certik",
-      "crypto",
-      "emudhra",
-      "exposed",
-      "fixes",
-      "leave",
-      "may",
-      "tech",
-      "warns"
-    ],
-    "ts": 1792594566.3311281
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin",
-    "title": "5 alternatives to Ledger to store your Bitcoin",
-    "tokens": [
-      "alternatives",
-      "bitcoin",
-      "ledger",
-      "store",
-      "your"
-    ],
-    "ts": 1792594573.9890568
-  },
-  {
-    "id": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody",
-    "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-    "tokens": [
-      "act",
-      "custody",
-      "finalizes",
-      "genius",
-      "issuers",
-      "occ",
-      "rules",
-      "stablecoin"
-    ],
-    "ts": 1792594581.9156995
-  },
-  {
-    "id": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
-    "title": "Standard Chartered signs definitive deal to acquire Zodia Custody",
-    "tokens": [
-      "acquire",
-      "chartered",
-      "custody",
-      "deal",
-      "definitive",
-      "signs",
-      "standard",
-      "zodia"
-    ],
-    "ts": 1792594589.9833894
-  },
-  {
-    "id": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul",
-    "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
-    "tokens": [
-      "380m",
-      "fee",
-      "heads",
-      "major",
-      "overhaul",
-      "pancakeswap",
-      "tops",
-      "tvl",
-      "vote"
-    ],
-    "ts": 1792594598.0609374
-  },
-  {
-    "id": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access",
-    "title": "France proposes liability for crypto exchanges offering DeFi access",
-    "tokens": [
-      "access",
-      "crypto",
-      "defi",
-      "exchanges",
-      "france",
-      "liability",
-      "offering",
-      "proposes"
-    ],
-    "ts": 1792594606.626498
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode",
-    "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
-    "tokens": [
-      "bitcoin",
-      "btc",
-      "buyers",
-      "glassnode",
-      "halt",
-      "key",
-      "now",
-      "price",
-      "top",
-      "upside"
-    ],
-    "ts": 1792594614.1290023
-  },
-  {
-    "id": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin",
-    "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
-    "tokens": [
-      "case",
-      "japan",
-      "korea",
-      "make",
-      "sbi",
-      "shinhan",
-      "spending",
-      "stablecoins",
-      "test",
-      "tourist",
-      "yen"
-    ],
-    "ts": 1792594621.2374356
-  },
-  {
-    "id": "WP-MKTW-0005299141",
-    "title": "Medicare is a bargain. What America can’t afford is private health insurance.",
-    "tokens": [
-      "afford",
-      "america",
-      "bargain",
-      "can",
-      "health",
-      "insurance",
-      "medicare",
-      "private",
-      "what"
-    ],
-    "ts": 1792609644.9594488
-  },
-  {
-    "id": "WP-MKTW-0005299279",
-    "title": "Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day",
-    "tokens": [
-      "before",
-      "bubble",
-      "bursts",
-      "chance",
-      "day",
-      "polymarket",
-      "see",
-      "traders",
-      "year"
-    ],
-    "ts": 1792609653.7052186
-  },
-  {
-    "id": "WP-MKTW-0005297789",
-    "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-    "tokens": [
-      "about",
-      "cancer",
-      "data",
-      "lot",
-      "moderna",
-      "release",
-      "results",
-      "riding",
-      "trial",
-      "vaccine"
-    ],
-    "ts": 1792609662.6227171
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-teledyne-technologies-stock-slipping-today-93CH-4963831",
-    "title": "Why is Teledyne Technologies stock slipping today?",
-    "tokens": [
-      "slipping",
-      "stock",
-      "technologies",
-      "teledyne",
-      "today",
-      "why"
-    ],
-    "ts": 1792609670.3996396
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/ea-to-shutter-bioware-studio-cut-jobs-as-it-narrows-game-slate-4963824",
-    "title": "EA to shutter BioWare studio, cut jobs as it narrows game slate",
-    "tokens": [
-      "bioware",
-      "cut",
-      "game",
-      "jobs",
-      "narrows",
-      "shutter",
-      "slate",
-      "studio"
-    ],
-    "ts": 1792609678.816283
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-gains-as-spacex-super-micro-results-lift-ai-trade-4962357",
-    "title": "Nasdaq climbs over 1% as SpaceX, Super Micro boost AI sentiment",
-    "tokens": [
-      "boost",
-      "climbs",
-      "micro",
-      "nasdaq",
-      "sentiment",
-      "spacex",
-      "super"
-    ],
-    "ts": 1792609686.656567
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cms-energy-corp-stock-hits-52week-low-at-1959-usd-93CH-4963830",
-    "title": "Cms Energy Corp stock hits 52-week low at 19.59 USD",
-    "tokens": [
-      "cms",
-      "corp",
-      "energy",
-      "hits",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1792609694.8253345
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/brightstar-lottery-stock-hits-52week-low-at-927-usd-93CH-4963828",
-    "title": "Brightstar Lottery stock hits 52-week low at 9.27 USD",
-    "tokens": [
-      "brightstar",
-      "hits",
-      "lottery",
-      "low",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1792609703.1962504
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/chevron-stock-hits-alltime-high-at-22728-usd-93CH-4963826",
-    "title": "Chevron stock hits all-time high at 227.28 USD",
-    "tokens": [
-      "227",
-      "all",
-      "chevron",
-      "high",
-      "hits",
-      "stock",
-      "time",
-      "usd"
-    ],
-    "ts": 1792609711.5138316
-  },
-  {
     "id": "https://www.investing.com/news/company-news/nemak-q3-2026-slides-22-revenue-surge-masks-profit-pressure-93CH-4963823",
     "title": "Nemak Q3 2026 slides: 22% revenue surge masks profit pressure",
     "tokens": [
@@ -23838,5 +22888,982 @@
       "risks"
     ],
     "ts": 1793613736.6164343
+  },
+  {
+    "id": "WP-MKTW-0005322264",
+    "title": "How soon gas prices could go down now that oil is tumbling",
+    "tokens": [
+      "could",
+      "gas",
+      "how",
+      "now",
+      "oil",
+      "prices",
+      "soon",
+      "tumbling"
+    ],
+    "ts": 1793650351.5699198
+  },
+  {
+    "id": "WP-MKTW-0005322249",
+    "title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
+    "tokens": [
+      "election",
+      "here",
+      "isn",
+      "may",
+      "midterm",
+      "results",
+      "street",
+      "take",
+      "tally",
+      "wall",
+      "weeks",
+      "why",
+      "worried"
+    ],
+    "ts": 1793650358.9504218
+  },
+  {
+    "id": "WP-MKTW-0005321516",
+    "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
+    "tokens": [
+      "bond",
+      "defying",
+      "here",
+      "investing",
+      "market",
+      "playbook",
+      "rally",
+      "typical",
+      "why"
+    ],
+    "ts": 1793650366.2329223
+  },
+  {
+    "id": "WP-MKTW-0005320755",
+    "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+    "tokens": [
+      "000",
+      "father",
+      "gift",
+      "late",
+      "oblige",
+      "personality",
+      "repay",
+      "she",
+      "should",
+      "stepmother",
+      "type",
+      "wants",
+      "wedding"
+    ],
+    "ts": 1793650374.6177597
+  },
+  {
+    "id": "WP-MKTW-0005321137",
+    "title": "Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble",
+    "tokens": [
+      "bubble",
+      "com",
+      "deal",
+      "dot",
+      "flashbacks",
+      "giving",
+      "lumentum",
+      "marvell"
+    ],
+    "ts": 1793650381.8592098
+  },
+  {
+    "id": "WP-MKTW-0005321341",
+    "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
+    "tokens": [
+      "billion",
+      "fund",
+      "future",
+      "oracle",
+      "paying",
+      "price",
+      "stock",
+      "wants"
+    ],
+    "ts": 1793650388.7818632
+  },
+  {
+    "id": "WP-MKTW-0005321321",
+    "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+    "tokens": [
+      "000",
+      "80s",
+      "950",
+      "adviser",
+      "bizarre",
+      "conversions",
+      "iras",
+      "our",
+      "pushing",
+      "roth",
+      "seems",
+      "traditional",
+      "why"
+    ],
+    "ts": 1793650395.906932
+  },
+  {
+    "id": "WP-MKTW-0005321389",
+    "title": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
+    "tokens": [
+      "500",
+      "cut",
+      "dividend",
+      "exposure",
+      "investors",
+      "stocks",
+      "their",
+      "want",
+      "who"
+    ],
+    "ts": 1793650404.4436173
+  },
+  {
+    "id": "WP-MKTW-0005321200",
+    "title": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
+    "tokens": [
+      "analysts",
+      "got",
+      "last",
+      "say",
+      "selloff",
+      "stocks",
+      "swept",
+      "tech",
+      "these",
+      "unfairly",
+      "week"
+    ],
+    "ts": 1793650411.231798
+  },
+  {
+    "id": "WP-MKTW-0005321567",
+    "title": "Behind Anthropic’s 1,127% revenue surge — and the computing bill that erased its profit",
+    "tokens": [
+      "127",
+      "anthropic",
+      "behind",
+      "bill",
+      "computing",
+      "erased",
+      "profit",
+      "revenue",
+      "surge"
+    ],
+    "ts": 1793650418.7873127
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/upwork-launches-ondemand-hiring-feature-in-public-beta-93CH-4992643",
+    "title": "Upwork launches on-demand hiring feature in public beta",
+    "tokens": [
+      "beta",
+      "demand",
+      "feature",
+      "hiring",
+      "launches",
+      "public",
+      "upwork"
+    ],
+    "ts": 1793650425.4829865
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/crown-holdings-stock-reaches-52week-high-at-12297-93CH-4992642",
+    "title": "Crown Holdings stock reaches 52-week high at $122.97",
+    "tokens": [
+      "122",
+      "crown",
+      "high",
+      "holdings",
+      "reaches",
+      "stock",
+      "week"
+    ],
+    "ts": 1793650432.59039
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/garrett-motion-at-50th-annual-automotive-symposium-turbo-strategy-widens-93CH-4992640",
+    "title": "Garrett Motion at 50th Annual Automotive Symposium: turbo strategy widens",
+    "tokens": [
+      "50th",
+      "annual",
+      "automotive",
+      "garrett",
+      "motion",
+      "strategy",
+      "symposium",
+      "turbo",
+      "widens"
+    ],
+    "ts": 1793650439.488735
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/coinhub-funded-goes-live-crypto-prop-firm-offers-funded-trading-accounts-up-to-200k--30minute-tournaments-4992638",
+    "title": "Coinhub Funded Goes Live: Crypto Prop Firm Offers Funded Trading Accounts Up to $200K & 30-Minute Tournaments",
+    "tokens": [
+      "200k",
+      "accounts",
+      "coinhub",
+      "crypto",
+      "firm",
+      "funded",
+      "goes",
+      "live",
+      "minute",
+      "offers",
+      "prop",
+      "tournaments",
+      "trading"
+    ],
+    "ts": 1793650446.247491
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/usar-stock-hits-52week-low-at-887-93CH-4992636",
+    "title": "Usar stock hits 52-week low at $8.87",
+    "tokens": [
+      "hits",
+      "low",
+      "stock",
+      "usar",
+      "week"
+    ],
+    "ts": 1793650453.275992
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-senator-wants-full-accounting-of-air-force-one-white-house-flyover-4992574",
+    "title": "US senator wants ’full accounting’ of Air Force One White House flyover",
+    "tokens": [
+      "accounting",
+      "air",
+      "flyover",
+      "force",
+      "full",
+      "house",
+      "one",
+      "senator",
+      "wants",
+      "white"
+    ],
+    "ts": 1793650460.7558382
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/ast-spacemobile-stock-hits-52week-low-at-3672-usd-93CH-4992635",
+    "title": "Ast Spacemobile stock hits 52-week low at 36.72 USD",
+    "tokens": [
+      "ast",
+      "hits",
+      "low",
+      "spacemobile",
+      "stock",
+      "usd",
+      "week"
+    ],
+    "ts": 1793650467.3382003
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/mizuho-lowers-lumentum-stock-price-target-on-marvell-acquisition-93CH-4992633",
+    "title": "Mizuho lowers Lumentum stock price target on Marvell acquisition",
+    "tokens": [
+      "acquisition",
+      "lowers",
+      "lumentum",
+      "marvell",
+      "mizuho",
+      "price",
+      "stock",
+      "target"
+    ],
+    "ts": 1793650474.0035796
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/sherwinwilliams-amends-credit-agreement-to-add-75-million-in-borrowing-capacity-93CH-4992629",
+    "title": "Sherwin-Williams amends credit agreement to add $75 million in borrowing capacity",
+    "tokens": [
+      "add",
+      "agreement",
+      "amends",
+      "borrowing",
+      "capacity",
+      "credit",
+      "million",
+      "sherwin",
+      "williams"
+    ],
+    "ts": 1793650480.8610432
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789",
+    "title": "Nasdaq turns red as tech slumps again, offsetting rotation trade and slide in oil",
+    "tokens": [
+      "again",
+      "nasdaq",
+      "offsetting",
+      "oil",
+      "red",
+      "rotation",
+      "slide",
+      "slumps",
+      "tech",
+      "trade",
+      "turns"
+    ],
+    "ts": 1793650487.9753103
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/airia-named-a-market-shaper-as-of-october-2026-in-the-gartner-emerging-market-quadrant-for-ai-finops-tools-startup-vendors-1036701961",
+    "title": "Airia Named a Market Shaper as of October 2026 in the Gartner® Emerging Market Quadrant for AI FinOps Tools – Startup Vendors",
+    "tokens": [
+      "2026",
+      "airia",
+      "emerging",
+      "finops",
+      "gartner",
+      "market",
+      "named",
+      "october",
+      "quadrant",
+      "shaper",
+      "startup",
+      "tools",
+      "vendors"
+    ],
+    "ts": 1793650495.572868
+  },
+  {
+    "id": "https://seekingalpha.com/news/4662749-nexpoint-residential-trust-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "NexPoint Residential Trust Q3 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "earnings",
+      "nexpoint",
+      "preview",
+      "residential",
+      "trust"
+    ],
+    "ts": 1793650502.5073361
+  },
+  {
+    "id": "https://seekingalpha.com/news/4662748-cvg-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "CVG Q3 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "cvg",
+      "earnings",
+      "preview"
+    ],
+    "ts": 1793650509.4269168
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/dr-steve-muscoreil-scholarship-for-future-doctors-announces-winner-reveal-as-national-search-for-america-s-next-generation-of-physicians-concludes-1036701960",
+    "title": "Dr. Steve Muscoreil Scholarship for Future Doctors Announces Winner Reveal as National Search for America's Next Generation of Physicians Concludes",
+    "tokens": [
+      "america",
+      "announces",
+      "concludes",
+      "doctors",
+      "future",
+      "generation",
+      "muscoreil",
+      "national",
+      "next",
+      "physicians",
+      "reveal",
+      "scholarship",
+      "search",
+      "steve",
+      "winner"
+    ],
+    "ts": 1793650516.5312848
+  },
+  {
+    "id": "https://seekingalpha.com/news/4662747-beta-technologies-inc-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "BETA Technologies, Inc. Q3 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "beta",
+      "earnings",
+      "inc",
+      "preview",
+      "technologies"
+    ],
+    "ts": 1793650523.383871
+  },
+  {
+    "id": "https://seekingalpha.com/news/4662746-ishares-10-20-year-treasury-bond-etf-declares-monthly-distribution-of-03680?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "iShares 10-20 Year Treasury Bond ETF declares monthly distribution of $0.3680",
+    "tokens": [
+      "3680",
+      "bond",
+      "declares",
+      "distribution",
+      "etf",
+      "ishares",
+      "monthly",
+      "treasury",
+      "year"
+    ],
+    "ts": 1793650530.2441144
+  },
+  {
+    "id": "https://seekingalpha.com/news/4662742-ishares-tips-bond-etf-declares-monthly-distribution-of-01612?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "iShares TIPS Bond ETF declares monthly distribution of $0.1612",
+    "tokens": [
+      "1612",
+      "bond",
+      "declares",
+      "distribution",
+      "etf",
+      "ishares",
+      "monthly",
+      "tips"
+    ],
+    "ts": 1793650537.1318865
+  },
+  {
+    "id": "https://www.businessinsider.com/ruby-rails-creator-dhh-ai-cantankerous-coders-people-skills-2026-11",
+    "title": "Ruby on Rails creator has a warning for 'cantankerous' coders: Learn some people skills",
+    "tokens": [
+      "cantankerous",
+      "coders",
+      "creator",
+      "learn",
+      "people",
+      "rails",
+      "ruby",
+      "skills",
+      "some",
+      "warning"
+    ],
+    "ts": 1793650544.555149
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/family-hospice-care-celebrates-20-years-of-light-love-and-legacy-during-national-home-health-month-and-hospice-and-palliative-care-month-1036701959",
+    "title": "Family Hospice Care Celebrates 20 Years of Light, Love and Legacy During National Home Health Month and Hospice and Palliative Care Month",
+    "tokens": [
+      "care",
+      "celebrates",
+      "during",
+      "family",
+      "health",
+      "home",
+      "hospice",
+      "legacy",
+      "light",
+      "love",
+      "month",
+      "national",
+      "palliative",
+      "years"
+    ],
+    "ts": 1793650551.5552006
+  },
+  {
+    "id": "https://seekingalpha.com/news/4662724-amgen-q3-preview-what-to-expect?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Amgen Q3 preview: What to expect",
+    "tokens": [
+      "amgen",
+      "expect",
+      "preview",
+      "what"
+    ],
+    "ts": 1793650559.2247436
+  },
+  {
+    "id": "oilprice-article-45948",
+    "title": "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China",
+    "tokens": [
+      "blockade",
+      "cargo",
+      "china",
+      "delivers",
+      "iranian",
+      "past",
+      "sanctioned",
+      "slips",
+      "tanker"
+    ],
+    "ts": 1793650567.202226
+  },
+  {
+    "id": "oilprice-article-45944",
+    "title": "The 50-Year-Old Microplastics Warning That Has Come Back to Haunt the Industry",
+    "tokens": [
+      "back",
+      "come",
+      "haunt",
+      "industry",
+      "microplastics",
+      "old",
+      "warning",
+      "year"
+    ],
+    "ts": 1793650574.955002
+  },
+  {
+    "id": "oilprice-article-45946",
+    "title": "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
+    "tokens": [
+      "hormuz",
+      "hundreds",
+      "iranian",
+      "miles",
+      "rare",
+      "strait",
+      "strike",
+      "vessel"
+    ],
+    "ts": 1793650582.5279205
+  },
+  {
+    "id": "oilprice-news-45946",
+    "title": "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040",
+    "tokens": [
+      "2035",
+      "2040",
+      "between",
+      "demand",
+      "now",
+      "oil",
+      "peaking",
+      "sees",
+      "totalenergies"
+    ],
+    "ts": 1793650589.3749926
+  },
+  {
+    "id": "oilprice-article-45943",
+    "title": "Central Asia’s Power Grid Faces a Major Test as Winter Approaches",
+    "tokens": [
+      "approaches",
+      "asia",
+      "central",
+      "faces",
+      "grid",
+      "major",
+      "power",
+      "test",
+      "winter"
+    ],
+    "ts": 1793650596.4663312
+  },
+  {
+    "id": "oilprice-news-45948",
+    "title": "Oil Prices Plunge 7% as U.S. and Iran Signal Room for Diplomacy",
+    "tokens": [
+      "diplomacy",
+      "iran",
+      "oil",
+      "plunge",
+      "prices",
+      "room",
+      "signal"
+    ],
+    "ts": 1793650603.8444555
+  },
+  {
+    "id": "oilprice-news-45943",
+    "title": "U.S.-Backed Consortium Proposes $4.4 Billion LNG Terminal in Pakistan",
+    "tokens": [
+      "backed",
+      "billion",
+      "consortium",
+      "lng",
+      "pakistan",
+      "proposes",
+      "terminal"
+    ],
+    "ts": 1793650611.420889
+  },
+  {
+    "id": "oilprice-article-45945",
+    "title": "How Iran Just Broke the U.S. Oil Shield In Saudi Arabia Yet Again",
+    "tokens": [
+      "again",
+      "arabia",
+      "broke",
+      "how",
+      "iran",
+      "just",
+      "oil",
+      "saudi",
+      "shield",
+      "yet"
+    ],
+    "ts": 1793650619.5950642
+  },
+  {
+    "id": "oilprice-news-45944",
+    "title": "Ukraine Has Hit Three Russian Refineries Since Friday",
+    "tokens": [
+      "friday",
+      "hit",
+      "refineries",
+      "russian",
+      "since",
+      "three",
+      "ukraine"
+    ],
+    "ts": 1793650626.508488
+  },
+  {
+    "id": "oilprice-article-45942",
+    "title": "Brazil's Data Center Boom Faces a 14-GW Reality Check",
+    "tokens": [
+      "boom",
+      "brazil",
+      "center",
+      "check",
+      "data",
+      "faces",
+      "reality"
+    ],
+    "ts": 1793650633.4084635
+  },
+  {
+    "id": "9c41a35f-efc4-42e5-a5d7-60e3ee004583",
+    "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+    "tokens": [
+      "bitcoin",
+      "election",
+      "exchange",
+      "eye",
+      "outflows",
+      "point",
+      "post",
+      "rally",
+      "squeeze",
+      "supply",
+      "traders"
+    ],
+    "ts": 1793650640.949647
+  },
+  {
+    "id": "f93c4c5a-c41f-487c-a149-3c6c75562e3d",
+    "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
+    "tokens": [
+      "106",
+      "accounts",
+      "crypto",
+      "entity",
+      "exchange",
+      "losing",
+      "million",
+      "suspected",
+      "zachxbt"
+    ],
+    "ts": 1793650647.8781345
+  },
+  {
+    "id": "a23c4c7a-7c11-411e-afe4-c40bd2776ffc",
+    "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
+    "tokens": [
+      "agents",
+      "four",
+      "join",
+      "more",
+      "nyse",
+      "plans",
+      "shape",
+      "stock",
+      "take",
+      "tokenized",
+      "transfer"
+    ],
+    "ts": 1793650654.394892
+  },
+  {
+    "id": "ab4637cb-70ea-4c2d-84a3-4e954cea9669",
+    "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+    "tokens": [
+      "across",
+      "bitcoin",
+      "brazil",
+      "chains",
+      "drained",
+      "halts",
+      "mercado",
+      "million",
+      "withdrawals"
+    ],
+    "ts": 1793650661.6952612
+  },
+  {
+    "id": "4f9a47f5-52e6-4de9-88d4-a6eaa7ac3394",
+    "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+    "tokens": [
+      "against",
+      "costco",
+      "ice",
+      "join",
+      "nike",
+      "nvidia",
+      "okx",
+      "plans",
+      "pushback",
+      "stock",
+      "tokenized"
+    ],
+    "ts": 1793650669.0841997
+  },
+  {
+    "id": "19f65c54-c2e7-4aab-9a36-90d7c45014d0",
+    "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
+    "tokens": [
+      "ahead",
+      "anthropic",
+      "compute",
+      "costs",
+      "ipo",
+      "loss",
+      "operating",
+      "quarter",
+      "surge",
+      "swings",
+      "third"
+    ],
+    "ts": 1793650676.4993427
+  },
+  {
+    "id": "aa8beaa7-ff07-4992-a461-bef280ac8c74",
+    "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+    "tokens": [
+      "chartered",
+      "clients",
+      "corporate",
+      "debuts",
+      "deposits",
+      "hong",
+      "kong",
+      "standard",
+      "tokenized"
+    ],
+    "ts": 1793650683.437473
+  },
+  {
+    "id": "74d86070-1984-4c68-bd87-ff7a0f135f58",
+    "title": "Crypto's Washington playbook is working. Don't abandon it now.",
+    "tokens": [
+      "abandon",
+      "crypto",
+      "don",
+      "now",
+      "playbook",
+      "washington",
+      "working"
+    ],
+    "ts": 1793650690.1551685
+  },
+  {
+    "id": "137f0701-5c71-4d7b-8f8c-e4b92e2f2eff",
+    "title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
+    "tokens": [
+      "coinbase",
+      "downgraded",
+      "earnings",
+      "morgan",
+      "outlook",
+      "price",
+      "slashed",
+      "stanley",
+      "target",
+      "weak"
+    ],
+    "ts": 1793650697.214291
+  },
+  {
+    "id": "b18f0dfb-4a0e-48ee-8ffe-56663e736da5",
+    "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
+    "tokens": [
+      "350",
+      "deal",
+      "firm",
+      "million",
+      "plans",
+      "public",
+      "spac",
+      "tokenization",
+      "tzero"
+    ],
+    "ts": 1793650703.8066256
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally",
+    "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+    "tokens": [
+      "76k",
+      "below",
+      "bitcoin",
+      "btc",
+      "drop",
+      "fails",
+      "oil",
+      "price",
+      "rally",
+      "risks",
+      "slide",
+      "spark"
+    ],
+    "ts": 1793650711.2178328
+  },
+  {
+    "id": "https://cointelegraph.com/news/mercado-bitcoin-hack",
+    "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+    "tokens": [
+      "46m",
+      "bitcoin",
+      "hack",
+      "mercado",
+      "post",
+      "show",
+      "theft",
+      "transfers",
+      "wallets"
+    ],
+    "ts": 1793650718.3428288
+  },
+  {
+    "id": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval",
+    "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+    "tokens": [
+      "abu",
+      "animoca",
+      "brands",
+      "clears",
+      "dhabi",
+      "final",
+      "fund",
+      "hurdle",
+      "management"
+    ],
+    "ts": 1793650725.6455898
+  },
+  {
+    "id": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin",
+    "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+    "tokens": [
+      "bitcoin",
+      "buybacks",
+      "outlay",
+      "spends",
+      "strategy",
+      "strc",
+      "triple",
+      "weekly"
+    ],
+    "ts": 1793650732.3956213
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents",
+    "title": "AI agent disputes head to ‘Internet Court’ — and a jury of AI agents",
+    "tokens": [
+      "agent",
+      "agents",
+      "court",
+      "disputes",
+      "head",
+      "internet",
+      "jury"
+    ],
+    "ts": 1793650739.4550533
+  },
+  {
+    "id": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear",
+    "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+    "tokens": [
+      "binance",
+      "bitcoin",
+      "half",
+      "holdings",
+      "proof",
+      "releases",
+      "reserve",
+      "safu",
+      "taps"
+    ],
+    "ts": 1793650746.4845355
+  },
+  {
+    "id": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews",
+    "title": "FATF targets crypto hubs in review of money laundering controls",
+    "tokens": [
+      "controls",
+      "crypto",
+      "fatf",
+      "hubs",
+      "laundering",
+      "money",
+      "review",
+      "targets"
+    ],
+    "ts": 1793650753.2776186
+  },
+  {
+    "id": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis",
+    "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+    "tokens": [
+      "begin",
+      "binance",
+      "bitcoin",
+      "chainalysis",
+      "hackers",
+      "solana",
+      "stolen",
+      "swapping",
+      "tokens"
+    ],
+    "ts": 1793650761.011834
+  },
+  {
+    "id": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern",
+    "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
+    "tokens": [
+      "becoming",
+      "bitcoin",
+      "hacktober",
+      "obsolete",
+      "patterns",
+      "seasonal",
+      "uptober"
+    ],
+    "ts": 1793650768.0203855
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+    "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+    "tokens": [
+      "action",
+      "activity",
+      "address",
+      "against",
+      "american",
+      "among",
+      "announces",
+      "board",
+      "certain",
+      "company",
+      "detect",
+      "enforcement",
+      "express",
+      "failure",
+      "federal",
+      "firm",
+      "laundering",
+      "money",
+      "other",
+      "related",
+      "report",
+      "reserve",
+      "sufficiently",
+      "suspicious",
+      "things"
+    ],
+    "ts": 1793650775.1352935
   }
 ]

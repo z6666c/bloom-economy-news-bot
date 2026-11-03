@@ -1,813 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/earnings/cvb-financial-earnings-beat-by-003-revenue-topped-estimates-4964450",
-    "title": "CVB Financial earnings beat by $0.03, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "cvb",
-      "earnings",
-      "estimates",
-      "financial",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1792630135.3778486
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/great-southern-bancorp-earnings-missed-by-012-revenue-fell-short-of-estimates-4964449",
-    "title": "Great Southern Bancorp earnings missed by $0.12, revenue fell short of estimates",
-    "tokens": [
-      "bancorp",
-      "earnings",
-      "estimates",
-      "fell",
-      "great",
-      "missed",
-      "revenue",
-      "short",
-      "southern"
-    ],
-    "ts": 1792630142.1491394
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/chineselinked-hackers-compromise-connectwise-target-hundreds-in-global-attack-microsoft-says-4964230",
-    "title": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says",
-    "tokens": [
-      "attack",
-      "chinese",
-      "compromise",
-      "connectwise",
-      "global",
-      "hackers",
-      "hundreds",
-      "linked",
-      "microsoft",
-      "target"
-    ],
-    "ts": 1792630149.0363946
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australias-santos-trims-2026-output-forecast-on-alaska-oilfield-delays-4964437",
-    "title": "Australia’s Santos cuts 2026 volume forecast as Pikka disruptions offset strong quarter",
-    "tokens": [
-      "2026",
-      "australia",
-      "cuts",
-      "disruptions",
-      "forecast",
-      "offset",
-      "pikka",
-      "quarter",
-      "santos",
-      "strong",
-      "volume"
-    ],
-    "ts": 1792630158.1397572
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fda-accepts-unicycive-resubmission-for-kidney-drug-application-93CH-4964447",
-    "title": "FDA accepts Unicycive resubmission for kidney drug application",
-    "tokens": [
-      "accepts",
-      "application",
-      "drug",
-      "fda",
-      "kidney",
-      "resubmission",
-      "unicycive"
-    ],
-    "ts": 1792630165.0074244
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/nanalysis-scientific-at-ld-micro-event-growth-debt-cut-and-scale-93CH-4964446",
-    "title": "Nanalysis Scientific at ld micro event: growth, debt cut and scale",
-    "tokens": [
-      "cut",
-      "debt",
-      "event",
-      "growth",
-      "micro",
-      "nanalysis",
-      "scale",
-      "scientific"
-    ],
-    "ts": 1792630171.9688215
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/us-agriculture-dept-confirms-first-detection-of-new-world-screwworm-in-us-wildlife-4964342",
-    "title": "New World screwworm cases confirmed in cow in New Mexico, wildlife in Texas, officials say",
-    "tokens": [
-      "cases",
-      "confirmed",
-      "cow",
-      "mexico",
-      "officials",
-      "say",
-      "screwworm",
-      "texas",
-      "wildlife",
-      "world"
-    ],
-    "ts": 1792630179.2751915
-  },
-  {
-    "id": "oilprice-article-45841",
-    "title": "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
-    "tokens": [
-      "aluminium",
-      "copper",
-      "elevated",
-      "gives",
-      "premium",
-      "stays",
-      "war"
-    ],
-    "ts": 1792630187.4304035
-  },
-  {
-    "id": "oilprice-article-45840",
-    "title": "Big Oil Eyes Record Profits but Keeps Spending in Check",
-    "tokens": [
-      "big",
-      "check",
-      "eyes",
-      "keeps",
-      "oil",
-      "profits",
-      "record",
-      "spending"
-    ],
-    "ts": 1792630194.8690186
-  },
-  {
-    "id": "oilprice-news-45841",
-    "title": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
-    "tokens": [
-      "crude",
-      "exports",
-      "falls",
-      "five",
-      "high",
-      "hit",
-      "low",
-      "month",
-      "production",
-      "record",
-      "saudi"
-    ],
-    "ts": 1792630198.8811173
-  },
-  {
-    "id": "oilprice-news-45840",
-    "title": "GM to Add Hybrids as U.S. Gasoline Holds Above $4",
-    "tokens": [
-      "above",
-      "add",
-      "gasoline",
-      "holds",
-      "hybrids"
-    ],
-    "ts": 1792630201.9383838
-  },
-  {
-    "id": "WP-MKTW-0005298721",
-    "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?",
-    "tokens": [
-      "000",
-      "daughter",
-      "debt",
-      "father",
-      "happens",
-      "him",
-      "his",
-      "home",
-      "law",
-      "now",
-      "off",
-      "paid",
-      "sold",
-      "what"
-    ],
-    "ts": 1792648001.065857
-  },
-  {
-    "id": "WP-MKTW-0005300571",
-    "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
-    "tokens": [
-      "billionaire",
-      "california",
-      "fleeing",
-      "kept",
-      "maneuver",
-      "mark",
-      "tax",
-      "wonky",
-      "zuckerberg"
-    ],
-    "ts": 1792648010.7194276
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/alibaba-jd-shares-slide-on-more-chinese-regulatory-scrutiny-4964624",
-    "title": "Alibaba, JD shares slide on more Chinese regulatory scrutiny",
-    "tokens": [
-      "alibaba",
-      "chinese",
-      "more",
-      "regulatory",
-      "scrutiny",
-      "shares",
-      "slide"
-    ],
-    "ts": 1792648018.9747193
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-043-4964623",
-    "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.43%",
-    "tokens": [
-      "200",
-      "asx",
-      "australia",
-      "close",
-      "lower",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1792648027.586258
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/thales-lifts-sales-outlook-after-9month-revenue-and-orders-beat-estimates-4964622",
-    "title": "Thales lifts sales outlook after 9-month revenue and orders beat estimates",
-    "tokens": [
-      "beat",
-      "estimates",
-      "lifts",
-      "month",
-      "orders",
-      "outlook",
-      "revenue",
-      "sales",
-      "thales"
-    ],
-    "ts": 1792648037.1283197
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/japanese-cybersecurity-stocks-rally-as-php-flaw-spurs-demand-4964621",
-    "title": "Japanese cybersecurity stocks rally as PHP flaw spurs demand",
-    "tokens": [
-      "cybersecurity",
-      "demand",
-      "flaw",
-      "japanese",
-      "php",
-      "rally",
-      "spurs",
-      "stocks"
-    ],
-    "ts": 1792648046.3130043
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/roche-keeps-2026-outlook-as-q3-sales-rise-7-at-constant-currencies-4964620",
-    "title": "Roche keeps 2026 outlook as Q3 sales rise 7% at constant currencies",
-    "tokens": [
-      "2026",
-      "constant",
-      "currencies",
-      "keeps",
-      "outlook",
-      "rise",
-      "roche",
-      "sales"
-    ],
-    "ts": 1792648055.7786448
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/review-finds-kpmg-australia-mishandled-whistleblower-claims-pause-on-government-work-extended-4964609",
-    "title": "Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended",
-    "tokens": [
-      "australia",
-      "claims",
-      "extended",
-      "finds",
-      "government",
-      "kpmg",
-      "mishandled",
-      "pause",
-      "review",
-      "whistleblower",
-      "work"
-    ],
-    "ts": 1792648065.9789796
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nestle-third-quarter-organic-sales-beat-forecast-deconsolidates-russian-business-4964618",
-    "title": "Nestle third quarter organic sales beat forecast, deconsolidates Russian business",
-    "tokens": [
-      "beat",
-      "business",
-      "deconsolidates",
-      "forecast",
-      "nestle",
-      "organic",
-      "quarter",
-      "russian",
-      "sales",
-      "third"
-    ],
-    "ts": 1792648074.7663884
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-near-3wk-low-as-traders-eye-central-bank-meetings-4964617",
-    "title": "Asia FX mixed, dollar slips near 3-wk low as traders eye central bank meetings",
-    "tokens": [
-      "asia",
-      "bank",
-      "central",
-      "dollar",
-      "eye",
-      "low",
-      "meetings",
-      "mixed",
-      "near",
-      "slips",
-      "traders"
-    ],
-    "ts": 1792648083.4929006
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/nokia-reports-q3-revenue-growth-of-9-on-ai-demand-93CH-4964616",
-    "title": "Nokia reports Q3 revenue growth of 9% on AI demand",
-    "tokens": [
-      "demand",
-      "growth",
-      "nokia",
-      "reports",
-      "revenue"
-    ],
-    "ts": 1792648092.3267837
-  },
-  {
-    "id": "a9c94dd4-9dfd-4df7-a12e-8b431ac07078",
-    "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
-    "tokens": [
-      "2020",
-      "benefit",
-      "biggest",
-      "change",
-      "here",
-      "how",
-      "live",
-      "network",
-      "since",
-      "solana",
-      "users"
-    ],
-    "ts": 1792648101.5140486
-  },
-  {
-    "id": "921575eb-f92a-4d58-80ef-7a98bd503720",
-    "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-    "tokens": [
-      "attract",
-      "billion",
-      "bitcoin",
-      "days",
-      "enough",
-      "etfs",
-      "may",
-      "rally",
-      "steep"
-    ],
-    "ts": 1792648109.9236078
-  },
-  {
-    "id": "1741cbc6-5f57-43a6-afa0-10b4891a54d4",
-    "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-    "tokens": [
-      "bug",
-      "dipped",
-      "fix",
-      "hours",
-      "ledger",
-      "moved",
-      "november",
-      "support",
-      "two",
-      "validator",
-      "xrp"
-    ],
-    "ts": 1792648118.241805
-  },
-  {
-    "id": "025972e1-a400-49fd-9d68-02bc4ba4c5e0",
-    "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-    "tokens": [
-      "000",
-      "back",
-      "bitcoin",
-      "calm",
-      "fail",
-      "gives",
-      "meta",
-      "nerves",
-      "run",
-      "tesla"
-    ],
-    "ts": 1792648126.460008
-  },
-  {
-    "id": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all",
-    "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
-    "tokens": [
-      "all",
-      "bagholders",
-      "coming",
-      "crypto",
-      "games",
-      "meme",
-      "memecoins",
-      "move"
-    ],
-    "ts": 1792648134.8382463
-  },
-  {
-    "id": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix",
-    "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
-    "tokens": [
-      "admits",
-      "critical",
-      "delayed",
-      "failure",
-      "fix",
-      "foundation",
-      "php",
-      "security",
-      "structural"
-    ],
-    "ts": 1792648143.2264218
-  },
-  {
-    "id": "WP-MKTW-0005296186",
-    "title": "A top strategist has a warning for retail investors chasing the AI rally",
-    "tokens": [
-      "chasing",
-      "investors",
-      "rally",
-      "retail",
-      "strategist",
-      "top",
-      "warning"
-    ],
-    "ts": 1792667612.5476532
-  },
-  {
-    "id": "WP-MKTW-0005300831",
-    "title": "Why a JPMorgan strategist says the stock market’s tailspin might have run its course",
-    "tokens": [
-      "course",
-      "jpmorgan",
-      "market",
-      "might",
-      "run",
-      "stock",
-      "strategist",
-      "tailspin",
-      "why"
-    ],
-    "ts": 1792667622.190582
-  },
-  {
-    "id": "WP-MKTW-0005292440",
-    "title": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
-    "tokens": [
-      "denver",
-      "estate",
-      "football",
-      "homes",
-      "including",
-      "invested",
-      "legend",
-      "manning",
-      "millions",
-      "peyton",
-      "real"
-    ],
-    "ts": 1792667632.6866946
-  },
-  {
-    "id": "WP-MKTW-0005300862",
-    "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
-    "tokens": [
-      "about",
-      "bank",
-      "fed",
-      "global",
-      "jobs",
-      "replacing",
-      "slashing",
-      "thousands",
-      "what",
-      "why",
-      "workers"
-    ],
-    "ts": 1792667643.072205
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/pearson-shares-fall-3-as-profit-outlook-narrows-50-mln-restructuring-looms-4965197",
-    "title": "Pearson narrows profit guidance, reorganises into four units; shares slip",
-    "tokens": [
-      "four",
-      "guidance",
-      "narrows",
-      "pearson",
-      "profit",
-      "reorganises",
-      "shares",
-      "slip",
-      "units"
-    ],
-    "ts": 1792667653.5940876
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/blackstone-private-equity-strategies-fund-reports-545-million-in-unregistered-unit-sales-93CH-4965410",
-    "title": "Blackstone Private Equity Strategies Fund reports $545 million in unregistered unit sales",
-    "tokens": [
-      "545",
-      "blackstone",
-      "equity",
-      "fund",
-      "million",
-      "private",
-      "reports",
-      "sales",
-      "strategies",
-      "unit",
-      "unregistered"
-    ],
-    "ts": 1792667662.628204
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/wel-companies-deploys-descartes-tms-with-carrier1-integration-93CH-4965408",
-    "title": "WEL Companies deploys Descartes TMS with CARRIER1 integration",
-    "tokens": [
-      "carrier1",
-      "companies",
-      "deploys",
-      "descartes",
-      "integration",
-      "tms",
-      "wel"
-    ],
-    "ts": 1792667672.747616
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/teleflex-wins-fda-breakthrough-status-for-heart-scaffold-device-93CH-4965409",
-    "title": "Teleflex wins FDA breakthrough status for heart scaffold device",
-    "tokens": [
-      "breakthrough",
-      "device",
-      "fda",
-      "heart",
-      "scaffold",
-      "status",
-      "teleflex",
-      "wins"
-    ],
-    "ts": 1792667684.610867
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/lseg-q3-2026-slides-organic-growth-hits-88-guidance-raised-93CH-4965407",
-    "title": "LSEG Q3 2026 slides: organic growth hits 8.8%, guidance raised",
-    "tokens": [
-      "2026",
-      "growth",
-      "guidance",
-      "hits",
-      "lseg",
-      "organic",
-      "raised",
-      "slides"
-    ],
-    "ts": 1792667694.1801085
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/quest-diagnostics-earnings-beat-by-013-revenue-topped-estimates-4965394",
-    "title": "Quest Diagnostics earnings beat by $0.13, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "diagnostics",
-      "earnings",
-      "estimates",
-      "quest",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1792667705.3809023
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/imf-oecd-warn-ai-could-widen-richpoor-country-divide-4965374",
-    "title": "IMF, OECD warn AI could widen rich-poor country divide",
-    "tokens": [
-      "could",
-      "country",
-      "divide",
-      "imf",
-      "oecd",
-      "poor",
-      "rich",
-      "warn",
-      "widen"
-    ],
-    "ts": 1792667716.1485462
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/norways-wealth-fund-posts-30-billion-loss-in-third-quarter-4964992",
-    "title": "Norway wealth fund slightly cautious on equities, tech companies",
-    "tokens": [
-      "cautious",
-      "companies",
-      "equities",
-      "fund",
-      "norway",
-      "slightly",
-      "tech",
-      "wealth"
-    ],
-    "ts": 1792667729.0054016
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/uk-stocks-slip-as-banks-drag-earnings-in-focus-4965393",
-    "title": "UK stocks slip as banks drag; earnings in focus",
-    "tokens": [
-      "banks",
-      "drag",
-      "earnings",
-      "focus",
-      "slip",
-      "stocks"
-    ],
-    "ts": 1792667738.3778436
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/biontech-gilead-collaborate-on-triplenegative-breast-cancer-trial-93CH-4965392",
-    "title": "BioNTech, Gilead collaborate on triple-negative breast cancer trial",
-    "tokens": [
-      "biontech",
-      "breast",
-      "cancer",
-      "collaborate",
-      "gilead",
-      "negative",
-      "trial",
-      "triple"
-    ],
-    "ts": 1792667748.6050727
-  },
-  {
-    "id": "257cb190-e6c8-434d-85aa-978e3bc02910",
-    "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-    "tokens": [
-      "000",
-      "below",
-      "bitcoin",
-      "declines",
-      "defi",
-      "doubts",
-      "leading",
-      "return",
-      "slides",
-      "tokens"
-    ],
-    "ts": 1792667760.7215195
-  },
-  {
-    "id": "119c40a1-10e7-4adb-8c73-9ca3875a99f3",
-    "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-    "tokens": [
-      "110",
-      "about",
-      "billion",
-      "company",
-      "crypto",
-      "india",
-      "ipo",
-      "jio",
-      "price",
-      "reliance",
-      "telecoms",
-      "traders"
-    ],
-    "ts": 1792667770.3243122
-  },
-  {
-    "id": "60a7e30b-ae1a-4b9f-9484-93abb2e9a707",
-    "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
-    "tokens": [
-      "000",
-      "bitcoin",
-      "both",
-      "burns",
-      "live",
-      "round",
-      "sides",
-      "traders",
-      "trip",
-      "updates"
-    ],
-    "ts": 1792667780.4714508
-  },
-  {
-    "id": "aee8b62d-68ee-4541-b938-8213a95a103c",
-    "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
-    "tokens": [
-      "asian",
-      "bear",
-      "bitcoin",
-      "china",
-      "enters",
-      "market",
-      "retreats",
-      "stocks",
-      "tumble"
-    ],
-    "ts": 1792667790.268036
-  },
-  {
-    "id": "79074664-3fa4-41f1-a84a-42c3c8b1075d",
-    "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-    "tokens": [
-      "800",
-      "billion",
-      "btc",
-      "china",
-      "fraud",
-      "scheme",
-      "seeks",
-      "seize",
-      "tied"
-    ],
-    "ts": 1792667799.6867092
-  },
-  {
-    "id": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit",
-    "title": "CoinDCX pledges no user losses after $16M transfers draw scrutiny",
-    "tokens": [
-      "16m",
-      "coindcx",
-      "draw",
-      "losses",
-      "pledges",
-      "scrutiny",
-      "transfers",
-      "user"
-    ],
-    "ts": 1792667810.923633
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls",
-    "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-    "tokens": [
-      "82k",
-      "below",
-      "bitcoin",
-      "corrects",
-      "falls",
-      "kospi",
-      "results",
-      "tesla"
-    ],
-    "ts": 1792667821.5222929
-  },
-  {
-    "id": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum",
-    "title": "Starknet voters back research into life beyond Ethereum",
-    "tokens": [
-      "back",
-      "beyond",
-      "ethereum",
-      "life",
-      "research",
-      "starknet",
-      "voters"
-    ],
-    "ts": 1792667834.4015489
-  },
-  {
-    "id": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure",
-    "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
-    "tokens": [
-      "attempts",
-      "ceo",
-      "cloudflare",
-      "draws",
-      "exploit",
-      "flaw",
-      "millions",
-      "php",
-      "warns"
-    ],
-    "ts": 1792667847.0042841
-  },
-  {
     "id": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k",
     "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
     "tokens": [
@@ -23847,5 +23039,830 @@
       "which"
     ],
     "ts": 1793699712.1966934
+  },
+  {
+    "id": "WP-MKTW-0005324215",
+    "title": "U.S. jobs market perks up, but it’s still not a great time to get hired",
+    "tokens": [
+      "get",
+      "great",
+      "hired",
+      "jobs",
+      "market",
+      "perks",
+      "still",
+      "time"
+    ],
+    "ts": 1793727262.1782303
+  },
+  {
+    "id": "WP-MKTW-0005324366",
+    "title": "U.S. clears path for first regulated equity perpetual futures",
+    "tokens": [
+      "clears",
+      "equity",
+      "first",
+      "futures",
+      "path",
+      "perpetual",
+      "regulated"
+    ],
+    "ts": 1793727268.9093726
+  },
+  {
+    "id": "WP-MKTW-0005323976",
+    "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+    "tokens": [
+      "earnings",
+      "shopify",
+      "slides",
+      "stock",
+      "street",
+      "wall",
+      "what",
+      "worrying"
+    ],
+    "ts": 1793727276.5146556
+  },
+  {
+    "id": "WP-MKTW-0005323882",
+    "title": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
+    "tokens": [
+      "annuity",
+      "dozen",
+      "free",
+      "going",
+      "good",
+      "invited",
+      "meals",
+      "old",
+      "pitches",
+      "sales",
+      "should",
+      "stop",
+      "turn"
+    ],
+    "ts": 1793727283.5596473
+  },
+  {
+    "id": "WP-MKTW-0005324095",
+    "title": "The Texas governor’s race might be a make-or-break contest for a wobbling AI trade",
+    "tokens": [
+      "break",
+      "contest",
+      "governor",
+      "make",
+      "might",
+      "race",
+      "texas",
+      "trade",
+      "wobbling"
+    ],
+    "ts": 1793727291.7148883
+  },
+  {
+    "id": "WP-MKTW-0005323093",
+    "title": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees",
+    "tokens": [
+      "000",
+      "ask",
+      "boss",
+      "buyout",
+      "did",
+      "employees",
+      "microsoft",
+      "offers",
+      "questions",
+      "you",
+      "your"
+    ],
+    "ts": 1793727298.9438229
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/european-shares-slide-as-apple-margin-warning-trigger-global-tech-rout-4993704",
+    "title": "European shares falls as Apple margin warning triggers global tech rout",
+    "tokens": [
+      "apple",
+      "european",
+      "falls",
+      "global",
+      "margin",
+      "rout",
+      "shares",
+      "tech",
+      "triggers",
+      "warning"
+    ],
+    "ts": 1793727306.8898184
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-nexpoint-residential-trust-cuts-outlook-in-q3-2026-93CH-4996095",
+    "title": "Earnings call transcript: NexPoint Residential Trust cuts outlook in Q3 2026",
+    "tokens": [
+      "2026",
+      "call",
+      "cuts",
+      "earnings",
+      "nexpoint",
+      "outlook",
+      "residential",
+      "transcript",
+      "trust"
+    ],
+    "ts": 1793727314.687426
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/waters-q3-2026-slides-doubledigit-growth-raised-outlook-93CH-4996094",
+    "title": "Waters Q3 2026 slides: double-digit growth, raised outlook",
+    "tokens": [
+      "2026",
+      "digit",
+      "double",
+      "growth",
+      "outlook",
+      "raised",
+      "slides",
+      "waters"
+    ],
+    "ts": 1793727321.6975262
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-louisianapacific-tops-q3-2026-estimates-as-siding-shines-93CH-4996093",
+    "title": "Earnings call transcript: Louisiana-Pacific tops Q3 2026 estimates as siding shines",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "estimates",
+      "louisiana",
+      "pacific",
+      "shines",
+      "siding",
+      "tops",
+      "transcript"
+    ],
+    "ts": 1793727328.9981523
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-122-4996092",
+    "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 1.22%",
+    "tokens": [
+      "100",
+      "close",
+      "com",
+      "investing",
+      "kingdom",
+      "lower",
+      "stocks",
+      "trade",
+      "united"
+    ],
+    "ts": 1793727336.3827815
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-079-4996091",
+    "title": "Spain stocks lower at close of trade; IBEX 35 down 0.79%",
+    "tokens": [
+      "close",
+      "ibex",
+      "lower",
+      "spain",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1793727344.3632338
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-capital-southwest-posts-mixed-q2-2026-results-93CH-4996090",
+    "title": "Earnings call transcript: Capital Southwest posts mixed Q2 2026 results",
+    "tokens": [
+      "2026",
+      "call",
+      "capital",
+      "earnings",
+      "mixed",
+      "posts",
+      "results",
+      "southwest",
+      "transcript"
+    ],
+    "ts": 1793727351.92881
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/arista-networks-earnings-on-deck-can-growth-momentum-hold-93CH-4996089",
+    "title": "Arista Networks earnings on deck: Can growth momentum hold?",
+    "tokens": [
+      "arista",
+      "can",
+      "deck",
+      "earnings",
+      "growth",
+      "hold",
+      "momentum",
+      "networks"
+    ],
+    "ts": 1793727359.2950323
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-crescent-energy-tops-q3-2026-estimates-as-cash-flow-jumps-93CH-4996088",
+    "title": "Earnings call transcript: Crescent Energy tops Q3 2026 estimates as cash flow jumps",
+    "tokens": [
+      "2026",
+      "call",
+      "cash",
+      "crescent",
+      "earnings",
+      "energy",
+      "estimates",
+      "flow",
+      "jumps",
+      "tops",
+      "transcript"
+    ],
+    "ts": 1793727366.868153
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-031-4996087",
+    "title": "Portugal stocks lower at close of trade; PSI down 0.31%",
+    "tokens": [
+      "close",
+      "lower",
+      "portugal",
+      "psi",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1793727374.113636
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/prospect-capital-schedules-first-fiscal-quarter-earnings-release-and-conference-call-1036707726",
+    "title": "Prospect Capital Schedules First Fiscal Quarter Earnings Release and Conference Call",
+    "tokens": [
+      "call",
+      "capital",
+      "conference",
+      "earnings",
+      "first",
+      "fiscal",
+      "prospect",
+      "quarter",
+      "release",
+      "schedules"
+    ],
+    "ts": 1793727381.3065176
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/lendmark-financial-services-expands-across-the-southeast-and-midwest-opening-new-branches-in-florida-kansas-and-mississippi-1036707642",
+    "title": "Lendmark Financial Services Expands Across the Southeast and Midwest Opening New Branches in Florida, Kansas and Mississippi",
+    "tokens": [
+      "across",
+      "branches",
+      "expands",
+      "financial",
+      "florida",
+      "kansas",
+      "lendmark",
+      "midwest",
+      "mississippi",
+      "opening",
+      "services",
+      "southeast"
+    ],
+    "ts": 1793727388.431585
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/currencies/quantum-biopharma-nasdaq-qntm-draws-men-s-fitness-spotlight-as-unbuzzd-trial-shows-early-promise-1036707719",
+    "title": "Quantum BioPharma (NASDAQ: QNTM) Draws ‘Men’s Fitness’ Spotlight as Unbuzzd Trial Shows Early Promise",
+    "tokens": [
+      "biopharma",
+      "draws",
+      "early",
+      "fitness",
+      "men",
+      "nasdaq",
+      "promise",
+      "qntm",
+      "quantum",
+      "shows",
+      "spotlight",
+      "trial",
+      "unbuzzd"
+    ],
+    "ts": 1793727395.7028944
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/as-manhattan-office-leasing-hits-a-26-year-high-super-g-intelligence-urges-tenants-to-plan-it-before-buildouts-1036707625",
+    "title": "As Manhattan Office Leasing Hits a 26-Year High, Super-G Intelligence Urges Tenants to Plan IT Before Buildouts",
+    "tokens": [
+      "before",
+      "buildouts",
+      "high",
+      "hits",
+      "intelligence",
+      "leasing",
+      "manhattan",
+      "office",
+      "plan",
+      "super",
+      "tenants",
+      "urges",
+      "year"
+    ],
+    "ts": 1793727402.7918484
+  },
+  {
+    "id": "https://www.businessinsider.com/palantir-stock-falls-high-earnings-expectations-ai-trade-tech-pltr-2026-11",
+    "title": "Palantir is the latest victim of investors' sky-high earnings expectations",
+    "tokens": [
+      "earnings",
+      "expectations",
+      "high",
+      "investors",
+      "latest",
+      "palantir",
+      "sky",
+      "victim"
+    ],
+    "ts": 1793727409.7802627
+  },
+  {
+    "id": "https://seekingalpha.com/news/4663575-revvity-rises-full-year-guidance-boost?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Revvity rises on full-year guidance boost",
+    "tokens": [
+      "boost",
+      "full",
+      "guidance",
+      "revvity",
+      "rises",
+      "year"
+    ],
+    "ts": 1793727416.8577905
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/humanaut-health-announces-six-new-locations-expanding-its-footprint-as-a-national-leader-in-longevity-and-regenerative-medicine-1036707613",
+    "title": "Humanaut Health Announces Six New Locations, Expanding Its Footprint as a National Leader in Longevity and Regenerative Medicine",
+    "tokens": [
+      "announces",
+      "expanding",
+      "footprint",
+      "health",
+      "humanaut",
+      "leader",
+      "locations",
+      "longevity",
+      "medicine",
+      "national",
+      "regenerative",
+      "six"
+    ],
+    "ts": 1793727423.774473
+  },
+  {
+    "id": "https://www.businessinsider.com/october-multistrategy-hedge-fund-performance-citadel-2026-11",
+    "title": "Citadel gains in a bruising October that tripped up rival hedge funds",
+    "tokens": [
+      "bruising",
+      "citadel",
+      "funds",
+      "gains",
+      "hedge",
+      "october",
+      "rival",
+      "tripped"
+    ],
+    "ts": 1793727430.5802777
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/achieve-aba-therapy-group-launches-hybrid-aba-therapy-to-connect-home-and-school-support-1036707626",
+    "title": "Achieve ABA Therapy Group Launches Hybrid ABA Therapy to Connect Home and School Support",
+    "tokens": [
+      "aba",
+      "achieve",
+      "connect",
+      "group",
+      "home",
+      "hybrid",
+      "launches",
+      "school",
+      "support",
+      "therapy"
+    ],
+    "ts": 1793727437.5284903
+  },
+  {
+    "id": "https://seekingalpha.com/news/4663583-cencora-q4-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Cencora Q4 2026 Earnings Preview",
+    "tokens": [
+      "2026",
+      "cencora",
+      "earnings",
+      "preview"
+    ],
+    "ts": 1793727441.5441353
+  },
+  {
+    "id": "oilprice-news-45954",
+    "title": "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says",
+    "tokens": [
+      "flows",
+      "hormuz",
+      "levels",
+      "oil",
+      "pre",
+      "return",
+      "rystad",
+      "unlikely",
+      "war"
+    ],
+    "ts": 1793727445.3753178
+  },
+  {
+    "id": "oilprice-article-45954",
+    "title": "Drax Unveils £20 Billion AI Data Centre Plans at UK Biomass Plant",
+    "tokens": [
+      "billion",
+      "biomass",
+      "centre",
+      "data",
+      "drax",
+      "plans",
+      "plant",
+      "unveils"
+    ],
+    "ts": 1793727453.6542547
+  },
+  {
+    "id": "oilprice-article-45958",
+    "title": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling",
+    "tokens": [
+      "bombs",
+      "iran",
+      "oil",
+      "peace",
+      "prices",
+      "sends",
+      "talks",
+      "trump",
+      "tumbling"
+    ],
+    "ts": 1793727460.6345313
+  },
+  {
+    "id": "oilprice-news-45953",
+    "title": "IEA Warns Global Gas Crunch Could Last Well into 2027",
+    "tokens": [
+      "2027",
+      "could",
+      "crunch",
+      "gas",
+      "global",
+      "iea",
+      "last",
+      "warns",
+      "well"
+    ],
+    "ts": 1793727468.5911603
+  },
+  {
+    "id": "oilprice-news-45958",
+    "title": "Brent Flash Crashes $6 Before Rebounding Towards $104",
+    "tokens": [
+      "104",
+      "before",
+      "brent",
+      "crashes",
+      "flash",
+      "rebounding",
+      "towards"
+    ],
+    "ts": 1793727475.8412483
+  },
+  {
+    "id": "oilprice-article-45953",
+    "title": "U.S. Launches Secret Strikes on Iran Ahead of Midterm Elections",
+    "tokens": [
+      "ahead",
+      "elections",
+      "iran",
+      "launches",
+      "midterm",
+      "secret",
+      "strikes"
+    ],
+    "ts": 1793727482.779239
+  },
+  {
+    "id": "4d3b304a-b140-4ee2-909a-36c0f124e2c1",
+    "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+    "tokens": [
+      "against",
+      "financial",
+      "justin",
+      "liberty",
+      "linked",
+      "sanctions",
+      "seeks",
+      "sun",
+      "ties",
+      "trump",
+      "uae",
+      "world"
+    ],
+    "ts": 1793727490.7047026
+  },
+  {
+    "id": "86dbf72f-2013-46bc-9734-f1549fce83ca",
+    "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+    "tokens": [
+      "billion",
+      "binance",
+      "country",
+      "cybersecurity",
+      "czar",
+      "following",
+      "hack",
+      "korea",
+      "needs",
+      "president",
+      "south"
+    ],
+    "ts": 1793727497.9160721
+  },
+  {
+    "id": "86dfbdd5-01ea-4afc-ae21-835d44b6bc9c",
+    "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
+    "tokens": [
+      "amazon",
+      "deadline",
+      "ice",
+      "join",
+      "looms",
+      "objections",
+      "okx",
+      "spacex",
+      "stock",
+      "tesla",
+      "tokenized"
+    ],
+    "ts": 1793727505.323834
+  },
+  {
+    "id": "a5c4b707-c832-45ab-a3d3-bb79b7174949",
+    "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+    "tokens": [
+      "behind",
+      "earning",
+      "equity",
+      "fee",
+      "governance",
+      "group",
+      "management",
+      "offers",
+      "ousd",
+      "pool",
+      "sets",
+      "stablecoin"
+    ],
+    "ts": 1793727512.2636878
+  },
+  {
+    "id": "1d36a1ce-7c82-451e-bd96-02953ebee4d1",
+    "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
+    "tokens": [
+      "bringing",
+      "cftc",
+      "clears",
+      "crypto",
+      "futures",
+      "model",
+      "perpetual",
+      "stocks",
+      "street",
+      "trading",
+      "wall"
+    ],
+    "ts": 1793727519.710157
+  },
+  {
+    "id": "40b8808b-e002-4f79-94dd-e02b756960da",
+    "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
+    "tokens": [
+      "began",
+      "billion",
+      "binance",
+      "built",
+      "campaign",
+      "fake",
+      "hack",
+      "interview",
+      "job",
+      "many",
+      "months"
+    ],
+    "ts": 1793727526.553949
+  },
+  {
+    "id": "c00aced5-0d52-483b-812a-7b5595c09553",
+    "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
+    "tokens": [
+      "asks",
+      "banks",
+      "biggest",
+      "crypto",
+      "hack",
+      "hit",
+      "how",
+      "korea",
+      "major",
+      "south",
+      "them",
+      "would"
+    ],
+    "ts": 1793727533.5638041
+  },
+  {
+    "id": "c117a71c-07b0-4feb-be01-2bc734618cd2",
+    "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.3 billion heist",
+    "tokens": [
+      "billion",
+      "binance",
+      "driven",
+      "following",
+      "hacks",
+      "heist",
+      "historic",
+      "more",
+      "warns"
+    ],
+    "ts": 1793727540.7884274
+  },
+  {
+    "id": "77c3fa90-3633-40dc-9e9c-6d29099d2be6",
+    "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
+    "tokens": [
+      "asia",
+      "crypto",
+      "expand",
+      "million",
+      "raises",
+      "tech",
+      "trading"
+    ],
+    "ts": 1793727547.987264
+  },
+  {
+    "id": "a5694955-8240-4bde-9d4a-f4db26a7f878",
+    "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
+    "tokens": [
+      "billion",
+      "binance",
+      "ceo",
+      "hack",
+      "net",
+      "outflows",
+      "reach",
+      "record",
+      "recovery",
+      "underway"
+    ],
+    "ts": 1793727555.046919
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen",
+    "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+    "tokens": [
+      "10x",
+      "bitcoin",
+      "killed",
+      "markus",
+      "rallies",
+      "street",
+      "thielen",
+      "wall",
+      "wild"
+    ],
+    "ts": 1793727562.9993925
+  },
+  {
+    "id": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack",
+    "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+    "tokens": [
+      "binance",
+      "compromised",
+      "fake",
+      "hack",
+      "interviews",
+      "job",
+      "tool",
+      "traces"
+    ],
+    "ts": 1793727570.6027157
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock",
+    "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
+    "tokens": [
+      "76k",
+      "analysts",
+      "bitcoin",
+      "defends",
+      "gridlock",
+      "lows",
+      "political",
+      "price",
+      "pricing",
+      "see",
+      "stocks"
+    ],
+    "ts": 1793727576.9337578
+  },
+  {
+    "id": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day",
+    "title": "What’s at stake for crypto as the US votes in the 2026 midterms?",
+    "tokens": [
+      "2026",
+      "crypto",
+      "midterms",
+      "stake",
+      "votes",
+      "what"
+    ],
+    "ts": 1793727583.7896752
+  },
+  {
+    "id": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december",
+    "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+    "tokens": [
+      "bitcoin",
+      "december",
+      "ether",
+      "exchange",
+      "launch",
+      "moscow",
+      "trading",
+      "usdt"
+    ],
+    "ts": 1793727590.6922638
+  },
+  {
+    "id": "https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes",
+    "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
+    "tokens": [
+      "annual",
+      "cut",
+      "issuance",
+      "near",
+      "passes",
+      "proposal",
+      "sinks",
+      "token"
+    ],
+    "ts": 1793727597.8193202
+  },
+  {
+    "id": "https://cointelegraph.com/news/binances-daily-inflows-positive-18b-withdrawals",
+    "title": "Binance’s net inflows turn positive at $2.3B as withdrawals expand",
+    "tokens": [
+      "binance",
+      "expand",
+      "inflows",
+      "net",
+      "positive",
+      "turn",
+      "withdrawals"
+    ],
+    "ts": 1793727605.0382595
+  },
+  {
+    "id": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax",
+    "title": "France postpones 2027 budget vote, crypto exit-tax proposals scrapped",
+    "tokens": [
+      "2027",
+      "budget",
+      "crypto",
+      "exit",
+      "france",
+      "postpones",
+      "proposals",
+      "scrapped",
+      "tax",
+      "vote"
+    ],
+    "ts": 1793727611.821173
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater",
+    "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
+    "tokens": [
+      "bitcoin",
+      "buyers",
+      "loss",
+      "price",
+      "recent",
+      "support",
+      "threatens",
+      "underwater"
+    ],
+    "ts": 1793727618.4984038
   }
 ]

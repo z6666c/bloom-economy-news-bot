@@ -1,842 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/forex-news/canadian-dollar-strengthens-as-oil-prices-boc-rate-hike-bets-support-loonie-4967236",
-    "title": "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie",
-    "tokens": [
-      "bets",
-      "boc",
-      "canadian",
-      "dollar",
-      "hike",
-      "loonie",
-      "oil",
-      "prices",
-      "rate",
-      "strengthens",
-      "support"
-    ],
-    "ts": 1792698447.2034523
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/mullen-group-posts-record-quarterly-revenue-and-profit-on-internal-growth-4967234",
-    "title": "Mullen Group posts record quarterly revenue and profit on internal growth",
-    "tokens": [
-      "group",
-      "growth",
-      "internal",
-      "mullen",
-      "posts",
-      "profit",
-      "quarterly",
-      "record",
-      "revenue"
-    ],
-    "ts": 1792698456.2797859
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-farm-secretary-says-usda-reorganization-blocked-by-judge-is-full-bore-ahead-4967220",
-    "title": "US farm secretary says USDA reorganization blocked by judge is ’full bore ahead’",
-    "tokens": [
-      "ahead",
-      "blocked",
-      "bore",
-      "farm",
-      "full",
-      "judge",
-      "reorganization",
-      "secretary",
-      "usda"
-    ],
-    "ts": 1792698464.0433486
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/fnb-corporation-declares-013-quarterly-dividend-93CH-4967231",
-    "title": "FNB Corporation declares $0.13 quarterly dividend",
-    "tokens": [
-      "corporation",
-      "declares",
-      "dividend",
-      "fnb",
-      "quarterly"
-    ],
-    "ts": 1792698472.3384962
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498",
-    "title": "Nasdaq falls nearly 3% on elevated AI financing worries; oil gains and bonds rally",
-    "tokens": [
-      "bonds",
-      "elevated",
-      "falls",
-      "financing",
-      "gains",
-      "nasdaq",
-      "nearly",
-      "oil",
-      "rally",
-      "worries"
-    ],
-    "ts": 1792698480.7691398
-  },
-  {
-    "id": "oilprice-article-45848",
-    "title": "Strathcona Pitches 250,000-Bpd Oil Export Route to Asia",
-    "tokens": [
-      "000",
-      "250",
-      "asia",
-      "bpd",
-      "export",
-      "oil",
-      "pitches",
-      "route",
-      "strathcona"
-    ],
-    "ts": 1792698491.5967035
-  },
-  {
-    "id": "oilprice-article-45844",
-    "title": "EU’s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
-    "tokens": [
-      "biolng",
-      "cheaper",
-      "could",
-      "fuel",
-      "make",
-      "oil",
-      "proposed",
-      "shipping",
-      "subsidies"
-    ],
-    "ts": 1792698500.5720806
-  },
-  {
-    "id": "oilprice-news-45848",
-    "title": "Citi’s $60 Oil Call Meets $112 Brent",
-    "tokens": [
-      "112",
-      "brent",
-      "call",
-      "citi",
-      "meets",
-      "oil"
-    ],
-    "ts": 1792698508.9785962
-  },
-  {
-    "id": "oilprice-article-45845",
-    "title": "Tehran Turns to Central Asia for Trade as Conflict With U.S. Simmers",
-    "tokens": [
-      "asia",
-      "central",
-      "conflict",
-      "simmers",
-      "tehran",
-      "trade",
-      "turns"
-    ],
-    "ts": 1792698516.802063
-  },
-  {
-    "id": "oilprice-news-45847",
-    "title": "Norway's $2.3 Trillion Oil Fund Loses $30 Billion in Third Quarter",
-    "tokens": [
-      "billion",
-      "fund",
-      "loses",
-      "norway",
-      "oil",
-      "quarter",
-      "third",
-      "trillion"
-    ],
-    "ts": 1792698525.1116934
-  },
-  {
-    "id": "oilprice-article-45847",
-    "title": "Britain Finally Creates an Oil Wealth Fund—50 Years Too Late",
-    "tokens": [
-      "britain",
-      "creates",
-      "finally",
-      "fund",
-      "late",
-      "oil",
-      "too",
-      "wealth",
-      "years"
-    ],
-    "ts": 1792698533.2314117
-  },
-  {
-    "id": "oilprice-news-45845",
-    "title": "Ofgem Approves Deal to Keep UK Gas Import Capacity From Europe",
-    "tokens": [
-      "approves",
-      "capacity",
-      "deal",
-      "europe",
-      "gas",
-      "import",
-      "keep",
-      "ofgem"
-    ],
-    "ts": 1792698537.2404704
-  },
-  {
-    "id": "oilprice-news-45844",
-    "title": "European Natural Gas Prices Rise on Middle East Escalation",
-    "tokens": [
-      "east",
-      "escalation",
-      "european",
-      "gas",
-      "middle",
-      "natural",
-      "prices",
-      "rise"
-    ],
-    "ts": 1792698537.2489595
-  },
-  {
-    "id": "40594750-9fff-4c83-8d16-9de9338b5229",
-    "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-    "tokens": [
-      "a16z",
-      "bets",
-      "beyond",
-      "crypto",
-      "emerging",
-      "giant",
-      "latest",
-      "tech",
-      "widen"
-    ],
-    "ts": 1792698541.8800468
-  },
-  {
-    "id": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico",
-    "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
-    "tokens": [
-      "81k",
-      "buy",
-      "moves",
-      "pac",
-      "race",
-      "senate",
-      "texas",
-      "winklevoss"
-    ],
-    "ts": 1792698550.7004337
-  },
-  {
-    "id": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets",
-    "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
-    "tokens": [
-      "bring",
-      "crypto",
-      "deposits",
-      "markets",
-      "prediction",
-      "taps",
-      "underdog",
-      "zerohash"
-    ],
-    "ts": 1792698558.9042099
-  },
-  {
-    "id": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift",
-    "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-    "tokens": [
-      "bitcoin",
-      "competition",
-      "ease",
-      "fails",
-      "hashrate",
-      "high",
-      "hits",
-      "mining",
-      "month",
-      "seven",
-      "shift"
-    ],
-    "ts": 1792698567.2418344
-  },
-  {
-    "id": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure",
-    "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
-    "tokens": [
-      "arm",
-      "cenbank",
-      "coinbase",
-      "failures",
-      "fines",
-      "irish",
-      "oversight",
-      "safeguard"
-    ],
-    "ts": 1792698575.4992325
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower",
-    "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
-    "tokens": [
-      "basis",
-      "bitcoin",
-      "circles",
-      "comments",
-      "cost",
-      "etf",
-      "iran",
-      "lower",
-      "send",
-      "stocks",
-      "trump"
-    ],
-    "ts": 1792698583.2405546
-  },
-  {
-    "id": "WP-MKTW-0005302848",
-    "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
-    "tokens": [
-      "anxiety",
-      "coreweave",
-      "dire",
-      "off",
-      "premature",
-      "prognosis",
-      "set",
-      "street",
-      "wall",
-      "wave"
-    ],
-    "ts": 1792709941.3559515
-  },
-  {
-    "id": "WP-MKTW-0005301601",
-    "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
-    "tokens": [
-      "brutal",
-      "camps",
-      "case",
-      "fracturing",
-      "investors",
-      "leaving",
-      "market",
-      "stock",
-      "two",
-      "whiplash"
-    ],
-    "ts": 1792709948.1429303
-  },
-  {
-    "id": "WP-MKTW-0005302006",
-    "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
-    "tokens": [
-      "2023",
-      "banking",
-      "biggest",
-      "crisis",
-      "drop",
-      "going",
-      "here",
-      "log",
-      "since",
-      "treasury",
-      "what",
-      "yields"
-    ],
-    "ts": 1792709955.1076932
-  },
-  {
-    "id": "WP-MKTW-0005301524",
-    "title": "Americans are having fewer babies — and pampering them with luxury diapers",
-    "tokens": [
-      "americans",
-      "babies",
-      "diapers",
-      "fewer",
-      "having",
-      "luxury",
-      "pampering",
-      "them"
-    ],
-    "ts": 1792709963.122672
-  },
-  {
-    "id": "WP-MKTW-0005301885",
-    "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
-    "tokens": [
-      "approach",
-      "energy",
-      "highs",
-      "iran",
-      "oil",
-      "prices",
-      "rates",
-      "second",
-      "soaring",
-      "squeeze",
-      "tanker",
-      "trigger",
-      "war"
-    ],
-    "ts": 1792709970.0318463
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/fcc-grants-intel-waiver-for-foreignmade-robotic-devices-4967773",
-    "title": "FCC grants Intel waiver for foreign-made robotic devices",
-    "tokens": [
-      "devices",
-      "fcc",
-      "foreign",
-      "grants",
-      "intel",
-      "made",
-      "robotic",
-      "waiver"
-    ],
-    "ts": 1792709977.775093
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/columbia-banking-q3-2026-slides-411-margin-drives-returns-higher-93CH-4967772",
-    "title": "Columbia Banking Q3 2026 slides: 4.11% margin drives returns higher",
-    "tokens": [
-      "2026",
-      "banking",
-      "columbia",
-      "drives",
-      "higher",
-      "margin",
-      "returns",
-      "slides"
-    ],
-    "ts": 1792709984.6876147
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-newmont-beats-q3-2026-estimates-as-cash-flow-hits-record-93CH-4967771",
-    "title": "Earnings call transcript: Newmont beats Q3 2026 estimates as cash flow hits record",
-    "tokens": [
-      "2026",
-      "beats",
-      "call",
-      "cash",
-      "earnings",
-      "estimates",
-      "flow",
-      "hits",
-      "newmont",
-      "record",
-      "transcript"
-    ],
-    "ts": 1792709992.1107805
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/befra-q3-2026-slides-tupperware-boosts-revenue-43-margins-hold-93CH-4967766",
-    "title": "BeFra Q3 2026 slides: Tupperware boosts revenue 43%, margins hold",
-    "tokens": [
-      "2026",
-      "befra",
-      "boosts",
-      "hold",
-      "margins",
-      "revenue",
-      "slides",
-      "tupperware"
-    ],
-    "ts": 1792709998.754534
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/tredegar-director-william-gottwald-sells-267538-in-stock-93CH-4967765",
-    "title": "Tredegar director William Gottwald sells $267,538 in stock",
-    "tokens": [
-      "267",
-      "538",
-      "director",
-      "gottwald",
-      "sells",
-      "stock",
-      "tredegar",
-      "william"
-    ],
-    "ts": 1792710006.4540203
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/braze-cto-jonathan-hyman-sells-132m-in-company-stock-93CH-4967763",
-    "title": "Braze CTO Jonathan Hyman sells $13.2m in company stock",
-    "tokens": [
-      "braze",
-      "company",
-      "cto",
-      "hyman",
-      "jonathan",
-      "sells",
-      "stock"
-    ],
-    "ts": 1792710013.2010443
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/tredegar-director-james-gottwald-sells-267530-in-company-stock-93CH-4967762",
-    "title": "Tredegar director James Gottwald sells $267,530 in company stock",
-    "tokens": [
-      "267",
-      "530",
-      "company",
-      "director",
-      "gottwald",
-      "james",
-      "sells",
-      "stock",
-      "tredegar"
-    ],
-    "ts": 1792710020.421151
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/american-tower-director-clarke-acquires-63717-in-shares-93CH-4967761",
-    "title": "American Tower director Clarke acquires $63,717 in shares",
-    "tokens": [
-      "717",
-      "acquires",
-      "american",
-      "clarke",
-      "director",
-      "shares",
-      "tower"
-    ],
-    "ts": 1792710027.162431
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/exclusiveaustralian-agency-mulled-firing-kpmg-over-datahandling-rule-breach-documents-show-4967323",
-    "title": "Exclusive-Australian agency mulled firing KPMG over data-handling rule breach, documents show",
-    "tokens": [
-      "agency",
-      "australian",
-      "breach",
-      "data",
-      "documents",
-      "exclusive",
-      "firing",
-      "handling",
-      "kpmg",
-      "mulled",
-      "rule",
-      "show"
-    ],
-    "ts": 1792710034.6683683
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/grupo-mexico-to-press-ahead-with-major-us-copper-projects-after-output-dip-4967733",
-    "title": "Grupo Mexico to press ahead with major US copper projects after output dip",
-    "tokens": [
-      "ahead",
-      "copper",
-      "dip",
-      "grupo",
-      "major",
-      "mexico",
-      "output",
-      "press",
-      "projects"
-    ],
-    "ts": 1792710041.9714103
-  },
-  {
-    "id": "https://www.businessinsider.com/how-to-protect-information-php-issue-hackers-cybersecurity-2026-10",
-    "title": "Here's how to protect your information from the PHP flaw, according to cybersecurity pros",
-    "tokens": [
-      "according",
-      "cybersecurity",
-      "flaw",
-      "here",
-      "how",
-      "information",
-      "php",
-      "pros",
-      "protect",
-      "your"
-    ],
-    "ts": 1792710050.1249483
-  },
-  {
-    "id": "https://seekingalpha.com/news/4656315-cboe-markets-boosts-stock-buyback-program-by-550m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Cboe Markets boosts stock buyback program by $550M",
-    "tokens": [
-      "550m",
-      "boosts",
-      "buyback",
-      "cboe",
-      "markets",
-      "program",
-      "stock"
-    ],
-    "ts": 1792710057.6442578
-  },
-  {
-    "id": "https://seekingalpha.com/news/4656322-newmont-declares-0_26-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Newmont declares $0.26 dividend",
-    "tokens": [
-      "declares",
-      "dividend",
-      "newmont"
-    ],
-    "ts": 1792710064.7412107
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/tegna-and-houston-comets-announce-partnership-to-broadcast-games-locally-on-khou-and-ktbu-1036656961",
-    "title": "TEGNA and Houston Comets Announce Partnership to Broadcast Games Locally on KHOU and KTBU",
-    "tokens": [
-      "announce",
-      "broadcast",
-      "comets",
-      "games",
-      "houston",
-      "khou",
-      "ktbu",
-      "locally",
-      "partnership",
-      "tegna"
-    ],
-    "ts": 1792710072.8391938
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/intuitive-machines-appoints-dr-christopher-scolese-to-board-of-directors-1036656962",
-    "title": "Intuitive Machines Appoints Dr. Christopher Scolese to Board of Directors",
-    "tokens": [
-      "appoints",
-      "board",
-      "christopher",
-      "directors",
-      "intuitive",
-      "machines",
-      "scolese"
-    ],
-    "ts": 1792710081.9196167
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-topranked-law-firm-encourages-ast-spacemobile-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-asts-1036576213",
-    "title": "ROSEN, A TOP-RANKED LAW FIRM, Encourages AST SpaceMobile, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ASTS",
-    "tokens": [
-      "action",
-      "ast",
-      "asts",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "firm",
-      "important",
-      "inc",
-      "investors",
-      "law",
-      "ranked",
-      "rosen",
-      "secure",
-      "securities",
-      "spacemobile",
-      "top"
-    ],
-    "ts": 1792710090.7167091
-  },
-  {
-    "id": "https://seekingalpha.com/news/4656321-enablence-technologies-reports-q4-results?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Enablence Technologies reports Q4 results",
-    "tokens": [
-      "enablence",
-      "reports",
-      "results",
-      "technologies"
-    ],
-    "ts": 1792710098.0105226
-  },
-  {
-    "id": "https://seekingalpha.com/news/4656320-burke-and-herbert-financial-services-declares-0_55-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Burke & Herbert Financial Services declares $0.55 dividend",
-    "tokens": [
-      "burke",
-      "declares",
-      "dividend",
-      "financial",
-      "herbert",
-      "services"
-    ],
-    "ts": 1792710105.0159209
-  },
-  {
-    "id": "https://seekingalpha.com/news/4656318-crown-holdings-declares-0_35-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Crown Holdings declares $0.35 dividend",
-    "tokens": [
-      "crown",
-      "declares",
-      "dividend",
-      "holdings"
-    ],
-    "ts": 1792710113.0261192
-  },
-  {
-    "id": "https://seekingalpha.com/news/4656317-highwoods-properties-declares-0_50-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Highwoods Properties declares $0.50 dividend",
-    "tokens": [
-      "declares",
-      "dividend",
-      "highwoods",
-      "properties"
-    ],
-    "ts": 1792710119.949182
-  },
-  {
-    "id": "oilprice-article-45851",
-    "title": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks",
-    "tokens": [
-      "china",
-      "crude",
-      "draw",
-      "imports",
-      "need",
-      "oil",
-      "reduce",
-      "rising",
-      "stocks"
-    ],
-    "ts": 1792710127.7819753
-  },
-  {
-    "id": "oilprice-article-45849",
-    "title": "EU’s Arctic Strategy Excludes Oil and Gas",
-    "tokens": [
-      "arctic",
-      "excludes",
-      "gas",
-      "oil",
-      "strategy"
-    ],
-    "ts": 1792710135.9920816
-  },
-  {
-    "id": "oilprice-article-45846",
-    "title": "Electric Giants Say They Already Have the Tools to Fix the AI Power Crunch",
-    "tokens": [
-      "already",
-      "crunch",
-      "electric",
-      "fix",
-      "giants",
-      "power",
-      "say",
-      "they",
-      "tools"
-    ],
-    "ts": 1792710142.8945513
-  },
-  {
-    "id": "oilprice-article-45850",
-    "title": "Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain",
-    "tokens": [
-      "can",
-      "clean",
-      "demand",
-      "energy",
-      "even",
-      "fossil",
-      "fuel",
-      "rise",
-      "terrain",
-      "why",
-      "wins"
-    ],
-    "ts": 1792710150.264252
-  },
-  {
-    "id": "oilprice-news-45851",
-    "title": "Asia Needs $1 Trillion a Year to Secure Energy Supplies",
-    "tokens": [
-      "asia",
-      "energy",
-      "needs",
-      "secure",
-      "supplies",
-      "trillion",
-      "year"
-    ],
-    "ts": 1792710157.6415503
-  },
-  {
-    "id": "oilprice-news-45850",
-    "title": "Citi’s $60 Oil Call Meets $112 Brent",
-    "tokens": [
-      "112",
-      "brent",
-      "call",
-      "citi",
-      "meets",
-      "oil"
-    ],
-    "ts": 1792710161.6574733
-  },
-  {
-    "id": "oilprice-news-45849",
-    "title": "Norway's $2.3 Trillion Oil Fund Loses $30 Billion in Third Quarter",
-    "tokens": [
-      "billion",
-      "fund",
-      "loses",
-      "norway",
-      "oil",
-      "quarter",
-      "third",
-      "trillion"
-    ],
-    "ts": 1792710161.6732295
-  },
-  {
-    "id": "03a2b707-4827-4df8-b111-ec51f7d7b7dd",
-    "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-    "tokens": [
-      "democratic",
-      "firm",
-      "hines",
-      "investigator",
-      "looking",
-      "payments",
-      "senate",
-      "tether",
-      "top"
-    ],
-    "ts": 1792710165.3028228
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express",
-    "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
-    "tokens": [
-      "asia",
-      "ban",
-      "crypto",
-      "deepen",
-      "deepseek",
-      "express",
-      "swiss",
-      "ties"
-    ],
-    "ts": 1792710172.3827012
-  },
-  {
-    "id": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption",
-    "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-    "tokens": [
-      "circle",
-      "crypto",
-      "deals",
-      "liberty",
-      "shareholder",
-      "steve",
-      "sues",
-      "trump",
-      "witkoff",
-      "world"
-    ],
-    "ts": 1792710179.2710495
-  },
-  {
     "id": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues",
     "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
     "tokens": [
@@ -23837,5 +23000,857 @@
       "thorchain"
     ],
     "ts": 1793760368.4838135
+  },
+  {
+    "id": "WP-MKTW-0005326387",
+    "title": "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership",
+    "tokens": [
+      "alphabet",
+      "big",
+      "companies",
+      "diluting",
+      "issuing",
+      "like",
+      "meta",
+      "more",
+      "ownership",
+      "shares",
+      "stock",
+      "tech",
+      "watch",
+      "your"
+    ],
+    "ts": 1793814451.0955749
+  },
+  {
+    "id": "WP-MKTW-0005327076",
+    "title": "Hospital stocks rally while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.",
+    "tokens": [
+      "brace",
+      "democratic",
+      "drugmakers",
+      "healthcare",
+      "here",
+      "hospital",
+      "means",
+      "rally",
+      "scrutiny",
+      "stocks",
+      "wave",
+      "what",
+      "while"
+    ],
+    "ts": 1793814458.5980194
+  },
+  {
+    "id": "WP-MKTW-0005327016",
+    "title": "What Trump can achieve without approval from a Democratic-led Congress",
+    "tokens": [
+      "achieve",
+      "approval",
+      "can",
+      "congress",
+      "democratic",
+      "led",
+      "trump",
+      "what",
+      "without"
+    ],
+    "ts": 1793814465.9470975
+  },
+  {
+    "id": "WP-MKTW-0005326914",
+    "title": "The U.S. economy is barreling ahead — but there’s one big problem",
+    "tokens": [
+      "ahead",
+      "barreling",
+      "big",
+      "economy",
+      "one",
+      "problem",
+      "there"
+    ],
+    "ts": 1793814473.3828177
+  },
+  {
+    "id": "WP-MKTW-0005326563",
+    "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+    "tokens": [
+      "center",
+      "chip",
+      "core",
+      "data",
+      "election",
+      "micron",
+      "optimism",
+      "other",
+      "results",
+      "slip",
+      "stocks",
+      "strike"
+    ],
+    "ts": 1793814480.5452578
+  },
+  {
+    "id": "WP-MKTW-0005326390",
+    "title": "Datadog’s stock extends steep declines in the wake of earnings",
+    "tokens": [
+      "datadog",
+      "declines",
+      "earnings",
+      "extends",
+      "steep",
+      "stock",
+      "wake"
+    ],
+    "ts": 1793814488.076979
+  },
+  {
+    "id": "WP-MKTW-0005326586",
+    "title": "Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?",
+    "tokens": [
+      "can",
+      "change",
+      "partnership",
+      "qualcomm",
+      "rally",
+      "sat",
+      "semiconductor",
+      "spacex"
+    ],
+    "ts": 1793814495.6623518
+  },
+  {
+    "id": "WP-MKTW-0005324399",
+    "title": "Three things that explain what’s changing with Obamacare in 2027",
+    "tokens": [
+      "2027",
+      "changing",
+      "explain",
+      "obamacare",
+      "things",
+      "three",
+      "what"
+    ],
+    "ts": 1793814502.673399
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-ww-grainger-tops-q3-2026-estimates-lifts-outlook-93CH-5000819",
+    "title": "Earnings call transcript: W.W. Grainger tops Q3 2026 estimates, lifts outlook",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "estimates",
+      "grainger",
+      "lifts",
+      "outlook",
+      "tops",
+      "transcript"
+    ],
+    "ts": 1793814511.0347054
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/mckesson-stock-hits-alltime-high-at-10305-usd-93CH-5000818",
+    "title": "Mckesson stock hits all-time high at 1030.5 USD",
+    "tokens": [
+      "1030",
+      "all",
+      "high",
+      "hits",
+      "mckesson",
+      "stock",
+      "time",
+      "usd"
+    ],
+    "ts": 1793814518.1221395
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/biorad-earnings-up-next-can-diagnostics-firm-sustain-momentum-93CH-5000817",
+    "title": "Bio-Rad earnings up next: Can diagnostics firm sustain momentum?",
+    "tokens": [
+      "bio",
+      "can",
+      "diagnostics",
+      "earnings",
+      "firm",
+      "momentum",
+      "next",
+      "rad",
+      "sustain"
+    ],
+    "ts": 1793814526.2521286
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/cognex-earnings-on-deck-after-500m-robotics-vision-bet-93CH-5000816",
+    "title": "Cognex earnings on deck after $500M robotics vision bet",
+    "tokens": [
+      "500m",
+      "bet",
+      "cognex",
+      "deck",
+      "earnings",
+      "robotics",
+      "vision"
+    ],
+    "ts": 1793814535.417379
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-pacs-group-q3-2026-earnings-beat-growth-stock-jumps-93CH-5000815",
+    "title": "Earnings call transcript: PACS Group Q3 2026 earnings beat growth, stock jumps",
+    "tokens": [
+      "2026",
+      "beat",
+      "call",
+      "earnings",
+      "group",
+      "growth",
+      "jumps",
+      "pacs",
+      "stock",
+      "transcript"
+    ],
+    "ts": 1793814543.1877542
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/zenatechs-drone-as-a-service-signs-nearly-us1-million-in-solar-construction-survey-contracts-for-a-us-utility-with-potential-for-us25-million-in-followon-revenue-5000814",
+    "title": "ZenaTech’s Drone as a Service Signs Nearly US$1 Million in Solar Construction Survey Contracts for a U.S. Utility with Potential for US$2.5 Million in Follow-On Revenue",
+    "tokens": [
+      "construction",
+      "contracts",
+      "drone",
+      "follow",
+      "million",
+      "nearly",
+      "potential",
+      "revenue",
+      "service",
+      "signs",
+      "solar",
+      "survey",
+      "utility",
+      "zenatech"
+    ],
+    "ts": 1793814551.0132468
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/investors-brace-for-snap-earnings-as-ad-recovery-meets-ar-ambitions-93CH-5000812",
+    "title": "Investors brace for Snap earnings as ad recovery meets AR ambitions",
+    "tokens": [
+      "ambitions",
+      "brace",
+      "earnings",
+      "investors",
+      "meets",
+      "recovery",
+      "snap"
+    ],
+    "ts": 1793814558.211399
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/vistra-plunges-135-as-texas-election-rattles-ai-power-trade-keybanc-downgrades-5000811",
+    "title": "Vistra plunges 13.5% as Texas election rattles AI power trade, KeyBanc downgrades",
+    "tokens": [
+      "downgrades",
+      "election",
+      "keybanc",
+      "plunges",
+      "power",
+      "rattles",
+      "texas",
+      "trade",
+      "vistra"
+    ],
+    "ts": 1793814565.4027722
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/umh-properties-director-jeffrey-carus-purchases-7610-in-shares-93CH-5000810",
+    "title": "Umh Properties director Jeffrey Carus purchases $7,610 in shares",
+    "tokens": [
+      "610",
+      "carus",
+      "director",
+      "jeffrey",
+      "properties",
+      "purchases",
+      "shares",
+      "umh"
+    ],
+    "ts": 1793814572.9252384
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/epam-earnings-up-next-can-it-firm-reverse-growth-slowdown-93CH-5000809",
+    "title": "EPAM earnings up next: Can IT firm reverse growth slowdown?",
+    "tokens": [
+      "can",
+      "earnings",
+      "epam",
+      "firm",
+      "growth",
+      "next",
+      "reverse",
+      "slowdown"
+    ],
+    "ts": 1793814580.3971689
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/formable-builds-word-quality-contract-redlining-in-a-few-months-not-a-few-years-with-apryse-sdk-1036714432",
+    "title": "Formable Builds Word-Quality Contract Redlining in a Few Months, Not a Few Years with Apryse SDK",
+    "tokens": [
+      "apryse",
+      "builds",
+      "contract",
+      "few",
+      "formable",
+      "months",
+      "quality",
+      "redlining",
+      "sdk",
+      "word",
+      "years"
+    ],
+    "ts": 1793814588.471088
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement-1036714428",
+    "title": "TeraWulf Secures Google Credit Backstop for Project Financing in Support of $19 Billion Anthropic Lease; Executes Definitive Fluor EPC Agreement",
+    "tokens": [
+      "agreement",
+      "anthropic",
+      "backstop",
+      "billion",
+      "credit",
+      "definitive",
+      "epc",
+      "executes",
+      "financing",
+      "fluor",
+      "google",
+      "lease",
+      "project",
+      "secures",
+      "support",
+      "terawulf"
+    ],
+    "ts": 1793814596.2673297
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/why-the-next-edge-in-antibody-discovery-may-be-what-labs-remember-1036714430",
+    "title": "Why the Next Edge in Antibody Discovery May Be What Labs Remember",
+    "tokens": [
+      "antibody",
+      "discovery",
+      "edge",
+      "labs",
+      "may",
+      "next",
+      "remember",
+      "what",
+      "why"
+    ],
+    "ts": 1793814604.3347151
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/with-long-term-uranium-at-us-98-wyoming-s-in-situ-basins-draw-a-new-acquirer-1036714431",
+    "title": "With Long-Term Uranium at US$98, Wyoming’s In-Situ Basins Draw a New Acquirer",
+    "tokens": [
+      "acquirer",
+      "basins",
+      "draw",
+      "long",
+      "situ",
+      "term",
+      "uranium",
+      "wyoming"
+    ],
+    "ts": 1793814611.8883243
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/zenatech-s-drone-as-a-service-signs-nearly-us-1-million-in-solar-construction-survey-contracts-for-a-u-s-utility-with-potential-for-us-2-5-million-in-follow-on-revenue-1036714429",
+    "title": "ZenaTech’s Drone as a Service Signs Nearly US$1 Million in Solar Construction Survey Contracts for a U.S. Utility with Potential for US$2.5 Million in Follow-On Revenue",
+    "tokens": [
+      "construction",
+      "contracts",
+      "drone",
+      "follow",
+      "million",
+      "nearly",
+      "potential",
+      "revenue",
+      "service",
+      "signs",
+      "solar",
+      "survey",
+      "utility",
+      "zenatech"
+    ],
+    "ts": 1793814615.9044163
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/liangshan-china-an-ecological-invitation-across-mountains-and-seas-1036714425",
+    "title": "Liangshan, China: An Ecological Invitation Across Mountains and Seas",
+    "tokens": [
+      "across",
+      "china",
+      "ecological",
+      "invitation",
+      "liangshan",
+      "mountains",
+      "seas"
+    ],
+    "ts": 1793814619.5870764
+  },
+  {
+    "id": "https://seekingalpha.com/news/4664734-karat-packaging-declares-0_47-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Karat Packaging declares $0.47 dividend",
+    "tokens": [
+      "declares",
+      "dividend",
+      "karat",
+      "packaging"
+    ],
+    "ts": 1793814627.1968088
+  },
+  {
+    "id": "https://seekingalpha.com/news/4664732-melco-resorts-entertainment-reports-q3-results?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Melco Resorts & Entertainment reports Q3 results",
+    "tokens": [
+      "entertainment",
+      "melco",
+      "reports",
+      "resorts",
+      "results"
+    ],
+    "ts": 1793814634.959512
+  },
+  {
+    "id": "https://seekingalpha.com/news/4664731-burford-capital-gaap-eps-of-0_10-beats-by-0_01-revenue-of-146_9m-beats-by-37_77m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Burford Capital GAAP EPS of $0.10 beats by $0.01, revenue of $146.9M beats by $37.77M",
+    "tokens": [
+      "146",
+      "77m",
+      "beats",
+      "burford",
+      "capital",
+      "eps",
+      "gaap",
+      "revenue"
+    ],
+    "ts": 1793814642.8352256
+  },
+  {
+    "id": "https://seekingalpha.com/news/4664730-atlanta-braves-gaap-eps-of-015-misses-by-036-revenue-of-32463m-misses-by-1998m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Atlanta Braves GAAP EPS of $0.15 misses by $0.36, revenue of $324.63M misses by $19.98M",
+    "tokens": [
+      "324",
+      "63m",
+      "98m",
+      "atlanta",
+      "braves",
+      "eps",
+      "gaap",
+      "misses",
+      "revenue"
+    ],
+    "ts": 1793814650.849085
+  },
+  {
+    "id": "oilprice-news-45972",
+    "title": "Fire Shuts Equinor’s Visund Platform in Norwegian North Sea",
+    "tokens": [
+      "equinor",
+      "fire",
+      "north",
+      "norwegian",
+      "platform",
+      "sea",
+      "shuts",
+      "visund"
+    ],
+    "ts": 1793814659.2372518
+  },
+  {
+    "id": "oilprice-article-45967",
+    "title": "New Jersey Moves to Block Trump's Russian Diesel Imports",
+    "tokens": [
+      "block",
+      "diesel",
+      "imports",
+      "jersey",
+      "moves",
+      "russian",
+      "trump"
+    ],
+    "ts": 1793814667.0324655
+  },
+  {
+    "id": "oilprice-news-45967",
+    "title": "Dangote Breaks Ground on $2.5 Billion Namibia Fuel Hub for Southern Africa",
+    "tokens": [
+      "africa",
+      "billion",
+      "breaks",
+      "dangote",
+      "fuel",
+      "ground",
+      "hub",
+      "namibia",
+      "southern"
+    ],
+    "ts": 1793814674.6797092
+  },
+  {
+    "id": "oilprice-article-45972",
+    "title": "US Oil Inventories Fall Further As Demand Holds",
+    "tokens": [
+      "demand",
+      "fall",
+      "further",
+      "holds",
+      "inventories",
+      "oil"
+    ],
+    "ts": 1793814682.3036492
+  },
+  {
+    "id": "oilprice-news-45968",
+    "title": "Brent Falls to $100 as Traders Bet on a U.S.-Iran Deal",
+    "tokens": [
+      "100",
+      "bet",
+      "brent",
+      "deal",
+      "falls",
+      "iran",
+      "traders"
+    ],
+    "ts": 1793814690.7208786
+  },
+  {
+    "id": "oilprice-article-45966",
+    "title": "Russia and Ukraine Head to White House for Melania Trump-Led Talks",
+    "tokens": [
+      "head",
+      "house",
+      "led",
+      "melania",
+      "russia",
+      "talks",
+      "trump",
+      "ukraine",
+      "white"
+    ],
+    "ts": 1793814698.7043302
+  },
+  {
+    "id": "oilprice-news-45966",
+    "title": "UAE-Controlled Moeve Sells Algerian Upstream Assets",
+    "tokens": [
+      "algerian",
+      "assets",
+      "controlled",
+      "moeve",
+      "sells",
+      "uae",
+      "upstream"
+    ],
+    "ts": 1793814706.476271
+  },
+  {
+    "id": "oilprice-article-45968",
+    "title": "Democrats Win Texas Oil Regulator Seat for First Time Since 1990",
+    "tokens": [
+      "1990",
+      "democrats",
+      "first",
+      "oil",
+      "regulator",
+      "seat",
+      "since",
+      "texas",
+      "time",
+      "win"
+    ],
+    "ts": 1793814713.8957186
+  },
+  {
+    "id": "46516c14-434d-47db-9942-51c737e143b5",
+    "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
+    "tokens": [
+      "act",
+      "clarity",
+      "coffin",
+      "could",
+      "democratic",
+      "final",
+      "nail",
+      "sweep"
+    ],
+    "ts": 1793814721.6121237
+  },
+  {
+    "id": "4194728d-695e-403c-9efd-1a977b75b876",
+    "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+    "tokens": [
+      "boom",
+      "center",
+      "data",
+      "election",
+      "raises",
+      "rethinks",
+      "risks",
+      "street",
+      "texas",
+      "wall"
+    ],
+    "ts": 1793814729.3410313
+  },
+  {
+    "id": "2c914b7a-e327-41ed-8269-e64127f73c16",
+    "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
+    "tokens": [
+      "appetite",
+      "betting",
+      "crypto",
+      "ice",
+      "long",
+      "outcomes",
+      "quick",
+      "retail",
+      "short"
+    ],
+    "ts": 1793814736.1050963
+  },
+  {
+    "id": "55d7bc2a-0ea6-41dd-8a0e-c1030e130fcf",
+    "title": "The election changes Washington. The work on crypto continues",
+    "tokens": [
+      "changes",
+      "continues",
+      "crypto",
+      "election",
+      "washington",
+      "work"
+    ],
+    "ts": 1793814747.065818
+  },
+  {
+    "id": "4eba082a-56e9-4781-9057-9db210e8ce89",
+    "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+    "tokens": [
+      "big",
+      "bitcoin",
+      "blue",
+      "following",
+      "gains",
+      "landslide",
+      "live",
+      "overnight",
+      "plunge",
+      "post",
+      "reversing",
+      "stocks",
+      "updates",
+      "wave"
+    ],
+    "ts": 1793814755.3066485
+  },
+  {
+    "id": "63f46eb8-1380-4ed8-a854-1328d574059d",
+    "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+    "tokens": [
+      "asset",
+      "bond",
+      "brings",
+      "emerging",
+      "fund",
+      "global",
+      "manager",
+      "market",
+      "schroders",
+      "solana"
+    ],
+    "ts": 1793814762.9662635
+  },
+  {
+    "id": "7171037b-ebbc-4735-bd42-b7641790deaa",
+    "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+    "tokens": [
+      "binance",
+      "hackers",
+      "jumps",
+      "korean",
+      "laundering",
+      "loot",
+      "north",
+      "resume",
+      "rune",
+      "thorchain"
+    ],
+    "ts": 1793814770.4027536
+  },
+  {
+    "id": "731e54cb-eb0b-40c1-b737-7d89d70256d6",
+    "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
+    "tokens": [
+      "beats",
+      "circle",
+      "cuts",
+      "earnings",
+      "expectations",
+      "revenue",
+      "strong",
+      "workforce"
+    ],
+    "ts": 1793814777.8074555
+  },
+  {
+    "id": "8f770ea5-279d-497f-bb24-d92023fda087",
+    "title": "Here's how analysts are reacting to the new blue Congress",
+    "tokens": [
+      "analysts",
+      "blue",
+      "congress",
+      "here",
+      "how",
+      "reacting"
+    ],
+    "ts": 1793814785.3478181
+  },
+  {
+    "id": "be39ec69-fa98-4376-90fd-154e40a14da7",
+    "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+    "tokens": [
+      "bitcoin",
+      "defi",
+      "dip",
+      "gains",
+      "leads",
+      "midterm",
+      "rebounds"
+    ],
+    "ts": 1793814793.7154691
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result",
+    "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+    "tokens": [
+      "bitcoin",
+      "election",
+      "hits",
+      "midterm",
+      "rally",
+      "results",
+      "stocks"
+    ],
+    "ts": 1793814800.98789
+  },
+  {
+    "id": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k",
+    "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
+    "tokens": [
+      "100k",
+      "backs",
+      "crypto",
+      "custodied",
+      "euros",
+      "france",
+      "more",
+      "reporting",
+      "self",
+      "worth"
+    ],
+    "ts": 1793814808.634808
+  },
+  {
+    "id": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity",
+    "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
+    "tokens": [
+      "canton",
+      "commodity",
+      "digital",
+      "rises",
+      "sec",
+      "staff",
+      "view"
+    ],
+    "ts": 1793814816.236472
+  },
+  {
+    "id": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback",
+    "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+    "tokens": [
+      "binance",
+      "crypto",
+      "grayscale",
+      "hack",
+      "may",
+      "pandl",
+      "setback",
+      "temporary"
+    ],
+    "ts": 1793814823.2629883
+  },
+  {
+    "id": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure",
+    "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
+    "tokens": [
+      "264k",
+      "disclosure",
+      "justin",
+      "liberty",
+      "sanctions",
+      "seeks",
+      "sun",
+      "uae",
+      "world"
+    ],
+    "ts": 1793814831.316842
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off",
+    "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
+    "tokens": [
+      "16b",
+      "bitcoin",
+      "bitwise",
+      "calls",
+      "etfs",
+      "lose",
+      "selling",
+      "short",
+      "term"
+    ],
+    "ts": 1793814838.3395321
+  },
+  {
+    "id": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain",
+    "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
+    "tokens": [
+      "binance",
+      "funds",
+      "hackers",
+      "move",
+      "route",
+      "solana",
+      "stolen",
+      "thorchain",
+      "via"
+    ],
+    "ts": 1793814845.861571
+  },
+  {
+    "id": "https://cointelegraph.com/news/democrats-win-us-house-congress-control",
+    "title": "Democrats win US House to secure control of Congress in midterms",
+    "tokens": [
+      "congress",
+      "control",
+      "democrats",
+      "house",
+      "midterms",
+      "secure",
+      "win"
+    ],
+    "ts": 1793814852.9530547
   }
 ]

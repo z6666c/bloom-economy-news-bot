@@ -1,377 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/company-news/mogotes-metals-to-acquire-royalty-on-filo-sur-project-for-13m-93CH-4972162",
-    "title": "Mogotes Metals to acquire royalty on Filo Sur project for $13M",
-    "tokens": [
-      "13m",
-      "acquire",
-      "filo",
-      "metals",
-      "mogotes",
-      "project",
-      "royalty",
-      "sur"
-    ],
-    "ts": 1793014005.7660258
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/electra-battery-materials-updates-cobalt-refinery-construction-93CH-4972163",
-    "title": "Electra Battery Materials updates cobalt refinery construction",
-    "tokens": [
-      "battery",
-      "cobalt",
-      "construction",
-      "electra",
-      "materials",
-      "refinery",
-      "updates"
-    ],
-    "ts": 1793014014.4624033
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/prince-silver-names-patrick-toth-as-vp-of-exploration-93CH-4972164",
-    "title": "Prince Silver names Patrick Toth as VP of exploration",
-    "tokens": [
-      "exploration",
-      "names",
-      "patrick",
-      "prince",
-      "silver",
-      "toth"
-    ],
-    "ts": 1793014024.3636248
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/oruka-reports-positive-phase-2b-psoriasis-trial-results-93CH-4972157",
-    "title": "Oruka reports positive phase 2b psoriasis trial results",
-    "tokens": [
-      "oruka",
-      "phase",
-      "positive",
-      "psoriasis",
-      "reports",
-      "results",
-      "trial"
-    ],
-    "ts": 1793014033.0337682
-  },
-  {
-    "id": "oilprice-news-45875",
-    "title": "U.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz",
-    "tokens": [
-      "army",
-      "barrels",
-      "billion",
-      "helped",
-      "hormuz",
-      "oil"
-    ],
-    "ts": 1793014042.0412827
-  },
-  {
-    "id": "oilprice-news-45872",
-    "title": "Saudi Arabia Turns to Singapore for Oil Storage",
-    "tokens": [
-      "arabia",
-      "oil",
-      "saudi",
-      "singapore",
-      "storage",
-      "turns"
-    ],
-    "ts": 1793014050.721148
-  },
-  {
-    "id": "1931bdbd-a5f5-4d34-a453-a62a3611bf40",
-    "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-    "tokens": [
-      "000",
-      "bitcoin",
-      "decision",
-      "fed",
-      "holds",
-      "looms",
-      "near",
-      "oil",
-      "retreats"
-    ],
-    "ts": 1793014059.414278
-  },
-  {
-    "id": "767bf413-629a-4864-865d-0c12a6601246",
-    "title": "Live news: Brent Crude slides below $110 as Iran deal hopes grow and Brazil stocks sink",
-    "tokens": [
-      "110",
-      "below",
-      "brazil",
-      "brent",
-      "crude",
-      "deal",
-      "grow",
-      "hopes",
-      "iran",
-      "live",
-      "news",
-      "sink",
-      "slides",
-      "stocks"
-    ],
-    "ts": 1793014068.8794622
-  },
-  {
-    "id": "0e30b705-e367-4887-b0d3-4a2738aca0ac",
-    "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
-    "tokens": [
-      "back",
-      "big",
-      "calpers",
-      "deepen",
-      "jitters",
-      "neocloud",
-      "off",
-      "pulls",
-      "sell",
-      "tech"
-    ],
-    "ts": 1793014080.9182742
-  },
-  {
-    "id": "b62b3a51-97e3-44f0-b2c6-acf708ee2ccf",
-    "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
-    "tokens": [
-      "ahead",
-      "boj",
-      "coinbase",
-      "crypto",
-      "decisions",
-      "earnings",
-      "ecb",
-      "fed",
-      "interest",
-      "rate",
-      "week"
-    ],
-    "ts": 1793014089.2492096
-  },
-  {
-    "id": "943453b7-c269-491a-bb80-fdb8118becd6",
-    "title": "Over 11 million bitcoin has no known owner. Here's what it means",
-    "tokens": [
-      "bitcoin",
-      "here",
-      "known",
-      "means",
-      "million",
-      "owner",
-      "what"
-    ],
-    "ts": 1793014097.0481994
-  },
-  {
-    "id": "a17506fe-aff2-4130-8f14-31325e0b4a9b",
-    "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-    "tokens": [
-      "absorbs",
-      "crypto",
-      "exchange",
-      "failure",
-      "india",
-      "internal",
-      "largest",
-      "loss",
-      "million",
-      "process",
-      "retired",
-      "tied",
-      "wallet"
-    ],
-    "ts": 1793014105.8843014
-  },
-  {
-    "id": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week",
-    "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-    "tokens": [
-      "80k",
-      "bitcoin",
-      "btc",
-      "earnings",
-      "fomc",
-      "know",
-      "loss",
-      "price",
-      "risks",
-      "things",
-      "three",
-      "week"
-    ],
-    "ts": 1793014114.1667576
-  },
-  {
-    "id": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead",
-    "title": "Securitize’s tokenized stock value halves as Circle widens lead",
-    "tokens": [
-      "circle",
-      "halves",
-      "lead",
-      "securitize",
-      "stock",
-      "tokenized",
-      "value",
-      "widens"
-    ],
-    "ts": 1793014123.3386297
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million",
-    "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-    "tokens": [
-      "301m",
-      "bitcoin",
-      "break",
-      "comeback",
-      "etfs",
-      "outflow",
-      "streak",
-      "week"
-    ],
-    "ts": 1793014132.201408
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-    "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-    "tokens": [
-      "action",
-      "bancorporation",
-      "board",
-      "enforcement",
-      "federal",
-      "inc",
-      "issues",
-      "ontario",
-      "reserve"
-    ],
-    "ts": 1793014141.020308
-  },
-  {
-    "id": "WP-MKTW-0005307492",
-    "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-    "tokens": [
-      "adjustment",
-      "changing",
-      "cola",
-      "cost",
-      "could",
-      "curtains",
-      "living",
-      "mean",
-      "saving",
-      "security",
-      "social"
-    ],
-    "ts": 1793035952.5373867
-  },
-  {
-    "id": "WP-MKTW-0005307700",
-    "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-    "tokens": [
-      "70s",
-      "avoidable",
-      "episodes",
-      "financial",
-      "judge",
-      "judy",
-      "keep",
-      "making",
-      "mistakes",
-      "need",
-      "only",
-      "people",
-      "same",
-      "watch",
-      "why",
-      "you"
-    ],
-    "ts": 1793035963.171034
-  },
-  {
-    "id": "WP-MKTW-0005307071",
-    "title": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.",
-    "tokens": [
-      "bubble",
-      "here",
-      "how",
-      "matter",
-      "pops",
-      "prepare",
-      "strategist",
-      "when"
-    ],
-    "ts": 1793035974.1458755
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/can-jetblue-still-avoid-bankruptcy-analysis-says-yes-but-it-wont-be-easy-4973352",
-    "title": "Can JetBlue still avoid bankruptcy? Analysis says yes, but it won’t be easy",
-    "tokens": [
-      "analysis",
-      "avoid",
-      "bankruptcy",
-      "can",
-      "easy",
-      "jetblue",
-      "still",
-      "won"
-    ],
-    "ts": 1793035984.2617252
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/bnp-paribas-weighs-jumbo-16b-srt-as-european-issuance-accelerates--bloomberg-4973351",
-    "title": "BNP Paribas weighs jumbo €16B SRT as European issuance accelerates - Bloomberg",
-    "tokens": [
-      "16b",
-      "accelerates",
-      "bloomberg",
-      "bnp",
-      "european",
-      "issuance",
-      "jumbo",
-      "paribas",
-      "srt",
-      "weighs"
-    ],
-    "ts": 1793035993.8977442
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/audi-ceos-appearance-at-trump-rally-was-deeply-embarrassing-ig-metall-head-says-4971531",
-    "title": "Audi CEO faces backlash after joining Trump at midterm campaign rally",
-    "tokens": [
-      "audi",
-      "backlash",
-      "campaign",
-      "ceo",
-      "faces",
-      "joining",
-      "midterm",
-      "rally",
-      "trump"
-    ],
-    "ts": 1793036003.031297
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/innospec-inc-stock-hits-52week-high-at-10048-usd-93CH-4973350",
-    "title": "Innospec Inc stock hits 52-week high at 100.48 USD",
-    "tokens": [
-      "100",
-      "high",
-      "hits",
-      "inc",
-      "innospec",
-      "stock",
-      "usd",
-      "week"
-    ],
-    "ts": 1793036012.8791351
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-gold-miners-gain-oil-eases-4971574",
     "title": "FTSE 100 today: Stocks climb as oil slips on Iran de-escalation hopes",
     "tokens": [
@@ -23709,5 +23337,425 @@
       "you"
     ],
     "ts": 1794075196.7547069
+  },
+  {
+    "id": "WP-MKTW-0005335026",
+    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+    "tokens": [
+      "himself",
+      "professor",
+      "reinvented",
+      "retired",
+      "scholar",
+      "swift",
+      "taylor"
+    ],
+    "ts": 1794088233.99917
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/emerging-market-central-banks-turn-hawkish-as-inflation-pressures-mount-citi-says-5010059",
+    "title": "Emerging market central banks turn hawkish as inflation pressures mount, Citi says",
+    "tokens": [
+      "banks",
+      "central",
+      "citi",
+      "emerging",
+      "hawkish",
+      "inflation",
+      "market",
+      "mount",
+      "pressures",
+      "turn"
+    ],
+    "ts": 1794088243.4271355
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman-5010055",
+    "title": "US military says it disabled cargo vessel in Gulf of Oman",
+    "tokens": [
+      "cargo",
+      "disabled",
+      "gulf",
+      "military",
+      "oman",
+      "vessel"
+    ],
+    "ts": 1794088253.5549145
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010054",
+    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+    "tokens": [
+      "close",
+      "index",
+      "lower",
+      "moex",
+      "russia",
+      "stocks",
+      "trade",
+      "unchanged"
+    ],
+    "ts": 1794088262.5895104
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/equity-positioning-suffered-one-of-its-sharpest-weekly-drops-on-record-db-5010048",
+    "title": "Equity positioning suffered one of its sharpest weekly drops on record: DB",
+    "tokens": [
+      "drops",
+      "equity",
+      "one",
+      "positioning",
+      "record",
+      "sharpest",
+      "suffered",
+      "weekly"
+    ],
+    "ts": 1794088272.4053745
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044",
+    "title": "CoreWeave seeks truce with Texas Governor-elect Hinojosa",
+    "tokens": [
+      "coreweave",
+      "elect",
+      "governor",
+      "hinojosa",
+      "seeks",
+      "texas",
+      "truce"
+    ],
+    "ts": 1794088282.2089853
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/trump-signals-iran-peace-progress-as-hormuz-attacks-threaten-talks-5009635",
+    "title": "Trump cites progress in Iran talks as fresh explosions hit Qeshm Island",
+    "tokens": [
+      "cites",
+      "explosions",
+      "fresh",
+      "hit",
+      "iran",
+      "island",
+      "progress",
+      "qeshm",
+      "talks",
+      "trump"
+    ],
+    "ts": 1794088291.0293772
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/amex-chief-legal-officer-laureen-seeger-sells-229m-in-stock-93CH-5010032",
+    "title": "Amex chief legal officer Laureen Seeger sells $22.9M in stock",
+    "tokens": [
+      "amex",
+      "chief",
+      "laureen",
+      "legal",
+      "officer",
+      "seeger",
+      "sells",
+      "stock"
+    ],
+    "ts": 1794088299.6173952
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/century-casinos-earnings-missed-revenue-fell-short-of-estimates-5010028",
+    "title": "Century Casinos earnings missed, revenue fell short of estimates",
+    "tokens": [
+      "casinos",
+      "century",
+      "earnings",
+      "estimates",
+      "fell",
+      "missed",
+      "revenue",
+      "short"
+    ],
+    "ts": 1794088303.6295934
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/why-gold-is-losing-its-shine-goldman-breaks-down-the-recent-selloff-5010022",
+    "title": "Why gold is losing its shine: Goldman breaks down the recent sell-off",
+    "tokens": [
+      "breaks",
+      "gold",
+      "goldman",
+      "losing",
+      "off",
+      "recent",
+      "sell",
+      "shine",
+      "why"
+    ],
+    "ts": 1794088307.5843966
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/israels-eisenkot-gets-first-mandate-to-form-government-aiming-to-oust-netanyahu-5010017",
+    "title": "Israel’s Eisenkot gets first mandate to form government, aiming to oust Netanyahu",
+    "tokens": [
+      "aiming",
+      "eisenkot",
+      "first",
+      "form",
+      "gets",
+      "government",
+      "israel",
+      "mandate",
+      "netanyahu",
+      "oust"
+    ],
+    "ts": 1794088316.1899986
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/diginex-announces-extension-of-long-stop-date-for-proposed-acquisition-of-resulticks-and-convenes-extraordinary-general-meeting-1036732989",
+    "title": "Diginex Announces Extension of Long Stop Date for Proposed Acquisition of Resulticks and Convenes Extraordinary General Meeting",
+    "tokens": [
+      "acquisition",
+      "announces",
+      "convenes",
+      "date",
+      "diginex",
+      "extension",
+      "extraordinary",
+      "general",
+      "long",
+      "meeting",
+      "proposed",
+      "resulticks",
+      "stop"
+    ],
+    "ts": 1794088325.306901
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-ranked-and-leading-law-firm-encourages-netcapital-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-ncpl-1036637003",
+    "title": "ROSEN, A RANKED AND LEADING LAW FIRM, Encourages Netcapital Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - NCPL",
+    "tokens": [
+      "action",
+      "before",
+      "class",
+      "counsel",
+      "deadline",
+      "encourages",
+      "filed",
+      "firm",
+      "first",
+      "important",
+      "inc",
+      "investors",
+      "law",
+      "leading",
+      "ncpl",
+      "netcapital",
+      "ranked",
+      "rosen",
+      "secure",
+      "securities"
+    ],
+    "ts": 1794088329.3195662
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/qfin-deadline-rosen-trusted-investor-counsel-encourages-qfin-holdings-inc.-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-deadline-in-securities-class-action-qfin-1036732976",
+    "title": "QFIN DEADLINE: ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Qfin Holdings, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action - QFIN",
+    "tokens": [
+      "100k",
+      "action",
+      "before",
+      "class",
+      "counsel",
+      "deadline",
+      "encourages",
+      "excess",
+      "holdings",
+      "important",
+      "inc",
+      "investor",
+      "investors",
+      "losses",
+      "qfin",
+      "rosen",
+      "secure",
+      "securities",
+      "trusted"
+    ],
+    "ts": 1794088333.8243432
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-leading-investor-rights-law-firm-encourages-up-fintech-holding-limited-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-tigr-1036732961",
+    "title": "ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages UP Fintech Holding Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - TIGR",
+    "tokens": [
+      "action",
+      "before",
+      "class",
+      "counsel",
+      "deadline",
+      "encourages",
+      "filed",
+      "fintech",
+      "firm",
+      "first",
+      "holding",
+      "important",
+      "investor",
+      "investors",
+      "law",
+      "leading",
+      "limited",
+      "rights",
+      "rosen",
+      "secure",
+      "securities",
+      "tigr"
+    ],
+    "ts": 1794088337.8368297
+  },
+  {
+    "id": "https://www.businessinsider.com/elon-musk-elizabeth-holmes-similarities-alex-gibney-2026-11",
+    "title": "Elon Musk and Elizabeth Holmes share a 'superpower,' says documentary director Alex Gibney",
+    "tokens": [
+      "alex",
+      "director",
+      "documentary",
+      "elizabeth",
+      "elon",
+      "gibney",
+      "holmes",
+      "musk",
+      "share",
+      "superpower"
+    ],
+    "ts": 1794088342.901125
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-leading-law-firm-encourages-beneficient-investors-to-inquire-about-securities-class-action-investigation-benf-1036732948",
+    "title": "ROSEN, A LEADING LAW FIRM, Encourages Beneficient Investors to Inquire About Securities Class Action Investigation - BENF",
+    "tokens": [
+      "about",
+      "action",
+      "beneficient",
+      "benf",
+      "class",
+      "encourages",
+      "firm",
+      "inquire",
+      "investigation",
+      "investors",
+      "law",
+      "leading",
+      "rosen",
+      "securities"
+    ],
+    "ts": 1794088351.2826087
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/fusion-power-global-capital-branded-streaming-and-neurology-breakthroughs-new-to-the-street-show-779-premieres-tonight-on-bloomberg-television-1036732945",
+    "title": "Fusion Power, Global Capital, Branded Streaming and Neurology Breakthroughs: New to The Street Show #779 Premieres Tonight on Bloomberg Television",
+    "tokens": [
+      "779",
+      "bloomberg",
+      "branded",
+      "breakthroughs",
+      "capital",
+      "fusion",
+      "global",
+      "neurology",
+      "power",
+      "premieres",
+      "show",
+      "streaming",
+      "street",
+      "television",
+      "tonight"
+    ],
+    "ts": 1794088361.3144727
+  },
+  {
+    "id": "https://seekingalpha.com/news/4668540-real-estate-stocks-gain-as-the-blue-wave-sends-treasury-yields-lower?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Real estate stocks gain as the Blue Wave sends Treasury yields lower",
+    "tokens": [
+      "blue",
+      "estate",
+      "gain",
+      "lower",
+      "real",
+      "sends",
+      "stocks",
+      "treasury",
+      "wave",
+      "yields"
+    ],
+    "ts": 1794088370.929777
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/currencies/slop-cash-from-elizaos-creator-shaw-walters-opens-public-bidding-on-umia-after-passing-its-400k-minimum-1036732946",
+    "title": "Slop Cash, From elizaOS Creator Shaw Walters, Opens Public Bidding on Umia After Passing Its $400K Minimum",
+    "tokens": [
+      "400k",
+      "bidding",
+      "cash",
+      "creator",
+      "elizaos",
+      "minimum",
+      "opens",
+      "passing",
+      "public",
+      "shaw",
+      "slop",
+      "umia",
+      "walters"
+    ],
+    "ts": 1794088374.9422083
+  },
+  {
+    "id": "https://seekingalpha.com/news/4667797-earnings-scoreboard-86-of-reporting-firms-beat-eps-estimates-78-post-yy-earnings-growth?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Earnings Scoreboard: 86% of reporting firms beat EPS estimates, 78% post Y/Y earnings growth",
+    "tokens": [
+      "beat",
+      "earnings",
+      "eps",
+      "estimates",
+      "firms",
+      "growth",
+      "post",
+      "reporting",
+      "scoreboard"
+    ],
+    "ts": 1794088379.145607
+  },
+  {
+    "id": "oilprice-article-45998",
+    "title": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
+    "tokens": [
+      "billions",
+      "egypt",
+      "eyes",
+      "gas",
+      "investment",
+      "oil",
+      "production",
+      "revive"
+    ],
+    "ts": 1794088388.822842
+  },
+  {
+    "id": "89ed2b5b-6c87-4b4b-ada6-ece119f79759",
+    "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+    "tokens": [
+      "accounts",
+      "before",
+      "binance",
+      "closing",
+      "countries",
+      "crypto",
+      "end",
+      "european",
+      "fees",
+      "kick",
+      "pull",
+      "some",
+      "told",
+      "users",
+      "year"
+    ],
+    "ts": 1794088397.464912
   }
 ]

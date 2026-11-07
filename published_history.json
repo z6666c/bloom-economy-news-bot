@@ -1,289 +1,5 @@
 [
   {
-    "id": "27f9f1cb-00fe-4ac3-9060-faadbe47a6ee",
-    "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-    "tokens": [
-      "billion",
-      "borrows",
-      "chips",
-      "elon",
-      "issues",
-      "musk",
-      "neoclouds",
-      "spacex",
-      "warning"
-    ],
-    "ts": 1792992475.5262377
-  },
-  {
-    "id": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death",
-    "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-    "tokens": [
-      "200",
-      "death",
-      "face",
-      "guppy",
-      "level",
-      "musk",
-      "neoclouds",
-      "warns"
-    ],
-    "ts": 1792992483.9316483
-  },
-  {
-    "id": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
-    "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-    "tokens": [
-      "company",
-      "enterprise",
-      "hong",
-      "kong",
-      "listed",
-      "names",
-      "nasdaq",
-      "solana",
-      "strategic"
-    ],
-    "ts": 1792992490.689595
-  },
-  {
-    "id": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
-    "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
-    "tokens": [
-      "addresses",
-      "breach",
-      "buyers",
-      "exposed",
-      "hardware",
-      "keystone",
-      "wallet",
-      "website"
-    ],
-    "ts": 1792992497.9884703
-  },
-  {
-    "id": "WP-MKTW-0005306530",
-    "title": "Verizon’s stock rises as subscriber surge impresses Wall Street",
-    "tokens": [
-      "impresses",
-      "rises",
-      "stock",
-      "street",
-      "subscriber",
-      "surge",
-      "verizon",
-      "wall"
-    ],
-    "ts": 1793013872.9036944
-  },
-  {
-    "id": "WP-MKTW-0005306839",
-    "title": "These four shocks could hand investors an unexpected buying window, strategists say",
-    "tokens": [
-      "buying",
-      "could",
-      "four",
-      "hand",
-      "investors",
-      "say",
-      "shocks",
-      "strategists",
-      "these",
-      "unexpected",
-      "window"
-    ],
-    "ts": 1793013881.2993908
-  },
-  {
-    "id": "WP-MKTW-0005306784",
-    "title": "The Kospi index is the leading indicator for the global AI trade — and Goldman just slashed its forecast by 25%",
-    "tokens": [
-      "forecast",
-      "global",
-      "goldman",
-      "index",
-      "indicator",
-      "just",
-      "kospi",
-      "leading",
-      "slashed",
-      "trade"
-    ],
-    "ts": 1793013890.732353
-  },
-  {
-    "id": "WP-MKTW-0005306475",
-    "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
-    "tokens": [
-      "000",
-      "million",
-      "only",
-      "retirement",
-      "saved",
-      "shocked",
-      "wife",
-      "wrong"
-    ],
-    "ts": 1793013899.264443
-  },
-  {
-    "id": "WP-MKTW-0005306717",
-    "title": "Cheesecake Factory was just the subject of unflattering headlines. It’s actually one of the hottest stocks around.",
-    "tokens": [
-      "actually",
-      "around",
-      "cheesecake",
-      "factory",
-      "headlines",
-      "hottest",
-      "just",
-      "one",
-      "stocks",
-      "subject",
-      "unflattering"
-    ],
-    "ts": 1793013908.1240282
-  },
-  {
-    "id": "WP-MKTW-0005304517",
-    "title": "Tennis star Taylor Fritz is selling his condo for $860,000—with sweeping views of Miami",
-    "tokens": [
-      "000",
-      "860",
-      "condo",
-      "fritz",
-      "his",
-      "miami",
-      "selling",
-      "star",
-      "sweeping",
-      "taylor",
-      "tennis",
-      "views"
-    ],
-    "ts": 1793013918.9559913
-  },
-  {
-    "id": "WP-MKTW-0005306649",
-    "title": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley",
-    "tokens": [
-      "could",
-      "current",
-      "levels",
-      "lower",
-      "morgan",
-      "much",
-      "semiconductor",
-      "stanley",
-      "stocks",
-      "support"
-    ],
-    "ts": 1793013930.6257093
-  },
-  {
-    "id": "WP-MKTW-0005304943",
-    "title": "Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 million Puerto Rico home",
-    "tokens": [
-      "acres",
-      "buys",
-      "cuts",
-      "home",
-      "million",
-      "perry",
-      "price",
-      "property",
-      "puerto",
-      "rico",
-      "tyler",
-      "wyoming"
-    ],
-    "ts": 1793013941.617428
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/meta-launches-35-billion-stock-offering-to-fund-ai-expansion-4972169",
-    "title": "Meta launches $35 billion stock offering to fund AI expansion",
-    "tokens": [
-      "billion",
-      "expansion",
-      "fund",
-      "launches",
-      "meta",
-      "offering",
-      "stock"
-    ],
-    "ts": 1793013951.2563746
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/meta-falls-as-it-launches-35-billion-equity-offering-to-fund-ai-buildout-4972118",
-    "title": "Meta reverses losses to rise as investors weigh $35 billion AI funding plan",
-    "tokens": [
-      "billion",
-      "funding",
-      "investors",
-      "losses",
-      "meta",
-      "plan",
-      "reverses",
-      "rise",
-      "weigh"
-    ],
-    "ts": 1793013960.4075894
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/regeneron-extends-ebola-treatment-supply-deal-with-us-government-93CH-4972166",
-    "title": "Regeneron extends Ebola treatment supply deal with US government",
-    "tokens": [
-      "deal",
-      "ebola",
-      "extends",
-      "government",
-      "regeneron",
-      "supply",
-      "treatment"
-    ],
-    "ts": 1793013970.273786
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/iovance-reports-50-response-rate-in-sarcoma-therapy-trial-93CH-4972165",
-    "title": "Iovance reports 50% response rate in sarcoma therapy trial",
-    "tokens": [
-      "iovance",
-      "rate",
-      "reports",
-      "response",
-      "sarcoma",
-      "therapy",
-      "trial"
-    ],
-    "ts": 1793013979.1537397
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/braemar-hotels-nominates-seven-new-independent-directors-93CH-4972160",
-    "title": "Braemar Hotels nominates seven new independent directors",
-    "tokens": [
-      "braemar",
-      "directors",
-      "hotels",
-      "independent",
-      "nominates",
-      "seven"
-    ],
-    "ts": 1793013987.0162098
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/tenx-protocols-names-michael-frankel-as-new-cfo-93CH-4972161",
-    "title": "TenX Protocols names Michael Frankel as new CFO",
-    "tokens": [
-      "cfo",
-      "frankel",
-      "michael",
-      "names",
-      "protocols",
-      "tenx"
-    ],
-    "ts": 1793013995.9923542
-  },
-  {
     "id": "https://www.investing.com/news/company-news/mogotes-metals-to-acquire-royalty-on-filo-sur-project-for-13m-93CH-4972162",
     "title": "Mogotes Metals to acquire royalty on Filo Sur project for $13M",
     "tokens": [
@@ -23713,5 +23429,285 @@
       "washington"
     ],
     "ts": 1794058030.2686422
+  },
+  {
+    "id": "WP-MKTW-0005333770",
+    "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+    "tokens": [
+      "500",
+      "alternatives",
+      "could",
+      "dangerously",
+      "exposed",
+      "here",
+      "simple",
+      "some"
+    ],
+    "ts": 1794075014.9495583
+  },
+  {
+    "id": "WP-MKTW-0005332287",
+    "title": "You follow the rules for smart stock trading. But are they the right rules?",
+    "tokens": [
+      "follow",
+      "right",
+      "rules",
+      "smart",
+      "stock",
+      "they",
+      "trading",
+      "you"
+    ],
+    "ts": 1794075026.9937074
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sierra-bancorp-director-lynda-scearcy-sells-337604-in-stock-93CH-5009981",
+    "title": "Sierra Bancorp director Lynda Scearcy sells $337,604 in stock",
+    "tokens": [
+      "337",
+      "604",
+      "bancorp",
+      "director",
+      "lynda",
+      "scearcy",
+      "sells",
+      "sierra",
+      "stock"
+    ],
+    "ts": 1794075037.5364873
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief-5009978",
+    "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
+    "tokens": [
+      "binance",
+      "cfo",
+      "chief",
+      "finance",
+      "justin",
+      "kaiser",
+      "named",
+      "steps",
+      "yek"
+    ],
+    "ts": 1794075048.2194514
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/clough-global-opportunities-fund-director-buys-1996-in-glo-shares-93CH-5009976",
+    "title": "Clough Global Opportunities Fund director buys $1,996 in GLO shares",
+    "tokens": [
+      "996",
+      "buys",
+      "clough",
+      "director",
+      "fund",
+      "glo",
+      "global",
+      "opportunities",
+      "shares"
+    ],
+    "ts": 1794075057.6311219
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/seaport-offers-preliminary-thoughts-on-anthropic-stock-5009973",
+    "title": "Seaport offers preliminary thoughts on Anthropic stock",
+    "tokens": [
+      "anthropic",
+      "offers",
+      "preliminary",
+      "seaport",
+      "stock",
+      "thoughts"
+    ],
+    "ts": 1794075070.5616918
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cocacola-evp-perez-sells-64-million-in-shares-93CH-5009971",
+    "title": "Coca-Cola evp Perez sells $6.4 million in shares",
+    "tokens": [
+      "coca",
+      "cola",
+      "evp",
+      "million",
+      "perez",
+      "sells",
+      "shares"
+    ],
+    "ts": 1794075081.6406832
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/binance-cfo-exits-days-after-catastrophic-6-billion-crypto-hack-5009968",
+    "title": "Binance CFO exits days after catastrophic $6 billion crypto hack",
+    "tokens": [
+      "billion",
+      "binance",
+      "catastrophic",
+      "cfo",
+      "crypto",
+      "days",
+      "exits",
+      "hack"
+    ],
+    "ts": 1794075093.57313
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ceribell-cto-raymond-woo-sells-131753-in-company-stock-93CH-5009966",
+    "title": "Ceribell CTO Raymond Woo sells $131,753 in company stock",
+    "tokens": [
+      "131",
+      "753",
+      "ceribell",
+      "company",
+      "cto",
+      "raymond",
+      "sells",
+      "stock",
+      "woo"
+    ],
+    "ts": 1794075103.6114163
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/slop-cash-from-elizaos-creator-shaw-walters-opens-public-bidding-on-umia-after-passing-its-400k-minimum-5009964",
+    "title": "Slop Cash, From elizaOS Creator Shaw Walters, Opens Public Bidding on Umia After Passing Its $400K Minimum",
+    "tokens": [
+      "400k",
+      "bidding",
+      "cash",
+      "creator",
+      "elizaos",
+      "minimum",
+      "opens",
+      "passing",
+      "public",
+      "shaw",
+      "slop",
+      "umia",
+      "walters"
+    ],
+    "ts": 1794075114.2130198
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/steel-dynamics-evp--cto-barry-schneider-sells-124m-in-stock-93CH-5009956",
+    "title": "Steel Dynamics EVP & CTO Barry Schneider sells $12.4M in stock",
+    "tokens": [
+      "barry",
+      "cto",
+      "dynamics",
+      "evp",
+      "schneider",
+      "sells",
+      "steel",
+      "stock"
+    ],
+    "ts": 1794075126.85806
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/cf-financial-ceo-mark-fox-sells-111990-of-company-stock-93CH-5009955",
+    "title": "C&F Financial CEO Mark Fox sells $111,990 of company stock",
+    "tokens": [
+      "111",
+      "990",
+      "ceo",
+      "company",
+      "financial",
+      "fox",
+      "mark",
+      "sells",
+      "stock"
+    ],
+    "ts": 1794075136.8151305
+  },
+  {
+    "id": "oilprice-article-45997",
+    "title": "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance",
+    "tokens": [
+      "advances",
+      "backed",
+      "corridor",
+      "despite",
+      "geopolitical",
+      "resistance",
+      "trade",
+      "trump"
+    ],
+    "ts": 1794075147.4128914
+  },
+  {
+    "id": "oilprice-article-45996",
+    "title": "America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
+    "tokens": [
+      "america",
+      "cuts",
+      "demand",
+      "funding",
+      "hydrogen",
+      "revolution",
+      "stalls",
+      "weak"
+    ],
+    "ts": 1794075157.791248
+  },
+  {
+    "id": "fca5b3a9-d4b8-4007-ae74-ed8c0b4a93db",
+    "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+    "tokens": [
+      "alleged",
+      "billion",
+      "crypto",
+      "cut",
+      "exchange",
+      "flows",
+      "illicit",
+      "mexc",
+      "moves",
+      "off",
+      "treasury"
+    ],
+    "ts": 1794075167.5641744
+  },
+  {
+    "id": "de7a6efe-7d79-42c8-9cc2-09c1e137889e",
+    "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+    "tokens": [
+      "addresses",
+      "breach",
+      "card",
+      "crypto",
+      "exposes",
+      "gnosis",
+      "home",
+      "linked",
+      "numbers",
+      "pay",
+      "wallets"
+    ],
+    "ts": 1794075177.1216714
+  },
+  {
+    "id": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto",
+    "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+    "tokens": [
+      "agent",
+      "almost",
+      "counterintelligence",
+      "crypto",
+      "fbi",
+      "stole"
+    ],
+    "ts": 1794075187.3712988
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it",
+    "title": "Bitcoin holders have received eCash — What can you do with it?",
+    "tokens": [
+      "bitcoin",
+      "can",
+      "ecash",
+      "holders",
+      "received",
+      "what",
+      "you"
+    ],
+    "ts": 1794075196.7547069
   }
 ]

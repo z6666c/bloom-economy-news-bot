@@ -1,213 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005306495",
-    "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
-    "tokens": [
-      "billion",
-      "deal",
-      "debt",
-      "doom",
-      "forecasts",
-      "landed",
-      "musk",
-      "rivals",
-      "some",
-      "spacex"
-    ],
-    "ts": 1792992378.8351903
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-infosys-stock-falling-today-93CH-4971394",
-    "title": "Why is Infosys stock falling today?",
-    "tokens": [
-      "falling",
-      "infosys",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1792992386.8147893
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/zai-minimax-shares-fall-after-chinese-rival-moonshot-releases-upgraded-model-4971393",
-    "title": "ZAI, Minimax shares fall after Chinese rival Moonshot releases upgraded model",
-    "tokens": [
-      "chinese",
-      "fall",
-      "minimax",
-      "model",
-      "moonshot",
-      "releases",
-      "rival",
-      "shares",
-      "upgraded",
-      "zai"
-    ],
-    "ts": 1792992394.262998
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
-    "title": "SK Hynix tests Bear Flag resistance near KRW 1,320,000: Live",
-    "tokens": [
-      "000",
-      "320",
-      "bear",
-      "flag",
-      "hynix",
-      "krw",
-      "live",
-      "near",
-      "resistance",
-      "tests"
-    ],
-    "ts": 1792992401.5390522
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/down-by-the-river-thames-a-failure-to-build-holds-back-britains-growth-4971392",
-    "title": "Down by the River Thames, a failure to build holds back Britain’s growth",
-    "tokens": [
-      "back",
-      "britain",
-      "build",
-      "failure",
-      "growth",
-      "holds",
-      "river",
-      "thames"
-    ],
-    "ts": 1792992409.2746122
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/elections-central-banks-and-earnings-on-the-menu-4971384",
-    "title": "Morning Bid: Elections, central banks and earnings on the menu",
-    "tokens": [
-      "banks",
-      "bid",
-      "central",
-      "earnings",
-      "elections",
-      "menu",
-      "morning"
-    ],
-    "ts": 1792992416.1408863
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/mecca-pact-nations-to-hold-highlevel-talks-with-iran-in-tehran-reuters-reports-4971386",
-    "title": "Mecca Pact nations to hold high-level talks with Iran in Tehran, Reuters reports",
-    "tokens": [
-      "high",
-      "hold",
-      "iran",
-      "level",
-      "mecca",
-      "nations",
-      "pact",
-      "reports",
-      "reuters",
-      "talks",
-      "tehran"
-    ],
-    "ts": 1792992423.6944008
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/unicommerce-q2-fy27-slides-15-growth-amid-strategic-ai-investments-93CH-4971385",
-    "title": "Unicommerce Q2 FY27 slides: 15% growth amid strategic AI investments",
-    "tokens": [
-      "fy27",
-      "growth",
-      "investments",
-      "slides",
-      "strategic",
-      "unicommerce"
-    ],
-    "ts": 1792992430.6034126
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
-    "title": "Asia FX muted, yuan at 4-yr high; dollar drifts lower ahead of c.bank-packed week",
-    "tokens": [
-      "ahead",
-      "asia",
-      "bank",
-      "dollar",
-      "drifts",
-      "high",
-      "lower",
-      "muted",
-      "packed",
-      "week",
-      "yuan"
-    ],
-    "ts": 1792992437.6155925
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/chinas-domestic-car-sales-seen-rising-2-in-2027-after-2026-slump-4971380",
-    "title": "China’s domestic car sales seen rising 2% in 2027 after 2026 slump",
-    "tokens": [
-      "2026",
-      "2027",
-      "car",
-      "china",
-      "domestic",
-      "rising",
-      "sales",
-      "seen",
-      "slump"
-    ],
-    "ts": 1792992444.7607672
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-unicommerce-posts-15-revenue-growth-in-q2-2026-93CH-4971382",
-    "title": "Earnings call transcript: Unicommerce posts 15% revenue growth in Q2 2026",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "growth",
-      "posts",
-      "revenue",
-      "transcript",
-      "unicommerce"
-    ],
-    "ts": 1792992452.836616
-  },
-  {
-    "id": "5d50d425-f8d9-49c1-a54c-a54473a2c068",
-    "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-    "tokens": [
-      "bitcoin",
-      "bug",
-      "funds",
-      "let",
-      "payments",
-      "rogue",
-      "servers",
-      "speed",
-      "steal",
-      "tried",
-      "users",
-      "wallet",
-      "when"
-    ],
-    "ts": 1792992460.9753168
-  },
-  {
-    "id": "ebf37010-7126-43df-ae53-852951b98f36",
-    "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-    "tokens": [
-      "000",
-      "ahead",
-      "bitcoin",
-      "fed",
-      "meeting",
-      "risk",
-      "slips",
-      "traders",
-      "under"
-    ],
-    "ts": 1792992467.4842138
-  },
-  {
     "id": "27f9f1cb-00fe-4ac3-9060-faadbe47a6ee",
     "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
     "tokens": [
@@ -23715,5 +23507,211 @@
       "stock"
     ],
     "ts": 1794032648.616315
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/gatx-svp-kevin-hillesland-sells-355801-in-common-stock-93CH-5009874",
+    "title": "GATX svp Kevin Hillesland sells $355,801 in common stock",
+    "tokens": [
+      "355",
+      "801",
+      "common",
+      "gatx",
+      "hillesland",
+      "kevin",
+      "sells",
+      "stock",
+      "svp"
+    ],
+    "ts": 1794057907.6830728
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/french-presidential-hopeful-melenchon-pledges-minimum-wage-rise-retirement-at-60-5009873",
+    "title": "French presidential hopeful Melenchon pledges minimum wage rise, retirement at 60",
+    "tokens": [
+      "french",
+      "hopeful",
+      "melenchon",
+      "minimum",
+      "pledges",
+      "presidential",
+      "retirement",
+      "rise",
+      "wage"
+    ],
+    "ts": 1794057916.7512505
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/tata-chemicals-q2-fy27-slides-revenue-rises-8-as-margins-contract-93CH-5009868",
+    "title": "Tata Chemicals Q2 FY27 slides: revenue rises 8% as margins contract",
+    "tokens": [
+      "chemicals",
+      "contract",
+      "fy27",
+      "margins",
+      "revenue",
+      "rises",
+      "slides",
+      "tata"
+    ],
+    "ts": 1794057927.9989161
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/putin-deepens-japan-tobacco-expropriation-with-second-asset-seizure-decree-5009867",
+    "title": "Putin deepens Japan Tobacco expropriation with second asset seizure decree",
+    "tokens": [
+      "asset",
+      "decree",
+      "deepens",
+      "expropriation",
+      "japan",
+      "putin",
+      "second",
+      "seizure",
+      "tobacco"
+    ],
+    "ts": 1794057945.1146924
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-tata-chemicals-posts-mixed-q2-2027-results-as-margins-weaken-93CH-5009865",
+    "title": "Earnings call transcript: Tata Chemicals posts mixed Q2 2027 results as margins weaken",
+    "tokens": [
+      "2027",
+      "call",
+      "chemicals",
+      "earnings",
+      "margins",
+      "mixed",
+      "posts",
+      "results",
+      "tata",
+      "transcript",
+      "weaken"
+    ],
+    "ts": 1794057954.288407
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/surya-roshni-q2-fy27-slides-record-revenue-masks-margin-pressure-93CH-5009862",
+    "title": "Surya Roshni Q2 FY27 slides: record revenue masks margin pressure",
+    "tokens": [
+      "fy27",
+      "margin",
+      "masks",
+      "pressure",
+      "record",
+      "revenue",
+      "roshni",
+      "slides",
+      "surya"
+    ],
+    "ts": 1794057964.194669
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-surya-roshni-posts-record-q2-fy-2027-revenue-93CH-5009858",
+    "title": "Earnings call transcript: Surya Roshni posts record Q2 FY 2027 revenue",
+    "tokens": [
+      "2027",
+      "call",
+      "earnings",
+      "posts",
+      "record",
+      "revenue",
+      "roshni",
+      "surya",
+      "transcript"
+    ],
+    "ts": 1794057973.2632864
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/modivo-platform-q3-2026-slides-gross-margin-tops-50-ebitda-up-48-93CH-5009851",
+    "title": "MODIVO Platform Q3 2026 slides: gross margin tops 50%, EBITDA up 48%",
+    "tokens": [
+      "2026",
+      "ebitda",
+      "gross",
+      "margin",
+      "modivo",
+      "platform",
+      "slides",
+      "tops"
+    ],
+    "ts": 1794057983.7692468
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/marriott-president--ceo-anthony-capuano-sells-266m-in-company-stock-93CH-5009848",
+    "title": "Marriott president & CEO Anthony Capuano sells $26.6m in company stock",
+    "tokens": [
+      "anthony",
+      "capuano",
+      "ceo",
+      "company",
+      "marriott",
+      "president",
+      "sells",
+      "stock"
+    ],
+    "ts": 1794057993.4771621
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/kayne-anderson-evp-harrison-little-buys-51538-in-kyn-stock-93CH-5009847",
+    "title": "Kayne Anderson evp Harrison Little buys $51,538 in KYN stock",
+    "tokens": [
+      "538",
+      "anderson",
+      "buys",
+      "evp",
+      "harrison",
+      "kayne",
+      "kyn",
+      "little",
+      "stock"
+    ],
+    "ts": 1794058002.2544482
+  },
+  {
+    "id": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties",
+    "title": "US sanctions Canadian money-exchange firms over Iran ties",
+    "tokens": [
+      "canadian",
+      "exchange",
+      "firms",
+      "iran",
+      "money",
+      "sanctions",
+      "ties"
+    ],
+    "ts": 1794058012.7949717
+  },
+  {
+    "id": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt",
+    "title": "Suspicious prediction market activity seen before election poll release: NYT",
+    "tokens": [
+      "activity",
+      "before",
+      "election",
+      "market",
+      "nyt",
+      "poll",
+      "prediction",
+      "release",
+      "seen",
+      "suspicious"
+    ],
+    "ts": 1794058021.377486
+  },
+  {
+    "id": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report",
+    "title": "Nvidia may face a more hostile post-election Washington: Report",
+    "tokens": [
+      "election",
+      "face",
+      "hostile",
+      "may",
+      "more",
+      "nvidia",
+      "post",
+      "report",
+      "washington"
+    ],
+    "ts": 1794058030.2686422
   }
 ]

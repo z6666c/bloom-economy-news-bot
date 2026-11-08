@@ -1,118 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-gold-miners-gain-oil-eases-4971574",
-    "title": "FTSE 100 today: Stocks climb as oil slips on Iran de-escalation hopes",
-    "tokens": [
-      "100",
-      "climb",
-      "escalation",
-      "ftse",
-      "hopes",
-      "iran",
-      "oil",
-      "slips",
-      "stocks",
-      "today"
-    ],
-    "ts": 1793036022.2192721
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-076-4973349",
-    "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.76%",
-    "tokens": [
-      "100",
-      "close",
-      "com",
-      "higher",
-      "investing",
-      "kingdom",
-      "stocks",
-      "trade",
-      "united"
-    ],
-    "ts": 1793036029.9226453
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/vertex-launches-aipowered-tax-compliance-platform-sol-93CH-4973348",
-    "title": "Vertex launches AI-powered tax compliance platform Sol",
-    "tokens": [
-      "compliance",
-      "launches",
-      "platform",
-      "powered",
-      "sol",
-      "tax",
-      "vertex"
-    ],
-    "ts": 1793036039.7685912
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/citius-oncology-reports-120-jump-in-lymphir-wholesaler-sales-93CH-4973347",
-    "title": "Citius Oncology reports 120% jump in LYMPHIR wholesaler sales",
-    "tokens": [
-      "120",
-      "citius",
-      "jump",
-      "lymphir",
-      "oncology",
-      "reports",
-      "sales",
-      "wholesaler"
-    ],
-    "ts": 1793036048.921436
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-023-4973346",
-    "title": "Spain stocks higher at close of trade; IBEX 35 up 0.23%",
-    "tokens": [
-      "close",
-      "higher",
-      "ibex",
-      "spain",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1793036057.994761
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-075-4973345",
-    "title": "Portugal stocks lower at close of trade; PSI down 0.75%",
-    "tokens": [
-      "close",
-      "lower",
-      "portugal",
-      "psi",
-      "stocks",
-      "trade"
-    ],
-    "ts": 1793036066.9054694
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/new-found-gold-corporation-nfgc-opens-the-market-1036666112",
-    "title": "New Found Gold Corporation (NFGC) Opens the Market",
-    "tokens": [
-      "corporation",
-      "found",
-      "gold",
-      "market",
-      "nfgc",
-      "opens"
-    ],
-    "ts": 1793036076.0745108
-  },
-  {
-    "id": "https://seekingalpha.com/news/4657320-coca-cola-femsa-q3-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Coca-Cola FEMSA Q3 Earnings Preview",
-    "tokens": [
-      "coca",
-      "cola",
-      "earnings",
-      "femsa",
-      "preview"
-    ],
-    "ts": 1793036087.3022578
-  },
-  {
     "id": "https://seekingalpha.com/news/4657149-sofi-q3-earnings-preview-membership-growth-and-loan-demand-in-focus?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
     "title": "SOFI Q3 earnings preview: Membership growth and loan demand in focus",
     "tokens": [
@@ -23757,5 +23644,112 @@
       "year"
     ],
     "ts": 1794088397.464912
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/how-to-invest-in-ai-amid-ai-spending-worries-5010090",
+    "title": "How to invest in AI amid AI spending worries?",
+    "tokens": [
+      "how",
+      "invest",
+      "spending",
+      "worries"
+    ],
+    "ts": 1794099997.8499722
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/oceanfirst-director-jack-farris-buys-10008-in-company-stock-93CH-5010086",
+    "title": "OceanFirst director Jack Farris buys $10,008 in company stock",
+    "tokens": [
+      "008",
+      "buys",
+      "company",
+      "director",
+      "farris",
+      "jack",
+      "oceanfirst",
+      "stock"
+    ],
+    "ts": 1794100007.241994
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/southern-co-comptroller-matthew-kim-sells-9339-in-shares-93CH-5010085",
+    "title": "Southern Co comptroller Matthew Kim sells $9,339 in shares",
+    "tokens": [
+      "339",
+      "comptroller",
+      "kim",
+      "matthew",
+      "sells",
+      "shares",
+      "southern"
+    ],
+    "ts": 1794100016.632797
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080",
+    "title": "Voyager Technologies selected for NASA’s $10B lunar contract",
+    "tokens": [
+      "10b",
+      "contract",
+      "lunar",
+      "nasa",
+      "selected",
+      "technologies",
+      "voyager"
+    ],
+    "ts": 1794100025.567963
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/world-acceptance-director-benjamin-robinson-sells-14878-in-shares-93CH-5010063",
+    "title": "World Acceptance director Benjamin Robinson sells $14,878 in shares",
+    "tokens": [
+      "878",
+      "acceptance",
+      "benjamin",
+      "director",
+      "robinson",
+      "sells",
+      "shares",
+      "world"
+    ],
+    "ts": 1794100033.6080713
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/dropbox-chief-accounting-officer-sells-74884-in-stock-93CH-5010062",
+    "title": "Dropbox chief accounting officer sells $74,884 in stock",
+    "tokens": [
+      "884",
+      "accounting",
+      "chief",
+      "dropbox",
+      "officer",
+      "sells",
+      "stock"
+    ],
+    "ts": 1794100042.1376953
+  },
+  {
+    "id": "oilprice-article-46006",
+    "title": "Wars May Spur Faster Electrification",
+    "tokens": [
+      "electrification",
+      "faster",
+      "may",
+      "spur",
+      "wars"
+    ],
+    "ts": 1794100051.3995457
+  },
+  {
+    "id": "oilprice-article-46003",
+    "title": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
+    "tokens": [
+      "billion",
+      "nowhere",
+      "nuclear",
+      "put",
+      "waste"
+    ],
+    "ts": 1794100060.7620425
   }
 ]

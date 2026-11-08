@@ -1,122 +1,5 @@
 [
   {
-    "id": "https://seekingalpha.com/news/4657149-sofi-q3-earnings-preview-membership-growth-and-loan-demand-in-focus?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "SOFI Q3 earnings preview: Membership growth and loan demand in focus",
-    "tokens": [
-      "demand",
-      "earnings",
-      "focus",
-      "growth",
-      "loan",
-      "membership",
-      "preview",
-      "sofi"
-    ],
-    "ts": 1793036098.3237717
-  },
-  {
-    "id": "https://seekingalpha.com/news/4657317-vylor-inc-declares-0_13-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Vylor Inc. declares $0.13 dividend",
-    "tokens": [
-      "declares",
-      "dividend",
-      "inc",
-      "vylor"
-    ],
-    "ts": 1793036111.7402768
-  },
-  {
-    "id": "https://seekingalpha.com/news/4657315-hubbell-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Hubbell Q3 2026 Earnings Preview",
-    "tokens": [
-      "2026",
-      "earnings",
-      "hubbell",
-      "preview"
-    ],
-    "ts": 1793036120.9401822
-  },
-  {
-    "id": "https://seekingalpha.com/news/4657314-ringcentral-declares-0_125-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "RingCentral declares $0.125 dividend",
-    "tokens": [
-      "125",
-      "declares",
-      "dividend",
-      "ringcentral"
-    ],
-    "ts": 1793036131.2853622
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/speed-skill-and-spirit-over-450-dogs-set-to-compete-at-the-2026-akc-agility-league-national-championship-1036666096",
-    "title": "Speed, Skill and Spirit: Over 450 Dogs Set to Compete at the 2026 AKC Agility League National Championship",
-    "tokens": [
-      "2026",
-      "450",
-      "agility",
-      "akc",
-      "championship",
-      "compete",
-      "dogs",
-      "league",
-      "national",
-      "set",
-      "skill",
-      "speed",
-      "spirit"
-    ],
-    "ts": 1793036139.6497457
-  },
-  {
-    "id": "https://seekingalpha.com/news/4657303-jakks-pacific-declares-0_25-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "JAKKS Pacific declares $0.25 dividend",
-    "tokens": [
-      "declares",
-      "dividend",
-      "jakks",
-      "pacific"
-    ],
-    "ts": 1793036149.1191156
-  },
-  {
-    "id": "https://seekingalpha.com/news/4657291-millrose-properties-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Millrose Properties Q3 2026 Earnings Preview",
-    "tokens": [
-      "2026",
-      "earnings",
-      "millrose",
-      "preview",
-      "properties"
-    ],
-    "ts": 1793036157.7057045
-  },
-  {
-    "id": "https://seekingalpha.com/news/4657286-eastern-bankshares-declares-0_15-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Eastern Bankshares declares $0.15 dividend",
-    "tokens": [
-      "bankshares",
-      "declares",
-      "dividend",
-      "eastern"
-    ],
-    "ts": 1793036166.0180168
-  },
-  {
-    "id": "oilprice-news-45881",
-    "title": "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire",
-    "tokens": [
-      "arabia",
-      "defend",
-      "egypt",
-      "fire",
-      "houthi",
-      "risking",
-      "saudi",
-      "votes"
-    ],
-    "ts": 1793036175.61219
-  },
-  {
     "id": "oilprice-article-45878",
     "title": "Kazakhstan Faces $12 Billion Oil Setback as New Investment Plans Take Shape",
     "tokens": [
@@ -23751,5 +23634,144 @@
       "waste"
     ],
     "ts": 1794100060.7620425
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/turkish-villagers-demand-cop31-leaders-see-for-themselves-devastation-caused-by-coal-5010152",
+    "title": "Turkish villagers demand COP31 leaders see for themselves devastation caused by coal",
+    "tokens": [
+      "caused",
+      "coal",
+      "cop31",
+      "demand",
+      "devastation",
+      "leaders",
+      "see",
+      "themselves",
+      "turkish",
+      "villagers"
+    ],
+    "ts": 1794122363.8394792
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/matthew-janzaruk-pg-svp-sells-155-million-in-shares-93CH-5010150",
+    "title": "Matthew Janzaruk, P&G SVP, sells $1.55 million in shares",
+    "tokens": [
+      "janzaruk",
+      "matthew",
+      "million",
+      "sells",
+      "shares",
+      "svp"
+    ],
+    "ts": 1794122371.4896784
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/how-mercedes-suffered-a-14bn-ebit-drop-5010147",
+    "title": "How Mercedes suffered a €14bn EBIT drop",
+    "tokens": [
+      "14bn",
+      "drop",
+      "ebit",
+      "how",
+      "mercedes",
+      "suffered"
+    ],
+    "ts": 1794122379.922172
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/first-interstate-bancsystem-director-sells-120016-in-fibk-stock-93CH-5010145",
+    "title": "First Interstate Bancsystem director sells $120,016 in FIBK stock",
+    "tokens": [
+      "016",
+      "120",
+      "bancsystem",
+      "director",
+      "fibk",
+      "first",
+      "interstate",
+      "sells",
+      "stock"
+    ],
+    "ts": 1794122388.112721
+  },
+  {
+    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
+    "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
+    "tokens": [
+      "76k",
+      "add",
+      "below",
+      "binance",
+      "bitcoin",
+      "closures",
+      "crypto",
+      "holds",
+      "market",
+      "pressure"
+    ],
+    "ts": 1794122395.9454422
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/china-energy-investment-to-hit-940-billion-in-2026-as-grid-spending-rises-5010130",
+    "title": "China energy investment to hit $940 billion in 2026 as grid spending rises",
+    "tokens": [
+      "2026",
+      "940",
+      "billion",
+      "china",
+      "energy",
+      "grid",
+      "hit",
+      "investment",
+      "rises",
+      "spending"
+    ],
+    "ts": 1794122403.7157316
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/saudi-arabia-lifts-oil-region-alerts-after-houthi-missile-intercepted-5010126",
+    "title": "Saudi Arabia lifts oil region alerts after Houthi missile intercepted",
+    "tokens": [
+      "alerts",
+      "arabia",
+      "houthi",
+      "intercepted",
+      "lifts",
+      "missile",
+      "oil",
+      "region",
+      "saudi"
+    ],
+    "ts": 1794122410.6457386
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/pacira-earnings-missed-by-003-revenue-fell-short-of-estimates-5010123",
+    "title": "Pacira earnings missed by $0.03, revenue fell short of estimates",
+    "tokens": [
+      "earnings",
+      "estimates",
+      "fell",
+      "missed",
+      "pacira",
+      "revenue",
+      "short"
+    ],
+    "ts": 1794122414.6551342
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/judge-orders-ethics-probe-into-trumps-washington-golf-course-project-5010119",
+    "title": "Judge orders ethics probe into Trump’s Washington golf course project",
+    "tokens": [
+      "course",
+      "ethics",
+      "golf",
+      "judge",
+      "orders",
+      "probe",
+      "project",
+      "trump",
+      "washington"
+    ],
+    "ts": 1794122418.672178
   }
 ]

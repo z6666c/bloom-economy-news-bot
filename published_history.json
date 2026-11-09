@@ -1,188 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/commodities-news/oil-extends-losses-as-iran-mediation-efforts-ease-escalation-fears-4973997",
-    "title": "Oil extends losses as Iran mediation efforts ease escalation fears",
-    "tokens": [
-      "ease",
-      "efforts",
-      "escalation",
-      "extends",
-      "fears",
-      "iran",
-      "losses",
-      "mediation",
-      "oil"
-    ],
-    "ts": 1793063495.661235
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/hartford-earnings-beat-by-033-revenue-fell-short-of-estimates-4973996",
-    "title": "Hartford earnings beat by $0.33, revenue fell short of estimates",
-    "tokens": [
-      "beat",
-      "earnings",
-      "estimates",
-      "fell",
-      "hartford",
-      "revenue",
-      "short"
-    ],
-    "ts": 1793063502.5584416
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/jetblue-earnings-missed-by-007-revenue-fell-short-of-estimates-4973994",
-    "title": "JetBlue earnings missed by $0.07, revenue fell short of estimates",
-    "tokens": [
-      "earnings",
-      "estimates",
-      "fell",
-      "jetblue",
-      "missed",
-      "revenue",
-      "short"
-    ],
-    "ts": 1793063509.8985262
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/penguin-solutions-svp-joseph-clark-sells-44770-of-company-stock-93CH-4973993",
-    "title": "Penguin Solutions svp Joseph Clark sells $44,770 of company stock",
-    "tokens": [
-      "770",
-      "clark",
-      "company",
-      "joseph",
-      "penguin",
-      "sells",
-      "solutions",
-      "stock",
-      "svp"
-    ],
-    "ts": 1793063517.3244684
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/principal-financial-earnings-missed-by-023-revenue-fell-short-of-estimates-4973988",
-    "title": "Principal Financial earnings missed by $0.23, revenue fell short of estimates",
-    "tokens": [
-      "earnings",
-      "estimates",
-      "fell",
-      "financial",
-      "missed",
-      "principal",
-      "revenue",
-      "short"
-    ],
-    "ts": 1793063521.3399358
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-amd-stock-buys-circle-internet-group-93CH-4973987",
-    "title": "Cathie Wood’s ARK sells AMD stock, buys Circle Internet Group",
-    "tokens": [
-      "amd",
-      "ark",
-      "buys",
-      "cathie",
-      "circle",
-      "group",
-      "internet",
-      "sells",
-      "stock",
-      "wood"
-    ],
-    "ts": 1793063524.782033
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/us-stock-futures-rise-as-anthropic-ipo-buzz-boosts-tech-fed-earnings-on-tap-4973986",
-    "title": "U.S. stock futures rise as Anthropic IPO buzz boosts tech; Fed, earnings on tap",
-    "tokens": [
-      "anthropic",
-      "boosts",
-      "buzz",
-      "earnings",
-      "fed",
-      "futures",
-      "ipo",
-      "rise",
-      "stock",
-      "tap",
-      "tech"
-    ],
-    "ts": 1793063533.1910918
-  },
-  {
-    "id": "oilprice-article-45887",
-    "title": "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
-    "tokens": [
-      "100",
-      "largest",
-      "oil",
-      "oilfield",
-      "scrapping",
-      "untapped",
-      "weighs"
-    ],
-    "ts": 1793063542.572702
-  },
-  {
-    "id": "oilprice-article-45883",
-    "title": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
-    "tokens": [
-      "beijing",
-      "domestic",
-      "dries",
-      "iranian",
-      "oil",
-      "production",
-      "pushes",
-      "supply"
-    ],
-    "ts": 1793063549.6683016
-  },
-  {
-    "id": "oilprice-article-45884",
-    "title": "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm",
-    "tokens": [
-      "alleged",
-      "executive",
-      "exodus",
-      "firm",
-      "funding",
-      "lng",
-      "prompts",
-      "russian"
-    ],
-    "ts": 1793063557.3829095
-  },
-  {
-    "id": "oilprice-news-45887",
-    "title": "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire",
-    "tokens": [
-      "arabia",
-      "defend",
-      "egypt",
-      "fire",
-      "houthi",
-      "risking",
-      "saudi",
-      "votes"
-    ],
-    "ts": 1793063561.39898
-  },
-  {
-    "id": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank",
-    "title": "Ripple wins final US approval for national trust bank",
-    "tokens": [
-      "approval",
-      "bank",
-      "final",
-      "national",
-      "ripple",
-      "trust",
-      "wins"
-    ],
-    "ts": 1793063564.7234228
-  },
-  {
     "id": "WP-MKTW-0005308221",
     "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
     "tokens": [
@@ -23820,5 +23637,195 @@
       "stalled"
     ],
     "ts": 1794177991.6732273
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/trump-to-meet-qatars-prime-minister-as-iran-diplomacy-faces-hurdles-5010408",
+    "title": "Trump to meet Qatar’s prime minister as Iran diplomacy faces hurdles",
+    "tokens": [
+      "diplomacy",
+      "faces",
+      "hurdles",
+      "iran",
+      "meet",
+      "minister",
+      "prime",
+      "qatar",
+      "trump"
+    ],
+    "ts": 1794189693.2035835
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/asian-stocks-steady-as-ai-mideast-jitters-recede-dollar-firm-on-fed-bets-5010407",
+    "title": "Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets",
+    "tokens": [
+      "asian",
+      "bets",
+      "dollar",
+      "fed",
+      "firm",
+      "jitters",
+      "mideast",
+      "recede",
+      "steady",
+      "stocks"
+    ],
+    "ts": 1794189704.4478679
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/rbas-hunter-sees-limited-ai-productivity-gains-so-far-93CH-5010406",
+    "title": "RBA’s Hunter sees limited AI productivity gains so far",
+    "tokens": [
+      "far",
+      "gains",
+      "hunter",
+      "limited",
+      "productivity",
+      "rba",
+      "sees"
+    ],
+    "ts": 1794189715.9152727
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-misses-forecasts-in-oct-factorygate-prices-accelerate-5010405",
+    "title": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
+    "tokens": [
+      "accelerate",
+      "china",
+      "cpi",
+      "factory",
+      "forecasts",
+      "gate",
+      "inflation",
+      "misses",
+      "oct",
+      "prices"
+    ],
+    "ts": 1794189728.3232014
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/chinas-october-producer-inflation-quickens-further-consumer-prices-edge-down-5010403",
+    "title": "China’s October producer inflation quickens further, consumer prices edge down",
+    "tokens": [
+      "china",
+      "consumer",
+      "edge",
+      "further",
+      "inflation",
+      "october",
+      "prices",
+      "producer",
+      "quickens"
+    ],
+    "ts": 1794189737.23377
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/bathurst-q1-fy27-slides-ebitda-surges-80-as-growth-projects-advance-93CH-5010400",
+    "title": "Bathurst Q1 FY27 slides: EBITDA surges 80% as growth projects advance",
+    "tokens": [
+      "advance",
+      "bathurst",
+      "ebitda",
+      "fy27",
+      "growth",
+      "projects",
+      "slides",
+      "surges"
+    ],
+    "ts": 1794189746.944011
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election-5010398",
+    "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
+    "tokens": [
+      "dollar",
+      "election",
+      "gains",
+      "holds",
+      "onto",
+      "payrolls",
+      "rises"
+    ],
+    "ts": 1794189757.4244869
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/gold-rebounds-above-4100-as-traders-await-us-inflation-data-after-jobs-beat-5010397",
+    "title": "Gold rebounds above $4,100 as traders await U.S. inflation data after jobs beat",
+    "tokens": [
+      "100",
+      "above",
+      "await",
+      "beat",
+      "data",
+      "gold",
+      "inflation",
+      "jobs",
+      "rebounds",
+      "traders"
+    ],
+    "ts": 1794189766.5615132
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/richardson-electronics-director-kenneth-halverson-sells-21190-in-stock-93CH-5010396",
+    "title": "Richardson Electronics director Kenneth Halverson sells $21,190 in stock",
+    "tokens": [
+      "190",
+      "director",
+      "electronics",
+      "halverson",
+      "kenneth",
+      "richardson",
+      "sells",
+      "stock"
+    ],
+    "ts": 1794189775.6754725
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/oceanfirst-financial-director-nicos-katsoulis-buys-178277-in-stock-93CH-5010391",
+    "title": "OceanFirst Financial director Nicos Katsoulis buys $178,277 in stock",
+    "tokens": [
+      "178",
+      "277",
+      "buys",
+      "director",
+      "financial",
+      "katsoulis",
+      "nicos",
+      "oceanfirst",
+      "stock"
+    ],
+    "ts": 1794189784.5806005
+  },
+  {
+    "id": "oilprice-article-46009",
+    "title": "Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
+    "tokens": [
+      "bpd",
+      "claim",
+      "complicates",
+      "iraq",
+      "million",
+      "oil",
+      "opec",
+      "push",
+      "quota"
+    ],
+    "ts": 1794189795.3670537
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest",
+    "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+    "tokens": [
+      "crypto",
+      "digest",
+      "eth",
+      "hodler",
+      "midterms",
+      "pivots",
+      "store",
+      "suffers",
+      "value",
+      "vitalik"
+    ],
+    "ts": 1794189807.7469761
   }
 ]

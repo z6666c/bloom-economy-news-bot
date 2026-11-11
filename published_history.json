@@ -1,270 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/apple-expected-to-show-first-touchscreen-laptops-amid-product-blitz-4978532",
-    "title": "Apple shows pricey touchscreen laptops, a first for the iPhone maker",
-    "tokens": [
-      "apple",
-      "first",
-      "iphone",
-      "laptops",
-      "maker",
-      "pricey",
-      "shows",
-      "touchscreen"
-    ],
-    "ts": 1793216809.4870803
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/feds-warsh-to-attend-ai-productivity-task-force-hearing-in-november-4980502",
-    "title": "Fed’s Warsh to attend AI productivity task force hearing in November",
-    "tokens": [
-      "attend",
-      "fed",
-      "force",
-      "hearing",
-      "november",
-      "productivity",
-      "task",
-      "warsh"
-    ],
-    "ts": 1793216817.1923556
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/dow-jones-pulls-back-to-ma-cluster-near-52400-live-levels-93CH-4973066",
-    "title": "Dow Jones consolidates in Bull Flag at 52610: Live levels",
-    "tokens": [
-      "52610",
-      "bull",
-      "consolidates",
-      "dow",
-      "flag",
-      "jones",
-      "levels",
-      "live"
-    ],
-    "ts": 1793216824.6947758
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/alphabet-c-deeply-oversold-after-bear-flag-breakdown-live-levels-93CH-4973070",
-    "title": "Alphabet C bounces from oversold low toward key resistance: Live",
-    "tokens": [
-      "alphabet",
-      "bounces",
-      "key",
-      "live",
-      "low",
-      "oversold",
-      "resistance",
-      "toward"
-    ],
-    "ts": 1793216831.7782116
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/tesla-breaks-out-above-388-range-overextended-live-levels-93CH-4973068",
-    "title": "Tesla rejects at $410.85 after parabolic rally: Live levels",
-    "tokens": [
-      "410",
-      "levels",
-      "live",
-      "parabolic",
-      "rally",
-      "rejects",
-      "tesla"
-    ],
-    "ts": 1793216839.1991403
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/airbus-holds-annual-targets-bets-on-yearend-delivery-surge-4980299",
-    "title": "Airbus holds annual targets, bets on year-end delivery surge",
-    "tokens": [
-      "airbus",
-      "annual",
-      "bets",
-      "delivery",
-      "end",
-      "holds",
-      "surge",
-      "targets",
-      "year"
-    ],
-    "ts": 1793216846.5552373
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nasdaq-100-tests-descending-triangle-support-at-29000-live-levels-93CH-4973069",
-    "title": "Nasdaq 100 hits overbought resistance at 200 SMA: Live levels",
-    "tokens": [
-      "100",
-      "200",
-      "hits",
-      "levels",
-      "live",
-      "nasdaq",
-      "overbought",
-      "resistance",
-      "sma"
-    ],
-    "ts": 1793216854.211478
-  },
-  {
-    "id": "https://www.businessinsider.com/us-stock-market-outlook-rally-midterm-elections-wall-street-2026-10",
-    "title": "Wall Street forecasters are eyeing a streak of double-digit gains brewing for stocks",
-    "tokens": [
-      "brewing",
-      "digit",
-      "double",
-      "eyeing",
-      "forecasters",
-      "gains",
-      "stocks",
-      "streak",
-      "street",
-      "wall"
-    ],
-    "ts": 1793216861.591209
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-cms-andritz-ag-other-issuer-company-information-1036677848",
-    "title": "EQS-CMS: Andritz AG: Other issuer/company information",
-    "tokens": [
-      "andritz",
-      "cms",
-      "company",
-      "eqs",
-      "information",
-      "issuer",
-      "other"
-    ],
-    "ts": 1793216869.228699
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/proofpoint-msp-2027-ransomware-report-reveals-confidence-gap-despite-widespread-ransomware-protection-measures-1036677843",
-    "title": "Proofpoint MSP 2027 Ransomware Report Reveals Confidence Gap Despite Widespread Ransomware Protection Measures",
-    "tokens": [
-      "2027",
-      "confidence",
-      "despite",
-      "gap",
-      "measures",
-      "msp",
-      "proofpoint",
-      "protection",
-      "ransomware",
-      "report",
-      "reveals",
-      "widespread"
-    ],
-    "ts": 1793216876.8259995
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-pva-tepla-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036677845",
-    "title": "EQS-PVR: PVA TePla AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
-    "tokens": [
-      "according",
-      "act",
-      "article",
-      "distribution",
-      "eqs",
-      "europe",
-      "german",
-      "objective",
-      "pva",
-      "pvr",
-      "release",
-      "section",
-      "securities",
-      "tepla",
-      "trading",
-      "wide",
-      "wphg"
-    ],
-    "ts": 1793216884.1184676
-  },
-  {
-    "id": "https://www.businessinsider.com/google-ai-chip-business-oracle-tpus-nvidia-threat-anthropic-openai-2026-10",
-    "title": "Google's AI chip business is getting harder for Nvidia to ignore",
-    "tokens": [
-      "business",
-      "chip",
-      "getting",
-      "google",
-      "harder",
-      "ignore",
-      "nvidia"
-    ],
-    "ts": 1793216891.5170407
-  },
-  {
-    "id": "https://seekingalpha.com/news/4659122-trinet-q3-2026-earnings-preview?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "TriNet Q3 2026 Earnings Preview",
-    "tokens": [
-      "2026",
-      "earnings",
-      "preview",
-      "trinet"
-    ],
-    "ts": 1793216895.5329328
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/pzza-final-deadline-rosen-a-global-and-leading-law-firm-encourages-papa-johns-international-inc.-investors-to-secure-counsel-before-important-november-2-deadline-in-securities-class-action-pzza-1036677808",
-    "title": "PZZA FINAL DEADLINE: ROSEN, A GLOBAL AND LEADING LAW FIRM, Encourages Papa John's International, Inc. Investors to Secure Counsel Before Important November 2 Deadline in Securities Class Action - PZZA",
-    "tokens": [
-      "action",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "final",
-      "firm",
-      "global",
-      "important",
-      "inc",
-      "international",
-      "investors",
-      "john",
-      "law",
-      "leading",
-      "november",
-      "papa",
-      "pzza",
-      "rosen",
-      "secure",
-      "securities"
-    ],
-    "ts": 1793216900.455442
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/malibu-boats-inc-showcases-latest-models-across-brand-portfolio-at-the-fort-lauderdale-international-boat-show-1036677836",
-    "title": "Malibu Boats, Inc. Showcases Latest Models Across Brand Portfolio at the Fort Lauderdale International Boat Show",
-    "tokens": [
-      "across",
-      "boat",
-      "boats",
-      "brand",
-      "fort",
-      "inc",
-      "international",
-      "latest",
-      "lauderdale",
-      "malibu",
-      "models",
-      "portfolio",
-      "show",
-      "showcases"
-    ],
-    "ts": 1793216907.8575253
-  },
-  {
-    "id": "https://seekingalpha.com/news/4659120-textron-declares-0_02-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Textron declares $0.02 dividend",
-    "tokens": [
-      "declares",
-      "dividend",
-      "textron"
-    ],
-    "ts": 1793216915.4906921
-  },
-  {
     "id": "https://seekingalpha.com/news/4659116-cerebras-systems-falls-amid-culper-research-short-call?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
     "title": "Cerebras Systems falls amid Culper Research short call",
     "tokens": [
@@ -23856,5 +23591,252 @@
       "tokenized"
     ],
     "ts": 1794354243.8757029
+  },
+  {
+    "id": "WP-MKTW-0005341014",
+    "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+    "tokens": [
+      "concerns",
+      "coreweave",
+      "debt",
+      "eases",
+      "financing",
+      "playbook",
+      "pops",
+      "stock"
+    ],
+    "ts": 1794366200.055083
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/better-home--finance-general-counsel-paula-tuffin-sells-12837-93CH-5017540",
+    "title": "Better Home & Finance general counsel Paula Tuffin sells $12,837",
+    "tokens": [
+      "837",
+      "better",
+      "counsel",
+      "finance",
+      "general",
+      "home",
+      "paula",
+      "sells",
+      "tuffin"
+    ],
+    "ts": 1794366208.3180192
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-5017528",
+    "title": "Why is SoftBank Group stock tumbling today?",
+    "tokens": [
+      "group",
+      "softbank",
+      "stock",
+      "today",
+      "tumbling",
+      "why"
+    ],
+    "ts": 1794366215.641563
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/republicans-block-effort-to-impeach-defense-secretary-hegseth-93CH-5017527",
+    "title": "Republicans block effort to impeach Defense Secretary Hegseth",
+    "tokens": [
+      "block",
+      "defense",
+      "effort",
+      "hegseth",
+      "impeach",
+      "republicans",
+      "secretary"
+    ],
+    "ts": 1794366225.007321
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/airbnb-cso-nathan-blecharczyk-sells-219-million-in-stock-93CH-5017524",
+    "title": "Airbnb CSO Nathan Blecharczyk sells $21.9 million in stock",
+    "tokens": [
+      "airbnb",
+      "blecharczyk",
+      "cso",
+      "million",
+      "nathan",
+      "sells",
+      "stock"
+    ],
+    "ts": 1794366233.174772
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/landmark-bancorp-director-alexander-sells-6630-in-shares-93CH-5017523",
+    "title": "Landmark Bancorp director Alexander sells $6,630 in shares",
+    "tokens": [
+      "630",
+      "alexander",
+      "bancorp",
+      "director",
+      "landmark",
+      "sells",
+      "shares"
+    ],
+    "ts": 1794366240.5260067
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-prices-rise-from-2mth-low-with-focus-on-usiran-peace-inventories-5017522",
+    "title": "Oil prices rise from 2-mth low with focus on U.S.-Iran peace, inventories",
+    "tokens": [
+      "focus",
+      "inventories",
+      "iran",
+      "low",
+      "mth",
+      "oil",
+      "peace",
+      "prices",
+      "rise"
+    ],
+    "ts": 1794366249.7942295
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-phoenix-new-media-posts-higher-revenue-in-q3-2026-93CH-5017513",
+    "title": "Earnings call transcript: Phoenix New Media posts higher revenue in Q3 2026",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "higher",
+      "media",
+      "phoenix",
+      "posts",
+      "revenue",
+      "transcript"
+    ],
+    "ts": 1794366259.782668
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-rises-from-twomonth-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes-5017512",
+    "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
+    "tokens": [
+      "attacks",
+      "hopes",
+      "hormuz",
+      "iran",
+      "low",
+      "month",
+      "offset",
+      "oil",
+      "rises",
+      "shipping",
+      "truce",
+      "two"
+    ],
+    "ts": 1794366268.364976
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/bonds-reel-as-hot-inflation-fuels-jumbo-fed-hike-fears-5017511",
+    "title": "Bonds reel as hot inflation fuels jumbo Fed hike fears",
+    "tokens": [
+      "bonds",
+      "fears",
+      "fed",
+      "fuels",
+      "hike",
+      "hot",
+      "inflation",
+      "jumbo",
+      "reel"
+    ],
+    "ts": 1794366275.9691606
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/vanishing-vessels-and-missing-sailors-the-iran-wars-human-cost-at-sea-5014523",
+    "title": "Vanishing vessels and missing sailors: The Iran war’s human cost at sea",
+    "tokens": [
+      "cost",
+      "human",
+      "iran",
+      "missing",
+      "sailors",
+      "sea",
+      "vanishing",
+      "vessels",
+      "war"
+    ],
+    "ts": 1794366283.0014515
+  },
+  {
+    "id": "oilprice-article-46028",
+    "title": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
+    "tokens": [
+      "despite",
+      "east",
+      "far",
+      "flows",
+      "middle",
+      "normal",
+      "oil",
+      "oversupply",
+      "signs"
+    ],
+    "ts": 1794366291.8065736
+  },
+  {
+    "id": "oilprice-article-46030",
+    "title": "South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share",
+    "tokens": [
+      "courts",
+      "forces",
+      "investors",
+      "oil",
+      "share",
+      "south",
+      "sudan",
+      "take",
+      "their",
+      "warring"
+    ],
+    "ts": 1794366299.2754755
+  },
+  {
+    "id": "oilprice-news-46030",
+    "title": "API Shows Sharp Build in US Crude Oil, Distillate Inventories",
+    "tokens": [
+      "api",
+      "build",
+      "crude",
+      "distillate",
+      "inventories",
+      "oil",
+      "sharp",
+      "shows"
+    ],
+    "ts": 1794366303.2901118
+  },
+  {
+    "id": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts",
+    "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+    "tokens": [
+      "bitcoin",
+      "emergency",
+      "lnbits",
+      "patch",
+      "reported",
+      "rushes",
+      "thefts",
+      "wallet"
+    ],
+    "ts": 1794366307.107055
+  },
+  {
+    "id": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts",
+    "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+    "tokens": [
+      "cftc",
+      "charges",
+      "contracts",
+      "imminent",
+      "kalshi",
+      "notification",
+      "politico",
+      "warns"
+    ],
+    "ts": 1794366314.5579042
   }
 ]

@@ -1,192 +1,5 @@
 [
   {
-    "id": "oilprice-article-45934",
-    "title": "U.S. Intelligence: China Could Put Laser Weapons in Space by 2030",
-    "tokens": [
-      "2030",
-      "china",
-      "could",
-      "intelligence",
-      "laser",
-      "put",
-      "space",
-      "weapons"
-    ],
-    "ts": 1793486529.9352193
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/south-korea-exports-nearly-double-in-october-strongest-growth-since-1974-4989354",
-    "title": "South Korea exports nearly double in October, strongest growth since 1974",
-    "tokens": [
-      "1974",
-      "double",
-      "exports",
-      "growth",
-      "korea",
-      "nearly",
-      "october",
-      "since",
-      "south",
-      "strongest"
-    ],
-    "ts": 1793496563.950751
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
-    "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
-    "tokens": [
-      "billion",
-      "binance",
-      "crypto",
-      "fbi",
-      "korea",
-      "links",
-      "north",
-      "record",
-      "theft"
-    ],
-    "ts": 1793496571.3377087
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/republic-bancorp-evp-jeff-starke-sells-75769-in-stock-93CH-4989350",
-    "title": "Republic Bancorp EVP Jeff Starke sells $75,769 in stock",
-    "tokens": [
-      "769",
-      "bancorp",
-      "evp",
-      "jeff",
-      "republic",
-      "sells",
-      "starke",
-      "stock"
-    ],
-    "ts": 1793496578.2739892
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/russian-oil-tankers-deploy-makeshift-drone-defenses-amid-ukraine-attacks--wsj-4989348",
-    "title": "Russian oil tankers deploy makeshift drone defenses amid Ukraine attacks - WSJ",
-    "tokens": [
-      "attacks",
-      "defenses",
-      "deploy",
-      "drone",
-      "makeshift",
-      "oil",
-      "russian",
-      "tankers",
-      "ukraine",
-      "wsj"
-    ],
-    "ts": 1793496584.5486963
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
-    "title": "Top takeaways from Bernstein’s annual Global Sportswear survey",
-    "tokens": [
-      "annual",
-      "bernstein",
-      "global",
-      "sportswear",
-      "survey",
-      "takeaways",
-      "top"
-    ],
-    "ts": 1793496592.0083184
-  },
-  {
-    "id": "oilprice-article-45938",
-    "title": "Chevron Raises Exploration Spending By 50%",
-    "tokens": [
-      "chevron",
-      "exploration",
-      "raises",
-      "spending"
-    ],
-    "ts": 1793496600.1175482
-  },
-  {
-    "id": "oilprice-news-45938",
-    "title": "ExxonMobil Profits Double to $15.4 Billion",
-    "tokens": [
-      "billion",
-      "double",
-      "exxonmobil",
-      "profits"
-    ],
-    "ts": 1793496604.1331975
-  },
-  {
-    "id": "34bf6cb5-4f6a-47d0-b7a2-256421f4b61b",
-    "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-    "tokens": [
-      "addresses",
-      "asks",
-      "billion",
-      "binance",
-      "block",
-      "btc",
-      "community",
-      "confirms",
-      "defi",
-      "eth",
-      "fbi",
-      "hack",
-      "korea",
-      "north",
-      "role",
-      "sol"
-    ],
-    "ts": 1793496607.5365257
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high-4989416",
-    "title": "Xiaomi’s October EV deliveries top 50,000, hit 2026 monthly high",
-    "tokens": [
-      "000",
-      "2026",
-      "deliveries",
-      "high",
-      "hit",
-      "monthly",
-      "october",
-      "top",
-      "xiaomi"
-    ],
-    "ts": 1793520127.028291
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413",
-    "title": "Iran offers 48-hour Hormuz reopening plan as Trump signals progress in talks",
-    "tokens": [
-      "hormuz",
-      "hour",
-      "iran",
-      "offers",
-      "plan",
-      "progress",
-      "reopening",
-      "signals",
-      "talks",
-      "trump"
-    ],
-    "ts": 1793520133.805268
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/bangladesh-to-form-wage-board-after-garment-protests-shut-factories-4989374",
-    "title": "Bangladesh forms wage board as garment protests turn violent",
-    "tokens": [
-      "bangladesh",
-      "board",
-      "forms",
-      "garment",
-      "protests",
-      "turn",
-      "violent",
-      "wage"
-    ],
-    "ts": 1793520140.7272763
-  },
-  {
     "id": "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
     "title": "Binance resumes bitcoin withdrawals after covering bulk of stolen $6.3 billion",
     "tokens": [
@@ -23979,5 +23792,188 @@
       "volatility"
     ],
     "ts": 1794675566.1915889
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/phio-pharmaceuticals-director-david-deming-buys-10066-in-stock-93CH-5027510",
+    "title": "Phio Pharmaceuticals director David Deming buys $10,066 in stock",
+    "tokens": [
+      "066",
+      "buys",
+      "david",
+      "deming",
+      "director",
+      "pharmaceuticals",
+      "phio",
+      "stock"
+    ],
+    "ts": 1794690450.5762136
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/duffy-investigates-l3harris-over-faa-outage-that-grounded-us-flights-5027454",
+    "title": "Brookfield, CPPIB advance in Uniper sale as Germany plans stake reduction- Reuters",
+    "tokens": [
+      "advance",
+      "brookfield",
+      "cppib",
+      "germany",
+      "plans",
+      "reduction",
+      "reuters",
+      "sale",
+      "stake",
+      "uniper"
+    ],
+    "ts": 1794690461.6199675
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/standard-motor-products-cco-dale-burks-sells-89162-in-smp-stock-93CH-5027505",
+    "title": "Standard Motor Products CCO Dale Burks sells $89,162 in SMP stock",
+    "tokens": [
+      "162",
+      "burks",
+      "cco",
+      "dale",
+      "motor",
+      "products",
+      "sells",
+      "smp",
+      "standard",
+      "stock"
+    ],
+    "ts": 1794690472.4411793
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/standard-motor-products-cio-nicholas-ray-sells-55786-in-shares-93CH-5027500",
+    "title": "Standard Motor Products CIO Nicholas Ray sells $55,786 in shares",
+    "tokens": [
+      "786",
+      "cio",
+      "motor",
+      "nicholas",
+      "products",
+      "ray",
+      "sells",
+      "shares",
+      "standard"
+    ],
+    "ts": 1794690482.8096113
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/standard-motor-products-ceo--president-sills-sells-125307-in-shares-93CH-5027497",
+    "title": "Standard Motor Products CEO & president Sills sells $125,307 in shares",
+    "tokens": [
+      "125",
+      "307",
+      "ceo",
+      "motor",
+      "president",
+      "products",
+      "sells",
+      "shares",
+      "sills",
+      "standard"
+    ],
+    "ts": 1794690494.5899978
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/david-kershaw-svp-sells-50282-in-tompkins-financial-stock-93CH-5027498",
+    "title": "David Kershaw, SVP, sells $50,282 in Tompkins Financial stock",
+    "tokens": [
+      "282",
+      "david",
+      "financial",
+      "kershaw",
+      "sells",
+      "stock",
+      "svp",
+      "tompkins"
+    ],
+    "ts": 1794690504.893981
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/standard-motor-products-clo-sells-75374-in-shares-93CH-5027499",
+    "title": "Standard Motor Products CLO sells $75,374 in shares",
+    "tokens": [
+      "374",
+      "clo",
+      "motor",
+      "products",
+      "sells",
+      "shares",
+      "standard"
+    ],
+    "ts": 1794690515.4154816
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495",
+    "title": "US aviation shutdown blamed on L3 Harris installed router",
+    "tokens": [
+      "aviation",
+      "blamed",
+      "harris",
+      "installed",
+      "router",
+      "shutdown"
+    ],
+    "ts": 1794690525.7250664
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/comstock-holding-director-david-hirsh-buys-23911-in-shares-93CH-5027483",
+    "title": "Comstock Holding director David Hirsh buys $23,911 in shares",
+    "tokens": [
+      "911",
+      "buys",
+      "comstock",
+      "david",
+      "director",
+      "hirsh",
+      "holding",
+      "shares"
+    ],
+    "ts": 1794690537.671211
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489",
+    "title": "U.S. flight disruptions persist as FAA probes L3Harris role in nationwide outage",
+    "tokens": [
+      "disruptions",
+      "faa",
+      "flight",
+      "l3harris",
+      "nationwide",
+      "outage",
+      "persist",
+      "probes",
+      "role"
+    ],
+    "ts": 1794690549.8809867
+  },
+  {
+    "id": "oilprice-article-46058",
+    "title": "Iran War Accelerates Southeast Asia’s Renewable Energy Push",
+    "tokens": [
+      "accelerates",
+      "asia",
+      "energy",
+      "iran",
+      "push",
+      "renewable",
+      "southeast",
+      "war"
+    ],
+    "ts": 1794690564.1601014
+  },
+  {
+    "id": "oilprice-article-46062",
+    "title": "Singapore Makes a $65 Billion Bet on the Future of Gold",
+    "tokens": [
+      "bet",
+      "billion",
+      "future",
+      "gold",
+      "makes",
+      "singapore"
+    ],
+    "ts": 1794690575.5100408
   }
 ]

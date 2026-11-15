@@ -1,352 +1,5 @@
 [
   {
-    "id": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report",
-    "title": "DeepSeek developing AI agent requiring less human input: Report",
-    "tokens": [
-      "agent",
-      "deepseek",
-      "developing",
-      "human",
-      "input",
-      "less",
-      "report",
-      "requiring"
-    ],
-    "ts": 1793545841.9617534
-  },
-  {
-    "id": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack",
-    "title": "Binance says phase one of withdrawals opens after $6.3B hack",
-    "tokens": [
-      "binance",
-      "hack",
-      "one",
-      "opens",
-      "phase",
-      "withdrawals"
-    ],
-    "ts": 1793545848.3880165
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
-    "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
-    "tokens": [
-      "binance",
-      "bitcoin",
-      "downside",
-      "faces",
-      "fear",
-      "further",
-      "hack",
-      "markets",
-      "rattles",
-      "risks",
-      "surges"
-    ],
-    "ts": 1793561987.5653038
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/new-zealands-twospeed-economy-poses-election-dilemma-for-ruling-national-party-4989769",
-    "title": "New Zealand’s two-speed economy poses election dilemma for ruling National party",
-    "tokens": [
-      "dilemma",
-      "economy",
-      "election",
-      "national",
-      "party",
-      "poses",
-      "ruling",
-      "speed",
-      "two",
-      "zealand"
-    ],
-    "ts": 1793561994.3054004
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/raymond-james-cuts-oil-states-stock-price-target-on-guidance-outlook-93CH-4989767",
-    "title": "Raymond James cuts Oil States stock price target on guidance outlook",
-    "tokens": [
-      "cuts",
-      "guidance",
-      "james",
-      "oil",
-      "outlook",
-      "price",
-      "raymond",
-      "states",
-      "stock",
-      "target"
-    ],
-    "ts": 1793562001.668412
-  },
-  {
-    "id": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
-    "title": "'SNL' goes after AI, startup culture, and 'predatory tech guys'",
-    "tokens": [
-      "culture",
-      "goes",
-      "guys",
-      "predatory",
-      "snl",
-      "startup",
-      "tech"
-    ],
-    "ts": 1793562008.89342
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/shareholder-alert-bronstein-gewirtz-grossman-llc-announces-class-action-against-oi-glass-inc.-oi-investors-who-suffered-losses-are-encouraged-to-contact-the-firm-1036696088",
-    "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against O-I Glass, Inc. (OI) - Investors Who Suffered Losses Are Encouraged to Contact the Firm",
-    "tokens": [
-      "action",
-      "against",
-      "alert",
-      "announces",
-      "bronstein",
-      "class",
-      "contact",
-      "encouraged",
-      "firm",
-      "gewirtz",
-      "glass",
-      "grossman",
-      "inc",
-      "investors",
-      "llc",
-      "losses",
-      "shareholder",
-      "suffered",
-      "who"
-    ],
-    "ts": 1793562016.5751545
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/shareholder-alert-bronstein-gewirtz-grossman-llc-announces-class-action-against-gildan-activewear-inc.-gil-investors-who-suffered-losses-are-encouraged-to-contact-the-firm.-1036660320",
-    "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Gildan Activewear Inc. (GIL) - Investors Who Suffered Losses Are Encouraged to Contact the Firm.",
-    "tokens": [
-      "action",
-      "activewear",
-      "against",
-      "alert",
-      "announces",
-      "bronstein",
-      "class",
-      "contact",
-      "encouraged",
-      "firm",
-      "gewirtz",
-      "gil",
-      "gildan",
-      "grossman",
-      "inc",
-      "investors",
-      "llc",
-      "losses",
-      "shareholder",
-      "suffered",
-      "who"
-    ],
-    "ts": 1793562020.5905933
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/bronstein-gewirtz-grossman-llc-urges-netcapital-inc.-investors-to-act-class-action-filed-alleging-investor-harm-1036614708",
-    "title": "Bronstein, Gewirtz & Grossman LLC Urges Netcapital Inc. Investors to Act: Class Action Filed Alleging Investor Harm",
-    "tokens": [
-      "act",
-      "action",
-      "alleging",
-      "bronstein",
-      "class",
-      "filed",
-      "gewirtz",
-      "grossman",
-      "harm",
-      "inc",
-      "investor",
-      "investors",
-      "llc",
-      "netcapital",
-      "urges"
-    ],
-    "ts": 1793562024.279311
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-ranked-and-leading-law-firm-encourages-dwave-quantum-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-qbts-1036662792",
-    "title": "ROSEN, A RANKED AND LEADING LAW FIRM, Encourages D-Wave Quantum Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - QBTS",
-    "tokens": [
-      "action",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "firm",
-      "important",
-      "inc",
-      "investors",
-      "law",
-      "leading",
-      "qbts",
-      "quantum",
-      "ranked",
-      "rosen",
-      "secure",
-      "securities",
-      "wave"
-    ],
-    "ts": 1793562031.6033344
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-national-investor-counsel-encourages-everest-group-ltd.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-eg-1036696081",
-    "title": "ROSEN, NATIONAL INVESTOR COUNSEL, Encourages Everest Group, Ltd. Investors to Secure Counsel Before Important Deadline in Securities Class Action - EG",
-    "tokens": [
-      "action",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "everest",
-      "group",
-      "important",
-      "investor",
-      "investors",
-      "ltd",
-      "national",
-      "rosen",
-      "secure",
-      "securities"
-    ],
-    "ts": 1793562038.538503
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/tigo-deadline-rosen-skilled-investor-counsel-encourages-tigo-energy-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-tygo-1036696070",
-    "title": "TIGO DEADLINE; ROSEN, SKILLED INVESTOR COUNSEL, Encourages Tigo Energy, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - TYGO",
-    "tokens": [
-      "action",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "energy",
-      "filed",
-      "firm",
-      "first",
-      "important",
-      "inc",
-      "investor",
-      "investors",
-      "rosen",
-      "secure",
-      "securities",
-      "skilled",
-      "tigo",
-      "tygo"
-    ],
-    "ts": 1793562042.5540063
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/applovin-deadline-rosen-skilled-investor-counsel-encourages-applovin-corporation-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-app-1036694975",
-    "title": "APPLOVIN DEADLINE: ROSEN, SKILLED INVESTOR COUNSEL, Encourages AppLovin Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - APP",
-    "tokens": [
-      "action",
-      "app",
-      "applovin",
-      "before",
-      "class",
-      "corporation",
-      "counsel",
-      "deadline",
-      "encourages",
-      "important",
-      "investor",
-      "investors",
-      "rosen",
-      "secure",
-      "securities",
-      "skilled"
-    ],
-    "ts": 1793562042.5696845
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-ranked-and-leading-law-firm-encourages-the-ensign-group-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-ensg-1036662787",
-    "title": "ROSEN, A RANKED AND LEADING LAW FIRM, Encourages The Ensign Group, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - ENSG",
-    "tokens": [
-      "action",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "ensg",
-      "ensign",
-      "filed",
-      "firm",
-      "first",
-      "group",
-      "important",
-      "inc",
-      "investors",
-      "law",
-      "leading",
-      "ranked",
-      "rosen",
-      "secure",
-      "securities"
-    ],
-    "ts": 1793562042.5847867
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-national-investor-counsel-encourages-oi-glass-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-oi-1036696065",
-    "title": "ROSEN, NATIONAL INVESTOR COUNSEL, Encourages O-I Glass, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - OI",
-    "tokens": [
-      "action",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "glass",
-      "important",
-      "inc",
-      "investor",
-      "investors",
-      "national",
-      "rosen",
-      "secure",
-      "securities"
-    ],
-    "ts": 1793562042.5995164
-  },
-  {
-    "id": "oilprice-article-45935",
-    "title": "U.S. Labs Look to New Materials to Close China's Nuclear Lead",
-    "tokens": [
-      "china",
-      "close",
-      "labs",
-      "lead",
-      "look",
-      "materials",
-      "nuclear"
-    ],
-    "ts": 1793562045.9667008
-  },
-  {
-    "id": "oilprice-article-45930",
-    "title": "Azerbaijan’s Renewable Energy Boom Is Transforming Its Power Sector",
-    "tokens": [
-      "azerbaijan",
-      "boom",
-      "energy",
-      "power",
-      "renewable",
-      "sector",
-      "transforming"
-    ],
-    "ts": 1793562053.0755112
-  },
-  {
     "id": "212b4a37-d843-4b6b-ad4c-85c682354f2b",
     "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
     "tokens": [
@@ -23959,5 +23612,276 @@
       "years"
     ],
     "ts": 1794729285.9768229
+  },
+  {
+    "id": "WP-MKTW-0005343260",
+    "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+    "tokens": [
+      "anticipated",
+      "calls",
+      "earnings",
+      "gearing",
+      "most",
+      "nvidia",
+      "one",
+      "street",
+      "wall",
+      "years"
+    ],
+    "ts": 1794756204.5639732
+  },
+  {
+    "id": "WP-MKTW-0005347170",
+    "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+    "tokens": [
+      "anthropic",
+      "broader",
+      "create",
+      "did",
+      "disturbance",
+      "equity",
+      "ipo",
+      "like",
+      "market",
+      "spacex"
+    ],
+    "ts": 1794756215.6906908
+  },
+  {
+    "id": "WP-MKTW-0005345605",
+    "title": "The U.S. is turning more socialist under Trump 2.0, one analyst says. What could change with a Democratic-run Congress?",
+    "tokens": [
+      "analyst",
+      "change",
+      "congress",
+      "could",
+      "democratic",
+      "more",
+      "one",
+      "run",
+      "socialist",
+      "trump",
+      "turning",
+      "under",
+      "what"
+    ],
+    "ts": 1794756224.3149939
+  },
+  {
+    "id": "WP-MKTW-0005347668",
+    "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
+    "tokens": [
+      "against",
+      "both",
+      "gold",
+      "inflation",
+      "instead",
+      "metals",
+      "protect",
+      "silver",
+      "supposed",
+      "tumbling",
+      "why"
+    ],
+    "ts": 1794756234.9207087
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-buys-2305-in-renn-fund-shares-93CH-5027981",
+    "title": "Horizon Kinetics Asset Management buys $2,305 in RENN Fund shares",
+    "tokens": [
+      "305",
+      "asset",
+      "buys",
+      "fund",
+      "horizon",
+      "kinetics",
+      "management",
+      "renn",
+      "shares"
+    ],
+    "ts": 1794756245.9553056
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-summit-therapeutics-stock-rating-after-fda-setback-93CH-5027978",
+    "title": "Jefferies reiterates Summit Therapeutics stock rating after FDA setback",
+    "tokens": [
+      "fda",
+      "jefferies",
+      "rating",
+      "reiterates",
+      "setback",
+      "stock",
+      "summit",
+      "therapeutics"
+    ],
+    "ts": 1794756257.1383007
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/driven-brands-earnings-loom-amid-restatement-take-5-concerns-93CH-5027976",
+    "title": "Driven Brands earnings loom amid restatement, Take 5 concerns",
+    "tokens": [
+      "brands",
+      "concerns",
+      "driven",
+      "earnings",
+      "loom",
+      "restatement",
+      "take"
+    ],
+    "ts": 1794756266.546473
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/hub-group-earnings-in-focus-as-accounting-woes-cloud-strong-market-93CH-5027975",
+    "title": "Hub Group earnings in focus as accounting woes cloud strong market",
+    "tokens": [
+      "accounting",
+      "cloud",
+      "earnings",
+      "focus",
+      "group",
+      "hub",
+      "market",
+      "strong",
+      "woes"
+    ],
+    "ts": 1794756276.0591302
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/savara-investors-brace-for-earnings-ahead-of-key-fda-ruling-93CH-5027973",
+    "title": "Savara investors brace for earnings ahead of key FDA ruling",
+    "tokens": [
+      "ahead",
+      "brace",
+      "earnings",
+      "fda",
+      "investors",
+      "key",
+      "ruling",
+      "savara"
+    ],
+    "ts": 1794756285.038155
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/texas-pacific-land-10-owner-horizon-kinetics-buys-370-stock-93CH-5027970",
+    "title": "Texas Pacific Land: 10% owner Horizon Kinetics buys $370 stock",
+    "tokens": [
+      "370",
+      "buys",
+      "horizon",
+      "kinetics",
+      "land",
+      "owner",
+      "pacific",
+      "stock",
+      "texas"
+    ],
+    "ts": 1794756295.2133453
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-56309-in-company-stock-93CH-5027969",
+    "title": "Verizon evp Kyle Malady sells $56,309 in company stock",
+    "tokens": [
+      "309",
+      "company",
+      "evp",
+      "kyle",
+      "malady",
+      "sells",
+      "stock",
+      "verizon"
+    ],
+    "ts": 1794756305.145479
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/mt-bank-corp-ceo-rene-jones-sells-464-million-in-shares-93CH-5027966",
+    "title": "M&T Bank Corp CEO Rene Jones sells $4.64 million in shares",
+    "tokens": [
+      "bank",
+      "ceo",
+      "corp",
+      "jones",
+      "million",
+      "rene",
+      "sells",
+      "shares"
+    ],
+    "ts": 1794756314.7145784
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/megaspeed-says-exec-tied-to-exnvidia-ceo-left-in-2025-amid-us-chip-scrutiny-5027830",
+    "title": "Megaspeed says ex-Nvidia CEO-linked executive left in 2025 amid U.S. scrutiny",
+    "tokens": [
+      "2025",
+      "ceo",
+      "executive",
+      "left",
+      "linked",
+      "megaspeed",
+      "nvidia",
+      "scrutiny"
+    ],
+    "ts": 1794756323.7061288
+  },
+  {
+    "id": "afff7995-81bc-49b7-b103-f99e810fe8b0",
+    "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+    "tokens": [
+      "aren",
+      "congress",
+      "counting",
+      "crypto",
+      "duck",
+      "insiders",
+      "lame",
+      "linings",
+      "session",
+      "silver"
+    ],
+    "ts": 1794756334.114797
+  },
+  {
+    "id": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead",
+    "title": "Enterprise blockchain is going to come back from the dead",
+    "tokens": [
+      "back",
+      "blockchain",
+      "come",
+      "dead",
+      "enterprise",
+      "going"
+    ],
+    "ts": 1794756344.715647
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
+    "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+    "tokens": [
+      "62k",
+      "bitcoin",
+      "crypto",
+      "deepens",
+      "falls",
+      "four",
+      "low",
+      "month",
+      "near",
+      "selloff"
+    ],
+    "ts": 1794756355.0451205
+  },
+  {
+    "id": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
+    "title": "Coinone warns of phishing, identity theft after customer data breach",
+    "tokens": [
+      "breach",
+      "coinone",
+      "customer",
+      "data",
+      "identity",
+      "phishing",
+      "theft",
+      "warns"
+    ],
+    "ts": 1794756364.2745132
   }
 ]

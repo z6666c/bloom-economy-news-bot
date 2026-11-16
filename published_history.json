@@ -1,268 +1,5 @@
 [
   {
-    "id": "oilprice-news-45940",
-    "title": "Goldman Sachs Raises December Brent Oil Price Forecast to $105",
-    "tokens": [
-      "105",
-      "brent",
-      "december",
-      "forecast",
-      "goldman",
-      "oil",
-      "price",
-      "raises",
-      "sachs"
-    ],
-    "ts": 1793613623.0515077
-  },
-  {
-    "id": "oilprice-news-45939",
-    "title": "U.S. Pushes to Restore Russian Gas Flows to Europe",
-    "tokens": [
-      "europe",
-      "flows",
-      "gas",
-      "pushes",
-      "restore",
-      "russian"
-    ],
-    "ts": 1793613630.7302337
-  },
-  {
-    "id": "9aaaf3df-caad-4da8-a338-5e138496f11e",
-    "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
-    "tokens": [
-      "backed",
-      "copper",
-      "germany",
-      "issues",
-      "metals",
-      "physical",
-      "stored",
-      "tokens",
-      "tonnes"
-    ],
-    "ts": 1793613638.4119387
-  },
-  {
-    "id": "735558d1-2f6f-4ec4-8fcb-d4e465768665",
-    "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
-    "tokens": [
-      "ahead",
-      "binance",
-      "crypto",
-      "fallout",
-      "hack",
-      "jobs",
-      "midterms",
-      "report",
-      "week"
-    ],
-    "ts": 1793613645.5210562
-  },
-  {
-    "id": "15bc2f0e-98b9-4523-bbba-6fc0971710d1",
-    "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
-    "tokens": [
-      "billion",
-      "binance",
-      "holdings",
-      "less",
-      "live",
-      "outflows",
-      "records",
-      "starting",
-      "then",
-      "total",
-      "updates",
-      "withdrawals"
-    ],
-    "ts": 1793613653.0740576
-  },
-  {
-    "id": "ab151bf7-7ab9-45b2-aaaa-2ff91ee0d888",
-    "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
-    "tokens": [
-      "blockchain",
-      "calls",
-      "china",
-      "communist",
-      "corruption",
-      "crackdown",
-      "crypto",
-      "party",
-      "uses"
-    ],
-    "ts": 1793613660.936805
-  },
-  {
-    "id": "4dd2a9db-a1bf-4cca-88b9-2c545b5afa9a",
-    "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
-    "tokens": [
-      "bank",
-      "billions",
-      "can",
-      "crypto",
-      "exchange",
-      "harder",
-      "stealing",
-      "stop",
-      "theft",
-      "why"
-    ],
-    "ts": 1793613668.2325191
-  },
-  {
-    "id": "d71137a9-593e-4af9-89f9-2523678ecbb9",
-    "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
-    "tokens": [
-      "2026",
-      "643",
-      "barely",
-      "bitcoin",
-      "etfs",
-      "friday",
-      "green",
-      "lost",
-      "million",
-      "now",
-      "outflows"
-    ],
-    "ts": 1793613675.4066064
-  },
-  {
-    "id": "bda8dfee-4a58-43cc-93ea-790facfafbc7",
-    "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-    "tokens": [
-      "begging",
-      "binance",
-      "bitcoin",
-      "bro",
-      "hacker",
-      "help",
-      "one",
-      "strangers",
-      "time"
-    ],
-    "ts": 1793613682.8312252
-  },
-  {
-    "id": "a5495700-b0da-4a42-a75e-bbb29870f86e",
-    "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-    "tokens": [
-      "000",
-      "back",
-      "biggest",
-      "bitcoin",
-      "claws",
-      "crypto",
-      "hack",
-      "markets",
-      "off",
-      "shake",
-      "toward"
-    ],
-    "ts": 1793613690.7745252
-  },
-  {
-    "id": "22fee8c9-31a5-4ed4-8ed6-609fc7f028ac",
-    "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
-    "tokens": [
-      "bitcoin",
-      "btcpay",
-      "drained",
-      "off",
-      "payment",
-      "reports",
-      "servers",
-      "switch",
-      "tells",
-      "their",
-      "tool",
-      "users",
-      "wallets"
-    ],
-    "ts": 1793613698.8959746
-  },
-  {
-    "id": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week",
-    "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
-    "tokens": [
-      "bitcoin",
-      "btc",
-      "heads",
-      "know",
-      "midterm",
-      "showdown",
-      "things",
-      "three",
-      "week"
-    ],
-    "ts": 1793613706.271808
-  },
-  {
-    "id": "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows",
-    "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
-    "tokens": [
-      "445m",
-      "binance",
-      "draws",
-      "exceed",
-      "inflows",
-      "net",
-      "okx",
-      "outflows"
-    ],
-    "ts": 1793613713.8576214
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows",
-    "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
-    "tokens": [
-      "643m",
-      "binance",
-      "bitcoin",
-      "etfs",
-      "exit",
-      "hack",
-      "october",
-      "outflows",
-      "sink"
-    ],
-    "ts": 1793613721.82293
-  },
-  {
-    "id": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions",
-    "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
-    "tokens": [
-      "btcpay",
-      "hot",
-      "outdated",
-      "running",
-      "server",
-      "software",
-      "thefts",
-      "wallet",
-      "warns"
-    ],
-    "ts": 1793613729.331662
-  },
-  {
-    "id": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks",
-    "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
-    "tokens": [
-      "bank",
-      "crypto",
-      "exposure",
-      "financial",
-      "firms",
-      "korea",
-      "probes",
-      "risks"
-    ],
-    "ts": 1793613736.6164343
-  },
-  {
     "id": "WP-MKTW-0005322264",
     "title": "How soon gas prices could go down now that oil is tumbling",
     "tokens": [
@@ -23901,5 +23638,250 @@
       "sellers"
     ],
     "ts": 1794788332.4210382
+  },
+  {
+    "id": "WP-MKTW-0005344534",
+    "title": "A big chunk of your 401(k) is likely invested in Nvidia",
+    "tokens": [
+      "401",
+      "big",
+      "chunk",
+      "invested",
+      "likely",
+      "nvidia",
+      "your"
+    ],
+    "ts": 1794812601.51196
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-senco-gold-q2-2026-revenue-misses-as-shares-fall-85-93CH-5028465",
+    "title": "Earnings call transcript: Senco Gold Q2 2026 revenue misses as shares fall 8.5%",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "fall",
+      "gold",
+      "misses",
+      "revenue",
+      "senco",
+      "shares",
+      "transcript"
+    ],
+    "ts": 1794812611.2600942
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/indias-wholesale-inflation-rises-to-1229-in-october-93CH-5028458",
+    "title": "India’s wholesale inflation rises to 12.29% in October",
+    "tokens": [
+      "india",
+      "inflation",
+      "october",
+      "rises",
+      "wholesale"
+    ],
+    "ts": 1794812624.154557
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/why-is-tata-motors-passenger-vehicles-stock-plunging-today-93CH-5028456",
+    "title": "Why is Tata Motors Passenger Vehicles stock plunging today?",
+    "tokens": [
+      "motors",
+      "passenger",
+      "plunging",
+      "stock",
+      "tata",
+      "today",
+      "vehicles",
+      "why"
+    ],
+    "ts": 1794812633.9806092
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/vikram-solar-q2-fy27-slides-transition-quarter-cell-plant-on-track-93CH-5028457",
+    "title": "Vikram Solar Q2 FY27 slides: transition quarter, cell plant on track",
+    "tokens": [
+      "cell",
+      "fy27",
+      "plant",
+      "quarter",
+      "slides",
+      "solar",
+      "track",
+      "transition",
+      "vikram"
+    ],
+    "ts": 1794812644.6909595
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jefferies-downgrades-amrize-stock-rating-on-margin-concerns-93CH-5028454",
+    "title": "Jefferies downgrades Amrize stock rating on margin concerns",
+    "tokens": [
+      "amrize",
+      "concerns",
+      "downgrades",
+      "jefferies",
+      "margin",
+      "rating",
+      "stock"
+    ],
+    "ts": 1794812654.0786507
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/indias-wholesale-prices-rise-1229-yearonyear-in-october-5028452",
+    "title": "India’s wholesale prices rise 12.29% year-on-year in October",
+    "tokens": [
+      "india",
+      "october",
+      "prices",
+      "rise",
+      "wholesale",
+      "year"
+    ],
+    "ts": 1794812664.5260332
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/anna-locke-director-buys-18981-in-southern-first-bancshares-stock-93CH-5028449",
+    "title": "Anna Locke, director, buys $18,981 in Southern First Bancshares stock",
+    "tokens": [
+      "981",
+      "anna",
+      "bancshares",
+      "buys",
+      "director",
+      "first",
+      "locke",
+      "southern",
+      "stock"
+    ],
+    "ts": 1794812673.7732368
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/tata-motors-shares-tumble-on-jlr-margin-cut-restructuring-costs-93CH-5028447",
+    "title": "Tata Motors shares tumble on JLR margin cut, restructuring costs",
+    "tokens": [
+      "costs",
+      "cut",
+      "jlr",
+      "margin",
+      "motors",
+      "restructuring",
+      "shares",
+      "tata",
+      "tumble"
+    ],
+    "ts": 1794812684.8420186
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-ashok-leyland-posts-q2-2026-revenue-beat-as-margin-pressure-lingers-93CH-5028446",
+    "title": "Earnings call transcript: Ashok Leyland posts Q2 2026 revenue beat as margin pressure lingers",
+    "tokens": [
+      "2026",
+      "ashok",
+      "beat",
+      "call",
+      "earnings",
+      "leyland",
+      "lingers",
+      "margin",
+      "posts",
+      "pressure",
+      "revenue",
+      "transcript"
+    ],
+    "ts": 1794812698.5166147
+  },
+  {
+    "id": "bb6550f3-71ea-4fe5-8e49-96baebfc72d1",
+    "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
+    "tokens": [
+      "bid",
+      "buy",
+      "cardano",
+      "copper",
+      "holders",
+      "million",
+      "vote",
+      "warehouse"
+    ],
+    "ts": 1794812709.1426642
+  },
+  {
+    "id": "5f9e9a17-201d-487b-9903-82f2a4fad41a",
+    "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+    "tokens": [
+      "administration",
+      "champions",
+      "name",
+      "national",
+      "nvidia",
+      "openai",
+      "others",
+      "several",
+      "trump"
+    ],
+    "ts": 1794812719.9057837
+  },
+  {
+    "id": "d657267b-19ff-4c14-8d10-118d8ed6764b",
+    "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+    "tokens": [
+      "000",
+      "100",
+      "above",
+      "below",
+      "bet",
+      "biggest",
+      "bitcoin",
+      "drop",
+      "now",
+      "rally"
+    ],
+    "ts": 1794812730.1534603
+  },
+  {
+    "id": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes",
+    "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+    "tokens": [
+      "aster",
+      "ceo",
+      "foul",
+      "minutes",
+      "play",
+      "plunges",
+      "suspects",
+      "token"
+    ],
+    "ts": 1794812740.3849847
+  },
+  {
+    "id": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings",
+    "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+    "tokens": [
+      "ahead",
+      "asian",
+      "chip",
+      "earnings",
+      "nvidia",
+      "stocks",
+      "tumble"
+    ],
+    "ts": 1794812749.4636385
+  },
+  {
+    "id": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+    "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+    "tokens": [
+      "bitcoin",
+      "ceo",
+      "dark",
+      "following",
+      "forest",
+      "hijack",
+      "luxor",
+      "miner",
+      "warns"
+    ],
+    "ts": 1794812759.6294644
   }
 ]

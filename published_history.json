@@ -1,386 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/palo-alto-networks-president-sells-65m-in-shares-93CH-4997153",
-    "title": "Palo Alto Networks president sells $6.5M in shares",
-    "tokens": [
-      "alto",
-      "networks",
-      "palo",
-      "president",
-      "sells",
-      "shares"
-    ],
-    "ts": 1793760236.3268151
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/exclusivejapan-fund-jic-plans-to-sell-jsr-to-mitsui-chemicals-sources-say-4997042",
-    "title": "Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
-    "tokens": [
-      "chemicals",
-      "exclusive",
-      "fund",
-      "japan",
-      "jic",
-      "jsr",
-      "mitsui",
-      "plans",
-      "say",
-      "sell",
-      "sources"
-    ],
-    "ts": 1793760243.9055166
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/goodman-eyes-9-annual-earnings-growth-as-data-center-demand-strengthens-4997143",
-    "title": "Goodman eyes 9% annual earnings growth as data center demand strengthens",
-    "tokens": [
-      "annual",
-      "center",
-      "data",
-      "demand",
-      "earnings",
-      "eyes",
-      "goodman",
-      "growth",
-      "strengthens"
-    ],
-    "ts": 1793760250.3343334
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge-4997141",
-    "title": "AMD’s OpenAI, Meta chip deals trigger $1 billion quarterly charge",
-    "tokens": [
-      "amd",
-      "billion",
-      "charge",
-      "chip",
-      "deals",
-      "meta",
-      "openai",
-      "quarterly",
-      "trigger"
-    ],
-    "ts": 1793760257.2088473
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/replimune-director-kapil-dhingra-sells-408500-in-stock-93CH-4997140",
-    "title": "Replimune director Kapil Dhingra sells $408,500 in stock",
-    "tokens": [
-      "408",
-      "500",
-      "dhingra",
-      "director",
-      "kapil",
-      "replimune",
-      "sells",
-      "stock"
-    ],
-    "ts": 1793760264.1639442
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/496-since-march-our-aipicked-chipmaker-keeps-climbing-after-last-weeks-rout-4997130",
-    "title": "+49.6% since March: our AI-picked chipmaker keeps climbing after last week’s rout",
-    "tokens": [
-      "chipmaker",
-      "climbing",
-      "keeps",
-      "last",
-      "march",
-      "our",
-      "picked",
-      "rout",
-      "since",
-      "week"
-    ],
-    "ts": 1793760270.5744567
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/chinas-services-activity-growth-slows-to-3mth-low-in-october-4997129",
-    "title": "China’s services activity growth slows to 3-mth low in October",
-    "tokens": [
-      "activity",
-      "china",
-      "growth",
-      "low",
-      "mth",
-      "october",
-      "services",
-      "slows"
-    ],
-    "ts": 1793760277.3598669
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/kakaobank-q3-2026-slides-profit-jumps-27-on-deposit-growth-93CH-4997128",
-    "title": "KakaoBank Q3 2026 slides: profit jumps 27% on deposit growth",
-    "tokens": [
-      "2026",
-      "deposit",
-      "growth",
-      "jumps",
-      "kakaobank",
-      "profit",
-      "slides"
-    ],
-    "ts": 1793760283.8083754
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-await-us-midterm-election-results-4997127",
-    "title": "Oil edges down as investors await US midterm election results",
-    "tokens": [
-      "await",
-      "edges",
-      "election",
-      "investors",
-      "midterm",
-      "oil",
-      "results"
-    ],
-    "ts": 1793760290.6728194
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-kakaobank-posts-strong-q3-2026-profit-growth-93CH-4997122",
-    "title": "Earnings call transcript: KakaoBank posts strong Q3 2026 profit growth",
-    "tokens": [
-      "2026",
-      "call",
-      "earnings",
-      "growth",
-      "kakaobank",
-      "posts",
-      "profit",
-      "strong",
-      "transcript"
-    ],
-    "ts": 1793760297.620306
-  },
-  {
-    "id": "oilprice-article-45964",
-    "title": "Pentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold",
-    "tokens": [
-      "china",
-      "deal",
-      "earth",
-      "end",
-      "eyes",
-      "pentagon",
-      "rare",
-      "stranglehold",
-      "unprecedented",
-      "year"
-    ],
-    "ts": 1793760306.3168962
-  },
-  {
-    "id": "oilprice-article-45963",
-    "title": "Iran War Doubles Egypt’s LNG Bill as Gas Output Keeps Falling",
-    "tokens": [
-      "bill",
-      "doubles",
-      "egypt",
-      "falling",
-      "gas",
-      "iran",
-      "keeps",
-      "lng",
-      "output",
-      "war"
-    ],
-    "ts": 1793760313.3967621
-  },
-  {
-    "id": "oilprice-article-45962",
-    "title": "Global Diesel Crunch Set to Last Well Into 2027",
-    "tokens": [
-      "2027",
-      "crunch",
-      "diesel",
-      "global",
-      "last",
-      "set",
-      "well"
-    ],
-    "ts": 1793760320.123411
-  },
-  {
-    "id": "oilprice-article-45961",
-    "title": "Big Oil Puts Debt Reduction Ahead of New Investments",
-    "tokens": [
-      "ahead",
-      "big",
-      "debt",
-      "investments",
-      "oil",
-      "puts",
-      "reduction"
-    ],
-    "ts": 1793760327.1134412
-  },
-  {
-    "id": "oilprice-news-45964",
-    "title": "US Crude Oil Inventories Still in Freefall",
-    "tokens": [
-      "crude",
-      "freefall",
-      "inventories",
-      "oil",
-      "still"
-    ],
-    "ts": 1793760331.1296468
-  },
-  {
-    "id": "oilprice-news-45963",
-    "title": "Iran War Triples Logistics Costs for Oil Services Firms",
-    "tokens": [
-      "costs",
-      "firms",
-      "iran",
-      "logistics",
-      "oil",
-      "services",
-      "triples",
-      "war"
-    ],
-    "ts": 1793760331.1455305
-  },
-  {
-    "id": "719e295c-8196-49d2-8310-9754f1f449f8",
-    "title": "Live updates: Crypto's big election gamble faces voters as Democrats gain ground",
-    "tokens": [
-      "big",
-      "crypto",
-      "democrats",
-      "election",
-      "faces",
-      "gain",
-      "gamble",
-      "ground",
-      "live",
-      "updates",
-      "voters"
-    ],
-    "ts": 1793760334.1834133
-  },
-  {
-    "id": "045b3be7-30bf-444a-bc6f-49fcd6ae5538",
-    "title": "What voters said about their views on crypto",
-    "tokens": [
-      "about",
-      "crypto",
-      "their",
-      "views",
-      "voters",
-      "what"
-    ],
-    "ts": 1793760341.425837
-  },
-  {
-    "id": "56e3cd27-b21b-4bfa-a8c1-d3a0ddda3122",
-    "title": "What happens if North Korea steals Wall Street's tokenized assets next",
-    "tokens": [
-      "assets",
-      "happens",
-      "korea",
-      "next",
-      "north",
-      "steals",
-      "street",
-      "tokenized",
-      "wall",
-      "what"
-    ],
-    "ts": 1793760348.1843488
-  },
-  {
-    "id": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto",
-    "title": "US midterms election 2026 live: Crypto-backed Andy Barr wins Kentucky Senate seat",
-    "tokens": [
-      "2026",
-      "andy",
-      "backed",
-      "barr",
-      "crypto",
-      "election",
-      "kentucky",
-      "live",
-      "midterms",
-      "seat",
-      "senate",
-      "wins"
-    ],
-    "ts": 1793760355.1060433
-  },
-  {
-    "id": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold",
-    "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
-    "tokens": [
-      "1inch",
-      "agencies",
-      "crypto",
-      "driving",
-      "lawyer",
-      "midterms",
-      "regulation",
-      "sees",
-      "unfold"
-    ],
-    "ts": 1793760361.3682191
-  },
-  {
-    "id": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage",
-    "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
-    "tokens": [
-      "halt",
-      "most",
-      "rallies",
-      "restarts",
-      "rune",
-      "swaps",
-      "thorchain"
-    ],
-    "ts": 1793760368.4838135
-  },
-  {
-    "id": "WP-MKTW-0005326387",
-    "title": "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership",
-    "tokens": [
-      "alphabet",
-      "big",
-      "companies",
-      "diluting",
-      "issuing",
-      "like",
-      "meta",
-      "more",
-      "ownership",
-      "shares",
-      "stock",
-      "tech",
-      "watch",
-      "your"
-    ],
-    "ts": 1793814451.0955749
-  },
-  {
-    "id": "WP-MKTW-0005327076",
-    "title": "Hospital stocks rally while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.",
-    "tokens": [
-      "brace",
-      "democratic",
-      "drugmakers",
-      "healthcare",
-      "here",
-      "hospital",
-      "means",
-      "rally",
-      "scrutiny",
-      "stocks",
-      "wave",
-      "what",
-      "while"
-    ],
-    "ts": 1793814458.5980194
-  },
-  {
     "id": "WP-MKTW-0005327016",
     "title": "What Trump can achieve without approval from a Democratic-led Congress",
     "tokens": [
@@ -23816,5 +23435,387 @@
       "ukraine"
     ],
     "ts": 1794962323.276658
+  },
+  {
+    "id": "WP-MKTW-0005354846",
+    "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
+    "tokens": [
+      "approach",
+      "coreweave",
+      "disciplined",
+      "even",
+      "financing",
+      "nvidia",
+      "pops",
+      "stock",
+      "talks"
+    ],
+    "ts": 1794988676.2634308
+  },
+  {
+    "id": "WP-MKTW-0005354752",
+    "title": "Medicare Part B premiums rise due higher healthcare spending",
+    "tokens": [
+      "due",
+      "healthcare",
+      "higher",
+      "medicare",
+      "part",
+      "premiums",
+      "rise",
+      "spending"
+    ],
+    "ts": 1794988686.0200255
+  },
+  {
+    "id": "WP-MKTW-0005354670",
+    "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
+    "tokens": [
+      "blowout",
+      "ceo",
+      "ease",
+      "fears",
+      "help",
+      "numbers",
+      "nvidia",
+      "rises",
+      "stock",
+      "transition"
+    ],
+    "ts": 1794988695.044472
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/jet2-cuts-winter-seat-capacity-as-fuel-costs-bite-firsthalf-profit-falls-18-5034988",
+    "title": "Jet2 cuts winter seat capacity as fuel costs bite, first-half profit falls 18%",
+    "tokens": [
+      "bite",
+      "capacity",
+      "costs",
+      "cuts",
+      "falls",
+      "first",
+      "fuel",
+      "half",
+      "jet2",
+      "profit",
+      "seat",
+      "winter"
+    ],
+    "ts": 1794988707.4131427
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/indonesia-central-bank-hikes-rates-to-support-rupiah-5034987",
+    "title": "Indonesia central bank hikes rates to support rupiah",
+    "tokens": [
+      "bank",
+      "central",
+      "hikes",
+      "indonesia",
+      "rates",
+      "rupiah",
+      "support"
+    ],
+    "ts": 1794988717.10888
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/lumentum-president-wupen-yuen-sells-560155-in-shares-93CH-5034986",
+    "title": "Lumentum president Wupen Yuen sells $560,155 in shares",
+    "tokens": [
+      "155",
+      "560",
+      "lumentum",
+      "president",
+      "sells",
+      "shares",
+      "wupen",
+      "yuen"
+    ],
+    "ts": 1794988727.4239135
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-nvidia-stock-keeps-205-price-target-93CH-5034975",
+    "title": "Stifel reiterates Buy on Nvidia stock, keeps $205 price target",
+    "tokens": [
+      "205",
+      "buy",
+      "keeps",
+      "nvidia",
+      "price",
+      "reiterates",
+      "stifel",
+      "stock",
+      "target"
+    ],
+    "ts": 1794988737.0592167
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-nvidia-stock-price-target-on-ceo-transition-uncertainty-93CH-5034976",
+    "title": "Jefferies cuts Nvidia stock price target on CEO transition uncertainty",
+    "tokens": [
+      "ceo",
+      "cuts",
+      "jefferies",
+      "nvidia",
+      "price",
+      "stock",
+      "target",
+      "transition",
+      "uncertainty"
+    ],
+    "ts": 1794988745.9570534
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/enquest-to-sell-uk-upstream-business-to-neo-next-for-960-mln-5034974",
+    "title": "EnQuest to sell UK upstream business to NEO NEXT+ for $960 mln",
+    "tokens": [
+      "960",
+      "business",
+      "enquest",
+      "mln",
+      "neo",
+      "next",
+      "sell",
+      "upstream"
+    ],
+    "ts": 1794988754.5332236
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/us-fracking-hopeful-hires-american-heavyweights-for-sensitive-western-australia-project-5034973",
+    "title": "US fracking hopeful hires American heavyweights for sensitive Western Australia project",
+    "tokens": [
+      "american",
+      "australia",
+      "fracking",
+      "heavyweights",
+      "hires",
+      "hopeful",
+      "project",
+      "sensitive",
+      "western"
+    ],
+    "ts": 1794988764.4053583
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/analysisdeutsche-bank-leaks-test-ceo-sewings-pledge-to-reform-5033810",
+    "title": "Deutsche Bank leaks test CEO Sewing’s pledge to reform",
+    "tokens": [
+      "bank",
+      "ceo",
+      "deutsche",
+      "leaks",
+      "pledge",
+      "reform",
+      "sewing",
+      "test"
+    ],
+    "ts": 1794988773.244306
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/ukraine-strikes-crimean-bridge-for-second-day-as-russia-pounds-kyiv-bridges-5032113",
+    "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
+    "tokens": [
+      "before",
+      "blow",
+      "bridge",
+      "crimean",
+      "cripples",
+      "meeting",
+      "putin",
+      "road",
+      "trump",
+      "ukraine"
+    ],
+    "ts": 1794988781.861501
+  },
+  {
+    "id": "https://www.investing.com/news/forex-news/after-63-billion-crypto-heist-binance-plans-foray-into-5-asian-markets-5034971",
+    "title": "After $6.3 billion crypto heist, Binance plans foray into 5 Asian markets",
+    "tokens": [
+      "asian",
+      "billion",
+      "binance",
+      "crypto",
+      "foray",
+      "heist",
+      "markets",
+      "plans"
+    ],
+    "ts": 1794988791.0218408
+  },
+  {
+    "id": "oilprice-news-46095",
+    "title": "Western Australia Wins Battle Over Federal Gas Reservation Scheme",
+    "tokens": [
+      "australia",
+      "battle",
+      "federal",
+      "gas",
+      "reservation",
+      "scheme",
+      "western",
+      "wins"
+    ],
+    "ts": 1794988800.8340933
+  },
+  {
+    "id": "oilprice-news-46093",
+    "title": "Oil Prices Drop Despite Escalating U.S.-Iran Conflict",
+    "tokens": [
+      "conflict",
+      "despite",
+      "drop",
+      "escalating",
+      "iran",
+      "oil",
+      "prices"
+    ],
+    "ts": 1794988810.5453625
+  },
+  {
+    "id": "oilprice-article-46093",
+    "title": "In 45 Days Defense Giants Must Prove Their Magnets Are China-Free",
+    "tokens": [
+      "china",
+      "days",
+      "defense",
+      "free",
+      "giants",
+      "magnets",
+      "must",
+      "prove",
+      "their"
+    ],
+    "ts": 1794988819.849581
+  },
+  {
+    "id": "oilprice-article-46095",
+    "title": "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
+    "tokens": [
+      "crushed",
+      "earnings",
+      "estimates",
+      "gas",
+      "oil",
+      "quarter",
+      "stocks",
+      "third"
+    ],
+    "ts": 1794988829.0260346
+  },
+  {
+    "id": "59d2567b-cacc-4a9c-a604-4846c48c7a23",
+    "title": "Google finds self-running AI hacking tool with Russian comments in its files",
+    "tokens": [
+      "comments",
+      "files",
+      "finds",
+      "google",
+      "hacking",
+      "running",
+      "russian",
+      "self",
+      "tool"
+    ],
+    "ts": 1794988839.3154306
+  },
+  {
+    "id": "725a5c97-80bd-470f-b232-e5586974fd62",
+    "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+    "tokens": [
+      "000",
+      "basis",
+      "bitcoin",
+      "dry",
+      "live",
+      "near",
+      "popular",
+      "returns",
+      "stuck",
+      "trade",
+      "updates"
+    ],
+    "ts": 1794988847.6684601
+  },
+  {
+    "id": "584935b1-7985-4f28-b0bf-a024b3f170d9",
+    "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+    "tokens": [
+      "brothers",
+      "clears",
+      "ethereum",
+      "fraud",
+      "judge",
+      "million",
+      "mit",
+      "terms",
+      "use"
+    ],
+    "ts": 1794988856.7574143
+  },
+  {
+    "id": "143b35b4-7d5e-4f48-b660-6f9bc1bb8bd6",
+    "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+    "tokens": [
+      "bitcoin",
+      "give",
+      "history",
+      "key",
+      "looks",
+      "months",
+      "scary",
+      "slide",
+      "support",
+      "through"
+    ],
+    "ts": 1794988864.972203
+  },
+  {
+    "id": "dea17379-6888-4e5a-b31f-593b6976d11a",
+    "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
+    "tokens": [
+      "270",
+      "coins",
+      "didn",
+      "during",
+      "exchanges",
+      "million",
+      "moved",
+      "selloff",
+      "whales",
+      "xrp"
+    ],
+    "ts": 1794988874.3223495
+  },
+  {
+    "id": "3b5148a0-640b-447d-bed5-3e686a2ac030",
+    "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+    "tokens": [
+      "benefit",
+      "cftc",
+      "fight",
+      "grows",
+      "legal",
+      "markets",
+      "nominee",
+      "prediction",
+      "public",
+      "questions"
+    ],
+    "ts": 1794988883.2757354
+  },
+  {
+    "id": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore",
+    "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+    "tokens": [
+      "dubai",
+      "hardware",
+      "implant",
+      "ledger",
+      "megastore",
+      "reaches",
+      "saga",
+      "virgin"
+    ],
+    "ts": 1794988892.6909533
   }
 ]

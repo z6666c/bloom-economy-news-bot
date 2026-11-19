@@ -1,286 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005327048",
-    "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
-    "tokens": [
-      "analysts",
-      "energy",
-      "excessive",
-      "jerk",
-      "knee",
-      "other",
-      "reaction",
-      "slide",
-      "some",
-      "stocks",
-      "vistra",
-      "warn"
-    ],
-    "ts": 1793849564.0105827
-  },
-  {
-    "id": "WP-MKTW-0005325617",
-    "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-    "tokens": [
-      "000",
-      "210",
-      "brain",
-      "buy",
-      "could",
-      "custom",
-      "cut",
-      "life",
-      "married",
-      "million",
-      "porsche",
-      "short",
-      "should",
-      "tumor"
-    ],
-    "ts": 1793849572.242943
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/up-37-since-march--this-aipicked-it-services-stock-keeps-climbing-5002093",
-    "title": "Up 37% since March - this AI-picked IT services stock keeps climbing",
-    "tokens": [
-      "climbing",
-      "keeps",
-      "march",
-      "picked",
-      "services",
-      "since",
-      "stock"
-    ],
-    "ts": 1793849579.824573
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/arcutis-biotherapeutics-evp-masaru-matsuda-sells-137m-in-planned-share-sale-93CH-5002089",
-    "title": "Arcutis Biotherapeutics evp Masaru Matsuda sells $1.37M in planned share sale",
-    "tokens": [
-      "37m",
-      "arcutis",
-      "biotherapeutics",
-      "evp",
-      "masaru",
-      "matsuda",
-      "planned",
-      "sale",
-      "sells",
-      "share"
-    ],
-    "ts": 1793849586.9040413
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/procore-director-kevin-j-oconnor-sells-884982-in-shares-93CH-5002088",
-    "title": "Procore director Kevin J. O’Connor sells $884,982 in shares",
-    "tokens": [
-      "884",
-      "982",
-      "connor",
-      "director",
-      "kevin",
-      "procore",
-      "sells",
-      "shares"
-    ],
-    "ts": 1793849595.4445996
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/palantir-director-lauren-friedman-sells-252981-in-shares-93CH-5002087",
-    "title": "Palantir director Lauren Friedman sells $252,981 in shares",
-    "tokens": [
-      "252",
-      "981",
-      "director",
-      "friedman",
-      "lauren",
-      "palantir",
-      "sells",
-      "shares"
-    ],
-    "ts": 1793849603.2221327
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/janus-living-prices-263-million-share-offering-at-2850-93CH-5002079",
-    "title": "Janus Living prices 26.3 million share offering at $28.50",
-    "tokens": [
-      "janus",
-      "living",
-      "million",
-      "offering",
-      "prices",
-      "share"
-    ],
-    "ts": 1793849611.2276943
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5002078",
-    "title": "Why is Samsung Electronics stock plunging today?",
-    "tokens": [
-      "electronics",
-      "plunging",
-      "samsung",
-      "stock",
-      "today",
-      "why"
-    ],
-    "ts": 1793849619.5921588
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/japan-services-pmi-grows-for-fifth-straight-month-in-october-93CH-5002077",
-    "title": "Japan services PMI grows for fifth straight month in October",
-    "tokens": [
-      "fifth",
-      "grows",
-      "japan",
-      "month",
-      "october",
-      "pmi",
-      "services",
-      "straight"
-    ],
-    "ts": 1793849627.6086414
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/up-to-170-returns-up-to-55-off-invest-in-your-edge-this-early-black-friday-5002073",
-    "title": "Up to 170% returns, up to 55% off: Invest in your edge this Early Black Friday",
-    "tokens": [
-      "170",
-      "black",
-      "early",
-      "edge",
-      "friday",
-      "invest",
-      "off",
-      "returns",
-      "your"
-    ],
-    "ts": 1793849635.4862309
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/natera-cofounder-director-jonathan-sheena-sells-44796-in-shares-93CH-5002067",
-    "title": "Natera co-founder director Jonathan Sheena sells $44,796 in shares",
-    "tokens": [
-      "796",
-      "director",
-      "founder",
-      "jonathan",
-      "natera",
-      "sells",
-      "shares",
-      "sheena"
-    ],
-    "ts": 1793849643.7021403
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-299214-in-shares-93CH-5002065",
-    "title": "Natera executive chairman Matthew Rabinowitz sells $299,214 in shares",
-    "tokens": [
-      "214",
-      "299",
-      "chairman",
-      "executive",
-      "matthew",
-      "natera",
-      "rabinowitz",
-      "sells",
-      "shares"
-    ],
-    "ts": 1793849651.6156626
-  },
-  {
-    "id": "oilprice-article-45977",
-    "title": "Africa’s LNG Exports Set to Soar 175% as Buyers Flee Hormuz",
-    "tokens": [
-      "175",
-      "africa",
-      "buyers",
-      "exports",
-      "flee",
-      "hormuz",
-      "lng",
-      "set",
-      "soar"
-    ],
-    "ts": 1793849661.638336
-  },
-  {
-    "id": "oilprice-article-45976",
-    "title": "Butane’s Perfect Storm Sends Prices to Decade Highs",
-    "tokens": [
-      "butane",
-      "decade",
-      "highs",
-      "perfect",
-      "prices",
-      "sends",
-      "storm"
-    ],
-    "ts": 1793849670.4927144
-  },
-  {
-    "id": "oilprice-news-45977",
-    "title": "Oil Crashes 9% as Trump and Vance Blame Iran War for Midterm Rout",
-    "tokens": [
-      "blame",
-      "crashes",
-      "iran",
-      "midterm",
-      "oil",
-      "rout",
-      "trump",
-      "vance",
-      "war"
-    ],
-    "ts": 1793849674.5056958
-  },
-  {
-    "id": "oilprice-news-45976",
-    "title": "Fire Shuts Equinor’s Visund Platform in Norwegian North Sea",
-    "tokens": [
-      "equinor",
-      "fire",
-      "north",
-      "norwegian",
-      "platform",
-      "sea",
-      "shuts",
-      "visund"
-    ],
-    "ts": 1793849674.5183756
-  },
-  {
-    "id": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed",
-    "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
-    "tokens": [
-      "crypto",
-      "exchanges",
-      "hackers",
-      "india",
-      "machine",
-      "powered",
-      "speed",
-      "targeting",
-      "warns"
-    ],
-    "ts": 1793849678.792781
-  },
-  {
-    "id": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses",
-    "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
-    "tokens": [
-      "begin",
-      "bitcoin",
-      "cover",
-      "losses",
-      "mercado",
-      "monday",
-      "phased",
-      "reopening"
-    ],
-    "ts": 1793849686.389384
-  },
-  {
     "id": "WP-MKTW-0005329908",
     "title": "Research firm declares ‘end of the AI trade as we know it’ — and Asian tech stocks reflect the shift",
     "tokens": [
@@ -23829,5 +23548,270 @@
       "open"
     ],
     "ts": 1795044564.4642386
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/jack-henry--associates-sr-vp-sells-159695-in-stock-93CH-5037686",
+    "title": "Jack Henry & Associates sr vp sells $159,695 in stock",
+    "tokens": [
+      "159",
+      "695",
+      "associates",
+      "henry",
+      "jack",
+      "sells",
+      "stock"
+    ],
+    "ts": 1795062223.246023
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/revolution-medicines-senior-advisor-stephen-kelsey-sells-45m-93CH-5037685",
+    "title": "Revolution Medicines senior advisor Stephen Kelsey sells $4.5M",
+    "tokens": [
+      "advisor",
+      "kelsey",
+      "medicines",
+      "revolution",
+      "sells",
+      "senior",
+      "stephen"
+    ],
+    "ts": 1795062230.7900803
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/corvel-evp-bertels-sells-511612-in-shares-93CH-5037684",
+    "title": "Corvel evp Bertels sells $511,612 in shares",
+    "tokens": [
+      "511",
+      "612",
+      "bertels",
+      "corvel",
+      "evp",
+      "sells",
+      "shares"
+    ],
+    "ts": 1795062238.4771292
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/stocks-rise-after-anthropic-ipo-pricing-sets-stage-for-blockbuster-debut-5037540",
+    "title": "Asian stocks fail to get a lift from Anthropic’s IPO pricing",
+    "tokens": [
+      "anthropic",
+      "asian",
+      "fail",
+      "get",
+      "ipo",
+      "lift",
+      "pricing",
+      "stocks"
+    ],
+    "ts": 1795062246.7146645
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-5037110",
+    "title": "Anthropic clinches biggest IPO ever with $81 billion offering",
+    "tokens": [
+      "anthropic",
+      "biggest",
+      "billion",
+      "clinches",
+      "ever",
+      "ipo",
+      "offering"
+    ],
+    "ts": 1795062255.2646706
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-ipo-to-mint-thousands-ofmillionaires-5036941",
+    "title": "Anthropic IPO to mint thousands of millionaires",
+    "tokens": [
+      "anthropic",
+      "ipo",
+      "millionaires",
+      "mint",
+      "thousands"
+    ],
+    "ts": 1795062263.329839
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/immutep-at-bell-potter-healthcare-conference-reset-after-trial-setback-93CH-5037676",
+    "title": "Immutep at Bell Potter Healthcare Conference: reset after trial setback",
+    "tokens": [
+      "bell",
+      "conference",
+      "healthcare",
+      "immutep",
+      "potter",
+      "reset",
+      "setback",
+      "trial"
+    ],
+    "ts": 1795062270.6243033
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/fujitsu-expands-google-cloud-partnership-to-advance-ai-use-93CH-5037675",
+    "title": "Fujitsu expands Google Cloud partnership to advance AI use",
+    "tokens": [
+      "advance",
+      "cloud",
+      "expands",
+      "fujitsu",
+      "google",
+      "partnership",
+      "use"
+    ],
+    "ts": 1795062279.0809348
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/grove-collaborative-pfo-flip-van-den-bosch-acquires-4670-in-stock-93CH-5037671",
+    "title": "Grove Collaborative PFO Flip van den Bosch acquires $4,670 in stock",
+    "tokens": [
+      "670",
+      "acquires",
+      "bosch",
+      "collaborative",
+      "den",
+      "flip",
+      "grove",
+      "pfo",
+      "stock",
+      "van"
+    ],
+    "ts": 1795062286.575753
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/bitcoin-support-levels-key-floors-to-watch-as-price-tests-62100-93CH-5037661",
+    "title": "Bitcoin support levels: key floors to watch as price tests $62,100",
+    "tokens": [
+      "100",
+      "bitcoin",
+      "floors",
+      "key",
+      "levels",
+      "price",
+      "support",
+      "tests",
+      "watch"
+    ],
+    "ts": 1795062293.6573489
+  },
+  {
+    "id": "oilprice-article-46094",
+    "title": "Inside the Army’s 75 Year Plan to Escape China’s Rare Earth Dominance",
+    "tokens": [
+      "army",
+      "china",
+      "dominance",
+      "earth",
+      "escape",
+      "inside",
+      "plan",
+      "rare",
+      "year"
+    ],
+    "ts": 1795062302.511016
+  },
+  {
+    "id": "oilprice-article-46106",
+    "title": "Permian Growth Turns Moderate Despite War",
+    "tokens": [
+      "despite",
+      "growth",
+      "moderate",
+      "permian",
+      "turns",
+      "war"
+    ],
+    "ts": 1795062311.9816196
+  },
+  {
+    "id": "oilprice-article-46104",
+    "title": "Google Signs Landmark Superhot Geothermal Deal",
+    "tokens": [
+      "deal",
+      "geothermal",
+      "google",
+      "landmark",
+      "signs",
+      "superhot"
+    ],
+    "ts": 1795062319.9885638
+  },
+  {
+    "id": "oilprice-news-46106",
+    "title": "Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an “Acquisition”",
+    "tokens": [
+      "acquisition",
+      "calls",
+      "doubles",
+      "muerta",
+      "thiel",
+      "trump",
+      "vaca",
+      "venezuela"
+    ],
+    "ts": 1795062324.0049853
+  },
+  {
+    "id": "c0feb6b7-69a4-4538-951b-c12a5241fca0",
+    "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+    "tokens": [
+      "anthropic",
+      "bnb",
+      "chain",
+      "coming",
+      "day",
+      "ipo",
+      "tokenized"
+    ],
+    "ts": 1795062327.908599
+  },
+  {
+    "id": "6e854afc-088b-41a4-b3d1-aa366beba94b",
+    "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+    "tokens": [
+      "against",
+      "another",
+      "appellate",
+      "building",
+      "court",
+      "goes",
+      "headwinds",
+      "industry",
+      "kalshi",
+      "legal"
+    ],
+    "ts": 1795062337.042735
+  },
+  {
+    "id": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments",
+    "title": "Trump administration unveils new center to choke off scam payments",
+    "tokens": [
+      "administration",
+      "center",
+      "choke",
+      "off",
+      "payments",
+      "scam",
+      "trump",
+      "unveils"
+    ],
+    "ts": 1795062344.4898756
+  },
+  {
+    "id": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show",
+    "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+    "tokens": [
+      "call",
+      "close",
+      "fed",
+      "hold",
+      "minutes",
+      "october",
+      "officials",
+      "rate",
+      "saw",
+      "show"
+    ],
+    "ts": 1795062352.518936
   }
 ]

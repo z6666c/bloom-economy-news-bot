@@ -1,661 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005329908",
-    "title": "Research firm declares ‘end of the AI trade as we know it’ — and Asian tech stocks reflect the shift",
-    "tokens": [
-      "asian",
-      "declares",
-      "end",
-      "firm",
-      "know",
-      "reflect",
-      "research",
-      "shift",
-      "stocks",
-      "tech",
-      "trade"
-    ],
-    "ts": 1793878295.344335
-  },
-  {
-    "id": "WP-MKTW-0005327095",
-    "title": "A prolonged war in Iran is the market’s real ‘black swan,’ says this strategist",
-    "tokens": [
-      "black",
-      "iran",
-      "market",
-      "prolonged",
-      "real",
-      "strategist",
-      "swan",
-      "war"
-    ],
-    "ts": 1793878302.2021952
-  },
-  {
-    "id": "WP-MKTW-0005329463",
-    "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-    "tokens": [
-      "000",
-      "11th",
-      "500",
-      "brother",
-      "can",
-      "challenge",
-      "changed",
-      "entire",
-      "estate",
-      "father",
-      "his",
-      "hour",
-      "leaving",
-      "old",
-      "year"
-    ],
-    "ts": 1793878310.1047173
-  },
-  {
-    "id": "WP-MKTW-0005329806",
-    "title": "Toyota stock rallies after company lowered sales guidance. Here’s how rare that is.",
-    "tokens": [
-      "company",
-      "guidance",
-      "here",
-      "how",
-      "lowered",
-      "rallies",
-      "rare",
-      "sales",
-      "stock",
-      "toyota"
-    ],
-    "ts": 1793878317.2162395
-  },
-  {
-    "id": "WP-MKTW-0005320712",
-    "title": "Richard Simmons’ L.A. estate sells for $3.8 million",
-    "tokens": [
-      "estate",
-      "million",
-      "richard",
-      "sells",
-      "simmons"
-    ],
-    "ts": 1793878324.255503
-  },
-  {
-    "id": "WP-MKTW-0005327618",
-    "title": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
-    "tokens": [
-      "best",
-      "broad",
-      "congress",
-      "day",
-      "democrats",
-      "dow",
-      "months",
-      "power",
-      "rally",
-      "relief",
-      "scores",
-      "sweep"
-    ],
-    "ts": 1793878331.3724344
-  },
-  {
-    "id": "WP-MKTW-0005323853",
-    "title": "Most investors are blind to the possibility of a market crash. Here is the five-part strategy to survive one.",
-    "tokens": [
-      "blind",
-      "crash",
-      "five",
-      "here",
-      "investors",
-      "market",
-      "most",
-      "one",
-      "part",
-      "possibility",
-      "strategy",
-      "survive"
-    ],
-    "ts": 1793878338.530027
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/six-flags-shares-jump-5-on-upbeat-guidance-despite-earnings-miss-93CH-5003122",
-    "title": "Six Flags shares jump 5% on upbeat guidance despite earnings miss",
-    "tokens": [
-      "despite",
-      "earnings",
-      "flags",
-      "guidance",
-      "jump",
-      "miss",
-      "shares",
-      "six",
-      "upbeat"
-    ],
-    "ts": 1793878346.0689826
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/six-flags-entertainment-earnings-missed-by-557-revenue-was-in-line-with-estimates-5003121",
-    "title": "Six Flags Entertainment earnings missed by $5.57, revenue was in line with estimates",
-    "tokens": [
-      "earnings",
-      "entertainment",
-      "estimates",
-      "flags",
-      "line",
-      "missed",
-      "revenue",
-      "six"
-    ],
-    "ts": 1793878353.327472
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/epam-shares-surge-5-on-earnings-beat-and-raised-guidance-93CH-5003120",
-    "title": "EPAM shares surge 5% on earnings beat and raised guidance",
-    "tokens": [
-      "beat",
-      "earnings",
-      "epam",
-      "guidance",
-      "raised",
-      "shares",
-      "surge"
-    ],
-    "ts": 1793878360.275213
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/air-products-earnings-matched-revenue-topped-estimates-5003116",
-    "title": "Air Products earnings matched, revenue topped estimates",
-    "tokens": [
-      "air",
-      "earnings",
-      "estimates",
-      "matched",
-      "products",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1793878367.5527432
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-ahead-of-boe-decision-as-dollar-slide-pauses-5003115",
-    "title": "Sterling today: Pound slips ahead of BoE decision as dollar slide pauses",
-    "tokens": [
-      "ahead",
-      "boe",
-      "decision",
-      "dollar",
-      "pauses",
-      "pound",
-      "slide",
-      "slips",
-      "sterling",
-      "today"
-    ],
-    "ts": 1793878374.4895916
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/dorian-lpg-ltd-earnings-beat-by-074-revenue-topped-estimates-5003114",
-    "title": "Dorian LPG Ltd earnings beat by $0.74, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "dorian",
-      "earnings",
-      "estimates",
-      "lpg",
-      "ltd",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1793878381.9837105
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/celsius-earnings-beat-by-007-revenue-topped-estimates-5003113",
-    "title": "Celsius earnings beat by $0.07, revenue topped estimates",
-    "tokens": [
-      "beat",
-      "celsius",
-      "earnings",
-      "estimates",
-      "revenue",
-      "topped"
-    ],
-    "ts": 1793878389.4398901
-  },
-  {
-    "id": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-models-spot-64-gain-in-taskus-stock-93CH-5003102",
-    "title": "InvestingPro Fair Value models spot 64% gain in TaskUs stock",
-    "tokens": [
-      "fair",
-      "gain",
-      "investingpro",
-      "models",
-      "spot",
-      "stock",
-      "taskus",
-      "value"
-    ],
-    "ts": 1793878395.9796746
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/oppenheimer-cuts-trimble-navigation-stock-price-target-on-arr-deceleration-93CH-5003098",
-    "title": "Oppenheimer cuts Trimble Navigation stock price target on ARR deceleration",
-    "tokens": [
-      "arr",
-      "cuts",
-      "deceleration",
-      "navigation",
-      "oppenheimer",
-      "price",
-      "stock",
-      "target",
-      "trimble"
-    ],
-    "ts": 1793878402.7938323
-  },
-  {
-    "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-cuts-medline-stock-price-target-on-tariff-impact-93CH-5003096",
-    "title": "Evercore ISI cuts Medline stock price target on tariff impact",
-    "tokens": [
-      "cuts",
-      "evercore",
-      "impact",
-      "isi",
-      "medline",
-      "price",
-      "stock",
-      "target",
-      "tariff"
-    ],
-    "ts": 1793878410.3024406
-  },
-  {
-    "id": "oilprice-news-45973",
-    "title": "Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets",
-    "tokens": [
-      "continue",
-      "democratic",
-      "energy",
-      "fall",
-      "markets",
-      "oil",
-      "prices",
-      "shakes",
-      "sweep"
-    ],
-    "ts": 1793878419.1643965
-  },
-  {
-    "id": "830fe24a-e7c1-4b12-9ef4-e298778be3d6",
-    "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
-    "tokens": [
-      "000",
-      "above",
-      "bitcoin",
-      "etf",
-      "holds",
-      "injective",
-      "jump",
-      "listing",
-      "rallies",
-      "staked",
-      "wednesday"
-    ],
-    "ts": 1793878426.5799387
-  },
-  {
-    "id": "466b5b6b-f907-422a-ab2c-92c5dd1cd27b",
-    "title": "Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep",
-    "tokens": [
-      "000",
-      "around",
-      "bitcoin",
-      "democratic",
-      "live",
-      "markets",
-      "rally",
-      "steady",
-      "sweep",
-      "updates"
-    ],
-    "ts": 1793878433.101763
-  },
-  {
-    "id": "1bcfe444-601c-4325-80bf-d101bd213e5b",
-    "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
-    "tokens": [
-      "attack",
-      "bitcoin",
-      "contained",
-      "continued",
-      "exchange",
-      "finds",
-      "hack",
-      "hours",
-      "mercado",
-      "report"
-    ],
-    "ts": 1793878439.9907608
-  },
-  {
-    "id": "18dca9fb-c676-428c-8b6a-6748e660760a",
-    "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
-    "tokens": [
-      "anthropic",
-      "billion",
-      "bitcoin",
-      "could",
-      "deal",
-      "interest",
-      "miner",
-      "pay",
-      "riot",
-      "under"
-    ],
-    "ts": 1793878447.7303157
-  },
-  {
-    "id": "ce1bc7ee-7f9c-4ce0-84ba-3f662b9138ed",
-    "title": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
-    "tokens": [
-      "authorities",
-      "crypto",
-      "customer",
-      "exchanges",
-      "hong",
-      "kong",
-      "law",
-      "passes",
-      "report",
-      "requiring",
-      "tax",
-      "transactions"
-    ],
-    "ts": 1793878454.6461198
-  },
-  {
-    "id": "9cf12453-df49-47f4-9a3e-b507584a1e8e",
-    "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
-    "tokens": [
-      "break",
-      "can",
-      "crypto",
-      "here",
-      "linux",
-      "means",
-      "openai",
-      "scale",
-      "what"
-    ],
-    "ts": 1793878462.1197493
-  },
-  {
-    "id": "5c019be2-06b9-4136-8b3b-e1b10612fd92",
-    "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
-    "tokens": [
-      "about",
-      "freeze",
-      "million",
-      "oldest",
-      "pool",
-      "privacy",
-      "zcash"
-    ],
-    "ts": 1793878468.837245
-  },
-  {
-    "id": "f41df9f5-9a6e-48da-9439-1a0d38e19187",
-    "title": "The pile of lawsuits against Kalshi just grew by one",
-    "tokens": [
-      "against",
-      "grew",
-      "just",
-      "kalshi",
-      "lawsuits",
-      "one",
-      "pile"
-    ],
-    "ts": 1793878475.8106961
-  },
-  {
-    "id": "87ec19ce-d46a-4985-843c-8098f1392af8",
-    "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
-    "tokens": [
-      "bug",
-      "could",
-      "creation",
-      "disclosed",
-      "fixes",
-      "led",
-      "ledger",
-      "tokens",
-      "xrp"
-    ],
-    "ts": 1793878482.7711253
-  },
-  {
-    "id": "7c15e32e-81e6-48cd-b825-afa3edf3c6c4",
-    "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
-    "tokens": [
-      "000",
-      "above",
-      "bitcoin",
-      "crypto",
-      "election",
-      "holds",
-      "jumps",
-      "post",
-      "rebound",
-      "zcash"
-    ],
-    "ts": 1793878489.7949815
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains",
-    "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
-    "tokens": [
-      "500",
-      "bitcoin",
-      "favors",
-      "history",
-      "midterm",
-      "post",
-      "rate",
-      "recovers",
-      "stocks",
-      "win"
-    ],
-    "ts": 1793878496.8614523
-  },
-  {
-    "id": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029",
-    "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
-    "tokens": [
-      "2029",
-      "4th",
-      "crypto",
-      "delay",
-      "korea",
-      "seeks",
-      "south",
-      "start",
-      "targets",
-      "tax"
-    ],
-    "ts": 1793878504.2287657
-  },
-  {
-    "id": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments",
-    "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
-    "tokens": [
-      "budget",
-      "france",
-      "rejection",
-      "reporting",
-      "sidelines",
-      "stablecoin",
-      "tax",
-      "wallet"
-    ],
-    "ts": 1793878511.1580265
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound",
-    "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
-    "tokens": [
-      "128m",
-      "bitcoin",
-      "crypto",
-      "draw",
-      "etfs",
-      "ether",
-      "midterms",
-      "rebounds"
-    ],
-    "ts": 1793878518.1665215
-  },
-  {
-    "id": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft",
-    "title": "Crédit Mutuel Arkéa resumes operations after attack, assesses losses",
-    "tokens": [
-      "ark",
-      "assesses",
-      "attack",
-      "dit",
-      "losses",
-      "mutuel",
-      "operations",
-      "resumes"
-    ],
-    "ts": 1793878524.6616955
-  },
-  {
-    "id": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery",
-    "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
-    "tokens": [
-      "binance",
-      "crypto",
-      "fork",
-      "hard",
-      "polygon",
-      "polymarket",
-      "recover",
-      "seek",
-      "stolen"
-    ],
-    "ts": 1793878531.9331918
-  },
-  {
-    "id": "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep",
-    "title": "‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep",
-    "tokens": [
-      "big",
-      "democrats",
-      "lawyer",
-      "midterm",
-      "sweep",
-      "target",
-      "tech",
-      "trump"
-    ],
-    "ts": 1793878538.4861898
-  },
-  {
-    "id": "WP-MKTW-0005330412",
-    "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’",
-    "tokens": [
-      "don",
-      "falling",
-      "hard",
-      "investors",
-      "like",
-      "micron",
-      "other",
-      "sandisk",
-      "stocks",
-      "uncertainty"
-    ],
-    "ts": 1793905154.8407626
-  },
-  {
-    "id": "WP-MKTW-0005330963",
-    "title": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
-    "tokens": [
-      "500",
-      "biggest",
-      "bloom",
-      "center",
-      "data",
-      "delays",
-      "energy",
-      "fears",
-      "losers",
-      "one",
-      "stock"
-    ],
-    "ts": 1793905162.8526993
-  },
-  {
-    "id": "WP-MKTW-0005328142",
-    "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
-    "tokens": [
-      "big",
-      "democrats",
-      "difficult",
-      "election",
-      "pays",
-      "question",
-      "revives",
-      "security",
-      "social",
-      "who",
-      "win"
-    ],
-    "ts": 1793905172.0457525
-  },
-  {
-    "id": "WP-MKTW-0005330875",
-    "title": "I’m 65 and worth more than $5.6 million. Can I buy a $200,000 camper even though the price feels ‘crazy high’?",
-    "tokens": [
-      "000",
-      "200",
-      "buy",
-      "camper",
-      "can",
-      "crazy",
-      "even",
-      "feels",
-      "high",
-      "million",
-      "more",
-      "price",
-      "though",
-      "worth"
-    ],
-    "ts": 1793905180.8552403
-  },
-  {
-    "id": "WP-MKTW-0005327209",
-    "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-    "tokens": [
-      "500",
-      "financial",
-      "hope",
-      "just",
-      "net",
-      "rely",
-      "safety",
-      "savings",
-      "security",
-      "social",
-      "what"
-    ],
-    "ts": 1793905188.8173633
-  },
-  {
     "id": "WP-MKTW-0005330709",
     "title": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.",
     "tokens": [
@@ -23813,5 +23157,647 @@
       "show"
     ],
     "ts": 1795062352.518936
+  },
+  {
+    "id": "WP-MKTW-0005358103",
+    "title": "If the AI trade unwinds, other pillars holding up the U.S. economy are ‘irrelevant,’ says Barclays",
+    "tokens": [
+      "barclays",
+      "economy",
+      "holding",
+      "irrelevant",
+      "other",
+      "pillars",
+      "trade",
+      "unwinds"
+    ],
+    "ts": 1795095811.0543213
+  },
+  {
+    "id": "WP-MKTW-0005358051",
+    "title": "Here’s the precise moment when cyberattacks started increasing exponentially",
+    "tokens": [
+      "cyberattacks",
+      "exponentially",
+      "here",
+      "increasing",
+      "moment",
+      "precise",
+      "started",
+      "when"
+    ],
+    "ts": 1795095820.3936784
+  },
+  {
+    "id": "WP-MKTW-0005356169",
+    "title": "Sandisk’s stock split is almost here. This is what investors need to know.",
+    "tokens": [
+      "almost",
+      "here",
+      "investors",
+      "know",
+      "need",
+      "sandisk",
+      "split",
+      "stock",
+      "what"
+    ],
+    "ts": 1795095829.5957494
+  },
+  {
+    "id": "WP-MKTW-0005357067",
+    "title": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t?",
+    "tokens": [
+      "anthropic",
+      "can",
+      "couldn",
+      "earnings",
+      "ipo",
+      "market",
+      "nvidia",
+      "stock",
+      "what"
+    ],
+    "ts": 1795095838.1623926
+  },
+  {
+    "id": "WP-MKTW-0005358156",
+    "title": "Deutsche Bank got its dollar call for 2026 wrong. Why it’s shifting tack now.",
+    "tokens": [
+      "2026",
+      "bank",
+      "call",
+      "deutsche",
+      "dollar",
+      "got",
+      "now",
+      "shifting",
+      "tack",
+      "why",
+      "wrong"
+    ],
+    "ts": 1795095847.6519513
+  },
+  {
+    "id": "WP-MKTW-0005355342",
+    "title": "I have two children. How can I turn them into millionaires by the time they retire?",
+    "tokens": [
+      "can",
+      "children",
+      "how",
+      "millionaires",
+      "retire",
+      "them",
+      "they",
+      "time",
+      "turn",
+      "two"
+    ],
+    "ts": 1795095856.6188903
+  },
+  {
+    "id": "WP-MKTW-0005358135",
+    "title": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
+    "tokens": [
+      "alibaba",
+      "business",
+      "cloud",
+      "completely",
+      "labs",
+      "losses",
+      "offset",
+      "profits",
+      "those",
+      "thriving"
+    ],
+    "ts": 1795095866.2789407
+  },
+  {
+    "id": "WP-MKTW-0005358015",
+    "title": "This closely watched investing guru just sold all of his stocks",
+    "tokens": [
+      "all",
+      "closely",
+      "guru",
+      "his",
+      "investing",
+      "just",
+      "sold",
+      "stocks",
+      "watched"
+    ],
+    "ts": 1795095874.6085122
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/truist-reiterates-hold-on-global-payments-stock-86-target-93CH-5039058",
+    "title": "Truist reiterates Hold on Global Payments stock, $86 target",
+    "tokens": [
+      "global",
+      "hold",
+      "payments",
+      "reiterates",
+      "stock",
+      "target",
+      "truist"
+    ],
+    "ts": 1795095883.0070379
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/truist-reiterates-hold-on-expeditors-stock-after-investor-day-93CH-5039057",
+    "title": "Truist reiterates Hold on Expeditors stock after investor day",
+    "tokens": [
+      "day",
+      "expeditors",
+      "hold",
+      "investor",
+      "reiterates",
+      "stock",
+      "truist"
+    ],
+    "ts": 1795095893.5373168
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-coreweave-stock-cites-pricing-strength-93CH-5039056",
+    "title": "Truist reiterates Buy on CoreWeave stock, cites pricing strength",
+    "tokens": [
+      "buy",
+      "cites",
+      "coreweave",
+      "pricing",
+      "reiterates",
+      "stock",
+      "strength",
+      "truist"
+    ],
+    "ts": 1795095902.2433078
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/truist-holds-construction-partners-stock-rating-at-hold-90-target-93CH-5039055",
+    "title": "Truist holds Construction Partners stock rating at Hold, $90 target",
+    "tokens": [
+      "construction",
+      "hold",
+      "holds",
+      "partners",
+      "rating",
+      "stock",
+      "target",
+      "truist"
+    ],
+    "ts": 1795095910.4988582
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/orascom-q3-2026-slides-us-backlog-doubles-profit-surges-103-93CH-5039054",
+    "title": "Orascom Q3 2026 slides: U.S. backlog doubles, profit surges 103%",
+    "tokens": [
+      "103",
+      "2026",
+      "backlog",
+      "doubles",
+      "orascom",
+      "profit",
+      "slides",
+      "surges"
+    ],
+    "ts": 1795095919.224936
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-lumexa-imaging-stock-after-meetings-93CH-5039052",
+    "title": "Truist reiterates Buy on Lumexa Imaging stock after meetings",
+    "tokens": [
+      "buy",
+      "imaging",
+      "lumexa",
+      "meetings",
+      "reiterates",
+      "stock",
+      "truist"
+    ],
+    "ts": 1795095929.2500222
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-walmart-stock-after-strong-q3-results-93CH-5039053",
+    "title": "Truist reiterates Buy on Walmart stock after strong Q3 results",
+    "tokens": [
+      "buy",
+      "reiterates",
+      "results",
+      "stock",
+      "strong",
+      "truist",
+      "walmart"
+    ],
+    "ts": 1795095939.2280369
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/initial-jobless-claims-rise-slightly-exceeding-forecasts-93CH-5039051",
+    "title": "Initial jobless claims rise slightly, exceeding forecasts",
+    "tokens": [
+      "claims",
+      "exceeding",
+      "forecasts",
+      "initial",
+      "jobless",
+      "rise",
+      "slightly"
+    ],
+    "ts": 1795095948.6211867
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/logitech-at-morgan-stanley-conference-margin-gains-offset-soft-spots-93CH-5039045",
+    "title": "Logitech at Morgan Stanley conference: margin gains offset soft spots",
+    "tokens": [
+      "conference",
+      "gains",
+      "logitech",
+      "margin",
+      "morgan",
+      "offset",
+      "soft",
+      "spots",
+      "stanley"
+    ],
+    "ts": 1795095957.4663267
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/cvrx-at-jefferies-global-healthcare-conference-growth-plan-meets-payer-strain-93CH-5039044",
+    "title": "CVRx at Jefferies Global Healthcare Conference: growth plan meets payer strain",
+    "tokens": [
+      "conference",
+      "cvrx",
+      "global",
+      "growth",
+      "healthcare",
+      "jefferies",
+      "meets",
+      "payer",
+      "plan",
+      "strain"
+    ],
+    "ts": 1795095965.3902981
+  },
+  {
+    "id": "oilprice-news-46104",
+    "title": "Global Cooling Demand Overtakes Heating for the First Time",
+    "tokens": [
+      "cooling",
+      "demand",
+      "first",
+      "global",
+      "heating",
+      "overtakes",
+      "time"
+    ],
+    "ts": 1795095975.0088565
+  },
+  {
+    "id": "oilprice-news-46100",
+    "title": "Oil Prices Steady as Hormuz Tanker Threats Offset Supply Glut Fears",
+    "tokens": [
+      "fears",
+      "glut",
+      "hormuz",
+      "offset",
+      "oil",
+      "prices",
+      "steady",
+      "supply",
+      "tanker",
+      "threats"
+    ],
+    "ts": 1795095984.0204675
+  },
+  {
+    "id": "faa4b9a0-d609-46b6-9d12-201cabc3ca1a",
+    "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
+    "tokens": [
+      "anthropic",
+      "crypto",
+      "ipo",
+      "markets",
+      "okx",
+      "pricing",
+      "put",
+      "street",
+      "test",
+      "traders",
+      "wall"
+    ],
+    "ts": 1795095992.5843215
+  },
+  {
+    "id": "039eb56d-cc61-437b-aec5-1ed7e8d1df5f",
+    "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
+    "tokens": [
+      "884",
+      "bitcoin",
+      "clear",
+      "debt",
+      "media",
+      "million",
+      "selling",
+      "trump",
+      "wants",
+      "without"
+    ],
+    "ts": 1795096000.9323137
+  },
+  {
+    "id": "b702d6d4-467c-4aca-8e15-2378a17cddf8",
+    "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+    "tokens": [
+      "ahead",
+      "anthropic",
+      "appetite",
+      "bitcoin",
+      "crypto",
+      "debut",
+      "etf",
+      "nasdaq",
+      "outflows",
+      "show",
+      "waning"
+    ],
+    "ts": 1795096009.051313
+  },
+  {
+    "id": "94309908-2fe1-4095-996a-00a9ab8ee2ca",
+    "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+    "tokens": [
+      "750",
+      "above",
+      "bitcoin",
+      "fed",
+      "hike",
+      "holds",
+      "large",
+      "loom",
+      "rate",
+      "threats"
+    ],
+    "ts": 1795096020.6893764
+  },
+  {
+    "id": "490e332d-f9db-4ca0-8819-f235a3fb2e17",
+    "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+    "tokens": [
+      "billions",
+      "freeze",
+      "hackers",
+      "korean",
+      "north",
+      "putting",
+      "risk",
+      "sky",
+      "stablecoin",
+      "system",
+      "used"
+    ],
+    "ts": 1795096030.9753592
+  },
+  {
+    "id": "91ca66db-24cf-4b83-9c86-0b40ff556037",
+    "title": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
+    "tokens": [
+      "107",
+      "anthropic",
+      "billion",
+      "gain",
+      "ipo",
+      "sale",
+      "set",
+      "spacex",
+      "stocks",
+      "tokenized",
+      "top",
+      "traction"
+    ],
+    "ts": 1795096039.5495753
+  },
+  {
+    "id": "27ed551b-9de0-4695-b7ff-cae60c11d1da",
+    "title": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
+    "tokens": [
+      "act",
+      "advanced",
+      "computers",
+      "financial",
+      "firms",
+      "grow",
+      "highly",
+      "iosco",
+      "must",
+      "now",
+      "quantum",
+      "warns"
+    ],
+    "ts": 1795096048.6713452
+  },
+  {
+    "id": "71d78148-a674-480c-b6be-d89cae654274",
+    "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
+    "tokens": [
+      "000",
+      "anthropic",
+      "bitcoin",
+      "ipo",
+      "lifts",
+      "live",
+      "nears",
+      "record",
+      "tech",
+      "updates"
+    ],
+    "ts": 1795096058.1168187
+  },
+  {
+    "id": "f2c328b3-d283-49b7-bd14-4ed08765d155",
+    "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
+    "tokens": [
+      "bill",
+      "cbdc",
+      "local",
+      "million",
+      "sale",
+      "settles",
+      "singapore",
+      "tokenized"
+    ],
+    "ts": 1795096067.0561168
+  },
+  {
+    "id": "9b9eb29f-3e1d-4f0b-bab1-ae040233b335",
+    "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+    "tokens": [
+      "demand",
+      "etfs",
+      "funds",
+      "income",
+      "indicate",
+      "low",
+      "rival",
+      "roundhill",
+      "scraps",
+      "solana",
+      "xrp"
+    ],
+    "ts": 1795096075.6733782
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship",
+    "title": "Ethereum’s new DeFi security tool raises questions over censorship",
+    "tokens": [
+      "censorship",
+      "defi",
+      "ethereum",
+      "questions",
+      "raises",
+      "security",
+      "tool"
+    ],
+    "ts": 1795096085.9503188
+  },
+  {
+    "id": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list",
+    "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
+    "tokens": [
+      "adds",
+      "crypto",
+      "hong",
+      "hyperliquid",
+      "kong",
+      "list",
+      "platforms",
+      "suspicious"
+    ],
+    "ts": 1795096095.3179832
+  },
+  {
+    "id": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia",
+    "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
+    "tokens": [
+      "gta",
+      "nearly",
+      "nvidia",
+      "publisher",
+      "racks",
+      "stock",
+      "tokenized",
+      "volume"
+    ],
+    "ts": 1795096103.9954252
+  },
+  {
+    "id": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval",
+    "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
+    "tokens": [
+      "bitcoin",
+      "buybacks",
+      "could",
+      "fund",
+      "h100",
+      "pool",
+      "share",
+      "sweden",
+      "tap",
+      "trading"
+    ],
+    "ts": 1795096111.9576616
+  },
+  {
+    "id": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks",
+    "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+    "tokens": [
+      "blockchains",
+      "could",
+      "gaps",
+      "iosco",
+      "leave",
+      "quantum",
+      "security",
+      "slow",
+      "upgrades",
+      "warns"
+    ],
+    "ts": 1795096120.8313801
+  },
+  {
+    "id": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network",
+    "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+    "tokens": [
+      "bill",
+      "cbdc",
+      "sale",
+      "settles",
+      "singapore",
+      "tokenized",
+      "wholesale"
+    ],
+    "ts": 1795096124.840554
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion",
+    "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+    "tokens": [
+      "2026",
+      "assets",
+      "bitcoin",
+      "etf",
+      "fall",
+      "low",
+      "month",
+      "net",
+      "outflows",
+      "three",
+      "top"
+    ],
+    "ts": 1795096129.657216
+  },
+  {
+    "id": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws",
+    "title": "BTCPay Server issues emergency update for 5 security flaws",
+    "tokens": [
+      "btcpay",
+      "emergency",
+      "flaws",
+      "issues",
+      "security",
+      "server",
+      "update"
+    ],
+    "ts": 1795096138.6188254
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut",
+    "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
+    "tokens": [
+      "62k",
+      "ahead",
+      "anthropic",
+      "bitcoin",
+      "debut",
+      "futures",
+      "nasdaq",
+      "retests",
+      "rise"
+    ],
+    "ts": 1795096147.9530442
+  },
+  {
+    "id": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027",
+    "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+    "tokens": [
+      "2027",
+      "beat",
+      "bills",
+      "bitcoin",
+      "carry",
+      "could",
+      "predicts",
+      "sygnum",
+      "trades",
+      "treasury"
+    ],
+    "ts": 1795096156.6738067
   }
 ]

@@ -1,245 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005334202",
-    "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
-    "tokens": [
-      "cheap",
-      "debate",
-      "dirt",
-      "fierce",
-      "igniting",
-      "micron",
-      "online",
-      "stock"
-    ],
-    "ts": 1794010954.4609208
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439",
-    "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
-    "tokens": [
-      "2030",
-      "273",
-      "capacity",
-      "center",
-      "data",
-      "forecast",
-      "global",
-      "goldman",
-      "raises"
-    ],
-    "ts": 1794010968.9219255
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
-    "title": "As tech swoon roils market, US inflation data on tap",
-    "tokens": [
-      "data",
-      "inflation",
-      "market",
-      "roils",
-      "swoon",
-      "tap",
-      "tech"
-    ],
-    "ts": 1794010982.165094
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/sprouts-farmers-market-ceo-jack-sinclair-sells-114m-shares-93CH-5009437",
-    "title": "Sprouts Farmers Market CEO Jack Sinclair sells $1.14M shares",
-    "tokens": [
-      "14m",
-      "ceo",
-      "farmers",
-      "jack",
-      "market",
-      "sells",
-      "shares",
-      "sinclair",
-      "sprouts"
-    ],
-    "ts": 1794011000.0346067
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/imfs-georgieva-says-any-slowdown-in-aidriven-growth-would-be-factor-for-central-banks-5009427",
-    "title": "IMF’s Georgieva says any slowdown in AI-driven growth would be factor for central banks",
-    "tokens": [
-      "any",
-      "banks",
-      "central",
-      "driven",
-      "factor",
-      "georgieva",
-      "growth",
-      "imf",
-      "slowdown",
-      "would"
-    ],
-    "ts": 1794011012.3932142
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/google-executive-donald-harrison-resigns-from-spacex-board-5009426",
-    "title": "Google executive Donald Harrison resigns from SpaceX board",
-    "tokens": [
-      "board",
-      "donald",
-      "executive",
-      "google",
-      "harrison",
-      "resigns",
-      "spacex"
-    ],
-    "ts": 1794011024.19457
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/an2-therapeutics-coo-eizen-reports-11925-in-stock-sale-93CH-5009420",
-    "title": "AN2 Therapeutics COO Eizen reports $11,925 in stock sale",
-    "tokens": [
-      "925",
-      "an2",
-      "coo",
-      "eizen",
-      "reports",
-      "sale",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1794011037.2207983
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/mondelez-ceo-dirk-van-de-put-sells-88m-in-stock-93CH-5009419",
-    "title": "Mondelez CEO Dirk Van de Put sells $8.8M in stock",
-    "tokens": [
-      "ceo",
-      "dirk",
-      "mondelez",
-      "put",
-      "sells",
-      "stock",
-      "van"
-    ],
-    "ts": 1794011051.2812538
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/mondelez-ceo-dirk-van-de-put-sells-85m-in-stock-93CH-5009418",
-    "title": "Mondelez CEO Dirk Van de Put sells $8.5M in stock",
-    "tokens": [
-      "ceo",
-      "dirk",
-      "mondelez",
-      "put",
-      "sells",
-      "stock",
-      "van"
-    ],
-    "ts": 1794011055.2971234
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/procept-biorobotics-chief-stratmarketing-officer-sells-92852-in-stock-93CH-5009417",
-    "title": "Procept BioRobotics chief strat/marketing officer sells $92,852 in stock",
-    "tokens": [
-      "852",
-      "biorobotics",
-      "chief",
-      "marketing",
-      "officer",
-      "procept",
-      "sells",
-      "stock",
-      "strat"
-    ],
-    "ts": 1794011063.6279042
-  },
-  {
-    "id": "oilprice-article-46002",
-    "title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
-    "tokens": [
-      "energy",
-      "funds",
-      "gas",
-      "natural",
-      "packed",
-      "street",
-      "transition",
-      "wall"
-    ],
-    "ts": 1794011077.296173
-  },
-  {
-    "id": "oilprice-article-46001",
-    "title": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall",
-    "tokens": [
-      "america",
-      "fuel",
-      "nuclear",
-      "revival",
-      "running",
-      "supply",
-      "wall"
-    ],
-    "ts": 1794011090.4725676
-  },
-  {
-    "id": "oilprice-news-46002",
-    "title": "IEA Sees 4,800 GW of New Renewables by 2031",
-    "tokens": [
-      "2031",
-      "800",
-      "iea",
-      "renewables",
-      "sees"
-    ],
-    "ts": 1794011094.4889708
-  },
-  {
-    "id": "oilprice-news-46001",
-    "title": "Energy Aspects Slashes Forecast of China’s November Diesel Exports",
-    "tokens": [
-      "aspects",
-      "china",
-      "diesel",
-      "energy",
-      "exports",
-      "forecast",
-      "november",
-      "slashes"
-    ],
-    "ts": 1794011094.504206
-  },
-  {
-    "id": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions",
-    "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
-    "tokens": [
-      "16b",
-      "alleged",
-      "cuts",
-      "illicit",
-      "mexc",
-      "off",
-      "transactions",
-      "treasury"
-    ],
-    "ts": 1794011103.4022844
-  },
-  {
-    "id": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information",
-    "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-    "tokens": [
-      "breach",
-      "card",
-      "crypto",
-      "data",
-      "details",
-      "exposes",
-      "gnosis",
-      "information",
-      "pay",
-      "personal",
-      "wallet"
-    ],
-    "ts": 1794011114.0264359
-  },
-  {
     "id": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview",
     "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
     "tokens": [
@@ -23906,5 +23666,253 @@
       "winners"
     ],
     "ts": 1795222197.6327426
+  },
+  {
+    "id": "WP-MKTW-0005358330",
+    "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+    "tokens": [
+      "americans",
+      "cash",
+      "much",
+      "outages",
+      "rattling",
+      "stockpiling",
+      "supplies",
+      "tech",
+      "they"
+    ],
+    "ts": 1795248014.3174372
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/south-koreas-lee-urges-faster-ai-investment-during-52bn-data-center-visit-5043267",
+    "title": "South Korea’s Lee urges faster AI investment during $5.2bn data center visit",
+    "tokens": [
+      "2bn",
+      "center",
+      "data",
+      "during",
+      "faster",
+      "investment",
+      "korea",
+      "lee",
+      "south",
+      "urges",
+      "visit"
+    ],
+    "ts": 1795248023.044249
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/rigetti-computing-cfo-jeffrey-bertelsen-sells-30996-in-stock-93CH-5043265",
+    "title": "Rigetti Computing CFO Jeffrey Bertelsen sells $30,996 in stock",
+    "tokens": [
+      "996",
+      "bertelsen",
+      "cfo",
+      "computing",
+      "jeffrey",
+      "rigetti",
+      "sells",
+      "stock"
+    ],
+    "ts": 1795248031.4693747
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/rigetti-cto-andrew-bestwick-sells-219551-in-shares-93CH-5043253",
+    "title": "Rigetti CTO Andrew Bestwick sells $219,551 in shares",
+    "tokens": [
+      "219",
+      "551",
+      "andrew",
+      "bestwick",
+      "cto",
+      "rigetti",
+      "sells",
+      "shares"
+    ],
+    "ts": 1795248040.284332
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/donegal-group-sr-vp-pandey-sells-17355-in-stock-93CH-5043254",
+    "title": "Donegal Group sr. vp Pandey sells $17,355 in stock",
+    "tokens": [
+      "355",
+      "donegal",
+      "group",
+      "pandey",
+      "sells",
+      "stock"
+    ],
+    "ts": 1795248047.7149584
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ageagle-director-brent-klavon-buys-2999-in-stock-93CH-5043252",
+    "title": "AgEagle director Brent Klavon buys $2,999 in stock",
+    "tokens": [
+      "999",
+      "ageagle",
+      "brent",
+      "buys",
+      "director",
+      "klavon",
+      "stock"
+    ],
+    "ts": 1795248055.5785081
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/how-are-ai-chip-flows-reshaping-dollar-dominance-deutsche-bank-explains-5043246",
+    "title": "How are AI chip flows reshaping dollar dominance? Deutsche Bank explains",
+    "tokens": [
+      "bank",
+      "chip",
+      "deutsche",
+      "dollar",
+      "dominance",
+      "explains",
+      "flows",
+      "how",
+      "reshaping"
+    ],
+    "ts": 1795248065.0365634
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/rigetti-computing-coo-rivas-sells-72148-in-stock-93CH-5043243",
+    "title": "Rigetti Computing COO Rivas sells $72,148 in stock",
+    "tokens": [
+      "148",
+      "computing",
+      "coo",
+      "rigetti",
+      "rivas",
+      "sells",
+      "stock"
+    ],
+    "ts": 1795248072.7748914
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ageagle-chairman-grant-begley-buys-7317-in-company-stock-93CH-5043242",
+    "title": "AgEagle chairman Grant Begley buys $7,317 in company stock",
+    "tokens": [
+      "317",
+      "ageagle",
+      "begley",
+      "buys",
+      "chairman",
+      "company",
+      "grant",
+      "stock"
+    ],
+    "ts": 1795248080.1530151
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/jushi-holdings-director-denis-arsenault-buys-38104-in-company-stock-93CH-5043233",
+    "title": "Jushi Holdings director Denis Arsenault buys $38,104 in company stock",
+    "tokens": [
+      "104",
+      "arsenault",
+      "buys",
+      "company",
+      "denis",
+      "director",
+      "holdings",
+      "jushi",
+      "stock"
+    ],
+    "ts": 1795248088.0137582
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/vital-farms-director-matthew-ohayer-sells-223897-in-shares-93CH-5043232",
+    "title": "Vital Farms director Matthew Ohayer sells $223,897 in shares",
+    "tokens": [
+      "223",
+      "897",
+      "director",
+      "farms",
+      "matthew",
+      "ohayer",
+      "sells",
+      "shares",
+      "vital"
+    ],
+    "ts": 1795248096.0735395
+  },
+  {
+    "id": "4b09c42f-9fe4-45d7-a736-d5d55bb044e8",
+    "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+    "tokens": [
+      "000",
+      "bitcoin",
+      "bug",
+      "could",
+      "found",
+      "nodes",
+      "one",
+      "repeating",
+      "stalled",
+      "times"
+    ],
+    "ts": 1795248106.3634005
+  },
+  {
+    "id": "eaa12fd1-036a-4e72-9666-d139d92f8a0a",
+    "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+    "tokens": [
+      "assets",
+      "below",
+      "bets",
+      "billion",
+      "etf",
+      "falls",
+      "long",
+      "slip",
+      "unwind",
+      "xrp"
+    ],
+    "ts": 1795248114.5534942
+  },
+  {
+    "id": "802234c3-db5d-4390-80ea-49b053007c38",
+    "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+    "tokens": [
+      "000",
+      "alone",
+      "below",
+      "bitcoin",
+      "first",
+      "tanks",
+      "time",
+      "two",
+      "years"
+    ],
+    "ts": 1795248122.507346
+  },
+  {
+    "id": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent",
+    "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+    "tokens": [
+      "lawmakers",
+      "market",
+      "prediction",
+      "propose",
+      "rewards",
+      "whistleblowers"
+    ],
+    "ts": 1795248131.6377668
+  },
+  {
+    "id": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill",
+    "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+    "tokens": [
+      "advisers",
+      "bring",
+      "crypto",
+      "custodians",
+      "hong",
+      "kong",
+      "licensing",
+      "pushes",
+      "rules",
+      "under"
+    ],
+    "ts": 1795248139.3599136
   }
 ]

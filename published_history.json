@@ -1,574 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/stock-market-news/google-acquires-wyoming-data-center-site-from-ai-infrastructure-firm-crusoe-5009084",
-    "title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe",
-    "tokens": [
-      "acquires",
-      "center",
-      "crusoe",
-      "data",
-      "firm",
-      "google",
-      "infrastructure",
-      "site",
-      "wyoming"
-    ],
-    "ts": 1793997460.841615
-  },
-  {
-    "id": "https://www.investing.com/news/economic-indicators/us-consumer-credit-surges-exceeding-forecasts-and-previous-levels-93CH-5009081",
-    "title": "U.S. Consumer Credit Surges, Exceeding Forecasts and Previous Levels",
-    "tokens": [
-      "consumer",
-      "credit",
-      "exceeding",
-      "forecasts",
-      "levels",
-      "previous",
-      "surges"
-    ],
-    "ts": 1793997468.5614355
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-462-million-in-shares-93CH-5009077",
-    "title": "CrowdStrike CEO George Kurtz sells $4.62 million in shares",
-    "tokens": [
-      "ceo",
-      "crowdstrike",
-      "george",
-      "kurtz",
-      "million",
-      "sells",
-      "shares"
-    ],
-    "ts": 1793997476.8972645
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/how-ai-spending-limits-could-help-hyperscaler-bonds-but-hurt-stocks-93CH-5009071",
-    "title": "How AI spending limits could help hyperscaler bonds but hurt stocks",
-    "tokens": [
-      "bonds",
-      "could",
-      "help",
-      "how",
-      "hurt",
-      "hyperscaler",
-      "limits",
-      "spending",
-      "stocks"
-    ],
-    "ts": 1793997484.3235192
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/asia-stocks-to-drop-after-ai-rout-rocks-us-markets-5006125",
-    "title": "Wall Street stocks in relief rally after heavy AI-related selloff",
-    "tokens": [
-      "heavy",
-      "rally",
-      "related",
-      "relief",
-      "selloff",
-      "stocks",
-      "street",
-      "wall"
-    ],
-    "ts": 1793997492.9146256
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/dollar-holds-yen-gains-as-equity-rout-saps-risk-appetite-ahead-of-payrolls-5006269",
-    "title": "Dollar jumps after strong US payrolls report",
-    "tokens": [
-      "dollar",
-      "jumps",
-      "payrolls",
-      "report",
-      "strong"
-    ],
-    "ts": 1793997501.1571739
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/europe-wants-russia-to-end-ukraine-war-before-security-talks-93CH-5009068",
-    "title": "Europe wants Russia to end Ukraine war before security talks",
-    "tokens": [
-      "before",
-      "end",
-      "europe",
-      "russia",
-      "security",
-      "talks",
-      "ukraine",
-      "wants",
-      "war"
-    ],
-    "ts": 1793997508.3054292
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/trreb-welcomes-federal-budget-measures-to-boost-housing-supply-and-affordability-1036731611",
-    "title": "TRREB Welcomes Federal Budget Measures to Boost Housing Supply and Affordability",
-    "tokens": [
-      "affordability",
-      "boost",
-      "budget",
-      "federal",
-      "housing",
-      "measures",
-      "supply",
-      "trreb",
-      "welcomes"
-    ],
-    "ts": 1793997515.8063643
-  },
-  {
-    "id": "https://seekingalpha.com/news/4668473-plug-power-q3-2026-earnings-preview-company-analysts-optimistic?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Plug Power Q3 2026 earnings preview: Company, analysts optimistic",
-    "tokens": [
-      "2026",
-      "analysts",
-      "company",
-      "earnings",
-      "optimistic",
-      "plug",
-      "power",
-      "preview"
-    ],
-    "ts": 1793997523.5546937
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/tigo-energy-deadline-rosen-the-first-filing-firm-encourages-tigo-energy-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-tygo-1036731556",
-    "title": "TIGO ENERGY DEADLINE: ROSEN, THE FIRST FILING FIRM, Encourages Tigo Energy, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - TYGO",
-    "tokens": [
-      "action",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "encourages",
-      "energy",
-      "filed",
-      "filing",
-      "firm",
-      "first",
-      "important",
-      "inc",
-      "investors",
-      "rosen",
-      "secure",
-      "securities",
-      "tigo",
-      "tygo"
-    ],
-    "ts": 1793997531.7488606
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/tactfolio-inc-launches-ai-compatible-platform-for-building-backtesting-and-automating-trading-strategies-1036731552",
-    "title": "Tactfolio Inc. Launches AI-Compatible Platform for Building, Backtesting, and Automating Trading Strategies",
-    "tokens": [
-      "automating",
-      "backtesting",
-      "building",
-      "compatible",
-      "inc",
-      "launches",
-      "platform",
-      "strategies",
-      "tactfolio",
-      "trading"
-    ],
-    "ts": 1793997539.5409632
-  },
-  {
-    "id": "https://seekingalpha.com/news/4668468-rocket-lab-q3-earnings-preview-investors-await-neutron-timeline-growth-outlook?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Rocket Lab Q3 earnings preview: Investors await Neutron timeline, growth outlook",
-    "tokens": [
-      "await",
-      "earnings",
-      "growth",
-      "investors",
-      "lab",
-      "neutron",
-      "outlook",
-      "preview",
-      "rocket",
-      "timeline"
-    ],
-    "ts": 1793997546.7645268
-  },
-  {
-    "id": "https://seekingalpha.com/news/4668467-superior-group-of-companies-declares-0_14-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Superior Group of Companies declares $0.14 dividend",
-    "tokens": [
-      "companies",
-      "declares",
-      "dividend",
-      "group",
-      "superior"
-    ],
-    "ts": 1793997554.2118504
-  },
-  {
-    "id": "https://seekingalpha.com/news/4668466-chemed-declares-0_70-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Chemed declares $0.70 dividend",
-    "tokens": [
-      "chemed",
-      "declares",
-      "dividend"
-    ],
-    "ts": 1793997562.331101
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/trending-today-s-newest-episode-explores-the-business-of-creativity-design-and-human-connection-1036731471",
-    "title": "Trending Today's Newest Episode Explores the Business of Creativity, Design and Human Connection",
-    "tokens": [
-      "business",
-      "connection",
-      "creativity",
-      "design",
-      "episode",
-      "explores",
-      "human",
-      "newest",
-      "today",
-      "trending"
-    ],
-    "ts": 1793997569.2743175
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/avxl-important-deadline-rosen-a-globally-respected-law-firm-encourages-anavex-life-sciences-corp.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-avxl-1036731472",
-    "title": "AVXL IMPORTANT DEADLINE: ROSEN, A GLOBALLY RESPECTED LAW FIRM, Encourages Anavex Life Sciences Corp. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by...",
-    "tokens": [
-      "action",
-      "anavex",
-      "avxl",
-      "before",
-      "class",
-      "corp",
-      "counsel",
-      "deadline",
-      "encourages",
-      "filed",
-      "firm",
-      "first",
-      "globally",
-      "important",
-      "investors",
-      "law",
-      "life",
-      "respected",
-      "rosen",
-      "sciences",
-      "secure",
-      "securities"
-    ],
-    "ts": 1793997577.1544335
-  },
-  {
-    "id": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-pleads-not-guilty-2026-11",
-    "title": "The engineer accused of bugging OpenAI's office pleads not guilty",
-    "tokens": [
-      "accused",
-      "bugging",
-      "engineer",
-      "guilty",
-      "office",
-      "openai",
-      "pleads"
-    ],
-    "ts": 1793997584.622497
-  },
-  {
-    "id": "oilprice-news-46007",
-    "title": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar",
-    "tokens": [
-      "costs",
-      "freight",
-      "oil",
-      "release",
-      "sanctioned",
-      "soar",
-      "tankers",
-      "traders",
-      "want"
-    ],
-    "ts": 1793997593.1416514
-  },
-  {
-    "id": "oilprice-article-45995",
-    "title": "Energy Reliability Is Becoming More Important Than Energy Politics",
-    "tokens": [
-      "becoming",
-      "energy",
-      "important",
-      "more",
-      "politics",
-      "reliability"
-    ],
-    "ts": 1793997600.7438614
-  },
-  {
-    "id": "oilprice-article-46007",
-    "title": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
-    "tokens": [
-      "crash",
-      "drillers",
-      "gas",
-      "minor",
-      "oil",
-      "prices",
-      "see",
-      "uptick"
-    ],
-    "ts": 1793997608.443176
-  },
-  {
-    "id": "oilprice-news-46004",
-    "title": "ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million",
-    "tokens": [
-      "500",
-      "million",
-      "moves",
-      "oilfields",
-      "ongc",
-      "recover",
-      "take",
-      "venezuelan"
-    ],
-    "ts": 1793997616.4072948
-  },
-  {
-    "id": "oilprice-article-45994",
-    "title": "Norway’s Oil and Gas Industry Faces a Major Decline Without New Discoveries",
-    "tokens": [
-      "decline",
-      "discoveries",
-      "faces",
-      "gas",
-      "industry",
-      "major",
-      "norway",
-      "oil",
-      "without"
-    ],
-    "ts": 1793997624.4905186
-  },
-  {
-    "id": "oilprice-news-45995",
-    "title": "IEA Sees 4,800 GW of New Renewables by 2031",
-    "tokens": [
-      "2031",
-      "800",
-      "iea",
-      "renewables",
-      "sees"
-    ],
-    "ts": 1793997632.3215127
-  },
-  {
-    "id": "oilprice-news-45994",
-    "title": "Energy Aspects Slashes Forecast of China’s November Diesel Exports",
-    "tokens": [
-      "aspects",
-      "china",
-      "diesel",
-      "energy",
-      "exports",
-      "forecast",
-      "november",
-      "slashes"
-    ],
-    "ts": 1793997640.225653
-  },
-  {
-    "id": "oilprice-article-46004",
-    "title": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace",
-    "tokens": [
-      "already",
-      "iran",
-      "isn",
-      "oil",
-      "peace",
-      "pricing",
-      "traders",
-      "war"
-    ],
-    "ts": 1793997648.639436
-  },
-  {
-    "id": "oilprice-article-45993",
-    "title": "Trump’s Iran Strategy Reaches a Critical Crossroads After Midterm Defeat",
-    "tokens": [
-      "critical",
-      "crossroads",
-      "defeat",
-      "iran",
-      "midterm",
-      "reaches",
-      "strategy",
-      "trump"
-    ],
-    "ts": 1793997656.6469095
-  },
-  {
-    "id": "oilprice-news-45993",
-    "title": "Europe's Grid Spending Is Up 155% Since 2019",
-    "tokens": [
-      "155",
-      "2019",
-      "europe",
-      "grid",
-      "since",
-      "spending"
-    ],
-    "ts": 1793997660.656443
-  },
-  {
-    "id": "5dfa2541-3949-4457-90b6-fe54b2dc563c",
-    "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-    "tokens": [
-      "apple",
-      "crypto",
-      "firms",
-      "ice",
-      "leaving",
-      "meta",
-      "okx",
-      "ones",
-      "plans",
-      "reject",
-      "stock",
-      "tokenized",
-      "watch"
-    ],
-    "ts": 1793997664.5870183
-  },
-  {
-    "id": "6514aaed-3f03-4355-9908-97975a45cb3b",
-    "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-    "tokens": [
-      "clashes",
-      "courts",
-      "demand",
-      "directly",
-      "issues",
-      "markets",
-      "prediction",
-      "regulator"
-    ],
-    "ts": 1793997671.9845436
-  },
-  {
-    "id": "46c0518b-b9e5-40b3-9c7e-e1701fe59b3e",
-    "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-    "tokens": [
-      "another",
-      "crypto",
-      "found",
-      "grow",
-      "industry",
-      "making",
-      "money",
-      "story",
-      "them",
-      "ways"
-    ],
-    "ts": 1793997679.0517569
-  },
-  {
-    "id": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles",
-    "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
-    "tokens": [
-      "401",
-      "altcoins",
-      "door",
-      "hurdles",
-      "leaves",
-      "open",
-      "proposal",
-      "remain"
-    ],
-    "ts": 1793997686.1658409
-  },
-  {
-    "id": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout",
-    "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
-    "tokens": [
-      "ahead",
-      "crypto",
-      "finalizes",
-      "nov",
-      "rollout",
-      "rules",
-      "russia",
-      "trading"
-    ],
-    "ts": 1793997693.9788961
-  },
-  {
-    "id": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders",
-    "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
-    "tokens": [
-      "124",
-      "bitcoin",
-      "buys",
-      "closes",
-      "holders",
-      "october",
-      "strive",
-      "top",
-      "treasury"
-    ],
-    "ts": 1793997701.938436
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock",
-    "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-    "tokens": [
-      "75k",
-      "bitcoin",
-      "crypto",
-      "dips",
-      "markets",
-      "miss",
-      "price",
-      "rebound",
-      "stock",
-      "tech",
-      "under"
-    ],
-    "ts": 1793997709.9343083
-  },
-  {
-    "id": "WP-MKTW-0005335149",
-    "title": "Elon Musk opens the door for a big SpaceX acquisition",
-    "tokens": [
-      "acquisition",
-      "big",
-      "door",
-      "elon",
-      "musk",
-      "opens",
-      "spacex"
-    ],
-    "ts": 1794010929.035104
-  },
-  {
-    "id": "WP-MKTW-0005333905",
-    "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
-    "tokens": [
-      "bonds",
-      "centers",
-      "data",
-      "debt",
-      "get",
-      "going",
-      "only",
-      "problem",
-      "run",
-      "worse",
-      "year"
-    ],
-    "ts": 1794010943.8001597
-  },
-  {
     "id": "WP-MKTW-0005334202",
     "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
     "tokens": [
@@ -23887,5 +23318,593 @@
       "their"
     ],
     "ts": 1795201692.8905225
+  },
+  {
+    "id": "WP-MKTW-0005362681",
+    "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+    "tokens": [
+      "2020",
+      "500",
+      "correction",
+      "dow",
+      "enter",
+      "nasdaq",
+      "since",
+      "suffers",
+      "week",
+      "worst"
+    ],
+    "ts": 1795221938.9174905
+  },
+  {
+    "id": "WP-MKTW-0005362875",
+    "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+    "tokens": [
+      "chip",
+      "grips",
+      "panic",
+      "see",
+      "stocks",
+      "trade",
+      "trillion",
+      "weekly",
+      "wipeout"
+    ],
+    "ts": 1795221948.8614185
+  },
+  {
+    "id": "WP-MKTW-0005363120",
+    "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+    "tokens": [
+      "accelerated",
+      "crushed",
+      "most",
+      "stocks",
+      "tech",
+      "these",
+      "week",
+      "wreck"
+    ],
+    "ts": 1795221957.3172243
+  },
+  {
+    "id": "WP-MKTW-0005361668",
+    "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+    "tokens": [
+      "everyone",
+      "except",
+      "gta",
+      "investors",
+      "making",
+      "money",
+      "off",
+      "stock",
+      "take",
+      "two",
+      "week"
+    ],
+    "ts": 1795221965.415768
+  },
+  {
+    "id": "WP-MKTW-0005362086",
+    "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+    "tokens": [
+      "anthropic",
+      "billions",
+      "catch",
+      "hidden",
+      "ipo",
+      "locked",
+      "shares",
+      "waiting",
+      "wings"
+    ],
+    "ts": 1795221974.4338415
+  },
+  {
+    "id": "WP-MKTW-0005362022",
+    "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+    "tokens": [
+      "actually",
+      "analysts",
+      "bargains",
+      "flag",
+      "like",
+      "look",
+      "micron",
+      "might",
+      "red",
+      "sandisk",
+      "say",
+      "stocks"
+    ],
+    "ts": 1795221981.6498897
+  },
+  {
+    "id": "WP-MKTW-0005363064",
+    "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+    "tokens": [
+      "can",
+      "cents",
+      "gas",
+      "one",
+      "peak",
+      "prices",
+      "thankful",
+      "thanksgiving",
+      "thing",
+      "travelers",
+      "year"
+    ],
+    "ts": 1795221989.829326
+  },
+  {
+    "id": "WP-MKTW-0005348075",
+    "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+    "tokens": [
+      "drug",
+      "glp",
+      "help",
+      "here",
+      "losing",
+      "much",
+      "muscle",
+      "proven",
+      "too",
+      "users",
+      "what"
+    ],
+    "ts": 1795221998.0844343
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/anthropics-postdebut-stumble-delivers-reality-check-for-ai-trade-5041125",
+    "title": "Anthropic’s post-debut stumble delivers reality check for AI trade",
+    "tokens": [
+      "anthropic",
+      "check",
+      "debut",
+      "delivers",
+      "post",
+      "reality",
+      "stumble",
+      "trade"
+    ],
+    "ts": 1795222006.743147
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/army-toxic-detonation-in-iowa-paused-amid-public-outcry-farm-disruption-5042953",
+    "title": "Army toxic detonation in Iowa paused amid public outcry, farm disruption",
+    "tokens": [
+      "army",
+      "detonation",
+      "disruption",
+      "farm",
+      "iowa",
+      "outcry",
+      "paused",
+      "public",
+      "toxic"
+    ],
+    "ts": 1795222014.1152654
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/arista-networks-director-bechtolsheim-sells-561m-in-common-stock-93CH-5042952",
+    "title": "Arista Networks director Bechtolsheim sells $56.1M in common stock",
+    "tokens": [
+      "arista",
+      "bechtolsheim",
+      "common",
+      "director",
+      "networks",
+      "sells",
+      "stock"
+    ],
+    "ts": 1795222022.2128744
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/snowflake-director-benoit-dageville-sells-138m-in-stock-93CH-5042951",
+    "title": "Snowflake director Benoit Dageville sells $13.8M in stock",
+    "tokens": [
+      "benoit",
+      "dageville",
+      "director",
+      "sells",
+      "snowflake",
+      "stock"
+    ],
+    "ts": 1795222029.8283458
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/snowflake-director-frank-slootman-sells-844-million-in-stock-93CH-5042950",
+    "title": "Snowflake director Frank Slootman sells $84.4 million in stock",
+    "tokens": [
+      "director",
+      "frank",
+      "million",
+      "sells",
+      "slootman",
+      "snowflake",
+      "stock"
+    ],
+    "ts": 1795222037.3781362
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sellas-cfo-john-burns-sells-73470-in-stock-for-tax-obligations-93CH-5042948",
+    "title": "Sellas CFO John Burns sells $73,470 in stock for tax obligations",
+    "tokens": [
+      "470",
+      "burns",
+      "cfo",
+      "john",
+      "obligations",
+      "sellas",
+      "sells",
+      "stock",
+      "tax"
+    ],
+    "ts": 1795222045.241994
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/pubmatic-ceo-rajeev-goel-sells-103-million-in-stock-93CH-5042944",
+    "title": "PubMatic CEO Rajeev Goel sells $1.03 million in stock",
+    "tokens": [
+      "ceo",
+      "goel",
+      "million",
+      "pubmatic",
+      "rajeev",
+      "sells",
+      "stock"
+    ],
+    "ts": 1795222054.0850291
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sellas-svp-dragan-cicic-sells-132961-in-stock-93CH-5042943",
+    "title": "Sellas SVP Dragan Cicic sells $132,961 in stock",
+    "tokens": [
+      "132",
+      "961",
+      "cicic",
+      "dragan",
+      "sellas",
+      "sells",
+      "stock",
+      "svp"
+    ],
+    "ts": 1795222061.2645793
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/sellas-ceo-angelos-stergiou-sells-510249-in-shares-93CH-5042941",
+    "title": "Sellas CEO Angelos Stergiou sells $510,249 in shares",
+    "tokens": [
+      "249",
+      "510",
+      "angelos",
+      "ceo",
+      "sellas",
+      "sells",
+      "shares",
+      "stergiou"
+    ],
+    "ts": 1795222069.2470052
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/snap-cco-ronan-harris-sells-528870-in-snap-stock-93CH-5042942",
+    "title": "Snap CCO Ronan Harris sells $528,870 in Snap stock",
+    "tokens": [
+      "528",
+      "870",
+      "cco",
+      "harris",
+      "ronan",
+      "sells",
+      "snap",
+      "stock"
+    ],
+    "ts": 1795222077.1957753
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/economybookings-launches-flight-booking-with-more-than-300-airlines-bringing-flights-and-car-rental-together-on-one-platform-1036789232",
+    "title": "EconomyBookings Launches Flight Booking With More Than 300 Airlines, Bringing Flights and Car Rental Together on One Platform",
+    "tokens": [
+      "300",
+      "airlines",
+      "booking",
+      "bringing",
+      "car",
+      "economybookings",
+      "flight",
+      "flights",
+      "launches",
+      "more",
+      "one",
+      "platform",
+      "rental",
+      "together"
+    ],
+    "ts": 1795222085.3747838
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/fitness-champs-holdings-limited-announces-closing-of-5-million-public-offering-and-addresses-nasdaq-deficiency-notice-1036789220",
+    "title": "Fitness Champs Holdings Limited Announces Closing of $5 Million Public Offering and Addresses Nasdaq Deficiency Notice",
+    "tokens": [
+      "addresses",
+      "announces",
+      "champs",
+      "closing",
+      "deficiency",
+      "fitness",
+      "holdings",
+      "limited",
+      "million",
+      "nasdaq",
+      "notice",
+      "offering",
+      "public"
+    ],
+    "ts": 1795222093.5753407
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/obsi-designated-external-complaints-body-for-canada-s-consumer-driven-banking-framework-1036789229",
+    "title": "OBSI Designated External Complaints Body for Canada’s Consumer-Driven Banking Framework",
+    "tokens": [
+      "banking",
+      "body",
+      "canada",
+      "complaints",
+      "consumer",
+      "designated",
+      "driven",
+      "external",
+      "framework",
+      "obsi"
+    ],
+    "ts": 1795222100.8309407
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/canada-takes-next-step-forward-on-consumer-driven-banking-in-designating-financial-data-exchange-for-standards-role-1036789228",
+    "title": "Canada Takes Next Step Forward on Consumer-Driven Banking in Designating Financial Data Exchange for Standards Role",
+    "tokens": [
+      "banking",
+      "canada",
+      "consumer",
+      "data",
+      "designating",
+      "driven",
+      "exchange",
+      "financial",
+      "forward",
+      "next",
+      "role",
+      "standards",
+      "step",
+      "takes"
+    ],
+    "ts": 1795222108.5714705
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/integral-acquisition-corporation-1-announces-liquidation-and-redemption-amount-1036789224",
+    "title": "Integral Acquisition Corporation 1 Announces Liquidation and Redemption Amount",
+    "tokens": [
+      "acquisition",
+      "amount",
+      "announces",
+      "corporation",
+      "integral",
+      "liquidation",
+      "redemption"
+    ],
+    "ts": 1795222117.413076
+  },
+  {
+    "id": "https://seekingalpha.com/news/4675220-catalyst-watch-spotlight-on-the-ai-trade-core-pce-and-black-friday-traffic?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Catalyst Watch: Spotlight on the AI trade, core PCE, and Black Friday traffic",
+    "tokens": [
+      "black",
+      "catalyst",
+      "core",
+      "friday",
+      "pce",
+      "spotlight",
+      "trade",
+      "traffic",
+      "watch"
+    ],
+    "ts": 1795222124.7154007
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/more-than-100-partners-support-acwa-s-vision-for-our-water-future-1036789183",
+    "title": "More than 100 Partners Support ACWA’s Vision for Our Water Future",
+    "tokens": [
+      "100",
+      "acwa",
+      "future",
+      "more",
+      "our",
+      "partners",
+      "support",
+      "vision",
+      "water"
+    ],
+    "ts": 1795222132.3450687
+  },
+  {
+    "id": "https://seekingalpha.com/news/4675304-canadian-solar-plunges-on-report-it-hired-advisers-may-consider-bankruptcy?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Canadian Solar plunges on report it hired advisers, and may consider bankruptcy",
+    "tokens": [
+      "advisers",
+      "bankruptcy",
+      "canadian",
+      "consider",
+      "hired",
+      "may",
+      "plunges",
+      "report",
+      "solar"
+    ],
+    "ts": 1795222140.364466
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-top-ranked-global-counsel-encourages-bank-of-america-corporation-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-bac-1036732644",
+    "title": "ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages Bank of America Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - BAC",
+    "tokens": [
+      "action",
+      "america",
+      "bac",
+      "bank",
+      "before",
+      "class",
+      "corporation",
+      "counsel",
+      "deadline",
+      "encourages",
+      "global",
+      "important",
+      "investors",
+      "ranked",
+      "rosen",
+      "secure",
+      "securities",
+      "top"
+    ],
+    "ts": 1795222144.3767357
+  },
+  {
+    "id": "https://seekingalpha.com/news/4675294-take-two-says-gta-vi-posts-record-379b-in-day-one-sales?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Take-Two says GTA VI posts record $3.79B in day-one sales",
+    "tokens": [
+      "79b",
+      "day",
+      "gta",
+      "one",
+      "posts",
+      "record",
+      "sales",
+      "take",
+      "two"
+    ],
+    "ts": 1795222149.1983635
+  },
+  {
+    "id": "oilprice-article-46129",
+    "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+    "tokens": [
+      "between",
+      "caught",
+      "east",
+      "glut",
+      "looming",
+      "middle",
+      "oil",
+      "prices",
+      "turmoil"
+    ],
+    "ts": 1795222158.4847252
+  },
+  {
+    "id": "oilprice-article-46130",
+    "title": "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election",
+    "tokens": [
+      "2027",
+      "argentine",
+      "before",
+      "bonds",
+      "election",
+      "energy",
+      "firms",
+      "rush",
+      "sell"
+    ],
+    "ts": 1795222166.241672
+  },
+  {
+    "id": "oilprice-news-46130",
+    "title": "Norway’s Gas Sales Surge Nearly 20% as Europe Braces for Winter",
+    "tokens": [
+      "braces",
+      "europe",
+      "gas",
+      "nearly",
+      "norway",
+      "sales",
+      "surge",
+      "winter"
+    ],
+    "ts": 1795222170.255014
+  },
+  {
+    "id": "oilprice-news-46129",
+    "title": "China’s Oil Imports from Persian Gulf Jump to Wartime High",
+    "tokens": [
+      "china",
+      "gulf",
+      "high",
+      "imports",
+      "jump",
+      "oil",
+      "persian",
+      "wartime"
+    ],
+    "ts": 1795222170.267295
+  },
+  {
+    "id": "bb74b2cc-a153-481b-b273-06d8d8ef26d2",
+    "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+    "tokens": [
+      "ahead",
+      "could",
+      "exchange",
+      "get",
+      "kalshi",
+      "order",
+      "races",
+      "shut",
+      "york"
+    ],
+    "ts": 1795222174.2053697
+  },
+  {
+    "id": "704ae44c-3f58-4f72-966d-8a9d73765fec",
+    "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+    "tokens": [
+      "canton",
+      "ethereum",
+      "experiment",
+      "fairmint",
+      "plans",
+      "sec",
+      "stock",
+      "tokenized",
+      "under",
+      "venue"
+    ],
+    "ts": 1795222182.0604985
+  },
+  {
+    "id": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit",
+    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+    "tokens": [
+      "crashes",
+      "exploit",
+      "monero",
+      "suspected",
+      "token",
+      "wrapped"
+    ],
+    "ts": 1795222189.9826665
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+    "title": "Federal Reserve announces College Fed Challenge winners",
+    "tokens": [
+      "announces",
+      "challenge",
+      "college",
+      "fed",
+      "federal",
+      "reserve",
+      "winners"
+    ],
+    "ts": 1795222197.6327426
   }
 ]

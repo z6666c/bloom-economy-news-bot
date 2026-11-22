@@ -1,193 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005335026",
-    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-    "tokens": [
-      "himself",
-      "professor",
-      "reinvented",
-      "retired",
-      "scholar",
-      "swift",
-      "taylor"
-    ],
-    "ts": 1794088233.99917
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/emerging-market-central-banks-turn-hawkish-as-inflation-pressures-mount-citi-says-5010059",
-    "title": "Emerging market central banks turn hawkish as inflation pressures mount, Citi says",
-    "tokens": [
-      "banks",
-      "central",
-      "citi",
-      "emerging",
-      "hawkish",
-      "inflation",
-      "market",
-      "mount",
-      "pressures",
-      "turn"
-    ],
-    "ts": 1794088243.4271355
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman-5010055",
-    "title": "US military says it disabled cargo vessel in Gulf of Oman",
-    "tokens": [
-      "cargo",
-      "disabled",
-      "gulf",
-      "military",
-      "oman",
-      "vessel"
-    ],
-    "ts": 1794088253.5549145
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010054",
-    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-    "tokens": [
-      "close",
-      "index",
-      "lower",
-      "moex",
-      "russia",
-      "stocks",
-      "trade",
-      "unchanged"
-    ],
-    "ts": 1794088262.5895104
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/equity-positioning-suffered-one-of-its-sharpest-weekly-drops-on-record-db-5010048",
-    "title": "Equity positioning suffered one of its sharpest weekly drops on record: DB",
-    "tokens": [
-      "drops",
-      "equity",
-      "one",
-      "positioning",
-      "record",
-      "sharpest",
-      "suffered",
-      "weekly"
-    ],
-    "ts": 1794088272.4053745
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044",
-    "title": "CoreWeave seeks truce with Texas Governor-elect Hinojosa",
-    "tokens": [
-      "coreweave",
-      "elect",
-      "governor",
-      "hinojosa",
-      "seeks",
-      "texas",
-      "truce"
-    ],
-    "ts": 1794088282.2089853
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/trump-signals-iran-peace-progress-as-hormuz-attacks-threaten-talks-5009635",
-    "title": "Trump cites progress in Iran talks as fresh explosions hit Qeshm Island",
-    "tokens": [
-      "cites",
-      "explosions",
-      "fresh",
-      "hit",
-      "iran",
-      "island",
-      "progress",
-      "qeshm",
-      "talks",
-      "trump"
-    ],
-    "ts": 1794088291.0293772
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/amex-chief-legal-officer-laureen-seeger-sells-229m-in-stock-93CH-5010032",
-    "title": "Amex chief legal officer Laureen Seeger sells $22.9M in stock",
-    "tokens": [
-      "amex",
-      "chief",
-      "laureen",
-      "legal",
-      "officer",
-      "seeger",
-      "sells",
-      "stock"
-    ],
-    "ts": 1794088299.6173952
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/century-casinos-earnings-missed-revenue-fell-short-of-estimates-5010028",
-    "title": "Century Casinos earnings missed, revenue fell short of estimates",
-    "tokens": [
-      "casinos",
-      "century",
-      "earnings",
-      "estimates",
-      "fell",
-      "missed",
-      "revenue",
-      "short"
-    ],
-    "ts": 1794088303.6295934
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/why-gold-is-losing-its-shine-goldman-breaks-down-the-recent-selloff-5010022",
-    "title": "Why gold is losing its shine: Goldman breaks down the recent sell-off",
-    "tokens": [
-      "breaks",
-      "gold",
-      "goldman",
-      "losing",
-      "off",
-      "recent",
-      "sell",
-      "shine",
-      "why"
-    ],
-    "ts": 1794088307.5843966
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/israels-eisenkot-gets-first-mandate-to-form-government-aiming-to-oust-netanyahu-5010017",
-    "title": "Israel’s Eisenkot gets first mandate to form government, aiming to oust Netanyahu",
-    "tokens": [
-      "aiming",
-      "eisenkot",
-      "first",
-      "form",
-      "gets",
-      "government",
-      "israel",
-      "mandate",
-      "netanyahu",
-      "oust"
-    ],
-    "ts": 1794088316.1899986
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/diginex-announces-extension-of-long-stop-date-for-proposed-acquisition-of-resulticks-and-convenes-extraordinary-general-meeting-1036732989",
-    "title": "Diginex Announces Extension of Long Stop Date for Proposed Acquisition of Resulticks and Convenes Extraordinary General Meeting",
-    "tokens": [
-      "acquisition",
-      "announces",
-      "convenes",
-      "date",
-      "diginex",
-      "extension",
-      "extraordinary",
-      "general",
-      "long",
-      "meeting",
-      "proposed",
-      "resulticks",
-      "stop"
-    ],
-    "ts": 1794088325.306901
-  },
-  {
     "id": "https://markets.businessinsider.com/news/stocks/rosen-a-ranked-and-leading-law-firm-encourages-netcapital-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-ncpl-1036637003",
     "title": "ROSEN, A RANKED AND LEADING LAW FIRM, Encourages Netcapital Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - NCPL",
     "tokens": [
@@ -23941,5 +23753,190 @@
       "vault"
     ],
     "ts": 1795297367.436097
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672",
+    "title": "China’s AI stocks lose $1.7 trillion as tech selloff deepens",
+    "tokens": [
+      "china",
+      "deepens",
+      "lose",
+      "selloff",
+      "stocks",
+      "tech",
+      "trillion"
+    ],
+    "ts": 1795311338.6518073
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/filana-therapeutics-ceo-barry-richard-buys-206896-in-company-stock-93CH-5043668",
+    "title": "Filana Therapeutics CEO Barry Richard buys $206,896 in company stock",
+    "tokens": [
+      "206",
+      "896",
+      "barry",
+      "buys",
+      "ceo",
+      "company",
+      "filana",
+      "richard",
+      "stock",
+      "therapeutics"
+    ],
+    "ts": 1795311345.7881072
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/texas-community-bancshares-coo-haskell-strange-sells-14911-in-stock-93CH-5043660",
+    "title": "Texas Community Bancshares COO Haskell Strange sells $14,911 in stock",
+    "tokens": [
+      "911",
+      "bancshares",
+      "community",
+      "coo",
+      "haskell",
+      "sells",
+      "stock",
+      "strange",
+      "texas"
+    ],
+    "ts": 1795311352.7501183
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/amphastar-cfo-william-peters-sells-329890-in-stock-93CH-5043651",
+    "title": "Amphastar CFO William Peters sells $329,890 in stock",
+    "tokens": [
+      "329",
+      "890",
+      "amphastar",
+      "cfo",
+      "peters",
+      "sells",
+      "stock",
+      "william"
+    ],
+    "ts": 1795311360.2990344
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/park-ohio-holdings-vp--cfo-patrick-fogarty-sells-99213-in-stock-93CH-5043650",
+    "title": "Park Ohio Holdings VP & CFO Patrick Fogarty sells $99,213 in stock",
+    "tokens": [
+      "213",
+      "cfo",
+      "fogarty",
+      "holdings",
+      "ohio",
+      "park",
+      "patrick",
+      "sells",
+      "stock"
+    ],
+    "ts": 1795311367.2219088
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ge-senior-vice-president-riccardo-procacci-sells-657151-in-stock-93CH-5043644",
+    "title": "Ge senior vice president Riccardo Procacci sells $657,151 in stock",
+    "tokens": [
+      "151",
+      "657",
+      "president",
+      "procacci",
+      "riccardo",
+      "sells",
+      "senior",
+      "stock",
+      "vice"
+    ],
+    "ts": 1795311374.6524644
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/filana-therapeutics-cfo-eric-schoen-buys-8400-in-shares-93CH-5043638",
+    "title": "Filana Therapeutics CFO Eric Schoen buys $8,400 in shares",
+    "tokens": [
+      "400",
+      "buys",
+      "cfo",
+      "eric",
+      "filana",
+      "schoen",
+      "shares",
+      "therapeutics"
+    ],
+    "ts": 1795311381.7403605
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/riskified-director-erez-shachar-sells-720000-in-shares-93CH-5043637",
+    "title": "Riskified director Erez Shachar sells $720,000 in shares",
+    "tokens": [
+      "000",
+      "720",
+      "director",
+      "erez",
+      "riskified",
+      "sells",
+      "shachar",
+      "shares"
+    ],
+    "ts": 1795311388.748414
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/regeneron-evp-marion-mccourt-sells-543504-in-stock-93CH-5043636",
+    "title": "Regeneron evp Marion McCourt sells $543,504 in stock",
+    "tokens": [
+      "504",
+      "543",
+      "evp",
+      "marion",
+      "mccourt",
+      "regeneron",
+      "sells",
+      "stock"
+    ],
+    "ts": 1795311395.809273
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/runway-growth-finance-cfo-carmela-thomson-buys-6670-in-stock-93CH-5043635",
+    "title": "Runway Growth Finance CFO Carmela Thomson buys $6,670 in stock",
+    "tokens": [
+      "670",
+      "buys",
+      "carmela",
+      "cfo",
+      "finance",
+      "growth",
+      "runway",
+      "stock",
+      "thomson"
+    ],
+    "ts": 1795311402.625228
+  },
+  {
+    "id": "oilprice-article-46133",
+    "title": "AI Boom Forces Massive Investment in Power Grids Worldwide",
+    "tokens": [
+      "boom",
+      "forces",
+      "grids",
+      "investment",
+      "massive",
+      "power",
+      "worldwide"
+    ],
+    "ts": 1795311410.390713
+  },
+  {
+    "id": "oilprice-article-46131",
+    "title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
+    "tokens": [
+      "clock",
+      "cost",
+      "could",
+      "cut",
+      "ember",
+      "power",
+      "round",
+      "solar",
+      "wind"
+    ],
+    "ts": 1795311417.5190203
   }
 ]

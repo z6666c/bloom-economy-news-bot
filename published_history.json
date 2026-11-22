@@ -1,435 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005334438",
-    "title": "Stocks are moving in sync again for the first time in a while. There’s just one problem.",
-    "tokens": [
-      "again",
-      "first",
-      "just",
-      "moving",
-      "one",
-      "problem",
-      "stocks",
-      "sync",
-      "there",
-      "time",
-      "while"
-    ],
-    "ts": 1794147944.618936
-  },
-  {
-    "id": "WP-MKTW-0005334710",
-    "title": "This market signal called the tech selloff. Now it’s sending another warning.",
-    "tokens": [
-      "another",
-      "called",
-      "market",
-      "now",
-      "selloff",
-      "sending",
-      "signal",
-      "tech",
-      "warning"
-    ],
-    "ts": 1794147952.5007136
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5010231",
-    "title": "As tech swoon roils market, US inflation data on tap",
-    "tokens": [
-      "data",
-      "inflation",
-      "market",
-      "roils",
-      "swoon",
-      "tap",
-      "tech"
-    ],
-    "ts": 1794147956.6296039
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/northrop-grumman-director-mark-welsh-iii-sells-54453-of-common-stock-93CH-5010228",
-    "title": "Northrop Grumman director Mark Welsh III sells $54,453 of common stock",
-    "tokens": [
-      "453",
-      "common",
-      "director",
-      "grumman",
-      "iii",
-      "mark",
-      "northrop",
-      "sells",
-      "stock",
-      "welsh"
-    ],
-    "ts": 1794147961.8274207
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/community-bancorp-president-and-ceo-buys-21492-in-stock-93CH-5010227",
-    "title": "Community Bancorp president and CEO buys $21,492 in stock",
-    "tokens": [
-      "492",
-      "bancorp",
-      "buys",
-      "ceo",
-      "community",
-      "president",
-      "stock"
-    ],
-    "ts": 1794147970.1100626
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-078-5010219",
-    "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.78%",
-    "tokens": [
-      "all",
-      "arabia",
-      "close",
-      "lower",
-      "saudi",
-      "share",
-      "stocks",
-      "tadawul",
-      "trade"
-    ],
-    "ts": 1794147978.7999067
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/caterpillar-director-james-fish-jr-buys-620390-in-stock-93CH-5010216",
-    "title": "Caterpillar director James Fish Jr. buys $620,390 in stock",
-    "tokens": [
-      "390",
-      "620",
-      "buys",
-      "caterpillar",
-      "director",
-      "fish",
-      "james",
-      "stock"
-    ],
-    "ts": 1794147987.4180877
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/anthropic-reportedly-strikes-34-billion-deal-for-gasfired-power-at-data-centres-5010208",
-    "title": "Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
-    "tokens": [
-      "anthropic",
-      "billion",
-      "centres",
-      "data",
-      "deal",
-      "fired",
-      "gas",
-      "power",
-      "reportedly",
-      "strikes"
-    ],
-    "ts": 1794147996.422974
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/buy-the-dip-or-wait-bofa-maps-out-3-scenarios-for-chip-stocks-and-top-picks-5010206",
-    "title": "Buy the dip or wait? BofA maps out 3 scenarios for chip stocks and top picks",
-    "tokens": [
-      "bofa",
-      "buy",
-      "chip",
-      "dip",
-      "maps",
-      "picks",
-      "scenarios",
-      "stocks",
-      "top",
-      "wait"
-    ],
-    "ts": 1794148005.4993732
-  },
-  {
-    "id": "https://www.investing.com/news/investment-ideas/gogo-stock-surges-79-in-one-month-after-fair-value-signal-93CH-5010202",
-    "title": "Gogo stock surges 79% in one month after Fair Value signal",
-    "tokens": [
-      "fair",
-      "gogo",
-      "month",
-      "one",
-      "signal",
-      "stock",
-      "surges",
-      "value"
-    ],
-    "ts": 1794148013.1502116
-  },
-  {
-    "id": "https://www.investing.com/news/investment-ideas/how-investingpro-spotted-latigos-48-decline-before-it-happened-93CH-5010198",
-    "title": "how InvestingPro spotted Latigo’s 48% decline before it happened",
-    "tokens": [
-      "before",
-      "decline",
-      "happened",
-      "how",
-      "investingpro",
-      "latigo",
-      "spotted"
-    ],
-    "ts": 1794148021.86222
-  },
-  {
-    "id": "7226ed40-8b46-45e2-a8ad-b6a6c4e27cf4",
-    "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-    "tokens": [
-      "000",
-      "above",
-      "bitcoin",
-      "btc",
-      "finland",
-      "free",
-      "get",
-      "heat",
-      "homes",
-      "long",
-      "miners",
-      "stays",
-      "these"
-    ],
-    "ts": 1794148031.7742972
-  },
-  {
-    "id": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31",
-    "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
-    "tokens": [
-      "accounts",
-      "announce",
-      "binance",
-      "closure",
-      "dec",
-      "emails",
-      "france",
-      "users"
-    ],
-    "ts": 1794148040.369476
-  },
-  {
-    "id": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report",
-    "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
-    "tokens": [
-      "amsterdam",
-      "break",
-      "center",
-      "construction",
-      "data",
-      "microsoft",
-      "protesters",
-      "report",
-      "site"
-    ],
-    "ts": 1794148048.6816092
-  },
-  {
-    "id": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says",
-    "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
-    "tokens": [
-      "binance",
-      "chief",
-      "company",
-      "finance",
-      "kaiser",
-      "leave",
-      "report"
-    ],
-    "ts": 1794148056.7637212
-  },
-  {
-    "id": "WP-MKTW-0005335478",
-    "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-    "tokens": [
-      "burial",
-      "business",
-      "dies",
-      "finding",
-      "funeral",
-      "golf",
-      "homes",
-      "hosting",
-      "life",
-      "outings",
-      "traditional",
-      "weddings"
-    ],
-    "ts": 1794164260.3472605
-  },
-  {
-    "id": "WP-MKTW-0005334908",
-    "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-    "tokens": [
-      "america",
-      "barely",
-      "beating",
-      "corporate",
-      "expectations",
-      "just",
-      "numbers",
-      "profit",
-      "street",
-      "wall"
-    ],
-    "ts": 1794164270.4912775
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts-5010279",
-    "title": "Environmental groups embrace AI, even as they warn of data center impacts",
-    "tokens": [
-      "center",
-      "data",
-      "embrace",
-      "environmental",
-      "even",
-      "groups",
-      "impacts",
-      "they",
-      "warn"
-    ],
-    "ts": 1794164274.5943642
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/first-financial-bankshares-director-purchases-24423-in-stock-93CH-5010278",
-    "title": "First Financial Bankshares director purchases $24,423 in stock",
-    "tokens": [
-      "423",
-      "bankshares",
-      "director",
-      "financial",
-      "first",
-      "purchases",
-      "stock"
-    ],
-    "ts": 1794164279.6509147
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/private-equity-firm-bc-partners-seeks-to-take-control-of-liv-golf-from-saudi-wealth-fund-ft-reports-5010245",
-    "title": "Golf-BC Partners seeks control of LIV Golf from Saudi wealth fund, FT reports",
-    "tokens": [
-      "control",
-      "fund",
-      "golf",
-      "liv",
-      "partners",
-      "reports",
-      "saudi",
-      "seeks",
-      "wealth"
-    ],
-    "ts": 1794164287.8288853
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/cullenfrost-bankers-chief-accounting-officer-henson-sells-85290-of-stock-93CH-5010272",
-    "title": "Cullen/Frost Bankers chief accounting officer Henson sells $85,290 of stock",
-    "tokens": [
-      "290",
-      "accounting",
-      "bankers",
-      "chief",
-      "cullen",
-      "frost",
-      "henson",
-      "officer",
-      "sells",
-      "stock"
-    ],
-    "ts": 1794164295.9519734
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/china-ai-bust-threatens-xis-wall-street-east-ambitions-5010271",
-    "title": "China AI bust threatens Xi’s ’Wall Street East’ ambitions",
-    "tokens": [
-      "ambitions",
-      "bust",
-      "china",
-      "east",
-      "street",
-      "threatens",
-      "wall"
-    ],
-    "ts": 1794164305.0278668
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/buy-the-dip-in-this-canadian-stock-rj-5010264",
-    "title": "Buy the dip in this Canadian stock: RJ",
-    "tokens": [
-      "buy",
-      "canadian",
-      "dip",
-      "stock"
-    ],
-    "ts": 1794164312.9122458
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/how-sustainable-is-the-ai-investment-boom-after-thursdays-selloff-5010263",
-    "title": "How sustainable is the AI investment boom after Thursday’s selloff?",
-    "tokens": [
-      "boom",
-      "how",
-      "investment",
-      "selloff",
-      "sustainable",
-      "thursday"
-    ],
-    "ts": 1794164321.8405504
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/labcorp-director-richelle-parham-sells-389395-in-shares-93CH-5010259",
-    "title": "Labcorp director Richelle Parham sells $389,395 in shares",
-    "tokens": [
-      "389",
-      "395",
-      "director",
-      "labcorp",
-      "parham",
-      "richelle",
-      "sells",
-      "shares"
-    ],
-    "ts": 1794164330.5299428
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/saudi-aramco-building-in-riyadh-damaged-by-falling-debris-after-attempted-attack-ministry-says-5010175",
-    "title": "Houthi attack damages Aramco building in Riyadh’s financial district",
-    "tokens": [
-      "aramco",
-      "attack",
-      "building",
-      "damages",
-      "district",
-      "financial",
-      "houthi",
-      "riyadh"
-    ],
-    "ts": 1794164339.1099
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/top-5-stocks-to-watch-this-week-5010257",
-    "title": "Top 5 stocks to watch this week",
-    "tokens": [
-      "stocks",
-      "top",
-      "watch",
-      "week"
-    ],
-    "ts": 1794164348.7556581
-  },
-  {
-    "id": "oilprice-article-46005",
-    "title": "How Big Oil Became the AI Industry's Favorite Customer",
-    "tokens": [
-      "became",
-      "big",
-      "customer",
-      "favorite",
-      "how",
-      "industry",
-      "oil"
-    ],
-    "ts": 1794164358.4143534
-  },
-  {
     "id": "oilprice-article-45999",
     "title": "How New York Plans to Turn Waste Heat Into Clean Energy",
     "tokens": [
@@ -23887,5 +23457,474 @@
       "upholds"
     ],
     "ts": 1795366594.4165933
+  },
+  {
+    "id": "WP-MKTW-0005357467",
+    "title": "Ron Johnson’s Social Security gaffe buried important news",
+    "tokens": [
+      "buried",
+      "gaffe",
+      "important",
+      "johnson",
+      "news",
+      "ron",
+      "security",
+      "social"
+    ],
+    "ts": 1795385910.7111292
+  },
+  {
+    "id": "WP-MKTW-0005356078",
+    "title": "Social Security should be shut down, this Republican senator says",
+    "tokens": [
+      "republican",
+      "security",
+      "senator",
+      "should",
+      "shut",
+      "social"
+    ],
+    "ts": 1795385919.621669
+  },
+  {
+    "id": "WP-MKTW-0005360790",
+    "title": "These little-known investments could be among the best bargains in a crash",
+    "tokens": [
+      "among",
+      "bargains",
+      "best",
+      "could",
+      "crash",
+      "investments",
+      "known",
+      "little",
+      "these"
+    ],
+    "ts": 1795385929.1830945
+  },
+  {
+    "id": "WP-MKTW-0005351579",
+    "title": "Private equity has been buying up hospice centers — with striking consequences",
+    "tokens": [
+      "buying",
+      "centers",
+      "consequences",
+      "equity",
+      "hospice",
+      "private",
+      "striking"
+    ],
+    "ts": 1795385939.468998
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/weyco-group-vp-allison-woss-sells-32721-in-company-stock-93CH-5044143",
+    "title": "Weyco Group VP Allison Woss sells $32,721 in company stock",
+    "tokens": [
+      "721",
+      "allison",
+      "company",
+      "group",
+      "sells",
+      "stock",
+      "weyco",
+      "woss"
+    ],
+    "ts": 1795385949.8835406
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/gladstone-land-cfo-lewis-parrish-buys-6470-in-company-stock-93CH-5044142",
+    "title": "Gladstone Land CFO Lewis Parrish buys $6,470 in company stock",
+    "tokens": [
+      "470",
+      "buys",
+      "cfo",
+      "company",
+      "gladstone",
+      "land",
+      "lewis",
+      "parrish",
+      "stock"
+    ],
+    "ts": 1795385958.2300436
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/should-you-buy-the-massive-dip-in-memory-stocks-citi-weighs-in-5044137",
+    "title": "Should you buy the massive dip in memory stocks? Citi weighs in",
+    "tokens": [
+      "buy",
+      "citi",
+      "dip",
+      "massive",
+      "memory",
+      "should",
+      "stocks",
+      "weighs",
+      "you"
+    ],
+    "ts": 1795385966.9217367
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/invivyd-to-announce-phase-3-covid19-trial-results-monday-93CH-5044129",
+    "title": "Invivyd to announce Phase 3 COVID-19 trial results Monday",
+    "tokens": [
+      "announce",
+      "covid",
+      "invivyd",
+      "monday",
+      "phase",
+      "results",
+      "trial"
+    ],
+    "ts": 1795385978.0770583
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5044127",
+    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+    "tokens": [
+      "close",
+      "index",
+      "lower",
+      "moex",
+      "russia",
+      "stocks",
+      "trade",
+      "unchanged"
+    ],
+    "ts": 1795385982.0921922
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/analysiscan-climate-diplomacy-build-on-the-collapse-of-cop31-5044126",
+    "title": "Analysis-Can climate diplomacy build on the collapse of COP31?",
+    "tokens": [
+      "analysis",
+      "build",
+      "can",
+      "climate",
+      "collapse",
+      "cop31",
+      "diplomacy"
+    ],
+    "ts": 1795385989.6815457
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102",
+    "title": "Delta flights faced brief delays at Atlanta airport over automated system issue",
+    "tokens": [
+      "airport",
+      "atlanta",
+      "automated",
+      "brief",
+      "delays",
+      "delta",
+      "faced",
+      "flights",
+      "issue",
+      "system"
+    ],
+    "ts": 1795385998.2310362
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/how-exposed-is-sp-500-to-an-ai-trade-bust-5044112",
+    "title": "How exposed is the S&P 500 to an AI trade bust?",
+    "tokens": [
+      "500",
+      "bust",
+      "exposed",
+      "how",
+      "trade"
+    ],
+    "ts": 1795386011.7240062
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/umh-properties-evp-cfo-miller-buys-999-in-company-stock-93CH-5044109",
+    "title": "Umh Properties evp, cfo Miller buys $999 in company stock",
+    "tokens": [
+      "999",
+      "buys",
+      "cfo",
+      "company",
+      "evp",
+      "miller",
+      "properties",
+      "stock",
+      "umh"
+    ],
+    "ts": 1795386021.2301686
+  },
+  {
+    "id": "https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104",
+    "title": "Analyst explains why SpaceX is ‘roughly ten years ahead of any competitor’",
+    "tokens": [
+      "ahead",
+      "analyst",
+      "any",
+      "competitor",
+      "explains",
+      "roughly",
+      "spacex",
+      "ten",
+      "why",
+      "years"
+    ],
+    "ts": 1795386034.2096617
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-a-leading-national-firm-encourages-bank-of-america-corporation-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-bac-1036733636",
+    "title": "ROSEN, A LEADING NATIONAL FIRM, Encourages Bank of America Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - BAC",
+    "tokens": [
+      "action",
+      "america",
+      "bac",
+      "bank",
+      "before",
+      "class",
+      "corporation",
+      "counsel",
+      "deadline",
+      "encourages",
+      "firm",
+      "important",
+      "investors",
+      "leading",
+      "national",
+      "rosen",
+      "secure",
+      "securities"
+    ],
+    "ts": 1795386038.5500817
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/duol-final-deadline-rosen-top-ranked-global-counsel-encourages-duolingo-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-duol-1036790127",
+    "title": "DUOL FINAL DEADLINE: ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages Duolingo, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - DUOL",
+    "tokens": [
+      "action",
+      "before",
+      "class",
+      "counsel",
+      "deadline",
+      "duol",
+      "duolingo",
+      "encourages",
+      "final",
+      "global",
+      "important",
+      "inc",
+      "investors",
+      "ranked",
+      "rosen",
+      "secure",
+      "securities",
+      "top"
+    ],
+    "ts": 1795386038.564417
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-at-s-austria-technologie-systemtechnik-ag-release-according-to-article-135-section-2-b-rseg-with-the-objective-of-europe-wide-distribution-1036790118",
+    "title": "EQS-PVR: AT&S Austria Technologie & Systemtechnik AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide distribution",
+    "tokens": [
+      "135",
+      "according",
+      "article",
+      "austria",
+      "distribution",
+      "eqs",
+      "europe",
+      "objective",
+      "pvr",
+      "release",
+      "rseg",
+      "section",
+      "systemtechnik",
+      "technologie",
+      "wide"
+    ],
+    "ts": 1795386043.2542644
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-nationally-regarded-investor-counsel-encourages-cvrx-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-cvrx-1036790121",
+    "title": "ROSEN, NATIONALLY REGARDED INVESTOR COUNSEL, Encourages CVRx, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - CVRX",
+    "tokens": [
+      "action",
+      "before",
+      "class",
+      "counsel",
+      "cvrx",
+      "deadline",
+      "encourages",
+      "important",
+      "inc",
+      "investor",
+      "investors",
+      "nationally",
+      "regarded",
+      "rosen",
+      "secure",
+      "securities"
+    ],
+    "ts": 1795386047.269263
+  },
+  {
+    "id": "https://seekingalpha.com/news/4675384-sa-asks-how-much-of-a-threat-is-anthropics-multi-chip-strategy-to-nvidia?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "SA Asks: How much of a threat is Anthropic's multi-chip strategy to Nvidia?",
+    "tokens": [
+      "anthropic",
+      "asks",
+      "chip",
+      "how",
+      "much",
+      "multi",
+      "nvidia",
+      "strategy",
+      "threat"
+    ],
+    "ts": 1795386053.4431286
+  },
+  {
+    "id": "https://www.businessinsider.com/delta-flight-delays-automated-system-issue-tech-2026-11",
+    "title": "Over 1,000 Delta flights delayed nationwide after issue with automated system",
+    "tokens": [
+      "000",
+      "automated",
+      "delayed",
+      "delta",
+      "flights",
+      "issue",
+      "nationwide",
+      "system"
+    ],
+    "ts": 1795386062.5191588
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/rosen-leading-investor-counsel-encourages-beneficient-investors-to-inquire-about-securities-class-action-investigation-benf-1036594125",
+    "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Beneficient Investors to Inquire About Securities Class Action Investigation - BENF",
+    "tokens": [
+      "about",
+      "action",
+      "beneficient",
+      "benf",
+      "class",
+      "counsel",
+      "encourages",
+      "inquire",
+      "investigation",
+      "investor",
+      "investors",
+      "leading",
+      "rosen",
+      "securities"
+    ],
+    "ts": 1795386071.3688195
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-cms-public-disclosure-according-to-article-2-1-of-the-delegated-regulation-eu-no-2016-1052-supplementing-regulation-eu-no-596-2014-mmvo-1036790106",
+    "title": "EQS-CMS: Public disclosure according to Article 2(1) of the Delegated Regulation (EU) No 2016/1052 supplementing Regulation (EU) No 596/2014 (MMVO)",
+    "tokens": [
+      "1052",
+      "2014",
+      "2016",
+      "596",
+      "according",
+      "article",
+      "cms",
+      "delegated",
+      "disclosure",
+      "eqs",
+      "mmvo",
+      "public",
+      "regulation",
+      "supplementing"
+    ],
+    "ts": 1795386079.944323
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/bronstein-gewirtz-grossman-llc-urges-chemours-company-investors-to-act-class-action-filed-alleging-investor-harm-1036614725",
+    "title": "Bronstein, Gewirtz & Grossman LLC Urges Chemours Company Investors to Act: Class Action Filed Alleging Investor Harm",
+    "tokens": [
+      "act",
+      "action",
+      "alleging",
+      "bronstein",
+      "chemours",
+      "class",
+      "company",
+      "filed",
+      "gewirtz",
+      "grossman",
+      "harm",
+      "investor",
+      "investors",
+      "llc",
+      "urges"
+    ],
+    "ts": 1795386089.4709914
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/everything-is-breaking-heres-the-cybersecurity-stock-that-benefits-1036790107",
+    "title": "Everything Is Breaking. Here’s the Cybersecurity Stock That Benefits",
+    "tokens": [
+      "benefits",
+      "breaking",
+      "cybersecurity",
+      "everything",
+      "here",
+      "stock"
+    ],
+    "ts": 1795386098.104515
+  },
+  {
+    "id": "oilprice-article-46125",
+    "title": "California’s Wildfire Crisis Is Threatening Its Energy Future",
+    "tokens": [
+      "california",
+      "crisis",
+      "energy",
+      "future",
+      "threatening",
+      "wildfire"
+    ],
+    "ts": 1795386107.742354
+  },
+  {
+    "id": "oilprice-article-46132",
+    "title": "Google Backs Superhot Geothermal in 50 MW Oregon Power Deal",
+    "tokens": [
+      "backs",
+      "deal",
+      "geothermal",
+      "google",
+      "oregon",
+      "power",
+      "superhot"
+    ],
+    "ts": 1795386117.5320947
+  },
+  {
+    "id": "3840e80a-e1aa-407b-afef-c215a866c3b2",
+    "title": "More on the pending oversight hearings: State of Crypto",
+    "tokens": [
+      "crypto",
+      "hearings",
+      "more",
+      "oversight",
+      "pending",
+      "state"
+    ],
+    "ts": 1795386126.399355
+  },
+  {
+    "id": "14442cf6-808e-4d9c-9187-00ae578105f5",
+    "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+    "tokens": [
+      "agent",
+      "anthropic",
+      "chaos",
+      "commerce",
+      "openai",
+      "prevent",
+      "rivals",
+      "rules",
+      "seek"
+    ],
+    "ts": 1795386135.0253565
   }
 ]

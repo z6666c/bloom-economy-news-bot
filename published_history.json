@@ -1,256 +1,5 @@
 [
   {
-    "id": "https://www.investing.com/news/insider-trading-news/oceanfirst-director-jack-farris-buys-10008-in-company-stock-93CH-5010086",
-    "title": "OceanFirst director Jack Farris buys $10,008 in company stock",
-    "tokens": [
-      "008",
-      "buys",
-      "company",
-      "director",
-      "farris",
-      "jack",
-      "oceanfirst",
-      "stock"
-    ],
-    "ts": 1794100007.241994
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/southern-co-comptroller-matthew-kim-sells-9339-in-shares-93CH-5010085",
-    "title": "Southern Co comptroller Matthew Kim sells $9,339 in shares",
-    "tokens": [
-      "339",
-      "comptroller",
-      "kim",
-      "matthew",
-      "sells",
-      "shares",
-      "southern"
-    ],
-    "ts": 1794100016.632797
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080",
-    "title": "Voyager Technologies selected for NASA’s $10B lunar contract",
-    "tokens": [
-      "10b",
-      "contract",
-      "lunar",
-      "nasa",
-      "selected",
-      "technologies",
-      "voyager"
-    ],
-    "ts": 1794100025.567963
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/world-acceptance-director-benjamin-robinson-sells-14878-in-shares-93CH-5010063",
-    "title": "World Acceptance director Benjamin Robinson sells $14,878 in shares",
-    "tokens": [
-      "878",
-      "acceptance",
-      "benjamin",
-      "director",
-      "robinson",
-      "sells",
-      "shares",
-      "world"
-    ],
-    "ts": 1794100033.6080713
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/dropbox-chief-accounting-officer-sells-74884-in-stock-93CH-5010062",
-    "title": "Dropbox chief accounting officer sells $74,884 in stock",
-    "tokens": [
-      "884",
-      "accounting",
-      "chief",
-      "dropbox",
-      "officer",
-      "sells",
-      "stock"
-    ],
-    "ts": 1794100042.1376953
-  },
-  {
-    "id": "oilprice-article-46006",
-    "title": "Wars May Spur Faster Electrification",
-    "tokens": [
-      "electrification",
-      "faster",
-      "may",
-      "spur",
-      "wars"
-    ],
-    "ts": 1794100051.3995457
-  },
-  {
-    "id": "oilprice-article-46003",
-    "title": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
-    "tokens": [
-      "billion",
-      "nowhere",
-      "nuclear",
-      "put",
-      "waste"
-    ],
-    "ts": 1794100060.7620425
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/turkish-villagers-demand-cop31-leaders-see-for-themselves-devastation-caused-by-coal-5010152",
-    "title": "Turkish villagers demand COP31 leaders see for themselves devastation caused by coal",
-    "tokens": [
-      "caused",
-      "coal",
-      "cop31",
-      "demand",
-      "devastation",
-      "leaders",
-      "see",
-      "themselves",
-      "turkish",
-      "villagers"
-    ],
-    "ts": 1794122363.8394792
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/matthew-janzaruk-pg-svp-sells-155-million-in-shares-93CH-5010150",
-    "title": "Matthew Janzaruk, P&G SVP, sells $1.55 million in shares",
-    "tokens": [
-      "janzaruk",
-      "matthew",
-      "million",
-      "sells",
-      "shares",
-      "svp"
-    ],
-    "ts": 1794122371.4896784
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/how-mercedes-suffered-a-14bn-ebit-drop-5010147",
-    "title": "How Mercedes suffered a €14bn EBIT drop",
-    "tokens": [
-      "14bn",
-      "drop",
-      "ebit",
-      "how",
-      "mercedes",
-      "suffered"
-    ],
-    "ts": 1794122379.922172
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/first-interstate-bancsystem-director-sells-120016-in-fibk-stock-93CH-5010145",
-    "title": "First Interstate Bancsystem director sells $120,016 in FIBK stock",
-    "tokens": [
-      "016",
-      "120",
-      "bancsystem",
-      "director",
-      "fibk",
-      "first",
-      "interstate",
-      "sells",
-      "stock"
-    ],
-    "ts": 1794122388.112721
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
-    "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
-    "tokens": [
-      "76k",
-      "add",
-      "below",
-      "binance",
-      "bitcoin",
-      "closures",
-      "crypto",
-      "holds",
-      "market",
-      "pressure"
-    ],
-    "ts": 1794122395.9454422
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/china-energy-investment-to-hit-940-billion-in-2026-as-grid-spending-rises-5010130",
-    "title": "China energy investment to hit $940 billion in 2026 as grid spending rises",
-    "tokens": [
-      "2026",
-      "940",
-      "billion",
-      "china",
-      "energy",
-      "grid",
-      "hit",
-      "investment",
-      "rises",
-      "spending"
-    ],
-    "ts": 1794122403.7157316
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/saudi-arabia-lifts-oil-region-alerts-after-houthi-missile-intercepted-5010126",
-    "title": "Saudi Arabia lifts oil region alerts after Houthi missile intercepted",
-    "tokens": [
-      "alerts",
-      "arabia",
-      "houthi",
-      "intercepted",
-      "lifts",
-      "missile",
-      "oil",
-      "region",
-      "saudi"
-    ],
-    "ts": 1794122410.6457386
-  },
-  {
-    "id": "https://www.investing.com/news/earnings/pacira-earnings-missed-by-003-revenue-fell-short-of-estimates-5010123",
-    "title": "Pacira earnings missed by $0.03, revenue fell short of estimates",
-    "tokens": [
-      "earnings",
-      "estimates",
-      "fell",
-      "missed",
-      "pacira",
-      "revenue",
-      "short"
-    ],
-    "ts": 1794122414.6551342
-  },
-  {
-    "id": "https://www.investing.com/news/economy-news/judge-orders-ethics-probe-into-trumps-washington-golf-course-project-5010119",
-    "title": "Judge orders ethics probe into Trump’s Washington golf course project",
-    "tokens": [
-      "course",
-      "ethics",
-      "golf",
-      "judge",
-      "orders",
-      "probe",
-      "project",
-      "trump",
-      "washington"
-    ],
-    "ts": 1794122418.672178
-  },
-  {
-    "id": "WP-MKTW-0005329444",
-    "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
-    "tokens": [
-      "cheese",
-      "cottage",
-      "craze",
-      "cream",
-      "hurting",
-      "losing",
-      "maxxing",
-      "protein",
-      "sales"
-    ],
-    "ts": 1794147936.0593598
-  },
-  {
     "id": "WP-MKTW-0005334438",
     "title": "Stocks are moving in sync again for the first time in a while. There’s just one problem.",
     "tokens": [
@@ -23882,5 +23631,261 @@
       "offers"
     ],
     "ts": 1795337555.4318962
+  },
+  {
+    "id": "WP-MKTW-0005362871",
+    "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+    "tokens": [
+      "airport",
+      "america",
+      "cards",
+      "corporate",
+      "generational",
+      "growth",
+      "hunts",
+      "trading"
+    ],
+    "ts": 1795366467.595567
+  },
+  {
+    "id": "WP-MKTW-0005362999",
+    "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
+    "tokens": [
+      "brace",
+      "correction",
+      "heading",
+      "holiday",
+      "next",
+      "stocks",
+      "thanksgiving",
+      "what"
+    ],
+    "ts": 1795366475.1263506
+  },
+  {
+    "id": "WP-MKTW-0005363404",
+    "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
+    "tokens": [
+      "back",
+      "bounce",
+      "brutal",
+      "can",
+      "history",
+      "market",
+      "model",
+      "side",
+      "stocks",
+      "timing",
+      "week"
+    ],
+    "ts": 1795366483.3973494
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/iowa-detonation-of-lead-will-proceed-under-emergency-powers-army-says-bypassing-court-order-5044061",
+    "title": "Iowa detonation of lead will proceed under emergency powers, Army says, bypassing court order",
+    "tokens": [
+      "army",
+      "bypassing",
+      "court",
+      "detonation",
+      "emergency",
+      "iowa",
+      "lead",
+      "order",
+      "powers",
+      "proceed",
+      "under"
+    ],
+    "ts": 1795366491.0853581
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/crimson-wine-group-director-john-cumming-buys-100676-in-stock-93CH-5044059",
+    "title": "Crimson Wine Group director John Cumming buys $100,676 in stock",
+    "tokens": [
+      "100",
+      "676",
+      "buys",
+      "crimson",
+      "cumming",
+      "director",
+      "group",
+      "john",
+      "stock",
+      "wine"
+    ],
+    "ts": 1795366498.0866234
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
+    "title": "COP31 climate talks collapse as EU and others reject deal",
+    "tokens": [
+      "climate",
+      "collapse",
+      "cop31",
+      "deal",
+      "others",
+      "reject",
+      "talks"
+    ],
+    "ts": 1795366505.8701975
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/trustco-bank-director-buys-3398-in-company-stock-93CH-5044053",
+    "title": "Trustco Bank director buys $3,398 in company stock",
+    "tokens": [
+      "398",
+      "bank",
+      "buys",
+      "company",
+      "director",
+      "stock",
+      "trustco"
+    ],
+    "ts": 1795366514.050985
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/what-do-the-us-midterms-mean-for-investors-5044046",
+    "title": "What do the U.S. midterms mean for investors?",
+    "tokens": [
+      "investors",
+      "mean",
+      "midterms",
+      "what"
+    ],
+    "ts": 1795366521.900971
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
+    "title": "Asian countries take steps to aid stock markets after AI rout",
+    "tokens": [
+      "aid",
+      "asian",
+      "countries",
+      "markets",
+      "rout",
+      "steps",
+      "stock",
+      "take"
+    ],
+    "ts": 1795366530.3895254
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/crimson-wine-group-director-joseph-steinberg-acquires-100680-in-shares-93CH-5044032",
+    "title": "Crimson Wine Group director Joseph Steinberg acquires $100,680 in shares",
+    "tokens": [
+      "100",
+      "680",
+      "acquires",
+      "crimson",
+      "director",
+      "group",
+      "joseph",
+      "shares",
+      "steinberg",
+      "wine"
+    ],
+    "ts": 1795366537.5192916
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/organon-earnings-on-deck-as-sun-pharma-deal-looms-93CH-5044025",
+    "title": "Organon earnings on deck as Sun Pharma deal looms",
+    "tokens": [
+      "deal",
+      "deck",
+      "earnings",
+      "looms",
+      "organon",
+      "pharma",
+      "sun"
+    ],
+    "ts": 1795366545.4498484
+  },
+  {
+    "id": "https://www.investing.com/news/earnings/chipmos-earnings-up-next-can-packaging-specialist-sustain-growth-93CH-5044024",
+    "title": "ChipMOS earnings up next: Can packaging specialist sustain growth?",
+    "tokens": [
+      "can",
+      "chipmos",
+      "earnings",
+      "growth",
+      "next",
+      "packaging",
+      "specialist",
+      "sustain"
+    ],
+    "ts": 1795366553.6931326
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5044012",
+    "title": "’Black Friday’ brings consumer spending into focus for AI-rocked market",
+    "tokens": [
+      "black",
+      "brings",
+      "consumer",
+      "focus",
+      "friday",
+      "market",
+      "rocked",
+      "spending"
+    ],
+    "ts": 1795366561.608753
+  },
+  {
+    "id": "oilprice-article-46124",
+    "title": "The $25 Billion Problem Facing Australia’s Hydropower Revolution",
+    "tokens": [
+      "australia",
+      "billion",
+      "facing",
+      "hydropower",
+      "problem",
+      "revolution"
+    ],
+    "ts": 1795366571.1188495
+  },
+  {
+    "id": "f761552b-7843-4b58-b5f4-cffcc515beeb",
+    "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+    "tokens": [
+      "bitcoin",
+      "bridges",
+      "challenge",
+      "coins",
+      "custodians",
+      "extends",
+      "millions",
+      "quantum",
+      "security"
+    ],
+    "ts": 1795366578.9462712
+  },
+  {
+    "id": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity",
+    "title": "The future of onchain FX could start with users, not institutional liquidity",
+    "tokens": [
+      "could",
+      "future",
+      "institutional",
+      "liquidity",
+      "onchain",
+      "start",
+      "users"
+    ],
+    "ts": 1795366586.4181795
+  },
+  {
+    "id": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand",
+    "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+    "tokens": [
+      "17k",
+      "bitcoin",
+      "briefly",
+      "drops",
+      "exchange",
+      "kraken",
+      "trades",
+      "upholds"
+    ],
+    "ts": 1795366594.4165933
   }
 ]

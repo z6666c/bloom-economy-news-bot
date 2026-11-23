@@ -1,238 +1,5 @@
 [
   {
-    "id": "oilprice-article-45999",
-    "title": "How New York Plans to Turn Waste Heat Into Clean Energy",
-    "tokens": [
-      "clean",
-      "energy",
-      "heat",
-      "how",
-      "plans",
-      "turn",
-      "waste",
-      "york"
-    ],
-    "ts": 1794164368.190504
-  },
-  {
-    "id": "WP-MKTW-0005336188",
-    "title": "Nvidia’s board will probe CEO Jensen Huang’s relationship with an alleged spy. Here’s what to know.",
-    "tokens": [
-      "alleged",
-      "board",
-      "ceo",
-      "here",
-      "huang",
-      "jensen",
-      "know",
-      "nvidia",
-      "probe",
-      "relationship",
-      "spy",
-      "what"
-    ],
-    "ts": 1794177792.8933036
-  },
-  {
-    "id": "https://www.investing.com/news/forex-news/cryptocurrencies-slide-to-twomonth-lows-after-us-midterms-5010335",
-    "title": "Cryptocurrencies slide to two-month lows after US midterms",
-    "tokens": [
-      "cryptocurrencies",
-      "lows",
-      "midterms",
-      "month",
-      "slide",
-      "two"
-    ],
-    "ts": 1794177801.6805463
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/could-hbf-be-the-solution-to-the-memory-bottleneck-5010334",
-    "title": "Could HBF be the solution to the Memory bottleneck?",
-    "tokens": [
-      "bottleneck",
-      "could",
-      "hbf",
-      "memory",
-      "solution"
-    ],
-    "ts": 1794177810.8939757
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/onterris-acquires-ecoz-environmental-consultants-in-australia-93CH-5010333",
-    "title": "Onterris acquires EcOz Environmental Consultants in Australia",
-    "tokens": [
-      "acquires",
-      "australia",
-      "consultants",
-      "ecoz",
-      "environmental",
-      "onterris"
-    ],
-    "ts": 1794177821.041002
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/australian-lender-anz-reports-31-rise-in-fullyear-cash-profit-5010331",
-    "title": "Australian lender ANZ reports 31% rise in full-year cash profit",
-    "tokens": [
-      "anz",
-      "australian",
-      "cash",
-      "full",
-      "lender",
-      "profit",
-      "reports",
-      "rise",
-      "year"
-    ],
-    "ts": 1794177830.0375276
-  },
-  {
-    "id": "https://www.investing.com/news/cryptocurrency-news/eos-falls-12-in-selloff-5010329",
-    "title": "EOS Falls 12% In Selloff",
-    "tokens": [
-      "eos",
-      "falls",
-      "selloff"
-    ],
-    "ts": 1794177837.9233654
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/production-suspended-at-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-5010313",
-    "title": "Production suspended at Iraq’s Khor Mor gas field after drone attack, sources say",
-    "tokens": [
-      "attack",
-      "drone",
-      "field",
-      "gas",
-      "iraq",
-      "khor",
-      "mor",
-      "production",
-      "say",
-      "sources",
-      "suspended"
-    ],
-    "ts": 1794177846.73808
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
-    "title": "How a digital bank’s collapse toppled Paraguay’s president",
-    "tokens": [
-      "bank",
-      "collapse",
-      "digital",
-      "how",
-      "paraguay",
-      "president",
-      "toppled"
-    ],
-    "ts": 1794177855.0569384
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010323",
-    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-    "tokens": [
-      "close",
-      "index",
-      "lower",
-      "moex",
-      "russia",
-      "stocks",
-      "trade",
-      "unchanged"
-    ],
-    "ts": 1794177859.0659041
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308",
-    "title": "Nvidia CEO Huang admits to affair, apologizes to employees as probe launched",
-    "tokens": [
-      "admits",
-      "affair",
-      "apologizes",
-      "ceo",
-      "employees",
-      "huang",
-      "launched",
-      "nvidia",
-      "probe"
-    ],
-    "ts": 1794177866.3740413
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/beacon-financial-director-hughes-buys-6146-in-company-stock-93CH-5010317",
-    "title": "Beacon Financial director Hughes buys $6,146 in company stock",
-    "tokens": [
-      "146",
-      "beacon",
-      "buys",
-      "company",
-      "director",
-      "financial",
-      "hughes",
-      "stock"
-    ],
-    "ts": 1794177874.8937957
-  },
-  {
-    "id": "https://www.businessinsider.com/ive-had-it-podcast-charlie-kirk-joke-advertisers-chewy-2026-11",
-    "title": "Chewy and other companies pull ads from 'I've Had It' podcast after hosts laugh at 'insensitive' Charlie Kirk joke",
-    "tokens": [
-      "ads",
-      "charlie",
-      "chewy",
-      "companies",
-      "hosts",
-      "insensitive",
-      "joke",
-      "kirk",
-      "laugh",
-      "other",
-      "podcast",
-      "pull"
-    ],
-    "ts": 1794177884.3887026
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-trusted-investor-counsel-encourages-beneficient-investors-to-inquire-about-securities-class-action-investigation-benf-1036637039",
-    "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Beneficient Investors to Inquire About Securities Class Action Investigation - BENF",
-    "tokens": [
-      "about",
-      "action",
-      "beneficient",
-      "benf",
-      "class",
-      "counsel",
-      "encourages",
-      "inquire",
-      "investigation",
-      "investor",
-      "investors",
-      "rosen",
-      "securities",
-      "trusted"
-    ],
-    "ts": 1794177888.3976743
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/winter-paw-care-for-french-bulldogs-ice-salt-frostbite-guide-released-1036733534",
-    "title": "Winter Paw Care for French Bulldogs: Ice, Salt & Frostbite Guide Released",
-    "tokens": [
-      "bulldogs",
-      "care",
-      "french",
-      "frostbite",
-      "guide",
-      "ice",
-      "paw",
-      "released",
-      "salt",
-      "winter"
-    ],
-    "ts": 1794177893.0279388
-  },
-  {
     "id": "https://markets.businessinsider.com/news/currencies/kenyan-headquartered-fintech-yiksi-secures-south-african-fsca-authorisation-1036733522",
     "title": "Kenyan-Headquartered Fintech Yiksi Secures South African FSCA Authorisation",
     "tokens": [
@@ -23926,5 +23693,249 @@
       "seek"
     ],
     "ts": 1795386135.0253565
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/south-koreas-finance-minister-sees-solid-growth-next-year-flags-chip-volatility-risks-5044245",
+    "title": "South Korea’s finance minister sees solid growth next year, flags chip volatility risks",
+    "tokens": [
+      "chip",
+      "finance",
+      "flags",
+      "growth",
+      "korea",
+      "minister",
+      "next",
+      "risks",
+      "sees",
+      "solid",
+      "south",
+      "volatility",
+      "year"
+    ],
+    "ts": 1795402672.6807644
+  },
+  {
+    "id": "https://www.investing.com/news/economic-indicators/s-koreas-exports-more-than-double-in-first-20-days-of-nov-on-chip-boom-5044244",
+    "title": "S. Korea’s exports more than double in first 20 days of Nov on chip boom",
+    "tokens": [
+      "boom",
+      "chip",
+      "days",
+      "double",
+      "exports",
+      "first",
+      "korea",
+      "more",
+      "nov"
+    ],
+    "ts": 1795402680.8593419
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/exclusivelike-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-5043898",
+    "title": "Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+    "tokens": [
+      "anthropic",
+      "bankers",
+      "chafing",
+      "exclusive",
+      "ipo",
+      "like",
+      "process",
+      "ran",
+      "some",
+      "spacex",
+      "unusual"
+    ],
+    "ts": 1795402689.604271
+  },
+  {
+    "id": "https://www.investing.com/news/commodities-news/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-5044242",
+    "title": "Oil prices fall amid equity selloff though Iran war attacks limit losses",
+    "tokens": [
+      "attacks",
+      "equity",
+      "fall",
+      "iran",
+      "limit",
+      "losses",
+      "oil",
+      "prices",
+      "selloff",
+      "though",
+      "war"
+    ],
+    "ts": 1795402698.2687314
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/zepp-health-q3-2026-slides-show-mixed-results-widening-losses-93CH-5044239",
+    "title": "Zepp Health Q3 2026 slides show mixed results, widening losses",
+    "tokens": [
+      "2026",
+      "health",
+      "losses",
+      "mixed",
+      "results",
+      "show",
+      "slides",
+      "widening",
+      "zepp"
+    ],
+    "ts": 1795402707.155769
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-zepp-health-posts-mixed-q3-2026-results-as-stock-falls-93CH-5044238",
+    "title": "Earnings call transcript: Zepp Health posts mixed Q3 2026 results as stock falls",
+    "tokens": [
+      "2026",
+      "call",
+      "earnings",
+      "falls",
+      "health",
+      "mixed",
+      "posts",
+      "results",
+      "stock",
+      "transcript",
+      "zepp"
+    ],
+    "ts": 1795402715.561038
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/copper-rises-after-last-weeks-9-drop-on-ai-demand-concerns-93CH-5044234",
+    "title": "Copper rises after last week’s 9% drop on AI demand concerns",
+    "tokens": [
+      "concerns",
+      "copper",
+      "demand",
+      "drop",
+      "last",
+      "rises",
+      "week"
+    ],
+    "ts": 1795402723.677184
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/indias-rbi-expected-to-raise-rates-in-december-deliver-final-hike-in-february-5044233",
+    "title": "India’s RBI expected to raise rates in December, deliver final hike in February",
+    "tokens": [
+      "december",
+      "deliver",
+      "expected",
+      "february",
+      "final",
+      "hike",
+      "india",
+      "raise",
+      "rates",
+      "rbi"
+    ],
+    "ts": 1795402732.56722
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/donegal-group-svp-jeffery-hay-sells-343155-in-shares-93CH-5044231",
+    "title": "Donegal Group svp Jeffery Hay sells $343,155 in shares",
+    "tokens": [
+      "155",
+      "343",
+      "donegal",
+      "group",
+      "hay",
+      "jeffery",
+      "sells",
+      "shares",
+      "svp"
+    ],
+    "ts": 1795402740.9814906
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/is-a-52-november-run-the-start-or-the-end-for-this-aipicked-adtech-name-5044230",
+    "title": "Is a +52% November run the start or the end for this AI-picked ad-tech name?",
+    "tokens": [
+      "end",
+      "name",
+      "november",
+      "picked",
+      "run",
+      "start",
+      "tech"
+    ],
+    "ts": 1795402749.5524228
+  },
+  {
+    "id": "oilprice-article-46137",
+    "title": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet",
+    "tokens": [
+      "arrived",
+      "betting",
+      "hasn",
+      "markets",
+      "oil",
+      "surplus",
+      "yet"
+    ],
+    "ts": 1795402760.781696
+  },
+  {
+    "id": "oilprice-article-46136",
+    "title": "U.S. Energy Exports Hit Records as Global Competition Intensifies",
+    "tokens": [
+      "competition",
+      "energy",
+      "exports",
+      "global",
+      "hit",
+      "intensifies",
+      "records"
+    ],
+    "ts": 1795402768.8230076
+  },
+  {
+    "id": "oilprice-news-46137",
+    "title": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
+    "tokens": [
+      "break",
+      "could",
+      "despite",
+      "gas",
+      "plunge",
+      "prices",
+      "recent",
+      "record",
+      "thanksgiving"
+    ],
+    "ts": 1795402777.8910437
+  },
+  {
+    "id": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges",
+    "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+    "tokens": [
+      "dinner",
+      "exchanges",
+      "got",
+      "half",
+      "list",
+      "non",
+      "tokens",
+      "trump",
+      "wallets"
+    ],
+    "ts": 1795402786.191362
+  },
+  {
+    "id": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest",
+    "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+    "tokens": [
+      "big",
+      "bitcoin",
+      "digest",
+      "found",
+      "hodler",
+      "hold",
+      "ledgers",
+      "more",
+      "rebound",
+      "tampered"
+    ],
+    "ts": 1795402793.861179
   }
 ]

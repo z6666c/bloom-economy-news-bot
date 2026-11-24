@@ -1,912 +1,5 @@
 [
   {
-    "id": "WP-MKTW-0005337030",
-    "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-    "tokens": [
-      "amd",
-      "broadcom",
-      "nvidia",
-      "real",
-      "scandal",
-      "spy",
-      "winners"
-    ],
-    "ts": 1794255994.1761637
-  },
-  {
-    "id": "WP-MKTW-0005337486",
-    "title": "Think the bond market is broken? History says a massive turnaround could be coming.",
-    "tokens": [
-      "bond",
-      "broken",
-      "coming",
-      "could",
-      "history",
-      "market",
-      "massive",
-      "think",
-      "turnaround"
-    ],
-    "ts": 1794256001.220663
-  },
-  {
-    "id": "WP-MKTW-0005337148",
-    "title": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
-    "tokens": [
-      "consumer",
-      "cooled",
-      "fed",
-      "hasn",
-      "hike",
-      "hot",
-      "inflation",
-      "keep",
-      "off",
-      "prices",
-      "rate",
-      "rising",
-      "track"
-    ],
-    "ts": 1794256008.742164
-  },
-  {
-    "id": "WP-MKTW-0005337433",
-    "title": "His, mine or ours? I’m 53 and not sure how to handle merging finances with my long-term partner.",
-    "tokens": [
-      "finances",
-      "handle",
-      "his",
-      "how",
-      "long",
-      "merging",
-      "mine",
-      "ours",
-      "partner",
-      "sure",
-      "term"
-    ],
-    "ts": 1794256016.0664945
-  },
-  {
-    "id": "WP-MKTW-0005336251",
-    "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-    "tokens": [
-      "000",
-      "280",
-      "don",
-      "fight",
-      "his",
-      "husband",
-      "lose",
-      "retire",
-      "salary",
-      "unreasonable",
-      "want",
-      "worst"
-    ],
-    "ts": 1794256024.6816316
-  },
-  {
-    "id": "WP-MKTW-0005337374",
-    "title": "Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
-    "tokens": [
-      "drugs",
-      "glp",
-      "loss",
-      "other",
-      "ozempic",
-      "possible",
-      "risk",
-      "vision",
-      "zepbound"
-    ],
-    "ts": 1794256032.0688803
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/scynexis-at-guggenheim-healthcare-conference-dualpipeline-push-93CH-5013099",
-    "title": "SCYNEXIS at guggenheim healthcare conference: dual-pipeline push",
-    "tokens": [
-      "conference",
-      "dual",
-      "guggenheim",
-      "healthcare",
-      "pipeline",
-      "push",
-      "scynexis"
-    ],
-    "ts": 1794256039.8438632
-  },
-  {
-    "id": "https://www.investing.com/news/commodities-news/oil-falls-on-open-as-trump-says-fresh-iran-attacks-unlikely-5010359",
-    "title": "Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran",
-    "tokens": [
-      "barrel",
-      "iran",
-      "more",
-      "oil",
-      "post",
-      "restraint",
-      "settlement",
-      "signals",
-      "trade",
-      "trump"
-    ],
-    "ts": 1794256047.7503943
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/cisco-adds-claude-mythos-to-ai-defense-for-red-teaming-93CH-5013094",
-    "title": "Cisco adds Claude Mythos to AI Defense for red teaming",
-    "tokens": [
-      "adds",
-      "cisco",
-      "claude",
-      "defense",
-      "mythos",
-      "red",
-      "teaming"
-    ],
-    "ts": 1794256055.7258766
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/pge-reaches-1500-miles-of-underground-power-lines-milestone-93CH-5013092",
-    "title": "PG&E reaches 1,500 miles of underground power lines milestone",
-    "tokens": [
-      "500",
-      "lines",
-      "miles",
-      "milestone",
-      "power",
-      "reaches",
-      "underground"
-    ],
-    "ts": 1794256063.2099767
-  },
-  {
-    "id": "https://www.investing.com/news/company-news/kyndryl-launches-autonomous-operations-tool-for-servicenow-93CH-5013093",
-    "title": "Kyndryl launches autonomous operations tool for ServiceNow",
-    "tokens": [
-      "autonomous",
-      "kyndryl",
-      "launches",
-      "operations",
-      "servicenow",
-      "tool"
-    ],
-    "ts": 1794256070.7203453
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/walt-disney-and-skydance-eye-french-ligue-1-tv-rights--bloomberg-93CH-5013090",
-    "title": "Walt Disney and Skydance eye French Ligue 1 TV rights - Bloomberg",
-    "tokens": [
-      "bloomberg",
-      "disney",
-      "eye",
-      "french",
-      "ligue",
-      "rights",
-      "skydance",
-      "walt"
-    ],
-    "ts": 1794256077.6935825
-  },
-  {
-    "id": "https://www.investing.com/news/sec-filings/ribbon-acquisition-reschedules-shareholder-meeting-to-november-13-93CH-5013091",
-    "title": "Ribbon Acquisition reschedules shareholder meeting to November 13",
-    "tokens": [
-      "acquisition",
-      "meeting",
-      "november",
-      "reschedules",
-      "ribbon",
-      "shareholder"
-    ],
-    "ts": 1794256084.5267966
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/marqeta-at-citis-15th-annual-fintech-conference-growth-stays-strong-93CH-5013089",
-    "title": "Marqeta at Citi’s 15th Annual FinTech Conference: growth stays strong",
-    "tokens": [
-      "15th",
-      "annual",
-      "citi",
-      "conference",
-      "fintech",
-      "growth",
-      "marqeta",
-      "stays",
-      "strong"
-    ],
-    "ts": 1794256091.697706
-  },
-  {
-    "id": "https://www.investing.com/news/transcripts/eyepoint-at-guggenheim-conference-dme-becomes-the-main-focus-93CH-5013088",
-    "title": "EyePoint at Guggenheim conference: DME becomes the main focus",
-    "tokens": [
-      "becomes",
-      "conference",
-      "dme",
-      "eyepoint",
-      "focus",
-      "guggenheim",
-      "main"
-    ],
-    "ts": 1794256098.826261
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/us-opens-probe-into-2895-waymo-vehicles-over-school-bus-safety-violations-5011247",
-    "title": "US opens new probe into Waymo vehicles over school bus safety violations",
-    "tokens": [
-      "bus",
-      "opens",
-      "probe",
-      "safety",
-      "school",
-      "vehicles",
-      "violations",
-      "waymo"
-    ],
-    "ts": 1794256106.134444
-  },
-  {
-    "id": "https://seekingalpha.com/news/4669015-crude-oil-plunges-as-trump-says-renewed-iran-attacks-unlikely?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Crude oil plunges as Trump says renewed Iran attacks unlikely",
-    "tokens": [
-      "attacks",
-      "crude",
-      "iran",
-      "oil",
-      "plunges",
-      "renewed",
-      "trump",
-      "unlikely"
-    ],
-    "ts": 1794256114.0899384
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/aelf-acquires-two-airbus-a330-aircraft-on-lease-to-wamos-air-1036737759",
-    "title": "AELF Acquires Two Airbus A330 Aircraft on Lease to Wamos Air",
-    "tokens": [
-      "a330",
-      "acquires",
-      "aelf",
-      "air",
-      "airbus",
-      "aircraft",
-      "lease",
-      "two",
-      "wamos"
-    ],
-    "ts": 1794256121.955467
-  },
-  {
-    "id": "https://seekingalpha.com/news/4669032-nasdaq-100-surges-3-as-tech-experiences-a-strong-rebound?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Nasdaq-100 surges 3% as tech experiences a strong rebound",
-    "tokens": [
-      "100",
-      "experiences",
-      "nasdaq",
-      "rebound",
-      "strong",
-      "surges",
-      "tech"
-    ],
-    "ts": 1794256128.8883355
-  },
-  {
-    "id": "https://seekingalpha.com/news/4669011-fed-needs-to-come-to-terms-with-inflation-chicago-feds-goolsbee-says?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Fed needs to 'come to terms' with inflation, Chicago Fed's Goolsbee says",
-    "tokens": [
-      "chicago",
-      "come",
-      "fed",
-      "goolsbee",
-      "inflation",
-      "needs",
-      "terms"
-    ],
-    "ts": 1794256136.564718
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/inventus-raises-1-3-million-through-exercise-of-warrants-mcewen-inc-increases-ownership-to-13-and-ceo-participates-1036737754",
-    "title": "Inventus Raises $1.3 Million Through Exercise of Warrants; McEwen Inc. Increases Ownership to 13% and CEO Participates",
-    "tokens": [
-      "ceo",
-      "exercise",
-      "inc",
-      "increases",
-      "inventus",
-      "mcewen",
-      "million",
-      "ownership",
-      "participates",
-      "raises",
-      "through",
-      "warrants"
-    ],
-    "ts": 1794256144.3243105
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/ferrari-n-v-periodic-report-on-the-buyback-program-1036737753",
-    "title": "FERRARI N.V.: PERIODIC REPORT ON THE BUYBACK PROGRAM",
-    "tokens": [
-      "buyback",
-      "ferrari",
-      "periodic",
-      "program",
-      "report"
-    ],
-    "ts": 1794256151.2572238
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/wellnessvials-launches-research-peptide-catalogue-for-canadian-laboratories-1036737760",
-    "title": "WellnessVials Launches Research Peptide Catalogue for Canadian Laboratories",
-    "tokens": [
-      "canadian",
-      "catalogue",
-      "laboratories",
-      "launches",
-      "peptide",
-      "research",
-      "wellnessvials"
-    ],
-    "ts": 1794256158.5355403
-  },
-  {
-    "id": "https://seekingalpha.com/news/4669031-kkr-and-co-declares-0_195-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "KKR & Co. declares $0.195 dividend",
-    "tokens": [
-      "195",
-      "declares",
-      "dividend",
-      "kkr"
-    ],
-    "ts": 1794256166.2791731
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/loom-security-recognized-as-a-crn-2026-stellar-startup-1036737751",
-    "title": "Loom Security Recognized as a CRN® 2026 Stellar Startup",
-    "tokens": [
-      "2026",
-      "crn",
-      "loom",
-      "recognized",
-      "security",
-      "startup",
-      "stellar"
-    ],
-    "ts": 1794256174.3448455
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/latham-pools-unveils-the-winners-of-its-2026-photo-contest-1036737752",
-    "title": "Latham Pools Unveils the Winners of Its 2026 Photo Contest",
-    "tokens": [
-      "2026",
-      "contest",
-      "latham",
-      "photo",
-      "pools",
-      "unveils",
-      "winners"
-    ],
-    "ts": 1794256181.637996
-  },
-  {
-    "id": "oilprice-news-46015",
-    "title": "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack",
-    "tokens": [
-      "attack",
-      "brent",
-      "crashes",
-      "despite",
-      "fresh",
-      "hopes",
-      "iran",
-      "peace",
-      "pipeline",
-      "saudi"
-    ],
-    "ts": 1794256189.9032197
-  },
-  {
-    "id": "oilprice-article-46015",
-    "title": "Europe’s Raw Material Future Lies Next Door, If It Does Not Repeat the Past",
-    "tokens": [
-      "does",
-      "door",
-      "europe",
-      "future",
-      "lies",
-      "material",
-      "next",
-      "past",
-      "raw",
-      "repeat"
-    ],
-    "ts": 1794256197.131887
-  },
-  {
-    "id": "oilprice-article-46012",
-    "title": "Central Asia Confronts Growing Threat of AI-Enabled Extremism",
-    "tokens": [
-      "asia",
-      "central",
-      "confronts",
-      "enabled",
-      "extremism",
-      "growing",
-      "threat"
-    ],
-    "ts": 1794256204.706472
-  },
-  {
-    "id": "oilprice-article-46014",
-    "title": "The AI Power Grab That Could Upend America's Electricity Industry",
-    "tokens": [
-      "america",
-      "could",
-      "electricity",
-      "grab",
-      "industry",
-      "power",
-      "upend"
-    ],
-    "ts": 1794256212.2014272
-  },
-  {
-    "id": "oilprice-news-46013",
-    "title": "Murphy Oil Bets on Israeli Gas Near Leviathan",
-    "tokens": [
-      "bets",
-      "gas",
-      "israeli",
-      "leviathan",
-      "murphy",
-      "near",
-      "oil"
-    ],
-    "ts": 1794256221.3118382
-  },
-  {
-    "id": "oilprice-news-46014",
-    "title": "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels",
-    "tokens": [
-      "attacked",
-      "climbs",
-      "levels",
-      "opec",
-      "output",
-      "pipeline",
-      "pre",
-      "saudi",
-      "war"
-    ],
-    "ts": 1794256229.1381066
-  },
-  {
-    "id": "oilprice-article-46011",
-    "title": "Global LNG Markets Face a Winter of Extreme Uncertainty",
-    "tokens": [
-      "extreme",
-      "face",
-      "global",
-      "lng",
-      "markets",
-      "uncertainty",
-      "winter"
-    ],
-    "ts": 1794256237.7713344
-  },
-  {
-    "id": "oilprice-news-46012",
-    "title": "Europe’s Power Prices Jump to 2022 High as Wind and Solar Falter",
-    "tokens": [
-      "2022",
-      "europe",
-      "falter",
-      "high",
-      "jump",
-      "power",
-      "prices",
-      "solar",
-      "wind"
-    ],
-    "ts": 1794256245.370846
-  },
-  {
-    "id": "oilprice-article-46013",
-    "title": "After Midterm Failure, Trump’s Foreign Strategy May Be Even More Dangerous",
-    "tokens": [
-      "dangerous",
-      "even",
-      "failure",
-      "foreign",
-      "may",
-      "midterm",
-      "more",
-      "strategy",
-      "trump"
-    ],
-    "ts": 1794256253.0815432
-  },
-  {
-    "id": "oilprice-news-46011",
-    "title": "COP31 Opens in Antalya With a UN Push for Faster Climate Action",
-    "tokens": [
-      "action",
-      "antalya",
-      "climate",
-      "cop31",
-      "faster",
-      "opens",
-      "push"
-    ],
-    "ts": 1794256260.6419964
-  },
-  {
-    "id": "e18a6b29-531c-4d9a-9a6a-659e898ee4c4",
-    "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
-    "tokens": [
-      "backs",
-      "companies",
-      "even",
-      "ice",
-      "most",
-      "okx",
-      "opt",
-      "platform",
-      "robinhood",
-      "stock",
-      "tokenization"
-    ],
-    "ts": 1794256270.0347388
-  },
-  {
-    "id": "48756fa3-0649-4751-8054-dcd7834ee2d2",
-    "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-    "tokens": [
-      "180",
-      "2015",
-      "bitcoin",
-      "block",
-      "fees",
-      "just",
-      "neared",
-      "only",
-      "paid",
-      "record",
-      "transaction"
-    ],
-    "ts": 1794256277.771656
-  },
-  {
-    "id": "4d8d0534-ca8d-4bde-b066-66fec76ca474",
-    "title": "Google’s AI chip push adds more pressure on Nvidia",
-    "tokens": [
-      "adds",
-      "chip",
-      "google",
-      "more",
-      "nvidia",
-      "pressure",
-      "push"
-    ],
-    "ts": 1794256285.3218076
-  },
-  {
-    "id": "d9fe6660-302e-4d75-b2a1-ba278bba6244",
-    "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-    "tokens": [
-      "billion",
-      "binance",
-      "creating",
-      "hack",
-      "hackers",
-      "korean",
-      "loot",
-      "memecoins",
-      "north",
-      "wash"
-    ],
-    "ts": 1794256293.022831
-  },
-  {
-    "id": "10721083-51f9-4644-9d25-59797a4da822",
-    "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-    "tokens": [
-      "avalanche",
-      "blockchain",
-      "nyse",
-      "picks",
-      "race",
-      "settle",
-      "stocks",
-      "street",
-      "tokenized",
-      "wall"
-    ],
-    "ts": 1794256300.8668942
-  },
-  {
-    "id": "d5a5d4b9-0c72-4566-adaa-f0773c5701b4",
-    "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-    "tokens": [
-      "first",
-      "framework",
-      "galaxy",
-      "listing",
-      "sec",
-      "set",
-      "solana",
-      "stock",
-      "tokenized",
-      "under",
-      "venue"
-    ],
-    "ts": 1794256309.346156
-  },
-  {
-    "id": "06c6b1d7-5fea-4fb4-bd3c-0a0826b9eb2c",
-    "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-    "tokens": [
-      "about",
-      "challenges",
-      "filings",
-      "justin",
-      "knows",
-      "liberty",
-      "nothing",
-      "sun",
-      "ties",
-      "trump",
-      "uae",
-      "world"
-    ],
-    "ts": 1794256318.000849
-  },
-  {
-    "id": "0000bc31-6477-4c8a-b663-e31d3de20e61",
-    "title": "Bitcoin bulls can't rely on ETF flows",
-    "tokens": [
-      "bitcoin",
-      "bulls",
-      "can",
-      "etf",
-      "flows",
-      "rely"
-    ],
-    "ts": 1794256325.744456
-  },
-  {
-    "id": "8ba3575e-9b46-4a0c-b07d-71e3dfc7a0e4",
-    "title": "Nvidia-led tech selloff weighs on crypto majors",
-    "tokens": [
-      "crypto",
-      "led",
-      "majors",
-      "nvidia",
-      "selloff",
-      "tech",
-      "weighs"
-    ],
-    "ts": 1794256333.324082
-  },
-  {
-    "id": "bfb75c34-6049-4fb2-bc21-930fa11063ee",
-    "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
-    "tokens": [
-      "blocks",
-      "days",
-      "developers",
-      "just",
-      "major",
-      "second",
-      "speed",
-      "upgrade",
-      "want",
-      "zcash"
-    ],
-    "ts": 1794256341.7838643
-  },
-  {
-    "id": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption",
-    "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-    "tokens": [
-      "exemption",
-      "formation",
-      "plans",
-      "sec",
-      "securities",
-      "solana",
-      "stock",
-      "trading",
-      "under",
-      "venue"
-    ],
-    "ts": 1794256349.5949125
-  },
-  {
-    "id": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended",
-    "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-    "tokens": [
-      "begins",
-      "bitcoin",
-      "hack",
-      "mercado",
-      "post",
-      "reopening",
-      "timeline",
-      "withdrawals",
-      "without"
-    ],
-    "ts": 1794256356.9245303
-  },
-  {
-    "id": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase",
-    "title": "PNC Bank tests turning USDC payments into dollar deposits",
-    "tokens": [
-      "bank",
-      "deposits",
-      "dollar",
-      "payments",
-      "pnc",
-      "tests",
-      "turning",
-      "usdc"
-    ],
-    "ts": 1794256364.8361478
-  },
-  {
-    "id": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal",
-    "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-    "tokens": [
-      "avalanche",
-      "avax",
-      "crypto",
-      "deal",
-      "following",
-      "gains",
-      "leads",
-      "nyse",
-      "tokenization"
-    ],
-    "ts": 1794256372.5399146
-  },
-  {
-    "id": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target",
-    "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
-    "tokens": [
-      "68k",
-      "analyst",
-      "bitcoin",
-      "brush",
-      "mulls",
-      "nerves",
-      "nvidia",
-      "off",
-      "stocks",
-      "target",
-      "tech"
-    ],
-    "ts": 1794256380.5157773
-  },
-  {
-    "id": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack",
-    "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
-    "tokens": [
-      "analysts",
-      "binance",
-      "broader",
-      "contagion",
-      "hack",
-      "see"
-    ],
-    "ts": 1794256388.13121
-  },
-  {
-    "id": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules",
-    "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
-    "tokens": [
-      "85b",
-      "binance",
-      "freeze",
-      "hackers",
-      "lost",
-      "needs",
-      "rules",
-      "shows",
-      "stablecoin",
-      "why"
-    ],
-    "ts": 1794256395.4216373
-  },
-  {
-    "id": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc",
-    "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-    "tokens": [
-      "036",
-      "364",
-      "850",
-      "bitcoin",
-      "btc",
-      "buys",
-      "climb",
-      "holdings",
-      "strategy"
-    ],
-    "ts": 1794256402.8180435
-  },
-  {
-    "id": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group",
-    "title": "EU taps industry to set standards for tokenized securities",
-    "tokens": [
-      "industry",
-      "securities",
-      "set",
-      "standards",
-      "taps",
-      "tokenized"
-    ],
-    "ts": 1794256410.1386826
-  },
-  {
-    "id": "WP-MKTW-0005336598",
-    "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
-    "tokens": [
-      "access",
-      "ago",
-      "china",
-      "chips",
-      "claims",
-      "company",
-      "helping",
-      "isn",
-      "megaspeed",
-      "months",
-      "nvidia",
-      "only",
-      "saw",
-      "scandal",
-      "seller",
-      "short",
-      "signs",
-      "who"
-    ],
-    "ts": 1794279093.3014488
-  },
-  {
-    "id": "WP-MKTW-0005338192",
-    "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
-    "tokens": [
-      "company",
-      "defining",
-      "dip",
-      "lab",
-      "mark",
-      "misses",
-      "quarter",
-      "rocket",
-      "shares"
-    ],
-    "ts": 1794279101.3499646
-  },
-  {
-    "id": "WP-MKTW-0005338360",
-    "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-    "tokens": [
-      "bernie",
-      "generations",
-      "here",
-      "how",
-      "keep",
-      "sanders",
-      "security",
-      "social",
-      "solvent",
-      "wants"
-    ],
-    "ts": 1794279110.1575875
-  },
-  {
     "id": "WP-MKTW-0005337527",
     "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
     "tokens": [
@@ -23885,5 +22978,947 @@
       "warns"
     ],
     "ts": 1795435870.4443343
+  },
+  {
+    "id": "WP-MKTW-0005366294",
+    "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+    "tokens": [
+      "500",
+      "addition",
+      "cream",
+      "ice",
+      "machines",
+      "maker",
+      "newest",
+      "viral"
+    ],
+    "ts": 1795477980.8051095
+  },
+  {
+    "id": "WP-MKTW-0005365162",
+    "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
+    "tokens": [
+      "again",
+      "before",
+      "chasing",
+      "know",
+      "nvidia",
+      "rally",
+      "stock",
+      "surging",
+      "what"
+    ],
+    "ts": 1795477988.9649413
+  },
+  {
+    "id": "WP-MKTW-0005365860",
+    "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+    "tokens": [
+      "best",
+      "day",
+      "enthusiasm",
+      "huang",
+      "jensen",
+      "more",
+      "return",
+      "revives",
+      "see",
+      "stocks",
+      "year"
+    ],
+    "ts": 1795477997.2358131
+  },
+  {
+    "id": "WP-MKTW-0005364927",
+    "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
+    "tokens": [
+      "500",
+      "among",
+      "bet",
+      "biggest",
+      "consumer",
+      "cracks",
+      "losers",
+      "monday",
+      "safe",
+      "seen",
+      "stocks",
+      "trade"
+    ],
+    "ts": 1795478004.9721627
+  },
+  {
+    "id": "WP-MKTW-0005365186",
+    "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
+    "tokens": [
+      "biggest",
+      "gainers",
+      "huang",
+      "jensen",
+      "nvidia",
+      "return",
+      "stocks",
+      "these"
+    ],
+    "ts": 1795478011.8774428
+  },
+  {
+    "id": "WP-MKTW-0005365238",
+    "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
+    "tokens": [
+      "amazon",
+      "cheap",
+      "chips",
+      "found",
+      "get",
+      "just",
+      "lot",
+      "may",
+      "more",
+      "way"
+    ],
+    "ts": 1795478019.2865107
+  },
+  {
+    "id": "WP-MKTW-0005365890",
+    "title": "HPE just posted its strongest growth ever — but its stock is wavering",
+    "tokens": [
+      "ever",
+      "growth",
+      "hpe",
+      "just",
+      "posted",
+      "stock",
+      "strongest",
+      "wavering"
+    ],
+    "ts": 1795478026.493887
+  },
+  {
+    "id": "WP-MKTW-0005365301",
+    "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+    "tokens": [
+      "bet",
+      "big",
+      "cash",
+      "coreweave",
+      "flowing",
+      "gains",
+      "investors",
+      "keep",
+      "oracle",
+      "stage",
+      "stocks"
+    ],
+    "ts": 1795478033.784172
+  },
+  {
+    "id": "WP-MKTW-0005365305",
+    "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+    "tokens": [
+      "biggest",
+      "day",
+      "gain",
+      "get",
+      "history",
+      "market",
+      "nvidia",
+      "one",
+      "sellers",
+      "short",
+      "smoked",
+      "stock",
+      "tallies"
+    ],
+    "ts": 1795478041.672196
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/visa-chief-risk-officer-fabara-sells-589680-in-company-stock-93CH-5046697",
+    "title": "Visa chief risk officer Fabara sells $589,680 in company stock",
+    "tokens": [
+      "589",
+      "680",
+      "chief",
+      "company",
+      "fabara",
+      "officer",
+      "risk",
+      "sells",
+      "stock",
+      "visa"
+    ],
+    "ts": 1795478050.2589962
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/roblox-chief-legal-officer-mark-reinstra-sells-815558-in-rblx-stock-93CH-5046689",
+    "title": "Roblox chief legal officer Mark Reinstra sells $815,558 in RBLX stock",
+    "tokens": [
+      "558",
+      "815",
+      "chief",
+      "legal",
+      "mark",
+      "officer",
+      "rblx",
+      "reinstra",
+      "roblox",
+      "sells",
+      "stock"
+    ],
+    "ts": 1795478057.4181218
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/roblox-ceo-david-baszucki-sells-239m-in-shares-for-tax-obligations-93CH-5046688",
+    "title": "Roblox CEO David Baszucki sells $2.39M in shares for tax obligations",
+    "tokens": [
+      "39m",
+      "baszucki",
+      "ceo",
+      "david",
+      "obligations",
+      "roblox",
+      "sells",
+      "shares",
+      "tax"
+    ],
+    "ts": 1795478066.1870697
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/roblox-chief-people--systems-officer-sells-269218-in-stock-93CH-5046687",
+    "title": "Roblox chief people & systems officer sells $269,218 in stock.",
+    "tokens": [
+      "218",
+      "269",
+      "chief",
+      "officer",
+      "people",
+      "roblox",
+      "sells",
+      "stock",
+      "systems"
+    ],
+    "ts": 1795478073.1239977
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/roblox-chief-safety-officer-matthew-kaufman-sells-677750-in-stock-93CH-5046686",
+    "title": "Roblox chief safety officer Matthew Kaufman sells $677,750 in stock",
+    "tokens": [
+      "677",
+      "750",
+      "chief",
+      "kaufman",
+      "matthew",
+      "officer",
+      "roblox",
+      "safety",
+      "sells",
+      "stock"
+    ],
+    "ts": 1795478080.3826187
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/anthropic-options-debut-with-brisk-volume-5046078",
+    "title": "Anthropic options post solid debut, trailing SpaceX record",
+    "tokens": [
+      "anthropic",
+      "debut",
+      "options",
+      "post",
+      "record",
+      "solid",
+      "spacex",
+      "trailing"
+    ],
+    "ts": 1795478087.6747103
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/hpe-q4-fy26-slides-ai-orders-hit-57b-revenue-up-50-93CH-5046683",
+    "title": "HPE Q4 FY26 slides: AI orders hit $5.7B, revenue up 50%",
+    "tokens": [
+      "fy26",
+      "hit",
+      "hpe",
+      "orders",
+      "revenue",
+      "slides"
+    ],
+    "ts": 1795478095.3840783
+  },
+  {
+    "id": "https://www.investing.com/news/company-news/aroa-biosurgery-h1-fy27-slides-myriad-drives-57-growth-margins-expand-93CH-5046682",
+    "title": "Aroa Biosurgery H1 FY27 slides: Myriad drives 57% growth, margins expand",
+    "tokens": [
+      "aroa",
+      "biosurgery",
+      "drives",
+      "expand",
+      "fy27",
+      "growth",
+      "margins",
+      "myriad",
+      "slides"
+    ],
+    "ts": 1795478102.988262
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/hawthorn-bancshares-updates-ceo-employment-agreement-with-revised-terms-93CH-5046681",
+    "title": "Hawthorn Bancshares updates CEO employment agreement with revised terms",
+    "tokens": [
+      "agreement",
+      "bancshares",
+      "ceo",
+      "employment",
+      "hawthorn",
+      "revised",
+      "terms",
+      "updates"
+    ],
+    "ts": 1795478109.909371
+  },
+  {
+    "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-zoom-beats-q3-2026-estimates-stock-slips-after-hours-93CH-5046680",
+    "title": "Earnings call transcript: Zoom beats Q3 2026 estimates, stock slips after hours",
+    "tokens": [
+      "2026",
+      "beats",
+      "call",
+      "earnings",
+      "estimates",
+      "hours",
+      "slips",
+      "stock",
+      "transcript",
+      "zoom"
+    ],
+    "ts": 1795478117.325836
+  },
+  {
+    "id": "https://www.businessinsider.com/jensen-huang-return-to-nvidia-wall-street-reaction-nvda-2026-11",
+    "title": "‘Jensen’s judgment remains under question’: What Wall Street analysts are saying about Huang’s comeback",
+    "tokens": [
+      "about",
+      "analysts",
+      "comeback",
+      "huang",
+      "jensen",
+      "judgment",
+      "question",
+      "remains",
+      "saying",
+      "street",
+      "under",
+      "wall",
+      "what"
+    ],
+    "ts": 1795478124.2867289
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/ncla-victory-department-of-labor-rescinds-unlawful-independent-contractor-rule-1036793239",
+    "title": "NCLA Victory: Department of Labor Rescinds Unlawful Independent Contractor Rule",
+    "tokens": [
+      "contractor",
+      "department",
+      "independent",
+      "labor",
+      "ncla",
+      "rescinds",
+      "rule",
+      "unlawful",
+      "victory"
+    ],
+    "ts": 1795478131.7101674
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/intersection-a-new-public-artwork-installed-at-the-south-shore-entrance-to-the-jacques-cartier-bridge-1036793192",
+    "title": "Intersection, a new public artwork installed at the South Shore entrance to the Jacques Cartier Bridge",
+    "tokens": [
+      "artwork",
+      "bridge",
+      "cartier",
+      "entrance",
+      "installed",
+      "intersection",
+      "jacques",
+      "public",
+      "shore",
+      "south"
+    ],
+    "ts": 1795478138.9762154
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/smx-is-taking-ai-from-artificial-to-industrial-1036793191",
+    "title": "SMX Is Taking AI From Artificial to Industrial",
+    "tokens": [
+      "artificial",
+      "industrial",
+      "smx",
+      "taking"
+    ],
+    "ts": 1795478145.9347148
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/quantum-leap-healthcare-collaborative-opens-enrollment-to-i-spy-arm-testing-vidutolimod-plus-cemiplimab-in-early-stage-breast-cancer-1036793180",
+    "title": "Quantum Leap Healthcare Collaborative Opens Enrollment to I-SPY Arm Testing Vidutolimod Plus Cemiplimab in Early-Stage Breast Cancer",
+    "tokens": [
+      "arm",
+      "breast",
+      "cancer",
+      "cemiplimab",
+      "collaborative",
+      "early",
+      "enrollment",
+      "healthcare",
+      "leap",
+      "opens",
+      "plus",
+      "quantum",
+      "spy",
+      "stage",
+      "testing",
+      "vidutolimod"
+    ],
+    "ts": 1795478153.3901885
+  },
+  {
+    "id": "https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11",
+    "title": "Jensen Huang returns to Nvidia HQ to cheers: 'I'm going to be a better CEO the second time around'",
+    "tokens": [
+      "around",
+      "better",
+      "ceo",
+      "cheers",
+      "going",
+      "huang",
+      "jensen",
+      "nvidia",
+      "returns",
+      "second",
+      "time"
+    ],
+    "ts": 1795478161.3363063
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/qe-manufacturing-receives-a-silver-partner2win-medallion-at-bae-systems-eighth-annual-supplier-symposium-1036793179",
+    "title": "QE Manufacturing Receives a Silver ‘Partner2Win’ Medallion at BAE Systems’ Eighth Annual Supplier Symposium",
+    "tokens": [
+      "annual",
+      "bae",
+      "eighth",
+      "manufacturing",
+      "medallion",
+      "partner2win",
+      "receives",
+      "silver",
+      "supplier",
+      "symposium",
+      "systems"
+    ],
+    "ts": 1795478168.6878915
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/operation-fortress-azio-ai-advances-fort-buchanan-and-lake-city-army-microgrids-concurrently-powered-by-its-atlas-one-playbook-1036793176",
+    "title": "Operation Fortress: AZIO AI Advances Fort Buchanan and Lake City Army Microgrids Concurrently, Powered by Its Atlas One Playbook",
+    "tokens": [
+      "advances",
+      "army",
+      "atlas",
+      "azio",
+      "buchanan",
+      "city",
+      "concurrently",
+      "fort",
+      "fortress",
+      "lake",
+      "microgrids",
+      "one",
+      "operation",
+      "playbook",
+      "powered"
+    ],
+    "ts": 1795478175.9720087
+  },
+  {
+    "id": "https://www.businessinsider.com/trumps-biggest-bombshells-cnbc-interview-jensen-huang-return-2026-11",
+    "title": "The biggest bombshells from Trump's Jensen Huang victory lap on CNBC",
+    "tokens": [
+      "biggest",
+      "bombshells",
+      "cnbc",
+      "huang",
+      "jensen",
+      "lap",
+      "trump",
+      "victory"
+    ],
+    "ts": 1795478183.139123
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/brazil-s-six-biomes-offer-travelers-a-journey-through-the-country-s-natural-diversity-1036793087",
+    "title": "Brazil's Six Biomes Offer Travelers a Journey Through the Country's Natural Diversity",
+    "tokens": [
+      "biomes",
+      "brazil",
+      "country",
+      "diversity",
+      "journey",
+      "natural",
+      "offer",
+      "six",
+      "through",
+      "travelers"
+    ],
+    "ts": 1795478190.6715055
+  },
+  {
+    "id": "oilprice-article-46143",
+    "title": "Quantum Computing Could Accelerate the Energy Transition",
+    "tokens": [
+      "accelerate",
+      "computing",
+      "could",
+      "energy",
+      "quantum",
+      "transition"
+    ],
+    "ts": 1795478198.3528094
+  },
+  {
+    "id": "oilprice-article-46142",
+    "title": "5 Energy Stocks That Can Shrug Off a December Fed Rate Hike",
+    "tokens": [
+      "can",
+      "december",
+      "energy",
+      "fed",
+      "hike",
+      "off",
+      "rate",
+      "shrug",
+      "stocks"
+    ],
+    "ts": 1795478206.2533991
+  },
+  {
+    "id": "oilprice-article-46145",
+    "title": "Will Batteries Kill Off Gas Turbines at Data Centers",
+    "tokens": [
+      "batteries",
+      "centers",
+      "data",
+      "gas",
+      "kill",
+      "off",
+      "turbines"
+    ],
+    "ts": 1795478213.3393567
+  },
+  {
+    "id": "oilprice-article-46147",
+    "title": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals",
+    "tokens": [
+      "biggest",
+      "iran",
+      "risks",
+      "rivals",
+      "strategy",
+      "strengthening",
+      "washington"
+    ],
+    "ts": 1795478220.4217794
+  },
+  {
+    "id": "oilprice-news-46147",
+    "title": "ConocoPhillips to Exit Norway in $4.43 Billion Deal with Vaar Energi",
+    "tokens": [
+      "billion",
+      "conocophillips",
+      "deal",
+      "energi",
+      "exit",
+      "norway",
+      "vaar"
+    ],
+    "ts": 1795478228.9126441
+  },
+  {
+    "id": "oilprice-article-46139",
+    "title": "Why Blocking the Sun Won't Solve the Climate Crisis",
+    "tokens": [
+      "blocking",
+      "climate",
+      "crisis",
+      "solve",
+      "sun",
+      "why",
+      "won"
+    ],
+    "ts": 1795478235.9156122
+  },
+  {
+    "id": "oilprice-news-46144",
+    "title": "Pakistan and Iran Move to Boost Energy Cooperation",
+    "tokens": [
+      "boost",
+      "cooperation",
+      "energy",
+      "iran",
+      "move",
+      "pakistan"
+    ],
+    "ts": 1795478243.3467224
+  },
+  {
+    "id": "oilprice-article-46144",
+    "title": "The Energy Transition Needs More Metals but Less Extraction",
+    "tokens": [
+      "energy",
+      "extraction",
+      "less",
+      "metals",
+      "more",
+      "needs",
+      "transition"
+    ],
+    "ts": 1795478250.7209044
+  },
+  {
+    "id": "oilprice-news-46143",
+    "title": "Japan’s Electricity Prices Surge to 2022 High as Cold Weather Arrives",
+    "tokens": [
+      "2022",
+      "arrives",
+      "cold",
+      "electricity",
+      "high",
+      "japan",
+      "prices",
+      "surge",
+      "weather"
+    ],
+    "ts": 1795478258.1280622
+  },
+  {
+    "id": "oilprice-article-46140",
+    "title": "America’s Biggest Oil Export Port Faces Thousands of Cyberattack Attempts",
+    "tokens": [
+      "america",
+      "attempts",
+      "biggest",
+      "cyberattack",
+      "export",
+      "faces",
+      "oil",
+      "port",
+      "thousands"
+    ],
+    "ts": 1795478265.9323065
+  },
+  {
+    "id": "b462ef8f-2b39-4b0a-ba55-bac4240d32be",
+    "title": "New York judge declines to block Kalshi from operating in the state for now",
+    "tokens": [
+      "block",
+      "declines",
+      "judge",
+      "kalshi",
+      "now",
+      "operating",
+      "state",
+      "york"
+    ],
+    "ts": 1795478273.718119
+  },
+  {
+    "id": "63e8696a-f262-4c33-9849-23e6bec4740f",
+    "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+    "tokens": [
+      "backed",
+      "ceo",
+      "despite",
+      "faces",
+      "huang",
+      "jensen",
+      "nvidia",
+      "return",
+      "scrutiny",
+      "senate",
+      "trump"
+    ],
+    "ts": 1795478281.9465888
+  },
+  {
+    "id": "fd8ebb24-1c0f-4fec-984e-8032d53e35b4",
+    "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
+    "tokens": [
+      "already",
+      "bang",
+      "bitcoin",
+      "losing",
+      "rebound",
+      "returns",
+      "steam",
+      "trade"
+    ],
+    "ts": 1795478289.491159
+  },
+  {
+    "id": "6d66dfea-158c-471f-a320-ecdbdecb0394",
+    "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
+    "tokens": [
+      "ark",
+      "cathie",
+      "crypto",
+      "etfs",
+      "invest",
+      "planned",
+      "plug",
+      "pulls",
+      "two",
+      "wood"
+    ],
+    "ts": 1795478297.3607354
+  },
+  {
+    "id": "b1a213c4-b347-4f36-b298-a33cd92d1ab4",
+    "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+    "tokens": [
+      "247",
+      "binance",
+      "cloud",
+      "designed",
+      "hackers",
+      "million",
+      "push",
+      "source",
+      "through",
+      "transactions"
+    ],
+    "ts": 1795478305.0198238
+  },
+  {
+    "id": "635efcd2-5888-4738-bf6c-614989953cd3",
+    "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
+    "tokens": [
+      "150",
+      "against",
+      "american",
+      "backed",
+      "bitcoin",
+      "eric",
+      "loan",
+      "million",
+      "secures",
+      "trump"
+    ],
+    "ts": 1795478312.6854923
+  },
+  {
+    "id": "901ee6d4-e580-4656-9467-f39e89987050",
+    "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
+    "tokens": [
+      "bitcoin",
+      "fading",
+      "fed",
+      "great",
+      "left",
+      "narratives",
+      "nearly",
+      "return",
+      "what",
+      "year",
+      "zero"
+    ],
+    "ts": 1795478320.4940333
+  },
+  {
+    "id": "31499019-a786-4bec-835c-2f20fd9cea0f",
+    "title": "Nvidia soars as Jensen Huang returns to lead company",
+    "tokens": [
+      "company",
+      "huang",
+      "jensen",
+      "lead",
+      "nvidia",
+      "returns",
+      "soars"
+    ],
+    "ts": 1795478328.4705334
+  },
+  {
+    "id": "09c85484-e132-4773-8192-6c2f4c2c80d7",
+    "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
+    "tokens": [
+      "etoro",
+      "fidelity",
+      "ice",
+      "investments",
+      "join",
+      "okx",
+      "securities",
+      "strive",
+      "tokenized",
+      "venue"
+    ],
+    "ts": 1795478335.7033312
+  },
+  {
+    "id": "d7373583-5802-46ee-ae3b-aedfdd65d84e",
+    "title": "Live updates: Bitcoin climbs only modestly as Nasdaq soars 6% on Huang return",
+    "tokens": [
+      "bitcoin",
+      "climbs",
+      "huang",
+      "live",
+      "modestly",
+      "nasdaq",
+      "only",
+      "return",
+      "soars",
+      "updates"
+    ],
+    "ts": 1795478343.6946077
+  },
+  {
+    "id": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
+    "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+    "tokens": [
+      "bitcoin",
+      "can",
+      "cftc",
+      "count",
+      "exchanges",
+      "operating",
+      "reserves",
+      "say",
+      "staff",
+      "toward"
+    ],
+    "ts": 1795478351.3423417
+  },
+  {
+    "id": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack",
+    "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+    "tokens": [
+      "binance",
+      "crypto",
+      "hack",
+      "korea",
+      "linked",
+      "north",
+      "recover",
+      "seeks",
+      "stolen"
+    ],
+    "ts": 1795478358.7212434
+  },
+  {
+    "id": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute",
+    "title": "Kalshi secures temporary win in New York gambling law dispute",
+    "tokens": [
+      "dispute",
+      "gambling",
+      "kalshi",
+      "law",
+      "secures",
+      "temporary",
+      "win",
+      "york"
+    ],
+    "ts": 1795478366.0904667
+  },
+  {
+    "id": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn",
+    "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+    "tokens": [
+      "44m",
+      "btcs",
+      "debt",
+      "defi",
+      "downturn",
+      "eth",
+      "market",
+      "offloads",
+      "reduce"
+    ],
+    "ts": 1795478373.431508
+  },
+  {
+    "id": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks",
+    "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+    "tokens": [
+      "2027",
+      "base",
+      "makes",
+      "priority",
+      "quantum",
+      "regulators",
+      "risks",
+      "security",
+      "warn"
+    ],
+    "ts": 1795478380.7297883
+  },
+  {
+    "id": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks",
+    "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
+    "tokens": [
+      "companies",
+      "cuomo",
+      "okxice",
+      "opt",
+      "rivals",
+      "stocks",
+      "tokenized",
+      "urged"
+    ],
+    "ts": 1795478389.0183527
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations",
+    "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
+    "tokens": [
+      "500m",
+      "55k",
+      "bitcoin",
+      "crypto",
+      "liquidations",
+      "lows",
+      "nvidia",
+      "rally",
+      "rebounds",
+      "sparks"
+    ],
+    "ts": 1795478396.3405685
+  },
+  {
+    "id": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans",
+    "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+    "tokens": [
+      "250k",
+      "backed",
+      "bank",
+      "bitcoin",
+      "cross",
+      "enters",
+      "lending",
+      "loans",
+      "river"
+    ],
+    "ts": 1795478404.1132672
+  },
+  {
+    "id": "https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale",
+    "title": "How market depth shapes the price of a weekend Bitcoin sale",
+    "tokens": [
+      "bitcoin",
+      "depth",
+      "how",
+      "market",
+      "price",
+      "sale",
+      "shapes",
+      "weekend"
+    ],
+    "ts": 1795478411.4818635
   }
 ]

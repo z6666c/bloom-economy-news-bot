@@ -1,619 +1,5 @@
 [
   {
-    "id": "https://seekingalpha.com/news/4671671-sprott-physical-gold-trust-usd-reports-q3-results?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "Sprott Physical Gold Trust USD reports Q3 results",
-    "tokens": [
-      "gold",
-      "physical",
-      "reports",
-      "results",
-      "sprott",
-      "trust",
-      "usd"
-    ],
-    "ts": 1794523182.030926
-  },
-  {
-    "id": "https://seekingalpha.com/news/4671657-fomc-drops-october-policy-decision-from-2027-tentative-meetings-schedule?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "FOMC drops October policy decision from 2027 tentative meetings schedule",
-    "tokens": [
-      "2027",
-      "decision",
-      "drops",
-      "fomc",
-      "meetings",
-      "october",
-      "policy",
-      "schedule",
-      "tentative"
-    ],
-    "ts": 1794523191.5691643
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/currencies/timeplast-launches-regulation-a-offering-to-license-its-water-soluble-plastic-across-product-categories-1036757335",
-    "title": "Timeplast Launches Regulation A+ Offering to License Its Water-Soluble Plastic Across Product Categories",
-    "tokens": [
-      "across",
-      "categories",
-      "launches",
-      "license",
-      "offering",
-      "plastic",
-      "product",
-      "regulation",
-      "soluble",
-      "timeplast",
-      "water"
-    ],
-    "ts": 1794523202.3289578
-  },
-  {
-    "id": "https://seekingalpha.com/news/4671670-aleanna-gaap-eps-of-0_09-revenue-of-20_51m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-    "title": "AleAnna GAAP EPS of $0.09, revenue of $20.51M",
-    "tokens": [
-      "51m",
-      "aleanna",
-      "eps",
-      "gaap",
-      "revenue"
-    ],
-    "ts": 1794523211.6195369
-  },
-  {
-    "id": "https://markets.businessinsider.com/news/stocks/rosen-leading-investor-counsel-encourages-duolingo-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-duol-1036631395",
-    "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Duolingo, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - DUOL",
-    "tokens": [
-      "action",
-      "before",
-      "class",
-      "counsel",
-      "deadline",
-      "duol",
-      "duolingo",
-      "encourages",
-      "important",
-      "inc",
-      "investor",
-      "investors",
-      "leading",
-      "rosen",
-      "secure",
-      "securities"
-    ],
-    "ts": 1794523215.6324341
-  },
-  {
-    "id": "oilprice-article-46048",
-    "title": "More Drilling Won’t Shield U.S. Consumers From Oil Price Shocks",
-    "tokens": [
-      "consumers",
-      "drilling",
-      "more",
-      "oil",
-      "price",
-      "shield",
-      "shocks",
-      "won"
-    ],
-    "ts": 1794523222.0360944
-  },
-  {
-    "id": "oilprice-article-46047",
-    "title": "Europe Enters Winter With Its Lowest Gas Inventory of the 2020s",
-    "tokens": [
-      "2020s",
-      "enters",
-      "europe",
-      "gas",
-      "inventory",
-      "lowest",
-      "winter"
-    ],
-    "ts": 1794523234.3802211
-  },
-  {
-    "id": "oilprice-news-46052",
-    "title": "$7 Billion in Oil Debt Has Nigerian Banks Holding Back Lending",
-    "tokens": [
-      "back",
-      "banks",
-      "billion",
-      "debt",
-      "holding",
-      "lending",
-      "nigerian",
-      "oil"
-    ],
-    "ts": 1794523244.1608782
-  },
-  {
-    "id": "oilprice-article-46046",
-    "title": "Central Asia’s B20 Message to Washington: Let’s Make Deals",
-    "tokens": [
-      "asia",
-      "b20",
-      "central",
-      "deals",
-      "let",
-      "make",
-      "message",
-      "washington"
-    ],
-    "ts": 1794523254.530505
-  },
-  {
-    "id": "oilprice-article-46045",
-    "title": "Record Car Prices Are Pushing American Drivers Deeper Into Debt",
-    "tokens": [
-      "american",
-      "car",
-      "debt",
-      "deeper",
-      "drivers",
-      "prices",
-      "pushing",
-      "record"
-    ],
-    "ts": 1794523265.0126827
-  },
-  {
-    "id": "oilprice-article-46050",
-    "title": "Argentina Could Overtake Chile as South America’s Top Lithium Producer by 2035",
-    "tokens": [
-      "2035",
-      "america",
-      "argentina",
-      "chile",
-      "could",
-      "lithium",
-      "overtake",
-      "producer",
-      "south",
-      "top"
-    ],
-    "ts": 1794523277.2537382
-  },
-  {
-    "id": "oilprice-article-46052",
-    "title": "EIA Data Shows Builds in Crude, Gasoline and Distillates",
-    "tokens": [
-      "builds",
-      "crude",
-      "data",
-      "distillates",
-      "eia",
-      "gasoline",
-      "shows"
-    ],
-    "ts": 1794523288.3251393
-  },
-  {
-    "id": "oilprice-news-46050",
-    "title": "Brent Briefly Hits $96 After Trump Says U.S. Has No Need for Iran Deal",
-    "tokens": [
-      "brent",
-      "briefly",
-      "deal",
-      "hits",
-      "iran",
-      "need",
-      "trump"
-    ],
-    "ts": 1794523298.7959096
-  },
-  {
-    "id": "oilprice-article-46044",
-    "title": "Soaring Electricity Costs Force Britain to Rethink Its Green Agenda",
-    "tokens": [
-      "agenda",
-      "britain",
-      "costs",
-      "electricity",
-      "force",
-      "green",
-      "rethink",
-      "soaring"
-    ],
-    "ts": 1794523309.3151789
-  },
-  {
-    "id": "oilprice-news-46048",
-    "title": "UK Vows Global Climate Leadership as PM Doubles Down on Net Zero",
-    "tokens": [
-      "climate",
-      "doubles",
-      "global",
-      "leadership",
-      "net",
-      "vows",
-      "zero"
-    ],
-    "ts": 1794523313.327747
-  },
-  {
-    "id": "cc5f135c-1342-4f8b-b5e8-e3fa5b7f133b",
-    "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
-    "tokens": [
-      "1789",
-      "advisory",
-      "capital",
-      "contract",
-      "donald",
-      "ends",
-      "investment",
-      "kalshi",
-      "polymarket",
-      "trump"
-    ],
-    "ts": 1794523321.3736596
-  },
-  {
-    "id": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express",
-    "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
-    "tokens": [
-      "adds",
-      "asia",
-      "equities",
-      "express",
-      "hackers",
-      "hong",
-      "join",
-      "kong",
-      "memecoin",
-      "trenches",
-      "xstocks"
-    ],
-    "ts": 1794523331.8479068
-  },
-  {
-    "id": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
-    "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-    "tokens": [
-      "advisory",
-      "donald",
-      "ends",
-      "investment",
-      "kalshi",
-      "polymarket",
-      "reuters",
-      "role",
-      "trump"
-    ],
-    "ts": 1794523343.3876934
-  },
-  {
-    "id": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin",
-    "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
-    "tokens": [
-      "bitcoin",
-      "index",
-      "msci",
-      "off",
-      "removal",
-      "sell",
-      "sheds",
-      "stock",
-      "strategy"
-    ],
-    "ts": 1794523361.3016353
-  },
-  {
-    "id": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
-    "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
-    "tokens": [
-      "business",
-      "challenge",
-      "crypto",
-      "defi",
-      "department",
-      "firms",
-      "groups",
-      "illinois",
-      "justice",
-      "tax"
-    ],
-    "ts": 1794523372.4250777
-  },
-  {
-    "id": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access",
-    "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
-    "tokens": [
-      "access",
-      "dtcc",
-      "expansion",
-      "limit",
-      "plans",
-      "rules",
-      "solana",
-      "wallet"
-    ],
-    "ts": 1794523381.9783309
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-    "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-    "tokens": [
-      "2027",
-      "adjust",
-      "announces",
-      "banks",
-      "board",
-      "changes",
-      "check",
-      "credit",
-      "effective",
-      "federal",
-      "january",
-      "payment",
-      "pricing",
-      "provide",
-      "reserve",
-      "services",
-      "streamline",
-      "their",
-      "unions"
-    ],
-    "ts": 1794523392.3200395
-  },
-  {
-    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-    "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-    "tokens": [
-      "2027",
-      "announces",
-      "committee",
-      "federal",
-      "market",
-      "meetings",
-      "open",
-      "reserve",
-      "revised",
-      "schedule",
-      "tentative"
-    ],
-    "ts": 1794523402.6416686
-  },
-  {
-    "id": "WP-MKTW-0005344471",
-    "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-    "tokens": [
-      "buzzing",
-      "can",
-      "ceo",
-      "circles",
-      "four",
-      "huang",
-      "jensen",
-      "names",
-      "nvidia",
-      "replace",
-      "these",
-      "who"
-    ],
-    "ts": 1794538568.3969955
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/larimar-therapeutics-president-and-ceo-carole-benmaimon-acquires-49953-in-stock-93CH-5023982",
-    "title": "Larimar Therapeutics president and CEO Carole Ben-Maimon acquires $49,953 in stock",
-    "tokens": [
-      "953",
-      "acquires",
-      "ben",
-      "carole",
-      "ceo",
-      "larimar",
-      "maimon",
-      "president",
-      "stock",
-      "therapeutics"
-    ],
-    "ts": 1794538579.4884212
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/brookdale-senior-living-director-winkle-buys-358068-in-stock-93CH-5023981",
-    "title": "Brookdale Senior Living director Winkle buys $358,068 in stock",
-    "tokens": [
-      "068",
-      "358",
-      "brookdale",
-      "buys",
-      "director",
-      "living",
-      "senior",
-      "stock",
-      "winkle"
-    ],
-    "ts": 1794538590.393573
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/hinge-health-cfo-james-budge-sells-437m-in-stock-prices-1195212334-93CH-5023980",
-    "title": "Hinge Health CFO James Budge sells $4.37M in stock, prices $119.52-$123.34",
-    "tokens": [
-      "119",
-      "123",
-      "37m",
-      "budge",
-      "cfo",
-      "health",
-      "hinge",
-      "james",
-      "prices",
-      "sells",
-      "stock"
-    ],
-    "ts": 1794538601.1706414
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/pagaya-cfo-dobres-sells-174420-in-class-a-ordinary-shares-93CH-5023979",
-    "title": "Pagaya CFO Dobres sells $174,420 in class A ordinary shares",
-    "tokens": [
-      "174",
-      "420",
-      "cfo",
-      "class",
-      "dobres",
-      "ordinary",
-      "pagaya",
-      "sells",
-      "shares"
-    ],
-    "ts": 1794538610.8797147
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/cryoport-director-daniel-hancock-sells-15m-of-stock-93CH-5023971",
-    "title": "Cryoport director Daniel Hancock sells $1.5M of stock",
-    "tokens": [
-      "cryoport",
-      "daniel",
-      "director",
-      "hancock",
-      "sells",
-      "stock"
-    ],
-    "ts": 1794538622.1169946
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/garrett-ferencz-trueblue-evp-sells-170010-in-company-stock-93CH-5023969",
-    "title": "Garrett Ferencz, TrueBlue evp, sells $170,010 in company stock",
-    "tokens": [
-      "010",
-      "170",
-      "company",
-      "evp",
-      "ferencz",
-      "garrett",
-      "sells",
-      "stock",
-      "trueblue"
-    ],
-    "ts": 1794538632.282938
-  },
-  {
-    "id": "https://www.investing.com/news/insider-trading-news/richard-campbell-south-plains-financial-director-sells-107m-in-stock-93CH-5023970",
-    "title": "Richard Campbell, South Plains Financial director, sells $1.07M in stock",
-    "tokens": [
-      "07m",
-      "campbell",
-      "director",
-      "financial",
-      "plains",
-      "richard",
-      "sells",
-      "south",
-      "stock"
-    ],
-    "ts": 1794538641.228933
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/jefferies-sees-107-upside-in-this-aifocused-semiconductor-stock-5023959",
-    "title": "Jefferies sees 107% upside in this AI-focused semiconductor stock",
-    "tokens": [
-      "107",
-      "focused",
-      "jefferies",
-      "sees",
-      "semiconductor",
-      "stock",
-      "upside"
-    ],
-    "ts": 1794538652.0639045
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-5021980",
-    "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
-    "tokens": [
-      "blow",
-      "boom",
-      "ceo",
-      "foster",
-      "helped",
-      "huang",
-      "jensen",
-      "nvidia",
-      "resigns"
-    ],
-    "ts": 1794538662.4803226
-  },
-  {
-    "id": "https://www.investing.com/news/stock-market-news/250-striped-socks-keep-familymart-a-step-ahead-in-japans-conbini-wars-5023958",
-    "title": "$2.50 striped socks keep FamilyMart a step ahead in Japan’s ’conbini’ wars",
-    "tokens": [
-      "ahead",
-      "conbini",
-      "familymart",
-      "japan",
-      "keep",
-      "socks",
-      "step",
-      "striped",
-      "wars"
-    ],
-    "ts": 1794538672.5737107
-  },
-  {
-    "id": "oilprice-article-46053",
-    "title": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
-    "tokens": [
-      "alarm",
-      "china",
-      "earth",
-      "general",
-      "leverage",
-      "military",
-      "rare",
-      "sounds",
-      "wars"
-    ],
-    "ts": 1794538683.0559936
-  },
-  {
-    "id": "oilprice-article-46051",
-    "title": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
-    "tokens": [
-      "between",
-      "escalation",
-      "hopes",
-      "iran",
-      "oil",
-      "peace",
-      "prices",
-      "risk",
-      "squeezed"
-    ],
-    "ts": 1794538693.1633694
-  },
-  {
-    "id": "oilprice-article-46049",
-    "title": "Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line",
-    "tokens": [
-      "ends",
-      "fields",
-      "first",
-      "line",
-      "monopoly",
-      "oil",
-      "power",
-      "venezuela",
-      "year"
-    ],
-    "ts": 1794538703.4652286
-  },
-  {
-    "id": "oilprice-news-46053",
-    "title": "$7 Billion in Oil Debt Has Nigerian Banks Holding Back Lending",
-    "tokens": [
-      "back",
-      "banks",
-      "billion",
-      "debt",
-      "holding",
-      "lending",
-      "nigerian",
-      "oil"
-    ],
-    "ts": 1794538707.4769688
-  },
-  {
     "id": "8386d8a3-5d10-4b36-a62b-6731862dbb7b",
     "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
     "tokens": [
@@ -23782,5 +23168,670 @@
       "taps"
     ],
     "ts": 1795790919.9831567
+  },
+  {
+    "id": "WP-MKTW-0005371805",
+    "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+    "tokens": [
+      "during",
+      "highlighted",
+      "huang",
+      "most",
+      "nvidia",
+      "return",
+      "soared",
+      "stocks",
+      "these",
+      "week",
+      "wild"
+    ],
+    "ts": 1795820367.038209
+  },
+  {
+    "id": "WP-MKTW-0005365989",
+    "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+    "tokens": [
+      "000",
+      "640",
+      "advantage",
+      "almost",
+      "choices",
+      "coming",
+      "coverage",
+      "drug",
+      "fewer",
+      "medicare",
+      "next",
+      "people",
+      "plans",
+      "rest",
+      "without",
+      "year"
+    ],
+    "ts": 1795820375.4946482
+  },
+  {
+    "id": "WP-MKTW-0005371499",
+    "title": "The warnings behind this week’s stock-market rally",
+    "tokens": [
+      "behind",
+      "market",
+      "rally",
+      "stock",
+      "warnings",
+      "week"
+    ],
+    "ts": 1795820383.8272126
+  },
+  {
+    "id": "WP-MKTW-0005370707",
+    "title": "My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
+    "tokens": [
+      "afterward",
+      "card",
+      "credit",
+      "dinner",
+      "friends",
+      "one",
+      "pays",
+      "play",
+      "roulette",
+      "say",
+      "see",
+      "should",
+      "something",
+      "still",
+      "venmoed",
+      "who",
+      "winner"
+    ],
+    "ts": 1795820393.3123255
+  },
+  {
+    "id": "WP-MKTW-0005371689",
+    "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+    "tokens": [
+      "artificial",
+      "breaking",
+      "economics",
+      "exploding",
+      "foundational",
+      "intelligence",
+      "rule",
+      "spending",
+      "stalling",
+      "usage",
+      "why",
+      "yet"
+    ],
+    "ts": 1795820401.1488216
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/heartsciences-to-exchange-33-million-in-debt-for-class-a-common-stock-after-merger-93CH-5053961",
+    "title": "HeartSciences to exchange $3.3 million in debt for Class A common stock after merger",
+    "tokens": [
+      "class",
+      "common",
+      "debt",
+      "exchange",
+      "heartsciences",
+      "merger",
+      "million",
+      "stock"
+    ],
+    "ts": 1795820412.207953
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/sp-lifts-south-africa-ratings-on-improving-fiscal-position-5053922",
+    "title": "S&P lifts South Africa ratings on improving fiscal position",
+    "tokens": [
+      "africa",
+      "fiscal",
+      "improving",
+      "lifts",
+      "position",
+      "ratings",
+      "south"
+    ],
+    "ts": 1795820420.5086257
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/olenox-industries-issues-unregistered-shares-for-board-fees-acquisition-and-services-93CH-5053960",
+    "title": "Olenox Industries issues unregistered shares for board fees, acquisition, and services",
+    "tokens": [
+      "acquisition",
+      "board",
+      "fees",
+      "industries",
+      "issues",
+      "olenox",
+      "services",
+      "shares",
+      "unregistered"
+    ],
+    "ts": 1795820428.957529
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/silver-bow-mining-reaches-proposed-799799-epa-settlement-for-superfund-site-93CH-5053959",
+    "title": "Silver Bow Mining reaches proposed $799,799 EPA settlement for Superfund site",
+    "tokens": [
+      "799",
+      "bow",
+      "epa",
+      "mining",
+      "proposed",
+      "reaches",
+      "settlement",
+      "silver",
+      "site",
+      "superfund"
+    ],
+    "ts": 1795820437.4424703
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/iqstel-receives-nasdaq-notice-on-minimum-bid-price-requirement-93CH-5053957",
+    "title": "iQSTEL receives Nasdaq notice on minimum bid price requirement",
+    "tokens": [
+      "bid",
+      "iqstel",
+      "minimum",
+      "nasdaq",
+      "notice",
+      "price",
+      "receives",
+      "requirement"
+    ],
+    "ts": 1795820445.8390536
+  },
+  {
+    "id": "https://www.investing.com/news/insider-trading-news/ies-holdings-ceo-buys-41150-in-common-stock-93CH-5053955",
+    "title": "IES Holdings CEO buys $41,150 in common stock",
+    "tokens": [
+      "150",
+      "buys",
+      "ceo",
+      "common",
+      "holdings",
+      "ies",
+      "stock"
+    ],
+    "ts": 1795820454.1893547
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/viatris-director-w-don-cornwell-to-retire-from-board-effective-december-1-93CH-5053945",
+    "title": "Viatris director W. Don Cornwell to retire from board effective December 1",
+    "tokens": [
+      "board",
+      "cornwell",
+      "december",
+      "director",
+      "don",
+      "effective",
+      "retire",
+      "viatris"
+    ],
+    "ts": 1795820463.319879
+  },
+  {
+    "id": "https://www.investing.com/news/sec-filings/miller-industries-regains-nyse-compliance-after-audit-committee-change-93CH-5053944",
+    "title": "Miller Industries regains NYSE compliance after audit committee change",
+    "tokens": [
+      "audit",
+      "change",
+      "committee",
+      "compliance",
+      "industries",
+      "miller",
+      "nyse",
+      "regains"
+    ],
+    "ts": 1795820471.685558
+  },
+  {
+    "id": "https://www.investing.com/news/stock-market-news/glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis-5053937",
+    "title": "Glass Lewis backs Vail Resorts board in proxy fight with activist Oasis",
+    "tokens": [
+      "activist",
+      "backs",
+      "board",
+      "fight",
+      "glass",
+      "lewis",
+      "oasis",
+      "proxy",
+      "resorts",
+      "vail"
+    ],
+    "ts": 1795820480.2880905
+  },
+  {
+    "id": "https://www.investing.com/news/economy-news/sliding-stock-market-confronts-jobs-data-rate-view-as-next-tests-5053316",
+    "title": "Volatile stock market confronts jobs data, rate view as next tests",
+    "tokens": [
+      "confronts",
+      "data",
+      "jobs",
+      "market",
+      "next",
+      "rate",
+      "stock",
+      "tests",
+      "view",
+      "volatile"
+    ],
+    "ts": 1795820489.364398
+  },
+  {
+    "id": "https://www.businessinsider.com/jewish-groups-slam-pro-palestine-ad-snl-fcc-2026-11",
+    "title": "'No more for Israel' ad aired during 'SNL' Thanksgiving special draws backlash from Jewish groups",
+    "tokens": [
+      "aired",
+      "backlash",
+      "draws",
+      "during",
+      "groups",
+      "israel",
+      "jewish",
+      "more",
+      "snl",
+      "special",
+      "thanksgiving"
+    ],
+    "ts": 1795820497.656086
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-news-branicks-group-ag-allocates-acquisition-rights-for-new-subordinated-notes-as-part-of-green-bond-restructuring-1036806102",
+    "title": "EQS-News: Branicks Group AG Allocates Acquisition Rights for New Subordinated Notes as Part of Green Bond Restructuring",
+    "tokens": [
+      "acquisition",
+      "allocates",
+      "bond",
+      "branicks",
+      "eqs",
+      "green",
+      "group",
+      "news",
+      "notes",
+      "part",
+      "restructuring",
+      "rights",
+      "subordinated"
+    ],
+    "ts": 1795820506.0062802
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/currencies/aies-2026-announces-expanded-international-participation-ahead-of-hong-kong-summit-1036806118",
+    "title": "AIES 2026 Announces Expanded International Participation Ahead of Hong Kong Summit",
+    "tokens": [
+      "2026",
+      "ahead",
+      "aies",
+      "announces",
+      "expanded",
+      "hong",
+      "international",
+      "kong",
+      "participation",
+      "summit"
+    ],
+    "ts": 1795820516.3765507
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-afr-cpi-europe-ag-release-of-a-financial-report-1036806095",
+    "title": "EQS-AFR: CPI Europe AG: Release of a Financial report",
+    "tokens": [
+      "afr",
+      "cpi",
+      "eqs",
+      "europe",
+      "financial",
+      "release",
+      "report"
+    ],
+    "ts": 1795820524.3893774
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-pva-tepla-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036806068",
+    "title": "EQS-PVR: PVA TePla AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "tokens": [
+      "according",
+      "act",
+      "article",
+      "distribution",
+      "eqs",
+      "europe",
+      "german",
+      "objective",
+      "pva",
+      "pvr",
+      "release",
+      "section",
+      "securities",
+      "tepla",
+      "trading",
+      "wide",
+      "wphg"
+    ],
+    "ts": 1795820528.401444
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-news-cpi-europe-announces-unaudited-financial-results-for-the-first-three-quarters-of-2026-1036806072",
+    "title": "EQS-News: CPI Europe announces unaudited financial results for the first three quarters of 2026",
+    "tokens": [
+      "2026",
+      "announces",
+      "cpi",
+      "eqs",
+      "europe",
+      "financial",
+      "first",
+      "news",
+      "quarters",
+      "results",
+      "three",
+      "unaudited"
+    ],
+    "ts": 1795820532.372336
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-pva-tepla-ag-correction-of-a-release-from-15-10-2026-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036806067",
+    "title": "EQS-PVR: PVA TePla AG: Correction of a release from 15/10/2026 according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "tokens": [
+      "2026",
+      "according",
+      "act",
+      "article",
+      "correction",
+      "distribution",
+      "eqs",
+      "europe",
+      "german",
+      "objective",
+      "pva",
+      "pvr",
+      "release",
+      "section",
+      "securities",
+      "tepla",
+      "trading",
+      "wide",
+      "wphg"
+    ],
+    "ts": 1795820536.384475
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-norma-group-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036806071",
+    "title": "EQS-PVR: NORMA Group SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "tokens": [
+      "according",
+      "act",
+      "article",
+      "distribution",
+      "eqs",
+      "europe",
+      "german",
+      "group",
+      "norma",
+      "objective",
+      "pvr",
+      "release",
+      "section",
+      "securities",
+      "trading",
+      "wide",
+      "wphg"
+    ],
+    "ts": 1795820536.3963838
+  },
+  {
+    "id": "https://seekingalpha.com/news/4677070-psychedelic-stocks-gain-lundbeck-eyes-deals?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "title": "Dutch drugmaker Lundbeck reportedly eyeing deals in psychedelic space",
+    "tokens": [
+      "deals",
+      "drugmaker",
+      "dutch",
+      "eyeing",
+      "lundbeck",
+      "psychedelic",
+      "reportedly",
+      "space"
+    ],
+    "ts": 1795820540.9386384
+  },
+  {
+    "id": "https://markets.businessinsider.com/news/stocks/eqs-pvr-pva-tepla-ag-correction-of-a-release-from-12-10-2026-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036806061",
+    "title": "EQS-PVR: PVA TePla AG: Correction of a release from 12/10/2026 according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "tokens": [
+      "2026",
+      "according",
+      "act",
+      "article",
+      "correction",
+      "distribution",
+      "eqs",
+      "europe",
+      "german",
+      "objective",
+      "pva",
+      "pvr",
+      "release",
+      "section",
+      "securities",
+      "tepla",
+      "trading",
+      "wide",
+      "wphg"
+    ],
+    "ts": 1795820544.9508638
+  },
+  {
+    "id": "oilprice-article-46187",
+    "title": "Georgia Voters to Decide Fate of $17 Billion Data Center Megaproject",
+    "tokens": [
+      "billion",
+      "center",
+      "data",
+      "decide",
+      "fate",
+      "georgia",
+      "megaproject",
+      "voters"
+    ],
+    "ts": 1795820549.9424584
+  },
+  {
+    "id": "oilprice-news-46197",
+    "title": "OPEC+ Faces Growing Pressure As Iraq Pushes for Higher Quota",
+    "tokens": [
+      "faces",
+      "growing",
+      "higher",
+      "iraq",
+      "opec",
+      "pressure",
+      "pushes",
+      "quota"
+    ],
+    "ts": 1795820557.960046
+  },
+  {
+    "id": "oilprice-article-46197",
+    "title": "The Oil Glut Everyone Expected Is Looking Increasingly Elusive",
+    "tokens": [
+      "elusive",
+      "everyone",
+      "expected",
+      "glut",
+      "increasingly",
+      "looking",
+      "oil"
+    ],
+    "ts": 1795820567.748258
+  },
+  {
+    "id": "oilprice-article-46175",
+    "title": "Soaring Fuel Prices Threaten to Push More Airlines Into Bankruptcy",
+    "tokens": [
+      "airlines",
+      "bankruptcy",
+      "fuel",
+      "more",
+      "prices",
+      "push",
+      "soaring",
+      "threaten"
+    ],
+    "ts": 1795820576.450803
+  },
+  {
+    "id": "oilprice-article-46185",
+    "title": "Trump Urges Putin to End Aggression as Europe Braces for U.S. Military Cuts",
+    "tokens": [
+      "aggression",
+      "braces",
+      "cuts",
+      "end",
+      "europe",
+      "military",
+      "putin",
+      "trump",
+      "urges"
+    ],
+    "ts": 1795820584.1640372
+  },
+  {
+    "id": "oilprice-news-46187",
+    "title": "U.S. Encouraged Iraq and Venezuela to Leave OPEC, Sources Say",
+    "tokens": [
+      "encouraged",
+      "iraq",
+      "leave",
+      "opec",
+      "say",
+      "sources",
+      "venezuela"
+    ],
+    "ts": 1795820588.175921
+  },
+  {
+    "id": "oilprice-news-46185",
+    "title": "South Sudan Readies Licensing Round to Boost Oil Production",
+    "tokens": [
+      "boost",
+      "licensing",
+      "oil",
+      "production",
+      "readies",
+      "round",
+      "south",
+      "sudan"
+    ],
+    "ts": 1795820588.187503
+  },
+  {
+    "id": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf",
+    "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+    "tokens": [
+      "crypto",
+      "etf",
+      "franklin",
+      "hype",
+      "index",
+      "makes",
+      "room",
+      "templeton"
+    ],
+    "ts": 1795820593.2883492
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion",
+    "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+    "tokens": [
+      "bitcoin",
+      "btc",
+      "cushion",
+      "despite",
+      "pile",
+      "profit",
+      "shrinking",
+      "whales"
+    ],
+    "ts": 1795820601.4466827
+  },
+  {
+    "id": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations",
+    "title": "China sets March 2027 rollout for blockchain identity regulations",
+    "tokens": [
+      "2027",
+      "blockchain",
+      "china",
+      "identity",
+      "march",
+      "regulations",
+      "rollout",
+      "sets"
+    ],
+    "ts": 1795820609.5826347
+  },
+  {
+    "id": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound",
+    "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+    "tokens": [
+      "59k",
+      "anthropic",
+      "below",
+      "bitcoin",
+      "drops",
+      "joins",
+      "price",
+      "rebound",
+      "stock",
+      "tech"
+    ],
+    "ts": 1795820617.2373078
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+    "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+    "tokens": [
+      "2027",
+      "adjust",
+      "announces",
+      "banks",
+      "board",
+      "changes",
+      "check",
+      "credit",
+      "effective",
+      "federal",
+      "january",
+      "payment",
+      "pricing",
+      "provide",
+      "reserve",
+      "services",
+      "streamline",
+      "their",
+      "unions"
+    ],
+    "ts": 1795820625.6024365
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+    "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+    "tokens": [
+      "2027",
+      "announces",
+      "committee",
+      "federal",
+      "market",
+      "meetings",
+      "open",
+      "reserve",
+      "revised",
+      "schedule",
+      "tentative"
+    ],
+    "ts": 1795820633.5296338
   }
 ]
